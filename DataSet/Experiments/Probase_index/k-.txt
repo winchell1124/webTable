@@ -1,0 +1,1254 @@
+accessory	k-cups	1
+datum	k- two  assessment datum 	1
+resource	k- nine 	2
+resource	k-state news service	1
+resource	k- nine  drug detection dog 	1
+facility	k- twelve  school 	1
+facility	k- twenty-five  building 	1
+process	k-span arches produced by automatic building machine	1
+source	k-mart	1
+property	k-ras mutation	1
+product	k-o tabs	1
+product	k-personal loan for better life	1
+product	k-bank	1
+exception	k-root local instancedenic	1
+exception	k-rod	1
+model	k-means clustering	2
+model	k-e model	1
+model	k-anonymity model	1
+model	k-nearest neighbor	1
+model	k-distribution	1
+characteristic	k-selected life-history characteristic	1
+institution	k- twelve  school 	2
+institution	k- twelve  schooling 	2
+institution	k-rep bank	1
+client	k-swiss	5
+strategy	k-means regarding node aggregation	1
+strategy	k-w-l chart	1
+person	k- six  curriculum coordinator 	2
+approach	k- twelve  education 	1
+approach	k-nearest neighbor method	1
+approach	k-means technique	1
+approach	k-means	1
+approach	k-dependent screening	1
+idea	k-space	1
+idea	k-j technique	1
+alternative	k-meleon	1
+alternative	k-dominating set	1
+solution	k-clustering	1
+feature	k-factors	2
+structure	k- twelve  school district 	1
+film	k-pax	4
+film	k-sex  one hundred and six . nine 	1
+business	k-mart import huge amounts of cargo through international seaport	1
+part	k-gun depth charge launcher	1
+school	k- twelve  school 	3
+school	k-state	1
+school	k- eight  santa barbara charter school 	1
+school	k- eight  private catholic school 	1
+school	k- eight 	1
+celebrity	k-fed	2
+venue	k- twelve  school 	1
+firm	k-tron of pitman	1
+industry	k- twelve  education 	2
+industry	k- twelve  school 	1
+drug	k-receptor selective drug	1
+test	k-value	1
+test	k- twelve  achievement test 	1
+test	k-bnt language test	1
+favorite	k-way collaboration series return	1
+manufacturer	k-line	1
+instrument	k-wire	1
+act	k-one	1
+act	k-town clan	1
+feature	k-wire hole	1
+setting	k- twelve 	1
+setting	k- twelve  classroom 	1
+class	k- one 	1
+position	k- nine  enforcement officer 	2
+position	k- nine  officer 	1
+position	k- nine 	1
+equipment	k- eight  series supermarket equipment 	1
+unit	k- nine 	10
+unit	k- nine  unit 	2
+cause	k- twelve  education 	1
+mean	k-tron weight	1
+song	k-pop song big bang	1
+team	k- nine  team 	1
+substance	k-y jelly	1
+style	k- one  style kickboxing 	1
+region	k-dimensional  continuous design region	1
+concern	k- twelve  educational reform 	1
+medication	k- nine  advantix 	2
+variety	k- thirty-one 	1
+partner	k- twelve  education 	2
+partner	k- twelve  school 	1
+role	k-rep for various projects for ge	1
+vendor	k-vault systems	1
+vendor	k-par systems	1
+sector	k- twelve  education 	1
+store	k-mart	13
+store	k-mart for a lower price	1
+market	k- twelve 	1
+market	k- twelve  education 	1
+customer	k-mart	1
+vehicle	k- nine  vehicle 	1
+effort	k- twelve  outreach effort 	1
+effort	k- twelve  textbook o canada 	1
+department	k- twelve  education 	1
+external factor	k- twelve  education 	1
+duty	k- nine  officer 	1
+restaurant	k-bob's steakhouse	1
+student	k- three  student 	1
+magazine	k-zone	1
+retailer	k-mart	5
+retailer	k-va-t food stores	1
+report	k- one  form 	1
+protein	k-ras	2
+guest	k-rino	1
+competitor	k-meleon	2
+performer	k-ci & jojo	3
+brand name	k-swiss	1
+weapon	k-guns	1
+variation	k-means clustering	1
+control	k- nine  advantix 	1
+great	k-rino	1
+package	k-lite	2
+algorithm	k-means	14
+algorithm	k-means clustering	6
+algorithm	k-nearest neighbor	5
+algorithm	k-medoids	2
+algorithm	k-nearest neighbors method	1
+algorithm	k-medoids on chi squared dataset	1
+algorithm	k-mean clustering algorithm	1
+algorithm	k-means algorithm	1
+algorithm	k-means classification	1
+algorithm	k-longest path per gate algorithm	1
+statistic	k-mer frequency	1
+issue	k- twelve  environmental education 	1
+bank	k-rep bank	1
+employer	k- twelve  school 	1
+specialty	k- nine 	3
+specialty	k- nine  search 	2
+top brand	k-swiss	2
+restriction	k-cups	1
+user	k- twelve  school 	1
+arrangement	k- eight 	2
+committee	k- twelve 	1
+apps	k- nine 	2
+context	k- twelve 	1
+large company	k-mart	1
+supplement	k- two 	1
+sponsor	k-state	1
+competition	k- one 	5
+competition	k- twelve  science competition 	1
+competition	k- one  the world's 	1
+issue	k- six  time allocation 	1
+notion	k- twelve 	1
+keyword	k- nine 	1
+evidence	k-feldspar alteration envelopes on diopside-magnetite veinlets	1
+popular brand	k-y	1
+popular brand	k-line	1
+popular brand	k-swiss	1
+segment	k- twelve  schools 	1
+traditional method	k-means	1
+community organization	k- twelve 	1
+attachment	k-wire driver	1
+substrate	k-ras	1
+center	k-mart shopping plaza	1
+aid	k-mar marker	1
+layer	k- nine  team 	1
+profession	k- twelve  education 	1
+profession	k- twelve  teaching 	1
+profession	k- twelve  teacher 	1
+hit	k-car	1
+household name	k-y	1
+TV show	k-ville	1
+mineral	k-feldspar	4
+mineral	k-feldspar and dark mineral	1
+advanced technique	k-nearest neighbor method	1
+assignment	k- nine 	1
+extracurricular activity	k- five  reading night 	1
+extracurricular activity	k-kids	1
+engine	k-series in the element	1
+division	k- nine  unit 	1
+liquid	k-y lotion	1
+album	k-os second album	1
+workshop	k- twelve  school dance programs 	1
+non-profit organization	k- twelve  school 	1
+non-profit organization	k- twelve  local school 	1
+non-profit organization	k- twelve  national school 	1
+performance	k-pop dance	1
+camera	k- five  with an adapter 	1
+bird species	k-selected bird species	1
+supporter	k-nbc  four 	1
+certification	k- twelve  reading specialist certification 	1
+item	k- nine  supply 	1
+item	k- five  spanish 	1
+item	k-y jelly	1
+gift item	k-state pencil	1
+coating	k-cron on the kolbe	1
+display	k-on nendoroid display	1
+original feature	k-lock	1
+school activity	k-kids	1
+well-known brand	k-swiss	1
+educational institution	k- twelve 	2
+educational institution	k- twelve  school 	1
+shoe	k-swiss	1
+simple tool	k-dominance analysis	1
+traditional technique	k-means method	1
+latest technology	k-vest  three -d motion capture systems 	1
+modern technology	k-band microwave	1
+radio station	k-love off the air	1
+branch	k- nine 	1
+essential service	k- twelve  education 	1
+item	k-cups	1
+phase	k-feldspar	2
+guide	k- two  grade 	1
+nickname	k- two 	1
+creation	k-pao chicken salad	1
+outfit	k-b toys	1
+new	k-pop singer	1
+mod	k-tec coil	1
+lubricant	k-y jelly	58
+lubricant	k-y	6
+lubricant	k-y vaginal	4
+lubricant	k-y gel	4
+lubricant	k-y lubricating jelly	4
+lubricant	k-y older beauty at friday	1
+lubricant	k-y low-dose	1
+lubricant	k-y lubricating jelly from chemist	1
+lubricant	k-y vagisil	1
+lubricant	k-y astroglide	1
+lubricant	k-y&reg brand liquid	1
+lubricant	k-y replens	1
+lubricant	k-y jelly with intercourse	1
+innovative product	k-alpha xps	1
+studio	k-town studio	1
+statistical method	k-means clustering	2
+statistical method	k-means clustering method	1
+statistical method	k-ldivergenceand kriging	1
+statistical method	k-mean algorithm	1
+great brand	k-swiss	2
+community partner	k- twelve  teacher 	1
+browser	k-meleon	5
+session	k- three  resources 	1
+department store	k-mart	6
+simple technique	k-nearest neighborhood imputation	1
+rapper	k- nine 	1
+rapper	k-solo	1
+cream	k-y	1
+bag	k-on offical bag	1
+area	k- twelve  education 	6
+feature film	k- nine 	1
+retail store	k-mart	1
+retail store	k-mart wal-mart	1
+statistical technique	k-means cluster analysis	1
+educator	k- eight  teacher 	1
+catastrophic event	k-t impact	1
+advanced concept	k-nearest neighbor algorithm	1
+trainer	k- nine  aggression 	1
+core service	k- twelve  education 	1
+league	k-league	1
+league	k-swiss	1
+retail outlet	k-mart	1
+advanced tool	k-means	2
+grouping	k- two 	1
+area	k- twelve  resource 	1
+specialization	k- twelve  education degrees from accredited colleges with distance learning program 	1
+outside activity	k-league soccer	1
+shopping center	k-mart	1
+datum structure	k-d tree structure	1
+chain store	k-mart	1
+grade	k- two 	1
+grade	k- three 	1
+grade	k- eight 	1
+shopping centre	k-rauta	1
+research method	k-ar mapping	1
+optimization technique	k-means algorithm	1
+high quality brand	k-swiss	1
+co-curricular activity	k- twelve  outreach program 	1
+standard method	k-means	2
+numerical method	k- three  kernel splines 	1
+local newspaper	k-w record	1
+famous personality	k-la rivera	1
+public entity	k- twelve  school 	1
+local store	k-mart	1
+vertical	k- twelve 	1
+hand	k-q-j- ten 	1
+hand	k-q	1
+hand	k- nine 	1
+critical function	k- twelve  education 	1
+designer label	k-dash by kardashian	1
+public utility	k- two  public school 	1
+sophisticated method	k-means algorithm	1
+codecs	k-lite	1
+codecs	k-lite codec pack	1
+codecs	k-lite mega codec pack	1
+outreach activity	k- twelve  education 	1
+steel product	k-stage scaffolding	1
+local information	k-hop neighborhood information	1
+community-based organization	k- twenty  school 	1
+big brand name	k-mart	1
+area	k- nine 	1
+service	k- twelve  education 	4
+campus activity	k-day	1
+radionuclides	k- fourty 	3
+large chain	k-mart	1
+cutting-edge technology	k-bow by famed instrument designer keith mcmillan	1
+resource material	k-kids poster	1
+text editor	k-edit	1
+building type	k- twelve  school 	1
+local retailer	k-mart	1
+isotope	k- fourty 	1
+common method	k-means	1
+youth group	k-kids	1
+factor	k-factor	1
+factor	k-space sampling misalignment	1
+service	k- nine 	2
+meter	k- ten 	1
+educational facility	k- twelve  school 	1
+huge company	k-mart	1
+common drug	k-dur	1
+statistical test	k-s test	1
+statistical test	k-s statistic	1
+stocking brand	k-swiss	1
+mathematical model	k-nearest neighbor	1
+repository	k- twenty-five  site records center 	1
+classifier	k-nearest neighbor	8
+classifier	k-means	4
+classifier	k-way logistic regression	1
+classifier	k-nn classifier	1
+classifier	k-nearest neighbours	1
+service	k- twelve  school 	1
+service	k- twelve  education service 	1
+graphic organizer	k-w-l chart	2
+estimation method	k-nn estimator	2
+discount store	k-mart	3
+diuretic	k-sparing diuretic	1
+small organization	k- twelve  school 	1
+missile	k- eight 	1
+radioisotope	k- fourty 	2
+archive	k-w oktoberfest	1
+email client	k- nine 	1
+clothing store	k-mart	1
+datum mining technique	k-mean clustering with multivariate statistics for a better visualization	1
+large store	k-mart	3
+classical technique	k-means algorithm	1
+heuristic	k-means algorithm	1
+popular method	k-nearest neighbor	1
+pack	k-lite	1
+visa	k- one  visa 	1
+powerful technique	k-means	1
+topologies	k-ary  n-cube  topologies	1
+social policy	k- twelve  education 	1
+outreach effort	k- twelve  outreach effort 	1
+coupling agent	k-y jelly	1
+large department store	k-mart	1
+modulator	k-atp channel modulator	1
+specialty unit	k- nine 	2
+specialty unit	k- nine  unit 	2
+specialty unit	k- nine  car 	1
+physical event	k- one 	1
+popular restaurant	k-too	1
+clustering algorithm	k-means	47
+clustering algorithm	k-means clustering	7
+clustering algorithm	k-means algorithm	4
+clustering algorithm	k-means in conjunction with a gram-schmidt based least square method	2
+clustering algorithm	k-means clustering algorithm	1
+clustering algorithm	k-means clust ering	1
+classification method	k-nearest neighbor	3
+educational initiative	k- twelve 	1
+topic	k- nine 	1
+topic	k- three  reading 	1
+machine learning technique	k-nn	1
+machine learning technique	k-nearest neighbor	1
+machine learning technique	k-nearest neighbor algorithm	1
+public work project	k- twelve  school 	1
+discount retailer	k-mart	3
+online school	k- twelve 	1
+entitlement program	k- twelve  education 	2
+entitlement program	k- twelve  general education 	1
+ongoing event	k- nine  demonstration 	1
+excellent product	k-gum karaya powder	1
+synthetic drug	k- three 	1
+synthetic drug	k- two 	1
+core program	k- twelve  education 	2
+signaling molecule	k-ras	2
+convenience store	k-mart	1
+genetic alteration	k-ras oncogene mutation	2
+genetic alteration	k-ras mutation	1
+notable organization	k- one 	3
+clustering method	k-means	13
+clustering method	k-means clustering	6
+clustering method	k-meansandself-organizing map	1
+clustering method	k-means algorithm	1
+clustering method	k-means nearest neighbor	1
+topic	k-theory	1
+topic	k-theoretic gromov-witten invariants	1
+topic	k-maps	1
+authorized user	k- twelve  school 	1
+target audience	k- twelve  staff 	1
+color space	k-l color space	1
+fashion show	k-management gun & knife crime awareness fashion show	1
+classification technique	k-nearest neighbour	2
+classification technique	k-meansanddecision tree	1
+clustering technique	k-means	11
+clustering technique	k-means clustering	8
+clustering technique	k-means algorithm	1
+clustering technique	k-mean clustering algorithm	1
+clustering technique	k-means clustering method	1
+clustering technique	k-means o	1
+oncogene	k-ras	1
+learning method	k-neareast neighbors combined withsvm	1
+lube	k-y	1
+commercial solution	k-wise deployer	1
+mail client	k- nine 	1
+topic	k- twelve  curricular pattern 	1
+topic	k- twelve  outreach 	1
+comprehension strategy	k-w-l strategy	1
+established technique	k-nearest neighbor	1
+essential program	k- twelve  education 	1
+water-based lubricant	k-y jelly	49
+water-based lubricant	k-y	9
+water-based lubricant	k-y liquid	5
+water-based lubricant	k-y-jelly with latex condom	1
+codec	k-lite mega codec	1
+codec	k-lite	1
+business center	k-mart shopping plaza	1
+classification algorithm	k-nearest neighbor	1
+machine learning algorithm	k-nearest neighbor	2
+shoe brand	k-swiss	2
+cool stuff	k- nine  candy bowl assorted 	1
+national partner	k-swiss	1
+pattern recognition technique	k-nearest neighbors	2
+shared space	k- twelve 	1
+combat sport	k- one 	1
+engineering system	k-out-of-n system	1
+machine learning method	k-nearest neighbor	2
+machine learning method	k-nearest neighbour	1
+mass retailer	k-mart	2
+societal concern	k- twelve  education 	2
+working dog	k- nine  rescuer 	1
+climatic event	k-t boundary	1
+complicated model	k-distribution	1
+retail customer	k-va-t food stores inc.	1
+company	k-mart	2
+company	k- twelve  of long island 	1
+company	k- nine  cravings 	1
+big-box retailer	k-mart	1
+employment sector	k- twelve  education 	1
+food service	k- twelve  school cafeteare high-end 	1
+state service	k- twelve  education 	1
+state service	k- twelve  school 	1
+non-parametric method	k-nearest neighbor	1
+non-parametric method	k-nn rule	1
+non-parametric method	k-nearest neighborhood method	1
+non-parametric method	k-nearest-neighbor regression	1
+generic product	k-bins	1
+multivariate statistical technique	k-means clustering	1
+third party apps	k- nine  mail 	2
+datum mining tool	k-nearest neighbors	1
+drum	k-fed	1
+big supermarket	k-mark in china	1
+company	k-flex usa	1
+company	k-tel international inc.	1
+company	k-tel	1
+company	k-swiss inc.	1
+company	k-swiss	1
+blender	k-tec	1
+blender	k-tec champ hp three 	1
+thermodynamic quantity	k-index	1
+three-dimensional structure	k-d tree	1
+supplementary product	k-y errrrr body wash	1
+digital SLR camera	k- seven 	1
+achievement test	k- twelve  achievement test 	1
+complicated method	k-nearest neighbor method	1
+iterative algorithm	k-means clustering	1
+rescue group	k- nine  services 	1
+small entity	k- twelve 	1
+water-based product	k-y jelly	4
+company	k-mo limo near foe airport in kansas	1
+company	k- three 	1
+company	k-tron gmbh	1
+high-profile brand	k-swiss	1
+correlation	k-values presented in the ngaa equilibrium ratio data book	1
+rice variety	k- thirteen 	1
+datum mining method	k-nearest neighbor	1
+established figure	k- two 	1
+guidance document	k- twelve  health & safety guide from doh & ospi 	1
+mid-sized company	k-swiss	1
+non-immigrant visa	k- two 	1
+non-immigrant visa	k- three 	1
+deterministic method	k-nearest neighbor method	1
+disparity	k- twelve  academic achievement 	1
+efficient algorithm	k-d tree	1
+efficient algorithm	k-means em with linear cost per iteration	1
+numerical parameter	k-index	1
+water based lubricant	k-y jelly	3
+activity	k-w-l chart	1
+activity	k-family garbage clean-up	1
+designer drug	k- two 	1
+local retail store	k-mart	1
+advanced approach	k-nearest neighbor	1
+online project	k- twelve  online project 	1
+traditional algorithm	k-means	2
+traditional algorithm	k-means algorithm	1
+amazing act	k-os	2
+giant retailer	k-mart	1
+propagation effect	k-factor	1
+smoothing technique	k-nearest neighbor non parametric procedure	1
+sporting good store	k-mart	1
+police unit	k- nine 	1
+tax document	k- one s from partnership 	1
+good manufacturer	k-swiss	1
+specialty certification	k- nine 	1
+specialty team	k- nine 	1
+canadian act	k-os	1
+lubrication	k-y jelly	11
+lubrication	k-y	2
+toy store	k-b toys	1
+unsupervised method	k-means clustering	1
+popular algorithm	k-nearest neighbor	4
+popular algorithm	k-means	1
+glider	k-series	1
+low-tech method	k- nine  unit police dog 	1
+lubricating agent	k-y jelly	1
+topic model	k-means vector space clustering	1
+defense organization	k-w youth collective	1
+activity	k- nine  demonstration 	1
+activity	k- nine  demonstration by the fox chapel police department 	1
+activity	k- twelve  partnership programs 	1
+activity	k- twelve  outreach 	1
+famous mountain	k- six 	8
+famous mountain	k- seven 	5
+global shipping company	k-line	1
+grass-roots organization	k- twelve  school group 	2
+nonparametric technique	k-nearest-neighbor rule	1
+research partner	k- twelve  school 	1
+segmentation algorithm	k-means	1
+vaginal lubricant	k-y jelly	10
+carriage	k- thirteen 	1
+classical algorithm	k-nearest neighbor	1
+jelly	k-y	1
+basic approach	k-means	1
+genetic predisposition	k-ras mutation	1
+motivational strategy	k- six  expressive reading 	1
+temporary visa	k- three 	1
+third-party browser	k-meleon	1
+constituent group	k-state alumnus	1
+public safety service	k- nine  unit 	1
+turbulence model	k-e turbulence model	1
+classification approach	k-nearest neighbor	1
+community involvement activity	k-kids	1
+cool weather grass	k- thirty-one  fescue 	1
+dept store	k-mart	1
+on-going event	k- nine  demonstrations 	1
+supervised learning method	k-nearest neighbor	1
+classification model	k-nearest neighbor	1
+codec pack	k-lite	15
+codec pack	k-lite codec pack	12
+codec pack	k-lite mega codec pack	2
+codec pack	k-lite mega codec pack with media player classic	1
+computationally intensive method	k-nearest neighbor	1
+great firm	k-group developers	1
+high caliber artist	k-os	1
+high-fashion brand	k-swiss	1
+isolated structure	k-bar ranch	1
+label mate	k-ci & jojo	1
+licensed profession	k- twelve  teaching 	1
+life-history characteristic	k-selected life-history characteristic	1
+patient care item	k-basins	3
+non-discretionary item	k- twelve 	1
+petition	k- one 	1
+priority program	k- twelve  education 	1
+query type	k-nearest neighbor	1
+synthetic cannabinoids	k- two 	1
+well-known concept	k-function	1
+gecko-based browser	k-meleon	1
+personal lubricant	k-y jelly	2
+supervised learning technique	k-nearest neighbor	1
+unsupervised technique	k-means	1
+viscoelastic model	k-bkz model	1
+dark mineral	k-feldspar and dark mineral	1
+iterative heuristic	k-means	1
+information	k- one  report information 	1
+event	k- one 	2
+Small GTPases	k-ras	1
+water-based lube	k-y	1
+commercially available kit	k-ras gene mutation analysis kit	1
+district-wide program	k- five  fine arts 	1
+good lubricant	k-y jelly.	1
+good lubricant	k-y jelly	1
+knowledge management feature	k-map	1
+legal high	k- two 	1
+mixed martial art	k- one  heroes 	1
+program expenditure	k- twelve  education 	1
+silicone-based lubricant	k-y intrigue	1
+structured setting	k- twelve  classroom 	1
+temporary visa holder	k- three 	1
+academic environment	k- twelve  school 	1
+codec package	k-lite codec pack	2
+codec package	k-lite	2
+codec package	k-lite codec package	1
+codec package	k-lite mega pack	1
+codec package	k-lite codecs	1
+discount retail store	k-mart	1
+low-traffic area	k- twelve  school 	1
+event	k-bay fest	1
+supermarket equipment	k- eight  series supermarket equipment 	1
+toy retailer	k-b toys	1
+unsupervised learning technique	k-means clustering	1
+venture fund	k-b partners	1
+big supermarket chain	k-mart	2
+budget area	k- twelve  education 	1
+criterion measure	k-group multivariate analysis of variance	1
+external lubricant	k-y jelly	1
+failed company	k-mart	1
+formal educational setting	k- twelve  school 	1
+hip hop pioneer	k-solo in a promotional tour in the united states	1
+korean product	k-pop	1
+partitioning method	k-means clustering	2
+partitioning method	k-means	1
+police resource	k- nine  unit 	1
+public product	k- twelve  curriculum 	1
+spermicide	k-y jelly	1
+traditional clustering technique	k-means	3
+trained dog	k- nine  police dog 	1
+unsightly area	k- one hundred and seventy-seven  jct 	1
+unsupervised approach	k-means	1
+water-soluble lubricant	k-y jelly	13
+water-soluble lubricant	k-y	5
+web filter	k- nine  web coat 	1
+clustering technology	k-means clustering	1
+event	k- nine 	1
+event	k-j heirloom tomato festival	1
+program	k-multimedia player	5
+program	k-lite codec pack	3
+heavy influence	k-rino	1
+hierarchical datum structure	k-d tree	2
+law enforcement service	k- nine  unit 	2
+medium forum	k- fifty-seven 's tourism 	1
+nontraditional retailer	k-mart	2
+popular clustering algorithm	k-means	6
+popular clustering algorithm	k-means clustering	1
+popular clustering algorithm	k-medoids	1
+potassium supplement	k-lyte	2
+potassium supplement	k-dur	2
+singularity	k-t event	1
+summary factor	k-ras	1
+topical lubricant	k-y jelly	2
+commercial lubricant	k-y jelly	3
+indexing scheme	k-d tree	3
+mass extinction	k-t event	1
+mass extinction	k-t	1
+modeling algorithm	k-nearest neighbor	1
+mozilla browser derivative	k-meleon	1
+program	k- nine 	2
+program	k- twelve  education 	2
+program	k- twelve 	2
+program	k-kids	1
+program	k-state volunteer center of manhattan	1
+program	k-state	1
+pattern recognition algorithm	k-nearest neighbor	1
+pentax camera	k-x	1
+pentax camera	k-r &	1
+pentax camera	k-m	1
+potential group	k- twelve  education 	1
+simplest method	k-means clustering	1
+supervised algorithm	k-nearest neighbor algorithm	1
+supervised machine learning algorithm	k-nearest neighbour	1
+traditional clustering algorithm	k-means	5
+traditional clustering algorithm	k-medoid algorithm	1
+water-based moisturizer	k-y jelly	1
+accredited educational institution	k- twelve 	4
+accredited educational institution	k- twelve  school 	1
+bone fixation device	k-pin	2
+classification procedure	k-means	1
+crucial piece	k-os	1
+decision mechanism	k-nearest neighbor	1
+distance-based method	k-means analysis	1
+grant seeker	k- twelve  school 	2
+great boutique guitar	k-line	1
+huge retail chain	k-mart	2
+law enforcement unit	k- nine  police officer 	1
+local convenience store	k-mart	1
+notable atlanta artist	k-rab	1
+program	k- nine  unit from the union county sheriff's department 	1
+program	k- twelve  network 	1
+program	k-pop	1
+program	k- one  matching 	1
+program	k- nine  team 	1
+program	k- eight  camp style program 	1
+program	k- twelve  public education 	1
+program	k- five  breakfast book club 	1
+program	k- nine  enforcement 	1
+program	k- twelve  outreach engineering program at north carolina state university 	1
+program	k- twelve  voluntary desegregation 	1
+program	k- eight  explorations 	1
+program	k- three  reading initiative program 	1
+program	k- three  csr 	1
+representative model	k-nearest-neighbors model	1
+special-purpose unit	k- nine  unit 	1
+standard clustering algorithm	k-means	4
+water soluble lubricant	k-y jelly	5
+water soluble lubricant	k-y lubricating jelly	1
+arizona institution	k- twelve  schools 	2
+conventional clustering method	k-means	4
+conventional clustering method	k-means clustering	1
+conventional clustering method	k-means method	1
+datum mining model	k-nearest neighbor	1
+herbal incense product	k- two 	1
+high risk unit	k- nine 	1
+institutional situation	k- twelve  classroom 	1
+k-bearing phase	k-feldspar	1
+MMA league	k- one  hero's in japan 	1
+modern standards-compliant browser	k-meleon	1
+mozilla web browser derivative	k-meleon	2
+parametric and non-parametric method	k-nearest neighbor	1
+public safety measure	k- nine  patrol 	1
+response unit	k- nine 	1
+standard clustering method	k-means	2
+standard clustering method	k-means clustering	1
+traditional statistical tool	k-means	1
+unsupervised clustering algorithm	k-means	2
+unsupervised clustering algorithm	k-means algorithm	1
+unsupervised clustering method	k-means	1
+waterbased lubricant	k-y jelly	1
+area retail store	k-mart	1
+authentic trainer	k-swiss	1
+chemical pattern recognition method	k-nearest neighbor	2
+classical pattern recognition method	k-nearest neighbor	1
+color quantization technique	k-means	2
+common clustering algorithm	k-means clustering	2
+common clustering algorithm	k-means	1
+common vaginal lubricant	k-y jelly	1
+community	k-bar ranch cdp	1
+guidewire	k-wire	1
+mass extinction event	k-t extinction event	2
+nonprescription lubricant	k-y lubricating jelly	1
+nonprescription lubricant	k-y jelly	1
+oncogenic protein	k-ras	1
+online academy	k- twelve  international academy 	1
+series model	k- six 	3
+SNL symbol	k-l	1
+speciality unit	k- nine 	1
+sprinkler manufacturer	k-rain	1
+standalone component	k-rated transformer	1
+supervised learning tool	k-nearest neighbor method	2
+tier I program	k- three  class size reduction 	1
+traditional clustering method	k-means	3
+traditional clustering method	k-means clustering	2
+water-based personal lubricant	k-y jelly	3
+arenumer oussocietal concern	k- twelve  education 	1
+athletic shoe company	k-swiss	1
+celebrity line	k-dash by the kardashians	1
+classical clustering method	k-means clustering	1
+cluster analysis method	k-means	1
+cluster analysis method	k-medoids	1
+clusteringalgorithms	k-means	1
+common clustering method	k-means	3
+conventional clustering algorithm	k-means	8
+conventional clustering algorithm	k-means algorithm	3
+conventional clustering technique	k-means	1
+cup coffee machine	k-cup coffee	1
+datum clustering algorithm	k-means	2
+decent hand	k-q	1
+educative institution	k- twelve  school 	1
+organization	k- twelve  school 	1
+good drop test kit	k- two thousand one hundred and six  for bromine 	1
+law enforcement team	k- nine 	1
+lazy learning method	k-nearest neighbor	1
+linese	k-line	1
+mild lubricant	k-y jelly	1
+multidimensional datum structure	k-d tree	1
+non-hierarchical method	k-means	1
+nuke	k-y jelly	1
+over-the-counter vaginal lubricant	k-y jelly	1
+over-the-counter vaginal lubricant	k-y	1
+partitioning algorithm	k-means	2
+popular lubricant	k-y jelly	1
+organization	k- nine  kokua 	1
+organization	k- twelve  public education 	1
+technique	k-means	9
+technique	k-means clustering	5
+technique	k-nn algorithm	2
+privacy preserving technique	k-anonymity method	2
+privacy-preserving technique	k-anonymity method	2
+prominent mountain	k- six 	1
+search tree	k-dimensional tree algorithm used in geis	1
+sheriff's department specialty unit	k- nine 	1
+simple yet effective method	k-nn classification using statistical feature	1
+ski equipment company	k- two 	1
+spatial clustering algorithm	k-means	1
+standard clustering technique	k-means	1
+truck fleet	k-line maintenance & construction ltd.	1
+true uniform brand	k- twelve  gear 	1
+TU programming parameter	k-factors	2
+TV role	k-ville	1
+unsupervised learning approach	k-means clustering	1
+urethane catalyst	k-kat  three hundred and fourty-eight 	1
+vaginal moisturizer	k-y silk-e	2
+vaginal moisturizer	k-y jelly	1
+water-based vaginal lubricant	k-y jelly	1
+artificial moisturizer	k-y jelly	1
+austin police department official	k- nine 	1
+auxiliary switch	k- nine  thermostat 	1
+auxilliary switch	k- nine  thermostat 	1
+technique	k-w-l chart	2
+technique	k-nearest neighbor	2
+technique	k-d tree	1
+technique	k-edge densitometry	1
+technique	k-anonymity	1
+technique	k-t blast	1
+billing code	k- eleven  code 	1
+camden police department service	k- nine  unit 	1
+christian medium outlet	k-love radio network	1
+classic access structure	k-d tree	1
+classifier type	k-nearest neighbor	1
+classiflcation technique	k-nn	1
+clothing outlet	k-mart	1
+clustering scheme	k-medoids	1
+clustering-based method	k-means	1
+collegewide program	k- twelve  outreach program 	1
+colorful ornament	k-gold necklace with a pendant	1
+combined school	k- twelve 	1
+complex lyricist	k-rino	1
+District administrative personnel	k- twelve  instructional supervisors 	1
+drain cleaning machine	k- fifty 	1
+effective algorithm	k-median clustering algorithm	1
+error resampling method	k-fold cross-validation	1
+everyday citizen	k- twelve  student 	1
+exemplar-based method	k-nearest neighbor	1
+exotic topologies	k-ary n-cube	1
+fan-favourite companion	k- nine 	1
+formal statistical test	k-s test	1
+free codec pack	k-lite codec pack	2
+free codec pack	k-lite	1
+technique	k-fold cross-validation	1
+technique	k-ar dating of sericite	1
+technique	k-means algorithm	1
+guam's largest retail outlet	k-mart in upper tumon	1
+insecticidal agent	k- nine  advantix 	1
+introduction deterministic latent variable model	k-means	1
+iterative clustering algorithm	k-means	5
+KBS cleaning store	k-mart	1
+korea s cultural content	k-pop	1
+korea's cultural content	k-pop	1
+legislative mandated program change	k- three  class size reduction 	1
+low-cost foreign brand	k-touch	1
+mechanical or engineered structure	k-rails	1
+model-building technique	k-means model	1
+motorcykles	k- seven hundred and fifty 	1
+multi-dimensional classifier	k-nearest neighbour	1
+multi-level school	k- eight 	2
+multi-level school	k- twelve  school 	2
+nonhierarchical clustering method	k-means	1
+nonhierarchical clustering method	k-means clustering	1
+non-hierarchical clustering method	k-nearest mean	1
+nonparametric classifier	k-nearest neighbor	1
+non-prescription lubricant	k-y lubricating jelly	1
+application	k-meleon	1
+offsuit hand	k- nine 	1
+ordinary VQ method	k-means	2
+Organizaions	k- twelve  art gallery for kids 	1
+organizational type	k- twelve  school 	1
+over-the-counter lubricant	k-y jelly	5
+partition algorithm	k-means	1
+partitioning clustering method	k-means algorithm	1
+partitioning clustering method	k-means	1
+peer-reviewed funding	k-series award from the nationa l institutes ofhealth	1
+popular trap hand	k-j	1
+representative classification algorithm	k-nearest neighbor	1
+sexual lubricant	k-y jelly	1
+sometimes particular preparation	k-shaped	1
+standard cluster algorithm	k-means	2
+standard datum mining algorithm	k-means clustering	1
+standard EEG feature	k-complex	2
+sterile lubricant	k-y jelly	1
+synthetic marijuana product	k- two 	2
+application	k-means clustering	1
+application	k- nine  mail 	1
+Tall fescues	k- thirty-one 	2
+traditional clustering approach	k-means	1
+traditional clustering approach	k-means clustering	1
+two-lane road	k- one hundred and fifty-six  near jetmore 	1
+typical classification method	k-nearest neighbor approach	1
+typical region segmentation method	k-mean clustering	1
+water-based or silicone lubricant	k-y	1
+well-developed method	k-means	1
+well-known and well-established algorithm	k-nearest neighbors	1
+year machine learning technique	k-nn	1
+abbreviated reference	k- eight 	1
+administration company	k-mart	1
+aftermarket engine management system	k-pro	1
+algorithmic method	k-means	1
+american text	k- five  mathematics curriculum investigations in number 	1
+arevarious algorithm	k-medoid	1
+association method	k-nearest neighbor method	1
+automatic clustering algorithm	k-means	1
+automaticclassication method	k-means clustering	1
+bayer animal health's product	k- nine  advantix 	1
+BMW part resellers	k-bikeparts	1
+brand triathlon specific shoe	k-swiss	1
+broken sequence	k- ten 	1
+name	k- two 	4
+name	k-kwik	1
+canonical clustering method	k-means	1
+classic datum clustering method	k-means method	1
+clustering-based methodsapplyclus-teringalgorithms	k-means	1
+code package	k-lite codec	1
+codec packs	k-lite	1
+commonly available lubricant	k-y jelly	2
+competition s	k- one 	2
+complex indexing algorithm	k-d tree	1
+convenient keurig accessory	k-cup carousel tower	1
+cooperative partnership	k- twenty  operations cooperative 	1
+counter lubrication	k-y jelly	1
+customer loyalty scheme	k-advantage card	1
+data-mining approach	k-means cluster analysis	1
+datum clustering method	k-means	2
+directory category	k- twelve  student resources 	1
+distance-based clustering technique	k-means	1
+distance-related algorithm	k-nearest neighbor learning algorithm	1
+district's major program	k- twelve 	1
+divisive algorithm	k-means clustering	1
+DNA abnormality	k-ras mutation	1
+email app	k- nine 	2
+experimental machine learning method	k-nearest neighbor	1
+exsiting indexing technique	k-db tree	1
+external codec pack	k-lite mega codec pack	1
+name	k- nine 	1
+name	k- two  on the label 	1
+name	k-lite	1
+fast clustering algorithm	k-means	1
+fun LED product	k- nine  led dog ball 	1
+generally traditional clustering algorithm	k-medoids	1
+generally traditional clustering algorithm	k-means	1
+good stabilizer	k- one hundred 	1
+grade configuration	k- eight 	3
+hard classifier	k-means	1
+hard clustering technique	k-means	1
+hard membership technique	k-means clustering	1
+hard-to-transfect suspension cell	k- five hundred and sixty-two  cell 	1
+high-refractive-index material	k-psfn two hundred and fourteen  of sumita optical glass 	1
+historic mass extinction	k-t event	1
+honda cylinder head	k-series	1
+inquiry chart	k-w-l chart	1
+instability index	k-index	1
+introduction distance-based clustering technique	k-means	1
+introduction most common clustering method	k-means	2
+iterative descent clustering method	k-means clustering	1
+key performance index	k-values of heat exchangers	1
+case	k- twelve  education 	2
+case	k-fed	1
+location estimation algorithm	k-nearest neighbor averaging algorithm	1
+location-related temporal and spatial query	k-nearest neighbor query	1
+molecular and genetic marker	k-ras	1
+multidimensional index structure	k-d-b tree	1
+n-dimensional indexing scheme	k-b-tree	1
+nonprofit subsectors	k- twelve  education 	2
+numerical classification procedure	k-means cluster analysis	1
+office trust	k-reit asia	1
+outreach function	k- twelve  school presentation 	1
+overgrowth crystal	k-feldspar	1
+over-the-counter water-based personal lubricant	k-y jelly	1
+partitional clustering algorithm	k-means	2
+partitional clustering algorithm	k-nearest neighbor	1
+partitional model	k-means	1
+partitional model	k-medoids	1
+partitioning clustering algorithm	k-medoids	1
+partitioning clustering algorithm	k-means	1
+partition-optimization approach	k-means	3
+perennial top market	k- twelve  school 	1
+popular numerical method	k-exact finite volume	1
+preoperative biometric datum	k-readings	1
+pre-owned RVs	k-z	1
+pre-segmentation technique	k-means clustering	1
+prototype-based clustering algorithm	k-means	2
+quality department store	k-mart big w	1
+sacrosanct area	k- twelve  education 	1
+scene-independent algorithm	k-means	2
+short-stacked, hand	k-j	1
+similarity-based clustering algorithm	k-means	1
+simple clustering strategy	k-means clustering	1
+single clus-teringalgorithms	k-means	2
+solid waste management issue	k- twelve  teacher 	1
+standard approximation technique	k-means clustering	1
+standard lubricant	k-y	1
+standard lubricant	k-y jelly	1
+statistical unsupervised model	k-means clustering	1
+supervised and unsupervised classification algorithm	k-mean clustering algorithm	2
+option	k- one 	1
+surgical lubricant	k-y jelly	1
+tapered cervical dilator	k-pratt dilator	1
+target detection algorithm	k-nearest neighbor	1
+track-ware company	k-swiss	1
+traditional algorithms	k-means	2
+traditional education setting	k- twelve  schooling 	1
+traditional partitional clustering technique	k-means	1
+traditional unsupervised learning method	k-means clustering	1
+transient physiological phenomenon	k-complexes during sleep	1
+two-cycle power tool	k- twelve  saw 	1
+two-equation model	k-omega model	1
+unsupervised cluster approach	k-means	1
+unsupervised clustering technique	k-means algorithm	2
+unsupervised clustering technique	k-mean clustering	1
+unsupervised segmentation method	k-means	1
+vector quantization technique	k-means	1
+water-based lubrication	k-y jam	1
+water-based, water-soluble vaginal lubricant	k-y jelly	1
+water-basedlubricant	k-y	1
+well-known clustering algorithm	k-medoids	2
+well-known clustering algorithm	k-means	2
+well-known clustering method	k-means	1
+well-known deterministic method	k-means	1
+wide dynamic range compression circuit	k-amp iii	1
+109k-series model	k- six 	2
+3rd party E-mail app	k- nine 	1
+3rd party email application	k- nine  mail 	1
+4-lane freeway	k- ten 	1
+automated clustering technique	k-mean clustering algorithm	1
+option	k-sport	1
+BMW model type	k-bikes character	1
+case team work related job	k- nine 	1
+Cation-chloride cotransporters	k-cl cotransport	1
+central grouping technique	k-means algorithm	1
+character education curriculum framework	k- six  core virtues 	1
+class new	k- five  class newsletter 	1
+classic clustering algorithm	k-means clustering	1
+Classical partitional clustering technique	k-means clustering	1
+clustering analysis technique	k-means clustering	1
+clustering marketing analytics technique	k-means algorithm	1
+codecs pack	k-lite	1
+color quantization algorithm	k-means	1
+combat ring sport	k- one 	1
+complete codec pack	k-lite mega codec pack	1
+complete codecs	k-lite codec pack	1
+completely artificial corneal replacement	k-pro	2
+complex clustering algorithm	k-means	2
+complicated clustering technique	k-means	1
+comprehensive codec pack	k-lite mega codec pack	1
+computationally expensive algorithm	k-shortest path route search	1
+controversial instuments	k- two  meter 	1
+conventional clustering approach	k-means	2
+conventional cluster-ingmethods	k-means algorithm	1
+conventional partitioning-based clustering method	k-means	1
+conventional turbulence model	k-epsilon model	1
+conventional vector quantization technique	k-means algorithm	1
+Correcting acupressure-points	k- twenty-seven 	1
+crisp clustering method	k-means	1
+currently educational system	k- twelve 	1
+cut master	k-swift	1
+Dave Frank tions	k- twelve  school 	1
+distance-based clustering	k-means	1
+distance-based clustering method	k-means	1
+dry feeder	k-tron feeder	1
+group	k- nine  kudos 	1
+education reform proposal	k- twelve  tuition voucher 	1
+educational deduction	k- twelve  deductions for the child 	1
+efficient construction	k-d tree	1
+elementary-middle school	k- eight  school 	2
+endorsement designation	k- four 	2
+essentially open system	k- twelve  education 	1
+estrogen-free vaginal lubricant	k-y jelly	1
+exogeneous additional lubricant	k-yr jelly	1
+experienced poker player	k- twelve  lobby 	1
+extinct theater	k-w in kitchener	1
+extraordinary technology	k-nfb reader	1
+fact store	k-mart	1
+family visa	k- one  fiance 	1
+faucet hole cover	k- eight thousand eight hundred and thirty  for the unused hole 	1
+focus governmental organization	k- twelve  school district 	1
+fracture test method	k-mold test	1
+full codec suite	k-lite	1
+gamma-emitters	k- fourty 	1
+gel-type nonirritating lubricant	k-y liquid.rtm	1
+genetic and molecular alteration	k-ras mutation	2
+good codec pack	k-lite	1
+good daily reconstructor	k-pak from joico	1
+gravimetric feeder	k-tron smart weigh belt	1
+great garage	k-tech automotive	1
+hard coffee pod	k-cup	1
+heavy operations-oriented company	k-mart	1
+ina classification technique	k-nearest neighbour	1
+group	k- eight 	1
+group	k- nine  pals 	1
+group	k- one  usa 	1
+group	k- twelve  sector through the education resource acquisition consortium 	1
+group	k- twelve  school chapel program 	1
+group	k-pop, liking group	1
+group	k- five 	1
+inherently non-symmetric matrix	k-nearest neighbor matrix	1
+innovative learning opportunity	k- five  science night 	1
+intact committee	k- twelve  curriculum committee 	1
+intensive reconstructor	k-pak by joico	1
+Intrinsic polarizers	k-type polarizers	1
+introduction classifier	k-nearest neighbor	1
+Introduction Region based segmentation	k-means	1
+introduction traditional clustering method	k-means	1
+Iterative clustering algorithm s	k-means	1
+k-anonymity technique	k-anonymity using clustering	1
+K-Frame revolver	k- eighteen 	1
+k-state enterprise system	k-state online	1
+laboratory E. coli strain	k- twelve 	2
+Light strike aircraft	k- eight 	3
+local chess interest	k- twelve  chess association 	1
+low rate applicator	k-line	2
+low rate effluent applicator	k-line	1
+low-rate, effluent irrigation system	k-line	1
+medium codec pack	k-lite & quictime alternative	1
+midline marker	k-wire	2
+MMA center	k-star thai boxing	1
+model-free clustering technique	k-means	2
+most-loved korean TV program	k-pop	1
+mozilla-based project	k-meleon	1
+multi-dimensional index method	k-d tree	1
+nationally brand name	k- twelve  gear 	1
+nefe's wide-ranging education initiative	k- twelve  teacher training 	1
+Non-hierarchical al gorithms	k-means	1
+non-hierarchical segmentation algorithm	k-means algorithm used in simplicity	1
+non-parametric analysis method	k-w anova	1
+nonparametric statistical test method	k-s test	1
+non-permitted environment	k- twelve  school 	1
+non-petroleum-based jelly	k-y	1
+method	k-means	14
+method	k-means clustering	6
+method	k-nearest neighbor	6
+method	k-nearest neighbor analysis	3
+method	k-s test	1
+method	k-t blast	1
+normal iterative clustering algorithm	k-means	1
+Offlinemethods	k-means clustering	1
+o-line clustering technique	k-means	1
+optimised point indexing method	k-d tree	1
+Orthophosphates	k-phos neutral	1
+OTC water-based vaginal lubricant	k-y jelly	1
+outer chain ring guard	k-edge ring guard	1
+over-the-counter vaginal moisturizer	k-y jelly	1
+partition approach	k-means	1
+Partition clustering	k-means groups the gene	1
+partition clustering algorithm	k-means	1
+partitional clustering method	k-means	3
+partitional clustering procedure	k-means	1
+partitional clustering technique	k-means clustering	1
+partition-based clustering	k-means	1
+partition-based clustering algorithm	k-means clustering	1
+partition-based clustering method	k-means	1
+partition-clustering algorithm	k-means	1
+partitioned algorithm	k-means	1
+Pasture-type common tall fescue	k- thirty-one 	1
+percutaneous probe	k-wire	1
+Phase B Partitioning algorithm	k-means	1
+phosphonate-containing peptides	k- twenty-six 	1
+popular automatic pattern clustering method	k-means clustering	1
+popular cluster analysis method	k-means	1
+popular sexual lubricant	k-y	1
+popular standup organization	k- one 	1
+practical quantization method	k-means	1
+procedural move	k- twelve  school 	1
+prototype-based algorithm	k-means	1
+prototype-based clusterings	k-means for descriptor quantization	1
+pyrolysis system	k-fuel process	1
+quality tooling vendor	k-nife corporation quality tooling vendor	1
+raytheon's community relation program	k- sixteen  math 	1
+relocation clustering algorithm	k-means	1
+relocation clustering method	k-means	1
+relocation method	k-means	1
+report information	k- one  report information 	1
+research-based national guideline	k- twelve  standards for quality service-learning practice 	1
+robust clustering algorithm	k-means algorithm	1
+Ru-sensitizers	k- nineteen 	1
+scattered amino acid change	k-to-r change in v two 	1
+school configuration	k- eight 	1
+second, clustering algorithm	k-means	1
+method	k-fold cross validation	1
+method	k-meanswithcluster number  two 	1
+method	k-means algorithm	1
+method	k-nearest neighbor algorithm	1
+method	k-e model	1
+method	k-ar dating	1
+short-acting, water-based lubricant	k-y jelly	2
+short-acting, water-based vaginal lubricant	k-y jelly	2
+similarity based categorization algorithm	k-nearest neighbor	1
+simple clustering algorithm	k-means	1
+simple water-based vaginal lubricant	k-y jelly	1
+single-membership model	k-means	1
+single-sided, geometric clustering algorithm	k-means	1
+small-market school	k-state	1
+soviet sub	k- nineteen 	1
+spatial index datum structure	k-d tree	1
+standard clus-teringalgorithms	k-means	1
+standard non-hierarchical cluster technique	k-means clustering	1
+standard string kernel	k-mercountsor spectrum kernels on the same training	1
+standard turbulence model	k-epsilon model	1
+static silo blender	k-tron premier problend tm zone blender	1
+stationary radar unit	k- fifteen 	1
+statistical clustering method	k-means procedure	1
+STATUTORY POLICY rule	k-percent rule for money growth	1
+sub-optimal clustering algorithm	k-means	1
+temporal acceleration technique	k-t blast	1
+thermodynamic and dynamic quantity	k-index	1
+third party codec pack	k-lite codec pack	2
+third party email app	k- nine 	1
+traditional clustering-based method	k-means	1
+traditional grade configuration	k- two 	1
+traditional one-way clustering algorithm	k-means	1
+traditional statistical multi-variant method	k-means clustering	1
+true local spot	k- thirty-eight  in midtown 	1
+tumor-specific molecular marker	k-ras mutation	1
+turbulence theory	k-theory	1
+two-equation turbulence model	k-e model	1
+two-sample test	k-s test	1
+ualsymptomsof infestation	k-winged bee	1
+unbalanced card count	k-o system	1
+Unrestricted incentive categoricals	k- three  class size reduction 	1
+unscented, uncolored lubricant	k-y jelly	1
+urban tour	k-ci	1
+vector codebook optimization algorithm	k-means algorithm	1
+tool	k-means	2
+tool	k-maps	1
+water soluble vaginal lubricant	k-y jelly	1
+water-based jelly	k-y jelly	1
+water-based, over-the-counter vaginal lubricant	k-y jelly	1
+water-soluble jelly	k-y jelly	3
+water-soluble personal lubricant	k-y gel before inserting the suppository into the vagina	1
+water-soluble type	k-y	1
+Well-known biomarkers	k-ras	1
+world war II cable size	k- fourteen 	1
+tool	k-tool	1
+project	k- twelve  athletic facility 	3
+product	k-y jelly	15
+project	k- twelve  online project 	1
+project	k-rock centre	1
+project	k- three d 	1
+project	k- twelve  education program 	1
+artist	k-os	4
+artist	k-klass	4
+artist	k-ci & jojo	3
+artist	k-pop group jyj	3
+artist	k-drama	2
+artist	k-rino	1
+material	k-y jelly	2
+material	k- seventy   eighteen -gauge pvc 	1
+place	k-mart	7
+product	k- two 	1
+product	k- nine  advantix 	1
+product	k- two  incense 	1
+technology	k-line system	1
+technology	k-means algorithm	1
+parameter	k-factor	1
+parameter	k-index	1
+parameter	k-s entropy	1
+species	k-selected bird species	1
+function	k- nine  sidekick 	1
+device	k-e splint	1
+device	k-ii meter	1
+brand	k-swiss	10
+brand	k-way	2
+brand	k-y	1
+brand	k- two 	1
+brand	k- nine  advantix 	1
+brand	k- fourty  radar 	1
+brand	k-bar	1
+brand	k-line	1

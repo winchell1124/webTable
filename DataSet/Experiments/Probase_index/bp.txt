@@ -1,0 +1,1918 @@
+product	bpw axle related product	1
+product	bpinoy remittance for the overseas filipinos	1
+initiative	bpm	2
+initiative	bpcl-kochi refinery limited merger	1
+datum	bpm	3
+datum	bphysicsobject field	1
+resource	bpa certificate	1
+resource	bpi practice	1
+facility	bppt	1
+facility	bppip	1
+process	bpr	3
+process	bpsg removal	2
+source	bp statistical review	1
+source	bp statistical review of world energy	1
+benefit	bpt	1
+benefit	bp drop	1
+game	bpg	1
+subject	bph	1
+subject	bpm optimization	1
+product	bpr	1
+product	bpi  one mr 	1
+product	bpa	1
+exception	bp	1
+model	bpr model	2
+model	bp risc	1
+word	bpm	1
+situation	bp oil spill	2
+situation	bph	1
+situation	bp deepwater catastrophe	1
+situation	bp deepwater horizon oil spill	1
+category	bpt	1
+institution	bpo	1
+client	bp	40
+client	bp amoco	2
+client	bpcl	2
+client	bp castrol	1
+document	bpr	1
+approach	bpel four wsrequire a central process management component 	1
+approach	bpn	1
+approach	bpel four people 	1
+approach	bpel	1
+idea	bpr	1
+agency	bps	1
+symptom	bppd attacks of dizziness	1
+symptom	bp change	1
+course	bpi analyst	1
+course	bpi training	1
+writer	bpnichol	1
+mechanism	bp reactivity	1
+solution	bpm	4
+feature	bpdu guard	2
+feature	bpud guard	1
+feature	bpm editor	1
+feature	bp community	1
+feature	bpm	1
+feature	bpm counter	1
+film	bpsg film	2
+business	bp	6
+business	bpo	3
+business	bpo company	1
+business	bpo business	1
+field	bpo	2
+field	bp's offshore field	1
+operation	bpcs	1
+operation	bp's northstar island	1
+circumstance	bp differences in arm	1
+development	bpr	1
+disease	bph	2
+disease	bpad	1
+criterion	bp requirement	1
+firm	bp	34
+firm	bp solar	1
+industry	bpo	10
+industry	bpo sector	2
+industry	bpo outsourcing	2
+industry	bpo i.e businees process outsourcing	1
+job	bpo executive	2
+job	bpo	1
+job	bpo job	1
+indicator	bpi	2
+manufacturer	bpl	2
+manufacturer	bp solar	2
+instrument	bp cuff	3
+feature	bpa free	1
+attribute	bpm	1
+publication	bpm mag	1
+compound	bpa	2
+website	bp	3
+equipment	bp instrument	1
+leader	bp ceo lord john browne	1
+instance	bpl experimental operation	1
+substance	bpa	5
+feature	bpdu filter	1
+medication	bp meds	1
+Organisations	bp	7
+Organisations	bpamoco	1
+partner	bp plc	1
+partner	bpi	1
+partner	bp amoco	1
+big name	bp	6
+big name	bpl	1
+standard	bpmn	9
+standard	bpml	1
+standard	bpct standard	1
+standard	bp el	1
+standard	bpmn in every way	1
+advanced feature	bpel	1
+sector	bpo	12
+sector	bpo service	1
+sector	bpo service provider	1
+sector	bpw	1
+influence	bp medication	1
+environmental factor	bpa	1
+market	bpm market	1
+market	bpo	1
+customer	bp	14
+customer	bp over the old system	1
+customer	bp newport	1
+opportunity	bpo	1
+intervention	bp control	1
+label	bpitch	1
+label	bpa free	1
+side effect	bp	3
+side effect	bph	1
+issue	bp oil spill	3
+issue	bpa	3
+supply	bp cuff	2
+award	bp lodge crew service award	1
+need	bpg one hundred and ninety-five  overwhelming need 	1
+chemical	bpa	41
+chemical	bpa's pvc	1
+article	bpl's wonder wool	1
+disorder	bpd	2
+disorder	bppv	1
+module	bpo	1
+module	bpoc medication administration system	1
+magazine	bpm culture	1
+provider	bpl mobile	1
+provider	bpp university college	1
+retailer	bp	4
+retailer	bp amoco	4
+retailer	bpcl	1
+party	bpp	1
+offer	bp amoco rewards card	1
+protein	bpti	2
+protein	bptf	1
+barrier	bpb	1
+competitor	bp amoco	1
+trend	bpr	1
+trend	bpm in the cloud	1
+trend	bpm	1
+gift	bpa-free teething ring	1
+corporation	bp	38
+corporation	bp amoco	4
+corporation	bpi family savings bank	1
+language	bpel  three 	1
+language	bpml	1
+producer	bp	7
+producer	bp amoco	1
+channel	bpm website	3
+channel	bpl	1
+incident	bp oil spill	2
+incident	bp deepwater horizon oil spill	1
+incident	bp texas city	1
+incident	bp oil spill in the gulf of mexico	1
+incident	bp refinery explosion in texas city	1
+incident	bp texas city refinery explosion	1
+driver	bpa expense	1
+file	bpsconversion . log	1
+artifact	bpptendtoinduce image artifact	1
+artifact	bpel process	1
+issue	bpay	1
+platform	bpi direct savings account with a p five hundred  maintaining balance 	1
+service provider	bpl	3
+supplier	bp	3
+supplier	bp amoco	1
+error	bpv	1
+bank	bpi	3
+bank	bprs artha fisabilillah	1
+bank	bpi family bank rcbc accumulation bank	1
+employer	bp	5
+domain	bpm	1
+domain	bprs involving risk advisory services	1
+operator	bp	12
+operator	bp shop	1
+operator	bp plc	1
+operator	bp amoco plc	1
+chain	bp	5
+chain	bp amoco	1
+mode	bpsk	1
+shop	bp specialties in oregon	1
+stock	bp	6
+stock	bpcl	4
+stock	bpi	1
+account	bp	8
+support service	bphc wide support service	1
+support service	bphc-wide  support service	1
+support service	bphc-wide support service	1
+large company	bp	26
+large company	bp amoco	1
+transaction	bpay	1
+small item	bp monitor	1
+sponsor	bp ultimate	1
+issue	bph	1
+director	bp chairman	1
+signal	bpsk	2
+signal	bp signal	1
+great feature	bpm sync with music	1
+oil	bp energol racing	1
+rival	bp	5
+rival	bp plc	1
+community event	bps parent university s kickoff	1
+community event	bps showcase for schools	1
+industry leader	bp	7
+industry leader	bpl telecom	1
+industry leader	bpcl	1
+specification	bpdm	1
+professional organization	bpmpa	2
+professional organization	bpw	1
+enterprise	bp vietnam	1
+enterprise	bpo	1
+enterprise	bp exploration	1
+layer	bpsg	8
+layer	bpsg layer	2
+methodology	bpr	1
+filter	bpf	1
+investment	bp investment in california	1
+issue	bp oil disaster	1
+issue	bpr	1
+investor	bp	6
+giant	bp	11
+giant	bp amoco	2
+household name	bp amoco	1
+response	bpa's metabolic blood clearance time	1
+code	bps code of conduct	1
+notable exception	bp	2
+developer	bptp india ltd	2
+developer	bpg properties	2
+developer	bptp	1
+developer	bptp in faridabad	1
+participant	bp	4
+community group	bpw	1
+official	bp shukla	1
+disaster	bp oil spill	6
+disaster	bp oil spill in the gulf of mexico	5
+disaster	bp spill	2
+disaster	bp oil leak in the gulf of mexico	2
+disaster	bp oil spill of  two thousand and ten 	2
+disaster	bp oil gusher in the gulf	1
+disaster	bp gulf fiasco	1
+disaster	bp gulf oil spill	1
+disaster	bp spill in the gulf of mexico	1
+play	bp tiber	1
+qualification	bpec in unvented hot water storage	2
+national organization	bpw	2
+big company	bp	12
+office	bpo	3
+office	bpc	1
+local company	bpl	1
+diagnosis	bpd	4
+fuel	bp ultimate	2
+fuel	bp's ultimate	2
+large project	bp gtl plant	1
+large organization	bp	7
+large organization	bp ford world rally team	1
+large organization	bp practice ea	1
+large corporation	bp	22
+large corporation	bp amoco	1
+large corporation	bpl	1
+large corporation	bp from republican donor list	1
+tax	bpol tax	1
+international company	bp	16
+international company	bp solar	2
+consumer product	bpa free water bottle	1
+avenue	bpo	1
+certification	bpi building analyst	1
+item	bpi money	1
+item	bpa free water bottle	1
+guideline	bps guideline	1
+coating	bpsg glass coating	1
+heavyweight	bp	2
+school activity	bpa	3
+educational institution	bpo's	1
+promotional item	bpa free water bottle	1
+private company	bpl	1
+international brand	bp	1
+major	bp	15
+major	bp plc	3
+major	bp amoco	1
+major	bp bp plc	1
+professional association	bps	1
+big player	bp	2
+big player	bp solar	1
+big player	bp bp	1
+purchase	bpx opportunity	1
+well-known name	bp europe ltd.	1
+emerging technology	bpm	1
+crisis	bp oil spill	3
+crisis	bp's oil spill	2
+contractor	bp partner on the well	1
+stalwart	bp	1
+toxin	bpa	2
+toxin	bpa in plastic	1
+tag	bpm	1
+well-known company	bp	2
+item	bpo prepared by a broker	1
+item	bp cuff	1
+loss	bp texas city incident	1
+student organization	bpa	1
+software tool	bpm	2
+degree	bphil	1
+chronic disease	bp	1
+big brand	bp	1
+outfit	bp plc	1
+practical skill	bp	1
+accident	bp oil spill in the gulf of mexico	1
+accident	bp's explosion	1
+scale	bprs	1
+multinational company	bp	3
+multinational company	bp asia pacific	1
+leading company	bp amoco	1
+key parameter	bp  one hundred and ninety 	1
+peer	bp	2
+peer	bp plc	1
+multinational	bp	12
+multinational	bp & ge	1
+buyer	bp plc	4
+buyer	bp's russell taruscio	2
+industry giant	bp	5
+industry giant	bp p.l.c.	1
+community partner	bp of america	1
+top player	bp	1
+item	bpa-free bottle	1
+common condition	bph	1
+industry standard	bpmn	2
+industry standard	bpml	1
+global company	bp	9
+global company	bp international	1
+exhibitor	bp corporation	1
+clinical parameter	bp	3
+facet	bpm integration	1
+global brand	bp	3
+global brand	bp & canada dry	2
+outcome measure	bp	1
+disease state	bph	2
+executive	bp america president robert malone	2
+large firm	bpl	2
+large firm	bp	2
+large firm	bp solar international	1
+corporate client	bp	3
+corporate client	bpl	1
+inorganic material	bpsg	1
+service industry	bpo	2
+health concern	bph	1
+area	bpo	11
+area	bpm	2
+top company	bp	3
+oxide	bpsg	1
+consulting service	bpo	1
+node	bpds  one hundred and thirty 	3
+profile	bpo executive	1
+tragedy	bp oil spill	1
+catastrophic event	bp deepwater horizon blowout	2
+business leader	bp	2
+traditional approach	bpmn	1
+industry organization	bpi	1
+large employer	bp	1
+industry association	bpo services association	2
+national chain	bp	1
+key function	bpm	1
+management issue	bpr	1
+plugins	bpermissions	1
+unexpected event	bp plc's oil spill	3
+advanced service	bpo outsourcing	1
+metabolite	bpa diglucuronide	1
+metabolite	bpa sulfateconjugate	1
+abbreviation	bp ex	1
+case study	bp exploration	1
+industry player	bp	8
+U.S. company	bp exploration	1
+technology company	bpl technology company	1
+industry expert	bp ceo tony hayward	1
+indian company	bpl	2
+area	bpo's	1
+area	bp garage	1
+area	bpr	1
+area	bpt	1
+global player	bp	4
+implementation	bpf based pcap	1
+toxic chemical	bpa	3
+presentation	bpz datum	1
+chain store	bp	4
+demographic characteristic	bp	1
+standard method	bpmn	1
+corporate giant	bp	1
+numerical method	bpm	2
+international player	bp solar	2
+multinational corporation	bp	8
+multinational corporation	bp amoco	1
+multinational corporation	bp shell	1
+training material	bpm training material	1
+national company	bp	1
+oil company	bp	141
+oil company	bp plc	14
+oil company	bp amoco	7
+oil company	bpcl	2
+payment option	bpay	2
+end user	bp	1
+predictor	bprs	1
+vertical	bpo	1
+service business	bpo	2
+simple device	bp blood pressure monitor	1
+acronym	bpap	1
+acronym	bpc	1
+world event	bp oil disaster	1
+funders	bp	1
+renowned company	bp	1
+high profile event	bp oil spill	3
+outside organization	bpa worldwide	1
+famous company	bp	2
+payment method	bpay	1
+industry heavyweight	bp	3
+project activity	bpel process flow modeling	1
+great company	bp	1
+great company	bpo business	1
+ongoing project	bptp parklands by bptp	2
+ongoing project	bptp parklands	1
+harmful chemical	bpa	3
+harmful chemical	bpa into the water	1
+modeling technique	bpmn	2
+modeling technique	bpm's modeling technique	1
+big corporation	bp	5
+mental disorder	bpd	1
+global organization	bp amoco	1
+professional society	bps	2
+energy company	bp	23
+energy company	bp amoco	1
+energy company	bp pouring money into building new plants for producing the fuel	1
+corporates	bp	1
+corporates	bp on corporate finance issue	1
+european company	bp	3
+european company	bp of the uk	2
+rifle	bp express	1
+leading manufacturer	bp solar	1
+leading manufacturer	bp	1
+industry partner	bp	1
+service	bpo	4
+service	bpo service	3
+benign condition	bph	1
+high-profile client	bp	1
+affiliate	bpw sweden	1
+attorney	bpi's current co-counsel earle cooley	1
+manufacturing company	bp	1
+critical element	bpm signal pickup	1
+formal event	bp sunday	1
+logo	bp solar	1
+production company	bp	1
+medical information	bp	6
+viral disease	bp	1
+prestigious client	bp	3
+prestigious client	bpl	1
+prestigious client	bp amoco	1
+prominent company	bp	2
+psychiatric disorder	bpd	1
+global corporation	bp	2
+global corporation	bp spending billions on becoming	1
+manufacture	bp	1
+global giant	bp	1
+trade organization	bpi	2
+disturbed area	bpa right of way corridor	1
+notable company	bp	1
+big business	bp oil	2
+big business	bp	1
+pilot	bpos	1
+private firm	bpi capital corp.	1
+private firm	bp	1
+questionnaire	bph impact index	1
+edge technology	bpm	1
+insider	bpro's kevin goldstein	1
+niche area	bpm	1
+factor	bpc-barometric pressure control	1
+factor	bpr	1
+factor	bp value	1
+factor	bph	1
+factor	bpu confiscating	1
+factor	bpu detection	1
+factor	bpu submission	1
+service	bpo catering service	1
+service	bp check	1
+service	bphc wide support service	1
+service	bpm automation	1
+service	bpa free bottles option	1
+international firm	bp	2
+share	bp	4
+local brand	bpl	1
+local employer	bp	1
+bottle	bpa-free plastic bottle	1
+private sector organization	bp	1
+big firm	bp	1
+huge company	bp	1
+adopter	bp	1
+strategic initiative	bpm	1
+calamity	bp gulf of mexico oil spill	1
+large player	bp	3
+insulation material	bpsg	4
+sheet	bpi.agri's visqueen clingseal	1
+blue chip client	bp	2
+blue chip client	bp pension fund	1
+biggie	bp	1
+insulator	bpsg film	1
+carcinogen	bpde	2
+blue chip	bp within an isa	2
+commercial business	bp convenience store	1
+industrial company	bp	2
+reputed company	bpcl	1
+residential project	bptp freedom park life	1
+lewis acid	bph  three 	1
+service	bp monitoring	1
+service	bphc-wide  support service	1
+service	bpel workflows	1
+local bank	bpi	7
+local player	bpl healthcare	1
+one-off event	bp's oil spill	1
+domestic company	bpl health care limited	1
+national tenant	bp gas	1
+notation	bpmn	4
+original equipment manufacturer	bpl	1
+modulation scheme	bpsk	7
+influence factor	bpo concentration	1
+lung disease	bpd	1
+blue-chip company	bp	1
+high-profile company	bp	1
+multi-national company	bp	1
+global firm	bp	1
+fancy feature	bpm counting	1
+OEMs	bpw	1
+publicly available information	bp's own internal investigation into the accident's cause	1
+standard measure	bp	1
+rock group	bpi rock group	1
+multinational firm	bp	1
+giant company	bp	3
+regional player	bpl	1
+big hitter	bp	1
+independent agency	bps	1
+medical factor	bpd	1
+man-made disaster	bp oil spill in the gulf of mexico	1
+service	bpo solution	1
+service	bphc-wide support service	1
+landlord	bpg properties ltd.	1
+modulation technique	bpsk	1
+environmental disaster	bp oil spill	3
+year company	bp	3
+badge	bp award	1
+complex disease	bpd	1
+business concept	bpm	1
+access technology	bpl	1
+news event	bp deep water oil rig explosion	1
+news event	bp's oil spill	1
+prominent organization	bp	1
+UK company	bp	9
+dangerous chemical	bpa	2
+synthetic chemical	bpa	1
+school club	bpa	1
+calculator	bp world land trust	2
+top firm	bp	1
+fire	bp gas station fire	1
+industrial giant	bp	2
+licensed professional	bpc coaches	1
+vital sign	bp	4
+western company	bp	3
+western company	bp plc	1
+dielectric layer	bpsg	2
+dielectric layer	bpsg layer	1
+large multinational	bp	2
+british company	bp	21
+private corporation	bp	1
+private corporation	bpi family	1
+private player	bp plc	2
+topic	bpa-free baby bottle	4
+topic	bpr	2
+topic	bp management	1
+potential confounding variable	bp control	1
+environmental exposure	bpa	1
+hemodynamic parameter	bp	1
+oil producer	bp	7
+oil producer	bp plc	2
+traffic	bpdus	1
+large investor	bp	1
+titan	bp	2
+physiological measure	bp	1
+industrial project	bp refinery	1
+personality disorder	bpd	2
+international giant	bp	5
+mood disorder	bpd	1
+corporate company	bp	2
+good company	bp	1
+large multinational company	bp	1
+large multinational company	bp plc	1
+modelling technique	bpmn	1
+huge corporation	bp	4
+world class company	bp	1
+financial service firm	bpd bank	1
+infrastructure asset	bp kwinana cogeneration plant	1
+multi-nationals	bp	1
+private sector	bpl	1
+private sector	bpo company	1
+risk measure	bpv	1
+transport system	bpd transport system	1
+leading name	bp	1
+analog signal	bp signal	1
+chemical contaminant	bpa	1
+giant corporation	bp	2
+convenience store	bp	1
+convenience store	bp express	1
+training provider	bpp	2
+industry stalwart	bpcl	1
+notable organization	bp	1
+notable organization	bpcl	1
+topic	bpa free baby bottle	1
+topic	bpa	1
+local manufacturer	bpl limited	1
+member organization	bp	1
+leading corporation	bp	1
+transnational corporation	bp amoco	2
+large international company	bp	2
+local tax	bpol	1
+complementary technology	bpm	1
+executive position	bpa ab	1
+technology trend	bpm	1
+modeling language	bpmn	1
+multi-national corporation	bp	2
+shipper	bp	1
+international label	bpitch control	1
+lifestyle disease	bp	1
+refiner	bp plc	1
+modulation method	bpsk	4
+nursery	bpw citrus nursery in lockhart	1
+private provider	bpp	2
+local corporation	bp solar	1
+local corporation	bptt	1
+private operator	bpl	5
+clinical disorder	bpd	1
+engineering company	bp	1
+rating scale	bprs in clinical trial	1
+traditional process	bpr	1
+topic	bpa audit	1
+topic	bp oil spill	1
+topic	bph	1
+topic	bpm	1
+text field	bpm	2
+plastic bottle	bpa-free plastic bottle	1
+successful brand	bp	1
+unsecured creditor	bp	1
+conventional risk factor	bp	1
+well-known corporation	bp	1
+global enterprise	bp	1
+harmful product	bpa	1
+industry participant	bp	1
+training service	bpmn training	1
+genome	bpv	1
+age-related condition	bph	1
+global customer	bp plc	1
+global customer	bp	1
+biggest company	bp	1
+complex disorder	bpd	3
+well-established company	bp solar	2
+negative issue	bp's woes in the gulf of mexico	1
+vital parameter	bp	1
+world-class organization	bp	1
+ERP system	bpcs	1
+merger	bp amoco	4
+physical constant	bp's	1
+school item	bpa free drink bottle	1
+client company	bp	2
+compan ies	bp	1
+international competitor	bp solar international inc.	2
+company	bp	424
+company	bp amoco	26
+company	bp plc	13
+company	bp solar	11
+company	bpcl	8
+company	bpl	5
+company	bp oil	5
+company	bpamoco	3
+company	bptp	2
+company	bp australia	2
+company	bptt	2
+company	bpm technology	2
+company	bpos	1
+company	bpo processing unit of caltex	1
+company	bpl wipro carrier aircon maruti thermax bata philips titan	1
+company	bpi family savings bank	1
+company	bpa free company	1
+company	bpandshellhave withdrawn from the gcc	1
+company	bp-atlantic richfield	1
+company	bpb manufacturing	1
+company	bpm gestioni	1
+company	bpl technology company	1
+company	bpl mobile	1
+employment sector	bpo industry	1
+environmental catastrophe	bp oil spill in the gulf of mexico making worldwide headline	2
+key asset	bp's extensive alaskan pipeline	1
+solar company	bp solar	1
+service line	bpo	2
+autonomic function	bp	2
+broadband technology	bpl	1
+spectacular event	bp oil disaster in the gulf of mexico	1
+successful firm	bp	2
+discrete variable	bp control rate	1
+exclusion criterion	bp at the screening session	1
+large corporate client	bp	2
+modulation format	bpsk	4
+specialist technique	bpmn	1
+vacation	bps school vacation	1
+automated device	bp tru	1
+oil firm	bp	3
+oil firm	bpcl	1
+oil firm	bp plc	1
+oil giant	bp	18
+oil giant	bp plc	4
+oil giant	bp amoco	1
+oil giant	bp bp	1
+transnational company	bp	2
+transnational company	bp amoco	1
+foundry	bp foundry	1
+oil major	bp	55
+oil major	bp plc	4
+oil major	bp conocophillips	1
+oil major	bp amoco	1
+oil major	bpcl on the disinvestment block	1
+oil major	bp-conoco-atlantic richfield company	1
+vital factor	bpr	1
+world-famous company	bpa international	1
+blue chip organization	bp	2
+core functionality	bpf's	1
+manufacturing firm	bp	1
+outside company	bp	1
+PAHs	bpde	1
+PAHs	bphde produce adducts repaired by tcr	1
+commercial space	bpo s	1
+energy stock	bp	2
+energy stock	bp plc	1
+key retailer	bp	1
+modem	bpl modem	1
+gas station	bp	1
+gas station	bp on westnedge avenue	1
+gas station	bp gas	1
+company	bpi	1
+company	bpi express credit card	1
+company	bpe	1
+company	bp american	1
+multinational giant	bp amoco	1
+natural and man-made disaster	bp oil spill	1
+medical accessory	bp cuffs	1
+modulation	bpsk	3
+industrial standard	bpmn	1
+petroleum company	bp	8
+smart company	bp	1
+premier company	bp	1
+public sector company	bpcl	1
+auditor	bpi consultants	1
+auditor	bpkp	1
+benign disease	bph	1
+british firm	bp	3
+essential equipment	bp instrument	1
+featuring speaker	bpm partners analyst	1
+international oil company	bp	13
+international oil company	bp plc	4
+international oil company	bp amoco	2
+big international company	bp	2
+european giant	bp	3
+international heavyweight	bp	1
+surrogate endpoint	bp control	1
+cost function	bpr function	1
+diversified company	bp plc	1
+wild card	bp	1
+continuous outcome	bp	1
+company	bpl global	1
+company	bp's heritage company	1
+multinational client	bp	1
+well-known algorithm	bptt	1
+endocrine disruptors	bpa	4
+harmful compound	bpa	1
+high-profile incident	bp's deepwater horizon oil spill	2
+western firm	bp	1
+comorbid factor	bpd	1
+devastating event	bp oil spill in the gulf of mexico	1
+gas company	bp	1
+resource company	bp	1
+energy firm	bp	1
+manufacturing giant	bp	1
+partnership program	bpd program	1
+probl em	bpd	1
+distinguished organization	bp	1
+energy giant	bp	4
+gas producer	bp	3
+oil spill	bp spill in the gulf of mexico	1
+oil spill	bp's macondo well spill in the gulf of mexico	1
+sample survey	bps	1
+control message	bpdus	1
+management protocol	bpdu	1
+technological disaster	bp oil spill	2
+training algorithm	bp	2
+commodity stock	bp	1
+digital mode	bpsk	1
+filter characteristic	bp	1
+measurement technology	bpe technology	1
+medical outcome	bp	1
+activity	bpa's contract with resources for the future	1
+government corporation	bpc	1
+responsible party	bp	1
+large contract	bp uk retail	1
+massive company	bp	1
+key stock	bpcl	1
+multi-national organization	bp	2
+operating company	bp	1
+baseline parameter	bp	1
+biggest firm	bp	2
+industry manufacturer	bp solar	1
+refinery	bp refinery	1
+transnational	bp	1
+business client	bp	1
+communication component	bpf  two hundred and sixteen a 	1
+communication component	bpf  two hundred and thirty-six a 	1
+drug side effect	bp	1
+image artifact	bpptendtoinduce image artifact	1
+biometric measurement	bpd	1
+national crisis	bp spill in the gulf	1
+pivotal event	bp oil spill in the gulf of mexico	1
+standard language	bpel for service composition	1
+big oil company	bp	20
+business support function	bpo	1
+carcinogenic compound	bpa	1
+leading multinational	bp	1
+order function	bpm	2
+strong partner	bp	1
+local developer	bpg properties ltd.	1
+nasty chemical	bpa	1
+offshore activity	bpo	1
+standard risk factor	bp	1
+company initiative	bpe into work practice	1
+corporate interest	bp amoco	1
+demographic and clinical factor	bp	3
+energy player	bp	2
+european corporation	bp	1
+innovative organization	bp	1
+integrated technology	bpm	1
+large oil company	bp	10
+growth business	bpo	3
+longitudinal survey	bps	1
+network partner	bp	1
+standard methodology	bpmn	1
+temporal parameter	bp execution time	1
+UK firm	bp	1
+activity	bpr	1
+industrial compound	bpa	3
+innovation leader	bp	1
+large multi-national corporation	bp	2
+private sector institution	bpp	1
+unrelated issue	bpv	1
+world's biggest company	bp	2
+largest organization	bp	1
+oil corporation	bp	5
+oil corporation	bpand shell	1
+oil marketing company	bpcl	9
+physiologic datum	bp	1
+system model	bpa's hoss model	1
+visionary company	bp	1
+Big corporates	bp	1
+canadian writer	bpnichol	1
+communication signal	bpsk	1
+corporate member	bp	1
+day company	bp	1
+endocrine-disrupting chemical	bpa	1
+long-established company	bp	2
+multinational oil company	bp	6
+oil stock	bp	1
+oil stock	bpcl	1
+potential industry	bpo	1
+top international company	bp	1
+action program	bpoa	1
+corporate and government client	bp	1
+diesel	bp ultimate diesel	1
+huge multinational	bp	1
+impressive client	bpm magazine	1
+international major	bp	3
+large energy company	bp	4
+passivation film	bpsc	1
+passivation film	bpsg	1
+passivation film	bpsg film	1
+perfume oil	bpal	1
+petrol station	bp	1
+process standard	bpmn	1
+prostate disease	bph	3
+information	bpm	3
+information	bpl family	2
+binary system	bpsk	1
+combat disease	bp	1
+consulting organization	bpi	1
+energy business	bp	1
+industry peer	bp plc.	2
+industry peer	bp	1
+large building project	bp wind farm	1
+power producer	bpa	1
+prostate condition	bph	2
+silicon oxide	bpsg	6
+antimicrobial protein	bpi	1
+graphical language	bpmn	1
+IPPs	bpc	1
+large IT project	bpr project for samsung life insurance co.	1
+out-of-state company	bp exploration & production	1
+vestibular disorder	bppv	1
+world-leading brand	bp	1
+big international player	bp	1
+credit transaction	bpay	1
+european heavyweight	bp plc	1
+european heavyweight	bp	1
+fuel company	bp	3
+giant multinational	bp	1
+independent oil company	bp	1
+international oil major	bp	3
+severe accident	bp catastrophe in the gulf of mexico	1
+cellular operator	bpl	1
+information	bpa model id	1
+information	bp interval	1
+digital modulation technique	bpsk	1
+management model	bpr	1
+noncancerous condition	bph	2
+noteworthy company	bp	1
+synthetic estrogen	bpa in bottle	1
+unrelated event	bp oil spill in the gulf of mexico	1
+western oil company	bp	6
+xml-based standard	bpml	1
+advanced web application	bpms	1
+energy corporation	bp american	1
+energy corporation	bp	1
+global multinational	bp	1
+global powerhouse	bp	1
+large corporate sponsor	bp	1
+large, multinational company	bp	1
+local industry leader	bp	1
+malabsorptive procedure	bpd	3
+modulation type	bpsk	1
+multinational manufacturer	bp	1
+oil refinery	bp	2
+oil refinery	bp amoco refinery in texas city	1
+selective insecticide	bpmc	1
+symptom scale	bprs	1
+american oil company	bp	1
+basic tag	bpm	2
+big industry player	bp wind energy	1
+career oriented course	bpo	1
+global telecom player	bpl	1
+indian and foreign company	bp	1
+infectious virus	bpv	1
+integrated company	bp	1
+large, multinational corporation	bp	1
+large, multinational corporation	bp plc	1
+liquid stock	bp	1
+event	bp oil spill	15
+event	bp oil spill in the gulf of mexico	4
+event	bp gulf oil spill	3
+event	bp oil disaster in the gulf of mexico last year	2
+renowned buyer	bp	1
+sector strategy	bpo	2
+technological concept	bpm	1
+wolf	bpp by a gvt staffed with egg-heads	1
+analytical feature	bpm counter	1
+ECM technology	bpm	1
+established system	bpay	1
+global business giant	bp	1
+integrated oil company	bp	4
+integrated oil company	bp plc	1
+petroleum giant	bp products north america	1
+petroleum giant	bp	1
+rehabilitation center	bpks	1
+control field	bp type	1
+datum mode	bpsk	1
+Disruptors	bpa	2
+european oil company	bp	5
+global oil major	bp	3
+oil & gas company	bp	1
+event	bpo concert	1
+event	bpv	1
+event	bp oil accident last year	1
+event	bp oil spill off the gulf of mexico	1
+event	bp oil issue	1
+event	bp spill in the gulf of mexico	1
+event	bp oil crisis	1
+refinery stock	bpcl	1
+tradeable service	bpo	2
+viewer company	bp	2
+adverse cardiovascular effect	bp	2
+agile approach	bpm	1
+company leader	bp america president bob malone	1
+corporate disaster	bp gulf of mexico oil spill	1
+cross-disciplinary field	bpm	1
+differential part	bp shaft	1
+edge brand	bpi sports	1
+fourth, factor	bp	1
+global blue chip company	bp	1
+international energy company	bp	1
+international global player	bp	5
+leading multinational company	bp	2
+long-term cooperative company	bp lubricants	1
+motor club	bp motor club	1
+petroleum refinery	bp	1
+PV manufacturer	bp solar	5
+thechoiceofbusiness iconic business	bp	1
+true, company	bp	1
+Xenoestrogens	bpa	2
+best real estate builder	bptp	1
+brand partner	bpi	1
+clearly company	bp	1
+event	bp deepwater horizon accident	1
+event	bp gulf of mexico oil spill	1
+event	bp fluct uation during anesthesia	1
+event	bp oil gulf coast disaster	1
+european major	bp	3
+global explorer	bp	2
+global explorer	bp plc	1
+global manufacturing company	bp	1
+insulative layer	bpsg	1
+integrated firm	bp	1
+international oil giant	bp plc	4
+international oil giant	bp	2
+manufacturer product	bpt automatic bollards	2
+MDAs	bpe	1
+modelling notation	bpel	1
+modelling notation	bpmn	1
+potential model	bp	1
+process modeling language	bpmn	2
+process modeling language	bpml	1
+school vacation	bps school vacation	1
+SOA component	bpel process manager	3
+socialist party	bpp	1
+structured instrument	bprs	1
+unusual font	bpg unicode standard	1
+user-defined setting	bpm range	5
+well-known british company	bp	2
+well-known british company	bps technical design	1
+antibacterial protein	bpi	1
+basic observation	bp	1
+best-known company	bp	1
+big leader	bp	1
+business change program	bpr project	1
+degree-granting institution	bpp	1
+em item	bp cuff	1
+established operator	bp	1
+fossil fuel company	bp	1
+global oil company	bp	4
+global oil company	bp amoco	1
+heart meds	bp prescription	1
+high octane fuel	bp ultimate	1
+interactive community	bpx community	1
+internationally company	bp	1
+labor stalwart	bp	1
+legacy event	bpsc legacy event	1
+program	bpa	1
+program	bpp's survival program	1
+program	bpc	1
+once-popular brand	bpl	1
+public standard	bpmn	1
+simple modulation scheme	bpsk	3
+specialist player	bpt bridgewater	1
+wind developer	bp alternative energy	1
+world's biggest oil company	bp	3
+world's biggest oil company	bp plc	1
+basic medical information	bp height	1
+clinical diagnostic test	bp	1
+digital modulation scheme	bpsk	3
+energy trust	bpt	1
+established employer	bp	2
+european energy company	bp	2
+expensive chain	bp	1
+four-year degree	bphed	1
+gas station chain	bp	1
+GCC member	bp	1
+government-run company	bpcl	1
+GSM player	bpl	1
+high quality fuel	bp ultimate	4
+high quality spare part	bpw axles for haulage truck	1
+iconic business	bp	1
+industry contributor	bp lubricants	1
+insulating layer	bpsg	1
+large commercial organization	bp	2
+leading international oil company	bp	1
+leading international oil company	bp amoco	1
+linked document	bpp document	2
+low molecular weight chemical	bpa from polycarbonate	1
+mega deal	bp's of amoco	1
+multimillion dollar account	bp amoco	1
+national chain vendor	bp	1
+national statistical agency	bps	1
+oil soluble initiator	bpo	1
+petroleum producer	bp	1
+program	bp monitoring clinic	1
+prestigious brand name	bp tarnished by pr disaster	2
+solar panel brand	bp solar	2
+specialist broker	bpl global	1
+state-run oil marketing company	bpcl	4
+abortion provider	bpas	1
+big foreign company	bp	2
+bioactive chemical	bpa	1
+client's vital sign	bp	1
+DJ CD player feature	bpm meter	1
+downstream company	bpcl	1
+eclipse extension	bpmn modeler	1
+established and successful company	bp oil	1
+european multinational corporation	bp	1
+extractive company	bp	1
+famous brand corporation	bp	1
+fill layer	bpsg	1
+fuel supplier	bp	1
+gasoline retailer	bp	1
+greenhouse gas emitter	bp	1
+household-name company	bp	1
+identity proof	bpl card	1
+impressive statistic	bpo value-to-sales price	1
+impurity R	bpo . sub . four 	1
+impurity R	bpo  four 	1
+indian mobile operator	bpl	1
+interesting package	bpc	1
+interlayer insulation film	bpsg film	2
+key baseline characteristic	bp	1
+key corporate player	bp	1
+large international energy company	bp	2
+large ligands	bpe	1
+leading oil company	bp	3
+malignant disorder	bpd	1
+mega cap	bp	1
+multinational chemical company	bp chemicals in the uk	1
+multinational industry	bp amoco	1
+northwest organization	bp	1
+offshore-based software service	bpo	1
+oil & gas account	bp	1
+oil & major company	bp	1
+oil group	bp	2
+oil majors	bp p.l.c.	2
+oil multinational	bp	2
+ongoing environmental issue	bp oil spill	1
+persistent daemon	bpcompatd	2
+persistent daemon	bprd	2
+persistent daemon	bpdbm	2
+persistent daemon	bpjobd	2
+petrol retailer	bp	2
+practical algorithm	bp-mip	1
+PTA producer	bp zhuhai	1
+seasoned observer	bp's miller	2
+so-called big oil company	bp	2
+solar module manufacturing company	bp solar international inc.	2
+standardized notation	bpmn	2
+STP security feature	bpduguard	1
+STP security feature	bpdu guard	1
+supermajors	bp	1
+UK industry giant	bp	1
+western multinational	bp	1
+world's largest firm	bp	1
+authentic basketball tournament	bp top of the world classic	1
+big business client	bp	1
+big private oil company	bp	1
+bizagi concept	bpm solution	2
+british investor	bp	1
+business avenue	bpo	1
+business player	bp	1
+business process modeling language	bpmn	3
+business service area	bpr	1
+comic collection	bprd	1
+corporate crisis	bp's deepwater horizon disaster	1
+community	bpx	1
+global energy giant	bp	1
+global energy producer	bp	1
+Global Telecomplayers	bpl	1
+great global company	bp	1
+heavyweight share	bp	1
+high profile shipping company	bp	1
+high quality baby item	bpa free silicone baby bottle	1
+high-profile accident	bp's gulf of mexico oil well blow-out	1
+horizontal technology	bpm across the organization	1
+international and local player	bpl	1
+international pharmacopoeia	bp	2
+large british company	bp	1
+large trading firm	bp	1
+leading energy company	bp	1
+multi-industry	bpo	1
+networked organization	bpsos in the vietnamese community	1
+oil counter	bpcl	1
+oil industry company	bp	1
+oil retailer	bpcl	1
+one-off effect	bp dividend cut	1
+periodic recurrence model	bpt	1
+polish financial institution	bph tfi	1
+premium fuel	bp ultimate	2
+preuium gas station	bp	1
+process modeling technique	bpmn	1
+safe payment	bpay	1
+organization	bp	32
+organization	bp fuels	3
+organization	bpi	3
+organization	bpcl	2
+organization	bpm institute	2
+organization	bpf	2
+silicate glass	bpsg	1
+toxic synthetic chemical	bpa	1
+traditional energy company	bp	2
+trans-national european oil company	bp	1
+unfortunate disaster	bp disaster	1
+useable feature	bpm counter for mixing music	1
+well-known employer	bp	1
+well-known global company	bp	1
+western oil major	bp	3
+world oil company	bp	1
+big chemical company	bp	1
+big fuel company	bp	4
+big issuer	bp	1
+binary outcome measure	bp	2
+biological cardiovascular risk factor	bp	1
+biotechnological firm	bpk d.o.o.	1
+branded station	bp	1
+cardiac and respiratory parameter	bp	1
+common constellation	bpsk	1
+common modeling language	bpmn	1
+co-morbid psychiatric condition	bpd	1
+corporate identity	bp	1
+decent fuel	bp ultimate	2
+diversified energy company	bp	1
+organization	bpn	1
+EPSA member	bp energy company	1
+established participant	bp	1
+European supermajors	bp	1
+evaluated various ERP application	bpics	1
+experimental poet	bp nichol	1
+familira name	bp	1
+fan-pleasers	bpc	1
+financially sound company	bp	1
+finite constellation	bpsk	1
+for-profit provider	bpp	1
+fuel card	bp card	1
+gas card	bp	1
+global chemical industry leader	bp	1
+Hormone disruptors	bpa	3
+implosion	bp's tony hayward	1
+integrated oil giant	bp	1
+international energy giant	bp	1
+IOC client	bp	1
+large oil spill	bp gulf of mexico oil spill of  two thousand and ten 	1
+large spill	bp oil spill in the gulf of mexico	1
+large spill	bp gulf of mexico disaster	1
+large-cap holding	bpcl	1
+local and multi-national organization	bp	1
+mediterranean refiner	bp	1
+mortgage field service	bpo photo	1
+multi-national oil company	bp	1
+national and international company account	bp	1
+neonatal and pediatric pathology	bpd	1
+non-cancerous issue	bph	1
+non-conductive fluid	bp  two hundred t 	1
+non-conforming material	bpsg	1
+normal cardiac risk factor	bp	1
+oil conglomerate	bp	1
+oil marketing firm	bpcl	3
+oil operator	bp	2
+organised player	bp ergo	1
+panel brand	bp solar	1
+philippine bank	bpi	5
+policy conflict	bp oil spill	1
+organization	bpm cluster	1
+organization	bp amoco	1
+organization	bpo certification institute	1
+technique	bpr	3
+prostate issue	bph	1
+prostatic condition	bph	3
+realisable asset	bp share	1
+red hat-led technology	bpm	1
+regular vital sign	bp	1
+school website	bpp law school	1
+sector-specific MBA program	bpp business schools legal mba	1
+sector-specific MBA program	bpp business school's legal mba	1
+servicing major player	bp	1
+shocking world event	bp oil spill	1
+simplest modulation scheme	bpsk	1
+simplest modulation scheme	bpskor qpsk	1
+SMMT INTERNATIONAL BULLETIN company	bp	1
+SOA infrastructure component	bpel pm server	1
+specialty partner application area	bpm	1
+standard notation	bpmn	3
+state oil marketing company	bpcl	1
+technique standard	bpel	1
+terrific apps	bp buddy	1
+themed function	bpoe elks clubs	1
+traditional adviser	bpu investment management	1
+transformation model	bp neural network	1
+U.S. major	bp	1
+unforeseen external event	bp oil spill in the gulf of mexico	1
+washing machine manufacturer	bpl	1
+wellknown customer	bp	1
+westernoil major	bp	1
+world's most influential brand	bp	1
+abundant indian advertisement	bpl washing machine	1
+adaptive modulation	bpsk	1
+technique	bpm's modeling technique	1
+technique	bpm	1
+technique	bpmn	1
+basically service	bpos	1
+big oil giant	bp	1
+big oil group	bp	1
+boasting high-profile member	bp	1
+british oil company	bp	2
+carrier modulation method	bpsk	1
+clinical patient datum	bp	1
+company's new service	bpo	1
+conventional organization	bp	1
+conversion model	bp neural network	1
+corrupt corporation	bp	1
+dairy mart's chief competitor	bp oil	1
+dependable stalwart	bp	1
+devastating incident	bp oil spill in the gulf of mexico	1
+dierent modulation scheme	bpsk	1
+disposable sidewall material	bpsg	2
+domestica bank	bpi	2
+electrically insulative layer	bpsg	1
+energy sector company	bp	1
+environmental and human-induced disaster	bp oil spill	1
+EPM application	bpc	1
+export-oriented business	bpo	1
+feedstock-centric player	bp	1
+financially strong company	bp	1
+foetal measurement	bpd	1
+foundational law course	bptc in the market	1
+founding sponsor	bp	1
+FTSE4GOOD stock	bp	1
+global and multinational company	bp	1
+global chemical giant	bp	1
+global oil giant	bp	2
+GNSS s-band modulation method	bpsk	1
+GOOD BRAND gas	bp	1
+good fuel	bp	1
+good quality gas	bp	1
+graphical process specification language	bpmn	1
+graphical process specification language	bpml	1
+great american title	bprd	1
+heading numerous program	bp link program	1
+high growth business line	bpo	1
+in-hospital factor	bpd	1
+interlayer dielectric film	bpsg film	2
+internationally wellknown chemical company	bp	1
+irresponsible corporation	bp	1
+JMJ client	bp	1
+KPC client	bp ltd.	1
+large foreign multinational	bp	1
+large non-u.s. company	bp	2
+large oil corporation	bp	2
+large western oil company	bp	1
+large, world-class company	bp	1
+leadership company	bp	1
+leading foreign oil company	bp	1
+majorindustry contributor	bp lubricants	1
+Management traffic	bpdus	2
+manydierent parameter	bp	1
+marquee employer	bp	1
+massive international corporation	bp	2
+modulation technique constellation	bpsk	1
+application	bpm	2
+oil disaster	bp deepwater horizon	1
+oil-marketing company	bpcl	1
+PD	bpd with a co-morbid ppd	1
+petroleum business	bp	1
+pipeline accessory	bpc flow meter	1
+plaintiff's most profitable client	bp	1
+PON technology	bpon	1
+practical communication system	bpsk system	1
+process-centric framework	bpml	2
+process-oriented modeling language	bpmn	1
+pure mobile player	bpl	1
+PV module manufacturer	bp solar	1
+QMS model	bpr	1
+signaling format	bpsk	1
+silicon oxide film	bpsg film	1
+software delivery approach	bpm	1
+solar cell company	bp solar	1
+standard macrocirculatory parameter	bp	1
+standard search algorithm	bp	1
+state-of-the-art learning model	bp neural ne twork	1
+state-of-the-art learning model	bp neural network	1
+state-run fuel retailer	bpcl	1
+STP enhancement	bpdu guard	1
+substances	bpa	1
+super-majors	bp	1
+term event	bp oil spill in louisiana	1
+tofounding sponsor	bp	1
+traditional modeling tool	bp win	1
+trusty watering hole	bpm farm resort	1
+tube condenser microphone	bpm tb- ninety-five 	1
+USB user-defined setting	bpm range	1
+visionary corporation	bp amoco	1
+well-known and recommended brand	bp solar	1
+wellknown british company	bp	1
+world famous multinational corporation	bp	1
+world's supermajors	bp	4
+98RON fuel	bp ultimate	1
+affordable business IT outsourcing service	bpo	1
+ayala company	bpi	1
+big international oil company	bp	2
+big real petrol company	bp	1
+Binary modulation	bpsk	1
+BP division	bp chemical	1
+BPCA qualification	bpca fumigation certificate of proficiency	1
+BPW local organization	bpw bernardsville	1
+brag	bpis	1
+broad-based, large-scale, quality-focused transactional service	bpo	1
+business processing modeling language	bpml	2
+cameron's client	bp	1
+name	bp	5
+name	bpi	1
+cashback	bp citibank mastercard	2
+chapter2 space-time code signal constellation	bpsk	1
+charterer	bp	1
+composite application development approach	bpm	1
+constant envelope signal	bpsk	1
+consulting related topic	bpr	1
+conventional midlife risk factor	bp	1
+cost-effective beck-end service	bpo	1
+country-unique collection channel	bpay in australia	1
+cust omers	bp over the old system	1
+CWB pricing alternative	bpc	3
+data-sensitive industry	bpo	1
+development many company	bp	1
+diesel fuel producer	bp	2
+doped glass	bpsg	1
+effect autonomic function	bp	1
+email large firm	bp	1
+embedded passive device	bpf for millimeter wave application	1
+established BPM framework	bpmgs  eight  omega 	1
+established chemical company	bp	1
+event rate	bpar rate	1
+ever-growing corporation	bp	1
+exciting rule	bps limit	1
+expanding service line	bpo	1
+explosion accident	bp rig explosion	1
+exxon's rival	bp	5
+fairly recent event	bp deepwater horizon oil spill	1
+famous electronic music magazine	bpm	2
+name	bperi candles	1
+name	bp oil	1
+fixed carrier level datum signal	bpsk	2
+foreign-based oil company	bp	1
+fortunately viral disease	bp	1
+forward-thinking oil company	bp	1
+fuel marketing firm	bpcl	1
+full grade marine module	bp five hundred and twenty-five mm 	1
+full grade marine module	bp five hundred and fifty mm 	1
+fusion middleware component	bpel process manager	1
+gasoline major	bp	1
+generalised managerial initiative	bpr	1
+gestating business	bpo	3
+giant offshore drilling labuan corporation	bp	1
+giant petro company	bp	1
+giant US multinational	bp	1
+giant, multi-national corporation	bp	1
+global and regional energy company	bp	1
+global energy player	bp	1
+global oil group	bp	1
+global symptom severity measure	bprs total score	1
+globally famous company	bp	1
+graphical-based approach	bpmn	1
+H3K4 methyl binding protein	bptf	1
+hydroelectric power producer	bpa	1
+indian telelcom company	bpl mobile	1
+industrial description technique	bpmn	1
+industriaw compound	bpa	1
+innovative fossil-fuel company	bp	1
+input stat	bpg	1
+integrated global giant	bp	1
+JBI component	bpel service engine	1
+jericho member	bp	1
+key global energy player	bp	1
+large brand station	bp	1
+large cap oil company	bp	1
+large foreign energy firm	bp	2
+large human disaster	bp oil spill in the gulf of mexico	1
+large natural resource extraction company	bp	4
+large oil refinery	bp	1
+largest buyer	bp	1
+largest international oil company	bp	1
+leading oil producer	bp	1
+case	bp chemicals ltd.	2
+case	bp amoco's takeover of castrol plc	2
+case	bp's mad dog field	1
+link-local protocol	bpdus	1
+LNG customer	bp	2
+long range shooting	bp silhouettes	1
+long range shooting	bpcr	1
+low spectral efficiency modulation scheme	bpsk	2
+manmade or natural disaster	bp oil spill	1
+marquee deal	bp's acquisition of a stake in reliance industries' oil block	1
+Microsoft-hosted Exchange service	bpos	1
+midwest refiner	bp plc	1
+midwestern refinery	bp's whiting	1
+minor medical activity	bp monitoring	1
+mistreating energy investor	bp	1
+MNC oil major	bp	1
+money-earning activity	bpo	1
+morally imaginative company	bp	1
+multiservice network switch	bpx.tm. eight thousand six hundred and fifty  sold by cisco systems 	1
+natural and human-inflicted disaster	bp oil spill	1
+natural resource extraction company	bp	1
+non-cancerous prostate issue	bph	2
+non-governmental corporation	bp	1
+non-regular player	bp	1
+offshore industry leader	bp	1
+oil boss	bp's lord browne	2
+oil boss	bp s lord browne	1
+oil company card issuer	bp	2
+oil conglomera tes	bp	1
+oil executive	bp's robert w. dudley	3
+oil executive	bp's robert dudley	1
+oil industry major	bp	1
+oil producing company	bp	1
+omnibridge client	bp	1
+open modeling standard	bpmn	1
+optical network technology	bpon	1
+oracle's SOA offering	bpel pm	1
+oracle's SOA offering	bpel processes	1
+owerful numerical method	bpm	1
+petrol station chain	bp	1
+phase modulation scheme	bpsk	1
+phototransistor	bpw ninety-six  from vishay intertechnology 	3
+phototransistor	bpw ninety-six  bpw ninety-six  from vishay intertechnology 	1
+photovoltaic solar panel producer	bp solar	1
+physical layer technique	bpsk	1
+popular BP modeling approach	bpmn	1
+popular oil company	bp	1
+case	bph	1
+case	bp's miller field	1
+case	bp's maddog field	1
+case	bp without constraints in the lower level	1
+pre-defined intervention	bphs through ppa	1
+pre-marketing service	bpo	1
+preventable disaster	bp oil spill	1
+process flow model	bpel four wsdescribed using an xmlschemaanda particular process flow instance-e.g. 	1
+process modeling notation	bpmn	1
+profitable and powerful oil company	bp	4
+prominent formal methodology	bpmn	1
+prominent telecom service provider	bpl	1
+prominent, high-profile brand	bp	1
+PSK signal	bpsk	1
+PSU refining & oil counter	bpcl	1
+real time current event	bp	1
+reliable objective measure	bprs score	1
+reputable gas station	bp	1
+RFcomponents	bpf	1
+routine P test	bp	1
+season company	bp	1
+secondary market supplier	bp wine	1
+shell's global rival	bp	1
+smartest company	bp	1
+smooth line	bps excel	1
+soa-based tool	bpel engine	1
+so-called supermajor oil company	bp	1
+socially conscious tool	bp oil spill tracker	1
+standard carbon	bpac	1
+standard process modeling language	bpmn	1
+standardsbased notation	bpmn	1
+state-run oil marketing firm	bpcl	1
+state-run oil retailer	bpcl	1
+stimulating sector	bpo	1
+strong regional mobile operator	bpl	3
+successful economic project	bp baku-tbilisi-ceyhan pipeline	1
+super-major oil company	bp amoco	1
+super-size player	bp	1
+case	bppv	1
+case	bp amoco	1
+SWG BP market to tactic	bp marketing council	1
+synthetic estrogen everyday	bpa in plastic bottle	1
+thin dielectric film	bpsg	1
+third-party programmer	bp microsystems	2
+time-set method	bpm	1
+traditional french energy player	bp france	1
+traditional gradient-based training algorithm	bptt	1
+traditional packet filter	bpf	2
+traditional PV producer	bp	1
+transatlantic merger	bp amoco	1
+turbulent plume	bp oil plume in the gulf of mexico	1
+UK peer	bp	1
+unforeseen and devastating world event	bp oil spill	1
+vestibular condition	bppv	1
+virus inactivation approach	bpl treatment	1
+WAN switching product	bpx	1
+well-known british industrial firm	bp	1
+western energy major	bp	1
+western energy multinational	bp	1
+western major oil company	bp	1
+western oil group	bp	2
+western supermajors	bp	1
+wire story	bp story on the front page of sunday's print edition	1
+wonder technology	bpm	1
+work flow tool	bpel in the coming month	1
+world energy leader	bp	1
+world's large multinational oil company	bp	1
+world's largest oil company	bp	2
+world's major oil company	bp	1
+4-letter code	bpac	1
+advanced diagram	bpmn choreography diagram	1
+advanced management method	bpm	1
+advanced MP3 tag	bpm	1
+aftermarket proportioning valve	bpv- one 	1
+aggressive bariatric procedure	bpd	1
+agronomic soil P test	bp	1
+alaska oil producer	bp	1
+anysuitable spread spectrum SAW technique	bpsk	1
+application workflowsystems	bpelfocus on flow of control	1
+b. hydroelectric power producer	bpa	1
+best phone system	bpx	1
+BI management concept	bpr	1
+big multinational group	bp	1
+big petrochemical industry player	bp amoco	1
+big powerlight series amp	bp's  six . zero 	1
+bodo organization	bpf	1
+BPA free product	bpa free water bottle	1
+BPM standard	bpml	1
+BPM technology	bpms platform	1
+branded petrol station	bp	1
+brand-name station	bp	1
+bulk supp company	bp	1
+bullet proof panel	bp glass	1
+business member	bp	1
+business process diagram notation	bpmn	1
+business process modeling notation	bpmn	2
+business process modeling technique	bpmn	1
+business process notation	bpmn	1
+cataclysmi c event	bp oil spill	1
+catastrophic occasion	bp oil disaster	1
+challenge major energy company	bp	1
+classic oil company	bp	1
+clinical effect marker	bp	1
+common viral processing pathway	bps pathway	1
+composition environment	bpms	2
+CONCLUSION current algorithm	bp	1
+condition only larger multinational player	bp	1
+controversial or hot topic	bp oil spill	1
+conventional energy company	bp	1
+conventional, high quality silage sheet	bpi.agri's visqueen agri-s	1
+corporate business company	bp	1
+corporatio n sponsorshi p	bp paying for the bath room clean up	1
+corresponding composite service project file	bpel file	2
+covetable accolade	bpo employee brand of the year	1
+cross-industrye-busin ess framework	bpml	1
+cross-selling horizontal service	bpo	1
+deep-pocketed heavy hitter	bp	1
+deep-water well	bp deepwater horizon	1
+density modulation	bpsk	1
+diagram datum	bpmn attribute	1
+digital SCART adapter	bpr jem	1
+digital telemetry signal	bpsk	1
+Dopamine activity enhancers	bpap	3
+doped oxide layer 26c	bpsg	1
+Double ox-idelayers	bpsg	1
+DSBSC signal	bpsk	1
+group	bp	4
+group	bpi	3
+group	bpc	1
+group	bpm redux	1
+group	bpl	1
+group	bpi rock group	1
+electronic medication sensor	bp monitor	1
+emulation bug-fixes	bplcon three  brdrblnk 	1
+endocrine active substance	bpa	1
+energy titan	bp	1
+england eugenic project	bpas	1
+eventually specification	bpdm	1
+expertise locator	bp connect	1
+external validation method	bps certification	2
+fast learning algorithm	bp with momentum	1
+FIA	bpa select	1
+fuel marketing partner	bp	1
+gas-rebate card	bp visa	2
+giant event	bp spill	1
+global and sophisticated corporation	bp	1
+global oil firm	bp	1
+globalized scale project	bpo's cpg sales force automation for latin america	1
+graphical workflow notation	bpmn	1
+high density fuel	bp ultimate	1
+high impact incident	bp deepwater horizon oil spill	1
+high profile environmental disaster	bp oil spill	1
+high weight PAHs	bp	1
+higher-level industry credential	bpi building analyst certification	1
+highest reliability	bpsk with half-rate coding	1
+high-impact company	bp	1
+highly-publicized crisis	bp's huge oil spill	1
+high-profile industrial accident	bp's mammoth oil spill in the gulf of mexico	1
+highprofile member	bp	1
+house company	bp	1
+huge oil spill	bp oil spill	1
+hurt oil major	bp	1
+indicates error	bpv	1
+infant business	bpo	1
+group	bpe	1
+group	bpac	1
+group	bp solar	1
+inner ear concern	bppv	1
+integrated major oil company	bp	1
+interlevel oxide	bpsg	1
+intrepid company	bp	1
+large and reputable philippine bank	bpi	1
+large discovery	bp's bp tibor	1
+large multinational energy firm	bp	1
+large oil field	bp's prudhoe bay	1
+large petrol retailer	bp	2
+large pipeline operator	bp plc	1
+large purchasing organization	bp	1
+large, diverse organization	bp	2
+large, dividend-paying company	bp	1
+large, dividend-paying corporation	bp	1
+large, multinational wholesaler	bp	2
+lipophilic carcinogen	bp	1
+london-listed company	bp	2
+longer-term standard	bpel four people 	1
+lower-order modulation	bpsk	1
+major iocs	bp	1
+makesastandard discrete optimiza-tionsolver	bp	1
+man-made energy disaster	bp gulf oil spill	1
+mega-majors	bp	1
+men's particular issue	bph	1
+mild vestibular disorder	bppv	1
+modern business process modeling language	bpmn	1
+monomer-soluble initiator	bpo	1
+montessori public school	bpmc	1
+multinational leader	bp	1
+multy-billion dollar organization	bp	1
+NARI qualified restoration contractor	bpi environmental	1
+nasty material	bpa	1
+neutral building block	bpy	1
+next-devices	bpx	2
+no-brainer candidate	bp	1
+Non constant envelope modulation waveforms	bpsk	1
+non-apca payment system	bpay	1
+Non-constant envelope modulation waveforms	bpsk	1
+non-transactional pricing model	bpo concepts with performance guarantee	1
+method	bpay	3
+normal neural network	bp type anns	1
+offshore field	bp's foinaven field	1
+oil company fuel card issuer	bp	1
+oil exec	bp's john browne	1
+oil industry employer	bp exploration	1
+oil-related issue	bp	1
+one-dimensional symbol constellation	bpsk	1
+online crisis	bp oil crisis	1
+overwhelming environmental disaster	bp oil spill	1
+oxide layer 26c	bpsg	1
+PAPI client	bpm workspace	1
+patients health-related parameter	bp	1
+perennial corporate social responsibility leader	bp	2
+petroleum marketing firm	bpcl	1
+Plasma Donor's Vitals	bp	1
+PMA affiliate member	bpnw member	1
+PON implementation	bpon	1
+PON network	bpon	1
+poor agreement language	bp	1
+pregnancy advice service	bpas	1
+premium grade fuel	bp ultimate	1
+preposterous remark	bp's atlantis rig being riddled with safety violation	1
+principal privately-owned developed country TNCs	bp	1
+private education provider	bpp	1
+probabilistic class	bpp	1
+procarcinogenic PAH dihydrodiols	bpde	1
+process editor	bpel editor	1
+process improvement mechanism	bpm in place	1
+profit-making higher education provider	bpp university college	1
+progressive mainstream business	bp	1
+prominent foreign energy firm	bp plc	3
+psa-lowering agent	bph treatment	1
+quality solarpanelsfrom manufacturer	bp	1
+question oil company	bp	1
+regional energy oversight organization	bpa	1
+regional forecast	bpa's  twenty -year forecast of electricity consumption 	1
+regional planning project review underway	bpa-west of mcnary project	1
+regionally significant issues	bpa expanding the system	1
+rich-owned large corporation	bp	1
+ronicmedication sensor	bp monitor	1
+routine training algorithm	bp	1
+rule multinational giant	bp	1
+rule-enabled application	bpel process	1
+satellite link phase modulation method	bpsk	1
+second insulation material	bpsg	1
+selected oil company	bp	1
+method	bpmn	1
+method	bpm	1
+method	bpal	1
+service station company	bp	1
+shale-gas optimist	bp boss tony hayward	2
+simple radio system	bpsk	1
+simulated component	bpm processor	1
+sio2 layer	bpsg layer	1
+small fusion protein	bpti	1
+spanning-tree feature	bpdu protection	1
+specialist abortion provider	bpasand marie stopes	1
+specialist book printer	bpa print group located in melbourne	1
+specialist marine unit	bpg	1
+specially company	bp	1
+species-specific extension	bp x zfa	1
+standard discrete optimiza-tionsolver	bp	1
+standard modeling notation	bpmn	1
+standard rating scale instrument	bprs	1
+standard sparse signal recovery algorithm	bp	1
+standardized symptom rating scale	bprs	1
+sterling role model	bp	1
+street applicable racing oil	bp corse plus	1
+strong U.S. equity fund	bpi american equity value	1
+stylistic enhancement	bp titanium coating on the blade	1
+successful major	bp	1
+suitable preconditioner	bpx	1
+suitable spread spectrum SAW technique	bpsk	1
+summation unit neural network	bp network	1
+supersymmetric solution	bps domain wall	1
+switch security feature	bpdu filter	1
+system knowledge	bpt	1
+thatamorepotentdiazoxide analog	bpdz  one hundred and fifty-four 	1
+thatconpaswellas certain promise class	bpp	1
+thick oxide	bpsg	2
+third-party programming solution	bp microsystems	1
+top creative mind	bp's engineer	1
+touvaly high speed connection	bpm with soa	1
+traditional business modeling technique	bpm	1
+traditional modulation scheme	bpsk	1
+traditional super-majors	bp	1
+typically off-the-shelf process modeling tool	bpelorbpmn tool	1
+UK adopter	bp	1
+undercoat insulation layer	bpsg film	1
+unidimensional type	bpsk	1
+universal programmer	bp microsystems programmer	1
+upstream major	bp	2
+USVP company	bpt	2
+utilized innovative technique	bph awareness workshop	1
+tool	bprs	4
+tool	bpm suite capture	2
+tool	bpm	2
+tool	bp pro	1
+tool	bp simulation tool	1
+tool	bpm counter	1
+tool	bpmn designer	1
+tool	bpc explorer	1
+vocational level course	bptc	1
+washington state refinery	bp at cherry point	1
+wealthy and progressive, organization	bp	1
+western european firm	bp	1
+western oil conglomerate	bp	1
+widely-adopted industry standard	bpml	1
+workflow-level notation	bpmn	2
+workplace tragedy	bp oil spill	1
+world's biggest library	bpi at the pompidou centre in paris	1
+youth band	bp renegades youth	1
+product	bpa free baby bottle	3
+product	bpal	3
+project	bp's deepwater horizon	2
+project	bp-led btc pipeline	1
+project	bp at in salah	1
+project	bpcs implementation	1
+project	bp's btc pipeline	1
+project	bpr	1
+project	bpa settlement	1
+project	bptp discovery park	1
+project	bpcs enhancement	1
+project	bp whiting canadian oil project	1
+material	bpsg	6
+material	bpa	5
+material	bp cuff	2
+material	bpm counter	1
+material	bpm training material	1
+place	bp gas	1
+player	bp	10
+player	bpl	2
+player	bp plc	1
+player	bpl telecom private limited	1
+player	bpp law school	1
+technology	bpm	16
+technology	bpdu guard	2
+technology	bpl	2
+technology	bpel four people 	1
+product	bpos	3
+term	bpa free water bottle	1
+term	bpm	1
+parameter	bph impact index	1
+system	bpay	3
+system	bpay electronic bill payment service offered by a number of financial institution	2
+system	bpm	1
+system	bproc-based system	1
+system	bpw	1
+system	bpoc solution used at st. clair	1
+system	bpt	1
+system	bpd transport system	1
+system	bpq	1
+measure	bpref	1
+measure	bp screening	1
+condition	bph	9
+condition	bppv	2
+condition	bpg	1
+condition	bpd	1
+element	bpsk pilot	1
+element	bpm technology database	1
+product	bpa free bottle	1
+function	bpm counter	1
+function	bpo's	1
+function	bpr adobe dreamweaver cs five  best price tool 	1
+device	bp cuff	1
+device	bpr tfoen six win g defifltieei 	1
+brand	bp	25
+brand	bpl	2
+brand	bp gas station store	2
+brand	bp ultimate	1
+brand	bp solar	1
+brand	bpl mobile	1
+brand	bp castrol	1
+concept	bpr	3
+concept	bpm	1
+component	bpel engine	1
+task	bpo work	1
+related product	bpw axle related product	1
+initiative	bpr	5

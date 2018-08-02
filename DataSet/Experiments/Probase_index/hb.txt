@@ -1,0 +1,929 @@
+factor	hbv viral load	4
+factor	hbv genotype	4
+initiative	hbbtv	1
+initiative	hbbtv in mainland europe	1
+accessory	hba card controller	1
+source	hbo	2
+benefit	hb	2
+benefit	hbt-based electrostatic damage-protection circuitry	1
+product	hb stepper motor	1
+product	hbn	1
+product	hbook	1
+product	hb pencil related product	1
+exception	hbo	1
+work	hb series	1
+model	hbm	1
+model	hbb series from marley engineered products	1
+category	hba	1
+institution	hbos through bankwest	1
+institution	hb studio	1
+client	hbo	23
+client	hbos	10
+client	hbo sports	1
+client	hbo for basketball	1
+approach	hbase	1
+star	hb george mcafee	1
+star	hb kyle strom	1
+star	hbk	1
+star	hbm	1
+film	hbo drama oz	2
+film	hbo rome tv series	1
+film	hbo's sacrifice	1
+school	hbs	10
+school	hbcus	1
+school	hbu	1
+amenity	hbo	3
+food	hbh graze	3
+food	hbh marine flake	3
+operation	hba address rename	1
+agent	hb f-promoting agent	1
+feature	hba	1
+feature	hba one c predictor for people with diabetes 	1
+celebrity	hbo's true blood star	3
+disease	hbv	1
+criterion	hbsag positivity	1
+firm	hbos	2
+firm	hbo	1
+drug	hbsag in endemic area	1
+test	hbsag	3
+test	hbv dna testing	2
+test	hba  one c 	2
+test	hba one c 	1
+test	hb	1
+test	hbh inclusion bodies test	1
+test	hba one c level 	1
+test	hb a one c 	1
+indicator	hbv seroprevalence	1
+treatment	hbot	1
+favorite	hbo's entourage	1
+instrument	hbdi	1
+feature	hbo's true blood	1
+man	hb punk	1
+setting	hbv viral infection	1
+leader	hbc marketing co-chair mara rodriguez	1
+entity	hbo	2
+entity	hbcus	1
+expert	hbo analyst	1
+show	hbo's flight of the conchords	1
+show	hbo sports	1
+show	hbo drama's on sky atlantic	1
+show	hbo's entourage	1
+show	hbo's rome	1
+role	hb assessor	1
+vendor	hb communications	1
+customer	hbo	5
+section	hba	1
+actor	hb irving	1
+risk factor	hbv dna level	2
+risk factor	hbeag status	2
+provider	hbo	1
+provider	hbos	1
+protein	hbd	1
+machine	hbm radial drills	2
+competitor	hbo	2
+legend	hbk	2
+corporation	hbo	4
+corporation	hbo latin america	1
+law	hb one thousand eight hundred and four 	1
+law	hb  one thousand and seventy  mexicans 	1
+variation	hbn	1
+channel	hbo	68
+channel	hbo-hd west	1
+channel	hbohd	1
+luminary	hbs professor bill sahlman	1
+series	hbo's more popular series	1
+series	hbo's rome	1
+series	hbo mini series	1
+series	hbo original series	1
+series	hbo's the sopranos	1
+university	hbcu	1
+issue	hbcus receiving low fund	1
+service provider	hbo	1
+bank	hbos	28
+bank	hbos hbos.l	1
+employer	hbos	2
+top brand	hbo	3
+network	hbo	28
+network	hbo original	1
+station	hbo	6
+station	hbo require  eight mbps mpeg four 	1
+guy	hbk	1
+guy	hbk at last years elimination chamber	1
+account	hbos	1
+large company	hbo & company	1
+prize	hb file competition	1
+sponsor	hbo	1
+factor	hbv status	2
+factor	hbsag	2
+database	hbase	1
+raw material	hbi	2
+forum	hbr blogs on twitter	1
+talent	hbk	2
+signal	hbo's family channel	1
+rival	hbos	3
+rival	hbos hbos.l	1
+infection	hbv	4
+outlet	hbo	1
+substrate	hb flowing in capillary	1
+enterprise	hbc	1
+marker	hbeag	4
+marker	hba one c 	1
+container	hbox	2
+name brand	hb hunting products	1
+household name	hbo	1
+TV show	hbo's boardwalk empire	2
+social event	hba awards ceremonies	1
+advanced technology	hbase	1
+play	hb power o	1
+reference	hbl	1
+production	hbo's john adams'' series	1
+production	hbo's the wire	1
+superstar	hbk	4
+acid	hbf  four 	1
+financial institution	hbos	1
+pathogen	hbv	1
+preventive measure	hbv vaccine	1
+virus	hbv	16
+virus	hbvand hcv	1
+large corporation	hbo tm	1
+international company	hb fuller	1
+international company	hbi	1
+item	hbj property tax	1
+lender	hbos	4
+confounding factor	hbeag status	1
+variant	hb s	1
+variant	hb fontainebleau comigrate with on ief gel	1
+variant	hb hafnia	1
+variant	hb pavie	1
+tumor	hb in the cns	1
+relationship	hbw person trip attractions per total employment	1
+microorganism	hbv	1
+financial service	hbos	1
+common item	hb pencil	1
+well-known company	hbo	1
+external influence	hb processing time	1
+bill	hb two hundred and eight  sponsored by rep. richard greenwood 	2
+television program	hbo's the sopranos	1
+television program	hbo's infamous	1
+television program	hbo's arliss	1
+television program	hbo's def comedy jam	1
+wrestler	hbk	1
+infectious disease	hbv	1
+outfit	hbo in the tv production business	1
+advertiser	hbo	3
+leading company	hbo	2
+studio	hbo	3
+studio	hb studio	1
+prospect	hb dancer	1
+prospect	hb hug	1
+prospect	hb smile	1
+prospect	hb big blue eyes	1
+industry giant	hbo	2
+TV series	hbo's oz	1
+growth factor	hb-egf	2
+distributor	hbo	2
+clinical parameter	hb a  one c 	1
+ligands	hb-egf	1
+determinant	hbv genotype	1
+great name	hbk	2
+entrant	hbos	2
+promotional material	hbo first look special	1
+block	hbv right	1
+processor	hb grandi	1
+great amenity	hbo	1
+liberal	hbj	1
+television series	hbo's big love	1
+television series	hbo's true blood	1
+prognostic factor	hbeag status	3
+prognostic factor	hba  one c 	1
+covariates	hb concentration at baseline	1
+covariates	hba one c level 	1
+assay	hbv assay	1
+industry organization	hba of washtenaw	1
+process variable	hbr stoichiometry	1
+biomarkers	hba one c for glycemic control 	3
+clinical datum	hba one c result 	1
+clinical datum	hbsag	1
+continuous variable	hbv dna reduction	1
+continuous variable	hbvdna reduction	1
+continuous variable	hba  one c value 	1
+high profile client	hbo television	1
+vaccine	hbv	2
+broadcaster	hbo	5
+endpoint	hbeag clearance	1
+host factor	hbeag status at baseline	1
+peptides	hb-egf	1
+marketer	hbo	1
+viral infection	hbv	4
+mediator	hbt	2
+antigen	hbv's surface	2
+antigen	hbv-encoded protein antigen	1
+content provider	hbo	2
+content provider	hbo asia	1
+representative	hbs publishing representative	1
+screening test	hbsag	1
+corporate giant	hbo	1
+international player	hbos	1
+premium service	hbo	16
+physiological parameter	hb content	1
+prepared food	hbh marine flake	1
+holding	hbo	1
+potential confounders	hba one c at baseline 	1
+established company	hbo	1
+law firm	hbj gateley wareing in edinburgh	1
+infectious agent	hbv	3
+environmental organization	hbn	1
+global organization	hbos	1
+biochemical parameter	hba one c concentration 	1
+famous actor	hb irving	1
+area	hba one c levels of diabetic patient 	1
+area	hb-led lighting	1
+service	hbo	16
+conservative measure	hbo therapy	1
+school supply	hb earth write woodcase pencils made out of recycled newspaper	1
+weapon system	hb eight hundred and seventy-six 	1
+production company	hbo	2
+viral disease	hbv	1
+issuer	hbos	1
+typical application	hbt device	1
+popular show	hbo's true blood	1
+notable company	hbos	1
+big business	hbo	1
+popular series	hbo's big love	1
+popular series	hbo's more popular series	1
+molecular marker	hb-egf	1
+large client	hbo	1
+factor	hb f level	1
+share	hbos	1
+commercial tool	hb gary's responder	1
+baseline characteristic	hbv dna	1
+education institution	hbs	1
+prevention program	hbv vaccination	3
+top school	hbs	1
+large bank	hbos	1
+prevention strategy	hbv vaccination in infant	1
+business school	hbs	1
+lewis acid	hbf  four 	1
+service	hbo ondemand	1
+service	hbo sister service	1
+service	hbv testing	1
+controlled substance	hbcdd	1
+medical test	hba one c 	1
+high-profile company	hbo	2
+active element	hbt	1
+global firm	hbos	1
+television network	hbo	3
+cable channel	hbo	20
+routine test	hb	1
+traditional therapy	hbot & tomatis	1
+television station	hbo	3
+cable network	hbo	20
+key brand	hbo	1
+clinical outcome	hba one c for a patient with diabetes 	3
+mutant	hb gun hill	1
+consortium	hbbtv	1
+strong acid	hbr	1
+cable company	hbo	3
+viral protein	hbx	1
+fiction	hbo series big love	1
+great show	hbo's boardwalk empire	1
+fatal disease	hbv	2
+transistor	hbt in bicmos technology	1
+behemoth	hbos	1
+national survey	hbs	1
+mortgage lender	hbos	1
+topic	hbo's hard knocks'' show	1
+flight	hba-tsv-hba with a connection in syd	1
+multinational organization	hbos	1
+programmer	hbo	7
+angiogenic factor	hb-egf	1
+laboratory datum	hba  one  c 	1
+TV network	hbo	3
+popular channel	hbo	4
+financial service firm	hbos	1
+medium group	hbo	1
+open source solution	hbase	1
+laboratory investigation	hb analysis	1
+large network	hbo	1
+hash function	hbea cryptographic hash function	1
+large school	hbs	1
+financial stock	hbos	1
+premium channel	hbo	124
+premium channel	hbo family	3
+large institutional investor	hbk investments	1
+national network	hbo	1
+semiconductor element	hbt	1
+HD channel	hbo	4
+financial giant	hbos hbos halifax bank of scotland	1
+blue-chip client	hbo	1
+well-known risk factor	hba  one c 	1
+big institution	hbos	1
+intermediate outcome	hba one c level 	1
+lead	hb	1
+well-known corporation	hbo	1
+immunization	hbv	1
+digital channel	hbo	1
+notable brand	hbo	1
+rivalry	hbk vs. bret hart	1
+content owner	hbo	1
+clinical indicator	hba one c 	1
+company	hbo	35
+company	hbos	10
+company	hbj	1
+company	hbos bradford & bingley	1
+premium option	hbo	2
+enveloped virus	hbv	1
+premium	hbo cinemax	1
+effective intervention	hbv immunization	1
+etiological factor	hbv	5
+viral factor	hbv genotype	4
+viral factor	hbv-core protein	1
+film company	hbo	3
+expensive solution	hbx	1
+varia bles	hba  one c 	1
+WWE star	hbk shawn michaels	1
+iron product	hbi	1
+company	hb entertainment	1
+laboratory abnormality	hba one c 	1
+proprietary tool	hb insite	2
+top corporation	hbo	1
+world's top brand	hbo	2
+surrogate endpoint	hbeag seroconversion	1
+surrogate endpoint	hbsag seroconversion	1
+chronic liver disease	hbv	1
+continuous outcome	hba one c level 	3
+continuous outcome	hba one c 	1
+etchants	hbr	1
+company	hbl nife	1
+company	hbo films	1
+specialty channel	hbo	3
+TV service	hbbtv	3
+big studio	hbo	1
+baseline factor	hbv genotype	1
+cancer risk factor	hbv infection	1
+premium content	hbo mobile	6
+premium content	hbo content	1
+premium content	hbo	1
+company website	hba	1
+high performance product	hbe liquid epoxy product	1
+chronic viral infection	hbv	1
+disease agent	hbv	1
+international channel	hbo	5
+human virus	hbv	4
+movie tv channel	hbo	1
+movie tv channel	hbo hits	1
+original series	hbo original series	1
+medium owner	hbo	1
+popular network	hbo	1
+high speed device	hbt	1
+medium firm	hbo	1
+official site	hbo	1
+serological marker	hbsag	2
+haematological parameter	hb level	1
+good performance	hbcu all-star big band	1
+pay service	hbo	1
+cable service	hbo	1
+factor	hbv coinfection	1
+factor	hbv subtype	1
+factor	hbv dna	1
+factor	hbeag negative	1
+activity	hbo night	1
+activity	hbs business plan contest	1
+activity	hbot	1
+cable station	hbo	2
+free society	hbw	1
+hydrophobic substance	hbcd	1
+mortgage bank	hbos	1
+top guy	hbk	1
+cryptographic hash function	hbea cryptographic hash function	1
+licensors	hbo	1
+movie channel	hbo	24
+movie channel	hbo & hbo-hd	1
+potential alternative	hbcdd	1
+high street bank	hbos	1
+cable show	hbo's video jukebox	2
+commercial diet	hbh s hermit crab bites	1
+large international corporation	hbos	1
+subprojects	hbase	1
+clinicopathological feature	hbv infection	1
+node type	hbox layout node	1
+cable television channel	hbo	3
+english channel	hbo	1
+historical drama	hbo's rome	1
+international TV channel	hbo	1
+mainstream show	hbo's sin city diaries	1
+pencil	hb	2
+UK bank	hbos	3
+blue chip account	hbos	1
+deadly virus	hbv	1
+protic acid	hbr	1
+psychometric tool	hbdi	1
+transmissible disease	hbv	1
+year firm	hbj gateley waring	1
+british bank	hbos	1
+cable outlet	hbo	2
+cable outlet	hbo air independent film	1
+japan tv channel	hbc radio cam	1
+large blue chip company	hbos	1
+metabolic variable	hba  one 	2
+national cable network	hbo	1
+program provider	hbo	1
+step rapid test kit	hbcab	8
+step rapid test kit	hbeab	8
+step rapid test kit	hbeag	7
+step rapid test kit	hbsab	7
+step rapid test kit	hbs ag	1
+step rapid test kit	hbeag test kits	1
+step rapid test kit	hbsab test kits	1
+blood-borne pathogen	hbv	1
+broadcast client	hbo	1
+cable program	hbo's the sopranos	2
+cable program	hbos the sopranos	1
+cable television network	hbo	2
+hemoglobinopathies	hb tak	1
+hemoglobinopathies	hb raleigh	1
+high-profile show	hbo's the sopranos	2
+inorganic or organic acid	hbf  four 	1
+overseas institution	hbos	1
+splines	hb-splines	1
+bloodborne pathogen	hbv	6
+protection service	hbos identitycare	1
+Adipokines	hb-egf	1
+basic camping supply	hba product	1
+classic match	hbk	1
+encrypted channel	hbo	5
+niche channel	hbo	1
+hepatitis virus	hbv	4
+satellite network	hbo	1
+big international name	hbo	2
+cable TV channel	hbo	3
+english language channel	hbo	1
+movie company	hbo	1
+baseline risk factor	hba  one c 	1
+halogen-containing gas	hbr	1
+high street lender	hbos	1
+infectious virus	hbv	1
+medium outfit	hbo	1
+premium movie channel	hbo	12
+premium movie channel	hbo east	1
+premium movie channel	hbo family	1
+programming provider	hbo	7
+protein antigen	hbv-encoded protein antigen	1
+subscription channel	hbo	5
+water-based food	hbh marine flake	1
+bipolar transistor	hbt of the gaas type	1
+blood-borne infection	hbv	1
+brominated flame retardant	hbcd w	1
+brominated flame retardant	hbcd	1
+brominated flame retardant	hbcdd	1
+cable TV network	hbo	1
+DNA tumor virus	hbv	2
+premium advertiser	hbo	2
+required test	hbsag	1
+Blood testing	hbv dna	1
+cable programmer	hbo	1
+compound semiconductor device	hbts	1
+huge network	hbo	1
+myriad project	hbi plant at port hedland	1
+operating brand	hb	1
+popular station	hbo	1
+premium package	hbo	1
+veggie item	hbh graze	1
+add-on function	hba-based raid	1
+aquatic food	hbh-based marine flake food	1
+distributed technology	hbase	1
+H2 receptor antagonist	hb	1
+hollywood event	hbo comedy festival	1
+national channel	hbo	2
+Oxyacids	hbro three 	1
+pay-tv channel	hbo	1
+premium station	hbo	6
+utilization measure	hba one c test 	1
+venture capital investor	hbm	1
+viral glycoproteins	hbv mhbs	1
+american channel	hbo	2
+blood-borne virus	hbv	8
+business-to-business advertiser	hbo	1
+cargo type	hbi	2
+event	hbo's post-emmy fete	1
+program	hbo	3
+high flier	hbk for the challenge	1
+premier service	hbo	1
+SAN component	hbas	1
+short-term outcome measure	hba  one c 	1
+viral marker	hbs antigen	1
+big name guy	hbk	1
+bloodborne virus	hbv	2
+branded card	hbc mastercard	1
+Coinfections	hbv with hcv	1
+handling brand	hbo	2
+lipid-coated virus	hbv	1
+popular cable channel	hbo	1
+satellite TV channel	hbo	2
+strategic relationship	hba joining with aabor	1
+common variant	hb c	1
+english-language channel	hbo	1
+h2-receptor antagonist	hb	4
+hemoglobin variant	hb e	2
+mainstream TV show	hbo's real sex	1
+multimeric protein	hbsag	1
+pay-tv network	hbo	3
+program	hbo's carnivale	1
+program	hbo documentary	1
+program	hbo original film	1
+program	hbo's addiction series	1
+premium cable channel	hbo	24
+premium network	hbo	6
+premium network	hbo showtime	1
+premium provider	hbo	1
+proton source	hbf  four 	1
+sexually transmitted virus	hbv	1
+american network	hbo	1
+blood virus	hbv	2
+cable favorite	hbo	1
+cable television service	hbo	2
+dhl's largest account	hbo	1
+diabetes-related parameter	hba  one c 	1
+hepatotropic virus	hbv	1
+international commercial bank	hbsc	1
+internet site station	hbo	1
+long-term parameter	hba  one c 	1
+non-broadcast network	hbo	1
+nosql system	hbase	1
+nosql technology	hbase	1
+notable regional theater	hbo workspace	1
+premium movie package	hbo	5
+sizable account	hbo	1
+soft pencil	hb	2
+transfusion-transmissible infectious agent	hbv	1
+U.S. movie channel	hbo	1
+web site station	hbo	1
+website station	hbo	1
+american cable network	hbo	1
+availing all-round service	hbc	1
+behavior model	hbm	1
+cable movie channel	hbo	2
+chronic viral disease	hbv	2
+factor	hbeag status	1
+factor	hb content rbc	1
+factor	hbf level	1
+easily channel	hbo	2
+educational marketing channel	hbr article	1
+educational marketing channel	hbrarticles	1
+hemoglobin disease	hb e-beta thalassemia	1
+insulin resistance parameter	hba one c blood lipid profile 	1
+mini series	hbo mini series	1
+movie pack	hbo max pack	2
+movie pack	hbo pack	2
+nonbroadcast network	hbo	2
+non-relational database system	hbase	1
+Package add-ons	hbo the works	1
+pay channel	hbo	2
+premium cable network	hbo	8
+premium cable service	hbo	8
+scrap substitute	hbi	1
+organization	hbos	4
+organization	hbo	2
+simply channel	hbo	1
+social cognitive theory	hbm	1
+strong cable network	hbo	1
+virus particle	hbv	1
+well-known channel	hbo	1
+apparent effort channel	hbo	1
+big, scary virus	hbv	1
+cable drama	hbo's boardwalk empire	1
+commercial-free premium movie channel	hbo	2
+compelling cable channel	hbo	1
+confusing acronym	hbw	1
+distributed model	hbv	1
+education seminar	hba university	1
+organization	hbw	1
+organization	hbn	1
+glucose parameter	hba one c level 	1
+growth-promoting gene	hb-egf	1
+large production company	hbo	1
+most-watched cable TV channel	hbo	1
+movie distributor	hbo	1
+pay-for-view channel	hbo	1
+organization	hbe	1
+organization	hbos plc	1
+premium channel package	hbo	2
+premium pay service	hbo	1
+specialty cable channel	hbo	1
+watch premium channel	hbo	1
+advanced diagnostic feature	hba beaconing	3
+AFMS clinical quality measure	hba one c annual testing for diabetic 	2
+american television channel	hbo	1
+back-to-work benefit	hb run-on	1
+britain's biggest lender	hbos	1
+cable television	hbo	1
+chronic infectious liver disease	hbv	1
+classic pay channel	hbo	1
+compound semiconductor component	hb leds	1
+continuous survey	hbs	1
+downstream project	hbase	1
+entertainment provider	hbo	1
+envelope protein	hbsag	2
+established cable channel	hbo	1
+exposure management blood-borne pathogen	hbv	1
+film channel	hbo	1
+head care product	hb tripleblade kit	1
+health behavior model	hbm	1
+high-definition free-to-guests premium channel	hbo	1
+investigative source	hbo	1
+movie channel network	hbo	1
+national turnaround channel	hbo	1
+non-orweakly cytopathic agent	hbv	1
+application	hb-led silicon module	4
+optional movie package	hbo	1
+popular cable network	hbo	1
+potential independent viral factor	hbv genotype	1
+preferred HBO channel	hbo documentary films	1
+preferred HBO channel	hbo sports	1
+psycho-behavioral outcome	hbp knowledge	1
+regular cable channel	hbo	1
+regular HD channel	hbo	1
+soft-grade pencil	hb	1
+stage phasers	hbe psilocybe	1
+subscription cable service	hbo	1
+support tag	hbox	1
+SVOD channel	hbo	1
+threatening agent	hbv	1
+top premium channel	hbo	1
+traditional cable network	hbo	1
+trend-setting program provider	hbo	1
+TV content provider	hbo along with the bravo	1
+TV option	hbo	1
+unmanaged window resource	hbitmaps	1
+viral parameter	hbeag	2
+western channel	hbo	1
+widely-viewed channel	hbo	1
+abnormal Hbs	hb e	2
+abnormal Hbs	hb tak	2
+american premium channel	hbo	1
+app offering premium channel	hbo	1
+BBDO customer	hbo	1
+beta variant	hb s	1
+beta variant	hb c	1
+blue chip guest	hbj gateley wareing	1
+name	hbo	3
+name	hbos	3
+channel television	hbo	1
+CIM provider	hba cim provider	1
+community affair activity	hba legalines	1
+community affair activity	hba trash bash	1
+company trademark	hb fuller	1
+conventional 3-terminal based ICs	hbt ics	1
+dedicated movie channel	hbo	1
+diabetes indicator	hba  one c test of blood sugar level 	1
+diabetes indicator	hba one c test of blood sugar level 	1
+DISH channel	hbo	1
+elite entertainment company	hbo	1
+entertainment owner	hbo	1
+ESD event	hbm esd	3
+ESD event	hbm	1
+excellent alternative school public option	hb-woodlawn in arlington	1
+excellent package	hbo	1
+extended cable channel	hbo	1
+famous stage personality	hb irving	1
+name	hbk	1
+name	hbd	1
+free basic variant	hbasic	2
+gangster TV show	hbo's mafia saga the sopranos	1
+gold-standard venue	hbo series def poetry	1
+hair loss medicine	hb-gain tablet	1
+HBA manufacturer's management software	hbanyware for emulex hbas	1
+healthcare technology company	hbo & co.	1
+hemoglobin	hb s	1
+hemoglobin class	hba  two 	2
+hemoglobin class	hba . sub . zero 	1
+high quality programming	hbo	1
+huge british bank	hbos	1
+III-V 3-terminal device	hbt	1
+interesting nosql database	hbase	1
+international satellite TV channel	hbo	1
+key corporate name	hbos	1
+laccase mediator	hbt	1
+case	hbv	2
+case	hbo	2
+lipid-enveloped pathogen	hbv	1
+luckily premium channel	hbo	1
+mobile lesson learned company	hbo	1
+move channel	hbo	1
+movie package	hbo	1
+name HD channel	hbo	1
+non cable television channel	hbo	1
+non-cytopathic virus	hbv	1
+non-hiv recombinant protein-based vaccine	hbv	2
+novel three-terminal solid-state device	hbt	1
+origination program service	hbo	4
+pay television	hbo	1
+pay-cable channel	hbo	3
+pay-per-view or premium channel	hbo	1
+pay-television company	hbo	1
+pharmacy computer system	hbo	1
+case	hba one c testing 	1
+case	hba	1
+potential screening test	hba  one c 	1
+potential surrogate	hbsag seroconversion	1
+premier channel	hbo	1
+premium broadcast channel	hbo	1
+premium cable outlet	hbo	2
+premium channel provider	hbo	1
+premium channels	hbo	1
+premium high-def channel	hbo	1
+premium movie service	hbo	1
+premium pay channel	hbo	2
+premium pay TV service	hbo	1
+premium satellite channel	hbo	1
+premium TV	hbo	1
+premium TV channel	hbo	2
+pricey premium channel	hbo	1
+pro-audio maker	hbb	1
+savvy cable channel	hbo	1
+scottish financial institution	hbos at the center of the storm	1
+sickle cell disorder	hb ss	1
+sickle cell disorder	hb sc	1
+simple antenna	hbu- twenty-two  from radio shack 	1
+social cognitive theoretical model	hbm	2
+specialty movie channel	hbo	1
+spherical virus	hbv	1
+subscription-based channel	hbo	1
+option	hbo	2
+time certain cable tv program	hbo	1
+time warner's cable network	hbo	1
+today school	hbs	1
+transnational satellite broadcaster	hbo	1
+vampire tale	hbo's true blood	1
+water soluble inorganic material	hbr	1
+well-known HCC risk factor	hbv infection	1
+youinger talent	hbk	1
+acclaimed new show	hbo's boardwalk empire	1
+alcohol soluble SDA	hbba	1
+american cable company	hbo	1
+analog direct broadcast satellite system	hbo	1
+aquatic centered food	hbh marine flake	1
+asso-ciatedclinico-pathological characteristic	hbsag	1
+atheoretical model	hbm	1
+best national network	hbo	1
+bioaccumulative chemical	hbb	1
+boxing network	hbo	1
+bschools	hbs	1
+calcium-regulated gene	hb-egf	1
+CLE luminaires	hb compact lighthead	1
+clinico-pathological characteristic	hbsag	1
+co-branded card	hbc visa	1
+column-oriented database	hbase	1
+commercial free TV	hbo	1
+commercial-free cable channel	hbo	1
+common hb variant	hb s	1
+common hemoglobin variant	hb s	1
+compelling show	hbo's the sopranos	2
+competing premium programmer	hbo	1
+compound semiconductor device technology	hbt	1
+contacted film studio	hbo	1
+Customary terminal boxes	hbm vkk two - six 	1
+cycloaliphatic halogen-based flame retardant	hbcd	1
+domestic and international network	hbo	1
+dramatic television program	hbo's exciting game of thrones	2
+Eachdevice	hba	1
+group	hbaa remodelers	1
+group	hbeag-positive patient	1
+ecofill material	hbm	1
+elaboration function	hbb recognition	1
+english movie channel	hbo	2
+entertainment-related television channel	hbo	2
+envelope-pushing TV program	hbo's sex	1
+equivalence scale income-based analysis	hbai	2
+established financial service company	hbos	1
+excluding channel	hbo	1
+feevee channel	hbo	1
+film plate channel	hbo	1
+follow-up laboratory test	hbeag	1
+food pellet	hbh's super cichlid sinkers	1
+free premium TV channel	hbo	3
+gallium arsenide technology	hbt	1
+giant network	hbo	1
+good staple food	hbh marine flake	1
+good vegetable flake	hbh graze	1
+great quality party brand	hb	1
+hadoop-related project	hbase	1
+hb mutation	hb e	1
+heat labile mutant	hb gun hill	1
+hepatic pathogen	hbv	1
+high performance semiconductor device	hbt	1
+high premium channel	hbo	1
+high-def premium channel	hbo	1
+high-profile platform	hbo's russell simmons presents def poetry series	1
+hyper-branched polymer	hbp	2
+hyperoxic condition	hbo  two  treatment 	1
+ignorant company	hbo	1
+inclusive show	hbo's true blood	1
+industry expo	hba expo	1
+group	hbi	1
+integral product	hbdi certification	1
+international TV project	hbo production iron jawed angels by katja von garnier	1
+internationally prominent venue	hbo's real sex	1
+largest euro-zone bank	hbos	1
+longtime cable programmer	hbo	1
+Maniacal, ramblings	hbd	1
+mass merchant account	hbc	1
+medium-grade pencil	hb	2
+motor neuron promoter	hb nine  promoter 	1
+movie channel provider	hbo	1
+movie dish channel	hbo	2
+movie-channel package	hbo	1
+natural mutation	hb e	1
+NIRS factor	hbo  two 	1
+non-commercial premium channel	hbo	1
+p53-induced growth factor	hb-egf	1
+pay cable service	hbo	1
+pay cablers	hbo	1
+pay station	hbo	1
+Pay-TV subscription programming	hbo	1
+place network	hbo	1
+post-treatment endpoint	hbeag seroconversion	2
+pre mium channel	hbo	1
+predominant hemoglobin variant	hb e	1
+Premium cable content	hbo	1
+premium cable site	hbo	1
+premium cable TV channel	hbo	1
+premium channel programming	hbo	2
+premium film service	hbo	1
+premium movie station	hbo	2
+premium programming	hbo	2
+premium television channel	hbo	1
+prestige program	hbo's the wire	1
+private healthcare website	hba	1
+quality dock hoses	hbd thermoid	1
+radical mediator	hbt	1
+replication marker	hbv dna in serum	1
+RF power amplification element	hbt	1
+method	hb	1
+serum hepatitis marker	hbsag	1
+service logo	hbo logo	1
+severe genotypes	hb ss	1
+side movie channel	hbo & cinemax	1
+simply accessory	hbr- twenty  add-on radio 	1
+single additional movie channel	hbo	1
+sinking food pellet	hbh's super cichlid sinkers	1
+soft lead	hb	1
+sophisticated viral characteristic	hbv genotype	1
+specialist funding expert	hbos mortgages chief operating officer phil jenks	1
+star match	hbk	1
+subscription cable company	hbo	1
+subscription cable television channel	hbo	1
+subscription network	hbo	1
+television portrayal	hbo's the wire	1
+terminal gain device	hbt vacuum tube	1
+TOP MOVIE channel	hbo	1
+top premium movie channel	hbo	1
+topical drama	hbo's life support'', about hiv in the black community	1
+traditional subscription channel	hbo	1
+trusty film channel	hbo inserts tidbits of the up	1
+tuned-in corporation	hbo	1
+uk-focused bank	hbos	1
+under-resourced institution	hbcus	1
+unstable gamma chain variant	hb poole	1
+variant hemoglobin	hb s	1
+tool	hba one c test 	1
+viral proapoptotic protein	hbx coded by hbv	1
+virus factor	hbv genotype	1
+weakest bank	hbos	1
+whilebloodborne virus	hbv	1
+wildly popular television series	hbo's sex	1
+wound care treatment	hbot	1
+yearly opportunity	hbbb	1
+tool	hbdi	1
+project	hbasic	2
+project	hbbtv supported by a range of european player	1
+project	hbi plant at port hedland	1
+material	hbg metal	3
+material	hbr	1
+player	hbos	1
+player	hbo	1
+technology	hbase	2
+term	hbsag-negative chronic active hepatitis	1
+parameter	hba  one c 	2
+parameter	hb concentration	2
+parameter	hbv dna level	1
+system	hbase	1
+species	hbr	1
+measure	hb one ac level 	1
+measure	hba  one c 	1
+element	hbt q two 	1
+variable	hba  one c 	3
+variable	hbeag	1
+variable	hbeag status	1
+variable	hba  one  c 	1
+function	hba function	1
+function	hba reset	1
+function	hbea cryptographic hash function	1
+device	hbts	2
+device	hbt	1
+device	hba	1
+brand	hbo	13
+brand	hbos	1
+site	hbo	3
+site	hbo site	1
+site	hbb-b one  promoter 	1

@@ -1,0 +1,4031 @@
+factor	x-rays	5
+factor	x-ray exposure	2
+product	x-ray equipment	1
+product	x-ray films & cassette	1
+product	x-ray tube related product	1
+product	x-ray sorting system	1
+product	x-exhaust jack related product	1
+product	x-factor butter oil	1
+product	x-ray related product	1
+product	x-ray detector	1
+product	x-ray device	1
+product	x-ray machines in shoe store	1
+product	x-ray mailer	1
+initiative	x-ray machine	2
+initiative	x-selling program	1
+accessory	x-y table	6
+accessory	x- ninety  performance accessory 	1
+accessory	x-rays for doctor	1
+accessory	x-press phone cover	1
+datum	x-ray	5
+datum	x-ray datum	3
+datum	x-ray image	1
+datum	x-ray powder diffraction	1
+datum	x-ray performance datum	1
+datum	x-ray finding	1
+datum	x-ray  unit specific datum	1
+resource	x-ray equipment	2
+resource	x-sensors pressure mapping system	1
+resource	x-ray machine	1
+facility	x-ray	10
+facility	x-ray unit	3
+facility	x-ray department	2
+facility	x-y recorder output	1
+facility	x-ray machines.	1
+facility	x-ray viewing box	1
+process	x-ray	3
+process	x-ray lithography	2
+process	x-raying	2
+process	x-ray-based testing	1
+process	x-chromosome inactivation	1
+process	x-ray diffraction	1
+process	x-ray analysis	1
+process	x-ray inspection of bgas	1
+process	x-inactivation	1
+source	x-rays	7
+source	x-ray machine	2
+source	x-ray radiation source	1
+source	x-ray mammography	1
+source	x-ray inspection imaging source	1
+source	x-ray binary system	1
+property	x-y position	2
+property	x-ray diffraction analysis	2
+property	x-ray diffraction	1
+property	x-field offset	1
+game	x-men	3
+game	x-men destiny	2
+game	x-men mutant academy	2
+game	x-box play other pc game	1
+game	x-men superhero based game	1
+game	x-men legends ii	1
+game	x-men  two  clone war 	1
+game	x-men next dimension	1
+game	x-men arcade	1
+game	x-wing vs tie-fighter leading the way	1
+game	x-wing vs. tie fighter	1
+game	x-com	1
+game	x- three 	1
+exception	x-ray darkroom tent	1
+exception	x-ray department	1
+exception	x-files movie	1
+product	x-change	1
+product	x- two  vehicle swing gate system 	1
+product	x-treme wheels	1
+exception	x- two  series 	1
+exception	x-linked hydrocephalus	1
+exception	x-men	1
+character	x-men	15
+character	x- twenty-three 	2
+character	x-men using comixology's guided view system	1
+character	x-man comic book character	1
+model	x-fi	1
+model	x- fifteen 	1
+model	x- seven 	1
+model	x-series	1
+model	x-files	1
+situation	x-ray department	1
+situation	x-linked agammaglobulinemia	1
+category	x-ray system	1
+client	x-chat	2
+client	x-ray optical	1
+document	x-rays	13
+document	x-ray film	2
+document	x-ray plate	1
+product	x-ray film processor related product	1
+product	x-hive db	1
+feature	x-ray emission	3
+strategy	x-rays	1
+form	x-rays	2
+form	x-ray report of finding	1
+person	x-ray technician	1
+approach	x-ray crystallography	2
+approach	x-ray	2
+approach	x-ray absorption spectroscopy the type of adsorption complex	1
+approach	x-ray photoelectron spectroscopy	1
+approach	x-ray diffraction	1
+alternative	x-rays device	2
+alternative	x-box  three hundred and sixty 	1
+alternative	x-ray irradiators	1
+object	x-ray film	4
+object	x-ray film cassette	1
+object	x-ray machine	1
+course	x-ray procedure	1
+course	x-ray metallography & ceramic material	1
+course	x-pert	1
+mechanism	x-y-z positioning mechanism	1
+mechanism	x-inactivation	1
+feature	x-by - wire	2
+feature	x-ray film detector model	2
+feature	x-ray film illuminators	2
+book	x-men	1
+book	x-statix	1
+structure	x-ray film	1
+structure	x-ray structure	1
+structure	x-cube color combiner	1
+film	x-men	16
+film	x-men first class	3
+film	x-men  two 	3
+film	x-rated the devils	2
+film	x-rated commercial film	1
+film	x- two 	1
+film	x-files movie	1
+film	x-files	1
+film	x-men franchise	1
+film	x-men ii	1
+field	x-ray-used inspection	2
+field	x-ray diffraction	2
+field	x-ray crystallography	1
+field	x-axis unit	1
+field	x-ray technician	1
+field	x-ray -diagnostic	1
+field	x-ray astronomy	1
+field	x-ray radiation	1
+field	x-distance on the psu	1
+procedure	x-rays	78
+procedure	x-ray crystallography	1
+procedure	x-ray imaging	1
+procedure	x-ray diffraction analysis	1
+procedure	x-raying	1
+procedure	x-ray technique	1
+procedure	x-ray powder diffraction	1
+procedure	x-y table positioning	1
+procedure	x-raying the floor slab	1
+procedure	x-ray fluorescence	1
+band	x-ecutioners	2
+band	x-ray spex	2
+part	x-ray tube	2
+amenity	x-box  three hundred and sixty 	1
+title	x-men	11
+title	x-blades	1
+title	x-plane	1
+title	x-men legacy	1
+title	x-man	1
+title	x-man comic title	1
+title	x-force	1
+title	x-factor	1
+title	x-divison  five  time 	1
+operation	x-ray generator control	1
+agent	x-rays	7
+agent	x-irradiation	1
+agent	x-ray irradiation	1
+circumstance	x-linked agammaglobulinemia	1
+cost	x-rays	11
+feature	x-men  two 	1
+feature	x-by wire	1
+feature	x-dome cradle in the heel	1
+development	x-ray optic	1
+development	x-band inflatable reflectarray	1
+type	x-ray	3
+celebrity	x-factor finalist	1
+disease	x-linked genetic disease	1
+disease	x-linked hydrocephalus	1
+disease	x-linked retinoschisis	1
+disease	x-linked cerebral adrenoleukodystrophy	1
+disease	x-linked muscular dystrophy	1
+disease	x-linked retinitis pigmentosa	1
+disease	x-chromosome-linked diseases in human	1
+disease	x-chromosone-linked diseases in human	1
+venue	x-games	1
+challenge	x-tream activity	1
+requirement	x-ray of vehicle	2
+requirement	x-ray inspection of weld	1
+job	x-ray technician	2
+drug	x-chromosome steroid	1
+test	x-rays	608
+test	x-ray test	6
+test	x-ray diffraction	4
+test	x-ray of the chest	3
+test	x-gal assay	2
+test	x-ray fluorescence spectroscopy	2
+test	x-ray examination	2
+test	x-ray photo of lung	1
+test	x-ray chest	1
+test	x-rays of abdominal	1
+test	x-rays of the ear canal	1
+test	x-rays of the breast	1
+test	x-rays of the sacroiliac joint	1
+test	x-rays of the spine	1
+test	x-rays service	1
+test	x-raysand bone scan	1
+test	x-ray fluoroscopy	1
+indicator	x-ray sigmoidal structure	1
+advantage	x-ray transparency	1
+treatment	x-rays	16
+treatment	x-ray radiation	1
+favorite	x-men	3
+instrument	x-ray machine	6
+instrument	x-ray diffraction	2
+instrument	x-ray camera	1
+instrument	x-ray photoelectron spectroscopy	1
+instrument	x-ray fluorescent polarizing analyzer	1
+instrument	x-rite coloreye  seven thousand  a 	1
+instrument	x-ray diffractometer	1
+instrument	x-ray film cassette	1
+instrument	x-ray equipment lasers	1
+instrument	x-ray fluorescence analyzer	1
+instrument	x-ray telescope	1
+instrument	x-ray receiver	1
+act	x-clan	5
+act	x-factor's eton road	1
+feature	x-ray burst	1
+attribute	x-y ax	1
+publication	x-press magazine	1
+class	x-bike ride	1
+study	x-rays	29
+study	x-ray diffraction	3
+study	x-ray crystallography	3
+study	x- four - fourteen  various empirical study 	1
+study	x-ray crystallographic analysis	1
+study	x-ray imaging	1
+study	x-ray department study	1
+position	x-ray technician	2
+equipment	x-ray machine	10
+equipment	x-rays	3
+equipment	x-ray scanner	2
+equipment	x-ray spectrometer	1
+equipment	x-ray diffractometer	1
+equipment	x-ray microscope	1
+equipment	x-ray device	1
+equipment	x-y recorder	1
+unit	x-wing squadron	1
+unit	x-ray	1
+basic	x-height	1
+basic	x-ray diffraction	1
+expense	x-ray film	1
+movie	x-men	41
+movie	x-files	4
+movie	x-men  two 	3
+movie	x- two 	1
+movie	x-men trilogy	1
+movie	x-man	1
+innovation	x-ray machine	1
+mean	x-ray photoelectron spectroscopy	3
+mean	x-ray examination	2
+mean	x-rays	2
+mean	x-ray diffraction	1
+mean	x-y stepper motor	1
+instance	x-wing squadron traveling from yavin iv	1
+team	x-terminators	1
+team	x-force	1
+style	x-wing	1
+feature	x-type  three . zero 	1
+feature	x-linked family history	1
+feature	x-gen panel	1
+feature	x-fi crystallizer	1
+feature	x-factor	1
+feature	x-torq motor	1
+feature	x-ray cassette	1
+feature	x-rays from heated intracluster gas	1
+phenomenon	x-rays	2
+phenomenon	x-chromosome inactivation	1
+purpose	x-ray exposure	1
+purpose	x-ray machine	1
+format	x-factor	1
+partner	x-blue networks	1
+big name	x-men	2
+standard	x-sampa	1
+classic	x-men	2
+classic	x-com ufo defense	1
+piece	x-ray equipment	1
+show	x-files	21
+show	x-factor	17
+show	x-play	3
+show	x-men	1
+show	x-treme energy	1
+advanced feature	x-link frame separation-mechanism	1
+advanced feature	x-y operation	1
+role	x-ray technician	1
+role	x-wing pilot wedge antilles in the original star wars trilogy	1
+club	x-men	2
+design	x-cell design	1
+design	x- seven 	1
+design	x-board butterfly	1
+design	x-treme	1
+design	x- five 	1
+influence	x-ray spex	1
+influence	x-files	1
+environmental factor	x-rays	7
+environmental factor	x-ray exposure	1
+vehicle	x- thirty-three 	1
+vehicle	x- thirty-eight  emergency crew return vehicle 	1
+intervention	x-ray	1
+effort	x- thirty-three 	1
+incentive	x-rays for adult new patient	1
+department	x-ray department	3
+department	x-ray unit	1
+department	x-ray department of noedreisa	1
+feature	x-band rpt	1
+feature	x-shaped main border	1
+feature	x-ray vision	1
+feature	x-phase power	1
+issue	x-ray source	3
+scheme	x-ray detection scheme	1
+external factor	x-ray beam voltage	1
+supply	x-acto knife	1
+supply	x-ray film	1
+need	x-ray plate	1
+additive	x- seventy-seven 	1
+article	x-ray plate	1
+article	x-ray machine	1
+article	x-men	1
+software	x-win	1
+disorder	x-linked agammaglobulinemia	1
+disorder	x-linked hemophilia	1
+disorder	x-linked immunodeficiency	1
+disorder	x-linked recessive disorder	1
+disorder	x-linked dominant disorder	1
+disorder	x-linked adrenoleukodystrophy	1
+disorder	x-linked familial exudative vitreoretinopathy	1
+capability	x-ray imaging	1
+capability	x-ray fluorescence	1
+magazine	x-tra	1
+exercise	x-country skiing	1
+sign	x-ray emission	1
+trait	x-linked recessive trait	1
+trait	x-linked dominant trait	1
+report	x-ray result	1
+report	x-bar	1
+professional	x-ray technologist	1
+offer	x-ray related offer	1
+offer	x-ray film related offer	1
+protein	x-linked inhibitors of apoptosis protein	1
+machine	x-ray	5
+machine	x-ray machine	4
+machine	x-ray equipment	1
+machine	x-ray lithography machine	1
+machine	x-ray device	1
+performer	x-ecutioners	1
+issue	x-ray radiation	2
+issue	x-ray flux	2
+addition	x-ray fluorescence	1
+discipline	x-ray technician	2
+discipline	x-treme kickboxing	1
+discipline	x-treme plyometrics	1
+discipline	x-treme yoga	1
+possibility	x-ray diffraction	1
+possibility	x-rays	1
+image	x-rays	44
+image	x-ray image	2
+image	x-ray ct	1
+image	x-ray tomography	1
+image	x-y data plots in xml	1
+pattern	x-wing	1
+line	x-men	1
+record	x-rays	14
+record	x-ray print	2
+record	x-rays of dentition	1
+record	x-ray slide	1
+record	x-ray file	1
+record	x-bar	1
+package	x-rite colormunki	3
+channel	x- one  x- two 	1
+surface	x-ray head	1
+principle	x-bar theory	1
+series	x-files	6
+series	x-men	1
+series	x-men for marvel comics	1
+suggestion	x-rays	1
+friend	x-pac	1
+file	x-rays	2
+file	x-ray whether the survey result	1
+sport	x-games	2
+sport	x-treme sport	2
+sport	x-country skiing	1
+measurement	x-ray warm air	3
+measurement	x-ray current	2
+measurement	x-ray diffraction	2
+measurement	x-ray updraft	2
+measurement	x-ray warm air scanning	2
+measurement	x-ray thermal	2
+measurement	x-ray current scanning	2
+measurement	x-ray thermal scanning	1
+measurement	x-ray updraft scanning	1
+measurement	x-ray photon correlation spectroscopy	1
+measurement	x-ray photoelectron spectroscopy	1
+measurement	x-ray diffraction rocking curve	1
+movement	x-ray attacks	1
+charge	x-rays	4
+charge	x-ray charge	1
+story	x-men	1
+issue	x-rated video	1
+issue	x-ray setting	1
+issue	x-ray parameter	1
+issue	x-ray emission process	1
+everything	x-rays	3
+platform	x-cart	1
+platform	x-box	1
+fish	x-ray tetras	1
+fee	x-rays	1
+symbol	x-shape of the greek letter chi	1
+essential	x-mini portable speakers	1
+protocol	x-window system protocol	1
+card	x-fi titanium	1
+top brand	x-treme cases	1
+hazard	x-ray radiation	1
+user	x-ray laboratory	1
+arrangement	x-ray facility	1
+defect	x-linked birth defect	1
+operator	x-ray technician	1
+result	x-rays	2
+sensor	x-ray	1
+sensor	x-ray film	1
+sensor	x-ray image intensifier	1
+sensor	x-ray camera	1
+medium	x-rays	1
+shop	x-underarmour	1
+ability	x-ray vision	4
+request	x-ray testing	1
+standard feature	x-y controller	2
+standard feature	x-line package	1
+basic information	x-y coordinate information	1
+input	x-box  three hundred and sixty 	1
+prize	x-prize foundation	1
+competition	x-tables challenge for the p two -p six 	1
+competition	x-games	1
+factor	x-height	2
+issue	x-men's disgust	1
+modalities	x-ray	17
+modalities	x-ray system	2
+modalities	x-ray imaging modalities	1
+modalities	x-ray diagnostic modalities	1
+modalities	x-ray ct	1
+modalities	x-ray computed tomography	1
+occupation	x-ray technician	3
+scenario	x-com one	1
+signal	x-ray	2
+enhancement	x-fi crystalizer	1
+time	x-mas	4
+evidence	x-ray measurement	1
+segment	x-ray	1
+appliance	x-boxes for the child	1
+appliance	x- ten 	1
+traditional method	x-ray crystallography	3
+traditional method	x-ray diffraction	1
+traditional method	x-ray	1
+traditional method	x-ray fluorescence	1
+attachment	x-ray film	1
+substrate	x-cut substrate	2
+aid	x-rays	1
+methodology	x-ray diffraction	3
+methodology	x-ray microanalysis	1
+methodology	x-ray scanning	1
+programme	x-factor	2
+programme	x-files	1
+issue	x-ray damage	1
+item	x-rays	22
+outdoor activity	x-country skiing	3
+add-ons	x-ray mod	2
+add-ons	x-cart quickbooks integration	1
+aircraft	x- two 	2
+aircraft	x- one 	2
+aircraft	x- five 	1
+aircraft	x- fifteen 	1
+aircraft	x- fifteen  rocketplane 	1
+aircraft	x- fifteen  rocket plane 	1
+aircraft	x- four 	1
+hit	x-men	1
+TV show	x-files	11
+TV show	x-factor	2
+TV show	x-files & spin city	1
+quantity	x-ray structure factor	2
+notable exception	x-files	1
+advanced technique	x-ray diffraction	2
+advanced technique	x-ray crystallography	1
+advanced technology	x-ray lithography	1
+physical property	x-ray density	1
+physical property	x-ray datum	1
+heroes	x-men	8
+heroes	x- twenty-three 	4
+inhibitor	x-chromosomal inhibitor of apoptosis protein	1
+career	x-ray technician	1
+power	x-ray vision	6
+superstar	x-pac	2
+invention	x-rays	2
+invention	x-ray machine	1
+item	x-ray machine	7
+item	x-men  one - two hundred 	2
+item	x-ray generator	2
+kind	x-ray	1
+kind	x-men	1
+room	x-ray room	1
+fluid	x-ray impermeable contrast medium	1
+conventional method	x-ray crystallography	1
+conventional method	x-ray ct	1
+conventional method	x-ray diffraction	1
+conventional method	x-ray powder diffractometry	1
+conventional method	x-ray examination	1
+conventional method	x-ray imaging of the joint	1
+conventional method	x-ray technique	1
+Celebs	x-factor's tulisa	1
+gadget	x-box  three hundred and sixty 	2
+basic service	x-rays	7
+analysis	x-ray diffraction	3
+analysis	x-ray fluorescence spectrography of ceramics from the site	1
+analysis	x-ray diffraction analysis	1
+key feature	x-ray safety	1
+load	x-ray machine	1
+load	x-ray tube	1
+trade	x-box  three hundred and sixty  with game 	1
+urban area	x-rich  urban area	1
+mission	x-ray astrophysics mission	1
+mission	x-ray multi-mirror mission	1
+installation	x-shaped wall panel assembly	1
+entry	x-wing videogames	1
+assessment	x-rays	7
+television show	x-files	6
+industrial application	x-ray checking of luggage in airport	1
+manager	x-window desktop manager	1
+server	x-compliant authentication server	1
+investigation	x-rays	217
+investigation	x-ray examination	3
+investigation	x-ray of the swallowing mechanism with colleagues from the radiology department	1
+investigation	x-ray chest	1
+investigation	x-ray of the back	1
+investigation	x-ray of the swallowing mechanism	1
+investigation	x-ray of the knee joint	1
+certification	x-ray certification	1
+consumable	x-ray plate	1
+imaging technique	x-ray	116
+imaging technique	x-ray angiography	7
+imaging technique	x-ray radiology	5
+imaging technique	x-ray computer tomography	4
+imaging technique	x-ray imaging	3
+imaging technique	x-ray cat	2
+imaging technique	x-ray computed tomography	2
+imaging technique	x-ray ct scanning	1
+imaging technique	x-ray ct	1
+imaging technique	x-ray diffraction	1
+imaging technique	x-ray fluoroscopy	1
+imaging technique	x-ray fluorescence imaging	1
+imaging technique	x-ray coronary angiography	1
+imaging technique	x-ray crystallography	1
+imaging technique	x-ray cmt imaging technique	1
+imaging technique	x-ray examination	1
+precaution	x-raying shoe	1
+item	x-ray viewer	1
+item	x-ray image	1
+item	x-ray picture	1
+item	x-ray tube	1
+item	x-ray unit position indicator device	1
+taxa	x-linked	1
+light source	x-ray lithography	1
+light source	x-ray free electron laser	1
+renowned artist	x-dream	2
+display	x-y recorder	1
+display	x-stand display	1
+apparatus	x-ray equipment	1
+apparatus	x-y table	1
+apparatus	x-ray ct	1
+output	x-rays	1
+energy source	x-rays	4
+release	x-men	1
+video game	x-box  three hundred and sixty 	2
+video game	x-com	2
+video game	x-box	1
+testing	x-rays	51
+testing	x-ray lower-limb phlebography	1
+commercial product	x-tension arm by cal trak	2
+commercial product	x- fourteen  in a spray dispenser 	1
+picture	x-ray picture	1
+picture	x-ray film	1
+fiber	x-static	1
+specialty service	x-ray	7
+experiment	x-ray crystallography	4
+experiment	x-ray diffraction	3
+experiment	x- fourty-three a 	1
+experiment	x-ray structural analysis on  twenty k-hgh 	1
+experiment	x-ray magnetic circular dichroism spectroscopy of manganese	1
+physical parameter	x-ray mass absorption coefficient	1
+ancillary service	x-ray	20
+expenditure	x-rays	1
+medical device	x-ray machine	7
+medical device	x-ray equipment	6
+medical device	x-ray equipment left by the israeli medical team	1
+medical device	x-rays	1
+diagnostic test	x-rays	225
+diagnostic test	x-ray procedure	3
+diagnostic test	x-ray examination	2
+key information	x-rays	1
+traditional technique	x-ray	2
+traditional technique	x-ray crystallography	1
+stage	x-y stage	1
+modern technology	x-ray structure analysis	1
+modern technology	x-ray machine	1
+preventative measure	x-rays	1
+chapter	x-rays	1
+filmmaker	x-strike studios	2
+video	x-files movie	1
+video	x-factor style audition	1
+essential service	x-rays	3
+item	x-ray illuminators	1
+item	x-ray device	1
+item	x-acto knife	1
+item	x-ray film	1
+item	x-raydifiractometers	1
+tour	x-games xperience	1
+external influence	x-rays	1
+subject area	x- twenty-five 	1
+vital information	x-rays	1
+system component	x-ray system component	1
+optional accessory	x-ray deck	1
+training program	x-ray technician asap	1
+television program	x-files	4
+television program	x-factor	2
+franchise	x-men	5
+contest	x-games	1
+construction	x- fourty-six 	1
+construction	x- fourty-seven 	1
+construction	x- fourty-five 	1
+creation	x- twenty-three 	1
+external device	x-ray unit	1
+spare part	x-ray tubes	1
+conventional technique	x-ray	5
+conventional technique	x-ray diffractometry	4
+conventional technique	x-ray diffraction	4
+conventional technique	x-ray crystallography	2
+conventional technique	x-ray photoelectron spectroscopy	1
+conventional technique	x-ray imaging	1
+hidden cost	x-rays	2
+outside factor	x-rays	2
+analytical technique	x-ray diffraction	19
+analytical technique	x-ray crystallography	5
+analytical technique	x-ray fluorescence	5
+analytical technique	x-ray diffractometry	4
+analytical technique	x-ray powder diffraction	3
+analytical technique	x-ray microanalysis	3
+analytical technique	x-ray diffraction spectroscopy	2
+analytical technique	x-radiography	1
+analytical technique	x-ray diffraction analysis	1
+analytical technique	x-ray photoelectron microscopy	1
+analytical technique	x-ray flourescence	1
+analytical technique	x-ray florescence	1
+practical application	x-ray optic	1
+hand tool	x-acto type knife	1
+holiday	x-mas	3
+commercial application	x-ray-computed tomography	1
+neighbor	x-mas fanatic	1
+innovative technology	x-ray scanner	1
+stat	x-netstat version	1
+biological process	x-linked mental retardation	1
+browser	x-smiles	1
+detector	x-ray intensifying screen	3
+detector	x-ray detector	2
+detector	x-ray film	1
+light	x-rays	2
+item	x-men comic book	1
+item	x-ray film holder	1
+item	x-box  three hundred and sixty 	1
+basic facility	x-ray	1
+basic facility	x-ray diffractometer	1
+TV series	x-files	3
+research area	x-ray tomography	1
+diagnostic tool	x-rays	63
+diagnostic tool	x-ray imagery	1
+diagnostic tool	x-ray conventional radiology	1
+period	x-mas	2
+fundamental concept	x-ray conversion	1
+modern technique	x-ray crystallography	1
+modern technique	x-r diffraction	1
+technological development	x-rays	4
+laboratory test	x-rays	18
+performance accessory	x- ninety  performance accessory 	1
+comic	x-men	10
+research	x-ray analysis of painting	1
+influencing factor	x-ray investigation	1
+critical application	x-ray viewing	1
+critical application	x-by-wire	1
+experimental condition	x-ray flux of the beamline	1
+popular game	x-men	1
+fun event	x-country skiing	1
+international star	x-factor winner alexandra burke	1
+medical procedure	x-rays	23
+medical service	x-rays	12
+physical process	x-ray diffraction	1
+television series	x-files	7
+traditional service	x-rays	1
+alloy	x- fourty 	1
+analytical tool	x-ray diffraction	7
+analytical tool	x-ray photoelectron spectroscopy	2
+analytical tool	x-ray diffractometer	1
+analytical tool	x-rays	1
+analytical tool	x-ray absorption spectroscopy	1
+analytical tool	x-ray crystallography	1
+TV program	x-files	3
+TV program	x-factor	1
+area	x-ray	8
+area	x-ray room	2
+imaging modalities	x-ray	24
+imaging modalities	x-ray computed tomography	10
+imaging modalities	x-ray mammography	4
+imaging modalities	x-ray angiography	2
+imaging modalities	x-ray ct	2
+imaging modalities	x-ray radiography	1
+imaging modalities	x-ray imaging modalities	1
+imaging modalities	x-ray computerized tomography	1
+guest star	x-men	1
+feature film	x-men	1
+medical treatment	x-rays	2
+plane	x- fifteen 	1
+analysis technique	x-ray diffraction	2
+analysis technique	x-ray analysis technique	1
+analysis technique	x-ray photoelectron spectroscopy	1
+analysis technique	x-ray fluoresce	1
+analysis technique	x-ray diffractometry	1
+analysis technique	x-ray radiographs	1
+popular program	x-files	1
+examination	x-rays	9
+examination	x-ray ct	2
+examination	x-ray of the gastric tract	2
+incidental	x-acto blade	1
+custom feature	x-rays	1
+diagnostic procedure	x-rays	39
+diagnostic procedure	x-ray examination	2
+diagnostic procedure	x-ray film	1
+diagnostic procedure	x-ray examination of the chest	1
+health service	x-rays	2
+cartoon	x-men	3
+cartoon	x-men evolution	2
+emergency service	x-rays	2
+apparatuses	x-ray p hotographing device	1
+apparatuses	x-ray photographing device	1
+apparatuses	x-ray analysis apparatuses	1
+apparatuses	x-ray diagnosis apparatuses	1
+apparatuses	x-ray ct	1
+objective measure	x-rays	1
+experimental technique	x-ray diffraction	19
+experimental technique	x-ray crystallography	11
+experimental technique	x-ray	5
+experimental technique	x-ray photoelectron spectroscopy	4
+experimental technique	x-ray diffraction technique	1
+experimental technique	x-ray crystallography of single crystals of purified rna molecule	1
+experimental technique	x-ray tomography	1
+experimental technique	x-ray microtomography	1
+experimental technique	x-ray fluorescence	1
+analytical method	x-ray photoelectron spectroscopy	7
+analytical method	x-ray diffraction	6
+analytical method	x-ray fluorescence	5
+analytical method	x-ray fluorescence spectrometry	2
+analytical method	x-ray crystallography	2
+analytical method	x-ray fluorescence spectrometric analysis of free oxide	1
+analytical method	x-ray analysis	1
+analytical method	x-ray microanalysis	1
+bike	x- nineteen 	1
+bike	x- eighteen 	1
+discovery	x-rays	6
+conventional mean	x-rays	1
+credential	x-men	1
+standard technique	x-ray scattering	1
+standard technique	x-ray photoelectron spectroscopy	1
+blood test	x-rays	1
+popular title	x-men	2
+area	x-factor stretch	1
+great band	x-wild	1
+research tool	x-ray diffraction unit	1
+health professional	x-ray technician	1
+common material	x-acto knife	1
+powerful tool	x-ray crystallography	1
+technological advancement	x-rays	1
+technological advancement	x-ray laser	1
+innovative technique	x-ray ct	1
+complex structure	x- fifteen 	1
+motor	x-axis feed motor	1
+grade	x- fourty-two 	2
+display device	x-ray photographic tube	1
+research method	x-rays of the tooth	1
+traditional instrument	x-ray	1
+concert	x-fest in may	1
+exam	x-rays	4
+exam	x-rays of the skeletal system	1
+Clinical information	x-rays	3
+Clinical information	x-ray film	1
+diagnostic technique	x-ray screening	1
+environmental stress	x-rays	1
+standard method	x-ray crystallography	1
+physical phenomenon	x-rays	1
+screening test	x-rays	4
+fan favorite	x-men's phoenix	1
+potential application	x-ray shadow imaging from a point source	1
+big project	x-men	1
+indirect method	x-ray diffraction	1
+indirect method	x-ray crystallography	1
+app	x-lite	1
+medical application	x-ray	2
+medical application	x-ray image	1
+medical application	x-ray fluoroscopy	1
+environmental hazard	x-rays	4
+physical method	x-ray	2
+physical method	x-ray diffraction	2
+physical method	x-ray crystallography	2
+physical method	x-ray diffractometry	1
+commercial use	x-ray of patient	1
+infrastructure facility	x-ray machine	1
+extras	x-rays	1
+optical component	x-ray optical component	1
+diagnostic method	x-rays	10
+diagnostic method	x-ray imaging	1
+diagnostic method	x-rays of upper gastrointestinal tract	1
+diagnostic method	x-ray radiography	1
+optical element	x-ray optical element	1
+practical reason	x-ray mirror damage	1
+professional athlete	x-game skater	2
+area	x-ray tomography	1
+USB device	x- ten  controller 	1
+actuator	x-frame	1
+extreme sport	x-games	1
+standard tool	x-y plot	1
+blockbuster	x-men	1
+common tool	x-ray crystallography	2
+hand	x-country	1
+simple procedure	x-ray of a broken bone	2
+advanced method	x-ray crystallography	1
+training aid	x-rays	1
+detection method	x-ray diffraction	1
+genetic disorder	x-linked adrenoleukodystrophy	1
+tangible benefit	x-ray equipment	1
+preventive service	x-rays	3
+preventive service	x-rays performed in an outpatient hospital setting	1
+security product	x-ray inspection system	1
+security product	x-ray security scanners for scanning hand	1
+exposure	x-rays	2
+etiology	x-rays	1
+watch	x- thirty-three 	1
+energy	x-rays	6
+analysis method	x-ray diffraction	2
+analysis method	x-ray analysis method	1
+analysis method	x-ray fluorescence	1
+advanced skill	x-ray image processing	2
+modern tool	x-ray analysis	2
+imaging method	x-rays	19
+imaging method	x-ray computed tomography	3
+imaging method	x-ray angiography	2
+imaging method	x-ray tomography	1
+imaging method	x-ray method	1
+imaging method	x-ray imaging method	1
+imaging method	x-ray computerized tomography	1
+imaging method	x-ray radiology	1
+imaging method	x-ray analysis	1
+imaging method	x-ray ct	1
+big item	x-ray machine	1
+outside resource	x-ray surface analysis	1
+imaging study	x-rays	130
+imaging study	x-ray examination	1
+medical product	x-ray qa	1
+health care professional	x-ray technologist	1
+personnel	x-ray technician	1
+sophisticated method	x-ray diffraction	1
+rate	x- fifty-three  touring rocket 	1
+out-of-pocket expense	x-rays	1
+minor procedure	x-rays	2
+string	x- one  biphase 	1
+lab	x-cell	1
+credit	x-men	1
+imaging device	x-rays	7
+imaging device	x-ray machine	2
+imaging device	x-ray imaging	2
+imaging device	x-ray scanner	1
+imaging device	x-ray imager	1
+imaging device	x-ray ct scanner	1
+routine procedure	x-rays	6
+card game	x-men	1
+human disease	x-linked hyper igm	1
+frequency	x-rays	5
+technological tool	x-ray imaging	1
+critical system	x-ray machine	1
+structural parameter	x-ray density	1
+patient information	x-rays	1
+probe	x-rays	2
+area	x-rich  urban area	1
+area	x-ray area	1
+area	x-ray lithography	1
+area	x-ray technology	1
+area	x-ray optic	1
+service	x-rays	192
+evaluation	x-rays	1
+on-site service	x-rays	2
+clinical finding	x-ray finding	2
+genetic disease	x-linked scid	1
+genetic disease	x-linked genetic disease	1
+large file	x-ray image	1
+reality show	x-factor	1
+measurement technique	x-ray diffraction	4
+measurement technique	x-ray photoelectron spectroscopy	1
+satellite	x-ray astronomy satellite	1
+satellite	x-ray   astronomy satellite	1
+activist group	x-z in russia	1
+imaging technology	x-ray	18
+imaging technology	x-ray computerized tomography	2
+imaging technology	x-ray fluoroscopy	1
+large system	x-ray testers used in manufacturing test of assembled printed circuit board	1
+drastic measure	x-ray unit	1
+production company	x-ray dog	1
+medical information	x-rays	4
+health care service	x-rays	3
+medical equipment	x-ray machine	4
+medical equipment	x-ray bed	2
+medical equipment	x-rays	2
+medical equipment	x-ray equipment	1
+medical equipment	x-ray ct scanner	1
+medical equipment	x-ray table pad	1
+user interface	x-windows	1
+empirical study	x- four - fourteen  various empirical study 	1
+cutting-edge technology	x-fi	2
+cutting-edge technology	x-ray crystallography	1
+active component	x-ray mirror	1
+unknown factor	x-ray flux	1
+everyday material	x-acto knife	1
+lab test	x-rays	8
+popular show	x-files	5
+characterization technique	x-ray diffraction	40
+characterization technique	x-ray photoelectron spectroscopy	4
+characterization technique	x-ray powder diffraction analysis	2
+characterization technique	x-ray diffraction microscopy	1
+characterization technique	x-ray diffractometer	1
+characterization technique	x-ray computerized tomography	1
+characterization technique	x-ray absorption spectroscopy	1
+characterization technique	x-ray diffraction analysis	1
+popular series	x-files	4
+pharmaceutical product	x-ray contrast medium	1
+performance datum	x-ray performance datum	1
+protective clothing	x-ray apron	1
+rare disease	x-linked severe combined immunodeficiency	1
+successful event	x-factor concert	1
+experimental method	x-ray crystallography	24
+experimental method	x-ray diffraction	4
+experimental method	x-ray	2
+experimental method	x-ray scattering	1
+optical technique	x-ray diffraction	2
+optical technique	x-ray	1
+door	x-ray doors for hospital	1
+minimally invasive procedure	x-stop for sciatica	1
+mobile service	x-rays	1
+imaging system	x-ray	5
+imaging system	x-ray tube	2
+imaging system	x-ray system	2
+imaging system	x-ray backscatter system	1
+imaging system	x-ray imaging on a c-arm	1
+imaging system	x-ray imaging system	1
+imaging system	x-ray equipment	1
+imaging system	x-ray tomography imaging system	1
+imaging system	x-ray tube imaging system	1
+imaging system	x-ray radiography system	1
+factor	x-ray  image different factor	1
+service	x-ray imaging	2
+service	x-rays taken in the chiropractor's office	2
+service	x-ray examination	2
+service	x-rays study	1
+service	x-rays of particular parts of the body	1
+complex procedure	x-rays	1
+diagnostic testing	x-rays	47
+patient datum	x-ray image	3
+patient datum	x-ray	2
+simple test	x-rays	5
+motion picture	x-men  two 	1
+system function	x-ray generation	1
+particulate material	x-ray image of coal	1
+robot	x-terminator	1
+robot	x- nine 	1
+simulator	x-plane	2
+simulator	x- fifteen  simulator 	1
+screening tool	x-ray flourescence	1
+high profile project	x- fifteen  experimental rocket plane 	1
+modern device	x-rays	1
+modern device	x-ray machine	1
+cheap high quality UGGs	x-stripe tall ugg	5
+birth defect	x-linked birth defect	1
+chart	x-bar	1
+electronic gadget	x-box kinect	1
+electronic gadget	x-boxes	1
+multimedia	x-ray image	1
+support area	x-ray room	1
+plastic item	x-ray holder	1
+action movie	x-men trilogy	2
+common procedure	x-rays	2
+outside service	x-rays	2
+potential factor	x-rays	1
+fabrication technique	x-ray	1
+genetic condition	x-linked genetic condition	1
+diagnostic service	x-rays	31
+athletic event	x-games professional sports tour	1
+outpatient service	x-ray	21
+standard test	x-rays	18
+advanced procedure	x-rays study	2
+advanced procedure	x-rays	1
+awesome feature	x-ray vision damage shot	1
+dental procedure	x-rays	9
+mask	x-vision	1
+healthcare professional	x-ray technician	1
+influential figure	x-ecutioners	1
+auxiliary component	x-ray inspection system	2
+winter sport	x-country skiing	1
+separation technique	x-ray crystallography	1
+sheet material	x-ray film	1
+winter activity	x-country skiing	1
+fictional character	x-men	1
+microsoft product	x-box	1
+equipment item	x-ray machine	1
+proven technology	x-filters for green liquor filtration	1
+proven technology	x-rays	1
+free software	x-lite	1
+dental service	x-rays	6
+visualization technique	x-ray visualization	1
+A-listers	x-men	1
+imaging	x-rays	13
+imaging	x-ray tomographic imaging	1
+imaging	x-ray imaging	1
+great movie	x-men	1
+breakthrough	x-rays	1
+breakthrough	x-ray tube	1
+pc game	x-box play other pc game	1
+PC game	x-com	1
+reinforcement	x-brace under the engine compartment	1
+telescope	x-ray space telescope	1
+spectroscopic technique	x-ray photoelectron spectroscopy	3
+spectroscopic technique	x-ray	2
+spectroscopic technique	x-ray fluorescence	1
+hit movie	x-men	1
+iconic character	x-men	1
+medical expense	x-rays	3
+medical test	x-rays	36
+practical measure	x-ray screening of staff member	1
+practical measure	x-ray screening	1
+security technology	x-ray machine	1
+routine service	x-rays performed in an outpatient hospital setting	2
+routine service	x-rays	1
+great title	x-men first class	1
+non-invasive technique	x-ray	2
+non-invasive technique	x-ray radiography	1
+non-invasive technique	x-ray examination	1
+recording medium	x-ray film	1
+conventional tool	x-ray diffraction	2
+diagnostic study	x-rays	17
+diagnostic study	x-ray of hip with frog leg view	1
+detection technique	x-ray absorption near edge structure	1
+detection technique	x-ray scanner	1
+screening	x-rays	2
+routine test	x-rays	15
+vocational course	x-ray technician	1
+screening method	x-ray equipment	1
+advanced equipment	x-ray machine	1
+season	x-mas	1
+caregiver	x-ray technician	1
+radiation source	x-ray tube	8
+radiation source	x-ray	5
+radiation source	x-ray source	5
+radiation source	x-ray equipment	1
+radiation source	x-ray generator	1
+radiation source	x-ray radiation source	1
+radiation source	x-ray producing device	1
+radiation source	x-ray machine	1
+environmental agent	x-rays	2
+imaging procedure	x-rays	24
+test result	x-rays	8
+experimental approach	x-ray	1
+noninvasive technique	x-ray imaging	1
+service	x-ray facility	1
+service	x-ray interpretation	1
+topic	x-intercept	17
+health information	x-rays	3
+health information	x-ray result	1
+commercial program	x-win thirty-two 	1
+complementary technique	x-ray diffraction	2
+complementary technique	x-ray	1
+complementary technique	x-ray powder diffraction	1
+complementary technique	x-ray diffractometry	1
+complementary technique	x-ray photoelectron spectroscopy probing thin upper layer	1
+diagnostic modalities	x-ray	1
+latest technique	x-ray	1
+predictor variable	x-ray severity	1
+research facility	x-ray	2
+sensitive technique	x-ray fluorescence spectrometry	1
+powerful technique	x-ray crystallography	2
+powerful technique	x-ray diffraction	2
+archetype	x-sabers	1
+competitive event	x-games	1
+capital asset	x-ray machine	2
+numerical datum	x-ray unit cell datum	1
+secondary information	x-rays	1
+glass product	x-ray glass	1
+imaging application	x-ray imaging	1
+imaging application	x-ray computed tomography image reconstruction	1
+measurement system	x-ray diffraction device	1
+top athlete	x-games snowmobile gold medalist	1
+viewer	x-men	1
+light item	x-ray cassette	1
+measurement method	x-ray diffraction	1
+measurement method	x-ray diffraction technique	1
+measurement method	x-ray measurement method	1
+measurement method	x-ray porosimetry	1
+outdoors activity	x-country sking	1
+biomedical application	x-ray phase-contrast in vitro characterization	1
+complicated procedure	x-rays	1
+pic	x-man group pic	1
+suitable method	x-ray fluoroscopic imaging	1
+wave	x-rays	8
+toolkits	x-window development toolkits	1
+ancillary equipment	x-ray machine	2
+certificate program	x-ray technician	1
+detection system	x-ray fluorescence	1
+diagnostic information	x-rays	1
+medical technology	x-rays	1
+medical technology	x-ray machine	1
+laboratory procedure	x-ray microanalysis	1
+quantitative technique	x-ray diffraction	1
+spectroscopic method	x-ray photoelectron spectroscopy	6
+spectroscopic method	x-ray absorption spectroscopy	6
+spectroscopic method	x-ray photoelectron	2
+spectroscopic method	x-ray absorption spectroscopy orx-ray magnetic dichroism	1
+spectroscopic method	x-ray crystallography	1
+spectroscopic method	x-ray diffraction	1
+high temperature application	x-ray tube component	1
+physical technique	x-ray diffraction	4
+physical technique	x-ray crystallography	3
+physical technique	x-ray photoelectric spectroscopy	1
+dental treatment	x-rays	1
+health facility	x-rays center	1
+hit show	x-files	1
+invasive test	x-rays	2
+popular TV show	x-factor	1
+simple treatment	x-rays	1
+plot	x-y plot	2
+radiation	x-rays	63
+radiation	x-ray radiation	2
+radiation	x-and gamma ray	1
+scientific instrument	x-ray source	1
+scientific instrument	x-ray	1
+endurance sport	x-c skiing	1
+full service	x-rays	2
+mature technology	x-ray backscatter imaging	1
+medical instrument	x-ray machine	2
+topic	x-ray production	3
+topic	x-ray diffraction	3
+topic	x-ray absorption	2
+topic	x-rays	2
+topic	x-ray fluorescence	2
+detection device	x-ray machine	1
+evaluation technique	x-ray computerized tomography	1
+manga	x-day	1
+flight	x- fifteen 	1
+plant disease	x-disease of peach	2
+story element	x- fifteen  vs. apollo moonshot 	1
+non-invasive procedure	x-rays	1
+programmer	x-cal from sct	1
+superhero	x-men	10
+medical record	x-rays	14
+medical record	x-ray film	1
+modern instrument	x-ray telescope	1
+established method	x-ray mammography	1
+cure	x-rays	1
+modern invention	x-rays	1
+modern invention	x-ray machine	1
+sensitive method	x-ray photoelectron	1
+famous movie	x-men	2
+imaging tool	x-rays	8
+laboratory study	x-rays	31
+run	x-men	1
+sharp instrument	x-acto knife	2
+sharp instrument	x-acto blade	1
+sharp instrument	x-acto-type knife	1
+analytical instrument	x-ray	1
+analytical instrument	x-ray diffractometers	1
+analytical instrument	x-ray microanalyser	1
+costumed character	x-men	1
+critical document	x-rays	1
+presentation tool	x-rays	1
+wavelength	x-rays	16
+common treatment	x-rays	2
+great athlete	x-games medalist	1
+reality TV show	x-factor	1
+support space	x-ray room	1
+analytic technique	x-ray diffraction	1
+sharp tool	x-acto knife	3
+video effect	x-ray	1
+fundamental technique	x-ray diffraction	1
+hereditary disease	x-linked mental ret ardation	1
+key tool	x-stream	1
+laboratory equipment	x-ray photoelectron spectrometer	1
+laboratory service	x-rays	4
+work practice	x-ray nursing	1
+action film	x-men	1
+topic	x-ray equipment	1
+topic	x-ray spectrum determination	1
+topic	x-ray vision	1
+topic	x-ray physic	1
+photosensitive material	x-ray films for medical use	1
+image file	x-rays	1
+mat	x-box ddr mat	1
+pointed object	x-acto knife	1
+basic test	x-rays	1
+graphic novel	x-men	2
+investigative technique	x-ray	1
+physical agent	x-rays	4
+aircrafts	x- fifteen  experimental rocket plane 	1
+aircrafts	x-wing	1
+system factor	x-ray source energy	1
+action figure	x-men	1
+characterization method	x-ray diffraction	8
+characterization method	x-ray photoelectron spectroscopy	2
+characterization method	x-ray power diffraction	2
+host cell	x-irradiation-sensitive lymphocyte	1
+medical cost	x-rays	2
+dental product	x-ray equipment	2
+imaging parameter	x-ray tube voltage	1
+medical practice	x-rays	1
+sophisticated equipment	x-ray diffraction	1
+comic book	x-men	4
+laboratory method	x-ray crystallography	1
+laboratory method	x-ray analysis of the clay	1
+blockbuster film	x-men	2
+clinical test	x-ray	5
+clinical test	x-rays if necessary	1
+clinical test	x-ray film	1
+instrumental technique	x-ray diffraction	4
+instrumental technique	x-ray fluorescence	3
+instrumental technique	x-ray crystallography	1
+instrumental technique	x-ray photoelectron spectroscopy	1
+instrumental technique	x-ray fluorescence spectrometry	1
+instrumental technique	x-ray fluorescence spectroscopy	1
+instrumental technique	x-ray diffraction of solution	1
+instrumental technique	x-ray microanalysis	1
+objective test	x-rays	3
+preventative service	x-rays	11
+adjuvant therapy	x-ray treatment	1
+medical system	x-ray therapy	1
+medical system	x-ray	1
+medical system	x-ray diagnostic device	1
+medical system	x-ray imaging	1
+portable storage device	x-drive super digibin	1
+wellness service	x-rays	2
+legendary character	x-men	1
+medical datum	x-ray ct imaging datum	1
+scan	x-rays	11
+scan	x-ray computed tomography	1
+thrill ride	x-scream	1
+unusual object	x-ray binaries with neutron star	1
+access service	x-ray facility	1
+immune disorder	x-linked b-lymphocyte defect	1
+immune disorder	x-linked agammaglobulinemia	1
+ancillary staff	x-ray technician	2
+large machine	x-ray machine	1
+expensive method	x-ray photodensitometry	2
+expensive method	x-ray	1
+microscopy technique	x-ray microscopy	2
+modern imaging technique	x-ray computed tomography	1
+modern imaging technique	x-ray	1
+scientific application	x-ray diffraction	1
+topic	x-ray interpretation	1
+common test	x-rays	21
+established technique	x-ray	1
+screening technique	x-ray	1
+sophisticated instrument	x-ray fluorescence	1
+specialised product	x-change	1
+cancer treatment	x-ray irradiation	1
+health care worker	x-ray technician	1
+medical imaging technique	x-rays	15
+medical imaging technique	x-ray imaging	2
+medical imaging technique	x-ray ct	1
+medical imaging technique	x-ray fluoroscopic imaging	1
+medical imaging technique	x-ray angiography	1
+testing equipment	x-ray machine	1
+graphical method	x-y graph	1
+in-house facility	x-ray	1
+physical tool	x-ray crystallography	1
+helmet	x- one  from xenith 	1
+graphical user interface	x-windows	2
+imaging service	x-rays	12
+selection technique	x-ray	2
+ancillary charge	x-rays	6
+destructive method	x-ray diffraction	1
+epigenetic mechanism	x-inactivation	1
+fandoms	x-files	1
+classic show	x-files	1
+crossover	x- eight 	1
+euphemism	x-rated bukkake adult video	1
+resistive load	x-ray tube	2
+service product	x-ray film	1
+service product	x-ray generating equipment	1
+diagnostic technology	x-rays	1
+expensive service	x-rays	1
+experimental treatment	x-rays	1
+non-destructive technique	x-ray	3
+non-destructive technique	x-ray imaging	1
+non-destructive technique	x-ray tomography	1
+non-destructive technique	x-ray scanning	1
+scientific advance	x-rays	1
+sensitive component	x-ray tube	1
+console game	x-box	1
+experimental procedure	x-ray crystallography	1
+hair	x-ray show hair	1
+laboratory testing	x-rays	1
+biophysical technique	x-ray crystallography	5
+biophysical technique	x-ray scattering	2
+biophysical technique	x-ray crystallograph	1
+characterization	x-ray diffraction	2
+conventional test	x-rays	2
+dentistry service	x-rays	2
+expensive procedure	x-rays	1
+man-made source	x-ray machine	1
+man-made source	x-ray tube	1
+healthcare worker	x-ray tech	1
+medical image	x-rays	18
+medical image	x-ray image	3
+medical image	x-ray radiographs	2
+medical image	x-ray mammogram	2
+medical image	x-ray computerized tomography image	1
+medical image	x-rays from remote places like the australian outback	1
+sequel	x-men	1
+sequel	x- two 	1
+company	x- ten 	2
+company	x-wave solutions	2
+delicate product	x-rays	1
+instrument parameter	x-mode	1
+instrumental method	x-ray fluorescence	1
+large tool	x-ray machine	1
+monitoring	x-ray test	1
+monitoring	x-rays	1
+study program	x-ray equipment	1
+bow	x-force super short gx	1
+bow	x-force dream season gx	1
+bow	x-force gx ld	1
+conventional instrument	x-ray film	1
+hospital department	x-rays	2
+inspection tool	x-ray analysis	1
+movie character	x-men	1
+screening procedure	x-rays	3
+seasonal sport	x-country skiing	1
+ancillary technique	x-ray powder diffraction	1
+famous title	x-men	1
+hollywood blockbuster	x-men	2
+medical imaging system	x-ray	6
+medical imaging system	x-ray imaging system	2
+medical imaging system	x-ray machine	2
+medical imaging system	x-ray computed tomography	1
+medical imaging system	x-ray equipment	1
+medical imaging system	x-ray diagnostic system	1
+medical imaging system	x-ray ct scanner	1
+superpower	x-ray vision	1
+basic medical supply	x-ray film	1
+biophysical method	x-ray crystallography	7
+biophysical method	x-ray diffraction	1
+modern approach	x-ray	1
+specialised technique	x-ray microanalysis techniques for detecting contaminates	1
+specialised technique	x-ray diffraction	1
+veterinary service	x-rays	1
+Diagnostic imaging	x-ray	40
+medical imaging modalities	x-ray	7
+medical imaging modalities	x-ray computed tomography	2
+medical imaging modalities	x-ray computed	1
+medical imaging modalities	x-ray imaging	1
+medical imaging modalities	x-ray ~	1
+medical imaging modalities	x-ray ct scanner	1
+preventative treatment	x-rays	1
+ROMs	x-men vs. street fighter	1
+scientific technique	x-ray	1
+ancillary procedure	x-rays	1
+community provider	x-ray	5
+electromagnetic wave	x-rays	24
+investigative tool	x-rays	1
+noninvasive imaging technique	x-ray ct	2
+onsite service	x-rays	1
+comic book character	x-men	1
+comic book character	x-man comic book character	1
+good character	x-club	1
+analytic method	x-ray diffraction	1
+diagnostic device	x-ray unit	2
+diagnostic device	x-rays	1
+invasive diagnostic procedure	x-rays	1
+traditional test	x-rays	3
+varia bles	x-ray system position	1
+advanced analytical technique	x-ray diffraction	1
+advanced analytical technique	x-ray crystallographic diffraction	1
+advanced analytical technique	x-ray scattering	1
+conventional light source	x-ray lamp	1
+indirect technique	x-ray	1
+indirect technique	x-ray scattering	1
+inspection method	x-ray	5
+non-invasive imaging technique	x-ray	2
+patient service	x-rays	1
+radiographic study	x-rays	6
+company	x-tuple	1
+diagnostic instrument	x-ray spectrometer	2
+digital image	x-rays	9
+revolutionary feature	x-ray vision	1
+secondary item	x-rays	1
+specification language	x-machines	1
+sub-assemblies	x-ray cabinet	1
+tech	x-ray tech	1
+application parameter	x-ray application parameter	1
+exposure parameter	x-ray exposure parameter	1
+high frequency	x-rays	4
+minor case	x-raying a broken leg	1
+mobile user	x-series product	1
+popular toy	x-men	1
+science fiction movie	x-men	1
+clinical study	x-rays	2
+expensive tool	x-ray equipment	1
+mobile apps	x-ray scanner	1
+ancillary study	x-rays	1
+complicated technique	x-ray installation	1
+diagnostic aid	x-rays	2
+diagnostic aid	x-ray film	1
+energy form	x-rays	3
+imaging apparatus	x-ray ct apparatus	3
+impermeable material	x-ray impermeable material	1
+overlay	x-y extents of the target	1
+rap group	x-clan	1
+suitable process	x-ray measurement	1
+advanced test	x-rays	2
+medical report	x-rays	10
+blockbuster hit	x-men	1
+diagnostic imaging technique	x-ray	11
+diagnostic measure	x-rays	2
+imaging apparatuses	x-ray ct apparatus	1
+non-destructive testing	x-ray radiography	1
+screening measure	x-ray of the breast	1
+sound card	x-fi line of sound card	1
+competing technology	x-ray diffraction	1
+nondestructive method	x-ray	1
+nondestructive method	x-ray fluorescence	1
+nondestructive method	x-ray imaging	1
+optical detector	x-ray detector	1
+polished surface	x-ray mirror surface	1
+proper facility	x-ray	1
+scanning parameter	x-ray tube supply voltage	2
+scanning parameter	x-ray tube current	2
+challenging event	x-treme engineering	2
+chemical technique	x-ray microprobe analysis	1
+console	x-box live	1
+conventional diagnostic method	x-ray	1
+popular television series	x-files	2
+research instrument	x-ray machine	1
+deposit service	x-rays	1
+external material	x-rays	1
+company	x- ten  has sold lamp module 	1
+company	x-fab	1
+company	x-ray productions inc	1
+company	x-cel optical company	1
+company	x-rite	1
+company	x-trac	1
+harmful component	x-rays	1
+routine investigation	x-rays	1
+satellite service	x-m radio	1
+small bait	x- fifty-five  minnow 	1
+tetra	x-ray tetra	1
+control chart	x-charts for simple successive sample	2
+control chart	x-bar	2
+ervices	x-rays	1
+IRC client	x-chat	2
+marvel	x-men	1
+radiological technique	x-ray	2
+radiological technique	x-ray computed tomography	1
+radiological technique	x-ray angiography	1
+structural technique	x-ray crystallography	6
+structural technique	x-ray diffraction	2
+structural technique	x-ray computed tomography scans	1
+structural technique	x-ray absorption spectroscopy	1
+surface analysis technique	x-ray photoelectron spectroscopy	7
+surface analysis technique	x-ray photoelectron spectrometer	1
+surface analysis technique	x-ray photoelectron	1
+conventional imaging technique	x-ray	10
+conventional imaging technique	x-ray-computed tomography	1
+conventional imaging technique	x-ray imaging	1
+NDT method	x-rays method	2
+quality information	x-ray result	1
+virtual instrument	x-y recorder	2
+analysis feature	x-y excursion	1
+Conventional imaging modalities	x-ray	6
+Conventional imaging modalities	x-ray computedtomorgraphy	1
+Conventional imaging modalities	x-ray angiography	1
+radiation detector	x-ray detector	1
+radiographic technique	x-ray	3
+radiographic technique	x-ray imaging	1
+radiographic technique	x-ray diffraction	1
+radiographic technique	x-ray fluorescence	1
+radiology service	x-ray	9
+signaling protocol	x- ten 	4
+techn ologies	x-rays	1
+characterisation technique	x-ray diffraction	7
+characterisation technique	x-ray photoelectron spectroscopy	1
+diagnostic system	x-ray ct system	1
+diagnostic system	x-ray diagnostic system	1
+diagnostic system	x-ray	1
+Electromagnetic radiation	x-rays	8
+Electromagnetic radiation	x-ray radiation	2
+hospital equipment	x-ray machine	1
+human disorder	x-linked mental retardation	1
+marvel character	x-men	5
+radiological investigation	x-rays	2
+radiological investigation	x-ray chest	1
+raffle item	x-box  three hundred and sixty 	1
+successful franchise	x-men	1
+supplementary technique	x-ray diffractometry	2
+supplementary technique	x-ray diffraction	1
+year program	x-ray technician	1
+artificial source	x-rays used in medical examination	1
+artificial source	x-rays	1
+color effect	x-ray	1
+energy type	x-rays	2
+laboratory examination	x-rays	2
+popular culture	x-files	1
+suitable equipment	x-ray telescope	1
+clinical method	x-ray	1
+diagnostic equipment	x-ray	5
+diagnostic equipment	x-ray machine	3
+field name	x-mms-reply-charging field	1
+image type	x-ray	1
+measurement technology	x-ray computed tomography	1
+medical personnel	x-ray technologist	2
+medical personnel	x-ray tech with moving the patient	1
+mutagen	x-rays	6
+nissan model	x-trail suv	1
+objective evidence	x-ray	3
+radioactive substance	x-ray	1
+sophisticated imaging technique	x-ray computer tomography	1
+talent show	x-factor	1
+basic treatment	x-rays	1
+classic icon	x-men	1
+clinical outcome measure	x-rays	4
+diagnostic facility	x-ray	3
+medical job	x-ray technician	1
+medical job	x-ray tech	1
+normal process	x-forwarding agent	1
+popular casino game	x-men slot	1
+portable player	x-fi	1
+radiologic study	x-rays	2
+routine dental service	x-rays	16
+artificial environment	x-ray picture	1
+bitmap image	x-rays	1
+conventional analytical technique	x-ray defraction	1
+conventional analytical technique	x-ray diffraction	1
+covered service	x-rays	2
+mainstream movie	x-men	3
+medical examination	x-rays	2
+Medical imaging	x-rays	15
+medical tool	x-rays	4
+NDE technique	x-ray	2
+NDE technique	x-ray radiology	1
+NDE technique	x-ray diffraction	1
+radiological study	x-rays	6
+verification method	x-ray photoelectron spectroscopy	2
+advanced diagnostic tool	x-rays	4
+american holiday	x-mas	1
+basic solution	x-ray	1
+biological measure	x-rays	1
+diagnostic exam	x-rays	7
+diagnostic imaging modalities	x-ray	17
+mainstream title	x-men	1
+shared surface	x-ray table	1
+x-ray technique	x-ray diffraction	3
+x-ray technique	x-ray fluorescence	2
+x-ray technique	x-ray standing wave	1
+x-ray technique	x-ray fluorescense	1
+x-ray technique	x-ray absorption	1
+advanced imaging technology	x-rays	2
+diagnostic imaging service	x-rays	4
+field method	x-ray fluorescence	1
+health specialist	x-ray technicians	1
+medical imaging device	x-ray system	1
+medicinal purpose	x-rays	1
+player game	x-men	1
+radiographic procedure	x-rays	1
+small ticket item	x-rays	1
+complimentary technique	x-ray diffraction	1
+complimentary technique	x-ray photoelectron spectroscopy	1
+excellent game	x-wing series	1
+expensive technique	x-ray	1
+lithography technique	x-ray lithography	3
+non-destructive method	x-ray fluorescence	2
+non-destructive method	x-ray diffraction measure in-situ crystalline property	1
+non-destructive method	x-ray inspection of part	1
+non-destructive method	x-ray analysis	1
+preliminary test	x-rays	1
+radiation technique	x-ray	1
+sharp knife	x-acto knife	3
+spectrum	x-rays	2
+structural method	x-ray crystallography	4
+structural method	x-ray absorption	1
+superhero movie	x-men	3
+superhero movie	x-men : first class	1
+bolt -on	x-pipe no muffler	1
+characterization tool	x-ray photoelectron spectroscopy	1
+characterization tool	x-ray diffraction	1
+characterization tool	x-ray powder diffraction	1
+diagnostic investigation	x-rays	3
+film role	x-men	1
+indirect test	x-rays	1
+observable quantity	x-ray temperature	1
+photographic element	x-ray film	1
+factor	x-files	1
+activity	x-box tournament	1
+structural datum	x-ray crystallographic analysis of the shape	1
+technical degree	x-ray technician	1
+chemical analysis	x-ray photoelectron spectroscopy	3
+cross training	x-country skiing	1
+diagnostic imaging study	x-rays	24
+generation aircraft	x- fourty-five 	2
+image capture device	x-ray sensor	1
+imaging equipment	x-rays	4
+imaging equipment	x-ray machine	2
+invasive study	x-ray of the spine	1
+Ionizing radiation	x-rays	27
+Ionizing radiation	x-ray in m ct mayaffectthe mechanical properties of material	1
+lithographic technique	x-ray lithography	3
+medical disposable product	x-tourn tourniquet	2
+non-destructive testing method	x-ray	1
+surface analytical technique	x-ray photoelectron spectroscopy	5
+surface analytical technique	x-ray diffraction	2
+surface analytical technique	x-ray photoelectronic spectroscopy	1
+follow-up procedure	x-rays	1
+imaging examination	x-rays	2
+lifetime activity	x-country skiing	1
+modern technological advance	x-rays	2
+monogenic disorder	x-linked alport syndrome	1
+NDE method	x-ray	2
+popular TV series	x-files	2
+sci-fi show	x-files	3
+advanced analytical method	x-ray diffraction	1
+advanced analytical method	x-ray fluorescence	1
+baseline investigation	x-ray of the chest	1
+Comic book heroes	x-men	3
+comic book movie	x-men	2
+directional term	x-axis	2
+drone	x- fourty-five 	1
+elaborate technique	x-ray analysis	1
+functional room	x-ray	1
+high-resolution technique	x-ray crystallography	2
+medical approach	x-rays	1
+normal dental service	x-rays	8
+radiological procedure	x-ray imaging	2
+radiological procedure	x-ray fluoroscopy	1
+radiological procedure	x-rays	1
+scientific advancement	x-rays	1
+space telescope	x-ray telescope chandra	1
+space telescope	x-ray telescopes in orbit around earth	1
+space telescope	x-ray space telescope	1
+xbox game	x-men legends ii	1
+case datum	x-ray	1
+clinical assessment	x-rays	1
+clinical technique	x-ray	1
+console video game	x-box  three hundred and sixty 	1
+diagnostic examination	x-rays	3
+diagnostic imaging test	x-rays	13
+excitation source	x-rays	12
+extensive test	x-rays	1
+iconic team	x-men	1
+image analysis technique	x-ray diffraction	1
+irradiation condition	x-ray tube design	1
+medical imaging application	x-ray	2
+medical imaging technology	x-rays	4
+mutagenic agent	x-rays	2
+neuroimaging study	x-rays	1
+nondestructive evaluation technique	x-ray	1
+nondestructive evaluation technique	x-ray tomography	1
+nondestructive evaluation technique	x-ray computed tomography	1
+nondestructive evaluation technique	x-ray diffraction	1
+structural approach	x-ray crystallography	1
+x-ray source	x-ray tube	8
+advanced analytical tool	x-ray diffraction	1
+droids	x- one  viper droid 	1
+everyday household object	x-rays	1
+activity	x-c skiing	1
+activity	x-country skiing	1
+activity	x-box game tournament	1
+information	x-rays	33
+information	x-ray image	4
+file transfer protocol	x-modem	1
+fragile part	x-ray tube	1
+hazardous component	x-ray generator	1
+medical source	x-rays	3
+medical testing	x-rays	2
+notable title	x-factor annual	1
+observation technique	x-ray method	1
+positive finding	x-rays	1
+rare genetic disorder	x-linked hypercalciuric nephrolithiasis	1
+reproduction technique	x-ray lithography	2
+sharp blade	x-acto knife	3
+sharp blade	x-acto	1
+testing requirement	x-ray diffraction	2
+testing requirement	x-ray	1
+advanced diagnostic technique	x-ray microscope with a  seven -mum spatial resolution 	1
+cartoon series	x-men	1
+cathode ray tube	x-ray tube	1
+exotic technique	x-ray imaging	1
+game system	x-box  three hundred and sixty 	1
+high resolution technique	x-ray crystallography	2
+high resolution technique	x-ray	1
+high voltage device	x-ray tube	1
+observation method	x-ray method	2
+outdoor recreation opportunity	x-country skiing	1
+preventive procedure	x-rays	2
+research document	x-ray image	1
+traditional diagnostic technique	x-ray radiography	1
+traditional diagnostic technique	x-ray computed tomography scan	1
+antiapoptotic protein	x-linked	3
+award-winning show	x-factor	1
+controlled area	x-ray room	1
+costly project	x-ray facility	1
+diagnostic image	x-rays	5
+diagnostic image	x-ray photograph	2
+digital imaging application	x-ray digital imaging	1
+elaborate method	x-ray examination	1
+modern analytical method	x-ray diffraction	1
+molecular imaging technique	x-ray crystallography	2
+NDT technique	x-ray method	1
+nuclear analytical technique	x-ray fluorescence	10
+nuclear analytical technique	x-ray absorption spectrometry	8
+qualitative assessment	x-rays	1
+recessive disorder	x-linked recessive disorder	1
+resolution technique	x-ray crystallography	2
+routine diagnostic procedure	x-rays	2
+serious procedure	x-rays	1
+static method	x-ray diffraction patterns produced by heating	1
+Traditional imaging modalities	x-ray coronary angiography	1
+analytical equipment	x-ray diffraction	1
+expensive test	x-rays	1
+high voltage application	x-ray tube	1
+imaging modality	x-ray	1
+investigative procedure	x-rays	2
+man-made device	x-ray machine	1
+medicaid service	x-rays	1
+medical process	x-rays	1
+NDE technology	x-rays	2
+non invasive technique	x-ray absorption spectroscopy	1
+non-destructive test method	x-ray	1
+non-destructive test method	x-ray radiography	1
+nondestructive testing method	x-ray	1
+Noninvasive testing	x-rays	2
+phthalocyanine pigment	x-metal free phthalocyanine	1
+recessive trait	x-linked recessive trait	1
+sim game	x-change  two 	1
+Softphones	x-lite	3
+spectral datum	x-ray fluorescence	1
+standard imaging technique	x-ray	1
+star war game	x-wing alliance	1
+star war game	x-wing vs. tie fighter	1
+super-heroes	x-men	5
+televised event	x-games	1
+traditional analytical technique	x-ray powder diffraction	1
+transparent medium	x-rays	2
+anti-heroes	x-men's wolverine	1
+information	x-ray result	2
+information	x-ray light curve	1
+information	x-ray hardness	1
+Conventional imaging	x-rays	3
+custom tool	x-steel	2
+diagnostic capability	x-ray	1
+dominant trait	x-linked dominant trait	1
+high tech tool	x-rays	1
+high-profile show	x-factor	1
+high-resolution imaging technique	x-ray diffraction	2
+imagers	x-ray apparatuses used in surgery	2
+imaging scan	x-rays	7
+marvel comic	x-men	3
+nondestructive inspection technique	x-ray technique	2
+nondestructive testing	x-rays	3
+non-paper material	x-rays	2
+sometimes additional test	x-rays	2
+top-down approach	x-y tree method	1
+3D imaging technique	x-ray tomography	1
+alignment tool	x-ray beam camera	1
+analytical measurement	x-ray diffraction	1
+attached document	x-rays	1
+characterization study	x-ray diffraction	4
+classic television show	x-files	1
+energy beam	x-rays	2
+equipment system	x-ray unit	1
+hospital worker	x-ray technician	1
+inspection instrument	x-ray diffraction	1
+invasive imaging technique	x-ray angiography	1
+local setting	x- ten  address 	1
+low-end product	x-ray equipment	1
+medically necessary service	x-rays	3
+neutral particle	x-rays	1
+non-invasive measure	x-ray	1
+preoperative investigation	x-rays	3
+scanning tool	x- four hundred and thirty-one  launch tech diagun 	2
+scientific research method	x-ray	1
+single test	x-rays	1
+traditional imaging technique	x-ray	5
+undesirable factor	x-ray background	1
+biological model	x-linked	1
+complementary investigation	x-ray absorption spectroscopy	1
+complementary investigation	x-ray diffraction	1
+complementary investigation	x-ray circular magnetic dichroism	1
+CPU intensive application	x-plane	1
+diffraction technique	x-ray	5
+diffraction technique	x-ray diffraction	1
+introduction technique	x-ray computed tomography	1
+linguistic theory	x-bar theory	1
+long-running series	x-men	1
+medical development	x-rays	1
+mystery series	x-files	1
+popular heroes	x-men	1
+preventive dental service	x-rays	1
+radiation therapy	x-ray therapy	1
+radiological examination	x-rays	2
+routine dental procedure	x-rays	1
+single technique	x-ray diffraction	1
+surface sensitive technique	x-ray photoelectron spectroscopy	1
+system operating parameter	x-ray flux	1
+system operating parameter	x-ray energy	1
+winter recreational activity	x-country skiing	1
+accurate technique	x-ray diffraction	1
+analytical technology	x-ray spectrometer	1
+basic dental service	x-rays	1
+Brain imaging	x-ray	1
+information	x-y position	1
+datum visualization technique	x-y plot	1
+dental health service	x-rays	1
+diagnostic evaluation	x-rays	1
+diagnostic imaging procedure	x-ray	7
+diagnostic imaging procedure	x-ray of the spine	2
+game controller	x-box  three hundred and sixty 	1
+material characterization technique	x-ray diffraction	2
+medical evidence	x-ray	1
+promising program	x- thirty-four  being resurrected by private industry for the cots program 	1
+regular test	x-rays	1
+scattering technique	x-ray	1
+sport complex	x-scape	1
+standard diagnostic test	x-rays	4
+standard diagnostic tool	x-rays	2
+surface-sensitive technique	x-ray photoelectron spectroscopy	2
+surface-sensitive technique	x-ray photon spectroscopy	1
+theme song	x-files theme	1
+tomographic technique	x-ray computed tomography	1
+tomographic technique	x-ray tomography	1
+x-linked disorder	x-linked hypohydrotic ectodermal dysplasia	1
+auto diagnostic tool	x- four hundred and thirty-one  super scanner 	1
+conventional diagnostic test	x-rays	2
+electronic control system	x-by-wire	1
+epigenetic process	x-chromosome inactivation	1
+high energy source	x-ray machine	1
+immunosuppressive treatment	x-irradiation	1
+inspection system	x-ray inspection system	1
+light-sensitive material	x-ray film	1
+pagan holiday	x-mas	1
+research aircraft	x- fifteen 	3
+research aircraft	x- one 	2
+research aircraft	x- two 	1
+sealed source	x-ray unit	1
+short wavelength	x-rays	1
+topography	x-ray topography	1
+affordable solution	x-rite's quickink system	1
+affordable solution	x-ritecolor master system	1
+authentication server	x-compliant authentication server	1
+automated procedure	x- eleven 	1
+basic testing	x-rays	1
+commercial film	x-rated commercial film	1
+complicated treatment	x-rays	1
+congenital syndrome	x-linked dyskeratosis congenita	1
+conventional diagnostic procedure	x-ray imaging	2
+diagnostic mean	x-rays	1
+electromagnetic source	x-ray source	1
+emerging system	x-by-wire	1
+famous TV show	x-files	1
+high energy particle	x-rays	2
+lithography method	x-ray lithography	3
+lithography method	x-ray	2
+location-specific information	x-y location	1
+modern diagnostic technique	x-ray computed tomography	1
+modern spectroscopic technique	x-ray photoelectron spectroscopy for the analysis of fcc catalyst	1
+information	x-y location on the map	1
+event	x-games	6
+Paramedical staff	x-ray technician	2
+particle beam	x-ray beam	1
+performed office duty	x-rays	1
+pioneering technique	x-ray heating	1
+preliminary study	x-rays	1
+proper security measure	x-ray machine	1
+radiologic procedure	x-rays	1
+radiological test	x-rays	3
+spectroscopic measurement	x-ray absorption	2
+structural study	x-ray diffraction	3
+traditional experimental method	x-ray	1
+traditional experimental method	x-ray diffraction	1
+unusual vehicle	x- twenty-two 	1
+unwanted signal	x-ray standing wave	1
+urgent care need	x-rays	1
+urgent care service	x-ray for injury	1
+american comic	x-men	1
+chemical analysis technique	x-ray fluorescence	1
+conventional imaging method	x-ray	2
+diagnostic and preventive service	x-rays	2
+electromagnetic force	x-rays	1
+electronic detector	x-ray ccd camera	1
+frequency wave	x-rays	4
+heavy door	x-ray entry door	1
+High-energy radiation	x-rays	14
+High-energy radiation	x-ray radiation	1
+hospital expense	x-rays	2
+instrumental analysis	x-ray photoelectron spectroscopy	5
+instrumental analysis	x-ray diffraction	4
+instrumental analysis	x-ray diffractometry	1
+invasive examination	x-rays	3
+key market category	x-ray system	1
+large-scale device	x-ray diffraction device	1
+marvel movie	x-men franchise	1
+marvel movie	x-men	1
+marvel superhero	x-men	3
+medical diagnostic procedure	x-rays	5
+medical imaging procedure	x-ray	3
+medical imaging procedure	x-ray examination	2
+medical imaging procedure	x-ray esaminations	1
+medical modalities	x-ray	1
+modern imaging method	x-ray tomography	1
+modern imaging method	x-ray computer tomography	1
+modern scientific method	x-ray	1
+mystery show	x-files	1
+nondestructive testing technique	x-ray	1
+physical countermeasure	x-ray machine	1
+plot property	x-axis range	1
+plot property	x-axis label	1
+pre-operative test	x-rays	2
+process method	x-ray diffraction	2
+sometimes test	x-rays	1
+spectrophotometer	x-rite eye-one	1
+television format	x-factor	4
+world-renown DJs	x-ecutioners	1
+antibody deficiency	x-linked agamma-globulinaemia	1
+antibody deficiency	x-linked agammaglobulinemia	1
+charged particle beam	x-rays	2
+common analytical technique	x-ray diffraction analysis	1
+common analytical technique	x-ray diffractometry	1
+complex representation	x-rays	1
+conventional NDT method	x-ray	1
+detection scheme	x-ray detection scheme	1
+diagnostic imaging system	x-ray	1
+energy wave	x-rays	1
+fleece	x-ray show fleece	1
+furniture type	x-frame chair	1
+headlining venue	x- one  world events 	1
+high demand period	x-mas	1
+high energy radiation	x-rays	12
+high-resolution image	x-ray computed tomography image	1
+high-voltage application	x-ray generator	1
+in-house test	x-rays	1
+intermittent load	x-ray machine	1
+irradiation	x-ray	3
+Marvel heroes	x-men	1
+nanolithography technique	x-ray lithography	2
+nondestructive evaluation method	x-ray technique	1
+nondestructive evaluation method	x-ray method	1
+nondestructive evaluation method	x-ray	1
+non-destructive inspection method	x-ray	2
+event	x-mas	1
+event	x-prize flight of spaceshipone	1
+popular best selling title	x-men	1
+prestigious act	x-ecutioners	1
+promising new technique	x-ray diffraction	1
+quantitative imaging technique	x-ray-computed tomography	1
+radiographs	x-rays	1
+radiology test	x-rays	11
+structural analysis	x-ray crystallography	1
+structural measurement	x-ray diffraction	1
+surface characterization technique	x-ray photoelectron spectroscopy	2
+advanced diagnostic method	x-ray barium meal examination	1
+axis	x-axis	1
+biophysical tool	x-ray & neutron crystallography	1
+character toy	x-men	1
+comic book adaptation	x-men	1
+controlled system	x-y stage	1
+convenient category	x-men	1
+conventional medical imaging technique	x-ray	1
+critical test	x-ray in the operating room for a retained foreign body	1
+dental expense	x-rays	1
+dental program	x-rays	1
+diagnostic material	x-rays	1
+dominant disorder	x-linked dominant disorder	1
+electromagnetic radiation source	x-rays	1
+electromagnetic radiation source	x-ray source	1
+examination result	x-rays	1
+high-tech instrument	x-ray flaw detector	1
+imaging solution	x-ray	2
+low-risk procedure	x-ray test	1
+material characterization method	x-ray diffraction	1
+material characterization method	x-ray diffractometry	1
+medical imaging test	x-rays	4
+medical investigation	x-rays	2
+medical scan	x-rays	1
+non-invasive imaging procedure	x-rays	1
+preventive care expense	x-rays	1
+radiographic imaging	x-ray imaging	3
+scintillator material	x-ray sensitive scintillator material	1
+specialised instrument	x-ray photoelectron spectroscopy	1
+spectroscopic application	x-ray raman spectroscopy	1
+superhero comic book	x-men	2
+surface analytical tool	x-ray photoelectron spectroscopy	1
+top movie	x-men trilogy	1
+Traditional testing	x-rays	1
+advanced characterization technique	x-ray diffraction	1
+advanced software program	x-plane	1
+anatomic imaging technique	x-ray computed tomography	1
+anatomic imaging technique	x-ray	1
+Anatomical imaging	x-ray	7
+bulk technique	x-ray	1
+characterization result	x-ray diffraction	2
+clinical imaging modalities	x-ct	1
+clinical operation	x-ray	1
+comic title	x-man comic title	1
+comprehensive testing	x-rays	1
+core title	x-men	1
+empirical evidence	x-ray diffraction datum	1
+event	x-games in the u.s	1
+event	x-factor's exclusive boot-camp' episode	1
+event	x-ray flare	1
+program	x-factor	4
+program	x- fourty  space maneuver vehicle 	3
+program	x- fourty-one  common air vehicle 	3
+essential patient service	x-ray film	1
+evergreen theme	x-mas tree	1
+featured list	x-men	1
+gas system	x-ray	1
+harmful ray	x-ray	5
+imaging information	x-rays	1
+invisible wave	x-rays	2
+medical apparatus	x-raydiagnostic apparatus	1
+medical apparatus	x-ray	1
+medical apparatus	x-ray diagnostic apparatus	1
+medical apparatus	x-ray ct apparatus	1
+medical requirement	x-ray shielding	1
+passenger processing facility	x-ray equipment	1
+path-breaking technological invention	x-rays	1
+photon	x-rays	2
+photon	x-ray photon	1
+psoriasis treatment	x-rays	1
+radiographic image	x-ray images for diagnosis of the conditions of patients on the ward	4
+radiographic image	x-rays	3
+radiographic image	x-ray image	2
+radiographic image	x-ray images for diagnosis of patients conditions in hospital	1
+radiology report	x-rays	1
+rival program	x-factor	1
+school wrestler	x-pac	1
+screening investigation	x-rays	1
+second, technology	x-ray crystallography	1
+SIP client	x-lite	1
+sophisticated diagnostic test	x-rays	1
+standard title	x-men	1
+TV show theme	x-men	1
+tv-shows	x-factor	1
+x-ray	x-ray diagnostic x-ray	1
+Advanced diagnostic imaging	x-ray	1
+advanced diagnostic test	x-rays	1
+all-star athlete	x-games gold medalist gretchen bleiler	1
+anomaly detector	x-rays	1
+area detector	x-ray film	1
+attachements	x-rays	1
+basic maintenance service	x-rays	1
+basic medical test	x-rays	1
+blockbuster movie franchise	x-men	1
+complementary examination	x-rays	1
+cooling application	x-ray cooling	1
+destructive analysis	x-ray photoelectron spectroscopy	1
+diagnostic machine	x-rays	2
+diagnostic scan	x-rays	1
+diagnostic test result	x-rays	2
+external monitoring device	x-y recorder	1
+fed	x-treme online wrestling	1
+healthcare equipment	x-rays	1
+high resolution image	x-rays	2
+iconic superhero	x-men	1
+image acquisition system	x-ray computed tomography	1
+image acquisition system	x-ray mammography	1
+informative method	x-ray crystallography	2
+instrumental analysis method	x-ray microanalysis	1
+invisible phenomenon	x-rays	1
+IRC program	x-chat for linux	1
+medical diagnostic imaging system	x-ray system	3
+medical diagnostic imaging system	x-ray imaging system	1
+medical diagnostic imaging system	x-ray	1
+medical diagnostic test	x-rays	1
+medical imaging method	x-ray ct	1
+medical imaging service	x-rays	1
+movie blockbuster	x-men	1
+movie series	x-men franchise	1
+program	x-build package in quanta	2
+program	x-ray technician	2
+program	x-lite	2
+program	x-files	2
+program	x- fifty-one 	2
+program	x-chat	2
+nonconventional technique	x-ray magnetic circular dichroism	5
+nonconventional technique	x-ray magnet ic circular dichroism	1
+non-invasive diagnostic test	x-rays	1
+non-optical method	x-ray	1
+Patient specific information	x-rays	1
+poor performance	x-treme	1
+POS event	x-read	1
+preventive and diagnostic service	x-rays	3
+radiation-producing machine	x-ray machine	5
+radiation-producing machine	x-ray diffraction equipment	1
+radiation-producing machine	x-ray diffraction machine	1
+Radiological imaging	x-ray imaging	2
+Radiological imaging	x-ray	1
+recessive condition	x-linked recessive condition	1
+routine general dental service	x-rays	1
+secondary emission	x-ray	1
+small service provider	x-mission internet	3
+soundcard	x-fi	1
+specialist investigation	x-rays	1
+spectroscopic probe	x-ray photoelectron spectroscopy	1
+structural biology technique	x-ray crystallography	2
+structural characterization technique	x-ray	1
+systemic metabolic disorder	x-linked adrenoleukodystrophy	1
+technique s	x-rays	1
+third party title	x-city by aidi game	1
+three-dimensional image	x-ray cts	1
+tomographic imaging technique	x-ray computed tomography	2
+traditional control chart	x-bar chart	1
+uncharged particle	x-rays	1
+utility knife	x-acto knife	1
+active phenomenon	x-ray emission	1
+adult material	x-rated video	1
+analytical facility	x-ray diffractometers	1
+ancillary health care provider	x-ray tech	1
+basic preventive dental expense	x-rays	1
+big product	x-ray machine	1
+breast imaging	x-ray-guided biopsy	1
+cash cow	x-men	1
+common diagnostic test	x-rays	2
+complete veterinary service	x-rays	1
+Conventional modalities	x-ray	1
+conventional spectroscopy technique	x-ray photoelectron spectroscopy	2
+dental care treatment	x-rays	1
+dental cost	x-ray charge	1
+diagnostic step	x-rays	2
+efficiency concept	x-efficiency	1
+energetic object	x-ray binary	1
+energy radiation	x-rays	1
+equipment variation	x-ray filter variation	1
+expensive diagnostic test	x-rays	1
+experimental research program	x- five 	1
+experimental research program	x- three 	1
+experimental research program	x- four 	1
+experimentally measurable property	x-ray diffraction	1
+exposure technique	x-ray radiation	1
+flight simulation game	x-plane	1
+fox show	x-men	1
+good cartoon	x-men	1
+harness superman's amazing power	x-ray vision	1
+holidays	x-mas	1
+immune deficiency	x-linked agammaglobulinemia	21
+immunodeficient state	x-linked lymphoproliferative disease	1
+in-depth method	x-ray fluorescence	1
+indirect study	x-ray film	1
+inheritance pattern	x-linked	4
+in-network service	x-rays	1
+ion-exchangeable support	x-type zeolite	1
+irradiation facility	x-ray machine	1
+large datum source	x-rays	1
+life-long activity	x-c skiing	1
+marvel slot	x-men	2
+medical advancement	x-rays	1
+medical diagnostic system	x-ray	2
+medical file	x-ray image	1
+medical patient area	x-ray	1
+mendelian disease	x-linked disorder	1
+Multis	x- one  biphase 	1
+physical study	x-ray diffraction	1
+physicochemical measurement	x-ray scattering	1
+physicochemical measurement	x-ray diffraction	1
+program	x-ways forensics	1
+program	x-plor	1
+polyglutamine disease	x-linked spinobulbar muscular atrophy	1
+popular variety show	x-man	1
+Radiation exposure	x-rays	3
+Radiation exposure	x-rays for broken rib	1
+radiation measurement	x-ray	1
+radiation treatment	x-rays	1
+radiographic film	x-ray	2
+radiographic film	x-ray film	1
+rapid detection method	x-ray	1
+routine imaging service	x-rays	1
+routine measurement	x-ray diffraction	1
+scanned electronic file	x-rays	1
+secondary recovery method	x-ray	1
+socially conscious artist	x-clan	1
+specialty chart	x-y scatter	1
+spectral analysis	x-ray fluorescence	1
+standard imaging test	x-rays	2
+standing order	x-rays	1
+static field	x-rays	1
+destruction	x-mass festival	0
+wavelength radiation	x-rays	1
+x-ray telescope	x-ray multi-mirror mission	1
+all-sky survey	x-ray survey	1
+basic dental care	x-rays	1
+biomedical imaging technique	x-ray imaging	2
+bladed item	x-acto knife	1
+christmas decor	x-mas ball	1
+classified weapon	x-ray gun	2
+clinical and laboratory device	x-ray machine	1
+clinical image	x-rays	2
+comic-book icon	x-men	1
+complementary experimental technique	x-ray powder diffraction	1
+conventional NDI technique	x-ray	1
+conventional non-destructive testing method	x-ray testing	1
+conventional testing technique	x-ray	2
+data-gathering instrument	x-ray	1
+dental hygiene service	x-rays	1
+desktop manager	x-window desktop manager	1
+Energetic radiation	x-ray radiation	2
+Energetic radiation	x-rays	1
+entry-level system	x-ray	1
+extraordinary power	x-ray vision	1
+full service communication company	x-treme communications	1
+generation lithography method	x-ray orelectron beam	1
+generation lithography method	x-ray	1
+genodermatoses	x-linked dyskeratosis congenita	1
+great many environmental agent	x-rays	1
+healthcare expense	x-ray	1
+high energy photon	x-ray	1
+high resolution method	x-ray analysis	1
+High voltage equipment	x-ray device	1
+high-cost part	x-ray tube	1
+high-resolution method	x-ray crystallography	4
+live image	x-rays	1
+program	x-box live	1
+program	x- thirty-four 	1
+program	x-fire	1
+magic number	x-centimeters from the cervix	1
+marvel team	x-factor	1
+marvel team	x-force	1
+marvel team	x-men	1
+medical diagnostic imaging technique	x-ray	1
+medical investigative procedure	x-rays	2
+medical machine	x-rays	1
+Morphological imaging modalities	x-ray computed tomography	1
+open source e-commerce solution	x-cart	2
+patient's basic information	x-ray film	1
+physical or chemical agent	x-rays	2
+popular property	x-men	1
+popular superhero	x-men	1
+preventive and diagnostic expense	x-rays	1
+radical aircraft	x- thirty-two 	1
+radical aircraft	x- thirty-five 	1
+radical aircraft	x- twenty-nine 	1
+radical aircraft	x- thirty-one 	1
+radical aircraft	x- fourty-five 	1
+radiological tool	x-rays	1
+revolutionary technique	x-ray	2
+scattering method	x-ray scattering	1
+secondary test	x-rays	1
+sensitive instrumental technique	x-ray fluorescence spectrometry	1
+short wavelength radiation	x-rays	4
+short-wavelength light source	x-ray laser	1
+signal analyzer	x-series	1
+sometimes imaging study	x-rays	2
+standard medical test	x-rays	2
+standard test pattern	x-hatch	1
+standard testing procedure	x-rays	1
+statistical process control tool	x-bar	1
+superhero game	x-men legends ii	1
+surface analysis	x-ray photoelectron spectroscopy	3
+test in-house	x-ray	1
+therapeutic regimen	x-ray irradiation	1
+traditional examination	x-rays	1
+traditional inspection method	x-ray	1
+urgent treatment	x-rays	1
+water-damaged document	x-ray film	1
+x-linked disease	x-linked ocular albinism	1
+x-linked disease	x-linked retinitis pigmentosa	1
+advanced experiment	x-ray micro-beam diffraction	1
+advanced lithographic technique	x-ray lithography	1
+analog image	x-rays	1
+auxiliary test	x-ray examination	1
+basic medical expense	x-rays	1
+case test	x-rays	5
+classic multiplayer game	x-men	1
+clinical record	x-rays	3
+clinical record	x-ray picture	1
+comic movie	x-men	2
+complementary analysis	x-ray photoelectron spectroscopy	1
+complimentary measurement	x-ray powder diffraction	1
+controversial clothing	x-rated slangs on t-shirts	1
+conventional imaging test	x-ray with barium	1
+cutting-edge equipment	x-rays	1
+Defect information	x-projection size	1
+factor	x-men disney ride	1
+community	x-kalay in vancouver	1
+destructive and non-destructive test	x-ray diffraction	1
+detailed examination	x-rays	1
+detailed personal health information	x-rays	3
+diagnosis test	x-rays	1
+diagnostic and treatment procedure	x-ray interpretation	1
+diagnostic medical test	x-rays	1
+diagnostic service procedure	x-rays	1
+diagnostic skill	x-rays	1
+diagnostic-imaging modalities	x-ray	2
+electronic detection device	x-ray machine	1
+excited-state property	x-ray photoemission	1
+exhibition prop	x-stands	1
+exposure tool	x-rays	1
+fascinating game	x-box gears of war classic	1
+flight test program	x- fourty-three  series of x-planes 	1
+fluctuating load	x-ray machine	2
+follow-up imaging study	x-rays	1
+frequency radiation	x-ray radiation	3
+frequency radiation	x-rays	1
+great arcade game	x-wing fighter	1
+health personnel	x-ray technician	1
+hero team	x-men	1
+hero team	x-factor	1
+high energy beam	x-rays	1
+high energy beam	x-rays at cancer cell	1
+high frequency wave	x-rays	3
+high-energy beam	x-rays	1
+higher-resolution method	x-ray crystallography	1
+hilarious candy	x-rated fortune cookies	1
+homebased repair	x-clamp replacement	1
+homebrew repair	x-clamp replacement	1
+hospital diagnostic test	x-rays	2
+hospital diagnostic test	x-rays of the head	1
+IAP protein	x-linked iap	2
+IAP protein	x-chromosome linked iap	1
+instrumental analysis technique	x-ray fluorescence	1
+introduction medical image	x-rays	1
+Ionising radiation	x-rays	2
+kirby co-created comic book icon	x-men	1
+laboratory diagnostic test	x-rays	1
+large image file	x-rays	1
+latest protective measure	x-ray proof feature	2
+latest protective measure	x-rayproof feature	1
+lighting method	x- ten 	1
+lithography process	x-ray lithography	1
+local probe	x-ray absorption spectroscopy	1
+manned and unmanned system	x- fourty-five  unmanned combat aerial vehicle 	1
+material science technique	x-rays analysis	1
+medical -diagnostic	x-ray	1
+medical imaging study	x-rays	2
+medically necessary test	x-rays	1
+mios-based home control gateway system	x- ten 	1
+multimedia experience	x-fi crystalizer	1
+NDI technique	x-ray	1
+needed equipment	x-ray machine	1
+non-confidential paper	x-rays	1
+non-lithography application	x-ray diffraction	1
+non-lithography application	x-ray flourescence	1
+non-lithography application	x-ray microscopy	1
+non-lithography application	x-ray photoelectron spectroscopy	1
+non-pest related service	x-mas light installation	1
+nonspecific immunosuppressive agent	x-irradiation	1
+old-school arcade game	x-men	1
+optical tool	x-ray diffraction	1
+penetrating radiation	x-rays	5
+penetrating radiation	x-ray radiation	1
+photographic film	x-rays	1
+physical material property	x-ray absorption	2
+physical mutagen	x-rays	3
+polymer material characterization technique	x-ray scattering	1
+Popular American television series	x-files	1
+popular movie slot game	x-men	1
+Portable medical equipment	x-rays	1
+pure energy	x-rays	1
+quantum beam	x-ray electron	1
+radiation-emitting electronic product	x-ray system	1
+radiographic modalities	x-ray	1
+regular diagnostic test	x-rays	2
+regular IRC client	x-chat	1
+rival system	x-rite's colormunki photo	2
+robust and stylish vehicle	x-trail	1
+routine care cost	x-rays	1
+scanning process	x-ray system	1
+secondary title	x-force	1
+sheet film	x-ray film	2
+sheet film	x-ray films for use in medical organization	1
+small sharp blade	x-acto knife	1
+softphone	x-lite	7
+solution-based technique	x-ray	1
+sometimes further investigation	x-rays	2
+standard test instrument	x-y plotter	1
+structure determination method	x-ray crystallography	3
+structure-based approach	x-ray crystallography	1
+super hero comic	x-men	1
+super heroe skin	x-men	1
+superhero team	x-men	1
+surface-sensitive method	x-ra y photoelectron spectroscopy	1
+tomographic imaging method	x-ray computed tomography	1
+traditional characterization technique	x-ray diffraction	3
+traditional diagnostic measure	x-ray	2
+traditional imaging study	x-rays	1
+tradi-tionalprotein characterization method	x-ray	1
+workers compensation service	x-rays	2
+x-cart development service	x-cart web design	1
+x-cart development service	x-cart design	1
+x-cart development service	x-cart module development	1
+x-cart development service	x-cart customization	1
+X-ray imaging	x-ray fluoroscopy	2
+action cartoon	x-men evolution	1
+additionalserv ice	x-rays	1
+advanced imaging procedure	x-rays	1
+advanced nanolithography technique	x-ray lithography	1
+analog computer	x-rac built by ray pepinsky	1
+analytical chemistry method	x-ray analysis	1
+analytical techniqu es	x-ray photoelectron microscopy	1
+animated program	x-men evolution	2
+astrophysics mission	x-ray astrophysics mission	1
+basic and advanced characterisation method	x-ray	1
+basic and sophisticated outpatient testing	x-rays	1
+basic or intense dental procedure	x-rays	1
+big sim name	x-plane	1
+biomedical image	x-ray image	1
+biomedical imaging modalities	x-ray computed tomography	1
+bus implementation	x- ten 	1
+cast film	x-men	1
+character Barbies	x-files mulder & scully	1
+classical radiographic method	x-ray inspection technique	1
+clinical aid	x-rays	1
+clinical support area	x-ray	2
+CMOS foundry	x-fab	1
+common dental service	x-rays	1
+common medical test	x-rays	1
+complementary spectroscopic technique	x-ray diffraction	1
+complete laboratory service	x-rays	1
+completely new instrument	x-ray	1
+conventional biophysical technique	x-ray crystallography	1
+conventional NDE technique	x-ray	1
+cross-sectional image	x-ray ct image	1
+crystallographic tool	x-ray spectrometer	1
+cutting-edge technology product	x-ray systems & scanners	1
+dedicated gaming system	x-box by microsoft	1
+dental record	x-rays	4
+destructive and nondestructive technique	x-ray radiography	1
+diagnostic check	x-rays	1
+diagnostic medical service	x-rays	1
+diagnostic x-ray	x-ray diagnostic x-ray	1
+diffraction method	x-ray resonant scattering shares the species sensitivity of xmcd	1
+diffraction method	x-ray	1
+diffraction-based technique	x-ray diffraction	1
+divergent digital source	x-ray image	2
+DVD boxed set	x-men	1
+effective mutagen	x-rays	1
+elective dental treatment	x-rays	2
+electromagnetic spectrum labeling	x-rays	1
+electron spectroscopy	x-ray photoelectron spectroscopy	1
+energy photon	x-ray	1
+excellent testing equipment	x-ray testing machine	1
+expensive instrumentation	x-ray computed tomography	2
+experimental aircraft	x- thirty-seven 	2
+experimental aircraft	x- fifteen 	1
+extensive item	x-ray machine	1
+external imaging device	x-ray anti-scatter grid	1
+extremely innovative open source product	x-cart customization	1
+fictional program	x-files	1
+film thickness method	x-ray fluorescence	1
+free softphones	x-lite	3
+game reviewer	x-play	1
+gold standard technique	x-ray angiography	2
+greatest comic book icon	x-men	1
+harmful radiation	x-rays	2
+harmful radiation	x-rays coming from the sun	1
+headphone amp	x-can v two 	1
+high definition image	x-rays	1
+high energy radiation source	x-rays	2
+high-power, high-voltage application	x-ray equipment	1
+high-precision technique	x-ray diffraction	1
+human monogenic disorder	x-linked scid	1
+indicated procedure	x-rays	1
+industry-specific object	x-rays	1
+infantile SMA disorder	x-linked infantile sma	2
+initial testing	x-rays	1
+innovation technology	x-rays	1
+launch X-431 accessory	x- four hundred and thirty-one  screen 	1
+lifetime activites	x-country skiing	2
+lithographic method	x-ray lithography	1
+load consuming appliance	x-ray machine	2
+low-light imaging application	x-ray imaging	1
+marvel film	x-men	1
+marvel film	x-men trilogy	1
+marvel video slot	x-men	1
+material characterization	x-ray diffraction	1
+mechanical observation device	x-rays	1
+medical amenity	x-ray	1
+medical and hospital expense	x-ray	1
+medical check	x-rays	1
+medical image processing application	x-ray	2
+microstructural investigation	x-ray diffraction	1
+minor conflict	x-com ce	1
+minority heroes	x-men s storm	7
+minority heroes	x-men's storm	7
+mold fabrication method	x-ray lithography encounter similar noise problem	1
+nanocharacterization technique	x-ray photoelectron spectroscopy	1
+newfound power	x-ray vision	1
+non-destructive evaluation various NDE technique	x-ray	2
+nondestructive inspection method	x-ray	1
+non-destructive measurement method	x-ray	1
+non-paper record	x-ray film	1
+normal chiropractic service	x-rays	2
+oftentimes ancillary test	x-rays	1
+outpatient	x-ray	1
+PC space shooter	x-wing	1
+pediatric dental service	x-rays	1
+photon beam emitter	x-ray emitter	3
+photon source	x-ray fluorescence	1
+physical metallurgy characterization technique	x-ray diffraction	1
+physicochemical analytical technique	x-ray diffraction	1
+popular Nokia smartphones	x-series	1
+post growth characterization technique	x-ray diffraction	1
+technique	x-ray diffraction	125
+technique	x-ray	63
+technique	x-ray crystallography	35
+technique	x-ray photoelectron spectroscopy	27
+technique	x-ray fluorescence	23
+technique	x-ray absorption spectroscopy	8
+technique	x-ray tomography	6
+technique	x-ray computed tomography	6
+technique	x-ray fluorescence spectroscopy	5
+technique	x-ray analysis	3
+technique	x-ray diffraction analysis	3
+technique	x-ray imaging	3
+technique	x-ray radiography	3
+technique	x-ray powder diffraction	3
+technique	x-ray fluorescence spectrometry	3
+technique	x-ray diffractometry	3
+technique	x-ray lithography	3
+technique	x-ray scattering	3
+Pre-admission testing	x-rays	2
+probing technique	x-ray photoelectron spectroscopy	1
+radiation curing method	x-ray	1
+radiation device	x-ray equipment	1
+radiation-emitting product	x-ray machine	2
+radiation-producing device	x-ray machine	4
+radiation-producing device	x-ray equipment	1
+radiographic imaging system	x-ray	8
+radiographic imaging system	x-ray imaging system	1
+radiographic imaging system	x-ray system	1
+radiology modalities	x-ray	1
+recession-proof human health application	x-ray contrast medium	1
+responsive service	x-press delivery solution	2
+routine imaging study	x-ray film	1
+SAMs	x-tree	1
+scientific indicator	x-rays	1
+short wavelength laser	x-ray laser	1
+soft phone	x-lite	1
+sophisticated technical -diagnostic	x-rays	1
+space weather effect	x-rays	1
+spectrochemical technique	x-ray fluorescence spectroscopy	1
+spectroscopic analysis technique	x-ray photoelectron spectroscopy	2
+spectroscopic characterization technique	x-ray photoelectron spectroscopy	1
+standard particle	x-rays used for conventional treatment	1
+standard surface analytical technique	x-ray photoelectron spectroscopy	1
+standard-of-care cost	x-rays	2
+state-of-the-art medical imaging technology	x-rays	1
+state-of-the-art scientific technique	x-ray scanning	1
+statistical process control chart	x-bar chart	1
+store-and-forward technology	x-rays	1
+structural imaging method	x-ray radiography	1
+structure-based technique	x-ray diffraction	2
+surface-sensitive characterization technique	x-ray photoelectron spectroscopy	1
+tabulated datum	x-ray tube spectrum	1
+technical and statistical method	x-r control chart	1
+terason's new advanced feature	x-site transducers	2
+third-party title	x-city by aidi game	1
+top comic series	x-men	1
+top quality accessory	x-tra lively ball	1
+traditional experimental technique	x-ray crystallography	1
+visible and invisible form	x-rays	1
+visor	x-ray visor	2
+visualization aid	x-ray film	1
+white matter disorder	x-linked adrenoleucodystrophy	1
+wing experimental aircraft	x- four 	1
+wing experimental aircraft	x- two 	1
+x-bike class	x-bike endurance	1
+x-bike class	x-bike interval	1
+x-cart customization service	x-cart template customization	2
+x-cart customization service	x-cart custom skin design	1
+xlinked chorioretinal disease	x-linked retinitis pigmentosa	1
+x-mini series product	x-mini happy mp three  speaker 	1
+x-mini series product	x-mini ii	1
+x-mini series product	x-mini max ii speaker	1
+x-mini series product	x-mini ii capuser speaker	1
+x-ray metrology technique	x-ray diffraction	1
+x-ray metrology technique	x-ray fluorescence	1
+x-ray metrology technique	x-ray reflectometry	1
+x-ray property	x-ray flux	1
+Abdominal imaging	x-ray	1
+aborted program	x- thirty-three 	1
+active and passive detection technique	x-ray	1
+actual diagnostic film	x-rays	1
+advanced inspection method	x-ray diffraction	1
+advanced medical diagnosis instrument	x-ray	2
+advanced system configuration	x- thirty-five 	1
+advanced system configuration	x- fifteen 	1
+advanced system configuration	x- twenty-nine 	1
+adventure group	x-men	1
+analysis test	x-rays	1
+analytical avenue	x-rays	1
+anatomical imaging modalities	x-ray computed tomography	1
+ancillary in-patient hospital charge	x-rays	1
+ancillary patient care activity	x-ray testing	1
+ancillary provider role	x-ray technician	1
+ancillary report	x-rays	1
+antiapoptotic molecule	x-linked inhibitor ofapoptosis	1
+API's	x-server for aleph	1
+arousal cream	x-scream	1
+asthma diagnosis test	x-rays	1
+bactericide procedure	x-rays	1
+basic medical equipment	x-ray machine	1
+technique	x-ray ct	2
+technique	x- eleven 	2
+technique	x-ray analysis technique	1
+technique	x-stop procedure	1
+benchtop and portable application	x-ray	1
+better-known imaging procedure	x-rays	1
+bioanalytical and biophysical method	x-ray crystallography	1
+black-and-white photographic material	x-ray film	2
+BMD system	x-ray laser	1
+brand name water blaster	x-stream	1
+bulk analytical technique	x-ray diffraction	1
+bulk sensitive technique	x-ray diffract ion	3
+bulk sensitive technique	x-ray diffraction	1
+case diagnostic study	x-rays	2
+case scan	x-rays	1
+categorical axis	x-axis of a bar chart	1
+categorical axis	x-axis in a line chart	1
+classic marvel icon	x-men	4
+clearly SPC measure	x-bar	1
+clinical imag ing modalities	x-ct	1
+close binary system	x-ray binary	1
+color-calibrating device	x-rite eye-one	1
+comic related movie	x-men	1
+commercially available mechanism	x-y index table in conjunction with typical structural framework	1
+Common imaging	x-ray	1
+common medical-imaging test	x-rays	1
+common office object	x-ray machine	1
+complementary surface analysis method	x-ray photoelectron spectroscopy	1
+complex output control	x-y graph	1
+compositional and textural analysis	x-ray diffractometric analysis	1
+CONTEMPORARY MEDICAL technology	x-ray machine	1
+conventional astrophysical source	x-ray binary	1
+conventional beam-based direct-writing tool	x-ray lithography	1
+conventional high-resolution imaging technique	x-ray crystallography	1
+conventional imaging technology	x-ray imaging	1
+conventional job handling system	x-y manipulator	2
+conventional nondestructive evaluation technique	x-ray	2
+cost-dependent measure	x-ray screening	1
+court facility security device	x-ray machine	1
+covering franchise	x-men	1
+crucial cel-lularfunctions	x-chromosome inactivation	1
+CSA certified product	x-treme j	1
+currently available screening technique	x-ray mammogram	1
+dark dorsal mark	x-shaped mid-dorsal mark	1
+deep-tissue clinical imaging technique	x-ray imaging	2
+definitive technique	x-ray diffraction	1
+dental hygiene preventive service	x-rays	1
+dental x-ray related offer	x-ray film	1
+diagnosis device	x-ray device	1
+diagnosis device	x-ray fluoroscopy device	1
+diagnostic apparatuses	x-ray ct apparatus	1
+diagnostic imaging apparatuses	x-ray ct apparatus	1
+diagnostic record	x-rays	3
+diagnostic resource	x-rays	1
+diagnostic test sometimes certain test	x-rays	1
+dominant condition	x-linked dominant condition	1
+duplicated test	x-rays	1
+edssandother security screening detection device	x-ray machine	1
+electron beam generating device	x-ray tube	2
+electron spectroscopic analysis system	x-ray photoelectron	1
+electron spectroscopy technique	x-ray photoelectric spectroscopy	1
+eligible preventive and diagnostic service	x-rays	1
+energy emission	x-ray	1
+energy event	x-rays	1
+episodic television show	x-files	1
+excellent special effect	x-ray vision	1
+excited state property	x-ray photoemission	1
+experimental structure determination technique	x-ray crystallography	1
+ex-situ particle-diagnostic technique	x-ray diffraction	1
+ex-situ surface spectroscopic technique	x-ray photoelectron spectroscopy	1
+external radiation source	x-rays	3
+external radiation source	x-ray machine	1
+fabulous family sci-fi film	x-men	3
+fancy comic setting background	x-men's danger room	1
+fancy measurement	x-ray thermal	1
+fanfiction area	x-men evolution	1
+fast procedure	x-rays	1
+first, biophysical method	x-ray crystallography	1
+fish smaller tetra	x-ray tetra	1
+flaw-search technique	x-ray examination	1
+technique	x-ray diffraction for structure characterisation	1
+technique	x-ray crystalography	1
+technique	x-ray absorption	1
+technique	x-ray spectroscopic method	1
+technique	x-ray mapping	1
+technique	x-ray microprobe technique	1
+technique	x-ray topography	1
+technique	x- eleven  program 	1
+technique	x-rays tadalafil	1
+technique	x-ray testing	1
+technique	x-ray photograph	1
+technique	x-ray scattering technique	1
+technique	x-ray microtomography	1
+technique	x-ray film	1
+technique	x-ray cmt imaging technique	1
+technique	x-ray grazing incidence diffraction	1
+technique	x-ray search	1
+gibson classic	x-plorer	1
+hardware calibration device	x-rite eye-one system	1
+healthcare assessment tool	x-ray machine	1
+heathen holiday	x-mas	1
+high energyradiation source	x-rays	1
+high profile comic book adaptation	x-men	2
+high sensitivity technique	x-ray photo electron spectroscopy	1
+high-end computer system	x- eighty-six  microprocessor based personal computer 	1
+high-energy photon	x-rays	4
+high-profile competition	x-games	2
+high-resolution lithographic process	x-ray lithography	1
+high-voltage industrial application	x-ray equipment	1
+hospital testing	x-rays	1
+human IAP protein	x-linked iap	1
+image apparatus	x-ray	1
+image carrier	x-ray film	1
+imaging source	x-ray inspection imaging source	1
+imaging tube	x-ray tube	1
+improved nondestructive evaluation technique	x-ray	1
+includesdierent imaging modalities	x-ray	1
+instrumental test method	x-ray spectroscopic method	1
+instrumental test method	x-ray fluorescence	1
+interrelated information	x-reference information	1
+INTRODUCTION remote desktop system	x-window system	1
+ion generator	x-ray photo-ionizer	1
+laboratory experimental method	x-ray tomography	1
+laboratory record	x-rays	1
+large run smaller series	x-force	1
+large, complex machine	x-ray machine	1
+light diffusion material	x-linked pmma	1
+light diffusion material	x-linked acrylate	1
+LIGHTWEIGHT CAMPING outdoor pursuit	x-country skiing	1
+manmade source	x-ray machine	1
+marvel classic	x-men	1
+marvel costume	x-men wolverine costume	1
+marvel game	x-men	1
+material analysis	x-ray photoelectron spectroscopy	1
+material analysis tool	x-ray diffraction	1
+medical diagnostic apparatus	x-ray diagnostic apparatus	1
+medical diagnostic image	x-rays	1
+medical diagnostic image	x-ray image	1
+medical expense health center charge	x-rays	1
+medical imaging scanning device	x-ray system	2
+medical or clinical image	x-ray image	1
+medical peripheral	x-ray scanner	1
+methylation process	x-inactivation	1
+microlithographic technique	x-ray lithography	2
+microprobe analysis electron microbeam technique	x-ray mapping	1
+mineralogical technique	x-ray diffraction	1
+modern large-scale facility	x-ray free-electron laser	1
+modern medical imaging diagnostic system	x-ray ct system	1
+modern structural biology method	x-ray crystallography	1
+Morphological imaging	x-ray ct	1
+NDT product	x-ray booth	1
+NDT product	x-ray generator	1
+next-generation light source	x-ray free electron laser	1
+next-generation lithographic technique	x-ray lithography	1
+Nondestruc-tivemethods	x-ray fluorescence	1
+non-invasive radiologic procedure	x-ray computed tomography	1
+non-optical characterization technique	x-ray diffraction	1
+non-physician professional	x-ray technician	1
+application	x-ray microscopy	3
+application	x-ray crystallography	3
+application	x-ray	3
+application	x-ray tube	2
+application	x-ray cargo scanner	2
+application	x-ray lithography	2
+application	x-y table	2
+application	x-ray imaging	2
+application	x-ray fluorescence detection	2
+application	x-ray grating	1
+application	x-ray laser modelling	1
+application	x-ray machine	1
+application	x-ray analysis	1
+nuclear-related analytical technique	x-ray fluorescence	1
+objective study	x-rays	1
+octylphenoxy poly ethanol	x- fourty-five 	1
+octylphenoxy poly ethanol	x- thirty-five 	1
+ordinary medical cost	x-rays	1
+performance-enhancing accessory	x-pipe exhaust	1
+physical and mechanical investigation	x-ray diffractography	1
+physicochemical analysis	x-ray diffraction	1
+physico-chemical and rheological analysis	x-ray diffraction	1
+piezoceramic motion control device	x-y microscope stage	1
+playtech offer slot game	x-men	1
+popular consumer electronics product	x-box	1
+popular imaging method	x-ray crystallography	1
+popular razor model	x-treme  three 	1
+Positioning information	x-yplotofthe horizontal position	1
+Positioning information	x-y plot of the horizontal position	1
+positioning mechanism	x-y-z positioning mechanism	1
+preliminary examination	x-rays	1
+pre-operative procedure	x-rays	1
+proffesional rider	x-games rider alex coleborn	1
+promotional banner	x-frame banner	1
+purpose material	x-ray film	1
+quality analytical technique	x-ray diffractometry becoming available in recent time	1
+radiation image	x-ray image	1
+radiation image	x-ray image is frequently used for diagnosis of disease	1
+radiation-emitting device	x-rays	1
+radiographic exam	x-rays	2
+radiographic system	x-ray system	2
+radiographic system	x-ray	1
+radiological service	x-rays	1
+radiological service	x-ray's	1
+Radiological testing	x-rays	2
+radiometric technique	x-ray spectrometry	1
+reality competition television show	x-factor	1
+relavent medical record	x-rays	1
+reported micropattern technique	x-ray lithography	1
+reported micro-pattern technique	x-ray lithography	1
+resident use teaching aid	x-rays	1
+reusable launch vehicle	x- thirty-four 	1
+rookie band	x- five 	1
+rourine test	x-rays	1
+routine and preventive dental service	x-rays	1
+routine treatment procedure	x-rays	1
+scooter brand	x-treme scooter	1
+seasonal fun item	x-mas stocking	1
+short-term medical expense	x-rays	1
+SIP softphones	x-lite	3
+solid state characterization technique	x-ray diffraction	1
+sometimes further test	x-rays	1
+sony technology	x- one hundred and twenty  event current experience engine 	1
+sophisticated shopping cart solution	x-cart	1
+space ship	x-wing fighter	1
+statistical probe method	x-ray photoelectron spectroscopy	1
+surface sensitive analytical technique	x-ray photoelectron spectroscopy	1
+synchrotron technique	x-ray absorption spectroscopy	1
+synchrotron technique	x-ray fluorescence	1
+synchrotron x-ray application	x-ray fluorescence imaging	3
+synchrotron x-ray technique	x-ray absorption near edge structure analysis	1
+synchrotron x-ray technique	x-ray absorption fi ne-structure analysis	1
+synchrotron x-ray technique	x-ray diffraction	1
+application	x-ray photolithography mask	1
+application	x-rayandopticsfor astronomy	1
+application	x-rays for medical use	1
+application	x-ray detection	1
+application	x-ray p hotography	1
+application	x-window	1
+application	x-ray astronomy	1
+system's individual component	x-ray tube	1
+team use technique	x-ray crystallography	1
+technical film	x-ray sensitive film	1
+technique usesaradiation source	x-rays	1
+three-dimensional characterization technique	x-ray	2
+time-critical parameter	x-ray flux	3
+tomographic imaging	x-ray tomographic imaging	1
+tomography technique	x-ray	3
+traditional imaging technology	x-rays	1
+traditional NDE method	x-ray	1
+traditional radiological imaging	x-ray	1
+traditional structure determination method	x-ray	1
+traditional structure determination method	x-ray crystallography	1
+transmission imaging	x-ray	2
+tummy trouble	x-rays	1
+Tweaking program	x-teck setup	1
+two-dimensional nanofabrication technique	x-ray lithography	1
+typeface design characteristic	x-height proportion	1
+typically imaging system	x-ray system	2
+UCAVs	x- fourty-five 	1
+UK party	x-static	1
+understandable term	x-ray	1
+vendor-specific feature	x-auth	1
+versatile experimental method	x-ray diffraction	1
+versatile, direct fabrication method	x-ray lithography	1
+visual -diagnostic	x-ray	1
+VisualVariables	x-pos	1
+VoIP	x-ten	1
+wavelength frequency	x-rays	1
+well-known imaging modalities	x-ray tomography	1
+well-known radiologic tool	x-rays	1
+wonderful individual comic	x-men	1
+wonderful system	x-box  three hundred and sixty 	1
+world competition	x-games	1
+world famous helmet brand	x-lite	2
+x-fi feature	x-fi cmss- three d 	1
+x-fi feature	x-fi crystallizer	1
+X-linked PIs	x-linked hyper igm syndrome	1
+X-linked PIs	x-linked lymphoproliferative	1
+X-linked PIs	x-linked severe combined immunodeficiency	1
+x-men title	x-men vol	1
+X-ray device	x-ray spectrometer	2
+X-ray device	x-ray diffractometer comprising an x-ray shielding apparatus	1
+X-ray device	x-ray diffractometer comprising an x-ray lens assembly	1
+x-ray scattering technique	x-ray diffraction	1
+x-ray source parameter	x-ray tube voltage	1
+absorption spectroscopy tool	x-ray absorption near-edge structure	1
+accreting source	x-ray binary	4
+additonal test	x-rays	1
+advanced geochemical method	x-ray photoelectron spectroscopy	1
+advanced structural characterization technique	x-ray diffraction	2
+advanta-geousbecause traditional technique	x-ray diffraction	1
+aircraft simulator	x-plane	1
+air-launched rocket	x- fifteen 	2
+allosteric inhibitor	x-linked inhibitor of apoptosis protein	1
+alofpatient information	x-rays	1
+alt hough method	x-ray crystallography	1
+alternate imaging mean	x-ray computed tomography scanner	1
+alternatively biophysical method	x-ray crystallography	1
+analytical electron microscopy technique	x-ray diffraction	1
+ancillary medical personnel	x-ray technician	1
+ancilliary facility	x-ray machine	1
+anxillary cost	x-rays	1
+archetypal marvel comic super-heroes	x-men	1
+armed autonomous-robot program	x- fourty-seven 	1
+artificial being	x- twenty-three 	1
+artificial sound effect	x-fi	1
+automation standard	x- ten 	1
+awesome push-up variation	x-vest push-ups	1
+basic diagnostic equipment	x-ray machine	1
+basic medical imaging modalities	x-ray	2
+basic primary care service	x-rays	1
+basic structural study	x-ray powder diffraction	1
+Bedside diagnostic testing	x-rays	1
+best-selling spin-offs	x-men	3
+big TV contest	x-games	1
+bio-medical material	x-ray equipment	1
+biophysical experiment	x-ray crystallography	1
+blood related disorder	x-linked immunodeficiency	3
+body detection system	x-ray inspection system	1
+body-imaging instrument	x-ray	1
+application	x-ray laser	1
+application	x-ray fluorescence spectroscopy	1
+application	x-ray diffraction facility	1
+application	x-ray tomography	1
+application	x-ray tube application	1
+name	x-men	3
+cannon setting	x-men	1
+Carcinogenic cofactors	x-ray irradiation	1
+cartoon adaptation	x-men	1
+case further examination	x-rays of the neck	1
+cath lab duty	x-ray equipment operation	2
+century instrument	x-ray diffractometers	1
+chance discovery	x-rays	1
+characterization analysis	x-ray diffraction	1
+characterization analysis	x-ray fluorescence	1
+classic diagnostic test	x-rays	1
+classic X-linkedim-munodeficiencies	x-linked hyper-igmsyndrome	1
+classic, high-resolution structural biology method	x-ray crystallography	1
+classical structural biology technique	x-ray crystallography	1
+Clinical medical imaging modalities	x-ray	1
+comic book video game	x-men legends	1
+comic-based movie	x-men	1
+commercial envelope	x-ray	1
+common and basic dental procedure	x-rays	1
+common immune deficiency	x-linked agamaglobulinemia	1
+common medical imaging technique	x-ray radiography	1
+common show	x-factor	1
+common, sophisticated method	x-ray	1
+commu-nity provider	x-ray	1
+competing medical imaging technique	x-ray	1
+complementary x-ray absorption technique	x-ray magnetic circular dichroism	6
+comprehensive children's dental service	x-rays	1
+conceptual supertall design	x-seed  four thousand  	1
+conclusive medical test result	x-rays	1
+concurrent analysis technique	x-ray analysis	1
+conventional cancer test	x-rays	1
+conventional diagnostic scan	x-rays	1
+conventional high-reso lution imaging technique	x-ray crystallography	1
+conventional protein analysis method	x-ray crystallography	1
+conventional screening approach	x-ray mammography	1
+conventional security item	x-ray machine	1
+conventional x-rays source	x-rays tube	1
+cost-free or extremely discounted product	x-rays	1
+critical agency committee	x-mas party	1
+crystallographic evaluation method	x-ray diffraction	1
+current-generation system	x-box  three hundred and sixty 	1
+demonstration aircraft	x- thirty-five 	1
+dental care activity	x-ray	1
+development toolkits	x-window development toolkits	1
+diagnostic and lab test	x-rays	1
+diagnostic expense	x-rays	1
+diagnostic film	x-ray	1
+diagnostic image test	x-rays	1
+diagnostic imaging solution	x-rays	1
+diagnostic test investigation	x-rays	2
+digital nondestructive test technique	x-ray computed tomography	2
+DIT technology	x-ray tomography	1
+electrically noisy area	x-ray lab	1
+electronic medical record	x-rays	1
+electronics divergent digital source	x-ray image	1
+electron-rich, bulky biphenylphosphine ligands	x-phos	1
+emerging safety-critical automotive control system	x-by-wire	1
+energetic star	x-ray star	1
+energy level	x-rays	1
+energy wavelength	x-rays	1
+established analytical technique	x-ray diffraction	1
+established non-destructive analytical method	x-ray fluorescence	1
+expensive and time consuming technique	x-ray radiography	1
+expensive imaging method	x-ray computed tomography	1
+experimental characterization technique	x-ray diffraction	1
+experimental laboratory method	x-ray crystallography	2
+experimental laboratory method	x-ray crystallogra-phy	1
+explosive process	x-ray bursters	1
+extensive test control facility	x-ray device	1
+Ex-vivo imaging modalities	x-ray	1
+factory technique	x-ray interferometry	1
+name	x-trail	1
+name	x-game gold medalist bucky lasek	1
+name	x-dream	1
+fantasy category	x-men	1
+feature special accessory	x-y table	1
+feel option	x-motif	1
+Field applications	x-ray fluorescence of soil	9
+field specialist	x-ray auditors	1
+first, in-office ancillary service	x-rays	1
+follow-up system	x-box  three hundred and sixty 	1
+forensic covert technology	x-ray fluorescent tagging	1
+FREE	x-rays	1
+gadget war multiplayer weapon	x-ray glass	1
+game improvement iron	x- twenty 	1
+gender-specific abnormality	x-linked mental retardation	1
+greatest scientific discovery	x-rays	1
+gt's component	x-fire tube	1
+hard-science speculative device	x-ray laser	2
+healing test	x-rays	1
+healthcare related item	x-ray request form	1
+helpful technological advancement	x-rays	1
+high density spectroscopic technique	x-ray backlighting	1
+high energy light wave	x-rays	1
+high energy spectroscopy	x-ray absorption	1
+high energy wave	x-rays	1
+high frequency electromagnetic wave	x-rays	1
+High frequency radiation	x-rays	1
+high frequency wave radiation	x-rays	1
+high voltage vacuum device	x-ray tube	1
+higher-frequency wave form	x-rays	1
+higher-frequency waveforms	x-rays	1
+high-resolution technology	x-ray crystallography	1
+high-sensitivity experiment	x-ray satellite xmm	1
+HIROPRACTIC S ERVICES chiropractic service	x-rays	1
+hot shoe electronic flash	x- fourteen 	1
+human transport vehicle	x- fifteen 	1
+humoral immunodeficiency	x-linked agammaglobulinemia	2
+HV system	x-ray tube	2
+hypophosphatemic disease	x-linked hypophosphatemia	1
+iagnostic study	x-rays	1
+ID-attacks	x-zone	1
+image tube	x-ray image intensifier	1
+imaging tomography apparatus	x-ray computed tomography apparatus	1
+imensional characterization technique	x-ray	1
+imponderable substance	x-ray	1
+incisive technique	x-ray crystallography	1
+Independent imaging modalities	x-ray ct	1
+Independent imaging modalities	x-ray ctormrimayalsobe used for source volume determination	1
+ineffective, diagnostic measure	x-rays	1
+in-office ancillary service	x-rays	1
+inpatient diagnostic test	x-rays	2
+inspection process special NDE tool	x-rays	1
+insufficient diagnostic and investigative technology	x-rays	1
+intensive diagnostic test	x-rays	1
+internationally celebrated property	x-men	1
+investigative and analytical technique	x-raying	1
+ionising high-energy radiation	x-rays	1
+ionizing radiation source	x-rays	1
+kryptonian ability	x-ray vision	1
+labor intensive program	x-plane	1
+large apparatus	x-ray ct diagnostic apparatus	1
+large area electronic circuit	x-ray imagers	2
+large-budget American series	x-files	1
+laser analysis	x-ray diffraction six 	1
+less-skilled hospital employee	x-ray technician	1
+factor	x-shaped strengthening pattern	1
+factor	x-ray dose	1
+factor	x-ray quantum efficiency	1
+factor	x-ray tube voltage	1
+case	x-rays	3
+case	x-ray penetration effect	2
+case	x-ray imaging	1
+case	x-ray crystallography	1
+limited advanced veterinary service	x-rays	1
+low LET radiation	x-rays	2
+lucasarts product	x-wing flight simulator series	1
+M3 real-time controller	x-y pad	1
+machine source	x-ray machine	2
+machine source	x-ray crystallographic unit	1
+machine test	x-rays	1
+mammalian epigenetic phenomenon	x-chromosome inactivation	2
+Manmade radiation	x-rays	1
+mass-transfer system	x-ray binary	1
+material characterization study	x-ray diffraction	1
+material characterization technology	x-ray diffraction	1
+medical diagnostic modalities	x-ray	1
+medical documentation	x-rays	1
+medical examination device	x-ray device	1
+medical tomographic system	x-ray computed tomography	1
+medical treatment cost	x-rays	1
+medical-specific imaging method	x-ray angiography	2
+micro analysis instrument	x-ray photoelectron spectroscopy	1
+midget submarine	x-craft	1
+militant hip hopper	x-clan	1
+mind tha t diagnostic modalities	x-ray	1
+minimally invasive retractor system	x-tube	1
+modern checking system	x-ray camera	1
+modern digital imaging instrument	x-ray ct	2
+modern medical diagnostic method	x-ray computed tomography	1
+more-extensive study	x-ray of the intestine	1
+morphological and chemical structure analysis	x-ray diffraction	1
+morphological and syntactic structure	x-bar structure	1
+morphological investigation	x-ray diffraction	1
+movement device	x-y movement device	1
+museum now sport security measure	x-ray scanner	1
+mutant superteams	x-factor	3
+mutant superteams	x-force	2
+non destructive inspection technique	x-ray	1
+non-conventional approach	x-ray lithography	2
+non-destructive analysis method	x-ray	1
+nondestructive investigative method	x-ray radiography	1
+non-destructive metrology process	x-ray diffraction	1
+non-destructive subsurface imaging equipment	x-ray technology	1
+nondestructive test requirement	x-ray	1
+nonfocusable radiation source	x-ray emitting source	1
+non-hospitalization procedure	x-rays	1
+non-intrusive inspection technology	x-ray van	1
+nonintrusive technology	x-ray system	1
+noninvasive anatomical technique	x-ray ct	1
+noninvasive, diagnostic imaging technique	x-ray	2
+non-paper documentation	x-rays	1
+non-physiological signal	x-rays	1
+objective biological test	x-ray examination	2
+off-campus service	x-rays	1
+orthodontic record	x-rays	1
+orthodox medical test	x-rays	1
+Outpatient testing	x-rays	1
+outstanding innovation	x-y targeting	4
+outstanding innovation	x-y targeting tm	1
+penetrating sensor	x-rays	1
+pet medical document	x-rays	1
+phota	x-rays	1
+photon beam	x-rays	1
+photo-sensitive film	x-ray	1
+point-like method	x-ray fluorescence spectroscopy	1
+case	x-citement video	1
+case	x-treme cars division	1
+case	x-ray radiation	1
+post deformation characterization method	x-ray diffraction	1
+powerful energy source	x-rays	1
+pre-admission staff organise assessment	x-rays	1
+pre-chemotherapy test	x-rays	1
+precise analytical system	x-ray fluorescence	2
+pre-operation procedure	x-rays	1
+preoperative image	x-ray ct	1
+presently various mechanical device	x-y-z translator	3
+pretreatment study	x-rays	1
+professional order lab test	x-rays	1
+proper imaging study	x-rays	1
+proteomics main technique	x-ray crystallography	1
+pure rocket aircraft	x- two 	1
+pure rocket aircraft	x- one 	1
+quality multi	x-one	1
+quick, high damage character	x- twenty-three 	1
+radiation absorption technique	x-ray	1
+radiation computed tomography scanner	x-ray ct scaner	1
+radiation dosimeter	x-ray film	1
+radiation-based technology	x-ray machine	1
+radiation-producing installation	x-ray machine	1
+radiographic tool	x-rays	1
+radiologic diagnostic test	x-rays	1
+radiologic film	x-rays	2
+radiological device	x-ray machine	1
+radiological equipment	x-rays	1
+radiology image	x-rays	1
+radiology imaging procedure	x-rays	1
+radiometric assay technique	x-ray fluorescence	1
+raditional technique	x-y technique	1
+random superhero-based graphic novel	x-men	1
+reality pop show	x-factor	2
+real-time, non-destructive method	x-ray	1
+regular continuity title	x-men	1
+released suberin monomer	x-hydroxy acid	1
+remote terminal application	x-windows terminal	1
+remote trigger	x- ten 	1
+resolution photolithographic technique	x-ray	2
+robust material characterization technique	x-ray scattering	1
+rocket plane	x- fifteen 	1
+roscopicmethods	x-ray photoemission	1
+Routine diagnostic imaging	x-ray	1
+SABR parameter	x-ray illumination parameter	1
+scanning spectrophotometer	x-rite i one 	1
+scientific measure	x-rays	6
+sci-fi simulator	x-wing vs. tie fighter	1
+scratch DJs	x-ecutioners	1
+second patient support	x-ray table	1
+selective filter	x-chrom lens	1
+semi-quantitative instrumental technique	x-ray photoelectron spectroscopy	1
+sen-sitivesurface technique	x-ray photo electron spectroscopy analysis	1
+seperate program	x-chat	1
+service domain	x-ray	1
+sewing mechanism	x-y feeding system	1
+shortwave radiation	x-rays	1
+shredding service	x-ray film destruction services	1
+SHS service	x-rays	1
+silanized, finely granular filler	x-ray-opaque glass	1
+simple and painless test	x-rays of the pelvic structure	1
+simple radiological procedure	x-rays	1
+site form	x-site form	1
+site-configurable chart type	x-ray film	1
+skin-lab style name	x-treme	1
+skin-lab style name	x-static	1
+slot game theme	x-men	1
+small-frequency wave	x-rays	1
+sometimes objective diagnostic tool	x-rays	1
+sophisticated or invasive test	x-rays	1
+space cargo	x- fifty-one 	1
+space vehicle design	x- thirty-three  vehicle 	2
+spectroscopic analysis method	x-ray fluorescence	1
+spectroscopic analytical method	x-ray absorption	1
+SPECTROSCOPIC method technique	x-ray photoelectron spectroscopy	1
+spray visualization technique	x-ray absorption	1
+standard computer package	x- eleven 	1
+standard imaging method	x-ray	1
+standard medical procedure	x-rays	1
+state-of-the-art medical examination technique	x-ray technique	1
+static radiologic imaging technique	x-ray cephalometry	2
+statistical control chart	x-bar	1
+structural analysis method	x-ray diffraction	1
+structural biology method	x-ray crystallography	1
+structural biology tool	x-ray crystallography	1
+structural investigation	x-ray diffraction	1
+structure-sensitive method	x-ray diffraction	1
+subgroup control chart	x-bar	1
+substantial service	x-rays	1
+successful effect	x-ray laser	1
+successful genre show	x-files	1
+sulfide solution	x-ray fixer solution	1
+super hero image	x-men's wolverine	1
+superteam	x-men	1
+supplemental analytical method	x-ray diffraction	1
+supplemental healthcare service	x-rays	1
+supplementary laboratory investigation	x-ray diffraction analysis	1
+surface characterisation technique	x-ray photoelectron spectroscopy	2
+surface sensitive method	x-ray photoelectron spectroscopy	1
+surface specific technique	x-ray photoelectron spectroscopy	1
+surface-sensitive analysis method	x-ray photoelectron spectroscopy	1
+case	x-box user	1
+synchrotron-based measurement	x-ray absorption	1
+synchrotron-based measurement	x-ray absorption spectroscopy	1
+techniqu es	x-ray photoelectron spectroscopy	1
+terminal's security facility	x-ray	1
+thiol-measuring technique	x-ray photoelectron spectroscopy	1
+time-resolved x-ray spectroscopy technique	x-ray absorption spectroscopy	2
+time-resolved x-ray spectroscopy technique	x-ray scattering	2
+Tissue imaging modalities	x-ray ct	1
+today new high speed bow	x-force	1
+today's x-ray source	x-ray tube	1
+top television series	x-files	1
+traditional diagnostic testing method	x-ray	2
+traditional high-dimensional indexing tree	x-tree	1
+traditional inspection system	x-ray imaging system	7
+traditional investigation	x-rays	1
+traditional NDT method	x-ray technology	1
+traditional structural probe	x-ray crystallography	1
+traditional surface science technique	x-ray photoelectron spectroscopy	1
+traditional, formalized inspection technique	x-ray	1
+traditionally patient diagnostic image	x-rays	1
+transmitted technique	x-ray	3
+true bulk method	x-ray	1
+true cluster property	x-ray temperature profile	1
+turn-based tactic title	x-com series	1
+TV talent show	x-factor	1
+typical damage	x-shaped cricks on the walls under window	2
+UAV community	x- fourty-five  ucav 	1
+ultra-value product	x-rays for the rural market	1
+underdeveloped prototypes	x- thirty-six 	1
+underdeveloped prototypes	x- twenty-nine 	1
+uterine cancer imaging test	x-rays	1
+valiant's a-list character	x-o manowar	1
+veterinary diagnostic test	x-rays	1
+volumetric imaging method	x-ray computed tomography	1
+weed control additive	x- seventy-seven  surfactant 	1
+well-defined source	x-rays	1
+well-known NDE method	x-ray radiography	1
+west coast musician	x-raided	1
+western medical test	x-rays	1
+wetting agent additive	x- seventy-seven 	1
+widespread medical imaging method	x-ray	1
+wireless security camera	x- ten 	1
+wood restoration chemical	x- one hundred and eighty  weathered wood restorer 	1
+x-linked retinal disease	x-linked retinitis pigmentosa	1
+X-properties	x-men legends	1
+X-properties	x-men evolution	1
+X-ray apparatus	x-ray micro-diffraction apparatus	1
+X-ray apparatus	x-ray microscope	1
+x-ray component	x-ray tube	1
+x-ray detection scheme	x-ray sensitive diode	2
+X-ray diagnosis apparatuses	x-ray ct apparatus	1
+X-ray diagnostic apparatus	x-ray computerized tomographic apparatus	1
+x-ray effect	x-ray spectrum	1
+year anatomical imaging modalities	x-ray	1
+2D coordinate value	x-y coordinate	1
+2Dcoordinate value	x-y coordinate	1
+accessible technique	x-ray fluorescence	1
+accurate analytical system	x-ray	1
+adiological analysis	x-rays	1
+advanced chassis control system	x-by wire	1
+advanced screening technique	x-ray	1
+advanced structural technique	x-ray crystallography	1
+advanced, p hotolithography process	x-ray lithography	1
+advanced, photolithography process	x-ray lithography	1
+aforementioned contemporary	x-men	1
+air cargo security measure	x-ray examination	2
+airport screening device	x-ray machine	1
+alliance fighter	x-wing s	1
+ambitious, high-concept show	x-files	1
+Ambulatory testing	x-rays	1
+anatomical three-dimensional medical imaging modalities	x-ray ct	13
+AO development project	x-mas tree humeral nail	1
+appH-cability	x-ray studies of molecular size	1
+application ofenergetic radiation	x-rays	1
+applicationof energetic radiation	x-rays	1
+area-specific product	x-ray contrast medium	1
+atomic probe	x-ray absorption spectroscopy	1
+Atypical top-down method	x-ycuts proposed by nagyet al.	1
+audio enhancing technology	x-fi crystalizer	1
+augmentation ability	x-ray vision	1
+automatic sorting system	x-ray transmission	2
+option	x-y mapping stage	1
+option	x-wav honda element conversion from fmi	1
+option	x-trail	1
+option	x-rays	1
+Banal television	x-factor	1
+basic imaging equipment	x-ray unit	1
+basic imaging technique	x-ray	1
+beryllium-base multilayer structure	x-ray optic	1
+best selling comic	x-men	1
+bi-directional stage	x-y stage	1
+big brand -poky	x-men	1
+bombardment imaging technique	x-ray	1
+boston university student group	x-ception step team	1
+both-sided emulsion film	x-ray films for direct radiography	1
+brain-dead television	x-factor	1
+Bulky and strongly electron-donating ligands	x-phos	2
+bulky imaging device	x-ray machine	1
+carrier remote control system	x- ten 	1
+cartesian design	x-y-z gantry robot	1
+case imaging	x-ray	1
+case medical examination	x-rays	1
+cavity back club	x- sixteen 	2
+cheap or free software phone	x-lite	1
+chemical characterization technique	x-ray fluorescence	1
+circulation controlled rotor	x-wing	1
+class I product	x-ray film	1
+classic simulator	x-plane	1
+cliched term	x-division	1
+clinic product	x-rays	1
+clinical illustrative material	x-ray film	1
+clinic's imaging system	x-ray unit	1
+color measurement company	x-rite	1
+combination Spectro-Densitometers	x-rite dtr five hundred and eight 	1
+comic-book blockbuster	x-men	2
+comic-related game	x-men	1
+common elemental microanalysis	x-ray photoelectron spectroscopy	1
+common experimental technique	x-ray diffraction	1
+common in-patient treatment	x-rays	1
+common medical imaging test	x-rays	1
+common on-line analysis technique	x-ray fluorescence	1
+common super	x-men	1
+comparative assessment different technique	x-ray based computed tomography	1
+compensatory targeting aid	x-ray based igrt	1
+complementary conventional monitoring technique	x-ray fluorescence	1
+complementary experimental method	x-ray diffraction for static state	1
+completed duty	x-rays	1
+Complex electronic information	x-rays	1
+complex programming component	x-box style avatar	1
+complimentary methodology	x-ray	2
+comprehensive specialised measurement	x-ray	1
+computer tomographs	x-ray computer tomographs	2
+computing-intensive discipline	x-ray microdiffraction	1
+conclusion conventional radiological method	x-ray examination	1
+contemporary equipment	x-ray machine	1
+conventional characterisation technique	x-ray diffraction	1
+conventional CT image	x-ray ct image	2
+conventional electronic-structure measurement	x-ray absorption spectroscopy	1
+conventional medical diagnostic imaging technique	x-ray	1
+conventional non-contact measurement technique	x-ray	2
+conventional radiation dosimeter	x-ray film	1
+conventional radiation sensor	x-ray film	1
+conventional radiographic diagnostic imaging technique	x-ray procedure	3
+Conventional radiography	x-rays	1
+conventional radiological method	x-ray examination	1
+crappy taiwanese brand	x-vision	1
+critical detection device	x-ray machine	1
+cross-sectional imaging methodology	x-ray	1
+cryogenic project	x- thirty-four  tank 	1
+currently medical x-ray procedure	x-ray fluoroscopy	1
+currently successful laboratory non-destructive method	x-ray	2
+day modern method	x-ray image	1
+decade minimally invasive analytical method	x-ray diffraction	1
+deductive skill	x-ray interpretation	1
+densitometer	x-rite color densitometer	2
+dental equipment product	x-ray machine	1
+dentist product	x-ray equipment	1
+detailed structural study	x-ray crystallography	1
+device-based procedure	x-rays	1
+diagnostic and preventative procedure	x-rays	1
+diagnostic conducting test	x-rays	1
+diagnostic imaging machine	x-ray	1
+diagnostic radiographic imaging procedure	x-rays	1
+diagnostic radiographic test	x-rays	1
+diagnostic radiology image	x-rays	1
+diagnostic test finding	x-rays	1
+DICOM file	x-rays	1
+digital report	x-rays	2
+dimensional medical imaging modalities	x-ray computer tomography	2
+directional decomposition	x-direction decomposition	1
+direu spccmscopic probe	x-ray photoelectron speevosoo~ ws	1
+dirty cop	x-police chief hilton daniels	1
+discoverable item	x-rays	1
+disordered region	x-y linker region	1
+doubt intervention	x-rays	1
+dr. mercola diagnostic test	x-rays	1
+dual brake circuit system	x-piping system	1
+Ducted fan aircraft	x- twenty-two 	1
+E.g. air-launched system	x- fifteen 	1
+group	x-clan	4
+group	x-men	2
+eco-friendly mug	x-one plastic mug with a double insulated construction keeping drinks hot	1
+E-Commerce apps	x-cart gold	1
+effective laboratory non-destructive method	x-ray	1
+EHF	x-rays	1
+electromagnetic wave 104b	x-rays	1
+electromagneticwav es	x-rays	1
+employed experimental technique	x-ray crystallography	1
+energetic photon	x-rays	2
+energetic ra-diation	x-rays	1
+energetic wave	x-rays	2
+energyrays	x-rays	1
+equally remarkable technique	x-ray crystallography	1
+esoteric perk	x-ray vision	1
+established structural method	x-ray diffraction	1
+Ethernet ADSL modem	x-modem m three 	1
+evidence imaging study	x-rays	1
+examination expense	x-ray	7
+example current methodology	x-ray	1
+experim ental technique	x-ray diffraction	1
+experimental hybrid craft	x- three hundred and two 	1
+expert medical examination	x-rays	1
+explosive astrophysical environment	x-ray bursters	1
+ex-situ study	x-ray diffraction	1
+external visualization technique	x-ray imaging	2
+extraordinary security measure	x-ray scanner	1
+extreme x-linked dominant disease	x-linked dominant chondroplasia punctata	1
+extremely high frequency wave	x-rays	1
+extremely short-wavelength photon	x-rays	1
+fantasy evolution	x-men	1
+FBI agent series	x-files	1
+feasible, procedure	x-rays	1
+feeble radiation ray	x-ray	1
+film viewer	x-ray viewer	1
+final fantasy sequel	x- two 	1
+finite state machine-derived specification	x-state machines	1
+first diagnostic procedure	x-ray examination	1
+first SLI prototype	x- thirty-seven 	1
+follow-up noninvasive detection technique	x-ray mammography	1
+frame-capture application	x-ray image	1
+free or heavily discounted term	x-rays	1
+free routine care	x-rays	1
+free softphone	x-lite	1
+free-curved surface	x-z surface	1
+freeform, non-rotationally symmetric surface	x-y polynomial surface	1
+fun video effect	x-ray	1
+Game concoles	x-box	1
+gauge measuring device	x-ray gauge	1
+gene silencing	x-chromosome inactivation in female mammal	1
+genetic complexity	x-inactivation	1
+German target gun	x- five 	1
+glass analysis	x-ray defraction	1
+good commercial x-windows client	x-win thirty-two 	1
+graphical IRC program	x-chat	1
+grid coordinate name	x- one , two , three 	1
+ground base radar	x-band radar	1
+GUI recording suite	x-cd-roast	1
+heated instrument	x-ray tube	1
+heaviest hitter	x-men	1
+Heighteners	x-scream	1
+High electromagnetic energy	x-rays	1
+high energy electromagnetic radiation	x-rays	1
+high energy light photon	x-rays	1
+high frequency electromagnetic radiation	x-rays	1
+high frequency photon	x-rays	1
+high frequency radiation source	x-band radar system	1
+high profile contest	x-games	1
+high profile television show	x-factor	1
+HIGH RANGE previous rocket plane	x- one 	1
+high resolution direct structural technique	x-ray crystallography	1
+high technology procedure	x-rays	1
+high-energy radiation wave	x-rays	1
+high-resolution experimental technique	x-ray crystallography	1
+high-resolution human brain imaging modalities	x-ray computed tomography	4
+high-resolution image information	x-ray image	1
+high-resolution structural biology technique	x-ray crystallography	1
+high-resolution structural technique	x-ray crystallography	1
+high-tech help	x-rays	1
+high-tech medical equipment	x-ray equipment	3
+high-technology detection system	x-ray technology	1
+high-throughput elemental analysis technology	x-ray fluorescence	1
+high-throughput structural analysis	x-ray crystallography	1
+high-value, high-risk item	x-ray machine	1
+hinged connected mean	x-bars of scissor linkage	1
+hobby knife	x-acto brand knife	1
+holiday scrub	x-mas	1
+hopefully division	x-division	1
+hot -on	x-rays	1
+hottest toons	x-men	1
+huge medical equipment	x-ray machine	1
+husqvarna feature	x-torq engine	1
+image converter electron tube	x-ray image intensifier	1
+image-providing procedure	x-raying	1
+imaging flat-panel technology	x-ray sensitive pixellated semiconductor	1
+imaging grid	x-ray grid	2
+imaging machinery	x-ray machine	1
+imaging modality system	x-ray	1
+imaging studies	x-rays	1
+imensional medical imaging modalities	x-ray ct	1
+Improved medical technology	x-rays	1
+income-generating capability	x-ray equipment	1
+indoxyl substrate	x-gal	1
+group	x-treme sports camp	1
+group	x-cells in germany	1
+group	x-clan setting the groundwork	1
+inherited peroxisomal disorder	x-linked adrenoleukodystrophy	2
+initial diagnostic test	x-rays	1
+innovative and interesting design	x-frame	1
+innovative state-of-the-art technique	x-ray tomography	1
+input physician's order	x-rays	1
+Insulated bonding wire	x-wire tm by microbonds inc.	1
+inter-related product	x-com	1
+intervention policy medical test	x-rays	1
+intra-articular cause further investigation	x-ray mri	1
+introduction antibody deficiency	x-linked agammaglobulinemia	1
+INTRODUCTION current diagnostic instrument	x-ray	1
+INTRODUCTION recent aircraft prototype	x- thirty-one 	1
+introduction x-ray method	x-ray diffraction	1
+investigation non-destructive method	x-ray radioscopy	1
+invisible beam	x-ray beam	1
+ionizing bc308 radiations	x-rays	1
+ionizing radiations	x-rays	3
+lab-based technique	x-ray crystallography	1
+large format negative	x-rays	1
+large scale apparatus	x-ray apparatus	1
+large-size laser beam welding machine	x-y table	1
+latest energy source	x-ray lithography	1
+latest modular helmet	x-lite x- four hundred and two gt 	1
+licensing division market program	x-factor	1
+likewise detector	x-ray detector	1
+lipid-based transfection reagent	x-tremegene sirna transfection reagent	1
+live-action superhero film	x-men  two 	1
+local action group	x-it program	1
+long dynamic trinucleotide repeat disorder	x-linked bulbospinal muscular atrophy	1
+long lasting and popular show	x-files	1
+low LET ray	x-ray	1
+lower-frequency word	x-ray technology	2
+magneto-optical technique	x-ray magnetic circular dichroism	1
+marvel comicbook franchise	x-men	1
+matrix microelectronic device	x-ray detector matrix	1
+mature imaging modalities	x-ray computed tomography	1
+measurement angle	x-ray incident angle	1
+medical center function	x-rays	1
+medical diagnosis apparatus	x-ray medical diagnosis apparatus	1
+medical diagnostic imaging equipment	x-ray light boxes	1
+medical -diagnostic installation	x-ray angiography system	1
+medical diagnostic system component	x-ray detector	1
+medical euipments	x-ray aparatus	1
+medical examination apparatuses	x-ray ct apparatus	1
+medical image diagnosis apparatuses	x-ray ct apparatus	1
+medical image sequence	x-ray image sequence	1
+medical imaging operation	x-ray	2
+medical inspection system	x-ray ct system	1
+Medical patient information	x-rays	1
+medical scanner tool	x-rays	1
+medico-technical diagnosis appliance	x-ray computer tomography appliance	1
+medium power application	x-ray generator	1
+memory intensive file	x-rays	1
+Minnow series	x- fifty-five 	2
+modem medical diagnostic method	x-ray computed tomography	2
+modern available technology	x-ray crystallography	1
+modern medical diagnostic technique	x-ray computed tomography	1
+modern medical imaging assembly	x-ray tube	2
+modern protein structural analysis technique	x-ray crystallography	1
+monitoring unit	x-ray imaging device	1
+monitoringmethods	x-ray monitoring	1
+monochromic film A	x-ray diagnosis image	1
+morphological-based method	x-ray	2
+mtv-generation contest	x-games	1
+multi-field imaging	x-ray imaging	1
+multi-LED UV light	x- five 	1
+nanotechnology approach	x-ray diffraction	1
+NASA launch vehicle	x- thirty-three 	1
+nergy radiation	x-rays	1
+next-generation lithography approach	x-ray	6
+next-generation source	x-ray free electron laser	1
+no-charge benefit	x-rays	1
+nonaxisymmetric shape	x- thirty-three  vehicle 	1
+noncontingent event	x-rays	1
+non-conventional lithography technique	x-ray	2
+non-copay event	x-rays	1
+non-damaging technique	x-ray	1
+nondestructive imaging method	x-ray radiography	1
+nondestructive imaging technique	x-ray computed tomography	1
+nondestructive investigation method	x-ray	1
+non-destructive test technique	x-ray	1
+non-essential ornamental type light source	x-mas light	1
+non-intrusive examination technique	x-ray	1
+non-invasive equipment	x-ray machine	1
+nonlithography application	x-ray tomography	1
+non-nursing service	x-rays	1
+non-standard header	x-forwarded-for	1
+method	x-ray	35
+method	x-ray crystallography	21
+method	x-ray diffraction	19
+method	x-ray photoelectron spectroscopy	10
+method	x-ray fluorescence	7
+method	x-ray diffractometry	6
+method	x-ray powder diffraction	2
+method	x-ray tomography	2
+method	x-ray examination	2
+method	x-ray photoemission	2
+method	x-ray ct	2
+method	x-ray contrast	2
+method	x-ray analysis	2
+method	x-ray diffraction analysis	2
+method	x-ray cluster count	2
+method	x-ray analysis method	1
+method	x-ray angiography	1
+method	x-ray absorption spectroscopy	1
+method	x-ray absorption	1
+method	x-ray mammography	1
+Normal softphones	x-lite	1
+nostalgic heroes	x-bomber	1
+nowadays non-invasive imaging technique	x-ray computed tomography	1
+numerical designation	x- three hundred and two 	1
+odd and wacky cupcake	x- twenty-nine  sub-orbital cupcake 	1
+off-campus consultation	x-rays	2
+off-site diagnostic test	x-rays	1
+old-fashioned superhero comic	x-men	1
+on-line glass detection equipment	x-ray detection	2
+onset form	x-linked agammaglobulinemias diagnosed in adult	1
+On-site imaging	x-ray	1
+open-ended series	x-files	1
+ordinary photon beam	x-rays	1
+orthodontic diagnostic service	x-rays	1
+Outside influiences	x-rays	1
+over-size record	x-rays	1
+PACS store medical image	x-rays	1
+passive candidate generation technique	x-raying	1
+passive search technique	x-raying	1
+patient's image	x-ray image	1
+penetrative method	x-ray microtomography	1
+PHI	x-rays	12
+photoemission technique	x-ray photoelectron spectroscopy	1
+photographic sheet film	x-rays	1
+photon-electron coincidence event	x-ray with a conversion electron	1
+photonmolecule collision	x-ray diffraction andphotodissocation experiments aimed at the elucidation of molecular structure	1
+photosensing and particle-sensing application	x-ray	1
+physical stability study	x-ray diffraction	1
+physiological measurement method	x-ray	1
+Placement apparatus	x-y positioner	1
+planar space	x-y plane	1
+plantar fasciitis only.diagnostic imaging study	x-rays	1
+PLC based end unit	x-ten technology	3
+popular and high-profile property	x-men	2
+popular ITV show	x-factor game	1
+popular softphones	x-lite	1
+popular U.S. television show	x-files	1
+popular weekend show	x-factor	1
+portable hand-held test device	x-ray fluorescence instrument	2
+positive diagnostic test	x-rays	2
+powerful and promising technique	x-ray microtomography	1
+powerful energy beam	x-rays	1
+powerful software solution	x-ways forensics	1
+Precision tristimulus colorimeters	x-rite i one pro 	1
+preference subtler	x-ray updraft	1
+premium inspection method	x-ray radiography	1
+preoperative -diagnostic	x-rays	1
+presenting condition additional investigation	x-rays	1
+presently available radiographic tool	x-ray tube	3
+pressure-supported system	x-ray emitting cluster of galaxy	1
+pre-surgery testing fee	x-rays	1
+pretty nifty art effect	x-ray vision of nick veasey	1
+preventive and diagnostic dental service	x-rays	1
+proceduresn	x-rays	1
+professional blade	x-acto knife	1
+profile capacitive touch pad	x-y profile touch pad	2
+progressively higher frequency	x-rays	1
+Protein structural analysis	x-ray crystallography	1
+Protein struc-turalanalysis	x-ray crystallography	1
+protein visualisation tool	x-ray crystallography	1
+proximity printing technique	x-ray lithography	1
+quality international act	x-press ii	1
+quiescent structure	x-ray emitting coronal loop	1
+radiation computed tomographic imaging apparatus	x-ray ct apparatus	1
+radiation diagnostic apparatus	x-ray imaging apparatus	1
+radiation image pickup system	x-ray sensor for medical use	1
+radiation inspection system	x-ray systems of the computerized tomography type	2
+radiation photograph	x-ray picture of a patient's body	1
+radiation type	x-rays	2
+radiation-based, non-intrusive inspection system	x-ray	1
+radiation-intensive work environment	x-ray clinic	1
+Radioactive equipment	x-ray machine	1
+radioactive medical device	x-rays	2
+radiological tomographic imaging apparatus	x-ray ct	1
+Radiology equipment	x-ray machine	1
+radiology examination	x-rays of the bones of the body	1
+real flight sim	x-plane	1
+real nondestructive test	x-ray diffraction	1
+real-time imaging system	x-ray in fluoroscopic mode	1
+recommended detection tool	x-ray equipment	1
+residual stress measurement technique	x-ray diffraction	1
+rocket-powered airplane	x- one 	1
+roentgen examination	x-ray of lung	1
+routine characterization	x-ray diffraction	1
+routine, preventative procedure	x-rays	1
+safety relevant function	x-ray release	1
+scale team story	x-men	1
+scheduled mission	x-ray astronomy cor nerstone mission xmm	1
+scramjet	x- fourty-three a 	1
+seasonal adjustment package program	x- twelve  arima 	1
+seasonal adjustment program	x- eleven 	1
+secondary examination	x-rays	1
+secondary gaming apps	x-plane	1
+selected angiographic parameter	x-ray exposure time	1
+method	x-ray crystallogrphy	1
+method	x-ray computed tomography	1
+method	x-ray absorption spectroscopy method	1
+method	x-ray scattering method	1
+method	x-ray phase	1
+method	x-ray fluorescent analysis	1
+method	x-ray measurement method	1
+method	x-ray examination of the skeleton	1
+method	x-clamp approach	1
+method	x-y cut algorithm	1
+method	x-ray lithography	1
+method	x-ray fluorescence measurement	1
+method	x-ray imaging method	1
+method	x-ray cineradiography	1
+method	x-ray technology	1
+method	x-ray work	1
+method	x-ray microanalysis of thin preparation of tissue	1
+method	x-ray fluorescence spectrometry	1
+method	x-ray structure	1
+method	x-ray system	1
+method	x-wing	1
+sensitive atomic probe	x-ray absorption spectroscopy	1
+serious approach	x-men	1
+severe neurodegenerative disease	x-linked adrenoleukodystrophy	1
+sexually explicit business	x-rated theater	1
+sharp cutting instrument	x-acto knife	1
+sharp hobby knife	x-acto	1
+sharp razor blade-style hobby knife	x-acto knife	1
+sheet type material	x-ray film	1
+shit program	x-factor	1
+Short wavelength EM energy	x-rays	1
+siemens part	x-ray tube	2
+silver-coated polymeric fiber	x-static	2
+single-time constant model	x-tau model	2
+SIP sohones	x-lite	1
+site -diagnostic	x-ray	1
+small sharp knife	x-acto knife	1
+small virtual crystal structure	x-ray yttrium	1
+soft cutting surface	x-acto self-healing mat	2
+soft x-ray surface science technique	x-ray photoelectron spectroscopy	1
+soft-phone	x-lite from x-ten	1
+software telephone	x-lite o eyebeam	1
+solid state technique	x-ray diffraction	1
+solution electromagnetic wave	x-rays	1
+Sony Walkmans	x-series	1
+sophisticated multi-tracking system	x-y track	1
+sophisticated physical method	x-ray fluorescence	1
+sophisticated x-fi card	x-fi xtreme gamer	1
+specialist material grade	x- seven hundred and fifty 	1
+Specialty surgery	x-stop for pain relief associated with spinal stenosis	1
+spectroscopic investigation	x-ray absorption spectroscopy	1
+spine imaging study	x-rays	1
+sr-based technique	x-ray absorption spectroscopy	1
+standard faa-imposed security measure	x-ray luggage inspection	1
+standard medical testing procedure	x-rays	1
+standard non-invasive testing method	x-ray radiography	1
+standard physical measurement	x-ray diffraction	5
+standard SIP softphones	x-lite	1
+standard superhero move	x-men	1
+state-of-art equipment	x-ray diffractometers	1
+state-of-the-art diagnostic equipment	x-ray machine	1
+static structural technique	x-ray crystallography	1
+stator-driven device	x-ray tube	1
+Stepheng3	x-rays	1
+subsystem product	x-beam x-ray source	1
+sudoku rule	x-wing	1
+suitable image receptor	x-ray film	2
+suitable spectroscopic technique	x-ray fluorescence analysis	1
+superior frequency	x-rays	1
+supplementary exam	x-rays	1
+surface analysis spectro-scopictechniques	x-ray photoelectron spectroscopy	1
+surface chemical analysis technique	x-ray photoelectron spectroscopy	1
+surface-sensitive analytical technique	x-ray photoelectron spectroscopy	1
+synchrotron-based x-ray probe	x-ray absorption spectroscopy	1
+tabletop technology	x-ray photographic film	1
+table-top x-ray source	x-ray laser	1
+TEAC model	x- one thousand  r 	1
+technological innovation challenge	x-prize	1
+tested franchise	x-men	1
+thai night club	x-club	1
+thehypophosphatemic disease	x-linked hypophosphatemia	1
+thin bladed knife	x-acto	1
+thin film electronic array	x-radiation imagers	1
+thin-bladed knife	x-acto knife	1
+three-dimensional x-ray imaging technique	x-ray tomosynthesis	1
+ticket-counter scanner	x-ray scanner	1
+tomographic image generating device	x-ray ct device	1
+traditional ash analysis technique	x-ray fluorescence	2
+traditional crystallographic technique	x-ray diffraction	1
+traditional CT technique	x-ray tomography	5
+traditional diagnostic equipment	x-rays	1
+traditional high-resolution structural technique	x-ray crystallography	1
+traditional medical imaging system	x-ray ct	1
+traditional non-invasive method	x-ray	1
+traditional phase identification technique	x-ray diffraction	1
+traditional physical technique	x-ray diffraction	1
+traditional structural characterization technique	x-ray crystallography	4
+traditional structural technique	x-ray crystallography	2
+traditional structure detection approach	x-ray crystallography	1
+transgenics	x- five s like alec 	1
+Transparency imaging	x-ray	1
+transverse material	x-cut litao  three 	1
+treat-ment option	x-rays	1
+treatment record	x-rays	1
+true structural probe	x-rays	1
+true surface technique	x-ray photoelectron spectroscopy	1
+tune aspect	x-y sensitivity	1
+UHS service	x-rays	1
+uncredited rewrite	x-men	1
+Unmanned stealth aircraft	x- fourty-five 	1
+up-to-date dental equipment	x-ray machine	2
+User-added code	x-ray diffractometer geometry code	1
+v9.2 feature	x-y scatter chart	1
+tool	x-rays	22
+tool	x-acto knife	8
+tool	x-ray diffraction	8
+tool	x-ray machine	7
+tool	x-ray crystallography	5
+tool	x-ray absorption	2
+tool	x-bar chart	1
+tool	x-ways forensic addition	1
+visual diagnostic information	x-rays	1
+volume generic application	x-y positioning	1
+volume imaging modalities	x-ray ct	1
+voting-based TV show	x-factor	1
+voxel value	x-ray attenuation factor	4
+waste composition method	x-ray fluorescence	1
+wavelength energy	x-rays	1
+well-crafted video edit	x-men	1
+well-known selection	x-men	1
+western superhero comic	x-men	1
+X-plane	x- fifteen 	1
+X-programs	x- thirty 	1
+x-ray absorption spectroscopic technique	x-ray absorption near-edge structure	1
+X-ray analysis apparatuses	x-ray diffractometer	1
+X-ray analyzer	x-ray fluorescent analyzer	1
+x-ray based technique	x-ray film image	1
+x-ray beam	x-ray laser beam	3
+x-ray generating device	x-ray tube	1
+X-ray image pick-up device	x-ray television system	1
+x-ray measuring device	x-ray  six thousand  	1
+x-ray producing device	x-ray tube	2
+x-ray recorder	x-ray camera	2
+x-ray spectrometric process	x-ray fluorescence analysis	1
+X-ray structural analysis	x-ray diffraction	1
+X-substrates	x-gal	1
+year structural technique	x-ray crystallography	1
+tool	x-html test suite	1
+tool	x-rite colorchecker passport	1
+tool	x-ray photoelectron spectroscopy	1
+tool	x-ray interpreter	1
+tool	x-ray spectrometer	1
+tool	x-ray diffraction system	1
+project	x-men	9
+project	x- thirty-seven b 	3
+factor	x-ray type	1
+product	x-ray machine	9
+product	x-ray films	3
+project	x-it program	2
+project	x-files	1
+project	x-ray optics mounting need	1
+project	x-ray room	1
+project	x-factor	1
+project	x-ray free electron laser	1
+artist	x-clan	9
+artist	x-ray dog	1
+artist	x-factor winner alexandra burke	1
+artist	x-press  two 	1
+material	x-acto knife	2
+material	x-ray film	2
+material	x-ray impermeable material	1
+material	x-board	1
+material	x-static upholstery fabric	1
+material	x-ray detection material	1
+material	x-ray sensitive scintillator material	1
+place	x-ray rooms in hospital	1
+place	x-ray room	1
+technology	x-rays	23
+technology	x-ray machine	5
+technology	x-ray detection	5
+technology	x-ray crystallography	4
+technology	x-ray lithography	4
+technology	x-ray imaging	2
+technology	x-ray diffraction	2
+technology	x-ray ct	1
+product	x- fourteen 	2
+product	x-y positioning table	2
+product	x-ray crystallography system	2
+technology	x-knife	1
+technology	x-ray of product stream	1
+technology	x-ray fluorescence	1
+technology	x-ray microbeam cinematography	1
+technology	x-ray equipment	1
+technology	x-ray technology	1
+technology	x-ray scanning	1
+technology	x-ray screening system	1
+technology	x-ray technique	1
+technology	x-ray vision	1
+term	x-height	1
+parameter	x-parameters	1
+parameter	x-ray application parameter	1
+parameter	x-ray absorption parameter	1
+parameter	x-ray source parameter	1
+parameter	x-ray tube  one hundred and two exposure parameter 	1
+parameter	x-sectional view	1
+parameter	x-ray beam thickness	1
+parameter	x-ray exposure parameter	1
+parameter	x-ray exposure for imaging	1
+parameter	x-ray transmission	1
+system	x-inactivation	1
+system	x-ray machine	1
+system	x-ray tube imaging system	1
+system	x- fourty-five  combat uav 	1
+system	x-ray scanner	1
+system	x- ten 	1
+system	x- ten  technology 	1
+system	x-ray	1
+measure	x-rays	3
+measure	x-ray change	1
+measure	x-raying of mail	1
+measure	x-ray examination	1
+measure	x-ray request	1
+condition	x-ray radiation	3
+condition	x-ray tube current	1
+condition	x-ray tube voltage	1
+condition	x-ray angulations	1
+condition	x-radiation	1
+condition	x-linked severe combined immunodeficiency	1
+condition	x-linked dominant condition	1
+condition	x-linked genetic condition	1
+condition	x-linked recessive condition	1
+element	x-y table by a coupling	3
+element	x-y dial encod ers for the stage	1
+element	x-y dial leica fs c macroscope encoders for the stage	1
+element	x-ray optical element	1
+element	x-ytablebya coupling	1
+element	x-y table by coupling	1
+element	x-mas globe	1
+variable	x-ray system position	3
+product	x- four hundred and thirty-one  scanner related product 	1
+product	x- fourteen 's products for soap scum 	1
+product	x- two  water-repellent agent 	1
+product	x-ray film related product	1
+product	x-ray equipment related product	1
+product	x-ray machine related product	1
+product	x-ray unit related product	1
+product	x-ray system	1
+variable	x-ray energy	1
+variable	x-ray exposure time	1
+function	x-ray	1
+device	x-ray machine	13
+device	x-rays	12
+device	x-ray diffraction sample holder	3
+device	x-ray equipment	3
+device	x-ray tube	2
+device	x-ray spectrometer	2
+device	x-ray fluorescence spectroscope	2
+device	x-ray apparatus	2
+device	x-box  three hundred and sixty 	2
+device	x-y movement device	1
+device	x-ray image intensifier	1
+device	x-ray generator	1
+device	x-ray imagers	1
+device	x-ray digital imaging device	1
+device	x-ray protector	1
+device	x-raymirrorsand refractive fresnel lens	1
+device	x-ray diffractometer	1
+device	x-windows terminal	1
+device	x- twenty-six 	1
+device	x-ray glass	1
+device	x-rite eye-one lt	1
+device	x-y matrix addressable field emission display	1
+brand	x- three  jeans 	2
+brand	x-loop sunglasses	1
+brand	x-stream	1
+concept	x-ray energy level	2
+concept	x-bar theory	1
+component	x-ray tube	3
+component	x-ray optical component	1
+component	x-ray tube filament	1
+component	x-bar process	1
+component	x-ray system component	1
+related product	x-exhaust jack related product	1
+related product	x-ray tube related product	1
+related product	x-ray related product	1
+related product	x-ray film related product	1
+related product	x-ray unit related product	1

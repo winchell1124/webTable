@@ -1,0 +1,374 @@
+factor	fgf	11
+factor	fgf two 	5
+factor	fgf- two 	3
+initiative	fgc	1
+accessory	fgm- one hundred and fourty-eight  javelins 	1
+resource	fgd	1
+process	fgc	1
+category	fgb	1
+client	fg wilson	1
+alternative	fgets	2
+star	fg leaders	1
+school	fgcu	1
+school	fgv	1
+practice	fgm	6
+practice	fgc	2
+practice	fgm harmful widowhood rite	1
+practice	fgm in burkina faso	1
+firm	fg wilson engineering	1
+compound	fgf	1
+instance	fgt	1
+partner	fgc	1
+standard	fgdc csdgm	1
+standard	fgdc content standard	1
+standard	fgdc	1
+design	fgd system design	1
+issue	fgm	4
+student	fg esl students at unam	1
+protein	fgf	5
+protein	fgf- one 	1
+protein	fgf twenty-three 	1
+protein	fgf- twenty-three 	1
+weapon	fgm- one hundred and fourty-eight  javelin 	2
+weapon	fgm- one hundred and fourty-eight  javelin missile launcher 	1
+control	fgd system	1
+driver	fglrx	1
+issue	fgc	1
+bank	fgb	1
+molecule	fgf- two 	2
+molecule	fgf	2
+molecule	fgf eight 	2
+molecule	fgf seven 	1
+molecule	fgf four 	1
+molecule	fgf- eight 	1
+molecule	fgfr ligands	1
+signal	fgf molecule	2
+signal	fgf- two 	1
+signal	fgf- one 	1
+government agency	fgdc	1
+gene	fgf four 	2
+gene	fgf two 	2
+gene	fgfr one 	1
+gene	fgfr four 	1
+gene	fgfr four  andprkca 	1
+gene	fgf eight 	1
+gene	fgfr two 	1
+gene	fgd one 	1
+index	fgt	1
+marker	fgfr three 	2
+marker	fgf- twenty-three 	2
+marker	fgf two 	1
+methodology	fgd	1
+command	fgets	1
+command	fg	1
+family	fgf- three 	1
+item	fgd gypsum production rate	1
+cultural practice	fgm	5
+cultural activity	fgm monologue	2
+syndrome	fgfr-related craniosynostosis syndrome	1
+industry giant	fgl wine estates	1
+union	fgtb	1
+biological factor	fgf	1
+growth factor	fgf	50
+growth factor	fgf- two 	13
+growth factor	fgf two 	7
+growth factor	fgf one 	3
+growth factor	fgf- one 	3
+growth factor	fgf eight 	2
+growth factor	fgf eighteen 	1
+growth factor	fgf seven 	1
+growth factor	fgf- two  andhepatocyte growth factor 	1
+gun	fg	1
+ligands	fgfs  two 	2
+insurer	fgic	2
+historic building	fgh buildings	1
+receptor	fgf	3
+receptor	fgf receptor	1
+cytokines	fgf	2
+area	fgm	1
+operational parameter	fgr rate	1
+peptides	fgf	3
+custom	fgc	1
+mediator	fgf- two 	1
+hub	fgfr three 	1
+traditional practice	fgm	2
+established company	fg wilson	1
+qualitative datum	fgd	1
+capital improvement	fgd at p four 	2
+mutation	fgf twenty-one  a one hundred and thirty-four e 	1
+controversial subject	fgm	1
+datum collection method	fgd	1
+pathological state	fgr	1
+public school	fgcu	1
+mutant	fgf twenty-one  l ninety-eight r 	1
+angle	fgk	1
+industrial waste	fgd waste	1
+angiogenic factor	fgf	8
+angiogenic factor	fgf- two 	3
+angiogenic factor	fgf family member	1
+angiogenic factor	fgf produced by adipocytes	1
+social practice	fgm	1
+soluble factor	fgf four 	1
+soluble factor	fgf	1
+signaling molecule	fgf	1
+signaling molecule	fgf eight 	1
+commercial brand	fg wilson	1
+control technology	fgd	1
+signaling pathway	fgf	5
+natural food source	fgd from medr wellness	1
+knot	fg knot	1
+national standard	fgdc standard	1
+oncogene	fgfr two 	1
+gene product	fgfr one 	2
+regional company	fgc	1
+harmful traditional practice	fgm	13
+rocket	fgm- one hundred and fourty-eight  javelin 	2
+bioactive agent	fgf	1
+agricultural use	fgd livestock feeding	1
+neurotrophic factor	fgf- two 	3
+neurotrophic factor	fgf two 	2
+neurotrophic factor	fgf	1
+company	fgic	2
+cultural norm	fgm	1
+trophic factor	fgf two 	2
+trophic factor	fgf	1
+trophic factor	fgf- two 	1
+customary practice	fgm	2
+secreted protein	fgf seven 	1
+industrial by-products	fgd gypsum from thermal power station	1
+survival factor	fgf- two 	4
+holistic method	fgmo fogging	1
+practise	fgm	2
+signalling molecule	fgf- two 	1
+signalling molecule	fgf	1
+locus	fga	1
+mitogens	fgf two 	1
+metadata standard	fgdc	3
+metadata standard	fgdc's content standard for digital geospatial metadata	1
+Receptor tyrosine kinases	fgfr	1
+large protein	fgf twenty-three 	1
+model output	fgf two  concentration in solution 	1
+model output	fgf two -hspg complex concentration 	1
+peptide growth factor	fgf	3
+politically sensitive issue	fgm	2
+secreted factor	fgf two 	1
+soluble mediator	fgf	2
+signaling component	fgfr two 	1
+surface antigen	fgfr	1
+tyrosine kinase receptor	fgf receptor	1
+tyrosine kinase receptor	fgfr two 	1
+angiogenic growth factor	fgf one 	3
+angiogenic growth factor	fgf	3
+angiogenic growth factor	fgf- two 	1
+growth factor receptor	fgfr two 	1
+emission control device	fgd	1
+restorative justice program	fgc	1
+bond insurer	fgic	5
+pro-angiogenic factor	fgf- one 	1
+pro-angiogenic factor	fgf- two 	1
+RTKs	fgfr	2
+RTKs	fgfr two 	1
+traditional cultural practice	fgm	2
+exogenous stimulus	fgf- two 	1
+pharmacological inhibitor	fgfr inhibitor	2
+poverty measure	fgt	1
+extracellular molecule	fgf	1
+constituent material	fgd by-product	1
+angiogenic cytokines	fgf- two 	1
+popular index	fgt	1
+promising newcomer	fg off oli fisher	1
+qualitative research tool	fgd focus group discussion	1
+risky practice	fgm	1
+animated sitcom	fg	1
+monoline insurer	fgic	1
+world-reputed brand	fg willson	2
+FGFs	fgf eight 	4
+FGFs	fgf four 	4
+FGFs	fgf nine 	2
+FGFs	fgf one 	2
+FGFs	fgf eighteen 	2
+FGFs	fgf seventeen 	2
+FGFs	fgf three 	1
+FGFs	fgf ten 	1
+FGFs	fgf twenty-two 	1
+FGFs	fgf five 	1
+FGFs	fgf six 	1
+FGFs	fgf seven 	1
+genetic aberration	fgfr one  amplification 	1
+good car	fgt	1
+mitogenic stimulus	fgf	1
+signaling cascade	fgf	1
+angiogenesis factor	fgf- two 	1
+cell signaling molecule	fgf	1
+harmful cultural practice	fgm	2
+low-level operation	fgets	1
+mast cell mediator	fgf- two 	1
+potential therapeutic target	fgfr one 	1
+nikon manual focus film camera	fg	3
+cationic protein	fgf	1
+event	fgs  thirty-five th anniversary celebration 	1
+soluble growth factor	fgf two 	1
+system design	fgd system design	1
+introduction harmful traditional practice	fgm	1
+angiogenic agent	fgf	3
+angiogenic agent	fgf- two 	1
+bond insurance company	fgic	1
+input function	fgets	1
+negative cultural practice	fgm	2
+nikon film camera	fg	1
+photoelectric conversion device	fga	1
+portable weapon	fgm- one hundred and fourty-eight  javelin 	1
+angiogenic protein	fgf family member	1
+cancer-associated gene	fgf twenty 	1
+gnarly gun	fg fourty-two 	1
+heparin-binding protein	fgf two 	1
+neurotrophic growth factor	fgf- two 	1
+datum content standard	fgdc standards for digital orthoimagery	2
+grain size	fg	1
+postcombustion control technology	fgd	1
+simple utility	fgrep	1
+Beta-carbolines	fg  seven thousand one hundred and fourty-two 	1
+common muslim practice	fgm	1
+completely new non-government organization	fgc	1
+fibroblast growth factor	fgf- two 	5
+fibroblast growth factor	fgf two 	4
+fibroblast growth factor	fgf- one 	1
+harmful traditional and cultural practice	fgm	1
+key growth factor	fgf	1
+kitchenaid attachment	fga	1
+power plant by-products	fgd gypsum	1
+variousknown growth factor	fgf	1
+ANSI C string function	fgets	1
+bessemer company	fg wireless in china	1
+big rail investment project	fgw electrification	1
+bone growth factor	fgf	1
+common integration site	fgf family	2
+disease-causing protein	fgf two 	1
+end-of-pipe technique	fgd	1
+epithelial cell-derived growth factor	fgf ten 	1
+extrinsic pathway	fgf	1
+first time harmful traditional practice	fgm	1
+fist time harmful traditional practice	fgm	1
+FOXP2 target	fgf eight 	2
+technique	fgs coding	1
+heparin binding growth factor	fgf	1
+heparin-binding growth factor	fgf- two 	1
+law enforcement opportunity	fgcu	1
+maasai practice	fgm	1
+oncofetal gene	fgf eighteen 	2
+pleiotropic growth factor	fgf two 	1
+potent angiogenesis factor	fgf- one 	2
+religious and cultural practice	fgm	2
+religious worship site	fgs dong zen monastery	1
+self-similar model	fgn model	1
+application	fg store	1
+TOCs	fgw	1
+traditional gender-based practice	fgm	2
+trophic and growth factor	fgf	1
+angiogenetic cytokines	fgf	1
+bush background	fgasa level i	1
+classical gag-binding protein	fgf one 	1
+classical pentecostal denomination	fgc	1
+complex metadata standard	fgdc	1
+currently under-represented topic	fgc	1
+derogatory practice	fgm	1
+distribution-sensitive measure	fgt index	1
+FGF gene	fgf- three 	1
+FGF gene	fgf- two 	1
+FGF member	fgf- two 	1
+FGF member	fgf- one 	1
+FGF molecule	fgf three 	2
+FGF molecule	fgf ten 	1
+furnace modification	fgr	1
+Gemmological qualification	fga	1
+growth-stimulating factor	fgf- two 	1
+interface accessory	fgp cable	1
+ISCUSSION angiogenic factor	fgf	1
+large molecular weight growth factor	fgf	1
+lens differentiation-controlling gene	fgf s	2
+factor	fgf- twenty-three 	1
+factor	fgf eight 	1
+long-range dependent process	fgn model	1
+mesenchymal signal	fgf ten 	1
+mesenchymal signal	fgf three 	1
+messed-up usernames	fget ninety-one 	1
+obnoxious practice	fgm	1
+originally angiogenic signalling molecule	fgf- two 	1
+otherneurotrophic factor	fgf- two 	1
+case	fgfr two  exon iiib 	1
+case	fgm program	1
+potential datum content schemas	fgdc framework	1
+proliferative cytokines	fgf- two 	2
+rho family exchange factor	fgd one 	1
+RJ measure	fgc	1
+second, hs-binding growth factor	fgf	1
+secondary flue gas treatment method	fgd	1
+shoulder-fired infantry missile	fgm- one hundred and fourty-eight  javelin 	1
+side entry application	fgd	2
+technology mandate	fgd	1
+top material supplier	fg	1
+toronto-based EAP provider	fgi	1
+traditional or social practice	fgm	1
+troubled guarantor	fgic	1
+absolute gravimeter	fg-land a- ten -both built at jilaaswell-and the newly-developed mpg- one 	1
+accuracy target	fgdc's national standard for spatial data accuracy test guidelines	2
+additive poverty measure	fgt class	1
+aggregate welfare measure	fgt measure of poverty	1
+alkaline CCBs	fgd	1
+born-again giant	fg sge	1
+chromosome study	fgfr two 	1
+combating harmful traditional practice	fgm	1
+Cyotokines	fgf- two 	1
+diesel generator	fg wilson	2
+ECM associated growth factor	fgf	1
+Epithelial FGFs	fgf nine 	2
+federal coordination agency	fgdc	1
+fg complex	fg-fn complex	1
+FGF family member	fgf four 	1
+FGF protein	fgf- two 	1
+FGF receptor	fgfr four 	1
+fgf-related gene	fgf two 	1
+FGF's	fgf- one 	1
+flat fireplace screen	fgn screen	1
+flooring contractor	fgs installer	1
+flyer online	fg bradley	1
+freewave's main product	fgrio system	1
+girl-specific health issue	fgm	1
+good EAs	fgb	1
+good gemological designation	fga	1
+good green drink	fgd from www.medrwellness.com	1
+harmful social norm	fgm	1
+HOXC6 activation target	fgfr two 	2
+impor-variousneuroprotective agent	fgf- two 	1
+incumbent pipeline	fgt	1
+group	fgcu music	1
+group	fgs	1
+key angiogenic mediator	fgf	1
+keynote university event	fgcu commencement	1
+leakage fault	fgs	1
+ligand structure	fgfr-su five thousand four hundred and two   two 	1
+Mods	fgm	1
+national metadata standard	fgdc	1
+offensive point	fg%	1
+phosphaturic hormone	fgf twenty-three 	1
+purchase froma dealer	fg performance	1
+RTK signal pathway	fgf	1
+method	fgi	1
+standard IO function	fgets	1
+standard library routine	fgets	1
+thereany traditional practice	fgm	1
+traditional and social practice	fgm	1
+traditional discriminatory practise	fgm	1
+truely intermediate line	fgh in fig	1
+well-known heparin-binding mitogenic factor	fgf- two 	1
+Wilson's CURRENT product	fg tour	1
+tool	fgd	1
+tool	fg sign-up	1
+artist	fgcc worship team	1
+place	fgcu pool	1
+technology	fgd	1
+variable	fgf twenty-three 	1
+function	fgetc	3
+function	fgets	2
+function	fgets on the stdin stream	1
+brand	fg wilson	1

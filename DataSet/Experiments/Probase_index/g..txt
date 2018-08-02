@@ -1,0 +1,750 @@
+facility	g. celeste salvador home	1
+facility	g.g.t. embroidery	1
+source	g.o. bond	1
+source	g. alternative water source	1
+game	g.r.a.w.	1
+game	g. premium window vista game	1
+ophthalmologist	g. keith berry	1
+exception	g. m. reith	1
+character	g. gordon liddy	1
+client	g.p surgery	1
+author	g.h mead	1
+author	g.h. von wright	1
+author	g. hardin	1
+author	g. w. m. reynolds	1
+author	g. k. chesterton of father brown fame	1
+author	g. harvey ralphson	1
+author	g. k. chesterton	1
+author	g.r elton	1
+author	g. z. chen	1
+author	g. snyders	1
+author	g. oddie	1
+feature	g. eight thousand and thirty-two  ethernet resiliency 	3
+form	g. spirale	1
+person	g.w. in power	1
+person	g. surendra rao of kozhikode	1
+theme	g. unifying theme	1
+course	g.t.	1
+course	g.o. s annual coaches congress	1
+writer	g. a. wells	10
+writer	g. k. chesterton	2
+writer	g. canty	1
+writer	g. h. morrison	1
+writer	g. w. peters	1
+writer	g. roschini	1
+writer	g. b. shaw	1
+writer	g. j. warnock	1
+writer	g. grant	1
+writer	g. bornkamm	1
+action	g. proper mitigation action	1
+solution	g. seven hundred and twenty-six 	1
+book	g. y. onoda	1
+film	g.i jane	1
+film	g. use film	1
+field	g. h. hovelmann field	1
+school	g.d goenka	1
+practice	g. water management practice	1
+plant	g. verna	2
+plant	g. orangeade	1
+plant	g. sylvestre	1
+scholar	g. d. kilpatrick	3
+scholar	g. rendsburg	1
+scholar	g. w. allport	1
+scholar	g. henry m. schuler of georgetown university	1
+scholar	g. henton davies	1
+scholar	g. g. joseph	1
+scholar	g. c. oosthuizen	1
+scholar	g. edward white	1
+scholar	g. b. barbour	1
+scholar	g. k. nieman	1
+scholar	g. meyer	1
+scholar	g. william skinner	1
+celebrity	g.na	1
+treatment	g. unsightly window treatment	1
+treatment	g. additional chemical treatment	1
+manufacturer	g. riga	1
+manufacturer	g. skill	1
+manufacturer	g.e.	1
+man	g. k. gray	1
+man	g. fred hamilton	1
+man	g. k. wallace	1
+man	g. washington	1
+man	g. r. gray	1
+man	g. campbell morgan	1
+publication	g. miranda & sons	1
+setting	g.p surgery	1
+study	g. e.	1
+individual	g. harry stine	8
+individual	g. von rad	1
+figure	g. h. mead	1
+figure	g.i. joe for sale	1
+equipment	g.i	1
+leader	g. venkateswarlu	1
+musician	g.love	1
+musician	g. s. mani	1
+movie	g.i jane	1
+movie	g. vs. hedorah	1
+team	g.o.l.d	1
+researcher	g.n.m tyrrell	1
+researcher	g. romanes	1
+variety	g. cantabrigiense biokovo with white bloom	1
+format	g. seven hundred and eleven 	1
+format	g. seven hundred and twenty-two 	1
+standard	g. seven hundred and twenty-three . one 	2
+standard	g. seven hundred and twenty-nine a 	1
+standard	g. seven hundred and nine 	1
+standard	g. seven hundred and twenty-nine  for voice compression 	1
+standard	g. seven hundred and twenty-three 	1
+standard	g. nine hundred and eighty-four . two  standard 	1
+club	g.k club	2
+vendor	g. neil	2
+vendor	g. sensitivity analysis processor vendor	1
+influence	g. love	1
+influence	g.love	1
+store	g. fox	1
+store	g. c. murphy	1
+critic	g. k. chesterton	4
+critic	g. wilson knight	2
+critic	g. sellin	1
+critic	g. eis	1
+critic	g. p. r. james	1
+critic	g. c. williams	1
+vehicle	g.u.n. mechs	1
+incentive	g.e.d. program	1
+scheme	g. seven hundred and twenty-two 	1
+designer	g.r morris	1
+student	g. murugan	1
+magazine	g.q.	1
+retailer	g. rajesh	1
+issue	g.s.t. requirement	1
+brand name	g. p & j baker	1
+line	g. unit	1
+line	g.i.joe	1
+channel	g.o.l.d.	2
+luminary	g. stanley hall	1
+luminary	g. k. chesterton	1
+algorithm	g. seven hundred and twenty-nine 	2
+friend	g. soros	1
+story	g. wallace chessman's ohio colleges in the civil war	1
+supplier	g.k.n.	1
+local attraction	g.wiz children's hands on museum	1
+composer	g. verdi	2
+protocol	g. nine hundred and eighty-four 	1
+village	g. starac	1
+scientist	g. g. simpson	1
+scientist	g. evelyn hutchinson at yale	1
+scientist	g. kalai	1
+scientist	g. evelyn hutchinson	1
+top brand	g. loomis	3
+historian	g. r. elton	5
+historian	g. e. aylmer	2
+historian	g. w. bernard	1
+historian	g. cameron hurst iii	1
+organism	g. certain organism	1
+organism	g. gallus	1
+singer	g.na	2
+toy	g. i. joe	1
+toy	g.i.joe	1
+theorist	g. stanley hall	2
+theorist	g. william domhoff	1
+theorist	g. n. m. tyrrell	1
+theorist	g. h. mead	1
+director	g. aravindan	3
+raw material	g.m.	1
+raw material	g.m. casting	1
+politician	g. orinda okun	1
+notable	g. harry stine	1
+professional organization	g. professional organization	1
+personal information	g.p.a.	1
+aid	g. electronic navigation aid	1
+thinker	g. stanley hall	1
+thinker	g. w. bush	1
+establishment	g. brown city college	1
+name brand	g. loomis	1
+contemporary	g. harvey	1
+pioneer	g. zaidan	1
+analyst	g. parthasarathy	1
+philosopher	g. e. moore	5
+philosopher	g. von schubert	2
+philosopher	g. w. f. hegel	1
+philosopher	g. f. hegel	1
+philosopher	g. e. m. anscombe	1
+key player	g. neville	1
+worker	g. e. olson	1
+notable exception	g. c. brewer	1
+economist	g. dosi	1
+economist	g. cassel	1
+qualification	g.c.s.e	1
+painter	g. tyler brown	1
+jurisdiction	g.a. state court in new haven	1
+conductor	g. rozhdestvensky	1
+conductor	g. carella	1
+conductor	g. albrecht	1
+recommendation	g. eight thousand two hundred and sixty-one 	1
+recommendation	g. eight thousand two hundred and sixty-two 	1
+repair	g. unforeseen repair	1
+big company	g. loomis	1
+large corporation	g.e.	1
+architect	g. e. clare	1
+observer	g. w. pickard	1
+famous artist	g. frederick keller	1
+management practice	g. water management practice	1
+contributor	g. k. chesterton	2
+private company	g. neil	1
+complex system	g.ho.st	1
+item	g.p.s system	1
+academic	g. lynn stephens	1
+common species	g. spicata	1
+control measure	g. interim erosion control measure	1
+multinational company	g.e power systems	1
+theologian	g. gutierrez	1
+detector	g.a.m.i.n dosimeter	1
+light	g. campbell morgan	1
+monster	g.	1
+top company	g.e. capital equipent finance	1
+cover	g. no synthetic ground cover	1
+famous musician	g. e. smith	1
+psychologist	g. allport	1
+psychologist	g. stanley hall	1
+educator	g. stanley hall	1
+family member	g. a. pfeiffer	1
+business leader	g. william ward	1
+cartoon	g.i joe	1
+dancer	g. kausalya	2
+water source	g. alternative water source	1
+explorer	g. carvajal	2
+exchange	g. susan komen for the cure pink rose foundation	1
+international standard	g. seven hundred and twenty-eight 	2
+local amenity	g.p. service	1
+investigator	g. e. peterson	1
+Christians	g. campbell morgan	2
+community member	g. edward griffin	1
+high quality brand	g.skill	1
+music artist	g.e.m	1
+idol	g.na	21
+collector	g. forrest	1
+herbivore	g. boliviana	1
+conservation measure	g. conservation measure	1
+garden	g. eriostemon fisch.	1
+garden	g. ibericum cav.	1
+garden	g. platypetalum fisch	1
+soloist	g. hoffman	1
+codecs	g. seven hundred and twenty-nine 	24
+codecs	g. seven hundred and eleven 	11
+codecs	g. seven hundred and twenty-three . one 	5
+codecs	g. seven hundred and twenty-three 	3
+codecs	g. seven hundred and twenty-two 	3
+codecs	g. seven hundred and eleven a with the voice activity detection feature turned-off 	1
+codecs	g.  seven hundred and twenty-three 	1
+codecs	g. seven hundred and twenty-two . one  annex c 	1
+codecs	g. seven hundred and twenty-nine a 	1
+codecs	g. seven hundred and twenty-six 	1
+criminal	g. gordon liddy	1
+literary figure	g. k. chesterton	1
+blend	g. denglisch	1
+hardware item	g.i. wire	3
+migratory species	g. grus	1
+chemical treatment	g. additional chemical treatment	1
+boy	g. hansen	1
+engineer	g. a. campbell	1
+education course	g.e.d. tutoring	1
+factor	g. s reputation in the human potential movement	1
+history	g. w. williams	1
+follower	g. g. simpson	1
+audio format	g. seven hundred and twenty-three 	1
+linguist	g. clauson	1
+dentist	g. mack goss	1
+small species	g. magellanica	1
+erosion control measure	g. interim erosion control measure	1
+ground cover	g. no synthetic ground cover	1
+christian writer	g. k. chesterton	1
+service	g.o. warehousing for the importing community	1
+service	g. other service	1
+service	g.e.d.	1
+pipe	g. i. pipe	1
+biologist	g. g. simpson	2
+biologist	g. ledyard stebbins	1
+window treatment	g. unsightly window treatment	1
+radio show	g. gordon liddy show	1
+realist	g. e. moore	1
+socialist	g. w. bush's	1
+rod	g. loomis	1
+cricketer	g. vishwanath	1
+eminent scholar	g. d. kilpatrick	1
+academic course	g.e.d.	1
+detection device	g. thermal detection device	1
+key leader	g. p. bowser	1
+compiler	g. glenn clift	1
+compression algorithm	g. seven hundred and eleven 	1
+popular channel	g.o.l.d	1
+notable client	g.fox	1
+topic	g.p. out of hours service	1
+graphic novel	g.i joe	1
+Film-makers	g. d. l. perera	1
+music director	g.v prakash	2
+music director	g. ramanathan	1
+action figure	g.i.joe	2
+action figure	g. i. joe	1
+psychiatrist	g. stanley hall	1
+classic writer	g.k.chesterton	1
+box office hit	g.i blues	1
+compression scheme	g. seven hundred and twenty-nine 	2
+codec	g. seven hundred and twenty-nine 	3
+codec	g. seven hundred and eleven 	1
+codec	g. seven hundred and twenty-three 	1
+codec	g. seven hundred and twenty-two 	1
+navigation aid	g. electronic navigation aid	1
+subscriber	g. sigel	1
+Germans	g. rohlfs	1
+feature artist	g. love	1
+chemist	g. liebig	1
+coder	g. seven hundred and twenty-nine 	3
+coder	g. seven hundred and twenty-three 	2
+coder	g. seven hundred and twenty-three . one 	1
+coder	g. seven hundred and twenty-six  adpcm 	1
+dwarf shrub	g. pumila	1
+influential leader	g. t. haywood	3
+newbie	g. bailey	1
+industry supplier	g. wine sales	1
+company	g.e.	1
+company	g.ho.st	1
+company	g. gedney godwin	1
+large pharmaceutical company	g. d. searle	1
+notable director	g. w. pabst	3
+medium-sized company	g.s.e solar systems	1
+large buyer	g. e. capital	2
+well-known teacher	g. seim	2
+case law	g. scammel & nephew ltd	1
+corrosive chemical	g. battery acid	1
+rootstocks	g. sixteen 	1
+operative	g. gordon liddy	1
+american politician	g. mennon williams	1
+company	g.skill	1
+mitigation action	g. proper mitigation action	1
+tight end	g. olsen	1
+militant	g. mason	1
+eminent writer	g. n. panicker	1
+renowned act	g. love & special sauce	1
+catholic writer	g. k. chesterton	2
+Scrub species	g. scorpius	1
+aircraft company	g. e. aircraft engines	1
+celebrated writer	g. k. chesterton	2
+industry manufacturer	g. a. braun	1
+social thinker	g. h. mead	2
+unifying theme	g. unifying theme	1
+activity	g.e. d	1
+activity	g. drawing & painting competition	1
+standard algorithm	g. seven hundred and eleven 	1
+idol group	g.o.d	1
+objector	g. a. cohen	1
+vocoders	g. seven hundred and twenty-three . one 	2
+vocoders	g. seven hundred and twenty-nine  ab 	1
+vocoders	g. seven hundred and twenty-nine 	1
+vocoders	g. seven hundred and twenty-eight 	1
+vocoders	g. seven hundred and twenty-three 	1
+prominent psychologist	g. stanley hall	1
+moderate leader	g. v. joshi	1
+water management practice	g. water management practice	1
+AV device	g. cube	1
+utilitarian	g. e. moore	1
+well-known standard	g. seven hundred and twenty-nine 	1
+well-known standard	g. seven hundred and twenty-three 	1
+minor material	g.i nutbolts	1
+minor material	g.i nut bolt	1
+minor material	g.i nut & bolt	1
+research-based strategy	g.l.a.d	1
+utility project	g. minor utility project	1
+famous student	g. h. hardy	3
+great preacher	g. campbell morgan	1
+mason	g. washington	2
+Ornamental fish	g. tamandua	1
+british official	g. brown	1
+famous coach	g. gibney	1
+resident fish species	g. mirabilis	1
+top channel	g.o.l.d	1
+well-known theorist	g. h. mead	1
+contemporary commentator	g. l. owen	1
+memory manufacturer	g.skill	1
+research purpose	g. duodenalis prevalence estimation	1
+popular offering	g. i. joe	1
+young author	g. trakl	1
+animal right advocate	g. b. shaw	1
+compression codecs	g. seven hundred and twenty-three . one 	1
+compression codecs	g. seven hundred and twenty-nine 	1
+gifted graduate student	g. f. atkinson	1
+surprising omission	g. f. dutton	1
+common audio format	g. seven hundred and eleven 	1
+lossy compression algorithm	g. seven hundred and twenty-three . one 	1
+orchestra director	g. varga	1
+parma director	g. pontecorvo	1
+parma director	g. bertolucci	1
+popular codecs	g. seven hundred and twenty-nine a 	1
+popular codecs	g. seven hundred and eleven 	1
+proper mitigation action	g. proper mitigation action	1
+shaman	g. gerasimov	1
+Victorians	g. h. lewes	1
+advanced codecs	g. seven hundred and twenty-three . one 	1
+advanced codecs	g. seven hundred and twenty-nine 	1
+american psychologist	g. stanley hall	1
+dominant figure	g. stanley hall	1
+electrical interface	g. seven hundred and three 	1
+electronic navigation aid	g. electronic navigation aid	1
+event	g.k. quiz	1
+program	g.e.d.	3
+gunman	g. r. tucker	1
+key financial concept	g.	1
+opera director	g. de	1
+dietary method	g.i	1
+Intuitionists	g. e. moore	1
+mathematical statistician	g. udny yule	1
+prominent preacher	g. stanley russell	1
+scripture scholar	g. j. wenham	2
+spiritualist	g. i. gurdjieff	2
+conservative host	g. gordon liddy	1
+german thinker	g. w. f. hegel	1
+independent investigator	g. grossman	1
+industry standard algorithm	g. seven hundred and eleven 	1
+industry standard algorithm	g. seven hundred and twenty-nine a 	1
+industry standard algorithm	g. seven hundred and twenty-three . one 	1
+israeli scholar	g. scholem	1
+mill worker	g. b. grayson	1
+noteworthy speaker	g. edward griffin	1
+sikh scholar	g. c. narang	1
+southern European species	g. communis	1
+standard codecs	g. seven hundred and twenty-six 	1
+standard codecs	g. seven hundred and twenty-nine 	1
+standard codecs	g. seven hundred and eleven 	1
+standard codecs	g. seven hundred and twenty-three 	1
+acid-sensitive material	g. acid-sensitive material	1
+adventure writer	g. a. henty	1
+aerospace supplier	g. parker engineering	1
+great music director	g. ramanathan	4
+small biopsy	g.i biopsy	1
+spanish contemporary philosophy author	g. agamben	1
+spanish contemporary philosophy author	g. deleuze	1
+spanish contemporary philosophy author	g. debord	1
+UK producer	g.i	1
+voip codecs	g. seven hundred and twenty-six 	1
+bibliographic tool	g. standard bibliographic tool	1
+bit-rate codecs	g. seven hundred and twenty-six 	1
+bit-rate codecs	g. seven hundred and eleven 	1
+educational specialist	g. cussons ltd	1
+george washington high school activity	g. w. prom	1
+good individual	g. smith	1
+greek director	g. panousopoulos	1
+greek director	g. tsiberopoulos	1
+minor utility project	g. minor utility project	1
+national radio show	g. gordon liddy show	2
+o.e.m.s company	g.e.	1
+outstanding theater director	g. tovstonogov	1
+outstanding theater director	g. kozintsev	1
+patented technique	g. seven hundred and twenty-nine 	1
+processor vendor	g. sensitivity analysis processor vendor	1
+thermal detection device	g. thermal detection device	1
+voice coder	g. seven hundred and eleven 	1
+voice coder	g. seven hundred and twenty-three 	1
+voice coder	g. seven hundred and twenty-nine 	1
+well-known Tasmanian storywriters	g. w. robinson	1
+19th century traveller	g. s. karelin	1
+20th century catholic scholar	g. de broglie	1
+benchmark test set	g. marsaglia set	1
+coaching model	g.r.o.w. model	1
+Compressed codecs	g. seven hundred and twenty-nine 	1
+Compressed codecs	g. seven hundred and twenty-nine  derived from delta-pcm encoding 	1
+conservative political party	g.o.p. in today's u.s.	1
+german critic	g. w. f. hegel	1
+internationally-distinguished presenter	g. andrew karolyi	1
+male toy	g. i. joe	1
+multinational auto company	g.m.	1
+national merchant	g. james	1
+nationally acclaimed program	g. gordon liddy show	1
+nixon s white house buddy	g. gordon liddy	1
+open-ended benefit	g.i bill	1
+pistol-packing staffer	g. gordon liddy	1
+popular radio host	g. gordon liddy	1
+organization	g. professional organization	1
+professional coaching model	g.r.o.w. model	1
+standard bibliographic tool	g. standard bibliographic tool	1
+top wedding album company	g. f. smith wedding albums	1
+top wedding photograph album company	g. f. smith wedding albums	1
+wealthy amateur	g. f. wilson	1
+worke rs	g. c. munro	1
+worksby lesser german playwright	g. f. w grossmann	1
+audio-data compression system	g. seven hundred and twenty-six 	1
+technique	g.i.s. coupled with optimisation methods for developing schemes for the optimal integrated management of municipal solid waste	1
+beloved staple	g.i joe	1
+cast iron collectible	g. f. filley	1
+celp-based coder	g. seven hundred and twenty-eight 	1
+celp-based coder	g. seven hundred and twenty-nine 	1
+celp-based coder	g. seven hundred and twenty-three . one 	1
+cricket species	g. campestris	1
+EPS producer	g. xylinum	2
+established eatery	g.p. s from guttenberg	1
+famous guest conductor	g. unger	1
+freedom advocate	g. edward griffin	1
+hardy geranium	g. sylvaticum mayflower	1
+High bit-rate CODECS	g. seven hundred and twenty-six 	1
+High bit-rate CODECS	g. seven hundred and twenty-seven 	1
+High bit-rate CODECS	g. seven hundred and eleven 	1
+industry standard codecs	g. seven hundred and eleven 	2
+intelligent show	g.p.	1
+ITU-T standard	g. seven hundred and twenty-three . one 	3
+ITU-T standard	g. seven hundred and twenty-nine 	2
+ITU-T standard	g. seven hundred and twenty-eight 	2
+low bit rate codecs	g. seven hundred and twenty-three 	1
+low bit-rate CODECS	g. seven hundred and twenty-three . one 	1
+low bit-rate CODECS	g. seven hundred and twenty-nine 	1
+low-bit-rate codecs	g. seven hundred and twenty-nine 	2
+low-bit-rate codecs	g. seven hundred and twenty-three . one 	1
+low-bit-rate codecs	g. seven hundred and twenty-three 	1
+modem equipment	g.c-ms	1
+multinational construction company	g. cappa	1
+Neo-Impressionists	g. seurat	1
+nineteenth-century thinker	g. w. f. hegel	1
+application	g. c. s utilizing electron capture	1
+parametric vocoders	g. seven hundred and twenty-nine a 	1
+Popular voice codecs	g. seven hundred and eleven 	1
+Popular voice codecs	g. seven hundred and twenty-nine a conjugate-structure algebraic-code-excited linear-prediction 	1
+Popular voice codecs	g. seven hundred and twenty-three . one 	1
+prescott's long-standing opponent	g. b. starr	1
+professional or clinical service	g.p.	1
+Role-Playing-Games	g.u.r.p.s.	1
+tarantula	g. rosea	1
+typical voice CODEC	g. seven hundred and twenty-three . one 	1
+typical voice CODEC	g. seven hundred and eleven 	1
+typical voice CODEC	g. seven hundred and twenty-nine  for the scn 	1
+voice compression coding format	g. seven hundred and twenty-three 	1
+voice compression coding format	g. seven hundred and eleven 	1
+voice compression coding format	g. seven hundred and twenty-two 	1
+19th century designer	g. paulding farnham	1
+3G	g. seven hundred and nineteen 	1
+academic supporter	g. d. h. cole	1
+add-on top heat spreader	g.skill flare	1
+amazing choir leader	g. g. sparrow	1
+appendage tip feverishness spreader	g.skill flare	1
+name	g. brock	1
+celebrated american performer	g. l. fox	1
+celp-based speech coder	g. seven hundred and twenty-eight 	1
+celp-based speech coder	g. seven hundred and twenty-three . one 	1
+cheesy show	g.l.o.w	1
+child study expert	g. stanley hall	1
+conclusion seaweed	g. crassa	1
+conclusion seaweed	g. edulis	1
+Developmental psycholinguists	g.f marcus	1
+digital compression scheme	g. seven hundred and twenty-two 	4
+disc-based digital audio recorder	g. w. & gaskell	1
+distinguished lawyer-soldier	g. norman lieber	2
+english speaking world catholic writer	g. k. chesterton	1
+famous dialetheists	g. priest	1
+famous foreign scientist	g. gleason	2
+name	g. arthur brown	1
+name	g. w. smith	1
+name	g. willow wilson	1
+name	g. gould	1
+name	g. w. f. hegel	1
+fast action rod	g. loomis	1
+fe-oxidizing bacterium	g. ferruginea	1
+forward error correction protocol	g.  seven hundred and nine 	1
+forward error correction protocol	g. seven hundred and nine 	1
+good codec	g. seven hundred and twenty-nine 	1
+ground-dwelling cricket	g. bimaculatus exhibit territoriality	1
+hartford institution	g. fox & co.	1
+interim erosion control measure	g. interim erosion control measure	1
+italian house	g. versace	1
+ITU-T recommendation	g. seven hundred and twenty-eight 	1
+large domestic car manufacturer	g.m.	1
+large technology project	g.e.n.i. project	1
+name	g. e. h. palmer	1
+case	g. seven hundred and twenty-six 	1
+local film producer	g. a. smith	1
+Low bit rate frame-based codecs	g. seven hundred and twenty-nine 	1
+Low bit rate frame-based codecs	g. seven hundred and twenty-three 	1
+low bit rate speech codecs	g. seven hundred and twenty-nine 	1
+low bit rate speech codecs	g. seven hundred and twenty-three . one 	1
+Low-bit-rate, frame-based codecs	g. seven hundred and twenty-nine 	1
+Low-bit-rate, frame-based codecs	g. seven hundred and twenty-three 	1
+Lower-speed codecs	g. seven hundred and twenty-six 	1
+Lower-speed codecs	g. seven hundred and twenty-nine 	1
+low-rate audio codecs	g. seven hundred and twenty-nine 	1
+low-rate audio codecs	g. seven hundred and twenty-three . one 	1
+male geomorphologists	g. k. gilbert	1
+modern coder	g. seven hundred and twenty-nine 	1
+modern coder	g. seven hundred and twenty-three . one 	1
+non-embedded coder	g. seven hundred and twenty-two . two 	1
+non-embedded coder	g. seven hundred and twenty-two . one 	1
+non-productive industry	g.p.o.	1
+notable form	g. acaulis	1
+patented codecs	g. seven hundred and twenty-three 	1
+patented codecs	g. seven hundred and twenty-nine 	1
+proprietary codec	g. seven hundred and twenty-three 	2
+proprietary codec	g. seven hundred and twenty-nine 	2
+public radio broadcaster	g.m. of wuis	1
+questionable associate	g. gorden liddy	1
+relativist result	g. harman	1
+Resistant rootstocks	g. sixteen 	1
+revival critic	g. b. shaw	1
+Sample-based codecs	g. seven hundred and eleven 	3
+Sample-based codecs	g. seven hundred and twenty-two 	1
+selectionist critic	g. ledyard stebbins	1
+soviet public figure	g. zhukov	3
+speech codec	g. seven hundred and twenty-three . one 	1
+speech coding standard	g. seven hundred and twenty-three . one 	1
+speech coding standard	g. seven hundred and twenty-nine 	1
+speech compression algorithm	g. seven hundred and twenty-six 	1
+speech compression algorithm	g. seven hundred and eleven 	1
+speech compression technique	g. seven hundred and twenty-nine 	1
+standard audio codecs	g. seven hundred and twenty-nine 	1
+standard audio codecs	g. seven hundred and eleven 	1
+standard audio compression codecs	g. seven hundred and eleven 	2
+standard IP codecs	g. seven hundred and eleven 	1
+standard IP codecs	g. seven hundred and twenty-nine 	1
+standardized audio codecs	g. seven hundred and twenty-two 	1
+standardized audio codecs	g. seven hundred and eleven 	1
+synthetic ground cover	g. no synthetic ground cover	1
+voice-encoding industry standard	g. seven hundred and twenty-nine 	1
+voice-encoding industry standard	g. seven hundred and twenty-three 	1
+Waveform-based codecs	g. seven hundred and twenty-six  use external plc. 	1
+Waveform-based codecs	g. seven hundred and eleven 	1
+web desktop	g.ho.st	1
+wideband codecs	g. seven hundred and twenty-nine . one 	1
+AbS codecs	g.  seven hundred and twenty-nine 	1
+adult male transsexual	g. b.	1
+albright's student	g. ernest wright	1
+alphanumeric code	g.  three 	1
+audio codec recommendation	g. seven hundred and twenty-eight 	3
+bandwidth-efficient codecs	g. seven hundred and twenty-nine 	1
+bit exact vocoders	g. seven hundred and twenty-nine 	1
+Bloom species	g. breve	1
+book binder	g. sampath kumar	1
+british academic	g. m. young	1
+broad band service	g.lite	1
+CELP coder	g. seven hundred and twenty-nine 	1
+CELP-based wideband standard codecs	g. seven hundred and twenty-two . two 	1
+christian interpretation	g. wilson knight	1
+classic american pragmatist	g. h. mead	1
+common musical style	g. love	1
+complex voice decoder	g. seven hundred and twenty-eight 	1
+complexity codecs	g. seven hundred and twenty-nine 	2
+consequence lexical pseudo-loans	g. handy	1
+digital wrapper technique	g. seven hundred and nine 	1
+group	g.o.d	4
+economic codecs	g. seven hundred and eleven 	1
+eve man	g.p. in the collector	1
+field-proven packet telephony resource	g. seven hundred and twenty-nine ab codecs 	1
+Fire blight-tolerant rootstocks	g. eleven 	1
+French and Italian scholarship	g. gauthier	1
+functional consideration ground-dwelling cricket	g. bimaculatus exhibit territoriality	1
+garcinia tree	g. nervosa	1
+gecarcinid land crab	g. natalis	2
+generative semanticist	g. lakoff	1
+generous scholar	g. ernest wright	1
+groundcover gunnera	g. magellanica	1
+high rate coder	g. seven hundred and eleven 	1
+high voltage measuring device	g.e. high voltage divider	1
+High-efficiency codecs	g. seven hundred and twenty-nine 	1
+higher-quality codec	g. seven hundred and twenty-two 	1
+higher-rate CODECs	g. seven hundred and eleven 	2
+highest-paid lecturer	g. gordon liddy	1
+High-quality audio CODECs	g. seven hundred and eleven 	1
+india's tycoon	g.m rao	1
+group	g.i forum	1
+interpolation-based prior art PLC method	g. seven hundred and eleven  plc 	1
+IP phone support audio coder	g. seven hundred and eleven 	1
+ITU codecs	g. seven hundred and twenty-three . one 	1
+ITU recommendation	g. seven hundred and eighty-three 	1
+ITU-T speech codecs	g. seven hundred and twenty-three . one 	1
+james's contemporary	g. stanley hall	1
+Large-bandwidth codecs	g. seven hundred and eleven 	1
+Latinists	g. bardy	1
+lay-oriented introductory work	g. meilaender's bioethics	1
+low bandwidth codec	g. seven hundred and twenty-nine 	1
+low bandwidth VoIP codecs	g. seven hundred and twenty-nine 	1
+low bit rate codec	g. seven hundred and twenty-nine 	1
+low-bandwidth codecs	g. seven hundred and twenty-nine 	1
+Low-bitrate coder-decoders	g. seven hundred and twenty-nine 	1
+Lower-complexity codecs	g. seven hundred and eleven  process audio in frame 	1
+Low-speed codecs	g. seven hundred and twenty-three 	1
+Maturationists	g. stanley hall	1
+national-ranking player	g. jaggannath	1
+Neo-Cartesians	g. strawson	1
+non-linear codec	g. seven hundred and twenty-three 	1
+non-linear codecs	g. seven hundred and twenty-three 	1
+method	g.w. interferometry	2
+owntown hartford retail establishment	g. fox	2
+paper various codecs	g. seven hundred and eleven 	1
+pleistocene form	g. crassiscutata of florida	1
+post-cold war US analysis	g. pope atkins	1
+post-industrial libertarian	g. edward griffin	1
+power line technology	g.hn	1
+professional baking supply shop	g. detou in paris	1
+progressive educators	g. stanley hall	2
+quality codecs	g. seven hundred and eleven 	1
+respectable monitor	g.s. monitor	1
+russian and soviet scientist	g. f. morozov	1
+school music work	g.c.s.e	1
+secondary codec	g. seven hundred and twenty-nine a 	1
+short codec	g. seven hundred and twenty-nine a codec 	1
+single bad leader	g. bush	1
+specificprotocols	g. nine hundred and eighty-four 	1
+sprawling variety	g. ann folkard	1
+standard update	g. seven hundred and nine  otn 	2
+Standard VoIP CODECs	g. seven hundred and eleven 	1
+star subject	g. croiset	1
+strategic management text	g. johnson	1
+strong topical anesthetic	g. oxybuprocaine	1
+strong-willed child	g.	1
+Taiwanese species	g. yangmingshan shy	1
+telescopic observer	g. d. cassini	1
+thoughtful Catholics	g. k. chesterton	1
+Tropical and subtropical foraminifer species	g. ruber	1
+tool	g. standard bibliographic tool	1
+voice compression algorithm	g. seven hundred and twenty-nine 	1
+voice encoder	g. seven hundred and twenty-three 	1
+waveform codec	g. seven hundred and eleven 	1
+Waveform vocoders	g. seven hundred and eleven 	1
+well-known bible scholar	g. h. pember	1
+Wide-band vocoders	g. seven hundred and twenty-two 	1
+project	g. i. jane	1
+project	g. minor utility project	1
+artist	g. harvey	5
+artist	g. love	4
+artist	g. love & special sauce	3
+artist	g.e.m	2
+artist	g. melchers	2
+artist	g. hitchcock	2
+artist	g. sinopoli	1
+artist	g. h. boughton	1
+artist	g. klimt	1
+artist	g. mind	1
+artist	g.c.	1
+artist	g.love	1
+artist	g.o.l.d. credit artist	1
+artist	g. f. watts	1
+material	g. acid-sensitive material	1
+material	g.i. wire mesh	1
+place	g. a. a. museum	1
+player	g. johnson	1
+technology	g.shdsl	1
+system	g.i.	1
+species	g. geographica	2
+species	g. falcatus	1
+species	g. bicolor	1
+species	g. breve	1
+species	g. marmorata	1
+species	g. latifolia	1
+species	g. anglica e. f. warb	1
+species	g. arenaria	1
+species	g. elegans	1
+species	g. helveticum	1
+species	g. campestre	1
+species	g. tinctoria	1
+species	g. nervosa	1
+species	g. oculata woods	1
+species	g. ruber	1
+species	g. setifolia baker	1
+measure	g. conservation measure	1
+measure	g. interim erosion control measure	1
+device	g. thermal detection device	1
+brand	g. loomis	3
+brand	g. skill	2
+brand	g. e.	1

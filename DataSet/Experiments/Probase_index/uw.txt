@@ -1,0 +1,365 @@
+initiative	uwi distance education programme centre	1
+resource	uw extension	1
+resource	uwr planning grant	1
+facility	uw-platteville	1
+source	uwe's outback	1
+characteristic	uwb channel characteristic	1
+institution	uw-stevens point	5
+institution	uwi	4
+institution	uw	4
+institution	uw-marathon county	2
+institution	uw-milwaukee	2
+institution	uw-extension	1
+institution	uwa	1
+institution	uw marathon county	1
+institution	uw children's hospital	1
+client	uwa	1
+author	uwe steinhoff in on the ethics of war	1
+author	uwe timm	1
+strategy	uwa leadership development program	1
+person	uw sophomore michelle pohmer	1
+alternative	uwa mba	1
+agency	uw small business development center	1
+course	uw one hundred and two  ethnic relations 	2
+course	uw two hundred and two  islamic 	2
+course	uw bothell course	1
+location	uw-milwaukee campus	1
+location	uwe's german restaurant	1
+writer	uwe timm	1
+school	uwo	3
+school	uw-milwaukee	2
+school	uw-river falls	2
+school	uw-marinette	1
+school	uwf	1
+school	uwaterloo	1
+school	uw system school	1
+school	uw	1
+school	uw extension	1
+school	uwc	1
+school	uw-marathon county	1
+school	uw-parkside	1
+school	uw-green bay	1
+school	uw-superior	1
+development	uwb	2
+type	uwc	1
+venue	uw track complex	1
+publication	uwf fact books	2
+publication	uweekly in columbus	1
+figure	uwais al-qarni	1
+unit	uw police department	1
+unit	uw information technology	1
+instance	uwc strike	1
+team	uwo	1
+team	uw whitewater	1
+team	uw stevens point	1
+team	uw-milwaukee	1
+researcher	uwe bergmann	2
+standard	uwb	1
+role	uwe scholz	1
+design	uwb antennas	1
+department	uw-extension	2
+department	uw medicine	1
+scheme	uwb modulation scheme	1
+retailer	uwajimaya	1
+luminary	uwe boll	1
+university	uwa	4
+university	uw	3
+university	uw-milwaukee	2
+university	uwo	1
+university	uw-platteville	1
+university	uw-stevens point	1
+university	uws	1
+university	uw system university	1
+measurement	uwb sar image quality measurement	1
+issue	uwb regulatory approval	1
+issue	uwb wireless channel	1
+track	uwampela ameno akampela nefya kusheta	2
+local attraction	uw husky stadium	1
+key issue	uwb wireless channel	2
+employer	uw	2
+employer	uw-stevens point	2
+committee	uwi's  fifty th anniversary planning sub-committee 	1
+network	uwb	1
+athlete	uwe widman	1
+athlete	uw-whitewater's sarah ruhland	1
+sponsor	uw's school of energy resources	1
+sponsor	uw's school of energy resources along with industry	1
+college	uwa	1
+college	uw	1
+director	uwe janson	1
+database	uw-parkside library catalog	1
+community event	uwo track	1
+centre	uws's research centre	1
+professional organization	uw extension	1
+enterprise	uw school of public health	1
+center	uw hospital in madison	1
+center	uw-eau claire	1
+issue	uw controversial speaker	1
+issue	uw's connection with sweatshop labor	1
+scene	uwb radar sensor	1
+photographer	uwe steinmueller	1
+analyst	uwe reinhardt	1
+analyst	uw-green bay assistant political science professor tim dale	1
+economist	uwe reinhardt of princeton university	1
+economist	uwe reinhardtof princeton university	1
+coach	uw football coach rick neuheisel	1
+board	uw foundation	1
+area attraction	uw madison	1
+conductor	uwe gronostay	1
+online resource	uw off campus living site	1
+performance	uw-gb pep band	1
+promotion	uwf international	1
+supporter	uwsl's strongest supporter	1
+item	uwp	1
+contributor	uwe hoering	1
+state agency	uw-la crosse	1
+artiste	uwi dance troupe	1
+list	uwl	1
+choreographer	uwe sholz	1
+communication system	uwb	1
+student organization	uwp student organization	1
+student organization	uwm occupied	1
+background information	uwb channel model	1
+honor	uw's alumnus summa laude dignatus award	1
+winery	uwharrie	1
+public institution	uw	1
+presenter	uw-madison chancellor biddy martin	1
+presenter	uw system president kevin reilly	1
+metropolitan area	uwa campus	1
+partnership	uw-stevens point	1
+regional organization	uwi	1
+dancer	uwt student isaiah munoz	1
+saint	uways al-barawi	1
+campus	uw-la crosse	1
+campus	uw-stevens point	1
+academic institution	uw	1
+concert	uw stadium concert	1
+prestigious venue	uw world series	1
+area	uw	1
+research institution	uw	2
+wireless technology	uwb	5
+reservoir	uwainat at bh	1
+natural area	uw arboretum	1
+skeptic	uwe reinhardt of princeton	1
+environmental feature	uw-madison arboretum	1
+service activity	uwf phon-a-thon for prospective computer science student	1
+trademark	uw-madison's motion w mark	1
+wireless network	uwb	1
+modulation scheme	uwb	1
+modulation scheme	uwb modulation scheme	1
+regional institution	uw-manitowoc	1
+regional institution	uw-oshkosh	1
+passive component	uwbantenna andbandpass filter	1
+passive component	uwb antenna	1
+email client	uw email client	1
+annual activity	uwm open house	1
+public university	uw	1
+commercial program	uwgcg	1
+topic	uwb history	1
+tertiary institution	uwi	1
+email service	uw windows live	1
+literary giant	uwem akpan	1
+mountain area	uwharrie mountains	1
+urban setting	uw-river falls	1
+communication standard	uwb	3
+campus facility	uw medical center	1
+communication program	uw alert	1
+critical operation	uw hospital & clinics	1
+teaching hospital	uwmc	1
+complex organization	uwi open campus	1
+wireless standard	uwb	1
+research centre	uws's research centre	1
+famous school	uwashington	1
+web-based resource	uw website	1
+student publication	uwm post	1
+student publication	uwm times	1
+channel characteristic	uwb channel characteristic	1
+specialty market	uwajimaya	1
+radar system	uwb microwave imaging system for detection of tumor in woman's breast	1
+radar system	uwb microwave imaging system for detection of tumor in woman sbreast	1
+company	uwe	1
+area university	uwm	1
+big university	uw	1
+radio technology	uwb	2
+activity	uw-whitewater chapter plan activity	1
+external institution	uwa	1
+specialty certification	uw navigation	2
+campus entity	uw police department	1
+others group	uwsp	1
+popular tourist place	uw art museum	1
+popular tourist place	uw geological museum	1
+year school	uwo	1
+emerging wireless technology	uwb	1
+year institution	uw seattle	1
+four-year institution	uw bothell	1
+german historian	uwe dietrich adam	1
+ambitious program	uw-madison's video project	1
+great entrepreneur	uwe boll	1
+state effort	uw's certified public manager program	1
+visible group	uw health	1
+web-based platform	uwcgo website	1
+ceasefire group	uwsa	2
+med school	uws	1
+event	uwa expo	1
+best equipment manufacturer	uwatec	1
+forum system	uwb	1
+two-year college	uw-fox valley	1
+credit card product	uwi	1
+long standing client	uwa hockey club	1
+others university	uwic	1
+preservation solution	uws	1
+reputable program	uwo	1
+cease-fire group	uwsp	1
+cease-fire group	uwsa	1
+program	uw extension-funded partnership with the minority contractors association	1
+program	uw-madison connections program	1
+program	uw-platteville online	1
+program	uw's dream project	1
+WSN technology	uwb	1
+branch campus	uw tacoma	1
+branch campus	uw bothell	1
+canadian program	uwo	1
+elite area	uw	1
+incremental fixed cost	uws overhead	1
+low power system	uwb	2
+community	uwharrie township	1
+NCAA division I program	uw-green bay	1
+proven commodity	uwe tag team	1
+wireless communication technique	uwb	1
+adjunct technology	uwb	1
+community	uwchlan township	1
+famous Europeans	uwe werner	1
+leading poster artist	uwe loesch	1
+metropolitan university	uws	1
+MMA event	uwc	1
+organization	uwa press	1
+organization	uw group working on shoreline issue	1
+organization	uwi outreach program	1
+organization	uw-madison adaptive fitness program	1
+organization	uwf	1
+short range application	uwb	1
+UW institution	uw-green bay	1
+UW institution	uw-superior	1
+wireless communication scheme	uwb	1
+organization	uwi	1
+organization	uwi outreach programme	1
+organization	uwp student organization	1
+organization	uwgb	1
+organization	uw-green bay	1
+newly high-speed communication system	uwb	1
+organization	uw department of industrial engineering	1
+organization	uw extension's beef connection	1
+seattle area	uwajimaya	1
+short-distance wireless communication technology	uwb	1
+state-appropriated scholarship	uw president's honor scholarships	1
+wireless broadband communication	uwb	1
+agency member	uwex	1
+ancillary UWF location	uwf sbdc	1
+arlen's art intervention	uwi sculptural project	1
+technique	uwb usesmodulation technique	1
+defenseless zone	uw campus	1
+dive equipment brand	uwatec	2
+DSSS signal	uwb signal	1
+technique	uwb	1
+german film star	uwe kockisch	1
+japanese grocery store	uwajimaya	1
+modern wireless standard	uwb	1
+application	uwb	3
+application	uwb system	2
+ntensive program	uwp	1
+tennis camp	uw whitewater	1
+Texas trust company	uw trust	1
+UW campus	uw-whitewater	1
+UW campus	uw madison	1
+UW campus	uw-stout	1
+UW children's center	uw-eau claire	1
+UW signatory	uw oshkosh	1
+UW signatory	uw stevens point	1
+UW signatory	uw river falls	1
+uw-madison's affiliated organization	uw foundation	1
+versatile artist	uwe bender	1
+washington state public university	uw	1
+wideband source	uwb signal	2
+widefield design	uwas	1
+academic tertiary institution	uwi	1
+basic blogs	uw credit union	1
+conventional organ preservative solution	uw solution	1
+cult favorite director	uwe boll	1
+etitors	uweekly	1
+name	uws	1
+German LaRouchians	uwe friesecke	1
+great caw fed	uwo	1
+image quality measurement	uwb sar image quality measurement	1
+name	uwe blab	1
+case	uwa	1
+local public health clinic	uw travel clinic for seattle resident	1
+near-field communication	uwb	1
+NWA affiliated territory	uwf in oklahoma	1
+obscure POIs	uwe's in colorado springs	1
+OFDM communication system	uwb	1
+radical revisionist chronology	uwe topper	1
+south african academic institution	uwc	1
+spread spectrum communication	uwb	1
+spread spectrum communication	uwb system	1
+student design team	uw robotics team	1
+system school	uw system school	1
+themprato institution	uwm	1
+UW official	uw police department chief vicky peltzer	1
+UWF webcasts	uwf rollin	1
+UWF webcasts	uwf sidesplitters	1
+Valuable WHMIS information	uwo workplace labelling system	1
+voucher critic	uw-madison education policy professor julie mead	1
+world famous striker	uwe seeler	1
+accurate location system	uwb	1
+option	uw's pharmacy program	1
+option	uwajimaya	1
+bearer technology	uwb based wireless universal serial bus	1
+campus pharmacy	uw's hall health primary care clinic	1
+caring, concerned community	uw oshkosh	1
+commuter university	uw-milwaukee	1
+dedicated demo-processing tool	uwe girlich's little movie processing center	1
+dissident east german writer	uwe johnson	1
+explosion deposit	uwekahuna ash	1
+government-related institution	uwi	1
+graduate school research center	uw press	1
+gravely ill MS victim	uwe stuckenbrock in rpf	2
+great mystical teacher	uwaysi	1
+incoming wireless communication standard	uwb	1
+group	uw youth against war	1
+group	uwm american indian student services	1
+group	uw cheese club	1
+group	uw-madison's out loud	1
+group	uw police	1
+group	uw-madison's ewb chapter	1
+international and asian market	uwajimaya	1
+library mechanism	uwin	1
+lucky audience member	uw pre-major neils clark	1
+national forrests	uwharrie	1
+near-field-communciation technology	uwb	1
+outstanding heart center	uw medical center	1
+party school	uw	1
+PNP subsidiary	uwi	1
+result lead agency	uwa	1
+shared spectrum technology	uwb	1
+U.W.F. group	uwf international	1
+unattached academic head-counter	uwi's dr parris	1
+UW department	uw-platteville	1
+UW school	uw-eau claire	1
+UWB facility	uwb transmitter module	1
+wideband signal s	uwb	1
+wireless broadband application	uwb	2
+wisconsin public university	uw-milwaukee	1
+project	uwvocal joystick	2
+project	uw school of pharmacy	2
+project	uw vocal joystick	1
+project	uwajimaya-anchored mixed use	1
+artist	uwe lausen	1
+place	uw-milwaukee	1
+player	uwi stat alumni ambassador floyd green	1
+technology	uwb	7
+technology	uwb device	1
+term	uwb	1
+parameter	uwb waveforms	1
+system	uwb continuous code spread system	1
+system	uwb	1
+concept	uwb communication	2

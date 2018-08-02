@@ -1,0 +1,588 @@
+initiative	ymca	2
+resource	ymcas	1
+facility	ymca	18
+facility	ymca in rockport	1
+institution	ymca	3
+institution	ymca camp lyndon	1
+client	ymca	3
+client	ymca fit	1
+client	ym tunku myra madihah	1
+person	ymca	1
+person	ymir	1
+idea	ymca	2
+agency	ymca	17
+agency	ymca's haven house	1
+agency	ymca of metropolitan toronto	1
+agency	ymca of the treasure coast	1
+agency	ymca scuba	1
+location	ymca	3
+location	ymca on meadows lane	1
+business	ymca	3
+amenity	ymca	3
+amenity	ymca pass	1
+amenity	ymca membership	1
+amenity	ymca health club	1
+development	ymca camp	1
+type	ymodem	1
+venue	ymca	3
+job	ym magazine	1
+publication	ym	2
+class	ymcas speed	1
+team	ymca along with entering small tournament	1
+entity	ymca	1
+building	ymca	2
+building	ymca at mills	1
+Organisations	ymca	7
+partner	ymca	2
+classic	ymca by the village people	1
+club	ymca	3
+club	ymca wheelman	1
+customer	ymca	1
+opportunity	ymca	1
+effort	ymca financial development effort	1
+incentive	ymca pass	2
+label	ymc	1
+environment	ymca	1
+supply	ymcko ribbons	1
+magazine	ym	18
+provider	ymca	2
+provider	ymca in alhambra	1
+provider	ymax corporation	1
+exercise	ymsp participant classical prayer exercise	1
+symbol	ym	1
+protocol	ymodem-g batch	1
+protocol	ymodem	1
+domain	ymail.com	1
+space	ymca	1
+prize	ymca membership	1
+local organization	ymca	19
+local organization	ymca summit	1
+local organization	ymca based program	1
+database	ymd	1
+charity	ymca	8
+web site	ymtoday.com's culture section	1
+community organization	ymca	32
+center	ymca	1
+city attraction	ymca snow mountain ranch crosscountry	1
+giant	ymir	1
+establishment	ymca	3
+participant	ymca	2
+community group	ymca	5
+community group	ymca group	1
+community group	ymca immigrant settlement services	1
+extracurricular activity	ymca odyssey program	1
+interest group	ymca toastmasters club	1
+board	ymca	3
+opponent	ymca of south hampton roads	1
+non-profit organization	ymca	12
+non-profit organization	ymca of greater boston	1
+local event	ymca stuff	1
+local group	ymca	2
+social activity	ymca immigration assistance program	1
+enemy	ymir	1
+large project	ymca addition	1
+large organization	ymca	3
+large organization	ymca of central ohio	1
+answer	yma sumac	1
+item	ym other item	1
+recreational facility	ymca	1
+training	ymca secretary's training	1
+training	ymca secretary's training course	1
+public service	ymca's afterschool program	1
+public service	ymca's after-school program	1
+community service	ymca	2
+nonprofit organization	ymca	5
+nonprofit organization	ymca of the palms	1
+charitable organization	ymca	7
+charitable organization	ymca campaign for kids	1
+charitable organization	ymca foundation	1
+public place	ymca cinema shows	1
+community resource	ymca	6
+student organization	ymca	1
+public facility	ymca	2
+scale	ymrs	1
+local agency	ymca	4
+government program	ymca childcare resource	1
+private organization	ymca	5
+trip	ymca	1
+local resource	ymca	2
+community partner	ymca	5
+community project	ymca	1
+public space	ymca	1
+curricular activity	ymca	1
+camp	ymca camp cullen	1
+nonprofit	ymca	6
+nonprofit	ymca of the triangle	1
+nonprofit	ymca of south hampton roads	1
+community leader	ymca	1
+recording artist	yma sumac	1
+community program	ymca	2
+great amenity	ymca membership	2
+community facility	ymca	2
+community facility	ymca facility	1
+service organization	ymca	3
+religious group	ymca	3
+local institution	ymca	1
+non-profits	ymca	2
+local charity	ymca	4
+high profile client	ymca of philadelphia & vicinity	1
+local venue	ymca	1
+voluntary organization	ymca	1
+community agency	ymca	4
+community agency	ymca program	1
+community agency	ymca youth services bureau	1
+outreach program	ymca	1
+social institution	ymca	1
+national group	ymca	1
+national publication	ym	3
+external agency	ymca	1
+leisure facility	ymca	1
+civic organization	ymca	1
+key partner	ymca	1
+acronym	ymca into y	1
+non-profit group	ymca	1
+established company	ymca	1
+outside organization	ymca	2
+stakeholder group	ymca	1
+religious organization	ymca	1
+social organization	ymca	2
+social organization	yma	1
+school program	ymca	1
+volunteer organization	ymca	1
+not-for-profit organization	ymca of the desert	1
+not-for-profit organization	ymca	1
+local partner	ymca	1
+address	ymail	1
+youth program	ymca	5
+community-based organization	ymca	4
+local club	ymca	1
+local facility	ymca	1
+national institution	ymca	1
+civic group	ymca	1
+civic group	ymca program	1
+summer program	ymca of greater indianapolis	1
+summer program	ymca after-school and summer program	1
+popular magazine	ym	1
+local community group	ymca	2
+local landmark	ymca may building on  ten th ave. 	1
+nonprofit group	ymca	2
+youth organization	ymca	6
+youth organization	ymca's earth service corps	1
+local program	ymca	1
+collaborator	ymca of parkersburg	1
+youth group	ymca	1
+service	ymca's activities for school-age child	2
+successful project	ymca	1
+organized group	ymca	1
+outside group	ymca	1
+evening activity	ymca	1
+athletic event	ymca pee-wee basketball championships	1
+hall	ymca of the rockies	1
+popular song	ymca	2
+pool	ymca pool in the bronx	1
+local community organization	ymca	1
+crowd favorite	ymca	1
+charity organization	ymca	1
+christian organization	ymca	3
+membership organization	ymca	1
+social service agency	ymca	3
+community service organization	ymca of rock river valley	1
+local site	ymca	1
+beneficiary	ymca	1
+investment company	ymi	1
+service	ymca pool hour	1
+research group	ymca	1
+after-school program	ymca	1
+commercial program	ymca	1
+positive event	ymca's peace fest	1
+area organization	ymca	3
+diva	yma sumac	1
+sport organization	ymca of the usa	1
+private club	ymca	1
+service firm	ymca	1
+national and international organization	ymca	1
+private facility	ymca	1
+community site	ymca	1
+health facility	ymca	1
+big club	ymca	1
+city agency	ymca	1
+social club	ymca	1
+victory	ymca integrating	1
+relief agency	ymca	1
+community board	ymca	3
+community setting	ymca	1
+social service organization	ymca	1
+large operation	ymca	1
+nonprofit agency	ymca	1
+mag	ym & self	1
+club team	ymca	1
+classic brand	ymc	1
+excellent company	ymca	1
+extracurriculars	ymca youth & gov.	3
+hostel	ymca salisbury hotel	1
+activity center	ymca s	1
+recreation program	ymca	1
+community center	ymca	5
+social enterprise	ymca	1
+tall building	ymca	1
+charitable group	ymca	2
+civic activity	ymca	1
+local non-profit organization	ymca	1
+art school	ymca	2
+great label	ymc	1
+email account	ymail	1
+athletic program	ymca	2
+social service program	ymca black achievers program	1
+third-party provider	ymca	1
+women's magazine	ym	1
+social medium application	ym	1
+local civic organization	ymca	1
+commercial job	ymca	1
+local centre	ymca	18
+referral agency	ymca	1
+company	ymt vacations	1
+american organization	ymca	1
+nationalist group	ymca	1
+non-profit entity	ymca of america	1
+community venue	ymca facility	1
+area group	ymca of greater dayton	1
+glossy magazine	ym	1
+ribbon	ymck	1
+computer class	ymca job searching class	1
+company	ymca & good will industries	1
+public interest organization	ymca	1
+third sector organization	ymca	1
+leadership activity	ymca girl force	1
+jewish institution	ymha	1
+private resource	ymca	1
+welfare organization	ymca of saratoga	1
+athletic club	ymca	1
+community affair	ymca	1
+health club	ymca	2
+fitness center	ymca	4
+activity	ymca	6
+fitness facility	ymca	3
+institutional project	ymca	1
+local nonprofit organization	ymca	1
+community development program	ymca	1
+community location	ymca	1
+local service club	ymca	1
+subtitle	ymca in camp name	1
+party favorite	ymca	1
+activity	ymca sport	1
+activity	ymca volleyball	1
+activity	ymca group	1
+activity	ymca swimming	1
+recreation center	ymca	1
+worthwhile cause	ymca	1
+community support	ymca	1
+nonprofit board	ymca	1
+established club	ymca	1
+large movement	ymca	1
+teen magazine	ym	3
+landmark attraction	ymca	1
+para-church organization	ymca	1
+training centre	ymca training in durham	1
+color information	ymck information	1
+child care center	ymca	1
+development effort	ymca financial development effort	1
+activity	ymca indian princesses	1
+file transfer protocol	ymodem	1
+area program	ymca	1
+non-traditional option	ymca	1
+teen program	ymca teen program	1
+human service organization	ymca	1
+recording studio	ymr in oakland	1
+established leader	ymca	1
+national and local organization	ymca	1
+poisoning	ymptomsofcarbon monoxide poisoning	1
+institutional program	ymca	1
+local community center	ymca	1
+recreational organization	ymca	1
+selected group	ymca	1
+civic board	ymca	1
+community based organization	ymca	1
+day camp	ymca	1
+local gym	ymca	4
+information	ymca activity	1
+historical organization	ymca	1
+payment program	ymca	1
+well-established institution	ymca	2
+color component	ymck	1
+large, complex project	ymp	1
+local public entity	ymca pool program	1
+microbiological test	ymc	2
+sporting club	ymca	1
+community opportunity	ymca	1
+flagship institution	ymca	1
+generic resource	ymca	1
+local youth organization	ymca	1
+national service organization	ymca	1
+dance song	ymca	1
+Maui non-profits	ymca	1
+neighborhood center	ymca	1
+nonprofit community organization	ymca	1
+event	ymca night	1
+scale building	ymca building	1
+state-of-the-art algorithm	ymf	2
+children's cause	ymca youth program	1
+Christian NGOs	ymca	1
+synth act	ymo	2
+event	ymca health fair	1
+program	ymca	6
+exercise facility	ymca	1
+local development project	ymca building	1
+party classic	ymca	1
+chain school	ymca	1
+cost-cutting option	ymca lodging	1
+countless organization	ymca	1
+ecumenical organization	ymca	1
+floor filler	ymca	1
+program	ymca's summer work student exchange program	1
+party song	ymca	1
+standard song	ymca	2
+trusted organization	ymca	1
+Ys	ymca of martha's vineyard	2
+charitable and business-related group	ymca	2
+fitness chain	ymca	1
+international scuba diving training agency	ymca	1
+non-profit facility	ymca	1
+program	ymca after-school and summer program	1
+program	ymca teen program	1
+program	ymcaand the lynn boys	1
+positive context	ymca class	1
+sectarian organization	ymca	1
+semi-public use	ymca	1
+well-known national organization	ymca	1
+501C3 board	ymca first coast	1
+advisory member	ymlaen ceredigion	1
+benevolent association	ymca	1
+civic and charitable organization	ymca of elkhart county	1
+code provision organization	ymca	1
+dance craze favorite	ymca	1
+date format	ymd	1
+high level competition	ymca nationals	1
+program	ym	1
+program	ymca community assistance youth program scheme targeted young african refugees living in the carlton district	1
+program	ymca healthy family home	1
+novelty dance	ymca	1
+participation dance	ymca	1
+venerable organization	ymca	1
+community youth organization	ymca	1
+community-based support group	ymca's diabetes prevention program	1
+dade partner	ymca	1
+educational and art organization	ymca	1
+feeder program	ymca	1
+generous partner	ymca	1
+local health-care organization	ymca	1
+mid-level and high-level area	ymir's pass	1
+modern youth group	ymca indian guides	2
+non-profit and service organization	ymca	1
+respected national organization	ymca	1
+organization	ymca	174
+organization	ymca of the usa	3
+organization	ymha	2
+unlicensed facility	ymca day camp	1
+youth service agency	ymca	3
+area fitness center	ymca	2
+century organization	ymca	1
+christian aid partner	ymca	1
+civic cause	ymca	2
+daily and special activity	ymca get fit program	1
+dancefloor filler	ymca	1
+organization	ymca's project safe place	1
+organization	ymca camp	1
+financially organization	ymca of the triangle	1
+f-school program	ymca	1
+fun learning dance	ymca	1
+great gym	ymca	1
+high profile national charity	ymca	1
+nonprofit social service organization	ymca	1
+overnight camp	ymca	1
+party dance	ymca	1
+organization	ymwcas	1
+organization	ymca's y-cap program	1
+organization	ymca-ywca group	1
+organization	ymca indian guides	1
+provincial and national YMCAinitiatives	ymcayouth gambling program	1
+provincial and national YMCAinitiatives	ymcayouth exchanges canada	1
+quasi-public organization	ymca	1
+random song	ymca	1
+school favorite	ymca	1
+stalwart organization	ymca	1
+structured dance	ymca	1
+supportive homeland group	ymca	1
+U.S. partner	ymca	1
+well-known association	ymca	1
+yahoo account	ymail.com	1
+youth activity group	ymca	1
+anglo organization	ymca	2
+blackbird favorite	ymc	1
+blanket topic	ymca indian princesses	1
+chitin binding protein	ym one  protein 	1
+common and powerful national organization	ymca	1
+community support provider	ymca	1
+culturally diverse environment	ymca	2
+decade project	ymca centre for life	1
+fairly nice facility	ymca	1
+good solid organization	ymca	1
+great kirby creature	ymir	1
+great non-profits	ymca	1
+high volume institutional program	ymca program	1
+highland's project	ymca	1
+historical campus landmark	ymca building	2
+interactive public use	ymca	1
+jackson area business	ymca	1
+lifeguard-training agency	ymca of the usa	1
+local community service board	ymca	1
+local health club	ymca	5
+long standing family service organization	ymca	1
+meaningful project	ymca-nus business school volunteer service management programme	1
+multiferroic material	ymno  three 	1
+NG Os	ymca	1
+nonprofit health organization	ymca	2
+application	ym	2
+office's community service activity	ymca health fair	1
+out-of-school program	ymca	1
+PC communication protocol	ymodem	1
+pop video classic	ymca	1
+popular free, web-based email provider	ymail	1
+popular teen magazine	ym	1
+private and nonprofit group	ymca	1
+private and semi-private recreation facility	ymca	1
+public and private non-profit organization	ymca	1
+quasi-public group	ymca	1
+regular distribution organization	ymca motion picture bureau	1
+rich, undefined medium	ym agar	2
+scp extension	ymmv	1
+self-led group	ymca	1
+side performance	ymca dance	1
+social and community organization	ymca	1
+student movement	ymca	2
+washington D.C. metropolitan company	ymca	1
+well-recognized cultural institution	ymca	1
+youth program provider	ymca	1
+youth-focused organization	ymca s	1
+affordable camp	ymca camp	1
+affordable gym	ymca	1
+american youth group	ymca	1
+basic water safety training	ymca aquatic safety assistant course	1
+cheesy gimmick	ymca village people costume	2
+community program school-to-work organization	ymca	1
+community recreation center	ymca	1
+community sector organization	ymca	1
+cubic or color-component color space	ymck color space	1
+cubic or color-component color space	ymc color space	1
+daycare chain	ymca	1
+Evetns	ymca's annual holiday home tour	1
+expensive organization	ymca	2
+full-service club	ymca	1
+fund local nonprofit	ymca	1
+great depression organization	ymca	1
+inner-city youth organization	ymca	1
+insocial organization	yma	1
+key after-school provider	ymca	1
+legendary enemy	ymir	1
+name	ymca corner	1
+local running organization	ymca	1
+local youth center	ymca	1
+loosely affiliated organization	ymca	1
+manganites	ymno  three 	1
+missoula group	ymca	1
+multiservice organization	ymca	1
+national youth agency	ymca	1
+non-mandated entity	ymca	1
+non-profit and family organization	ymca	1
+nonprofit and service organization	ymca	1
+non-profit recreation-based agency	ymca	2
+non-school team	ymca	1
+note provider	ymail	1
+off-campus non-profit organization	ymca	1
+old-established NGOs	ymca	1
+once-booming for-profit organization	ymca	1
+parent-child program	ymca adventure guides	1
+private or professional organization	ymca	1
+private park facility	ymca	1
+private recreation center	ymca	1
+protestant institution	ymca	2
+rater-administered efficacy scale	ymrs	1
+real identification	ymca card	2
+senior friendly facility	ymca	1
+social work agency	ymca	1
+option	ymca	2
+U.S. community organization	ymca	1
+WBCSD resource	ymt	1
+yahoo client program	ymlite	1
+affordable gym membership	ymca available	1
+all-american magazine	ym	1
+option	ymtiny	1
+campus position	ymca child care center	1
+case study site	ymca	1
+child-care provider	ymca	1
+city swimming pool	ymca	1
+community gym	ymca	1
+community-based exercise organization	ymca	5
+community-based intervention community-based organization	ymca	1
+Community-based-organizations	ymca	1
+community-owned space	ymca	1
+convenient acronym	ymmv	1
+crazy-looking deck	ymg's reanimator	1
+cross-country center	ymca of the rockies snow mountain ranch	1
+dormitory provider	ymca	1
+E13 provider	ymca	1
+option	ymgarl elite	1
+group	ymca	46
+family wellness center	ymca	1
+fitness partner	ymca	1
+fitness-oriented organization	ymca	1
+heart-rate recovery test	ymca  three -minute step test 	1
+hexagonal manganites	ymno  three 	1
+homeopathic remedie	ymb	1
+group	ymo	1
+inner-city group	ymca	1
+japanese social and religious group	ymca	1
+kid friendly organization	ymca www.ymca.org.nz	1
+kid-focused organization	ymca	1
+lifestyle organization	ymca	1
+local camping program	ymca	1
+local charlotte service organization	ymca	2
+local community resource center	ymca for program detail	1
+local fitness option	ymca	1
+low cost equipment place	ymca	1
+middle-of-the-road gym	ymca	1
+national YMCA initiative	ymca teen action agenda	1
+non-profi t operation	ymca	1
+nonprofit and civic related use	ymca an civic	1
+nonprofit and organizations camp	ymca camp	2
+non-profit fitness provider	ymca	1
+ORBX package	ymml	1
+out-of-school provider	ymca	1
+popular recreational agency	ymca	1
+potent and selective CCKBR antagonist	ym twenty-two   one hundred and seventeen 	1
+private community center	ymca	1
+private community group	ymca	1
+recreation-oriented group	ymca	1
+religion many charitable organization	ymca	1
+reputable health club	ymca	1
+resource available, organization	ymca	1
+sarasota gym	ymca	1
+school age program	ymca's kids quest	1
+school care program	ymca on langley ave	1
+second, nonprofit volunteer organization	ymca	1
+second, nonprojt volunteer organization	ymca	1
+standard disclaimer	ymmv	1
+tecvana client	ymca	1
+traditional recreational centre	ymca	1
+unconnected limit inport	ymin in the following model	1
+visible nonprofit organization	ymca	1
+wellness partner	ymca	1
+year-round facility	ymca	1
+project	ymca	3
+project	ymp	1
+project	ymca alley way initiative	1
+place	ymca	18
+place	ymca offer swimming exercise class	1
+place	ymi cultural center	1
+term	ymmv	1
+term	ymodem	1
+brand	ymc	1

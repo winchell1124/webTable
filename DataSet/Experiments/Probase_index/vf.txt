@@ -1,0 +1,363 @@
+accessory	vfg	1
+facility	vf light	1
+property	vfa	1
+product	vfd parking sensor related product	1
+model	vft	2
+institution	vfw	1
+client	vf outlets	1
+product	vf drive	1
+product	vff	1
+person	vfs	1
+location	vfw hall	1
+location	vfd	1
+part	vfx	2
+part	vfs name cache	1
+school	vfs	3
+title	vfr london	1
+title	vf two 	1
+operation	vfr with advisory	1
+operation	vfr only helicopter operation	1
+operation	vfr without advisory	1
+feature	vfx news	1
+firm	vf corp.	2
+industry	vfp	1
+test	vf	1
+instrument	vf- fourteen 	1
+feature	vflash tv	1
+feature	vft technology	1
+feature	vfx gallery	1
+feature	vfr	1
+feature	vfo operation	1
+class	vfinx's admiral	1
+study	vfm audit	1
+position	vfx producer	1
+position	vfx supervisor	1
+entity	vfw	1
+concern	vfm	1
+partner	vf outlet	1
+club	vfw	6
+club	vfl bochum	1
+feature	vfd display	1
+feature	vfo mode operation	1
+feature	vfx forum	1
+feature	vf loss	1
+scheme	vf scheme	1
+module	vfx	1
+color	vfr chart	1
+protein	vf fourteen - three - three  protein 	1
+barrier	vfc participation	1
+corporation	vf corporation	1
+medicine	vfend	1
+issue	vfr route	1
+symbol	vf alsosupports operator symbol	1
+provision	vfr traffic in between the control zone	1
+restriction	vfr weather	1
+competition	vfl	1
+local organization	vfw	6
+signal	vfo	1
+charity	vfw voice of democracy scholarship program	1
+rival	vf corp.	1
+web site	vfaq	1
+industry leader	vf corporation	6
+community organization	vfw	2
+electronic device	vfd	1
+issue	vfp report designer's data environment	1
+establishment	vfp	1
+community group	vfw	1
+interest group	vfw	1
+national organization	vfw	1
+non-profit organization	vfw	2
+local group	vfw	1
+optional feature	vfd package	1
+system component	vfds	1
+popular item	vfr photographic scenery	1
+electronic component	vfd	1
+studio	vfc	1
+industry giant	vf corp.	1
+item	vfd's	1
+local band	vfb	1
+federal program	vfc	1
+performance parameter	vfa	1
+nonprofit	vfw	1
+commitment	vfa audit	1
+outside agency	vfw	1
+service organization	vfw	6
+service organization	vfw auxiliary	1
+connector	vf- fourty-five  from  three m corporation 	1
+national brand	vf corp. s	1
+bike	vfr eight hundred  honda 	1
+bike	vfr's super hawks	1
+local charity	vfw	1
+control system	vfd	1
+metabolite	vfa	1
+training course	vff-sponsored front-end loader program	1
+panel	vfm group	1
+display device	vfd device	1
+civic organization	vfw	3
+non-government organization	vfw	1
+acronym	vfm	1
+outside organization	vfw	1
+stakeholder group	vfc member	1
+social organization	vfw	1
+famous company	vf international	1
+volunteer organization	vfw	1
+machinery	vffs machinery	1
+tube	vfds	1
+membrane	vf one 	1
+membrane	vf two 	1
+local club	vfw	2
+letter	vfn after the variety of the tomato seed	1
+letter	vfn	1
+civic group	vfw	1
+civic group	vfw center	1
+policy document	vfm methodology	1
+global giant	vf corporation	1
+opposition party	vf plus	1
+service	vfr traffic call	1
+hall	vfw	1
+community service organization	vfw	3
+local place	vfw	1
+clothing store	vf corp	1
+lobby group	vfw	1
+service	vflyer	1
+community function	vfw fundraisers	1
+private club	vfw	6
+non profit organization	vfw	1
+service club	vfw	1
+third-party software	vfoglight from vizioncore inc.	1
+fraternal organization	vfw	2
+leading retailer	vf corporation	1
+small difference	vfr ott	1
+great team	vfl bochum	1
+member organization	vfw	1
+consumer good company	vf	1
+control panel	vfd control panel	1
+community building	vfw hall	1
+energy saving device	vfd	1
+flat panel display device	vfd	1
+carnivorous plant	vft	2
+non-linear load	vfd drive	1
+company	vf corp.	7
+company	vf corporation	3
+company	vf engineering	3
+solid state device	vfets	1
+fraternity	vfw	1
+local civic organization	vfw	2
+sweeper	vfo	2
+apparel company	vf corp	3
+company	vf	1
+company	vfb holidays	1
+company	vforge in the usa	1
+local service organization	vfw	2
+military organization	vfw	2
+nongovernment organization	vfw	1
+high power device	vfds in the same area of a washdown type environment	1
+veteran organization	vfw	17
+thrift store	vfw store	1
+filesystems	vfat	1
+commercial partner	vfs	1
+veteran group	vfw	5
+football match	vfb stuttgart	1
+soccer team	vfl bochum	1
+strategic buyer	vf corp.	1
+domestic institution	vfm	1
+soluble component	vfa	1
+veteran service organization	vfw	6
+patriotic organization	vfw	1
+squadron	vfa- thirty-four 	2
+squadron	vf- one hundred and one 	2
+veterans organization	vfw	11
+information	vfr minimum	3
+christian institution	vfcc	1
+minor league	vfl	1
+ventricular arrhythmia	vf	1
+top-of-the-line feature	vfd screen	1
+information	vf risk group	1
+local haunt	vfw slough	1
+military group	vfw post	1
+military group	vfw	1
+navigation technique	vfr	1
+veterans group	vfw	1
+informational message	vf data rate	2
+veteran's organization	vfw	6
+community non-profit organization	vfw	1
+cloud-based tool	vfanalyst from vector fabrics	1
+government money	vfc	1
+maintenance application	vfm by loy&hutz	1
+volumetric property	vfa	1
+bundesliga club	vfl bochum	1
+bundesliga club	vfl wolfsburg	1
+dielectric characteristic	vfb	1
+german club	vfb leipzig	1
+niche technology	vfd's for dairy pump	2
+program	vfc	1
+program	vfo	1
+aircraft supply	vfr chart	1
+fraternal club	vfw	2
+local fraternal organization	vfw	1
+local fraternity	vfw	1
+local veteran organization	vfw post	1
+local veteran organization	vfw	1
+top brand outlet	vf outlets	1
+trivial operation	vfp-to-vfp register move	1
+versatile peripheral option	vfd	2
+veteran's group	vfw	1
+aeronautical company	vfw-fokker	1
+azole antifungals	vfend	1
+organization	vfw	40
+traditional fraternal and social organization	vfw	1
+vaccine program	vfc	1
+variable flow device	vfd	1
+veteran association	vfw	1
+apparel giant	vf corp	1
+area veteran group	vfw post commander gary reason	1
+comprehensive technique	vfm	1
+electrical butterfly valve	vfh butterfly valve	1
+electrical butterfly valve	vf butterfly valve	1
+organization	vff	1
+local veterans organization	vfw	1
+military support agency	vfw	1
+nonprofit club	vfw	1
+nonprofit club	vfw branch	1
+participating industry	vfl	3
+private and social club	vfw	1
+private club engagement	vfw clubs	1
+private, member only group	vfw	1
+real charity	vfw	1
+service club facility	vfw	1
+state's largest manufacturer	vf corporation with vanity fair mills	1
+traditional service organization	vfw	1
+variable speed pump	vfd	1
+volumetrics	vfa	1
+adversary squadron	vf- one hundred and twenty-six  at nas miramar 	2
+adversary squadron	vf- fourty-five  at nas key west 	2
+adversary squadron	vf- fourty-three  at nas oceana 	2
+adversary sqwadrons	vf- fourty-three  at nas oceana 	1
+adversary sqwadrons	vf- fourty-five  at nas key west 	1
+adversary sqwadrons	vf- one hundred and twenty-six  at nas miramar 	1
+area veteran's organization	vfw	1
+technique	vfx for  three dmovies 	1
+big US apparel manufacturer	vf corporation	1
+clothes maker	vf corp	1
+dedicated page	vfo	1
+established public service organization	vfw	1
+hometown organization	vfw	1
+latex quality parameter	vfa	1
+local veteran service organization	vfw	2
+military related organization	vfw	1
+nationalistic organization	vfw	1
+application	vfd converter	1
+application	vfd	1
+application	vffs packaging machine	1
+application	vfd application	1
+north center organization	vfw	1
+northeast ohio veteran organization	vfw	1
+outsource company	vfi	1
+seminar series	vfh radio	1
+speciation datum	vfas	1
+superpave volumetric parameter	vfa	1
+veteran's club	vfw	2
+VFR product	vfr navigation charts	2
+VFR product	vfr terminal area chart	1
+volumetric criterion	vfa	1
+VSO	vfw	2
+VSOs	vfw	1
+abstract driver	vfh	1
+area club house	vfw hall	1
+basic apparel maker	vf corp.	1
+big AAA game	vf two 	1
+centrifugal fan model	vf one 	1
+dangerous rhythm	vf	1
+division tour leg	vfr	1
+Fluoro-monomers	vf two 	1
+large photografic add-ons	vfr germany	1
+large veteran service organization	vfw	1
+licensed fraternal organization	vfw club	1
+local philantrophic organization	vfw see video for windows	1
+local private club	vfw	1
+local social hall	vfw	1
+on-state current test	vf	1
+ophthalmologic instrument	vf- fourteen 	1
+peak rural group	vff	1
+recycled mix property	vfa	1
+treatable arrhythmia	vf	1
+uncontrolled airport datum	vfr traffic pattern entry procedure	1
+uniform setting	vf insert	1
+veteran's service group	vfw	1
+visual function survey	vf- fourteen 	1
+visual function survey	vf- twenty-five 	1
+ancillary file system	vfat	1
+option	vfd	1
+option	vfl	1
+ball-and-spring model	vff	1
+barefoot shoes	vff	1
+beloved cause	vfw auxiliary	1
+callaway golf core technology	vft	5
+callaway golf's core technology	vft	2
+callaway's advanced technology	vft	2
+callaway's core technology	vft	1
+central meeting spot	vfw post	1
+chaotic heart rhythm	vf	1
+complex drive solution	vfd for an overland conveyor system	1
+condition assessment software vendor	vfa	1
+conventional software module	vfs	3
+crane stock type	vfc	1
+decent gun	vfc	1
+group	vfw	8
+energy reduction initiative	vfd fan control	1
+geographically accurate base scenery	vfr terrain	1
+group	vff	1
+group	vfw warriors motorcycle organization	1
+instrument display illumination source	vf tube	1
+large apparel maker	vf corp.	1
+large nonlinear load	vfd s	1
+licensed producer	vf canada lp	1
+local goalselection purely reactive approach	vfh	1
+local veteran's organization	vfw	1
+military orgs	vfw	1
+modulating output signal	vfd speed	1
+multiconductor application	vfd cable	1
+non-ntfs partition type	vfat	1
+non-performance meeting space	vfw hall	1
+group	vfa	1
+method	vfrg web site	1
+otherpotentialavailable grant	vfhs	1
+others great lender	vfc	1
+phase motor system	vfd	1
+policy-related alternative	vfe standard	1
+popular religious user	vfx	1
+Private coll eges	vfs	1
+private non profit club	vfw	1
+purely reactive method	vfh	1
+service org	vfw	1
+spatially two-dimensional algorithm	vfs	1
+state farming organization president	vff's andrew broad	1
+state's military organization	vfw	1
+supercharger system	vf engineering kit	1
+surprisingly growth-oriented company	vf	2
+traditional veteran group	vfw	1
+Trinkets	vfg	1
+VEGF isoforms	vfgf  one hundred and twenty-one 	1
+veteran hall	vfw	1
+vfabric component	vfabric tc server	1
+visual function score	vf- fourteen 	1
+volatile fatty acid low-molecular-weight compound	vfa	1
+tool	vfpx code analyst	1
+product	vfd customer display	4
+place	vfw	2
+term	vfr corridor	3
+term	vfr flyway	3
+term	vfr transition route	2
+term	vfi	1
+parameter	vfa	2
+parameter	vfa level	1
+variable	vf	1
+variable	vfds	1
+function	vfo	3
+function	vfprintf	1
+device	vfd	1
+brand	vf	1
+component	vfd	1
+aspect	vfm	1
+site	vflyer	2
+related product	vfd parking sensor related product	1

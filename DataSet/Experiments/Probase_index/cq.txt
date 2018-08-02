@@ -1,0 +1,90 @@
+resource	cq researcher	2
+source	cq	2
+model	cqb	1
+client	cql	1
+person	cqb trained person	1
+idea	cqb	1
+field	cqb city	1
+drug	cq	2
+publication	cq weekly	1
+publication	cq federal regulator directory	1
+study	cqi on the area of surgery	1
+standard	cql	1
+vendor	cqg	1
+university	cqu	1
+platform	cqg	1
+restriction	cqc only	1
+committee	cqi	1
+database	cq researcher	4
+database	cq reasearcher	1
+phrase	cq call	1
+outlet	cq	1
+level	cqb training	1
+meeting	cqi	1
+certification	cqc	1
+antioxidant	cq- ten 	1
+contest	cq worldwide	2
+contest	cq wpx	1
+secondary source	cq	1
+regulator	cqc	1
+external agency	cqc	2
+key partner	cqc	1
+software vendor	cqg	1
+match	cqb	1
+electronic resource	cq electronic library	1
+topic	cqi process	1
+query language	cql	1
+software platform	cqg	1
+online auction site	cqout auction	1
+online auction site	cqout	1
+international certificate	cqc in china	1
+reference resource	cq researcher	1
+Key personnel	cqms	1
+activity	cq circle	1
+external professional	cqc inspector	1
+authentication	cqc	1
+reference database	cq researcher	1
+internet auction site	cqout	1
+quality mark	cqs	1
+cheap drug	cq	1
+distance learning course	cqi diploma	1
+distance learning course	cqi certificate	1
+stream system	cql	1
+trained person	cqb trained person	1
+program	cqs	1
+program	cqb	1
+public class	cqi review	1
+global certification	cqc	5
+DX contest	cqww cw	2
+DX contest	cqww phone	2
+small anchor	cqr	1
+advanced time-between-events control chart	cqc-r chart	2
+technique	cqb	2
+technique	cq rate control	1
+professional society certification	cqa	1
+professional society certification	cqe	1
+ASQ certification	cqm	1
+ASQ certification	cqe	1
+explain database	cq researcher	1
+good reference text book	cqe handbook	1
+high-end .45's	cqb	1
+international authentication	cqc	1
+news summary	cq researcher	1
+post-1987 university	cqu	1
+required contractor's plan	cqc plan	1
+system regulator	cqc	1
+tiberius paintball gun	cqb	2
+tube era magazine	cq	1
+well-known interface	cql	1
+amateur radio magazine	cq	1
+big international contest	cq world-wide	1
+close quarter environment	cqb city	1
+CQ contest	cq ww	1
+CQ electronic resource	cq supreme court collection	1
+precaution capacitor	cq three 	1
+private military organization	cqb group	1
+short CQ	cq	1
+standard CT drill	cqb	1
+web site statistic tool	cq counter	1
+project	cq project at ogi	1
+parameter	cqcr telecommunication	1

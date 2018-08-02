@@ -1,0 +1,1517 @@
+product	ntop	1
+product	ntc thermistor related product	1
+initiative	nt geological survey	1
+initiative	nt department of justice's elders visiting program	1
+initiative	nt government's alice springs transformation plan	1
+resource	nta online	1
+facility	ntt	2
+process	ntvdm	2
+process	ntpd	1
+process	nt backup	1
+source	nt evaluation	1
+source	ntfs	1
+source	ntsika enterprise promotion agency	1
+property	ntu	1
+property	ntra	1
+benefit	ntuc fairprice cash rebate	1
+game	ntroduction massively multiplayer online game	1
+game	ntw	1
+subject	ntsc	1
+exception	nt	2
+product	nt labs medikoi silkworm pupae	1
+characteristic	nt church s worship service beginning place	1
+category	nt one 	1
+institution	ntu medical school	1
+institution	ntid	1
+institution	ntu	1
+institution	ntid for allowing an eclectic communication philosophy	1
+institution	ntnc	1
+change	nt changepassword api function	1
+client	ntt	3
+client	nti	1
+client	ntpc	1
+document	ntroduction medical document	1
+author	ntozake shange	2
+product	ntp software qfs	1
+product	ntfs- three g driver 	1
+product	ntsc pal v related product	1
+product	ntc sip serial product	1
+strategy	nternative communitv homeownership strategy	1
+form	ntt phone card	1
+agency	ntsb	5
+agency	ntia	2
+agency	nt police	2
+symptom	nthepresenceofca ta tonic symptom	1
+location	nt	1
+location	ntl winnersh	1
+writer	ntozake shange	2
+solution	ntfs	1
+solution	ntop	1
+feature	ntp support	2
+star	ntr	2
+star	ntares	1
+structure	ntroduction p eriodic structure	1
+business	ntuc fair price cooperative	1
+procedure	ntroduction medical procedure	1
+school	ntinda view college	1
+amenity	ntuc supermarket	3
+ingredient	nta	1
+agent	nta	11
+scholar	nt wright	2
+type	nt security descriptor	1
+type	ntfs format	1
+disease	ntroduction chronic inflammatory disease	1
+town	ntungamo	1
+firm	ntpc	4
+firm	ntl	1
+firm	ntpc ltd	1
+firm	ntt	1
+firm	ntuc income	1
+industry	ntpc	1
+drug	ntg	1
+test	nt testing	1
+test	ntet test	1
+indicator	ntm frequency	1
+treatment	nt feeding	1
+manufacturer	ntt docomo	1
+manufacturer	nt window	1
+manufacturer	nti	1
+instrument	nternational human right instrument	1
+instrument	ntb	1
+instrument	ntroduction discrete bench-top instrument	1
+feature	ntfs filesystem	1
+feature	ntp time synching	1
+complication	ntroduction severe complication	1
+attribute	ntroduction food quality attribute	1
+setting	ntsc	2
+setting	nt group	1
+compound	nta	2
+study	ntia	1
+figure	ntaganda bernard	1
+figure	ntakirutinka charles	1
+equipment	ntsc vhs player	3
+equipment	ntu	1
+cause	ntruient deficient diet	1
+substance	nta	4
+entity	ntilde	1
+entity	ntpc	1
+country	nth korea	1
+phenomenon	ntroduction g aseous phenomenon	1
+phenomenon	ntr	1
+concern	nto validity	1
+format	ntsc	4
+format	ntsc video	2
+format	ntfs	2
+format	ntroduction many multimediametadata format	1
+Organisations	nt treasury	1
+Organisations	ntsika enterprise	1
+Organisations	nt live	1
+partner	ntuc healthcare	1
+partner	ntuc foodfare	1
+partner	ntt docomo	1
+big name	ntt	2
+big name	ntt communications	1
+big name	ntini	1
+big name	ntr	1
+standard	ntsc	5
+standard	ntsc system	2
+standard	ntsc standard used in conventional vcrs	1
+standard	ntl	1
+standard	ntt standard for communication within japan	1
+standard	ntroduction v ideo compression standard	1
+standard	ntsc standard used in the usa	1
+standard	ntsc video	1
+standard	ntroduction t raditional video standard	1
+piece	nto's prior piece	1
+show	nthis mean classic show	1
+vendor	ntroduction major system vendor	1
+vendor	ntp software	1
+vendor	ntt communications	1
+vendor	nt cluster vendor	1
+store	ntuc	1
+customer	ntuc	1
+customer	ntt	1
+customer	ntrsupport business customer	1
+customer	ntl	1
+effort	ntar project	1
+feature	ntp	1
+feature	ntsc video-playback	1
+feature	ntsc	1
+value	ntfs	1
+value	ntfs signature	1
+award	ntuc commendation	1
+article	ntugi school solar setup	1
+software	nti cd maker	2
+software	nti's shadow	2
+software	nti cd-maker	1
+software	ntune	1
+software	nti shadow	1
+software	ntfs- three g 	1
+software	ntfs- three g driver 	1
+disorder	ntroduction movement disorder	1
+magazine	ntv tarih	3
+provider	ntc hosting	3
+provider	ntl	2
+provider	ntt docomo in japan	1
+provider	ntlm	1
+retailer	ntuc	1
+retailer	ntuc fairprice	1
+party	ntu	1
+competitor	ntt docomo	2
+competitor	ntt	1
+competitor	ntpc	1
+district	ntchisi	2
+district	ntungamo	1
+gift	ntuc voucher	1
+performer	ntembeni boys	1
+performer	ntm	1
+stakeholder	ntr memorial trust	1
+stakeholder	ntfp collector	1
+legend	nt rama rao	1
+corporation	ntt group	1
+journal	ntu studies in language	1
+difference	nt domain password encryption	1
+control	nth select	1
+image	ntroduction medical volume image	1
+channel	ntgeo hd	1
+algorithm	ntp	3
+rule	ntia manual	1
+utility	ntfs for mac	1
+utility	ntfs- three g 	1
+utility	ntfsdos	1
+utility	ntune	1
+driver	nt  three . fifty-one  scsi driver 	1
+university	ntu	1
+university	nthu	1
+file	nt boot file	1
+file	ntldr	1
+file	ntfs directory	1
+tourist attraction	ntr gardens	2
+platform	nt	9
+service provider	ntt	3
+service provider	ntt communications corp.	1
+service provider	ntt america	1
+service provider	ntl	1
+supplier	ntuc fairprice	1
+protocol	ntp	13
+protocol	ntlm	1
+protocol	ntroduction xisting network transport protocol	1
+protocol	ntlmv two 	1
+protocol	ntroduction network protocol	1
+protocol	nt h oc n et	1
+protocol	nt domain	1
+bank	nthe largest bank	1
+bank	ntb	1
+quality ringtones	ntelos ringback tones	1
+organism	ntm	1
+problem	ntroduction ower quality problem	1
+operator	ntt docomo	14
+operator	ntt	3
+operator	ntt docomo inc	2
+operator	ntl	2
+operator	nth air	1
+operator	ntt docomo in japan	1
+chain	ntb	1
+result	nt five 	1
+sensor	ntc thermistor	3
+station	ntv montena	1
+interest	ntt family firm	2
+medium	ntv	2
+medium	ntsc	1
+shop	ntb	1
+shop	ntuc fairprice	1
+personality	nthati moshesh	3
+authority	nt government health inspector	1
+stock	ntpc ltd	1
+stock	ntpc	1
+stock	ntb	1
+standard feature	ntsc	1
+basic information	nt diameter	1
+factor	nt- three 	2
+issue	nt text	1
+issue	nt intervention	1
+occupation	ntfp collection	1
+fact	ntimberof disability days caused by the condition	1
+fact	ntsc	1
+NGOs	ntnc	1
+database	ntis	1
+forum	ntfp collectors forum	1
+veteran	nt casey hampton	2
+signal	ntsc	5
+signal	ntroduction c ardiovascular pressure signal	1
+government agency	ntsb	1
+government agency	nt department of natural resources	1
+government agency	ntia	1
+gene	ntrk two 	3
+gene	ntrk one 	2
+carrier	ntt docomo	4
+carrier	ntt	2
+carrier	ntt docomo inc	1
+rival	ntl	1
+web site	ntroduction web site	1
+segment	nth degree	1
+segment	nte	1
+industry leader	ntpc	1
+industry leader	ntra	1
+cell	nt- two  cell 	2
+specification	ntcip	1
+attachment	ntr's grandson	1
+outlet	ntuc fairprice	1
+specialist	ntg	1
+river	ntem	1
+local business	ntelos	2
+specific	ntsc  four : three 	1
+aircraft	nt- thirty-three a variable stability aircraft 	1
+code	ntroduction sparse graph code	1
+code	ntroduction erasure code	1
+famous name	nt trading	1
+hospital	ntasi obi hospital	1
+liquid	nt max liquid septic super stock	1
+selection	ntse euronext	1
+key concept	nt-net method	1
+jurisdiction	nt	4
+virus	nt authority shutdown	1
+big company	ntt	1
+big company	ntpc	1
+local group	ntombo cultural troupe	1
+version	nti backup now	1
+disturbance	ntroduction ecological disturbance	1
+server	ntp server	1
+server	nt server	1
+server	nt web server	1
+server	nt based	1
+famous brand	ntn	5
+province	ntb	2
+donor	ntg	1
+heavyweight	ntpc	1
+major	ntpc	1
+diagnostic test	nt-probnp	2
+convention	ntcg in barbados	2
+key information	ntua resources used in completing the call	1
+video	ntsc	1
+item	ntarctic species	1
+item	ntfs metadata file	1
+preference	ntsc in the united states	1
+system component	nt registry	1
+institute	ntu	2
+high quality product	ntbk fifty aa with fast delivery time 	1
+high quality product	nt eight d fifty-two dd with fast delivery time 	1
+high quality product	ntbk fifty-one aa with fast delivery time 	1
+high quality product	ntak four bb with fast delivery time 	1
+local agency	ntta	1
+syndrome	ntroduction acute coronary syndrome	1
+journalist	ntv's staff feature journalist	1
+dignitary	ntgl chairman	1
+operating system	nt	10
+operating system	nt four 	3
+operating system	nt-based operating system	1
+operating system	nt handling larger load	1
+operating system	nt-type operating system	1
+operating system	nt windows nt	1
+large event	ntpp	1
+government program	ntia's technology opportunities program	1
+support group	nt	1
+peer	ntpc ltd	1
+mark	nternal punctuation mark	1
+venture	ntc communications	1
+buyer	ntuc fairprices	1
+union	nteu	2
+detector	ntroduction position sensitive radiation detector	1
+external source	ntoec	1
+item	ntra-segment revenue	1
+cancer	ntroduction gastric cancer	1
+growth factor	nt- three 	2
+growth factor	nt- four 	1
+standard item	ntds connector	1
+industry standard	nt	1
+computer	ntroduction tiny computer	1
+remote area	nt	1
+insurer	ntuc income	4
+statement	ntroduction financial statement	1
+architecture	ntroduction multiprocessor architecture	1
+formation	ntn region	1
+design issue	ntsc color standards for broadcast	2
+entrant	ntelos inc.	1
+entrant	ntpc	1
+entrant	ntpc ltd	1
+file format	ntfs	2
+school event	nternational potluck dinner	1
+voice	nt wright's	1
+voice	ntozake shange	1
+severe complication	ntroduction severe complication	1
+online game	ntroduction massively multiplayer online game	1
+prominent figure	ntsikana ka gaba	1
+medical procedure	ntroduction medical procedure	1
+folder	ntuninstallkb fourty-two thousand seven hundred and seventy-three  $ 	2
+folder	ntuninstallq three hundred and twenty-nine thousand and fourty-eight  $ 	1
+folder	ntuninstallkb eight hundred and seventy-three thousand three hundred and thirty-nine  $ 	1
+area	nt	2
+top company	ntpc	1
+network service	ntp	3
+examination	nt two  state exam 	1
+internet service	ntt docomo's i-mode service	1
+family member	ntrc one  from aquifex aeolicus 	2
+regulatory agency	ntsb	1
+regulatory agency	ntp	1
+objective measure	nth octave	1
+biomarkers	nt-pro bnp	1
+supermarket	ntuc fairprice	3
+supermarket	ntuc	1
+playwright	ntozake shange	1
+abbreviation	nth	1
+case study	ntp for rwss	1
+wireless device	ntroduction mobile wireless device	1
+retail outlet	ntuc fairprice	1
+world	ntroduction virtual world	1
+indian company	ntpc ltd	4
+peptides	nt	1
+prestigious award	ntr national award	1
+user group	ntfp collector	1
+reputable brand	ntn	1
+computer system	ntp time server system	1
+medium company	ntl	1
+high quality brand	ntr metals	1
+reserve	ntcheu	1
+multimedia application	ntroduction networked multimedia application	1
+screening test	nt-probnp	1
+popular model	nt five hundred and fifty-five  tires 	1
+commercial project	nt clusters at microsoft	1
+scholarship	ntid vice presidential	1
+training material	nt  four 	1
+holding	ntl inc	1
+local store	ntuc fairprice's eco-friendly' supermarket at city square shopping mall	1
+area	ntt	1
+area	ntcheu	1
+generator	ntpc	1
+renowned company	ntpc	1
+analysis method	ntroduction s ubspace analysis method	1
+outside organization	ntsb on investigations into pipeline failure	1
+stakeholder group	ntfp collector	1
+exciting event	ntuc kite festival	1
+business organization	ntk	1
+wireless technology	ntroduction wireless technology	1
+one	nthe harder one	1
+ammenities	ntuc	1
+infrastructure service	ntp server	1
+cluster	nt supercluster at ncsa	1
+global organization	ntt communications	1
+video format	ntsc	2
+video format	ntsc standard used in the usa	1
+inflammatory disease	ntroduction chronic inflammatory disease	1
+area business	ntn bower	3
+industry partner	ntt docomo	1
+service	ntp	4
+well-known manufacturer	ntk	1
+norm	ntroduction social norm	1
+TV channel	ntv	1
+safety system	ntroduction a ctive safety system	1
+categorical variable	nt-probnp testing	1
+ISPs	ntt	2
+ISPs	ntt communications	2
+japanese company	ntt	4
+japanese company	ntt docomo	1
+prestigious client	ntpc	1
+file system	ntfs	43
+private firm	ntt	1
+rare disease	ntd	1
+factor	ntp concentration	1
+service	ntp server	1
+service	ntroduction p acket-type service	1
+service	ntroduction telemedicine service	1
+international firm	ntt	1
+governmental organization	ntpc	1
+defender	nt casey hampton	1
+supermarket chain	ntuc fairprice	2
+big firm	ntt	1
+agronomic practice	nt	3
+configuration information	ntp server	1
+telecommunication company	ntt docomo	1
+telecommunication company	ntt	1
+quality attribute	ntroduction food quality attribute	1
+bearing	ntn	2
+pseudonym	ntombizodwa luphahla	1
+public sector organization	ntpc	1
+network protocol	ntp	2
+network protocol	ntroduction network protocol	1
+reputed company	ntpc	1
+service	ntl cable	1
+service	ntp radius authenticaion	1
+domestic company	ntpc	1
+chelating agent	nta	2
+chelating agent	ntaa	1
+OS	nt	4
+configuration option	ntp configuration option	1
+conventional system	ntsc	1
+first responder	ntsb	1
+virtual world	ntroduction virtual world	1
+web server	nt web server	1
+activator	ntrc	2
+screening	nt scan	1
+women's group	ntimaru traditional dancers group	1
+authentication method	ntlm	6
+automotive application	ntroduction automotive application	1
+geniuses	ntozake shange	1
+government document	ntt dalam angka	1
+nanoparticles	ntroduction electrically conductive nanoparticles	1
+television station	ntv	1
+television channel	ntv spor	1
+beneficiary	ntuc eldercare co-operative ltd	1
+power company	ntpc	2
+power company	ntpc ltd.	1
+power company	ntpc ltd	1
+common format	ntsc	1
+common format	ntsc composite	1
+clinical application	ntroduction many clinical application	1
+service	ntl freedom	1
+cable company	ntl	8
+tropical area	nt	1
+movement disorder	ntroduction movement disorder	1
+external service	ntp server	1
+single issue	ntnu	1
+member company	ntt docomo	1
+service firm	ntt	1
+input signal	ntsc	3
+input signal	ntsc composite video signal	1
+disk	ntfs-capable boot disk	1
+search method	ntroduction stochastic iterative search method	1
+free alternative	ntr	1
+backer	ntma	1
+investment firm	nth power	1
+standard format	ntsc	6
+transport protocol	ntroduction xisting network transport protocol	1
+topic	ntfs permission	2
+medium platform	ntn network	1
+antipsychotics	ntroduction a typical antipsychotics	1
+group company	ntt facilities	1
+real estate company	ntl	2
+quality brand name	ntn	2
+temperature sensor	ntc thermistor	1
+chronic inflammatory disease	ntroduction chronic inflammatory disease	1
+heavy weight	ntpc	2
+social club	ntuc club	1
+state organization	ntma	1
+mobile operator	ntt docomo	2
+TV network	ntv	1
+public-private partnership	nt two 	2
+japanese brand	ntn	1
+legislative change	nt aboriginal land rights act	1
+Vasodilators	ntg	3
+reactive oxygen species	ntroduction reactive oxygen species	1
+security protocol	ntlm	1
+series product	ntech series product	1
+analog signal	ntsc video	2
+analog signal	ntsc standard television signal	1
+analog signal	ntsc video signal	1
+transportation company	ntcl	1
+financial statement	ntroduction financial statement	1
+system integrators	ntt data	1
+topic	ntd	1
+system application	nt system application	1
+retail shop	ntuc	1
+federal government agency	ntsb	1
+cutting-edge feature	ntfs partition resizing	1
+external group	nt domain based group	1
+defensive stock	ntpc	1
+network operator	ntt docomo	1
+directory service	nt domain	1
+central agency	ntpc	2
+speech	ntroduction conversational speech	1
+national standard	ntcip	1
+olefins	ntroduction ight olefins	1
+chelators	nta	3
+system file	ntldr	1
+punctuation mark	nternal punctuation mark	1
+topic	nt service	1
+error message	ntfl missing	1
+india tv channel	ntv telugu	3
+signature	ntft disk signature	1
+japanese firm	ntt docomo	1
+japanese firm	ntt	1
+3rd party tool	ntfs stream info	1
+cable operator	ntl	3
+social norm	ntroduction social norm	1
+system vendor	ntroduction major system vendor	1
+tourist hotspot	ntr gardens	1
+fertilisers	nts liquid humus	1
+classic show	nthis mean classic show	1
+compression standard	ntroduction v ideo compression standard	1
+emergent technology	nt	2
+neurotrophic factor	nt- three 	6
+neurotrophic factor	nt- four 	1
+famous school	ntnu	1
+famous school	ntu	1
+input format	ntsc	2
+protists	ntroduction heterotrophic protists	1
+U.S. agency	ntia	1
+company	ntpc	26
+company	ntt docomo	13
+company	ntt	11
+company	ntl	7
+company	ntpc ltd	3
+company	nt connections	2
+company	ntt data	2
+company	ntr	2
+channel partner	ntt data security	1
+france tv channel	nt one  live 	1
+preventive care service	nti tension suppression system	1
+system object	ntdiscover	1
+system object	ntldr	1
+coder	ntroduction b lock-based video coder	1
+mobile network	ntt	1
+proprietary software	ntfs from microsoft	1
+international operator	ntt docomo	1
+international operator	ntt	1
+mobile phone company	ntt docomo inc.	1
+video signal	ntsc	12
+video signal	ntsc signal	2
+video signal	ntsc video signal	1
+blue chip organization	ntl	1
+trophic factor	nt- three 	2
+award-winning author	ntozake shange	1
+solution concept	ntu nucleolus	1
+complexing agent	nta	3
+orgs	ntpa	1
+company	nthe major company	1
+company	ntl in britain	1
+company	ntn	1
+company	ntt communications	1
+christian scholar	nt wright	3
+turkey tv channel	ntv spor	1
+analog system	ntsc television	1
+asian currency	nt dollar	1
+partition	ntfs	1
+authentication protocol	ntlm	2
+authentication protocol	ntlmv two 	1
+large technology company	ntt japan	1
+arabic tv channel	ntn sport egypt	2
+arabic tv channel	ntn cinema egypt	1
+arabic tv channel	ntn live egypt	1
+arabic tv channel	ntn drama egypt	1
+digital platform	ntl digital	1
+agile method	ntroduction the agile method	1
+burning software	nti	1
+filesystems	ntfs	3
+largest bank	nthe largest bank	1
+public sector company	ntpc	3
+telecom giant	ntt in japan	1
+business customer	ntrsupport business customer	1
+cloud provider	ntt america	1
+daemon	ntpd	2
+top international brand	ntn	1
+human right instrument	nternational human right instrument	1
+platform provider	ntl	1
+authentication scheme	ntlm	2
+cable provider	ntl	2
+company	ntech industries	1
+company	ntelos inc. in virginia	1
+company	nti	1
+company	ntt in japan	1
+company	ntt urban development	1
+company	ntuc fairprice co-operative ltd	1
+company	nts communications	1
+company	ntp software	1
+company	nttf	1
+company	nte	1
+company	ntt nortel networks	1
+company	ntv	1
+compression technology	ntroduction new audio compression technology	1
+computer operating system	nt	1
+open platform	nt	1
+standard system	ntsc system	1
+state company	ntpc	1
+wireless company	ntt docomo in japan	1
+computing application	ntroduction recent computing application	1
+free solution	ntop	1
+investigative agency	ntsb	1
+PSUs	ntpc	6
+rap star	ntm	1
+sport channel	ntv spor	1
+video system	ntsc	2
+cell phone company	ntt docomo	1
+established standard	ntsc	1
+radiation detector	ntroduction position sensitive radiation detector	1
+small jurisdiction	nt	1
+time service	ntp	2
+esteemed organization	ntpc	3
+external interface	ntsc	1
+linear system	nth order linear system	1
+satellite city	nth sydney	1
+signal type	ntsc	1
+wireless operator	ntt docomo	1
+esoteric topic	nt kernel	1
+popular network	nt	1
+positioning system	ntroduction positioning system	1
+video standard	ntsc	7
+video standard	ntroduction t raditional video standard	1
+backup application	nt backup	1
+fetal anomaly	ntd	1
+free utility	ntfs undelete	2
+state-run company	ntpc	1
+japanese corporation	ntt docomo	1
+CLECs	ntelos inc.	1
+co-operatives	ntuc income insurance co-operative	1
+digital network	ntl	1
+government company	ntpc	5
+normal information	ntp	1
+window system	nt-based window system	1
+window system	nt	1
+color system	ntsc	2
+common protocol	ntcip	2
+global operator	ntt docomo	3
+national test	nte	2
+power house	nth melb	1
+factor	ntfp cultivation	1
+public sector undertaking	ntpc	1
+Serum biomarkers	nt-probnp	2
+cardiac marker	nt-probnp	1
+communication service provider	ntt	2
+development finance institution	ntsika	1
+iron chelators	nta	1
+lesser-known company	ntt america	1
+mobile network operator	ntt docomo	1
+mobile network operator	ntt docomo in japan	1
+mobile wireless device	ntroduction mobile wireless device	1
+server program	nt ras	1
+well-known tool	ntop	1
+corporate player	ntt	1
+monitoring software	ntop	1
+unionist	nteu	2
+voucher	ntuc	1
+window version	nt	3
+commercial grade product	nt-max septic tank treatment	1
+PSU	ntpc	1
+training centre	ntuc's seed institute	1
+cable system	ntl	1
+filesystem	ntfs	1
+multiplayer online game	ntroduction massively multiplayer online game	1
+property datum	nts area designation	1
+resonator	ntroduction high frequency mechanical resonator	1
+student society	ntu association for graduates	1
+student society	ntu ping-pong club	1
+student society	ntu toastmasters	1
+authentication	ntlm	1
+corporate investor	ntt docomo	1
+enzymatic property	ntpaseandhelicase activity	1
+massively multiplayer online game	ntroduction massively multiplayer online game	1
+open industry standard	nt	1
+public sector unit	ntpc	4
+typical antipsychotics	ntroduction a typical antipsychotics	1
+window platform	nt four 	1
+chip component	ntc thermistor	1
+elite company	ntpc	1
+small service	ntp	1
+television system	ntsc	4
+television system	ntsc system	4
+datum recovery software	ntfs undelete	1
+executive branch agency	ntia	1
+innovative component	nth degree's	1
+innovative component	nth degree's gyrojoints	1
+synchronization mechanism	ntp	1
+broadcasting system	ntsc	1
+Carboxylates	nta	4
+cellular provider	ntt docomo	1
+conventional mechanism	ntp	3
+disk format	ntfs	1
+large energy company	ntpc	1
+telemedicine service	ntroduction telemedicine service	1
+information	ntu academic calendar	1
+CD burning software	nti cd & dvd maker	1
+private sector employer	ntuc fairprice co-operative limited	2
+TFs	nt- three 	1
+top-rated brand	ntn	1
+video type	ntsc	1
+window operating system	nt	1
+component video device	ntl	4
+computational intelligence technique	ntroduction computational intelligence technique	1
+great warrior	ntshingwayo ka mahole khoza	2
+groundfish species	ntroduction groundfish species	1
+boot disk	ntfs-capable boot disk	1
+CUMMINS model	nt eight hundred and fifty-five 	1
+mobile phone service provider	ntt docomo	1
+national datum set	ntd	1
+information	ntrm name	1
+information	ntp time stamp of the sender report	1
+ecological disturbance	ntroduction ecological disturbance	1
+public-key algorithm	ntru	1
+telecom carrier	ntt	1
+video encoder	ntsc encoder	1
+education partner	ntla	1
+energetic compound	nto	1
+polypeptide growth factor	nt- three 	1
+quality problem	ntroduction ower quality problem	1
+sequestrants	nta	3
+broadcast standard	ntsc	3
+government mandate	ntsb safety recommendation p- five - five 	1
+mobile player	ntt docomo	1
+action type	nt event log	1
+acute coronary syndrome	ntroduction acute coronary syndrome	1
+aviation airport	ntra	1
+big-time player	ntt docomo	1
+labelmates	ntm	1
+large retail operation	ntuc	1
+leading carrier	ntt docomo	1
+leading carrier	ntt	1
+Neurotrophins	nt- three 	10
+Neurotrophins	nt- four 	2
+proquest database	ntis	2
+raster format	ntsc	1
+traditional broadcaster	ntv	1
+traditional scheme	ntp	1
+bit operating system	nt  four . zero 	1
+cable TV operator	ntv plus	1
+chelants	nta	3
+complete package	nti suite	1
+DNA repair gene	nt five e 	1
+famous brand bearing	ntn	1
+fund holding	ntl	1
+event	nt intervention	1
+event	ntsb forum	1
+public sector firm	ntpc	1
+accessible datum	ntia	1
+admin	nt server admin	1
+brand bearing	ntn	2
+company's client	ntt data	1
+erasure code	ntroduction erasure code	1
+intelligence technique	ntroduction computational intelligence technique	1
+modern file system	ntfs	3
+modern file system	ntfs andreiser four 	1
+mutant protein	ntmek dd of tobacco	1
+professional system	nt compass	2
+serial product	ntc sip serial product	1
+television signal	ntsc television signal	2
+television signal	ntsc signal	2
+advanced authentication method	ntlm	1
+bearing brand	ntn	3
+ceramic electronic component	ntc thermistors	1
+conventional file system	ntfs	1
+diffusible factor	nt- three 	1
+endogenous neuropeptides	nt	1
+event	ntsu weekly quiz every sunday	1
+event	ntu event	1
+program	nti dvd maker	3
+global operator group	ntt docomo	1
+independent medium	ntv	1
+infinite series	nth term test	1
+large institute	ntua	1
+large telecom company	ntt	1
+legal association	nt women lawyers association	1
+NOSs	nt	1
+on-board tool	ntfsresize	1
+online social network site	ntroduction online social network site	1
+power firm	ntpc	1
+tire retailer	ntb	1
+work-life balance initiative	ntuc women development secretariat little ones @ work programme	1
+advanced operating system	nt	1
+big foreign enterprise	ntt	1
+branded bearing	ntn bearing	2
+composite video signal	ntsc signal	1
+composite video signal	ntsc	1
+discussion list	nten lists at www	1
+exclusive venue	nt properties	1
+giant mobile company	ntt docomo	2
+government run organization	ntpc	1
+journaling file system	ntfs	4
+mechanical resonator	ntroduction high frequency mechanical resonator	1
+modern algorithm	ntp	3
+program	nt	1
+program	nti cd maker ect	1
+program	ntfsclone	1
+program	nt password editor	1
+program	nt platform-specific program	1
+noneconomic issue	ntt appointment	1
+opensource program	ntop	1
+television receiver	ntsc television receiver	1
+TV standard	ntsc	4
+video coder	ntroduction b lock-based video coder	1
+world top brand bearing	ntn	3
+cable service provider	ntl	1
+event-driven system	ntroduction event-driven system	1
+food quality attribute	ntroduction food quality attribute	1
+government-run company	ntpc	1
+high-calibre participant	ntt docomo	1
+indian power generation company	ntpc ltd	2
+international famous brand bearing	ntn	1
+japanese carrier	ntt docomo	1
+multi-tasking environment	ntse	1
+networked multimedia application	ntroduction networked multimedia application	1
+OS configuration item	ntp	1
+program	ntpd having success	1
+program	nt backup	1
+popular television channel	ntv	1
+proinflammatory gene	ntn one 	2
+standard definition format	ntsc	1
+world-wide known brand	ntn	2
+advanced file system	ntfs	2
+advanced file system	nt file system	1
+central power sector utility	ntpc	1
+component video home theater device	ntl	1
+digital video standard	ntsc	1
+end-of-life decision	ntd	1
+file-io INT 2E function	ntcreatefile	1
+government accident investigation organization	ntsb of usa	1
+ibibio plant	ntoon	2
+indigenous irish company	ntr	1
+international brand bearing	ntn	1
+journaled file system	ntfs	3
+legacy platform	nt  four . zero 	1
+liquid oxidizer	nto	1
+livelihood opportunity	ntfp collection	1
+local TV channel	ntkr	1
+program	nti	1
+program	ntfs data recovery software	1
+network transport protocol	ntroduction xisting network transport protocol	1
+non-chinese company	ntt docomo	1
+online datum base	ntis	1
+Organic sequestrants	nta	1
+overseas carrier	ntt docomo	2
+Profit-making PSUs	ntpc	1
+resistive sensor	ntc thermistor	1
+standard file system	ntfs	2
+state-owned organization	ntpc	1
+TCP service	ntp	1
+television standard	ntsc	5
+time synchronization protocol	ntp	3
+world's largest wireless carrier	ntt docomo of japan	2
+admin program	ntop	1
+analog interface	ntsc	1
+analogue signal	ntsc	1
+audio compression technology	ntroduction new audio compression technology	1
+broadcasting television station	ntv	1
+captive producer	ntpc-sail power company	1
+composite signal	ntsc	2
+critical system change	nt service	1
+EBPs	ntrc of escherichia coli	1
+e-grocers	ntuc fairprice	2
+external clock source	ntp time service	1
+functional internet technology	nt	1
+giant mobile-phone operator	ntt docomo	1
+heterotrophic protists	ntroduction heterotrophic protists	1
+high-end server	nt server	1
+key network service	ntp	1
+large text field	ntext data type in microsoft sql server	2
+Modern lesystems	ntfs	1
+national TV station	ntv	1
+NT system	nt four 	1
+online grocery store	ntuc fairprice	1
+PC format	ntfs	1
+power electronics system	ntroduction various power electronics system	1
+pressure signal	ntroduction c ardiovascular pressure signal	1
+public sector provider	ntta	1
+russian channel	ntv	3
+service policy	nteu national agreement provision	1
+organization	ntpc	2
+organization	nta	2
+organization	nti	2
+simple administrative task	nt servers between domain	1
+standard television signal	ntsc signal	3
+standard television signal	ntsc	1
+standard television signal	ntsc television signal	1
+standard video signal	ntsc signal	2
+standard video signal	ntsc	1
+SZ associated gene	ntrk two 	1
+upstream project	nt two 	1
+video compression system	ntroduction current video compression system	1
+addit ional TCP service	ntp	1
+analog datum signal	ntsc	1
+analog video	ntsc	1
+analog video signal	ntsc	3
+analog video system	ntsc	1
+blue LV47 weapon	ntuamu's greatsword	1
+broadcast television system	ntsc	3
+cable also satellite network	ntv	1
+cable boxes	ntl & telewest	1
+central public sector undertaking	ntpc	2
+central utility	ntpc	1
+clock synchronisation protocol	ntp	1
+COLOR CODING many standard	ntsc	1
+comercial product	ntr global	1
+complicated cut	nt cut	1
+composite video system	ntsc	4
+composite video system	ntsc analog video system	1
+consumer device company	ntt docomo	3
+directory structure	nt security	1
+energy sector specialist	nth power in san francisco	1
+organization	ntu	1
+organization	ntpc ltd.	1
+organization	ntis	1
+organization	ntnc	1
+organization	ntt communications	1
+organization	ntn	1
+organization	ntipdu	1
+equal affinity neurotrophins	nt- three 	1
+equal affinity neurotrophins	nt- four 	1
+essential system file	ntldr file	1
+exit exam	nte specialty test	1
+External Registered Training Organisations	nt open education centre	1
+federal government information system	ntis fedworld system	2
+fight organization	ntma	1
+file server technology	ntfs security permission	1
+frontline company	ntpc	1
+gastric cancer	ntroduction gastric cancer	1
+historical standard	ntsc  sixty hz 	1
+international telephone company	ntt communications	1
+level dlls	ntdll	1
+livelihood practice	ntfp production	1
+moscow television channel	ntv	1
+nerve growth factor	nt- four 	1
+nerve growth factor	nt- three 	1
+popular TV format	ntsc	1
+organization	ntl	1
+organization	ntra	1
+organization	ntpa	1
+organization	nto	1
+organization	nts	1
+organization	ntu hospital	1
+organization	ntuc learning hub	1
+seperate software	nti	1
+so-called microbrowser technology	nttdocomo's i-mode platform	5
+standard video format	ntsc	1
+system dlls	ntdll	1
+television transmission system	ntsc system	1
+TW game	ntw	1
+unmovable file	ntfs metadata file	1
+URRENT worldwide TV system	ntsc	1
+wireless service carrier	ntt docomo	1
+active defense system	ntw	1
+Adaptive Server's directory service	nt registry	1
+advanced occurrence	nth day	1
+analog signal format	ntsc	1
+analog television signal	ntsc television signal	1
+analog tuner's standard	ntsc	1
+analog video standard	ntsc	1
+annual fishing tournament	nt barra classic	1
+authn protocol	ntlm	1
+technique	nt using blastomeres from preimplantation embryo	2
+technique	nterferometry polarimetry refractometry	1
+bundle request	nto - one  bundle 	1
+cash-rich PSUs	ntpc	1
+central government company	ntpc	1
+central power PSUs	ntpc	1
+central power utility	ntpc	4
+central public sector company	ntpc	1
+central sector utility	ntpc	1
+color television system	ntsc	2
+color television system	ntsc system	1
+color TV broadcasting standard	ntsc	4
+combination signal	ntc  seven  composite 	1
+combination signal	ntc  seven  combination 	1
+common desktop operating system	nt workstation	1
+common TV transmission standard	ntsc	1
+composite video format	ntsc	2
+computer file system	ntfs	1
+consonant group	nt	1
+controversial contemporary issue	ntozake shange's play	1
+conventional analog broadcast television system	ntsc	1
+conventional television standard	ntsc	1
+coronary syndrome	ntroduction acute coronary syndrome	1
+deaf study database	ntid index	1
+disc burning application	nti cd-dvd maker	1
+edge operating system	nt & xp	1
+essential protocol	ntp	1
+field skilled player	nt jay ratliff	1
+file-based backup utility	ntbackup	1
+filtering algorithm	ntt convolution	1
+flow-types	ntp known	1
+foregoing, compound	nta	1
+frequency management agency	ntia	1
+frequently-used term	nt for new testament	1
+technique	ntroduction c urrent marker technique	1
+technique	ntroduction various well-known diversity technique	1
+technique	ntroduction computational intelligence technique	1
+global TV standard	ntsc	1
+growth factor antagonist	nt one  receptor antagonist sr fourty-eight thousand six hundred and ninety-two 	1
+headed top company	ntpc	1
+heavy-hitting and inspiring speaker	ntia assistant secretary larry strickling	1
+high frequency mechanical resonator	ntroduction high frequency mechanical resonator	1
+highest level driver	ntfs	3
+high-profile telecom operator	ntt inc.	1
+hosted messaging service corporate isps	ntt	1
+IC corporation	nte	1
+IIS win NT authentication provider	ntlm	1
+IIS window NT authentication provider	ntlm	1
+incor-poratedinto computer algebra system	ntl	1
+infocomm multi-national company	ntt communications	2
+interlaced video system	ntsc	1
+introduction conventional file system	ntfs	1
+JNDI source	nt user database	1
+john folder	ntuninstallq three hundred and twenty-nine thousand and fourty-eight  $ 	1
+john folder	ntuninstallkb eight hundred and seventy-three thousand three hundred and thirty-nine  $ 	1
+john folder	ntuninstallkb fourty-two thousand seven hundred and seventy-three  $ 	1
+journalingfile system	ntfs	1
+large network operator	ntt	1
+large PSU company	ntpc	1
+long-time veteran	nt bryan robinson	1
+low voltage fuse s	nt fuse	1
+LV47 blue namesake accessory	ntuamu's ruby necklace	1
+LV47 blue namesake accessory	ntuamu's seal	1
+microsoft non-supported operating system	nt four 	1
+modern filesystems	ntfs	1
+multimedia apps	nti cd & dvd maker	1
+national-level citizen group	ntu	2
+nation's major industry	ntpc	1
+navratna company	ntpc	1
+net program	nt targeted for specific	1
+neu-rotrophinsand matrix molecule	nt- three 	1
+application	ntp	3
+application	ntbackup	2
+application	ntroduction recent computing application	1
+application	ntfs- three g 	1
+norwegian institution	ntnu	1
+NT based OS	nt	1
+NT server troubleshooting skill	nt security	1
+NTS user	nts entry point operator	1
+partnership mechanism	ntd working group	1
+PC support issue	nt-id login	1
+power generation firm	ntpc	1
+Preeminent VCs	nth power	1
+private TV station	ntv	1
+RRs	ntrc	1
+russian TV network	ntv	1
+stakeholder partner	nteu	1
+standard color-television format	ntsc	1
+standard composite broadcast format	ntsc	1
+standard television system	ntsc	3
+standard television system	ntsc system	1
+application	nt system application	1
+application	ntroduction automotive application	1
+application	ntroduction important application	1
+time service parameter	ntp server	1
+top-level internet service provider	ntt	1
+traditional NO donor	ntg	1
+TV broadcast system	ntsc	1
+TV system	ntsc	1
+typical standard	ntsc	1
+UDP service	ntp	1
+udp-based service	ntp	1
+user mode application	ntp client	1
+vinyl window manufacturer	nt window	1
+virulent mycobacteria	ntm	1
+well-established broadcaster	ntv	1
+worldwide video standard	ntsc	1
+affordable chalet	ntuc sentosa beach resort	2
+analog broadcast standard	ntsc	2
+analog color television standard	ntsc	2
+analog television system	ntsc in north america	1
+analog video input signal	ntsc	1
+analog video output	ntsc	1
+AP Is	ntohs	1
+AP Is	ntohl	1
+basic multi-name instrument	ntd basket	1
+biggest PSUs	ntpc ltd	1
+boot file	ntdetect.com	1
+boot file	ntldr	1
+broadband supplier	ntl in the uk	1
+broadcasting television signal	ntsc	2
+broadcast-quality standard	ntsc	1
+broadcast-quality video standard	ntsc	1
+cambridge scientific abstract database	ntis	2
+application	ntsc video	1
+application	ntroduction ultimedia application	1
+application	ntroduction many clinical application	1
+application	ntroduction many current application	1
+application	ntroduction networked multimedia application	1
+application	ntp server	1
+application	ntroduction many datum acquisition application	1
+name	ntpc	2
+name	nt wright	1
+central generating agency	ntpc	1
+central generator	ntpc	1
+Central PSUs	ntpc	3
+chosen supplier	ntl	1
+CIE conventional system	ntsc	1
+clock synchronization protocol	ntp	1
+color broadcasting system	ntsc	3
+color space standard	ntsc	1
+color TV system	ntsc	4
+color video signal	ntsc	2
+commercial television system	ntsc	1
+common filesystem	ntfs	1
+common video signal format	ntsc	1
+community information program	nt quarantine	1
+composite analog video signal	ntsc yiq	1
+composite television system	ntsc	1
+conventional television system	ntsc system	3
+custom authentication technique	ntml	1
+DoC sub-agencies	ntia	1
+domain protocol	ntp	1
+DSL	ntl cable	1
+electronic tenancy database	ntd	1
+exclusive hobbyking product	ntm- three thousand five hundred and thirty-six  motor 	1
+exemplary video display system	ntsc	2
+exporting antibiotic medicine	ntibiotic tablet	1
+extent-based file system	ntfs	1
+name	ntos  four 	1
+name	ntfs	1
+name	ntl	1
+federal employee union	nteu	1
+file protocol-based source	ntfs source type	1
+file system driver	ntfs	1
+First, many peptides	nt	1
+fundamental and serious flaw	nto	1
+giant datum center service provider	ntt telecommunications	1
+global telecommunication company	ntt docomo	1
+good online collocation dictionary	ntnu web-based collocation retrival system	1
+government business division	nt fleet	1
+group policy setting	ntlm response	1
+gusinsky's medium outlet	ntv television	1
+H. pylorus gene	nth	1
+hard-baked identity	nt thunder's kenrick tyrrell	1
+hardware specific file	ntldr	1
+high-affinity site	ntcasiteintheglna gene	1
+high-affinity site	ntca site in the glna gene	1
+homologous neurotrophins	nt- four 	1
+immobilized metal chelators	nta	1
+institutional growth leader	ntap	1
+integrated authentication mechanism	ntlm	1
+interlaced format	ntsc	2
+interlaced scanning format	ntsc	1
+interlaced video	ntsc interlaced video	1
+internet service provider network	ntl	2
+investment liberalisation provision	nt	1
+japanese cellular operator	ntt docomo	1
+japanese mobile phone provider	ntt docomo	1
+japanese operator	ntt docomo	1
+japanese partner	ntt comware	1
+large PSUs	ntpc	1
+largest coop	ntuc fairprice	1
+largest coop	ntuc income	1
+latest os	nt	1
+liquid emulsion	ntb three 	3
+local tire store	ntb	1
+mainstream OSs	nt	1
+Microsoft filesystems	ntfs	1
+microsoft window user-mode debugging tool	ntsd tool	1
+mini-marts	ntuc fairprice	1
+mistake activity	nts house near musselburgh	1
+national and international government agency	ntp	2
+network identity service	ntp for secure network time synchronization	3
+network time stamp protocol	ntp	1
+neurotophic factor	nt- three 	1
+nice metal film type resistor	nte	1
+non-iis host application	nt services	1
+non-instructional process	ntc foundation	1
+optional TM-4 feature	ntp output	1
+othello program	ntest	1
+others supplier	ntl	1
+pap-affiliated commercial entity	ntuc supermarts	1
+partition format	ntfs	1
+patent troll	ntp inc	1
+platform authentication mechanism	ntlm	1
+popular backup format	nt backup arcserve	1
+case	ntrc in st. vincent	1
+case	ntfs partitions on windowsnt server	1
+case	nt oracle	1
+case	nt power	1
+case	nt two 	1
+preload reducer	ntg	1
+preservation partner	nthp office of diversity on a periodic basis	1
+proxy authentication method	ntlm	1
+public keycryptosystems	ntru	1
+public-key scheme	ntru	1
+reliable time source	ntp server	2
+relic file system	ntfs	1
+replay authentication	ntlm	1
+secondary configuration task	ntp	2
+singapore VTE company	ntuc learninghub	1
+single OS	nt	1
+single-channel, composite signal	ntsc	1
+six-chip function	ntsc signal processing	1
+small server	nt server	2
+solution support various authentication method	nt authentication	1
+standard broadcast format video signal	ntsc	1
+standard clip multifield function	nth	1
+standard television format	ntsc	2
+State TV-channels	ntv	1
+student-sponsored publication	nt daily	1
+case	ntdr status agent	1
+case	ntv hayat	1
+option	ntpconfiguration option other ntpconfiguration option	1
+switch manufacturer	nti	1
+television signal format	ntsc	2
+thermosensor element	ntc resistor	1
+time synchronisation protocol	ntp	1
+top quality bearing	ntn	1
+Topical thesauri	ntis	1
+traditional synchronization scheme	ntp	1
+traditional television broadcast standard	ntsc	1
+trend test	ntp trend test	2
+TV broadcasting system	ntsc system	1
+typical DVD format	ntsc	1
+user information repository	nt domains	1
+user specific attribute	nt group	1
+video signal encoding standard	ntsc	1
+water soluble organic chelant	nta	1
+window desktop operating system	nt	1
+world wide video standard	ntsc	1
+worldwide signal	ntsc	1
+xisting network transport protocol	ntroduction xisting network transport protocol	1
+accurate timediscretisation scheme	nth-order backwarddierentiation formula	1
+administrative regulatory compliance cost	ntc requirements et	1
+aftermarket OEM replacement	ntk	1
+air television channel	ntv	1
+algorithmic building block	nth element	1
+allocation map	ntfs bitmap	1
+aminocarboxylates	nta	1
+analog composite video signal	ntsc	1
+analog television format	ntsc	3
+analog television standard	ntsc	5
+attestation	nt mark	1
+option	ntlm authentication	1
+option	ntp service	1
+backup non-linux partition	ntfs	2
+bb company	ntl	1
+bile salt transporter	ntcp	1
+biological objective function	ntcp	1
+broadcast TV signal	ntsc	1
+bronze cent	nte in circulation new	1
+Cardio-biomarkers	nt-probnp	1
+cat welfare group	ntu cat cafe	1
+central government utility	ntpc	1
+central power sector undertaking	ntpc	1
+central sector unit	ntpc	1
+central utility stock	ntpc	1
+classical clock synchronisation protocol	ntp	1
+color television signal	ntsc system color television signal	1
+color-difference signal	ntsc signal	1
+command ntalk	ntalk	1
+common filesystems	ntfs	1
+common website authentication scheme	ntlm	1
+Commonly available NPN-Si Phototransistors	nte three thousand and thirty-seven  distributed by nte electronics 	1
+commonly-used tool	ntop	1
+composite television signal	ntsc	1
+computer network timing protocol	ntp	1
+conventional color television signal	ntsc signal	1
+conventional mutagen	ntg	1
+conventional television signal	ntsc signal	1
+conventional TV standard	ntsc	1
+conventional video signal	ntsc video signal	1
+core dlls	ntoskrnl	1
+correct output	ntsc	1
+CPSUs	ntpc	1
+critical internal server service	ntp	1
+cryogenic tunnel	ntf	1
+day appeal	nt front bencher's	1
+day simulation	ntf wargame  ninety-five b 	1
+DBL lignans	ntg	1
+DCOM system	nt	1
+device driver file	nt device driver	1
+dominant japanese telecommunication firm	ntt	1
+dosimetric and radiobiological parameter	ntcp	1
+dual boot system	ntldr	1
+option	ntfs	1
+option	ntp configuration option	1
+group	ntm	3
+group	nten	1
+EBRs	ntrc st	1
+eukaryotic BER glycosylases	nth	2
+Exchange Aware backup tool	ntbackup on the sbs server	1
+explicit time exchange protocol	ntp	1
+fact different system	ntr	1
+feasible forest-based off-farm activity	ntfp collection	1
+featured course	ntoa nfdd instructor	1
+file system format	ntfs	1
+file-level access control	ntfs permission	2
+fixed line telephony operator	ntt	1
+free read-write driver	ntfs- three g 	1
+FS- gnostic tool	ntfsresize	1
+generation company	ntpc	1
+greedy protocol	ntg	1
+hacker attack	nt null sessions	1
+hepatic NTPDases	ntpdase three  on stellate cell 	1
+HhH glycosylases	nth	1
+HhHglycosylases	nth	1
+HPFS many later file system	ntfs	1
+IdentityReference object	ntaccount object	3
+incompatible format	ntfs	1
+incumbent telecom operator	ntt	1
+indepent software	ntns partiton magic	1
+inexpensive NetFlow analyzer	ntop from ntop.org	1
+insensitive ingredient	nto	1
+interlace scanning television system	ntsc system	1
+interlaced TV standard	ntsc	1
+intermediate hypothetical execution time	nth-passage time	1
+international global carrier	ntt	1
+Internet time synchronisation mechanism	ntp	1
+ischemia therapy	ntg	1
+ISDN network element	nt one 	1
+japanese ICT firm	ntt data	1
+japanese telecommunication provider	ntt	1
+japan's tradition telecommunication carrier	ntt	1
+key U.S. racing stakeholder	ntra	1
+LAN authentication scheme	ntlm	1
+large trade organization	nta	1
+lattice-based cryptosystems	ntru	1
+market based solution	ntpf	1
+master file table file system	ntfs from microsoft	1
+media-based file system	ntfs	1
+modern disk filing system	ntfs	1
+MS server-based operating system	nt	1
+national independent medium	ntv	1
+negotiability case	nteu	1
+network time synchronization protocol	ntp	1
+Network timing equipment	ntp time server	1
+network timing solution	ntp server system	1
+ngaclock synchronization protocol	ntp	1
+nitrogen fixation-inducible gene	ntr gene	1
+non do partition	ntfs	1
+non-auto-open index	ntx index	1
+non-square pixel format	ntsc	1
+group	ntuc eldercare	1
+group	ntuc	1
+method	nth term test	1
+method	ntroduction s ubspace analysis method	1
+normal access control	ntfs permission	1
+normal Z	nte  five thousand one hundred and seventeen a 	1
+NT boot file	ntldr	1
+NT release	nt  four . zero 	1
+NTSC device	ntsc monitor	1
+online authentication protocol	ntlm	1
+operating system's kernel	nt kernel for windows	1
+organic anion transporter	ntcp	1
+OS based method	ntbackup	1
+outside specific initiative	ntdf data-sharing project	1
+overseas VHS format	ntsc	1
+phone.com's competitor	ntt	1
+portable ISDN interface module	nt- one  analog telephone device for interfacing a computer 	1
+prestigious TV channel	ntv	1
+priority process	ntpd	2
+private television channel	ntv	1
+prncples	ntegrty of habtat mportant for threatened	1
+project district	ntungamo	1
+prokaryotic enhancer binding protein	ntrc	1
+proprietary filesystems	ntfs	1
+protected configuration object	ntds settings	1
+public sector major	ntpc	1
+pure-play co-location provider	nt telehaus	1
+recoverable file system	ntfs	1
+recycling website	ntk	1
+reference audio source	nti talk box	1
+regular television signal	ntsc	1
+response regulator	ntrc	2
+robot soccer	ntroduction robot soccer	1
+russian TV station	ntv	1
+Scholarship exam	ntse	1
+secured file system	ntfs	1
+security template	ntrights.exe from the resource kit	1
+Security-critical DLLs	ntdll	1
+selective delta antagonist	ntb	1
+method	ntroduction stochastic iterative search method	1
+method	ntroduction the agile method	1
+method	ntroduction one-step method	1
+semi-public firm	ntt	1
+SI vendor	ntt communications vietnam	1
+single desktop platform	nt	1
+soccer	ntroduction robot soccer	1
+SSL specific feature	ntlm authentication	1
+standard clip function	nth	1
+standard filesystem	ntfs	1
+standard internet application	ntp	1
+standard networking timing protocol	ntp	1
+standard TV signal	ntsc signal	1
+standard-definition programming	ntsc television	1
+state-owned TV station	ntv	1
+state-owned utility	ntpc	2
+survey recipient	ntt communications	1
+system support ip-based timing protocol	ntp	1
+tactical counterpart	ntds	2
+taiwanese university	ntu	1
+telecom key operator	ntt	1
+television broadcast standard	ntsc	1
+television display formation	ntsc display formation	1
+time critical computer network system	ntp server	1
+time utility	ntfs for dos [sysinternals.com	1
+timer-related function	ntp	1
+timestamp message M	ntp message	1
+TMD appliance	nti appliance	1
+tobacco suspension cell culture	nt- one 	1
+today's customary television standard	ntsc	1
+Triacylated lipopeptides	nthi omp	1
+TV transmission standard	ntsc	1
+TV type signal	ntsc	1
+ty process	ntpd	1
+typical patent troll company	ntp	1
+typical synchronization protocol	ntp	1
+Unicode environment	nt four  win two thousand  	1
+unit bandwidth filter	nth order chebeshev filter h	1
+unoxidized membrane phospholipids	nt factor	1
+user friendly monitoring tool	ntfp inventory	1
+tool	nthurouter	1
+video distribution standard	ntsc	1
+voting index	ntu	1
+wda's partner	ntuc	1
+well established analysis tool	ntcs code	1
+well-known clock synchronisation protocol	ntp	1
+window authentication method	ntlm	1
+window core component	ntoskrnl.exe	1
+window NT platform	nt  four . zero 	1
+tool	nt network monitor	1
+tool	ntfs- three g driver 	1
+tool	ntp	1
+tool	ntfs- three g drivers on the mac 	1
+tool	nt race	1
+project	ntma	3
+factor	nts evidence	1
+factor	ntt docomo's sale of shares in at&t wireless services	1
+project	ntingwe tea	1
+project	ntsc dv  twenty-four p widescreen 	1
+project	ntmo future game plans	1
+artist	ntm	1
+artist	ntsoana's humphrey maleka	1
+artist	ntozake shange	1
+material	ntis report	2
+material	ntroduction s mart material	1
+place	nt	1
+place	ntuc	1
+player	ntt docomo	3
+player	nti	2
+player	nt vince wilfork	1
+player	ntdp's phil kessel	1
+technology	nt	2
+product	nt	2
+technology	ntroduction s everal advancedcmos technology	1
+technology	ntroduction wireless technology	1
+technology	ntroduction e merging technology	1
+technology	ntroduction new audio compression technology	1
+term	ntsc	1
+term	nt server	1
+parameter	ntf dose	1
+system	nt	19
+system	ntfs	9
+system	ntsc	5
+system	nt four 	3
+system	nt  four  server 	1
+system	nt-based window system	1
+system	ntroduction event-driven system	1
+system	ntroduction a ctive safety system	1
+system	ntroduction positioning system	1
+system	nth order linear system	1
+system	nt operating system	1
+system	ntroduction current video compression system	1
+system	ntroduction various power electronics system	1
+system	nt-type operating system	1
+system	ntt	1
+species	ntroduction reactive oxygen species	1
+species	ntroduction groundfish species	1
+element	ntfs volume's type	1
+variable	nt-probnp	1
+product	ntsc pal related product	1
+product	ntech series product	1
+product	nt labs medikoi balls	1
+function	ntcreatefile	4
+function	ntp	1
+function	ntlm sso	1
+device	ntroduction mobile wireless device	1
+brand	ntn	5
+brand	ntuc linkpoints	1
+brand	nti trinity	1
+brand	ntt docomo brand	1
+component	ntfs	1
+component	ntp server	1
+component	ntc thermistors	1
+aspect	ntt mode	1
+site	ntarama church near kigali	1
+site	ntl	1
+site	ntroduction online social network site	1
+site	ntcheu	1
+site	ntroduction web site	1
+task	ntroduction many task	1

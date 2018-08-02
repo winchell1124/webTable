@@ -1,0 +1,307 @@
+source	nzrc	1
+product	nz beauty product	1
+attraction	nz tourist attraction	1
+category	nz property pies	1
+institution	nzqa	2
+client	nzte	1
+document	nzfoa best environmental practices guide	1
+product	nza gold	1
+agency	nzaid	7
+agency	nz trade & enterprise	2
+agency	nzaid i	2
+agency	nzsis	1
+agency	nz red cross	1
+agency	nz qualifications authority	1
+agency	nzte	1
+course	nzrc core provider course	1
+mechanism	nzqa monitoring	2
+business	nz dairies	1
+town	nzerekore in the east	1
+firm	nz oil & gas	1
+industry	nz forest owners association	1
+manufacturer	nzxt	1
+publication	nz farmers weekly	1
+publication	nz listener	1
+publication	nz birdz	1
+class	nz society	1
+instance	nz	1
+team	nz	2
+team	nz international team	1
+country	nz	42
+Organisations	nz police	2
+Organisations	nz king salmon	1
+Organisations	nz automobile association	1
+Organisations	nz fire service	1
+Organisations	nzrfu	1
+Organisations	nz landcare trust	1
+partner	nzaid	1
+partner	nz council of trade unions	1
+market	nz's main market	1
+customer	nzz online	1
+customer	nz sign company	1
+designer	nz's top designer	1
+magazine	nz tv guide	1
+destination	nz	1
+district	nzema east district in the western region	1
+tourist attraction	nz tourist attraction	1
+village	nzulezu	1
+association	nzac	1
+force	nzsas	1
+account	nz lotteries	1
+competition	nz secondary schools tournament	1
+issue	nz regulation	1
+modalities	nz first light flower essence	1
+politician	nz first leader winston peters	1
+government agency	nz police	2
+oil	nz manuka	1
+enterprise	nz railways	1
+nation	nz	1
+issue	nz super fund change	1
+shrub	nz broom	1
+community group	nz fire service	1
+mammal	nz marine mammal	1
+national organization	nz homosexual law reform society	1
+library	nzp	1
+library	nz public library	1
+donor	nzaid	1
+guideline	nz bookkeeping association guidelines	1
+heavyweight	nzse market heavyweight	1
+funding source	nzhpt	1
+professional association	nz institute of personnel management	1
+economy	nz	1
+endangered species	nz sealion	1
+periodical	nzz	1
+insurance company	nzi	1
+classification	nzz two 	1
+classification	nzz one 	1
+tournament	nz tv show tennis tournament	1
+government	nz	1
+government program	nz superannuation	1
+government department	nzqa	1
+directory	nz sport	2
+influencing factor	nzvi dosage	1
+reputable company	nzi	1
+outside agency	nzei	1
+local government	nz	1
+student group	nzusa	1
+stabilizer	nz amine	1
+top designer	nz's top designer	1
+small group	nz women's canoe polo team	1
+abbreviation	nz for new zealand	1
+abbreviation	nzqa	1
+government organization	nzaid	2
+international agency	nzaid	1
+hardwood	nz mountain beech	2
+asset class	nz housing	1
+currency	nzd	1
+currency	nz dollar	1
+appointment	nz representative in samoa	1
+national publication	nz property investor	1
+external agency	nz police commercial vehicle investigation unit	1
+external agency	nzqa	1
+external agency	nzhpt	1
+reserve	nz marine reserve	1
+scholarship	nzoda scholarship	1
+developed country	nz	1
+beauty product	nz beauty product	1
+non-government organization	nz prisoners aid	1
+payment method	nz cheque	1
+volunteer group	nz land & rescue inc.	1
+small country	nz	2
+reality show	nz idol	1
+marine animal	nz sea lion	1
+famous person	nz sports journalist murray deaker	1
+external party	nz historic places trust for comment	1
+service	nz writers guild's script reader service	2
+marine mammal	nz marine mammal	1
+hip-hop artist	nz's finest hip-hop artist	1
+service	nz controlled environment laboratory	1
+online website	nz search	1
+treatment service	nz treatment service	1
+newsletter	nzei negotiations new	1
+newsletter	nzei new	1
+newsletter	nzei campaign new	1
+development partner	nzaid	1
+development partner	nz aid	1
+service	nz treatment service	1
+service	nz college of midwives parentingworx parenting class	1
+speciality item	nz made wall art	1
+western country	nz	1
+podcasts	nz tech podcast	1
+experimental variable	nzvi dosage	1
+zoo	nzp	1
+electronic database	nzccs  three  information service 	1
+finance company	nz finance company	1
+large corporates	nz post	1
+local manufacturer	nz milk corporation	1
+weekly	nz listener	1
+success	nz film success	1
+cyclist	nz's top cyclist	1
+top client	nz post	1
+industrial country	nz	1
+international team	nz international team	1
+topic	nz air ambulance	1
+western food	nz steaks	1
+shore bird	nz dotterels	1
+commonwealth country	nz	1
+crowd pleasers	nz sauv bl	1
+insurance firm	nzi	1
+company	nz finance company	1
+company	nz peat	1
+common law country	nz	1
+common law jurisdiction	nz	1
+business network	nz business council for sustainable development	1
+formal approach	nzqa	1
+company	nz solar	1
+company	nz dairy group	1
+coutries	nz	1
+public library	nz public library	1
+trade partner	nz	1
+high temperature material	nzp	1
+central government agency	nzta	1
+christian country	nz	1
+commodity currency	nzd	6
+outdoor brand	nz outdoor brand	1
+temperate country	nz	2
+western bank	nz grindlays	1
+specialist magazine	nz house & garden	1
+indian organization	nz telugu association	1
+first-world country	nz	1
+great cause	nz red cross	1
+professional institute	nz institute of architects	1
+professional institute	nz institute of engineers	1
+professional institute	nz institute of planners	1
+sustainable fish	nz hoki	1
+efficient producer	nz dairy	1
+market heavyweight	nzse market heavyweight	1
+bottled water product	nz natural	1
+yielding currency	nzd	1
+complimentary modalities	nz first light flower essences	2
+signed language	nzsl	1
+tennis tournament	nz tv show tennis tournament	1
+marine reserve	nz marine reserve	1
+oversea country	nz	1
+event	nz itf finals	1
+adrenaline-pumping activity	nz bungy jumping	1
+nationwide group	nz tourism council	1
+nationwide group	nz institute of forestry inc.	1
+nationwide group	nz forestry council	1
+event	nz international festival of the arts	1
+event	nz quake	1
+risk currency	nzd	1
+winger	nzogbia	1
+developed jurisdiction	nz	1
+fascinating spot	nzundza mabhoko royal kraal	1
+top tier team	nz	1
+tough game	nz in the semi	1
+education agency	nzqa	1
+subscription business	nz dairy exporter	2
+subscription business	nzx agrifax	2
+subscription business	nzx profarmer	2
+fan controller	nzxt sentry mix fan controller	1
+high level competition	nz youth team	1
+ghanaian language	nzema	1
+high-cost economy	nz	1
+industry stakeholder group	nz rock lobster industry council	1
+powers	nz	1
+PR system	nz mmd system of pr	1
+professional, inter-disciplinary planning team	nzaid fiji ecotourism	1
+risk-sensitive currency	nzd	1
+student union	nzs	2
+award-winning magazine	nz rugby world	3
+award-winning magazine	nz retail	3
+crown financial institution	nz super fund	3
+organization	nzaid	1
+organization	nz national library	1
+organization	nzoc	1
+organization	nz alpine club	1
+expensive case	nzxt phantom	1
+non-migratory shorebird bird	nz dotterels	1
+organization	nz lottery	1
+organization	nz recreation association	1
+organization	nz association of gerontology	1
+organization	nz funds management	1
+organization	nz defense	1
+organization	nz fire service	1
+organization	nz on screen	1
+organization	nzac	1
+organization	nz transport agency	1
+organization	nzno	1
+research collaboration	nz agricultural greenhouse gas research centre	1
+subsequently country	nz	1
+zealand government agency	nzte	1
+belive country	nz	1
+common or standard abbreviation s	nz	1
+independent custodian	nz guardian trust	1
+mid-tower case	nzxt adamas	1
+national cultural event	nzsl storytelling event	1
+NZB search engine	nzbindex	1
+small, remote economy	nz	1
+supposed better team	nz	1
+year tenant	nz van lines	1
+brand name model	nzg	1
+broad ethinic category	nz european	1
+down-under country	nz	1
+exclusive guest	nz a-listers	1
+film success	nz film success	1
+financial specialist	nz institute of chartered accountants tax director craig macalister	1
+growth-oriented fund	nz equities fund	1
+intensive, structured youth development program	nzcc	1
+letter ISO standard currency code	nzd for new zealand dollars	1
+low thermal expansion ceramic	nzp ceramic	2
+master tournament	nz masters	1
+national health care policy	nz health strategy	1
+news-related web site	nz herald	1
+nz's main fishing related organization	nz sportfishing council	1
+ongoing depot initiative	nz cultural genealogy mapping project	2
+paramount african woman warrior	nzingha	1
+case	nzxt m fifty-nine 	1
+prescriptive doctrine	nzsx listing rules	1
+riot hotspot	nzerekore in the east	1
+roading authority	nzta	1
+simple guideline criterion	nz drinking water standards	1
+SOLAS activity	nz-solas mesoscale study of the iron biogeochemistry of unperturbed high-nutrient	1
+case	nzxt beta	1
+sustainable fishery	nzrl	1
+basic land law principle	nz land titles system	1
+bigoted country	nz	1
+central government policy document	nz energy strategy	1
+comorian group	nzwani	1
+consequence growth-sensitive currency	nz dollar	1
+currently donor agency	nzaid	1
+disease specific source	nzgg cardiovascular handbook	1
+eastern european type	nz flick broken english	1
+fast turn-over wine	nz sauvignon blanc	1
+gay community HIV service organization	nz aids foundation	1
+group	nz tree crops association	1
+group	nzsm orchestra	1
+group	nzsta with reliable feedback on a wide variety of issue	1
+in-market resource	nzte involved	1
+material language learning resource	nzsl video sample	1
+national and regional umbrella organization	nzk	1
+non-portable effective sediment control system	nz site cited by the epa	1
+NZ marine mammal	nz sea lion	1
+respected survey	nzier's quarterly survey of business opinion	1
+silent case	nzxt h two 	1
+single flag	nz flag	1
+single-rate, broad-base, tax	nz's gst	1
+small currency	nz dollar	1
+stock standard calendar	nz holidays calendar	1
+successful local brew	nz pure	1
+usenet technology	nzb	1
+variable unknown	nz first	1
+wellington event	nzi sevens tournament	1
+zealand medium outlet	nz herald	1
+factor	nzers returning home	1
+project	nzema	1
+project	nzeco project mentioned	1
+artist	nz's finest hip-hop artist	1
+material	nzokoti tree	1
+material	nz standards	1
+place	nz	4
+player	nzogbia	1
+species	nz dotterel	2
+species	nz falcon	2
+species	nz kaka	1
+brand	nz outdoor brand	1
+brand	nzi	1

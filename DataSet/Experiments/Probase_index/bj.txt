@@ -1,0 +1,549 @@
+resource	bja mental health court learning site	1
+exception	bj penn	2
+work	bjork's earliest work	1
+model	bj's wholesale club	1
+model	bj fogg's behavior model	1
+model	bj	1
+model	bjt model	1
+institution	bjm direct	1
+client	bjc healthcare	2
+client	bjork	1
+client	bj's wholesale club	1
+author	bj rowley	1
+author	bjorn merker	1
+person	bjorn	1
+approach	bjs's solution being	1
+idea	bj's restaurant & brewery	1
+star	bj penn	2
+star	bjork	1
+business	bj service business	1
+business	bj adams	1
+business	bj's wholesale club	1
+business	bj wholesale	1
+band	bjork	3
+title	bju	1
+scholar	bjorn lomborg	1
+celebrity	bjork	10
+celebrity	bj upton	1
+firm	bj services	1
+favorite	bjarne riis	2
+favorite	bjoro haaland	1
+act	bj thomas	2
+act	bjork	1
+class	bjj leadership program	1
+class	bjj kids competition team	1
+individual	bjorn norheim	1
+figure	bjork	1
+musician	bjork	5
+musician	bjorn peterson from the opensouls	1
+musician	bj thomas	1
+song	bj thomas' hooked on a feeling'', the sanford-townsend band's smoke from a distant fire'', nick gilder's hot child in the city''	1
+expert	bjorn hanson	1
+researcher	bj wolf	2
+variety	bj- one hundred and ninety 	1
+variety	bj- two hundred and thirty-eight 	1
+variety	bj- two hundred and fourty-eight 	1
+variety	bj- two hundred and eighty-one 	1
+Organisations	bjp	1
+partner	bj's wholesale clubs	1
+partner	bjc healthcare	1
+big name	bj penn	3
+big name	bjork	3
+standard	bjc	1
+role	bjelke in fiddler on the roof	1
+influence	bjork	6
+influence	bjorn & john	1
+store	bj's club	1
+store	bj	1
+store	bj's	1
+critic	bjorn lomborg	3
+restaurant	bj's brewery	2
+restaurant	bj brewhouse	2
+restaurant	bj's brewhouse	1
+restaurant	bj's pizza	1
+restaurant	bj's restaurant & brewhouse	1
+restaurant	bj's chicago pizza & brewery	1
+restaurant	bj's restaurant	1
+restaurant	bj restaurants	1
+additive	bjb enterprises	1
+software	bjac	1
+student	bj of pasifika background	1
+student	bjoern koop	1
+woman	bj anderson	1
+retailer	bj's wholesale club	6
+retailer	bj's wholesale club inc	1
+destination	bjelasica	1
+party	bjp	11
+professional	bj stiskin	1
+speaker	bjorn stigson from the world business council for sustainable development	1
+guest	bj the percussionist	1
+competitor	bj penn	2
+competitor	bjs	1
+performer	bjork	3
+performer	bj thomas	1
+legend	bjorn borg	1
+legend	bj penn.	1
+corporation	bjc healthcare	1
+journal	bjm	1
+local tourist attraction	bjk inonu stadium	1
+control	bjwa control	1
+great	bjorling	1
+great	bjorn waldegard	1
+great	bjorn borg	1
+luminary	bjorn borg	1
+suggestion	bjorn	1
+friend	bjorn beckman	1
+friend	bj thomas	1
+tourist attraction	bjelasnica	1
+composer	bjarne brustad	1
+composer	bjorn lynne	1
+employer	bjc healthcare	2
+employer	bjc health systems	1
+chain	bjs	1
+chain	bj's restaurants	1
+singer	bjork	1
+space	bjectives open space	1
+athlete	bjorn borg	1
+shop	bjorkman's ace hardware in mchenry	2
+shop	bjorkman's ace arms in mchenry	1
+authority	bjorn rorslett	1
+context	bju chapel	1
+guy	bjorn basson	3
+guy	bj chitty	1
+prize	bj's gift certificates	1
+sponsor	bj special grain blends	1
+sponsor	bj services	1
+sponsor	bj's wholesale club	1
+college	bju	1
+keyword	bjj gi reviews	1
+carrier	bjorn	2
+popular brand	bjorn borg	1
+poet	bj ward	1
+poet	bjornson	1
+notable	bjorn & john	1
+electronic device	bjt	2
+local business	bj's wholesale club	1
+city attraction	bjcc	1
+household name	bj's wholesale club	1
+household name	bjork	1
+rider	bjorn leines	2
+rider	bjarne riis	1
+rider	bjarne pedersen	1
+rider	bjorn leukemans	1
+rider	bjorn lienes	1
+candidate	bjp's baddam bal reddy contesting for chevella's lok sabha seat	1
+fighter	bj penn	14
+fighter	bj	2
+fighter	bj penn.	1
+famous name	bjork	1
+finding	bjective clinical finding	1
+hospital	bju	1
+heroes	bjorn waldegard	3
+documentation	bjs program report	1
+coach	bj hair at shawnee mission north	1
+superstar	bjork	2
+art	bjj	3
+big company	bjc	1
+local company	bj sports	1
+menu item	bjt i-v curves	1
+architect	bjorn utzon	1
+observer	bjorn lomborg	1
+famous artist	bjork	1
+famous brand	bjorn borg	1
+certification	bjj black belt	1
+renowned artist	bjork	1
+great player	bjorn borg	1
+national act	bj thomas	1
+champion	bj penn	3
+champion	bjj world champion	1
+champion	bjorn borg	1
+parent	bjorn sandberg	1
+comedian	bjcc host comedian	1
+contemporary artist	bjork	2
+wrestler	bj whitmer	1
+tune	bjork's hyperballad	1
+editor	bjoern brembs	1
+local favorite	bj's restaurant & brewhouse	1
+owner	bjc healthcare	1
+advocate	bjorn almar	1
+top name	bjorn borg	1
+semiconductor device	bjt	4
+minister	bjp's durable chief minister	1
+CDs	bjork cds	1
+research	bj fogg's persuasive technology model from stanford university	1
+recording artist	bjork	2
+political party	bjp	14
+political party	bjp r	1
+musical influence	bjork	6
+open space	bjectives open space	1
+innovator	bjork	1
+broker	bjm research head andrew mcnulty	1
+area	bjp's stronghold area	1
+corporate sponsor	bj's brewhouse	1
+martial art	bjj	2
+rare exception	bju	1
+songwriter	bjork	1
+great item	bjorn wiinblad from danmark	1
+residential area	bjb nagar	1
+professional athlete	bjorn andersson	1
+service business	bj service business	1
+international journal	bjog	1
+international act	bj thomas	1
+international act	bjork	1
+textbook	bju press homeschool curriculum	1
+equipment manufacturer	bjm	1
+hitter	bj upton	1
+local club	bj's wholesale club	1
+minor difference	bj rules variation	1
+service	bj	4
+clinical finding	bjective clinical finding	1
+talented artist	bjork	1
+skeptic	bjorn lomborg	1
+large chain	bj's wholesale club	2
+active device	bjt	1
+active device	bjt s	1
+opposition party	bjp	10
+environmentalist	bjorn lomborg	1
+recipient	bj symons	1
+great restaurant	bjs brewery	1
+commercial company	bj's wholesale	1
+professional company	bj's at wholesale price	1
+political organization	bjp	1
+famous player	bjorn borg	1
+retail giant	bj's wholesale clubs	5
+retail giant	bj s wholesale clubs	1
+dam	bjelke peterson	1
+senior leader	bjp legislative party leader om prakash singh	1
+visitor attraction	bjelasnica	1
+service	bj with cumshot in the mouth	1
+discount store	bj's wholesale club inc bj.n	2
+discount store	bj's wholesale club inc	2
+active element	bjt transistor in closed loop	1
+big store	bj	1
+fight	bj penn vs. caol uno	1
+music icon	bjork	1
+national client	bjc healthcare	1
+wholesaler	bj's wholesale	1
+discounter	bj's wholesale	2
+discounter	bj's wholesale club	1
+discounter	bj's wholesale club inc.	1
+local resident	bjarne holm	1
+potential partner	bjd	1
+pedal	bjf honey bee	1
+world famous artist	bjork	1
+discount retailer	bj's wholesale club	1
+internationally acclaimed artist	bjoern melhus	1
+winemaker	bjornson vineyard	1
+anchor store	bj's wholesale club	1
+leading name	bjorn dunkerbeck	1
+cherished number plate	bju  eleven e 	1
+prominent musician	bjork	2
+store brand	bjs	1
+sceptic	bjorn lomborg	1
+collector street	bjune drive	1
+skier	bjorndalen	1
+big name band	bjork	1
+top fighter	bj penn	2
+MMA fighter	bj penn.	1
+MMA fighter	bj penn	1
+regional chain	bj's restaurant & brewery	2
+regional chain	bj's wholesale club	1
+combat sport	bjj	1
+key contributor	bj's restaurants	1
+distinguished speaker	bjorn stigson	1
+high-profile star	bjork	1
+company	bj's wholesale	5
+company	bj services	3
+company	bj's wholesale club	3
+company	bjm	1
+company	bj	1
+big-box retailer	bj's wholesale	1
+league player	bj upton	1
+respected artist	bj nilsen	1
+analytical model	bjt	1
+human cell	bj fibroblasts	1
+tennis great	bjorn borg	2
+gas station	bj's wholesale club on airport road in allentown	1
+company	bj's wholesale club inc. of natick	1
+company	bj's	1
+company	bjc	1
+hospital system	bjc healthcare in st. louis	1
+mass merchandiser	bjs	1
+Neuroscientists	bjoern brembs	1
+online broker	bjm private client services	1
+earliest work	bjork's earliest work	1
+food establishment	bj's brewery	1
+mountain resort	bjelasnica	1
+regional party	bjd	1
+renowned player	bjorn borg	1
+baby carrier	bjorn	1
+on-line store	bj's wholesale club	1
+retail organization	bj's wholesale club	1
+NBA legend	bj armstrong	1
+big party	bjp	1
+cd	bjork's voltaic in the cds two 	1
+corporate donor	bj's wholesale club	1
+tennis legend	bjorn borg	3
+world class fighter	bj penn	1
+chief minister	bjp's durable chief minister	1
+hindu organization	bjp	1
+rival firm	bj wholesales	1
+classic player	bjorn borg	1
+big shot	bjorn leines	1
+amazing photographer	bjorn kavanaugh	1
+relaxing music	bjork	1
+entertainment great	bj thomas	1
+large healthcare organization	bjc health system	1
+supplement company	bjorklund	1
+tenor	bjorling	1
+warehouse club	bj's wholesale	3
+warehouse club	bj's wholesale club	2
+warehouse club	bj's wholesale club.com	1
+bipolar device	bjt	1
+mainstream party	bjp	1
+conventional switch	bjt	1
+premier institute	bjb college	2
+wholesale club	bj's wholesale club	2
+wholesale club	bj's wholesale club inc.	1
+wholesale club	bj's wholesale	1
+wholesale club	bj's warehouse	1
+wholesale club	bjs club	1
+national party	bjp	3
+white rot fungus	bjerkandera adusta	2
+white-rot fungus	bjerkandera sp.	2
+basic semiconductor device	bjt	1
+famous champion	bjorn borg	1
+large restaurant chain	bj's restaurants	1
+overseas star	bj botha	1
+tennis superstar	bjorn borg	1
+top professional player	bjorn borg	1
+big name fighter	bj penn	1
+professional football player	bj hill	1
+grappling style	bjj	1
+music apps	bjork's biophilia	1
+bipolar transistor	bjt	1
+club store	bj's wholesale	5
+club store	bj	1
+enjoy artist	bjork	1
+bigtime fighter	bj penn	1
+discount retail store	bj's wholesale club	1
+mainstream political party	bjp	2
+event	bjork at the sydney opera house	1
+event	bj international event	1
+popular and prestigious author	bjorn lomborg	1
+restaurant concept	bj's brewhouse	2
+survey course	bju	1
+top name fighter	bj penn	2
+underwear brand	bjorn borg	1
+wholesale store	bjs wholesale	1
+chiropractic leader	bj palmer	3
+nobel winner	bjornstjerne bjornson	1
+religious party	bjp	1
+talented local artist	bj holland	1
+electronic music artist	bjork	1
+fashion-forward celebrity	bjork & rihanna	1
+mid-90s alternative act	bjork	1
+normal human cell	bj cells of fibroblast origin	1
+overseas-based player	bj botha	1
+overseas-based star	bj botha	1
+warehouse club store	bj's wholesale	2
+beaten top fighter	bj penn	1
+buying club	bj's	1
+extensive system	bjc healthcare	1
+high voltage semiconductor device	bjts	1
+program	bjcp	1
+pugilist	bj flores	1
+company's peer	bj's restaurants inc.	9
+electric and electronic component	bjt transistor	1
+equally iconic name	bjorn borg	1
+female pop star	bjork	1
+hindu party	bjp	4
+reliable partner	bjb	1
+scale doll	bjds	1
+yugoslav destination	bjelasica	1
+acclaimed international music artist	bjork	1
+acoustic act	bjork	1
+baby carrier brand	bjorn	1
+english and european influence	bjork	1
+established competitive art	bjj	2
+famous rally driver	bjorn waldegaard	1
+famous viking	bjarni	1
+fundamentalist institution	bju	1
+local cafe	bj's coffee of molalla	1
+national political party	bjp	2
+non-scientists	bjorn lomborg	1
+political rival	bjp's rananvav mla karshan dula	1
+provincial political party	bjd	1
+research boutique pedal manufacturer	bjf	1
+big anchor store	bj's wholesale club	1
+bout	bj penn vs. jon fitch	2
+bulk retailer	bj's wholesale club	2
+clubs	bj's wholesale	1
+communal party	bjp in india	1
+community	bjornson township	1
+famous pilot	bjorn waldegard	2
+financial speculator	bjorgolfsson	1
+furry household name	bj the bear	1
+great grass court player	bjorn borg	1
+great tennis legend	bjorn borg	1
+icelandic band	bjork	1
+martial art uniform	bjj	1
+oil service	bj services company	1
+oil service	bj services	1
+online academy	bju press academy of home education	1
+reliable and good brand	bj union	1
+sport's biggest name	bjorn borg	1
+three-terminal device	bjt	1
+wood decay fungus	bjerkandera adusta	1
+alcohol retailer	bj's wholesale	1
+criminal political party	bjp	1
+discount warehouse club	bj's warehouse	1
+dominant party	bjp	1
+organization	bjc healthcare	1
+organization	bjp	1
+festival veteran	bjorn nabozney	1
+freehand pipe	bjarne	1
+good maker	bjornsted in bern	1
+high power switching device	bjt transistor	2
+influential alternative female artist	bjork	2
+longtime UFC champion	bj penn	1
+modern combat sport	bjj	1
+normal human somatic cell	bj foreskin fibroblasts	1
+oilfield service provider	bj services	1
+regular tour star	bjorn borg	1
+ron paul-type candidate	bj lawson	1
+single crystal device	bjt transistor	2
+specialty bar drink	bj's original margarita	1
+strong regional party	bjd	1
+tennis luminary	bjorn borg in attendance on friday	1
+top-notch international act	bjork	1
+viking	bjarni herjulfsson	1
+architectural company	bjarke ingels group	1
+auto buying service	bj's wholesale club	2
+biological treatment sanitarium	bjorkagarden health institute	1
+deveral company	bj's wholesale clun members	1
+ESD protection alternative	bjts	1
+five-year market-beating chain	bj's restaurants	1
+fringe artist	bjork	1
+great chain restaurant	bj's	1
+great teammate	bj armstrong	1
+hindu nationalist organization	bjp	1
+innovative and idiosyncratic act	bjork	1
+JDA client	bj's wholesale club	1
+membership warehouse store	bj's wholesale club	1
+mineral bath resort	bjelasnica	1
+modern MOS device model	bjt	1
+Music A-listers	bj thomas	3
+oil-services company	bj services	1
+prominent party	bjp	1
+quick tip warehouse club	bj's wholesale	1
+re-mixed artist	bjork	1
+skeptical observer	bjorn lomborg	1
+solid state amplifier element	bjt's	1
+versatile technology	bj's viking ii pw	1
+well-known user	bjb	1
+windsurfing champion	bjorn dunkerbeck	1
+world class professional athlete	bj penn.	1
+anyconventional switch	bjt	1
+name	bj	2
+name	bj-s	2
+name	bjork	2
+name	bjn-aromas of china	1
+name	bjorn borg	1
+name	bjarne riis	1
+name	bj upton	1
+name	bjorn waldegard	1
+curriculum company	bju	1
+entrenched national party	bjp	1
+name	bj penn	1
+gaming ETFs	bjk	1
+Hawkeyes	bj armstrong	1
+high top tenor	bjorling	1
+ice cool swedish great	bjorn borg	1
+icelandic peasant	bjarthur of summerhouses	1
+incredibly talented UFC fighter	bj penn	1
+japanese garbage wrestling fed	bjpw	1
+lambasting opposition party	bjp	1
+large blue chip	bjtoto	1
+large energy service company	bj services	1
+modern ma	bjj	1
+modern, electronic artist	bjork	1
+nationally-recognized retailer	bj wholesale	1
+norwegian writer	bjornstjerne bjornson	1
+nsa	bjs	1
+case	bj's intrusion	1
+pro-capitalist political party	bjp	1
+purchased figure	bjd	1
+red deer-based oilfield service company	bj services co.	1
+rural health facility	bjc medical center	1
+scandinavian world class pilot	bjoern waldegaard	1
+self-rotary tool	bjv	1
+short recommendation	bj services	1
+single power transistor	bjt	1
+small potty	bjorn small potty	1
+strongest study	bjorkman	1
+warehouse superstore	bj	1
+big-boxed retailer	bjs wholesale club	2
+bulk club grocery store	bj's	1
+Calls to action	bj scofields statement in the echo	1
+cardio intensive martial art	bjj	1
+considering classic	bjorn borg's mullet	1
+cultural ideological political party	bjp	1
+DAMN good engineer	bjorn	1
+dedicated private client wealth manager	bjm	1
+discontinued mechanical prosthesis	bjork-shiley convexo-concave valve	1
+group	bjp large recruitable crowd	1
+group	bjf	1
+environmental sceptic	bjorn lomborg	2
+fort E direct feedback	bjerknes feedback of t e	1
+frontpacks	bjorn	1
+hindu fundamentalist party	bjp	1
+hindu nationalist party	bjp	2
+icelandic musical act	bjork	2
+icelandic musician	bjork	2
+IMO fighter	bj	1
+indian extremist	bjp-leaders lal krishna advani	1
+indian political organization	bjp	1
+industries top professional	bj thomas	1
+mixed martial art lesson	bjj in new jersey	1
+nice encounter	bjorn	1
+Nocks	bjorn nock	1
+order circle	bjj	1
+prominent european musician	bjork	1
+prominent forward thinking artist	bjork	1
+random interjection	bj throwing jp down the stair	1
+reach crush	bj manalo	1
+right-wing political party	bjp	1
+sceptical environmentalist	bjorn lomburg	1
+single-load software	bjl	1
+skeptical environmentalists	bjorn lomborg	2
+sweet and sad music	bjork	1
+textbook program	bju	1
+time political party	bjp	1
+true AI robot	bjorn	1
+viking explorer	bjarni herjolfsson	1
+zaniest bit	bjork singing about the housing market	1
+project	bj	1
+project	bjc	1
+artist	bjork	46
+artist	bj thomas	3
+artist	bjorling	1
+artist	bjorn johan muri	1
+artist	bjorge	1
+artist	bjorn	1
+place	bj's wholesale	1
+player	bjorn borg	13
+player	bj upton	2
+player	bj prager	1
+player	bjoern werner	1
+player	bj botha	1
+technology	bj's new coiled tubing unit	1
+species	bjichu kangro	1
+device	bjt	6
+brand	bjorn	1
+brand	bjem bride	1
+concept	bjj	1
+component	bjt	1
+site	bj sandwich	2
+site	bj pov	1
+site	bjcp for guideline	1

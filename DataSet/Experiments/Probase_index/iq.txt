@@ -1,0 +1,439 @@
+factor	iq	23
+factor	iq level	2
+product	iqf product related product	1
+product	iqf scallop related product	1
+facility	iqf freezing	2
+ophthalmologist	iqbal mazhar	1
+product	iqf broccoli related product	1
+product	iqf fire roasted vegetable	1
+product	iqf garlic related product	1
+product	iqf pea related product	1
+product	iqf sweet corn related product	1
+product	iqqu acne serum	1
+reason	iq equality with the native	1
+work	iq font	1
+work	iqtisaduna	1
+model	iqair gc multigas	1
+model	iqair gc voc	1
+characteristic	iq	3
+characteristic	iq distribution	2
+characteristic	iq score	1
+institution	iqra jamiat ulama	1
+document	iqama	1
+document	iq test	1
+author	iqbal	2
+feature	iq routes	5
+feature	iq	2
+film	iqbal	2
+school	iq academy	1
+school	iqra public residential school	1
+scholar	iqbar kaur	2
+city	iqaluit	1
+city	iquitos	1
+town	iquitos	2
+criterion	iq	1
+criterion	iq score	1
+test	iq	8
+test	iq test	6
+test	iq exam	1
+test	iq testing	1
+test	iq-type test	1
+indicator	iq test score	3
+indicator	iq subtests	1
+attribute	iq	1
+study	iqola project	1
+movie	iqbal	6
+partner	iqguys llc	1
+influence	iq	1
+market	iqaluit	1
+risk factor	iq	3
+provider	iqfeed	1
+trait	iq	12
+destination	iquique	1
+offer	iq test	2
+offer	iqf green bean related offer	1
+protein	iqgap one 	1
+protein	iqgap	1
+issue	iq	1
+stakeholder	iqbal rajahbalee from blc chambers	1
+difference	iq	5
+difference	iq distribution	1
+control	iq score	1
+channel	iqra	1
+car	iq	1
+friend	iqbal ali	1
+measurement	iq score	2
+measurement	iq	1
+offering	iquitos	1
+committee	iqac	1
+committee	iqaluit	1
+singer	iqbal bano	2
+toy	iq ball	1
+context	iq of individuals over time	1
+veteran	iqbal athas	1
+great feature	iq routes	1
+poet	iqbal	2
+analyst	iqbal mustafa	1
+contributing factor	iq	1
+jurisdiction	iqaluit	1
+account factor	iq	2
+airport	iqualuit	1
+construct	iq	1
+assessment	iq	1
+assessment	iq test	1
+physical characteristic	iq	1
+item	iq	1
+item	iq air purifier	1
+confounding factor	iq	1
+large city	iquitos	2
+design parameter	iq imbalance	1
+institute	iqwig in germany	1
+personal characteristic	iq	1
+key parameter	iq imbalance	1
+stat	iq	1
+demographic information	iq score	1
+confidential information	iq score	1
+human factor	iq	1
+personality trait	iq	1
+detail	iq baby detail	1
+widgets	iq test	1
+good feature	iq routes for picking the best route based on condition	1
+covariates	iq	1
+objective measure	iq -metric	1
+abstraction	iq	1
+conventional mean	iq test	4
+lawyer	iqbal haider	1
+confounding variable	iq	2
+private information	iq result	1
+impairment	iq gain imbalance	2
+demographic characteristic	iq level	1
+predictor	iq	2
+renowned company	iqinvision	1
+plug-ins	iqs reverberator	1
+religious organization	iqra foundation	1
+standardized test	iq	4
+standardized test	iq test	3
+social indicator	iq	1
+objective factor	iq	2
+area	iquitos	1
+area	iqaluit	1
+area	iqbal town	1
+potential confounding factor	iq	1
+large town	iqaluit	1
+questionnaire	iqcode	1
+cognitive function	iq	1
+human characteristic	iq	1
+service	iq testing service	1
+service	iqc	1
+health factor	iq	1
+cognitive factor	iq	3
+competitive market	iqf red raspberries market	1
+objective datum	iq	1
+well-known personality	iqbal haider	1
+causal factor	iq level	1
+service	iq routes	1
+third party tool	iq query	1
+end point	iq score	1
+modulation scheme	iq up-conversion	2
+hard datum	iq score	1
+treatment service	iq enhancement	1
+activator	iqgap	1
+small car	iq	1
+background variable	iq	1
+advanced equipment	iqf freezer	2
+northern city	iquique	1
+complex trait	iq	2
+continuous datum	iq	1
+invasive test	iq	1
+topic	iq test	1
+scientific tool	iq test	1
+online school	iq academy kansas	2
+customer requirement	iqf	1
+leftist	iqbal haider	1
+assessment instrument	iq test	1
+unmeasured factor	iq	1
+topic	iqr	1
+topic	iq level	1
+topic	iq	1
+educational institute	iqra university	1
+sample characteristic	iq	1
+food material	iqf vegetable	2
+performance aspect	iq	1
+measurement instrument	iq test	2
+mental function	iq	1
+desirable trait	iq	1
+taboo topic	iq	1
+external file	iq message file	1
+psychological test	iq testing	1
+psychological test	iq test	1
+frozen vegetable	iqf asparagus	1
+frozen vegetable	iqf broccoli	1
+frozen fruit	iqf strawberry	2
+real-time service	iq routes	1
+educational product	iq concepts	2
+test score	iq	1
+subject characteristic	iq	1
+home-grown company	iqe	1
+parental factor	iq	1
+beach city	iquique	1
+intelligence test	iq test	4
+aptitude test	iq ests	1
+aptitude test	iq test	1
+global measure	iq test	1
+air purifier	iqair gc multigas	1
+company	iqstor networks	1
+company	iqs	1
+cognitive variable	iq	1
+national and international award	iqpc awards for the successful completion of improvement projects using qc tools & technique	1
+real datum	iq score	1
+third variable	iq	1
+cognitive domain	iq	2
+satellite channel	iqra	1
+activity	iq game with the family	1
+cognitive test	iq test	1
+intermediate variable	iq	3
+single criterion	iq score	1
+economic center	iquitos	1
+psychometric test	iq	1
+innovative new feature	iq routes	3
+common measurement	iq	1
+standardized measure	iq test	1
+local development	iq winnersh	1
+quantitative character	iq	1
+national development	iqs	1
+prog band	iq	1
+third party inspection agency	iqc	1
+compliance document	iq	1
+Standardized testing	iq test in groups of people of different gene	1
+consumer-oriented product	ique	1
+muslim thinker	iqbal lahoori	2
+pioneering technology	iq fit	2
+real world datum	iq score	1
+mental characteristic	iq	1
+online assessment	iq test	1
+shared risk factor	iq	1
+navigation technology	iq routes	2
+prominent lawyer	iqbal hyder	1
+islamic thinker	iqbal	1
+psychological assessment	iq test	1
+psychological assessment	iq	1
+standardised test	iq-type test	1
+correlated factor	iq	1
+distal variable	iq	1
+information	iq score	1
+today's issue	iq score	1
+city car	iq	1
+exclusionary criterion	iq test	1
+global test	iq scale	1
+clinical instrument	iq test	1
+control software	iqan sauer-danfoss inc.	1
+world-renowned player	iqinvision	1
+english company	iqe plc	1
+standard exam	iq test	1
+tomtom feature	iq routes	3
+best and latest educational game	iq identity quest	1
+genetic disorder treatment service	iq enhancement service	2
+innate trait	iq	1
+neuropsychological function	iq	1
+physical or mental characteristic	iq	1
+urban conurbation	iquitos	1
+broad-based measure	iq	1
+educational company	iqra book center	1
+program	iq for speed reading	1
+second, confounding variable	iq	1
+composite score	iq score	2
+inuit community	iqaluit	1
+junctional protein	iqgap	1
+jungle town	iquitos	1
+community	iqaluit	5
+standardized testing instrument	iq	1
+urdu poet	iqbal	1
+aparthotels	iq callao	1
+child-related factor	iq	2
+cognitive property	iq measure	1
+command option	iqtalk command option	1
+factor	iq score	1
+g-loaded test	iq	1
+g-loaded test	iq test	1
+globally unique identifiers	iqn	1
+HTA program	iqwig in germany	1
+measured function	iq	1
+obscure sympho band	iq	1
+professional production company	iq media	1
+community	iqaluit in the canadian arctic	1
+systematic interview type	iq test	1
+testing modalities	iqmark digital ecg	1
+workers representative	iqbal moradi	1
+broad global domain	iq	1
+contained entertainment	iq test game	1
+organization	iq academies	1
+iqf fruit	iqf strawberry	2
+irrelevant variable	iq	1
+neoprog band	iq	1
+peruvian destination	iquitos	1
+organization	iqe with excellent knowledge	1
+schizophrenia-related factor	iq	1
+scrutiny test	iq test	1
+topical antibiotic medication	iquix	2
+traditional psychological test	iq test	2
+ability measure	iq	1
+abstract reasoning test	iq	1
+activated carbon filter	iqair granular activated carbon adsorption filter	1
+cognitive testing	iq test	1
+common and inexpensive test	iq	1
+decent movie	iqbal	1
+dried vegetable related offer	iqf green asparagus	1
+formal assessment instrument	iq	1
+formal standard test	iq test	1
+frozen mushroom related offer	iqf green asparagus	1
+frozen potato product	iqf potato cut	1
+frozen potato product	iqf potato cube	1
+frozen potato product	iqf potato strip	1
+helpful navigation technology	iq routes	1
+historical and contemporary case	iq	2
+industry practitioner	iqbal khan	1
+iscsi attribute	iqn name of the iscsi initiator	1
+iscsi attribute	iqn of the iscsi initiator	1
+moderate spokesman	iqbal sacranie	1
+Naks	iq naks	1
+neo-progressive band	iq	1
+oven ready item	iqf chicken breast	1
+plush unstuffing toy	iqube	1
+powernet network capable device	iq family of metering device	1
+purchaser page store VP information	iqx  three 	1
+single score	iq	1
+standard psychological test	iq test	1
+application	iq amplifier	1
+table record information	iq	2
+vitalistic thinker	iqbal	1
+well-known mantic method	iq-tests	1
+calmodulin target	iqgap one 	1
+cdc42 target	iqgap	1
+constellation measurement	iq ref	1
+constellation measurement	iq meas	1
+desert station	iquique	1
+Entertainment gimmick apps	iq test	1
+F. A night mode	iqeye lightgrabber ii feature	1
+F. A night mode	iqeye lightgrabber feature	1
+faithbased radio station	iqra fm	1
+name	iqbal pasand	1
+flash card-creator program	iq flash cards	1
+human phenotypes	iq	2
+interesting self-tests	iq	1
+Interval measurement	iq measurement	1
+factor	iq matter	1
+measured continuous trait	iq	1
+Mental health testing	iq test	1
+night mode	iqeye lightgrabber feature	1
+night mode	iqeye lightgrabber ii feature	1
+non-genetic test	iq test	1
+nonlinearity effect	iq imbalance caused by the rf-frontend	1
+norte grande city	iquique	1
+polymerase chain reaction assay	iq multiplex powermix	1
+presumably child characteristic	iq	1
+psychometric approach	iq test	1
+separate broadband power measurement device	iq analyzer	1
+static term	iq	1
+subtle or hidden factor	iq loss	1
+case	iq	1
+territorial park	iqalugaarjuup nunanga in rankin inlet	1
+tomtom-exclusive technology	iq routes	2
+typical characteristic test	iq	1
+validation protocol	iq	4
+vehicle navigation unit	ique	1
+accredited verification agency	iquad verification services	1
+Amazonian boom-towns	iquitos	1
+benchmark study	iqs	1
+broad, global measure	iq	1
+burt's controversial twin datum	iq correlation between twin	1
+by-now-familiar feature	iq routes	1
+ch-domain protein	iqgap	1
+child leader	iqbal masih	1
+Conventional assessment information	iq	1
+option	iqtalk command option	1
+email management solution	iq.suite by group technologies	1
+established construct	iq	1
+exclusive tomtom extra	iqr	1
+fact many predictive factor	iq	1
+formal standardized test	iq test	1
+full service creative communication agency	iq media	1
+full-time public charter school	iq academy	1
+GAP protein	iqgap two 	2
+global standardized test	iq	1
+good air filter	iq air with the activated charcoal for the chemical	1
+H. A night mode	iqeye lightgrabber feature	1
+hedge fund replication product	iq hedge multi-strategy tracker etf	1
+hyperhepa unit	iqair healthpro compact	1
+I. A night mode	iqeye lightgrabber feature	1
+independent inspection department	iqc	2
+informant-rated instrument	iqcode	1
+in-house inspection department	iqc	1
+in-house quality control department	iqc	1
+innovative network product	iq services	1
+intelligence score	iq	1
+IQF frozen boletus edulis	iqf boletus edulis dices	1
+J. A night mode	iqeye lightgrabber feature	1
+K. A night mode	iqeye lightgrabber feature	1
+multi dimensional unit	iqair gc voc	1
+namkeo mushroom	iqf namkeo mushrooms m	1
+native NTCIP speaking controller	iq astc	1
+necessry document	iq	1
+nitrate city	iquique	1
+non-specific composite score	iq	1
+method	iqp	1
+official test	iq test	1
+power quality monitor	iq analyzer	1
+psychological and educational measurement	iq	1
+psychometric assessment methodology	iq testing	1
+quantitative and standardized test	iq	1
+quantitive measure	iq	1
+raw natural talent	iq	1
+resolution camera	iqeye megapixel camera	1
+method	iq	1
+solar-powered Bluetooth speakerphone	iqua vizor sun	1
+technolog	iqjection of water	1
+truth extremist	iqbal sacranie	1
+validation documentation document	iq	1
+vital genetically-controlled trait	iq	1
+well-defined indicator	iq	1
+well-established cultural practice	iq testing	1
+tool	iqss dataverse focus on the broad sharing of datum	1
+tool	iq test	1
+product	iqf broccoli	6
+place	iquique	1
+place	iqaluit	1
+place	iqualuit	1
+product	iq puzzle	2
+product	iq natural	1
+product	iqf apple related product	1
+product	iqf corn related product	1
+product	iqf fruit related product	1
+product	iqf green bean related product	1
+product	iq	1
+product	iq controller	1
+product	iqf cauliflower related product	1
+product	ique	1
+technology	iq routes	1
+system	iq mx	1
+species	iquitos gnatcatcher	1
+measure	iq	5
+measure	iq test	1
+variable	iq	18
+variable	iq score	1
+function	iq	1
+brand	iqair	1
+concept	iq	1
+component	iq demodulator	1
+aspect	iq	2
+aspect	iq developement	1
+aspect	iq testing	1
+related product	iqf product related product	1
+related product	iqf scallop related product	1
+related product	iqf apple related product	1
+related product	iqf green bean related product	1
+related product	iqf fruit related product	1
+related product	iqf corn related product	1
+related product	iqf cauliflower related product	1
+related product	iqf garlic related product	1
+related product	iqf broccoli related product	1
+related product	iqf sweet corn related product	1

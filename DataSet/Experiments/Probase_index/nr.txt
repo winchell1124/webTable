@@ -1,0 +1,948 @@
+product	nrg one 	1
+initiative	nrm tools	1
+initiative	nrega	1
+initiative	nrsp	1
+initiative	nregs	1
+datum	nrl monterey weather	1
+resource	nrf	1
+resource	nrcs soils map	1
+resource	nrcs fund	1
+resource	nra	1
+source	nrc tables of feed composition	1
+source	nr two thousand and three  beta tester nim cross 	1
+source	nra	1
+property	nrc	1
+game	nra high power	1
+game	nrl	1
+subject	nrw management	1
+product	nr tree bark gruel	1
+product	nr two thousand and three 	1
+model	nrtl	4
+model	nras	2
+model	nrc	1
+model	nrc dairy calf sub-model	1
+model	nrl on fox	1
+category	nrt-vbr	1
+institution	nra	2
+institution	nrel	2
+institution	nrc	2
+institution	nrotc	1
+institution	nrel in colorado	1
+institution	nrb	1
+client	nrma	3
+client	nrg energy	1
+client	nre	1
+client	nrj group	1
+document	nrf	1
+product	nrt	1
+product	nr  four  navigation gps 	1
+approach	nre method	1
+effect	nrti side effect	1
+effect	nrti-associated adverse effect	1
+agency	nrcs	30
+agency	nrf	1
+agency	nra	1
+agency	nrel	1
+agency	nrao	1
+agency	nro	1
+course	nrp	1
+course	nra pistol	1
+course	nra certification	1
+action	nrc	2
+solution	nrx	1
+star	nroy rogers	1
+business	nrma	2
+school	nr high school	1
+practice	nrcs cost-shared practice	1
+title	nrha derby champion	1
+title	nrd	1
+operation	nrfu	1
+circumstance	nrc license requirement	1
+cost	nrc fee	2
+development	nrt suica deal on the sticky	1
+celebrity	nrl players jarryd hayne	1
+firm	nr	1
+drug	nrti's	1
+drug	nrg- one 	1
+indicator	nrp	1
+indicator	nra membership	1
+treatment	nrt	1
+manufacturer	nrs	1
+instrument	nrao's own very long baseline array	1
+act	nrbq	1
+publication	nrc bulletin	2
+publication	nrma open road	1
+setting	nr	2
+setting	nr two 	1
+setting	nr one 	1
+class	nra	1
+class	nra range safety officer training	1
+class	nra personal protection in the home	1
+class	nra basic pistol	1
+class	nrha youth	1
+class	nrp	1
+class	nra home firearm safety	1
+website	nrel	1
+website	nrs	1
+unit	nrg varalux	1
+innovation	nrittswaraavali	1
+innovation	nrutyopahaaram	1
+innovation	nrittangahaaram	1
+mean	nrnateur radio system	1
+entity	nrg	1
+entity	nrel	1
+entity	nrc	1
+entity	nr el	1
+medication	nrt	2
+format	nrg	1
+format	nroff	1
+format	nrz	1
+Organisations	nrma	4
+Organisations	nrsa	2
+Organisations	nrpb	1
+Organisations	nras	1
+partner	nrcs	4
+partner	nrt	1
+partner	nrdc	1
+partner	nra	1
+show	nrm winter show jumping series	1
+design	nrg	1
+market	nrt	1
+customer	nrg energy	1
+intervention	nrt	1
+intervention	nrm	1
+effort	nrel's solards model development	1
+actor	nrc	1
+label	nrr on the device while shopping	1
+department	nrcan	1
+side effect	nrti side effect	1
+feature	nr	1
+scheme	nregs	6
+scheme	nrega	4
+scheme	nrmp	1
+scheme	nrhm	1
+scheme	nrega being introduced	1
+award	nritya choodamani award by sri krishna gana sabha	1
+disorder	nrem arousal disorder	1
+capability	nra	1
+module	nri new	3
+module	nrzi encoder	1
+magazine	nrc handelsblad	1
+provider	nrich	1
+sign	nra membership	1
+retailer	nrs	1
+destination	nrt	1
+report	nrs table	1
+report	nrc report on improving schooling for language minority students	1
+party	nrma	1
+party	nrc	1
+protein	nrx iv-interacting protein	1
+protein	nrf two -regulated host defense protein 	1
+protein	nr two b subunit of the nmda receptor 	1
+competitor	nrg energy	2
+discipline	nra action shooting	1
+state	nrvc member state	1
+corporation	nra	2
+corporation	nrma	1
+corporation	nrg energy	1
+producer	nr paschisia	1
+producer	nrg	1
+channel	nrl	1
+luminary	nra president ronald schmeits	2
+therapy	nrt	1
+medicine	nrt	2
+utility	nrg	2
+sport	nrl	4
+charge	nrc	1
+station	nrk klassik	1
+station	nrn	1
+interest	nra	1
+authority	nrd	1
+account	nro bank account	1
+account	nro demat account	1
+large company	nrel	1
+transaction	nri deposit	1
+competition	nrl	2
+competition	nrg games between bc's resident hall	1
+factor	nrsf	2
+museum	nra museum in virginia	1
+annual event	nrl grand final day	1
+NGOs	nra	1
+NGOs	nrc	1
+database	nrl online bibliography	1
+politician	nrm top politician	1
+government agency	nrcs	8
+government agency	nrel	1
+government agency	nra	1
+gene	nrcam	3
+gene	nrg one 	2
+gene	nrf one 	1
+gene	nras	1
+gene	nrg- one 	1
+gene	nr cam	1
+evidence	nric	1
+collection	nrrl	1
+industry leader	nrg energy inc.	1
+outlet	nro	1
+professional organization	nra	1
+personal information	nric	1
+aid	nrt	1
+marker	nras	1
+nation	nri	1
+programme	nrega	6
+programme	nregs	2
+programme	nrw hydrogen hyway	1
+programme	nr management	1
+programme	nrp	1
+command	nr	1
+command	nroff	1
+newspaper	nrc handelsblad	1
+issue	nre technology development	1
+giant	nrt inc.	1
+establishment	nrg knocknacarra	1
+code	nrc's frapcon code	1
+code	nrl	1
+participant	nrg	1
+reference	nrc regulation	1
+reference	nrsv bible	1
+reference	nrc regulatory guides	1
+lake	nratioinsockeye salmon nursery lake	1
+adverse effect	nrti-associated adverse effect	1
+interest group	nra	8
+national organization	nrc	2
+national organization	nreca	1
+national organization	nrca	1
+national organization	nrsa	1
+national organization	nrpa	1
+social factor	nrm knowledge	1
+exhibit	nra whitetail collection	1
+non-profit organization	nrdc	1
+non-profit organization	nrpa	1
+analysis	nrem sleep	1
+office	nrc program office	1
+airport	nrt	2
+software program	nrpatunga	1
+software program	nrel solar advisory model	1
+conference	nrpa congress	1
+assessment	nrc report	1
+version	nrsv	12
+certification	nrp	1
+state agency	nrb	1
+state agency	nrm	1
+list	nrepp  two 	1
+funding source	nrcs program	1
+national act	nrbq	1
+stage	nrl scaling	1
+organic compound	nr two 	1
+insurance company	nrma	5
+industry group	nreca	1
+scale	nrs	1
+local agency	nrcs	1
+federal agency	nrcs	10
+federal agency	nra	2
+analytical technique	nra	1
+big event	nrj music award	1
+theater	nrn berg	1
+headliner	nrbq	1
+great brand	nrs	1
+loan	nri loans	2
+manifestation	nrsimha	1
+ion	nrl's innovative process implant ion	1
+government department	nrcc	1
+government department	nrhm	1
+assessment tool	nrcs iowa p-index	1
+ligands	nrg three 	1
+ligands	nrg- one 	1
+insurer	nrma	3
+insurer	nrma citing greater losses from the poor weather event	1
+insurer	nrma insurance	1
+niche	nrt smoking cessation aid	1
+bloggers	nro's mark steyn	1
+specimen	nrm sp four thousand five hundred and eighty-seven 	1
+environmental group	nrdc	13
+experimental condition	nr	1
+market leader	nrg	1
+partnership	nrd trustee council	1
+political party	nrm	1
+drama	nrutyashala's innovative dance drama	1
+regulator	nrc	1
+heavy hitter	nrb heavy hitter	1
+transcription factor	nrf two 	3
+transcription factor	nrl	1
+transcription factor	nr two e three 	1
+non-profits	nrdc	2
+minority group	nra	1
+biomarkers	nras	1
+online store	nrs	1
+U.S. company	nrg system	1
+government organization	nre	1
+national program	nra	1
+antibody	nrf two 	1
+panel	nrc committee on sea floor observatories	1
+business group	nrma	2
+prestigious award	nrj music awards	1
+complex structure	nrd guide single ended mixer	1
+key point	nrv for stock	1
+national group	nrdc	1
+governmental agency	nrcs	1
+translation	nrsv	19
+translation	nrsv for class purpose	1
+government entity	nrc	1
+government entity	nrca	1
+laboratory	nrc-cnrc in canada	1
+laboratory	nrel	1
+area	nrtm service	1
+academic program	nraef managefirst program	1
+acronym	nrn	2
+acronym	nrca	1
+generator	nrg	1
+member state	nrvc member state	1
+external organization	nrc	1
+benchmark	nrc canada average	1
+lab	nrel	1
+environmental organization	nrdc	5
+logistical issue	nrc approval	1
+energy company	nrg energy	4
+hitter	nrb heavy hitter	1
+match	nra high power	2
+match	nra action pistol	1
+internet service provider	nrtc communications	1
+service	nri service	3
+campus activity	nrotc	1
+funding agency	nrcs	1
+ongoing program	nrl biospace project	1
+trade show	nra show	6
+conservation organization	nrdc	1
+medium organization	nrk	1
+mainstay	nro	1
+factor	nrt prescribing practice	1
+factor	nrsro's expertise	1
+service	nrc canadian construction materials centre	2
+service	nrc's canadian construction materials centre	2
+service	nri banking	1
+service	nri investment consultancy service	1
+end-users	nrm organization	1
+end-users	nrcs	1
+mutation	nras	1
+private sector organization	nrma	1
+key organization	nrc	1
+datum format	nrz	3
+datum format	nrz rz	1
+political organization	nra	2
+good book	nra firearm assembly guide	1
+training opportunity	nra initiative	1
+retail product	nri credit card	1
+legal entity	nra	1
+service	nrega photograph	1
+elastomers	nr	2
+big organization	nrdc	1
+reputable organization	nrdc	1
+replacement	nraas story progression	1
+reactor	nrx at chalk river	1
+reactor	nru	1
+work environment	nrc	1
+lobby group	nra	1
+local expert	nrcs field agent	1
+image format	nrg	1
+power company	nrg energy inc.	1
+regulatory authority	nrc	1
+service	nrega data collection	1
+year company	nrg energy inc	2
+production system	nrc production system	1
+daily newspaper	nrc handelsblad	1
+official source	nra guideline	1
+everyday need	nra	1
+input signal	nrz	1
+insurance provider	nrma	3
+sport club	nrl	1
+energy drink	nrg tea	1
+public interest group	nrdc	1
+public work project	nra	2
+rubber	nr	2
+household brand	nrma	1
+fellowship	nrsa	2
+consultancy	nrm	1
+welfare program	nrega	1
+funding stream	nrf	1
+government scheme	nrega	4
+scientific organization	nrc	1
+big employer	nrma	1
+bible	nrsv	3
+federal regulation	nrhp	1
+antidepressant drug	nris	1
+training event	nra youthfests	3
+regulatory protein	nrf one 	3
+federal government agency	nrcs	1
+external group	nrc committee	1
+KPIs	nrw	1
+affiliation	nrpa	1
+state department	nr	1
+oncogene	nras	1
+mathematical method	nrsa	4
+public holiday	nrm day	1
+incarnation	nrsimha	1
+lobbying group	nra	1
+social welfare program	nregs	1
+topic	nrc process	1
+topic	nrisimha incarnation	1
+topic	nrs data for local program improvement	1
+nuclear receptor	nr one i three 	1
+regional entity	nroc	1
+3rd party software	nrpe	1
+historic home	nr stamford	1
+heavy oil	nrc used in rolling mill application	1
+professional sport	nrl	1
+non-destructive technique	nra	1
+regional destination	nrt	1
+topic	nra	1
+company	nrma	8
+company	nrg	4
+company	nrg energy	3
+company	nrg energy inc.	2
+tracking system	nrl's minitrack	1
+top trainer	nrcha president lyn anderson	1
+modern translation	nrsv	10
+modulation format	nrz mode shown in fig	1
+conservative organization	nra	3
+encodings	nrz	1
+component supplier	nrb bearings	1
+electric utility	nrg	3
+memory cell	nrom	1
+urban region	nrw	1
+civil right organization	nra	1
+music tv channel	nrj pure	1
+reuptake inhibitor	nris	1
+company	nrx	1
+company	nrp group	1
+company	nrg systems	1
+company	nrec	1
+reputable firm	nrhs	1
+modern version	nrsv	2
+research effort	nrc's modal study	1
+datum resource	nri	1
+potential variable	nrti exposure	1
+labor law	nrla	1
+bible translation	nrsv	3
+deal program	nra	2
+top name manufacturer	nrm	1
+U.S. organization	nrc	1
+whistleblowers	nro's own chris horner	1
+company	nram	1
+company	nrg bluewater wind	1
+company	nrg energy of princeton	1
+company	nrg innovations	1
+national study	nrp	1
+dynamic model	nrc	1
+magnetic parameter	nrm	1
+superior brand	nrs	1
+national strategy	nrp	1
+training institute	nrsc	1
+lobby	nra	3
+submarine	nr- one  nuclear research submarine 	1
+english translation	nrsv	1
+mainstream group	nra	1
+government-sponsored program	nrega	1
+insurance group	nrma insurance limited	1
+federal funding source	nrc-irap arecommontoall provinces in the atlantic zone	1
+technical institution	nrsa	1
+welfare scheme	nrega	1
+neutral term	nrm	1
+official agency	nrcs	1
+research chemical	nrg- one 	3
+research chemical	nrg two 	1
+research chemical	nrg three 	1
+research chemical	nrg- three 	1
+factor	nrcs soils classification	1
+allele	nras	1
+bible version	nrsv	1
+english version	nrsv	2
+literal translation	nrsv	3
+motoring organization	nrma	1
+motoring organization	nrma in nsw	1
+well-known institution	nrdc	1
+evidence-based treatment	nrt	1
+non-traditional partner	nrcs	1
+rubbery polymer	nr	1
+indian institution	nrdc	1
+respected label	nrk	1
+test facility	nrel	1
+credible organization	nrcan	1
+factors	nrc management assessment of the general quality of licensee program	2
+technical committee	nrcc's standing committee on fire protection	1
+world-class institution	nrel	1
+national environmental group	nrdc	1
+national environmental organization	nrdc	1
+non-volatile semiconductor memory device	nrom	2
+energy group	nrg energy	1
+mexico tv channel	nrm webtv	1
+non profit group	nra	1
+nonprofit corporation	nra	1
+program office	nrr	2
+program office	nrc program office	1
+synaptic protein	nr one 	2
+english bible	nrsv	1
+mainstream environmental group	nrdc	1
+modern bible translation	nrsv	6
+political action group	nra	1
+antiretroviral agent	nrti abacavir	1
+information	nrcs forecast	1
+cooperative organization	nra's youth cooperative organization	1
+benefit payment	nrp	1
+central scheme	nregs	1
+authentication tool	nrl	1
+elastomer material	nr	2
+funding organization	nrf	1
+lobbyist group	nra	2
+modern english translation	nrsv	1
+event	nrl grand final	8
+event	nrl	2
+student leadership opportunity	nrhh	1
+prototype system	nrl radar installed in april	2
+social scheme	nregs	1
+successful player	nrj	1
+top industry leader	nrg solar	1
+design agency	nrcs	1
+diene rubber	nr	4
+strategic player	nrdc equity partners	1
+thematic concern	nrm	1
+activity coefficient model	nrtl	6
+agency partner	nrcs	1
+behavioral state	nrem	1
+cessation aid	nrt	2
+government research institution	nrb	1
+map source	nrcs crop photograph	1
+Non-residents	nris	1
+television broadcaster	nrk	1
+thin-film technology	nrel's copper indium gallium diselenide cell	1
+USDA agency	nrcs	1
+well-known abbreviation	nr for no reserve	1
+word-for-word translation	nrsv	1
+action agency	nrcs	1
+agricultural agency	nrcs	1
+australian sport	nrl rugby	1
+big ticket event	nra's australian fashion design awards	1
+car insurance provider	nrma	1
+event	nrl & enlgish premier league at the keighery	1
+event	nrl club game	1
+program	nra	3
+pharmacological aid	nrt	1
+pharmacological tool	nrf two  rnai 	2
+stream service	nrk netttv	1
+video album	nritya mala	1
+alternate process	nrc license renewal process	1
+global non-profits	nrdc	1
+international non-profit organization	nri progress union-usa	1
+interview person	nra president carlton heston	1
+low-polarity rubber	nr	1
+national research institute	nrcri	1
+program	nrcs's whip program	2
+program	nroff	1
+program	nro's broad area space-based imagery collector program de-scoping	1
+program	nrhm	1
+program	nrg	1
+program	nrega	1
+program	nrbg	1
+public power entity	nreca	1
+text processor	nroff	1
+wind developer	nrg bluewater wind	1
+bit pattern	nrz  zero h 	1
+environmental advocacy organization	nrdc	1
+great stallion	nrha open futurity champion	1
+legendary label	nrk	2
+national research lab	nrel	1
+non-polar rubber	nr	2
+program	nrcs cost-share assistance program	1
+program	nrc's industrial research assistance program	1
+program	nrcs's comprehensive nutrient management planning	1
+program	nrcs emergency watershed protection program	1
+program	nrc	1
+regional council	nroc	1
+residential and large commercial project	nrc building	1
+ancillary datum source	nrcs soil survey	1
+australian case	nrma	1
+auto club	nrma	1
+CNS function	nrem sleep	2
+good modern translation	nrsv	1
+government interest	nro	1
+govt program	nrega	1
+helicopter operator	nrma careflight	1
+huge database	nr database	1
+kind industrial rubber sheet	nr rubber sheet	1
+program	nregs	1
+program	nrotc	1
+modern language translation	nrsv	2
+motoring group	nrma	1
+national metrology institute	nrc in canada	1
+non-regulatory group	nrcs	1
+practiacl aspect	nre cost	1
+proapoptotic e-box-containing myc target gene	nrf- one 	1
+proapoptotic gene	nr four a one 	1
+road agency	nra	1
+UK agency	nra	1
+central government scheme	nregs	2
+champions	nr midhurst	1
+contemporary translation	nrsv	1
+community	nri	1
+dutch newspaper	nrc handelsblad	3
+evangelical version	nrsv	1
+flagship programs	nrega	1
+large signal	nrz	1
+legendry label	nrk	8
+lncRNAs	nron	1
+long ncRNAs	nron	1
+opposition organization	nra	1
+poverty elimination program	nrep	1
+prominent horse show	nrha futurity	1
+public research institution	nrc	2
+roosevelt's program	nra	1
+rubber-like polymer	nr	1
+organization	nra	22
+organization	nrc	12
+organization	nrdc	10
+organization	nrma	5
+organization	nrcan	2
+organization	nrwa	2
+organization	nrhs	2
+smoking cessation medication	nrt	1
+standard rubber material	nr	1
+SZ associated gene	nrg one 	1
+transport agency	nra	1
+wikipedia article	nrl article	1
+woodstock artist	nrbq	1
+batch leaching test	nra test	1
+organization	nreca	1
+organization	nra help	1
+organization	nro	1
+organization	nrc's irap program	1
+organization	nrca	1
+organization	nrb	1
+organization	nrc licensee	1
+fee plan	nre	1
+french medium company	nrj	1
+household-name brand	nrma	2
+inefficient program	nrega	1
+medicinal intervention	nrt-nicotine replacement therapy	1
+merchant generator	nrg	5
+merchant generator	nrg energy	1
+national party committee	nrcc	1
+netherlands quality newspaper	nrc handelsblad	1
+organization	nrc-battelle various organization	1
+organization	nrsp	1
+organization	nra's youth cooperative organization	1
+organization	nrpa	1
+poverty alleviation scheme	nregs	1
+power pop artist	nrbq	1
+program vehicle	nrsp	2
+publicly available datum source	nrel	1
+raw rubber	nr	1
+requirement model	nrc	1
+RP gene	nrl	2
+RSPs	nrsp	1
+Scientific Organisations	nrsa	1
+smoking treatment	nrt	1
+system party	nrp	1
+traditional thermodynamic model	nrtl	1
+various organization	nrc-battelle various organization	1
+vegf-binding protein	nrp- one 	1
+alphabet agencies	nra	1
+autism candidate gene	nrxn one and cntn four 	1
+automatic analysis tool	nrl protocol analyzer	1
+avataras	nrisimha	1
+axon-associated factor	nrg one 	1
+bca's conservation partner	nrdc	1
+big green group	nrdc	1
+black law	nro	1
+conservative interest group	nra	1
+continuing competency	nrp	1
+conversion cost	nre	1
+Diene elastomers	nr	1
+electricity producer	nrg energy inc.	2
+famous automatic authentication tool	nrl protocol analyzer	1
+fdr's project	nra	1
+federal level research agency	nrcc	1
+firearm training	nra training	1
+gun group	nra	1
+hydrologic method	nrcs tr- twenty  model 	1
+iag's major operating brand	nrma insurance	3
+in-house, required certification	nrp	1
+lam's call	nrecv	1
+local governing board	nrd board of director	1
+national industry association	nrca	1
+noncommercial technique	nra	1
+non-polar hydrocarbon polymer	nr	2
+application	nrs	2
+application	nrtk approach application	1
+application	nrom	1
+application	nru	1
+non-utility generator	nrg	1
+Norwegian NGOs	nrc	1
+NRI account	nre	1
+officer program	nrotc	1
+one-dimensional pain scale	nrs	1
+on-site certification program	nrp	1
+out-of-network provider	nra a fair	1
+party committee	nrcc	1
+picture profile setting	nr	1
+policy-oriented and professional group	nrdc	1
+popular activity model	nrtl equation	1
+professional advocacy organization	nrdc	1
+public welfare measure	nrega	1
+Sanskrit shlokas	nrsimha panchakam	1
+state motoring organization	nrma	1
+application	nrmp	1
+therapeutic and preventive strategy	nrti switch	1
+thought group	nra	1
+top politician	nrm top politician	1
+typical rubber material	nr	1
+U.S. government regulator	nrc	1
+unregulated generator	nrg energy inc.	1
+wage employment program	nrega	1
+weakest firm	nrg energy	1
+well-known oncogene	nras	2
+activity coefficient equation	nrtl equation	16
+alternatively correlative method	nrtl	2
+anatomy allowance company	nrma	1
+arousal disorder	nrem arousal disorder	1
+association theory	nrhb equations of state	1
+ATM PVC support QoS	nrt-vbr	1
+bean independent quango	nra	1
+BHP contractor	nrw holdings	1
+big-name green group	nrdc	1
+body insurance company	nrma	1
+application	nrsa	1
+centralized apex organization	nreca	1
+centralized polity	nri	2
+commercial high yield reits	nrf	1
+concentration dependent parameter	nrm	1
+contributing agency	nrcs	1
+cost-share assistance program	nrcs cost-share assistance program	1
+dairy valve	nrv valve	1
+Digital modulation	nrz modulation	1
+economic tradeoff	nre cost	1
+expensive organization	nra	2
+farm agency	nrcs	1
+federal relief program	nra	1
+fluid package	nrtl	1
+gear brand	nrs	1
+generation-only company	nrg	1
+generic football code	nrl	1
+global proposition	nri marketing	1
+goi's large-scale scheme	nrega	1
+GPS augmentation technology	nrtk	1
+gun right group	nra	6
+inclusive scheme	nrega	1
+independent grassroots organization	nra	1
+independent quango	nra	2
+information support system	nrc information support system	1
+instructional aide	nra display boards	1
+introduction collaborative scientific computing site	nrl center for computational science	1
+issue-focused organization	nra	1
+journey planner	nre	1
+large energy corporation	nrg energy	1
+factor	nr availability	1
+factor	nrc regulatory action	1
+name	nrma	1
+case	nrdc	2
+liquid activity model	nrtl	1
+local motoring organization	nrma in nsw	1
+low valence party	nrp	1
+low-cost culture-based technique	nra	1
+microorganism strain	nrrl b- eight thousand and sixty-one 	1
+modern scholarly translation	nrsv	1
+modern traditional translation	nrsv	1
+modern, literal translation	nrsv	1
+national shooting organization	nra	2
+non-real-time service class	nrt-vbr	3
+nucleon model	nr quark model	1
+nutritional model	nrc	1
+organized lobby	nra	1
+physique insurance coverage company	nrma	1
+case	nrg	1
+case	nra instructor training	1
+case	nrc data systems	1
+post-issuance debt related duty	nrmsir filing	1
+pro gun group	nra	1
+proof building tool	nrl	1
+property package	nrtl	1
+purpose diene rubber	nr	1
+queensland state government department	nr	1
+RDF project	nrg's newport facility	1
+retail trade organization	nrf	1
+retina-specific transcription factor	nrl	1
+rich sport	nrl	1
+self-seeking lobbying group	nra	1
+shooting class	nra qualification	1
+slot restricted airport	nrt	1
+so-called activity coefficient model	nrtl equation	1
+standard traffic type	nrt-vbr	1
+successful special interest group	nra	1
+case	nrma	1
+Technology roadmaps	nrcan community energy solutions roadmap	1
+top australian automobile club	nrma	1
+traditional independent power producer	nrg	1
+true organization	nra	1
+truenetworking group	nrg	1
+aforementioned diene series rubber	nr	1
+amazing tax saving opportunity	nras scheme	1
+anactivity coefficient equation	nrtl equation	1
+bacterium microbe	nrel strain  eight b 	2
+beginner course	nra basic pistol through advanced tactical carbine	1
+bluegum company	nrg	1
+broad-specificity chemokine inhibitor	nr fifty-eight - three . fourteen . three 	1
+bullseye competition	nra bullseye competition	1
+bundle test	nru	1
+caveolae-containing cell	nrk cell	1
+Colombo-based NGOs	nrc	1
+comment site	nro's the corner	1
+common industry APIs	nreca's multispeak	1
+converted datum	nrzi data datum	2
+cost-shared practice	nrcs cost-shared practice	1
+cured general purpose rubber	nr	1
+differential input signal	nrz	1
+option	nrs	1
+group	nra	22
+group	nrdc	11
+group	nrcs	2
+effortfrom anti-gun control group	nra	1
+environmental law group	nrdc	1
+equine event sale	nrha auction	1
+established UH procedure	nrcs unit hydrograph	1
+excellent proven web site	nrich math	1
+famous french radio station	nrj	1
+fear entrepreneurial green group	nrdc	1
+field-specific assessment	nrcs manure application risk index	1
+financially-sound group	nra	1
+firearm advocacy organization	nra & goa	1
+formal equivalent translation	nrsv	1
+GGFs	nrg one 	4
+good gun-safety practice	nra gun safety rules	1
+government science-based department	nrcan	1
+government social scheme	nrega	2
+government support agency	nrcs	1
+great train-ers	nrha professionals shawn flarida	1
+gun groups	nra	1
+gun safety education program	nra's eddie eagle	2
+gun-rights group	nra	2
+handgun class	nra basic pistol class	1
+highlight tool	nrg hand trowel	1
+high-yield intra-asia route	nrt & kix	1
+holybible resource	nrsv study notes	1
+home-made rubber material	nr	2
+ideally initiative	nrm tools	1
+independant organization	nrma	1
+industry oversight organization	nrc	1
+group	nrg	1
+group	nrj	1
+group	nro	1
+group	nri	1
+introduction protein evaluation system	nrc model for beef	1
+job scheme	nrega	1
+large B2B company	nrg group plc the inventors of the fax machine	1
+large consumer survey	nrs	1
+large gun right organization	nra	1
+large right-leaning group	nra	1
+less-wealthy entity	nra	1
+linear historic resource	nrhp-eligible oregon electric railroad	1
+liquid activity method	nrtl	1
+local composition model	nrtl model	1
+long-range accuracy shooting sport	nra high power	1
+long-term component	nri deposit	3
+low-level image processing tool	nr setting	1
+mandapas	nrittya mandapa	1
+Member Organisations	nrhp	1
+microbial identification number	nrrl b- fifteen thousand one hundred and thirty-two 	1
+mixed car outing	nrma motorfest	1
+modular force structure	nrf	1
+multi-state memory cell	nrom	1
+museveni's supporter	nrm secretary general	1
+Neuropilins	nrp one 	2
+NMDA subunit s	nr one 	2
+NMDA subunits	nr one 	9
+non issue	nro	1
+group	nrma	1
+group	nra now	1
+group	nr	1
+method	nrsa	2
+method	nrega	1
+notorious matter	nro	1
+nr-binding protein	nr-binding set domain-containing protein	1
+NRC office director	nro	1
+nutrition model	nrc model	1
+ofan activity coefficient equation	nrtl equation	1
+ome company	nrg	1
+one-time report	nrc studies of rights-based management system	1
+park's ongoing iconic event	nrl state of origin	1
+periodic compliance survey	nrp	1
+PGC-1 surface	nr two 	1
+power plant company	nrg	1
+powerful gun advocacy group	nra	1
+powerful U.S. interest group	nra	2
+powerfullobby group	nra	1
+private car-charging network	nrg energy's subscription-style ev charging network in texas	1
+pro-gun ownership lobby group	nra	1
+pro-paramedic organization	nremt	1
+quality and regulatory force	nrc cfr fifty 	1
+q-whether scheme	nrega	1
+random audit study	nrp	1
+rapacious insurer	nrma	1
+real combat course	nra personal protection inside the home course of fire	1
+receptor-based, new chemoprotective agent	nrf two  activator 	1
+regional exam	nrb	1
+retinal gene	nrl	1
+right-wing entity	nra	1
+rival australian code	nrl	1
+rubber elastomer	nr	1
+rural support program	nrsp	3
+schizophrenia gene	nrg one 	1
+method	nra algorithm	1
+method	nry	1
+silver circle firm	nr	1
+so-called merchant generator	nrg	1
+solar insolation datum	nrel datum	1
+somewhat different conservative journal	nr by decade	1
+sport CEO	nrl's david gallop	1
+standard filter design method	nrcs design procedure shown in the national engineering handbook	1
+subunit-selective inhibitor	nr two b-selective antagonist ifenprodil 	1
+successful TB approach	nrl-tb method	1
+sustainable livelihood scheme	nregs	2
+thegovernment'svarious social welfare program	nregs	1
+third party interest group	nrma	1
+tonnage product	nrt net registered tonnage product	1
+traditional readership survey	nrs	1
+water quality effort	nrcs buffer initiative	2
+wind-driven system	nre	1
+world level organization	nrdc	1
+tool	nrcs soil conditioning index	1
+tool	nrl's consistency checker	1
+tool	nrel-sam  one 	1
+tool	nrcs energy consumption awareness tools	1
+factor	nrc safety goal policy	1
+project	nrx	1
+project	nrj music award	1
+project	nrls revamps	1
+project	nrg s first avenue cooling plant in minneapolis	1
+artist	nrbq	2
+material	nr	2
+material	nra competitive shooting material	1
+material	nrs i  four a zero - one hundred  alcatel-lucent from test king online audio training with latest 	1
+player	nreca	1
+product	nrg  one 	2
+parameter	nra & pra	1
+system	nrc production system	1
+system	nrc	1
+system	nrl's multimodal dialogue system	1
+measure	nrega	1
+condition	nrior wcalhcr condition	1
+condition	nra standard	1
+element	nrm body	1
+product	nrt gum	1
+product	nrt net registered tonnage product	1
+variable	nr database	1
+function	nreve stimulation	1
+brand	nrma	2
+brand	nrs	1
+brand	nrg innovations	1
+aspect	nrb	1
+site	nrel	1
+site	nra store	1
+site	nra	1

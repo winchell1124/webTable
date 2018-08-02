@@ -1,0 +1,361 @@
+datum	nwpcam link datum	1
+datum	nwe record anonymous datum	1
+facility	nwcf	1
+facility	nwh	1
+source	nwi map	1
+source	nws	1
+game	nwn  two 	2
+game	nwn	1
+game	nwn series	1
+game	nwn two 	1
+game	nw state	1
+exception	nwt	1
+character	nw for north wall	1
+model	nws dambrk	1
+institution	nwt's private training institution	1
+change	nw winds becoming southerly	1
+client	nw natural	1
+client	nwa tna wrestling	1
+strategy	nwedis	1
+agency	nwt council for disabled persons	1
+course	nwcg fi- one hundred and ten 	1
+book	nwcg task book	1
+plant	nw sedge	1
+scholar	nwachukwu-agbada	1
+development	nwo	4
+favorite	nwa intercontinental tag	1
+favorite	nwn series	1
+act	nwa	3
+publication	nwsa backlash report	1
+expense	nwcf service	1
+team	nwe york storm	2
+team	nw two hundred  ducati 	1
+entity	nwcg	1
+country	nw frontier provi nces of pakistan	1
+building	nwhile other city building	1
+region	nw pacific	1
+region	nw queensland	1
+concern	nws michigan	1
+partner	nwtf	1
+influence	nwa	2
+customer	nwt housing corporation	1
+effort	nw ports clean air strategy	1
+effort	nws representation at boat show	1
+feature	nw-ms seventy d's many exclusive feature 	1
+capability	nwa's more technical capability	1
+magazine	nw	3
+provider	nwica	1
+party	nwt power corporation	1
+professional	nw jazz professional	1
+legend	nwa	2
+key item	nw natural economic	1
+journal	nwsa journal	1
+control	nwo population control	1
+festival	nw reggae fest	1
+neighborhood	nw side neighborhood	1
+university	nwu	1
+protocol	nwlink	1
+association	nwfa	2
+database	nwi	1
+carrier	nw	2
+industry leader	nwp	1
+road	nw sixteen th street 	1
+fabric	nw puncture-resistant fabric	1
+center	nw urban center	1
+specific	nwmls identification numbers	1
+community group	nwtf	1
+datum source	nws	1
+reference	nwcg fireline handbook	1
+race	nw two  for  twenty-five k 	1
+airline	nw	7
+airline	nwa	3
+airline	nwa partner airline	1
+jurisdiction	nwt	3
+non-profit organization	nwf	1
+office	nwf in cleveland	1
+local company	nw asian american theater	1
+urban area	nwfp bigger urban area	1
+assessment	nwea map assessment	1
+assessment	nwea growth assessment	1
+promotion	nwa	4
+promotion	nwa upstate	2
+promotion	nwa-uk hammerlock	1
+promotion	nwa-battle zone	1
+promotion	nwa-new york	1
+version	nwt	1
+item	nwith big-ticket item	1
+activist	nw portland transportation activist	1
+endangered species	nw velvet worm keeled snail	1
+wrestler	nwo	3
+wrestler	nwa central state headline wrestler	1
+contest	nwrc divisional challenge	1
+contest	nwrc tour	1
+colleague	nwankwo kanu	1
+industry group	nwi builders association	1
+mod	nwn cq	1
+top name	nwa champions harley race	1
+venture	nw therapies	1
+assessment tool	nwea map program	2
+remote area	nwhi	1
+rapper	nwa	2
+datum set	nwi wetland	1
+environmental group	nwf	1
+development project	nws expansion	1
+subsidiary	nwl	2
+accomplishment	nwa pacific northwest heavyweight championship	1
+area	nwt	3
+area	nw europe	2
+plane	nwa dc- nine 	1
+plane	nw s three hundred and fourty s 	1
+urban center	nw urban center	1
+public agency	nwda	3
+big-ticket item	nwith big-ticket item	1
+outreach program	nwtf outreach program	1
+information system	nws	1
+key partner	nwda board	1
+area	nwsg	1
+area	nwfp bigger urban area	1
+area	nw ak	1
+area	nw sha	1
+area	nw highlands	1
+area	nw quadrant of germantown	1
+area	nw mississippi valley region	1
+area	nw dome zone	1
+area	nw frontier	1
+area	nwa dike	1
+acronym	nwcg	1
+exclusive feature	nw-ms seventy d's many exclusive feature 	1
+faction	nwo	1
+fare	nw fare	1
+populated area	nwt	1
+trust	nw employer's trust	1
+standardized test	nwea	1
+utility company	nw natural	1
+conservation group	nwtf	2
+densely populated area	nwe part of germany	1
+monitoring tool	nws	1
+third-party application	nwea ma p assessment	1
+community college	nwacc	1
+direction	nw	2
+conservation organization	nwtf	2
+conservation organization	nwf	1
+international project	nw european gas atlas	1
+service	nwes	1
+datum point	nwea measure of academic progress	1
+bright spot	nwo world tour	1
+peak time	nw two hundred  period 	1
+proper tool	nwa quality analyst	1
+professional journal	nwra quarterly journal	1
+theater company	nw theatre arts company	1
+footballer	nwankwo kanu	1
+musical legend	nwa	1
+example	nwith fine example	1
+hip hop artist	nwa	3
+computational method	nwchem	2
+arterial road	nw  eighty-six th street 	1
+arterial road	nw  one hundred th street 	1
+grassroots organization	nw hn	1
+monitoring system	nws	1
+local sponsor	nw guitars	1
+african leader	nwalimu of africa	1
+northern region	nwt	1
+regional agency	nw mental health	1
+intersection	nw  twenty-seven th avenue 	1
+world-class player	nwankwo kanu	1
+topic	nwo	1
+guise	nwo	1
+clime	nw new york	1
+consumption tax	nwt fuel tax	1
+grid	nwhile many public computing grid	1
+company	nwa inc. s northwest	1
+company	nws	1
+group name	nwa	1
+modern version	nwt	1
+western area	nw europe	1
+GIS layer	nwi	2
+rap group	nwa	1
+health agency	nwt environmental health unit	1
+rescue group	nwal herding dog rescue	1
+company	nwa oklahoma	1
+company	nwa carolinas	1
+company	nwa houston	1
+company	nwa on fire	1
+company	nw mutual	1
+global carrier	nw	1
+premier league player	nwankwo kanu in the squad	1
+professional league	nwhl	1
+technical capability	nwa's more technical capability	1
+standardized assessment	nwea measure of academic progress	1
+northern latitude	nwhi	1
+conspiracy	nwo	1
+local and regional organization	nwa children's shelter	1
+city building	nwhile other city building	1
+charter company	nw explorations	1
+activity	nwea's knowledge academy	1
+successful magazine	nw	1
+economic development agency	nwda	1
+dark spot	nw new territories	1
+real rapper	nwa	1
+american airline	nwa	1
+news group	nwn media	1
+anonymous datum	nwe record anonymous datum	1
+electricity company	nw natural gas	1
+gossip magazine	nw	1
+gangsta rapper	nwa	1
+single title	nwa florida television title	1
+single title	nwa southern heavyweight title	1
+single title	nwa southern junior heavyweight championship	1
+independent distributor	nw scrubs	1
+rap act	nwa	1
+classic route	nw face of forbidden peak in the north cascades	1
+hazard model	nws slosh program	1
+population control	nwo population control	1
+west coast rapper	nwa	1
+energy area	nw colorado	1
+map source	nwi map	1
+event	nwt association of communities banquet	1
+event	nw eaa fly-in	1
+eutrophic environment	nw mediterranean sea	2
+key constituent group	nwtf	1
+geographical designation	nw on the time schedule heading	1
+program	nwtf's women in the outdoor event	1
+program	nwbo platform	1
+program	nwi	1
+gangster rap artist	nwa	1
+program	nws weathernet stations	1
+program	nwc	1
+program	nwp	1
+program	nwtf outreach program	1
+compass direction	nw	1
+scheem influence	nwa	2
+american importer	nwa wholesaler	1
+computing grid	nwhile many public computing grid	1
+famous rap artist	nwa	1
+large scale organization	nws	1
+mainline carrier	nw	1
+regional energy planning process	nw power	1
+organization	nwtf	2
+organization	nws	2
+unused network protocol	nwlink	1
+up-to-date manufacturing technique	nwh	1
+west coast favorite	nwa	1
+90s west coast rapper	nwa	1
+organization	nwb	1
+independent wrestling promotion	nwa-tna	1
+independent wrestling promotion	nwa	1
+nonsensical issue	nwo	1
+online salary calculator	nw payroll	1
+organization	nwf	1
+organization	nw medical teams	1
+organization	nwac	1
+organization	nwda	1
+regular forestry related activity	nwfp management	1
+resource monitoring tool	nws	1
+transects	nw himalayan	1
+transects	nw indian	1
+well-known theater	nwe vorst	1
+basic netware management utility	nwadmin	1
+city matter	nw spreader agreement	1
+conventional drill rod	nw drill rod	1
+graduate guide	nwsa's guide	2
+application	nwcf	1
+application	nwchem	1
+offsite datum source	nwi map	6
+reactive carrier gas	nw three 	1
+seasonal post	nws's summer ecological assistant	2
+supposedly obscene work	nwa's straight outta compton	1
+versions	nwt	1
+belt large area	nw iran	1
+business support partner	nwda	1
+name	nwa	2
+computational chemistry code	nwchem	2
+computer adaptive test	nwea map test	1
+hard-core rap group	nwa	1
+hong kong's company	nws holdings limited	1
+kentucky wildlife organization	nwtf chapter	1
+case	nw pacific basin	2
+microfinance NGOs	nwtf	1
+netware directory service function	nwdsread	1
+netware directory service function	nwdssearch	1
+NWA promotion	nwa mississippi	1
+NWA promotion	nwa greatest fans south	1
+offsite information source	nwi map	1
+off-site information source	nwi map	3
+online benchmark assessment tool	nwea measures of academic progress	1
+package holiday specialist	nwa world vacations	1
+public computing grid	nwhile many public computing grid	1
+so-called partner	nwf	1
+sportsman organization	nwtf	1
+trendy shopping destination	nw  twenty-three rd 	1
+unsteady flow hydraulic model	nws model	1
+unsteady-flow hydraulic model	nws model	1
+venue distributor	nwave pictures	1
+visitor venue	nw road transport museum	1
+wet heath	nwt buxton heath	1
+wet heath	nwt east winch	1
+world title	nwa world heavyweight championship	1
+wrestling title	nwa jr.	1
+abundance index	nwfsc trawl survey	1
+air pollution rule	nwcaa regulation	2
+australia's biggest wrestling promotion	nwe	1
+bar code label	nw seven 	2
+best documentedrefugial area	nw greece	1
+big, awkward installation	nw hutton	1
+climatological variation	nw-se gradients in rainfall	1
+communist gang	nwo's brzezinski et	1
+competitor magazine	nw	2
+condition race	nw two  race 	1
+cynical setting	nwod	1
+dust regime	nw africa	2
+group	nwa	8
+group	nwagni project	2
+euro metal style	nwobhm	1
+FSC partner	nwf	1
+fur trade operation	nwc	1
+generous association	nwda	1
+illustrated example certain direction	nw	1
+indigenous publishing company	nwamife in enugu	1
+group	nwt autism society	1
+influential and patriotic organization	nwtf	1
+large, free application	nwchem	1
+nanostructure feature	nw length	1
+natural laboratory	nw maine	1
+network-based assessment	nwea map	1
+group	nwp	1
+group	nwf	1
+online uniform store	nw scrubs	1
+physical resistor	nwell resistor	1
+sale schema	nwindfrom microsoft	1
+single player computer dnd game	nwn  two 	1
+slower-twitch single-player game	nwn expansion	1
+spring garden show	nw garden show in seattle	1
+supergroup	nwa	1
+textual information resource	nws watch	1
+thatafewartists	nwa	1
+tidally energetic continental shelf	nw european shelf	1
+tree shelter	nwtf's xcellerator tree protectors	1
+variable annuity writer	nwl	2
+weather-relating organization	nws	1
+tool	nwcphp's online training module	1
+tool	nwdi for sap java development	1
+tool	nwea map testing	1
+tool	nws	1
+artist	nwa	10
+material	nwsandntsare promising configuration	1
+place	nw arkansas	1
+place	nw folklife festivals	1
+place	nw georgia	1
+place	nw  fifteen th avenue 	1
+player	nwankwo kanu	4
+player	nwankwo kanu of nigeria	1
+technology	nwlink	1
+term	nwo	1
+parameter	nw length	1
+system	nws	1
+measure	nwr	1
+measure	nwf	1
+product	nwa-tna	1
+function	nway auto-negotiation auto mdimdix	1
+device	nw a eight hundred  series 	1
+device	nw s seven hundred  series 	1
+site	nwjobs.com's salary wizard	1

@@ -1,0 +1,80 @@
+resource	l&is collection	1
+agency	l&a models	2
+firm	l&t	2
+firm	l&t infotech	1
+test	l&i qc testing	1
+show	l&o trial by jury	1
+vendor	l&h	1
+store	l&l foods in okemos	1
+restaurant	l&l hawaiian barbecque	1
+speaker	l&q staff	1
+line	l&d scout	1
+stock	l&t finance holdings	1
+account	l&t mutual funds	1
+industry leader	l&t	1
+item	l&p bottle	1
+well-known name	l&t finance holdings	1
+contractor	l&k	1
+horse	l&d scout	1
+private school	l&l montessori school	1
+distributor	l&w supply	1
+premium brand	l&m	1
+subsidiary	l&w supply corporation	1
+subsidiary	l&t finance	1
+top company	l&t	7
+indian company	l&t	1
+eatery	l&b spumoni gardens	1
+conglomerate	l&t	3
+established brand	l&t mutual fund	1
+reputed company	l&t infotech	1
+wholesaler	l&h	1
+large vendor	l&t infotech	1
+cleaning solution	l&r's general purpose cleaner non-ammoniated	1
+joint venture	l&tcase equipment private	1
+real estate company	l&t infocity	1
+large corporates	l&g	2
+short	l&h sound short	1
+tech giant	l&t group	1
+company	l&t infotech	8
+company	l&t finance	6
+company	l&t	4
+company	l&t infrastructure development projects	3
+best component	l&r lock	1
+company	l&t insurance company	1
+company	l&t latvia	1
+HR project	l&d program	1
+fast food place	l&l hawaiian bbq	1
+company	l&t komatsu	1
+company	l&t infrastructure development projects ltd	1
+company	l&m group	1
+company	l&m petroleum	1
+industrial house	l&t	1
+multi national company	l&t info tech	1
+indian corporation	l&t	1
+NBFCs	l&t infra	1
+non-banking finance company	l&t finance	1
+cement manufacturer	l&t cement	1
+large business house	l&t	1
+construction equipment manufacturer	l&t komatsu	1
+premium organization	l&t group	1
+core-sector company	l&t cement	1
+india-based company	l&t	2
+proven genetic line	l&d scout	2
+top gallery	l&m arts	1
+indian big business firm	l&t	1
+tier-ii firm	l&t infotech	2
+Corporate Co-Sponsors	l&m technologies	1
+latest speech recognition software product	l&h's voice xpress	1
+non banking financial company	l&t finance holdings	1
+alternate brand	l&e	1
+chinese coal stock	l&l energy	2
+Co-developers	l&t tech park	1
+dress designer clothes	l&v	1
+washington-based bottler	l&e bottling in tumwater	1
+evaporation retardant	l&m construction chemicals	1
+fair-size business	l&t financial services	1
+infrastructure holding company	l&t infrastructure development project	1
+short-term, issue	l&t takeover	1
+typical hawaiian BBQ place	l&l hawaiian bbq	1
+place	l&l	1
+place	l&m hospital	1

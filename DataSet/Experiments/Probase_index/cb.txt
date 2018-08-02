@@ -1,0 +1,2321 @@
+product	cbn & diamond grinding wheel	1
+product	cbb capacitor related product	1
+product	cbn horning wheel	1
+product	cb ca	1
+initiative	cbi	1
+initiative	cbs product-placement plan	1
+initiative	cbp's smart box	1
+initiative	cbi future leaders	1
+initiative	cbol	1
+accessory	cb mount	1
+accessory	cb radio	1
+accessory	cb radio accessory	1
+accessory	cb antennas	1
+datum	cbla datum	1
+resource	cbp	3
+resource	cbc's available resource	1
+resource	cbt package	1
+facility	cbe library service	1
+process	cbd	1
+source	cbo	4
+source	cbs	3
+source	cbs morning show	2
+source	cb broadcast	1
+source	cb radio	1
+source	cbc	1
+source	cbi	1
+source	cbs poll on the announcement	1
+benefit	cbasreflected mainly market benefit	1
+benefit	cbt training	1
+subject	cbrn defense	1
+product	cbb sixty  capacitor related product 	1
+product	cbn pin	1
+exception	cbs show the mentalist	1
+exception	cbms in cellulosomal scaffolding protein	1
+exception	cbh series overdates	1
+reason	cbn quality	1
+character	cbbc channel playing character	1
+model	cbr six hundred rr 	2
+model	cbr one thousand  rr 	2
+model	cb twister with self disc	1
+model	cb four hundred and fifty 	1
+model	cb twister with kick drum	1
+model	cb twister with self drum	1
+characteristic	cbr	1
+situation	cbrne	1
+category	cbse update	1
+category	cbr  six hundred rr 	1
+category	cbse exam alert	1
+category	cbse tip	1
+category	cbr	1
+institution	cbc	4
+institution	cbi	2
+institution	cbse	2
+institution	cbk	2
+institution	cbd leasing co	1
+institution	cbs	1
+institution	cbn	1
+institution	cbc radio-canada	1
+change	cbot	1
+client	cbs	19
+client	cbs news	4
+client	cbc television	3
+client	cb richard ellis	2
+client	cb&i	1
+client	cbbc	1
+client	cbl & associates properties inc.	1
+client	cbs sportsline	1
+client	cbs sports	1
+client	cbs television in san diego	1
+client	cbs interactive	1
+client	cbs in a full range of antitrust issue	1
+client	cbs broadcasting	1
+client	cbs & fox news channel	1
+client	cbs entertainment president leslie moonves	1
+client	cbpe capital	1
+client	cbre	1
+document	cbib project preparation manual	1
+document	cbp check immigration travel document	1
+document	cbi document	1
+author	cbc journalist terry milewski	2
+strategy	cbt	4
+strategy	cbm	1
+strategy	cbt self-control strategy	1
+strategy	cbt technique	1
+person	cbs sports columnist danny knobler	2
+approach	cbt	10
+approach	cbc	1
+approach	cbtl	1
+approach	cbt training	1
+approach	cbr	1
+approach	cbse	1
+idea	cbr concept	2
+idea	cbps's outdoor science classroom	1
+alternative	cbc with sector-specific initialization vector s	1
+alternative	cbc with sector-specific initialization vector	1
+alternative	cbc st kilda	1
+effect	cb one  receptor-mediated effect 	1
+effect	cbi receptor-mediated effect	1
+agency	cbp	4
+agency	cbc	4
+agency	cbi	3
+agency	cbh	2
+agency	cbos	1
+agency	cbc dog warden	1
+agency	cbdt	1
+agency	cbsa	1
+agency	cbse	1
+agency	cbc for local tv coverage	1
+object	cb radio antenna	1
+object	cb antennas	1
+location	cbd	4
+location	cbd area	1
+location	cbs television city	1
+mechanism	cb four 	1
+feature	cbt	2
+feature	cbq	1
+star	cbs tv star	1
+star	cbs news anchor katie couric	1
+business	cbb	2
+business	cbs news	2
+business	cbre	1
+business	cb richard ellis	1
+business	cbs	1
+field	cbsa	1
+part	cbm	1
+amenity	cbd	3
+amenity	cbc giant	1
+title	cbe s	1
+operation	cbs communication operation	1
+development	cbd retail development	1
+type	cb one hundred and twenty-five 	1
+celebrity	cbeebies presenter alex winters	2
+celebrity	cbs's bill kurtis	1
+celebrity	cbs daytime soap star alex chando	1
+celebrity	cbs sportsline.com senor writer	1
+disease	cbpp	2
+venue	cbgb's	11
+venue	cbgb	5
+venue	cbc centre stage	2
+venue	cbs arena	2
+venue	cbgb's gallery in new york city	1
+venue	cbgb's in new york	1
+venue	cbs star search	1
+venue	cb's gallery	1
+venue	cbgb's ny	1
+venue	cbgbs downstairs lounge	1
+venue	cbgbs gallery	1
+venue	cb gallery	1
+venue	cbgb the home of underground rock	1
+firm	cbre	4
+firm	cb richard ellis	2
+firm	cbs	2
+firm	cbi	1
+firm	cbg	1
+firm	cb commercial real estate services group	1
+requirement	cbest	1
+test	cbc	19
+test	cbr	6
+test	cbest	1
+indicator	cbr	4
+treatment	cbt	17
+favorite	cbs sports	1
+manufacturer	cb supplies	1
+instrument	cbl probe	1
+feature	cbd amoled screen	1
+man	cbreezy	1
+attribute	cbr	4
+publication	cbs	4
+publication	cbs marketwatch	2
+publication	cbs healthwatch	1
+setting	cbd network	1
+compound	cbz	1
+study	cbc	2
+study	cbd deletion	1
+position	cb	7
+position	cb for hyde	1
+position	cbn governor	1
+website	cbs	2
+website	cbs news	2
+website	cbs sports	2
+website	cbssports.com	2
+website	cb gazette	1
+website	cbs sportsline	1
+website	cbbc	1
+website	cbeebies	1
+unit	cb one 	1
+basic	cbc with differential	1
+expense	cb radio	1
+movie	cbs movie-of-the-week	2
+movie	cb four 	2
+innovation	cb radio	1
+team	cba's albany patroons	1
+team	cb west	1
+entity	cbs sportsline	1
+entity	cb	1
+entity	cbi	1
+entity	cbo	1
+expert	cbs contributor keri glassman	1
+feature	cb radio	1
+improvement	cb radio	1
+format	cbz exotic	1
+format	cbz	1
+Organisations	cbi	10
+Organisations	cbcs	1
+Organisations	cbi wales	1
+Organisations	cbi employers body	1
+Organisations	cbs centre for corporate social responsibility	1
+partner	cbs	3
+partner	cbi	2
+partner	cbd fao iucn	1
+partner	cbf	1
+partner	cb regional library	1
+big name	cbs	1
+big name	cbs sports	1
+standard	cbml	1
+standard	cb	1
+standard	cbema curve	1
+show	cbs navy ncis	2
+show	cbs's the oprah winfrey show	2
+show	cbs the early show	2
+show	cbs shark	1
+show	cbs atlanta better mornings	1
+show	cbc stage	1
+show	cbs the late night show with david letterman	1
+show	cbs's the guardian	1
+show	cbs star search	1
+show	cbs morning news	1
+show	cbc playhouse	1
+show	cbbc show tracy beaker	1
+club	cbgb's	9
+club	cbgb	3
+club	cbgb s	1
+vendor	cbk	1
+vendor	cb performance	1
+influence	cbd amount	1
+store	cb two 	2
+critic	cbs pundit andy rooney	2
+market	cbot wheat	2
+market	cboe	1
+customer	cbs	5
+customer	cb richard ellis	1
+customer	cb machine	1
+opportunity	cbe learning community	1
+opportunity	cbd's in-depth review of the programme of work on marine	1
+intervention	cbt	10
+intervention	cbt strategy	1
+intervention	cbst	1
+effort	cbs documentary bhunger in americab	1
+actor	cbo member	1
+actor	cbos	1
+label	cbs	5
+issue	cbi	2
+value	cbr value	1
+environment	cbdc	1
+need	cb	3
+chemical	cbc toxic waste chemical	1
+article	cbn grit	1
+magazine	cbs special workplace america	1
+provider	cbs outpatient bhi service	1
+woman	cbk	1
+asset	cbw	1
+asset	cb set	1
+retailer	cb two 	3
+retailer	cbs pharmacy	1
+protein	cbp	3
+protein	cbl	3
+protein	cbm two a from cellulomonas fimi cel six a 	1
+guest	cbs jim nantz interviewing the final four head coach	1
+competitor	cbs	5
+competitor	cbre	1
+competitor	cbs sportsline.com	1
+district	cbd	2
+stakeholder	cbi	3
+stakeholder	cbo staff	1
+stakeholder	cbos	1
+corporation	cbs	10
+corporation	cb commercial real estate group	1
+corporation	cbs television	1
+line	cbk	1
+channel	cbs	25
+channel	cbeebies	2
+channel	cbs one	1
+channel	cbs fox nbc	1
+channel	cbc hd	1
+channel	cbbc	1
+channel	cbc newsworld	1
+therapy	cbt	51
+algorithm	cbq	1
+principle	cbdr principle	1
+series	cbs's the mentalist	1
+series	cbs playhouse	1
+series	cbs's smith	1
+series	cbc tv series	1
+statistic	cbs pick	1
+sport	cbj	1
+measurement	cbv measurements using flow-nulling	1
+issue	cbd	1
+issue	cbd - earth summit	1
+service provider	cbeyond	1
+fee	cbe ism	1
+bank	cba	7
+provision	cbbc channel	1
+crop	cbh three hundred and fifty-one  corn 	1
+network	cbs	106
+network	cbc	6
+network	cbs news	1
+network	cbn	1
+network	cbbc	1
+station	cbs	8
+station	cbs sports	1
+station	cbc's cable station	1
+station	cbd metro station	1
+station	cbc news	1
+medium	cbc	2
+mode	cbc	5
+theorist	cb macpherson	2
+large company	cbs	1
+large company	cb richard ellis	1
+large company	cbre	1
+transaction	cbs broadcasting	1
+sponsor	cbc's hockey night in canada	1
+sponsor	cbbc	1
+factor	cb antennas	2
+factor	cbv	2
+target	cbf in primate	1
+local organization	cbc staff selection	1
+college	cbit - hyd	1
+modalities	cbt	3
+database	cbca complete	1
+database	cbca	1
+forum	cbd	2
+veteran	cb charles woodson	1
+veteran	cb ike taylor	1
+veteran	cb sheldon brown	1
+veteran	cb champ bailey	1
+government agency	cbo	2
+page	cbs sportsline	1
+web site	cbs	2
+web site	cbs sportsline	1
+web site	cbssports.com	1
+web site	cbs new	1
+web site	cbs sportline	1
+web site	cbs sports line	1
+collection	cbsl publications collection	1
+segment	cblo	1
+community event	cbu's important community event	1
+centre	cbabiesafe nursery in hove	1
+industry leader	cbs television stations	1
+industry leader	cbs television	1
+commentator	cbc radio's scott regehr	1
+outlet	cbs	8
+outlet	cbs marketwatch	1
+outlet	cbssports.com	1
+outlet	cbc's hockey night in canada	1
+outlet	cbs news	1
+substrate	cbu over plywood	1
+electronic device	cb radio	3
+methodology	cbd ecosystems approach	1
+giant	cbs	1
+specialty item	cbusa logo item	1
+TV show	cbs news	2
+TV show	cbs	2
+TV show	cbc television drama heartland	1
+TV show	cbs news sunday morning	1
+TV show	cbs drama early edition	1
+distraction	cb radio	1
+distraction	cb	1
+analyst	cbc's at issue panel	1
+analyst	cbs's billy packer	1
+international organization	cbd secretariat	2
+key player	cb ricky manning jr.	1
+notable exception	cbs series numb three rs 	1
+developer	cbl & associates properties inc.	1
+participant	cbs marketwatch.com	1
+design element	cbre globe visual	1
+hobby	cb radio	2
+datum source	cbm	1
+reference	cbema curve	2
+division	cbrm	1
+division	cbs tv network	1
+tenant	cbre	1
+selection	cb patrick peterson	1
+item	cb radio	7
+item	cbbg rocket launcher	2
+publisher	cbs mobile	1
+publisher	cbs corp. s simon & schuster inc.	1
+financial institution	cbz holdings	1
+particle	cbn	1
+board	cbse	5
+opponent	cbu in the first round	1
+gadget	cb radio	1
+luxury	cb	1
+staff	cbt therapists	1
+big company	cbs	3
+volunteer	cbn's operation blessing	1
+pest	cbb	1
+online resource	cbeyond online	4
+assessment	cbm	1
+reagent	cbz-cl	1
+television show	cbs morning show	2
+television show	cbs morning news	1
+television show	cbs sunday morning	1
+television show	cbs evening news with katie couric	1
+proposal	cbit	1
+large organization	cbd metro	1
+large corporation	cbs	2
+member	cbp board member	1
+guest speaker	cbs news anchor bob schieffer	1
+guest speaker	cbs news correspondent kimberly dozier	1
+communication	cb	1
+international company	cb fleet usa	1
+version	cbasic compiler	1
+agreement	cbd	2
+famous brand	cb drums	1
+electronics	cb radio	1
+lender	cba	5
+base	cbc naval center in gulfport	1
+survey	cbi survey	1
+survey	cbi industrial trends	1
+medium outlet	cbs	33
+medium outlet	cbc	7
+medium outlet	cbs news	3
+medium outlet	cbc tv in canada	2
+medium outlet	cbc radio	2
+medium outlet	cbs-tv	1
+medium outlet	cbc newsworld	1
+info	cb build	1
+orchestra	cbso	2
+security measure	cbp security measure	1
+training	cbt	1
+beverage	cbtl's signature coffee beverage	1
+small business	cbx energy engineering in waterville	1
+educational institution	cbit	1
+key stakeholder	cbi	1
+map	cbf index	1
+observation	cb pastes being	1
+well-known artist	cb mass	1
+international brand	cb doctor ahmedabad	1
+experiment	cbr analysis	1
+diagnostic test	cbc	12
+convention	cbd	4
+stage	cbgbs in nyc	1
+key topic	cba	1
+radio station	cbs	3
+radio station	cbc radio	1
+communication system	cb radio	1
+video	cbc news in review	1
+charitable organization	cbm	1
+natural remedy	cbt	1
+software application	cbs	1
+well-known company	cbs	1
+intermediary	cbass partner	1
+item	cbt toy	1
+starter	cb dominique rodgers-cromartie	1
+chronic disease	cbpp	1
+bill	cb mortgage	1
+bill	cb loan	1
+television program	cbs sunday morning	2
+television program	cbs evening news	1
+television program	cbs	1
+television program	cbs nightly news	1
+television program	cbs good morning	1
+computer program	cbs	1
+control measure	cbethesetof possible traffic control measure	1
+designation	cbv	1
+secondary source	cbn report	1
+horse	cb x's	1
+industry group	cbi	3
+journalist	cbs tv reporter walter cronkite	2
+journalist	cbc's neil macdonald	1
+advertiser	cbs interactive	1
+advocacy group	cbf	1
+leading company	cbs	3
+entrepreneur	cbi sir digby jones	1
+private organization	cbs	1
+studio	cbs	4
+studio	cbs television	1
+peripheral device	cb radio	1
+multinational	cb richard ellis	1
+activites	cbt	1
+buyer	cbs films	3
+industry giant	cbs	1
+merchant page	cbb.com cee beebies	4
+merchant page	cbbc bbc.com beebies	4
+merchant page	cbbc.uk cartoons	4
+merchant page	cbbc bob the builder	3
+merchant page	cbbc.com c beebies website	2
+merchant page	cbbc.co.uk cbeebies harry potter	1
+merchant page	cbbc cbeebies.co.uk	1
+merchant page	cbbc.co.uk cbeebies kids	1
+merchant page	cbb.co.uk cbbc	1
+top player	cb darrent williams	1
+tv series	cbc tv series	1
+TV series	cbs's hitler on the origin of evil	1
+diagnostic tool	cbct imaging	1
+regular	cbs jeff greenfield	1
+simple change	cbn expanding open item code  ten thousand eight hundred and sixty  of the monthly statement of assets 	1
+government department	cbsa	1
+comedy	cbc radio comedy	1
+simple technique	cbt	1
+laboratory test	cbc	14
+public institution	cbc	1
+file format	cbz	1
+file format	cbr	1
+practical matter	cbd	1
+designer brand	cb charmlinks	1
+institutional factor	cbn's banking reform	1
+treatment modalities	cbt	1
+widgets	cbox	1
+reputable company	cbs	1
+receptor	cb one 	2
+drama	cbs repeat procedural drama	1
+TV program	cbs	1
+area	cbd	8
+area	cbd belapur	2
+imaging modalities	cbct	1
+management technique	cbt	1
+internet site	cbs with the set	1
+internet site	cbs healthwatch.com	1
+endeavor	cbd net	1
+node	cbd	1
+communication device	cb radio	2
+communication device	cb	1
+examination	cbc	2
+heavy hitter	cbc-tv's norman depoe	1
+catastrophic event	cbrne attack	1
+niche market	cbgb's	1
+business leader	cbi scotland	1
+popular site	cbi academy	1
+regional organization	cbss	1
+electrical appliance	cb radio	1
+treatment method	cbt	1
+industry association	cba	1
+powerhouse	cbs	1
+transcription factor	cbp	2
+bike	cbr six hundred 	1
+bike	cb seven hundred and fifty 	1
+common disease	cbpp	1
+league	cba	1
+relaxation technique	cbt	1
+consumer electronics	cb radios	1
+high profile client	cbi drinks reception	1
+economic activity	cbf development in village reservoir	1
+abbreviation	cbv	1
+tank	cbpp	1
+broadcaster	cbs	14
+broadcaster	cbs corp.	5
+broadcaster	cbc	3
+broadcaster	cbs corp	3
+broadcaster	cbc newsworld	1
+agonists	cb one  receptor inverse agonists 	1
+agonists	cb one  receptor agonists 	1
+exchange	cboe	4
+exchange	cbot	4
+exchange	cbia health connections in connecticut	2
+exchange	cbg	1
+blood test	cbc	33
+local venue	cbgb's	2
+broker	cbg	1
+cultural institution	cbc	2
+industry expert	cb richard ellis	1
+area	cbse	1
+area	cbr mechanism	1
+business group	cbi	10
+outside activity	cb smith park	1
+lure	cbt buzzbaits	1
+reporter	cbc political reporter	1
+prestigious award	cbip award	1
+famous place	cbgb's	1
+soil property	cbr	2
+protective device	cbct	2
+hub	cbd	4
+medium company	cbs	23
+medium company	cbs corp.	4
+medium company	cbc	1
+medium company	cbs corp	1
+medium company	cbs owner viacom	1
+content provider	cbs	4
+online source	cbsmarket watch	1
+certificate	cb	7
+certificate	cbet	1
+electronic item	cb radio	1
+exam	cbd exam	1
+national publication	cbs marketwatch	2
+prestigious venue	cbgb's	1
+engineering control	cbr filtration	1
+governmental agency	cbo	2
+hard material	cbn	1
+free agent	cb karl paymah	1
+rookie	cbs aaron williams	1
+retail chain	cba	1
+holding	cbs	1
+key partner	cbi	2
+discount	cbr coupon	1
+international agreement	cbd	3
+vertical	cb end fed half-waves	1
+area	cbca	1
+large structure	cbb	1
+conglomerate	cbs	2
+constituency	cbi	1
+law enforcement agency	cbi	5
+board member	cbp board member	1
+medium source	cbs	4
+medium source	cbc's the national	1
+stakeholder group	cbsa	2
+help	cbt	1
+business organization	cbi	10
+attendee	cbc newsman dwight drummond	1
+school program	cbe	1
+medium player	cbs	2
+record label	cbs records	2
+big corporation	cbs	2
+credit	cbs's late late show with craig kilborn	1
+private entity	cbs	1
+blocker	cb one  receptor blocker 	1
+standardized test	cbest	1
+abrasive material	cbn	1
+local club	cbgb's in nyc	1
+local club	cbgb	1
+gimmick	cb shadow sneak banette	1
+TV channel	cbs	3
+TV channel	cbs sport	1
+basic property	cbr	1
+reality show	cbs's survivor'', fox's american idol''	1
+account information	cbsl account information	1
+high-profile client	cba	1
+affiliate	cbs	2
+affiliate	cbs enterprises	1
+production company	cbs	1
+production company	cbs home entertainment	1
+key account	cbrichard ellis	1
+high profile company	cb richard ellis	1
+therapeutic intervention	cbt	2
+large chain	cba	1
+legal instrument	cbd	1
+radio	cb	4
+radio	cb radio	1
+cofactors	cbp	2
+software system	cbs	1
+therapeutic approach	cbt	3
+intervention program	cbet	1
+intervention program	cbt	1
+news outlet	cbs	12
+news outlet	cbs news	4
+news outlet	cbc	3
+news outlet	cbs evening news	1
+news outlet	cbssports.com	1
+news outlet	cbs nightly news	1
+lab test	cbc	6
+medium organization	cbs	5
+medium organization	cbc news	2
+medium organization	cbc	1
+medium organization	cbs news	1
+notable company	cbs	1
+nightclub	cbgb & omfug	1
+popular series	cbs survivor	1
+news source	cbs	4
+news source	cbs news	3
+news source	cbc	1
+therapeutic modalities	cbt	1
+news organization	cbs	14
+news organization	cbs news	4
+news organization	cbs marketwatch	1
+news organization	cbc	1
+enterprise application	cbs	1
+pundit	cbs seth davis	1
+pundit	cbc sports online's own dan tavares	1
+training tool	cbt	1
+large client	cba	1
+factor	cbrc	1
+factor	cbd job density	1
+factor	cb thawing	1
+factor	cbp officers on duty	1
+service	cbt	2
+service	cbc	1
+commercial company	cb richard ellis	1
+commercial tool	cbr express on art-im	1
+big firm	cb richard ellis	1
+big firm	cb richard ellis inc.	1
+identification	cbc donor card	1
+big name company	cbc news	1
+catalog	cb@, crate & barrel	1
+key organization	cbi	2
+holder	cbm exploration right holder	1
+theater company	cbph productions	1
+blue chip client	cb richard ellis	1
+cartridge	cb cap	1
+commercial area	cbd	1
+international name	cbso	1
+organized group	cbd association	1
+reputable source	cbc	1
+prevention program	cbt	1
+standard test	cbc	2
+strong brand	cbs	1
+christian leader	cbn dr. marion pat robertson	1
+quality measure	cbnc certification of physician	1
+sitcom	cbs' brooklyn bridge'', abc's roseanne'', home improvement''	1
+umbrella organization	cbi	1
+professional certification	cbcp	8
+professional certification	cba	3
+service	cbac	1
+service	cb	1
+service	cbjn at bj twenty-one .com 	1
+service	cbl scheme	1
+crowd favorite	cb song	1
+comparison	cbtl	1
+big bank	cba	2
+international instrument	cbd	1
+international partner	cb richard ellis group	1
+well-known site	cbs sportsline.com	1
+christian organization	cbn's operation blessing	1
+big organization	cbi	1
+high-profile company	cbc	1
+private sector company	cbre	2
+big gun	cbs	1
+program component	cbdm	1
+wheel	cbn diamond grinding wheel	1
+international convention	cbd	3
+membership organization	cbi	1
+television network	cbs	26
+television network	cbc	3
+television network	cbs in the united states	2
+popular television show	cbs's meet the folks	4
+popular television show	cbs's numbers	3
+popular television show	cbs s numbers	1
+routine test	cbc	2
+technical tool	cba	1
+therapeutic technique	cbt	4
+therapeutic technique	cbh	1
+television station	cbs	4
+television station	cbs news	2
+television station	cbc	1
+cable network	cbs	1
+grassroots organization	cbva	1
+lobby group	cbi	1
+television channel	cbs	1
+treatment approach	cbt	2
+professional designation	cba	1
+gym	cb dollaway	1
+independent agency	cbi	1
+regulatory authority	cbn	3
+field activity	cbocs	1
+news site	cbs news	2
+service	cbr packet	1
+service	cbrfs	1
+medium channel	cbs	1
+brokerage firm	cb richard ellis	1
+commercial site	cbbc	1
+classic title	cbs television city	1
+mobile communication device	cb's	2
+mobile communication device	cb radio	1
+medium giant	cbs	6
+service firm	cb richard ellis	1
+curve	cbema	1
+laboratory procedure	cbc	1
+company name	cbbs	1
+business association	cbi	2
+playmakers	cb antoine winfield	1
+ancillary test	cbc	1
+watchdog group	cbf	1
+aerosol	cb invader	1
+correspondent	cbs' television correspondent	1
+entry point	cbo s	1
+medium platform	cbs local ad network	1
+joint venture	cbs radio's alliance with aol	1
+record company	cbs	2
+employment service	cba	1
+railroad	cb	1
+TV station	cbs	5
+TV station	cbs two 	1
+programmer	cbs	2
+conservation program	cbd global strategy for plant conservation	1
+electronics product	cb radio	1
+real estate company	cb richard ellis group	1
+famous venue	cbgb's	1
+intergovernmental organization	cbd	1
+TV network	cbs	22
+TV network	cbc	1
+TV network	cbn	1
+TV network	cbs corp	1
+U.S. corporation	cbs	1
+consultancy	cb richard ellis research	2
+entertainment company	cbs	1
+popular channel	cbs	3
+popular channel	cbs mobile	1
+laboratory study	cbc	3
+transmitter	cb radio	2
+motorcycle	cb five hundred 	1
+consumer organization	cbt	2
+assessment instrument	cbcl	1
+leading name	cbre	1
+financial centre	cbd	1
+giant corporation	cbs	1
+medium group	cbs	2
+datum provider	cbre econometrics	1
+signal source	cb radio	1
+clinical measure	cbcl	1
+topic	cbt for self-esteem	1
+topic	cbt for weight management	1
+routine laboratory test	cbc	6
+routine laboratory test	cbc count	1
+external activity	cbm production	1
+laboratory investigation	cbc	2
+basic test	cbc	1
+basic test	cbcs	1
+psychosocial intervention	cbt	5
+news agency	cbs	7
+backup	cb jamie henderson	1
+enforcement agency	cbi	1
+aftermarket product	cb	2
+broadcast	cbs	1
+broadcast	cbs new special event broadcast	1
+local station	cbc	1
+TV	cbs early morning	1
+national network	cbs	2
+national network	cbs' the early show'', cbc news'', canada's breakfast television''	1
+big site	cb	1
+large conglomerate	cbs	2
+radio communication system	cb radio	1
+HD channel	cbs	1
+HD channel	cbs-hd	1
+psychological intervention	cbt	1
+rating scale	cbcl	1
+sport tv channel	cbc sport canada	2
+sport tv channel	cbc sports	1
+topic	cbrn respirator	1
+topic	cbt concepts	1
+topic	cbr traffic scheduling	1
+topic	cbrn incident recognition	1
+topic	cbeebies game	1
+government publication	cbo report	1
+electronic accessory	cb	1
+strategic location	cbd	1
+news program	cbs news	1
+news program	cbs	1
+top client	cbs	1
+nonpharmacologic intervention	cbt	1
+receptor agonists	cb one  receptor agonists 	1
+legendary venue	cbgb	3
+legendary venue	cbgb's	1
+digital channel	cbbc	1
+great venue	cbgb's	1
+ram	cb kevin dockery	1
+psychological treatment	cbt	5
+watchdog	cbbb	1
+national television show	cbs's the early show	3
+national television show	cbss the early show	1
+laboratory testing	cbc	1
+news channel	cbs	3
+operation mode	cbc	1
+statutory authority	cbsi	1
+mass medium	cbc	1
+national medium outlet	cbs news	10
+national medium outlet	cbc	6
+national medium outlet	cbs's  sixty  minutes 	3
+national medium outlet	cbssports.com	1
+retail development	cbd retail development	1
+company	cbs	53
+company	cb richard ellis	9
+company	cbs corp	5
+company	cbc	4
+company	cbs news	4
+company	cbs networks	3
+company	cbay systems	3
+company	cbt direct	2
+company	cba	2
+company	cbs corp.	1
+company	cbe group	1
+company	cb richards ellis	1
+company	cb richardellis	1
+company	cbt systems	1
+catalogue	cb two 	1
+laboratory value	cbc	1
+Anticonvulsants	cbz	1
+employer group	cbi	2
+local network	cbs	1
+sport league	cba	1
+intelligence agency	cbi	1
+real estate firm	cb richard ellis	1
+standard source	cbe style manual	1
+Hypermarkets	cbd	1
+medium brand	cbs sportsline	1
+medium brand	cbs marketwatch	1
+psychological technique	cbt	2
+psychological technique	cbt along with repeated mdma session	1
+psychotherapy	cbt	10
+financial publication	cbs market watch.com	1
+multilateral forum	cbd	2
+psychological therapy	cbt	11
+behavioural technique	cbt	1
+federal institution	cbc	1
+non-structural element	cbu	1
+tv star	cbs tv star	1
+broadcast network	cbs	17
+broadcast network	cbs broadcasting inc.	1
+international certificate	cb	1
+low power device	cb radio	1
+traditional medium outlet	cbs	1
+traffic control measure	cbethesetof possible traffic control measure	1
+ad agency	cbs	1
+employer organization	cbi	9
+company	cbs four 	1
+company	cbs international	1
+company	cbtl	1
+company	cbl & associates properties inc.	1
+company	cbi electric	1
+company	cbid	1
+cylinder	cbr six hundred 	1
+movie studio	cbs	1
+new program	cbs new program	1
+news publication	cbs market watch	1
+cellular factor	cbp	2
+hit series	cbs' csi'', fox's house''	1
+institutional customer	cbs broadcasting	3
+mainstream medium outlet	cbc	2
+mainstream medium outlet	cbs's the early show	1
+content partner	cbs	1
+online event	cbs's march madness	1
+television company	cbs	2
+functional imaging technique	cbf spect	1
+launcher	cb store	1
+launcher	cb launcher	1
+premier company	cb richard ellis	1
+reputed client	cbcid head quarters	1
+style manual	cbe manual for authors	1
+style manual	cbe manual	1
+china tv channel	cbn china	3
+medium house	cbs	1
+unconventional resource	cbm	1
+american show	cbs in new york	1
+atypical presentation	cbavd	1
+medium conglomerate	cbs	1
+non-drug therapy	cbt	3
+local competitor	cbs	1
+nonpharmacological intervention	cbt	1
+transcriptional factor	cbp	1
+datum collection	cba reports	1
+company	cbk products	1
+medium corporation	cbs	3
+medium corporation	cbs news	2
+high density area	cbd	1
+local spot	cb's gallery	1
+memory type	cbram	1
+nonpharmacologic treatment	cbt	1
+system error	cb fault	1
+investigative agency	cbi	1
+venerable institution	cbs	1
+crown corporation	cbc	1
+medium entity	cbs news	1
+medium entity	cbs	1
+national show	cbs's early show	1
+telephone system	cbx	2
+civilian agency	cbp	1
+consultation	cbd masterplans	1
+medium network	cbs	1
+medium network	cbs news	1
+news media	cbs	1
+planning effort	cbd transportation plan	1
+psychological approach	cbt	2
+representative group	cbi	1
+training institute	cbri	1
+business hub	cbd	1
+children's show	cbs summer playhouse	1
+international channel	cbeebies	1
+international channel	cbc	1
+popular online service	cbs	1
+AEDs	cbz	4
+clinical method	cbt	1
+federal law enforcement agency	cbp	1
+high-density area	cbds of major australian city	1
+high-density area	cbd	1
+laboratory result	cbc	1
+mobile communication service	cbs	1
+movie tv channel	cbl film italy movie	1
+national TV show	cbc's living in toronto	1
+radio network	cbs	1
+radio network	cbc	1
+activity	cbhfa volunteer selection	1
+activity	cbos	1
+activity	cb radio	1
+complex intervention	cbt for panic disorder	1
+medium owner	cbs	1
+medium provider	cbs	1
+news network	cbs	2
+news network	cbc	1
+news network	cbs news	1
+news station	cbs	7
+news station	cbc	1
+receptor blocker	cb one  receptor blocker 	1
+web project	cbs local ad network	1
+local channel	cbs	13
+local channel	cbc on fta	1
+Cannabinoids	cbd	4
+Cannabinoids	cbn	1
+high-profile site	cbs marketwatch.com	1
+medium firm	cbs	3
+nuclear protein	cbp	1
+official site	cbs	2
+sport site	cbssportsline	1
+sport site	cbs	1
+substantial issue	cbm system	1
+HD format	cbhd	3
+medium institution	cbs sports	1
+news show	cbs morning news	1
+psychological method	cbt	1
+public education program	cbc-queen's policy forum	1
+traditional medium company	cbs	2
+basic laboratory test	cbc	2
+broadcasting company	cbs	2
+public broadcaster	cbc	1
+removable accessory	cb equipment	1
+right holder	cbm exploration right holder	1
+technical certification	cbcp	1
+lab service	cbc	2
+legendary club	cbgb's	1
+long-standing program	cbe	1
+mainstream source	cbs news	1
+network site	cbs.com	1
+activity	cbe got talent	1
+treatment practice	cbt	1
+basic internet service	cbs	1
+cable station	cbc's cable station	1
+decision support system	cbs tool	1
+large medium company	cbs	1
+news company	cbs	1
+news medium	cbs news	1
+online new site	cbc	1
+psychotherapeutic approach	cbt	1
+surprise team	cb olesa espanyol	1
+amazing company	cbs	1
+canada tv channel	cbc manitoba	3
+canada tv channel	cbc nova scotia	2
+canada tv channel	cbc northbeat	1
+canada tv channel	cbc windsor	1
+canada tv channel	cbc ottawa	1
+canada tv channel	cbc new foundland	1
+canada tv channel	cbc national	1
+canada tv channel	cbc new brunswick	1
+canada tv channel	cbc edmonton	1
+canada tv channel	cbc newscasts	1
+canada tv channel	cbc north	1
+canada tv channel	cbc vancouver	1
+cognitive therapy	cbt	1
+evidence-based treatment	cbt	1
+internet-based tool	cbsc on-line business planner	1
+radio communication device	cb radio	2
+routine laboratory study	cbc	3
+routine laboratory study	cbc count	1
+short-term indicator	cbi industrial trends survey	2
+authentic assessment	cbm	1
+baseline investigation	cbc	1
+broadcast channel	cbs	4
+broadcast station	cbs	2
+broadcast station	cbs radio broadcasting corporation	2
+business support organization	cbi	1
+car electronics	cb radio	1
+corporate interest	cbiandinstitute of directors	1
+countless company	cbs	1
+junior college	cbt college	2
+junior college	cbt college in miami	1
+non-drug option	cbt	1
+protein-coupled receptor	cb one 	1
+traditional medium channel	cbc	1
+big network	cbs	2
+delivery format	cbt disc	1
+international new organization	cbs	1
+large medium outlet	cbc	2
+large medium outlet	cbs	1
+national asset	cbirf	1
+policy approach	cba	1
+sport bike	cbr six hundred 	1
+sport bike	cbr r six  r one  gsxr ninja 	1
+village organization	cbos	2
+activity centre	cbd	1
+content network	cbs	1
+medium mogul	cbs	1
+medium work	cbts	1
+psychometric instrument	cbcl	1
+psychosocial treatment	cbt	3
+television special	cbc's lady windermere's fan	1
+transcriptional regulator	cbp	4
+coactivators	cbp	8
+coactivators	cbp andgrip one 	1
+evaluative tool	cba	1
+national cultural institution	cbc	1
+physiologic datum	cbf by arterial spin-labeling	1
+recreational park	cb smith park	2
+united kingdom tv channel	cbbc newsround	1
+azo dye	cby	1
+big medium company	cbs	1
+mainstream outlet	cbs news	1
+mainstream outlet	cbc news	1
+measurement result	cbc	2
+minor league	cba	1
+national and international program	cbs news	1
+national medium	cbc	1
+behavior therapy	cbt	1
+coffee beverage	cbtl's signature coffee beverage	1
+free channel	cbs	1
+g-protein-coupled receptor	cb one 	2
+international outlet	cbc canada	1
+medium heavyweight	cbs	1
+news medium outlet	cbs	1
+NYC club	cbgb's	1
+objective source	cbs news	1
+standout performer	cb terrell roberts	1
+standout performer	cb dennis weathersby	1
+business representative	cbi	2
+famed venue	cbgb music club	1
+large web site	cbs sportsline	1
+reputable new source	cbs	1
+reputable new source	cbc	1
+safety certificate	cb	6
+splines	cb-splines	1
+broadcasting network	cbs	4
+employers organization	cbi	5
+epizootic disease	cbpp	1
+initial test	cbc	1
+lobbying organization	cbi public services strategy board	1
+local television station	cbc tv	2
+local television station	cbs	1
+newsmagazines	cbs street stories	1
+reform proposal	cbit	1
+routine diagnostic test	cbc	1
+social landlord	cbha	1
+conversion function	cbool	1
+conversion function	cbyte	1
+economic method	cba	1
+multicast protocol	cbt	1
+national broadcaster	cbs	1
+national broadcaster	cbc	1
+psychotherapeutic intervention	cbt	4
+routine blood test	cbc	4
+skill position	cb	1
+sport network	cbs	1
+talking therapy	cbt	7
+top medium outlet	cbs marketwatch	1
+advanced mode	cbc	1
+batch mixer	cbs- nine hundred and sixty-one  twin  fifty -bbl mixer 	1
+information	cbsl account information	1
+information	cbv nmr	1
+information	cbrne	1
+common laboratory test	cbc	1
+cutting-edge therapy	cbt	1
+depository	cblc	1
+entertainment client	cbs	1
+key target group	cbos	1
+Lab work	cbc	3
+local new source	cbs  six 	1
+MFC class	cbrush	2
+radio company	cbs	2
+SD channel	cbs	1
+broadcast company	cbs	1
+broadcast outlet	cbs	2
+broadcast outlet	cbs news	1
+cisco technology	cbqos	1
+complementary methodology	cbt	1
+consumer protection agency	cbs	1
+E3 ubiquitin ligases	cbl-b	2
+english language channel	cbs	4
+halocarbons	cbr four m ci four 	1
+radio communication	cb radio	1
+radio signal	cb radio signal	1
+radio transmitter	cb radio	4
+real estate broker	cb richard ellis	1
+routine lab test	cbc	1
+sport website	cbs sport	1
+sport website	cbs	1
+traditionally strong market	cbd	1
+baseline study	cbc	1
+comprehensive test	cbc	1
+economic technique	cba	1
+examination board	cbse	1
+future exchange	cbot	1
+international environmental agreement	cbd	3
+medium sponsor	cbc on board	1
+metro station	cbd metro station	1
+network channel	cbs	2
+newscaster	cbs	1
+renowned enterprise	cboss	1
+rival organization	cbs	1
+static test	cbr	1
+station group	cbs	1
+wealth manager	cbg	1
+american medium outlet	cbs	1
+cognitive approach	cbt	2
+delivery tool	cbr tool	1
+Enzyme-inducing AEDs	cbz	1
+FTA channel	cbs	1
+HDTV channel	cbs	1
+mass market	cb radio in the  one thousand nine hundred and seventy s 	3
+morning show	cbs morning news	1
+service supplier	cbeyond	1
+simple blood test	cbc	1
+talking treatment	cbt	1
+traditional broadcaster	cbs	1
+traditional broadcaster	cbs corp	1
+unreimbursed expense	cb radio	1
+anxiety treatment	cbt	1
+basic lab test	cbc	2
+Blood testing	cbc with differential	1
+consultancy company	cb richard ellis	1
+facing team	cbhs	1
+high-resolution image	cbct scan	1
+large global firm	cb richard ellis	1
+mainstream treatment	cbt	1
+event	cbs sales convention	1
+event	cbs losing football	1
+property consultant	cbre	1
+property consultant	cb richard ellis	1
+short-term treatment	cbt	1
+single approach	cba	1
+streaming site	cbs	2
+talented prospect	cb kenny scott	1
+television new program	cbs evening news	1
+top name company	cbs	1
+traditional therapeutic approach	cbt	2
+TV new channel	cbs	1
+behavioural therapy	cbt	1
+broadcast television network	cbs news	1
+broadcast television network	cbs	1
+commercial broadcaster	cbs	1
+employers group	cbi	2
+featuring accessory	cb radio	1
+government research institution	cbs	1
+influential business group	cbi	1
+international consultant	cbre	1
+internet new site	cbs	1
+key starter	cb terrell thomas	1
+large medium conglomerate	cbs	1
+legacy component	cbp	1
+mainstream new	cbs	1
+mainstream new organization	cbs news	1
+network television show	cbs's the unit	2
+news report	cbc news article	1
+personal radio service	cb radio	1
+phosphoproteins	cbl	1
+property management firm	cbre	1
+routine systemic test	cbc	1
+season artist	cbc radio orchestra	1
+television broadcaster	cbc	1
+ubiquitin ligases	cbl-b	1
+alkaline water	cbng groundwater	1
+augmentation strategy	cbt	2
+basic channel	cbs	1
+conventional broadcaster	cbc	3
+cooperative structure	cbss	1
+credible new source	cbs money watch	1
+cyclical name	cb richard ellis group	1
+distinguished institution	cbot	1
+encryption mode	cbc mode	1
+event	cb paul quiz	1
+event	cbc fall launch	1
+event	cbc judging juried allied arts association art show	1
+event	cbc north radio's christmas ceilidhs	1
+free HD channel	cbs	1
+high profile medium outlet	cbs evening news with katie couric	1
+high profile medium outlet	cbs's greatest american dog	1
+local and national medium outlet	cbs	1
+mainstream new outlet	cbs	2
+maintenance system	cbm	1
+medium leader	cbs	1
+music club	cbgb's	1
+music club	cbgb	1
+network website	cbs	1
+screening laboratory test	cbc	1
+self-control strategy	cbt self-control strategy	1
+sound equipment	cb radio	1
+traditional exchange	cbot	1
+traditional exchange	cboe	1
+two-way radio communication system	cb radio	2
+U.S. network	cbs	2
+unconventional gas resource	cbm	1
+water-insoluble compound	cbz	1
+blood work	cbc	3
+broadcast organization	cbs	1
+canadian network	cbc	1
+canadian network	cbc on board	1
+common blood test	cbc	2
+craft site	cbeebies site for idea	1
+cylinder accessory	cb	1
+education board	cbse	1
+framework convention	cbd	1
+giant medical device manufacturer	cbyon	1
+legacy medium company	cbs	1
+national new	cbc evening new	1
+national new network	cbs	1
+national pundit	cbssports.com's bruce feldman	2
+national television network	cbs	4
+national TV network	cbs	2
+natural cannabinoids	cbg	1
+natural cannabinoids	cbd	1
+natural cannabinoids	cbc	1
+networks	cbs	1
+news database	cbca	1
+program	cbt	2
+program	cbs sunday movie	2
+program	cbs new program	1
+program	cbs news	1
+program	cbs	1
+program	cbp's container security initiative	1
+program	cbt for suicidal person	1
+over-the-air broadcaster	cbs	1
+publicity effort	cbe livable buildings awards	1
+respected new source	cbs	1
+retail REITs	cbl & associates	1
+seminar course	cbio  six hundred and three 	1
+standardised measure	cbcl	1
+television studio	cbs	2
+traditional business area	cbd	1
+underlayment	cbu	2
+white house correspondent	cbs's bill plante	1
+world's broadcaster	cbs	1
+accessibility factor	cbd	2
+archive file format	cbz	2
+archive file format	cbr	2
+basic lab	cbc	2
+basic laboratory investigation	cbc	1
+big TV network	cbs	1
+counselling approach	cbt	1
+eminent photographer	cb smith along with distinguished fashion designer	1
+financial holding	cb richard ellis group	1
+flagship model	cbr six hundred rr 	1
+flagship model	cbr one thousand  rr 	1
+formal community service	cba	2
+great mod	cb	1
+local medium company	cbs	1
+mainstream network	cbs	1
+medium portal	cbssports.com	1
+medium power	cbs	1
+modern statute	cbb law	1
+mouse strain	cba	1
+network affiliate	cbs	2
+network station	cbs	2
+program	cbfa	1
+program	cbc radio's quirks and quarks''	1
+program	cbe mentoring program	1
+program	cbd energy efficiency initiative	1
+regional medium outlet	cbc radio in sudbury	1
+regularly TV show	cbs	1
+reserve unit	cbmus	1
+standard AEDs	cbz	1
+strength test	cbr	1
+world new channel	cbs	1
+access publication	cbd mobility maps	1
+active driving safety system	cbc	1
+american network	cbs	1
+american new network	cbs	2
+american outlet	cbs	1
+american television network	cbs	2
+australia's largest company	cba	1
+baseline laboratory test	cbc	1
+big radio company	cbs corp. s cbs radio	2
+bloodwork	cbc	1
+broadcast new organization	cbs	1
+Co-activators	cbp	2
+coregulators	cbp	1
+countless television show	cbs	1
+credible new organization	cbc	1
+credible new organization	cbs spportsline.com	1
+credible new organization	cbs sportsline.com	1
+directive approach	cbt	1
+effective therapeutic technique	cbt	1
+inappropriate intervention	cbt	1
+local HD channel	cbs	1
+local new station	cbs	1
+memory institution	cbc	1
+modification technology	cbt	1
+motorcycle engine	cb model	1
+national broadcast outlet	cbs	1
+national radio station	cbs	1
+national radio station	cbc radio	1
+network leader	cbs	1
+news syndication	cbs	1
+one-way communication device	cb	1
+practice test	cbse	1
+pro bowler	cb patrick surtain	1
+procedural drama	cbs repeat procedural drama	1
+quality partner	cbs	1
+queuing method	cbq	1
+retrieval tool	cbca complete	1
+simple lab test	cbc with differential	1
+small transmitter	cb transmitter	1
+standard lab test	cbc	1
+stream TV channel	cbs	1
+structured therapy	cbt	1
+survey indicator	cbi distributive trades survey	1
+toronto landmark	cbc building	1
+traditional broadcast network	cbs	1
+typically large company	cbs	1
+well-known and respected medium outlet	cbs	1
+young up-and-comers	cb devin mccourty	1
+2-way radio	cb	1
+air broadcast	cbs	1
+american mainstream television medium	cbs	1
+american TV new organization	cbs	1
+anti-corruption institution	cbi	1
+available resource	cbc's available resource	1
+basic network	cbs	1
+basic version	cbasic for cpim	1
+broad-based organization	cbmp	1
+broadcasting television station	cbs	1
+business competition	cbet	1
+cartridge feature	cb cap	1
+CB1 receptor agonists	cb one  receptor antagonist 	1
+city centre office agent	cbre	1
+commercial finance company	cbc	1
+commercial real estate firm	cb richard ellis	1
+company supply type condenser	cbb twenty-two 	1
+company supply type condenser	cbb sixty 	1
+company supply type condenser	cbb sixty-five 	1
+company supply type condenser	cbb eighty 	1
+company supply type condenser	cbb sixty-one 	1
+competitive channel	cbs	1
+continuous resource	cbng development	1
+corporate medium outlet	cbs radio inc	2
+corporate medium outlet	cbs radio inc.	1
+corporate music label	cbs	1
+counselling modalities	cbt	1
+delivery methodology	cbt	2
+factor	cbfa one 	1
+factor	cbd employment	1
+DHS component	cbp	1
+downtown club	cbgb	3
+economic evaluation technique	cba	1
+employer representative	cbi	1
+factory load	cbc  one hundred -gr 	1
+great plugins	cb cores	1
+great ultra feature	cb radio	1
+growth engine	cbs interactive	1
+helping hand	cbcp	1
+HR outsourcing service	cbr	1
+lab study	cbc	2
+large communi-cations conglomerate	cbc	2
+large communi-cations conglomerate	cbs	2
+large non-governmental organization	cbm	1
+lasting institution	cbc	1
+lepidopterous pest	cbw	1
+liberal TV new	cbs	1
+local broadcast network	cbs	1
+mainstream new site	cbs	2
+market commentator	cb richard ellis	1
+medium congloms	cbs	1
+national and international TV new	cbs national news with katie couric	1
+national and local television station	cbc	2
+nice quality item	cb radio	1
+nyc's favorite live band venue	cb's gallery	1
+option exchange	cboe	5
+popular los angeles attraction	cbs studios	1
+portable active electronic device	cb radio	3
+prestige client	cbbc	1
+radio conglomerate	cbs	1
+routine laboratory examination	cbc	1
+organization	cbi	14
+organization	cbc	11
+organization	cbs	5
+organization	cbd	2
+organization	cbre	2
+organization	cba	2
+organization	cbs news	2
+supernatural topic	cbs ghost whisperer starring jennifer love hewitt	1
+television new organization	cbs	1
+television source	cbs	1
+time-consuming and manpower-intensive task	cb reporting	1
+transcriptional cofactors	cbp	1
+volatility index	cboe volatility index	2
+advanced tool material	cbn	1
+american broadcaster	cbs	1
+american television new organization	cbs	3
+analog treasure	cbs labs	1
+big television network	cbs	1
+bills supporter	cbs	2
+block cipher mode	cbc	2
+broadcast television outlet	cbs	1
+canada's major network	cbc	1
+celebrating notable industry leader	cb richard ellis	1
+childrens channel	cbbc	1
+college basketball preseason tournament	cbe classic	1
+commie liberal new medium outlet	cbs	1
+Common testing	cbc	1
+communication operation	cbs communication operation	1
+congressional agency	cbo	1
+content hub	cbs	1
+corporate and business client	cbc radio	4
+crop network	cbn	1
+developmental regulator	cbp	1
+discount company	cbb	1
+domestic subsidiary	cbfc limited	1
+EIAEDs	cbz	1
+english and german newspaper	cb friday	1
+organization	cbsc	1
+organization	cbwl	1
+organization	cbci	1
+organization	cbema	1
+organization	cbf	1
+organization	cb richard ellis	1
+organization	cbo	1
+organization	cbta need support	1
+organization	cbtc	1
+organization	cbs interactive	1
+organization	cbs television	1
+organization	cbn	1
+evidence-based psychotherapy	cbt	2
+evidence-based treatment program	cbt	1
+evidenced based practice	cbt	1
+ews organization	cbs news	1
+fastcompany company	cbs	1
+governmental partner	cbsa	1
+high profile network	cbs	1
+horrible new station	cbs	1
+inmate system provider	cbs	1
+key business group	cbi	2
+large traditional, terrestrial radio company	cbs	1
+largest brokerage firm	cb richard ellis	1
+local broadcast channel	cbs	1
+locally-based entity	cbos	1
+minimally invasive test	cbc	1
+motorcycle electrical part	cb one hundred and twenty-five  cdi unit 	1
+MSM outlet	cbs	1
+national and international broadcast program	cbs	1
+national new station	cbc	8
+national new station	cbc newsworld	1
+network television station	cbs	2
+news corporation	cbs	1
+NFL TV partner	cbs	1
+non-conductive particle	cbn	1
+non-medication option	cbt	1
+Nuclear receptor coactivators	cbp	1
+opinion station	cbs	1
+outdoor electronics	cbn radio	1
+over-the-airwaves network	cbs	1
+personal coping strategy	cbt	1
+plus-strand RNA virus	cbv	1
+organization	cbc manitoba	1
+organization	cbbc	1
+organization	cbia	1
+organization	cb with global footprint	1
+organization	cbc retirees association	1
+organization	cbcs	1
+technique	cbt	15
+preferential program	cbi	1
+psychosocial therapy	cbt	1
+psychosocial treatment psycho-social approach	cbt	1
+reliable new site	cbc	1
+routine baseline investigation	cbc	1
+safty certificate	cb	1
+scouting service	cbs sports	1
+screening lab	cbc	1
+self-paced course	cbt	1
+serial laboratory test	cbc	1
+SF-1 coactivators	cbp	1
+simple and standard laboratory test	cbc	1
+simple mode	cbc	1
+single market	cboe	2
+specialty response team	cbrn	1
+stalwart new organization	cbs	1
+system organization	cbd	1
+system-wide approach	cbs approach	1
+tool & CNC component	cbn & diamond tool	1
+top dutch artist	cb milton	1
+traditional news-oriented website	cbs	2
+traditional psychotherapy	cbt	1
+traditional TV provider	cbs	1
+transcriptional coactivators	cbp	2
+tran-scriptionfactors	cbp	1
+U.S. new organization	cbs	1
+U.S. station	cbs	1
+verbal therapy	cbt	1
+veteran show	cbs judging amy	1
+video course	cbt nugget video	1
+worthwhile study material	cbse note	1
+worthwhile study material	cbse sample paper	1
+1000cc	cbr one thousand  rr 	1
+2-way communication device	cb's	2
+AC technique	cba	1
+acute parameter	cbf	1
+analytical assessment technique	cba	1
+ATM service class	cbr	1
+backup communication path	cb radio	1
+bank support service	cbss	1
+baseline lab	cbc with diff	1
+technique	cbr	2
+technique	cba	2
+basic television station	cbs	1
+best community channel	cbs	1
+best known venue	cbgb's	1
+bias liberal new	cbs	1
+big broadcast network	cbs	1
+big name children's show	cbeebies	1
+big new station	cbs	1
+big online new outlet	cbc	1
+big radio network	cbs	2
+big-name broadcaster company	cbs	1
+bromine-containing compound	cbrclf  two 	2
+Canadian and American television series	cbs's early edition	1
+canadian and british source	cbc	1
+canadian medium	cbc	1
+CC bike	cb three hundred and fifty 's 	1
+CC bike	cb two hundred 's 	1
+china's financial authority	cbrc	1
+christian television program	cbn's turning point	1
+cipher mode	cbc	1
+classic visual basic keyword	cbool	1
+clonal cell line	cb five 	1
+collaborative, integrative approach	cbt	1
+comic file format	cbr	2
+comic file format	cbz	2
+commercial new program	cbs	1
+commercial property agent	cbre	1
+common financial site	cbs marketwatch	1
+common lab	cbc	1
+common lab test	cbc	1
+competitor service	cbc news network	1
+conservation biologist	cbsg chair	1
+corporate statute	cbca	1
+countless television system	cbs	1
+credible sportsnetworks	cbs sports	1
+currently available code-oriented approach	cbmc	1
+datum driven model	cbr	1
+dynamic medium company	cbs television	1
+empirically-based treatment	cbt	1
+empirically-supported treatment	cbt	1
+eng GEC channel	cbs prime	1
+essential toy	cb radio	1
+established therapeutic technique	cbt for schizophrenic patient	1
+evidence-based modalities	cbt	1
+evidence-based, solution-focused intervention	cbt	1
+examiner american television network	cbs	1
+field skilled player	cb mike jenkins	1
+technique	cbed	1
+generic intervention	cbt	1
+giant TV station	cbs	1
+global broadcaster	cbs	1
+global commercial real estate broker	cb richard ellis	1
+hand-held transceiver	cb radio	1
+harley touring feature	cb radio	1
+hat-regulating protein	cbp	1
+Hepatic enzyme-inducing AEDs	cbz	1
+high profile TV program	cbs	1
+high-priced backup	cb david barrett	1
+historically broadcast station	cbs	1
+insightful program	cbb	2
+intracellular signaling protein	cbl	1
+key departure	cb chris cook	1
+key large cap name	cbs	1
+kid TV channel	cbbc	1
+laboratory-related service	cbc	1
+large affiliate	cbs	1
+large real estate firm	cb richard ellis	1
+largest TV network	cbc	1
+legacy agency	cbp	1
+legitimate network affiliate	cbs	1
+licensed new organization	cbs	1
+ligand-dependent recruitment ofcoactivators	cbp	1
+local and national new organization	cbs	1
+local and national new station	cbs	1
+local broadcast network channel	cbs	1
+local network affiliate new channel	cbs	1
+local over-the-air channel	cbc	1
+local U.S. broadcast television station	cbs	1
+mainstay venue	cbgb	1
+mainstream medium house	cbs	1
+mainstream new agency	cbs	1
+male chastity device	cb- three thousand  	2
+marketing retailer	cbs media	1
+market's giant	cb richard ellis inc.	1
+member network	cbc	1
+moderate baptist organization	cbf	1
+modern navigational equipment	cb radio	1
+MSM station	cbs	1
+murdoch's rival broadcaster	cbs	1
+mutual customer	cb richard ellis	1
+national broadcast network	cbs	1
+national broadcasting company	cbc	1
+national mainstream medium outlet	cbs	1
+national medium figure	cbs correspondent bob schieffer	1
+national TV new	cbs	1
+network correspondent	cbs's lara logan	1
+network's web site	cbs	1
+news organizat ion	cbs news sixty  minutes 	1
+non cable new network	cbs news	1
+non drug therapy	cbt	1
+non mainstream channel	cbs action	1
+application	cbac	2
+application	cbm dewatering	2
+application	cbct	1
+application	cbr constant bit rate application	1
+north american TV network	cbs	1
+online fantasy football site	cbs sports fantasy football	1
+online salary site	cb salary	1
+online sport package	cbs ncaa tournament	1
+organic reaction s	cbs reduction	1
+over-the air station	cbc	1
+over-the-air broadcast station	cbs	1
+petty choice item	cb scizor	1
+pga's broadcast partner	cbs	1
+Plant cannabinoids	cbdv	2
+Plant cannabinoids	cbn	2
+Plant cannabinoids	cbg	2
+polycomb protein	cbx eight 	1
+popular fantasy sport web site	cbs sportsline	1
+popular new station	cbs news	1
+popular stree bike	cbrs	1
+popular television station	cbs	1
+popular TV station	cbs	1
+power 12V DC device	cb radio	2
+powerful new organization	cbs	1
+prime commercial office location	cbd	1
+private and public corporation	cbs	1
+proven therapeutic approach	cbt	1
+psychological intervention approach	cbt	2
+psychotherapeutic treatment modalities	cbt	1
+public broadcast station	cbc in canada	1
+public TV broadcast	cbs	1
+publicly-funded broadcaster	cbc	1
+pure athlete	cb patrick peterson	1
+QAM channel	cbs	1
+quality location	cbd hot spot	1
+quantitative perfusion parameter	cbf	1
+quantitative perfusion parameter	cbv	1
+regulatory and enforcement authority	cbn	1
+resposable medium	cbs	1
+rural radio application	cb radio	1
+secondary stakeholder public sector agency	cbk	1
+sectoral good practice guideline	cbd biodiversity	1
+secure mode	cbc	1
+self-study option	cbt	1
+single organ disease	cbavd	1
+snap-action thermal protector	cbp for battery pack	1
+so-called middle-of-the-road network	cbs	1
+sparse mode protocol	cbt	1
+sport network site	cbs sportsline	1
+standard broadcast channel	cbs	1
+standardised scale	cbcl	1
+steady contributor	cb tramon williams	1
+stream new	cbs	1
+symptom rating scale	cbcl	2
+application	cbc	1
+T.V network	cbs	1
+technology-based training system	cbt	1
+telly talk organization	cbs	1
+today's busiest e-commerce site	cbs sportsline	4
+top network channel	cbs	2
+top U.S. real estate firm	cb richard ellis	1
+toronto's free channel	cbc	1
+traditional tier-1 network	cbs	1
+training software	cbrn training	1
+TV conglomerate	cbs	1
+TV new organization	cbs	1
+U.S. medium company	cbs corp	3
+ubiquitous promoter	cba promoter	1
+unlicensed service	cb	1
+upper class high school	cbhs	1
+USA network	cbs	1
+versatile therapeutic practice	cbt practice	1
+video training service	cbt nuggets	1
+vow	cbs  two  real estate market 	1
+well-known resource	cbms mathematical education of teacher report	1
+year major new outlet	cbs	1
+york scene playing place	cbgb?s	1
+york scene playing place	cbgb's	1
+400s	cbr four hundred rr 	1
+abc's sister	cbc in canada	1
+active speculative market	cbot	1
+actively teaching method	cbt exercise	1
+administrative-defined area	cbg	1
+advanced business continuity course	cbra seminar advanced bc program audit	1
+all-purpose insect spray	cb- eighty  extra aerosol 	1
+amateur communication	cb	1
+american television company	cbs	1
+america's largest radio broadcaster	cbs	1
+anything channel	cbs	1
+AR coactivators	cbp	1
+basic and advanced laboratory procedure	cbc	1
+basic preoperative laboratory test	cbc count	1
+behavorial technique	cbt	1
+biggest network	cbs	1
+biodiversity international related meeting	cbd cop meeting	1
+borate-based crystal	cbo crystal	1
+broadcast new outlet	cbs news	1
+broadcast TV network	cbs	1
+camouflage item	cbrn suit	1
+canadian broadcaster	cbc	3
+canadian crown corporation	cbc	1
+canadian new channel	cbc	1
+name	cbs	1
+CB radio accessory	cb radio adapter	1
+CB1 agonist	cb two  agonist 	1
+chastity device	cb- three thousand  	1
+chief db's	cb brandon flowers	1
+chinese regulator	cbrc	1
+chromatin modifying protein	cbp acetyltransferase	1
+city's mainstream TV station	cbc	1
+classical exo-cannabinoids	cbd	1
+clinician-led programme	cbft	1
+cluster bomb	cbu- eighty-seven 	1
+college basketball expert	cbs seth davis	1
+comic related magazine	cbg	1
+complement-independent bactericidal antibody	cb two 	1
+computerized processing system software	cbms encoding system	2
+conclusion convention	cbd	1
+conventional cipher mode	cbc	1
+conversely broadcast new	cbs	1
+corporate and nonprofi t client	cb richard ellis	1
+counseling modalities	cbt	1
+counseling therapy	cbt	1
+county-based system	cbsa	1
+currently anachronistic string	cbb mentioned with the tazo berry	1
+currently big player	cbs	1
+cyclic hydrocarbon molecule	cbg	1
+deep market	cbot's open outcry auction of t-bonds	1
+disastrous financial instrument	cbo's	1
+downloadable supplement	cbc videos	1
+dynamic defender	cb devin mccourty	1
+dynamic safety system	cbc	1
+dynamic therapeutic intervention	cbt	1
+economic or multi-criteria evaluation method	cba	1
+effective psychological tool	cbt	1
+english & chinese radio station	cbc	1
+evidence based therapy	cbt	2
+fact thatnonlupus prone strain	cba	1
+name	cb macdonald	1
+name	cb aqib talib	1
+fantasy football site	cbs sportsline.com	1
+focused therapy	cbt	1
+free polycations	cbsa	1
+full-text new database	cbca	1
+generalist insect herbivore	cbw	1
+global commodity exchange	cbot	1
+good quality monitor arm	cbs flo	1
+good quality monitor arm	cbs rodney	1
+good quality rubber accelerator	cbs	1
+good quality rubber accelerator s	cbs	1
+great new network	cbc newsworld	1
+group XVI spiroplasmas	cb- one 	1
+hard brittle dresser material	cbn	1
+higher-end cutting tool material	cbn	2
+immigration agency	cbp	1
+independent communication system	cb	1
+independent student-run course review system	cbs professor reviews for the business school	1
+INGDO s	cbmi	1
+INGDO's	cbmi	1
+intensive community-based support service	cbh	1
+international property consultant	cb richard ellis	1
+iPhone app	cba property guide	1
+irrelevant URLs	cbeebies	1
+key business representative organization	cbi	1
+key buyer	cbh	1
+krugman's datum source	cbo	1
+large interstate organization	cbf	1
+large medium institution	cbs	2
+large new outlet	cbs news	1
+large nongovernmental organization	cbm	1
+leading UK real estate company	cb richard ellis	1
+legendary new york venue	cbgb's	1
+legendary NYC club	cbgb	1
+factor	cb content	1
+factor	cb unit transportation	1
+case	cbs march madness on demand during the ncaa basketball tournament	2
+case	cbrne incident	1
+case	cbse standard	1
+case	cbp's maintenance of effort on the customs revenue function	1
+limited-overs fixture	cb series	1
+Local and regional value-added resellers	cbs systems	1
+local network HD channel	cbs	1
+local statutory reporting	cbrc report	1
+local television personality	cbs station ktvt's former anchorman tracy rowlett	1
+locally controlled bank	cba	1
+longer-term intervention	cbt	1
+lower-power application	cb radio	1
+mainstream medium company	cbs	1
+mainstream new channel	cbc	1
+mainstream psychotherapeutic technique	cbt technique	1
+MANET multi-cast protocol	cbt	1
+manhattan venue	cbgb's gallery	2
+material classification model	cbr	1
+mind major network	cbs	1
+modest therapy	cbt	1
+multifamily brokerage	cbre	1
+multi-lateral environmental agreement	cbd	1
+nasdaq community bank	cbu	2
+national analyst	cbs dick enberg	1
+national broadcast networks	cbs	1
+national new medium source	cbs news	1
+national radio network	cbs	1
+national television credit	cbs's star search'', fox network's nightshift''	1
+national television new service	cbs	1
+network broadcaster	cbs	1
+news worthy channel	cbs	1
+newscast	cbs evening news	6
+non-profit, science-based organization	cbf	1
+nurse-delivered psychological intervention	cbt	1
+NYSERDA SBC program	cbo initiative	1
+off-air network channel	cbs	1
+official indian government agency	cbi	1
+olde time radio show	cbs mystery theater	1
+online salary guide	cb salary	1
+popular TV broadcaster	cbs	1
+case	cba investments ltd	1
+case	cboe index flex option	1
+case	cb oe	1
+pre-cable network	cbs	1
+professional recovery company	cbl data recovery technologies	1
+profile gig	cbd's music on the streets	1
+prominent medium network	cbc television	1
+prominent medium network	cbc metro morning	1
+prominent U.S. television network	cbs	1
+proprietary networking protocol	cbus from honeywell	1
+protective pressure group	cbi	1
+psuedo-christian organization	cbn	1
+psychosocial behavioral treatment	cbt	1
+public broadcasting service	cbc	1
+Public radio	cbc radio	1
+public television service	cbc	1
+pure content provider	cbs sportsline	2
+pure-athletes	cb patrick peterson	1
+reaching venue	cbgb?s	1
+real estate service firm	cb richard ellis	1
+reclaimed area	cbd	1
+regional governmental organization	cbss	1
+Regular blood testing	cbc	1
+reliable new outlet	cbs	1
+reputable new agency	cbs	1
+research-supported and time-effective method	cbt	1
+rival brokerage	cbre	2
+routine baseline test	cbc count	1
+saarinen-designed structure	cbs headquarters in manhattan	1
+salary reporting tool	cb salary	1
+scheme's partner	cbi	1
+semi-professional league	cba	2
+short term therapy	cbt	1
+short-term psychological therapy	cbt	2
+stand-alone destination site	cbs marketwatch.com	1
+starter device	cb series with numbered plastic lock	1
+steatorrhea test	cbc	1
+steroid receptor coactivators	cbp	1
+successful staff development strategy	cbt in action scheme	1
+sulfenamide-type vulcanization accelerator	cbs	1
+case	cbd trunk route along murray	1
+case	cboe	1
+option	cbt	2
+option	cb	1
+option	cbreak	1
+talented submission artist	cb dolloway	1
+television doctor	cbs's jon lapook	2
+television set site	cbs	1
+test cycle	cbd cycle	1
+therapy course	cbt	1
+time-slot competitor	cbs ncis	1
+today influential group	cbi	1
+tooling super-hard material	cbn	1
+top american network	cbs	1
+top national firm	cb richard ellis	1
+toronto channel	cbc	1
+toxic waste chemical	cbc toxic waste chemical	1
+traditional EC provider	cbs	1
+traditional knowledge network	cbd's clearing house mechanism	1
+traditional, mainstream new organization	cbs	1
+train control system	cbtc	1
+transcription coactivators	cbp	1
+transcriptional co-activators	cbp	1
+TV broadcast network	cbs	1
+TV deal	cbs	1
+TV programmer	cbs	1
+TV titan	cbs broadcasting inc	1
+U.S. future exchange	cbot	1
+Ubiquitinligases	cbl-b	1
+vapor phase epitaxy method	cbe method	1
+watershed modeling system	cbp phase v model	1
+week large network	cbs	1
+week major television network	cbs	1
+week many T.V. network	cbs	1
+well-established AEDs	cbz	1
+western record company	cbs	1
+western-based measure	cbcl andasheretal	1
+word type program	cbs radio mystery theater	1
+world-renowned broadcasting company	cbs	1
+worrying business group	cbi	1
+year question paper	cbse board	1
+young vet	cb aquib talib	1
+yuletide offering	cbs a garfield christmas special	1
+absent policy change	cbo's labor force	2
+acute bleeding situation	cbs	1
+advanced imaging algorithm	cbm & rtm	1
+advanced tool insert material	cbn	1
+anti-american foreign news service	cbc	1
+Anxiety therapy online	cbt	1
+Anxiety treatment online	cbt	1
+app site	cb	1
+Asingle cluster bomb	cbu- eighty-seven 	1
+association-rule-based classification approach	cba	1
+ATM traffic category	cbr	1
+Authoritative treatment	cbt	1
+autocad mechanical top manufacturer	cbtand wbt	1
+avatar system	cb	1
+axonal GPCRs	cb one  cannabinoid 	1
+option	cbt delivery	1
+option	cbre's standards of sustainability	1
+based method	cbt	3
+basic ATM transmission facility	cbr pvcs	1
+BBC's output	cbeebies	1
+bbc's youth-related site	cbbc	1
+bdies	cbmbers of commerce	1
+best-developed policy analytic tool	cba	1
+best-developed policy-analytic tool	cba	2
+big canola buyer	cbh	1
+big medium partner	cbs	1
+big railroad	cb	1
+broad spectrum behavioral measure	cbcl	1
+broadcast TV company	cbs	1
+broadcast-network entry	cbs's late show with david letterman	1
+C. Behavior therapy	cbt cognitive-behavioral therapy	1
+canadian new site	cbc	1
+canadian TV channel	cbc	1
+cannabis stock	cb!s	1
+carbohydrate-binding domain conjugate	cbd conjugate	1
+carbon accounting model	cbm-cfs three 	1
+card payment system	cb system	1
+CBC apps	cbc hockey	1
+CBC programming	cbc forums	1
+cbc-type domain extension	cbc-mac	1
+CBL protein	cblc	2
+cell-intrinsic inhibitory molecule	cbl-b	1
+certificate-based protocol	cbu	1
+chemical scheme	cbm iv	1
+china requirement alternative energy source	cbm	1
+cluster bomblets	cbu- eighty-seven 	1
+CMAQ chemical mechanism	cb four 	1
+coactivator	cbp	1
+cognitive behavioral theory technique	cbt thought record	1
+comic book file format	cbz	1
+common pediatric laboratory result	cbc	1
+common standard approach	cbc	1
+commonplace image	cbs logo	1
+company's trade association	cbi	1
+complete work-up	cbc with differential	1
+completely human antibody	cb eight 	2
+conventional detection system	cb radio	1
+conventions CEPA activity	cbd programme of work for the global initiative on communication	1
+core counseling technique	cbt	1
+core insider group	cbi	1
+counselling therapy	cbt	1
+counter investigation agency	cbi	1
+country-spanning institution	cbc	1
+credit card reward point	cba credit card	1
+cyclic mode	cbc	2
+cylinder bike	cbr six hundred rr 	1
+date therapy	cbt	1
+defensive talent	cb jimmy smith	1
+definable and structured therapy	cbt	1
+development research project	cbcrm project	1
+developmental research project	cb-crm project	1
+DISCUSSION functional imaging technique	cbf spect	1
+distinctly Canadian drama series	cbc's street legal	3
+DL method	cbt web-based training	1
+group	cbi	5
+group	cbs	2
+group	cbm	1
+eclectic therapeutic modalities	cbt	1
+efficiency assessment tool	cba in the decision making process	1
+egional employers organization	cbi	1
+electrical interior mod	cb	1
+emulsion polymerization chain transfer agent	cbr  four 	1
+english medium	cbc	1
+enzyme-inducing anticonvulsant	cbz	1
+ESB service	cbr	1
+established US network	cbs	1
+eventually network	cbs	2
+evidence-based intervention strategy	cbt	1
+exchange-driven market	cbot	1
+expression recognition technique	cbr	1
+extensive psychological therapy	cbt	1
+fantastic tournament game	cbi tournament	1
+FDA division	cber	2
+fellowship's partner organization	cbf-affiliated seminary	1
+five-year certification level	cbre	1
+formative teaching system	cbm	1
+full commodity	cbot	1
+full-fledged examination system	cbse	1
+general-purpose MAC computation scheme	cbc-mac	1
+great amateur player	cb fry	1
+hard tool material	cbn	1
+hematologic investigation	cbc	1
+high drain situation	cb radio	1
+high priority traffic class	cbr	1
+High SAR water	cbm water	2
+hip hangout	cb's gallery	1
+honda's most popular model	cbr six hundred rr 	1
+huge broadcasting network	cbs	1
+huge exchange	cbot	1
+idiot's lantern channel	cbs	1
+image transfer mechanism	cb coating	1
+includeco-activators	cbp	1
+independent qualified outside source	cbc	1
+industrial relation activity	cba negotiation	1
+industry entity	cbs	1
+group	cbs news	1
+group	cbia	1
+group	cbda california all-state band	1
+influential, well-funded group	cbi	1
+inner city market	cbd	1
+installing complex system	cbtc	1
+international real estate firm	cb richard ellis	2
+international trade development partner	cbi of netherlands	1
+internet sport site	cbs sportsline.com	1
+internet-only account	cba's netbank saver	1
+introduction basic encryption mode	cbc	1
+iv-based encryption scheme	cbc	2
+large-scale future project	cbd rail tunnel	1
+late-afternoon show	cbs judge judy	1
+law model	cbo simulation	1
+legendary manhattan club	cbgb	1
+liberal new outlet	cbs	1
+local botswanan private interest	cbet publishing company	1
+local garage	cb motors in cramlington	1
+long form event	cbs march madness	1
+mainstream investor publication	cbs marketwatch	1
+Managed Media	cbs	1
+manualised therapy	cbt	1
+market affiliate	cbs affiliate woio in cleveland	1
+master-listing scheme	cbfpmis in pangasinan	2
+Medicaid Waiver program	cba	1
+member-firms industry leader	cb richard ellis	1
+member-owned business	cbh group	1
+mid-scale development	cbd hotel	2
+mobile communication user	cb user	2
+model Hondas	cb four hundred and fifty 	1
+month major american broadcasting network	cbs	1
+MQC feature	cb marking	1
+multi lateral forum	cbd	1
+multinational and institutional firm	cb richard ellis in madrid	1
+national announcer	cbs's dick enberg	1
+national medium coverage	cbs evening news	1
+national real estate firm	cb richard ellis	1
+network chief	cbs sean mcmanus	1
+network deal	cbs	1
+network new program	cbs	1
+news talk show	cbs sunday morning	1
+non-partisan agency	cbo	1
+nonpolarized capacitor	cbb capacitor	1
+non-psychoactive cannabis compound	cbd	1
+method	cbt	5
+method	cbr test	1
+northern medium outlet	cbc north	1
+nuclear receptor cofactors	cbp	1
+objective station	cbs	1
+OCD specific therapy	cbt	1
+off-exchange liquidity venue	cbx asia	1
+off-network acquisition	cbs television studio's criminal minds	1
+outdoor advertising agency	cbs	1
+personnel preparation effort	cbs program	1
+pigmentary property	cbu	1
+polymer-based compound	cb one hundred  made by dupont 	1
+popular network site	cbs	1
+practical encryption scheme	cbc	1
+practical symmetric encryption scheme	cbc	1
+preoperative full laboratory study	cbc	1
+prime-time melodrama	cbs' csi'', fox's bones''	1
+principal minor pro league	cba	1
+pr-minded organization	cbi	1
+Problem Organisations	cbi	1
+problem-focussed strategy	cbt if anxiety	4
+property agency	cb richard ellis	1
+proven treatment modalities	cbt	1
+psychological and alternative therapy	cbt	1
+psychopathology instrument	cbcl	1
+psychosocial strategy	cbt	1
+psychotropic cannabinoids	cbd	1
+public new agency	cbc news	1
+quick and pragmatic therapy	cbt	1
+radio station owner	cbs corp.	1
+RBL	cbl.abuseat.org in exim	1
+real-time traffic ATM service category	cbr	1
+Refresh counter circuitry	cbr refresh counter	3
+Regional-mall REITs	cbl & associates	1
+relaible source	cbs	1
+renowned research agency	cbs	1
+reputable training company	cbm training	1
+retransmission launch	cbs eye on people	1
+rewrite act style section reference	cb  twenty-three b 	1
+routine laboratoiy examination	cbc	1
+scotch ale	cbc's own bannatyne's scotch ale	1
+second, different behavior instrument	cbcl	1
+Secondary coactivators	cbp	1
+sector-based encryption scheme	cbc modes of operation	1
+self-congratulatory back slapping	cbi about export	1
+method	cbd method	1
+serum binding protein	cbg	1
+smart network	cbs	1
+SME intermediary organization	cbi	1
+so-called monosymptomatic disease	cbavd	1
+specialist fabricator	cbk	1
+spherical guest	cbr four 	1
+standard radio communicator	cb radio	1
+standardized blood test	cbc	1
+standardized intervention	cbt	1
+structured psycho logical intervention	cbt	1
+successful response force	cbrn defense battalion	1
+super-abra-sive material	cbn	1
+supra-threshold application	cbir	1
+tank vendor	cbi horton	1
+Technical workgroups	cbp nutrient subcommittee's sediment workgroup	1
+television broadcast studio	cbs	2
+television daytime soap opera	cbs's love of life	3
+Temporary antennas	cb radio antennas	1
+terrestrial radio provider	cbs	1
+three-letter therapy	cbt	1
+tourism form	cbt	1
+traditional future exchange	cbot	1
+traditional medium heavyweight	cbs	1
+traditional new network	cbs	1
+traditional option market	cboe	1
+traditional psychological therapy	cbt	1
+traditional pure-play medium company	cbs	1
+traditional radio outlet	cbs	3
+traditional thera-peutic approach	cbt	1
+transformational move	cba's bankwest acquisition	1
+treatment image	cbct	1
+troy university center	cbes	1
+twitter partner	cbs interactive	1
+typical MAC construction	cbc-mac	1
+under-dash device	cb radio	1
+unilateral preferential program	cbi	1
+upstream payload channel	cbr channel	2
+useable 600cc alternative	cbr six hundred 	1
+vapor freezer	cbs vapour freezer	1
+tool	cbm	1
+tool	cbmc	1
+tool	cbr	1
+video base marketing course	cb wealth formula	1
+volatility name	cbs	1
+vp16-interacting protein	cbp	1
+wacky fun numerous radio station	cbc	1
+well-staffed group	cbf	1
+year certification level	cbre	1
+year psychologically-based technique	cbt	1
+york city rock club	cbgb	1
+tool	cbd-cms joint work programme	1
+tool	cb wealth formula	1
+product	cb cash	4
+project	cbs's top cops	1
+project	cbs's school of the air	1
+project	cbc documentary feeding new york	1
+material	cbo publication	1
+place	cbd	2
+place	cbbc review	1
+place	cbgb's	1
+player	cbay systems	1
+player	cb jabari greer	1
+player	cb jacob lacey	1
+player	cb prince amukamara	1
+player	cb orlando scandrick	1
+player	cb cord parks	1
+player	cb otis smith	1
+player	cb kevin dockery	1
+player	cb tramon williams	1
+player	cb deion sanders	1
+player	cb patrick peterson	1
+player	cb ryan mcneil	1
+player	cb woodny turenne	1
+player	cbs jacques reeves	1
+player	cbs marketwatch.com	1
+technology	cbt	3
+product	cbn wheel related product	1
+product	cbb sixty-five  capacitor related product 	1
+product	cb equipment	1
+technology	cbd principle	1
+technology	cb radio	1
+term	cbl	1
+term	cbe	1
+term	cbt conspiracy	1
+term	cbrn terrorism agent	1
+parameter	cbv	1
+parameter	cb	1
+parameter	cbod	1
+system	cbs combined braking systems	2
+system	cbt	1
+system	cbp system	1
+system	cb radio	1
+measure	cbcl	3
+measure	cbp security measure	1
+measure	cbethesetof possible traffic control measure	1
+measure	cbf	1
+condition	cbd	2
+product	cbk	1
+product	cb accessory related product	1
+product	cb radio antenna related product	1
+product	cb traffic warrior	1
+function	cb	3
+function	cbr	1
+device	cb radio	3
+device	cb's	2
+device	cb	1
+device	cb six thousand   in the picture 	1
+device	cb amplifier	1
+device	cb antennas	1
+device	cbx	1
+brand	cbs	3
+brand	cbeebies	1
+brand	cbs atlanta	1
+brand	cb drums	1
+brand	cbs sportsline	1
+concept	cbe	1
+component	cbp	2
+site	cbs	9
+site	cbs sports	8
+site	cbs marketwatch	5
+site	cbs market watch	2
+site	cbsnews	1
+site	cbs  two  local new 	1
+site	cbs sportline's ncaa site	1
+site	cbs's march madness site	1
+site	cbssports.com	1
+site	cbm	1
+site	cb engine	1
+site	cbeebies	1
+site	cbbc	1
+related product	cb accessory related product	1
+related product	cbn wheel related product	1
+related product	cbb sixty-five  capacitor related product 	1
+related product	cbb capacitor related product	1

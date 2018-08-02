@@ -1,0 +1,2887 @@
+product	u.s.e. product	1
+product	u.s. beef product	1
+initiative	u.s.-mexico border partnership	1
+initiative	u.s. government initiative	1
+initiative	u.s based diverse director datasource	1
+initiative	u.s. international economic initiative	1
+initiative	u.s. inter-national  economic initiative	1
+initiative	u.s. bilateral and multilateral initiative	1
+initiative	u.s.-led security initiative	1
+initiative	u.s.-india defense policy group	1
+initiative	u.s.-arab economic forum	1
+datum	u.s.d.a.'s analysis of the census bureau's american housing survey	1
+datum	u.s. household survey datum	1
+resource	u. s. government document collection	2
+facility	u.s. emergency liquidity facility	1
+source	u.s. record source	1
+source	u.s. new source	1
+property	u. s. savings bonds	1
+benefit	u.s. card program benefit	1
+game	u.n. squadron	1
+game	u.f.o.	1
+subject	u. s. history	2
+subject	u.s. history	1
+product	u.s. automobile aftermarket product	1
+product	u.s government security	1
+product	u.s. grain product	1
+exception	u.s	1
+exception	u.s.	1
+exception	u.s. no electronic theft act	1
+characteristic	u.v. fluorescence	1
+attraction	u.v. body painting	1
+attraction	u.ss lexington museum	1
+institution	u.n.	3
+institution	u.n	2
+institution	u.s. charitable institution	1
+institution	u.s. language institution	1
+institution	u. t. arlington	1
+institution	u.s.-supported international institution	1
+institution	u. of chicago	1
+institution	u.c.l.a.	1
+institution	u. t. tyler	1
+institution	u.s. medical institution	1
+institution	u.s. s national archive	1
+institution	u. s. institution	1
+institution	u.n. development institution	1
+institution	u.s. financing institution	1
+institution	u.s.a federal government	1
+institution	u.s. used international institution	1
+client	u.s air force	1
+document	u.s constitution	1
+document	u. s. passport	1
+document	u.s. citizenship document	1
+strategy	u.s.-backed anti-narcotic strategy	1
+person	u.s. indigenous person	1
+matter	u.i.f.	1
+agency	u.s. law enforcement agency	1
+agency	u.s. governmental agency	1
+agency	u.s. science agency	1
+agency	u.k. s financial services authority	1
+agency	u.n. regulatory agency	1
+agency	u.n.'s specialized agency	1
+agency	u.s. security agency	1
+agency	u.s. environmental agency	1
+agency	u.s. export development agency	1
+agency	u.s.a. government agency	1
+agency	u.s. trade promotion agency	1
+agency	u.s. funding agency	1
+agency	u.s. non-federal government agency	1
+agency	u.n.-associated nongovernmental agency	1
+agency	u.n. s high level panel of funding development	1
+agency	u. s. geological survey	1
+agency	u.s.postal service	1
+agency	u.n. operational agency	1
+agency	u.s. capital-providing agency	1
+agency	u.s. enforcement agency	1
+agency	u.s. side regulatory agency	1
+theme	u.s.-mexico relation	1
+course	u.s. so-called link course	1
+location	u.s.	2
+location	u.k.	2
+location	u.s	1
+writer	u.s.-based opinion writer	1
+mechanism	u.s.-china strategic	1
+mechanism	u.s.lmexicojoint working committee	1
+mechanism	u.s.-eu dialogue on asia	1
+star	u.s. dividend star	1
+star	u.s. film star	1
+star	u.s. golf star	1
+structure	u.s. corporate structure	1
+business	u. s. business	1
+band	u.f.o	1
+band	u.d.o.	1
+school	u. of chicago	2
+school	u.s. business school	1
+school	u.s.'s finest business school	1
+school	u.s. law school	1
+school	u. of central florida	1
+school	u. of i. at urbana	1
+school	u.s.'s top-notch engineering school	1
+school	u. of michigan	1
+practice	u.s. educational practice	1
+agent	u.v. ray absorbing agent	1
+agent	u.v ray absorbing agent	1
+scholar	u.s. feminist scholar	1
+feature	u.s.e. portfolio	1
+development	u.s.-japan insurance agreement	1
+city	u.s. gambling city	1
+city	u.s. coastal city	1
+city	u. s. city	1
+city	u.s. border city	1
+firm	u.s.-based software firm	1
+firm	u.s. financial firm	1
+firm	u.s. venture firm	1
+firm	u.k.-owned investment management firm	1
+firm	u.s. metal firm	1
+firm	u.s. tech firm	1
+firm	u.s. security firm	1
+firm	u. s. shoe corp.	1
+firm	u.s.-based viking yachts	1
+firm	u.s. public relation firm	1
+firm	u.s. oil firm	1
+firm	u.s. medical device firm	1
+firm	u.s. many large, private firm	1
+firm	u.s. global firm	1
+firm	u.s. integrated firm	1
+firm	u.s. electronics firm	1
+firm	u.s. buyout firm	1
+firm	u.s. consumer staple firm	1
+firm	u.s. auditing firm	1
+firm	u.s. resource firm	1
+firm	u.s. technology service firm	1
+firm	u.k. s icap	1
+firm	u.k. law firm	1
+challenge	u.s. assistance address challenge	1
+drug	u.s.p. amphetamine	1
+manufacturer	u.s. computer manufacturer	1
+manufacturer	u.s. engine manufacturer	1
+manufacturer	u.s. printer manufacturer	1
+manufacturer	u.s. food ingredient manufacturer	1
+manufacturer	u.s. arm manufacturer	1
+manufacturer	u.k.-based car maker rolls royce	1
+manufacturer	u.s. part manufacturer	1
+manufacturer	u.s. food manufacturer	1
+manufacturer	u.s. glass manufacturer	1
+manufacturer	u.s. contract manufacturer	1
+manufacturer	u.s. satellite manufacturer	1
+manufacturer	u.s. clothing manufacturer	1
+manufacturer	u.s. automobile manufacturer	1
+manufacturer	u.s. cosmetic manufacturer	1
+manufacturer	u. s. manufacturer	1
+manufacturer	u.s. outdoor good manufacturer	1
+manufacturer	u.s.-based food manufacturer	1
+instrument	u.v. spectrophotometer air pollution monitor	1
+act	u.g.k.	1
+man	u. s. miller	1
+publication	u. s. publication	1
+publication	u.s news & work report	1
+publication	u. s. epa publication	1
+publication	u.s.-based new york times	1
+class	u.s history	1
+website	u.s. travel website	1
+figure	u.s. economic figure	1
+figure	u.s. history study key figure	1
+figure	u.s. establishment figure	1
+equipment	u.s. military equipment	1
+equipment	u.s. electrical equipment	1
+unit	u. s. regional libraries for the blind	2
+unit	u. s. information agency i-ibraries	1
+unit	u. s. information agency libraries	1
+unit	u. s. information agency lihrarie five 	1
+leader	u.s. black leader	1
+leader	u.s. industry leader	1
+leader	u.s. religious right leader	1
+leader	u.s. defense industry leader	1
+leader	u.s.-based industry leader	1
+musician	u.s.-based contemporary christian musician	1
+mean	u. s. mail	1
+instance	u.s.	1
+instance	u.k.	1
+policy	u.s. prison policy	1
+policy	u.s. counterterrorism policy	1
+policy	u.s. protectionist policy	1
+team	u.s.a	1
+team	u.s.a.	1
+team	u.s	1
+entity	u. s. dot entity	1
+entity	u.s.a.	1
+entity	u.s	1
+entity	u.s. government entity	1
+entity	u.s. government-sponsored entity	1
+country	u.s.	685
+country	u.s	378
+country	u.k.	350
+country	u.k	186
+country	u.s.a.	97
+country	u.s.a	63
+country	u.a.e.	13
+country	u.a.e	10
+country	u.s.s.r.	6
+country	u. a. e.	5
+country	u.s.s.r	3
+country	u.a.e & gulf	1
+country	u. s. s. r.	1
+country	u. s france	1
+country	u.s.-allied arab country	1
+country	u.s. military response abroad country	1
+country	u. k. eastern amercia	1
+country	u. k. with mature tax system	1
+country	u. s britain	1
+country	u.n. member country	1
+country	u. s.a.	1
+country	u. s. a.	1
+country	u. k. turkey	1
+country	u. k	1
+country	u.s. of the united state	1
+building	u.s custom office	1
+style	u.s. urban style	1
+expert	u.s. foreign policy expert	1
+expert	u.s. cyber policy expert	1
+researcher	u. onon	1
+region	u.s.	17
+region	u.s	5
+region	u.k	1
+region	u.s.s.r.	1
+region	u.s.a.	1
+region	u.s.-mexico border	1
+region	u.s. coastal region	1
+concern	u.s. domestic and foreign concern	1
+partner	u.k.	1
+partner	u.s. export partner	1
+partner	u.s. government partner	1
+partner	u. s. office of surface mining	1
+partner	u.s. trade partner	1
+partner	u.s. coalition partner	1
+partner	u.s.	1
+partner	u.s.'s other ``free-trade'' partner	1
+standard	u.s. assessment standard	1
+standard	u.s. military standard	1
+show	u.s. child's show	1
+show	u.s. new show	1
+vendor	u.s. datum vendor	1
+design	u.s. ship design	1
+sector	u.s. manufacturing sector	1
+sector	u. s. treasury	1
+sector	u.n.-funded sector	1
+store	u.s. warehouse store	1
+store	u.s. specialty store	1
+store	u.k. department store	1
+store	u.s. grocery store	1
+critic	u.s.rep. tom price	1
+market	u.s.	49
+market	u.s	33
+market	u.k.	27
+market	u.k	18
+market	u.s.a	4
+market	u.s.a.	2
+market	u.s. inbound market	1
+market	u.s. financial market	1
+customer	u.s. export customer	1
+customer	u.k.	1
+customer	u.s. beef export customer	1
+customer	u.s coast guard	1
+intervention	u.s. foreign policy intervention	1
+effort	u.s.-funded legal-education program at the university of baghdad	2
+effort	u.s. funded broadcasting effort	1
+effort	u.s. assistance finance peaceful effort	1
+effort	u.s. capital development effort	1
+effort	u.s.-korea fta	1
+effort	u.n. s hinari project	1
+effort	u.s.-based food	1
+actor	u.n.	1
+issue	u.s.-soviet relation	2
+issue	u.s.-u.k. military relations on the ground	2
+scheme	u.s. trading scheme	1
+award	u.s congression gold medal	1
+restaurant	u.s. fast food restaurant	1
+additive	u.v. stabilizer	2
+additive	u.v. absorbers	2
+capability	u.s. space capability	1
+capability	u.s. national capability	1
+magazine	u.s. film magazine	1
+magazine	u.s banker	1
+provider	u.s. content provider	1
+provider	u.s. domest ic launch provider	1
+provider	u.s.-based custody provider	1
+provider	u.s. wireless provider	1
+provider	u.s. outsourcing provider	1
+provider	u.k.-based internet service provider	1
+provider	u.s. domestic launch provider	1
+provider	u.s.-based internet search provider	1
+provider	u.s. network service provider	1
+woman	u. g. g. bailey boots	1
+asset	u. s. savings bond	1
+asset	u. s. treasury security	1
+asset	u.s. broadcast asset	1
+asset	u. s. agency	1
+asset	u. s. government	1
+retailer	u.k. s second-largest department-store chain	4
+retailer	u.k. s no. one  supermarket chain 	3
+retailer	u.s.-based wal-mart	1
+retailer	u.k. food retailer	1
+retailer	u.s. mall retailer	1
+destination	u.s.	4
+destination	u.s	3
+destination	u.k	1
+report	u. s. department of commerce's the emerging digital economy	1
+report	u. s. patent no.  five , three hundred , three hundred and seventy-six 	1
+party	u.s. history other political party	1
+competitor	u.s. s paula creamer	1
+competitor	u.s.	1
+competitor	u.s	1
+district	u.s. school district	1
+issue	u.s.-muslim relation	2
+brand name	u.k. brand name	1
+legend	u.s. military legend	1
+decision	u.s	2
+state	u.p.	11
+state	u.s.	9
+state	u.s	5
+state	u.k.	4
+state	u.k	3
+state	u.a.e	2
+state	u.s.-backed arab state	1
+state	u.s.a	1
+state	u.s.a. northern border state	1
+state	u.s.-allied arab state	1
+state	u.s. coastal state	1
+state	u.s. government state	1
+state	u.s. textile state	1
+state	u.s.s.r	1
+state	u.s. small state	1
+corporation	u. s. steel	1
+corporation	u.s. agricultural biotechnology corporation	1
+corporation	u.s. transnational medium corporation	1
+corporation	u.s. energy corporation	1
+corporation	u.s. health corporation	1
+corporation	u.s. radio corporation	1
+weapon	u.s. military weapon	1
+weapon	u.s. infantry weapon	1
+law	u.s. cabotage law	1
+law	u.s. domestic law	1
+law	u.s. environmental law	1
+law	u.s digital millennium copyright act	1
+control	u.s. foreign policy control	1
+festival	u.s. music festival	1
+festival	u.s. playing major festival	1
+pattern	u.s. digital pattern	1
+producer	u.a.e.	2
+producer	u.s.	1
+producer	u.s. pork producer	1
+producer	u.s. semiconductor producer	1
+producer	u.s. car producer	1
+producer	u.s. beef producer	1
+producer	u. s. producer	1
+producer	u.s.a.	1
+producer	u.s. tuna producer	1
+producer	u.s. toy producer	1
+producer	u.s. oil producer	1
+producer	u.s. gas-based ethylene producer	1
+channel	u. s. channel	1
+channel	u.s. cable channel	1
+channel	u.s.-produced child's channel	1
+luminary	u.t.f.o. s kangol kid	1
+series	u.s. television series	1
+series	u.s. cable series	1
+car	u.s.-built japanese car	1
+car	u.s. muscle car	1
+car	u.s. luxury car	1
+university	u. of akron	2
+university	u. c. berkeley	1
+university	u. of connecticut	1
+university	u. of texas-el paso	1
+university	u. of wyoming	1
+university	u. of maryland	1
+university	u. of nebraska at lincoln	1
+university	u. of texas	1
+university	u.s. research university	1
+university	u. of oklahoma	1
+friend	u.k	1
+sport	u.s. state sport	1
+sport	u.va. club sport	1
+issue	u.s.-iran relation	1
+issue	u.s.-israel alliance	1
+issue	u.s.-led military presence in iraq	1
+service provider	u.k.-based internet service provider	1
+service provider	u.s. network service provider	1
+supplier	u.s. auto component supplier	1
+supplier	u.s. auto-part supplier	1
+supplier	u.s. military weapon supplier	1
+supplier	u.s. oil supplier	1
+supplier	u.s. part supplier	1
+supplier	u.s. computer service supplier	1
+supplier	u.s.	1
+fee	u. s. federal transportation tax	1
+local attraction	u.	2
+bank	u.s. investment bank	1
+bank	u.s. major bank	1
+bank	u.s. private client bank	1
+bank	u.s. top investment bank	1
+employer	u.k. large employer	1
+specialty	u.s. regional specialty	1
+provision	u.s. trade law provision	1
+restriction	u.s. policy restriction	1
+historian	u. b. phillips	1
+arrangement	u.s.-asean enhanced partnership	1
+association	u.s. health association	1
+association	u. s. health association	1
+association	u.s. library association	1
+association	u.s.-cuba trade	1
+association	u.s. professional association	1
+operator	u.k. mobile-phone network operator	1
+operator	u.s. mobile network operator	1
+operator	u.s. gaming operator	1
+operator	u.s. mobile service operator	1
+operator	u.s. alternative trading system operator	1
+operator	u.s. satellite operator	1
+operator	u.k. s talktalk	1
+operator	u.s. cable operator	1
+plan	u.s. federal health plan	1
+plan	u.s. prepaid datum plan	1
+chain	u.s.-based grocery store chain	1
+chain	u.s. traditional retail chain	1
+chain	u.k. supermarket chain	1
+chain	u.s. retail chain	1
+chain	u.s., everyday low price chain	1
+chain	u.s. hotel chain	1
+medium	u.s. mainstream medium	1
+medium	u.s. corporate medium	1
+space	u.s.f constellation	1
+force	u.s. light force	1
+force	u.s. military and special force	1
+force	u.s. special mission force	1
+apps	u. s. constitution	1
+apps	u. s. presidents	1
+authority	u.s.government's principal scientific advisor	1
+authority	u.s. government authority	1
+theorist	u.s. management theorist	1
+stock	u.s. banking stock	1
+stock	u.s. gold stock	1
+stock	u.s. bellwether stock	1
+stock	u.s. railway stock	1
+objective	u.s. policy objective	1
+standard feature	u.v. light	1
+fund	u.s.-based private-equity fund	1
+fund	u.s. stock fund	1
+fund	u.s. investment fund	1
+issue	u.s.-imposed economic program	1
+issue	u.s.-japan guidelines	1
+target	u.s government office	1
+college	u. miami	1
+college	u.c.l.a.	1
+college	u. of pennsylvania	1
+college	u. mass.	1
+college	u. chicago	1
+forum	u.s-india commercial dialogue	1
+forum	u.s.-japan business council	1
+talent	u.s constitution	1
+politician	u. s. politician	1
+government agency	u.s marshals	1
+government agency	u.s. non-federal government agency	1
+government agency	u.s.a. government agency	1
+prop	u.s postal service mailbox	1
+society	u.s.	13
+society	u.s.a.	4
+society	u.s.a	2
+society	u.s.s.r.	1
+society	u.s	1
+icon	u.s. corporate icon	1
+icon	u.s. popular culture icon	1
+carrier	u.s. largest verizon	2
+carrier	u.s. low-cost carrier	1
+carrier	u.k. wireless carrier	1
+carrier	u.s. discount carrier	1
+carrier	u.s. legacy carrier	1
+carrier	u.s. domestic network carrier	1
+carrier	u.s. cargo carrier	1
+carrier	u.s. telecommunications carrier	1
+carrier	u.s. postal service commercial carrier	1
+carrier	u.s.-based gsm carrier	1
+carrier	u.s. wireless carrier	1
+carrier	u.s. cell carrier	1
+charity	u.s. public charity	1
+rival	u.k. s bae systems	1
+industry leader	u.s.-based industry leader	1
+industry leader	u.s. defense industry leader	1
+industry leader	u.s. industry leader	1
+suspect	u.s.	1
+fruit	u.s. fresh fruit	1
+index	u.s. equity index	1
+county	u.s	2
+county	u.k.	1
+county	u.s.a	1
+maker	u.s. wheel maker	1
+maker	u.s. auto component maker	1
+maker	u.s. satellite maker	1
+maker	u.s. paint maker	1
+maker	u.s. car maker	1
+maker	u.s. cigarette maker	1
+maker	u.s. food maker	1
+maker	u.s.-based furniture maker	1
+maker	u.s. tire maker	1
+maker	u.s. drug maker	1
+maker	u.s. appliance maker	1
+maker	u.s. auto maker	1
+maker	u.s. tobacco maker	1
+outlet	u.s. food outlet	1
+outlet	u.s. new outlet	1
+outlet	u.s. fast food outlet	1
+outlet	u.s. medium outlet	1
+regulation	u.s. trucking regulation	1
+regulation	u.s. environmental regulation	1
+regulation	u.s. federal environmental regulation	1
+professional organization	u. s. green buildings council	1
+center	u.s. medical center	1
+center	u.s. academic medical center	1
+center	u.s. city center	1
+center	u.s. metropolitan center	1
+center	u.s. urban center	1
+center	u.s. production center	1
+center	u.s. academic center	1
+spot	u.s. surf spot	1
+nation	u.s.	59
+nation	u.s	23
+nation	u.k.	21
+nation	u.k	13
+nation	u.s.a	9
+nation	u.s.a.	7
+nation	u.a.e	2
+nation	u.a.e.	1
+investment	u.s. real estate investment	1
+investment	u. s. treasury bond	1
+third party	u.n	1
+third party	u.n.	1
+thinker	u. g. krishnamurti	3
+issue	u.s.-india rapprochement	1
+issue	u.s. health issue	1
+issue	u. s. treasury inflation-protected security	1
+thinker	u.s. economic thinker	1
+investor	u.s. s glazer family	2
+investor	u.s. s largest creditor	1
+giant	u.s. agribusiness giant	1
+giant	u.s.-based oil giant	1
+giant	u.s. retail and foodservice giant	1
+giant	u.s. medium giant	1
+giant	u.s. confectionery giant	1
+giant	u.s. chemical giant	1
+giant	u.s. agrichemical giant	1
+giant	u.s. ag giant	1
+giant	u.s. biotech giant	1
+giant	u.s. defense giant	1
+giant	u.s. financial giant	1
+giant	u.s. newspaper giant	1
+giant	u.s. service sector giant	1
+aircraft	u.s.-built p- eight  poseidon 	2
+aircraft	u.s.-supplied israeli aircraft	1
+specialty item	u.s. specialty item	1
+pioneer	u. fayyad	1
+pioneer	u.s. gymnastics pioneer	1
+candidate	u.s. presidential candidate	1
+analyst	u.s. foreign policy analyst	1
+analyst	u.s.-based mohsen sazegara	1
+international organization	u.n.	12
+international organization	u.n	10
+international organization	u.n. s human rights council	1
+fighter	u.s. jet fighter	1
+code	u.s. residential code	1
+developer	u. s. developer	1
+critical issue	u.s.-israeli relation	1
+participant	u.s.	1
+health issue	u.s. health issue	1
+culture	u.s.	4
+culture	u.s	3
+stimulus	u.v. light	1
+official	u.s. counter-terrorism official	1
+official	u.s senator charles schumer	1
+official	u.s. public official	1
+official	u.s. senior military official	1
+master	u.s. jazz-string master	1
+disaster	u.s. natural disaster	1
+ministry	u.s center for world mission	1
+race	u.r.l. race	1
+power	u.s.	8
+power	u.k	1
+airline	u.s. low-fare airline	1
+airline	u. k. british airways	1
+airline	u.s airways	1
+tenant	u.s post office	1
+tenant	u. s post office	1
+fundamental	u.s. housing market fundamental	1
+framework	u.s.-japan strategic dialogue	1
+port	u.s. entry port	1
+publisher	u.k. s rough guides	1
+jurisdiction	u.s.	37
+jurisdiction	u.k.	15
+jurisdiction	u.k	13
+jurisdiction	u.s	9
+jurisdiction	u.s.a.	1
+jurisdiction	u.s.a	1
+area attraction	u.t. campus	1
+art	u. s. pat	2
+route	u.s.-supported east-west pipeline route	1
+house	u.s. investment house	1
+house	u.s. financial house	1
+non-profit organization	u.s.-based non-profit organization	1
+non-profit organization	u.s.-pakistan business council	1
+office	u.s. senator office	1
+right	u.s. citizen' right	1
+airport	u.s. major hub airport	1
+airport	u.s. gateway airport	1
+filler	u.v. stabilizer	1
+urban area	u.s. urban area	1
+volunteer	u.s. business volunteer	1
+entry	u.s.	2
+entry	u.s.-made chevrolet cobalt compact	1
+priority	u.s. foreign policy priority	1
+priority	u.s. government funding priority	1
+campaign	u.s.o.	1
+body	u. s. legislative body	1
+body	u.s. regulatory body	1
+body	u.s. private certification body	1
+body	u.n. human right monitoring body	1
+body	u.n. treaty monitoring body	1
+body	u.s. legislative body	1
+body	u.s. government body	1
+body	u.s. governmental body	1
+body	u. s. professional body	1
+manager	u.s. asset manager	1
+manager	u.s. money manager	1
+manager	u.s. fund manager	1
+observer	u. biologist kevin hultine	1
+vessel	u.s. survey vessel	1
+agreement	u.s. trade agreement	1
+agreement	u.s.-chile fta	1
+agreement	u.s. regional free trade agreement	1
+agreement	u.s.-ratified international standardization agreement	1
+native species	u. pumila l.	1
+monument	u.s. national monument	1
+optional feature	u.v. light	1
+lender	u.k. s hsbc holdings plc	1
+lender	u.s. mortgage lender	1
+base	u.s. naval base	1
+medium outlet	u.s. medium outlet	1
+donor	u.s.	6
+donor	u.s	5
+donor	u.k.	2
+donor	u.k. s dfid  ninety-seven 	1
+donor	u.n	1
+historic site	u.s capitol	1
+heavyweight	u.s. tech scene heavyweight	1
+heavyweight	u.k.-based grocery heavyweight	1
+heavyweight	u.s. venture capital heavyweight	1
+non-governmental organization	u.s. non-governmental organization	1
+natural disaster	u.s. natural disaster	1
+release	u.s. datum release	1
+school district	u.s. school district	1
+map	u. s. geological survey topographic map	1
+international brand	u.s.-based international brand	1
+major	u.s. defense major	1
+professional association	u.s. professional association	1
+big player	u.s.	2
+big player	u.s.-based alcoa inc	1
+big player	u.s.-based alcoa inc.	1
+officer	u.s. field-grade officer	1
+locality	u.s	1
+economy	u.s	9
+economy	u.s.	7
+economy	u.k.	6
+economy	u.s.a.	3
+financial service	u.s. financial service	1
+contemporary issue	u.s.-china relation	1
+contractor	u.s. nuclear contractor	1
+contractor	u.s. defense contractor	1
+external force	u.s	1
+well-known company	u.s well-known company	1
+intermediary	u.s	1
+external influence	u.s.a.	1
+merchant	u.s.-based banana merchant	1
+preference	u.s. trade preference	1
+bill	u. s. dollar	1
+insurance company	u.s. title insurance company	1
+insurance company	u.s.-based insurance company	1
+franchise	u.s. fast-food franchise	1
+locale	u.s.	1
+outfit	u.s cav on the northern plain	1
+cheese	u.s.-made imitation parmesan cheese	1
+high quality product	u.s.	1
+exotic species	u. pumila	1
+local agency	u.s fish & wildlife	1
+multinational company	u.s.-based multinational company	1
+federal agency	u. s. army corps of engineers	1
+federal agency	u. s. postal inspectors	1
+federal agency	u. s. department of commerce	1
+federal agency	u. s. forest service	1
+federal agency	u. s. bankruptcy court	1
+federal agency	u.s. post office	1
+tournament	u.s open	2
+dignitary	u. s. president bill clinton	1
+builder	u.s. home builder	1
+builder	u.s. titanium builder	1
+government	u.s.	19
+government	u.k.	7
+government	u.s	7
+government	u.s.a.	2
+government	u.s. military	1
+advocacy group	u.s.-based public citizen	1
+government program	u.s. government program	1
+neighbor	u.s	1
+peer	u.s.-based monsanto	1
+statute	u.s. environmental statute	1
+statute	u.s. antidiscrimination statute	1
+comment	u.s. official' comment	1
+prospect	u.s. marathon prospect	1
+union	u.s. labor union	1
+item	u.v. lamp	1
+item	u.s. specialty item	1
+ally	u.s.	2
+ally	u.s	1
+ally	u.k.	1
+ally	u.s. military ally	1
+ally	u. s. ally	1
+ally	u.s.'s strategic ally	1
+ally	u.s. treaty ally	1
+distributor	u.s. banana distributor	1
+global company	u. s. tobacco	2
+global company	u.s.-based global company	1
+global company	u.s. global company	1
+construction project	u.va. construction project	1
+department store	u.k. department store	1
+insurer	u.s. health insurer	1
+insurer	u.s. mortgage insurer	1
+listing	u.l. on the board	1
+rapper	u.s. female rapper	1
+federal program	u.s. federal program	1
+camp	u.k. weight loss camp	1
+camp	u.s. war camp	1
+bloggers	u.s. military and conservative bloggers	1
+government initiative	u.s. government initiative	1
+datum set	u.s	1
+research	u.k.-based whitehall study	1
+environmental group	u.s.-based environmental defense	1
+environmental group	u.s.-based food	1
+environmental group	u.s. environmental group	1
+public figure	u.s congressmen	1
+executive	u. s. business executive	1
+executive	u.s. industry executive	1
+security	u.s. government debt security	1
+security	u.k. prime security	1
+prominent figure	u. s. senator jack reed	1
+financial instrument	u.s	1
+key figure	u.s. history study key figure	1
+partnership	u. s. cargo security partnership	1
+partnership	u.s. cargo security partnership	1
+political party	u.s. history other political party	1
+television series	u.s. television series	1
+consultant	u.s. tech consultant	1
+regulator	u.s. stock regulator	1
+regulator	u.s. banking regulator	1
+adhesive	u.v. curable adhesive	1
+coastal region	u.s. coastal region	1
+area	u.s.	11
+area	u.s	4
+area	u.k.	3
+area	u.s.-mexico border	2
+area	u.k. s lake district	2
+area	u. city	1
+lens	u. v. protective lens	1
+lens	u.v. protective lens	1
+service organization	u.s. telecommunications service organization	1
+reformer	u. s. senator george h. pendleton	1
+plane	u.s.-built lockheed martin c- one hundred and thirty j hercules 	1
+pursuit	u.s. military pursuit	1
+proponent	u.s permanent representative	1
+music festival	u.s. music festival	1
+territory	u.k.	1
+territory	u.s.a.	1
+regulatory agency	u.s. side regulatory agency	1
+regulatory agency	u. s. fish	1
+regulatory agency	u.s epa	1
+regulatory agency	u.n. regulatory agency	1
+formula	u.s. brand formula	1
+large employer	u.k. large employer	1
+urban center	u.s. urban center	1
+audience	u.s.	2
+powerhouse	u.s. medium powerhouse	1
+league	u.s. sport league	1
+boundary	u.s.-mexico border	1
+boundary	u.s.-canadian border	1
+outsider	u.s.	1
+specialty store	u.s. specialty store	1
+tank	u.s.-made m one a two 	1
+regime	u.s.-backed saudi arabia	1
+regime	u.s.-supported democratic regime	1
+regime	u.s.-toadying arab regime	1
+regime	u.s. client regime	1
+regime	u.s-toadying arab regime	1
+government organization	u.s. government organization	1
+exchange	u.s. option exchange	1
+exchange	u.s. stock exchange	1
+international agency	u.n	2
+international agency	u.n.	1
+business group	u.s. business group	1
+business group	u.s.-asean business council	1
+global player	u.s.	1
+global player	u.s.-based accenture	1
+implementation	u.s. s secret service electronic crime task force	1
+marketer	u.s. direct marketer	1
+marketer	u.s. syndication marketer	1
+nongovernmental organization	u.s. governmental and nongovernmental organization	1
+exporter	u.s	1
+exporter	u.s. food exporter	1
+academic institution	u.p.	1
+currency	u.s dollar	1
+political issue	u.s. standing in the world	1
+conventional additive	u.v. stabilizer	1
+fresh fruit	u.s. fresh fruit	1
+medium company	u.s. medium company	1
+coin	u.s. cent	2
+coin	u. s. cent	1
+content provider	u.s. content provider	1
+national publication	u. magazine	1
+national publication	u. s. news	1
+coastal city	u.s. coastal city	1
+income	u.s. source investment income	1
+representative	u.s. industry representative	1
+governmental agency	u.s. governmental agency	1
+idol	u. s. grant iii	1
+possession	u.s. territorial possession	1
+possession	u. s. possession	1
+developed country	u.s.	123
+developed country	u.s	51
+developed country	u.k.	23
+developed country	u.s.a.	15
+developed country	u.k	14
+developed country	u.s.a	10
+large retailer	u.s.-based wall-mart	1
+european country	u.k.	26
+european country	u.k	7
+pharmaceutical company	u.s. pharmaceutical company	1
+retail chain	u.s. retail chain	1
+retail chain	u.s. traditional retail chain	1
+gang	u.s.-based asian gang	1
+government entity	u.s. government entity	1
+oil company	u.k.-based bp	1
+oil company	u.s. multinational oil company	1
+laboratory	u.s. national laboratory	1
+laboratory	u.s. industrial research laboratory	1
+laboratory	u.s. ``national laboratory''	1
+sociologist	u. beck	1
+international institution	u.n.	3
+international institution	u.n	2
+area	u.s. stonefruit-producing area	1
+area	u.s. urban area	1
+grocery store	u.s. grocery store	1
+law enforcement agency	u.s. law enforcement agency	1
+law firm	u.k. law firm	1
+member state	u.k.	6
+member state	u.k	3
+member state	u.s.a.	1
+seller	u.s. direct seller	1
+shelter	u.s. local animal shelter	1
+chip	u.s. blue chip	1
+social networking site	u.s. social networking site	1
+business organization	u.s.-cuba business council	1
+religious organization	u.s. religious organization	1
+dialect	u.k. regional dialect	1
+hotel chain	u.s. hotel chain	1
+volunteer organization	u.s. volunteer organization	1
+war	u.s.-mexican war	1
+criminal	u.s. war criminal	1
+legal requirement	u.s. legal requirement	1
+populated area	u.s.	1
+electrical equipment	u.s. electrical equipment	1
+aquatic species	u. vulgaris	1
+energy company	u.s. energy company	1
+maintenance service	u.h.p. waterblasting on board during the voyage	1
+equipment manufacturer	u.s.-based applied materials	1
+high-profile case	u.s	1
+soldier	u.s special force soldier	1
+internet service provider	u.k.-based internet service provider	1
+area	u.s. commercial radar area	1
+independent organization	u.s. s consumer reports	1
+conservation group	u.s.-based conservation group	1
+banking service	u. s. savings bond	2
+public policy	u.s	1
+democracy	u.s.	8
+democracy	u.s	4
+democracy	u.k.	1
+mining company	u.s.a.	1
+ad	u.s. food ad	1
+opera	u.s. soap opera	1
+issuer	u.s government	2
+funding agency	u.s. funding agency	1
+pop artist	u.s. pop artist	1
+empire	u.s.s.r.	1
+big boy	u.k	1
+importer	u.s.a	1
+importer	u.s. apparel importer	1
+investment vehicle	u.s. currency	1
+commercial client	u. s. filter	1
+developed area	u.k	1
+film star	u.s. film star	1
+geographical area	u.k.	1
+international client	u. n. aids	1
+private firm	u.s. many large, private firm	1
+public official	u.s. public official	1
+black leader	u.s. black leader	1
+commander	u.s. military commander	1
+fear	u.s. medium fear	1
+toiletry	u.s. brand toiletry	1
+court case	u.s	10
+commercial company	u.s. commercial company	1
+health organization	u.s.-based centers for disease control	1
+governmental organization	u.s. governmental organization	1
+prestigious event	u. s. scale masters	1
+supermarket chain	u.k. supermarket chain	1
+alliance	u.s.-republic of korea alliance	2
+alliance	u.s.-japan alliance	2
+key market	u.s.	1
+key market	u.k.	1
+key market	u.s	1
+advanced system	u.c.	1
+bus	u.s. school bus	1
+food company	u.s. food company	1
+key organization	u.u.k.	1
+proper noun	u.s government	1
+investment bank	u.s. top investment bank	1
+investment bank	u.s. investment bank	1
+foe	u.s.'s most bitter foe	1
+holder	u.s.	1
+competitive market	u.k	1
+fund manager	u.s. fund manager	1
+open system	u.s	1
+neighbouring country	u.s.	1
+grain product	u.s. grain product	1
+population center	u.s.	1
+blue chip	u.s. blue chip	1
+top school	u. chicago	1
+research center	u.s.	1
+airline company	u.s. airline company	1
+mature market	u.s.	21
+mature market	u.s	19
+mature market	u.k.	10
+mature market	u.k	4
+mature market	u.s.a	1
+business school	u.s. business school	1
+business school	u.s.'s finest business school	1
+business school	u.k. s ashridge	1
+exotic place	u.s.	1
+tech company	u.s. tech company	1
+industrial company	u.s. industrial company	1
+traditional market	u.k.	3
+traditional market	u.s.	1
+member country	u.s.	1
+member country	u.n. member country	1
+service	u.s. government broadcast service	1
+service	u.s. delivery service	1
+service	u.s. download service	1
+service	u.s. financial service	1
+service	u.s. preparation service	1
+small state	u.s. small state	1
+brewer	u.k. s sabmiller plc	1
+delivery service	u.s. delivery service	1
+campaigner	u.s.-based abuse victims group	1
+blue-chip company	u.s. blue-chip company	1
+law school	u.s. law school	1
+regional specialty	u.s. regional specialty	1
+global firm	u.s. global firm	1
+television network	u.s. television network	1
+cable channel	u.s. cable channel	1
+central bank	u.s	1
+rap artist	u.g.k	1
+rap artist	u.n.l.v.	1
+car maker	u.s. car maker	1
+large market	u.s	2
+large market	u.s.	1
+large market	u.k.	1
+cable network	u.s. cable network	1
+surgeon	u.s. plastic surgeon	1
+top university	u. p. manila	1
+power company	u.s. power company	1
+regional player	u.s. regional player	1
+health plan	u.s. federal health plan	1
+investment company	u.s. investment company	1
+service	u.k wide car collection	1
+international market	u.k.	1
+federation	u.s.	1
+hedge fund	u.s.-based porter orlin	1
+medical institution	u.s. medical institution	1
+visa	u.s. non-immigrant visa	1
+international destination	u.s.a.	1
+state university	u. kentucky	1
+state university	u.c.l.a.	1
+western country	u.s	15
+western country	u.s.	11
+western country	u.k.	8
+western country	u.k	6
+western country	u.s.a.	6
+western country	u.s.a	2
+luxury car	u.s. luxury car	1
+development organization	u.k. s department for international development	1
+emitter	u.s.	1
+rich country	u.s.	11
+rich country	u.s	2
+rich country	u.s.a	1
+rich country	u.s.a.	1
+supreme court case	u.s	1
+international actor	u.s	1
+international actor	u.n	1
+international actor	u.s.	1
+republic	u.s.	2
+republic	u.s.a.	1
+construction company	u.s. construction company	1
+developed market	u.s.	29
+developed market	u.s	24
+developed market	u.k.	6
+developed market	u.s.a.	1
+developed market	u.k	1
+muslim country	u.a.e	2
+reits	u.s. industrial reits	1
+financial service company	u.s. financial service company	1
+medium giant	u.s. medium giant	1
+service firm	u.s. technology service firm	1
+drug company	u.k. s principle healthcare	6
+drug company	u.k's principle healthcare	2
+drug company	u.s. drug company	1
+drug company	u.s.-based antex biologics	1
+medical center	u.s. academic medical center	1
+medical center	u.s. medical center	1
+diocese	u. s. diocese	1
+low-cost carrier	u.s. s southwest airlines	1
+low-cost carrier	u.s. low-cost carrier	1
+defense contractor	u.s. defense contractor	1
+trade agreement	u.s. regional free trade agreement	1
+trade agreement	u.s. trade agreement	1
+warm climate	u.s.	1
+development agency	u.s. export development agency	1
+external actor	u.s	2
+fast food restaurant	u.s. fast food restaurant	1
+multilateral organization	u.n.	2
+multilateral organization	u.n	1
+financial firm	u.s. financial firm	1
+advanced country	u.s	20
+advanced country	u.s.	6
+advanced country	u.s.a	5
+advanced country	u.k.	3
+advanced country	u.k	2
+advanced country	u.s.a.	2
+automobile manufacturer	u.s. automobile manufacturer	1
+european nation	u.k.	3
+export market	u.s.	3
+export market	u.s. s  two nd largest trading partner 	1
+chemical company	u.s. chemical company	1
+trading partner	u.s.	3
+trading partner	u.s	2
+mortgage lender	u.s. mortgage lender	1
+multilateral institution	u.n.	2
+multilateral institution	u.n	1
+regional market	u.s.	1
+key decision	u.s	1
+topic	u.s.-asia relation	1
+topic	u.s.-mexico border issue	1
+topic	u.s.-bases in the philippines	1
+technicality	u. n.	1
+biotech company	u.s. biotech company	1
+fleet	u. s. marine corps	1
+legal system	u.s.a	1
+oil producer	u.a.e	1
+oil producer	u.s. oil producer	1
+overseas market	u.s	2
+overseas market	u.s.	1
+phone company	u.s. local phone company	1
+phone company	u.s. phone company	1
+home builder	u.s. home builder	1
+presidential candidate	u.s. presidential candidate	1
+superhero	u.s. comic book superhero	1
+large country	u.s.	10
+large country	u.k.	3
+large country	u.s	2
+large country	u.s.s.r.	1
+large country	u.s.a.	1
+large country	u.s.s.r	1
+research university	u.s. research university	1
+bus company	u.s. bus company	1
+environmental regulation	u.s. federal environmental regulation	1
+environmental regulation	u.s. environmental regulation	1
+ies	u.s. agenc ies	1
+developed nation	u.s.	25
+developed nation	u.s	17
+developed nation	u.k.	4
+developed nation	u.s.a.	1
+developed nation	u.k	1
+food outlet	u.s. food outlet	1
+intergovernmental organization	u.n.	1
+intergovernmental organization	u.n. s economic commission for europe	1
+art device	u. s. pat	1
+college campus	u. of washington	1
+democratic country	u.s.	1
+auto maker	u.s. auto maker	1
+consultancy	u.s.-cuba trade	1
+entertainment company	u.s. entertainment company	1
+good company	u.s roll good company	1
+good company	u.s. roll good company	1
+headline	u.s attacked	1
+established market	u.s	2
+established market	u.s.a	1
+established market	u.s.	1
+established market	u.k	1
+financial market	u.s. financial market	1
+joint project	u.s.-brazilian renewable energy electrification project	1
+scientific organization	u.k. scientific organization	1
+ambassador	u. s. ambassador	1
+computer company	u.s. computer company	1
+environmental law	u.s. environmental law	1
+industrialized country	u.s.	8
+industrialized country	u.s	7
+industrialized country	u.s.a.	2
+industrialized country	u.s.a	1
+aid organization	u.s. aid organization	1
+arab country	u.s.-allied arab country	1
+asset manager	u.s. asset manager	1
+finance company	u.s. finance company	1
+geographic region	u.s.	1
+real estate investment	u.s. real estate investment	1
+temperate region	u.s.	1
+hotel company	u.s.-based hotel company	1
+large state	u.s.a.	1
+medium group	u.s. medium group	1
+technology partner	u.s.-mexico border commission	1
+EU country	u.k.	2
+islamic country	u.a.e	3
+topic	u.s.-soviet relation	1
+western state	u.s.	1
+area employer	u. s. bank	1
+developed economy	u.s.	6
+developed economy	u.s	3
+developed economy	u.s.a	1
+developed economy	u.k.	1
+food manufacturer	u.s.-based food manufacturer	1
+food manufacturer	u.s. food manufacturer	1
+embassy	u.k	1
+stock exchange	u.s. stock exchange	1
+electronics company	u.s. electronics company	1
+electronics company	u.s. automotive and electronics company	1
+investment fund	u.s. investment fund	1
+patent	u. s. pat	5
+patent	u.s.p 20050218177	2
+patent	u. s. patent no.  four , five hundred and eighty-two , eight hundred and seventy-one 	1
+patent	u.s pat	1
+security firm	u.s. security firm	1
+squad	u.c.l.a.	1
+ments	u. s. dollar ments	1
+bureaucracy	u.n. s commission on sustainable development	1
+debt instrument	u.s	1
+european destination	u.k.	1
+island nation	u.k.	1
+policy objective	u.s. policy objective	1
+developed region	u.s	7
+developed region	u.s.	3
+developed region	u.k.	1
+developed region	u.k	1
+network operator	u.k. mobile-phone network operator	1
+civil servant	u.k. civil servant	1
+computer manufacturer	u.s. computer manufacturer	1
+enforcement agency	u.s. enforcement agency	1
+federal department	u. s. department of energy	1
+federal department	u. s. department of labor	1
+government authority	u.s. government authority	1
+health system	u.s. health system	1
+pickup	u.s. nameplate pickup	1
+regional power	u.s.	1
+wealthy country	u.s.	8
+wealthy country	u.s	4
+wealthy country	u.k	1
+aftermarket product	u.s. automobile aftermarket product	1
+advanced economy	u.s	8
+advanced economy	u.s.	7
+advanced economy	u.k.	1
+advanced economy	u.k	1
+host country	u.s.a.	1
+protection mechanism	u.n.	1
+sedan	u.s. mid-size sedan	1
+national monument	u.s. national monument	1
+tions	u.s. dollar tions	1
+communist	u.s.s.r.	1
+homebuilders	u.k. s largest by volume	3
+national network	u. s. action	1
+ranking	u.s news	1
+border city	u.s. border city	1
+travel website	u.s. travel website	1
+U.S. government agency	u.s customs	1
+global industry leader	u.s military	1
+market economy	u.s.	1
+pavilion	u.k	1
+communication company	u.s. communication company	1
+federal organization	u.s. federal organization	1
+food retailer	u.k. food retailer	1
+year country	u.s.	2
+year country	u.s.a	1
+european market	u.k.	3
+european market	u.k	2
+hate group	u.s. hate group	1
+landmark case	u.s	1
+new site	u.s. online new site	1
+OECD country	u.s.	2
+OECD country	u.s	2
+OECD country	u.k	2
+open economy	u.s.	1
+traditional power	u.s.	1
+democratic state	u.s.a.	1
+financial giant	u.s. financial giant	1
+manufacturing sector	u.s. manufacturing sector	1
+uncertain factor	u.s. invasion of iraq	1
+wireless carrier	u.k. wireless carrier	1
+wireless carrier	u.s. wireless carrier	1
+industry representative	u.s. industry representative	1
+infrastructure company	u.s. infrastructure company	1
+local board	u. s. soil conservation service	1
+cable operator	u.s. cable operator	1
+independent country	u.s.a.	1
+key country	u.s.	2
+labor union	u.s. labor union	1
+nation state	u.s.	1
+afield	u.s. base further afield	1
+coat	u.s.a. trench coat	1
+regional agreement	u.s.-chile fta	1
+charitable institution	u.s. charitable institution	1
+health insurer	u.s. health insurer	1
+world power	u.s.	2
+world power	u.k.	1
+world power	u.s	1
+coastal state	u.s. coastal state	1
+soap opera	u.s. soap opera	1
+venture capitalist	u.s.-based advent venture fund	1
+latin american country	u.s.a.	1
+high-income country	u.s	5
+high-income country	u.s.	4
+industrial country	u.s.	6
+japanese car	u.s.-built japanese car	1
+metropolitan center	u.s. metropolitan center	1
+network service provider	u.s. network service provider	1
+western nation	u.s	2
+western nation	u.s.	2
+western nation	u.k.	1
+western nation	u.s.a.	1
+government source	u.s bureau of the census	1
+new source	u.s. new source	1
+arab state	u.s.-allied arab state	1
+arab state	u.s.-backed arab state	1
+northern country	u.s.a.	1
+northern country	u.k.	1
+web	u.k. s itv	1
+international meeting	u.s.-africa business summit	1
+national laboratory	u.s. national laboratory	1
+national laboratory	u.s. ``national laboratory''	1
+national symbol	u.s. flag	1
+research source	u. s. code	1
+development institution	u.n. development institution	1
+historical structure	u.s mint building	1
+industrialised country	u.s.a.	2
+industrialised country	u.s.	1
+servant	u.k. civil servant	1
+company	u.s. s esso	3
+company	u.s.-based chip maker on semiconductor corp	2
+company	u.s.-based schlumberger ltd.	2
+company	u.s. beef company	1
+company	u.s. biotech company	1
+company	u.s. ballet company	1
+company	u.s well-known company	1
+company	u.s. aircraft company	1
+company	u.s. armament company	1
+company	u.s. automotive and electronics company	1
+company	u.m.	1
+company	u.k.-based bg group plc	1
+company	u.k.-based corus	1
+company	u. s. equities shopping plaza	1
+company	u.s. steel consuming company	1
+company	u.s. telephone company	1
+company	u.s. testing company	1
+company	u.s. title insurance company	1
+company	u.s. transfer company	1
+company	u.s.-based exploration company eog resources	1
+company	u.s.-based global company	1
+company	u.s.-based parke-davis	1
+company	u.s.-based solaren corp.	1
+company	u.s.-based uranium energy corp	1
+company	u.s. commercial company	1
+company	u.s. communication company	1
+company	u.s. computer company	1
+company	u.s. drill company	1
+company	u.s. entertainment company	1
+company	u.s. fast food company	1
+company	u.s. holding company	1
+company	u.s. finance company	1
+company	u.s. hardware company	1
+company	u.s. local phone company	1
+company	u.s. -logistic company	1
+company	u.s. medical-device company	1
+company	u.s. nonwovens company	1
+company	u.s. oil-service company	1
+company	u.s. pharmaceutical company	1
+fast food outlet	u.s. fast food outlet	1
+investment house	u.s. investment house	1
+solar company	u.s. solar company	1
+advertising company	u.s. advertising company	1
+border state	u.s.a. northern border state	1
+buyout firm	u.s. buyout firm	1
+federal state	u.s	1
+federal state	u.s.	1
+government activity	u.s. government activity	1
+patriarchal society	u.s.	1
+drug maker	u.s. drug maker	1
+example country	u.k	1
+government position	u. s. marshal	1
+great power	u.s.a.	2
+great power	u.s.s.r	1
+part supplier	u.s. part supplier	1
+steel company	u.s. steel company	1
+telephone company	u.s. telephone company	1
+capitalist country	u.s.	1
+capitalist country	u.s	1
+capitalist country	u.k.	1
+capitalist country	u.k	1
+hardware company	u.s. hardware company	1
+sport league	u.s. sport league	1
+superpower	u.s	2
+superpower	u.s.	1
+credit card company	u.s.a.	1
+developed state	u.s.	1
+developed state	u.s	1
+donor country	u.s.	2
+donor country	u.s	1
+oil firm	u.s. oil firm	1
+steel producer	u. s. steel	1
+third country	u.s	2
+third country	u.s.	1
+democratic society	u.s.	4
+democratic society	u.s	1
+democratic society	u.k.	1
+oil giant	u.s.-based oil giant	1
+oil giant	u.s.-based chevron	1
+western european country	u.k	3
+western european country	u.k.	1
+club sport	u.va. club sport	1
+commonwealth country	u.k	1
+commonwealth country	u.k.	1
+component supplier	u.s. auto component supplier	1
+multilateral forum	u.s.-canada cross border crime forum	1
+well-known case	u.s.-e.u. cases in banana	1
+affluent country	u.s	3
+affluent country	u.s.	2
+affluent country	u.k.	1
+global competitor	u.s.	1
+industrial nation	u.s.	6
+industrial nation	u.s	2
+nuclear power	u.s	2
+security agency	u.s. security agency	1
+tabloid	u.s. ``supermarket tabloid''	1
+war criminal	u.s. war criminal	1
+distant place	u.s	1
+new outlet	u.s. new outlet	1
+popular search engine	u.s.-based shopping.com	1
+free trade agreement	u.s. regional free trade agreement	1
+liberal state	u.s.	1
+medical device company	u. s. surgical	1
+psychic	u.s. government psychic	1
+company	u.s. phone company	1
+company	u.s. multinational oil company	1
+company	u.s. industrial company	1
+company	u.s. infrastructure company	1
+company	u.s. investment company	1
+company	u.s.-based hotel company	1
+company	u.s.-based agribusiness giant monsanto co.	1
+company	u.s. solar energy company	1
+company	u.s roll good company	1
+company	u.s. animation company	1
+company	u.s. blue-chip company	1
+company	u.s. bus company	1
+company	u.s. commercial satellite company	1
+company	u. s. leather	1
+company	u. s.-based company	1
+company	u.k. s vodafone group plc	1
+company	u.s giant home depot	1
+banking stock	u.s. banking stock	1
+civilized country	u.s	3
+civilized country	u.s.	1
+creative name	u.s. top-of-the line creative name	1
+democratic nation	u.s	3
+democratic nation	u.k.	1
+democratic nation	u.k	1
+government website	u.s citizenship	1
+infrastructure program	u.s.a.	1
+private-equity firm	u.s.-based carlyle group lp	1
+traditional competitor	u.s.	1
+world organization	u.n	1
+ballet company	u.s. ballet company	1
+bloc	u.s.-backed trading bloc	1
+common law country	u.s	8
+common law country	u.s.	7
+common law country	u.k	6
+common law country	u.k.	1
+common law country	u.k precedent is established	1
+common law country	u.s.a	1
+industrialized nation	u.s.	4
+industrialized nation	u.s	2
+industrialized nation	u.k.	1
+social-networking site	u.s. social-networking site	1
+clothing manufacturer	u.s. clothing manufacturer	1
+common law jurisdiction	u.k.	4
+common law jurisdiction	u.s.	3
+densely populated country	u.k.	1
+densely populated country	u.k	1
+english-speaking country	u.s.	5
+english-speaking country	u.k.	4
+english-speaking country	u.s	3
+english-speaking country	u.k	3
+english-speaking country	u.s.a.	1
+friendly country	u.k.	1
+friendly country	u.k	1
+big country	u.s.	2
+big country	u.s	2
+big country	u.k.	1
+contract manufacturer	u.s. contract manufacturer	1
+economic powerhouse	u.s	1
+economic powerhouse	u.s.	1
+economic powerhouse	u.k.	1
+shoe company	u.s. shoe company	1
+software firm	u.s.-based software firm	1
+tech firm	u.s. tech firm	1
+western democracy	u.s.	2
+western democracy	u.s	1
+coalition partner	u.s. coalition partner	1
+economic power	u.s	1
+engine manufacturer	u.s. engine manufacturer	1
+fantastic place	u.s.a.	1
+mainstream medium	u.s. mainstream medium	1
+national government	u.s.	2
+national government	u.k	1
+powerful nation	u.s	3
+powerful nation	u.s.	1
+staffs	u.s. planning staffs	1
+super power	u.s.	1
+arab nation	u.a.e	1
+electronics firm	u.s. electronics firm	1
+EU member	u.k.	1
+money manager	u.s. money manager	1
+powerful country	u.s.	3
+powerful country	u.s.a.	1
+close ally	u.k.	1
+grocery store chain	u.s.-based grocery store chain	1
+international mechanism	u.n.	1
+large economy	u.s	3
+large economy	u.s.	1
+network carrier	u.s. domestic network carrier	1
+odd exception	u.k. s cfs	2
+wealthy nation	u.s.	5
+academic medical center	u.s. academic medical center	1
+advanced market	u.s.	4
+advanced market	u.s	1
+coun try	u.k.	1
+coun try	u.s.a.	1
+gulf state	u.a.e	1
+powerful state	u.s.	3
+whistleblowers	u.n. police whistleblowers	1
+european economy	u.k.	1
+company	u.s.-based multinational company	1
+company	u.s.-based oakley inc.	1
+company	u.s. tuna company	1
+company	u.s. construction company	1
+company	u.s. chemical company	1
+company	u.s. chicken company	1
+company	u.s. medium company	1
+company	u.s. roll good company	1
+company	u.s. shoe company	1
+company	u.s. tech company	1
+company	u.s. title company	1
+company	u.s. postal service many company	1
+company	u.s.-based ausra	1
+company	u.s.-based first solar inc	1
+company	u.s.-based insurance company	1
+company	u.s.-based spiekermann travel service	1
+company	u.s.ordnance in nevada	1
+company	u.s. fund company	1
+company	u.s. global company	1
+company	u.s. military and major company	1
+company	u.s. steel company	1
+company	u.s. solar company	1
+company	u.s. poultry company	1
+company	u.s. power company	1
+company	u.s. rail company	1
+company	u.s. restaurant company	1
+company	u.s. chip company	1
+company	u.s. defense company	1
+company	u.s. financial service company	1
+company	u.s. energy company	1
+company	u.s. drug company	1
+company	u.s. electronics company	1
+company	u.s. food company	1
+company	u.s gypsum	1
+company	u.k. s tesco	1
+company	u.k.-based telecommunications company	1
+company	u.s. advertising company	1
+company	u.s. airline company	1
+company	u.s. banana company	1
+company	u.s. broadcast company	1
+first world country	u.s.	3
+first world country	u.s	1
+first world country	u.k & japan	1
+liberal democracy	u.s	1
+mecca	u.s. rock-climbing mecca	1
+medium corporation	u.s. transnational medium corporation	1
+navy	u.s	1
+parliamentary system	u.k.	2
+animal shelter	u.s. local animal shelter	1
+bracket	u. jacob	1
+cooperative program	u.s. cooperative program	1
+coutries	u.s.	1
+coutries	u.k.	1
+debt security	u.s. government debt security	1
+debt security	u. s. treasury security	1
+discount carrier	u.s. discount carrier	1
+high-risk country	u.k.	1
+trade partner	u.s. trade partner	1
+trade partner	u.s	1
+advanced nation	u.s.a	3
+advanced nation	u.s.	2
+advanced nation	u.s	2
+colonial power	u.s	1
+conservative country	u.s	1
+environmental agency	u.s. environmental agency	1
+EU state	u.k.	1
+european organization	u.k. s health & safety laboratory	1
+federal system	u.s.	1
+hub airport	u.s. major hub airport	1
+low-context culture	u.s.	2
+low-context culture	u.s.a	1
+sovereign	u.s	1
+sovereign	u.k	1
+state party	u.k.	1
+tent	u. s. c. o. tent	1
+defense company	u.s. defense company	1
+legacy carrier	u.s. legacy carrier	1
+mid-sized company	u.k.-based meat producer fairfax meadow	1
+military weapon	u.s. military weapon	1
+non-immigrant visa	u.s. non-immigrant visa	1
+overseas destination	u.s.a.	1
+partnership program	u.s. partnership program	1
+sectarian group	u.s. sectarian group	1
+western culture	u.s.	5
+western culture	u.s	5
+western culture	u.s.a	1
+AP class	u.s history	1
+english speaking country	u.k.	1
+english speaking country	u.s.	1
+english speaking country	u.s.a	1
+high income country	u.s	1
+multicultural society	u.s.	2
+multicultural society	u.s.a.	1
+multicultural society	u.s	1
+muscle car	u.s. muscle car	1
+regulatory body	u.s. regulatory body	1
+beef product	u.s. beef product	1
+christian country	u.k	1
+christian country	u.s.	1
+environmental statute	u.s. environmental statute	1
+global retailer	u.s.-based office supplies giant staples	1
+gold stock	u.s. gold stock	1
+international site	u.s	1
+multilateral initiative	u.s. bilateral and multilateral initiative	1
+rich nation	u.s.	2
+rich nation	u.s	2
+rich nation	u.s.a.	1
+western society	u.s.	5
+western society	u.s	1
+commercial carrier	u.s. postal service commercial carrier	1
+european union country	u.k.	1
+funded program	u.s. federally funded program	1
+individualistic culture	u.s.	6
+individualistic culture	u.s	1
+individualistic culture	u.k.	1
+individualistic culture	u.k	1
+modern country	u.s.	1
+modern country	u.s	1
+modern country	u.k	1
+modern society	u.s.	2
+NATO member	u.k.	1
+wireless provider	u.s. wireless provider	1
+educational practice	u.s. educational practice	1
+european retailer	u.k.-based grocer tesco corporation	1
+infantry weapon	u.s. infantry weapon	1
+large nation	u.s.	1
+large nation	u.s	1
+limited item	u.k. s summer barbecue food event	2
+mature economy	u.s	2
+mature economy	u.s.	2
+modern nation	u.k	1
+national market	u.s.a	1
+national system	u.k.	1
+national system	u.s.	1
+neighbor country	u.a.e	1
+protestant country	u.s.	1
+satellite company	u.s. commercial satellite company	1
+aircraft company	u.s. aircraft company	1
+broadcast service	u.s. government broadcast service	1
+cargo carrier	u.s. cargo carrier	1
+christian musician	u.s.-based contemporary christian musician	1
+gold producer	u.k.-listed peter hambro mining	1
+management theorist	u.s. management theorist	1
+mature area	u.s.	1
+military program	u.s. political and military program	1
+printer manufacturer	u.s. printer manufacturer	1
+protectionist policy	u.s. protectionist policy	1
+rogue state	u.s	1
+civil organization	u.s customs	1
+federal country	u.s.	3
+financial regulator	u.s securities	1
+marketable security	u. s. treasury bill	1
+polluter	u.s.a	1
+polluter	u.s.	1
+professional body	u. s. professional body	1
+sovereign nation	u.s	4
+sovereign nation	u.k	1
+temperate country	u.s.	1
+U.S. carrier	u.s airways	1
+all-americans	u. s. army all-americans	1
+business executive	u. s. business executive	1
+developed democracy	u.s	1
+forerunner	u.s.	1
+free country	u.s.	1
+free country	u.k.	1
+free country	u.s	1
+prominent magazine	u.k.	1
+public charity	u.s. public charity	1
+satellite operator	u.s. satellite operator	1
+socialist nation	u.s.s.r	1
+socialist nation	u.k.	1
+transnational	u.s.-based firms bunge	1
+venture firm	u.s. venture firm	1
+affluent society	u.s.	1
+australian player	u. khawaja	1
+debtor	u.s.	1
+domestic law	u.s. domestic law	1
+environmental advocate	u.s.-based public citizen	1
+industrial economy	u.s.	1
+military commander	u.s. military commander	1
+national team player	u.s. national team player	1
+operation force	u.s navy seals	1
+trading nation	u.s.	1
+western power	u.s.	3
+continental country	u.s.	1
+economic thinker	u.s. economic thinker	1
+equity index	u.s. equity index	1
+good manufacturer	u.s. outdoor good manufacturer	1
+military official	u.s. senior military official	1
+factor	u.v. light	1
+restaurant company	u.s. restaurant company	1
+stochastic factor	u.f. load shedding relay	1
+welfare indicator	u.n. s human development index	1
+western market	u.k.	1
+western market	u.s	1
+western market	u.s.	1
+border community	u. s. border community	1
+border community	u.s. border community	1
+chip company	u.s. chip company	1
+corporate icon	u.s. corporate icon	1
+european competitor	u.k. s j sainsbury plc	1
+financial house	u.s. financial house	1
+formalist	u. adam	1
+free society	u.s.	2
+free society	u.s.a.	1
+indigenous person	u.s. indigenous person	1
+mobile network operator	u.s. mobile network operator	1
+multilingual country	u.s	1
+nongovernmental agency	u.n.-associated nongovernmental agency	1
+online new site	u.s. online new site	1
+traditional producer	u.s.a.	2
+traditional producer	u.k.	2
+worldwide country	u.s.a & europe	1
+adult magazine	u. s. news & world report	1
+christian nation	u.s	1
+datum vendor	u.s. datum vendor	1
+FTAs	u.s.-chile fta	1
+military equipment	u.s. military equipment	1
+program benefit	u.s. card program benefit	1
+rail company	u.s. rail company	1
+regional dialect	u.k. regional dialect	1
+academic center	u.s. academic center	1
+arab regime	u.s-toadying arab regime	1
+arab regime	u.s.-toadying arab regime	1
+big power	u.s	1
+communist regime	u.s.s.r	1
+establishment figure	u.s. establishment figure	1
+exploration activity	u.k. s leadership of the exomars rover	2
+fair trade organization	u.k.-registered charity	1
+food exporter	u.s. food exporter	1
+furniture maker	u.s.-based furniture maker	1
+great statesman	u.s. s abraham lincoln	1
+imperialist country	u.s.	1
+large exporter	u.s.	1
+medium website	u.s news	1
+NATO ally	u.s.	3
+NATO ally	u.k	2
+NATO ally	u.k.	1
+new show	u.s. new show	1
+plastic surgeon	u.s. plastic surgeon	1
+production center	u.s. production center	1
+prosperous nation	u.s	1
+responsible organization	u.s.p.	1
+security initiative	u.s.-led security initiative	1
+security initiative	u.s.-visit program	1
+testing company	u.s.-based educational testing service	2
+testing company	u.s. testing company	1
+warehouse store	u.s. warehouse store	1
+affluent nation	u.s	1
+affluent nation	u.s.	1
+big donor	u.s	1
+first-world country	u.s.	1
+key donor	u.s	1
+largest market	u.k	1
+largest market	u.k.	1
+modern democracy	u.s.	2
+nuclear state	u.s.	1
+nuclear weapon state	u.s.	1
+open society	u.s.	2
+open society	u.s	1
+pizza chain	u.s pizza	2
+popular culture icon	u.s. popular culture icon	1
+successful economy	u.s	1
+traditional supplier	u.s	1
+worldwide customer	u. k.	1
+capitalist society	u.s.	1
+development effort	u.s. capital development effort	1
+engineering school	u.s.'s top-notch engineering school	1
+activity	u. s. o. work	1
+activity	u.s. government activity	1
+local phone company	u.s. local phone company	1
+low-fare airline	u.s. low-fare airline	1
+major company	u.s. military and major company	1
+pluralistic society	u.s.	2
+regulated environment	u.s.	1
+search provider	u.s.-based internet search provider	1
+secular country	u.s.	1
+secular country	u.k.	1
+secular country	u.s.a	1
+title company	u.s. title company	1
+trade group	u.s. trade group	1
+established democracy	u.s.	1
+european and asian country	u.k.	1
+fast food company	u.s. fast food company	1
+global power	u.s	2
+gulf country	u.a.e.	1
+imperialist	u.s	1
+international policy	u.s	1
+low context culture	u.s.	2
+mixed economy	u.k.	1
+non-european country	u.s.	1
+nuclear accident	u.s. s three mile island	1
+reason country	u.s.	1
+traditional donor	u.s.	1
+anglo-saxon country	u.s.	8
+anglo-saxon country	u.k	8
+anglo-saxon country	u.s	1
+anglo-saxon country	u.k.	1
+democratic regime	u.s.-supported democratic regime	1
+efficient market	u.s.	1
+female rapper	u.s. female rapper	1
+glass manufacturer	u.s. glass manufacturer	1
+importing country	u.s.	1
+multinational oil company	u.s. multinational oil company	1
+multi-stakeholder initiative	u.n. s global compact	1
+organiza-tions	u.s. government organiza-tions	1
+rice exporter	u.s.	1
+western european nation	u.k.	1
+corporate structure	u.s. corporate structure	1
+european colony	u.s	1
+federally funded program	u.s. federally funded program	1
+homogeneous society	u.s	1
+jet fighter	u.s. jet fighter	1
+link course	u.s. so-called link course	1
+mobile market	u.s	2
+NATO nation	u.k.	1
+presidential system	u.s.	1
+technologically advanced country	u.s.	2
+trading scheme	u.s. trading scheme	1
+western economy	u.s.	1
+western economy	u.k.	1
+information	u.s dot code	1
+information	u.s. specific information	1
+information	u.s. address information	1
+defense program	u.s. strategic defense program	1
+E.U. country	u.k.	2
+E.U. country	u.k	1
+government body	u.s. government body	1
+gsm carrier	u.s.-based gsm carrier	1
+heterogeneous society	u.s.	1
+individualist culture	u.s.	1
+individualist culture	u.s	1
+individualist culture	u.s.a	1
+individualistic society	u.s.	2
+individualistic society	u.k.	2
+individualistic society	u.s	1
+individualistic society	u.s.a.	1
+large geographical area	u.k	1
+nascent market	u.s.	1
+non-muslim country	u.k.	1
+non-muslim country	u.s.a.	1
+non-muslim country	u.s.	1
+oil supplier	u.s. oil supplier	1
+outside power	u.s.	1
+quality supplier	u.s	1
+broadcasting network	u.s. broadcasting network	1
+car producer	u.s. car producer	1
+developed market economy	u.s.	1
+developed market economy	u.s	1
+developed market economy	u.k.	1
+donor nation	u.s.	1
+large government agency	u.s department of agriculture's animal control branch	1
+macroeconomic force	u.s	1
+newsmagazines	u.s.news & world report	1
+non-member country	u.s.	1
+oil-importing country	u.s.	1
+online calculator	u.s.d.a. s mypyramid plan	1
+potential enemy	u.s.s.r.	1
+single country	u.s.	1
+strong state	u.s.	1
+advance country	u.s	1
+advance country	u.s.a.	1
+advanced industrial country	u.s.	2
+advanced industrial country	u.k.	1
+aid donor	u.k.	1
+animation company	u.s. animation company	1
+appliance maker	u.s. appliance maker	1
+donor government	u.k	1
+donor government	u.s.	1
+english colony	u.s.	1
+geographic market	u.s.	1
+high-inflation country	u.a.e.	1
+liberal society	u.s.	1
+offset	u.n. s certified emission reductions	1
+oil-rich nation	u.a.e.	2
+popular european destination	u.k.	1
+production region	u.s.	1
+representative democracy	u.s	1
+representative democracy	u.s.	1
+trading bloc	u.s.-backed trading bloc	1
+year course	u. s. history	1
+bellwether stock	u.s. bellwether stock	1
+brilliant scholar	u. c. nag	1
+certification body	u.s. private certification body	1
+compa-nies	u.s. food compa-nies	1
+conservative bloggers	u.s. military and conservative bloggers	1
+deficit country	u.s	1
+deficit country	u.s.	1
+economic initiative	u.s. international economic initiative	1
+economic initiative	u.s. inter-national  economic initiative	1
+federal case	u.s	1
+food maker	u.s. food maker	1
+friendly state	u.s.a.	1
+government partner	u.s. government partner	1
+industrial society	u.s.	1
+industrialised region	u.s.	1
+investment income	u.s. source investment income	1
+maritime power	u.s.	1
+medium powerhouse	u.s. medium powerhouse	1
+non-arab country	u.s.	1
+part manufacturer	u.s. part manufacturer	1
+party system	u.s.	2
+science agency	u.s. science agency	1
+supplier country	u.s.	2
+western developed country	u.s	1
+worldwide market	u.s.	1
+big emitter	u.s.	1
+broadcast company	u.s. broadcast company	1
+economic number	u. of michigan confidence	1
+economically developed country	u.s.	1
+energy corporation	u.s. energy corporation	1
+government-sponsored entity	u.s. government-sponsored entity	1
+grade level event	u. s. symbols day	1
+industrialized economy	u.s	1
+liberal market economy	u.s	2
+liberal market economy	u.k.	1
+mature country	u.s.	1
+modernized country	u.s.	1
+multi-brand retailer	u.s.-based wal-mart stores inc.	1
+oilfield service company	u.s.-based schlumberger	1
+public relation firm	u.s. public relation firm	1
+radical preacher	u.k.-based abu qatada	1
+regional powerhouse	u. of tennessee	1
+single state	u.s.a	1
+telecommunications company	u.k.-based telecommunications company	1
+trade deal	u.s.-australia free trade agreement	1
+traditional U.S. ally	u.k.	1
+agenc ies	u.s. agenc ies	1
+APEC member	u.s	1
+asian gang	u.s.-based asian gang	1
+big economy	u.k.	1
+core country	u.s.	1
+download service	u.s. download service	1
+environmental pressure group	u.k.-based global witness	1
+EU jurisdiction	u.k	3
+forum country	u.s.	2
+G20 country	u.s	1
+geographically large country	u.s.	1
+geographically large country	u.s	1
+government obligation	u.s. savings bond	1
+government obligation	u. s. treasury bill	1
+health association	u.s. health association	1
+health association	u. s. health association	1
+international power	u.s	1
+key export market	u.s	1
+largest country	u.s.	1
+largest country	u.k.	1
+market region	u.s.	1
+mortgage insurer	u.s. mortgage insurer	1
+event	u.s.-led invasion of iraq	2
+event	u.s.-mexico border summit in august	1
+event	u.k. s departure from the erm	1
+event	u.i.l. competition	1
+prestigious site	u.s federal government plaza	2
+prosecution	u.s	1
+regulatory entity	u. s. environmental protection agency	1
+regulatory entity	u. s. fish	1
+richest country	u.s	1
+stable economy	u.s.	1
+stock fund	u.s. stock fund	1
+strategic ally	u.s.'s strategic ally	1
+warm weather destination	u.s virgin islands	1
+wealthy region	u.s.	1
+year university	u.c.l.a.	1
+cable series	u.s. cable series	1
+common-law country	u.s.	4
+common-law country	u.k	2
+common-law country	u.k.	1
+common-law country	u.s.a	1
+common-law jurisdiction	u.k.	1
+common-law jurisdiction	u.k	1
+court officer	u. s. marshal	1
+economic figure	u.s. economic figure	1
+established economy	u.s.	1
+imperialist power	u.s.	1
+industrialized region	u.s.	2
+industrialized region	u.s	1
+key government	u.s.	1
+large developed country	u.k.	1
+large developed country	u.s.	1
+low power distance country	u.s.	1
+market-based system	u.s	2
+market-based system	u.k.	1
+military ally	u.s. military ally	1
+passport	u.s	1
+religious right leader	u.s. religious right leader	1
+socio-demographic change	u.k ageing population	1
+space capability	u.s. space capability	1
+symbolic target	u.s	1
+title insurance company	u.s. title insurance company	1
+tower company	u.s.-based american tower	1
+unilateral measure	u.s. unilateral measure	1
+arm manufacturer	u.s. arm manufacturer	1
+chemical giant	u.s. chemical giant	1
+common law system	u.s.	1
+european oil company	u.k-based bp	1
+fast-food franchise	u.s. fast-food franchise	1
+federal agent	u. s. secret service	1
+flag state	u.s.	1
+gaming operator	u.s. gaming operator	1
+governmental body	u.s. governmental body	1
+industrialized society	u.s.	1
+large research institution	u.va.	1
+low-tax country	u.s	1
+maritime state	u.s.	1
+military alliance	u.s.-led north atlantic treaty organization	1
+mobile virtual network operator	u.s.-based amp'd mobile	1
+event	u.s.-cuba travel summit	1
+event	u.s.-uae  one hundred and twenty-three  agreement 	1
+event	u.c. s relay for life	1
+event	u.s open	1
+event	u.s tic long-term purchases data release	1
+short-term debt security	u. s. treasury bills	2
+union officer	u. s. grant	1
+ancient country	u.k	1
+antidiscrimination statute	u.s. antidiscrimination statute	1
+banking regulator	u.s. banking regulator	1
+beef company	u.s. beef company	1
+big state school	u.va.	1
+comic book superhero	u.s. comic book superhero	1
+common law nation	u.s.	1
+film magazine	u.s. film magazine	1
+free nation	u.s.	1
+friendly government	u.s	1
+game site	u.s. game site	1
+health-care system	u.s. government-funded health-care system	1
+high-wage country	u.s	1
+influential nation	u.s.	1
+influential nation	u.k.	1
+library association	u.s. library association	1
+local animal shelter	u.s. local animal shelter	1
+melting pot	u.s.	1
+mid-size sedan	u.s. mid-size sedan	1
+military institution	u.s.-dominated nato	1
+non-member state	u.s.	1
+PMCs	u.s.-based military professional resources	2
+privileged person	u. e. loyalists	1
+sophisticated country	u.s	1
+tire maker	u.s. tire maker	1
+top nation	u.s	1
+western player	u.s. vandersteen audio	1
+agribusiness giant	u.s. agribusiness giant	1
+allied country	u.k.	1
+antitrust case	u.s. antitrust case	1
+bilateral treaty	u.s.-chile fta	1
+cosmetic manufacturer	u.s. cosmetic manufacturer	1
+country index	u.k.	1
+country index	u.s	1
+currency union	u.s	1
+developed capitalist country	u.s	1
+program	u.s.-based thoroughbred retirement foundation	2
+environmental campaigner	u.s.-based international rivers	1
+expensive additive	u.v. absorbers	1
+facility manager	u.s.-educated ceo of alt source communications in karachi	1
+farm exporter	u.s	1
+fishing country	u.s	2
+global economic force	u.s	1
+individualistic country	u.s.	2
+industrial democracy	u.s.	1
+integrated firm	u.s. integrated firm	1
+investment management firm	u.k.-owned investment management firm	1
+key jurisdiction	u.s.	1
+monitoring body	u.n. treaty monitoring body	1
+overseas region	u.s.	1
+prospective partner	u.k	1
+rice brand	u.s. famous rice brand	1
+rival country	u.s.	1
+senior military official	u.s. senior military official	1
+trade preference	u.s. trade preference	1
+traditional export market	u.k.	1
+traditional phone company	u. s. west	1
+transnational gang	u.s.-grown mara salvatrucha	1
+welfare society	u.s.	1
+world super power	u.s	1
+american territory	u.s.v.i.	1
+basketball powerhouse	u.s.	1
+burbs	u. city	1
+cigarette maker	u.s. cigarette maker	1
+country-themed and city-themed background	u.s.	1
+currency country	u.s.	1
+defense giant	u.s. defense giant	1
+gateway airport	u.s. gateway airport	1
+global uncertainty	u.s.-iraq war	1
+industry trade event	u.s.a.	1
+international nuclear waste generator	u.k.	1
+large generator country	u.k.	2
+large generator country	u.s.	2
+-logistic company	u.s. -logistic company	1
+monochronic culture	u.s.	1
+monochronic culture	u.s	1
+movie location	u.s	1
+program	u.s.-ukraine community partnerships project	1
+program	u.s. strategic defense program	1
+program	u.s. government program	1
+program	u.s. federal program	1
+program	u.s. federally funded program	1
+program	u.s. partnership program	1
+program	u.s. preferential trade program	1
+program	u.s.-china joint commission on commerce	1
+program	u.s. tracking program	1
+program	u. s. program	1
+program	u.k.-based association of chartered certified accountants	1
+program	u.s. border program	1
+privileged country	u.s.a.	1
+regional free trade agreement	u.s. regional free trade agreement	1
+retail lender	u. s. bank	1
+steel-producing country	u.s.a.	2
+surrounding building	u.s customs office	1
+top investment bank	u.s. top investment bank	1
+tracking program	u.s. tracking program	1
+traditional investment option	u. s. savings bonds	1
+two-party system	u.s.	1
+arctic country	u.s	1
+banana company	u.s. banana company	1
+business competitor	u.k	1
+colorado spring attraction	u.s olympic training center	1
+constitutional system	u.s.	2
+core nation	u.s.	1
+eu-member country	u.k.	1
+europe customer	u.k	1
+export partner	u.k.	1
+free-market economy	u.s.	1
+FTA partner	u.s.	1
+golf star	u.s. golf star	1
+gses	u.s. housing-related gses	1
+holding company	u.s. holding company	1
+huge economy	u.s.	1
+insular nation	u.k.	1
+low prevalence population	u.s.	1
+low uncertainty avoidance culture	u.k.	1
+low uncertainty avoidance culture	u.s	1
+major bank	u.s. major bank	1
+mature democracy	u.s	1
+military standard	u.s. military standard	1
+non-federal government agency	u.s. non-federal government agency	1
+nonmember country	u.s.	1
+physical study	u.v. absorption spectrum	1
+program	u.s. cooperative program	1
+program	u.s.-ukraine policy dialogue	1
+program	u.s. unilateral preference program	1
+program	u.s.-asia environmental partnership	1
+program	u.s. utility sponsor program	1
+program	u.s.-sponsored study-abroad program	1
+program	u.s. government-supported program	1
+program	u.s. government domestic surveillance program	1
+program	u.s. government-backed program	1
+program	u.s. political and military program	1
+potential entrant	u.k.	1
+preparation service	u.s. preparation service	1
+rich society	u.s.	1
+successful democracy	u.s.	1
+western major	u.s.-based pfizer	1
+advanced industrial state	u.s	1
+affluent democracy	u.s.a.	1
+agricultural nation	u.s.	1
+asiatic elm	u. pumila	1
+biggest polluter	u.s.	1
+biotech giant	u.s. biotech giant	1
+broadcasting	u.s. government-supported broadcasting	1
+buddhist group	u.s.-based buddhist peace fellowship	1
+competitive society	u.s.	1
+curriculum-based program	u. n. week	2
+exciting position	u.s calvary	1
+federal law enforcement officer	u.s. marshal	1
+gambling city	u.s. gambling city	1
+individualist society	u.s.	2
+industrial reits	u.s. industrial reits	1
+industrially advanced country	u.s.	1
+launch provider	u.s. domest ic launch provider	1
+launch provider	u.s. domestic launch provider	1
+liberal democratic society	u.s.	2
+louisiana artist	u.n.l.v outlaw music group	1
+community	u. s. border community	1
+mall retailer	u.s. mall retailer	1
+market-based economy	u.s	1
+market-based economy	u.k.	1
+medical device firm	u.s. medical device firm	1
+multi-lateral organization	u.n	1
+non-islamic country	u.k	3
+oil-service company	u.s. oil-service company	1
+open democracy	u.s.	1
+open democracy	u.k.	1
+private-equity fund	u.s.-based private-equity fund	1
+private-equity group	u.s. private-equity group	1
+progressive society	u.s.	1
+public school system	u.s. public school system	1
+ranking organization	u.s news & world report	1
+satellite manufacturer	u.s. satellite manufacturer	1
+solar energy company	u.s. solar energy company	1
+sovereign government	u.s	1
+sovereign government	u.k.	1
+struggling economy	u.s	1
+supermajors	u.s.-based exxon mobil	1
+telecommunications carrier	u.s. telecommunications carrier	1
+textile state	u.s. textile state	1
+traditional favorite destination	u.s.	1
+traditional mining country	u.s.	1
+treaty ally	u.s. treaty ally	1
+well-developed area	u.s	1
+worker group	u.s.-based tech worker group	1
+aggressive war	u.s.s.r. s invasion of hungary	1
+anglo-american nation	u.k.	1
+asean's dialogue partner	u.s.	1
+auto component maker	u.s. auto component maker	1
+carbon dioxide emitter	u.s	1
+chicken company	u.s. chicken company	1
+confectionery giant	u.s. confectionery giant	1
+contemporary christian musician	u.s.-based contemporary christian musician	1
+continental economy	u.s	1
+courier firm	u.k.-based tnt	1
+defense industry leader	u.s. defense industry leader	1
+community	u.s. border community	1
+community	u.s. government ``greenbelt'' community	1
+developed capital market	u.s.	1
+developed financial market	u.s.	2
+domestic jurisdiction	u.s.	1
+egalitarian culture	u.s.	1
+federal land managing agency	u.s forest service	1
+financing institution	u.s. financing institution	1
+global financial player	u.s.	1
+government-backed program	u.s. government-backed program	1
+internet search provider	u.s.-based internet search provider	1
+key donor country	u.s	1
+large delegation	u.s	1
+large-scale famous household appliance enterprise	u.s.a.	1
+latino population	u.s.-born mexican americans	1
+light force	u.s. light force	1
+low prevalence setting	u.s.	1
+low risk area	u.s.	1
+low-context society	u.s	1
+low-context society	u.s.a.	1
+low-piracy region	u.k	1
+low-piracy region	u.s.	1
+majorindustrlaiized country	u.s.	1
+manufacturing market	u.s	1
+market-driven country	u.k	1
+medical-device company	u.s. medical-device company	1
+merchant processor	u.s.-based merchant processor	1
+national and state patriotic symbol	u.s	2
+noteworthy regional band	u.s.e.	1
+official international institution	u.n.	1
+oldest democracy	u.k	1
+option exchange	u.s. option exchange	1
+outstanding young physicist	u. becker	2
+palces	u.s	1
+pension fund group	u.k. s local authority pension fund forum	1
+permanent service	u.s. mail	1
+point country	u.s	1
+record source	u.s. record source	1
+secular government	u.s.	1
+organization	u.n.	7
+organization	u.s.-china business council	6
+organization	u.n	5
+organization	u.s.o.	2
+organization	u.n. s food	2
+organization	u.s.-based mercy corps	2
+organization	u.s. aid organization	1
+organization	u.s. federal organization	1
+organization	u.s. non-governmental organization	1
+organization	u.s. volunteer organization	1
+organization	u.s.-cuba trade association	1
+organization	u.k.-based carbon disclosure project	1
+organization	u.p.s.	1
+organization	u.s department of defense	1
+organization	u. of i. extension office	1
+so-called civilized country	u.s.a.	1
+so-called civilized country	u.s.	1
+social science class	u. s. history	1
+stringent law	u.s patriot act. two hundred i 	2
+stringent law	u.k terrorism act	1
+study-abroad program	u.s.-sponsored study-abroad program	1
+surveillance program	u.s. government domestic surveillance program	1
+traditional english-speaking country	u.k	1
+traditional english-speaking country	u.s.	1
+transfer company	u.s. transfer company	1
+transnational medium corporation	u.s. transnational medium corporation	1
+Undoubted nondemocracies	u.s.s.r.	1
+water-rich country	u.s.	1
+active government medium program	u.s.a.	1
+advanced nuclear state	u. s russia	1
+advanced western economy	u.k.	1
+american telelvision show	u.s.m.c.	2
+beauty-obsessed multiracial society	u.s.	1
+beef-producing country	u.s.	1
+bilateral and regional agreement	u.s.-korea fta	1
+bilateral mechanism	u.s.-china strategic	1
+bilateral mechanism	u.s.-canada transportation border working group	1
+border enforcement operation	u.s. border enforcement operation	1
+chinese solar firm	u.s.-listed suntech power	1
+civil right statute	u.s.c.	1
+civilised nation	u.s	1
+commercial nation	u.s	1
+counterterrorism policy	u.s. counterterrorism policy	1
+datum plan	u.s. prepaid datum plan	1
+developed democratic country	u.k.	1
+developed insurance market	u.k	1
+digitally advanced northern european market	u.k.	1
+direct seller	u.s. direct seller	1
+ECAs	u.	1
+electro-optical system	u.s. electro-optical system	1
+organization	u.s. trade promotion organization	1
+organization	u.s. telecommunications service organization	1
+organization	u.s. government organization	1
+organization	u.s english	1
+organization	u.s state department	1
+organization	u.n.i.t.y.	1
+organization	u.s. code-developing organization	1
+organization	u. s. fish & wildlife service	1
+organization	u.s. governmental and nongovernmental organization	1
+organization	u.s. governmental organization	1
+organization	u.s. religious organization	1
+organization	u.s. national institutes of health	1
+organization	u.s.-ukraine faces	1
+organization	u.s.-china chamber of commerce	1
+organization	u.s.-based non-profit organization	1
+organization	u.k. scientific organization	1
+organization	u.s. credit-granting organization	1
+organization	u.s. democracy promotion organization	1
+established steel firm	u. s. steel	1
+expensive cheese	u.s.-made parmesan cheese	5
+foodservice giant	u.s. retail and foodservice giant	1
+government-supported program	u.s. government-supported program	1
+heavily populated large country	u.s	1
+heavyweight wimax operator	u.s. s clearwire	1
+held sev-eral public office	u. s. consular agent	1
+high trust society	u.s.	1
+High Yield Revenue distinations	u.s.a.	1
+high-immigration country	u.s.	2
+IEA member	u.s	1
+ilb-issuing country	u.s.	1
+intermediate-fertility country	u.s.	1
+key international player	u.s.	2
+key solar market	u.s.	1
+large open economy	u.s	1
+large reference book	u. s. catalog	1
+laser-guided projectile	u.s. s now-canceled copperhead clgp	1
+legislative district	u. s. congress	1
+litigious society	u.s.	3
+litigious society	u.s	1
+local community board	u.s civil rights commission	1
+mid-latitude area	u.s.	1
+miller	u.s. corn miller	1
+north american and european market	u.s	1
+north american and european market	u.k.	1
+official nation	u.s	1
+outsourcing country	u.k	1
+outsourcing country	u.s	1
+overseas publication	u.s.-based new york times	1
+Political states	u.s.	1
+pork producer	u.s. pork producer	1
+potential E.U. entrant	u.k.	1
+potential e.u.leuro entrant	u.k.	1
+poultry company	u.s. poultry company	1
+public monopoly	u.s.postal service	1
+religiously pluralistic society	u.s.	2
+removable datum storage medium	u.s.b. flash memory drive	2
+representative association	u.s.-china business council	1
+satellite maker	u.s. satellite maker	1
+satellite radio station	u.s.-backed radio farda	3
+security research market	u.k.	1
+ship design	u.s. ship design	1
+special force	u.s. military and special force	1
+sport superpower	u.s.	1
+steller pitcher	u. of texas star cat osterman	1
+supreme court precedent	u.s	2
+theoretical frame	u. morton prince	1
+traditional retail chain	u.s. traditional retail chain	1
+uranium intermetallic compound	u.sub. six  ni 	1
+uranium intermetallic compound	u.sub. six  fe 	1
+week's datum	u. s. gdp	1
+world trader	u.s.s.r	1
+young society	u.s.a.	1
+aaa-rated economy	u.k	1
+ag giant	u.s. ag giant	1
+agen-cies	u.s. government agen-cies	1
+alacris's competitor	u.k.-based intercede group plc	1
+technique	u.s. military deploys harassment technique	1
+carbon dioxide producer	u.s.	1
+christian human right organization	u.k.-based release international	1
+class-based society	u.s	1
+continent's country	u.s.	1
+corporate medium	u.s. corporate medium	1
+current-day, hypermodern society	u.s.	3
+cuz wealthy country	u.s	1
+cuz wealthy country	u.k	1
+DAP producer	u.s.-based mosaic	1
+democratic republic	u.s.	2
+developed bond market	u.s.	5
+developed bond market s	u.s.	1
+developed casino market	u.k.	1
+developed european RFID market	u.k.	1
+diplomatic institution	u.n	1
+direct marketer	u.s. direct marketer	1
+entry port	u.s. entry port	1
+established luxury market	u.s.	1
+european gas market	u.k.	1
+first-to-invent country	u.s	1
+first-to-invent country	u.s.	1
+fully monetarily-independent economy	u.s	1
+gaming country	u.s.	1
+government-sponsored science park initiative	u.k. s cambridge	2
+great alliance	u.s.-japanese security treaty	1
+great pacific market	u.s.	1
+health corporation	u.s. health corporation	1
+high production cost area	u.s.	1
+imminent danger	u.f.o s	1
+incumbent construction equipment maker	u.s.-based caterpillar	1
+individualistic nation	u.s.	1
+influential world power	u.s	1
+institutionalized democracy	u.s	1
+international target	u.s	1
+kannada writer	u. r. ananthamurthy	1
+key E.U. member	u.k.	1
+key external actor	u.s.	1
+key western ally	u.s	1
+knitwear company	u.s.a.	1
+large and traditionally strong market	u.k	1
+large established market	u.s.	1
+lead country	u.s	1
+leading GM producer	u.s.	1
+lean, grass-fed meat	u.s.wellness beef	1
+legislative body	u.s. legislative body	1
+legislative body	u. s. legislative body	1
+mature PPP market	u.k.	2
+militarized nation	u.s.a	1
+military space actor	u.s.	1
+mind market	u.s.	1
+mixed brand	u. s. polo	1
+national new weekly	u. s. news	1
+naval base	u.s. naval base	1
+non-asean country	u.s.	1
+non-muslims country	u.k.	1
+northern border state	u.s.a. northern border state	1
+northern government	u.k.	1
+northern government	u.s	1
+ostensibly multicultural society	u.s.	1
+overly technologically sophisticated country	u.s.	1
+overseas multibrand retail company	u.k. s tesco plc	4
+parental organization	u. j. khatri & sons	1
+powerful and wealthy ally	u.k	1
+powerful multinational fruit company	u.s.-based dole	2
+preference program	u.s. unilateral preference program	1
+reputed society	u.s	1
+residential market	u.s	1
+rich western country	u.s	1
+sea-side country	u.s.a.	1
+secular system	u.s	1
+secularized nation	u.k	1
+shorter-term arrangement	u.s.-led forces in iraq	1
+shoulder-fired missile	u.s.-made stinger	2
+socialized institution	u.s postal system	1
+stable, defensive, dividend-paying stock	u. s. health care	1
+structured dialogue	u.s.-israel joint political-military group	2
+structured dialogue	u.s.-israel joint political military group	1
+submerged weed	u. aurea	1
+supermarket tabloid	u.s. ``supermarket tabloid''	1
+territorial possession	u.s. territorial possession	1
+tobacco maker	u.s. tobacco maker	1
+top-notch engineering school	u.s.'s top-notch engineering school	1
+traditional gold powerhouse	u.s.	1
+U.S politician	u.s congressman elijah cummings	2
+uncompromising jurisdiction	u.s.	1
+united states alliance	u.s.-republic of korea alliance	1
+united states alliance	u.s.-japan alliance	1
+wealthiest nation	u.s.	1
+accounting standard country	u.k	1
+advanced industrialized country	u.s.	1
+agricultural power	u.s.	1
+air oven	u.s.a	1
+analog site	u. s. ecology pit	1
+assertive society	u.s	1
+best practice jurisdiction	u.s	1
+best traditional military	u.s	2
+bi-cameral institution	u.s congress with the house	1
+bicycle export designation	u.s	1
+biggest carbon emitter	u.s	1
+bitter foe	u.s.'s most bitter foe	1
+name	u.k. brand name	1
+name	u.s. top-of-the line creative name	1
+cell carrier	u.s. cell carrier	1
+cellular player	u.s. cellular player	1
+chicken processor	u.s. chicken processor	1
+christian-majority country	u.s.	1
+civil society critic	u.k.-based institute of social	1
+coal-rich and oil-poor nation	u.s	1
+comparatively liberal arab nation	u.a.e.	1
+competitive route	u.s.-uk route	3
+computer science institution	u. of toronto	1
+contact group country	u.s	1
+corn miller	u.s. corn miller	1
+cost-sharing program	u.s.d.a. s environmental quality incentives program	1
+creditor-friendly jurisdiction	u.k	1
+culturally similar country	u.s	1
+datum release	u.s. datum release	1
+defensive equity market	u.s	1
+democratic, secular society	u.k.	1
+developed dairying country	u.s.a.	3
+developed or capitalist country	u.k.	1
+developed power	u.s	1
+diametrically opposed economic nation	u.s	1
+digital music player market	u.s	3
+disgruntled investor	u.k.-based hermes	1
+diversified system	u.s.	2
+dominant-subordinate structure	u.s.-pakistan relationship	1
+dominant-subordinate structure	u.s.-colombian relationship	1
+dot entity	u. s. dot entity	1
+DSOs	u.s.-based mary kay	1
+edge country	u.k	1
+educational web site	u.va.	1
+effective and lasting strategic cooperation	u.s.-japan alliance	1
+egalitarian setting	u.s.	1
+environmental education activity guide	u.s.-based project wild	1
+erstwhile home state	u.k	1
+erstwhile home state	u.s	1
+european union eu-member country	u.k.	1
+export customer	u.s. beef export customer	1
+express courier service	u.p.s.	1
+extremely didactic program	u. washington	1
+federal environmental regulation	u.s. federal environmental regulation	1
+federal health plan	u.s. federal health plan	1
+federal land management agency land	u.s forest service	1
+federal obscenity case	u.s	1
+first world region	u.s	1
+first, safe country	u.k.	1
+game market	u.s.	1
+global and regional actor	u.s	2
+global environmental lobby	u.s.-based international rivers	1
+global health insurer	u.s.-based aetna	1
+grand slam	u.s open	1
+higher-margin developed economy	u.k	1
+high-wage nation	u.s.	1
+historical and cultural difference	u.s. on a whole being accepting of divorce	1
+hot-air oven	u.s.a	1
+improved nutritional label	u.k. s traffic-light system of voluntary red	1
+industrialized western society	u.s.	1
+information-based country	u.s	1
+innovation economy	u.s.	1
+institutional welfare state	u.k.	1
+intermittent production distortion	u. n. oil sale curtailment imposed on iraq	1
+internet IPOs	u.s. s demand media	1
+key private-sector initiative	u.s.-singapore free trade agreement coalition	2
+key private-sector initiative	u.s.-apec business coalition	2
+knowledge-driven economy	u.s.	1
+labor-scarce country	u.s.	1
+land-abundant economy	u.s.	1
+large and diverse society	u.s.	1
+large diverse democracy	u.s.	1
+large gold-owning nation	u.s.	1
+large gold-owning nation	u.k.	1
+large, developed country	u.s	1
+largest developed nation	u.s	1
+lead nation	u.s	1
+case	u.s	28
+case	u.s.	3
+case	u.k.	3
+case	u.k	2
+case	u. s. college	1
+case	u.s pat	1
+case	u.s. s ambitious trade negotiating agenda	1
+linguistic province	u.p.	1
+long distance highway	u. s. route  sixty-six 	1
+long distance market	u.s.	1
+low credit risk asset	u. s. government security	1
+market oriented country	u.k	1
+market oriented country	u.s.	1
+mature developed economy	u.s	1
+mid-tier elite	u. of chicago	1
+militant nation	u.s	1
+militaristic society	u.s.	1
+modern constitutional democratic political society	u.s.a.	1
+modern english speaking country	u.s	1
+modern progressive dog loving country	u.k.	1
+modern shoulder-fired missile	u.s.-made stinger	1
+monocultural society	u.s	1
+monocultural society	u.s.	1
+mr. jayakumar's illustrious predecessor	u. krishna rao	2
+multi-brand foreign group	u.s.-based wal-mart	1
+multi-cultured society	u.s.	1
+national capability	u.s. national capability	1
+neurotic country	u.k	1
+neurotic country	u.s.a.	1
+ninth circuit case	u.s	2
+non-military collection	u. s. census document	1
+office management activity	u.s. mail service	1
+once-major standing military alliance	u.s.-led southeast asia treaty organization	1
+original nuclear weapon state	u.s	1
+ostensibly defensive alliance	u.s.-japan security treaty	1
+overseas multi-brand retail company	u.k. s tesco plc	1
+perennial track powerhouse	u.s	1
+Personal identifi cation	u. s. passport	1
+perspective few country	u.s.	1
+polar nation	u.s	1
+case	u.s. antitrust case	1
+post-industrial and redistributive society	u.s.	1
+powerful developed country	u.s.	1
+preferential trade program	u.s. preferential trade program	1
+presumably progressive nation	u.s.a.	1
+prison policy	u.s. prison policy	1
+quantitative hedge-fund firm	u.k.-based winton capital management ltd.	1
+recalcitrant organization	u.n	1
+reprocessing company	u.s.-based ascent healthcare solutions	1
+routinized producer	u. wholesale	1
+safe third country	u.s.	2
+second amendment case	u.s	1
+semiconductor producer	u.s. semiconductor producer	1
+shared aetiological factor	u.v. radiation	1
+short-term atoll visitor	u. s. department of energy worker	1
+slow ballad-like track	u.f.o	1
+slow-growth country	u.s	1
+smoking ban critic	u.s.-based journalists christopher hitchens	1
+so-called free democratic country	u.s.	1
+specialist manager	u.s.-based mesirow financial	2
+specialized agency	u.n.'s specialized agency	1
+stable or civilized country	u.k.	1
+strong multilevel system	u.s	1
+successful capitalist economy	u.s.	1
+superpower state	u.s	1
+sustainable building community organization	u. s. green building council	1
+techno-fixes	u.s.-proposed proliferation-proof pie-in-the-sky global nuclear energy partnership	1
+technological developed country	u.s.a.	1
+temperated country	u.k.	1
+temperated country	u.s.a.	1
+theoretically federal socialist state	u.s.s.r	1
+token, country	u.k.	1
+tour organization	u.s.o	1
+traditional class society	u.s	1
+tuna company	u.s. tuna company	1
+typical player	u.s.	1
+U.S colony	u.s virgin islands	1
+U.S. antitrust case	u.s	1
+uniform shirt	u.s mail carrier	1
+wal-mart's global rival	u.k. s tesco plc	1
+western individualistic culture	u.s.	1
+world auto giant	u.s.-based general motors	1
+world war II precedent	u.s	1
+world-class economy	u.s	1
+world's most significant emitter	u.s	1
+world's senior economist	u.s. s john kenneth galbraith	1
+actual economy	u.s.	1
+advance modem society	u.s.a.	1
+advanced military	u.s	2
+affluent consumer society	u.s.	1
+affluent, mostly urban country	u.s.	1
+aggressive power	u.s	1
+anglo society	u.s.	2
+aquatic bladderwort	u. gibba	1
+art investment firm	u.k.-based fine art fund	1
+australia country	u.s	1
+auto-saturated country	u.s.	1
+basel country	u.s.	1
+basically bankrupt country	u.s.a.	1
+bellicose government policy	u.s.-sponsored merida initiative	3
+Big 3PLs	u.k.-based exel	1
+bilateral engagement	u.s.-pakistan joint working group	1
+bilateral link	u.s.-japan investment dialogue	1
+bilateral security arrangement	u.s.-japan treaty	1
+binational or multinational organization	u.s.-mexico border health commission	1
+blues-infused rock icon	u.k. s rolling stones	1
+bomb package	u.s.-bound printer discovered on a plane in dubai	1
+bread-and-butter pro-israel issue	u.s.-israel military relationship	1
+brooding species	u. felina	1
+bse-free country	u.s.	1
+campus favorite	u. of i. mainstays adam schmitt	1
+canada's main competitor	u.s	1
+cancerian state	u.s.	1
+capitalistic democratic society	u.s.	1
+centripetal system	u.s.	1
+check-oriented market	u.s.	1
+cold war leftover	u.s.-made m- sixteen 	1
+commercial satellite company	u.s. commercial satellite company	1
+commercial stearic acid product	u.s.p. stearic acid	1
+competitive electricity market	u.s	1
+competitive provider market	u.s.	1
+compliance carbon market	u.s.	1
+condition many country	u.s	1
+consultative relationship	u.s.-saudi joint economic commission	1
+consumer-advocate campaigner	u.k.-based campaign for digital rights	1
+content frame	u. s. relations with native americans	1
+conversely inegalitarian society	u.s.	1
+cou n try	u.s	1
+counter-drug policy	u.s.-colombian plan colombia	1
+decent nation	u.s	1
+developed industrial society	u.s.	1
+developedflnancial market	u.s.	1
+diversified culture	u.s.	1
+E.U. member country	u.k.	1
+group	u.n.	2
+group	u.k. s knights of st. fantomy	2
+group	u.s.-based conservative cooler heads coalition	1
+group	u.n. s office for the coordination of humanitarian affairs	1
+group	u.s. business group	1
+emergency liquidity facility	u.s. emergency liquidity facility	1
+european clothing company	u.k. s boxfresh	1
+european elm	u. laevis	1
+exceptional corporation	u. s. west	1
+exempt parcel	u. s. forest service	1
+ext ernal actor	u.s	1
+Extraordinary swimmer	u.s olympic michael phelps	1
+famous research & instructional institute	u.s maths teachers association & u.k royal institute	1
+fast paced, monochronictime culture	u.s.	1
+FDI source country	u.s	2
+federal or composite state	u.s.a.	1
+federalist political system	u.s.	1
+federalist state	u.s.	1
+fence-sitting country	u.k.	1
+financedriven economy	u.s.	1
+financially better-off country	u.s.	1
+food surplus country	u.s.	1
+free trade critic	u.s business	1
+future-oriented society	u.s.	1
+geopolitically-motivated donor	u.s	1
+guiding agency	u.k. s national institute for health	1
+Hashem Moniri International institution	u.n and eu	1
+heavily political environment	u.s.	1
+heavy meat-consuming country	u.s	2
+higher-cost developed economy	u.s	2
+high-productivity economy	u.s.	1
+high-trust country	u.k.	1
+high-wage count ry	u.s	1
+historically large emitter	u.s	1
+huge, unstable system	u.s.a	1
+humane country	u.s	1
+humanitarian-oriented treaty	u.n. s drinking water millennium development goals	2
+IAEA member state	u.s	1
+ignorant, uncivilized, backwater country	u.k	1
+immigration-based country	u.s	1
+imperialist-dominated organization	u.n.	1
+Ina patriarchal society	u.s.	1
+individual-focused culture	u.s.	1
+industrial market economy	u.s.	1
+group	u. s. secret service	1
+group	u.k.-based reproductive healthcare organization	1
+group	u.s. s weather underground	1
+group	u.s. hate group	1
+group	u.s.-based tech worker group	1
+group	u.s. trade group	1
+group	u. s. group	1
+group	u.n	1
+group	u.s. sectarian group	1
+group	u.s. private-equity group	1
+group	u.s.-china business council	1
+group	u.s.-sponsored detection committee	1
+group	u.s.-based conservation group	1
+group	u.s. medium group	1
+group	u.s. executive	1
+group	u.s. environmental group	1
+influential and substantially important country	u.s.	1
+informatively efficient market	u.s security market	1
+internass tional major power	u.s	1
+international nongovernmental election observer organization	u.s.-based national democratic institute	1
+international-currency country	u.s.	2
+ivory tower	u. chi	1
+key grain-growing nation	u.s.	1
+key sale market	u.s.	1
+key western european market	u.k.	1
+large heterogeneous economy	u.s.	2
+large home market country	u.s.	1
+large, intellectual property-exporting country	u.s.	1
+large, multi-lateral organization	u.n	1
+leading coffee company	u.s.-based sara lee	1
+local-elected official	u. s. senator reid	1
+low pathogen environment	u.s.	1
+low-demand, high-unemployment economy	u.s.	2
+low-fuel-cost country	u.s.	1
+low-risk ICC area	u.s.	1
+low-risk nation	u.s.	1
+major festival	u.s. playing major festival	1
+martyn cook key customer	u.s coast guard	1
+mature affluent economy	u.s	1
+mature payment market	u.s.	1
+mature private economy	u.s.	1
+mature tobacco market	u.s	1
+meat-eating country	u.s.	4
+merit-based society	u.s.	1
+metropolitan nation	u.s.a	1
+microingredient system	u. s.  four 	1
+military pursuit	u.s. military pursuit	1
+mistake inferior elm	u. pumila	1
+mixed medical economy	u.s.	1
+modern liberal state	u.s.	1
+modern national power	u.s.	1
+mortgage offering	u.s.-based lending tree	1
+most-mature economy	u.s.	1
+multibillion-dollar giant corporation	u.s rubber	1
+multilateral aid-giving agency	u.n	1
+national border	u.s.-mexican border	2
+national nuclear strategy	u.s. single integrated operations plan	1
+national rule organization	u. s. sail	1
+national security regulation	u.s. s international traffic in arms regulations	1
+non-british country	u.s.	1
+non-defensive setting	u.n.-authorized humanitarian intervention in haiti	1
+non-majority muslim nation	u.s.	1
+non-profit service establishment	u.s.o	1
+noodle product	u. k	1
+novel ists	u.s. novel ists	1
+official insurance agency	u.s. s opic	1
+ofthe world's largest developed economy	u.s.	1
+optional XMOTOS accessory	u.s.d fork	2
+outsider system	u.s	1
+parliamentary exchange program	u.s.-japan parliamentary exchange	1
+pipeline route	u.s.-supported east-west pipeline route	1
+politically diverse country	u.s	1
+popular currency pair	u.s dollar	1
+potato chip maker	u.s.-based terra foods	1
+potential bilateral or regional agreement	u.s.-chile free trade agreement	1
+powerhouse football school	u.c.l.a.	1
+private biomedical funding group	u.k. s wellcome trust	2
+privileged institution	u. chicago	1
+promotion organization	u.s. democracy promotion organization	1
+reactionary country	u.s.	1
+real basketball team	u. of memphis tigers	1
+regime power	u.k	1
+religiously mixed state	u.s.	1
+reprocessing facility	u.k. s barnwell	1
+reserve component	u.s. military's reserve component	1
+revolution many country	u.k	1
+rich, already overfed country	u.s.	1
+richest and most market-oriented economy	u.s.	1
+robust aroma	u.s.-grown cascade	1
+safe-haven destination	u.s	1
+safest bond	u.s.-backed bond	1
+school bus	u.s. school bus	1
+method	u.v. irradiation	1
+sharp contrast nation	u.k	2
+Sheet-like species	u. lactuca	1
+shoulder-fired heat-seeking missile	u.s.-made stinger	1
+simply healthcare business	u. s. academia regarding pediatrics	1
+single donor nation	u.s.	1
+slave nation	u.s.	1
+slow-growing developed country	u.k.	1
+small power distance educational environment	u.s.	1
+sovereign power	u.s	1
+stable photoinitiator free polymerizable composition	u.v.-curable ink	1
+stable, long-term institution	u.s.-mexico international boundary	1
+standard print audience measure	u.s. simmons	1
+state-backed international governance agency	u.n.	1
+stock market-based economy	u.s	1
+stratified class society	u.s.	1
+strong influencial power	u.s	1
+submarine museum	u.s.s.ling in hackensack	1
+suggestion hat nuclear nation	u.s	1
+tech consultant	u.s. tech consultant	1
+technologically sophisticated nation	u.s.	2
+third, international organization	u.n	1
+time important jurisdiction	u.s.	1
+trade-deficit nation	u.s.	1
+traditional economic market	u.s.	1
+treaty monitoring body	u.n. treaty monitoring body	1
+trench coat	u.s.a. trench coat	1
+true market economy	u.s	1
+universalist country	u.s	1
+tool	u.s.-canada border wait time	1
+VISX laser treatment system	u.s.	1
+voice portal company	u.s.-based tellme networks	1
+VTHL vehicle	u.s. s x- thirty-three 	1
+warmongering country	u.s.	1
+wealthy and stable economy	u.s	1
+well-regulated market	u.k.	1
+well-screened population	u.s.	1
+well-to-do country	u.s	1
+western civilised country	u.k.	1
+western international location	u.s.	1
+western liberal culture	u.s.	1
+wheat market	u.s.	1
+white male supremacist society	u.s.	1
+World super-powers	u.s.a	1
+year ago backward society	u.s.	1
+year external source	u.s.news & world report	1
+yellow fiber	u. s. rubber company's hot property lastex	1
+tool	u.s. librarian' tool	1
+project	u.s embassy in panama	1
+project	u.va. construction project	1
+artist	u.n.l.v.	2
+artist	u.s. pop artist	1
+place	u.s.	19
+place	u.s	12
+place	u.k.	10
+place	u.k	3
+place	u.s.-mexico border region	1
+place	u.a.e	1
+place	u.s.a.	1
+place	u.s.s.r.	1
+player	u.s. s jozy altidore	2
+player	u.s.	2
+player	u.s. national team player	1
+player	u.s. cellular player	1
+player	u.s. team's younger player	1
+player	u.s. regional player	1
+technology	u.f.o	1
+technology	u.s. intelligence technology	1
+product	u.v. light	2
+system	u.s.	3
+system	u.s. financial system	1
+system	u.k.	1
+system	u.s	1
+system	u. int'l l. rev. system	1
+system	u.s. electro-optical system	1
+system	u.s. public school system	1
+system	u.s. government-funded health-care system	1
+system	u.s. health system	1
+system	u.s. man-portable air defense system	1
+species	u. intermedia	1
+species	u. purpurea	1
+species	u. ocellata ornata	1
+measure	u.s. unilateral measure	1
+element	u.v. coating	1
+product	u.v. lighting	1
+product	u. s.	1
+variable	u.s. born vs. non-u.s. born latinos	1
+device	u. s. pat	1
+device	u.v. light electrocution trap	1
+brand	u.s. famous rice brand	1
+brand	u.s. sparkling-wine brand	1
+brand	u.k. so brand	1
+brand	u.s.-based international brand	1
+component	u.v. stabilizer	3
+component	u.v. sterilizer	1
+component	u.s. military's reserve component	1
+site	u.s. social networking site	1
+site	u.s. game site	1
+site	u.s. online new site	1
+site	u.s. s bankrate	1
+site	u.s. social-networking site	1

@@ -1,0 +1,320 @@
+facility	qwerty keyboard sliding model equipped trackball	1
+game	qwerty warriors	1
+exception	qwerty keyboard	1
+client	qwest communications	2
+client	qwest	1
+client	qwest government services	1
+feature	qwerty keyboard	34
+feature	qwerty keypad	8
+course	qwc's the novel	1
+book	qwerty stevens	1
+structure	qwest center omaha	1
+venue	qwest center	1
+firm	qwest	7
+firm	qwest communications	1
+industry	qwest	1
+individual	qwest communication's director of risk management	1
+feature	qwerty keymat	1
+feature	qwerty based launching	1
+partner	qwest communications	2
+partner	qwilfish	1
+partner	qwest	1
+advanced feature	qwerty keyboard	2
+advanced feature	qwerty keypad	1
+customer	qwest	2
+feature	qwerty keyboard comfort	1
+provider	qwest	10
+provider	qwest communications	1
+competitor	qwest	2
+competitor	qwest communications	1
+corporation	qwest communications	4
+corporation	qwest	2
+line	qwerty keyboard for text	1
+issue	qwest field north lot	1
+service provider	qwest	5
+supplier	qwest communications	1
+essential	qwerty keyboard for email purpose	1
+scientist	qwi xux	1
+top brand	qwik tune	1
+operator	qwest	3
+network	qwest	1
+station	qwaqwa radio	2
+account	qwest	1
+large company	qwest	2
+sponsor	qwest	1
+carrier	qwest	16
+carrier	qwest communications	2
+great feature	qwerty keyboard	1
+rival	qwest communications	1
+industry leader	qwest	1
+industry leader	qwest communications	1
+specification	qwerty keyboard	1
+tenant	qwest communications	1
+move	qwerty kick	1
+framework	qwave	1
+opponent	qwest's utah president	1
+big company	qwest communications	1
+big company	qwest	1
+large organization	qwest	1
+large corporation	qwest	1
+phone	qwerty keyboard phone	1
+phone	qwerty mobile phone	1
+variant	qwertz	1
+interesting feature	qwerty keyboard	1
+trigger	qwerty open	1
+well-known company	qwest	1
+basic necessity	qwerty keyboard	1
+leading company	qwest communications	1
+cool feature	qwerty keyboard	1
+cool feature	qwerty keyboard for texting	1
+input device	qwerty keyboard	2
+rapper	qweezy reed	1
+recording artist	qwest recording artist the legendary quincy jones	2
+spec	qwerty keypad	1
+Pokemon	qwilfish	6
+difficult issue	qwest center funding	1
+excellent feature	qwerty keypad	1
+national brand	qwest communications	1
+powerhouse	qwest	1
+U.S. company	qwest	1
+U.S. company	qwest communications	1
+technology company	qwest	1
+corporate sponsor	qwest	1
+startups	qwest	1
+exciting feature	qwerty keyboard	1
+holding	qwest	1
+area	qwest	1
+private entity	qwest	1
+mobile phone	qwerty mobile phone	1
+scandal	qwest accounting fraud	1
+utility company	qwest	2
+internet service provider	qwest	2
+area	qwara	1
+start-ups	qwest	2
+start-ups	qwaq inc.	1
+issuer	qwest	1
+key account	qwest communications	1
+helpful feature	qwerty keypad	1
+computer skill	qwerty keyboarding	1
+strategy game	qwirkle	1
+factor	qw number	1
+service	qwest	1
+share	qweb	1
+local employer	qwest communications	1
+telecommunication company	qwest	4
+telecommunication company	qwest communications	1
+high-tech company	qwest	1
+biggie	qwest	1
+awesome feature	qwerty keyboard	1
+password	qwerty one thousand two hundred and thirty-four 	1
+conventional technology	qwerty keyboard	1
+virtual world	qwaq forums	1
+high-tech feature	qwerty keyboard	1
+giant company	qwest	1
+cable company	qwest	3
+keyboard	qwerty keyboard	4
+keyboard	qwerty keyboard for use in a computer system	1
+phone feature	qwerty keys	2
+calculator	qwerty keyboard calculator	1
+fantastic feature	qwerty keyboard for easy typing	1
+reputed organization	qwest communications	1
+best feature	qwerty keypad	1
+best feature	qwerty keyboard	1
+technology leader	qwest communications	1
+regional carrier	qwest	1
+phone company	qwest	2
+phone company	qwest communications	1
+well-known firm	qwest	1
+telecom company	qwest	3
+telecom company	qwest communications international	1
+network provider	qwest	2
+internet provider	qwest	1
+world class company	qwest communications	2
+convention center	qwest field	1
+today company	qwest	1
+fabulous feature	qwerty keyboard	1
+infrastructure provider	qwest	1
+large carrier	qwest	1
+local provider	qwest	1
+voip provider	qwest	1
+company	qwest	52
+company	qwest communications	13
+company	qwest communications international	4
+telephone company	qwest	1
+large provider	qwest	1
+well-known case	qwerty keyboard	1
+ad agency	qwest records	1
+extraordinary feature	qwerty keyboard	1
+smart company	qwest	1
+DSL provider	qwest	4
+DSL provider	qwest internet	1
+regional operator	qwest communications international inc q.n	1
+top carrier	qwest	1
+gambling activity	qwhenaskedabout small-scale gambling activity	1
+edge feature	qwerty keyboard	1
+big tournament	qw	1
+large service provider	qwest	1
+activity	qwik cricket	1
+activity	qwl campaign	1
+activity	qwhenaskedabout small-scale gambling activity	1
+telecommunication carrier	qwest	1
+blackberry feature	qwerty keypad	2
+telecom firm	qwest communications	1
+local phone company	qwest	1
+telecom provider	qwest	1
+traditional prop	qwerty keyboard	1
+cell phone carrier	qwest	1
+keyboard layout	qwerty	1
+long distance carrier	qwest	2
+long distance carrier	qwest communications	2
+long distance carrier	qwest communications international	1
+common lead	qwilfish	1
+conventional control	qwerty keyboard	1
+bell	qwest communications international	1
+large advertiser	qwest	1
+company executive	qwest's former ceo	1
+telecoms	qwest	1
+Water-types	qwilfish	1
+sound company	qwest wireless	1
+entertainment client	qwest records	1
+long-distance carrier	qwest communications international	1
+ILECs	qwest	1
+incumbent local exchange carrier	qwest	2
+pretty good feature	qwerty keyboard	1
+regional provider	qwest	1
+interexchange carrier	qwest	1
+LECs	qwest	1
+large companys	qwest telecom	1
+large telecom company	qwest communications	1
+television sponsor	qwest	1
+traditional phone company	qwest communications in arizona	1
+backbone provider	qwest communications	1
+communication firm	qwest communications	1
+baby bell	qwest communications international	1
+conventional company	qwest	1
+external search engine	qwika	1
+fast typing game	qwerty warriors  two  & the essay 	1
+leading telecommunication service provider	qwest	1
+regional bell operating company	qwest	1
+remote terminal	qwest dslam hotel	1
+top tier provider	qwest	1
+Blog aggregators	qwaider planet	1
+character sequence	qwerty	1
+dominant firm	qwest	1
+emerging carrier	qwest	2
+emerging next-generation carrier	qwest	1
+full laxest feature	qwerty keyboard	1
+highest quality service provider	qwest	1
+hybrid provider	qwest	2
+keypad	qwerty keypad	1
+NASDAQ company	qwest	1
+reference laboratory	qwest	1
+rival phone	qwerty-boasting samsung galaxy pro	1
+text mode	qwerty mode	1
+broadband company	qwest	2
+currently local phone company	qwest	1
+data-centric company	qwest	2
+exciting display feature	qwerty keyboard	1
+high end phone feature	qwerty key pad system	1
+high growth technology company	qwest communications	1
+large and healthy company	qwest	1
+large technology corporation	qwest communications	1
+large telephone company	qwest international communications inc.	1
+next-generation company	qwest	1
+omaha attraction	qwest center	1
+organization	qwest	1
+organization	qwest communications	1
+seattle area	qwest field	1
+Transit ISPsmodeltheTier-1 ISPs	qwest	1
+Transit ISPsmodeltheTier-1 ISPs	qwestand global crossing	1
+wholesale communication provider	qwest communications	1
+amino acid sequence	qw	1
+backbone network operator	qwest	1
+big phone company	qwest	1
+collaborative world	qwak	1
+common keyboard sequence	qwertyt	1
+dedicated offline mail reader program	qwk	1
+generation service provider	qwest	1
+keyboard pattern	qwertyui	3
+large telecommunication provider	qwest	1
+application	qwerty keyboard	3
+offline mail system	qwk	1
+physical rain sweeper	qwilfish	1
+qwt class	qwtslider	1
+qwt class	qwtdial	1
+qwt class	qwtknob	1
+reason telephone company	qwest corporation	1
+reputable internet service provider	qwest broadband internet	1
+seattle washington attraction	qwest field	1
+tn3270 client	qws three thousand two hundred and seventy 	1
+wireline provider	qwest	1
+ADSL provider	qwest	1
+ambitious company	qwest	1
+character layout	qwertz	1
+code construct	qw list	1
+competitive inter-exchange carrier	qwest	1
+concentric's private-label partner	qwest	1
+downtown denver corporation	qwest	1
+fledgling internet phone company	qwest communications	1
+heavy riffage & groovage	qwotsa	1
+internet network provider	qwest	1
+name	qwest	1
+case	qwest communications	2
+case	qwest	2
+national long distance carrier	qwest	1
+new-age carrier	qwest	1
+new-generation carrier	qwest	1
+next-generation telephone carrier	qwest	1
+non-foreign language character layout	qwerty	1
+regional U. S. phone company	qwest	1
+simple sequence	qwerty	1
+standard english-language keyboard arrangement	qwertz	2
+standardized keyboard	qwerty keyboard	1
+traditional telecom company	qwest	1
+traditional telecommunication provider	qwest corporation	1
+zephion's circuit provider	qwest	1
+option	qwest	1
+big net-work service provider	qwest	1
+carefully thought-out feature	qwerty keyboard	1
+colorado firm	qwest	1
+competitive interexchange carrier	qwest	2
+crisis-stricken carrier	qwest	1
+email-friendly feature	qwerty keyboard	1
+enterprise-application asp	qwest cyber solutions llc	1
+facilities-based long distance provider	qwest	2
+full character set keyboard	qwerty keyboard	2
+Global startups	qwest	1
+hgcdte alternate technology	qwip	1
+landline telephone	qwest telephone	1
+large bell company	qwest in arizona	1
+large incumbent phone company	qwest	1
+large network company	qwest	1
+low dimensional medium	qw	1
+mci's competitor	qwest	1
+mis-steps	qwikster debacle	1
+net-savvy newcomer	qwest communications international	1
+night new company	qwest	1
+pure-play asp	qwest cyber.solutions inc.	1
+pure-play wireline telecom company	qwest	1
+qwest new offer	qwest bundle offer	1
+regular long distance company	qwest	1
+stand-alone independent	qwerty films	1
+standard keyboard layout	qwerty	1
+strong messaging feature	qwerty keyboard	1
+super fabulous feature	qwerty keyboard for easy typing	1
+taos broadband internet provider	qwest	1
+technologically sophisticated operator	qwest	1
+TN3270 terminal emulator	qws three thousand two hundred and seventy  from the lemon tree web site 	1
+traditional local phone company	qwest	1
+traditional phone system company	qwest	1
+Well-heeled startups	qwest	1
+place	qwest field	1
+technology	qwerty keyboard layout	1
+parameter	qw doping density	1
+parameter	qw thickness	1
+system	qwik jon	1
+element	qwerty keyboard	2
+product	qw  five thousand and four  raincoats 	1
+device	qwips	1
+device	qwerty two  keyboard 	1
+device	qwerty phone	1

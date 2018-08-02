@@ -1,0 +1,6 @@
+variation	s	1
+letter	s	1
+clothing size	s	1
+time-related suffix unit	s	4
+name	s	1
+distinctive letter	s	1

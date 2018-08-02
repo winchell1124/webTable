@@ -1,0 +1,538 @@
+product	n'applique	1
+product	n't others product	1
+accessory	n't always trust accessory	1
+source	n't trust source	1
+property	n'treportother thermodynamic property	1
+property	n'tmentionhere other important classical property	1
+benefit	n't discount other possible benefit	1
+game	n't effect  two d game 	1
+game	n't even championship game	1
+game	n't class game	1
+game	n't current game	1
+product	n't flush non-degradable product	1
+character	n't family character	1
+character	n't really own character	1
+work	n't necessarily `work' work	1
+word	n't type word	1
+word	n't captailize word	1
+situation	n't exceptional situation	1
+situation	n't there situation	1
+skill	n't bad skill	1
+institution	n't other institution	1
+institution	n't frequent classy institution	1
+change	n'tlimitedto eligibility status change	1
+change	n't be-previous   change	1
+document	n'tforgetyour personal document	1
+product	n't class product	1
+person	n't bad repulican person	1
+person	n't trust person	1
+idea	n't patent idea	1
+idea	n't sappy idea	1
+idea	n't present idea	1
+object	n't dry large object	1
+theme	n's final battle theme	1
+symptom	n't many andropausal symptom	1
+location	n't own location	1
+solution	n't there other solution	1
+star	n't many star	1
+structure	n'diass structure	1
+procedure	n't usually complete invasive procedure	1
+band	n'sync	2
+band	n't book bro magnet band	1
+part	n't there other part	1
+school	n't big school	1
+amenity	n't basic room amenity	1
+food	n't only spanish food	1
+food	n'tincludetheusual diet food	1
+title	n't request  four mation title 	1
+plant	n't plant deep-rooted plant	1
+feature	n't suit big feature	1
+type	n't luxury type	1
+city	n'djamena	2
+city	n't just tree-hugger city	1
+city	n't major city	1
+venue	n't neglect online-but-location-oriented venue	1
+town	n'djamena	1
+town	n't large border town	1
+industry	n't other service industry	1
+favorite	n't worry-old   favorite	1
+favorite	n't really rate ps two  favorite 	1
+instrument	n't enough financial instrument	1
+act	n'sync	1
+man	n't many big man	1
+attribute	n't there certain attribute	1
+publication	n't other publication	1
+setting	n't frob setting	1
+position	n't easy, position	1
+figure	n't interview prominent figure	1
+figure	n'tforgetthe introductory figure	1
+figure	n't prominent figure	1
+equipment	n't abuse equipment	1
+expense	n't there additional expense	1
+movie	n't outrightly reference superhero movie	1
+song	n's final battle theme	1
+team	n't neglect hot team	1
+entity	n't various legal entity	1
+country	n't there country	1
+country	n't border landlocked country	1
+country	n't necessrly mean other country	1
+country	n't industrial country	1
+country	n't other colonial country	1
+style	n't overuse character style	1
+feature	n't neglect generally popular feature	1
+concern	n't real concern	1
+variety	n't plant susceptible variety	1
+animal	n't ever ship pug-nosed animal	1
+big name	n't big name	1
+show	n't many show	1
+club	n't just private country club	1
+store	n't neglect convenience store	1
+market	n't whole stock market	1
+feature	n't test telephone company-dependent feature	1
+feature	n't discount quality interior feature	1
+value	n't liberal value	1
+supply	n't store extra supply	1
+software	n't host software	1
+provider	n't easy, many provider	1
+sign	n't always external sign	1
+sign	n't there other sign	1
+retailer	n't arche supply retailer	1
+trait	n't trademark trait	1
+barrier	n't physical barrier	1
+performer	n'sync	1
+state	n't affected state	1
+state	n't strong union state	1
+state	n't just large state	1
+state	n't just hispanic-heavy state	1
+variation	n't under-value seemingly ``minor'' variation	1
+festival	n't neglect food festival	1
+language	n'tuse eurocentric language	1
+language	n'est-ce pa	1
+image	n't directly machine bitmap image	1
+line	n't neglect seldom-used line	1
+surface	n't select slippery surface	1
+algorithm	n't many scheduling algorithm	1
+car	n't drive status car	1
+tree	n't plant water-loving tree	1
+everything	n't list everything	1
+association	n't professional association	1
+teacher	n't other teacher	1
+guy	n't newspaper columnist guy	1
+paper	n't store paper	1
+vegetable	n'tforget other cruciferous vegetable	1
+issue	n't experienced issue	1
+issue	n't character issue	1
+fact	n't copyright fact	1
+politician	n't democratic politician	1
+signal	n't many paralinguistic signal	1
+time	n't there time	1
+breed	n'dama	1
+breed	n'damaand west african shorthorns	1
+breed	n'dama cattle	1
+icon	n't pop icon	1
+evidence	n't enough physical evidence	1
+creature	n'yamala of zaire	1
+creature	n't small backyard creature	1
+content	n't illegal content	1
+maker	n't law maker	1
+maker	n't other smart phone maker	1
+outlet	n't public pbs broadcast outlet	1
+outlet	n't medium outlet	1
+regulation	n't always bserve safety regulation	1
+aid	n'ttakeprescribed sleep aid	1
+newspaper	n't neglect specialty newspaper	1
+aircraft	n't pakistan's maritime aircraft	1
+candidate	n't presidential candidate	1
+street	n't there other major street	1
+expression	n't class expression	1
+tribe	n't native american tribe	1
+economist	n't free-market  economist	1
+economist	n't free-market economist	1
+heroes	n't shirtless, musclebound all-american heroes	1
+habit	n't correct unhealthy habit	1
+habit	n't quite unhealthy habit	1
+power	n't western or western-allied power	1
+large item	n's	1
+publisher	n't just pulp magazine publisher	1
+folks	n't aware folks	1
+grass	n't plant ornamental grass	1
+staff	n't cow staff	1
+house	n't discount auction house	1
+recreational activity	n't schedule child's recreational activity	1
+attack	n't terrorist attack	1
+enemy	n't even ferocious enemy	1
+enemy	n't just old enemy	1
+body	n't international body	1
+menu item	n't even access menu item	1
+delicacy	n't miss local delicacy	1
+circuit	n't overload electrical circuit	1
+consumable	n't expense normal consumable	1
+item	n't appropriate aboriginal cultural item	1
+item	n'tappropriate aboriginal cultural item	1
+medium outlet	n't medium outlet	1
+activist	n't concern activist	1
+training	n't strength endurance training	1
+well-known artist	n'sync	1
+professional association	n't professional association	1
+religion	n't just rival religion	1
+religion	n't there other religion	1
+visitor	n't numerous visitor	1
+contractor	n't other independent contractor	1
+stalwart	n't just democrat stalwart	1
+item	n't souvenir item	1
+item	n't store item	1
+invasive species	n't plant noxious, invasive species	1
+insurance company	n't collector car insurance company	1
+wood	n't normally stock ``exotic'' wood	1
+construction	n'trequire major invasive construction	1
+tune	n's theme	1
+tune	n's castle	1
+horse	n'oublie pas	1
+system parameter	n'tconsider system parameter	1
+editor	n'tforgetthatmost text editor	1
+physical barrier	n't physical barrier	1
+government	n't foreign government	1
+big event	n't big event	1
+holiday	n't national holiday	1
+fundraiser	n'awlins night	1
+stat	n't dominant-type stat	1
+invasive procedure	n't usually complete invasive procedure	1
+item	n't even access menu item	1
+item	n't cool hot item	1
+remote area	n't neglect remote area	1
+thing	n't irrational thing	1
+thing	n't neglect thing	1
+thing	n't effect thing	1
+thing	n't lifeless thing	1
+thing	n't clean thing	1
+thing	n't book thing	1
+thing	n't only important thing	1
+thing	n't ``see'' thing	1
+statement	n't simply bold key statement	1
+music	n't simply ``pretty'' music	1
+music	n't traditional critic-proof asda music	1
+minister	n't senior minister	1
+voice	n't memorably great voice	1
+chore	n't neglect chore	1
+security	n't government security	1
+prominent figure	n't interview prominent figure	1
+prominent figure	n't prominent figure	1
+financial instrument	n't enough financial instrument	1
+large object	n't dry large object	1
+service industry	n't other service industry	1
+pet	n't ever ship pug-nosed pet	1
+printer	n't really professional printer	1
+bike	n't reccomend starter bike	1
+boundary	n'tcaretoomuchfor artificial boundary	1
+feminist	n't ``radical'' feminist	1
+abbreviation	n't overuse abbreviation	1
+antagonist	n't other h two  antagonist 	1
+broadcaster	n't list unlicensed broadcaster	1
+attitude	n't neglect listing attitude	1
+combustible material	n't store combustible material	1
+currency	n'tincludethevery important european currency	1
+popular feature	n't neglect generally popular feature	1
+small company	n'lightning software	1
+adaptation	n'tforgetthatsome classic adaptation	1
+local delicacy	n't miss local delicacy	1
+tone	n't double unstable tone	1
+lady	n't many graceful old lady	1
+interior feature	n't discount quality interior feature	1
+acronym	n't trademark acronym	1
+acronym	n't overuse acronym	1
+free program	n't over-look free program	1
+maintenance	n't neglect basic home maintenance	1
+choice	n't other browser choice	1
+pain reliever	n't overuse pain reliever	1
+relic	n't worship relic	1
+weed species	n't plant weed species	1
+anime	n't reccomend anime	1
+creator	n't previous creator	1
+evil	n't social evil	1
+area	n't sample unusual area	1
+area	n't neglect remote area	1
+beauty	n't screen beauty	1
+hot item	n't cool hot item	1
+back	n't impact back	1
+immigrant	n't only immigrant	1
+reliever	n't overuse pain reliever	1
+personal document	n'tforgetyour personal document	1
+common term	n't wikilink common term	1
+prophet	n't old testament prophet	1
+text editor	n'tforgetthatmost text editor	1
+marketing method	n't neglect traditional marketing method	1
+disinfectant	n't there ``safer'' disinfectant	1
+father	n't many earlier church father	1
+physical evidence	n't enough physical evidence	1
+laptop	n't usually upgrade mainstream laptop	1
+service	n't most web-based email service	1
+service	n't just providethe classic service	1
+couple	n't non-gay couple	1
+exotic wood	n't normally stock ``exotic'' wood	1
+dynasty	n't chinese dynasty	1
+defender	n't dribble bad defender	1
+alliance	n't there natural ``alliance''	1
+poster	n't true, poster	1
+church father	n't many earlier church father	1
+legal entity	n't various legal entity	1
+service	n't there specific service	1
+terrorist	n't ``right-wing extremist terrorist''	1
+music star	n'sync	1
+ornamental grass	n't plant ornamental grass	1
+europeans	n't blood-thirsty europeans	1
+delivery	n't premium-rate delivery	1
+auction house	n't discount auction house	1
+feeder	n't bottom feeder	1
+unhealthy habit	n't quite unhealthy habit	1
+unhealthy habit	n't correct unhealthy habit	1
+thermodynamic property	n'treportother thermodynamic property	1
+room amenity	n't basic room amenity	1
+emperor	n't much emperor	1
+native american tribe	n't native american tribe	1
+marxists	n't just marxists	1
+mayor	n't just mayor	1
+bottom feeder	n't bottom feeder	1
+border town	n't large border town	1
+common program	n't even download common program	1
+heat	n't just pure heat	1
+presidential candidate	n't presidential candidate	1
+public work project	n't there public work project	1
+email service	n't most web-based email service	1
+traditional marketing method	n't neglect traditional marketing method	1
+national holiday	n't national holiday	1
+social evil	n't social evil	1
+cruciferous vegetable	n'tforget other cruciferous vegetable	1
+independent contractor	n't other independent contractor	1
+other factor	n't there other factor	1
+domestic player	n't only domestic player	1
+large state	n't just large state	1
+convenience store	n't neglect convenience store	1
+pop icon	n't pop icon	1
+cultural item	n'tappropriate aboriginal cultural item	1
+cultural item	n't appropriate aboriginal cultural item	1
+big man	n't many big man	1
+souvenir item	n't souvenir item	1
+stronghold	n't just democratic stronghold	1
+weekly	n'digo in chicago	1
+susceptible variety	n't plant susceptible variety	1
+flooring	n'tin tall cheap flooring	1
+graphic device	n't overuse graphic device	1
+cardio	n't steady state cardio	1
+other country	n't necessrly mean other country	1
+streamer	n't neglect classic streamer	1
+sleep aid	n'ttakeprescribed sleep aid	1
+charitable activity	n'sync challenge for youth	1
+stipulation	n't special stipulation	1
+diet food	n'tincludetheusual diet food	1
+terrorist attack	n't terrorist attack	1
+intensive program	n't power graphically intensive program	1
+exceptional situation	n't exceptional situation	1
+industrial country	n't industrial country	1
+payload	n't additional payload	1
+indian player	n't indian player	1
+fellow	n't list fellow	1
+retiree	n't only retiree	1
+punctuation	n't over-use punctuation	1
+scheduling algorithm	n't many scheduling algorithm	1
+slippery surface	n't select slippery surface	1
+sub	n't nuclear attack sub	1
+big school	n't big school	1
+major city	n't major city	1
+tier	n't top tier	1
+landlocked country	n't border landlocked country	1
+others product	n't others product	1
+stove	n't high end stove	1
+senior minister	n't senior minister	1
+company	n't collector car insurance company	1
+company	n't vendor company	1
+deep-rooted plant	n't plant deep-rooted plant	1
+horror	n't parody horror	1
+minor variation	n't under-value seemingly ``minor'' variation	1
+external sign	n't always external sign	1
+exciting player	n't exciting player	1
+new organization	n't there other new organization	1
+family restaurant	n'awlins crab house	1
+electrical circuit	n't overload electrical circuit	1
+glassware	n't heat heavy non-pyrex glassware	1
+country club	n't just private country club	1
+company	n't trust company	1
+misconduct	n't really serious prosecutorial misconduct	1
+radical feminist	n't ``radical'' feminist	1
+international body	n't international body	1
+car insurance company	n't collector car insurance company	1
+elitist	n't liberal elitist	1
+hangout	n't plant notorious squirrel hangout	1
+varnish	n't artist's varnish	1
+star performer	n'sync & britney spears	1
+boy band	n'sync	1
+bamboo	n't plant non-grass bamboo	1
+bitmap image	n't directly machine bitmap image	1
+character issue	n't character issue	1
+classic service	n't just providethe classic service	1
+teen idol	n'sync	1
+european currency	n'tincludethevery important european currency	1
+status change	n'tlimitedto eligibility status change	1
+african writer	n'gugi wa thiongo	1
+magazine publisher	n't just pulp magazine publisher	1
+safety regulation	n't always bserve safety regulation	1
+superhero movie	n't outrightly reference superhero movie	1
+abstract artist	n't abstract artist	1
+liberal value	n't liberal value	1
+major brand	n't major brand	1
+detection	n't even small detection	1
+manipulator	n't other currency manipulator	1
+pioneering artist	n't pioneering artist	1
+unusual area	n't sample unusual area	1
+combatant	n't other enemy combatant	1
+democratic politician	n't democratic politician	1
+democratic stronghold	n't just democratic stronghold	1
+frequent site	n't frequent site	1
+illegal content	n't illegal content	1
+consumer site	n't discount consumer site	1
+droids	n't even smart droids	1
+activity	n't typically associate activity	1
+activity	n't schedule child's recreational activity	1
+food festival	n't neglect food festival	1
+government security	n't government security	1
+musical figure	n'sync	1
+2d game	n't effect  two d game 	1
+endurance training	n't strength endurance training	1
+artificial boundary	n'tcaretoomuchfor artificial boundary	1
+big feature	n't suit big feature	1
+colonial country	n't other colonial country	1
+water-loving tree	n't plant water-loving tree	1
+union state	n't strong union state	1
+information	n't only nonmedical information	1
+class game	n't class game	1
+encyclopaedia	n't child's encyclopaedia	1
+vendor company	n't vendor company	1
+abrasive method	n't use abrasive method	1
+automaton	n't cellular automaton	1
+free-market economist	n't free-market  economist	1
+free-market economist	n't free-market economist	1
+love	n't there perfect love	1
+real concern	n't real concern	1
+spanish food	n't only spanish food	1
+emphasis	n't overuse emphasis	1
+normal consumable	n't expense normal consumable	1
+information	n't list important information	1
+web-based email service	n't most web-based email service	1
+h2 antagonist	n't other h two  antagonist 	1
+snare	n't traditional snare	1
+character style	n't overuse character style	1
+large border town	n't large border town	1
+non-degradable product	n't flush non-degradable product	1
+specific service	n't there specific service	1
+trust company	n't trust company	1
+chinese dynasty	n't chinese dynasty	1
+decompression program	n't other decompression program	1
+home maintenance	n't neglect basic home maintenance	1
+program	n't power graphically intensive program	1
+program	n't even download common program	1
+store item	n't store item	1
+basic room amenity	n't basic room amenity	1
+nifty option	n't nifty option	1
+program	n't other decompression program	1
+program	n't over-look free program	1
+additional expense	n't there additional expense	1
+stellar artist	n'sync	1
+surf site	n't surf site	1
+accent element	n't accent element	1
+cellular automaton	n't cellular automaton	1
+championship game	n't even championship game	1
+collector car insurance company	n't collector car insurance company	1
+foreign government	n't foreign government	1
+other institution	n't other institution	1
+screen beauty	n't screen beauty	1
+enemy combatant	n't other enemy combatant	1
+important information	n't list important information	1
+major street	n't there other major street	1
+organization	n't there other new organization	1
+pug-nosed animal	n't ever ship pug-nosed animal	1
+specialty newspaper	n't neglect specialty newspaper	1
+steady state cardio	n't steady state cardio	1
+strong union state	n't strong union state	1
+law maker	n't law maker	1
+name name	n't many name name	1
+smart phone maker	n't other smart phone maker	1
+thumb	n't enough thumb	1
+top tier	n't top tier	1
+affected state	n't affected state	1
+all-american heroes	n't shirtless, musclebound all-american heroes	1
+backyard creature	n't small backyard creature	1
+Boy Bands	n'sync	1
+name	n't big name	1
+name	n't buttume name	1
+download tool	n't even download tool	1
+eastern place	n't exempt eastern place	1
+effect thing	n't effect thing	1
+name	n'zogbia	1
+name	n't many name name	1
+hot team	n't neglect hot team	1
+introductory figure	n'tforgetthe introductory figure	1
+liberal elitist	n't liberal elitist	1
+quality interior feature	n't discount quality interior feature	1
+rival religion	n't just rival religion	1
+scorpios	n't trust scorpios	1
+see thing	n't ``see'' thing	1
+african bos taurus cattle breed	n'dama	1
+option	n't really option	1
+option	n't many option	1
+option	n't nifty option	1
+browser choice	n't other browser choice	1
+culture's youth pop star	n'sync	1
+e-mail network	n't even e-mail network	1
+high end stove	n't high end stove	1
+high-ticket component	n't many high-ticket component	1
+group	n'twantsome tsa other group	1
+irrational thing	n't irrational thing	1
+ivorian student	n'guessan	1
+just group	n't just group	1
+lifeless thing	n't lifeless thing	1
+neglect hot team	n't neglect hot team	1
+group	n't just group	1
+method	n't neglect traditional marketing method	1
+method	n't use abrasive method	1
+perfect love	n't there perfect love	1
+religious artist	n't neglect iconoclastic religious artist	1
+trust source	n't trust source	1
+trypanotolerant animal	n'dama	1
+Trypanotolerant livestock	n'dama cattle	1
+unavoidable	n't something ``unavoidable''	1
+tool	n't even download tool	1
+factor	n't there other factor	1
+project	n't there public work project	1
+project	n't other open source project	1
+artist	n'sync	8
+artist	n't pioneering artist	1
+artist	n't neglect iconoclastic religious artist	1
+artist	n't abstract artist	1
+artist	n'dour	1
+material	n't plant invasive material	1
+material	n't store combustible material	1
+place	n't exempt eastern place	1
+player	n't only hard disk player	1
+player	n't only domestic player	1
+player	n't exciting player	1
+player	n't indian player	1
+player	n'gog	1
+player	n't many player	1
+technology	n't there technology	1
+term	n't wikilink common term	1
+parameter	n'tconsider system parameter	1
+system	n't alike blow system	1
+species	n't plant noxious, invasive species	1
+species	n't plant weed species	1
+measure	n't rate life-support measure	1
+element	n't accent element	1
+device	n't only device	1
+device	n't overuse graphic device	1
+brand	n't major brand	1
+component	n't enough sim component	1
+component	n't many high-ticket component	1
+site	n't frequent site	1
+site	n't frequent digital distribution site	1
+site	n't other offshore drilling site	1
+site	n't discount consumer site	1
+site	n't surf site	1
+task	n't just age-old task	1

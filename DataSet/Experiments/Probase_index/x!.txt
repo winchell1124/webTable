@@ -1,0 +1,7 @@
+algorithm	x!tandem	1
+search tool	x!tandem	2
+technique	x!ray	1
+database search algorithm	x!tandem	1
+widely-used interpretation program	x!tandem	2
+open-source algorithm	x!tandem	1
+heuristic program	x!tandem	2

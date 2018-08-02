@@ -1,0 +1,597 @@
+product	bnc connector jack related product	1
+product	bnc connector plug related product	1
+product	bnc related product	1
+accessory	bnc cable	2
+accessory	bnc connector	1
+resource	bnc	2
+resource	bnet	1
+resource	bni	1
+facility	bnct cancer treatment center at petten	1
+institution	bnp paribas sa	1
+institution	bny mellon on large scale deal	1
+institution	bnp paribas	1
+client	bnp paribas	7
+client	bna	1
+client	bny mellon & state street	1
+client	bnsf railway company	1
+client	bnp paribas on climate change regulation	1
+client	bnp	1
+client	bnfl	1
+idea	bnsf line along the  ninety-one 	1
+course	bn	1
+amenity	bn magellan feature world-class amenity	1
+operation	bny mellon fund boutique operation	1
+operation	bnp's red	1
+agent	bnp withavasodilating agent	1
+city	bnei brak	1
+city	bnei barak	1
+firm	bnp paribas	8
+firm	bny mellon	2
+firm	bnp paribas sa	1
+firm	bny mellon asset management	1
+compound	bn	1
+class	bnode	1
+website	bnd	1
+purpose	bnet command	1
+partner	bna	2
+partner	bnp paribas	1
+animal	bnk rat	1
+big name	bnp paribas	2
+club	bno	1
+club	bnei akiva	1
+club	bnei yehuda	1
+vendor	bna software	1
+customer	bnp paribas	4
+customer	bnz	2
+label	bne	1
+award	bng-literature award	1
+disorder	bn	2
+party	bnp	15
+party	bnp standing	1
+party	bnp feed on hatred	1
+party	bnp in the uk	1
+party	bn political party	1
+competitor	bnp paribas sa	3
+competitor	bny mellon	2
+corporation	bnp paribas	2
+driver	bnx two  network driver 	1
+university	bnu	1
+bank	bnp paribas	30
+bank	bnp	7
+bank	bnz	5
+bank	bni	2
+bank	bny mellon	1
+bank	bns	1
+bank	bnp paribas private bank	1
+bank	bnp parisbas	1
+bank	bndes	1
+employer	bnl	1
+fund	bnp paribas dividend yield	2
+NGOs	bnhs	1
+gene	bnip three 	2
+rival	bny mellon	1
+community organization	bni	3
+community organization	bni business builders	1
+enterprise	bnsf railway	1
+family	bnei menashe	2
+financial institution	bnp paribas	4
+gadget	bn's nook color tablet	2
+route	bnsf scenic	1
+big company	bnp paribas	2
+local group	bni	2
+enemy	bnp on the outside	1
+member	bn selangor pac member	1
+international company	bnp paribas	1
+supporter	bnp	1
+lender	bnp paribas	1
+major	bnp paribas	1
+big player	bnp paribas	1
+contractor	bnb	1
+search engine	bnet	1
+intermediary	bnp paribas	1
+achievement	bnpp for regional gender capacity building	1
+big brand	bnp paribas fortis	1
+designation	bno	1
+lubricant	bn	1
+large event	bn fun jumps	2
+neighbor	bnz	1
+union	bnp union	1
+loan	bnd deal loan	1
+global company	bnp paribas	1
+thing	bn politic, thing	1
+mall	bnz centre	1
+political party	bnp	8
+political party	bn political party	1
+corporate client	bnp paribas	1
+subsidiary	bnbm homes co.	1
+connector	bnc	4
+connector	bnc connectors	2
+connector	bnc t-connector	1
+connector	bnc barrel connector	1
+internet site	bn.com	1
+analytical method	bn	1
+minority group	bnp	1
+biomarkers	bnp	4
+blood test	bnp	1
+grouping	bnei akiva	1
+cultural institution	bnf	1
+business group	bni	1
+global player	bnp paribas	1
+colony	bna atlantic colony	1
+large institution	bnp paribas	1
+external agency	bna	1
+multinational corporation	bnp paribas international private bank	1
+civic organization	bni business network	1
+public entity	bnsf railroad	1
+area	bnei brak	1
+medium source	bnc	1
+social organization	bnhs	1
+commission	bnz tower in queen street	1
+commission	bnz tower	1
+blue chip company	bnp paribas	1
+TV channel	bnn	1
+banking service	bnda traveller's cheque	1
+semiconductor	bn	3
+ceramic	bn	4
+international group	bnp paribas	1
+international group	bni	1
+global giant	bnp	1
+trade publication	bna's health care daily report	1
+conservation organization	bnhs	1
+popular series	bnc	2
+opposition party	bnp	2
+commercial bank	bnp paribas	1
+factor	bnp level	1
+service	bna	2
+service	bny mellon's remit worldwidesm	1
+international firm	bnp paribas	1
+semiconductor material	bn	1
+large site	bnl	1
+online database	bni	1
+telecommunication company	bnr europe	1
+investment bank	bnp	2
+investment bank	bnp paribus	1
+investment bank	bnp paribas	1
+investment bank	bng in the netherlands	1
+large customer	bnfl	1
+large bank	bnp	1
+large bank	bnp paribas	1
+service	bni	1
+local bank	bni	1
+communication application	bnu	1
+brokerage	bnp paribas	1
+famous brand name	bnp paribas	1
+refractory material	bn	1
+international bank	bnp	6
+international bank	bnp paribas	6
+community function	bni	1
+jewish organization	bnei brith romania	1
+jewish organization	bnei akiva	1
+british company	bnfl	1
+third-party vendor	bny mellon	2
+international financial institution	bnp paribas	2
+extremist	bnp	3
+administrative agency	bne	1
+jewish group	bnei akiva	3
+ancient building	bni house	1
+well-known group	bni	1
+suitable tool	bn	1
+eating disorder	bn	1
+area employer	bnsf railway	2
+minor party	bnp	3
+college course	bnd in music	1
+leading global company	bnp paribas	1
+engineering company	bnfl	1
+good quality product	bnd	1
+world-class amenity	bn magellan feature world-class amenity	1
+popular star	bna basketball star	1
+financial giant	bns	1
+online vendor	bn.com	1
+european firm	bnp paribas asset management	1
+Dispersants	bns	3
+neural network	bnn model	1
+european bank	bnp paribas	8
+european bank	bnp paribas sa	3
+european bank	bnp	2
+national laboratory	bnl	1
+company	bnp paribas	14
+company	bnfl	4
+company	bnp	3
+company	bndes	3
+company	bnk petroleum	2
+company	bnn	1
+company	bnp paribas real estate	1
+company	bny mellon	1
+company	bnp associates	1
+company	bnp paribas cisco	1
+company	bns	1
+global bank	bnp paribas	4
+global bank	bnp paribas sa	1
+respected name	bnp paribas	1
+intelligence agency	bnd	3
+non-natives	bnt	1
+security agency	bni	2
+configuration file	bnetd	1
+company	bna	1
+company	bnz	1
+company	bns nuclear	1
+bank stock	bnp paribas	1
+right-wing group	bnei akiva	2
+solid lubricant	bn	1
+fringe group	bnp	1
+synagogue	bnai yosef	1
+business network	bni	2
+non governmental organization	bnhs	2
+Organophosphates	bnpp	1
+world class event	bnp paribas tennis open	1
+financial program	bnn's market wrap	1
+company	bnl	1
+community network	bni	1
+leading publication	bnet business	2
+reputable client	bnp paribas	1
+online bookstore	bn.com for quit smoking book	1
+racist group	bnp	2
+excellent speaker	bni founder	1
+racist	bnp	1
+investment banker	bnp pribas	1
+news station	bnn	1
+public sector bank	bndes	1
+renowned customer	bnp paribas	2
+dimensional structure	bn nanotube	1
+western bank	bnp paribas	6
+large investment bank	bnp paribas	2
+minority party	bnp	2
+non-liquid asset	bnp paribasoption	1
+blue-chip stock	bnp paribas	1
+cardiac biomarkers	bnp	1
+key employer	bnfl	1
+Serum biomarkers	bnp	1
+financial house	bnp paribas	1
+large international bank	bnp paribas	3
+second-tier player	bnp paribas	1
+canada tv channel	bnn business news	3
+jack	bnc jack	3
+local business group	bni	3
+overseas bank	bnp paribas	2
+nationalist party	bnp	1
+newsgroup	bnnrc archive	1
+retail bank	bnp paribas investment bank	1
+transfer agent	bny mellon shareowner services	1
+connector type	bnc	1
+large commercial bank	bns	1
+fringe party	bnp	4
+fringe party	bnps	1
+prominent bank	bni	1
+international major	bnp paribas	1
+good group	bni	1
+canadian bank	bns	1
+extremist party	bnp	3
+Natriuretic peptides	bnp	7
+Political blogs	bnd	1
+world-leading brand	bnp paribas	3
+corpus	bnc	1
+far-right group	bnp	2
+far-right party	bnp	2
+intelligence service	bnd	1
+intelligence service	bnd & cia	1
+machine-learning method	bn	1
+radiation therapy	bnct	1
+rival group	bnp paribas	1
+state-run bank	bndes	1
+fascist group	bnp	3
+fascist organization	bnp	1
+holocaust denier	bnp leader nick griffin	1
+national and international group	bni	1
+nontraditional risk factor	bnp	1
+nuclear power plant	bnfl s sellafield plant	1
+overseas firm	bnp paribas	1
+wide bandgap semiconductor	bn	1
+boutique operation	bny mellon fund boutique operation	1
+global enterprise customer	bnp paribas	1
+large bulgarian and foreign company	bnp paribas	1
+mega-banks	bnp paribas	1
+neurohumoral factor	bnp	1
+event	bni	3
+banking major	bnp paribas	1
+far-right organization	bnp	1
+high quality tenant	bnz	1
+private broadcaster	bntv bijeljina	1
+tennis tournament	bnp paribas in indian wells	1
+Traditional biomarkers	bnp	1
+corporate website	bnd	1
+filename	bnrtbq four thousand eight hundred and fifty-six 	1
+event	bno	1
+CCTV accessory	bnc connector	2
+CCTV accessory	bnc connector s	1
+large financial firm	bnp paribas	1
+physical-chemical process	bnl	1
+cardiovascular risk marker	bnp	1
+french bank	bnp paribas	15
+french bank	bnp	1
+graduate employer	bnfl	1
+large corpora	bnc	1
+prominent employer	bnfl magnox	1
+standard cable	bnc	1
+conditional branch instruction	bne	1
+custodian bank	bny mellon	1
+generic event	bnad event	2
+global banking giant	bnp parabas	1
+high profile group	bnp	1
+program	bndes program for modernizing the agricultural vehicle fleet	1
+research environment	bnl	1
+RF connector	bnc	3
+standard connector	bnc	1
+well-known international teacher	bns iyengar	1
+western investment bank	bnp paribas	1
+blue chip global brand	bnp paribas	1
+coaxial cable connector	bnc	5
+coaxial connector	bnc	1
+interface stock standard connector	bnc	1
+legal party	bnp	2
+organiztions	bni international	1
+program	bn youth job fair	1
+refractory ceramic	bn	1
+white supremacist organization	bnp	1
+audio connector	bnc	1
+european banking giant	bnp paribas	2
+fund's service provider	bny mellon	1
+internationally client	bnp paribas	1
+large corpus	bnc	3
+multinational financial institution	bnp paribas	1
+selected government agency	bnm	1
+synchrotron source	bnl	1
+tagger	bne	1
+universal institution	bnp	2
+zionist youth movement	bnei akiva	1
+big investment company	bnp paribas securities	1
+broad fund	bnd	1
+duplication	bnn	1
+european lender	bnp paribas	1
+famed foreign investment bank	bnp paribas	2
+high-profile international finance house	bnp paribas	1
+investment banking house	bnp prime peregrine	2
+local networking group	bni	1
+mainstream international bank	bnp paribas	1
+partys	bnp	2
+pro-apoptotic bh3-only protein	bnip three 	1
+pro-apoptotic factor	bnip three 	1
+professional reporter	bna professional reporter	1
+racist party	bnp	2
+community	bnai anousim in spain	1
+community	bnei menashe of india	1
+organization	bni	12
+organization	bnp paribas	10
+organization	bnp	4
+organization	bnz	2
+Simchas	bnei mitzvah	1
+thai hospital	bnh hospital	1
+uk-wide company	bnp paribas	1
+universal banks	bnp paribas	2
+business networking meeting	bni	1
+business networking organization	bni	2
+commercial tax service	bna	1
+community green organization	bni green team	1
+organization	bnfl	1
+organization	bni in mississuaga	1
+fascist party	bnp	3
+fast neutron reactor	bn six hundred  in russia 	1
+global financial crisis foreign bank	bnp paribas	2
+I-banks	bnp paribas	1
+independent partner	bny mellon	2
+large administration company	bny mellon	1
+local and foreign bank	bnp paribas	1
+non-u.s. financial institution	bnp paribas	1
+official bank	bndes	1
+organization	bnei akiva	1
+organization	bnhs	1
+organization	bni san francisco bay	1
+promising marker	bnp	1
+radical right party	bnp	1
+RF coaxial connector s	bnc	2
+slovakian jewish youth movement	bnei akiva	1
+solidlubricants	bn	1
+third-party institution	bnp paribas	1
+top global financial firm	bnp paribas	1
+agent bank	bnp paribas	2
+Annotated reference corpora	bnc	3
+assyrian group	bndp	1
+big name agent	bns management	1
+blue chip european company	bnp paribas	1
+cable installation product	bnc	1
+consumer finance group	bnp paribas laser	2
+dangerous organization	bnp	1
+europe's top bank	bnp paribas	3
+extreme right party	bnp	2
+formal networking organization	bni	1
+global finance major	bnp paribas	1
+global financial turmoil foreign bank	bnp paribas	1
+large listed euro zone bank	bnp paribas	3
+lead group	bni in the area	1
+looseleaf service	bna	1
+mexican railroad partner	bn mexicana	1
+national development bank	bndes	1
+national development bank	bndes in brazil	1
+networking club	bni	2
+online research product	bna tax	1
+pan-european firm	bnp paribas	1
+popular bulgarian television channel	bnt  one 	1
+premium national company	bnt	1
+private sector party	bnp paribas fortis	1
+public development bank	bnde in brazil	1
+Quasi-one-dimensional boron nitride nanomaterials	bn nanotubes	1
+Quasi-one-dimensional boron nitride nanomaterials	bn nanowires	1
+Quasi-one-dimensional boron nitride nanomaterials	bn nanorods	1
+referral-generating group	bni	1
+reprocessing plant	bnfl's sellafield plant in britain	1
+RF coaxial connector	bnc	3
+small business networking group	bni	1
+standard RC plane term	bnf	1
+top door brand	bnd	1
+transcriptional response	bnip three 	1
+xany undertaking	bnsinoss conf uroncee	1
+architectural award	bna-kubus in  one thousand nine hundred and ninety-five 	1
+binding post related offer	bnc connector	1
+business oriented site	bnet	1
+name	bnp paribas	7
+centric group	bni	2
+common coaxial connector	bnc	1
+complementary security service training facility	bni training school	1
+dimensional array	bnin fig	1
+donk big bank	bni	1
+entertainment focussed show	bntm	1
+europe tier-one bank	bnp paribas	1
+european political party	bnp	1
+explicitly anti-war party	bnp	1
+external metal part	bnc connector	1
+fair few award	bnz katherine mansfield short story award	1
+name	bnp	1
+far-right movement	bnp	3
+first choice bank	bnp paribas in algeria	1
+friction-reducing material	bn	1
+good-sized owner	bnp residential properties	1
+government-backed financial institution	bndesar equity fund in brazil	1
+homogeneous neighborhood	bnei brak in central israel	1
+international referral group	bni	1
+jakks figure	bnb	1
+large and varied corpora	bnc	1
+case	bn-dg series	1
+case	bnep case discussed	1
+local economist	bnp paribas carvalho	1
+long european bank	bnp paribas	4
+marginal website	bnp	1
+membership networking group	bni	1
+national and international networking organization	bni	1
+noninvasive datum	bnp level	1
+out-and-out racist	bnp	1
+case	bnp in france	1
+case	bnp	1
+premium blend	bnj	1
+racist-fascist organization	bnp	1
+referral based networking group	bni	1
+referral club	bni	1
+referral group	bni	1
+referral networking group	bni	1
+RF connector s	bnc	1
+right-skewed datum	bnp	2
+rod-shaped fungally transmitted virus	bnyvv	1
+short european bank	bnp paribas	2
+short term political contingency	bn	1
+short-term political contingency	bn	1
+star communicator	bnsf railroad ceo matt rose	1
+case	bnc	1
+tax research tool	bna	1
+truenetworking group	bni	1
+ultra-orthodox community	bnei brak in tel aviv	1
+united state freight railroad company	bnsf railway	1
+wealth management company	bnp paribas wealth management	1
+additionally group	bnp	1
+ajoining township	bnei barak	1
+awide-ranging discussion covered issue	bnphijacking britishness	1
+option	bnc input	1
+Balanced corpora	bnc	1
+barrier terminal block related offer	bnc connector	1
+B-number information	bnt	1
+bond market ETFs	bnd	1
+business network group	bni [bni.com	1
+C., insulative nonoxide ceramic material	bn	1
+cathedral square property	bnz building	1
+certainty agency	bni	1
+database style application	bnf drug database	1
+derivative house	bnp paribas	1
+divestiture	bnc corp	1
+group	bni	31
+group	bnp	17
+group	bnp paribas	1
+established corpus resource	bnc	1
+ethnocentric movement	bnp	2
+exchange traded debt fund	bnd	1
+extreme nationalist and suspect group	bnp	1
+extreme right-wing and racist group	bnp	1
+fascist political party	bnp	1
+french lender	bnp paribas	2
+fringe right-wing party	bnp	1
+GE customer	bnsf railway	1
+generic networking organization	bni	1
+hard contact organization	bni	1
+health care press	bna health care policy report	1
+health law related reporter	bna's health law reporter	1
+group	bnct	1
+international financial service firm	bnp paribas	1
+interval constraint logic programming language	bnr prolog	3
+leading international financial intermediary	bnp paribas	1
+leading new zealand corporation	bnz	1
+light-density route	bn across western nebraska	1
+local and national networking group	bni	1
+local custodian bank	bnp paribas	1
+lowend type	bnc	1
+microspore-specific cDNA clone	bnm one  cdna clone 	1
+moronic organization	bnp	1
+national referral organization	bni	1
+Natriu retic peptides	bnp	1
+near-dock facility	bnsf's proposed scig facility	1
+neo nazi group	bnp	1
+neurohumoral datum	bnp	1
+old-fashioned business-networking group	bni	1
+outside bank	bnp paribas	1
+perenting forum	bnw	1
+peripheralparties	bnp off the list	1
+positive progressive party	bnp	1
+premium route	bne	1
+proapoptotic bh3-only protein	bnip three 	1
+probabilistic inference system	bn	1
+probabilistic or stochastic model	bn population stressor model	1
+pro-jewish group	bnp	1
+property employer	bnp paribas real estate	1
+racist and fascist organization	bnp	1
+referal network	bni	1
+regular indycar-facilitated program	bnet	1
+regular network group	bni	2
+religious stronghold	bnei brak	1
+reputable out-of-warranty motor repair workshop	bns	1
+sale lead group	bni	1
+sophisticated european bank	bnp paribas	1
+standard corpora	bnc	1
+standard corpus	bnc	1
+standard SE corpora	bnc	1
+strong contact organization	bni	1
+strong-contact referral group	bni	2
+structured business-networking meeting	bni	1
+system cable	bnc	1
+task aircraft	bn- two r mssa 	1
+tech writer	bnet's erik sherman	1
+tip group	bni	1
+token fascist group	bnp	1
+UK political fringe party	bnp	1
+uk's right wing extremist	bnp	1
+underground graffito artist	bne	2
+tool	bn management	1
+tool	bna	1
+well-capitalised french bank	bnp paribas	1
+well-capitalized french bank	bnp paribas	1
+well-established networking organization	bni	1
+wide-ranging discussion covered issue	bnp hijacking britishness	1
+wing extremist group	bnp	1
+tool	bn	1
+tool	bnd	1
+project	bnc	2
+project	bnpp	1
+project	bn apartment	1
+material	bn	4
+material	bn- two 	1
+place	bnei yehuda	1
+place	bnt	1
+place	bnei brak	1
+player	bnp paribas	1
+technology	bnr	1
+product	bna tax portfolios	1
+product	bnc	1
+term	bnc favor reactive for the former	1
+system	bn	1
+brand	bnet uk	1
+site	bnl s	1
+related product	bnc connector plug related product	1
+related product	bnc connector jack related product	1
+related product	bnc related product	1
+product	bnc connector jack related product	1
+product	bnc connector plug related product	1
+product	bnc related product	1

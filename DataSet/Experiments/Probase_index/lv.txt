@@ -1,0 +1,674 @@
+factor	lvh	3
+product	lvs	1
+product	lv high related product	1
+product	lv sor upholstery product	1
+accessory	lv twenty-five  green purgee's belt 	1
+facility	lve transformer	1
+process	lvm mirroring at the host level	1
+work	lviv chronicle	1
+characteristic	lvedd	1
+category	lv mahina leather	1
+category	lv suhali leather	1
+category	lv monogram canvas	1
+category	lv's damier canvas azur	1
+category	lv cosmos flower	1
+category	lv antheia	1
+category	lv's damier ebene canvas	1
+category	lv bag	1
+institution	lviv business school of ukrainian catholic university	1
+client	lvmh	5
+feature	lvd	3
+approach	lv angiography	1
+approach	lvq	1
+agency	lvia	1
+location	lv- four hundred and twenty-six 	1
+solution	lvl	1
+school	lvy eague school	1
+operation	lvo	1
+plant	lvivska brewery	1
+feature	lvm snapshot	1
+city	lviv	8
+city	lvov	1
+venue	lvn	1
+firm	lvmh	2
+firm	lv	1
+firm	lvnv funding	1
+job	lvn position	2
+indicator	lvh	1
+treatment	lvrs	1
+manufacturer	lvp manufacturer	1
+feature	lvd override	1
+feature	lvds system feature	1
+complication	lv failure	2
+setting	lvp	2
+class	lv orr-p-n	1
+team	lvl ninety-nine  cyber bullies 	1
+entity	lvcva	1
+building	lvac	1
+region	lviv	1
+region	lviv region	1
+format	lv two 	1
+Organisations	lvnl	1
+partner	lvmh	1
+big name	lvmh-moet hennessy louis vuitton	1
+standard	lvttl	1
+design	lv	1
+design	lvan-ralt formula	1
+label	lvc	1
+environment	lv- four hundred and twenty-six 	1
+risk factor	lvef	2
+risk factor	lv diameter	1
+designer	lv	3
+retailer	lvmh	3
+retailer	lvmh's sephora	2
+destination	lvov	1
+professional	lvn nurse	1
+brand name	lv	2
+corporation	lvmh group	1
+local tourist attraction	lviv polytechnic	1
+hotel	lv yang chun in daqing	1
+therapy	lvrs	1
+algorithm	lvq	2
+suggestion	lviv director's idea of offering sales course	1
+sport	lv taiga leather	1
+measurement	lv wall thickness	2
+measurement	lv ejection fraction	1
+measurement	lv mass	1
+issue	lv poll	1
+local attraction	lviv opera house	1
+top brand	lv	1
+sensor	lvdt	2
+large company	lvmh	1
+standard feature	lvds for flat panel display	2
+basic information	lv remodeling after mi in mice	1
+museum	lviv glass museum	1
+signal	lvttl	1
+dimension	lv internal dimension	1
+rival	lvmh	1
+industry leader	lvmh	1
+index	lvedd	1
+index	lvesd	1
+center	lv prasad in hyderabad	1
+marker	lvh	1
+giant	lvmh	1
+aircraft	lvld b seven hundred and sixty-three 	1
+name brand	lv	1
+hospital	lv prasad eye institute	1
+contributing factor	lv function	1
+metal	lv counter usually genuine metal	1
+surgical procedure	lvrs	2
+item	lv	2
+conventional method	lvdt	1
+conventional method	lv angiography	1
+conductor	lv abc	1
+installation	lv lighting	1
+international company	lvmh	2
+famous brand	lv	5
+item	lvl  thirty  grim scythe 	1
+item	lv wallet	1
+item	lvl  eighteen  ancient armor 	1
+item	lv switchgear	1
+confounding factor	lv hypertrophy into account	1
+large city	lviv	2
+great product	lv bag	2
+great product	lv cheap handbag	1
+great product	lv handbag	1
+great product	lv bags on sale	1
+great product	lv shoes for man	1
+well-known brand	lv	3
+map	lvu campus map	1
+well-known artist	lviviany music ensemble	1
+international brand	lvmh	1
+locality	lvov	1
+local factor	lv ischemia	1
+guide	lv honing guide mk ii	1
+big brand	lv	3
+insurance company	lv	1
+wood	lvl	1
+luxury item	lv damier graphite handbag	1
+luxury item	lv mahina handbag	1
+luxury item	lv epi leather handbag	1
+luxury item	lv bag	1
+tourist destination	lviv	1
+outside factor	lvl difference	1
+top name	lvmh	3
+big city	lviv	2
+detector	lvd	1
+community project	lvmh house	1
+community project	lvmh-essec chair	1
+item	lvl  two  poison trail 	1
+item	lvl  nine  blade talon 	1
+global company	lvmh group	1
+clinical parameter	lvef by echocardiography	1
+datum type	lvarbinary	1
+datum type	lvalue	1
+green	lv fourty-three  green butler's pauldrons 	1
+global brand	lvmh	1
+writing	lv's spring	1
+popular product	lv &gucci cup	1
+designer brand	lv	9
+bag	lv bag	1
+premium brand	lv	1
+leading brand	lvmh	1
+size	lv monogram mini lin croisette	2
+imaging modalities	lv angiography	1
+prognostic factor	lvi	1
+retail store	lv	1
+underlying condition	lv failure	1
+input parameter	lvm model	1
+wood product	lvl	1
+clinical datum	lvef	1
+luxury brand	lv	8
+luxury brand	lvmh	7
+abbreviation	lvf	1
+case study	lvmh in france	1
+area	lviv	1
+quantitative datum	lv volume	1
+corporate giant	lvmh	1
+clinical variable	lvef	2
+clinical variable	lv diameter	1
+clinical variable	lv ef	1
+collector	lvnv	2
+boutique	lv	1
+holding	lvmh	1
+simple device	lve simple device	1
+conglomerate	lvmh	2
+brand name product	lv	1
+research institution	lvmh group	2
+famous company	lv	1
+tour operator	lvingstone trails	1
+luxury good	lv	3
+high-end brand	lv	2
+high-end brand	lvmh moet hennessy	1
+prestigious company	lvmh	1
+area	lvc	1
+logo	lv	1
+long-term complication	lv hypertrophy	1
+consumer group	lvmh	1
+innovative company	lvmh	1
+potential risk factor	lv outflow obstruction	1
+phenotypes	lv mass	1
+large client	lv shipping	1
+system feature	lvds system feature	1
+dependent variable	lv mass	1
+dependent variable	lvedd	1
+directive	lvd	3
+expensive brand	lv	1
+transducer	lvdts	4
+transducer	lvdt's	1
+high end brand	lv	1
+branded item	lv	1
+service	lvl home	1
+conventional system	lves system	1
+protection device	lv surge arresters	1
+classic design	lv-logo shoulder bag	2
+graphic program	lview pro	1
+european brand	lv	1
+man-made material	lvl	1
+high end product	lv	1
+world-class company	lvmh	1
+sort	lv antigua	1
+voltage	lvds reference voltage	1
+handbag	lv	5
+handbag	lv & prada	1
+handbag	lv damier geant canvas acrobate	1
+functional parameter	lvef	1
+functional parameter	lv functional parameter	1
+disk	lvd including cd format digital sound	2
+backer	lvmh moet hennessy-louis vuitton	1
+capacitor	lvin capacitor	1
+luxury product	lv bag	1
+topic	lvmpd funding	1
+global parameter	lv end-diastolic diameter	1
+high-end retailer	lvmh	1
+high-end retailer	lvmh-owned kenzo	1
+multi-nationals	lvmh moet hennessy louis vuitton	1
+private hospital	lv prasad	1
+watch brand	lvmh's hublot	1
+mainstream brand	lv	1
+clinical measure	lvef	1
+designer handbag	lv	3
+designer handbag	lv luggage	1
+prestige brand	lvmh	1
+quantitative parameter	lvef in percentage	2
+strong player	lvlt	1
+big group	lvmh	5
+objective parameter	lvef	1
+objective parameter	lvedd	1
+clustering technique	lvq	2
+nucleoside analog	lvd	1
+secondary city	lviv	1
+engineering product	lvl	1
+popular design	lv	1
+high-risk situation	lv mural thrombus	1
+surrogate measure	lv function	1
+luxury retailer	lvmh	1
+engineered wood product	lvl	5
+engineered wood product	lvl beam	1
+upscale store	lv	1
+upscale store	lv store	1
+fashion company	lvmh	1
+brand owner	lvmh moet hennessy louis vuitton sa	4
+conventional parameter	lvef	1
+company	lvmh	24
+company	lv	5
+company	lvmh group	1
+company	lvmh moet hennesey louis vuitton	1
+cardiovascular complication	lvf	1
+designer bag	lv	5
+designer bag	lv s	1
+designer bag	lv monogram canvas bag	1
+industrial centre	lviv	1
+end item	lv	1
+world-renowned brand	lv	1
+iconic location	lv- four hundred and twenty-six 	1
+international brand name	lv	1
+big name designer	lv	1
+cardiac disorder	lv dysfunction	1
+OEM product	lv	1
+mechanical complication	lv aneurysm	1
+patient demographic	lvef	1
+branded good	lv	1
+optical filter	lvf	1
+fluoroquinolones	lvx	1
+top corporation	lvmh	1
+brand shoe	lv	4
+verification	lvs	1
+western brand	lvmh	2
+composite product	lvl	1
+ECG abnormality	lvh with repolarization abnormality	3
+company	lvm limousine of wny	1
+company	lvmh moet hennessy louis vuitton sa	1
+surgical therapy	lvad	1
+casino operator	lvs	2
+top fashion brand	lv	1
+brand sunglasses	lv	2
+large center	lviv	1
+quinolones	lvx	2
+interface standard	lvds	1
+international certification	lvd	1
+flagship store	lv	1
+health parameter	lvm	1
+regional plan	lvemp	1
+regional plan	lvfo	1
+t-shirt	lv . polo	1
+classical parameter	lvef	1
+structural product	lvl	1
+bargain	lva	1
+pathophysiologic condition	lv hypertrophy	1
+high-speed interface	lvds	1
+transition point	lvov	1
+high-end name	lvmh	1
+digital interface	lvds	1
+moron	lvnv	1
+purse	lv	1
+T-shirts	lv snakes	1
+T-shirts	lv bones	1
+big international brand	lv	2
+brand handbag	lv	2
+manufactured wood product	lvl	1
+branded shop	lv	1
+famous brand product	lv	2
+house hold name	lv	1
+short-term intervention	lvrs in patients with emphysema	1
+short-term intervention	lvrs inpatients with emphysema	1
+brand shop	lv	1
+branded handbag	lv	2
+echocardiographic parameter	lv end-diastolic volume index	1
+engineered product	lvl	2
+logic family	lvc	1
+terminal degree	lvn for vocational nursing	1
+transmission standard	lvds	1
+brand jean	lv jean	1
+brand shoes&clothing	lv.	2
+style brand new jean	lv	1
+traditional CVD risk factor	lvh	3
+driver issue	lvm two  becoming broken 	1
+fashion handbag	lv	7
+branch line	lv west end i.t.	1
+cardiac parameter	lvm	1
+information	lv size	1
+fabulous store	lv	1
+french firm	lvmh moet hennessy louis vuitton	1
+international luxury brand	lv	1
+linear measure	lv edd	1
+brand sunglass	lv	3
+professional wrestling promotion	lvw	1
+top brand name watch	lv	2
+designer house	lv	1
+electrical mean	lvdt for centering a spool	2
+hand bag	lv	1
+photo program	lview	1
+style brand apparel	lv handbag	12
+branded and designer boot	lv	1
+casual leather shoe	lv	4
+designer wallet	lv	1
+high-speed serial interface	lvds	1
+international premium brand	lv	1
+OS tool	lvm of zfs	1
+reference voltage	lvds reference voltage	1
+brand name pen	lv	1
+central european city	lvov	1
+echocardiographic variable	lv ef	2
+echocardiographic variable	lv internal dimension at end-systole	1
+event	lvt	1
+high quality tiffany&co watch	lv	1
+luxury stock	lvmh moet hennessy	1
+medical help	lvad	1
+replica designer handbag	lv	1
+brand-named product	lv	5
+engineered wood	lvl	1
+exempt solvent	lvp-voc solvent	1
+high speed interface	lvd	1
+loyalist paramilitary group	lvf	1
+luxury handbag	lv	1
+lv product	lv women's wallets	1
+name branded watch	lv	1
+treatment modality	lvrs	1
+upholstery product	lv sor upholstery product	1
+wholesale many brand name shoe	lv	1
+designer replica	lv	1
+differential signal	lvds	6
+differential signal	lvpecl	2
+display interface	lvds	4
+display interface	lvds output connections provided on the same board	1
+electronic payment option	lvts	1
+fashion group	lvmh	1
+luxury group	lvmh	3
+luxury-goods company	lvmh moet hennessy louis vuitton sa	2
+luxury-goods company	lvmh	1
+program	lvn	1
+program	lv prasad eye institute in andhra pradesh	1
+SCSI feature	lvd	1
+5a product	lv	1
+adverse hemodynamic effect	lv filling pressure	2
+blanket statement	lvn's creating an unsafe environment in the icu	1
+cheap leather belt	lv belt	1
+common drop	lvl two hundred and sixty  dagger 	1
+common drop	lvl twenty  hat 	1
+conservative system	lvg model of cyclical economic growth	1
+discount luxury brand handbag	lv	2
+electrical standard	lvds	1
+extreme value	lvesv of  five  ml 	1
+file system tool	lvm	1
+grade super premium replica bag	lv	1
+hottest fashion brand	lv louis vuitton	1
+influential fashion house	lv	1
+position-sensing device	lvdt	2
+prominent fashion brand	lvmh	2
+top-class brand	lv	1
+volume manager	lvm	4
+volume manager	lvm two 	1
+wood composite panel product	lvl	1
+brand counter	lv	1
+designer inspired	lv	1
+factor	lv diastolic function	1
+factor	lv dimension	1
+factor	lv function	1
+factor	lv hypertrophy	1
+factor	lv end diastolic pressure	1
+differents style brand handbag	lv	1
+exclusive branded shop	lv	1
+great replica designer bag	lv	1
+high fashion store	lv	1
+initial design	lv	1
+local literacy group	lva	2
+optical disk player	lvd player	1
+original equipment manufacturer component	lvdt gage head	1
+popular neural netwok algorithm	lvq	1
+rare blue gear	lv thirty-three  death armors 	3
+rare blue gear	lv thirty-four  death headgear 	3
+rare blue gear	lv thirty-eight  destructive armor 	1
+rare blue gear	lv fourty  destructive weapon 	1
+rare blue gear	lv thirty-nine  destructive head gear 	1
+serial differential signaling technology	lvds	1
+structural composite product	lvl	1
+transmission standard s	lvds	2
+typical 3-DE parameter	lv shape	1
+underground experiment	lvd	1
+world famous handbag	lv	1
+world top luxury brand	lvmh	1
+abstract tool	lvm	1
+authentic handbag	lv	1
+cool sunglasses	lv	1
+device specific setting	lvp	1
+differential signaling standard	lvds	2
+drink giant	lvmh	1
+electrical panel component	lv & mv insulator	1
+facility-level characteristic	lvn hour	1
+flagship brand name store	lv	1
+french luxury good	lv bag	1
+logical volume manager	lvm two 	1
+logical volume manager	lvm	1
+luxurious watch	lv watch	1
+luxury good group	lvmh	5
+LV functional parameter	lvef	1
+organization	lvi	1
+strong water pokemon	lvl  sixty  blastoise 	1
+well-armed paramilitary loyalist organization	lvf	1
+amino-functional polyurethane catalyst	lv thirty-three  catalyst 	1
+assistant job	lvn	1
+big brand bag	lv	4
+brand purse	lv	1
+cultural hot-spots	lvov	1
+differential standard	lvpecl	1
+differential standard	lvds	1
+end bag	lv	1
+europe-based company	lvmh	1
+famous brand handbag	lv handbags	1
+genuine discounted designer sunglasses brand	lv sunglasses	1
+global luxe brand	lv	1
+high end bag	lv	1
+luxury branded bag	lv	1
+LVL product	lvl scaffold plank	1
+LVL product	lvl batten	1
+application	lvq for graphics compression	2
+pacing mode	lv pacing	1
+second-order feature	lvz inferred by beck	1
+strong boundary	lv endocardium	1
+strong boundary	lv endocardial	1
+suitable transducer	lvdt displacement transducer	1
+top hot world brand bag	lv	2
+upscale city	lv	1
+wholesale LV shoe	lv sneaker	1
+wholesale LV shoe	lv pump	1
+wholesale LV shoe	lv boot	1
+word famous brand	lv	2
+world's highest profile brand	lvmh	1
+year exclusive brand	lvmh	1
+amphibian vehicle	lvtp- seven 	1
+architect brand	lv	1
+bash shell script	lvm script	1
+best quality brand bag	lv	1
+big la vegas casino operator	lvs	1
+name	lvmh	2
+composite lumber product	lvl	1
+critical storage related application	lvm two 	1
+DCM characteristic	lv function	1
+differe ntial clock source	lvds	1
+differe ntial clock source	lvpecl	1
+differential clock source	lvpecl	1
+differential clock source	lvds	1
+echoing top luxury good group	lvmh	3
+enemy spellcasters	lvl one  priests 	1
+european luxury good company	lvmh	1
+famous and expensive brand	lv	1
+famous brand wallet	lv	1
+name	lv home	1
+name	lv yan	1
+name	lvmh watch	1
+fanshion handbag	lv	2
+faovrite bag brand	lv	1
+good quality handbag	lv	1
+good stat	lvl  fourty-six  hp 	1
+HCM disease feature	lv outflow tract obstruction	1
+high time designer	lv	1
+higher-speed bus	lvds	1
+high-fashion bag	lv	1
+high-fashion boutique	lv	1
+histological varaibles	lvi	1
+hot designer purse	lv	1
+inbloom client	lvmh	1
+international renowned brand	lv	1
+ive loved luxury brand	lv	1
+land designer brand	lv	1
+largest luxury-goods group	lvmh moet hennessy louis vuitton sa	1
+leading luxury good retailer	lvmh	2
+left ventricle dimension	lvedd	1
+left ventricle dimension	lvesd	1
+logo ladden purse	lv	1
+lot cheaper then brand	lv	1
+lovely device aggregation technology	lvm	1
+low voltage technology	lvds	1
+low volt-age technology	lvds	1
+low-level character	lvl  three  with  ninety-nine  cooking 	1
+luminaire file	lvk	1
+luxury conglomerate	lvmh	1
+luxury-goods group	lvmh moet hennessy louis vuitton	1
+LV reduction operation	lv aneurysmectomy	1
+medium size bag	lv speedy  thirty - thirty-five 	1
+non-solid wood product	lvl	1
+offline measurement	lva	1
+online manu program	lvn program	1
+OS level snapshot solution	lvm for redhat	1
+pentecostal high education school	lviv theological seminary	1
+person sizeable company	lv	1
+physical verification	lvs	1
+case	lviv	1
+powerful european brand	lvmh	1
+preoperative LV remodeling parameter	lv end-systolic dimension	1
+private high quality post directory	lv	1
+private quality article directory	lv	1
+push-pull output driver	lvttl	1
+robust and established player	lvmh	1
+stable vehicle	lv two 	1
+standard LV parameter	lv mass	1
+summary differential signal	lvds	1
+summary differential signal	lvpecl	1
+sumptuousness shop	lvmh moet hennessy lv	1
+option	lvm mirroring	6
+option	lv mccb's	1
+unmanned area	lv intake room	1
+vendor-sold item	lvl  fifty-five  bullets 	2
+veneered composite	lvl bonded with a moisture resistant adhesive	1
+webbed beam panel product	lvl	1
+advanced annular lesion	lv-ao discontinuity	1
+advanced numeric analysis method	lv decomposition method	1
+american casino	lv sands	1
+apothecary orb	lv  three  glacial frost orb percentage based 	1
+apple processing enterprise	lvxiang group	1
+Background Landforms	lvf	1
+blood doppler parameter	lv velocity time integral	1
+BNP andothersurrogate measure	lv structure	1
+Brand name bedding	lv bedding	1
+brand name woman handbag	lv handbags	1
+Branded Hangbags	lv gucci chanel burberry	1
+community college's medical offering	lvn program	1
+continued education experience	lves workshop	1
+costs-reduced regatta	lvps	1
+day top-tier luxury company	lvmh	1
+designer's bag	lv	1
+destination sponsor	lvcva	1
+diastolic variable	lvedd	1
+differential output	lvpecl	2
+differential signaling protocol	lvds	1
+option	lvl	1
+group	lvmh	7
+electromechanical simulation purpose	lvrt capability study	1
+european luxury group	lvmh	1
+european luxury name	lvmh moet hennessy louis vuitton sa	1
+eye centre	lv prasad	1
+famous branded company	lv	1
+fast certification	lvn	1
+first directive	lvd	1
+global luxury group	lvmh	1
+handbag supplier	lv handbags supplier	1
+high skill	lvl  sixty-two  mining 	1
+IJC engineered wood product	lvl	1
+imes	lvov	1
+in-jig assembly system	lver process	1
+international brand boutique	lv	1
+irradiated unit	lvdt	1
+large multi-brand group	lvmh	1
+linear variable displacement transformer	lvdt sold under the trademark schaevitz by lucas control systems products of hampton	1
+low datum rate protocol	lvds	1
+luxury good executive	lvmh moet hennessy louis vuitton chief executive bernard arnault	1
+LV landmark	lv apex	2
+lymphangiogenesis parameter	lvd	1
+market bag	lv leather bag	1
+Mechanical cardiac support	lvad	1
+mirror image handbag	lv	1
+mixed part	lvds with traditional  five v cmos 	1
+multibrand conglomerate	lvmh	1
+NN classifier	lvq	1
+occasional flashy modern distillery	lvmh's ardbeg	1
+open source clustering technology	lvs	1
+output standard	lvds	1
+PHOENICS turbulence model	lvel model	1
+Pierce hole	lvl  seventy s class 	1
+Public CVBs	lvcva	1
+reliable winding	lv foil winding	1
+renowned business corporation	lvmh	1
+resilient subcategory	lvt	1
+method	lvq	1
+SHFV strain	lvr	1
+single-ended driver	lvcmos	1
+single-ended sensor	lvdt load cell	1
+style brand new handbag	lv	2
+style brand new wallet	lv	1
+top designer handbag	lv handbag	1
+ukrainian fair	lviv forum	1
+uraemic risk factor	lvh	1
+tool	lvs	2
+voice analysis technology	lva	1
+voluptuousness brand	lv	1
+well-known fashion conglomerate	lvmh moet hennessy	1
+western famous brand	lv	1
+western luxury good company	lvmh group	1
+wholesale payment system	lvts	1
+world brand product	lv	1
+product	lvl	3
+material	lv signature collection	1
+place	lvov	1
+player	lvmh	2
+player	lvl  three hundred  soulkilla 	1
+player	lvd player	1
+technology	lvm	3
+technology	lvrt	2
+technology	lvdt	2
+technology	lvs	1
+technology	lvc	1
+technology	lvt	1
+parameter	lvi	2
+parameter	lv chamber volume	1
+parameter	lv systolic function	1
+parameter	lv function	1
+parameter	lv ejection fraction	1
+parameter	lv end-diastolic pressure	1
+parameter	lvc	1
+parameter	lv geometry	1
+parameter	lv functional parameter	1
+parameter	lv mass index	1
+parameter	lvef	1
+measure	lv ejection fraction	1
+condition	lv failure	4
+condition	lv hypertrophy	1
+variable	lvef	3
+variable	lv function	1
+device	lvad	4
+device	lvdt	1
+device	lve simple device	1
+device	lvdt device	1
+brand	lv	11
+brand	lvmh s louis vuitton	2
+brand	lv shoe	1
+brand	lvmh for chinese shopper	1
+brand	lvmh fragrance brands	1
+brand	lvsh	1
+brand	lvmh moet hennessy louis vuitton sa	1
+brand	lvmh	1
+brand	lv chanel	1
+brand	lv group	1
+concept	lvalue	1
+component	lvl lintel	1
+related product	lv high related product	1

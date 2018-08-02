@@ -1,0 +1,388 @@
+factor	lra's lack of food	2
+initiative	lri	1
+initiative	lrt	1
+accessory	lrgb filter	1
+resource	lrc	1
+facility	lrc	1
+facility	lrt track	1
+exception	lr  one  with the second highest gpp in april 	1
+exception	lr  four  with the highest gpp in june 	1
+work	lru-kand  two q 	1
+model	lr four  for the smaller potlights 	1
+characteristic	lrt	1
+situation	lrm	1
+client	lrn	1
+document	lrri	1
+strategy	lru	1
+location	lrt station	1
+writer	lrb	1
+mechanism	lram	1
+book	lr bible	1
+band	lrb	2
+amenity	lrt	3
+amenity	lrt station	2
+amenity	lrt terminal	1
+job	lrt extension	1
+instrument	lrs	1
+act	lra	2
+class	lr	2
+study	lrs's retirement	1
+website	lrc	1
+unit	lrs	1
+policy	lru	1
+feature	lrf	1
+region	lrr eleven  region of efr 	1
+format	lrge print	1
+club	lrba	1
+vehicle	lr three 	1
+scheme	lru	3
+scheme	lrt network	1
+designer	lrg	1
+award	lr award	1
+key item	lrafb economic	1
+weapon	lr- twenty  carbine 	1
+law	lre	1
+line	lrg	1
+line	lrma clothing	1
+algorithm	lru	2
+algorithm	lr algorithm	1
+algorithm	lrc	1
+car	lrp shark	1
+rule	lr's ssc rule	1
+service provider	lrat	1
+top brand	lrg	2
+sensor	lrra	1
+mode	lrt	3
+competition	lrc	1
+gene	lrrk two 	2
+gene	lr thirty-four  for nonspecific races called durable resistance 	1
+gene	lrp two 	1
+popular brand	lrg	1
+web site	lrgh's community education section	1
+maker	lrb arms	1
+marker	lrp	1
+methodology	lric	6
+mineral	lree-rich accessory mineral	1
+candidate	lrat	1
+code	lrfd code	1
+mission	lro	1
+entry	lrh ed's	1
+entry	lrh advice	1
+charitable organization	lrbt clinic	1
+infrastructure project	lrt	1
+infrastructure project	lrt system	1
+public facility	lrt	3
+comment	lruxig watch movies online ziowqec everyday	1
+writing	lrn	1
+receiver	lrs long range receiver	1
+overhead	lru information	1
+high profile client	lrg	1
+abbreviation	lrn	1
+great band	lrb	1
+certificate	lr	1
+area	lrt	1
+area	lre	1
+acronym	lra for labor relations act	1
+fishery	lrff fishery	1
+infrastructure improvement	lrt expansion	1
+paradigm	lrp for actual movement	1
+exclusive brand	lrg	1
+clothing brand	lrg clothing	2
+service	lr legal hotline	1
+status information	lru information	1
+transportation service	lrt	1
+high end brand	lrg	1
+standard test	lrt	1
+computational method	lrh	1
+famous brand name	lrg	1
+oddity	lrx for radio el mundo	1
+clothing line	lrg	2
+student support service	lrc	1
+transportation facility	lrt	1
+disk	lrlfinchester disk	1
+transportation system	lrt	2
+armed group	lra	1
+large program	lrx	1
+quality manufacturer	lrb	1
+biggest brand	lrg	1
+technology firm	lrad	1
+topic	lrwpan device architecture	1
+arid area	lrg	1
+pickup	lr baggs i-beam	1
+MCs	lrs	1
+affiliation	lrmc heart institute	1
+topic	lru	1
+mob	lr	1
+accessory mineral	lree-rich accessory mineral	1
+edit	lrn	1
+rebel group	lra	1
+company	lrn	3
+company	lrb	1
+clothing retailer	lrg clothes	1
+ebooks	lrf	1
+spring migrant	lrp	1
+chaperone	lrpprc	1
+common abbreviation	lrbs	1
+public transport	lrt	1
+simple variable	lr	2
+company	lrm	1
+company	lrg clothing company	1
+company	lrp	1
+company	lrb arms	1
+company	lrg	1
+priority project	lrt line i south extension project	1
+well-known algorithm	lru	1
+high density area	lrg	3
+elite force	lrrps	3
+Advanced imaging	lrgb	1
+acoustic device	lrad	2
+simple algorithm	lru	1
+genetic mutation	lrrk two  gene 	1
+positive initiative	lrt	1
+acrylic resin	lr white	1
+imaging program	lrgb imaging program	1
+transportation infrastructure	lrt	1
+factor	lra	1
+factor	lrpprc	1
+awesome brand	lrg	1
+classification society	lr	1
+popular algorithm	lru	1
+functional domain	lrp	1
+replacement algorithm	lru	3
+replacement algorithm	lru algorithm	1
+hot stylish product	lrg	1
+mass transit option	lrt	1
+car park	lri	1
+public transport facility	lrt	1
+public transportation service	lrt	1
+human protein	lrrk two 	1
+replacement policy	lru	1
+advocacy program	lrmdp ii	1
+plug in	lr two  mogrify 	1
+government's initiative	lrt extension	1
+incompatible element	lree	1
+low rainfall area	lrz of western australia	1
+continuing education program	lrc	1
+external filter	lrgb	1
+significance test	lrt	2
+Attenuators	lrig	1
+growth project	lrt expansion	1
+global regulator	lrp	3
+maritime application	lrr	1
+maritime application	lrit	1
+text-based format	lrc	1
+hydrophilic resin	lr gold	1
+hydrophilic resin	lr white	1
+hypothalamic peptides	lrf	1
+incompatible trace element	lree	1
+isotonic fluid	lrs	1
+lipoprotein receptor	lrp one 	2
+lipoprotein receptor	lrp	1
+program	lrad	2
+sensitive point	lr three 	1
+external auditor	lrb consulting	1
+labor legislation	lra	1
+program	lrgb imaging program	1
+replacement strategy	lru	1
+attribute selector	lrecl	1
+bidding strategy	lrmc revenue recovery	1
+high end maker	lrb	1
+hottest upscale urban brand	lrg	1
+osteoporosis-associated gene	lrp four 	1
+top urban brand	lrg	1
+variable region	lrr	1
+brand hoodies	lrg	2
+crude source	lrw	1
+organization	lra	1
+organization	lrtc wild horse mentors	1
+hottest line	lrg	1
+mass transit service	lrt	1
+packet communication system	lr-wpan system	1
+organization	lrde	1
+organization	lrbt	1
+organization	lrc	1
+quality pad	lrb lyndall racing brakes	1
+rail initiative	lrt line extension	1
+shoreline change rate	lrr	1
+signature strong brand	lrg	1
+sophisticated weaponry	lrad	1
+alkaline cell	lr fourty-one 	1
+alkaline replacement	lr fourty-four 	1
+caching strategy	lru	4
+chemically-pristine material trace siderophile element	lr	1
+conventional replacement policy	lru	2
+DI boxes	lr baggs para di	1
+District Level Government Organisations	lro	1
+entity-specifi c factor	lrc's dividend-paying policy	2
+entity-specific factor	lrc's dividend-paying policy	2
+ETP project	lrt extension	1
+technique	lr parsing	1
+technique	lru focussing	1
+good muzzle brake	lrb	1
+government's economic transformation programme project	lrt	1
+hospitality designer	lrf	1
+huge designer name	lrg	1
+INTRODUCTION public transportation system	lrt	1
+invalidation technique	lru replacement	4
+jet ski	lrv sea doo	1
+lethal or less-than-lethal weapon system	lrad sound cannon	1
+nuclear orphan receptor	lrh- one 	1
+potential large-scale project	lrt extension	1
+Rail-based public transport	lrt	3
+realistic ionic model	lri	1
+replacement rule	lru	2
+strategic planning initiative	lrp	1
+application	lr three  demo app 	1
+tunneling project	lrt tunnel	1
+War Seer use abrev	lrc	1
+boosted projectile	lrlap	1
+buffer replacement algorithm	lru	1
+caching algorithm	lrw	1
+chromatographic information	lri	1
+classification group	lrs	1
+conventional VNA error correction algorithm	lrm	1
+defense engineering service	lru requirements development	1
+DRDO laboratory	lrde	1
+electronic defense	lrad	1
+environmental character database	lri	1
+existent algorithm	lru	1
+name	lr	1
+input audio datum	lr clock signal	2
+isolator	lrb	1
+ISPI gapping mark	lrig mark	2
+kernel technology	lro	1
+land rover model vehicle	lr model	1
+land rover's various model	lr three 	1
+LDL receptor family member	lr eleven 	1
+LDL receptor family member	lrp one 	1
+life-history measure	lrs	2
+factor	lrbsds result	1
+factor	lr collection capacity of the district	1
+local mega construction project	lrt extension	1
+low-reflecting layer	lr layer	2
+LRP protein	lrp five 	3
+LRP protein	lrp six 	3
+LRPproteins	lrp six 	1
+LRPproteins	lrp five 	1
+memory-management algorithm	lru	1
+non-ig molecule	lrc-encoded novel gene	1
+observational or surveillance study	lrcp	1
+page caching algorithm	lru	2
+pavement design procedure	lr  one thousand one hundred and thirty-two 	1
+pfam family	lrr	2
+case	lrtap negotiation	1
+case	lra	1
+premade RF module	lr series	4
+premade RFmodules	lr series	1
+reflowable format	lrf	1
+semantic interoperability tool	lre metadata application profile registry	1
+shipping-registration office	lr	2
+simplest rule	lru	1
+solid-state nuclear track detector	lr  one hundred and fifteen 	2
+case	lrt inventory	1
+urban clothing brand	lrg	1
+year rail-based transport system	lrt	2
+active range-measuring device	lrf	1
+application-blind cache eviction policy	lru	1
+APU policy	lru	1
+ARSs	lrs	1
+option	lrt on mill	1
+option	lrt	1
+option	lr buck shot	1
+bridge plate transducer	lr baggs ibeam	1
+capacity mode	lrt	1
+certified food supplement product	lr aloe vera life essence gel	1
+classical, general-purpose replacement algorithm	lru	1
+common cache replacement algorithm	lru	1
+company wholesale newest brand hoodies	lrg	1
+conventional replacement algorithm	lru	1
+corrupt lawyer	lrk	1
+cost methodology	lric	1
+Crowd pulles	lrb	1
+decade-long program	lri	1
+default removal algorithm	lru	1
+group	lra	4
+EDC system	lrm	1
+environmentally friendly urban transportation system	lrt	1
+evil Scamsayers	lrm	1
+fact passage wader	lrp	1
+famous tool	lr two 	1
+FANUC robot	lr mate  two hundred i 	1
+fixed guideway service	lrt	1
+forward-looking methodology	lrmc	1
+great transit system	lrt train system	1
+large size alkaline cell	lr twenty 	1
+lay-in fixture	lr twenty-four  from cree led lighting 	2
+leakage reactance transformer	lrt of fig	1
+light-rail system	lrt in edmonton	1
+lipid synthesis enzyme	lrat	1
+longitudinal establishment file	lrd	1
+LR mate robot	lr mate  one hundred ib 	1
+LRP5 null animal	lrp five  null mouse 	1
+LRP6 null animal	lrp six  null mouse 	1
+MLM processor	lr	1
+motor related brain activity	lrp	1
+non-igfbp-binding analog	lr  three  igf-i 	1
+non-intrusive pickup	lr baggs rts two 	1
+non-lethal acoustic device	lrad	1
+one-way transponder mission	lro	1
+ongoing public transport project	lrt extension	1
+opponent organization	lrci	1
+outside resource user	lrf company	1
+page replacement algorithm	lru	1
+perfect transportation system	lrt in kl	1
+PIL organization	lrc	1
+pitcher position	lrp	1
+popular cache replacement algorithm	lru	1
+popular clothing company	lrg	1
+popular replacement algorithm	lru	1
+premade RF module s	lr series	1
+primitive instruction set	lrbni	1
+proteinprotein interaction domain	lrr	1
+reason hydrophilic methacrylate resin	lr white	1
+reasonable replacement policy	lru	1
+reef-based fishery	lrff fishery	1
+reintegrant strain	lr two 	1
+religious mystical group	lra in uganda	2
+RO variant	lro	1
+run-time cache management algorithm	lru	1
+method	lr parsing algorithm	1
+method	lr test	1
+series's best villain	lrrr	1
+sophisticated fastener tightening schedule	lrm	1
+standard cache management policy	lru	2
+standard cache replacement algorithm	lru	2
+standard railway system	lrt	1
+standard replacement algorithm	lru	1
+standard replacement policy	lru	2
+storage management scheme	lru	2
+temporal replacement scheme	lru	1
+traditional cache policy	lru	1
+traditional cache replacement policy	lru	1
+traditional cache replacement strategy	lru	3
+traditional page replacement algorithm	lru	1
+traditional replacement algorithm	lru	1
+Unlikea longitudinal database	lrd	1
+volt alkaline replacement	lr fourty-four 	1
+web cache replacement scheme	lru	1
+well-developed AG-based language specifica-tiontools	lrc	1
+project	lrt	3
+project	lronbridge power station	1
+project	lrt  one 	1
+project	lrt expansion	1
+project	lrp	1
+product	lrt travel pass	1
+technology	lrt	1
+term	lree	1
+term	lrc	1
+parameter	lr netwo rk	1
+species	lrp	1
+element	lrc	1
+device	lrad	6
+brand	lrg	12
+brand	lrg clothing	4
+brand	lrv protecta	1
+component	lrm practice group	1
+component	lrm steering committee	1
+site	lrc	1
+site	lr  three 	1

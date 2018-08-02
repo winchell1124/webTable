@@ -1,0 +1,4 @@
+location	u	1
+country	u	3
+large user	u	1
+market economy	u	1

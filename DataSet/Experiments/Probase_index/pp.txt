@@ -1,0 +1,1746 @@
+factor	ppe	3
+product	pp egg tools	1
+product	pp fdy yarn	1
+product	pp belt	1
+product	pp blister	1
+product	pp string	1
+product	pp webbing	1
+product	pp yarn	1
+product	ppc connector	1
+product	ppc product	1
+product	ppr fitting related product	1
+product	pp-r pipe fitting related product	1
+product	ppr pipe related product	1
+product	pps capacitor related product	1
+product	ppo dental	1
+initiative	ppta's safe schools program	2
+initiative	ppaf	1
+initiative	ppg seven 	1
+datum	ppm value of the water quality	2
+datum	ppp framing	1
+resource	ppa	1
+resource	ppt slide	1
+resource	ppt template	1
+resource	pprc	1
+resource	ppt with writing instruction	1
+resource	ppe	1
+facility	pppl's national spherical torus experiment	1
+process	ppc gateway	3
+process	ppf	1
+process	ppap	1
+source	ppc	1
+subject	ppe	1
+product	pp stationery	1
+product	pp tpr clothes pegs	1
+product	pp twine	1
+product	ppt id care	1
+product	pps	1
+product	pp-r pipe	1
+product	ppr tube related product	1
+product	ppf	1
+product	pph ect.	1
+product	ppr pipe extrusion related product	1
+product	pp strap with buckle	1
+product	pp mops	1
+product	ppc	1
+exception	ppr	1
+work	ppt frame	1
+model	ppo	1
+model	pprf	1
+word	ppl	1
+attraction	ppg aquarium	2
+situation	ppo accepting monetary risk by capitation	1
+category	pp point	1
+category	ppo	1
+institution	ppp unit	1
+client	ppg	1
+client	ppm school of management	1
+client	ppg industries	1
+document	pptx	3
+document	pptm	3
+document	ppos	1
+document	ppm- three hundred and fifty  power meter product page 	1
+document	ppm checklist	1
+document	ppt general presentation	1
+document	ppr-related document	1
+document	ppe check	1
+document	ppe strategy	1
+document	ppap level iii document	1
+document	ppt	1
+product	ppr insert related product	1
+product	pp & pe bag	1
+strategy	ppc	5
+strategy	ppc marketing	1
+strategy	ppc ad testing	1
+strategy	ppa	1
+form	ppe	2
+form	ppc marketing campaign	1
+person	pp paul	1
+approach	ppp	1
+approach	ppr	1
+matter	ppa heat rates during different plant operation	1
+alternative	pppay	1
+effect	ppa better	1
+theme	ppe use	2
+symptom	ppg preventspostprandial symptom	1
+course	ppe	1
+mechanism	ppps	3
+mechanism	pparalpha activation	2
+mechanism	ppbp	1
+mechanism	pppsexemplified by mmv	1
+mechanism	ppc special study	1
+mechanism	ppps exemplified by mmv	1
+mechanism	pppoe intermediate agent	1
+solution	ppc	1
+solution	pptp	1
+solution	ppo	1
+feature	ppc	2
+business	ppa	1
+business	ppc ad	1
+procedure	ppo soliciting	1
+agent	ppar gamma agonists	2
+agent	ppar-gamma agonists	1
+circumstance	pprom following an invasive procedure	2
+cost	ppe	1
+scholar	pp raveendran	1
+feature	ppo discount	1
+feature	ppc tracking	1
+type	ppos	1
+type	ppo & hsa	1
+type	ppl	1
+disease	ppr	2
+venue	ppg wintergarden	1
+consideration	ppe	1
+firm	ppb oil palms bhd	1
+firm	ppg	1
+firm	pps group	1
+firm	ppr	1
+industry	ppg industries	1
+requirement	ppap's	2
+requirement	ppe	2
+requirement	ppe requirement	1
+drug	pp two 	1
+drug	ppr agonist drug	1
+drug	ppar agonist fibrates	1
+drug	ppar gamma agonists	1
+drug	ppar agonist drug	1
+manufacturer	ppg	6
+instrument	ppf	14
+instrument	ppular jazz instrument	1
+instrument	ppg system	1
+instrument	ppf ppf plasma protein fraction	1
+complication	pph	1
+publication	ppg three 	1
+setting	ppp username & password	1
+compound	ppd	1
+compound	pps	1
+website	ppc mom	1
+equipment	ppe	2
+unit	ppcli	1
+expense	ppe	1
+innovation	pptp	2
+cause	pph	1
+mean	ppt	1
+instance	pp  eight  ac 	1
+policy	ppa nondiscrimination testing safe harbor	1
+policy	ppos	1
+substance	pps	2
+entity	ppos	1
+feature	pps body	1
+concern	ppc advertising	1
+format	ppt	5
+format	pptx	2
+format	ppm	1
+format	ppsx	1
+big name	ppg	1
+standard	ppp	1
+standard	pptp	1
+club	pptc	1
+opportunity	ppa	1
+intervention	ppropriate skin care product	1
+intervention	pproach sectoral intervention	1
+effort	ppp forhandwashing with soap	1
+label	ppl for personal preference list	1
+label	ppq	1
+department	ppo	1
+issue	ppe	5
+value	ppid	1
+scheme	ppm	1
+external factor	ppt program's limited budget	1
+designer	ppq	2
+additive	ppd	1
+chemical	ppd	4
+chemical	ppar agonists	3
+capability	ppc platform capability	1
+module	ppe ordering system	1
+module	ppc	1
+module	ppp	1
+provider	ppc ad provider	1
+provider	ppl	1
+asset	ppt download	1
+party	ppp	14
+party	pprd	2
+party	pppp	1
+protein	pp five  phosphatase 	2
+protein	pp two a substrate protein 	1
+protein	ppargamma activation other protein	1
+protein	pp two a 	1
+machine	pp tape production line	2
+guest	ppq & nicky hambleton jones at make do & mend charity catwalk	1
+brand name	ppg	1
+discipline	ppm	2
+decision	pp consultants	1
+corporation	ppg	1
+corporation	ppl corporation	1
+possibility	ppos	1
+weapon	pps- fourty-two 	1
+weapon	ppsh- fourty-one  machine pistol 	1
+weapon	ppsh- fourty-one 	1
+law	ppn law	1
+control	ppe	2
+control	ppe use	1
+flavor	ppc spy tool	1
+language	ppml	1
+package	ppc management	1
+package	ppv international sport package	1
+producer	ppg	1
+channel	ppc	1
+functionality	ppv	1
+functionality	ppc	1
+algorithm	ppm	3
+utility	ppl	3
+utility	ppl in the lehigh valley	2
+utility	ppl utilities	1
+driver	ppg cart world series driver	1
+file	ppt	2
+file	pptx	1
+measurement	ppmv	1
+measurement	ppbv	1
+issue	ppc essential	1
+issue	pp resins quality	1
+offering	ppc marketing	1
+everything	ppe	1
+platform	ppc	1
+platform	pps investments	1
+service provider	ppds	1
+supplier	ppg	3
+supplier	ppl motorhomes in texas	1
+protocol	ppp	20
+protocol	pptp	9
+protocol	pptp & l two tp 	1
+protocol	ppp-based authentication protocol	1
+protocol	ppp control protocol	1
+protocol	pptp-point-to-point tunnelling protocol	1
+protocol	ppoe	1
+protocol	ppp by using the encapsulation ppp interface subcommand	1
+protocol	pppox	1
+protocol	pppoe	1
+card	pp playing card	1
+employer	ppg	3
+arrangement	ppos	1
+molecule	ppar-gamma agonists	3
+defect	pph	1
+plan	ppos	32
+plan	ppo plan	2
+plan	ppo insurance policy	1
+stock	pprecision ground stock	1
+large company	ppg	1
+transaction	ppp for building schools in the flemish region	1
+tactic	ppc	3
+sponsor	ppg	1
+issue	ppp's misuse of ncn tv	1
+issue	ppp connection	1
+raw material	pp fibres	1
+forum	ppc geeks	1
+signal	ppg signal	2
+signal	ppg amplitude	1
+gene	ppil two 	4
+gene	ppm one d 	3
+gene	pp two a 	2
+gene	ppp two r three a 	2
+gene	ppid	1
+gene	ppt-a gene	1
+gene	ppar	1
+time	ppl's birthday	1
+industry leader	ppr	1
+industry leader	ppt chemicals	1
+content	ppt electronic album	2
+cell	pprsin mammalian cell	1
+advanced topic	ppm compression	1
+attachment	ppt	1
+attachment	ppt slide	1
+regulation	ppsa coming into play	1
+professional organization	ppa	5
+professional organization	ppa nj	1
+professional organization	ppa for short	1
+personal information	pps number	1
+contaminant	ppcps	2
+center	pprc	1
+programme	ppip	1
+investment	ppf requiring periodic investment	1
+investment	ppf	1
+personal item	ppe	2
+issue	pp formation	1
+add-ons	ppc campaign	1
+goodie	ppv videos	1
+emergency	pph	1
+name brand	ppg	2
+stuff	ppc	1
+developer	pproach private developer	1
+gas	ppm level gas	1
+stimulus	ppi activating stimulus	1
+stimulus	ppd	1
+datum source	ppi network	3
+inhibitor	pp two 	1
+inhibitor	ppi-proton  pump inhibitor	1
+engine	ppc-specific search engine	1
+polymer	pps	2
+polymer	pp homopolymer	1
+polymer	ppy	1
+item	ppe	6
+configuration	pps model configuration	1
+convenience	ppt facility	1
+acid	ppar protein bind fatty acid	1
+national organization	ppa	1
+link	ppc search engine advertising link	1
+pollutant	ppcps	1
+professional service	ppc campaign	1
+big company	ppl shipyard	1
+online resource	ppa copyright kit	1
+priority	ppe	1
+assessment	ppg seventeen  assessment 	1
+campaign	ppc	1
+campaign	ppc campaign	1
+large corporation	ppg	1
+catalyst	pph  three 	1
+version	pptest in the daytime	1
+server	ppp server	1
+famous brand	ppr's yves saint laurent	1
+avenue	ppo	1
+consumable	ppe suit	1
+precaution	ppe	1
+legislation	ppaca	2
+legislation	ppra	1
+damage	ppms even localized environmental damage	1
+training	ppc marketing	1
+observation	ppi degree of the gene	2
+observation	pp two a 	1
+international brand	ppq	1
+quality brand	ppg	1
+routine	ppc	1
+quality product	ppg	1
+building material	ppr pipe	2
+building material	ppr fitting	1
+building material	pp-r tubing	1
+building material	ppr pipe fitting	1
+extension	pps &	1
+financial service	ppf transaction	1
+latest technology	ppt	1
+contract	ppo program	3
+online tool	ppc management	1
+search engine	ppc-specific search engine	1
+item	ppg	1
+item	ppv movie rental	1
+item	pppoe session establishment	1
+subject area	ppp	1
+key component	ppe	3
+training program	ppc classroom	2
+insurance company	ppos	2
+insurance company	ppp	1
+by-products	ppf	1
+control measure	ppe	2
+identifiers	pps number	1
+high quality product	ppg	1
+argument	pps headed by a meaningful preposition	1
+industry group	ppta	1
+essential item	ppe	1
+multinational company	ppg	1
+resin	pps	1
+resin	ppa	1
+resin	ppa resin	1
+tournament	ppt	1
+leading company	ppg	1
+innovative product	ppp financing for municipal customer	1
+government program	ppip	1
+plastic	pp sheet	1
+peer	ppr industries inc	1
+stat	ppg	1
+clothes	ppropriate work clothes	1
+key term	ppc	1
+safety measure	ppe	3
+item	pp-r pipe	1
+item	ppo	1
+item	ppi eq	1
+gun	ppsh  fourty-two  grease gun 	1
+gun	ppk	1
+industry standard	ppp	1
+clinical parameter	ppd	1
+ligands	pph  three 	5
+ligands	pph three 	4
+ligands	ppar gamma ligands	1
+agricultural product	pp twine	1
+insurer	ppp	1
+policy issue	ppb channel deepening project	1
+safety issue	ppe	1
+economic indicator	ppi	1
+file format	ppt	3
+marketing tool	ppc	2
+bag	pp shopping bag	2
+development project	ppk	1
+receptor	ppar	1
+receptor	ppar aandgregulate scavenger receptor	1
+political party	ppp	3
+political party	ppcd	1
+area	ppe	2
+top company	ppl	1
+statistical technique	pp plot	1
+quality material	ppg	2
+performance indicator	ppm	1
+valve	ppv type valve	1
+cable	ppm cable	1
+internet site	pps	1
+popular program	ppos	1
+communication device	pptp	2
+internet service	ppc management	1
+government policy	ppip	2
+outside source	ppc ad	2
+chemical agent	ppd	1
+revenue source	ppv movie	1
+packaging material	pp strap	2
+transcription factor	ppar ginduce proper preadipocyte differentiation	1
+analysis tool	pputer-based datum analysis tool	1
+online retailer	ppl motorhome with large inventory	1
+plastic product	pp bag	1
+plastic product	pp boxes	1
+plastic product	pp mover dolly	1
+plastic product	pp label	1
+plastic product	pp stationery	1
+plastic product	pp sheet	1
+plastic product	pp bottle	1
+template	ppt game template	1
+file type	ppt presentation	1
+advanced service	ppc campaign management	1
+practical aspect	ppro pr iate management of deadline	1
+cell line	ppc- one 	1
+search	ppc ad	1
+search	ppc advertisement	1
+formulation	ppbs	1
+abbreviation	pp.	1
+abbreviation	ppf	1
+abbreviation	ppb	1
+standard technique	pp test	1
+grouping	ppid	1
+area	ppp team	1
+area	pps	1
+plastic material	ppo	3
+plastic material	ppt	2
+global player	ppg	1
+community agency	ppl	1
+health care provider	ppos	1
+antigen	ppd	7
+marketing strategy	ppc	1
+marketing strategy	ppc campaign	1
+fatty acid	ppar protein bind fatty acid	1
+tablet	ppi antacid tablet	1
+training material	ppt presentation	1
+peak	ppps peak	2
+national company	ppm	1
+hardware device	ppp port	1
+delivery system	ppos	5
+area	pps payment add-on area	1
+acronym	ppo	1
+acronym	ppad	1
+generator	ppl montana	1
+conglomerate	ppr sa's gucci group	1
+business model	ppc	2
+established company	ppt vision	1
+training aid	ppts of different subject	2
+insurance	ppo	2
+insurance	ppo dental insurance	1
+insurance	ppo plan	1
+disposable item	ppe	1
+flexible material	ppe	1
+high profile event	ppl at cafe de paris	1
+famous company	ppg	1
+policy change	pps reimbursement for healthy families service	1
+solid waste	ppe	3
+complex topic	ppp	1
+tangible asset	ppe	1
+common product	ppf	1
+top quality brand	ppg	1
+safety precaution	ppe	2
+marketing technique	ppc	3
+marketing technique	ppc advertising	1
+complex application	ppp	1
+inert material	pps	1
+general	ppfa	1
+service	ppc	14
+service	ppc management	9
+service	ppc campaign	8
+Plasticizers	pp with good quality	1
+manufacturing company	ppg industries	2
+auxiliary	pprc	1
+prominent company	ppg	1
+trade organization	ppa	2
+top quality product	ppg	2
+marketing method	ppc	1
+marketing method	ppc marketing method	1
+reusable item	ppe	2
+factor	ppd	1
+service	ppp	2
+simple test	ppd skin test for tuberculosis	1
+meter	ppm meter	1
+revenue stream	ppc	1
+premium product	ppg	1
+packaging product	pp caps	1
+holder	ppp office holder	1
+yarn	pp bcf	1
+project document	ppp strategic options report	1
+thermoplastic resin	pps	1
+web tool	ppc	1
+realm	ppc marketing	1
+standard test	ppst	1
+dam	pperuvian augustina	1
+dam	pperuvian rita	1
+administrative control	ppe	1
+teaching tool	ppt	1
+service	pplive	1
+third party tool	ppt two flash standard 	1
+domestic company	pph zbyszko	1
+marketing program	ppc campaign management	1
+marketing program	ppc campaign	1
+internet tool	ppc	1
+modulation scheme	ppm	1
+thermoplastic	pps	2
+thermoplastic	pp pvdf	1
+medical expense	ppo office visit	3
+investment option	ppf	3
+member benefit	ppa's litigation support network	1
+online program	ppc	1
+output format	ppt	1
+wheel	pp wheel	1
+insurance plan	ppos	4
+insurance plan	ppo insurance plan	1
+contamination	pp fiber	1
+commodity product	ppe	1
+quality tool	ppap	3
+white	ppc-b five  mirage 	1
+synthetic resin	pps	2
+medium file	ppt presentation	1
+premium material	pps	1
+basic application	pptp vpn	1
+development partner	ppl	1
+image format	ppm	1
+hard asset	ppe	1
+health plan	ppos	5
+primer	ppg k- thirty-six 	1
+primer	ppg k thirty-eight 	1
+synthetic fiber	pp fiber	1
+service	ppp dial-up	1
+service	pptp	1
+service	ppc service	1
+service	pprc	1
+service	ppc management services	1
+service	ppc marketing the philadelphia area	1
+topic	ppe	10
+auxiliary agent	pp super transparent agent	1
+sensitive technique	pp sixty-five  antigenemia assay 	1
+learning resource	ppt presentation	1
+online business	ppc	1
+online business	ppi	1
+payer	ppos	1
+pistol	ppk size auto	1
+communication vehicle	ppc & seo	1
+document format	ppt	1
+central issue	ppp	1
+intangible cost	ppe requirement	2
+acute disease	ppr	1
+transport protocol	ppp	1
+transport protocol	pptp	1
+chemical company	ppg industries	1
+chemical company	ppg	1
+common topic	ppe	1
+inflammatory process	pprom	1
+physical control	ppe	1
+topic	ppc	3
+topic	ppc advertising strategy	2
+bloodline	ppperuvian allin capac	2
+bloodline	pperuvian victor	1
+marketing tactic	ppc	1
+preventable disease	pph	1
+nucleophiles	pph  three 	1
+organic polymer	ppo	1
+traditional marketing method	ppc	1
+bus company	ppt	1
+specialty material	pps	1
+sensitive method	pp sixty-five  antigenemia assay 	1
+taxpayer	ppg	1
+video site	pptv	1
+world class company	ppg	1
+engineering plastic	pps	2
+suffix	ppu	1
+security protocol	pptp	1
+SEO technique	ppc	1
+advertising method	ppc ad	2
+application requirement	pplications application requirement	1
+highest quality product	ppg	1
+advertising	ppc	6
+communication program	ppp	4
+communication program	ppp program	1
+indoor area	ppg aquarium	1
+tuner	ppe	1
+kinase inhibitor	pp two 	1
+opinion	pprune	1
+waveforms	ppg waveform	1
+travel product	pp mat	13
+travel product	pp mat s	2
+plastic bag	pp shopping bag	1
+datum model	ppdm data model	1
+ongoing service	ppc account management	1
+laboratory method	ppd test	4
+safety requirement	ppe	1
+speciality product	pp for capacitor film	1
+textile material	pps	1
+modulation method	ppm	1
+SEO service	ppc	1
+legal paper	ppo's	1
+expensive method	ppc	1
+health insurance company	ppp	1
+resin material	ppo	1
+topic	ppr	1
+topic	ppe requirement	1
+candidate gene	ppar gene	1
+nuclear receptor	ppar	2
+nuclear receptor	ppar-gamma	1
+nuclear receptor	ppar gand ppard	1
+health care system	ppos	1
+specialised product	ppe	1
+auto	ppk	1
+metabolic pathway	pp pathway	1
+portable computer	ppc six hundred and fourty 	1
+optional parameter	ppp multilink	1
+optional parameter	ppp mulitlink	1
+great brand name	ppg pittsburgh & diamond vogel	1
+traditional marketing technique	ppc	1
+advertising campaign	ppc	1
+advertising campaign	ppc search engine campaign	1
+connection type	pptp	1
+saving product	ppf	1
+obstetric complication	pprom	1
+extensive service	ppa recruitment	2
+superior quality raw material	pp granule	1
+company	ppg	17
+company	ppc	6
+company	ppg industries	4
+company	ppl	3
+company	ppd	2
+company	ppr	2
+internet marketing strategy	ppc advertising	2
+internet marketing strategy	ppc campaign management	1
+internet marketing strategy	ppc	1
+online method	ppc	1
+OTC drug	ppa	2
+datum analysis tool	pputer-based datum analysis tool	1
+health insurance plan	ppo	6
+specialty event	ppv fight	1
+chemopreventive agent	ppar gamma agonists	1
+coverage option	ppos	1
+insurance coverage	ppo	1
+internet marketing service	ppc management	1
+stylish accessory	pp webbing strap	1
+traditional investment	ppf	1
+modulation format	ppm	1
+online marketing tool	ppc	2
+process area	ppqa	2
+quality -metric	ppm	1
+handler	ppp handler  sixty-two a 	1
+industrial valve	pp non return valve	1
+layer protocol	pppoa	1
+layer protocol	pppoe	1
+nozzle	pp five hundred and twenty  from fratelli bosio available at bora part 	1
+office document	ppt	1
+online marketing technique	ppc	1
+filter medium	pp sediment filter cartridge	1
+filter medium	pp sediment	1
+large insurer	ppp	1
+datum stream	ppml	1
+online marketing service	ppc	2
+online marketing service	ppc advertising	1
+company	ppl generation	1
+company	ppb	1
+company	ppl uk	1
+company	ppi corporation	1
+document file	ppt	1
+file extension	ppt	1
+authentication protocol	ppp-based authentication protocol	1
+authentication protocol	ppp pap	1
+industry standard protocol	pptp	1
+level protocol	ppp	1
+promotional technique	ppc	1
+agonist	ppar gamma agonist	1
+hydrophobic polymer	ppo	1
+internet marketing tool	ppc	3
+popular file format	ppt	1
+environmental damage	ppms even localized environmental damage	1
+P2P application	pplive	4
+P2P application	ppstream	1
+promotional method	ppc	2
+construction machinery	ppm cranes with operator	1
+health-care provider	ppos	1
+locus	pp two 	1
+office holder	ppp office holder	1
+insurance option	ppo	1
+market instrument	ppa option described	1
+separate section	ppi	1
+initial	ppg	1
+online journal	ppp journal	1
+online marketing strategy	ppc marketing	1
+work clothes	ppropriate work clothes	1
+connection parameter	ppp	1
+company	ppd inc based on site	1
+company	ppm energy in oregon	1
+company	pps electrical	1
+medical program	ppos	2
+online marketing method	ppc	3
+paint company	ppg	2
+paint company	ppg industries inc.	1
+quality improvement tool	ppip	1
+quality paint	ppg	1
+search engine optimization technique	ppc	1
+housekeeping gene	ppia	1
+natural substrate	ppi	1
+networking protocol	ppp	2
+packer	ppi packer	1
+horizontal issue	ppp	1
+internet marketing technique	ppc	1
+large utility	ppl	2
+large utility	ppl electric utilities of allentown	1
+modern management technique	ppap	1
+payors	ppos	1
+private developer	pproach private developer	1
+short form	pp s	1
+academic background	ppe	1
+phosphatases	pp two a 	5
+phosphatases	ppm one a 	1
+medical plan	ppo	3
+medical plan	ppo plan	1
+training requirement	ppe	1
+complex protocol	pptp	3
+control scheme	ppf	3
+shooting sport	ppc	1
+external product	ppt	2
+filter element	pp wound filter cartridge	4
+filter element	pp sediment cartridge	4
+filter element	pp sediment	3
+government-sponsored program	ppip	1
+high-performance material	ppsu	1
+local utility	ppl	1
+paper bag	pp bag	1
+big party	ppp	1
+network type	ppp ortoken-ring	1
+non-salary cost	ppc test	1
+oxidative enzyme	ppo	1
+paint manufacturer	ppg	2
+chemically inert material	pps	1
+industry term	ppc	1
+medicare advantage plan	ppo	7
+acquisition technique	ppc	1
+infective agent	pplo	2
+medical insurance	ppo	2
+mega company	ppl	1
+sleeve	pps sleeve having the above physiochemical characteristic	1
+water-soluble drug	ppa	1
+advertising program	ppc advertising program	1
+internet marketing method	ppc	3
+factor	pp government's apparent determination	1
+factor	ppar-gamma	1
+factor	ppci volume	1
+activity	ppk study	1
+separate service	ppc management	1
+common project	pphr recognition	1
+medium opportunity	ppc advertising	1
+standard consideration	ppe	1
+superior product	ppg's pure performance	1
+common apps	ppoint	1
+engineering resin	pps	1
+Liquid biofuels	ppo	1
+long term investment	pps from glymaxx	1
+pa	ppqa	1
+quality control tool	ppap	1
+secular party	ppp	1
+shopping bag	pp bag	1
+display function	ppds	1
+functional domain	pp two a binding domain 	1
+implementing agency	ppib	2
+search engine marketing service	ppc advertising	1
+engineering polymer	pps	1
+government effort	ppip	1
+health insurance provider	ppp	1
+output type	ppt	1
+painful stimulus	pph	1
+activity	ppe	1
+activity	ppt presentation	1
+activity	ppp with national participation	1
+activity	ppap	1
+activity	ppc campaign	1
+health insurance product	ppos	4
+health insurance product	ppo plan	1
+automated solution	ppt em	1
+industry competitor	ppg industry competitor	1
+marketing platform	ppv marketing ad word	1
+structured document	ppoint	1
+electric company	ppl energy	1
+glass manufacturer	ppg	1
+glass manufacturer	ppg industries in pittsburgh	1
+high quality finish	ppg & house of kolor	1
+palm oil product	ppb kernel palm oil	1
+palm oil product	ppb crude oil	1
+sponsor event	ppa sponsor event	1
+tunneling protocol	pptp	7
+tunneling protocol	ppp	1
+common image format	ppm	1
+common plastic	pp polypropylene	1
+enhancer	ppg dx eighty-four 	1
+poker tournament	ppt	1
+salon brand	pps	1
+top quality paint	ppg	1
+traffic generation method	ppc	1
+distribution option	ppc distribution option	1
+health care plan	ppos	4
+intervention tool	ppic work loan	1
+machine type	ppc processor	1
+mainstream party	ppp	1
+open-source solution	pptp?config	1
+packaging tape	pp coating tape	1
+pharmacological inhibitor	pp three 	1
+pharmacological inhibitor	pp two 	1
+plastic polymer	pp plastic polymer	1
+upper layer protocol	ppp	1
+VPN solution	pptp	2
+exposure control	ppe	1
+level indicator	ppm	2
+lobbying organization	ppp forum	1
+managed care organization	ppos	3
+managed care plan	ppos	8
+online advertising	ppc	1
+online marketing effort	ppc	1
+online marketing initiative	ppc management	3
+online marketing initiative	ppc	1
+traditional marketing effort	ppc	1
+flexible polymer	ppo	1
+high-temperature material	pps	1
+hispanic leader	ppcc instructor	1
+manufacturing business	ppc	1
+popular graphic format	ppd	1
+quantitative value	ppm mercury in water	1
+information	ppi data accumulated in the future	1
+information	pps test datum	1
+information	ppp account	1
+information	pptp version	1
+information	pppoe login information	1
+dental insurance plan	ppo dental plan	2
+humanity subject	ppe	1
+login information	pppoe login information	1
+microsoft office document	ppt	1
+nonwoven fabric	pp nonwoven fabric	1
+organic nitrate	ppn	1
+plastic scrap	pp pa abs from maylaysia at the moment	1
+soiled item	ppe	1
+sport package	ppv international sport package	1
+western manufacturer	ppg	1
+configuration issue	pppd configuration	1
+dental insurance	ppo dental insurance	1
+functional protein	pp-r	1
+group policy	ppo	1
+heat resistant resin	pps	1
+normal issue	ppe	1
+paint system	ppg omni	1
+regional employer	ppl corp.	1
+small saving scheme	ppf	5
+VPN technology	pptp	1
+agonist drug	ppr agonist drug	1
+agonist drug	ppar agonist drug	1
+automated procedure	pprc migration manager	1
+chemical plant	ppg chlor-alkali & derivatives	1
+computer architecture	ppc	1
+group plan	ppos	1
+inbound marketing tool	ppc advertising	1
+inbound marketing tool	ppc campaign	1
+islamic party	ppp	4
+logical device	ppp adapter	4
+medical insurer	ppp	2
+nonlinear crystal	ppln	1
+nonlinear crystal	ppktp	1
+information	ppoe setting	1
+polymer fiber	pp fiber	1
+RISC processor	ppc	1
+sector group	ppta on the policy work	1
+sensor signal	ppg signal	1
+supplemental plan	ppos	1
+synthetic rope	pp rope	7
+thermoplastic fiber	pps fiber	1
+ad program	ppc ad program	1
+comprehensive policy	ppo	1
+conventional program	ppos	1
+detailed result	ppp comparisons for private final consumption	1
+fixed income option	ppf	1
+german organization	ppp	2
+medical insurance plan	ppo	11
+medical insurance plan	ppo fsa cdhc	1
+phosphine ligands	pph  three 	7
+phosphine ligands	pph three 	2
+project name	ppu	1
+separate company	ppp	1
+user program	pppd	2
+worldwide famous company	ppg	1
+accession	pp two 	1
+CROs	ppd	3
+electronic connector	ppqs connector	1
+excellent item	pp up in the athlete shop	1
+fishing material	pp & pe ropes	1
+global regulator	ppgpp	1
+high value service	ppm contract	1
+high-risk pregnancy	pprom	1
+insurance term	ppo	1
+mainstream political party	ppp	1
+managed-care plan	ppos	3
+microporous material	ppg	1
+NRs	ppar	1
+on-line program	ppc	1
+PC file	ppt	2
+event	ppa	1
+event	ppp ncp failure	1
+phosphines	pph  three 	1
+private health plan	ppos	1
+spy tool	ppc web spy	1
+WAN link	ppp	1
+amorphous resin	ppa	1
+business marketing tool	ppc marketing	1
+conventional measurement technique	pps	1
+encapsulation type	ppp	1
+engineered plastic	pps	1
+extended structure	ppii helices along portions of thepevkmodule	1
+microsoft office format	pptx	1
+promo tool	ppc ad	1
+response resource	ppe	1
+safety training program	ppe standard	1
+skin test	ppd for tb	1
+src kinase inhibitor	pp two 	3
+statutory approval	ppc permit	1
+business improvement tool	ppap	3
+contract research organization	ppd offer clients molecular	1
+CPs	ppy	1
+customer -metric	ppm	1
+daily-use good	pp thread	1
+event	pph	1
+event	ppai expo  two thousand and twelve 	1
+program	pppd	4
+program	ppos	4
+program	ppip	3
+filter cartridge	pp melt blown filters	1
+health insurance organization	ppp	1
+impact variable	ppa skill	1
+impact variable	ppa ownership of the government	1
+industry protocol	pptp	2
+leader company	ppg	2
+managed care company	ppos	1
+mega construction project	ppp sanitation project	1
+non-polar polymer	ppe	1
+online advertising technique	ppc	2
+peer-to-peer file sharing application	pplive	1
+petro-chemical company	ppg coating	1
+protocol suite	ppp	1
+reason material	pps	2
+routine formatted file	ppt	1
+sedimentary deposit	ppsa in brazil	1
+VPN protocol	pptp	3
+VPN protocol	pptp vpn	1
+WAN protocol	ppp	6
+allowed file type	ppt	1
+amorphous plastic	ppsu	1
+annual revenue company	ppg industries	1
+basic customer information	pps no.	1
+competitive subject	ppe	1
+complex antigen	ppd	1
+finance process	ppv analysis	1
+good quality packaging material	pp & hdpe bag	1
+heat dissipative material	pps molding compound	3
+internet marketing option	ppc	1
+link layer protocol	ppp	8
+managed care program	ppos	1
+program	ppc	2
+program	ppa	1
+novel gene	ppat	1
+OA apparatuses	ppc s	1
+ongoing internet marketing campaign	ppc	2
+online advertising campaign	ppc	3
+online promotion tool	ppc	1
+photography organization	ppa	1
+pocket pistol	ppk	1
+popular p2p application	pplive	1
+pump inhibitor	ppi-proton  pump inhibitor	1
+scavenger receptor	ppar aandgregulate scavenger receptor	1
+teacher training college	ppt universiti terbuka malaysia	1
+utility ability	pppoe server	1
+vital source	ppc	1
+automotive core tool	ppap spc	1
+budgeting technique	ppbs	2
+e.g.	ppo s	1
+field bus	ppi	1
+general-purpose plastic	pp resin	3
+low-bandwidth connection	ppp	2
+metal cap	pp cap	1
+molecular network	ppi network	1
+oncogene product	pp sixty  src 	1
+original equipment company	ppg industries	1
+program	ppl builder	1
+program	ppc advertising program	1
+program	pps plus	1
+program	ppt viewers	1
+program	ppii funded by ausaid	1
+plastic film product	pp bag	1
+point-to-point link	ppp	1
+Protein phosphatases	pp two a 	2
+replacement program	ppp	1
+steel coil	ppig	1
+subguns	ppsh- fourty-one  &  fourty-three 	1
+website program	ppc ad	1
+wide-area service	ppp	1
+antacid tablet	ppi antacid tablet	1
+automotive rubber component	ppop hose clamp assembly	1
+big name provider	ppp	1
+commercial implementation	pplive	1
+competitive challenge	pptp from microsoft	1
+comprehensive marketing service	ppc advertising	1
+configuration protocol	ppp	1
+crystalline resin	pps	2
+deployedp2p application	pplive	1
+developmental technique	ppbs	1
+exchange rate	ppp	1
+large paint company	ppg	1
+large power company	ppc	1
+long-term retirement instrument	ppf	1
+program	ppc ad program	1
+program	ppg seven 	1
+program	pplive	1
+program	ppt	1
+program	ppstream	1
+MS program	ppt	1
+network transport protocol	pptp	1
+online medium channel	ppc advertising	1
+o-peer file sharing application	pplive	1
+oral anti-diabetic drug	ppar agonist	1
+performance polymer	pps	1
+point-to-point protocol	ppp	2
+poverty eradication program	pprt	1
+printable window file	pptx	1
+program icon	ppt	1
+uncompressed file format	ppm	1
+world's top paint brand	ppg	1
+actual stat	ppg	1
+advanced plastic	pps	1
+big medical insurer	ppp	1
+broadband access information	pppoe parameter	2
+broadband ISP information	pppoe parameter	1
+chinese and indian party	ppp	1
+clinical quality improvement effort	ppip support office	1
+comprehensive production line	pp-bottle production line	1
+cup related offer	pp cup	1
+data-link protocol	ppp	1
+epoxy primer	ppg dp fourty 	2
+epoxy primer	ppg delfleet	1
+epoxy primer	ppg omni au	1
+good paint	ppg concept	1
+group network	ppo	3
+heat-resisting resin	pps	1
+heterocyclic polymer	ppy	1
+high performance plastic	pps	1
+high-performance plastic	pps	1
+high-performance plastic	ppsu	1
+inbound marketing tactic	ppc	1
+large legal document	ppm	1
+layer-2 protocol	pptp	1
+leveraging proven standard	ppp	1
+link protocol	ppp	1
+managed healthcare plan	ppos	5
+marketing network	ppc marketing network	1
+medicare advantage option	ppos	3
+mike dillard course	ppc domination	1
+multipage document	ppt	1
+nimble company	ppc	1
+otc	ppis available otc	1
+personal computer file	ppt	1
+plastic fabric	pp fabric	1
+polymer structure	pp poly bag	1
+popular ISDN protocol	ppp	1
+ppp-based protocol	ppp over ethernet protocol	1
+ppp-based protocol	pptp	1
+ppp-based protocol	ppp over asynchronous transfer mode protocol	1
+ppp-based protocol	ppp over hdlc protocol	1
+private medical insurance company	ppp	1
+professional and best feature	ppc management	1
+ranking enhancing method	ppc	1
+sack	pp woven sack	2
+search engine marketing tactic	ppc advertising	1
+selective conference	ppopp	1
+serial link	ppp	1
+organization	ppl	4
+organization	ppos	3
+organization	ppg	2
+organization	ppa	2
+sometimes document	ppt	1
+third party representative	ppi claim company	1
+TNC parameter	ppersist	1
+Traditional interface widgets	ppull-down menu	1
+wide area network service	ppp	1
+activating stimulus	ppi activating stimulus	1
+additionally many resin	pps	1
+AIAGrequirements	ppap	1
+ancillary waste	ppe	2
+channel treatment	ppp compression	1
+chemometric procedure	ppmc coefficient	1
+corporate IT solution	ppp data communication	1
+difficult-to-mold material	pps	1
+diversified chemical company	ppg	1
+education technology	ppt	1
+organization	ppga	1
+organization	ppta	1
+organization	ppos in the mix	1
+organization	ppg industries	1
+financial stakeholder	ppos	1
+free online marketing tool	ppc	1
+government guidance document	pps one 	1
+government guidance document	pps three 	1
+high-end internet marketing service	ppc management	1
+instructor group	ppct	1
+interesting gun	ppk pistol	1
+internet initiative	ppc	1
+ISO tool	ppap	1
+jewelry relative product	pp bag	1
+key insurance term	ppo	1
+luxury good group	ppr	1
+maintenance content	ppts	1
+mammalian gene product	pp two a 	2
+managed care health plan	ppos	1
+microsoft suite product	ppt	1
+molten resin	pps	1
+office format	ppt	1
+official parners	ppma	1
+online promotional strategy	ppc advertising	1
+optional protocol	ppp	1
+p2pstreaming system	pplive	4
+packagingmaterials	pp strap	1
+paid method	ppc	1
+photographic association	ppa in the usa	1
+plastic office chair part	pp armrest	1
+plastic welding rod	pph welding rods	1
+plastic welding rod	pp weld rods	1
+organization	ppd help alliance	1
+technique	ppc	3
+powerpoint presentation	pptx	1
+powerpoint presentation	pptm	1
+presentation authoring tool	ppt two flash professional 	2
+private healthcare company	ppp	2
+pro organization	ppa	1
+program output	ppp strategy	1
+PVC ball valve	pp ball valve	1
+PVC ball valve	pph ball valve	1
+quality glass	ppg	1
+quality SEO service	ppc	1
+quantitative system	ppbs	1
+reading dosimeter	ppocket dosimeter	1
+regeneration model	ppps	1
+search engine marketing need	ppc campaign management	1
+seemingly endless acronym	ppo	1
+single stage	ppg's omni with hardener	1
+single stage paint	ppg concept dcc single stage urethane	1
+slow link	ppp	2
+static image file format	ppm	1
+successful, well-known figure	ppl's community relations manager	1
+traditional internet source	ppc	2
+traffic course	ppv	1
+true customer specific requirement	ppap	1
+utilized sale resource	ppp datum	1
+water filter element	pp sediment cartridge	2
+water filter element	pp wound cartridge	2
+weak intermolecular force	pp interaction	1
+webmaster topic	ppc	1
+3rd party audit tool	ppc epractice aides	1
+ad model	ppc	1
+bag-in-box related offer	pp bag	1
+basic compression algorithm	ppm	1
+technique	ppr	2
+technique	ppbs	1
+technique	ppb in the federal government	1
+technique	pprc	1
+best quality plastic pipe	pp-r	1
+big bag related offer	pp bag	1
+big luxury conglomerate	ppr sa	1
+big-endian architecture	ppc	1
+carrier bag related offer	pp woven bag	1
+character-based interface	ppp persona	1
+claim management firm	ppi claim company	1
+commercial automotive paint	ppg	2
+commission option	ppc	1
+common health care option	ppo	1
+conventional plan	ppos	1
+conventional predictive speech coder	ppp coder	1
+conventional unit root test	pp test	1
+cooperative model	ppps	1
+datum link layer module	ppp	1
+datum link-layer protocol	ppp	1
+detailed system	pps	1
+DHs	pparg i nine 	1
+digital marketing	ppc marketing	1
+doctrinaire islamic party	ppp	2
+document support PPAP	ppk	1
+door mat	pp door mat	1
+edge online strategy	ppc	1
+EVA film related offer	pp film	1
+fashionable ribbon belt	pp belt	1
+FIBC bag related offer	pp bag	1
+FIBC bulk bag related offer	pp bag	1
+fixed-income avenue	ppf	2
+full spectrum red	ppc-r ten  ryan's red 	1
+full spectrum red	ppc-r four  real red 	1
+full spectrum red	ppc-r seven  candy apple red 	1
+fully standardized protocol	ppp	1
+technique	ppk code	1
+technique	ppc advertising with networks like google adwords	1
+technique	ppap	1
+garbage bag related offer	pp bag	1
+generic serial interface	ppp	4
+genuine leather wallet related offer	pp folder	1
+global CROs	ppd	3
+good quality capacitor	pps film	3
+inbound marketing strategy	ppc	1
+instant icon	ppg place in pittsburgh	3
+instructor course material	ppt slide	1
+ISP setting	pppoe user name	1
+jazz instrument	ppular jazz instrument	1
+large-volume material	pp compound	1
+likeair's key supplier	ppg	1
+lipid metabolism gene	ppara	1
+local cement manufacturer	ppc cement	1
+mainstream compression algorithm	ppm	1
+managed health care plan	ppos	9
+marketing stratagies	ppc campaigns	2
+market-type mechanism	ppps	1
+medicare private health plan	ppos	3
+multiracial party	ppp	1
+national floral organization	ppga	1
+non-ethernet interface	ppp	1
+application	ppp	3
+application	pppoe client	1
+nonwoven bag related offer	pp woven bag	1
+normal traffic generation strategy	ppc	1
+online business presentation	ppt s	1
+online businesspresentations	ppt s	1
+online marketing cost	ppc ads	3
+packet encapsulation type	ppp	1
+plastic egg tray related offer	pp food tray	1
+point-to-point interface	ppp	2
+polypropylene woven sack	pp woven sacks sack	1
+popular link configuration protocol	ppp for serial link	1
+popular weapon model	ppk pistol	1
+post office instrument	ppf	1
+PPP based service	pptp	6
+pulse modulation	ppm	1
+pure investment option	ppf	1
+reported gene	ppm one a 	1
+required modem configuration	ppoa	1
+search engine marketing	ppc ad	1
+search engine marketing	ppc	1
+search motor optimization technique	ppc	1
+short year discipline	ppc management	2
+sourcing HSE requirement	ppe	1
+spray gun major brand	ppg	1
+successful laboratory	ppv in athens	1
+suc-cessofp2piptv service	pplive	1
+suc-cessofp2piptv service	ppstream	1
+suitable, highly chemically inert material	pps	1
+supplier quality activity	ppap	1
+application	pptp vpn	1
+application	ppt for microsoft powerpoint presentation	1
+application	ppps in the british national health service	1
+application	pp tumbler	1
+application	pp foaming	1
+application	pplive	1
+application	ppstream	1
+application	ppt	1
+application	pptp client	1
+system power-management information	ppm capability	1
+tax saving scheme	ppf	1
+thermoplastic engineering polymer	pps	1
+top pittsburgh employer	ppg	1
+touse application	ppp	1
+traditional manufacturing firm	ppg	1
+traditional online marketing method	ppc campaign	1
+tunneling standard	pptp	1
+unregulated generator	ppl corp.	1
+username-based authentication system	ppp chap	1
+username-based authentication system	ppp challenge handshake authentication protocol	1
+vertebrate receptor	ppar	1
+VPN related protocol	pptp	1
+wide area network related topic	ppp	1
+world famous international company	ppg	1
+380s	ppk	1
+accurate advection scheme	ppm scheme	3
+advanced chemometric procedure	ppmc coefficient	1
+affluent party	pprd	1
+AIAG requirement	ppap	1
+analytical standard	ppcp	1
+Arc Flash hazard information	ppe level	1
+automotive requirement	ppap's	1
+awesome AI	pp's formestane	1
+barrel design	ppk	1
+big international insurer	ppp	1
+big PMI provider	ppp	1
+book related offer	pp notebook	1
+brand tuner	ppe	1
+brass insert related offer	ppr fitting	1
+budgeting reform	ppbs	1
+bulk bag related offer	pp bag	1
+bulk raw-water user	ppl electric utilities in allentown	1
+name	ppp zero 	1
+canned tuner	ppe	1
+classic NZ setting	pppoa	1
+club concept	ppp on the record	1
+common CPs	ppy	1
+conventional ECPs	ppy	1
+conventional VPN solution	pptp	1
+coordinated care plan	ppos	2
+co-payment many managed-care plan	ppos	1
+dental capitation plan	ppos	1
+digital marketing program	ppc	1
+e-glass supplier	ppg industries inc	1
+electoral watchdog	ppcrv	1
+electronic training aid	pp projector	1
+e-rich phosphines	pph  three 	1
+e-rich phosphines	pph three 	1
+ever-lasting service	ppc	1
+name	ppc	1
+name	ppg industries inc.	1
+name	ppq	1
+name	ppg	1
+name	ppc advertising	1
+name	ppc marketing	1
+film plant	pp tq blown film plant	1
+first, available biological network	ppi network	1
+frame level protocol	ppp	1
+full duplex frame-level protocol	ppp	1
+glass-filled engineering plastic	pps	1
+heath care plan	ppos	1
+high quality auto paint	ppg	1
+high-capacity plastic	pps	1
+higher-order modulation format	ppm	1
+high-functionality plastic	pps	1
+highperformance polymer	pps	1
+high-quality polymer	ppsu	1
+holster sport	ppc	1
+home user service	ppv	1
+hypothetical exchange rate	ppp	1
+illinois health insurance plan	ppos	2
+industry standard form construction contract	ppc two thousand   partnering contract 	2
+inexpensive traffic generating tool	ppc ad	1
+infection prevention precaution	ppe	1
+injection resin	pps	1
+innovative financing mechan ism	ppp	1
+internet advertising method	ppc	1
+IPTV	ppstream	3
+IR-UWB modulation	ppm	1
+islamic political party	ppp	1
+KEGG pathway	ppar signaling pathway	1
+key private equity house	ppm ventures	1
+lady bag related offer	pp bag	1
+large paint manufacturer	ppg	1
+legendary experiment	ppg realizer	2
+factor	ppm of sulfate	1
+factor	ppv significance	1
+case	ppc	3
+case	ppa	2
+localized environmental damage	ppms even localized environmental damage	1
+low-fuel-permeability resin	pps	1
+managed care policy	ppo	1
+Managed Health Care Plans	ppos	1
+monetization technique	ppc advertisement	1
+Monodentate phosphines	pph  three 	1
+negotiated-price plan	ppos	1
+non-ipv6 packet	ppp packet	2
+non-organic search engine marketing strategy	ppc	1
+non-ppo PPO certain medical expense	ppo office visit	2
+non-standard abbreviation	ppf	2
+normal concentration unit	ppm	1
+normal concentration unit	ppb	1
+normal tax saving avenue	ppf	1
+one-time ACH payment method	ppd debit	1
+ongoing feature enhancement	pptp pass-throughs for vpns	1
+p53-related gene	ppm one d 	1
+PE pipe related offer	ppr pipe	1
+PE-RT pipe related offer	ppr pipe	1
+phosphanes	pph three 	1
+pittsburgh corporation	ppg industries inc.	1
+plastic end cap	pp end cap	1
+plastic foot valve	pp foot valve	1
+plastic granule	pp ldpe hdpe for blow rotate inject	1
+platform capability	ppc platform capability	1
+polyalkylene oxide group high polymer	ppo	2
+polybag related offer	pp gift bag	1
+polybag related offer	pp bag	1
+popular pistol	ppk	1
+case	pps signal	1
+case	ppd's gift	1
+case	ppexecname variable	1
+case	pp washing machine agitator	1
+case	ppo in bengkulu	1
+case	pp-pdc time ticket	1
+case	pphn	1
+case	ppd test	1
+post-stalingrad weapon	ppsh- fourty-three 	1
+PPase	ppase extracted from a microorganism	1
+presentation-dedicated package	pprsstd	1
+preventative care coverage	ppo	1
+prokaryotic PPIases	ppib from bacillus subtilis	1
+proteasome interacting protein	pp two a 	1
+proven online advertising technique	ppc	1
+proven-effective strategy	ppa	1
+pulsed modulation	ppm	1
+pure biofuels	ppo	1
+PVC film related offer	pp film	1
+quality control management tool	ppap	1
+quest helm	pp knorr heaumes	1
+rae system portable PID instrument	ppbrae  three thousand  	1
+remote copy operation	pprc	1
+remote protocol	ppp	1
+Remote Station Controller option	ppc	1
+replica model	ppk	1
+request-response network protocol	ppp	1
+requisite precaution	ppe	1
+rigid-rod polymer	ppta	1
+salt water spray	pps salt water mix	1
+scrapbook related offer	pp cover	1
+sectoral intervention	pproach sectoral intervention	1
+secure remote access protocol	ppp	1
+semi-empirical quantum chemical model	ppp	1
+short phosphate molecule	ppi	1
+simple marketing technique	ppc	1
+standard VPN protocol	pptp	1
+standard VPN service	pptp	1
+standard WAN protocol	ppp	1
+stress-induced transcript	ppp one r fifteen a 	1
+Subclinical neurocognitive endophenotypes	ppi of the startle response	1
+subnet configuration protocol	ppp	1
+option	ppf	3
+option	ppos	2
+option	ppc	2
+option	ppg gear	1
+option	pptp	1
+option	pp insert	1
+option	ppv	1
+option	ppoe	1
+tetoac cess OGB publication	ppo plan document	1
+traditional traffic generation method	ppc	2
+traffic technique	ppc	1
+trained group	ppd moms peer support network washington	1
+triarylphosphines	pph three 	2
+triarylphosphines	pph  three 	1
+tunnel type	ppp	1
+two-particle reaction	pp chain	1
+uclear receptor	ppar-alpha	1
+unclear product category	ppo	1
+va-rietyofprotocols	ppp	1
+VDP output format	ppml	1
+WAN setting	pppoe password	1
+WAN type	pptp	1
+3rd tool	ppt two flash standard 	1
+account tunneling protocol	pptp	1
+adipocyte inhibitor	ppar-gamma inhibitor	1
+advanced and high-technology based strategy	ppc marketing	1
+alarmones	ppgpp	1
+alternatively more, complex protocol	ppp over atm on an adsl link	1
+ARD member party	ppp	1
+ATD	ppu	1
+atp-competitive inhibitor	pp two 	1
+ausaid funded program	ppii	1
+authentication info	ppoe	1
+automotive paint supplier	ppg	1
+option	ppc distribution option	1
+based service	pptp	1
+best compression program	ppmd	1
+biotechnological sub-products	ppg	1
+blowback model	ppk	1
+bonus report	ppc marketing for beginners	1
+budget analysis process	ppbs	1
+budget-conscious plan	ppo select value care with no deductible	1
+bulk raw water user	ppl electric utilities	1
+business building option	ppc management	1
+calendar related offer	pp cover	1
+cheap basecoats	ppg dbc	1
+CICS server	ppc gateway	1
+clean room customer	ppcs	1
+Coemulsifiers	ppg- three  myristyl ether sold under the trade name emcol  two hundred and fourty-nine - three k by the company witco 	1
+commercial p hoto-ionization detector	ppb-rae by rae systems	1
+commercial p2pstreaming system	pplive	1
+commercial photo-ionization detector	ppb-rae by rae systems	1
+common tyrosine phosphorylated protein	pp sixty  src 	1
+complex pulsed modulation	ppm	1
+Contemporary primer-surfacers	ppg's acrylic urethane k- thirty-six 	1
+conv entional measurement technique	pps	1
+conventional high temperature material	ppsu	1
+criminal party	ppp & mqm	1
+default electric provider	ppl	1
+dial-in IP connection	ppp	1
+disk-based copy technology	pprc	1
+group	ppc	2
+group	ppr	1
+efficacious method	pph	1
+engineered NLO material	ppktp	1
+enthusiast society	ppg offer assistance with restoration	1
+entofother phosphatases	pp two a 	1
+exchange rate forecast model	ppp	1
+field-deployable application	ppa system	1
+fill-in-the-blank template	ppap form	2
+filtering signal	ppg signal	1
+fixed debt instrument	ppf	1
+flat-fee system	pps	1
+Formonodentate ligands	pph  three 	1
+full internet protocol	ppp	1
+generic budgeting system	ppbs	1
+glass-filled resin	ppa	1
+glycolytic bypass enzyme	ppi-dependent phosphofructokinase	1
+good brand auto glass	ppg	1
+GOOD, catalyzed epoxy primer	ppg dp	1
+headline-grabbing star	ppl therapeutics	1
+health care dental plan	ppo plan	1
+health insurance type	ppos	1
+heat resistive material	pps	1
+heat resistive resin	pps	2
+heat-resistant thermoplastic resin	pps resin	2
+heat-resistive resin	pps	1
+high heat durability resin	pps	1
+high heat-resistivity resin material	pps	1
+high quality poly filler	ppg microfine	1
+high quality single stage paint	ppg concept	1
+high tm resin	pps	1
+high-end, value-added product	ppgi product	1
+higher-melting monomer	ppdi	1
+high-level index	ppi for finished goods	2
+high-temperature glass-filled polymer material	pps pes	1
+group	pph	1
+inorganic SEO campaign	ppc	1
+integrated procurement approach	ppp	1
+large mainstream political party	ppp	1
+larger-scale economic bailout effort	ppip	1
+legal grey area	ppl living off immoral earnings	1
+linear rod-like polymer	ppy	2
+link layer protocol packet	ppp negotiation packet	1
+low protocol overhead router application	ppp	1
+low quality sword	ppk	1
+low thermal mass component	ppt capacitor	1
+lower-layer protocol	pptp	1
+Macromolecule precursor	ppv precursor	1
+manufacturer's glass	ppg	1
+masala lover	ppcc	1
+mass marketing advertising strategy	ppc	1
+middle-range player	ppb oil palm bhd	1
+moisture-absorbing fabric material	pps	1
+network-level protocol	ppp	1
+non deductible debt	ppor loan	1
+non-hermetic cavity package	ppga	1
+non-protein factor	ppgpp	1
+non-regulated company	ppm energy	1
+method	ppc	12
+method	ppc campaign	1
+method	ppa	1
+non-x86 system	ppc	1
+normal marketing method	ppc	1
+occupational sensitizers	ppd in hair dye	1
+OEM glass company	ppg	1
+OEM glass distributor	ppg aka pgw	1
+online advertising solution	ppc on google adwords	1
+online advertising strategy	ppc	2
+online medium marketing cost	ppc ads	2
+opaque heat-resistant resin	ppa	3
+over-current circuit protection element	pptc thermistor	1
+p2p tv	ppstream	1
+P2PTV program	ppstream	1
+page effort	ppc	1
+paid advertisement	ppc ad	1
+part epoxy primer	ppg dp fourty lf 	1
+partner-based structure	ppima project steering committee	1
+Patient-held mini-records	ppip personal health guide	1
+Payment protection insurance	ppi natwest	1
+performance advertising campaign	ppc	2
+picking gunnery-based skill	ppc specialist	1
+pipette fabrication tool	pp- eight hundred and thirty  pipette puller 	1
+polarizable water model	ppc model of wx kusaliketal	1
+political dialogue process	ppdf	1
+popular P2P Internet-Based TV	ppstream	1
+popular VPN security protocol	pptp	2
+PPGs	ppg three  on housing 	1
+PPSs	pps four  on sustainable economic growth 	1
+PPT product	ppt viewers installed	1
+practical p2pstreaming implementation	pplive	1
+precapillary condition	pph	1
+pressure stable enzyme	ppo	1
+pressure-dependent technique	ppc andpmdsc	1
+principle PPMU staffs	ppmu coordinator	1
+private payer plan	ppos	2
+process-specific template	ppap	2
+proffesional organization	ppa	1
+Programmable LSIs	ppi	1
+proprietary file	ppt	1
+publicly-traded rival	ppr sa's gucci group	1
+QPM material	ppln	1
+quality plan template	ppap	1
+regional and local pittsburgh client	ppg	1
+relative new realization strategy	ppp for the dutch healthcare sector	1
+remote network connection	ppp	1
+resettable device	pptc device	1
+retail credit union	ppl gold credit union	1
+rigid-rod polymer material	ppe	1
+roar arcane acronym	ppc	1
+router mode	ppp oe	1
+scale forest industrial company	ppm	1
+secondly system	ppc	1
+sector-specific solution	ppp project	1
+seismological datum	pp attenuation	1
+method	ppc ppa cpa a percentage of the sale	1
+method	ppln	1
+method	ppia	1
+method	ppm	1
+method	ppv banner ad	1
+method	ppc marketing method	1
+method	ppc advertising	1
+simple framing protocol	ppp	1
+single 9V battery	pp three 	1
+Smad phosphatase	ppm one a 	1
+small frame semi-auto	ppk	1
+small lipophilic PS molecule	ppaoritsmethyl ester	1
+small saving product	ppf	1
+snappy, technocratic-sounding acronym	ppbs	1
+somewhat classic SMGs	pp nineteen 	1
+SOP index	ppi for finished good	1
+spacer system	ppg intercept spacer	1
+specialised security related article	pp non-woven fabric security pouch	1
+spray booth related offer	pp filter	1
+standard concentration unit	ppm	1
+standard IT system	pps	1
+standardized VDP output format	ppml	1
+state health insurance policy	ppos	1
+statistical datum compression	ppm method	1
+sta-tisticaldata compression	ppm method	1
+status tag	pps for reason	1
+sterically different phosphines	pph  three 	1
+strong corporate and governmental partner	ppl	1
+substream-based application	pplive	1
+sufficient consumable resource	ppe for the duration of a pandemic wave	1
+supplier collaboration solution	ppap within plm	1
+supplier performance scorecard -metric	ppm	1
+supplying ball valve	ppr ball valves	1
+synthesis byproduct	ppi	1
+TB test	ppd skin test	1
+third party presentation	ppt two flash standard 	1
+transparent screening material	ppsu	1
+UK government's containment policy	ppg thirteen  on transport 	1
+universal algorithm	ppm	1
+unsavory ingredient	ppd included in the mix	1
+unsoiled item	ppe	1
+utility partner	ppl	1
+VDP file	ppml	1
+verbal noun	pp in ie language	1
+tool	ppc	2
+tool	ppps	1
+tool	ppbs	1
+VPN communication technology	pptp	1
+VPN specific setting	pptp passthrough enabled by default	1
+WAN access technology	ppp	1
+wavetable synthesiser	ppg wave	1
+Wavetable synthesisers	ppg wave	1
+wavetable synths	ppgs in high esteem	1
+wax & grease remover	ppg dx four hundred and fourty 	1
+WorkEngine prebuilt work apps	ppm workengine	1
+tool	ppc campaign	1
+tool	pputer-based datum analysis tool	1
+tool	ppv resistant plant material	1
+tool	ppc marketing	1
+tool	ppc bully	1
+tool	ppt	1
+product	pp bag	9
+product	pp foldable boxes	6
+product	pp fittings	5
+product	pp pillbox	5
+product	pp fitting mould	5
+product	pp mould	4
+project	pps	1
+project	ppr housing at setapak	1
+project	ppl park	1
+project	pp- nine  in riyadh 	1
+artist	ppk	1
+material	pps	8
+material	ppe	4
+material	pps resin	2
+material	pp granule	1
+material	pp paper	1
+material	ppcp	1
+material	ppln	1
+material	ppt presentation	1
+material	ppo	1
+material	ppt	1
+material	pps engineered plastic	1
+material	ppg- three  myristyl ether 	1
+material	pp copolymer	1
+technology	ppc	1
+technology	ppds from sap	1
+technology	pptp	1
+product	pp water bottles	3
+product	pp netting	3
+product	ppr pipe fitting	2
+product	ppr plastic extruders	2
+product	ppg olympic maximum	2
+product	ppc classroom	2
+product	ppr pipe	2
+technology	ppp	1
+technology	pplive	1
+technology	ppstream	1
+term	ppc	6
+term	ppm	2
+term	ppe	2
+term	ppc marketing	2
+term	pps	1
+term	ppv	1
+parameter	ppm value of the quartz crystal	1
+parameter	ppm value of the crystal oscillator	1
+system	ppbs	1
+system	ppc advertising system	1
+system	pplive	1
+measure	ppp model	3
+measure	ppp dollar	1
+measure	ppp funding	1
+measure	ppp-models	1
+measure	ppe	1
+element	ppp multilink	1
+element	ppo	1
+product	pp file	1
+product	pp bag making machine	1
+function	pprc	1
+function	ppc	1
+function	ppp authentication	1
+device	ppp adapter	2
+device	ppc	1
+brand	ppg	7
+brand	ppg glass	1
+brand	ppg paints	1
+concept	ppsp contract	1
+concept	ppc	1
+concept	ppgis	1
+component	pps	1
+component	ppc ad	1
+aspect	ppc	2
+aspect	ppc traffic advertisement	1
+aspect	ppis control aspect	1
+task	ppc management	2
+task	ppc analysis	1
+task	ppa cover	1
+related product	pps capacitor related product	1
+related product	ppr insert related product	1

@@ -1,0 +1,369 @@
+resource	qos policers	1
+facility	qos-related development	1
+source	qos report	1
+benefit	qos	1
+subject	qos	1
+exception	qos	1
+work	qos-onto language by i. v. papaioannou et al	1
+model	qosmio range	2
+characteristic	qos support	1
+characteristic	qos performance characteristic	1
+characteristic	qossupport	1
+situation	qods day	1
+feature	qos	31
+approach	qos models with quality criterion	1
+effect	qoe	2
+agency	qorvis communications	1
+mechanism	qos mapping between application qos	1
+mechanism	qos scheduling mechanism	1
+mechanism	qos degradation detection	1
+mechanism	qos	1
+solution	qos control solution	1
+solution	qooxdoo	1
+feature	qos support	2
+book	qohelet	1
+band	qotsa	2
+operation	qos rule	1
+operation	qos negotiation	1
+scholar	qohelet	1
+city	qom	7
+consideration	qos mappings	1
+criterion	qos group	1
+challenge	qos guarantee	1
+requirement	qos	4
+dish	qorma	1
+dish	qoroma chelow	1
+advantage	qos support	1
+manufacturer	qomo	1
+feature	qos handling	1
+feature	qos management feature	1
+attribute	qos link attribute	1
+setting	qos	4
+policy	qoliqoli bill	1
+entity	qos client	1
+feature	qos control	1
+improvement	qos	2
+partner	qosmos	1
+advanced feature	qos	12
+advanced feature	qos extension	1
+critic	qoriniasi bale	1
+feature	qos priority	1
+issue	qos	15
+capability	qos	2
+capability	qos requirement	1
+district	qormi	1
+constraint	qos	3
+issue	qos monitoring	1
+issue	qos constraint	1
+functionality	qos	5
+functionality	qos support	1
+issue	qos-based resource allocation enabling application participation	1
+protocol	qos multicast routing protocol protocol	1
+protocol	qos network protocol	1
+outcome	qol	1
+village	qormi	1
+enhancement	qos	1
+page	qos setting	1
+advanced topic	qos architecture for the internet	1
+layer	qossolutionsin different link layer	1
+issue	qos consideration	1
+issue	qouta system	1
+issue	qos requirements of the application	1
+name brand	qood name brand	1
+technical issue	qos	1
+tribe	qom de la primavera	1
+heroes	qop	1
+functionalities	qos	2
+functionalities	qos support	1
+message	qos queries	1
+construct	qol	1
+international company	qoo	1
+performance measure	qosand sla measures about the system	1
+serious issue	qos	1
+key topic	qos	1
+fundamental issue	qol	1
+key component	qos	1
+comment	qojsjh watch movies online rzwfsvu common	1
+comment	qopcxb watch movies online ctgkemu every day	1
+item	qos setting	1
+advanced function	qos	4
+advanced function	qos for differentiated service	1
+performance parameter	qos performance parameter	1
+outcome measure	qol	1
+common task	qos management	1
+complex task	qos polices	1
+psychosocial factor	qol for boy	2
+traditional service	qos	1
+area	qos	2
+design consideration	qos	1
+network service	qos	3
+network service	qos management	1
+performance characteristic	qos performance characteristic	1
+sophisticated technique	qos	1
+key function	qos	1
+advanced service	qos	3
+continuous variable	qol rating	1
+continuous variable	qol score	1
+science	qoranic exegesis	1
+endpoint	qol	1
+advanced option	qos	1
+scenic spot	qoikang monastery	1
+famous sight	qolsharif mosque	2
+area	qos for ip network	1
+secondary factor	qoumgrcial success	1
+advanced capability	qos	1
+research topic	qos	1
+basic component	qos	1
+technical term	qos parameter	1
+service	qos	3
+management service	qos	2
+management service	qos management	1
+management service	qos management service	1
+large river	qora	1
+performance feature	qos for improved throughput	1
+software feature	qos	1
+historical landmark	qobustan petroglyph reserve	1
+laptop	qosmio	1
+factor	qos	1
+factor	qol	1
+factor	qos maintenance	1
+factor	qos requirement	1
+factor	qos requirements of the client	1
+add-on feature	qos	1
+premium product	qo for sq d.	1
+complex concept	qol	1
+subscription service	qore	1
+refinement	qos policy information model	1
+network protocol	qos for priority	2
+network protocol	qos network protocol	1
+service	qos management service	1
+key technique	qos-aware discovery	1
+technical challenge	qos	1
+core feature	qos	1
+clinical outcome	qol	2
+topic	qos	13
+research issue	qos signaling	1
+management feature	qos management feature	1
+critical feature	qos	1
+configuration parameter	qos setting	1
+configuration datum	qos parameter	1
+notebook	qosmio	1
+intelligent feature	qos	1
+real application	qosapplications like rsvp	1
+mosque	qoma mosque	1
+global information	qos configuration setting	1
+secondary city	qom	1
+middleware	qos-enabled doc middleware	1
+minor exception	qos	1
+nonfunctional requirement	qos	1
+ations	qos description language	1
+javascript framework	qooxdoo	1
+interactive device	qomo pad	2
+exciting name	qosamah	1
+management operation	qos negotiation	1
+management operation	qos-based service selection	1
+management operation	qos monitoring	1
+non-functional aspect	qos measurement at the higher level specification of asl	1
+famous DJs	qool dj marv	1
+account parameter	qos	4
+configuration task	qos	1
+application characteristic	qos requirement	1
+quality assurance measure	qof validation visiting program	1
+architectural issue	qos negotiation	1
+intrusion	qoroq nepheline-syenite in south greenland	1
+key capability	qos management	1
+intelligent service	qos	2
+continuous measure	qol	1
+service attribute	qos parameters-committed information rate	1
+generic function	qos scheduling	1
+feature enhancement	qos	3
+intelligent network service	qos	2
+eclectic influence	qotsa through a perspiration-injected blender	1
+industry-leading feature	qos	1
+administrative policy	qos	1
+control solution	qos control solution	1
+extended function	qos	1
+information	qos profile	3
+information	qos	3
+ip network	qos ip network	1
+patient-reported outcome	qol	1
+network capability	qos	1
+substantial benefit	qos provisioning	1
+aggregation function	qos	1
+information	qos in the locating request	1
+information	qos preference	1
+emerging service	qos routing	1
+middleware component	qos manager	1
+user profile	qos requirement	1
+fabric service	qos	3
+value-add feature	qos	1
+access function	qos policing	2
+advanced mechanism	qos	1
+link layer parameter	qos	2
+religious city	qom	1
+latin abbreviation	qod	1
+operational policy	qos	1
+system level parameter	qos parameter	1
+level functionality	qos functionality	1
+nuclear site	qom	1
+event	qortaj concerts	1
+iranian city	qom for global leadership of the sect	2
+fundamental research challenge	qos	1
+IP technology	qos	1
+narration	qopeku	2
+connectivity attribute	qos	1
+local management function	qos	1
+nowadays technology	qos	1
+performance related issue	qos	1
+Ajax toolkits	qooxdoo	1
+common voip topic	qos tool	1
+desired mechanism	qos	1
+systemwide wireless LAN function	qos	1
+typical service discipline	qos support	1
+typical service discipline	qossupport	1
+dependent application	qos dependent application	1
+great international AR company	qoncept	1
+link attribute	qos link attribute	1
+MBMS user service	qos	1
+network intelligence feature	qos	1
+qos management feature	qos packet remarking	1
+traffic control technique	qos	1
+WAN optimization technique	qos	1
+account qos parameter	qos value	1
+advanced data-center service	qos by utilizing the advanced service primitives for large-scale data-centers	1
+advanced IP service	qos	1
+complex confi guration task	qos setting	1
+complex order	qod	1
+difficult technical challenge	qos	1
+draytek's most exciting feature	qos	1
+full network management feature	qos	7
+kazan attraction	qolsharif mosque	1
+MTS carrier ethernet feature	qos	1
+networking capability	qos	2
+nonfunctional service	qos support	1
+technique	qos	3
+qos management function	qos negotiation	2
+qos management function	qos monitoring	1
+service management capability	qos management	1
+subscriber management function	qos	1
+sunni school	qotbiyya	1
+system wide wireless LAN function	qos	1
+team foundation server project artifact	qos requirements	1
+UML profile	qos	1
+unusual letter	qoppa	1
+voice-over-wlan feature	qos	1
+advanced feature configuration	qos policy	3
+basic operational concept	qos from transmission	1
+classical era site	qohaito	2
+embedding component	qos	1
+experienced professor	qobad shiva	1
+japanese PET bottle soft drink	qoo	1
+link layer	qossolutionsin different link layer	1
+MAC specific parameter	qos	1
+meaningful abbreviation	qos for quality overall summary	1
+muslim celebration	qorban	1
+network enforcement attribute	qos	1
+application	qos	3
+application	qos routing	1
+policy-based management feature	qos	1
+popular toshiba laptop	qosmio	1
+port-specific qos setting	qos acls	2
+qos component	qos routing	3
+qos component	qos sensing	2
+qos component	qos processing	2
+required application	qos	1
+RF challenge	qos	1
+service provider technology	qos	1
+service quality parameter	qos requirement	1
+signalling duration	qos-cf polls	1
+application	qos dependent application	1
+traditionalmiddleware service	qos	1
+UMTS core network qos issue	qos inter-working	1
+ancient cultural artifact	qoran	1
+application-layer information	qos requirement	1
+basic voip concept	qos	1
+communication technology mechanism	qos	1
+complex network configuration	qos	1
+cross-stack application	qos	1
+data-transfer parameter	qos	1
+default microsoft network filter driver	qos packet scheduler	1
+generic router capability	qos	1
+good toshiba laptop	qosmio	1
+inquiry function	qos availability	1
+name	qoch	1
+MAC layer processing	qos maintaining	1
+mac-level qos function	qos scheduler	1
+middleware resource manager	qos broker	1
+minimum network requirement	qos	1
+network node function	qos	2
+case	qomolangma nature preserve in tibet	1
+case	qos monetization	1
+print partner	qoop	1
+qol instrument	qol index for mental health	1
+qos protocol	qos-aware mac protocol	1
+service functionality	qos	1
+case	qos testing	1
+totally new network parameter	qos	1
+user's radius-assigned parameter	qos	2
+wmnsfaceseveral challenge	qos	1
+Advance router functionality	qos	1
+advanced MAC functionalities	qos	1
+advanced management function	qos	1
+option	qoqo island	1
+option	qos	1
+basic qos service	qos packet scheduler	1
+coldfusion specific feature	qofq of heterogeneous integration	1
+complex time-sensitive function	qos encryption	1
+configuration profile	qos	1
+demonstration city	qom in iran	1
+detailed service configuration	qos	2
+DPI technology	qos application	1
+e2e issue	qos-aware mobility mechanism	1
+eight-core processor	qoriq	1
+functional processing	qos with the service node	1
+great wisdom collection	qoheleth	1
+issue ofmulticast scheduling	qosconstraintmulticast scheduling	1
+mouth-watering food	qosi rice	1
+muisc gonna show	qotsa	1
+patient-reported outcome measure	qol	1
+per-session configuration	qos	1
+populated locality	qormi	1
+potential standardization item	qos-qoe relationship	1
+qos-friendly multicast scheme	qos-aware multicast routing protocol	1
+robust traffic management capability	qos classification	1
+Service monitoring functionalities	qos monitoring	1
+tricky configuration task	qos	1
+urdu daily	qomi tanzim	1
+value-added service add-ons	qos-controlled service provisioning	1
+VRESCoregistry storesmetadata	qosorphysical location of service	1
+WAN optimisation technique	qos	1
+tool	qos	1
+tool	qos performance monitor	1
+technology	qos	6
+term	qos metric term	1
+term	qos	1
+parameter	qos	3
+parameter	qol algorithm	3
+parameter	qos value	1
+parameter	qos performance parameter	1
+parameter	qos guarantee	1
+species	qods	1
+measure	qos routing	1
+element	qos	1
+function	qos	9
+function	qos guarantee suitable for multimedia application	1
+function	qos monitoring	1
+function	qos of the broadcast	1
+function	qos packet classification	1
+function	qos provisioning	1
+brand	qoo	2
+brand	qooltea ice tea	1
+brand	qood name brand	1
+brand	qool energy drink	1
+concept	qos	4
+concept	qos support	1
+component	qos negotiator	2
+component	qos verifier	2
+component	qop service component	1
+aspect	qos	7
+aspect	qos class	1

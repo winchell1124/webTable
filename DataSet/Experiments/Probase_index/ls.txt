@@ -1,0 +1,1305 @@
+factor	lsat score	4
+factor	lsi	2
+initiative	lsc policy initiative	1
+initiative	lsid	1
+accessory	ls four hundred  performance accessory 	1
+accessory	ls performance accessory	1
+resource	lsu's materials characterization center	1
+resource	lsp	1
+process	ls	1
+process	lsass.exe	1
+source	lsc	1
+source	lsac	1
+property	lsid authority	1
+game	lsu-florida	1
+game	lsu last year	1
+product	lsbx clock	1
+exception	lsc london east's third way	1
+character	ls dance character	1
+work	lsd dream emulator	1
+model	lsa	2
+model	lsaand random indexingextend the approach by adding generalization	1
+model	ls i series	1
+model	ls on the low end	1
+model	lsi series	1
+attraction	lst tour	1
+category	lsm	1
+institution	lse	2
+institution	lsbu	1
+client	lsi logic	2
+client	lsc	1
+client	lsi gresham oregon	1
+document	lsat score	1
+document	lsc cross-site reports	1
+feature	ls package	4
+form	lsuhsc-no faculty at ochsner templates for informed consent	1
+person	lsu's associate professor of mathematics dirk vertigan	1
+person	lsu granddad	1
+approach	lsi	3
+approach	lstm	1
+approach	lsa related approach	1
+alternative	lsat bootcamps	1
+alternative	lsat dump	1
+agency	lsb	1
+agency	lss	1
+object	ls page only user-added object	1
+theme	lspr coupling	1
+course	lsat test preparation course	1
+course	lsat	1
+mechanism	lsr self-test	1
+solution	lsf	1
+feature	lsf	2
+part	lsx  ninety-two  mm intake manifold 	1
+part	ls six  intake 	1
+part	ls seven  clutch 	1
+part	lsd housing	1
+school	lsu	44
+school	lse	5
+title	lsaac	1
+agent	lsd	2
+feature	ls- one hundred and twenty  recovery code 	1
+feature	ls  four hundred and sixty 	1
+venue	lse	1
+criterion	ls position	1
+criterion	ls type	1
+firm	lsi corporation	1
+drug	lsd	417
+drug	lsd- twenty-five 	1
+drug	lsd lysergic acid diethylamide	1
+test	lsat	21
+test	lsats for law school admission	1
+instrument	lsi-r show movement in various dimension	1
+attribute	lsp id	1
+attribute	lsp checksum	1
+compound	lsd	3
+study	lse social mobility study	1
+study	ls- fifty  test on animal 	1
+position	lst base	1
+position	lss president	1
+website	lsn	1
+figure	lst century roman historian pliny the elder	2
+figure	lscript commander	1
+equipment	lsf applicator	1
+equipment	lscape ientation cutting machine the winder	1
+unit	lsi	2
+unit	lsp establishment unit	1
+unit	lsa development	1
+unit	lsp generation unit	1
+basic	lsat	1
+leader	lsg sky chefs	1
+team	lsu	31
+substance	lsd	39
+entity	lsu system office	1
+building	lsu student union	1
+feature	lsg compatibility	1
+feature	ls decor package	1
+feature	lsc bulk reconciliation module	1
+feature	ls trim package	1
+variety	lsu purple	1
+Organisations	lsis	1
+partner	lsi	2
+partner	lsi training partner	1
+animal	lsu's tiger	1
+vendor	lsi	4
+vendor	lsi computer systems	2
+vendor	lsi logic	2
+vendor	ls cable	1
+critic	lse sociologist	2
+critic	lse professor	1
+market	lse's professional securities market	1
+customer	lsi logic	1
+customer	lsi logic corporation	1
+vehicle	ls  four hundred and sixty 	1
+label	lso live	1
+value	lsp	1
+duty	lso calling the deck	1
+chemical	lsd	4
+student	lssu	1
+student	lsa freshman carly tracey	1
+party	lssp	2
+party	lsuc	1
+competitor	ls power group	2
+constraint	lsp bandwidth	1
+stakeholder	lsc	2
+issue	ls-fcmsavoidthe complicated issue	1
+stakeholder	lsk	1
+stakeholder	lsc contract managers	1
+brand name	lse	1
+key item	lsl economic	1
+difference	lsd diff	1
+package	lsf	1
+producer	lsi logic	1
+algorithm	lsl	1
+car	ls one  f-body 	1
+utility	ls	7
+utility	lsof	2
+university	lse	21
+university	lsu	5
+university	lse for economics	1
+university	lslamia university bahawalpur	1
+friend	lsu defensive coordinator phil elmassian	1
+statistic	lsat score for entering student	1
+file	lsl	1
+measurement	ls two 	1
+measurement	ls  two  vs. dc 	1
+protocol	lsp configuration protocol	1
+card	lsi megaraid sas  eight thousand seven hundred and eight elp 	1
+employer	lsu medical center	1
+arrangement	lse's short-lived partnership with the publisher pearson	1
+interest	lsa's particular interest	1
+guy	lsu's jamarcus russell	1
+guy	lsu wideout skyler green	1
+issue	lsp	1
+college	lsu	7
+college	lsr	3
+college	lsr for ba economics	2
+college	lse	1
+college	lsb	1
+college	lsu ej ourso college of business	1
+annual event	lsa easter sports	1
+forum	lse dot uk	2
+government agency	lsc	1
+gene	lsm one 	1
+charity	lso	1
+page	ls diary	1
+rival	lse	1
+threat	lsu's jordan jefferson	1
+industry leader	ls cable	1
+suspect	lsd	2
+suspect	lsu	1
+electronic device	lsi chip	1
+command	ls	62
+command	lsmod	3
+command	lspci	2
+command	lsattr	2
+command	lsof	1
+specialty item	ls seven  long-snout crankshaft 	1
+code	ls-dyna	3
+code	lsp code	2
+face	lsl for coding honor	1
+staple	lsu in paris	1
+staple	lsu in ireland	1
+staple	lsu in germany	1
+staple	lsu in london	1
+engine	ls one 	3
+coach	lsu's paul mainieri	1
+power	ls lightning power	1
+tenant	lsg sky chefs	1
+item	lsd	4
+framework	lsws use mvc pre-built framework	1
+board	lsp programme board	1
+area attraction	ls mall	1
+recommendation	lsu agcenter recommendation	1
+nice feature	ls decor	1
+trade	lsx part	1
+local company	lsi logic	1
+local company	lsi autos plus	1
+meeting	lscc	1
+fuel	lshs	1
+software package	ls d fourty-nine 	1
+circuit	lsi	5
+circuit	ls one hundred and thirty-nine  series chip 	1
+vessel	lsv	2
+international company	lsjust of korea	1
+basic function	lsp setup using the ldp	1
+item	lser label	1
+item	lsat score	1
+survey	lsst	5
+survey	lsms	4
+info	lspci	1
+interesting feature	lse's body-color grille	1
+key stakeholder	lsc	1
+ship	lst four hundred and twenty 	1
+tag	lsta grant	1
+community resource	lss	1
+degree	lse's history of international relations	1
+derivative	lsb	1
+tune	lsg netherworld	1
+small project	lss	1
+electronic component	lsi	9
+electronic component	lsi device for signal processing of broadband information	2
+electronic component	lsi chip	2
+electronic component	lsi's	1
+government	lsw student government	1
+leading company	lsi logic	2
+mega event	lsu tigers happening throughout the year	1
+local resource	lsu	1
+detector	lso crystal	1
+detector	lso	1
+simple technique	lsb modification	1
+performance accessory	ls four hundred  performance accessory 	1
+performance accessory	ls performance accessory	1
+stimulant	lsd	1
+semiconductor device	lsi	41
+semiconductor device	lsi chip	3
+semiconductor device	lsi memory	1
+semiconductor device	lsis with a plurality of mos transistor	1
+semiconductor device	lsis having mos transistor	1
+electrical component	lsi	1
+datum set	lss	1
+pro	lsv	1
+small part	lsi	1
+political party	lssp	1
+toxic substance	lsd	1
+covariates	lscc in the test before the clinical mastitis event	1
+educator	lsu medical school	1
+examination	lsat	2
+student group	lsa student government	1
+large employer	lsi	2
+research project	lsam	1
+powerhouse	lsu	2
+public agency	lsc	1
+controller	lsi	2
+american company	lsi logic	1
+deposit	ls epithermal gold deposit	1
+abbreviation	ls for limit switch	4
+abbreviation	lsp	1
+case study	lsp	1
+campus	lsu	1
+advanced tool	ls dyna	1
+exchange	lse	4
+development tool	lsi	1
+panel	ls one 	1
+basic requirement	lsl	1
+Christians	lsk	1
+innovative technique	lsi frontend	2
+motor	ls one 	1
+motor	ls six 	1
+scripture	ls advocate misuse scripture	1
+exam	lsat	5
+treaty	ls!% treaty with the shawnees	1
+night	lss	1
+international player	lsi logic corp.	1
+startups	ls nine 	2
+crystal	lso	1
+feedstocks	lswr	1
+policy initiative	lsc policy initiative	1
+standard tool	ls	3
+research institution	lsu agcenter	1
+truck	ls model	1
+training method	lst	2
+maintenance item	ls- six thousand eight hundred  pump spray lav deodorant 	1
+record label	lso live	1
+hazardous waste	lsa scale	1
+functional element	lsi	1
+standardized test	lsat	15
+objective factor	lsats	1
+scanner	ls  five thousand seven hundred 	1
+music legend	lsg	1
+simple application	ls	1
+key account	lsg sky chefs	1
+measurement tool	lsf	1
+funding agency	lsc	1
+top team	lsu baseball	1
+local initiative	lsp	1
+electronic part	lsi	4
+electronic part	lsi package	3
+electronic part	lsi s	1
+local retailer	lsu sportshop	1
+local retailer	lsu bookstore	1
+simple function	ls	1
+molecular marker	lsu rdna intron	2
+national agency	lsc	1
+circuit element	lsi bare chip  fifty-two a 	1
+nice amenity	ls model package	1
+nice amenity	ls equipment group	1
+classical method	lsi	1
+service	lss	1
+legal scholar	lsu law professor john baker	2
+complicated issue	ls-fcmsavoidthe complicated issue	1
+common drug	lsd	2
+high-tech company	ls nine 	1
+modeling tool	ls dyna for the purpose of failure analysis	1
+router	lsr sink	1
+top school	lsu	1
+innovative service	lsi logic's advanced dvd technology	1
+branded item	lsc costume	1
+business school	lse	2
+business school	lsb	1
+historical attraction	lst memorial in crotty park	1
+refinement	lslip diff	1
+professional certification	lsw	1
+great program	lsu	1
+regional factor	lsq	1
+prestigious university	lse	2
+controlled substance	lsd	8
+dangerous substance	lsd	1
+area school	lsu scheduling uh	1
+active element	lsi	2
+formal mechanism	lsp	1
+narcotic	lsd	2
+security solution	lsec	1
+coalition	lsr	1
+key agency	lsc	1
+datum mining technique	lsa	1
+flavonoids	lsoquercet	1
+top university	lse	1
+medical school	lsu	1
+free product	lsu converter	1
+liquid fuel	lshs	3
+adapter	lsi mpt fusion scsi	2
+adapter	lsi mpt-fusion scsi	1
+application software	lsdyna	3
+transport	lsm	1
+well-known brand name	lse	1
+estimator	lsdv	1
+access method	lsd tree	1
+illegal drug	lsd	47
+behemoth	lsg skychefs worldwide	1
+interesting application	lsr	1
+national survey	lsms	1
+trim	ls trim	1
+biotech company	ls nine 	1
+simple program	ls	1
+somethings	ls	1
+synthetic compound	lsd	1
+basic command	ls	8
+legal drug	lsa	1
+psychoactive drug	lsd	20
+utility function	ls	1
+basic utility	ls	1
+synthetic drug	lsd	11
+core	lsi logic standard-based core	1
+common process	lsa shell	1
+big employer	lsi logic	1
+psychotropic drug	lsd	5
+electronic circuit	lsi	4
+macroeconomic indicator	lsm growth	1
+college program	lsu	1
+large university	lsu	1
+system tool	lsof	1
+illicit drug	lsd	33
+local manufacturer	ls mtron	1
+big man	ls north's david kravish	1
+R&B artist	lsg	1
+well-known player	lsu's glen davis	1
+stock exchange	lse	3
+recreational drug	lsd	20
+advanced model	lsi	2
+elite unit	lssah	1
+art system	ls- nine hundred and three  device 	1
+lineman	lsu's tyson jackson	1
+product offering	lsi megaraid controller card	2
+removable device	ls- one hundred and twenty 	1
+deadline	lsue institutional deadline	1
+semiconductor element	lsi	6
+semiconductor element	lsi circuit chip	1
+network function	ls  one hundred and fifteen 	2
+non-prescription drug	lsd	2
+dangerous drug	lsd	20
+traditional power	lsu	1
+powerful drug	lsd	3
+prog ram	lsat preparation	1
+contemporary designer	ls collections	1
+personal check	lsu logo checks at cheap price	1
+hallucinogen	lsd	197
+latest model	ls four hundred and thirty 	1
+electrochemical method	lsv	1
+simple command	ls	4
+club drug	lsd	46
+club drug	lsa	2
+street drug	lsd	17
+elite team	lsu	1
+company	lsi logic	19
+company	ls nine 	14
+company	lsi	8
+company	lsi corporation supply asics	2
+company	lsi logic inc.	1
+company	lsg sky chef catering company	1
+company	ls nine  inc. 	1
+external process	ls	1
+hard drug	lsd	16
+household survey	lsms	1
+illegal substance	lsd	5
+test score	lsat	2
+unis	lse	4
+semiconductor manufacturer	lsi logic	1
+powerhouse team	lsu	1
+win	lsu over oregon	2
+computational model	lsa	1
+federal grant	lsta grant	1
+electric part	lsi	1
+tiger	lssah	1
+perennial powerhouse	lsu	1
+self-report measure	lss	3
+standardized test score	lsat	4
+functional device	lsi chip	1
+market event	lse takeover	1
+national power	lsu	1
+novelty product	lsu novelty product	1
+common command	ls	2
+entrance exam	lsat	3
+traditional powerhouse	lsu	2
+well-established program	lsu	1
+aptitude test	lsat	1
+convenient tool	lsp repair	2
+GM car	lss	1
+psychoactive substance	lsd	5
+traditional provider	lsu hospital	1
+technological parameter	lsi	1
+company	ls' main company	1
+company	lsi logic supply asics	1
+company	lst software	1
+company	lsf interactive	1
+company	lsi solutions of rochester	1
+company	lsi corp.	1
+company	lscc	1
+company	lsw	1
+good university	lse	1
+livestock disease	lsd	1
+common utility	ls	1
+stuffers	ls one tech.com calendar 	1
+eminent figure	ls lowry	1
+harmful drug	lsd	1
+natural drug	lsa	1
+peer institution	lsu	2
+carcinogenic substance	lsd	1
+system call	lstat	1
+talk	ls venkaramanan memorial lecture	1
+binary	ls	1
+hallucinogenic drug	lsd	57
+hallucinogenic drug	lsdand mescalin	1
+medical use	lsd	1
+semiconductor chip	lsi chip	3
+semiconductor chip	lsi	2
+toxic drug	lsd	4
+activity	lsg	1
+activity	lsc	1
+co-occurring disorder	lsd abuse	1
+designer drug	lsd	2
+elite program	lsu	1
+psychedelic	lsd	63
+psychedelic	lsd- twenty-five 	3
+semiconductor integrated circuit device	lsi	3
+semiconductor integrated circuit device	lsis of the standard cell system	1
+system command	lsusb	2
+4-H event	lsu football game	1
+industry specialist	lsg sky chefs	1
+mind-altering drug	lsd	7
+mind-altering drug	lsd in relation with hypnotism	1
+national powerhouse	lsu	1
+psychedelic drug	lsd	59
+psychedelic drug	lsd- twenty-five 	2
+RNAs	lsu rrna	1
+sign language	lsf	1
+spectral feature	lsp	1
+powerhouse program	lsu	1
+soft drug	lsd	2
+standard reference work	lsj	1
+standard utility	ls	1
+UNIX utility	ls	2
+specialist institution	lse	2
+standardized exam	lsat	2
+UNIX command	ls	9
+large-scale study	lsac	3
+semiconductor integrated circuit	lsi	5
+admission test	lsat	1
+cartoon tv channel	ls movies	1
+command-line tool	ls	1
+national test	lsat	1
+promising application	lsi defect analysis	1
+psychotropic	lsd	1
+uni	lse	1
+commonly abused drug	lsd	1
+powerhouse school	lsu	1
+UNIX tool	lsof	1
+standard command	ls	2
+glider	ls four 	1
+resource manager	lsf	1
+scanning device	lsu mounted on a laser printer	2
+supergroups	lsg	1
+topic model	lsa	1
+large survey	lsst	1
+longitudinal survey	lsac	1
+turbine component	lss torque	1
+clearing house	lse's cc	2
+decomposition technique	lsa	1
+local partnership	lsp	1
+man-made substance	lsd	1
+party drug	lsd	2
+external project	lsn-led molenet eight  mobile learning initiative 	1
+prestigious program	lsu	1
+schedulers	lsf	1
+technology industry leader	lsi	1
+epidemiologic study	lss of the survivors of hiroshima	1
+heavyweight name	lsa international	1
+illicit substance	lsd	3
+narcotic substance	lsd	1
+subspace method	lsi	1
+training partner	lsi training partner	1
+veteran team	lsu	1
+cytosolic protein	lsd one 	2
+high profile program	lsu	1
+semiconductor product	lsi chip	2
+social drug	lsd	2
+entertaining game	lsu	1
+standardized achievement test	lsat	2
+traditional utility	ls	1
+classification tool	lsi	1
+experimental drug	lsd	1
+mind-altering substance	lsd	4
+powerful agent	lsd	1
+entrance examination	lsat	1
+national party	lssp	1
+others drug	lsd	1
+serious drug	lsd	2
+information	lsat	1
+information	lsat result	1
+information	lsp structure	1
+information	lsusb result	1
+information	lsat score	1
+information	lsa-modified matrix	1
+dental practice	lsu dental school	1
+illegal narcotic	lsd	2
+international exchange	lse	1
+left party	lssp	1
+neighboring school	lsu	1
+physical team	lsu	1
+promising program	lsu	1
+big-time program	lsu	1
+edge company	lsi logic	1
+hallucinogenic	lsd	5
+hallucinogenic	lsd- twenty-five 	1
+linux command	ls	1
+non-addictive drug	lsd	1
+opioide	lsd	2
+semiconductor circuit	lsi	1
+signal property	lsb	2
+stubborn program	lsi adapter	1
+artificial compound	lsd	1
+command-line utility	ls	2
+exe file	lsass . exe	1
+modern engine	ls one 	1
+API function	lsa family	1
+central university	lse	1
+champagne brand	lsa glassware champagne glasses	1
+club drugs	lsd	3
+command line utility	ls	1
+hallucinogenic substance	lsd	4
+normal command	ls	8
+pruning method	lst	1
+silicone rubber	lsr	1
+temporary visa holder	ls	1
+top unis	lse	5
+UK venue	lso st. luke's	1
+circuit type	ls  one hundred and sixty-five 	1
+college football team	lsu	1
+college football team	lsu tigers	1
+heavy drug	lsd	1
+limit switch	ls one 	1
+psychedelic substance	lsd	12
+psychedelic substance	lsd by effect	1
+Psychoactive drug s	lsd	1
+rnb artist	lsk	1
+semiconductor stock	lsi logic	1
+BCS program	lsu	1
+complex survey	lsms	1
+inorganic crystal	lso	2
+large telescope	lsst	1
+lighter	lsv	1
+national testing program	lsat	3
+personalised information	lsbu email	1
+premier school	lsu	1
+psycoactive drug	lsd	1
+respected program	lsu	1
+shell command	ls	3
+tryptamines	lsd	5
+tryptamines	lsd- twenty-five 	1
+unbeaten team	lsu	1
+actual device	lsi chip	1
+annual power	lsu	1
+Bourses	lse	2
+branded component	lsi	1
+common illicit drug	lsd	3
+event	lsb picnic	1
+event	lsi logic's acquisition of agere	1
+program	lsu	22
+program	ls	7
+executable program	ls	1
+forward-thinking organization	ls power	2
+illegal street drug	lsd	1
+key partner organization	lsc	1
+lethal drug	lsd	1
+loss team	lsu	1
+one-loss team	lsu	2
+Serotonergic agonists	lsd	7
+standard exam	lsat	1
+synthetic stimulant	lsd	1
+traditional exchange	lse	1
+traditional substance	lsd	1
+class A drug	lsd	2
+computer simulation tool	ls-dyna	1
+continuous outcome variable	lscc	1
+cross-sectional datum set	lsms	1
+cryco customer	lsi	1
+destructive drug	lsd	1
+Hard drugs	lsd	1
+legacy program	ls	1
+married couple	ls sarah cameron	1
+program	ls-dyna	2
+other event	lssa host other event	1
+psychiatric effect	lsd	1
+psychoactives	lsd	2
+standard unix tool	ls	1
+storage array vendor	lsi logic	1
+utility command	ls	1
+basic unix command	ls eto list the content	1
+basic unix command	ls	1
+built-in command	ls	1
+classic athletic school	lsu	1
+common street drug	lsd	1
+excellent institution	lse	1
+function unit	lsa-plus component	1
+illicit stimulant	lsd	1
+organizational board	lsu flagship coalition	1
+outstation	ls three hundred  series talkback loudspeaker station 	1
+program	lsu medical school summer science program	1
+program	lsu ag center youth wetlands program	1
+program	lsat preparation	1
+program	ls command	1
+porous catalyst	lscmo	1
+porous catalyst	lsm	1
+psychoactive chemical	lsd	1
+psychotogenic drug	lsd	1
+query operation	lsuser command	2
+small speaker	lsr  four thousand three hundred 's 	1
+southern power	lsu	1
+standardized entrance exam	lsat	1
+big time program	lsu	1
+centrally located school	lsu	1
+configuration protocol	lsp configuration protocol	1
+divison I school	lsu	1
+drugs of abuse	lsd	1
+exciting company	ls nine 	1
+external command	ls	1
+file system command	ls	2
+generation unit	lsp generation unit	1
+guitar builder	lsl guitars	1
+illegal or controlled drug	lsd	1
+increase concern substance	lsd	1
+ional testing program	lsat	1
+job scheduling system	lsf	1
+linear encoder	ls  four hundred and eighty-seven 	3
+linear encoder	ls  one hundred and eighty-seven 	2
+linear encoder	ls  one hundred and eighty-six 	1
+long-standing event	lsss faculty wine & cheese reception	1
+long-time power	lsu	1
+MTFs	lse's turquoise	2
+NCAA football team	lsu	1
+psychadelic drug	lsd	4
+psychotomimetic drug	lsd	2
+regional gem	ls ayres	1
+resource management system	lsf	1
+standard linux command	ls	1
+standard unix command	ls	3
+standardized admission test	lsat	1
+strongest warrior	lst paladin	1
+traditional football power	lsu	1
+unix-file-system-like command	ls	1
+addictive and illicit drug	lsd	1
+addictive or habit-forming illegal drug	lsd	2
+analysis code	ls-dyna	1
+asian student	lsa sophomore	1
+best story	lsu vs. ohio state trial	1
+catering company	lsg sky chef catering company	1
+class A substance	lsd	2
+command name	ls	2
+common system command	ls	1
+common UNIX command	ls	1
+deep wreck	lsd- thirty-two  spiegel grove 	1
+digital logic circuit	lsi	1
+division school	lsu	1
+DSP vendor	lsi	1
+exchange group	lse	6
+finite element code	ls-dyna	3
+football bowl subdivision program	lsu	1
+g-loaded test	lsat	1
+krylovsubspace method	lsqr andgmresfornon-hermitian problem	1
+low viscosity material	lsr	1
+man-made drug	lsd	2
+model designation	ls- seven hundred and fifty 	1
+multi-protections	lsp	2
+neutral-site marquee game	lsu	3
+normal file management operation	ls	1
+peripheral member	lsi for driving	1
+popular club drug	lsd	1
+rave drug	lsd	1
+scintillation material	lso	1
+secure, proctored examination	lsat	1
+semi-conductor element	lsi	1
+organization	lsi	3
+organization	lsc	2
+organization	lso	2
+so-called psychedelic compound	lsd	1
+specialised university	lse	1
+strong psychedelic drug	lsd	2
+virtual storage solution	lsm	1
+west different illicit drug	lsd	2
+ACE-inhibitory peptides	lsp	1
+ALLUCINOGENS hallucinogen	lsd	1
+antiserotonergic drug	lsd	1
+big-school guy	lsu's demetrius byrd	1
+busybox command	ls	1
+chan-listed variety	ls one hundred and fifty-two a 	1
+chan-listed variety	ls one hundred and seventeen a 	1
+classical hallucinogen	lsd	2
+common shell command	ls	1
+D. drug	lsd	1
+day drug	lsd	1
+entheogenic drug	lsd	3
+organization	lssu	1
+ergotalkaloids	lsd	1
+ergotalkaloids	lsd lysergicaciddiethylamide	1
+felony drugs	lsd	1
+FEM code	ls-dyna	1
+file system related command	ls	1
+fully synthetic drug	lsd	1
+graduate admission test	lsat	1
+graduate entrance exam	lsat	1
+graduate school admission test	lsat	2
+graduate school examination	lsat	1
+hallucinog en	lsd	1
+hallucinogen drug	lsd	1
+illegal or street drug	lsd	1
+insured depository institution	lsb bank	1
+intensive survey	lsms	1
+leading HBA vendor	lsi logic	1
+mands	ls	1
+nationally-recognized test	lsat	1
+nonlinear code	ls-dyna	1
+normal drug	lsd	1
+on-line practice test	lsat	1
+on-line reference	lsl portal	1
+organization	lsn	1
+organization	lsrwc in at the watershed level in saskatchewan	1
+powerful and unpredictable drug	lsd	1
+private and public sector agency	lsc	1
+protocol packet	lsack packet	1
+protocol packet	lsu packet	1
+protocol packet	lsr packet	1
+risk drug	lsd	1
+scintillation crystal	lso crystal	1
+security utility	lsof	1
+single-chip solution	lsi system	1
+tilt sensor	lsi three hundred and two dl  three -axis accelerometer available from stmicroelectronics 	2
+top tier university destination	lse	1
+top Uni	lse	3
+traditional bucketing method	lsd tree	1
+traditional unix utility	ls	1
+travel-related company	lsg sky chefs	1
+typical psychedelic drug	lsd	2
+web caching system	lsam	1
+well-known established name	lsi	1
+32-bit integer operation routine	lshl	1
+academic exam	lsat	1
+advanced semiconductor company	lsi logic corporation	1
+amazing addons	ls three 	1
+baseball school	lsu	1
+technique	lsa	2
+technique	lsi	2
+chevrolet cobalt model	ls coupe	1
+classical entheogens	lsd	1
+college football's top defender	lsu's morris claiborne	1
+common file system tool	ls	1
+common UNIX shell command	ls	1
+conductive part	lsi pad	2
+Conventional job schedulers	lsf	1
+core window service	lsass	1
+credential evaluation service	lsac's llm credential assembly service	1
+crystal scintillator detector	lso	1
+data-intensive project	lsst	1
+demonic influence	lsd	1
+designer psychedelic	lsd	1
+disk-related UNIX utility	ls	1
+DRUG OR SUBSTANCE-INDUCED PSYCHOSIS drug	lsd	2
+electrical and heavy engineering company	ls group	1
+electronic circuit part	lsi	1
+essential command	ls	1
+europe's largest exchange group	lse	1
+expansive drug	lsd	1
+external storage system	lsi cts two thousand six hundred  storage system 	1
+first generation GRP composite glider	ls one 	1
+technique	lstm	1
+hallucenogenic drug	lsd	1
+hallucinatory and psychotomimetic drug	lsd- twenty-five 	1
+hallucinogen substance	lsd	2
+Hallucinogenes	lsd	1
+hallucinogenic street drug	lsd	2
+heterogeneous backend batch job system	lsf	1
+high entrance exam score	lsat	1
+higher-rated defensive player	lsu cornerback patrick peterson	1
+high-order time-domain method	lstd method	1
+high-profile school	lsu	1
+horse-related youth development activity	lsu agcenters  four -h horse project 	1
+horse-related youth development activity	lsu agcenter's  four -h project 	1
+horse-related youth development activity	lsu agcenter's  four -h & ffa horse project 	1
+hot technology company	ls nine 	1
+household sample survey	lsms	1
+hybrid offering	ls hybrid	1
+illegal controlled substance	lsd	1
+illegal drug use drug	lsd	1
+illegal psychedelic drug	lsd	2
+illegal psychoactive substance	lsd	1
+immunofluorescence method	lscm	1
+IR method	lsi	1
+Labelling	lsen	1
+large area imaging survey	lsst	1
+large sky survey telescope	lsst	1
+legacy high-capacity drive	ls- one hundred and twenty 	1
+Linux commands	ls	1
+Local job schedulers	lsf	1
+LS engine	ls seven  model 	1
+LS engine	ls three 	1
+LS engine	ls two 	1
+MAF	ls one 	1
+MAF	ls two  maf on the ls one 	1
+mind-expanding drug	lsd	1
+module vendor	ls research	1
+multinational CRO company	lsk global ps	1
+multi-wavelength survey	lsst	1
+NCAAB ticket	lsu tigers ticket	1
+non-addicting drug	lsd	1
+application	ls	3
+application	lsr	2
+application	lsa	2
+application	lsi package	1
+normal unix command	ls	1
+north carolina commercial bank	lsb bank	1
+now-illegal drug	lsd	1
+numerical predictor	lsat score	1
+occupational association	lsnsw	1
+ongoing and future survey	lsst	1
+onpedestal-mounted rocker arm	ls one 	1
+opposing team	lsu	1
+PAP old guard	lss	1
+partnership work	lsp	1
+pathing command	lspath	1
+programmable datum interface mode	lsb	1
+psychedelic compound	lsd	2
+psychedelics	lsd	2
+psycho-active substance	lsd- twenty-five 	1
+psycho-active substance	lsd	1
+pure-plays	lsg	1
+scanning voltammetric technique	lsv	1
+second round	lsu's chad jones	1
+sero-tonergicagents	lsd	1
+shell-like command	ls	1
+signing company	lsi	1
+simple theory	lsre discussed in the previous section	1
+sophisticated cisco IOS software feature	lsp ping	1
+SSH server	lsh	1
+standard file system navigation command	ls	1
+standard networking tool	lsof	1
+sunny.uni.edu unix basic command	ls	1
+surface enhancement method	lsp	1
+suspected drug	lsd	1
+synthetic biology company	ls nine 	1
+synthetic hallucinogen	lsd	6
+application	lsf coding	1
+application	lsi	1
+application	lsi integrated circuit	1
+top insurance carrier	lsw	1
+Traditional bourses	lse	1
+tryptamine-based psychedelic drug	lsd	9
+typical IRIX command	ls	1
+typical watermarking strategy	lsb coding	1
+unixlike command	ls	1
+weekend standardized test	lsat	1
+women's team	lsu	1
+abusable, addictive drug	lsd	1
+acting hallucinogen	lsd	1
+aircraft supply inexpensive flight	ls aircraft	1
+alumnus sport group	lsu tigers	1
+Any7 psychoactive substance	lsd	1
+arguably gnu core utility	ls	1
+bag-of-word based approach	lsi	2
+based vehicle	ls two  with an efi live v one  interface 	1
+basic linux command	ls	1
+benchmark exam	lsat	1
+better-capitalized company	ls nine 	1
+binarys	ls	1
+BW drug	lsd	1
+name	ls-magazine	2
+canopen service	lss	1
+case manager drug	lsd	1
+certification school	ls coding & education	1
+channel decoder	lsi logic.tm	1
+classic hallucinogen	lsd	4
+classic hallucinogenic psychedelic	lsd	1
+club-drugs	lsd	1
+college student government	lsa student government	1
+commercial WMS package	lsf	1
+commercially available scintillation crystal	lso	1
+common hallucinogen	lsd	1
+common linux command	ls	1
+common shell-type command	ls	1
+corpus-based method	lsi	1
+critical system tool	ls	1
+critical wind turbine component	lss torque	1
+digital system component	lsi	2
+documented language	lsf	1
+dynamic returner	lsu's patrick peterson	1
+earthing cable	lszh  six thousand four hundred and ninety-one b conduit wiring cable 	1
+electrically conductive perovskites	lscr	2
+electrically conductive perovskites	lsco	2
+electromagnetic field dependent phenomenon	lspr reftactive index biosensing	1
+elementary command	ls	1
+engine swap	ls one  into mazda rx- seven 's 	1
+equally useful program	lspcad lite	1
+ergot-related drug	lsd	1
+expensive recreational drug	lsd	1
+name	lsu's charles scott	1
+name	lsu coach nick saban	1
+name	lse	1
+name	lsd guru timothy leary	1
+name	lsi	1
+FC best-practice design	lsans for fault domain isolation	1
+force-fed truth serum drug	lsd	1
+generation survey	lsst	1
+giant survey	lsst	1
+good game TBD	lsu vs. west virginia	1
+graduate school admission examination	lsat	1
+Graduate testing	lsat	1
+hallucinatory substance	lsd	1
+hallucinogenic and narcotic drug	lsd	1
+heavy scintillating crystal	lso	1
+high capacity floppy disk drive	ls one hundred and twenty 	1
+high level DAC parameter	lsb per segment	1
+highl ighted gene	lst one 	1
+highlighted gene	lst one 	4
+highly-regarded program	lsu	1
+histone demethylases	lsd one 	1
+icelandic IT company	ls retail	2
+ingress feature	lsp advertising	1
+integral circuit	lsi	1
+job queue manager	lsf	1
+factor	ls factor	1
+case	lsa	2
+limit marquee out-of-conference game	lsu vs. oregon	1
+linear low rank approximation technique	lsa	1
+linux source code tool	ls	1
+listboxes	lstdivision one 	1
+listboxes	lstdivision two 	1
+local plane-wave decomposition technique	lss method	1
+LS series engine	ls two 	1
+LS series engine	ls three 	1
+lsu-related and college-related website	lsu athletics official website	1
+lsu-related and college-related website	lsu official website	1
+massive ground-based survey	lsst	1
+MDMA drug	lsd	1
+mind-changing drug	lsd	1
+multi-country survey	lsms	1
+multi-voltage feature	ls selection	1
+nationally representative datasets	lsms	1
+non-cultural agency	lsp	1
+non-marching band	lsjumb at stanford	1
+NYU student	lsp freshman gigi braybrooks	1
+optional jacket material	lszh	1
+ordinary file-handling tool	ls	2
+OS registration metadata	lsp's	1
+outside name	lsk	1
+PAM indicator	lsb	1
+pan-democratic party	lsd in legco	1
+perception-changing drug	lsd	1
+post-graduate testing	lsat	1
+potent hallucinogen	lsd	2
+pre-built framework	lsws use mvc pre-built framework	1
+predatory and club drug	lsd	1
+professional college test	lsat	1
+professional school admission test	lsat	1
+Promising startups	ls nine 	1
+psychedelic drugs	lsd	1
+Psychochemicals	lsd	1
+psychotic or drug	lsd	1
+pure semiconductor company	lsi logic	1
+required supplementary exam	lsat for law school	1
+resin-molded type semiconductor device	lsi	1
+second, psychedelic	lsd	2
+semiconductor technique	lsi technique	1
+simply command	ls	1
+single command	ls	2
+sister hospital	lsu shreveport	1
+so-called home-cooked hallucinogen	lsd	1
+so-called synthetic drug	lsd	1
+sophisticated saturation index	lsi	1
+stan-dard command	ls	1
+strand-based SCL product	lsl	1
+strong numeric predictor	lsat	1
+student government	lsw student government	1
+super capacity floppy device	ls one hundred and twenty 	1
+case	lsu s billy cannon	1
+case	ls	1
+case	lsu's billy cannon	1
+option	lsw-turf tire	2
+option	ls- one hundred and twenty  drive 	1
+synthetic and semi-synthetic drug	lsd	1
+system vulnerability	lsass	2
+test-tube drug	lsd	1
+text mining method	lsa	1
+topic model method	lsa	1
+traditional ASIC company	lsi corp.	1
+traditional independent power producer	ls power	1
+typical abbreviation	lsm for landing ship	1
+unfamiliar drug	lsd	1
+UNIX system function	ls	1
+vaunted unit	lssah	1
+vector quantizer	lsp quantizer	1
+workload manager	lsf	1
+world-class school	lse	1
+5HT 2A agonists	lsd	2
+5-HT 2A receptor agonists	lsd	1
+5HT2A agonists	lsd	3
+ABSTRACT modern microscopical technique	lscm	1
+abstract-psychedelic drug	lsd	1
+accessible psychedelia	lsd	1
+advanced vector space model	lsi	1
+alucinogenic drug	lsd	1
+Appraisal Management Company	lsi	1
+area research institution	lsu health sciences center in shreveport	1
+option	lsu	1
+basic system binary	ls	1
+baton rouge educator	lsu professors pamela blanchard	1
+beta-adrenergicheskie receptor psychedelia	lsd	1
+broad, multitopic household survey	lsms	1
+california biotech company	ls nine 	1
+cathedral-port head	ls two 	1
+Central nervous antidepressive psychedelia	lsd	1
+Chevelles	ls six 	1
+chevy engine	ls one 	1
+circular buffer array structure	lsq	1
+cisco ATM WAN switch	ls  one thousand and ten  switch 	1
+commercial explicit lagrangian code	ls-dyna	1
+commercial finite element method program	ls-dyna	2
+commercial finite element package	ls-dyna	1
+common utility program	ls	1
+comprehensive, reliable and valid instrument	lsi	1
+compression setup	ls seven  & ls three 	1
+conceptual matching system	lsi	1
+CONCLUSION epidemiologic study	lss of the survivors of hiroshima	1
+CONCLUSION results-oriented approach	lss	1
+conductive ceramic paste	lsm paste	1
+conductive perovskites	lsco	1
+consciousness-expanding drug	lsd	2
+co-op's founder	lsp member dennis timmerman of boyd	1
+country-wide survey	lsms	1
+cross-cutting plan	lscb business plan	1
+discussion model	lsa	1
+domain-specific implementation strategy	lsid	3
+doped chromites	lscc	1
+drug hallucinogen	lsd	2
+easiest way hallucinogen	lsd	1
+group	lsd trio	1
+elicit drug	lsd	1
+entheogen	lsd	1
+epithermal gold deposit	ls epithermal gold deposit	1
+expensive maker	ls mens clothes of nyc	1
+experimental substance	lsd	1
+external MAF	ls one 	1
+fact serotogenic hallucinogen	lsd psilocybin	1
+famous manc aritists	ls lowery	1
+first address extant project	lsst	1
+fish bigger event	lsb	1
+geometrical processing	lsi mask pattern processing	1
+german assault unit	lssah	1
+graphics-based finite element analysis software	ls-dyna	1
+growing method	lst	1
+hallucinatory agent	lsd	1
+hallucinogen psychedelic drug	lsd	5
+Hallucinogenic 5-HT 2A agonists	lsd	1
+hallucinogenic and psychedelic drug	lsd	1
+Hallucino-genic5-HT 2A agonists	lsd	1
+hallucinogens-psychedelic drug	lsd	1
+harsh many european school	lse	1
+HDM model	lsa	1
+heat sensitive psycho-active drug	lsd	1
+heavily exam-oriented institution	lse	1
+heavy and fast scintillators	lso	1
+high horse motor	ls- six 	1
+high speed racer	lsr	1
+highest requirement	lsm	1
+Hydrocodes	ls-dyna	1
+imperfect predictor	lsat	1
+implementation familiar command	ls	1
+incumbent exchange	lse	1
+indica dominant strain	lsd	1
+industrial finite code	ls d-dyna explicit code	1
+group	lse alumni group on linked in	1
+group	lsid	1
+group	lsg	1
+innovative ground-based telescope	lsst	1
+installa-vendors	lsi	1
+JFK abuse drug	lsd	1
+jrunscript function	ls	1
+K9me2-specific demethylase	lsd one 	1
+large capacity element	lsi	1
+large nordic organization	lsu	2
+large procurement	lsec master contract	1
+large scale element	lsi	1
+left coalition Party	lsi of ilir meta	1
+lesion-mimic gene	lsd one 	1
+linear preamplifier	ls five hundred and eighty-one  ls five hundred and eighty-one  preamplifier 	1
+liquid-based drug	lsd	1
+local source line	lsl zero   two hundred and eighty-five 	1
+long training sequence	ls one 	1
+low smoke zero halogen thermoplastic	lszh polyethylene	1
+LS1 family SBC	ls six 	1
+LSA parameter	lsa identity	1
+LSAT study guide	lsat for dummy	1
+LSAW publication	lsaw reference manual	1
+lse shop selling item	lse cuff link	1
+LSI element	lsi wafer	1
+LSID client	lsid tester	1
+LSR	lsr  five hundred and ninety-five -hc 	1
+LSSs	lsss  two hundred and five 	1
+LSx V8	ls one 	1
+m interferometers	lsa	1
+man-made psychedelic	lsd	1
+manufactured psychotropic drug	lsd	1
+memory intensive command	lsq	1
+metadata service	lsc segment database	1
+micropatterned, complicated electronic device	lsi	1
+modern crash simulation software	ls-dyna	1
+modern wing section	ls- one  series 	1
+modified lockscreen	ls rice wine	1
+moniker designation	ls six 	1
+multi-epoch synoptic survey	lsst	3
+nation top college	lsu	1
+negative, only higher end engine	ls one 	1
+non-alkali halide scintillators	lso	1
+non-invasive detection	lsm	3
+non-standard floppy drive	ls- one hundred and twenty 	1
+method	lsa	3
+method	lsd	2
+normal linux command	ls	1
+normal linux tool	ls	1
+on-line questionnaire	lsc learner survey	1
+op-artsy relief print	ls pattern	1
+open-door campus	lsue	1
+opinion university	lse	1
+optical gas imaging technology	lsi hawk camera	1
+papillary drug	lsd	1
+particular interest	lsa's particular interest	1
+PCIe SCSI controller	lsi u three hundred and twenty 	1
+periodical population-based survey	lsms	1
+POSIX system comands	ls	1
+prescriptive statute	lsa-c.c. art	1
+professional editing tool	ls curve	1
+Protecting input terminal	lsi from over-voltage	1
+psychadelic chemical	lsd	1
+Psychochemical An agent	lsd	1
+purpose finite element software	ls-dyna	1
+pyschoactive drug	lsd	1
+QSH command	ls	1
+quadratic cost function	ls problem in eq	1
+quashing tool	lsd	1
+real electronic part	lsi	1
+recreational psychoactive substance	lsd	1
+regular college	lsu	1
+researching grant	lsta digitization grant	1
+RETRO drug	lsd	1
+RNNs	lstm	1
+scholarly research source	lsn	1
+School evaluation personnel	lssp	1
+SCOOP tool	lsu archive	1
+sco-supplied command	ls	1
+SCSI controller	lsi  twenty-one thousand three hundred and twenty r scsi controller 	1
+second semiconductor chip	lsi chip	1
+Second, non confocal imaging	lscm	1
+selective serotonergic drug	lsd	1
+method	lsab method	1
+method	lscv	1
+method	lsd tree	1
+semantic space model	lsa	1
+semiconductor-device manufacturing process	lsi manufacturing process	1
+semi-synthetic chemical	lsd	1
+serotonergic ligands	lsd	1
+severe, prolonged hallucinogen reaction	lsd-precipitated schizophrenic reaction	1
+si chip	lsi	1
+single crystal scintillators	lso	1
+slow CPUs	lsi- eleven 	1
+SOFC cathode material	lscf	2
+soil testing laboratory	lsu agcenter's laboratory	1
+solid, fiscally sound organization	lsfs	1
+sometimes command line tool	ls	1
+sometimes harder party drug	lsd	1
+state medical school	lsu	1
+streamview module	ls-topology map	2
+structural wood composite product	lsl	1
+submm interferometers	lsa	1
+subspace projection-based method	lsi	1
+suitable limit switch	ls two 	1
+svd-based technique	lsa	1
+synthesizable drug	lsd	1
+targeted university	lse	1
+top top unis	lse	1
+traditional freeform measurement method	lsm	1
+transverse scar	lscs scar	1
+tunnel label	lsp label	1
+two-way link	ls tower	1
+type end	lsu's tyson jackson	1
+typically metal type nut	lsr roller	1
+unconventional applicant	lsu dental school graduate stephen parker	1
+upcoming weak lensing survey	lsst	2
+USP device	ls  two thousand two hundred and eight  from symbol 	1
+vendor's solution	lssi's virtual reference toolkit	1
+tool	ls	3
+tool	lsof	2
+tool	lsf	1
+tool	lsb software development kit	1
+vocal tract parameter	lsf vector	1
+wave propagation code	ls-dyna	1
+weak lensing survey	lsst	1
+well-known psychedelic	lsd	1
+wide projector	ls four hundred and thirty 	1
+year distributional semantic model	lsa	1
+tool	lspcad	1
+tool	lsa	1
+tool	lsa tool	1
+tool	lspci	1
+tool	lsmt	1
+tool	lsi	1
+tool	lspci lscpu	1
+project	lsst	10
+artist	ls lowry	6
+artist	lszl moholy-nagy	1
+material	lsr	2
+material	lsm	1
+material	lsl	1
+material	lscf	1
+place	lsu campus for surveys on abortion	1
+place	lsu medical center	1
+player	lsu's tyrus thomas	1
+player	lsi logic	1
+player	lsu's patrick peterson	1
+technology	lsm	2
+product	lsd	2
+product	lsr	2
+product	ls fuel oil	1
+product	lsu novelty product	1
+product	lszh aerial cable	1
+term	lsup	1
+term	lsass	1
+parameter	lsi	2
+parameter	lsao two 	1
+parameter	lsa	1
+system	lsf	8
+system	lsat	1
+system	lsr online	1
+system	lsi	1
+measure	lso undercover search es of fl ats	1
+measure	lsa	1
+measure	lso undercover sea rches o f flat	1
+element	lsat	1
+variable	lsat score	1
+function	lsa refreshment function	1
+function	lsc	1
+function	lsa	1
+device	lsi logic l sixty-four thousand and two  mpeg decoder 	1
+device	ls- one hundred and twenty  floppy disk drive 	1
+device	lsi	1
+brand	lsv	1
+brand	lse	1
+concept	lsas with ospf	1
+component	lsi having a drive circuit	2
+component	lsi	2
+component	lsi chip	1

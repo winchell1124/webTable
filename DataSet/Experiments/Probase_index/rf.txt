@@ -1,0 +1,1959 @@
+factor	rf interference	4
+factor	rf compression	2
+product	rf reader related product	1
+product	rf coaxial connector related product	1
+product	rf evaluation kit	1
+initiative	rfid embedded passport	1
+initiative	rfu's value the volunteer initiative	1
+initiative	rfa	1
+accessory	rf output transformer	1
+datum	rfqs	2
+datum	rfid	1
+datum	rfm information	1
+datum	rf level	1
+datum	rf power state datum	1
+datum	rf propagation	1
+resource	rfb	2
+resource	rfid technology	1
+resource	rf spectrum scanning equipment	1
+facility	rfds meeting the above standard	1
+facility	rf micro devices	1
+facility	rf phase measurement	1
+process	rfi	2
+process	rf welding	2
+process	rf induction heating	2
+process	rfq	1
+process	rfa	1
+process	rfp	1
+process	rfp announcement	1
+process	rfagent	1
+source	rf coaxial source	1
+source	rfid s	1
+source	rf potential source	1
+property	rf carrier frequency	1
+property	rf signal	1
+benefit	rfid promise vast benefit	1
+game	rfactor	4
+game	rf online	2
+subject	rfid chip	1
+subject	rf property	1
+product	rf amplifiers	1
+product	rf coaxial cable related product	1
+product	rf repeaters	1
+product	rf surgical unit	1
+product	rfid watch tag	1
+product	rfid-enhanced smart packaging for medical product	1
+product	rf transceiver	1
+product	rf transceiver module related product	1
+product	rf system	1
+product	rf amplifier related product	1
+product	rf ideas pcprox	1
+product	rf coaxial connector	1
+product	rf welders	1
+model	rf	1
+characteristic	rf bandwidth	1
+word	rfw four se keygen 	1
+client	rfu	3
+client	rfsu	1
+document	rfp	4
+document	rfp video	1
+document	rfp document	1
+document	rfp response	1
+product	rfid em tag related product	1
+product	rfid access control system	1
+product	rfg	1
+product	rfid related product	1
+product	rfid series product	1
+product	rfid system	1
+product	rf wireless data acquisition	1
+product	rf-based burglar alarm system	1
+product	rf remote control related product	1
+product	rf remote controller related product	1
+feature	rf gain control	5
+strategy	rfid tags andgsmfinger printing	1
+form	rfis	2
+form	rfqs	1
+form	rfps	1
+approach	rflp	1
+approach	rflp mapping	1
+idea	rfid benefits wal-mart	1
+matter	rfu agents regulation	1
+alternative	rf heating	1
+effect	rf electro-magnetic force	1
+effect	rf magnetic field	1
+effect	rf-induced state change	1
+agency	rfb	1
+object	rfid case	1
+object	rfc function module	1
+location	rfk stadium	1
+mechanism	rf	2
+mechanism	rfi	1
+solution	rfid tagging	1
+feature	rfid coupling	2
+feature	rf resistant architecture	2
+structure	rf	1
+structure	rf transmission structure	1
+structure	rf transformer	1
+procedure	rf ablation	1
+part	rf	2
+part	rf converter	1
+part	rf circuit	1
+part	rf waveguides	1
+practice	rf design practice	1
+title	rfactor	1
+feature	rf gain	1
+feature	rf remote control	1
+feature	rf width	1
+feature	rfq posting	1
+feature	rf shielded cctv camera system	1
+feature	rf modulators	1
+feature	rf management	1
+feature	rf list mode	1
+feature	rfid support	1
+feature	rfid tag	1
+feature	rfid circuit	1
+feature	rfc three thousand one hundred and sixty-one  compatible time stamping client 	1
+development	rfid ink	1
+development	rfid technology	1
+type	rf analysis type	1
+venue	rfa workshop	1
+firm	rfs hotels	1
+firm	rfr realty	1
+industry	rf & consumer electronics	1
+challenge	rfid implementation	2
+indicator	rfid tag	1
+advantage	rfdofferssome unusual advantage	1
+treatment	rfa	2
+treatment	rf	2
+manufacturer	rfs	4
+manufacturer	rfid label manufacturer	1
+instrument	rf power meter	4
+instrument	rf generator	1
+instrument	rf signal generator	1
+man	rfk	1
+feature	rfid printing over the internet	1
+feature	rfc callback	1
+feature	rfc function	1
+feature	rfi power line	1
+setting	rf channel	1
+class	rfcpmessage class	1
+class	rfc class	1
+class	rfca class	1
+position	rf	1
+position	rf test engineer	1
+equipment	rf generator	1
+equipment	rf chamber	1
+equipment	rf cable	1
+equipment	rf coil	1
+equipment	rf scanner	1
+equipment	rf connector	1
+equipment	rf modulator	1
+unit	rfid controllers	1
+basic	rfp	1
+innovation	rfid-reader for dictation machine	1
+mean	rf welding	1
+mean	rf induction bonding	1
+mean	rf transmitter in the cable	1
+team	rf team	1
+entity	rfid interrogator	1
+feature	rf digitization	1
+phenomenon	rf leakage into the bias controller	1
+improvement	rfid recipe controls	1
+improvement	rf-heterodyne detection	1
+purpose	rfc one thousand nine hundred and eighteen  space 	1
+standard	rfc for wake on lan	2
+standard	rfc one thousand and thirty-six  standard 	1
+standard	rfid protocol standard	1
+standard	rf protocol standard	1
+advanced feature	rf beacon transmitter	1
+vendor	rf image vendor	1
+design	rf coil design	1
+design	rf switch	1
+critic	rfid law blog	1
+environmental factor	rf interference	1
+environmental factor	rf radiation level	1
+market	rf instrumentation	1
+vehicle	rfc advisory board	1
+feature	rfid	1
+feature	rf enabling	1
+feature	rf output power	1
+feature	rfi suppression	1
+issue	rfid solution	3
+issue	rf interference	2
+external factor	rf energy level	1
+step	rfid into world control of human	1
+step	rf converter	1
+capability	rf firewall	1
+capability	rf barrier	1
+capability	rf	1
+module	rf communication module	1
+module	rfid board	1
+module	rfid reader	1
+module	rfm	1
+module	rf circuit module	1
+retailer	rfid mandate retailer	1
+trait	rft	1
+report	rfo	1
+party	rf planning team	1
+offer	rfid tag related offer	1
+protein	rfc subunits	1
+machine	rf	1
+occasion	rf equipment	1
+trend	rfid for product	1
+constraint	rf bandwidth	1
+constraint	rf spectrum	1
+risk	rfid specific security risk	1
+issue	rf-emi affecting the touch sensor	2
+issue	rfid	1
+point	rf circuit	1
+addition	rfid service	1
+decision	rf design	1
+state	rfcs state	2
+control	rfid tracking	1
+control	rf gain	1
+functionality	rf monitoring	2
+functionality	rfq	1
+functionality	rf technology	1
+functionality	rf rf functionality	1
+therapy	rf ablation	1
+therapy	rfa	1
+algorithm	rf for filtering subsets of snps	1
+algorithm	rf carrier scheduling algorithm	1
+principle	rf probes of the detector material	1
+statistic	rf coverage	3
+artifact	rf field inhomogeneities	1
+measurement	rf power	1
+measurement	rf measurement	1
+measurement	rf voltage	1
+measurement	rf noise figure	1
+issue	rf spoiling	1
+issue	rf accessibility	1
+supplier	rfid system supplier	1
+historian	rf foster	1
+modification	rf	1
+chain	rfd	2
+sensor	rfid tag	3
+sensor	rfid reader	3
+sensor	rf sensor	2
+sensor	rfid sensor	1
+sensor	rf tag reader	1
+sensor	rfid tag reader	1
+sensor	rfid system  one thousand one hundred and six a-d 	1
+network	rfd tv	1
+station	rfm	1
+stock	rf microdevices	1
+input	rf	1
+factor	rf environment	2
+issue	rf cavity breakdown	1
+issue	rfic thermal management	1
+issue	rf related issue	1
+issue	rf current	1
+target	rf antennae	1
+modalities	rf ablation	1
+scenario	rf link	1
+signal	rf standard definition broadcast	3
+signal	rf signal	3
+signal	rf	2
+signal	rfi	1
+signal	rf pulse	1
+page	rfpsite.com registration form	1
+great feature	rf gain	1
+advanced topic	rf gun	1
+index	rflossestch	1
+specification	rfc's document protocol specification	1
+maker	rfid chip maker	1
+electronic device	rf modulator	3
+electronic device	rf id	2
+electronic device	rfic tag	1
+electronic device	rf receiver	1
+electronic device	rfid circuit	1
+electronic device	rf tag	1
+electronic device	rf transceiver	1
+commodity	rf connector	1
+marker	rflp marker	28
+marker	rflp	5
+marker	rfid label	1
+marker	rf tag	1
+marker	rflp profile	1
+command	rfcp	1
+third party	rfa	1
+issue	rfe	1
+issue	rfi	1
+issue	rfc one thousand nine hundred and eighteen  dns ptr lookup leakage 	1
+issue	rfid issue technical issue	1
+issue	rfu threshold	1
+specific	rf design specific	1
+add-ons	rfid reader	1
+critical issue	rfi	1
+advanced technique	rf analysis	1
+advanced technology	rf-cmos	1
+advanced technology	rf-mems	1
+advanced technology	rfid	1
+technical issue	rfid issue technical issue	1
+administrative task	rfps	1
+environmental condition	rf signal	1
+security feature	rfid chip	1
+item	rfid card	2
+configuration	rf cable	1
+configuration	rfp	1
+link	rf	2
+link	rf link	1
+technological advance	rfid	1
+technological advance	rfid's	1
+gadget	rf treatment	1
+exhibit	rfid solution expo	1
+infrastructure	rfid integration	1
+professional service	rf planning	1
+airport	rfd over larger ones with bigger crowd	1
+installation	rf transmitter	1
+body	rfid-related standard body	1
+process parameter	rf power	10
+process parameter	rf powerwereoptimized	1
+process parameter	rf bias	1
+process parameter	rf substrate bias	1
+circuit	rf amplifier	3
+circuit	rf amplifier for a tv tuner	2
+circuit	rf quadrature mixer	2
+circuit	rf oscillator	1
+circuit	rf circuit	1
+peripheral	rfid reader	6
+consumable	rfid tag	1
+precaution	rf filter	1
+item	rfid middle	1
+instruction	rfbi using flow charts in trm	1
+security measure	rfid-enabled access control	1
+apparatus	rf magnetron sputtering apparatus	1
+apparatus	rf magnetron sputteringapparatus	1
+energy source	rf	7
+trigger	rf six hundred and two 	1
+trigger	rf six hundred and three 	1
+ship	rfa fort victoria class	1
+international brand	rfsu	1
+physical parameter	rf value	1
+ancillary service	rfp development	2
+emerging technology	rf	2
+emerging technology	rfid chip	1
+emerging technology	rfid technology	1
+emerging technology	rfid system	1
+emerging technology	rfid tracking	1
+design parameter	rf power level	1
+design parameter	rf coupling efficiency	1
+application area	rf	1
+latest technology	rfid	1
+communication system	rfid system	2
+communication system	rf	1
+chapter	rf photonics	1
+fundamental issue	rf breakdown in the dielectric	5
+tag	rfid tag	8
+tag	rfid tag at least containing a unique reference number	2
+item	rf carrier detection	1
+item	rfis	1
+item	rfl	1
+item	rfk renovation	1
+loss	rf radiation	1
+key component	rf power system	1
+software tool	rfp responder	1
+software tool	rfp builder	1
+system component	rf module	1
+identifiers	rfid tag	17
+identifiers	rfid tag s	1
+identifiers	rf tag	1
+technological innovation	rfid chip	1
+external device	rf receiver	2
+external device	rfid reader	1
+noise	rf noise omitted from the motor in the device	1
+system parameter	rf power	1
+conventional technique	rf filter	1
+conventional technique	rf shielding	1
+electronic component	rf power amplifier	3
+powerful feature	rfc compliancy	2
+mobile device	rfid tag	2
+mobile device	rfid reader	1
+mobile device	rf-id reader	1
+commercial application	rf testing	1
+peripheral device	rfid tag reader	1
+statute	rfra	1
+table	rfblg for bseg	1
+heat source	rf	1
+input device	rfid reader	1
+detector	rfid detector	1
+external source	rfcs	1
+subsystem	rf amplifier	1
+subsystem	rf control system of the particle accelerator	1
+item	rf system	1
+item	rfid tag	1
+operating condition	rf power	1
+witness	rff crew	1
+technological development	rfid ink	2
+semiconductor device	rfid device	1
+semiconductor device	rfid formed over a glass substrate	1
+semiconductor device	rf transistor	1
+electrical component	rf oscillator	1
+electrical component	rf generator	1
+operating parameter	rf column parameter	1
+critical application	rf stage of a professional communications receiver	1
+online game	rf online	1
+online game	rf-online	1
+market leader	rfs	1
+medical procedure	rfa	1
+sandwich	rfd burger	1
+critical component	rf component	2
+critical component	rf command	1
+critical component	rf generator	1
+traditional service	rfp development	1
+adhesive	rf resin	1
+fastener	rf welding	1
+power source	rf power source	2
+power source	rf power	1
+power source	rf	1
+area	rf	3
+area	rfp	2
+cover	rf cover	1
+common element	rf amplifier	1
+valve	rf amplifier  six j eight g 	1
+cable	rf cable	2
+consulting service	rfp authoring	1
+communication device	rf receiver	1
+frame	rfx	1
+suitable mean	rf communication	1
+simple action	rfi	1
+sophisticated technique	rf fingerprinting	1
+performance -metric	rf performance -metric	1
+industry organization	rfa	1
+apparatuses	rf double-pole sputtering	1
+printer	rfid printer	1
+league	rfl	1
+marking	rfv	1
+control system	rf lighting control system	1
+subgroup	rfcs	1
+abbreviation	rf three 	1
+standard technique	rf	1
+wireless device	rfid device	1
+wireless device	rf wireless device	1
+wireless device	rfid tag	1
+information technology	rfid system	1
+blood test	rf	2
+large-scale project	rfid-based supply chain management	1
+panel	rfz	1
+area	rf application	1
+area	rf shielded tempest facilities	1
+operational parameter	rf frequency	1
+switch	rf switch	2
+impairment	rf hardware impairment	1
+impairment	rf interference	1
+processing parameter	rf bias	1
+processing parameter	rf bias voltage	1
+-metric	rf performance -metric	1
+environmental influence	rfi	1
+molecular technique	rflp	10
+administrative service	rfos administrative service	1
+medical application	rf heating of tumor	1
+security device	rfid tag	1
+security device	rfid card	1
+hardware device	rfid reader	1
+medium type	rf	1
+international institution	rfmos	1
+area	rf source	1
+area	rf propagation polygon	1
+area	rf absorption in material	1
+area	rfid	1
+auxiliary device	rfid scanner	1
+acronym	rfsa	1
+acronym	rfsa two 	1
+convenience feature	rf modulator	1
+quantitative method	rfa	2
+energy	rf energy	1
+chip	rfid chip	1
+electronic equipment	rf filter	1
+electronic equipment	rf amplifier	1
+electronic equipment	rf oscillator	1
+growth parameter	rf power	1
+software solution	rfid based system	1
+wireless technology	rf  four 	2
+wireless technology	rf	2
+wireless technology	rf tracking	1
+wireless technology	rf wireless technology	1
+wireless technology	rfid chip	1
+abnormal condition	rf interference	1
+external component	rfi filter	1
+process condition	rf power	3
+real-time application	rfid-based theft detection	1
+technical feature	rfid integration	1
+complex topic	rf theory	1
+ongoing activity	rf design	1
+functional element	rf section	1
+output device	rf generator	2
+state-of-the-art technology	rfid scanner	1
+tube	rft	1
+frequency	rf radiation	1
+frequency	rf ones used by cellular communication	1
+frequency	rfid system frequency	1
+precautionary measure	rf filter	1
+conservation group	rfa	1
+TV channel	rfo	1
+basic property	rf field strength	1
+management service	rfp management	1
+digital device	rfid tag	1
+secondary operation	rfi shielding	1
+secondary operation	rf sealing	1
+critical element	rf quartz	1
+simple application	rfid tag	2
+simple application	rf id tag	1
+essential function	rf management	1
+identifier	rfid tag	1
+identifier	rfid device	1
+business document	rfi	1
+legal instrument	rfmos	1
+radio	rfm radio used in the berkeley mote	1
+cutting-edge technology	rfid tag	1
+molecular method	rflp	4
+molecular method	rflp of heat shock protein gene	1
+surgical treatment	rf thalamotomy	1
+surgical treatment	rf thalamotomyanddbsareeffectiveinmanypatientswithet	1
+lab test	rf	1
+computing device	rfid tag	1
+high end feature	rfid tagging	1
+market force	rf local area networks	1
+molecular marker	rflp	26
+molecular marker	rflp s	1
+complementary product	rf power resistor	1
+fix	rf modulater	1
+datum field	rfid field	1
+monitor	rf monitor	1
+antennas	rfid tag antennas	1
+factor	rfid deadlines imposed by wal-mart	1
+service	rfb	2
+service	rf micro devices	2
+service	rfcs	1
+service	rfos administrative service	1
+service	rfid integration solution system	1
+physical device	rfid tag	1
+dependency	rfc one thousand one hundred and fifty-five -smi 	1
+dependency	rfc- one thousand two hundred and twelve 	1
+culprit	rf noise	1
+key organization	rfds for medical assistance	1
+amp	rfb	2
+security threat	rf jamming	1
+connectivity option	rf	2
+novel technology	rfid tag	1
+deposition technique	rf magnetron sputtering	1
+deposition technique	rf plasma	1
+large component	rf shield	1
+high-quality product	rfid reader	1
+historical character	rfk	1
+network protocol	rf four ce 	1
+heater	rf heater	1
+service	rfq	1
+service	rf engineering & drive test	1
+secondary issue	rf interference	1
+sub-systems	rfid reader	1
+sub-systems	rf amplifier	1
+modern application	rfid tags application	1
+modern application	rf quasi-optics	1
+heating element	rf heating element	1
+communication application	rfid device	1
+configuration option	rfu vga group attenuation control	1
+basic setting	rf level	1
+basic setting	rf threshold	1
+passive component	rf blocking inductors	1
+great title	rfactor	1
+sophisticated application	rfid tag	2
+newsletter	rfp bulletin	1
+residential service	rf video	1
+authentication method	rfid card	2
+automotive application	rf mems based long range radar	1
+product group	rfcs	1
+technical tool	rfid	1
+real-world application	rf signal processing	1
+wireless communication device	rfid tag	1
+wireless communication device	rfid system	1
+wireless communication device	rfid reader	1
+array	rf beam scanning array	2
+array	rf beam scanning amys	1
+deposition parameter	rf power	5
+wireless application	rf identification tag	1
+wireless application	rf identification	1
+circuit component	rf power amplifier	1
+circuit component	rf choke	1
+functional component	rf mems	1
+simple structure	rfid-enabled refrigerator	1
+amplifier	rf gain block amplifier	1
+amplifier	rf gain-block amplifier	1
+voltage	rf voltage	2
+interventional procedure	rfa	2
+biochemical marker	rflp marker	1
+technology product	rf coaxial cable	4
+technology product	rf	1
+test result	rf value	1
+molecular biology technique	rflp	3
+molecular biology technique	rflp analysis	1
+service	rfid implementation	1
+service	rfpcites phr service	1
+service	rfid inventory	1
+service	rfp finder	1
+service	rfp management	1
+topic	rf propagation	7
+simple technology	rfid sensor	1
+integrated feature	rfid reader	1
+experimental variable	rf power	1
+master datum	rfid device	1
+molecular tool	rflp	1
+pic	rf propagation	1
+REITs	rfs hotel investors	1
+welding process	rf sealing & welding	1
+technological device	rfid reader	1
+deposition method	rf sputtering	1
+deposition method	rf magnetron sputtering	1
+hand-held device	rfid reader	1
+input signal	rf	2
+input signal	rf signal	1
+secondary datum source	rff work-plans	1
+critical part	rf power supply	1
+critical part	rf match boxes	1
+passive system	rfid tag	1
+topic	rf propa g ation	4
+topic	rf specification	3
+topic	rf system chain characterization with the aid of eda tool	3
+topic	rf link budget	3
+topic	rf	2
+potential source	rf potential source	1
+presentation material	rfp response	1
+sensor datum	rfid reading from keyboard	1
+catheter	rf ablation catheter	1
+chemical characteristic	rf value	1
+genetic marker	rflp	2
+genetic marker	rflp marker	1
+others area	rfpp	1
+plasma parameter	rf power	3
+external parameter	rf power	1
+heating method	rf heating	1
+communication link	rf	1
+bonding technique	rf bonding	1
+formal process	rfp	1
+series product	rfid series product	1
+electronic circuit	rf	1
+interface device	rfid	1
+signal source	rf signal generating station	1
+key tool	rfp framework	1
+topic	rf power	1
+topic	rf propa ga tion	1
+topic	rfm analysis	1
+topic	rf weldable bonding layer	1
+topic	rf impedance	1
+anti-theft device	rfid tag	1
+monthly report	rfq cycle time report	1
+semiconductor company	rfmd	1
+standard document	rfcs	1
+MEMS device	rf switch	4
+MEMS device	rf filter	2
+MEMS device	rf mems switch	1
+complementary technology	rfid tag	1
+industrial equipment	rf dryer	1
+manufacturing method	rf sputtering	1
+ongoing service	rfid-based asset management	1
+sophisticated equipment	rf spectrum analyzer	1
+technology trend	rfid tag	1
+device manufacturer	rfm	1
+peripheral service	rfp creation	1
+simple component	rf technology	3
+synthetic product	rf viii	1
+canal	rfh	1
+peripheral equipment	rfid	1
+analog circuit	rf amplifier	1
+premium channel	rfd-tv	1
+high-speed application	rf gain stage	1
+electronic element	rfid tag	1
+novel concept	rfqs for innovation	1
+key date	rfp release	1
+end device	rf end device	1
+tracking device	rfid chip	1
+wireless communication	rf-wireless communication	1
+wireless product	rfid tag	1
+topic	rfi's	1
+topic	rfd	1
+topic	rfp	1
+topic	rfp development	1
+circuitry	rf amplifier	1
+market trend	rfid & security devices usage	1
+simulation game	rfactor	1
+MMORPGs	rf online	2
+MMORPGs	rf on-line	1
+complex part	rf transistor case	1
+deposition condition	rf power	1
+product specification	rf output power	1
+circuit parameter	rf circuit parameter	1
+non-volatile memory device	rfid device	1
+packet	rfnandrrn packet	1
+smart device	rfid tag	4
+high performance application	rf component	1
+security risk	rfid specific security risk	1
+antenna	rf antenna	1
+coil	rf pickoff coil	1
+coil	rf body coil of the host mr system	1
+communication mode	rf	1
+connection type	rf	1
+expansion	rfx	1
+chip maker	rf monolithics	1
+chip maker	rfid chip maker	1
+system device	rf component	1
+acquisition parameter	rf pulse definition	2
+acquisition parameter	rf pulse parameter	1
+extensive service	rf survey	1
+switching element	rf switch ics	2
+company	rfs	3
+high power application	rf power amplifiers	1
+scheduling algorithm	rf carrier scheduling algorithm	1
+tracking system	rfid tag	1
+external heat source	rf source	1
+sensor device	rfid reader	2
+foundation course	rfu community leaders award	2
+sims	rfactor for year	1
+source type	rf	2
+business development activity	rfps	2
+business development activity	rfp creation	1
+business development activity	rfq generation	1
+constituent element	rf unit  one hundred and fourteen 	1
+engineering document	rfi	1
+video signal	rf composite video	1
+attachment method	rf welding	1
+invasive approach	rf with bipolar	1
+RF component	rf amplifier	3
+RF component	rf oscillator	2
+RF component	rf mixer	2
+RF component	rf ceramic window	1
+electromagnetic wave	rf wave	4
+thermal treatment	rfa	1
+electrical signal	rf signal	1
+high volume application	rfid tag	1
+company	rf linx	1
+company	rfid global solution	1
+company	rfd	1
+company	rfm corp	1
+company	rfi ingredients	1
+challenging project	rf conditioning equipment	1
+energy application	rf plasma treatment	1
+internet standard	rfc eight hundred and twenty-two 	1
+CAD tool	rf design	1
+fluorescent protein	rfp	1
+bus system	rf system	1
+daemon	rftpd	1
+locus	rflp locus gm seven hundred and ninety-eight 	1
+military system	rf seeker	1
+ordinary event	rfid transmission	1
+contract document	rfp	1
+key performance parameter	rf output power	2
+sophisticated measure	rfi tagging	1
+add-on component	rfid portal	1
+add-on component	rfid printers in upcoming blogs	1
+complete service	rfid technology	1
+company	rf products company	1
+company	rf micro devices	1
+company	rfd systems	1
+high frequency application	rf device	2
+RF device	rf signal routings	1
+RF device	rf mim capacitor	1
+ablative technique	rf	1
+high-power application	rf power amplifier	1
+molecular typing method	rflp	3
+thermal method	rfa	1
+video system	rf video	1
+industrial and commercial application	rf inventory control system	1
+industrial and commercial application	rf meter reader	1
+industrial and commercial application	rf security system	1
+logistical service	rfp preparation	1
+low-power device	rfid tag	1
+process control	rf power	1
+sensing device	rfid tag	1
+historical personage	rfk	1
+molecular technology	rflp	1
+related issue	rf related issue	1
+smart card	rfid card	1
+coating parameter	rf power	1
+outside noise	rfi	1
+circuit application	rf amplifier	1
+circuit application	rf	1
+RF application	rf filter	1
+segmentation method	rfm segmentation	1
+semiconductor chip	rf chip	1
+complex circuit	rf	1
+DNA marker	rflp	7
+intrusive method	rfid tag	1
+product application	rfid chip	1
+advanced element	rf bombanding	1
+crucial component	rf chopper	1
+smart technology	rfid tag	1
+standard molecular biology technique	rflp	1
+vacuum process	rf sputtering	1
+coupling mechanism	rfi at higher frequency	1
+eects	rf componentperformance	1
+faulty component	rf cable	1
+molecular biological method	rflp	1
+Outsourcers	rfl	1
+program option	rf channel number	1
+semiconductor switch	rf signal changeover switch	2
+analog component	rf transceiver	1
+analog component	rf transmitter two 	1
+procurement document	rfis	2
+procurement document	rfp	1
+procurement document	rfqs	1
+applic ations	rf signal path degradation modeling	1
+coaxial cable	rf coaxial cable	1
+function module	rfid reader	1
+minimally invasive therapy	rfa	1
+activity	rfq	1
+standard body	rfid-related standard body	1
+datum carrier	rfid tag	1
+design practice	rf design practice	1
+electronics application	rfid-related product	1
+electronics application	rfid tags powered by inductive coupling	1
+external unit	rf filter	1
+traditional sensor	rfid tag	1
+outstanding item	rfisand submittals	1
+outstanding item	rfisandchange orders	1
+sensory datum	rf radiation	1
+ablative procedure	rfa	1
+affordable technology	rfid tracking	1
+etching condition	rf power	1
+manual system	rf barcode scanning	1
+RFID product	rfid reader	1
+RFID product	rfid reader component	1
+RFID product	rfid tag s	1
+typing technique	rflp	1
+datum device	rfid tag	1
+electromagnetic field	rf signal	1
+global system	rf radio beacon	1
+international human right organization	rfk memorial center for human rights	1
+linearization technique	rf predistortion method	1
+signal line	rf signal line	1
+thin film deposition technique	rf magnetron sputtering	2
+thin film deposition technique	rf sputtering	1
+vacuum component	rf shielding bellow	4
+bridge component	rfid tags	1
+exciting initiative	rfg	1
+activity	rfid standard-setting activity	1
+activity	rfc connection setting	1
+activity	rfi	1
+activity	rfp	1
+activity	rfx management	1
+activity	rfp creation	1
+fingerprinting technique	rflp	1
+national database	rfp depot	1
+nonpharmacological therapy	rf ablation	1
+state datum	rf power state datum	1
+warehouse duty	rf scanning	1
+battery-powered application	rfid tags	1
+communication topic	rf transceiver architecture	2
+drama show	rfr	1
+electromagnetic energy	rf	1
+etching parameter	rf power	3
+industrial device	rf scanner	1
+industrial device	rfid reader	1
+plasma source	rf	1
+shooting	rfk	1
+today technology	rfid tag	1
+transmission technique	rf datum transmission technique	1
+common module	rf amplifier	1
+experimental feature	rf inhomogeneity	1
+input option	rf	1
+molecular test	rflp test	1
+nomenclature	rfind	1
+simulation software	rf simulation software	1
+advance topic	rf wireless communication	1
+channel impairment	rf interference	2
+distribution component	rf splitters	1
+sim game	rfactor	1
+talker	rfk	1
+information	rfp deadline	2
+information	rf signal generator feature	2
+information	rfp number	1
+information	rfq for purchase order	1
+information	rfq no.	1
+information	rfid application guide	1
+information	rfid best practices	1
+information	rfid reader integration best practice	1
+diversity technique	rf diversity technique	1
+low voltage application	rf tag power	1
+publicly available document	rfcs	1
+radio frequency device	rf identification device	2
+capture technology	rfid tag	1
+comprehensive datum	rf level	1
+eco-friendly technology	rf system	1
+film-forming technique	rf sputtering	1
+hardware function	rf channel filtering	1
+high performance system	rf medical equipment	2
+implementers	rff	1
+physical control method	rf	1
+practical requirement	rf efficiency	1
+radio parameter	rf security id	1
+recreational organization	rfa	1
+RFID device	rfid tag	5
+RFID device	rfid label	2
+state-of-the-art procedure	rfa	1
+wireless link	rf	1
+wireless technique	rf	1
+construction requirement	rf shielding	2
+external power supply	rf power	1
+information carrier	rfid chip	2
+prediction tool	rf planning system	1
+receiver function	rf amplifier	1
+semiconductor application	rf ic's	1
+ubiquitous device	rfid tag	1
+wireless signal	rf	2
+wireless signal	rf signal	1
+information	rf coverage map	1
+information	rf condition	1
+information	rfid cook book	1
+information	rf value	1
+descriptive model	rfm	1
+hybridization technique	rflp	1
+level technology	rf admittance	3
+marker system	rflp	1
+nascent technology	rfid tag	1
+pulse characteristic	rf frequency	1
+SD channel	rfdtv	1
+vacuum device	rf superconducting cavity	1
+analysis type	rf analysis type	1
+codominant marker	rflp	2
+flight sims	rf g two 	1
+MEMS application	rf mems switch	1
+molecular marker technique	rflp	1
+molecular marker technique	rflp rapd	1
+network management task	rf operating channel	1
+political assassination	rfk	2
+public process	rfq	1
+radiant energy	rf energy	1
+radio signal	rf signal	1
+regional therapy	rf	1
+automatic payment	rfid-embedded credit card	1
+beacon	rf beacon	1
+etch parameter	rf power	1
+expansion module	rfid software	1
+experimental setting	rfpower	1
+identification device	rfid tag	1
+imaging artifact	rf noise	1
+instrumental condition	rf power	1
+molecular study	rflp	2
+information	rfq date	1
+RFID system	rfid printer system	1
+RFID system	rfid system  twenty-two  shown in fig 	1
+beauty equipment	rf	5
+electronic circuit element	rf filter	1
+embedded product	rf remote access controller	1
+Impulsive noise	rf signals emitted by pds	1
+korean game	rf online	1
+minimally invasive technology	rfo	1
+OEM component	rf filters	1
+outgoing document	rfq	1
+PC title	rfactor	1
+serial port device	rfid reader	3
+standard code	rff rp	1
+time-sensitive activity	rf monitoring	1
+vacuum deposition method	rf plasma deposition	1
+vapor deposition technique	rf diode sputtering	1
+ABAP program	rfc client program	2
+access control technology	rfid	1
+datum transmission device	rf transmitter	1
+energy delivery device	rf	1
+instrumentation application	rf signal generator	1
+medical matter	rfc assessment	1
+event	rft test	1
+event	rfid journal live	1
+portable mobile device	rfid reader	1
+rejuvenation treatment	rf tissue tightening	1
+RF system	rfid system	3
+supplemental technology	rfid tag	2
+switching technology	rf switch	2
+thermal ablation technique	rf ablation	1
+thermal ablation technique	rfa	1
+branch information	rfc identifier	1
+characterization test	rflp	1
+contracting process	rfq	1
+discharge condition	rf power	1
+engineering variable	rf power	1
+ERP product	rf devices	1
+excitation method	rf	1
+extrinsic element	rf pad inductance	1
+graphical symbol	rfid tag	1
+protocol standard	rf protocol standard	1
+RF characteristic	rf output power	1
+SAP component	rfc	1
+security factor	rfidid combined with an entry credential	1
+security factor	rfid combined with an entry credential	1
+soluble sugar	rfo	2
+tender document	rfq	2
+tender document	rfi	1
+wireless communication link	rf link	3
+amplification system	rf-type amplification system	1
+event	rfid world	1
+high-speed signal	rf	1
+international radio station	rfa	1
+less-invasive technique	rf energy needle	1
+linearization method	rf-level linearization method	1
+meter component	rf module	2
+molecular diagnostic test	rflp	1
+predetermined processing	rf signal processing	1
+production device	rf switches with control logic	1
+RFID application system	rfid antomatic jewelry tracking	1
+RFID application system	rfid asset management	1
+RFID application system	rfid personnel identification	1
+RFID application system	rfid -logistic	1
+transponder	rfid tag	7
+vapor phase method	rf sputtering	1
+wireless method	rf	1
+co-dominant marker	rflp	1
+consumer electronic application	rf device	1
+distinct technique	rf shielding for producing precision metal part	1
+e2f-regulated gene	rfc subunits	1
+EAS product	rf system	1
+end user product	rfid card	1
+external course	rfu qualifications	1
+external documentation	rfcs	1
+held various role	rf design engineer	1
+high-frequency signal	rf	1
+industrial sensor	rfid encoders	1
+mobile sensor	rfid tag	1
+molecular marker system	rflp	3
+molecular procedure	rflp	2
+program	rfp	1
+program	rfu	1
+personal identification card	rfid card	2
+processing condition	rf processing condition	1
+protocol specification	rfc's document protocol specification	1
+RF technology	rfid	1
+shipboard communication	rf- five thousand eight hundred 	1
+SMPs	rfu	1
+thermal energy source	rf	1
+washington attraction	rfk stadium	1
+automated test tool	rft	1
+biometric product	rfid	1
+cheap technology	rfid tag	1
+complex subsystem	rf mems	1
+component source	rf atom	1
+conclusion new technology	rfid	1
+dna-based marker	rflp	1
+easy-to-use control	rf gain	2
+e-government application	rfid in drivers licence	3
+e-government application	rfid in drivers license	1
+external control device	rf controller	3
+heterogeneous technology	rf	1
+immunologic marker	rf	1
+industry-leading manufacturer	rfs	1
+kantarsport help client	rfu	1
+lumbar spine procedure	rfas	1
+message datum	rfid tag number	2
+microwave equipment	rf	1
+MMO title	rf online	1
+molecular marker technology	rflp	2
+pain procedure	rfg coagulation of the gasserian ganglion	1
+program	rfts program	1
+program	rfcs	1
+relative fit index	rfi	1
+RF signal processing component	rf amplifier	1
+automatic identification system	rf-tag identification system	1
+ave many communication mode	rf	1
+beam line element	rf cavity	1
+bespoke course	rf safety awareness	1
+docudrama	rfk	1
+face recognition system	rf card system	1
+fluorescent reporter protein	rfp	1
+identification tag	rfid tag	2
+identity credential	rfids	1
+inavarietyof modern application	rfid tag application	1
+incremental fit index	rfi	1
+ion plating method	rf method	1
+klystron parameter	rf energy per pulse	1
+local ablative technique	rfa	3
+narrowband datum	rfid datum	6
+navy shipboard communication	rf- five thousand eight hundred 	1
+operated various instrument	rf power monitor	1
+POC device	rfid tag	1
+popular MEMS device	rf switch	1
+RF cable	rf coaxial cable	1
+RF semiconductor component	rfic switch	1
+RF semiconductor component	rf ics	1
+short-range technology	rf	1
+signal receiver	rf-matched filter receiver	2
+sputtering condition	rf power	1
+sputtering system	rf triode sputtering system	1
+sputtering system	rf diode sputtering system	1
+stateless application	rfid chef	1
+strong signal	rfi	1
+systemwide wireless LAN function	rf management	2
+tumor ablation technique	rfa	1
+tumor ablation technique	rf	1
+typical wireless communication device	rfid tag	1
+typical wireless communication device	rfid device	1
+unproven technology	rfid-enabled identification document	2
+wireless communication mediums	rf	1
+wireless transmission technology	rf	1
+wireless transmission technology	rf communication module	1
+wrapper method	rfe	1
+acquisition process	rfp	2
+acquisition process	rfi	1
+acquisition process	rfq	1
+aftermarket exhaust	rfl	1
+automatic datum collection device	rfid reader	2
+baghouse collector	rf reverse flow baghouse collector	1
+cell phone application	rf tunable device	1
+CT procedure	rf ablation	1
+datum capture technology	rfid	1
+datum reader	rfid reader	1
+design specific	rf design specific	1
+factor	rf noise	1
+factor	rf positivity	1
+factor	rfx one 	1
+embedded component	rfid tag	1
+feature classifier	rf similarity-based k-nearest-neighbor	1
+ILGA member	rfsl	1
+independent test laboratory	rfid alliance labs	1
+industry standard form	rfi	1
+key tool parameter	rf power	3
+low-tech and non-dual-use item	rf tubes and amplifier	1
+micromachining device	rf low loss switch	3
+molecular fingerprinting technique	rflp	1
+networkcritical function	rf management	1
+network-critical function	rf management	2
+non-morphological method	rflp of small subunit ribosomal dna	1
+nonoperative therapy	rfa	3
+non-traditional IT device	rfid reader	10
+plasma operating condition	rf input power	1
+prestigious british venue	rfh	1
+quality relay	rf relay	2
+RF characterization measurement	rf power	1
+SAP object	rfcs	1
+organization	rfu	4
+standard additional element	rf transmitter	2
+system-wide wireless LAN function	rf management	1
+telecom site service	rf compliance monitoring	1
+telecommunication engineering service	rf survey	1
+traditional plasma etching variable	rf power	1
+traditional plasma etching variable	rfpower	1
+tunable RF component	rf capacitor network	1
+uncertain environment	rfid industry	1
+variable region	rfaandrfb operons	1
+variable selection method	rf	1
+wireless mean	rf link	1
+year different marker system	rflp	1
+advanced antenna technology	rfs's optimizer	2
+bridging therapy	rfa	1
+broadband access product	rf electronics	1
+commercial flexible device	rf tag	1
+company import industry sensor	rfid encoders	1
+completed government-contracted project	rfid fishery	1
+completed government-sponsored project	rfid fishery	1
+congressional statute	rfra	1
+conventional NDE technique	rft	1
+datum collection option	rfid card	1
+dedicated link	rf link	1
+DNA marker technique	rflp	1
+DNA replication factor	rfc-like protein	1
+electrical energy	rf energy	2
+electromagnetic technique	rft	1
+EMC phenomenon	rf emission	1
+organization	rfd	1
+organization	rfl	1
+organization	rfb	1
+ever-shrinking application	rfid tag	2
+executive summary technological advance	rfid	1
+fingerprint attendance tracking device	rfid card attendance marking	1
+fingerprint attendance tracking device	rfid card reader	1
+fingerprint attendance tracking device	rfid tag attendance marking system	1
+fingerprinting tool	rflp	2
+high-capacity ADC technology	rfid transponder	2
+implementation bolt-on application	rf	1
+incoming signal	rf signal received by an antenna	2
+influential innovation	rfid	1
+informational TV	rfd tv	1
+large-area device	rf	2
+license-free technology	rf technology	1
+local transit system	rfta	1
+low level description	rfc model	1
+low-resolution method	rflp	1
+managerial and technological innovation	rfid	1
+mandatory specification	rfcs for uris	1
+material deposition technique	rf magnetron sputtering	1
+molecular characterization	rflp marker	1
+narrow-band datum	rfid datum	1
+non-physical environment	rf	1
+non-uwb communication technology	rf	1
+ong various deposition method	rf magnetron sputtering	1
+optimum deposition parameter	rf power	1
+patient identification device	rfid tag	1
+patient identification device	rf tag	1
+PECVD method	rf-pecvd	1
+technique	rflp	17
+technique	rf sputtering	4
+technique	rflp analysis	4
+technique	rf welding	3
+presence application	rf presence application	1
+quality relay s	rf relay s	2
+radio frequency quantity	rf power	1
+reactor variable	rf frequency	1
+recreational fishing group	rfa nsw	1
+RF coil	rf coils  two hundred and ten a 	1
+RFIC application	rf oscillator	1
+standardized and consistent document	rfps	1
+steward	rfk	1
+strong system	rf- four  for reconnaissance 	1
+system wide wireless LAN function	rf management	1
+third party peripheral	rfid reader	1
+traditional plasma etch variable	rf power	1
+traditional wireless service	rf engineering	2
+traditionalbiomarkers	rf	1
+troubleshooting hardware issue	rf gun	1
+unfamiliar technology	rf	1
+vbuc's operating function	rf output power	1
+aaron cover subject	rfid chips	1
+accelerator sub-systems	rf power	1
+active or passive device	rf integrated circuit	2
+active RFID tag	rfid tag illustrated in fig	1
+advanced residential service	rf video	1
+agency's new business activity	rfp response	1
+analog control	rf gain	2
+analog transmission system	rf system	1
+appendage vacuum component	rf-shielded gate valve	1
+automated routine task	rft gradient analysis	1
+base band processing equipment	rf & up linking	1
+technique	rf shimming	2
+technique	rfa	2
+technique	rfid tag	2
+technique	rflp mapping	1
+technique	rflp study	1
+technique	rf tag	1
+technique	rfid privacy technique	1
+technique	rf sputtering of al in nitrogen	1
+technique	rf magnetron sputtering	1
+technique	rf geolocation technique	1
+beauty care machine	rf tightening machine	1
+beauty device	rf	1
+big established snack company	rfm food corporation	1
+bluekaizen customer	rff	1
+chi-town school	rfu	1
+communication related course	rf design	1
+CONCLUSION device	rfid antennas	1
+consumer connection	rf	1
+conventional solid-state switching device	rf switch	1
+cyclotron system	rf	1
+datum sensor	rfid tag	1
+datum transmission technique	rf datum transmission technique	1
+decade molecular marker	rflp	1
+dedicated aerial platform	rf- four c 	1
+device package	rf device package	1
+differential application	rf amplifier	2
+dna-based molecular method	rflp	1
+example technology	rf bar code terminal	1
+false alarm protection technology	rfi protection	4
+field mobility component	rfid reader	2
+first, energy-constrained application	rfid tag	2
+function mapping anonymous molecular marker	rflp	1
+technique	rf-diode sputtering technique	1
+technique	rfi shielding	1
+technique	rflpsandrapds used in earlier studies involving use of platanusspp	1
+technique	rf-magnetron sputtering	1
+technique	rf data links for remote monitoring	1
+technique	rf datum transmission technique	1
+technique	rf diversity technique	1
+technique	rf absorbing clamp	1
+genetics marker	rflp	1
+genome-based typing method	rflp	1
+high capacity ADC technology	rfid transponder	1
+high frequency treatment device	rf-based device	2
+high impedance circuit	rf	1
+high-frequency filter	rf filter	1
+high-powered analytic tool	rfm analysis	1
+injector development issue	rf cavity design	2
+integrated mm-wave property	rf power	1
+intelligent sensor	rfid scanner	2
+international radio	rfi	1
+INTRODUCTION various technology	rfid	1
+light-weight system	rfid chip	1
+linear ion trap parameter	rf voltage amplitude	1
+location detection source	rft system	1
+mainstream overseas station	rfa	1
+minimally invasive interventional technique	rf ablation	1
+modern simulation	rfactor	1
+molecular labeling technique	rflp	1
+nameforms	rfc eight hundred and twenty-two  name 	1
+newly-formed organization	rfcse resource secretariat	1
+non cooperative technology	rf	1
+non-contact link	rf link	1
+non-ionizing wave	rf pulse	1
+non-technical term	rfc two thousand one hundred and nineteen  use of the terms must 	1
+non-traditional or new area	rfid	1
+application	rfid tag	9
+application	rf	4
+application	rf communication	4
+application	rf switch	3
+application	rf matching	2
+application	rfid network	2
+application	rf shimming	2
+application	rf signal generation	2
+application	rf protocol testing	2
+application	rf switch circuit	2
+application	rf identification device	2
+application	rf ic	2
+application	rf applications comprising e.g. switch	2
+application	rfid label	2
+application	rfid-aided exact positioning	1
+application	rfid product code	1
+application	rfid for enhanced inventory management	1
+application	rfid tagging	1
+application	rfid system	1
+application	rf susceptibility testing	1
+application	rf signal path degradation modeling	1
+nucleotide-sequence-based assay	rflp	1
+OBJECTIVE new technology	rfid tag	1
+passive RFID tag	rfid tag illustrated in fig	1
+patient identifi cation device	rfid tag	1
+PC racing game	rfactor	1
+pen-test tool	rfid	1
+physical transport mechanism	rfid sensor	1
+plasma discharge	rf plasma discharge	1
+post-amplification procedure	rflp	1
+pre-packaged option	rfid tunnels	1
+pre-packaged option	rfid tables	1
+prn order	rf reader	1
+project related documentation	rfq	1
+prolog datum entry form	rfi	1
+proposal request	rfps	1
+proposal request	rfis	1
+proposal request	rfqs	1
+proposal task	rfp compliance check	1
+radio communication function	rf	1
+radio frequency identification device	rfid tag	2
+radio frequency identification device	rfid tag mounted inside a toy vehicle	1
+radio frequency identification device	rfid label	1
+reconnaissance aircraft	rf- eighty 	1
+required master datum	rfid device	1
+resin infusion process	rfi	1
+RFP provider	rfp express	1
+RFPs	rfx	1
+RIE parameter	rf power	1
+righteous zombie group	rff	1
+Russian radio	rfi by the so-called taiwan dividing reorganization	1
+sale department improvement activity	rfq management	1
+sensor solution	rfid tag	4
+sensorial device	rfid tag	1
+small or micro-power device	rfid tag	1
+small, ultraportable device	rf scanner	1
+solid-state amplifier	rf power amplifier	1
+suggestive pattern	rfsh nymph	1
+susceptible device	rf susceptible device	1
+application	rf circuit	1
+application	rf frontends for integrated transceiver	1
+application	rfid tags used for medical identification	1
+application	rflp mapping	1
+application	rfid product	1
+application	rfid magnetic sheet	1
+application	rfid recording	1
+application	rf testing	1
+application	rf-gd-oes depth profiling	1
+application	rf presence application	1
+application	rf identification	1
+application	rf sources for accelerator	1
+application	rf spectrum monitoring	1
+application	rf amplification	1
+application	rf amplification in am tuner	1
+application	rf card	1
+telecommunication procurement task	rft process management	1
+tool state parameter	rf power	3
+TURCK product	rfid systems	1
+wide RFID application	rfid label	1
+wide RFID application	rfid scanner	1
+wide RFID application	rfid printer	1
+WLAN health indicator	rf usage	1
+wonder similar technology	rf tag	2
+active smart device	rfid reader handhelds	1
+advanced test method	rf impedance test	1
+AIT device	rfid tag	1
+ale-relevant setting	rfc connection	1
+alternativeplasma generating source	rf-generated plasma	1
+amplification element	rf power amplification element	1
+ancillary initiative	rfps	1
+animal ID equipment	rfid reader	1
+assessing serologic marker	rf	1
+asset tracking technology	rfid being integrated into existing asset management process	1
+audio and video cable	rf connector	1
+automatic measurement tc-3000chasbuilt-in test case	rf	1
+big pc simulation	rfactor	1
+bonding energy	rf	1
+bug detector product	rf bug detector	2
+bully dog product	rfi intake	1
+candida fingerprinting technique	rflp with species specific probe	1
+application	rfid middleware	1
+application	rfid toll tag	1
+application	rfid	1
+application	rf demodulators	1
+application	rfi suppression	1
+application	rf spectrum analyzer	1
+application	rf mems capacitor	1
+application	rf modules substrate	1
+application	rf device	1
+name	rfc eight hundred and twenty-two  e-mail address 	1
+case certain value	rf level	1
+clever new security technology	rfid label	1
+combined laparoscopic procedure	rfa	1
+common routine test	rft	1
+complex test equipment	rf analysers	1
+computation-limited, low-cost device	rfid tag	1
+constructional requirement	rfi protection	1
+conventional hybrid-oriented element	rf image-rejection filter	1
+conversion house	rfbd	1
+datum input option	rfid swipe card	1
+datum telemetry device	rf	1
+DC component	rf choke	1
+DED condition	rf frequency in high-density plasma chemical vapor deposition	1
+differ-enttypesof marker	rflp	1
+DNA fingerprinting tool	rflp	1
+DNA material	rflp marker	1
+DSSI storage device	rf disk	1
+edge server functionality	rfid edge server functionality	1
+electronic readable format	rfid tag	2
+EMC option	rfi filter	1
+established simulation	rfactor	1
+exemplary component	rfid transponder	1
+expendable and consumable item	rfn collector	1
+fairness measure	rfb	1
+name	rf central	1
+federal-level consumer	rf defense ministry	1
+flexible regulatory approach	rfg	1
+Flight Log information	rf link performance	1
+football federation	rfef	1
+formal sealed bidding process	rfp	1
+geolocation technique	rf geolocation technique	1
+government contracting issue	rfp procedure	1
+high frequency analog circuit	rf low noise amplifier	1
+high frequency analog circuit	rf mixer	1
+high frequency electronic circuit	rf circuit	1
+high-frequency electronic device	rf devices for mobile phone	1
+ICP-AES parameter	rf power	1
+identifier component	rfid components in the present invention	1
+industrial mw system	rf dryer	1
+inescapable datum device	rfid reader	1
+information-rich source	rfid sensor	1
+integrated switching device	rf attenuator	1
+internet's norm-based feature	rfcs	1
+interventional tool	rf device	1
+khmer radio	rfi	1
+kind coaxial cable	rf cable	1
+kind coaxial cable s	rf cable	1
+klipsch speaker	rf eighty-three  floor standing speaker 	1
+less-invasive tissue ablation technique	rf energy needle	1
+factor	rf attenuation	1
+factor	rf footprint	1
+factor	rf noise from nearby radio transmitter	1
+factor	rf penetration	1
+factor	rf safety	1
+case	rf	2
+logic application	rfid tag	1
+low power consumption application	rf tag	1
+low series resistance application	rf	1
+low-tier school	rfu	1
+manufacturing capabilit ies	rf	1
+microwave switching product	rf switch	1
+minimally-invasive therapy	rf ablation	1
+mode various operational parameter	rfmodulation amplitude	1
+modern flexible electronics application	rfid tagging	1
+molecular characterization technique	rflp analysis of the polymorphic gc-rich repetitive sequence	1
+molecular marker locus	rflp locus	2
+molecular testing technique	rflp	1
+myriad process parameter	rf discharge power	1
+net conditioning component	rf-short circuits for the inductive coupling	1
+noise-sensitive application	rf power amplifiers	1
+non-current publication	rfm	1
+nonintrusive inspection technology	rfid tag	1
+non-intrusive inspection technology	rf	1
+nonphysical environment	rf	1
+non-transmitted log	rft	1
+NTRODUCTION C URRENT marker technique	rf identification	1
+object-tracking technology	rf id tag	1
+ofi-chipfllters	rf prefllter	1
+optional energy source	rf heater	1
+Organic aerogels	rf aerogels	1
+Otehr identifiirs	rfid tag s	1
+PAA parameter	rf carrier frequency	1
+package coding	rf coding	1
+pallet's information	rfid tag value	1
+parallel search algorithm	rfc	1
+pc computer simulation	rfactor	1
+phr service	rfpcites phr service	1
+physical vacuum deposition method	rf sputtering	1
+physicallayer discrepancy factor	rf environmental condition	1
+plasma generating source	rf-generated plasma	1
+plasma operating parameter	rf power	2
+plasma state	rf discharge state	1
+case	rff	1
+case	rfk	1
+case	rfra	1
+portable datum reading device	rfid reader	2
+portable wireless transponder	rfid tag	2
+post-PCR diagnostic step	rflp analysis	1
+power consuming circuit	rf power amplifier	1
+proprietary product-enhancing feature	rfid-enabled prison phone	2
+proprietary product-enhancing feature	rfid-enabled child safety seat	2
+providing-wireless portable transponder	rfid tag	2
+public health centre	rfm	1
+RA marker	rf	3
+radiofrequency identification device	rfid tag	1
+reader system	rfid tag	1
+reliable bottom	rf	1
+RF passive product	rf components	1
+RF power system	rf frequency generator	1
+silicon chip	rf chip	2
+sim racing game	rfactor	1
+site-level HCVF	rfss	1
+situated sensor	rfid reader	1
+sizeable component	rf vco loop filter	1
+specialist RF company	rf micro devices	1
+sputter method	rf-bias sputtering	2
+SRM object	rfx	1
+standard thin-film process	rf magnetron sputtering	1
+structural resin	rf curing melamine-formaldehyde	1
+suitable heating mechanism	rf coil	1
+superior molecular technique	rflp	1
+option	rfi suppression filters at the planning stage	2
+system engineering duty	rfc tracking	1
+tagging hsawithuv-detectable fluorescent protein	rfp	1
+tech-facing issue	rfid privacy	1
+technique withdierent technology	rf	1
+thermal ablation therapy	rf ablation	1
+thin film fabrication technology	rfm sputtering	1
+third method	rflp	1
+toughbook computers built-in option	rfid support	1
+traditional molecular typing method	rflp	1
+traditional software evaluation method	rfi scoring	1
+traditional supply chain application	rfid-based tracking	1
+transmission support device	rf amplifier	1
+travel security item	rfid protection passport case	1
+urepervasive computing application	rfid tag	1
+useless event	rfc one thousand nine hundred and eighteen 	1
+ustec component	rf camera's	1
+wireless communication signal	rf signal	1
+wireless informational and preemption issue	rf concern	1
+wireless portable transponder	rfid tag	3
+world-class procurement tool	rfx template	1
+AC frequency	rf	1
+accurately modeling certain phenomenon	rf heating	1
+acknowledged business process	rfi	1
+adverse affect	rfe being issued	1
+ag television show	rfd tv	1
+ariel stakeholder	rf engineers	1
+art RFID device	rfid unit  one hundred 	2
+article tag detector	rfid tag detector	1
+attack bottom	rf	2
+audio measurement	rf sensitivity	1
+automated order system	rf scanner	1
+automatically identifiable label	rfid tag	1
+option	rfid printing	1
+option	rf	1
+beauty machine	rf	2
+best-known algorithm	rfc	1
+bulk challenge-response scenario	rfid authentication application	2
+checkpoint security tag	rf label	1
+classic segmentation model	rfm	1
+commercial scenario	rfid-enabled supply chain	1
+common configuration setting	rfc server	1
+common transponder	rfid-enabled smart labels used in supply chain management	1
+complex nucleotide sequence pattern	rflp fragment patterns produced by the alleles of the hla dqa one  locus 	1
+compliance visit	rfo	1
+computationally weak device	rfid device	1
+concealment product	rf friendly chimneys screenwalls	1
+contactless readable information carrier	rfid chip	3
+conventional location management system	rfid system	1
+counter surveillance device	rf bug detector	3
+critical circuit structure	rf parallel coupled line bandpass filter	1
+critical matching circuit structure	rf parallel coupled line band-pass filter	1
+datum carrier tag	rfid tag	1
+datum connection mechanism	rf	1
+deal pursuit activity	rfp answer	1
+decade various molecular genetic method	rflp	1
+decent quality ground independent antenna	rfi cd nine hundred  antenna from prestige communications in wa 	1
+decoder related offer	rf amplifier	1
+DFPLT system	rf tomography	1
+discussion minimally invasive therapy	rfa	1
+DISCUSSION molecular marker	rflp	1
+DISCUSSION thermal treatment	rfa	1
+distinctly modern project	rfh	1
+DNA based marker	rflp	1
+duplexers	rf antenna duplexers	1
+group	rfa	1
+effective again higher frequency noise	rfi	1
+effective and specialized task force	rfm	1
+electrical bias device	rf generator	2
+electrical transmission signal	rf electrical signal	1
+electro-magnetic radiation signal	rf signal	1
+electromagnetic wave signal	rf signal	3
+electromechanical or electrical switch	rf mems	1
+electronic component module	rf module	1
+electronic system component	rfid component	1
+EM signal	rf	1
+embedded feature selection method	rfe	1
+embedded wireless communication technology	rf	1
+EMI suppression technique	rf gasketing	1
+equipment sensor	rfm	1
+evil surveillance technology	rfid for year	1
+feature-selection method	rfe into mlms	1
+field communication device	rfid wand	1
+Fighter reconnaissance aircraft	rf- four 	1
+first signal line	rf signal line	2
+FSCMs	rfl	1
+hard-to-control tip	rf	1
+health-based screening criterion	rfdsarebasedona variety of health effect	1
+heuristicfllter	rfam suseof blast	1
+high frequency analog application	rf	1
+high frequency electromagnetic field	rf energy	2
+high frequency power	rf power	6
+high frequency power source	rf power source	1
+high-frequency threat	rf on the power line	1
+high-speed measure-mentswith charging device	rf set	1
+hot atmospheric-pressure plasma	rf plasma torch	1
+inaudible frequency	rf	1
+inmost simple action	rfi	1
+interactive processor device	rfid reader	2
+international cross-functional team	rf engineering	1
+intra-cardiac catheter	rf catheter	1
+introduction low-end device	rfid tag	1
+Key com-ponents	rf absorbers	1
+kind Bass Boost	rf peq	1
+large, high growth semiconductor market	rf ics	1
+lc-displayall operating parameter	rf	1
+library management system	rfid-library management system	1
+lightning signal	rf	1
+local transceiver	rf transceiver	2
+lossless transmissive link	rf fiber optic link	2
+low power analog application	rf processing	1
+low signal level circuit	rf amplifier	1
+low-quality cable	rf	1
+medical device identifiers	rfid device	1
+minimally invasive ablative therapy	rf ablation	1
+modern datum carrier	rfid tag	1
+modern, automatic identification system	rf terminal	1
+modest temperature device	rf capacitive plasma	1
+modulator driver	rf signal generator	2
+molecular epidemiologic tool	rflp	1
+monowheel aircraft	rf four 	1
+MQ header	rfh	1
+multilocus method	rflp analysis	1
+multiprotocol-related connector	rfid reader connector	1
+non-contact readable device	rfid transceiver	1
+non-contact signaling mean	rf transmitter-receivers	1
+non-magnetron PVD application	rf diode pvd	2
+non-operative technique	rfa	1
+non-plugged device	rf-id device	1
+nonredundant component	rf switch	1
+group	rf	1
+method	rf sputtering	10
+method	rflp	7
+method	rf welding	3
+method	rf sealing	3
+method	rf glow discharge	3
+method	rflp analysis	3
+OMG mechanism	rfp for the next version of bpmn	1
+online RFP site	rfp express	1
+operational or test signal	rf signal	1
+OSA procedure	rf ablation	1
+percutaneous ablative therapy	rf	1
+percutaneous and laparoscopic ablative technique	rfa	1
+percutaneous thermoablative technique	rf ablation	2
+performance tip	rf	1
+physical layer countermeasure	rf watermarking	3
+phys-icallayer countermeasure	rf watermarking	1
+plasma deposition technique	rf	1
+PMDC feedback signal	rf tone	1
+post-pcr test	rflp	1
+preferred monitoring device	rfid tag	1
+print-access organization	rfb	1
+product identification technique	rfid technology	1
+programmable transponder	rfid tag	2
+protected DAISY book	rfb	1
+proximity card	rfid card	1
+proximity system	rfid based product	1
+purest analog circuit	rf circuit	1
+PvP-oriented fantasy MMOs	rf online	1
+RA-associated autoantibodies	rf	1
+radical technology change	rfid tracking	1
+random DNA marker	rflp marker umc one hundred and eighty-seven 	1
+real-time inventory management	rfid system	1
+real-time monitoring system	rfid tag	1
+remote transmission mean	rf	1
+renal ablative method	rfa	1
+resonance-based component	rfid tag	1
+resonant design	rf driver for the time varying	1
+result humification parameter	rf	1
+RF apparatus	rf transceiver	1
+RF modem shelf	rf modem shelf  one hundred and fourty a 	1
+RF potential source	rf generator	1
+RF power state datum	rf voltage	1
+RF-capable interventional device	rf wire	2
+RFCs	rfc  eight hundred and twenty-one 	1
+RFID identifier	rfid tag	1
+RFID istheuseofan object	rfid livestock tag	1
+RFID lab equipment	rfid reader	1
+RFID object	rfid tag	4
+RFRPs	rfrp- one - twelve 	1
+RFX family member	rfx one 	1
+SAP interface	rfcs	1
+Scanner An electronic device	rfid tag reader	1
+second molecular testing method	rflp	1
+security auditing solution	rfid product	3
+self-organized configuration	rfp	2
+method	rfid tracking	1
+method	rf-induced evaporative cooling	1
+method	rfid tag	1
+method	rf field mapping system	1
+method	rf magnetron sputtering	1
+method	rf fingerprinting	1
+method	rf shimming	1
+method	rf sputtering method	1
+method	rf deposition	1
+method	rf-level linearization method	1
+method	rf magnetron sputtering method	1
+method	rf shield	1
+sensitive analysis	rflp pcr	1
+sensitivity assay	rflp	1
+signal transmitter	rf transmitter	1
+simple anti shoplifting tool	rf security label	1
+simple index approach	rfm	1
+simultaneous component activity	rf pulse	1
+single beacon device	rf transmitter	1
+single electronic label	rfid tag	2
+small radio frequency communication system	rfid tag	1
+space applicable mean	rf	1
+stable identifiers	rfc number	1
+step size control method	rfo	1
+straightforward signal generator	rf signal generator	1
+structure prediction program	rfp	1
+student tracking device	rfid device	1
+supplying RFID system	rfid reader	1
+technical quialification	rfs certificate	1
+temperature-based therapy	rf ablation	1
+tight-fitting secondary seal	rfi weatherguard	1
+time-varying barrier	rf field	1
+tire performance	rfv	2
+today's IT resource	rfid scanner	1
+tracable system	rfid chip	1
+traditional boxed instrument	rf analyzer	1
+traditional picking solution	rf scanning	1
+transient response noise-sensitive application	rf power amplifiers	1
+translation termination factor	rf two 	2
+TV RF application	rf amp	3
+typical RF application	rfid tag	1
+ubiquitous networking technology	rfid tag	1
+ultra low-power application	rfid tag	1
+varactor parameter	rf capacitance	1
+tool	rfp evaluation form	2
+tool	rfp template	2
+tool	rfid tag	2
+tool	rfq evaluation form	2
+tool	rfc call	1
+video-grade cable	rf	1
+VNC protocol	rfb	1
+wavelength fluorescence protein	rfp	1
+wavelength-dependent circuit	rf	2
+well-known ion linac	rfq linac	2
+well-known short-range communication technique	rfid based communication	1
+wimax solution	rf repeater	1
+wireless read field	rf field	1
+wireless tracking device	rfid tag	1
+zno deposition technique	rf sputtering	1
+tool	rfhutil from websphere mq support pac ih three 	1
+tool	rfid reader	1
+tool	rfm formula	1
+tool	rf meters	1
+tool	rf planning tool	1
+tool	rflp	1
+tool	rf shark	1
+factor	rf performance of specific mobile	1
+factor	rfid signal power	1
+product	rf module	6
+product	rfid tag	4
+product	rf filter	4
+product	rf device	3
+project	rfc's river center	2
+project	rf upgrade	1
+project	rf-upgrade	1
+project	rfid installation	1
+material	rfp	2
+place	rf giardina	1
+player	rf mems player	1
+technology	rfid tag	27
+technology	rfid	11
+technology	rf	8
+technology	rf four ce 	4
+technology	rfid tagging	4
+technology	rfid chip	3
+technology	rf capacitance	2
+technology	rfid smart card	2
+technology	rf tag	2
+technology	rfa	2
+technology	rf technology	1
+technology	rf remote control	1
+technology	rf welding	1
+technology	rfid smart minicomputer-like identification card	1
+technology	rfid support	1
+technology	rfid tags used in hkia	1
+technology	rf mems	1
+technology	rf plasma	1
+product	rfi	3
+product	rfid reader	3
+product	rfi filter	2
+product	rf shark	2
+product	rfid chip	2
+technology	rfid based system	1
+technology	rfog	1
+technology	rfid solution	1
+technology	rfid for -logistic	1
+technology	rfid chips embedded inside product	1
+technology	rfid & nfc mobile payment	1
+technology	rf-sputtering	1
+technology	rft	1
+technology	rf admittance	1
+technology	rf cmos	1
+technology	rf scanner	1
+technology	rf high-q mems resonator	1
+technology	rf gun	1
+technology	rfh	1
+technology	rf wireless technology	1
+technology	rfid powder , internal pre-crime detector	1
+technology	rfid powder	1
+technology	rfid for tamper-proof vehicle identification better data extraction of orv registrations for facilities planning purposes conduct a comprehensive study into the junior riders licence concept	1
+technology	rfid into a wide array of additional gadget	1
+technology	rfid-based self-service terminal	1
+technology	rfid technology	1
+parameter	rf power	14
+parameter	rf voltage	2
+parameter	rf channel number	2
+parameter	rf pulse width in software	1
+parameter	rf input presence	1
+parameter	rf coupling efficiency	1
+parameter	rf circuit parameter	1
+parameter	rf amplitude	1
+parameter	rf frequency	1
+parameter	rf level	1
+parameter	rf energy	1
+system	rf	3
+system	rfid system	2
+system	rf communication system	1
+system	rfid tracking	1
+system	rf system	1
+system	rf video	1
+system	rf induction heating	1
+system	rfid	1
+system	rfid device	1
+condition	rf power	1
+condition	rfid provider	1
+condition	rf energy excitation	1
+condition	rf keypad report condition	1
+condition	rf processing condition	1
+element	rf element	2
+element	rfid device	1
+element	rf part	1
+element	rf power amplification element	1
+element	rf bombanding	1
+variable	rf condition	1
+product	rfid reader related product	1
+product	rfic	1
+product	rfid	1
+product	rf jammer related product	1
+product	rf label related product	1
+product	rf modulator	1
+product	rf module related product	1
+product	rf radio related product	1
+product	rf wireless keyboard related product	1
+product	rf connect related product	1
+variable	rf power	1
+function	rf	2
+function	rf upconversion	2
+function	rf power measurement	1
+function	rf setting	1
+function	rfid tag writing	1
+function	rf signal-processing function	1
+function	rf processing	1
+function	rf measurement	1
+function	rf spectrum analyser	1
+device	rfid tag	12
+device	rfid reader	11
+device	rf-based sensor	2
+device	rf device	2
+device	rf	2
+device	rfid device	2
+device	rf coil	2
+device	rfids	2
+device	rfid guardian	2
+device	rf generator	2
+device	rf switch	2
+device	rf mems	1
+device	rf end device	1
+device	rf equipment	1
+device	rfid module	1
+device	rf tag	1
+device	rf power meter	1
+device	rf power amplifier	1
+device	rf data communication unit	1
+device	rf susceptible device	1
+device	rf transmitter	1
+device	rf-series integrated storage elements with dssi adapter	1
+device	rf-nems resonator	1
+device	rfid transponder	1
+device	rf-based sensor s	1
+device	rf signal strength meter	1
+device	rf interference device	1
+device	rf module	1
+device	rf power	1
+device	rfid tags in key chain	1
+device	rfid chip	1
+device	rf circuit installed into a small body of  ten mm diameter 	1
+device	rf jammers	1
+device	rf oscillator	1
+device	rf wireless device	1
+brand	rfd	3
+concept	rf time difference of arrival	1
+concept	rfbuckets	1
+concept	rf efficiency	1
+component	rf induction coil	3
+component	rf filters	2
+component	rf cavity	2
+component	rf window	2
+component	rfic	2
+component	rf diode power detector	1
+component	rf cable	1
+component	rf module	1
+component	rfc	1
+component	rf absorptive material	1
+component	rf generator	1
+component	rf output system	1
+component	rf circuitry	1
+component	rf coils for plasma enhancement	1
+component	rf circuit	1
+component	rf component	1
+component	rf receiver	1
+component	rfid portal	1
+component	rfid tag	1
+component	rfid antennas	1
+component	rf transformer	1
+aspect	rf cable phase instability	2
+aspect	rf shielding	1
+aspect	rf standard	1
+aspect	rf emission	1
+aspect	rfi excision	1
+aspect	rfid mature production technology vendor	1
+site	rf source site	1
+site	rfl forum	1
+task	rf propagation study	3
+task	rf modulation	1
+task	rfe submission	1
+related product	rf reader related product	1
+related product	rf coaxial connector related product	1
+related product	rf connect related product	1
+related product	rf wireless keyboard related product	1
+related product	rf module related product	1
+related product	rf jammer related product	1
+related product	rf radio related product	1
+related product	rfid reader related product	1
+related product	rf remote controller related product	1
+related product	rfid related product	1
+related product	rfid em tag related product	1
+related product	rf transceiver module related product	1
+related product	rf coaxial cable related product	1
+related product	rf remote control related product	1
+related product	rf amplifier related product	1

@@ -1,0 +1,214 @@
+facility	a&e hospital	1
+source	a&e magazine	1
+client	a&e television network	3
+client	a&e networks	3
+client	a&p	1
+business	a&w restaurants	1
+ingredient	a&w root beer	1
+cost	a&g salary	1
+firm	a&e firm	1
+firm	a&w restaurants	1
+requirement	a&p	1
+job	a&r representative	1
+favorite	a&e hd	5
+favorite	a&w root beer	1
+setting	a&e department	1
+class	a&p	1
+class	a&p patho pharm micro	1
+team	a&m playing flat	1
+entity	a&s tribal industries	1
+show	a&e biography	4
+role	a&r work	1
+store	a&f	2
+store	a&g central music in madison heights	1
+customer	a&p canada	1
+label	a&m records	4
+label	a&f	1
+award	a&b honor roll	1
+top quality inn	a&b guest house	1
+retailer	a&b sound	1
+professional	a&r executive	1
+professional	a&e staff	1
+channel	a&e	1
+channel	a&e hd	1
+channel	a&e classroom	1
+series	a&e's original series	1
+suggestion	a&e nursing	1
+supplier	a&e home video	1
+chain	a&w root beer	2
+chain	a&w	1
+chain	a&p	1
+station	a&e	1
+sponsor	a&w rootbeer	1
+specialist	a&b vintners	1
+drink	a&w rootbeer	1
+food product	a&w root beer	1
+guest speaker	a&r scouts	1
+quality product	a&p quality product	1
+contractor	a&h landscaping	1
+essential service	a&e	1
+television program	a&e channel's breakout kings' in vancouver	1
+high quality product	a&c concrete sealer y con h&c shield-crete epoxy	1
+public area	a&e waiting room	1
+contact	a&r	1
+pro	a&c exterminators	1
+cream	a&d ointment	2
+large firm	a&p supermarkets	1
+large firm	a&l goodbody	1
+TV program	a&e cold case files	1
+national chain	a&w all-american food	1
+gathering	a&c fairs	1
+over-the-counter medication	a&d	1
+celebrity guest	a&e reality show manhunters guest rasheen pep peppers	1
+great item	a&f super skinny destroyed	1
+retail chain	a&o	1
+grocery store	a&p	1
+elective course	a&ep  four hundred and thirty-eight 	1
+help	a&r s	1
+lab	a&l labs	1
+medical professional	a&e staff	1
+area	a&r mentoring	1
+area	a&e department	1
+area	a&e admission	1
+topical medication	a&d ointment	1
+counter medication	a&d ointment	1
+soft cost	a&e fee	3
+ointment	a&d ointment	4
+ointment	a&d vitamin enriched ointment	1
+ointment	a&d diaper rash ointment	1
+ointment	a&d cream for the first  two - three days 	1
+service	a&e service	1
+service	a&r consultancy	1
+cable channel	a&e	2
+popular television show	a&e intervention	1
+national account	a&p grocery stores	1
+publishing company	a&c black	1
+cable network	a&e	1
+key brand	a&w root beer	1
+programmer	a&e television networks	1
+programmer	a&e network	1
+medium group	a&e television networks	1
+counter remedy	a&d tm ointment	1
+communication company	a&e television networks	1
+popular chain	a&w restaurant	1
+topical preparation	a&d ointment	1
+topical ointment	a&d ointment	8
+topical ointment	a&d around the anal opening	1
+company	a&w restaurants	2
+company	a&e television networks	2
+property company	a&m realty bhd	1
+local contractor	a&t projects developments	1
+science class	a&p online	1
+company	a&p technology	1
+company	a&l marketing	1
+recording company	a&m records	1
+optional product	a&h insurance	1
+national commercial	a&w root beer	1
+antibiotic ointment	a&d ointment	4
+company	a&d pharma in romania	1
+company	a&b global mining	1
+company	a&b storage	1
+company	a&b properties	1
+company	a&m records	1
+barrier cream	a&d ointment	2
+barrier cream	a&d ointment for chaffing of the skin	1
+original series	a&e's original series	1
+activity	a&s display	1
+jewelry store	a&j jewelers	1
+large medium company	a&m records	1
+college class	a&p	1
+harsh cleaning product	a&d ointment	1
+information	a&e selection process	1
+information	a&e	1
+pre-reqs	a&p	1
+top-rated brand	a&w root beer	1
+departmental event	a&s fall days	1
+antibacterial ointment	a&d ointment	1
+over-the-counter cream	a&d ointment	1
+agility drill	a&b skip	1
+independent consultant	a&a environmental in kirkland lake	1
+event	a&p show	1
+land grant institution	a&m college	1
+HD national channel	a&e	1
+style brand apparel	a&f clothes	6
+delivery area	a&e redesign	1
+skin barrier	a&d ointment	1
+infamous gang	a&a sharps	1
+land-grant institution	a&m college	1
+long-established brand	a&e television networks history	1
+moderate line	a&p	1
+brand-named product	a&f	1
+barrier ointment	a&d ointment	2
+mainstream supermarket chain	a&p	1
+cable favorite	a&e	3
+countless television show	a&e on building successful relationship	1
+high-risk health setting	a&e department	1
+protective cream	a&d ointment	1
+aviation job	a&p mechanics	1
+brand name clothing	a&f t shirt	1
+fashion clothes	a&f	1
+finalist team	a&d siemens	1
+international chain restaurant	a&w	2
+robust option	a&m	1
+brand T-shirts	a&f	3
+brand underpants	a&f	1
+cool t-shirts	a&w rootbeer	1
+fresh store	a&p fresh market	1
+national TV	a&e paranormal state filmed at a haunted residence	2
+national TV	a&e airline filmed in birmingham	1
+professional submission service	a&aa	1
+system design resource	a&e specs	1
+american programming service	a&e	1
+commercial diaper rash cream	a&d ointment	1
+industrial automation organization	a&m components	1
+medium outfuts	a&e biography	1
+supermarket grocery store	a&p	1
+talent agency representative	a&m agency	1
+watch channel	a&e	1
+A&PI population	a&pi gay man	2
+demand channel	a&e	1
+Diaper rash ointment	a&d ointment	1
+elderly care product	a&d ointment	1
+electronic finding service	a&i database	1
+name	a&w rootbeer	1
+fashionable store clothes	a&f for cheap	1
+great specialty food shop	a&s meat	1
+mild antibacterial cream	a&d original ointment	2
+non-mental health worker	a&e staff	1
+case	a&w revenue royalties income fund's	1
+secured new customer	a&w canada	1
+case	a&m records	1
+top end metal fabrication company	a&b welding	1
+workshop & panel	a&s career conversations	1
+application SWR	a&r	1
+best quality brand name coat	a&f coat	1
+BMW dealer website	a&s bmw motorcycles	1
+Bring diaper rash ointment	a&d ointment	1
+cablesystem basic cable channel	a&e	1
+chain retail outlet	a&b sound	1
+crappy inbetween name	a&f	1
+experienced structural dry-out specialist	a&d hydra clean	1
+faa-issued paper certificate	a&p	1
+high user department	a&e department	1
+lessor skilled area	a&p mechanic	1
+local rival fish market	a&b famous fish	1
+manpower agency	a&p services	1
+medeco security professional	a&b security group technician	1
+neighboring store	a&p collectibles	1
+once-artsy cable channel	a&e network	1
+method	a&i database	1
+small, enclosed nest site	a&e hanging finch nest with leaves	1
+trust wide efficiency issue	a&e conversion rate	1
+water damage professional	a&d hydra clean	1
+wit udder vendor	a&w o taco bell	1
+product	a&d scale	4
+project	a&a for car's showroom	1
+player	a&m qb jerrod johnson	1
+product	a&d ointment	2
+product	a&p quality product	1
+product	a&a s rail protector	1
+brand	a&f	4
+brand	a&e television's lifetime moms	1
+brand	a&w product	1
+brand	a&e awning	1
+brand	a&w root beer	1

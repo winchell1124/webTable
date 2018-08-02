@@ -1,0 +1,41 @@
+alternative	o&o diskimage  six  pro 	1
+title	o&m teachers	1
+cost	o&m associated with the license extension period	1
+indicator	o&m cost	1
+label	o&g	1
+module	o&m cost	1
+issue	o&m charge related to ex-ntpc system	1
+issue	o&m contractor	1
+result	o&m cost	1
+assignment	o&m	1
+datum source	o&m manual	1
+fixture	o&e use ykk fixture	1
+item	o&m manual review	1
+key parameter	o&m cost	1
+node	o&m node	2
+routine matter	o&m returns	1
+project document	o&m record	1
+service	o&e reports	1
+third party tool	o&o software's defrag tool	1
+practical subject	o&m	1
+utility cost	o&m for the central chilled water plant	1
+factor	o&m expense	1
+component information	o&m manuals	1
+information	o&m instruction number	1
+information	o&m cost	1
+key input parameter	o&m cost	1
+PIM activity	o&m task	1
+IL service	o&m training	1
+section datum	o&m cost	1
+close-out documentation	o&m manuals	1
+world-class software vendor	o&o software	1
+auto disk defragger	o&o	1
+MRTU related cost	o&m	3
+case	o&m cost	1
+pension profiling tool	o&m systems	1
+tank management plan	o&m plan	1
+traditional off-the-shelf material	o&m manuals	1
+ultilities program	o&o defrag  two thousand   free 	1
+VRCBVI resource	o&m instruction	1
+measure	o&m measure	1
+function	o&m	2

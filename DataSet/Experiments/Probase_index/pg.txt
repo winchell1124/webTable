@@ -1,0 +1,904 @@
+product	pgx daily	1
+product	pga show related product	1
+product	pgj  two 	1
+facility	pgv	1
+property	pga compression	2
+property	pgs thermal property	1
+game	pgr three 	4
+game	pgr two 	3
+game	pgr four 	1
+game	pgr  three 	1
+character	pgy	1
+character	pga professional johnny bulla	1
+work	pgce taken at master's level	1
+work	pg wodehouse's  work	1
+model	pgasexpectaglobal memory address space	1
+attraction	pge park	1
+situation	pga tour	1
+category	pg accommodation	1
+institution	pgcdoh	1
+institution	pgr	1
+institution	pgimer	1
+client	pga tour	22
+client	pga of america	3
+product	pgi cdk	1
+product	pgi workstation	1
+product	pgp universal	1
+approach	pgp desktop email	1
+idea	pga's merchandise show	1
+alternative	pgp	1
+alternative	pgp whole disk encryption for the mac	1
+course	pga west	2
+course	pg programme in fashion technology	2
+course	pgdca	2
+course	pg diploma in pharmaceutical regulatory affairs	1
+course	pga national	1
+course	pg diploma in bioinformatics	1
+course	pg diploma in visual merchandising & store design	1
+course	pga west in palm springs	1
+course	pgdtm	1
+course	pgce secondary	1
+course	pg level course	1
+course	pg diploma in pharmaceuticals & health care marketing	1
+course	pga village	1
+course	pgdbm	1
+course	pgdip	1
+solution	pgp	3
+solution	pgp whole disk	1
+business	pgl adventure centre	1
+procedure	pgd	4
+school	pgic in australia	1
+school	pgcc	1
+food	pg tips tea	1
+title	pgr	1
+title	pgr two 	1
+title	pga player of the year	1
+plant	pge's boardman plant	1
+agent	pgi  two 	2
+development	pgp	1
+type	pga	1
+celebrity	pga pro don pooley	1
+venue	pga professional national championship	4
+venue	pga senior open	1
+venue	pga national	1
+venue	pga professionals championship	1
+venue	pgl venue	1
+industry	pg industries zimbabwe	1
+requirement	pga tuition	1
+drug	pgb	1
+drug	pgi  two 	1
+favorite	pg tips	2
+manufacturer	pgt windows	1
+feature	pgp desktop feature	1
+feature	pga statistic	1
+compound	pgi two 	1
+compound	pgp inhibitor verapamil	1
+website	pga tour's shot tracker	1
+website	pgatour.com's course scorecard	1
+policy	pgdp	1
+substance	pgi  two 	1
+expert	pg calc's west coast division planned giving services	1
+format	pgm	1
+Organisations	pga of wa	1
+Organisations	pgc nto	1
+partner	pga event partner	1
+partner	pgc	1
+partner	pga tour superstore	1
+big name	pga golf	1
+customer	pgp corporation	1
+customer	pga tour	1
+effort	pga golf supplier diversity initiative	1
+feature	pgp privacy	1
+step	pgt issuing a prototype	1
+additive	pgpr	1
+software	pgp	3
+capability	pgb	1
+sign	pg test	1
+retailer	pg industries	1
+professional	pga teaching	1
+brand name	pgx	1
+record	pgt	1
+luminary	pga tour pro rocco mediate	1
+rule	pg- thirteen  rating 	1
+utility	pgp	3
+utility	pg&e benefit from silicon valley tech companies like cisco	1
+utility	pg&e in california	1
+utility	pge transmission line	1
+utility	pgand e	1
+utility	pg	1
+utility	pge	1
+issue	pgy- one 	1
+platform	pgi's index trader	1
+protocol	pgm	1
+protocol	pgp for email	1
+responsibility	pgp placements	1
+employer	pge	1
+top brand	pgw glass	1
+domain	pg	1
+molecule	pgc  twenty-three 	1
+molecule	pge two  receptor 	1
+association	pgca	1
+plan	pge's time of use option	1
+sight	pga tour's shell houston open	1
+sensor	pg sensor	2
+teacher	pg joshi sir & madam	1
+athlete	pga golfer tiger woods	1
+athlete	pga golfers rick acton	1
+athlete	pga pro	1
+request	pg reservation	1
+context	pgp encryption	1
+large company	pgl	1
+fund	pggm	1
+supplement	pgx	1
+basic information	pgs definition	1
+input	pgme entry	1
+sponsor	pga tour superstore	1
+icon	pga tour icon	1
+evidence	pge's estimate of the impact on rate	1
+page	pgl web designs price quote form	1
+collection	pgrc canada	1
+industry leader	pgcil	1
+commodity	pge	1
+marker	pgi ii	1
+programme	pgdca	1
+command	pgrep	1
+investor	pgm group metals	1
+city attraction	pge park	1
+name brand	pga golf tour	1
+enzyme	pgm	1
+enzyme	pgd synthase	1
+developer	pg&e national energy group	1
+polymer	pga	6
+qualification	pgdip	1
+qualification	pg degree in commerce	1
+qualification	pgdte	1
+qualification	pgce	1
+metal	pgms along with gold	1
+route	pgce	1
+local company	pge	1
+member	pga tour member	1
+international company	pgs	1
+sample	pg ml twenty-one  antigen sample 	1
+payment	pg&e bill	1
+electronics	pga socket	1
+certification	pgmp	1
+optional feature	pgp whole disk encryption	1
+optional feature	pgp netshare	1
+item	pgh property tax	1
+item	pg tips	1
+well-known brand	pg guy	2
+educational institution	pg center	1
+winner	pga tour winner	1
+crisis	pgw situation	1
+microorganism	pgpr	1
+latest technology	pgd	1
+software application	pgp	1
+tour	pga	3
+tour	pga tour of australasia	1
+software tool	pgp	1
+classification	pga	1
+tournament	pga championship	4
+tournament	pga european tour	2
+tournament	pga tours	1
+tournament	pga tour's annual farmers insurance open at torrey pines	1
+dignitary	pgaof america ceo jim awtrey	1
+dignitary	pgatour commissioner tim finchem	1
+interaction	pgg	1
+pathology	pgl	2
+support group	pgh breast friends	1
+peer	pg's more emotionally mature peer	1
+child	pgpdata	1
+note	pg- thirteen  for sexuality 	1
+growth factor	pgs bind growth factor	1
+distributor	pgf	1
+regular	pga tour regular	1
+instructor	pga golf professional danny thomas	1
+button	pgup	1
+popular product	pg partstm for carrier unit	1
+popular product	pg parts tm for carrier unit	1
+severe complication	pgf	1
+great amenity	pga tour golf course	1
+detail	pga championship detail	1
+small molecule	pge two 	2
+key	pgup	2
+key	pgdn	1
+endeavor	pga.com value guide	1
+examination	pg entrance examination	1
+industry organization	pgi	1
+pesticide	pgr	1
+audience	pga tour	1
+sport event	pga heritage golf classic	2
+biomarkers	pge two 	1
+cell line	pg thirteen 	2
+abbreviation	pg for jopling	1
+abbreviation	pgf	1
+case study	pgp near the end of the course	1
+government organization	pgcil	2
+institutional investor	pggm	1
+service company	pgs	1
+industry expert	pga america ceo joe steranka	1
+peptides	pgcl	1
+golf course	pga west	1
+distinction	pga play	1
+mediator	pge two 	3
+mediator	pgd two 	1
+asbestos company	pg&e substation in antioch	1
+certificate	pgp certificate	1
+racer	pgr	1
+interactive tool	pgadmin	1
+professional athlete	pga tour pro brian gay	1
+vector	pgem vector	2
+high profile event	pga ryder cup gala in louisville	1
+high profile event	pga tour qualifying school finals	1
+open standard	pgm	1
+sporting event	pga	1
+sporting event	pga golf tournament	1
+conventional material	pga	2
+golfer	pga tour golfer	1
+rifle	pgw timberwolf	1
+topical agent	pge one 	1
+utility company	pg & e	1
+utility company	pge	1
+third party application	pgp	1
+communication protocol	pg&e  two thousand one hundred and seventy-nine 	1
+pharmacologic agent	pge two 	1
+pharmacologic agent	pgf two  alpha 	1
+direction	pg brandon jennings	1
+rating	pg- thirteen 	3
+rating	pg thirteen 	1
+financial document	pg&e corporation annual report	1
+local employer	pgt	1
+inflammatory mediator	pge	3
+inflammatory mediator	pgf	1
+inflammatory mediator	pge two 	1
+synthetic polymer	pga	2
+time favorite	pg tips tea	1
+management information	pgci	1
+industrial company	pg&e national energy group	1
+service	pgd	1
+security tool	pgp	1
+trace element	pge	2
+third-party product	pgpdisk	1
+security technology	pgp	1
+security application	pgp	2
+standard protocol	pgp	2
+adhesion molecule	pgi  two 	1
+adhesion molecule	pge	1
+biodegradable material	pga	1
+marketing event	pga tour	1
+traditional system	pgp	1
+clinical outcome	pgd grade	1
+emulsifier	pgpr	1
+power company	pg&e in the u.s	1
+open source tool	pgsql backend	1
+spa	pga national	1
+service	pgdca training service	1
+latest technique	pgd	2
+external tool	pgadmin iii	1
+great place	pga national	1
+popular store	pga tour shop	1
+professional program	pgce	1
+medical technology	pgd	1
+renowned teacher	pga director of instruction rick martino	1
+investment firm	pggm	1
+large entity	pga	1
+thermal property	pgs thermal property	1
+state-owned company	pgcil	1
+large investor	pggm	1
+third party program	pgp mobile	1
+third party program	pgp	1
+government intervention	pgds	4
+organic polymer	pga	1
+borrower	pg's	1
+level course	pg level course	1
+Vasodilators	pge one 	1
+transporter	pgp	1
+topic	pga size	1
+topic	pgp key	1
+topic	pgr events	1
+polyester	pga	4
+gated community	pga resort	1
+gated community	pga village	1
+hydrophilic polymer	pga	1
+performance test	pg test of boilers	1
+enterprise solution	pgp	1
+leguminous plant	pgeon pea	1
+renowned organization	pga tour	1
+industrial source	pge boardman power plant	1
+year event	pga golf tour	1
+resort community	pga national	1
+global variable	pgmptr	1
+racing game	pgr racer	1
+racing game	pgr three 	1
+qualified person	pg&e retirees with relevant experience	1
+vocational subject	pgce for teacher training	1
+graduate course	pgce itt	1
+family gathering	pg retreat	1
+corporate organization	pga architects	1
+company	pgp	4
+company	pga	3
+company	pg glass	2
+company	pgs	2
+company	pgnig	2
+company	pge	2
+annual special event	pga masters	1
+writing tool	pgmplususb	1
+good alternative	pgr	1
+commercial software package	pgp	1
+sport league	pga	2
+alternate option	pg program	1
+third party company	pga	1
+biodegradable polymer	pga	4
+electric utility	pge	1
+encryption method	pgp	2
+company	pg&e generating	1
+company	pgcil	1
+GUI tool	pgadmin	1
+level protocol	pgp	1
+popular file format	pgm	1
+proinflammatory mediator	pge two 	1
+complex solution	pgp available	1
+lipid mediator	pge	1
+inflammatory agent	pge two 	1
+premier institution	pgimer chandigarh	1
+energy producer	pg&e corp.	1
+ladder	pgt	1
+proton pump inhibitor	pge analog	1
+academic qualification	pgce	1
+british favorite	pg tips tea	1
+encryption technique	pgp	4
+company	pgg wrightson	1
+company	pg branding	1
+company	pg tips	1
+company	pgl	1
+company	pg clx mo	1
+company	pg industries	1
+correlation	pgf	1
+physical principle	pgc	1
+PSUs	pgcil	1
+vasoactive drug	pge one  after consulting with the staff neonatologist 	1
+open technology	pgp encryption	1
+esteemed organization	pgcil	1
+single parameter	pga	1
+volunteer role	pgp librarian	1
+affiliated company	pge	1
+high profile incident	pg&e failure in san bruno	1
+assisted reproductive technology	pgd	1
+infertility treatment	pgd	1
+Prostaglandins	pge two 	9
+Prostaglandins	pgi  two 	5
+Prostaglandins	pga.sub. one  in conjunction with phosphodiesterase inhibitor 	2
+Prostaglandins	pge one 	2
+Prostaglandins	pgd two 	1
+Prostaglandins	pga one 	1
+Prostaglandins	pgi two 	1
+Prostaglandins	pga one  in conjunction with phosphodiesterase inhibitor 	1
+Prostaglandins	pgf two 	1
+Prostaglandins	pga	1
+desktop feature	pgp desktop feature	1
+soluble mediator	pgs synthesized by residual lens epithelial cell	1
+traditional route	pgce	1
+notable athlete	pg- thirteen 	1
+encryption	pgp	4
+end-user product	pgh product	1
+leading light	pggm	1
+postgraduate course	pgce itt	1
+postgraduate course	pgcert	1
+energy provider	pg&e in california	1
+glycolytic enzyme	pgm	1
+national tournament	pga professional national championships	1
+poly	pga	4
+shareware program	pgp desktop professional	2
+high-end client	pga	1
+cryptosystems	pgp e-mail encryption program	1
+activity	pgp key signing party	1
+package type	pga	2
+diploma course	pgdca	1
+golf event	pga tour of australasia	1
+policy priority	pgdp	1
+encryption tool	pgp	2
+great tenant	pga superstore	1
+inflammatory molecule	pge two 	1
+encryption system	pgp	2
+encryption system	pgp disk	1
+quality assurance tool	pgsa	2
+encryption product	pgp at huge key length	1
+encryption product	pgp's whole disk series	1
+famous golf course	pga west	1
+system user	pgsql	1
+also-rans	pga tour also-rans	1
+arachidonic acid metabolite	pge two 	1
+large pension fund	pggm	1
+medical method	pg analog	1
+synthetic biodegradable polymer	pga	1
+up-regulated gene	pgf	1
+caddie	pga tour caddie	1
+encryption software	pgp	4
+encryption software	pgp desktop	1
+entrance examination	pg entrance examination	1
+parallel programming model	pgas	1
+teaching qualification	pgce	2
+information	pge versions used	1
+information	pgc	1
+medium course	pg diploma in broadcast	2
+professional sport organization	pga	1
+professional tournament	pga tour tournament players series	1
+professional tournament	pga greater naples intellinet golf challenge	1
+best tea brand	pg tips tea	1
+bioabsorbable polymer	pga	1
+corporate solution	pgp full disk encryption	1
+cryptographic application	pgp	1
+favourite brand	pg tips	2
+asymptomatic condition	pg occurring lifestyle	1
+biodegradable polyester	pga	2
+character LLLL domain	pgby.com	1
+encryption program	pgp	4
+leading provider	pgi	1
+marijuana sativa strain	pg- thirteen 	3
+information	pgy	1
+event	pga tour	4
+event	pga golf tournament	2
+event	pga	2
+event	pga golf	2
+Prostanoids	pgi  two 	3
+Prostanoids	pgd two 	1
+Prostanoids	pge one 	1
+Prostanoids	pgf	1
+camp-elevating agent	pge one 	1
+european investor	pggm	1
+launch game	pgr three 	1
+strong promoter	pgk	2
+taiwanese brand	pgo	2
+arcade racer	pgr	1
+auto insurer	pgr	1
+event	pga event	1
+event	pga golf tour	1
+event	pga senior pro-am	1
+programming device	pg  seven hundred and fourty 	1
+programming device	pg  seven hundred and twenty 	1
+synthetic and natural polymer	pga	1
+victor	pga winner payne stewart	1
+advanced standard feature	pgm ignition	1
+ART procedure	pgd	1
+corporate supporter	pga tour superstore	1
+cryptographic system	pgp	1
+distinguished title	pga player of the year	1
+encryption package	pgp for important document	1
+encryption package	pgp	1
+golfing event	pga tour's bob hope chrysler classic	2
+golfing event	pga europrotour	1
+GPCR agonists	pge two 	1
+ground motion parameter	pga	2
+ground motion parameter	pgv	1
+locally-based company	pg&e corp.	1
+showcase event	pga tour event	1
+add-on course	pg diploma course	1
+country club amenity	pga golf course in a private	1
+event	pga golf tornaments	1
+event	pga desert classic golf tournament	1
+event	pga junior series event	1
+event	pga pro-am event	1
+event	pga tour's president's cup	1
+event	pga's bmw championship	1
+event	pga tour qualifying school	1
+event	pga tournament	1
+event	pg national showcase	1
+event	pga champions classic	1
+event	pga club professionals championship	1
+event	pga golf qatar masters	1
+event	pga grand slam of golf	1
+event	pga grand slam of golf event	1
+program	pgp	11
+government-run institution	pgh	1
+international trade fair	pga show in orlando	1
+renowned course	pga west	1
+self-financing course	pgdca	1
+virus strain	pgpcoder family	1
+bacterial cell wall product	pgn fragment	1
+government undertaking	pgcil	1
+literacy partner	pga of america	1
+matrix polymer	pga	2
+multidrug transporter	pgp	1
+program	pgp disk	2
+program	pgp wipe	2
+teacher training program	pgce	1
+applied profession	pga professional	1
+atk's transformational weapon	pgmm	3
+biodegradable synthetic polymer	pga	1
+cipher algorithm	pgp	2
+cultural and entertainment venue	pga traveler's open	2
+gastroprotective drug	pg inducer	1
+gastroprotective drug	pg analog	1
+mechanical pulp	pgw	1
+national level	pga education conference	3
+program	pg level various program	1
+central power sector utility	pgcil	1
+clinically relevant variable	pg-sga score	1
+country specific domain	pg	1
+Cyclopentenone prostaglandins	pga one 	2
+Cyclopentenone prostaglandins	pga	1
+Cyclopentenone prostaglandins	pgd two 	1
+database client	pgadmin tool	1
+encrypted file format	pgp file	1
+encryption application	pgp	1
+event partner	pga event partner	1
+far-sighted individual	pgms's earl wilson	1
+high-end technique	pgd	1
+hybridization technology	pgs seedlink	1
+program	pg diploma in criminal justice	1
+program	pgma training for work scholarship program	1
+program	pgcedit	1
+community	pga national	2
+community	pga villages	2
+mobile core network node	pgw	1
+native compiler	pgf ninety 	1
+privacy enhancing technology	pgp public key encryption	1
+Profit-making PSUs	pgcil	1
+tumour-derived molecule	pge two 	1
+cincinnati great	pgc	1
+cipher system	pgp	1
+conventional symmetric scheme	pgp	1
+cyclooxygenase product	pge two 	1
+national-level association	pga of america	1
+natural prostaglandins	pge	3
+natural prostaglandins	pgd	2
+natural prostaglandins	pge two 	2
+natural prostaglandins	pgd two 	2
+natural prostaglandins	pgi two 	1
+outstanding sponsor	pga tour superstores	1
+permanent employee	pge's adam morse	1
+professional golf tour	pga tour	1
+public-key cryptography system	pgp	1
+S ACTIVEWEAR popular brand	pga tour	1
+organization	pga	5
+organization	pga of america	3
+organization	pga tour	2
+standing feature	pga new	1
+transcription regulator	pgc- one alpha 	1
+world class development	pga west	1
+advanced infertility treatment	pgd	1
+bagged tea	pg tips	1
+bone inflammatory agonists	pgf two alpha 	1
+bone inflammatory agonists	pge two 	1
+centrifugal compressor	pgc	1
+Cloning plasmids	pgem r t-easy	1
+common housekeeping gene	pgk one 	2
+conventional encryption technology	pgp	1
+country's biggest event	pga tournament	3
+Cyclooxygenase-derived prostaglandins	pge	1
+Cyclooxygenase-derived prostaglandins	pgi  two 	1
+downstream enzyme	pge isomerase	2
+e-mail security measure	pgp file encryption	1
+e-mail security measure	pgp encryption	1
+encrypted disk program	pgpdisk	1
+european tour event	pga championship at wentworth	1
+external database tool	pgadmin	1
+full time course	pgdrm with mba in rural management for two year	1
+full time course	pgpm with mba for two year	1
+interesting flag	pgok	1
+leveraging program	pga junior sports academy	1
+management education program	pg diploma	1
+management education program	pg programme in management	1
+monthly group activity	pgl activity center	1
+mystery ingredient	pgpr	1
+organization	pgg wrightson	1
+organization	pgl	1
+pro tour	pga	1
+profitable firm	pge	1
+project management institute certification	pgmp	1
+public key cryptography system	pgp with the above-described modification	1
+sole provider	pgx health	1
+standard navigation key	pgup	1
+synthetic aliphatic polyester	pga	1
+UG program	pgdca b.sc computer science	1
+well-established popular brand	pg tips	1
+x-linked gene	pgk	1
+american sport league	pga	1
+american tour	pga	1
+asymmetric encryption technique	pgp	1
+technique	pgd	2
+biodegradable polymer material	pga	1
+canadian oil trust stock	pgh	1
+canadian royalty trust	pgh	1
+central power utility	pgcil	1
+central public sector company	pgcil	1
+chronicle landmark	pga west	1
+classical indicator	pgv	1
+compiler tool chain	pgi workstation	1
+COSA related bill	pga tour special district	1
+COX product	pgi  two 	2
+date polyester	pga	2
+domain specific higher level environment	pgas	2
+E&P player	pgs	1
+electrospun synthetic copolymers	pga	1
+email encryption technique	pgp	1
+encrypted file	pgp disk	1
+extended navigation key	pgup	1
+formal engagement	pgr meeting	1
+technique	pgd embryo-screening	1
+ground-motion parameter	pga	1
+ground-motion parameter	pgv	1
+gundam model kit	pg model kit	1
+high barrier polyester	pga	3
+higher-end program	pg events	1
+indicated treatment	pge one 	1
+integrated course	pg diploma program	1
+key nuclear receptor gene	pgr	2
+keyboard navigation key	pgup	1
+low-level system	pgp virtual disk	1
+melee DPS class	pgl	1
+modern security protocol	pgp	1
+monomeric enzyme	pgm	1
+non-peptide factor	pgg-glucan	1
+application	pgm	2
+application	pgp security's cybercop sting	2
+oestrogen target	pgr	2
+PGA program	pga free lesson month	1
+PGA's	pga's of europe	1
+PGA's	pga of australia	1
+PKI system	pgp	1
+pre-service teaching qualification	pgce	1
+public CAs	pgp trustcenter	1
+public key infrastructure	pgp's web of trust	1
+public keyservers	pgp global directory hosted by pgp corporation	1
+public keyservers	pgp global directory maintained by symantec corporation	1
+public keyservers	pgp global directory maintained by pgp corporation	1
+receptor-mediated signal	pge one 	1
+scheduled major report	pgt outcome statistics	1
+small lighting product manufacturer	pg investment development co ltd	1
+standard openpgp encryption program	pgp	1
+time-old brand	pg tips	1
+Vasodilating prostaglandins	pgi  two 	1
+weekend afternoon sport event	pga golf	1
+XBOX360 game	pgr three 	1
+youthful contemporary	pga professionals bill galloway	1
+absorbable surgical suture	pga suture	1
+autostart component	pgc	1
+beginner's program	pga first swing	1
+big polish energy firm	pge	2
+bioabsorbable polyester	pga	1
+biochemical degradative pathway alpha polyester	pga	1
+biodegradable or bioerodable polymer	pga	2
+British tea	pg tips	1
+certificate framework	pgp	1
+classical prostaglandins	pgd	2
+classical prostaglandins	pge	2
+companies strategy	pgg wrightson	1
+degradable polyester	pga	1
+elite golfer	pga tour player	1
+english tea	pg tips	1
+ESCOs	pg&e energy services	1
+executive level hospitality event	pga pro-am event	1
+name	pga tour shop	1
+name	pg mavlankar	1
+name	pgas	1
+name	pga tour	1
+name	pga tour star	1
+formal teaching qualification	pgce	2
+full-disk encryption technology	pgp whole disk encryption	1
+giant pension fund	pggm	1
+golf industry initiative	pga trade-in network	1
+golf industry initiative	pga.com value guide	1
+golf registry association	pga of america	1
+ground motion intensity measure	pga	1
+group's largest investor	pggm	1
+imparting management course	pgpgbm	1
+in-house community partner	pgcps mental health initiative	1
+ink tank	pgi- two hundred and twenty-five  for black 	1
+key alignment instrument	pgdp	1
+large european pension fund	pggm	1
+level programming model	pgas	1
+factor	pgs bind growth factor	1
+factor	pgraphic characteristic	1
+medium-size chinese -logistic provider	pgl	1
+microbial inoculants	pgpr	1
+modern encryption scheme	pgp	1
+modern synthetic polymer	pga	1
+optional user-added global attribute	pgeversion	1
+OTases	pgll from neisseria meningitidis	1
+outside picking exercise	pg exercise	1
+over-voltage protection technology	pgb	1
+pathologic inflammatory molecule	pge	1
+pathologic inflammatory molecule	pge two 	1
+PG entrance examination	pgimer chandigarh	1
+Photocrosslinkable poly Poly	pga	1
+PKC technology	pgp	3
+portland attraction	pge park	1
+power utility company	pge	1
+powerful AAV	pgz- ninety-five 	1
+private country club community	pga west	1
+professional golf organization	pga	1
+provincial strategy	pgds	2
+public key encryption	pgp	2
+public key server	pgp global directory maintained by pgp corporation	1
+quality drink	pg tips traditional english tea	1
+respectable south korean manufacturer	pgo	1
+specialist children's holiday provider	pgl holidays	1
+strong motion parameter	pga	2
+successful protocol	pgp	1
+supportive sponsor	pgo scooters	1
+option	pgp	2
+synt hetic, biodegradable polymer	pga	1
+third-party encryption solution	pgp	1
+third-party encryption tool	pgp	1
+typical 4G application	pgw	1
+whole-disk encryption product	pgp whole disk encryption	1
+whole-disk encryption solution	pgp	1
+world-famous golf course	pga west	1
+alternate scheme	pgp	1
+AMFand certain rhizobacteria	pgpr	1
+annoying no-shows	pga tour pros in the players field	1
+asymmetrical algorithm	pgp	1
+audio & web conferencing solution	pgi's globalmeet  two . zero 	1
+auto-paralleing tool	pgi workstation	1
+bulk material analyzer	pgnaa	1
+carbohydrate blocker	pgx	1
+carboxyl-containing polymer	pga	2
+central transmission utility	pgcil	1
+cheap tea	pg tips	1
+classical PGs	pgf  two o 	1
+commercial disk encryption tool	pgp disk	1
+commercial encryption package	pgp	1
+common British diagnosis	pgt	1
+conclusion immersive visualisation technology	pgs holoseis system	1
+contemporary privacy technology	pgp cryptography	2
+conventional encryption	pgp	1
+cooperative factor	pge two  production 	1
+cryptographic software package	pgp	2
+custom pipeline component	pgp encryption component	1
+cyclooxygenase pathway product	pgi  two 	1
+db admin tool	pgadmin	1
+decent solution	pgp	1
+Dedicated email encryption software	pgp	1
+defensive bet	pgcil	1
+drill measurement device	pg one thousand   cutting tool inspection systems 	1
+group	pgt	2
+electronic or electropneumatic conversion	pgi firestorm	1
+e-mail encryption solution	pgp desktop email	1
+email encryption tool	pgp	1
+email id-identity system	pgp	1
+encrypted key	pgp	1
+encryption utility	pgp	1
+endpoint security	pgp end point	1
+er-driven gene	pgr	2
+extremely large source release case	pgdp	1
+factory automation program	pg plc tool interface	1
+famous bag tea	pg tips	2
+for-profit utility company	pg&e owned by shareholder	1
+free or inexpensive software	pgp	1
+full-blown encryption tool	pgp	1
+fulltime degree program	pgdm	1
+fusion protein expression vector	pgex vector	1
+gas measurement technology	pgas	1
+genase product	pge two 	1
+generally public key system	pgp	2
+glycolytic pathway component	pgk	1
+good encryption system	pgp	1
+great many product	pgp	1
+hard encryption	pgp	2
+heavy electrical power consumer	pgdp	1
+heavyweight encryption package	pgp	1
+high level optimization technique	pgo	1
+hybrid cryptosystem	pgp	1
+IHRD course	pgdca	1
+Ingesting soluble fiber	pgx	1
+intermediate organic molecule	pgal	1
+key asymmetrical key	pgp	1
+Kidney cortical COX2-derived prostanoids	pgi  two 	1
+konjac fiber	pgx	1
+large state owned company	pge	1
+large, very diversified, sophisticated investor	pggm	1
+lersystems	pgp	1
+local energy company	pg&e in the san francisco bay area	1
+local public utility company	pg&e in the west coast	1
+locally lab	pgw	1
+MAMPs	pg monomers in the initiation	1
+mature pension fund	pggm	1
+motion picture warning label	pg- thirteen 	1
+nz's most prominent company	pgg wrightson	1
+off-the-shelf encryption software	pgp	1
+partial or whole-disk encryption program	pgp desktop professional	1
+pay solution	pgp desktop	1
+pelargonidin derivative	pg  three -rutinoside 	1
+PGP corporation application	pgp zip	1
+PGP desktop feature	pgp netshare	1
+PGP program	pgp desktop	1
+PGP promoter	pgp.org for a free pgp encryption key	1
+PGP security product	pgp vpn	1
+Phosphoglucomutases	pgm five 	2
+pixel-based output format	pgm	2
+polish electricity company	pge	1
+posh golf resort	pga west	1
+powerful, free, encryption tool	pgp	1
+Preferred stock ETFs	pgf	2
+private encryption package	pgp	1
+producer cell line	pg thirteen 	1
+prostaglandin-derived product	pgi  two 	1
+prostanoid endothelium-derived relaxing factor	pgi  two 	1
+proven, free encryption technology	pgp	1
+public key cryptographic solution	pgp desktop	1
+public key crypto-systems	pgp	1
+public key encryption tool	pgp	2
+public-key encryption	pgp	1
+reliable IP multicasting protocol	pgm	2
+Renal prostaglandins	pge two 	1
+reversible GMS system	pgms	1
+rust race	pgt-ttks for stem rust	1
+schoolteacher qualification	pgce	1
+short-period ground-motion measure	pga	1
+side notable	pga golfer phil mickelson	1
+simple secure e-mail package	pgp	1
+software encryption program	pgp disk	1
+soluble pattern recognition protein	pgn recognition protein	1
+species-specific germ-plasm component	pgc in drosophila	2
+standard trigger system	pg- one hundred and three d generator 	1
+stereo vision camera	pgrtriclopsor bumblebee	1
+stroke-play event	pga championship	1
+strong encryption program	pgp	1
+suitable teaching qualification	pgce	1
+supercritical precipitation process	pgss	1
+third-party email encryption	pgp personal	1
+third-party e-mail encryption software	pgp used at salford	1
+thread series	pg series	2
+today algorithm	pgp	2
+top florida golf course	pga national	1
+touse software	pgp	2
+traditional certificate framework	pgp	1
+Traditional chemical permeation enhancers	pgml	1
+trex datum element	pgp flag	1
+tucson's exciting golf tournament	pga tour's chrysler classic of tucson	1
+Vasodilatory prostaglandins	pgi  two 	1
+venerable old favorite	pg music's band-in-a-box	1
+tool	pgp	3
+well-tested encryption solution	pgp	1
+tool	pgi's adobe presenter & captivate	1
+tool	pgp shred	1
+tool	pgadmin iii	1
+tool	pgadmin with postgres	1
+factor	pg one 's location 	1
+factor	pge content	1
+factor	pgi two 	1
+factor	pg	1
+factor	pgy level	1
+product	pgp	5
+project	pge's renewable energy project	1
+project	pgma meal assistance program	1
+project	pge's cascade crossing project	1
+project	pge's southern crossing project	1
+project	pgadmin	1
+artist	pg. ninety-nine 	3
+material	pga	2
+material	pga resin	1
+material	pgo	1
+place	pg county	1
+player	pga pro	1
+player	pgs	1
+technology	pgd	3
+product	pgp whole disk encryption	2
+product	pgp's whole disk	2
+technology	pgp file encryption	1
+parameter	pga	2
+parameter	pgv	1
+system	pgp	11
+system	pg&e project	1
+system	pgc	1
+measure	pgp encryption of datum	1
+element	pge	1
+product	pgp command line for large	1
+product	pgi server	1
+product	pg eight 	1
+variable	pgsize for number of rows per page	1
+variable	pgdp	1
+function	pgp whole disk	1
+function	pgp whole disk encryption	1
+device	pgs-based positioning	1
+device	pg filter	1
+brand	pg tips	10
+brand	pga tour	4
+brand	pgt	1
+brand	pga tour golf academy	1
+brand	pgw	1
+brand	pgo	1
+brand	pg lite hush puppies dockers bearpaw ad tec dr martens grinders	1
+brand	pg lite	1
+component	pgm-fi system	1

@@ -1,0 +1,224 @@
+process	wgs reaction	1
+property	wgaons	1
+client	wgbh	2
+writer	wg sebald	2
+business	wgam-the game	1
+part	wg actuator	1
+school	wgu	2
+title	wgm	2
+agent	wget	1
+firm	wg anderson	1
+indicator	wgi	1
+format	wgl	2
+store	wgc	1
+step	wgs	1
+retailer	wgc	1
+producer	wgbh	2
+channel	wgn	2
+channel	wgn hd	1
+utility	wget	3
+utility	wgl holdings	1
+issue	wgn radio	1
+issue	wgs lawsuit	1
+issue	wgfs curriculum development at postgraduate level	1
+employer	wgby-tv	1
+network	wgn	1
+station	wgbh	4
+station	wgbh in boston	3
+station	wgn chicago	1
+station	wgvu in grand rapids	1
+station	wgn in chicago	1
+station	wghp	1
+station	wges in chicago	1
+station	wgby	1
+station	wgrc	1
+sponsor	wgbh	1
+charity	wgn radio neediest kids fund	1
+board	wgby	2
+television show	wgn morning news	1
+radio station	wgn	3
+radio station	wgau	1
+radio station	wgy	1
+radio station	wgr	1
+radio station	wgac	1
+radio station	wgna	1
+radio station	wgn chicago	1
+radio station	wgow	1
+radio station	wgrd	1
+radio station	wguc	1
+radio station	wgar	1
+radio station	wgld	1
+student organization	wgur campus radio	1
+horse	wgc rembrandt.com	1
+basic tool	wget	1
+union	wga	1
+role model	wgbh's workflow architecture	1
+contender	wg grace	1
+industry organization	wgc	1
+league	wgl	1
+formulation	wg	1
+optical device	wgr	2
+medium company	wgn	1
+standard tool	wget	1
+letter	wgp	1
+ongoing program	wgf	1
+router	wgr six hundred and fourteen 	1
+access point	wg one hundred and two 	1
+access point	wg three hundred and two 	1
+access point	wg six hundred and two 	1
+small organization	wgr	1
+international forum	wg bbnj	1
+external tool	wget	1
+TV station	wgcl-tv in atlanta	1
+TV station	wgn in chicago	1
+military installation	wgr	1
+generation technology	wgs	1
+student leader	wgur manager ben elliott	1
+HD channel	wgn	1
+labor union	wga	1
+news program	wgn's nine o'clock news	1
+safety net program	wgsa	1
+lectins	wga	1
+company	wgbh	4
+company	wgn	3
+company	wgp	2
+company	wgsn	2
+global datum	wgs eighty-four 	1
+company	wgs	1
+best name	wgp	1
+exothermic reaction	wgs	1
+amateur	wg grace	2
+reformed theologian	wgt shedd	1
+command line tool	wget	1
+projection system	wgs eighty-four 	1
+source application	wget	1
+public broadcaster	wgvu	1
+systemic autoimmune disease	wg	1
+loan word	wgokye from watch	1
+independent station	wgn of chicago	1
+kpop artist	wg	1
+command-line utility	wget	2
+ferry company	wg	1
+free software tool	wget	1
+information	wgs renewal	1
+public foundation	wgf	1
+command line utility	wget	1
+contemporary application	wga	1
+professional union	wga	1
+national station	wgn	1
+event	wgrr oldies fest	1
+event	wgs awards of excellence	1
+event	wgc match play	1
+program	wget	4
+home router	wgr six hundred and fourteen 	1
+public station	wguc-fm	1
+program	wgcu curious kids	2
+superstations	wgn	1
+program	wgal morning news	1
+program	wgbh-tv's the american experience	1
+NETGEAR product	wgr six hundred and fourteen v six  wireless router 	1
+command line application	wget	1
+digital broadcast	wgn	1
+globe	wgs eighty-four 	1
+long-term relationship	wgi's at the dcr	1
+organization	wgbh educational foundation	4
+organization	wga	2
+top performance horse	wgc bum's creation	1
+ellipsoid	wgs eighty-four 	1
+ellipsoid	wgs seventy-two 	1
+organization	wgi in europe	1
+organization	wgbh	1
+public broadcasting station	wgbh in boston	1
+Television superstations	wgn	1
+trend forum	wgsn	1
+yorkshire team	wg	1
+big-market station	wgn	2
+CLI tool	wget	1
+english station	wgn	1
+evergreen program	wgs international food & beverage forum	1
+geodetic system	wgs  eighty-four 	1
+http tool	wget	1
+international trend-forecasting agency	wgsn	1
+internet station	wgmc jazz ninety . one  in greece 	1
+modern datum	wgs  eighty-four 	1
+application	wget	2
+orleans television station	wgno	2
+pay schedule	wg for worker	1
+Standalone downloaders	wget	1
+super station	wgn	1
+application	wga	1
+Toxic lectins	wga	1
+common arcade chassis	wg k four thousand nine hundred 	1
+Ellipsoid-based datums	wgs eighty-four 	4
+exclusive barrel set	wgp kaner	1
+name	wgc ebony masterpiece	1
+name	wgc pride's secret threat	1
+name	wgc sun's delight d	1
+global ellipsoid	wgs seventy-two 	1
+name	wgp	1
+name	wgc midnight sun	1
+NBC affiliate	wgem in quincy	1
+netgear router	wgr six hundred and fourteen 	1
+otherDG	wgs	1
+projection basic	wgs eighty-four 	1
+sporting celebrity	wg grace	1
+SR andotherassociated reaction	wgs	1
+option	wget	2
+today's wideband system	wgs	1
+trend website	wgsn	1
+typical netgear router	wgr six hundred and fourteen 	1
+up-coming military implementation	wgf	1
+accessible broadcaster	wgvu	1
+Autocockers	wgp autococker	1
+automated or manual tool	wget	1
+automated website downloader	wget	1
+chicago area HDTV broadcast	wgn	1
+command-line downloaders	wget	1
+common datums	wgs  eighty-four 	1
+common linux program	wget	2
+commonly available mirroring tool	wget	1
+disk formatting program	wget	1
+earth-centered coordinate system	wgs eighty-four 	1
+group	wg	1
+encouraging environment	wgvu-tv	1
+free internet retrieval tool	wget	2
+generic unix program	wget	1
+geocentric datums	wgs  eighty-four 	1
+geodetic coordinate system	wgs  eighty-four 	2
+global coordinate system	wgs eighty-four 	1
+global datums	wgs eighty-four 	1
+grand tournament	wgp	1
+high risk name	wgat	1
+HTTP client agent	wget	1
+HTTP utility	wget	2
+group	wgs  one hundred and five 	1
+group	wgdm from holding meetings in the region	1
+lectin-coated SPA bead	wga-spa bead	1
+Linux command line tool	wget	1
+modern datums	wgs eighty-four 	2
+non-agilent calibration kit	wg calibration kits from oml	1
+OS binding	wgl	1
+popular kiddie show	wgn's bozo	1
+private ladder	wgt	1
+prominent broadcaster	wgn in chicago	1
+reflective polarizer	wg	1
+regent station	wglo-fm  ninety-five . five 	1
+satellite-derived ellipsoid	wgs seventy-two 	1
+satellite-determined coordinate system	wgs  seventy-two 	2
+satellite-determined coordmate system	wgs  seventy-two 	1
+stochastic daily weather generator	wgen	1
+subscription-only trend forecasting website	wgsn	1
+television programmer	wgbh	1
+three-dimensional referencing system	wgs eighty-four 	1
+traditional dock shelter	wg four hundred and two  unit sold by frommelt products corporation of dubuque 	1
+trend forecasting company	wgsn	2
+tribune-owned station	wgn-tv chicago	2
+urban contemporary radio station	wgci-fm	1
+valid development tool	wget	1
+tool	wget	14
+Weather generators	wgen	1
+web aware tool	wget	1
+world class guitar	wgr guitars	1
+project	wg beautification project	1
+project	wg elementary traffic	1
+site	wgsn	1

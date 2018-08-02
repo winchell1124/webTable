@@ -1,0 +1,790 @@
+factor	gc content	5
+factor	gcs	4
+product	gcsf	1
+product	gc tooth mousse for home use	1
+initiative	gcc monetary union	1
+initiative	gca	1
+initiative	gcap academy	1
+initiative	gcc rummage sale	1
+accessory	gc interface	2
+datum	gc peak ratio	1
+datum	gcse pass	1
+resource	gcom products & banner	1
+resource	gc s	1
+resource	gcse study guide	1
+facility	gcit	1
+source	gcse book	1
+property	gc content	2
+property	gcmsassumethat land surface property	1
+subject	gcse astronomy out of school curriculum time	2
+subject	gcses	2
+subject	gcse art	1
+subject	gcse science	1
+subject	gcse psychology	1
+subject	gcse environmental science	1
+product	gcr fifteen  supporting bearing steel ball 	1
+product	gc column	1
+product	gcc grade crossing controller	1
+character	gcpd detective chris allen	1
+work	gcc	1
+model	gca equation of state	1
+model	gc	1
+model	gc multigas	1
+characteristic	gc content	2
+client	gccc	1
+document	gce	1
+document	gcse	1
+feature	gc content	4
+strategy	gcse explorative strategy	1
+alternative	gcl composite liner system	1
+effect	gcb	1
+agency	gci group	1
+course	gcses	1
+course	gcse math	1
+course	gce o level	1
+course	gce o-level preparation	1
+course	gcse drama	1
+course	gcse statistics	1
+mechanism	gcu independent learning framework	1
+feature	gc	1
+procedure	gcd	1
+band	gc five 	1
+criterion	gc content	2
+criterion	gcr	1
+criterion	gcv score	1
+criterion	gcv	1
+firm	gcc real estate firm	1
+industry	gcc cement plant	1
+requirement	gcse performance	2
+requirement	gconf	1
+drug	gcsf	1
+test	gc	2
+test	gcses in the uk	2
+test	gcl shear strength	1
+manufacturer	gc electronics	1
+instrument	gc	8
+instrument	gc-ms	2
+feature	gc-skew plot	1
+feature	gc ratio	1
+class	gcmw  one hundred and two 	2
+class	gcse support	1
+website	gcm travel stats	2
+website	gcse bbc bitesize	1
+website	gcf learnfree tutorials	1
+equipment	gc	3
+equipment	gc-ms gc-ms gas chromatography-mass spectroscopy	1
+equipment	gc column	1
+country	gcc	5
+country	gcc country	1
+country	gcc state	1
+country	gcc nation	1
+expert	gc jayaprakash	1
+region	gcc region	1
+medication	gcsf	1
+format	gcg	2
+Organisations	gchq	1
+piece	gcm campaign	1
+piece	gcc	1
+vendor	gcg	1
+influence	gcs	1
+store	gc murphy	1
+market	gcc bond market	1
+opportunity	gcs newcomers school	1
+label	gcp	1
+department	gchq	1
+scheme	gcash in the philippines	1
+software	gcg program package	1
+disorder	gca	1
+disorder	gcps	1
+student	gce	1
+module	gclisp extension module	1
+provider	gcash in the philippines	1
+retailer	gch retail	1
+protein	gc-globulin and-hs glycoprotein	1
+protein	gc	1
+point	gct	1
+brand name	gc electronics	1
+state	gcc country	1
+package	gcc	1
+package	gcc four 	1
+medicine	gcsf	1
+symbol	gc	1
+employer	gchq	3
+provision	gcse bitesize revision material	1
+domain	gcn five  histone acetyltransferase domain 	1
+association	gcsaa	2
+fund	gci japan hybrids	1
+sponsor	gcd	1
+competition	gca in geelong	1
+factor	gc resistance	2
+factor	gcs before surgery	2
+factor	gcs score	2
+issue	gcr critical issue	1
+local organization	gcic	1
+college	gccis	1
+politician	gccc southern councillor christine robbins	1
+government agency	gchq	1
+time	gcse exam	1
+suspect	gchq	1
+road	gcr	1
+regulation	gcp	3
+professional organization	gcsaa	1
+investor	gcap's long term investor	1
+city attraction	gci durant casino	1
+practical issue	gcp audit	1
+establishment	gcel	1
+response	gchsinhibitthe cellular immune response	1
+enzyme	gcvt of the glycine cleavage system	1
+critical issue	gcr critical issue	1
+advanced technique	gc-ms	1
+participant	gca co-chair robert mcnamara	1
+gas	gc carrier gas	1
+reference	gc column selection guide	1
+qualification	gcses	34
+qualification	gce	2
+qualification	gce a level	1
+qualification	gce a-levels	1
+qualification	gcse english & media	1
+qualification	gcse at various level	1
+qualification	gce a level mathematics	1
+qualification	gche	1
+qualification	gcse citizenship	1
+board	gcp	1
+message	gcn notice	1
+office	gca arquitectos	1
+library	gcc's stl	1
+conference	gcr	1
+software package	gcg	1
+certification	gcih	3
+certification	gced	1
+guideline	gcp	1
+tumor	gct	1
+motif	gc box	1
+design parameter	gc content	3
+economy	gcc	1
+bill	gch heating	2
+extra-curricular activity	gcc's cougarettes dance team	1
+computer program	gchat	1
+creation	gcs dragon	1
+essential oil	gc oil	1
+demand	gcse course work	1
+resin	gc resin	1
+resin	gc for modelling	1
+conventional technique	gc	1
+analytical technique	gc	9
+analytical technique	gc-ms	8
+analytical technique	gcms	1
+analytical technique	gc ms	1
+interaction	gcontains electron bath interaction	1
+key term	gcp	1
+item	gcis economic sector	1
+item	gc for resturants	1
+growth factor	gcsf	3
+ally	gcc nation	1
+government department	gchq	1
+modern technique	gc-ms	2
+trick	gcs use trick	1
+performance parameter	gc threshold	1
+pigment	gcc	1
+best practice	gcpe teaching exemplars	1
+cytokines	gcsf	3
+small molecule	gch one  inhibitor 	2
+analytical tool	gc	3
+analytical tool	gc-ms	1
+prognostic factor	gcs on admission	1
+common element	gc box	1
+demographic datum	gcs	1
+popular program	gcc	1
+examination	gce applied ict	1
+clinical factor	gcs	2
+sophisticated technique	gc	1
+regional organization	gcc	4
+industry organization	gca	1
+pathway	gcb exposure  pathway	1
+analytical method	gc-ms	6
+analytical method	gc	1
+transcription factor	gcm one 	2
+online retailer	gc	1
+biomarkers	gc protein	1
+case study	gcash in the philippines	1
+development tool	gcc	2
+physical attribute	gc content	1
+area	gcc improvement	1
+quantitative datum	gcse score	1
+inflammatory condition	gca	1
+exam	gcses	2
+Clinical information	gcs	1
+proof	gcse certificate	1
+statistical datum	gc content	1
+design tool	gcp design tool	1
+acronym	gctc	1
+government institution	gc foster college of physical education	1
+advanced method	gc	1
+quantitative method	gc	1
+industry heavyweight	gcap	1
+natural area	gca	1
+trust	gca	1
+surface property	gcmsassumethat land surface property	1
+categorical variable	gcs score	1
+automated system	gccs	1
+digital technology	gc  two 	1
+factor	gcs admission score	1
+factor	gc-biased gene conversion	1
+factor	gc-box binding factor	1
+big firm	gcl-poly energy holdings	3
+clan	gcaleka	2
+bias	gc-content	1
+traditional option	gcm booklet	1
+analog	gcv	2
+chemical method	gc	1
+separation technique	gc	1
+developing country	gcc country	1
+external datum	gcm forecast field	1
+power device	gct thyristor	1
+emulator	gcemu	1
+regional institution	gcc secretariat	1
+international program	gcos	1
+security application	gcc cat	1
+security application	gcc crm	1
+modern equipment	gc-mass spectrometer	1
+mod con	gch	1
+federal statute	gca	1
+google service	gchats	1
+sensitive application	gc	2
+sensitive technique	gc-ms	1
+switching device	gct thyristor	1
+secondary datum source	gcse performance table	1
+company name	gcsu	1
+third-party software	gcc	1
+computer technology	gcmc	1
+regional carrier	gci	2
+compiler	gcc	22
+compiler	gcc  two . zero 	1
+compiler	gcj	1
+online school	gca	1
+geography	gcc country	1
+ongoing event	gci petting zoo	1
+level course	gcse account	2
+mathematical function	gcd	2
+church group	gcm churches	1
+analytical instrument	gc	4
+analytical instrument	gc-ms	3
+arab country	gcc state	1
+separation method	gc-ms	1
+commercial software	gcg wisconsin	1
+sorbents	gcb	1
+instrumental technique	gc-ms	1
+nucleoside analog	gcv	1
+market economy	gcc	1
+predictive factor	gcs	2
+chromatographic method	gc	6
+chromatographic method	gc-ms	2
+chromatographic technique	gc	9
+chromatographic technique	gc-ms	2
+confirmatory test	gc-ms	1
+developer tool	gcc	2
+specialised product	gc column	1
+storyteller	gcina mhlophe	1
+international effort	gcos	1
+laboratory instrument	gc	5
+notable band	gc five 	1
+advanced instrument	gc	2
+advanced instrument	gc-ird-msd	1
+industry figure	gcap media's chief executive	1
+oil exporter	gcc cluster	1
+company	gci	2
+company	gc's use prolog for internal tracking of project	1
+company	gc marketing	1
+company	gcb	1
+company	gchq	1
+company	gci read-poland	1
+company	gc asia	1
+company	gc castings	1
+company	gcap	1
+instrumental method	gc	4
+commercial software package	gcg	1
+intelligence agency	gchq	1
+real estate firm	gcc real estate firm	1
+contact point	gcc border clearing agent	1
+security agency	gchq	1
+advanced analytical technique	gc-fi-tof mass spectrometry	1
+company	gck technology	1
+company	gci group	1
+company	gcsaa	1
+company	gci cable	1
+company	gci nutrients in usa	1
+quantitative criterion	gca	1
+immune response	gchsinhibitthe cellular immune response	1
+extension program	gcp book club	1
+formal qualification	gcses	5
+introductory course	gcse chemistry	1
+sequence feature	gc content	1
+monosaccharides	gc-tof analysisdeconvoluting uncommon monosaccharides	1
+entrance exam	gcse	2
+flow meter	gc flow meters	1
+academic qualification	gcses	5
+energy-intensive sector	gcc industry	1
+white pigment	gcc	1
+Antivirals	gcv	1
+civic association	gca	2
+sensitive assay	gcms	1
+modern analytical technique	gc-ms	1
+modern analytical technique	gc	1
+modulating factor	gc type	1
+small district	gcsd in sonoma county	1
+certification organization	gcf	1
+frontier market	gcc	1
+conventional analytical technique	gc	1
+local carrier	gci	1
+creative subject	gcse music	1
+nuclear reactor	gcrs	1
+scale model	gcm	1
+security certification	gcih	1
+bile salt	gcdc	1
+in-stock item	gcc technology printer toner cartridge	1
+advanced analytical method	gc-ms	2
+exposure pathway	gcb exposure  pathway	1
+nucleosides	gcv	1
+conservative society	gcc country	1
+opportunites	gcv	1
+chromatography method	gc	1
+high throughput technique	gc-ms	1
+MENA country	gcc country	3
+basic qualification	gcses	1
+competing company	gci	1
+curriculum program	gcse in fishing	1
+analytical condition	gc temperature program	1
+hematopoietic growth factor	gcsf	1
+mass spectrometric technique	gc-ms linkage analysis	2
+modern analytical method	gc-ms	1
+modern analytical method	gc	1
+sophisticated analytical technique	gc-ms	1
+volatile impurity	gc using	1
+adjunctive drug	gcsf	2
+analytical equipment	gc	2
+analytical equipment	gc-ms	1
+traditional analytical technique	gc-ms	1
+traditional qualification	gcses	4
+information	gci information	3
+information	gc data from gangliosides of tumors from various cancer	1
+local search method	gcsp	1
+anti-viral agent	gcv	1
+chromatography technique	gc-mass	1
+national exam	gcses	1
+society member	gcu	1
+UK supplier	gc	1
+colony stimulating factor	gcsf	1
+dynamo	gc support dynamo	1
+oil-rich nation	gcc country	1
+open-source package	gcc	1
+traditional analytical method	gc-ms	1
+utility operation	gcd	1
+information	gcse pass rate	1
+information	gcwr of the towing vehicle	1
+information	gcs	1
+free software project	gcc	1
+hyphenated technique	gc-ms	4
+long term investor	gcap's long term investor	1
+codons	gcg	1
+electrical wiring device	gcfi fixture	1
+calendar application	gcal	1
+critical unit	gcu	1
+cross-cutting activity	gclp training	1
+grading system	gcse	1
+PR agency	gci group	1
+bond market	gcc bond market	1
+chemical analysis technique	gcms	2
+commodity index	gcg	1
+Continuous information	gc content	1
+experimental test	gct	1
+sequence characteristic	gc content	3
+sequence characteristic	gc percentage	1
+standard form contract	gca green coffee contract	1
+tecniques	gc-ms	1
+adult education course	gcses	1
+gnu tool	gcc	3
+large telecommunication company	gci	1
+event	gc sessions	1
+event	gcse & key stage  three  information evenings 	1
+event	gcse maths day	1
+event	gc five  vintage & gifts coney-island-type side show 	1
+big application	gcc	1
+exam preparation program	gce	1
+geosynthetics	gcls	1
+photovoltaic company	gcl	3
+single-molecule technique	gclassical h single-molecule technique	1
+viral glycoproteins	gc	1
+advanced laboratory technique	gcms	1
+cellular immune response	gchsinhibitthe cellular immune response	1
+difficult target	gc-rich sequence	5
+dynamic analysis tool	gcov	1
+effective therapeutic agent	gcv	1
+program	gcc	6
+fuel exporter	gcc country	1
+global regulation	gcp	1
+standard analytical method	gc-ms	1
+traditional academic course	gcses	1
+basic clinical datum	gcs	1
+biotechnological product	gcsf	1
+compositional characteristic	gc content	1
+great open source project	gcc	1
+international examination	gce	1
+mass spectrometric method	gc-ms	1
+program	gcg gap	1
+program	gcombust	1
+program	gcc specific program	1
+powerful analytical technique	gc-ms	1
+security certificate	gcih	1
+seminal document	gcvtc recommendations	1
+approved qualification	gcses	1
+comprehensive method	gc-ms	2
+extension module	gclisp extension module	1
+external exam	gcses	2
+golf information	gcsaa news	1
+open-source software project	gcc	1
+optimization routine	gcp	1
+post-secondary qualification	gce a-levels	1
+public examination	gce	1
+public examination	gcses	1
+qualification type	gcses	1
+revision website	gcse bitesize	1
+sample introduction method	gc injector	2
+sequence analysis tool	gcg	1
+sophisticated analytical instrument	gc-ms	1
+algebraic rule	gcf & lcm	1
+C2 system	gccs	1
+chromatographic and detection parameter	gc column dimension	1
+color reproduction concept	gcr	2
+critical infrastructure component	gcc	1
+genomic and phylogenetic tool	gcg-seqlab	1
+histone-modifying enzyme	gcn five  in the spt-ada-gcn five  acetyltransferase 	1
+java compiler	gcj	1
+metadata specification	gcmd dif	1
+modern analytical instrument	gc	1
+national qualification	gcses	1
+sequence attribute	gc content	1
+spectrometric method	gc-ms	1
+springbok	gcobani bobo	1
+typical linux command line tool	gcc	1
+uncommon cancer	gct	1
+external qualification	gcses	2
+full set analytical equipment	gc-ms	1
+mail order supplier	gc	1
+membrane glycoproteins	gc	1
+national-level association	gcsaa	1
+ongoing snow research project	gcw	1
+osteolytic lesion	gct	1
+parameterized model	gcm	1
+primer-parameters	gc content	1
+primer-parameters	gccontent	1
+reputable motivational speaker	gcina mhlophe	1
+organization	gchq	2
+similarity-based model	gcm	1
+suggested parameter	gc content	1
+traditional laboratory method	gcms	1
+transcription regulator	gcl	1
+trustworthy organization	gccf	1
+tuning method	gcv	1
+ultra-modern equipment	gc	1
+upstream element	gc boxes	2
+advanced analysis facility	gc-mass	1
+advanced analytical system	gc-ms	1
+advanced scientific method	gc-ms methodology	1
+alcohol club	gc hustler	1
+applied science course	gcse additional applied	1
+attainment test	gcse examination	1
+decent mod	gc coilovers	1
+organization	gcos	1
+organization	gcla	1
+organization	gcm	1
+organization	gccf	1
+organization	gcdc with difficult service	1
+organization	gcf	1
+organization	gcsu women's ultimate team	1
+organization	gcc public rights of way	1
+organization	gc cares	1
+fundamental PAT tool	gc	1
+gene annotated attribute	gc content	1
+large open-source system	gcc	1
+neurologic emergency	gca	1
+open source compiler	gcc	1
+pillowball setup	gc under-mount	1
+technique	gc	11
+technique	gc-ms	5
+public exam	gcses	8
+regulatory framework many MENA country	gcc country	1
+sequence factor	gc content	1
+sophisticated selection method	gcv	1
+vinyl silicone impression material	gc exaflex	2
+vinyl silicone impression material	gc exajet	1
+vinyl silicone impression material	gc exafast nds	1
+vinyl silicone impression material	gc examix nds	1
+wide range quality product	gcc laser cutting	1
+worldwide distributor	gcs international ltd. in sri lanka	1
+acknowledged subject	gcse math	1
+advanced analysis instrument	gc	1
+advanced QC instrument	gc	1
+ancillary support material	gcms laboratory protocols for saliva specimen	1
+arab organization	gcc	2
+authentic swiss & luxury watch	gc & armani	1
+technique	gc with flame ionization detection	1
+technique	gcd test	1
+technique	gcms	1
+technique	gclassical h single-molecule technique	1
+technique	gc with flame-ionization detection	1
+cat registry	gccf	1
+common chemical analytical method	gc	1
+common gnu tool	gcc compiler	1
+conventional analytical tool	gc	1
+exam year student	gce o level	1
+genomic property	gc content	2
+global or local coordinate datum	gcs	1
+gnu package	gcc	2
+information security certificate	gcih	1
+land surface property	gcmsassumethat land surface property	1
+law enforcment agency	gchq	1
+massive star cluster	gc star cluster	1
+metabolic profiling technique	gc-ms	1
+metabolomic tool	gc-ms	1
+methodoligies	gc-ms	1
+application	gc's utilizing electron capture	1
+application	gc rich region amplification	1
+application	gc	1
+application	gc-ms	1
+application	gcg package	1
+application	gcms chemstation	1
+oncofetal gene	gcb	2
+PAP old guard	gct	1
+primer design parameter	gc content	1
+quantitive datum	gcse result	1
+rare inflammatory condition	gca	1
+representative nrf2-target gene	gclm	1
+science background	gcse biology grade a-c	1
+separation performance parameter	gcu	1
+short movement	gc for gripper close	1
+summative test	gcse examination	1
+system package	gcc	1
+traditional linux tool	gcc	1
+ACEA A3-rated oil	gc	1
+already-rich and urban country	gcc state	1
+bandwidth selection method	gcv	1
+built-in development tool	gcc	1
+capital-rich state	gcc state	1
+cd40-dependent process	gc formation	1
+chromatographic and analytical hybrid	gc-ms	1
+chromatography instrument	gc	1
+chromatography-related technique	gc	1
+classical metabolomic technique	gc-ms	1
+classi-calmetabolomic technique	gc-ms	1
+common chromatography method	gc	1
+comprehensive sequence analysis software suite	gcg package	1
+darwin package	gcc	1
+datum island packet	gcp	1
+diamond-bearing kimberlite dyke	gcr	1
+employee benefit consultant	gcg	1
+established qualification	gcses	1
+feline pedigree organization	gccf	1
+formal exam qualification	gcses	1
+GC solution	gc exchange	1
+GC solution	gc mail	1
+genomic characteristic	gc content	2
+gnu software-development tool	gcc	1
+GPL licensed software	gcc	2
+handled various analytical instrument	gc	1
+hematopoetic stimulating factor	gcsf	1
+hematopoietic colony-stimulating factor	gcsf	1
+high stake qualification	gcses	1
+high-surplus region	gcc	1
+homework help site	gcse answers in the uk	1
+hyphenated analytical technique	gc-ms	1
+intelligent instrument	gc	1
+international and multidisciplinary panel	gcos	1
+launch monitor	gc two 	1
+launch monitor sim unit	gc two 	1
+micro chromatography	gc	1
+model enhancement	gc forecat tm	1
+model enhancement	gc livecat tm	1
+modern analytic equipment	gc	1
+MS technique	gc-ms	1
+multi-geo type table	gct	1
+national and international curriculum	gce a-level	1
+national public examination	gce n level	1
+national public examination	gce o level examination	1
+novel product analysis method	gc analyses for organic acid	1
+novel product analysis method	gc analyses for organic acid s	1
+open sourced development tool	gcc compiler family	1
+optimal biophysical property	gc content	1
+OSU affiliate	gca service group	1
+parameter selection method	gcv	3
+pentamers	gcgcg	1
+case	gchq	1
+practice inseveral country	gcc state	1
+preferred standard chemical analytical technique	gc analysis	1
+promoter specific element	gc box	1
+proper educational program	gcse bitesize	1
+putative cis-acting element	gc box	1
+quality analysis equipment	gc	1
+recalcification product	gc america mi paste	1
+regional chromosome feature	gc content	1
+regional regulation	gcc regulations on drug bioequivalence	2
+result organization	gcu	2
+standard compiler	gcc	1
+standard geochemical test	gc	1
+standard UK qualification	gcses	1
+option	gcash	1
+unitised scheme	gcses in art	1
+vital economic topic	gcc common market	1
+well-known sequence characteristic	gc content	1
+3rd party collection center	gc service	1
+AFS andmolecular detection mode	gc-ms	1
+app-specific issue	gc tuning	1
+basic integer computation	gcd	1
+basic revision website	gcse bitesize	1
+bead filter system	gc tek aquabead filter range	1
+biosynthesis enzyme gene	gchi	1
+CD40 function	gc formation	1
+chemical component analysis equipment	gc-ms	1
+combined sensorial-analytical technique	gc-sniffing analysis	1
+common analytical laboratory technique	gc	1
+compiler package	gcc	1
+compiler system	gcc	1
+compiler-specific feature	gcc -pipe option	1
+complex mixture modern coupling technique	gc-ms	1
+comprehensive multidimensional technique	gcxgc	1
+comprehen-sivemeasurement intercomparison betweendierent technique	gc-ms	1
+conventional RS-DDS	gcmd mapserver	1
+correct oil	gc	1
+Coupled MS-techniques	gc-ms	1
+crucial glycolytic gene	gck	1
+difficult template	gc-rich template	3
+group	gcw	1
+electronic landing aid	gca	1
+employee benefit firm	gcg financial	1
+essential sperm cell-specific gene	gcs one 	1
+Examination coursework	gcse coursework	1
+explainations	gcrs	1
+fast GC	gc equipped with a flash column	1
+financial aid credit	gcc loan	1
+fundamental programming tool	gcc compiler suite	1
+gaussian source assumption	gcc	1
+gaussiansource assumption	gcc	1
+GC method	gc fid for tph	1
+GCOS network	gcos surface network	1
+GCOS reference network	gcos reference upper air network	1
+gc-rich motif	gc box	1
+GCSE math revision resource	gcse math master dvd	4
+generic compiler	gcc	1
+genome composition feature	gc	1
+gen-omecomposition feature	gc	1
+global-familiarity model	gcm	1
+gnu component	gcc	1
+Goniospectrophotometers	gcms- four  gonio-spectro-photometric colorimeter available from murakami 	2
+headspace GCO technique	gco of decreasing headspace volume	1
+heaviest 30-weight oil	gc	1
+HSV glycoproteins	gc	1
+IL-13 dependent remodeling parameter	gch	2
+group	gcn	1
+international chained retailer	gch retail	2
+introduction multiparallel method	gc-ms for metabolite	1
+language level A2	gcse german	1
+large, heterogeneous area	gcm grid cell	1
+large-scale, long-term, multi-partner program	gcp	1
+leading wafer manufacturer	gcl	1
+manyexamplar-based model	gcm	1
+mature software	gcc toolchain	1
+modern paired instrument	gc-ms	1
+multiparallel method	gc-ms for metabolite	1
+national examination result	gce	1
+non-lal assay	gc-ms	1
+non-professional qualification	gcses	1
+non-tracer analytical technique	gc	1
+method	gc	8
+method	gc-ms	5
+non-vocational qualification	gcses	1
+normal toolchain program	gcc	1
+official examination	gcses	1
+optimising compiler	gcc	1
+OSX-SL feature	gcd	1
+OTU oh	gcc zero 	1
+pancreatic gene	gcg	1
+pervasive approach	gcd	3
+polyvinylsiloxane material	gc fit checker	1
+popular qualification	gcse full course	1
+promotional or event staffing company	gc marketing services	1
+public domain compiler	gcc	1
+reasonable optimization criterion	gcv score	1
+remineralisation product	gc tooth mouse	1
+revision site online	gcse bitesize	1
+scrapbooking manufacturer	gcd studios	1
+method	gc analysis of long-chain fatty acid	1
+method	gcms	1
+method	gc content	1
+separation analysis	gc-ms	1
+separation-detection method	gc-ms	1
+session level indicator	gca protocol level	1
+short, richer oil-led arab economy	gcc	1
+simple developer tool	gcc	1
+sophisticated analytical instrumentation	gc	1
+sophisticated and expensive instrumentation	gc-ms	1
+SS7 signaling	gcp	1
+standard compilation tool	gcc	1
+static java compiler	gcj	5
+STE20 group kinases	gck-viii kinases	1
+strategic b2b telemarketing campaign	gcl's rolling programme	1
+system toolchain component	gcc	1
+TDE method	gcc function	1
+thermokinetic principle	gc content	1
+to-machine-code java compiler	gcj	1
+traditional instrumental technique	gcms	1
+treat-mentoptionsfor complicated case	gct with pulmonary metastasis	1
+uORFs	gcn four  in yeast 	1
+up-to-date light-firming filling material	gc gradia direct	1
+urban water supply scheme	gc scheme	1
+USA bead filter	gc tek biotek bead filters	1
+tool	gcc	5
+tool	gcp design tool	1
+tool	gcc in the production of the output	1
+Vocational GCSEs	gcse in printing being trialled at leeds college of technology	1
+voluntary, promotional initiative	gc	1
+work-intensive method	gc-ms in a lot of case	1
+project	gcc	2
+project	gcw	1
+place	gcc country	1
+player	gcobani bobo	1
+technology	gcd	1
+technology	gc-ms methods used in the regular pesticide program	1
+technology	gc-ms	1
+technology	gc	1
+product	gcp	3
+parameter	gc content	5
+parameter	gc type	2
+parameter	gc clamp	2
+parameter	gc condition	1
+parameter	gc concentration	1
+parameter	gc column position	1
+parameter	gc column flow rate	1
+system	gcb	1
+system	gc-ms	1
+system	gce vectrex	1
+system	gcmd	1
+system	gcss	1
+system	gcc	1
+system	gccs	1
+system	gce	1
+species	gc manakin	1
+measure	gc content	1
+condition	gca	1
+element	gcc box	1
+element	gcm falling	1
+element	gcs score	1
+variable	gc content	1
+variable	gc column performance	1
+variable	gcs	1
+variable	gc-content	1
+function	gcc extension function	1
+brand	gc	3
+brand	gcmmf's badam bar	1
+concept	gcf	1
+component	gc advertising	1
+aspect	gc content	1
+site	gcse bitesize for further help	1

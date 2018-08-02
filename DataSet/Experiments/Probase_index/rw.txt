@@ -1,0 +1,552 @@
+initiative	rwanda women's initiatives	1
+resource	rws book for a detailed treatment	1
+source	rwc	1
+source	rwandan government document	1
+exception	rwanda	4
+product	rwandan horticultural product	1
+exception	rwd porsche car	1
+model	rwp	1
+model	rw	1
+situation	rwanda	9
+situation	rwanda genocide	2
+institution	rwanda revenue authority	2
+institution	rwanda investment promotion authority	1
+institution	rwanda education	1
+institution	rwanda bureau of standards	1
+institution	rwanda utilities regulatory agency	1
+client	rwe	2
+client	rwe innogy	1
+document	rwc	1
+document	rwt certificates for interest	1
+feature	rwd	10
+form	rwd	1
+person	rwandan esther mujawayo	1
+location	rwanda	4
+location	rwanda before the genocide	1
+title	rwt	1
+manufacturer	rwenzori water	1
+manufacturer	rws	1
+instrument	rwandan household living conditions survey	1
+man	rw blackwood jr	1
+setting	rwanda	4
+setting	rwin	3
+individual	rw	1
+figure	rwanda's paul kagame	1
+instance	rwanda	3
+instance	rwandan genocide in the mid- one thousand nine hundred and ninety s 	1
+instance	rwandan genocide	1
+instance	rwandawhere aids wasaproblem in the original community	1
+policy	rwc  two thousand and eleven  leave plan 	1
+entity	rwandan refugee leader	1
+country	rwanda	660
+country	rwandaor kenya	1
+region	rwanda	5
+club	rw essen	1
+market	rwanda	4
+intervention	rwh pond	1
+effort	rws marine life fund	1
+actor	rwandan	1
+department	rwss	1
+environment	rwanda	1
+party	rwandan labor party	1
+addition	rwe plant in waycross	1
+experience	rwandan genocide	1
+state	rwanda	17
+corporation	rwe	2
+channel	rwj	2
+car	rwd rally car	1
+car	rwd sport car	1
+utility	rwe	7
+issue	rwd car	1
+operator	rwe	2
+space	rwfb-rooftop lounge	1
+context	rwanda	4
+large company	rwe's goldberg power station	1
+government agency	rwanda development board	2
+government agency	rwanda revenue authority	1
+society	rwanda	6
+time	rwandan genocide	2
+enterprise	rwe	1
+river	rwimi in the north eastern border of the district	1
+nation	rwanda	31
+notable exception	rwanda	6
+community group	rwca title i planning councils	1
+population	rwm herd in labrador	1
+culture	rwanda	2
+datum source	rwis datum	1
+non-profit organization	rwanda community partnership	1
+non-profit organization	rwanda cinema center	1
+conference	rwa national conference	1
+entry	rwv  one thousand and fourty-six 	1
+extreme case	rwanda	2
+private company	rwenzori highlands tea company ltd	1
+private company	rwe gas distributor	1
+champion	rwc dancing carousel	1
+crisis	rwanda	3
+crisis	rwandan genocide	2
+economy	rwanda	2
+external force	rwandan	1
+contest	rwa's golden heart	1
+horse	rwc hardcastles prime son	1
+horse	rwc the gravedigger	1
+horse	rwc the legend of troy	1
+argument	rwd vs. fwd	1
+government	rwanda	6
+structural factor	rwanda's landlocked geographic position	3
+structural factor	rwanda s landlocked geographic position	1
+private organization	rwanda fine coffee association	1
+conflict	rwanda	9
+conflict	rwandan genocide	2
+multinational	rwe	3
+success story	rwanda	3
+success story	rwenzori mountains national park	1
+ally	rwandan president juvenale habyarimana's ally	1
+entrant	rwe npower	2
+minority	rwanda's tutsis	1
+large firm	rwe	1
+reputable company	rwe	1
+area	rwanda	9
+tragedy	rwanda	2
+tragedy	rwandan genocide	1
+case study	rwanda	2
+case study	rwanda genocide	2
+technology company	rwd	1
+global player	rwe npower -renewable	1
+global player	rwe	1
+serious case	rwandan genocide	1
+reputable brand	rwr	1
+exporter	rwanda	1
+colony	rwanda	2
+civil society organization	rwi	1
+developed country	rwanda	4
+luxury feature	rwd	1
+member state	rwanda	2
+war	rwanda	1
+war	rwandan genocide	1
+small country	rwanda	2
+energy company	rwe	2
+energy company	rwe npower	1
+extreme situation	rwanda	2
+tour operator	rwandair express	1
+european company	rwe	2
+high-profile case	rwanda's mountain gorilla	4
+utility company	rwe	4
+utility company	rwe energie	1
+utility company	rwe power	1
+exotic location	rwanda	1
+national institution	rwanda development board	2
+national institution	rwanda revenue authority	2
+deck	rws	3
+deck	rw reveillark	1
+neighboring country	rwanda	7
+geographical area	rwanda	1
+atrocity	rwandan genocide	1
+african country	rwanda	58
+factor	rwy alignment	1
+big firm	rwe innogy uk	1
+sport car	rwd sport car	1
+neighbouring country	rwanda	7
+theoretical model	rwj chronic care model	1
+reputed company	rwe	1
+poor country	rwanda	8
+small state	rwanda	1
+tribunal	rwandan	2
+international airline	rwandair express	1
+german company	rwe	2
+remote place	rwanda	2
+third world country	rwanda	2
+regulatory authority	rwanda bureau of standards	1
+service	rwc	1
+licensee	rwi	1
+interesting species	rwenzori batis	1
+big-name company	rwe	1
+outliers	rwanda	1
+african leader	rwanda's president	1
+passive system	rwr	1
+trouble spot	rwanda in central africa	1
+armed group	rwandese hutu armed group	1
+complex environment	rwanda	1
+low-income country	rwanda	2
+huge corporation	rwe group	1
+consumer issue	rwt	1
+leading corporation	rwe	1
+african nation	rwanda	4
+growth sector	rwe innogy	1
+expensive alternative	rwa- three hundred r reporter 	1
+african state	rwanda	4
+corporate account	rwe npower	1
+worst case	rwanda	2
+year country	rwanda	4
+coalition member	rwanda	1
+pension fund	rwe thames water	1
+regional country	rwanda	1
+middle income country	rwanda	1
+scientific institution	rwth aachen university	1
+well-established company	rwe schott	2
+communication mean	rwi website	1
+laptop accessory	rw dvd	1
+coun-tries	rwanda	1
+company	rwe	13
+company	rwe npower	3
+emblem	rwc  two thousand and eleven  logo 	2
+patriarchal society	rwanda	1
+conflict situation	rwanda	1
+populated country	rwanda	1
+geometrical feature	rw width	1
+conflict area	rwanda	5
+commonwealth country	rwanda	2
+poorest country	rwanda	1
+pellet	rws hobby	2
+pellet	rws superpoint	1
+pellet	rws meiusterkugeln	1
+pellet	rws superdome	1
+regional actor	rwanda	1
+transition country	rwanda	1
+landlocked country	rwanda	8
+male	rw sgc joykatz ace inda hole	1
+male	rw qgc starbengal di caprio	1
+mogul	rw medium mogul	1
+horror	rwandan genocide	2
+permission	rwx for non admin	1
+horror story	rwanda	1
+post-conflict country	rwanda	8
+mountainous country	rwanda	1
+power generator	rwe of germany	1
+transit country	rwanda	1
+big international company	rwe dea	2
+growth company	rwd	1
+horticultural product	rwandan horticultural product	1
+sector leader	rwe	2
+company	rwe tower in essen	1
+company	rwe ag of germany	1
+ountries	rwanda	1
+large industrial company	rwe	1
+international tribunal	rwanda	1
+war-torn country	rwanda	2
+energy supplier	rwe	1
+impoverished country	rwanda	1
+large utility	rwe	2
+humanitarian crisis	rwanda	1
+SSA country	rwanda	1
+mobility model	rwm	1
+mobility model	rwp	1
+neighbour	rwanda	3
+sub-saharan african country	rwanda	1
+fitness center	rwj	1
+key witness	rwandan former foreign minister jean marie ndagijimana	1
+modern society	rwanda	1
+technical department	rwst	1
+english-language newspaper	rwanda herald	1
+english-language newspaper	rwanda newsline	1
+quality model	rw	1
+regional conflict	rwanda	2
+free country	rwanda	1
+private sector actor	rwanda trading company	1
+hate crime	rwanda genocide	1
+time country	rwanda	1
+bolt -on	rwr	1
+system approach	rwanda's use of performance-based incentives for health worker	1
+flashpoint	rwanda	2
+energy provider	rwe	1
+formal meeting	rwue advisory committee	1
+international conflict	rwanda	1
+post-conflict society	rwanda	4
+agrarian society	rwanda	1
+painful experience	rwanda	1
+passenger carrier	rwandair	1
+district leader	rw frank wikstrom	1
+medium mogul	rw medium mogul	1
+post-conflict situation	rwanda	1
+producing country	rwanda	1
+heavily indebted country	rwanda	1
+landlocked state	rwanda	1
+high-profile building	rwe ag headquarters in essen	1
+remote destination	rwanda	1
+african and asian country	rwanda	1
+energy group	rwe ag	1
+land-locked country	rwanda	2
+large energy company	rwe	2
+terrible disaster	rwanda holocaust	1
+boarding school	rwb	1
+german corporation	rwe	2
+large european company	rwe	2
+power producer	rwe	1
+african economy	rwanda	2
+war-torn area	rwanda	2
+african conflict	rwanda	2
+big utility	rwe	1
+civil war	rwanda	1
+east african country	rwanda	6
+targeted initiative	rwanda women's initiative	1
+war-torn region	rwanda	1
+advert	rwb	1
+central african country	rwanda	2
+complex emergency	rwandan refugee crisis	1
+conflict-ridden country	rwanda	1
+high-prevalence country	rwanda	1
+least-developed country	rwanda	1
+low rainfall area	rwanda	1
+aid-dependent country	rwanda	1
+poor place	rwanda	1
+post-colonial state	rwanda	2
+country government	rwanda	1
+event	rwandan genocide	5
+event	rwc	3
+post-conflict setting	rwanda	2
+post-war country	rwanda	2
+upstream country	rwanda	1
+african county	rwanda	2
+big energy company	rwe	3
+planning policy	rwelp policy e five 	1
+post conflict country	rwanda	1
+RWD car	rwd regal	1
+country member	rwanda on behalf of the african group	1
+country member	rwanda	1
+memory feature	rw switching overhead	1
+event	rws open	1
+event	rwanada incident	1
+event	rwandan crisis	1
+post-conflict zone	rwanda	1
+resource-poor setting	rwanda	1
+genocide	rwandan genocide	2
+post-conflict environment	rwanda	2
+private utility company	rwe	1
+war-ravaged country	rwanda	1
+decade poor nation	rwanda	1
+event	rwc celebration	1
+event	rwanda genocide commemoration	1
+event	rwandan	1
+international criminal tribunal	rwanda	1
+large transnational corporation	rwe	1
+resource-constrained setting	rwanda	1
+war torn nation	rwanda	1
+war-torn nation	rwanda	1
+whore	rwj	1
+contemporary conflict	rwanda	2
+country case	rwanda joint governance assessment	1
+failing state	rwanda	1
+highest elevation	rwenzori mountains	1
+low and middle-income country	rwanda	1
+mountain nation	rwanda	3
+rebel movement	rwandan-backed congolese rally for democracy	1
+war crime tribunal	rwanda	1
+eastern african country	rwanda	1
+european energy company	rwe	1
+european utility	rwe	5
+francophone-african country	rwanda	1
+interior african country	rwanda	1
+mission-areas	rwanda	1
+national policy instrument	rwanda decentralization strategic framework	1
+p38 MAPK inhibitor	rwj- sixty-seven thousand six hundred and fifty-seven 	2
+resourced country	rwanda	1
+world-class group	rwe	1
+ammo manufacturer	rws	2
+citing formerly conflict-ridden country	rwanda	1
+conflict prone country	rwanda	1
+distinct country	rwanda	1
+domed pellet	rws	1
+high ranking speaker	rwe innogy	1
+investment promotion agency	rwanda development board	1
+large international energy company	rwe	1
+large power company	rwe npower	1
+local nongovernmental organization	rwandan league for the protection of human rights	1
+program	rwj supportive services in senior housing	1
+mechanical movement	rwm movements caused by contractions of middle ear muscle	1
+post-conflict case	rwanda	1
+quality pellet	rws superdome	2
+utility supplier	rwe	1
+vulnerable low-income country	rwanda	1
+war-torn society	rwanda	1
+conflict stricken area	rwanda	1
+factor	rwc	1
+factor	rwy length	1
+HIPC country	rwanda	1
+illustrative case study	rwanda	1
+interstate conflict	rwanda	1
+leading energy company	rwe in germany	1
+low-income economy	rwanda	1
+neighboring african country	rwanda	1
+poor african nation	rwanda	1
+post cold war conflict	rwanda	1
+protection operation	rwanda	1
+religious nation	rwanda	1
+community	rw user	1
+top performance horse	rwc doc's stroke of luck	1
+traditional deck	rws	1
+african danger zone	rwanda	1
+african pilot country	rwanda	1
+armed confl ict area	rwanda	1
+armed conflict area	rwanda	1
+central entity	rwandan minecofin	1
+conflict-affected region	rwanda	1
+conscription device	rw essay	1
+Disturbance-adapted forbs	rwnex crispus	1
+geographically disadvantaged country	rwanda	1
+german utility	rwe	3
+high-fertility country	rwanda	1
+hinterland destination	rwanda	1
+home bird	rwenzori turaco	1
+international utility	rwe	1
+international utility	rwe innogy	1
+jaar's project	rwanda project	1
+post-conflict nation	rwanda	1
+small, resource-poor country	rwanda	1
+tragic historical event	rwandan genocide	1
+tragic historical event s	rwandan genocide	1
+veteran unrestricted free agent	rw steve thomas	2
+crisis-stricken sub-saharan state	rwanda	1
+dead-lock nation	rwanda & burundi	1
+economically distressed country	rwanda	1
+europe's biggest nuclear power group	rwe of germany	2
+extremely resource-poor setting	rwanda	1
+fragile society	rwanda	1
+francophone territory	rwanda	1
+german electricity company	rwe	1
+german-based company	rwe	1
+great western savant	rw emerson	1
+heavily-affected country	rwanda	1
+inter-european company	rwe	1
+large water corporation	rwe	1
+lesser-known country	rwanda	1
+low-resource country	rwanda	1
+malaria-free area	rwanda	1
+medicore player	rwandan forward said makasi	1
+neighbouring landlocked country	rwanda	2
+non-cemac member country	rwanda	2
+physiological observation	rwc	1
+pronatalist society	rwanda	3
+regional flashpoint	rwanda in africa	1
+small landlocked country	rwanda	1
+true, place	rwanda	1
+turbulent country	rwanda	1
+agro-physiological trait	rwc	2
+appalling event	rwanda genocide	1
+awesome rally car	rwd ford focus	1
+belgian colonial territory	rwanda	2
+big energy group	rwe	2
+big german energy company	rwe	2
+bipolar state	rwanda	1
+bite more country	rwanda	1
+name	rwanda	3
+economically diversified country	rwanda	1
+ethnically homogenous african country	rwanda	1
+ethnically-based civil war	rwanda	1
+european power company	rwe	1
+FAA weather support system	rwp	1
+name	rwp	1
+full-size GM car	rwd caprice	1
+genocide event	rwanda	1
+geographically compact country	rwanda	1
+german energy firm	rwe	1
+german power company	rwe	1
+grain pellet	rws superdome	1
+high-poverty market	rwanda	1
+humanitarian catastrophe	rwandan genocide	4
+humid-zone west african country	rwanda	2
+international power generation company	rwe	1
+lake country	rwanda	1
+landlocked east african country	rwanda	1
+large energy player	rwe	1
+large energy transnational corporation	rwe	1
+large fossil-fuel plant	rwe's pembroke	1
+liberal african country	rwanda	1
+light pellet	rws hobby	1
+lightweight pellet	rws geco	1
+case	rwanda	64
+case	rwandan relief mission	2
+case	rwandan genocide	1
+listicmobility model	rwp	1
+local imperialist state	rwanda	1
+low-intensity humanitarian operation	rwanda	1
+match WC pellet	rws meisterkugeln	1
+medium freedom organization	rwb	1
+modern deck	rws	1
+modern international court	rwandan	1
+non-mineral rich economy	rwanda	1
+offshore wind developer	rwe of germany	1
+pampanga-based FM radio station	rw  ninety-five . one 	1
+case	rwandaand sudan	1
+case	rwanda's mountain gorilla	1
+power plant operator	rwe	1
+proactive government	rwanda	1
+renowned, internationally active energy group	rwe ag	1
+rwanda's excellent museum	rwesero art museum	1
+simplistic mobility model	rwp	1
+small and historically different country	rwanda	1
+small refugee community	rwandans	2
+species bird	rwenzori turaco	1
+state-funded project	rwjf health care for the uninsured program	1
+upscale signature dining option	rw prime steakhouse	1
+upstream -riparian	rwanda on the nile	1
+war-torn or post-conflict region	rwanda	1
+year's eve party in country	rwanda	1
+abt univs	rwth aachen	1
+accelerated training tool	rwd infopak	1
+aircraft sensor	rwr	1
+begging medium platform	rwd magazine	1
+big electricity company	rwe	1
+calculated curve	rwa	1
+claim genocide	rwanda	1
+condo unit	rwi	1
+conflict-prone country	rwanda	1
+continent's most maligned state	rwanda	1
+devastating aid epidemic and genocide	rwanda	1
+devastating human tragedy	rwanda	1
+dual society	rwanda	1
+east african mountain	rwenzori	1
+group	rwanda patriotic front	2
+egregious human-rights violator	rwanda in the early  one thousand nine hundred and ninety s 	1
+english bulldog pellet	rws superdome	1
+ethnic clash	rwanda-burundi	1
+EU energy corporation	rwe	1
+european solar cell manufacturer	rwe schott solar	1
+expansive crime	rwandan genocide	1
+german gas company	rwe trading	1
+german pellet	rws	1
+german power producer	rwe	2
+human, epithelial cell line	rw pe- one  andr wpe- two 	1
+group	rwanda women network	1
+group	rwandese hutu armed group	1
+inter-eu company	rwe	1
+international military conflict	rwanda	1
+INTRODUCTION protected montane forest area	rwenzori mountain	1
+ipad-only fashion publication	rwh	1
+label-free biosensor	rwg biosensor	4
+leaf water relation	rwc	2
+legislation word	rwc	1
+linear polymer model	rw	2
+local and national writer group	rwa for romance writer	1
+minimal substitution	rw wurlitzer enemy du jour for communists	1
+non-european partner	rwmc	1
+nuclear energy provider	rwe	1
+parasite endemic zone	rwanda	1
+path computation information	rwa information	1
+penfolds red	rwt shiraz	1
+physiological assay	rwc	1
+pointed pellet	rws superpoint	1
+poverty-based economy	rwanda	1
+power-supply company	rwe	1
+precarious state	rwanda	1
+raymond weil design	rw sport	1
+RPF leader	rwigema	1
+RWD tool	rwd uperform	1
+rwdbabstractbuffer instance	rwdbtbuffer instance	1
+SBS reatures	rww	1
+method	rwo-shur health method	1
+single target pellet	rws r- ten  target wadcutter 	1
+state-fundedprojects	rwjf health care for the uninsured program	1
+UK blog site	rwd magazine	1
+wadcutter pellet	rws supermag	2
+water giant	rwe	1
+work-based learning provider	rwp	1
+tool	rwd uperform	1
+project	rwanda women's stories of survival	1
+place	rwanda	49
+player	rwanda	2
+player	rwe	2
+term	rwanda supergroup	1
+system	rwandese gacaca court	1
+species	rwenzori turaco	1
+variable	rwa growth	1
+brand	rws	1
+component	rw knob	1

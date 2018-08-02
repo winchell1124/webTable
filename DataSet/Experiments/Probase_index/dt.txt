@@ -1,0 +1,1061 @@
+product	dtsearch	1
+product	dtv	1
+initiative	dti working group on spam	1
+initiative	dti sustainable construction strategy	1
+accessory	dts performance accessory	1
+datum	dtmf memory	3
+datum	dts format	2
+datum	dtn iq	1
+datum	dtd	1
+datum	dts signal	1
+datum	dtmf	1
+resource	dtmf receiver	1
+facility	dtmf	1
+process	dt vapor scrubbing	1
+process	dtlogin session	1
+source	dti	2
+source	dts	1
+game	dts ps two  game 	1
+subject	dt	8
+reason	dti	3
+model	dtv-dvb  one thousand and twenty-seven  analog avstream crossbar 	1
+model	dtim	1
+model	dts	1
+model	dtv-dvb  one thousand and twenty-seven  dvbs bda capture 	1
+model	dtv-dvb  one thousand and twenty-seven  ir decoder 	1
+model	dtv-dvb  one thousand and twenty-seven  analog video capture 	1
+model	dtv-dvb  one thousand and twenty-seven  dvbs bda tuner 	1
+characteristic	dti ratio	1
+word	dtd	1
+situation	dt	1
+category	dtt-stems	1
+institution	dt cinemas	1
+institution	dti	1
+client	dte energy corp.	1
+client	dtz	1
+document	dti reg	1
+document	dtd	1
+product	dt system related product	1
+product	dth button bit related product	1
+product	dth hammer bits	1
+feature	dts interactive	5
+feature	dts	4
+author	dt max	1
+approach	dtr-fusion tag	1
+idea	dts	1
+alternative	dts	1
+alternative	dth	1
+effect	dts	1
+agency	dti	6
+agency	dta	2
+agency	dto	1
+course	dtp	2
+feature	dtrace	3
+feature	dtmf	2
+structure	dtd	1
+business	dte	1
+business	dth	1
+practice	dtz	1
+operation	dtm measurement	2
+operation	dth	1
+operation	dts	1
+agent	dtt	25
+agent	dtpa	20
+agent	dtic	4
+agent	dtpa andedta	1
+agent	dtnb	1
+feature	dts premium collection	1
+feature	dtm	1
+feature	dtmf clamping	1
+feature	dts neopc	1
+disease	dtap	1
+venue	dte energy music theatre	3
+consideration	dts	1
+firm	dtc genomics firm	1
+firm	dtz	1
+drug	dtic	3
+test	dtmf recognition	1
+feature	dts output	1
+feature	dts-ma	1
+feature	dtc motor control performance	1
+feature	dtd support	1
+attribute	dto's patience	1
+compound	dtx one  isomer 	1
+compound	dto compound	1
+compound	dto	1
+compound	dtt	1
+class	dtm	1
+unit	dtf	1
+expense	dte	1
+innovation	dts	1
+substance	dtt	1
+entity	dts	1
+entity	dte energy	1
+feature	dtrace support	1
+feature	dts-es processing	1
+feature	dtmf dnis	1
+feature	dto namespace	1
+format	dts	11
+format	dts es	4
+format	dts-es	4
+format	dts neo: six . one 	3
+format	dts neo	1
+format	dts audio	1
+format	dts-es matrix	1
+format	dts-hd	1
+format	dts-hd master audio	1
+format	dtd	1
+Organisations	dti	1
+Organisations	dtu aqua	1
+partner	dtv innovations	1
+standard	dts	3
+advanced feature	dts master audio	1
+advanced feature	dtmf decoding	1
+advanced feature	dtrace analytics	1
+customer	dte energy	3
+customer	dt hi-load	1
+section	dtd declaration	1
+department	dti	4
+department	dt	2
+department	dt food	1
+department	dtf	1
+scheme	dti capital grant scheme	1
+need	dt	1
+additive	dtpa	1
+additive	dtt	1
+chemical	dtpa	1
+software	dtv-a for aja kona user	1
+software	dti studio	1
+capability	dtrace	3
+capability	dtmf digit collection	1
+magazine	dtm magazine about automated composing	1
+issue	dtc advertising	1
+addition	dt chris jenkins	1
+addition	dt four hundred  wire feed unit 	1
+law	dtpa laws for deceptive trade practice	1
+variation	dts	1
+difference	dts	1
+language	dtd	1
+line	dtl	1
+line	dtr	1
+package	dtp software package	1
+package	dt vision foundry from data translation	1
+functionality	dtp-based color management	2
+functionality	dtm generation	1
+series	dtm	2
+utility	dte energy	6
+utility	dte	4
+utility	dtc	2
+limitation	dti ratio	1
+file	dtd	1
+issue	dth fragmentation	1
+platform	dth	1
+service provider	dth provider	1
+service provider	dth company	1
+essential	dth	1
+protocol	dtp	3
+protocol	dtmf	1
+protocol	dtls	1
+molecule	dtpa	1
+operator	dth television service operator	1
+mode	dts	12
+mode	dts neo  six 	1
+mode	dts es	1
+authority	dti	1
+guy	dt cody	1
+veteran	dt fred robbins	1
+signal	dtmf	2
+signal	dtmf indication	1
+signal	dtmf tone	1
+signal	dtmf digit	1
+signal	dtv video signal	1
+government agency	dti	4
+government agency	dtra	1
+gene	dtnbp one 	2
+dimension	dt width	1
+carrier	dtac	1
+segment	dth	1
+center	dtc	1
+issue	dti cash reserve	1
+issue	dtc paternity	1
+mediums	dth	1
+stuff	dtow	1
+key player	dt brentson buckner	1
+expression	dtmd puranam veddndm	1
+ministry	dti	1
+selection	dt marcell dareus	1
+advance	dtv	1
+sound	dts digital surround	9
+sound	dts-hd ma	1
+board	dt two thousand eight hundred and thirty-nine  anddt three thousand and ten  series 	1
+interface	dtv-related high-speed interface	1
+priority	dt	1
+reagent	dtt	11
+software package	dtp software package	1
+international company	dtk	1
+server	dtc	1
+imaging technique	dti	5
+young player	dt tommy kelly	1
+innovative feature	dtrace for real-time debugging	1
+set	dtm set	1
+commercial product	dtp advisor	1
+experiment	dtersive efficiency experiment	1
+toxin	dt	4
+intermediary	dti	1
+item	dt spare parts catalogue for man	1
+subject area	dt	1
+lesson	dt	2
+government program	dti renewable energy programme	1
+senior	dt romney fuga	1
+item	dtv	1
+distributor	dtmrack.com	1
+government department	dti	7
+government department	dtlr	1
+ligands	dtpa	2
+performance accessory	dts performance accessory	1
+dealer	dt dobie	1
+file format	dted	1
+consideration factor	dti ratio	1
+business leader	dte board chairman tony earley	1
+regulatory agency	dti	1
+large employer	dte energy	1
+stabilizer	dtpa	1
+surfactants	dtpa	1
+communication technology	dth	1
+file type	dtd	1
+consumer electronics	dtv	2
+capital project	dtv transmitter installation	1
+vaccine	dtap	10
+vaccine	dtp	4
+vaccine	dt	1
+area	dts	1
+character trait	dtb	1
+governmental agency	dtsc	1
+rookie	dt's gerald mccoy	1
+medium type	dtmf	1
+common service	dth	1
+tone	dtmf tone	2
+key partner	dti	1
+pharmacological agent	dtt	1
+acronym	dtf	1
+plug-ins	dtb	1
+imaging method	dti with  three dtractography 	1
+codecs	dts-hd	2
+codecs	dts-hd master audio	1
+codecs	dtmf out-of-band certain compression codecs	1
+codecs	dts	1
+address	dtor	1
+state-of-the-art technology	dtt	2
+sophisticated feature	dtrace	1
+complex application	dtp	1
+area	dtaa	1
+service	dtp	9
+service	dtmf parsing	4
+service	dth	3
+service	dtp layout	3
+standard application	dtm generation	1
+soil characteristic	dtpa-extractable fe	1
+latest feature	dts master audio	1
+communication protocol	dtn	1
+monitoring tool	dtrace	1
+automated system	dts	1
+regulatory issue	dti export regulation	1
+trade publication	dtc perspectives	1
+supplementary service	dtp	1
+digital technology	dtv	1
+vital issue	dtc advertising's influence on health care cost	1
+complex object	dtml methods	1
+large venue	dte energy center	1
+service	dtp task	2
+service	dtmf relay	1
+governmental organization	dti	1
+search option	dtsearch's advanced search option	1
+shot	dtap	1
+analog	dtx two 	1
+audio format	dts	12
+audio format	dts digital	1
+audio format	dts-master	1
+international corporation	dtac	1
+consumer device	dtv	1
+traditional technology	dth	1
+status	dtr under certain protocol	1
+audio device	dts-hd master audio	1
+classifier	dt	1
+practical subject	dt	2
+anti-oxidants	dtt	1
+chelating agent	dtpa	3
+chelating agent	dtpa diethylenetriaminepentaacetic acid	1
+pick	dt jerry johnson	1
+output format	dtd	1
+standard protocol	dtn	1
+common resource	dtc	1
+auction house	dtz	1
+investment company	dtvic	1
+service	dts	1
+service	dth service	1
+regulatory change	dtv transition in the united states	1
+large application	dtp tool	1
+professional application	dtp	1
+transport	dtlsudp transport	1
+header information	dtd reference	1
+service firm	dtz	1
+digital format	dts	1
+graphic application	dtp	1
+advanced imaging technique	dt-mri	2
+crew	dtp djs	1
+free alternative	dtunes for downloading song	1
+complex material	dt fuel	1
+configuration setting	dtmf password	1
+playmakers	dt rhema fuller	1
+binary file	dtp file	1
+topic	dt	2
+medium platform	dth	1
+administrative tool	dts	1
+car model	dts	1
+connected device	dtv	1
+quality food	dt's live phytoplankton	1
+automated process	dtm extraction	1
+curriculum area	dt	1
+system tool	dtrace	1
+topic	dtv transition	1
+delivery mechanism	dth	1
+encoder	dts-c through the preludes audio panel	1
+electron donor	dtt	1
+industry stakeholder	dti	1
+chemotherapeutic drug	dtic	1
+datum model	dtm	2
+bacterial toxin	dt	1
+bacterial toxin	dt a-chain	1
+binary datum	dtm culture	1
+chelators	dtpa	2
+multivariate method	dtf	1
+federal organization	dtic	3
+MRI technique	dti	1
+developer tool	dtrace	1
+immunization	dtap	1
+immunization	dt immunization	1
+ram	dt gary gibson	3
+ram	dt s darian stewart gary gibson	1
+ram	dt dt jermelle cudjo gary gibson	1
+emergent technology	dtn architecture	1
+local provider	dti in oneonta	1
+sound system	dts	2
+company	dte energy	4
+company	dte	4
+company	dti	2
+audio signal	dts digital	1
+audio signal	dts-hd	1
+decoder	dts decoder	1
+service type	dtlogin	3
+signature program	dtw commissioning fund	1
+digital signal	dts	1
+coding system	dts	1
+video signal	dtv video signal	1
+digital source	dts	1
+company	dte energy inc.	1
+company	dtr clothing	1
+company	dtp vortex	1
+company	dtn management co.	1
+company	dtz	1
+third party provider	dtz	1
+administration tool	dts	1
+courier	dtdc	1
+racing event	dtm	1
+software option	dtsearch	1
+top feature	dtv support	1
+innovative system	dt swiss thru bolt	1
+reductants	dtt	3
+telephony feature	dtmf	2
+telephony feature	dtmf detector	1
+tester	dtc hot tack tester sold by topwave instruments oy	1
+tester	dtx cableanalyzer	1
+advanced test	dti scan	1
+datum input	dted	1
+database tool	dts	1
+audio setting	dts-hd master	1
+schemas	dtd at present	1
+schemas	dtd	1
+circuit technique	dtl	1
+audio codecs	dts hd	1
+audio codecs	dts-hd	1
+audio codecs	dts hd ma	1
+distribution platform	dth	5
+drilling tool	dth hammers	1
+company	dta with experience in part-time database support for small business	1
+company	dte gas resources	1
+company	dtc communications	1
+company	dt cinemas	1
+satellite service	dtv	1
+ervices	dtp	1
+navigation information	dtg	1
+advanced search option	dtsearch's advanced search option	1
+audio	dts digital	1
+Metal chelators	dtpa	2
+sound format	dts	8
+sound format	dts-hd master audio	1
+sound format	dts master audio	1
+sound format	dts hd without using a hdmi cable	1
+management protocol	dtp	1
+utility class	dtd parser	1
+computer course	dtp	1
+digital mode	dts	5
+fleet operator	dtc	1
+lossless format	dts-hd ma	1
+advanced approach	dta analysis	1
+optional datum	dtmf	2
+standard mode	dts	1
+thiol compound	dtt	3
+demand-side measure	dti ratio	2
+creative area	dtp	1
+ETL tool	dts	1
+HD format	dts hd ma	1
+HD format	dts truehd	1
+model car	dts	1
+Thiols	dtt	4
+gift shop	dtw travel mart	1
+soluble nutrient	dtn	1
+dynamic method	dta	1
+high-speed interface	dtv-related high-speed interface	1
+page layout program	dtp page layout program	1
+activity	dte communication	1
+promising application	dti-based tractography	1
+telephony function	dtmf detection	4
+iron chelators	dtpa	1
+mobile network operator	dtac	1
+subscription-based service	dtn	1
+adaptor	dt swiss	1
+popular algorithm	dts coherent acoustics	2
+DSP application	dtmf generation	1
+government-owned company	dtag	1
+audio option	dts	1
+buffer component	dtt	1
+sound mode	dts	1
+central government department	dti	1
+ps2 game	dts ps two  game 	1
+regulated utility	dte energy	1
+schema language	dtd	6
+auxiliary chemical	dtpa	2
+bacterial vaccine	dtp	3
+distribution technology	dth	4
+drilling method	dth hammer drilling	2
+drilling method	dthhammer drilling	1
+logic family	dtl	1
+lossless codecs	dts-hd master audio for hd amusement	1
+lossless codecs	dts-hd master audio	1
+lossless codecs	dts master audio	1
+pure-play vendor	dtsearch	2
+advanced MRI technique	dti	1
+encryption system	dtcp	2
+hydraulic equipment	dth bit	1
+standout performer	dt dwan edwards	1
+standout performer	dt eric manning	1
+yahoo group	dtla kids	1
+information	dt of expiry	1
+information	dtd location	1
+audio standard	dts	1
+audio type	dts coherent acoustics	1
+customer additional service	dtp	1
+metric unit	dtex	1
+single system	dts	1
+characterization study	dta	1
+lossy format	dts	5
+preprocessing technique	dt-mri preprocessing technique	1
+complementary investigation	dta	1
+key addition	dt leon mackey alongside veterans scott smith	1
+service operator	dth television service operator	1
+thermal analysis technique	dta	3
+asynchronous event	dtmf keypress	2
+audio technology	dts	1
+information	dtic number	1
+combination vaccine	dtap	6
+combination vaccine	dtp	2
+finance facility	dti small firms loan with comparitive ease	1
+inactivated vaccine	dtap	1
+sulfhydryl reagent	dtnb	1
+detailed investigation	dta	1
+digital audio format	dts	1
+famous project	dtac siam paragon	1
+HD audio format	dts-hd master audio	2
+HD audio format	dts-hd ma	2
+HD audio format	dts master with the dolby prologic iiz height channel	1
+HD audio format	dts ma	1
+HD audio format	dts-ma	1
+HD audio format	dts master audio	1
+HD audio format	dts-hd master audio for fantastic soundtracks from blu-ray movie	1
+management group	dtn	1
+periodic signal	dtmf tone	1
+promotion event	dtm polling event	1
+audio decoder	dts-hd high resolution	1
+audio decoder	dts-hd master audio	1
+datum recovery program	dt utilities digital rescue	1
+elevation datum	dted	1
+high product	dth button bits	1
+multidisciplinary database	dtic technical reports database	1
+proven component	dt swiss rim	2
+strong retailer	dtlr	1
+sulfhydryl-containing compound	dtnb	1
+drilling accessory	dth hammers & bit	1
+heavy-duty component	dt swiss x four hundred and thirty  rim 	1
+legacy format	dts	1
+lossless audio codecs	dts-hd master audio	3
+power consuming device	dtmf dialer	1
+routine vaccine	dtp	1
+signal form	dts signal	1
+sound signal	dts	1
+thiol reagent	dtt	1
+aminopolycarboxylic acid	dtpa	1
+chelator	dtpa	25
+compression codecs	dts	1
+compression codecs	dtmf out-of-band certain compression codecs	1
+large global firm	dtz	1
+lead agency	dtsc	1
+multichannel format	dts	7
+event	dtm	1
+event	dtmf digit	1
+Post-processing	dts neural	1
+SQL server feature	dts	1
+text-based format	dtd	2
+XML feature	dtd-internal-subset support	1
+audio stream	dts-ma hd	1
+chelates	dtpa	1
+chelation agent	dtpa	2
+CIOs	dte energy's lynne ellyn	1
+gasifiers	dtu two-staged viking gasifier	1
+live virus	dtap	1
+markup	dtdandcda ta section	1
+sector stakeholder	dti	1
+Signaling	dtmf	1
+sulfhydryl compound	dtt	1
+thermal analysis	dtg	1
+aftermarket ecu	dta	1
+crucial bill	dtc	1
+gas utility	dte energy	1
+HDMI advanced feature	dts-hd master audiotm	8
+HDMI advanced feature	dts-hd master audio tm	1
+HDMI advanced feature	dts-hd monarch audiotm	1
+HDMI advanced feature	dts-hd master audio	1
+high-resolution audio format	dts-hd master audio	2
+high-resolution audio format	dts-hd scholar audio	1
+high-resolution source	dtv decoder	2
+research name	dtt	1
+subtle method	dti	1
+2-way commercial satellite system	dtn	1
+aftermarket system	dta	1
+broadcast organization	dtg	1
+collaborative research project	dti data study	1
+deep diver	dt ten  through  fourteen 	1
+digital version	dto	1
+female driver	dtm ladies vanina ickx	1
+government undertaking	dtc	1
+high definition audio format	dts master audio	1
+high definition audio format	dts-hd master audio	1
+innovative imaging technique	dti	1
+international jewellery organization	dtc diamond promotion centre	1
+program	dtm	2
+program	dtaselect filter	1
+program	dte prize	1
+program	dtp page layout program	1
+page-layout program	dtp page-layout program	1
+cadillac vehicle	dts	1
+extraneous fee	dth uploading spectrum royalty	1
+latest audio format	dts-hd master audio	12
+latest audio format	dts master audio	1
+localization service	dtp	1
+nice style	dtm style	1
+program	dt	1
+quantitative MR technique	dti	1
+shared medium network	dtm bus	1
+software algorithm	dtw	2
+solid veteran	dt blaise winter	1
+ad-hoc network	dtn	1
+audio algorithm	dts	4
+built-in audio decoder	dts decoder	2
+built-in audio decoder	dts-hd decoder	1
+built-in audio decoder	dts-hd	1
+copy protection scheme	dtcp	1
+enhanced tool	dted tool	1
+program	dtp	1
+program	dtp page-layout program	1
+mall-based chain	dtlr	1
+paging format	dtmf	1
+pre-owned cadillac model	dts	1
+property client	dtz	1
+surround sound format	dts	1
+surround sound format	dts-es	1
+travel application	dts	1
+anti-interference technology	dtx	2
+base classifier	dt	2
+childhood vaccine	dtap	1
+crankshaft	dt seventy-five -crankdhaft 	1
+factor	dti	1
+digital broadcast service	dtv	1
+discrete source	dts-es	1
+dithiols	dtt	1
+HDMI state-of-the-art function	dts-hd master audiotm	1
+HDMI superior function	dts-hd master audiotm	1
+high-quality audio format	dts-hd	1
+intermittent noise	dtf construction	1
+local counterpart	dtx	1
+mandatory source	dtc bus	1
+narrow-band signal	dtmf	1
+pretty useful feature	dtc reading	2
+problem-solving resource	dtac	1
+sanitary good	dtc	1
+semi-professional team	dtm motorsport	1
+sound decoder	dts	3
+standardised protocol	dtl	1
+the-art technology	dtt	1
+TV platform	dtt in north africa	1
+vertebrate cell	dt fourty  cell 	1
+XML schema language	dtd	3
+young talented defender	dt nevis drake	1
+30mm rim	dt swiss rr five hundred and eighty-five 	1
+30mm rim	dt rr one . two 	1
+advanced audio format	dts-hd master audio	1
+advanced audio functionality	dts	1
+all-conference player	dt frank zombo	1
+ALM protocol	dt	1
+anti-frequency measure	dtx	1
+brain-imaging method	dti-fiber tracking	1
+bus master	dt three hundred  series 	2
+bus master	dt three thousand and ten  series 	2
+Cable testing	dtf	7
+certified pre-owned cadillac car	dts	1
+class-specific requirement	dtps	2
+clock synchronisation protocol	dts	1
+computer modeling tool	dtra's hazard prediction assessm ent capability software	1
+convergys intervoice medium server operation	dtmf tone	1
+discrete format	dts	2
+discrete format	dts-hd front high layout	1
+dtp related link	dtp network	1
+elliptical Waveguide testing	dtf return loss	1
+elliptical Waveguide testing	dtf vswr	1
+organization	dtac	1
+organization	dte	1
+organization	dtrl and sth in raising public awareness thru publicity brochure	1
+organization	dtz	1
+organization	dtv transition coalition	1
+flavoprotein-containing enzyme	dt diaphorase	1
+genetic animal model	dt hamster	1
+global technology partner	dte energy	1
+HD codecs	dts master hd	2
+high resolution audio format	dts-hd master audio	12
+immunisation program	dtp	1
+latest lossless audio format	dts-hd master audio	2
+latest lossless audio format	dts-hd master audio with ease	1
+mobile phone technique	dtx	1
+newest encoding feature	dts	1
+non-designer firm	dtp shop	1
+phosphonates	dtpmp	1
+organization	dtz international	1
+organization	dte energy	1
+technique	dta	6
+practical and creative subject	dt	1
+reducing reagent	dtt	1
+scavenging agent	dtpa	1
+search vendor	dtsearch	1
+series name	dt nine thousand eight hundred and twelve  series 	1
+SH oxidizer	dtbnp	1
+SH oxidizer	dtnb	1
+signalling information	dtmf digits comprising the called number	1
+sound function	dts-hd	1
+spoke	dt revolutions	1
+sulfhydryl-reducing agent	dtt	1
+system-wide tool	dtrace components used by instruments	1
+titleist golf ball	dt wound	1
+zope object	dtml methods	1
+accelerating structure	dtl cavity	1
+active flavone ingredient	dtf	1
+advanced multi-channel sound format	dts	1
+annotation schema	dtd	1
+anyoptional datum	dtmf	2
+audio enhancement technology	dts	1
+technique	dti	2
+technique	dta scheduled inspection	2
+technique	dt-mri preprocessing technique	1
+technique	dtm	1
+chief alumnus	dt dan saleaumua	1
+civil service department	dti	1
+clay target discipline	dtl	1
+common stand alone ECU	dta	1
+connected and tethered throttle	dt two hundred 	1
+consumer AV device	dtv	1
+continuous tone	dtmf tone	1
+convergys voice portal operation	dtmf tone	1
+crankshaft s	dt seventy-five -crankdhaft 	1
+datum warehouse tool	dts	1
+Digital audio processing	dts	1
+digital sound format	dts	3
+digital surround-sound mode	dts mode	1
+digital surround-sound mode	dts system	1
+digital tuner	dtvpal dvr	1
+discreet format	dts	1
+DVB-T standard	dtg	1
+foregoing, compound	dtpa	1
+technique	dtw	1
+gen audio format	dts-hd ma	1
+genomics firm	dtc genomics firm	1
+global buyout giant	dt capital partners	1
+global fe-responsive regulatory protein	dtxr of corynebacterium diphtheriae	1
+high definition multichannel format	dts hd master audio	1
+high impedance headset	dt- eight hundred and eighty 's 	1
+high resolution lossless track	dts-hd	1
+high-resolution soundtrack format	dts-hd master audio	8
+in-band tone	dtmf	1
+independent search engine	dtsearch	2
+innovative national initiative	dtg in denmark	1
+large corporate project	dti campus	1
+latest high definition multichannel format	dts hd master audio	4
+latest high definition multichannel format	dts-hd master audio	1
+latest multi-channel format	dts	1
+local-loop signal	dtmf tone	1
+lossy codec	dts	1
+lossy perceptual compression codecs	dts	1
+LS jake mcquaide ram	dt gary gibson	1
+medium insertion function	dtmf generation	1
+mr-based method	dti	1
+next-gen sound format	dts-hd	1
+application	dtp	3
+application	dts	1
+application	dtsearch	1
+application	dtm	1
+application	dtcp	1
+pediatric vaccine	dt	2
+pediatric vaccine	dtp	1
+qualitatively high grade audio codecs	dts hd	1
+Reducing thiols	dtt	1
+solaris-exclusive feature	dtrace	1
+sound advanced format	dts-hd master audio	1
+strong chelators	dtpa	1
+Surround processing	dts	1
+surround technology	dts	1
+synthetic and real-world 3D datasets	dt-mri volume	1
+application	dt imaging	1
+thesegreat racing series	dtm	1
+third-party floppy controller	dtk	1
+TV broadcasting service	dth	1
+two-piece can	dtr can	1
+vaccine product	dtap vaccine	1
+voice compression DSP control function	dtmf relay	4
+yamaha enduro brand	dt	1
+Alkaline based chelants	dtpa	1
+all-carbon rim	dt swiss rrc one thousand two hundred and fifty 	3
+alum-adsorbed vaccine	dt	1
+amazing turf shoe	dt max's	1
+aminomethylene phosphonates	dtpmp	1
+area's major employer	dtr industries	1
+art bipolar logic circuit	dtl	1
+audio decoding format	dts	1
+background schema language	dtd	1
+basic chemical physical property	dta curve	1
+better-quality spoke	dt	1
+bitstreamed format	dts-hd ma	1
+bitstreams	dts-es	1
+name	dtt	1
+carboxyl-containing chelate derivative	dtpa	1
+carboxyl-containingchelate derivative	dtpa	1
+centralized model hub	dtcc's model management exchange	1
+clock synchronization protocol	dts	1
+common datum standard	dtf	1
+commonly-used reductants	dtt	1
+content-protection technology	dtcp	1
+control tone	dtmf	1
+conventional 5.1-ch mode	dts system	1
+creative lesson	dt	1
+differential thermal technique	dta	2
+Digital audio codecs	dts	1
+digital broadcasting platform	dth	1
+digital sound decoder	dts	1
+disulfide-reducing agent	dtt	1
+dvd-audio, supporting coding system	dts	1
+ECM store datum	dtc history	2
+end codec	dts hd ma	1
+endogenous sperm flavoprotein reductases	dt diaphorase	1
+exclusive technical feature	dttf	1
+exogenous thiols	dtt	1
+free federal database	dtic	1
+government stakeholder	dti	1
+grammar-based validation language	dtd	1
+greek leader	dtd president junior noah ornstein	1
+hard-computing method	dtw	2
+HD lossless codecs	dts-ma	2
+HD sound format	dts-hd ma	2
+HD soundtrack	dts-ma	1
+high resolution movie sound track	dts-hd master audio	1
+high-definition audio format	dts-hd	1
+higher-end encoding	dts-es	1
+highest resolution audio track	dts-hd master audio	1
+in-band signal	dtmf tone	1
+injection molding company	dtm products inc.	1
+input non-pcm signal	dts	2
+interference free audio signal	dts	1
+introduction schema language	dtd	1
+jaguar stalwart	dt john henderson	1
+javaml grammar file	dtd	1
+latest audio processing format	dts-hd ma	1
+latest audio standard	dts-es	1
+latest BD audio standard	dts hd	1
+latest HD audio codecs	dts-hd ma	1
+latest HD audio format	dts-hd master audio	1
+latest hi-def format	dts-hd master audio	1
+latest high-end sound standard	dts-hd master audio essentials	6
+latest uncompressed format	dts-hd master audio	1
+latest uncompressed music format	dts master audio	1
+legacy codecs	dts	1
+legislative and policy instrument	dti codes	1
+case	dtap seminar	1
+liquid injectable vaccine	dtp	3
+listening mode	dts	20
+long-time maximo customer	dte energy	1
+lossless audio compression algorithm	dts	1
+lossy surround format	dts	1
+medium packet	dtls	1
+michigan's big, state-regulated utility	dte energy	3
+michigan's state-regulated utility	dte energy	1
+midwest utility	dte energy co.	1
+modern dolby audio format	dts-hd	1
+morphological investigation	dta	1
+multichannel audio format	dts-hd master audio hd	1
+non-svm classifier	dt	2
+not-often-used feature	dts-hd pass-through	1
+organization-specific field	dta id	1
+parenteral bacterial vaccine	dtp	1
+perceptual coding system	dts	1
+phage recovery process	dtt treatment	1
+photogrammetry service	dtm generation	1
+pierce schema language	dtd	1
+polyaminocarboxylic acid	dtpa	1
+positive government initiative	dti knowledge transfer networks	1
+production-related product	dt wire	1
+professional real estate service provider	dtz	1
+promising target	dtnbp one 	1
+proper display	dts discrete for dts es	1
+PSTN parameter	dtmf	1
+quality spoke	dt	1
+real estate consultant	dtz	1
+resolution audio format	dts-hd specialist audio	1
+schema definition language	dtd	2
+slow response detector	dtgs detector	1
+small blender product	dtar solstice	1
+small theory	dt	1
+standard digital processor	dts  six d 	2
+strategy parameter	dt top	1
+superior short-term thermal property	dtul	2
+surround format	dts	1
+synthesized chelating agent	dtpa	1
+synthetic and real-world 3Ddatasets	dt-mri volume	1
+telephone parameter	dtmf	1
+text search engine	dtsearch	1
+thiol modifying agent	dtnb	1
+thiol-directed reagent	dtnb	1
+undocumented deployment scenario	dtm client on a workgroup-based computer	1
+V2 feature	dts decoding	1
+vehicle dealer	dt dobie	1
+video satellite application	dth pay-tv	1
+water-soluble polyaminocarboxylic acid chelators	dtpa	2
+XML control document	dtd	1
+year digital multi-channel sound system	dts	1
+advanced audio technol ogies	dts surround sensation ultra pc	1
+advanced sound system	dts hd	1
+alternate content delivery platform	dth	1
+alternate login mechanism	dtlogin	1
+analog CLIP protocol	dtmf	2
+ARNING strong sequestering agent	dtpa	1
+option	dtm	1
+option	dts	1
+option	dto	1
+option	dtsearch's advanced search option	1
+option	dtar equinox	1
+BEE policy	dti codes of good practice	2
+bio-engineering assessment technology	dt-mri	1
+bitstream decoder	dts master audio	1
+broadcast transmission system	dtv broadcast system	1
+cable troubleshooting tool	dtx cable analyzer	1
+CBRN advisory team	dtra consequence management advisory team	1
+circuit family	dtl	2
+closed loop computer controlled dyno	dts	1
+commercially available glutathione detection kit	dtnb-enzyme cycling glutathione assay kit	2
+communication abstraction	dtl	1
+communication control signal	dtr	1
+compatible 3-D digital map	dtied  one  map 	1
+continuous surface raster datum	dted	1
+Conventional chelants	dtpa	1
+conventional in-band signaling	dtmf touchtone signaling	1
+corresponding schema	dtd	1
+current-sinking logic family	dtl	2
+curriculum enhancement week	dt fortnight	1
+customers device	dtu & switch	1
+cysteine modification re agent	dtnb	1
+datum generator	dtg five hundred  series of digital timing generators 	1
+datum reduction system	dts	1
+dead cell vaccine	dtap	1
+decade vaccine	dtp	1
+deep diving crankbait	dt series rapala	1
+desktop indexing tool	dtsearch	1
+digital terrainflle format	dted	1
+discrete audio format	dts	1
+dish service	dtv	1
+disruption tolerant transport protocol	dtn	1
+down-mix multi-channel audio	dts	1
+DTS-MA extension	dts-es	2
+empirical estimating	dtz	1
+end-to-end signaling	dtmf	1
+existsavarietyof schema language	dtd	1
+external full text engine	dtsearch	1
+Feed live plankton	dt s	1
+fifth-year senior stalwart	dt kendall reyes	1
+fixed output signal	dtr	1
+gadolinium compound	dtpa	1
+handshaking line	dtr	1
+hazard prediction model	dtra hpac model	1
+HD sound	dts-hd ma	1
+high defination audio format	dts-hd master audio essentials	1
+high definition audio standard	dts-hd master audio	1
+high resolution soundtrack	dts hd master audio	1
+high-end audio technology	dts-hd	1
+high-grade turbine oil	dte heavy medium	1
+high-quality sound format	dts-hd	4
+high-resolution audio signal	dts hd-master audio	1
+hydrophobic modification	dtnb	1
+in-the-box marketing technique	dtc tv	2
+irrelavent subject	dt	1
+latest audio decoder	dts-hd master audio	1
+latest signing	dt cory king	1
+legal kurdish nationalist party	dtp	1
+License-restricted audio codecs	dts	1
+london legendary night	dtpm at the end	1
+long song	dt's	1
+lossless audio stream	dts-hd master audio	1
+lossless or near-lossless audio-compression scheme	dts	1
+lossy HD audio	dts-hd hr	1
+maintenance tone	dtmf tone	1
+mandatory business requirement	dti business name registration	1
+MATE transporter	dtx one  from arabidopsis 	1
+mega building & civil project	dtss changi	1
+membranotropic chelating agent	dtpa-stearylamine  one hundred and fifty-nine 	1
+MF detector	dtmf detector	2
+michigan utility	dte	1
+mid-range government agency	dto	1
+modern dyno	dts	1
+modernized oil	dte medium	1
+monoenergetic neutron source	dt generator	1
+multiformat audio	dts	1
+multifrequency detector	dtmf detector	1
+native SQL Server functionality	dts	1
+non-DVR	dtvpal	1
+non-HD audio	dts	1
+method	dtw	5
+method	dtm method	2
+method	dts	1
+method	dtft	1
+method	dti andotheradvancedmr imaging method	1
+method	dtml documents	1
+off-the-shelf ligands	dtpa	1
+one-dimensional university	dtu	1
+PDI inhibitor	dtnb	1
+photogrammetric production process	dtm generation	1
+popular high-definition audio decoder	dts	1
+popular time series matching algorithm	dtw arenon-metric	1
+Potential functionality	dtcc's proposed inventory management system	1
+practice surveyor	dtz	1
+private forecasting system	dtn	1
+proprietary DRM transcription model	dtcp over ip	1
+proximity control protocol	dtcp	1
+pure overlay protocol	dt	1
+quality dry good	dt's live phytoplankton	2
+real-time loudness correction device	dts neural loudness control	1
+recording thermometer	dtr nine hundred  recording thermometer 	1
+reflective transparent conducting layer	dt ito	1
+rough diamond	dtc	1
+screen-based caption projection system	dts cinema subtitling system	1
+SDP capability	dtmf detection	9
+second generation application	dta select	1
+selective calling format	dtmf	1
+self-locking nipple	dt swiss prolock	1
+method	dta	1
+method	dth	1
+sequence matching method	dtw	1
+single-use alternative	dti washer	1
+smartcraft option	dts	1
+solaris debugging tool	dtrace	3
+sophisticated client application	dtp	1
+sophisticated MR technique	dti	1
+sound standatds	dts neo: six 	1
+stable chelates	dtpa	1
+stable foam	dtab foam	1
+stainless steel spoke	dt swiss champions	1
+State-owned transportation	dtc bus	1
+strict signal matching technique	dtw	1
+strong thiol-reducing agent	dtt	1
+style file	dtd	1
+tech rush	dt rush	1
+terrain elevation datum	dted	1
+Text-word search software	dt software inc. s dtsearch	1
+thermal analysis important system	dta	1
+thermospheric model	dtm	1
+thiol-replenishing agent	dtt	1
+three-dose vaccine	dtp	1
+time delay parameter	dt supn	2
+time-consistency technique	dts method	1
+time-varying pattern	dtf	1
+time-warped time series matching algorithm	dtw	1
+traditional multichannel audio technology	dts	1
+transactional-memory-aware compiler	dtmc	1
+triple-butted spoke	dt alpine iii	2
+uncompressed Blu-ray ray codecs	dts-hd	1
+unsuitable document	dto cycle facilities guideline	1
+utility saving program	dte energy	1
+vaccine shortage	dtap shortage	1
+tool	dtrace	2
+tool	dtm	2
+tool	dts	2
+tool	dtd editor	1
+tool	dtm drape	1
+year government department	dti	1
+tool	dti velocity recording	1
+project	dti's small enterprises development agency outlets in town	2
+project	dtl	1
+artist	dtp's willy northpole	1
+artist	dttx	1
+place	dtf	1
+player	dt shaun smith	2
+player	dt alonzo spellman	1
+player	dtc cp nine thousand four hundred and ten  actron 	1
+player	dt kellen heard	1
+player	dt nick fairley	1
+player	dt glen dorsey	1
+player	dt p. jerry	1
+player	dt richard seymour	1
+player	dt dario romero	1
+technology	dts	5
+technology	dth	3
+technology	dtv	1
+product	dt- one  drill tap machine 	2
+product	dtx  one thousand eight hundred  fluke 	1
+product	dth hammer related product	1
+technology	dtcp	1
+term	dtm	1
+system	dts	2
+system	dts instrument	1
+system	dte	1
+system	dti	1
+system	dth tv like dstv	1
+system	dtc	1
+system	dts srs	1
+variable	dti	2
+product	dty yarn related product	1
+function	dtl	1
+function	dtmf recognition	1
+function	dtmf detection	1
+device	dtp fourty-one  from x-rite 	1
+device	dts	1
+device	dtr	1
+device	dtmf tone generation board	1
+brand	dt	2
+brand	dt swiss	1
+brand	dtl	1
+brand	dtg	1
+component	dt series assemblies installed in sprinkler bodies across a golf course	1
+aspect	dtem creation	1
+task	dtm collection	1
+related product	dth hammer related product	1

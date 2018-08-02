@@ -1,0 +1,238 @@
+city	zrce beach	1
+city	zrh	1
+town	zrenjanin	1
+substance	zrn	1
+substance	zro  two 	1
+feature	zr one  brake package 	1
+additive	zro  two 	1
+variation	zrtp	1
+package	zr one 	2
+car	zr one 	1
+issue	zr culture	1
+protocol	zrp	12
+park	zrinjevac	1
+raw material	zro two 	2
+substrate	zro  two 	1
+support	zro  two 	4
+metal	zr	6
+airport	zrh	1
+impurity	zr	2
+impurity	zrc	1
+filler	zro  two 	1
+performance	zr one 	1
+catalyst	zro  two 	2
+catalyst	zr-salt	1
+catalyst	zro two 	1
+coating	zro two 	1
+nice touch	zr one  sill plate 	2
+pigment	zro  two 	2
+pigment	zro two 	1
+contact	zrn	1
+inorganic material	zro  two 	1
+oxide	zro  two 	13
+oxide	zro two 	5
+binder	zro  two 	1
+regulatory agency	zra	1
+metal oxide	zro  two 	10
+metal oxide	zro two 	4
+metal oxide	zro . sub . two 	1
+inorganic compound	zrocl  two 	1
+government institution	zra	1
+antihistamine	zrytec	1
+ceramic	zrb two 	1
+ceramic	zro  two 	1
+precursor	zrcl  four 	1
+precursor	zr four 	1
+dielectric material	zro  two 	2
+dielectric material	zro . sub . two 	1
+ceramic material	zrb  two 	2
+ceramic material	zro  two 	1
+cation	zr iv	1
+cation	zr	1
+metal ion	zr	2
+dopants	zr	3
+lewis acid	zrcp  two  cl  two 	1
+atom	zrand fe	1
+rap artist	zro	1
+Nanoparticles	zro  two 	2
+contrast agent	zro  two 	1
+electrically conductive material	zrn	3
+misc item	zrt six hundred  airbox 	1
+adhesive material	zro two 	1
+security protocol	zrtp	1
+chemical element	zrand ti	1
+complex molecule	zr  two  o 	1
+tasty dish	zrazy	1
+transition metal oxide	zro  two 	2
+abrasive particle	zro . sub . two 	1
+abrasive particle	zro  two  cr  two  o  three 	1
+abrasive particle	zro  two 	1
+nonporous material	zro  two 	1
+boron compound	zrb two 	1
+nucleating agent	zro  two 	1
+release agent	zro.sub. two  powder 	1
+oxide layer	zro  two 	1
+ceramic coating	zro  two 	1
+high-k material	zro two 	3
+high-k material	zro  two 	3
+high-k material	zr silicate	1
+silicides	zrsi  two 	2
+metal silicides	zrsi  two 	1
+intermetallic compound	zr  two  si 	1
+intermetallic compound	zrsi  two 	1
+high dielectric constant material	zro  two 	1
+abrasive grain	zro  two 	10
+abrasive grain	zro . sub . two 	7
+abrasive grain	zro two 	2
+high dielectric material	zro two 	1
+high dielectric material	zro  two 	1
+high-k dielectric material	zro two 	3
+high-k dielectric material	zro  two 	1
+refractory metal oxide	zro two 	1
+borides	zrb  two 	1
+borides	zrb two 	1
+information	zrm version	1
+series fishing net machine	zrd-l	1
+series fishing net machine	zrs-l	1
+series fishing net machine	zrs-n	1
+series fishing net machine	zrd-m	1
+series fishing net machine	zrd-x	1
+series fishing net machine	zrd-a	1
+series fishing net machine	zrs-m	1
+series fishing net machine	zrs-x	1
+series fishing net machine	zru-a	1
+series fishing net machine	zru-l	1
+series fishing net machine	zrd-n	1
+series fishing net machine	zrd-y	1
+series fishing net machine	zrs-a	1
+series fishing net machine	zrs-h	1
+engineering ceramic	zro two 	1
+metal oxide particle	zro  two 	2
+nitrate salt	zr  four 	1
+inorganic oxide particle	zro  two 	1
+metal nitrides	zrn	1
+incompatible trace element	zr	2
+inert oxide	zro  two 	2
+refractory carbide	zrc	1
+chalcogenide semiconductor	zro two 	1
+chalcogenide semiconductor	zro  two 	1
+p-type semiconductor	zro two 	1
+Transition metal nitrides	zrn	1
+commercially available photocatalyst	zro two 	1
+commercially available photocatalyst	zro  two 	1
+gate metal	zr	1
+heat resistant metal	zr	1
+low work function material	zrc	1
+on-demand protocol	zrp	1
+program	zroot	1
+sintered ceramic	zro  two 	2
+sintered ceramic	zro two 	1
+top notch component	zr- two  bridge 	1
+acceptable additive	zro . sub . two 	1
+hybrid protocol	zrp	3
+integer	zrl& in the program	1
+metal oxide sol	zro  two 	1
+metal oxide thin film	zro  two 	1
+negative CTE material	zrv  two  o  seven 	1
+negative CTE material	zrvp . sub . two  o. sub . seven 	1
+negative CTE material	zrvp  two  o  seven 	1
+negative CTE material	zrv . sub . two  o. sub . seven 	1
+oxidic semiconductor	zro two 	1
+oxidic semiconductor	zro  two 	1
+revenue generating agency	zra	2
+RS domain-containing protein	zrsr two  on serine residues during metaphase 	1
+starting material powder	zrc	1
+v-type engine	zr one  corvette lt five 	1
+alioying material	zr	1
+brilliant city	zrenjanin	1
+brittle hard material	zro two 	1
+high-k oxide	zro  two 	1
+metal oxide ceramic	zro two 	1
+metal oxide ceramic	zro  two 	1
+rare earthand reactive element	zr	1
+table-driven protocol	zrp	2
+transition metal carbide	zrc	1
+conventional high-k material	zro two 	1
+erosion resistant coating	zrn	1
+fluorite structure	zro  two 	1
+human cell line nanoparticles	zro  two 	1
+oxide-based mesoporous material	zro  two 	1
+refractory-metal oxide	zro  two 	1
+SGmaterials	zro  two 	1
+suitable sol	zro . sub . two 	2
+sulfated metal oxide	zro two 	1
+waste glass component	zrsio  four 	1
+waste glass component	zro  two 	1
+acidic zirconium salt catalyst	zrocl  two 	1
+acidic zirconium salt catalyst	zr  two 	1
+base oxide	zro  two 	1
+black and white pigment	zro  two 	1
+Co-dopants	zro  two 	1
+colorless oxide	zro  two 	1
+conductive compound	zrn	3
+conventional low work function material	zro	1
+epitaxial oxide thin film	zro  two 	1
+GCR design	zrc	1
+high field strength element	zrand nbarestrongly depleted in subduction-related magma	1
+high surface area particulate filler	zro  two 	1
+high-dielectric material	zro two 	1
+high-k layer	zro  two 	1
+immediate-operand instruction	zr	1
+inorganic acidic salt	zr  four 	1
+metal oxide semiconductornanoparticles	zro  two 	1
+nanostructured oxidic semiconductor	zro  two 	1
+network intermediate	zro  two 	1
+neutronically transparent matrix	zro  two 	1
+nontraditional catalyst support material	zro two 	1
+rare Camaros	zr one s 	1
+reducible support	zro  two 	1
+refractory metal nitride film	zrn film	2
+sol-gel material	zr silicate	1
+super corvette	zr one 	1
+today's factory high performance car	zr one 	1
+transition metal dioxide	zro two 	1
+transparency promoter	zro  two 	1
+yielding route	zrh	1
+anion-deficient oxide	zro  two 	1
+antiwear powder	zro  two 	1
+catalytic metal chloride precursor	zrcl  four 	1
+commercially available powder	zro  two 	1
+developed enrichment strategy	zro  two   seventy-one 	1
+electronegative oxide	zro  two 	1
+fictitious or hypothetical phase	zro with the rocksalt structure	1
+guaranteed rental program	zrr & loi robien	1
+hard borides	zrb  two 	1
+high-k gate oxide	zro  two 	1
+Inert bioceramics	zro two 	1
+layered phosphate	zr  two 	1
+low dipole material	zrq  four 	2
+minor ceramic dopants	zro  two 	1
+nitrogen-bearing zirconium precursor	zr nitrate	1
+nonsilicate oxide material	zro  two 	1
+normal ZRTP endpoint	zrtp-enabled voip client	1
+Othercodopants	zro  two 	1
+partially reducible support	zro  two 	1
+reputable laboratory	zrt laboratory	1
+silicon oxide-metal ion mixture material	zr silicate	1
+traditional oxide ceramic	zro two 	1
+transition amide	zr four 	1
+u2af35-related gene	zrsr two 	1
+whitish inert particle	zro  two 	1
+zero-radius-turning ground maintenance vehicle	zrt riding mower	2
+zr-base material	zr four 	1
+material	zro  two 	15
+material	zro two 	4
+material	zr silicate	3
+material	zro . sub . two 	1
+material	zr  two 	1
+material	zro two -y two o three 	1
+material	zr	1
+system	zram	1
+element	zr	6
+element	zr aj	1
+product	zr twelve  al 	1
+product	zr twenty-two  dmx 	1
+component	zro  two 	4
+component	zro two 	2
+component	zr abundance	1
+component	zro . sub . two 	1

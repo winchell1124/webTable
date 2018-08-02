@@ -1,0 +1,751 @@
+product	rdb connect	1
+product	rdbms	1
+initiative	rdr approaching	1
+initiative	rdns eba	1
+accessory	rd sight	1
+accessory	rdx performance accessory	1
+datum	rdf triple	1
+resource	rdi book	2
+resource	rdn	1
+source	rdtl	1
+source	rds radio	1
+game	rdr	6
+subject	rdc marketing	1
+model	rdx	3
+model	rdm	2
+attraction	rdu airport	1
+institution	rda	1
+client	rdv sportsplex	1
+product	rdx explosive related product	1
+approach	rdfa	1
+approach	rdi	1
+approach	rdf	1
+approach	rdate	1
+effect	rds severity	1
+agency	rda	1
+writer	rd blackmore	1
+mechanism	rdf autodiscovery	1
+mechanism	rdp fund	1
+solution	rda	1
+solution	rdp	1
+film	rdb	1
+film	rdf of a product of  three m 	1
+amenity	rds station identification	1
+operation	rdx from a flake form into sifted powder	1
+operation	rdbms code	1
+feature	rds	1
+feature	rds radio	1
+feature	rdp over http	1
+feature	rds on ir drop	1
+city	rdu	1
+venue	rds in dublin	1
+consideration	rde maintenance	1
+job	rdm	3
+test	rdw	1
+instrument	rdi's acoustic doppler current profiler	1
+instrument	rd instruments acoustic doppler current profiler	1
+feature	rdx technology package	1
+feature	rdm ready	1
+publication	rdh magazine	1
+setting	rd gateway server setting	1
+compound	rdx	3
+instance	rdbms	1
+song	rdx's bend over	1
+song	rdx's bend ova	1
+substance	rdx	2
+region	rdna igs	1
+format	rdfa	1
+partner	rdek	1
+standard	rdf	21
+standard	rdfa	3
+standard	rdf site summary	1
+standard	rdf schema	1
+advanced feature	rdf network transaction	1
+advanced feature	rds	1
+role	rds session host	1
+design	rdc- nineteen thousand two hundred and twenty  series 	1
+customer	rdu airport	7
+vehicle	rdx sport utility vehicle	1
+actor	rdj	1
+feature	rds clock	1
+feature	rds tuner	1
+feature	rdfs	1
+restaurant	rd lobster	1
+chemical	rdx	7
+exercise	rdls	1
+exercise	rdl's	1
+exercise	rdl	1
+report	rdorder.rpt in crw	1
+professional	rdh	1
+competitor	rdio	2
+trend	rda development	1
+issue	rdc application process	1
+possibility	rdt result confirmation by off-site proficient personnel	1
+variation	rdf	1
+language	rdf	13
+language	rdf schema	2
+language	rdql	1
+language	rdl	1
+record	rdf file	1
+producer	rdf media	1
+therapy	rdi	3
+algorithm	rdss	1
+utility	rdate	1
+utility	rdrlist	1
+file	rds asset	1
+platform	rdio	1
+protocol	rdp	5
+protocol	rdf net api	1
+outcome	rds	2
+error	rddick bowe	1
+card	rd one  supercard 	1
+domain	rdrp region	1
+sensor	rdi doppler velocity logger	1
+apps	rdp client	1
+context	rdrs federation	1
+database	rdb	1
+keyword	rdx	1
+page	rd reynolds	1
+great feature	rds functionality	1
+web site	rdio	1
+suspect	rde	1
+specification	rdfa	3
+specification	rd mb dnp d h	1
+methodology	rdi	1
+command	rdm	1
+support	rdm	1
+advanced technology	rdbms technology	1
+economist	rdq economics	1
+datum source	rdbms	1
+datum source	rdf database	1
+engine	rdbms-relational   database engine	1
+engine	rdf storageand query engine	1
+engine	rd- one hundred and eighty 	1
+qualification	rda instructors	1
+value-added service	rds	1
+basic concept	rdbms	1
+opponent	rdw	1
+basic service	rdp house	1
+recommendation	rdf	1
+local event	rdnc institutional or local event	1
+analysis	rda	1
+camera	rdc-i seven hundred  digital camera available from ricoh inc. of west caldwell 	1
+proposal	rdfa	1
+process parameter	rdx concn.	1
+famous artist	rdb	1
+server	rdp data server	1
+variant	rdes	1
+video game	rdr	2
+health benefit	rducing the risk of chronic disease	1
+derivative	rdql	1
+contest	rd contests in august	1
+identifiers	rd zero 	1
+capacity	rdo	1
+community partner	rd construction	1
+distributor	rdm equipment co.	1
+ligands	rdg-containing peptides	1
+sequence	rdna gene	1
+technological development	rds-tmc	2
+performance accessory	rdx performance accessory	1
+dealer	rdo equipment	1
+government initiative	rdp housing	1
+file format	rdf	1
+online game	rdr	1
+disease state	rds	2
+reputable company	rdg	1
+subsidiary	rdf television	1
+storage device	rdx storage device	1
+consultant	rdm	1
+small molecule	rdx	1
+area	rdp	2
+chemical compound	rdx	1
+analytical method	rda	1
+communication technology	rdf	1
+abbreviation	rd for road	2
+abbreviation	rd.	1
+development tool	rdbms development tool	1
+implementation	rdbms	1
+datum structure	rdf triple store	1
+molecular technique	rdna method	1
+predecessor	rdg	1
+cultural attraction	rd lawrence place	1
+prominent artist	rdb	1
+terminology	rdf	1
+area	rdp house	1
+area	rda project area	1
+standard function	rds	1
+member state	rd congo	1
+memory device	rdram	2
+collaboration tool	rdv's advanced collaboration tool	1
+trust	rd tata trust	1
+clinician	rdh	1
+area	rdbms	1
+service	rdio	19
+service	rdp	5
+deck	rdw	3
+communication protocol	rdp	1
+monitoring tool	rd-party  monitoring tool	1
+policy document	rdp white paper	1
+research organization	rdis	1
+sightseeing attraction	rdv sportsplex solar bears ice den	1
+wire	rdac cable	1
+issuer	rda holding co.	1
+regulatory issue	rd's new audit requirement	1
+cutting-edge technology	rdf	1
+technical solution	rdf reification	1
+annotation	rdf andmicroformats	2
+annotation	rdf annotation	1
+explosive	rdx	27
+explosive	rdx with diamond	1
+service	rdc	1
+service	rdns	1
+clan	rdc	1
+nicety	rdns from sky	1
+datum format	rdf	1
+telecommunication service	rdsi	1
+subscription service	rdio	4
+performance part	rdd cdi kit	1
+performance part	rdd head mod	1
+promotional tool	rda branded usbs	1
+morbidity	rds	1
+service	rdbms	1
+great idea	rdf	1
+support mechanism	rd&d grant	1
+detail information	rdf detail information	1
+vulnerable area	rdc	1
+basic application	rdp access	1
+professional course	rdbms	1
+digital service	rdp	1
+database system	rdb	1
+service	rdio inc.	1
+service	rdn	1
+service	rdi	1
+modulation technique	rds	1
+microsoft technology	rds	1
+UK company	rdf	1
+critical feature	rds	1
+molecular tool	rdna cloning	1
+acute illness	rds	1
+development agency	rdas in england	1
+software service	rdbms	3
+basic exercise	rdl	1
+topic	rdf	5
+regional agency	rda	1
+home builder	rdc developers of bridgeville	1
+molecular approach	rdna sequencing	1
+music service	rdio	6
+electronic database	rdb	1
+markup language	rdf	4
+chemical contaminant	rdx	1
+system tool	rdm	1
+music director	rd burman	2
+MFIs	rdc	1
+technical job	rd jobs editing job	1
+datum model	rdf	2
+side artist	rdb	1
+respiratory illness	rds	2
+national standard	rda	3
+query language	rdql	2
+query language	rdf query language	1
+busy place	rdb	1
+description language	rdf	2
+multivariate method	rda	1
+topic	rdma programming	1
+adequate resource	rd funding	1
+local structure	rdp forum	1
+vocabulary	rdf site summary	1
+web standard	rdf	1
+function key	rd keys	1
+company	rdf	4
+company	rdio	2
+field operation	rd & dvp for change in performance for site	1
+memory technology	rdram	2
+payment type	rdc	1
+explosive material	rdx	8
+project area	rda project area	1
+cutting edge technology	rdf	1
+multivariate analysis	rda	1
+legal tool	rda	1
+company	rdm	1
+company	rd meats	1
+company	rdf media	1
+unincorporated area	rdm	1
+common language	rdf	1
+common abbreviation	rd.	1
+large airport	rdu	1
+semantic web technology	rdf	25
+semantic web technology	rdf description	1
+company	rdc	1
+company	rdf energy	1
+company	rd sport	1
+third-party apps	rdio	1
+tracker	rdm	1
+content service	rdf	1
+industry standard technology	rdfa	1
+metadata standard	rdf	1
+high explosive	rdx	16
+standard abbreviation	rd for road	3
+company website	rdf media	1
+company website	rdf rights	1
+company website	rdf management	1
+secure protocol	rdp	1
+letter word	rd for hardy	1
+XML technology	rdf schema	1
+short cut	rd. for road	1
+streaming service	rdio	1
+minor correction	rd.	1
+subscription-based service	rdio	2
+XML standard	rdf	1
+key standard	rdf	1
+key standard	rdf for tagging	1
+broadcast channel	rds-tmc	1
+multimedia option	rds-enabled radio	1
+ontology language	rdf	7
+ontology language	rdf schema	2
+database engine	rdbms-relational   database engine	1
+DBMSs	rdbmss	1
+activity	rdt testing	1
+information	rdr structure	5
+industry-standard technology	rdbmss	1
+administrative database	rdd	1
+energetic material	rdx	4
+international TV channel	rdv	1
+schema language	rdf schema	2
+molecular datum	rdna sequence	1
+chromatin modification	rdna promoter methylation	1
+information	rdf detail information	1
+internet system	rdn	1
+xml-based language	rdf	4
+low pressure application	rdp housing	1
+neonatal outcome	rds	1
+semantic technology	rdf	4
+union organization	rdc	1
+inducible promoter	rd twenty-nine a promoter 	1
+information	rds	1
+information	rdp public key	1
+nitroaromatic compound	rdx	1
+remote access solution	rdp	1
+energetic compound	rdx	2
+syntax	rdf	1
+underlying technology	rdf	1
+waste fuel	rdf	1
+behavioral program	rdi	1
+digital music service	rdio	1
+effective policy	rdd	1
+plastic explosive	rdx	3
+competing service	rdio	2
+conventional explosive	rdx	2
+foundational document	rdp base document	1
+high-traffic site	rd.net	1
+music subscription service	rdio	2
+nitro compound	rdx	1
+small station	rdu	1
+acura model	rdx	1
+explosive charge	rdx	1
+global oil major	rd shell	1
+independent production company	rdf	1
+event	rds	1
+representation format	rdf	1
+semantic datum	rdfa markup	1
+W3C standard	rdf	1
+dietitian	rd donna	1
+genotyping technique	rdna sequencing	1
+managed object	rdbmss	1
+community sponsor	rdg planning & design	1
+connective	rdf schema logical connective	1
+datum access apis	rdo	1
+event	rdd copy	1
+exotic chemical	rdx	1
+high profile job	rdv sportsplex	1
+microformats	rdfa	1
+street designation	rd	1
+subscription music service	rdio	1
+authorized abbreviation	rd vs. road	1
+decision theory	rdu	1
+informative method	rdna sequences analysis	1
+military explosive	rdx	3
+program	rdiff	2
+program	rdi	1
+treatment modality	rdi	1
+common explosive	rdx	1
+competency framework	rdna	1
+front-end technology	rdfa	1
+I.T solution	rdbms database management	1
+ontology standard	rdf	1
+program	rdio	1
+program	rdf parsers	1
+query processing system	rdbmss	1
+RDF query language	rdql	1
+semantic web language	rdf	22
+AWS service	rds	1
+booster explosive	rdx	1
+database skill	rdbms er model	1
+display protocol	rdp	2
+global report	rdd	1
+level interface	rdo	1
+low margin item	rdm qualifiers	1
+mobile compound	rdx	1
+nitramines	rdx	7
+operating concept	rdo	1
+raw material A	rdf	1
+remote administration tool	rdesktop	1
+rod end	rd  two  mm b mm b nonstandard thread 	1
+semantic markup language	rdf	3
+UK producer	rdf media	1
+advanced collaboration tool	rdv's advanced collaboration tool	1
+aggressive deck	rdw	1
+Cyclic nitramines	rdx	3
+derivative standard	rdf schema language rss	2
+feed format	rdf	1
+high explosive material	rdx	1
+international standardisation effort	rdb two rdf working group 	1
+internet music service	rdio	1
+metalanguage	rdf	1
+movement requirement datum	rdd	2
+NCRA certification	rdr	1
+ncra-sponsored certification	rdr	1
+nitric ester	rdx	1
+ontology description language	rdf	1
+packed feature	rds	1
+popular music service	rdio	1
+remote access protocol	rdp	1
+remote access protocol	rdp & ssh	1
+semantic web standard	rdf	7
+semantic web standard	rdfa	2
+solid explosive	rdx	2
+suitable explosive material	rdx	1
+targeted policy	rd&d subsidy	1
+transactional resource	rdbms	1
+typical energetic material	rdx	1
+typical explosive	rdx	1
+Typical HEmaterials	rdx	1
+XML standard language	rdf	1
+xml-related technology	rdf schema	1
+analytical algorithm	rdf calculation	1
+crystalline high explosive	rdx	1
+datum interchange format	rdf	1
+organization	rdo	1
+experimental result explosive	rdx	1
+frequently-confronted issue	rd appeals process	1
+generation material	rdx	1
+horizontal model	rdf	1
+international design company	rdm design	1
+logical connective	rdf schema logical connective	1
+music discovery service	rdio	6
+persistent storage system	rdbmss	2
+pyrotechnic material	rdc	1
+recipient device	rd.sub. two   four hundred and twelve 	1
+recipient device	rd.sub. four   four hundred and fourteen 	1
+recipient device	rd.sub. one   four hundred and eleven 	1
+retirement section	rd- two 	1
+retirement section	rd- one 	1
+standard XML markup language	rdf	1
+system course	rdbms	1
+traffic information system	rds-tmc system	1
+W3C recommendation	rdf	2
+W3C recommendation	rdf schema	1
+wow factor	rdr	1
+article discussingvarious technology	rdo	1
+technique	rds	1
+budding technology	rdf	1
+chemical explosive	rdx	1
+CMS COPCs	rdx	1
+common explosive material	rdx	1
+common high explosive	rdx	1
+deadlift varation	rdls	1
+developmental therapy	rdi	1
+differentmetadata format	rdf	1
+first biotechnology product	rdna-produced human insulin	1
+freemium music service	rdio	2
+technique	rdc	1
+higher-level interface	rdo	1
+high-level query language	rdql	1
+interesting compound	rdx	1
+laboratory commodity	rdt	1
+language standard	rdf	2
+mature remote display technology	rdp	1
+nitramine explosive	rdx	1
+application	rdp	1
+online reporting service	rd history	1
+operational diagnostic system	rdc	3
+organic explosive	rdx	1
+palm oil	rdb	1
+paslthemore common explosive	rdx	1
+powerful visualization tool	rdf gravity	1
+prescript	rdp white paper	1
+pure high explosive	rdx	1
+query engine	rdf storageand query engine	1
+RDCS feature	rdcs speaker audio	1
+RDF vocabulary	rdfs	3
+remote admin technology	rdp	3
+remote desktop tool	rdp	1
+remote viewer protocol	rdp	2
+repressive factor	rd subunit of nelf	1
+SCTs	rdb	1
+secondary high explosive	rdx	1
+seemingly obvious factor	rdna locus size	1
+semantic language	rdf	2
+semantic standard	rdf	2
+semantic web concept	rdf	1
+semantic web query language	rdql	3
+standard vocabulary	rdfs	1
+structured framework	rdf	1
+application	rdbms engine	1
+technical recommendation	rdf	2
+true explosive	rdx	1
+world wide web consortium standard	rdf	2
+ashable.com music discovery service	rdio	1
+bin tipper	rdh	1
+Buffered DIMM s	rdimm	1
+Buffered DIMMs	rdimm	1
+bulk military explosive	rdx	1
+case certain value	rds level	1
+CM representation	rdf	1
+command definition	rdata	1
+contrary, contemporary writer	rd laing	1
+conventional shaped charge explosive	rdx	2
+description framework	rdf	1
+descriptive technology	rdf	2
+digital rival	rdio	1
+duty system	rds staff	1
+educational and therapeutic approach	rdi	1
+energetic chemical	rdx	1
+energetic ingredient	rdx	1
+example language	rdf	1
+experienced solution provider	rda group	1
+explosive powder	rdx	1
+formal ontological framework	rdf	1
+gambling guru	rd ellison	1
+global music subscription service	rdio	1
+high energy explosive	rdx	1
+high performance explosive	rdx	1
+high-brisance crystalline explosive	rdx	2
+high-energy density explosive	rdx	1
+hi-tech explosive	rdx	1
+increased certain hemogram parameter	rdw	1
+innovative in-vehicle driver information system	rds-tmc based on-line route guidance system	1
+Introduction Cyclic nitramines	rdx	2
+INTRODUCTION energetic compound	rdx	1
+key mark-up language	rdf	2
+knowledge modeling language	rdf	1
+KYC document	rdd	1
+lightweight semantic technology	rdf	1
+factor	rdbms	1
+low btu fuel	rdf	1
+low-temperature explosive	rdx	1
+markup format	rdf	1
+munition compound	rdx	1
+native operating system feature	rdp protocol	1
+nonfossil fuel	rdf	2
+nonreligious club	rdv sportsplex in orlando	1
+office lan's disable service	rdp	1
+case	rdf	1
+potent explosive	rdx	1
+rdfs-defined term	rdf : type	1
+rdfs-defined term	rdfs : class	1
+rdf-specific language	rdql	1
+recombination-detection method	rdp	1
+remote access support tool	rdp	1
+remote indicator	rdi-p	2
+russian engine	rd- one hundred and eighty  derivatives used on the atlas v launch vehicle 	1
+russian engine	rd- one hundred and seventy 	1
+schema specification language	rdf schema specification	1
+sediment CMS COPCs	rdx	1
+semantic web component	rdf	1
+sensitive explosive material	rdx	3
+sequential language	rdml	1
+server-based computing option	rds session virtualization	1
+solid propellant ingredient	rdx	2
+sophisticated and expensive explosive	rdx	1
+spotify's potential competitor	rdio	1
+standard description format	rdf	1
+standardized ontology language	rdf	1
+case	rd credit card payment system	1
+case	rdf use case	1
+systems constituent piece	rdram-cognizant core-logic chip set	1
+target chemical	rdx	1
+THEORY explosive	rdx	1
+typical secondary explosive compound	rdx	1
+vocabulary description language	rdf schema	1
+web-based information standard	rdf	1
+weighted and directed graph	rdf sentence graphs	1
+weighted and directed graph	rdfsentence graphs	1
+wild-types	rdl	1
+analog broadcast technology	rds	1
+area many advantage	rdu	1
+art query evaluation system	rdbmss	1
+option	rdu	1
+option	rdf feeder	1
+option	rdc over vpn	1
+balanced market	rdu	1
+bike's two-stroke successor	rd three hundred and fifty 	1
+bluepoint software module	rdc teller	1
+classical analysis method	rda	2
+common global standard	rda	1
+common remote presentation protocol	rdp	1
+completely new standard	rdf	1
+conjunctive query language	rdql	1
+crystalline explosive	rdx	1
+custome version	rdc three s built for the crip 	1
+customer appropriation	rdt	1
+databasesystems	rdbms	1
+dental hygiene journal	rdh	1
+desensitized explosive	rdx	1
+detailed enhancement	rds database connection support	1
+differential cdna cloning method	rda	1
+discussion prominent language	rdf	1
+displacement batch process	rdh	1
+dod 4145.26-M c. explosive powder	rdx	1
+doppler measurement technique	rdm with a plunger	1
+ENRD initiative	rdp projects database	1
+entailment regime	rdfs entailment	2
+example production company	rdf	1
+expressive ontology language	rdf schema	1
+expressive semantic web technology	rdf	2
+extensible semantic integration standard	rdf	1
+failover driver	rdac	1
+fairly senior level	rdo	1
+first, current ontology language	rdf	1
+Fluorescent dextran amines	rda	5
+Fluorescentdextran amines	rda	1
+FM radio broadcasting	rds broadcasting	1
+formal representation language	rdf	1
+front-end processing system	rdf production	1
+Furuno equipment	rd thirty  display 	1
+generation semantic web language	rdf	1
+graph-based storage format	rdf	1
+high brisance explosive	rdx	1
+high energy density explosive	rdx	2
+higher-level query	rdql	1
+high-level datum access interface	rdo	1
+in-band tool	rdp	1
+includes encoding standard	rdf	1
+industry ontology standard	rdf	1
+infiniband feature	rdma operation	1
+group	rda	1
+introduction USSIAN-BUILT kerosene-fueled engine	rd- one hundred and seventy 	1
+iron-status variable	rdw	2
+key semantic web technology	rdf	1
+Language schemas	rdf	1
+latest music apps	rdio	1
+licensed specialized bank	rdb	1
+linked datum technology	rdf	2
+local coordination organization	rdc	1
+modern druidic group	rdna	1
+Modified-for-driving apps	rdio	1
+multi-path driver	rdac	1
+non-magnetron energy source	rd diode	2
+method	rdp	2
+method	rdi	1
+note protocol	rdp	1
+ODN therapeutic approach	rdo	1
+ongoing FACT clinical service	rdi	1
+online MBA supplier	rdi in the uk	1
+ontology language representation	rdf	1
+ontology specification	rdf database mapping system	2
+open source Remote Desktop Client	rdesktop	1
+overlaydistricts	rdo district	1
+pcr-based fingerprinting protocol	rdna-based pcr	2
+Performance measure-mentframeworks	rdf	1
+point-of-service technology	rdts for malaria	1
+populariza-tionofwebmeta-data standard	rdf	1
+postal route number	rd  two 	1
+presently available sub-carrier technology	rds	1
+pretty simple use	rddl	1
+proprietary decalcifying agent	rdo	1
+proven progress product	rdbms	1
+public datum model	rdf	1
+rad6-dependent process	rdb	1
+rambus memory device	rdram	1
+RDA facility	rda stockade	1
+RDF feature	rdf containers	1
+RDMX structure	rdmrequest	1
+RDR activity	rdr monthly meeting	1
+ready available fuel	rdf	1
+real-time sensitive application	rdp	1
+refined similarity score matrix	rd for reference distribution	1
+regulatory driver nitro-substituted heterocyclic nitramines	rdx	2
+remoting protocol	rdp	1
+representation technology	rdf	2
+Roll-fed thermoformers	rdm  seventy k 	1
+running product	rdc rs fifty  runner 	1
+rural merchant	rd one 	1
+scanner fault	rdh misfeeds	1
+second instruction	rdptrstk command	1
+section important semantic web technology	rdf	1
+method	rdga	1
+method	rda	1
+method	rdns	1
+semantic database	rdf triplestores	1
+semantic modeling technology	rdf	3
+semantic web knowledge representation standard	rdf	1
+Semantic Weblanguages	rdf	1
+semantic-based query	rdf query	1
+semi-structured web datum format	rdf	1
+server support semantic standard	rdf	1
+somewhat similar standard	rdf site summary	1
+south west program	rda's market	1
+spotify rival	rdio	1
+stand-alone component	rdc	1
+standard semantic description language	rdf	1
+standard SW technology	rdf	1
+standardized query language	rdf	1
+stress-induced gene	rd twenty-nine a in arabidopsis thaliana 	1
+suchdenitions mechanism	rdfa andmicroformats	1
+suitable conventional secondary explosive	rdx	1
+SUMMARY Cyclic nitramines	rdx	1
+supplementary W3C proposal	rdfa	1
+top recruitment software package	rdb pro	1
+traffic broadcast system	rds-tmc system	3
+traffic information broadcast system	rds-tmc system	3
+typical knowledge representation framework	rdf	1
+typical synchronization method	rda	1
+untagged DDP segment	rdma read message	3
+tool	rdp	3
+tool	rdbms development tool	1
+tool	rdv's advanced collaboration tool	1
+tool	rdfs	1
+tool	rdiff-backup	1
+vocabulary description	rdf schema	1
+W3C semantic web recommendation	rdf	1
+web ontology description language	rdf	1
+xml-based W3C recommendation	rdf	1
+xml-derived technology	rdf	1
+yonex racket	rd five hundred 	1
+tool	rdf query	1
+tool	rdc	1
+tool	rd-party  monitoring tool	1
+tool	rdfreactor  seventeen 	1
+tool	rda	1
+artist	rdb	1
+material	rdx	3
+material	rdm	1
+player	rdio	2
+technology	rdf	19
+technology	rdbmss	2
+technology	rdio	1
+technology	rdma over converged ethernet	1
+technology	rdp	1
+technology	rdmaallow fast memory access into the address space of an application without interrupting the computational process	1
+technology	rda	1
+technology	rdfa	1
+term	rdf	4
+term	rdbms	3
+term	rdm	1
+system	rde	2
+system	rds supply a number of types of information	1
+condition	rds	1
+element	rd policy	2
+function	rds	1
+function	rdp share	1
+device	rdc machine	1
+concept	rdo	1
+concept	rdbms	1
+concept	rdf container	1
+component	rdbms	3
+component	rdb	1
+site	rdio	2
+site	rdna	1
+site	rdn virtual training suite	1
+site	rdb	1
+related product	rdx explosive related product	1

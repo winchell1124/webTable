@@ -1,0 +1,659 @@
+accessory	l.e.d. lighting	1
+resource	l.i.f.e.	1
+exception	l. neil smith	1
+product	l. ron hubbard novel	1
+product	l. t. transformers	1
+exception	l. for linnaeus	1
+character	l.  one  . scale 	1
+work	l. frank baum's the wizard of oz	1
+work	l. sprague de camp 's tales from gavagan's bar	1
+client	l. c. gaskins construction company	1
+author	l. frank baum	3
+author	l. a. banks	3
+author	l.m montgomery	2
+author	l. sprague de camp	2
+author	l. ron hubbard	1
+author	l. sprague decamp	1
+author	l. e. modesitt	1
+author	l. berry	1
+author	l. horn	1
+location	l. mango	1
+location	l.a convention center	1
+writer	l. tolstoi	1
+writer	l. w. king	1
+writer	l. ron hubbard	1
+writer	l. t. meade	1
+book	l. obligada's faint frogs feeling feverish	1
+star	l.a.m.b	1
+film	l.i.e	3
+film	l.i.e.	1
+business	l. g. wert's grist mill	1
+business	l.l.c.	1
+business	l. gordon iron & metal	1
+band	l.a. s warrant	2
+school	l.b pearson school for the arts	1
+plant	l. lucidum ait.	1
+agent	l.j hooker	1
+scholar	l. lange	1
+scholar	l. goldberg	1
+scholar	l. a. waddell	1
+scholar	l. duchesne	1
+scholar	l. wiener	1
+scholar	l. krapf	1
+city	l.a.	34
+city	l.a	13
+city	l. cardenas	1
+venue	l.a. s troubador	1
+drug	l.s.d	1
+drug	l.s.d.	1
+manufacturer	l.l.bean	1
+man	l. david mech	1
+man	l. cossa	1
+study	l. l. bernard	1
+individual	l. frank baum	1
+individual	l. k. hua	1
+figure	l. nervi	1
+leader	l. k. advani	1
+musician	l. shankar	1
+musician	l.a. jazz musician	1
+team	l.a	2
+substance	l.s.d.	1
+entity	l.p.	1
+building	l. murray dixon's senator hotel	1
+researcher	l. lipsky anda	1
+researcher	l. rei	1
+researcher	l. o grondahl	1
+researcher	l. liang	1
+researcher	l. alan eyre on the shantytowns of montego bay	1
+researcher	l. r. goldberg	1
+region	l.a.	1
+region	l. major-endemic  region	1
+big name	l.a reid	1
+show	l.a. award show	1
+club	l.a.'s top club	1
+critic	l. brent bozell's media research center	3
+critic	l. troost	1
+critic	l. sprague de camp	1
+market	l.a	3
+market	l.a.	2
+market	l.a. s westside	1
+label	l.a.m.b.	1
+department	l.e.a.d. office	1
+value	l. sub . two 	1
+designer	l.a.m.b.	2
+designer	l.a.m.b	2
+woman	l. l. snipes	1
+retailer	l.l.bean	3
+retailer	l. l. bean	2
+professional	l.d. specialist	1
+guest	l. jay tenenbaum	1
+corporation	l.p.	1
+line	l.a.-based, mother-produced line	1
+producer	l.e.s.	1
+producer	l.v. from terror squad	1
+producer	l.b foster	1
+tourist attraction	l. pecci museum	1
+charge	l.t.l. additional charge	1
+track	l.a. area track	1
+fish	l. ciliaris	1
+employer	l. e. cooke in visalia	1
+top brand	l. l. bean	1
+historian	l. hazard knowles	1
+organism	l. acidophilus	1
+teacher	l. l. manley	2
+shop	l.k bennett	1
+large company	l.l.bean	1
+popular brand	l.a.m.b.	1
+centre	l.a	1
+commentator	l.l.m.	1
+commentator	l. brisson	1
+county	l.a.	1
+spot	l.a. hot spot	1
+insect	l. cervus	2
+scene	l.a. s paisley underground	1
+social event	l.a.n. party	1
+philosopher	l. w. sumner	1
+philosopher	l. jonathan cohen	1
+worker	l. g. matus	1
+face	l.a reid	1
+design element	l.e.d. lighting on the bridge's pier	1
+economist	l.s.e. s richard layard	1
+culture	l.acidophilus l.casei l.bulgaricus l.salivarius	1
+hospital	l.a. s cedars-sinai medical center	1
+sound	l.p international	1
+kind	l. callilepis	1
+weed	l.	1
+jurisdiction	l.a.	2
+board	l.a. s best	1
+opponent	l. douglas pipes	2
+staff	l. michael hager	1
+conductor	l. bernstein	1
+local event	l.a. s blessing of the cars	1
+assumption	l. one 	1
+assumption	l. two  andl. three aremainlyfrom the traditional argument 	1
+urban area	l.a.	1
+fuel	l.p. gas in canister	2
+extreme case	l.lactis	1
+architect	l. murray dixon	1
+observer	l. j. g. violle	1
+famous artist	l. feininger	2
+rare species	l. chinensis	2
+light source	l.e.d.	1
+large city	l.a	2
+large city	l.a.	1
+artiste	l. shankar	1
+artiste	l. subramaniam	1
+well-known brand	l. a. gear	1
+set	l. velez	1
+item	l.a.-style short rib	1
+degree	l.l.b	1
+locale	l.a.	1
+large area	l.a	1
+patient	l.s.	1
+bacterium	l. casei gg	1
+studio	l.a.-based porchlight entertainment	1
+minor issue	l.o.p	1
+peer	l. sprague decamp	2
+top name	l.k.bennett	1
+big city	l.a.	3
+big city	l.a	1
+TV series	l.a law	3
+particular	l.d.l. particular	1
+physician	l. d. fricks of the public health service	1
+rapper	l. a. rapper	1
+hot spot	l.a. hot spot	1
+designer brand	l.a.m.b	1
+liberal	l. t. hobhouse	2
+large firm	l. h. butcher co.	1
+religious group	l.a. s first ame church	1
+psychologist	l.b brown	1
+great musician	l. c. luckett	1
+large employer	l. l. bean	1
+lawyer	l. douglas wilder	1
+explorer	l. kruzenshtern	1
+hotspot	l.a.	1
+strain	l. rhamnosus gg	3
+strain	l. reuteri	3
+strain	l. lactis subsp	1
+strain	l. casei	1
+strain	l. acidophilus ncfm	1
+strain	l. acidophilus	1
+strain	l. casei dn- one hundred and fourteen thousand and one 	1
+strain	l.bulgaricus rop	1
+investigator	l. c. corbett	1
+area	l.a.	1
+inclusion	l. moore	1
+rare exception	l. h. bailey	1
+jazz musician	l.a. jazz musician	1
+area	l.a	1
+watch	l.e.d watch	1
+designer label	l.a.m.b.	1
+public utility	l.a. s department of water	1
+famous company	l. a. gear	1
+attendee	l.p.	1
+talented artist	l.!.z.	1
+well-known author	l.e.l.	1
+designer name	l. vernon	1
+feat	l.u.c calibre  ninety-eight . one -l 	1
+missionary	l. piasecki	1
+great singer	l. pavarotti	1
+suburban area	l.a.	1
+online company	l. l. bean	1
+catalog	l.l bean	1
+metro area	l.a.	3
+small species	l. vavilovii atab	1
+population center	l.a.	1
+local paper	l.a. s la opinion	2
+close friend	l.	1
+assessment technique	l. use assessment technique	1
+legendary musician	l. shankar	1
+biologist	l. david mech	2
+local shop	l.o.f.t. on broadway offer fun	1
+music star	l. l. cool jay	3
+large market	l.a.	1
+large market	l.a	1
+farm animal	l. i. d. cattle	1
+large metropolitan area	l.a.	1
+national client	l.l bean	1
+Probiotics	l. acidophilus	16
+Probiotics	l. rhamnosus gg	4
+Probiotics	l.acidophilus	3
+Probiotics	l. reuteri	2
+Probiotics	l. bifidus	1
+Probiotics	l. plantarum with fructooligosaccharide a prebiotic	1
+Probiotics	l.rhamnosus gg	1
+Probiotics	l. johnsonii lal	1
+Probiotics	l. casei found in yogurt	1
+Probiotics	l. acidophilus between meal	1
+evangelical	l. nelson bell	1
+palm	l. grandes	1
+interpreter	l. l. thompson	1
+lighting product	l.e.d. lamp bulb	1
+philanthropic organization	l.i.c. of india	1
+advanced degree	l.l.m	2
+american city	l.a	1
+wild species	l. perennis	1
+famous architect	l. rusca	1
+U.S. city	l.a.	1
+designer line	l.a made	1
+emergency procedure	l.p.	1
+moniker	l.s.g.	1
+homeowner	l. james	1
+contemporary scholar	l. ferrari	1
+snail	l. flavus	1
+ant	l. flavus	1
+construction debris	l.p. siding	1
+perennial species	l. latifolia	1
+popular line	l.e.i.	1
+accomplished artist	l. shankar	1
+deciduous shrub	l. tatarica	1
+custom part	l.e.d. turn signal	1
+notable project	l.i.e.	1
+recreational drug	l.s.d.	1
+vet	l.a. rap vet	1
+plant pathogen	l. xyli subsp	1
+psychiatrist	l. j. reyna of boston university	1
+top club	l.a.'s top club	1
+county official	l. brooks patterson	1
+maestro	l. subramaniam	1
+energy efficient product	l.e.d. lighting	1
+hottest brand	l.a.m.b.	1
+large district	l.a.	1
+Incases	l. crassa	1
+Incases	l. littoreainthe usa	1
+national minority	l.	1
+astrologer	l. edward johndro	1
+prominent scientist	l. pasteur	1
+company	l. l. bean	3
+hard drug	l.s.d.	1
+chemist	l. pasteur	1
+influential leader	l. lucullus	1
+renowned festival	l. van beethoven easter festival	1
+great architect	l. murray dixon	1
+hot market	l.a.	1
+populated city	l.a	1
+top competitor	l. e. red cornelison	1
+good band	l.d bell	1
+playing venue	l.a. s greek theatre	1
+energy efficient technology	l.e.d.	1
+award show	l.a. award show	1
+company	l.l.bean	1
+pathogenic bacterium	l. pneumophila respond	1
+solution method	l.p. method	1
+pathogenic species	l. wingfieldii m. moreletand l. terebrantis barras & perry	1
+leguminous crop	l. leucocephala	1
+lily	l. pumilum	1
+lily	l. henryi	1
+trouble area	l.a.	1
+company	l.l.bean in freeport	1
+company	l. j. hooker	1
+well-known venue	l.a house of blues	1
+eco-friendly option	l.e.d. signage	1
+large metro area	l.a.	2
+master's degree	l.l.m	1
+hallucinogenic drug	l.s.d.	1
+probiotic supplement	l. acidophilus	2
+psychotherapist	l. hudson & b. jacot	1
+feminist thinker	l. weber	1
+Shrubby species	l. thunbergii nakai	1
+Shrubby species	l. japonica l. bailey	1
+Shrubby species	l. bicolor turcz.	1
+Shrubby species	l. cyrtobotrya miq.	1
+sporting good store	l.l.bean	1
+police unit	l.a.p.d.	1
+retail firm	l.l.bean	3
+retail firm	l. l. bean	1
+western species	l. hesperus	1
+modern teaching facility	l.c.d. projector based digital classroom	1
+Asian species	l. orientalis	1
+Asian species	l. formosana from china	1
+mail-order company	l.l.bean	1
+mail-order company	l. l. bean	1
+mega city	l.a.	1
+prominent psychologist	l. vygotsky	1
+talented director	l. krishnan	1
+bachelor degree	l.l.b.	1
+leguminous tree	l. leucocephala	1
+pulp writer	l. ron hubbard	3
+dermatologist	l. david	1
+south	l.i.e	1
+generous donor	l.armstrong foundation	1
+conservative intellectual	l. brent bozell	1
+lactic acid bacterium	l. brevis	2
+lactic acid bacterium	l. acidophilus	1
+populated place	l.a.	1
+RTOs	l.l.c.	1
+World species	l. albus	1
+probiotic bacterium	l. acidophilus	2
+probiotic bacterium	l. rhamnosus gg	1
+probiotic strain	l. casei	2
+probiotic strain	l. acidophilus rosell- fifty-two 	1
+probiotic strain	l. reuteri	1
+probiotic strain	l. reuteri rc- fourteen 	1
+world's top designer	l.a.m.b.	1
+Artisits	l.o.c.	1
+friendly bacterium	l. acidophilus	2
+hybridizers	l. f. frisbee	1
+indian director	l. krishnan	1
+LPG burner	l.p. super canteen burner	1
+LPG burner	l.p mini canteen burner	1
+ornithologist	l. d. martin	3
+serovars	l. pomona	1
+Sociolinguists	l. mugglestone	1
+hallucinogenic	l.s.d	1
+real estate agency	l. j. hooker	1
+regular attendee	l. francis herreshoff's ticonderoga	1
+signature collection	l.u.c	1
+urban place	l.a.	1
+accomplished painter	l. diane johnson	1
+big metropolitan area	l.a	1
+earthworm	l. terrestris	1
+field office	l.a	1
+lactobacilli	l. johnsonii la one 	2
+live culture	l. casei	1
+mainstream scholar	l. michael white	1
+RBs	l.t.	2
+cannabis strain	l.s.d	1
+ectomycorrhizal fungus	l. quietus dominated in the decomposed humus	1
+hologram	l. sub . two 	1
+event	l.a.t.e ride	1
+rehabilitation aid	l.s. frame	1
+cell phone giant	l.g.	1
+orchestra director	l. langree	1
+popular textbook writer	l. susan stebbings	2
+probiotic microorganism	l. acidophilus	1
+standard destination	l.a	1
+altered form	l.	5
+american researcher	l. m. terman	1
+lay witness	l.s.	1
+long-time supporter	l. in nyc	1
+modern liberal	l. t. hobhouse	1
+modern text	l. frank baum's the wizard of oz	1
+newspaperman	l. d. taylor of the vancouver world	3
+social liberal	l. t. hobhouse	1
+world's finest musician	l. shankar	1
+blue-chip marketer	l.l.bean	1
+catholic intellectual	l. brent bozell	1
+inflammable good	l.p.g. cylinder	1
+Intuitionists	l. e. j. brouwer	3
+large convention city	l.a.	1
+Modellers	l. curly lawrence	1
+program	l.a. s inner city filmmakers	2
+program	l.e.a.d. at auk workshop	1
+Petrocrops	l. camara	1
+warmth-loving tender perennial	l. horrida	1
+large U.S. retailer	l. l. bean	1
+modern mathematician	l. euler	2
+partial kit	l.g. kit	1
+lobelia chinensis	l. chinensis	0
+blighted area	l.a. s skid row	1
+colonialist	l. moll	1
+ECM fungus	l. bicolor	1
+Lactobacillus species	l. acidophilus	3
+Lactobacillus species	l. casei	1
+leftwingers	l. e. o. charlton	1
+Leishmania species	l. aethiopica	1
+Leishmania species	l. mexicana	1
+motor show	l.a.	1
+non-corrosive gas	l.p.g.	1
+Oral probiotics	l. rhamnosus gg	1
+Oral probiotics	l. rhamnosus gr- one 	1
+propane provider	l.p.	3
+branded rack supplier	l.p.	1
+cataloguer	l. l. bean list storm cotton jean	1
+coal bed	l. seaboard	1
+experienced director	l. krishnan	1
+home-grown artist	l.s lowry	1
+limpet	l. gigantea	1
+Moisture loving species	l. ciliata	1
+notable theoretician	l. domenech i muntaner	1
+outstanding option	l. twenty 	1
+outstanding theater director	l. vivien	1
+probiotic species	l.acidophilus	1
+production hub	l.a	1
+pulp fiction writer	l. ron hubbard	1
+strong release	l.a noire	1
+substitute plant	l. leucocephala	1
+true designer line	l.a.m.b.	1
+urban and urbane area	l.a.	1
+celeberties favorite brand	l.a.m.b	2
+celebrity line	l.a.m.b	1
+cold-adapted species	l. fragaria	1
+commercial real estate broker	l. bruce matthai jr. of w. c. pinkard & associates	1
+controlled dangerous substance	l.s.d	1
+courageous reporter	l. alex wilson of the memphis tri-state defender	1
+dutch author	l. de jong  one thousand nine hundred and eighty-eight : seven hundred and twenty-six 	1
+enterprising man	l. g. mason	1
+organization	l.e.g.i.o.n.	1
+forest frog species	l. blythii	1
+forest species frog	l. blythii	1
+glamorous city	l.a	1
+high traffic city	l.a	1
+prefer brand	l. gs	1
+rand item	l. l. bean	1
+remarkable pulp writer	l. ron hubbard	1
+Rich and famous oilmen	l. e. phillips	2
+urban and affluent county	l.a.	1
+work renowned photographer	l. w. halbe	1
+add-on term	l.l.c.	2
+technique	l. use assessment technique	1
+big city market	l.a.	1
+courageous pioneer	l. m. terman	1
+Cucumis species	l.	1
+enclosed shopping mall	l.i.	1
+english gun maker	l.s.a & co.	2
+ethnic city	l.a.	1
+Friendly flora	l. acidophilus	2
+friendly microorganism	l. acidophilus	3
+great sailing yacht	l. francis herreshoff	1
+helpful bacterium	l. acidophilus	3
+herbaceous	l. rigens tolpis azorica	1
+Heterofermentative lactobacilli	l. reuteri	1
+immigrant-rich city	l.a	1
+inductor	l.sub. one  in an integrated circuit 	1
+internet engineer	l. jean camp	1
+jewish doctor	l. goldberg	1
+lactic bacterium	l.bulgaricus	1
+large mail-order house	l. l. bean	1
+legume tree	l. leucocephala	1
+local film director	l. krishnan	1
+metropole center	l.a.	1
+modern science writer	l. smolin	1
+multi-platinum rap artist	l.o.x.	1
+no-longer-existing track stadium	l.a. s memorial coliseum	1
+outdoor manufacturer	l.l bean	1
+petrographers	l. paul schirlitz	1
+reef-building coral	l. pertusa	1
+RMR veteran	l.g. de veber	1
+sprawling area	l.a.	1
+trained worker	l. hemanta singh	1
+unaffordable real estate market	l.a.	1
+well-established and high quality brand	l.l bean	1
+well-mixed system	l. wellington	1
+abstract famous european scientist	l. agassiz	1
+anecic species	l. terrestris	1
+Anecicspecies	l. terrestris	1
+area track	l.a. area track	1
+arkansas visionary	l. k. pomeroy	1
+best russian singer	l. v. sobinov	1
+biggest lao artist	l.o.g	1
+bush honeysuckle	l. tatarica	3
+name	l. nelson bell	1
+name	l. f. g. de cazaux	1
+canine leptospiras	l. ictrohemorrhagiae	2
+famous european scientist	l. agassiz	1
+famous fantasy collaborator	l. sprague de camp	1
+famous LCD panel manufacturer	l.g philips	1
+name	l. cooper	1
+name	l. john doerr	1
+name	l. l. bean	1
+first-run film	l.i.e	1
+formal consultative process	l.e.r.n. in  one thousand nine hundred and eighty-four 	1
+gifted charlatan	l. ron hubbard	1
+great tangle seaweed	l. saccharina	1
+heterofermentative lab	l. reuteri	1
+Heterofermentative species	l. brevis	2
+Heterofermentative species	l. fermentum	2
+high-competition place	l.a.	1
+homofermeutative lactobaeilli	l. delbrueckii	1
+hot single	l.o.v.e	1
+human origen strain	l. reuteri	1
+lactic acid-producing microorganism	l. acidophilus	2
+lactic acid-producing microorganism	l.acidophilus	1
+lactobacillus strain	l.casei	2
+lactobacillus strain	l. acidophilus	1
+Lamprologus species	l. brevis	1
+Lamprologus species	l. ocellatus	1
+large diameter cane species	l. robustum	1
+lay preacher	l. dahlman	1
+left-wing aviator	l. e. o. charlton	1
+Lethrinops	l. mylodon	1
+Lethrinops	l. altus	1
+Limbless, humus-living squamates	l. apoda	2
+literate internationalist	l. d. trotsky	1
+live and active cultures	l. acidophilus	1
+luxurious designer	l.a.m.b.	1
+musical teacher	l. fleisher	1
+natural bacterium	l. acidophilous	1
+news commentary site	l.com	1
+obligate heterofermentative strain	l. fermentum	1
+obligate heterofermentative strain	l. brevis	1
+Obligately heterofermentative lactobacilli	l. fermentum	1
+Obligately heterofermentative lactobacilli	l. reuteri	1
+pioneer taxa	l. alata	2
+popular californian city	l.a	1
+predominant micro-organisms	l. fermentum	1
+probiotic compound	l. rhamnosus gg	1
+released hit album	l.a.x.	1
+resident bacterium	l. acidophilus	1
+shaded portion	l. sub . o two 	1
+case	l. acidophilus	1
+tryptamine psychedelic substance	l.s.d.	1
+typical probiotic bacterium	l. acidophilus rosell- fifty-two 	1
+underrated producer	l.e.s.	1
+unreality-based republican	l. brent bozell	1
+vigorous, ubiquitous form	l. terrestris	1
+wealthy school district	l.i.	1
+well-regarded brand name	l.o.c.	1
+word expert	l. koehler	1
+yellow-flowered species	l. chrysanthus	1
+19th-century printing firm	l. prang & company	1
+Adult female linyphiids	l. tenuis	1
+American red-flowered species	l. sempervirens l.	1
+antebellum pulp war fiction	l. james's the boy galloper	1
+artisanal scent maker	l.a.-based sarah horowitz-thran	1
+Australian leptospermums	l. arachnoides	1
+option	l.e.d. lighting system	1
+option	l.e.d. underwater light	1
+Biogenic amine-producing obligately heterofermentative lactobacilli	l. brevis	1
+brilliant erotic writer	l. elise bland	1
+california coastal city	l.a.	1
+contemporary arab woman scholar	l. abu lughd	1
+creative retailer	l.l.bean	1
+decade social scientist	l. c. gray in the bureau of agricultural economics of the usda	1
+duckweed species	l. gibba	1
+group	l. colace et al	2
+endly micro-organisms	l. acidophilus	1
+Europ-ean species	l. lutea panzer	1
+fabulous retailer	l.l.bean	1
+Florafit probiotics	l. acidophilus ncfm	1
+friendly micro organism	l. acidophilus	1
+friendly micro-organisms	l. acidophilus	2
+Fully dormant species	l. rediviva	1
+good acoustic preamp	l.r baggs paracoustic di	1
+Gut microbiotaand exogenousprobiotics	l. reuteri	1
+Harvesting littoral zone benthic cyanobacteria	l. majuscula from beach	1
+heterofermen-tativespecies	l. brevis	1
+high-crime neighborhood	l.a. s panorama city district	1
+hip establishment	l.a. s viper room	1
+independent, black-owned film company	l.a. s lincoln motion picture co.	1
+group	l.e.a.p.	1
+lactic culture	l.bulgaricus	2
+laelias	l. anceps	1
+large mail-order company	l. l. bean	1
+Large weathervane manufactories	l. w. cushing	1
+Lavandins	l. latifolia	1
+litter dweller	l. rubellus l.	1
+live milk bacterial culture	l. acidophilus	1
+menshevik centrist	l. martov	1
+Methodist ethicists	l. harold dewolf	1
+nannofossil event	l.o. of eprolithus floralis stover	2
+native lupine	l. perennis	1
+nemerteans	l. longissimus	1
+Non-pathogenic serovars	l. biflexi serovar patoc	1
+notable fashion name	l.a.m.b	1
+notable precedent	l. o. mink	1
+odd sleazy charlatan	l. ron hubbard	1
+optional lockout indicator	l.e.d.	1
+outdoor good specialty store	l.l.bean	1
+park utility service company	l.p. gas	1
+PBS critic	l. brent bozell of the media research center	1
+perennial seller	l. ron hubbard's battlefield earth	1
+plant environmental isolate	l. lactis nrrl b- four thousand four hundred and fourty-nine 	1
+plant-associated strain	l. mesenteroides subsp	1
+Planting lavender	l. dentata	1
+popular congregation	l.a. s sinai temple	1
+project consultant	l. gordon moore	1
+pulp fiction author	l. ron hubbard	1
+self-entitled anarchist	l. susan brown	1
+shaming enthusiast	l. brent bozell iii	1
+slim-fit belt	l.k.bennett's genevra	1
+statistical researcher	l. j. savage	1
+successful american catalogue house	l. l. bean	1
+tetrapolar species	l. bicolor	1
+Today many webcasters	l.a. s kcrw	1
+traditional starter and adjunct culture	l. lactis subsp	1
+transatlantic locale	l.a.	1
+Typical scrub taxa	l. camara	1
+wolf researcher	l.david mech	1
+tool	l. d. egbert's multilingual law dictionary	1
+project	l.e.d.	1
+artist	l. man	1
+artist	l.b alberti	1
+artist	l.o.x.	1
+material	l.e.d. light	1
+place	l.a	3
+place	l.a.	3
+player	l.t.	1
+term	l.l.c.	3
+system	l.p.	1
+species	l. acidophilus	8
+species	l. casei	6
+species	l. quietus	4
+species	l. leucocephala	4
+species	l. berthelotii from the canary islands	2
+species	l. fermentum	2
+species	l. jordanis	2
+species	l. nanus	2
+species	l. odoratus	2
+species	l. laeta	2
+species	l. digitata	2
+species	l. decora	1
+species	l. coronaria desr.	1
+species	l. mexicana	1
+species	l. spicata	1
+species	l. xanthomera	1
+species	l. xanthospilum lathrop	1
+species	l. camara	1
+species	l. cardinalis	1
+species	l. chalcedonica l.	1
+species	l. chinensis	1
+species	l. brevis	1
+species	l. flavus	1
+species	l. nipponica yamada	1
+species	l. reuteri	1
+species	l. stoechasand l. dentata	1
+species	l. sieboldii van houtte	1
+species	l. terrestris	1
+species	l. zebrina	1
+species	l. acid ophilus	1
+species	l. maritima	1
+species	l. mirabilis furtado	1
+species	l. nipponica yamadaand l. okamurae ya mada	1
+species	l. okamurae yamada	1
+species	l. sativus	1
+species	l. viridishadamore complex arrangement of covering material	1
+brand	l.a.m.b	4
+brand	l.a.m.b.	2
+brand	l. l. bean	2
+brand	l.g.	1

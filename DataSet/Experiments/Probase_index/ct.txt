@@ -1,0 +1,2781 @@
+factor	ctr	3
+product	ctp related product	1
+initiative	cte programs of study	5
+initiative	ctcs	3
+initiative	cty spain	1
+initiative	ct two r governance 	1
+accessory	ct pipe	1
+accessory	cts performance accessory	1
+datum	ct scan	3
+datum	cts product performance	2
+datum	ctbs score	2
+datum	ct dose index	2
+datum	ctr	1
+datum	ct-scan	1
+datum	ctd	1
+resource	ct brain tutorial	1
+facility	ctio	2
+facility	ct-scan unit	2
+facility	ctg healthcare group in izmir	1
+facility	ctu	1
+source	ct locip fund	1
+source	cta  twenty-one 	1
+source	cta  one hundred and two 	1
+property	cte	5
+property	ctrl-rset cms display property	1
+property	ctrl-r set cms display property	1
+benefit	ctb	1
+model	cts	6
+model	ctm	2
+model	cts driving the route	1
+characteristic	ctl wear characteristic	1
+characteristic	ct parameter	1
+situation	ct contrast injection	1
+category	ctype	1
+institution	ctbi's boatbuilding academy	1
+client	ctv	2
+client	ctc	2
+client	ctm china	1
+document	ctrl research strategy	1
+document	ct scan	1
+author	cthulhu mythos' author	1
+product	ct closure	1
+strategy	ctla- four  blockade in t-cells 	1
+strategy	ctas  five 	1
+person	ct pemberton	1
+approach	ct angiography	1
+approach	ctb	1
+approach	ctt	1
+alternative	ct scanning with contrast agent	1
+agency	ctivities relief agency	1
+agency	ct dep	1
+agency	ctc holidays	1
+agency	ct works	1
+object	ctas	1
+object	ct exam	1
+course	cte advanced placement course	1
+course	ctg course	1
+mechanism	cta truncation	1
+mechanism	ctm	1
+solution	ctd tow-yos	1
+solution	ctm	1
+feature	cttp live	2
+feature	ctcp	1
+feature	ctcp cloaking	1
+feature	ctia gain	1
+feature	cts standard package	1
+procedure	ct scan	25
+procedure	ct	12
+procedure	ct angiography	2
+procedure	ct scanning	1
+procedure	ct-guided percutaneous procedure	1
+procedure	ct colongraphy	1
+procedure	ct-guided interventional procedure	1
+school	ctc wings	1
+practice	ctf	1
+title	cto	3
+operation	ct mission	1
+operation	ct ratio	1
+operation	ctcmon	1
+agent	ctx	2
+agent	ct contrast agent	1
+agent	ctbn rubber	1
+feature	ct density	1
+development	ct angiography	2
+development	ct scanning	2
+firm	cts	3
+firm	ctp stationery	2
+firm	ctx information firm	1
+requirement	ctr requirement	1
+job	ct prison	1
+drug	ctz	1
+drug	ctx	1
+test	ct scan	168
+test	ct	93
+test	ct scanning	6
+test	ct-scans	3
+test	ct brain	3
+test	ctbs	2
+test	ct angiography	2
+test	ct's	2
+test	ct angiogram	1
+indicator	ctr	1
+favorite	ctf	1
+instrument	ct scanner	3
+instrument	ctd	1
+attribute	ctp various attribute	1
+setting	ctcss tone	1
+setting	ct value	1
+compound	ctab	2
+study	ct	18
+study	ct scan	13
+study	ct angiography	2
+study	ct abdomen for pain	1
+study	ct scanning	1
+study	ct cisternography	1
+study	ct splenoportography	1
+position	cto	4
+position	cte tech assistant	2
+figure	ctesibius	1
+figure	ctl one  booker t 	1
+equipment	ct	5
+equipment	ct scanner	2
+equipment	ctg machine	1
+equipment	ct fourty  engineering systems apparats 	1
+unit	ctm group	1
+policy	ctc's no threshold' threat reporting policy	1
+entity	cthulu	1
+entity	cthulhu	1
+building	ctk chapel	1
+expert	cto of count erpane	1
+feature	cts performan	1
+feature	ct angiogram signor air bronchogramsin solitary nodule	1
+feature	ctcss	1
+feature	ct sixty  compatibility 	1
+region	ctcf binding	1
+variety	ct-california pinkeye	1
+Organisations	ct technology	1
+partner	ctv	1
+big name	cthulhu	1
+standard	ct two 	1
+classic	ctf	1
+piece	ct seventy  frame 	1
+show	ctia wireless	2
+show	ctv's first story	1
+advanced feature	ctcss operation	1
+role	cto	1
+role	cto s	1
+sector	ctv	1
+store	ct gas bar	1
+customer	ctm in macau	1
+customer	ct three 	1
+customer	ct communications	1
+vehicle	cts-v sedan	1
+vehicle	cts sedan	1
+vehicle	cts wagon	1
+vehicle	cts-v	1
+vehicle	cts sports sedan	1
+vehicle	cts coupe	1
+vehicle	ctc coupe	1
+vehicle	ctx wagon	1
+opportunity	ct nofa cookbook	1
+label	ctc	1
+value	ct one 	1
+value	ct two 	1
+step	ct technology	1
+designer	cta glam couture	1
+award	ctaa's system of the year award	1
+capability	ct scanner	1
+module	ct- one 	1
+provider	ctv	1
+trait	ctla- four  control common immunity trait 	1
+report	ct scan	1
+report	ctt outcome	1
+party	ctia	1
+protein	ctla- four 	2
+protein	ctip	1
+protein	ctrp	1
+machine	ct scanner	3
+competitor	cts-v	1
+trend	ctp flexo	1
+stakeholder	cti	1
+issue	cta service	1
+issue	ctv codes of practice	1
+festival	ctm berlin	1
+language	ctl	1
+image	ct	10
+image	ct scan	3
+image	ct image	1
+record	ct imaging	1
+channel	ctv	4
+channel	ctv hd	1
+channel	ctn	1
+channel	cts	1
+therapy	ctca's nutritional and complementary therapy	1
+therapy	ctla- four  antibody 	1
+touch	cthulhu logos in the corner	1
+car	cts-v	3
+car	cts	3
+driver	ctca	1
+statistic	ctr	1
+issue	ctbt	1
+issue	cta discounted affair for neiu student	1
+issue	ct accuracy	1
+track	cthulhu sleeps	1
+fish	ctenolabrus rupestris	1
+supplier	cta automation technology	1
+error	cts being held low	1
+scientist	ctesibius	2
+hazard	ct-induced second malignancy	1
+domain	ct	3
+modification	ctr incarequires post-translational modification	1
+modification	ctrl-c	1
+committee	ct invasive plant working group	1
+molecule	ctla four 	1
+organism	ctenopharyngodon mella	1
+organism	ctenopharyngodon idella	1
+medical condition	cteph-predisposing medical condition	1
+association	ctt	1
+association	ctia	1
+sensor	ct two 	1
+sensor	cts s three 	1
+sensor	ctd unit	1
+sensor	ct s two 	1
+network	ctv	5
+station	ctv	2
+medium	ctv	1
+mode	ctf	4
+mode	ctr	2
+apps	cti	1
+personality	ctv toronto's popular new personality	1
+personality	ctv toronto on-air personality	1
+stock	ctv tolerant root stock	1
+account	ctp printers	1
+support service	ctvtom web design	1
+large company	ctv	1
+factor	ctcf	2
+factor	ct attenuation	1
+factor	ct score	1
+modalities	ct	54
+modalities	ct imaging modalities	3
+modalities	ct scanning	2
+modalities	ct angiography	1
+signal	ctrl-c	1
+signal	ctr	1
+gene	ctla four 	5
+gene	ctnnb one 	2
+gene	ctgf	2
+gene	ctsb	2
+gene	ctsd	1
+creature	cthulu	1
+creature	cthulhu	1
+popular brand	ct racing	1
+segment	ctv	1
+centre	ctc in lower roxbury	1
+disadvantage	ct contrast agents side effect	1
+industry leader	ct engineering	1
+industry leader	ct logistics	1
+traditional method	ctrl-z	1
+advanced topic	ct perfusion	1
+index	ct scanning on infarcted volume	1
+specification	ctr	1
+outlet	ctv news	1
+outlet	ctv	1
+regulation	ctu guideline	1
+enterprise	ctc chile	1
+marker	ctla- four 	6
+command	ctrl-n for a new file	1
+command	ctrl-s for save	1
+command	ctrl-p for print	1
+specific	ctr	1
+practical issue	ct radiation	1
+aircraft	ct two k 	1
+aircraft	ct- four 	1
+photographer	ct myers	1
+international organization	cta	1
+advanced technique	ct scan	3
+advanced technology	ct scanning equipment	1
+advanced technology	ct angiography	1
+advanced technology	ct scan	1
+advanced technology	ct-scan	1
+number	ct one hundred and one 	1
+level	ct at el-maziz	1
+inhibitor	ctd kinase inhibitor	1
+coach	ctt	1
+invention	ct scanner	1
+advance	ct planning	1
+item	cts	5
+configuration	cts coupe	1
+national organization	cti centre	1
+conventional method	ct	3
+technological advance	ct scan	1
+board	ct parent power	1
+meeting	cte's mea information sessions	1
+community activity	ct girl scouts	1
+fuel	ctl	2
+campaign	cthulhu invictus	1
+reagent	ctab	2
+obstruction	ct mounting base support bracket	1
+member	ctv committee member	1
+version	ctitrate	1
+investigation	ct	26
+investigation	ct scan	19
+investigation	ct scanning	3
+investigation	ct imaging	1
+certification	ctrn	1
+imaging technique	ct	130
+imaging technique	ct scan	48
+imaging technique	ct scanning	11
+imaging technique	ct angiography	2
+imaging technique	ct fluoroscopy	1
+imaging technique	ct perfusion	1
+imaging technique	ct scanner	1
+optional feature	ctcss	1
+item	ct scanner	1
+item	ctx projector	1
+medium outlet	ctv	3
+medium outlet	cti news	1
+medium outlet	ctv news	1
+medium outlet	ctv's canada am	1
+key element	ctc workshop	1
+gift item	ctrc ornament	1
+taxa	ctenosaura	1
+taxa	ctenophora	1
+info	ctr	1
+funding source	ctib regional fund	1
+key stakeholder	cto	1
+community service	ct job service	2
+community service	ctrc	1
+testing	ct scan	13
+testing	ct chest & abd	1
+testing	ct heart scanning	1
+testing	ct scanning	1
+map	ctf map	1
+map	ctf-eternal caves	1
+map	ct map	1
+heading	ctons of nigger jokes d	1
+controversial issue	ctbt	1
+medical device	ct machine	1
+medical device	ct	1
+diagnostic test	ct scan	39
+diagnostic test	ct	18
+diagnostic test	ct scanning	2
+diagnostic test	ctguided transthoracic biopsy	1
+local factor	ctgf	2
+latest technology	ct scan	1
+contractor	ctsd	1
+modern technology	ct planning	4
+modern technology	ct scan	2
+modern technology	ct scanning	1
+communication system	cti middleware	1
+chapter	ct valley	1
+online tool	cte online tool	1
+item	ctr tracking software	1
+item	cts to self	1
+training program	ctc's marathon	1
+institute	ctba	1
+creation	ctesibius hydraulis	1
+creation	cthulhu	1
+creation	ctrip venture creation	1
+regular event	ctf	1
+industry group	ctia-the wireless association	1
+industry group	ctia	1
+mod	ctf	1
+mod	ct map mod	1
+tournament	ct spirit	1
+tournament	ct storm	1
+tournament	ct bandits	1
+capacity	cto at covisible solutions anddirector of systems architecture at vitesse semiconductor	1
+specialist service	ct scan	1
+key parameter	ctp curve	1
+plastic	ctfe	1
+peripheral device	ctx winadmin maintenance pcs	2
+comment	ctfgje watch movies online sddjegv every single day	1
+invasive procedure	ct-guided biopsy	3
+invasive procedure	ct-guided needle biopsy	1
+gem	cthulhu	1
+material property	cte	4
+loan	ct felp	2
+hydrocarbon	ctfe	1
+success story	ctas	1
+structural feature	cterminal homopexin-like domain	1
+growth factor	ctgf	2
+diagnostic tool	ct scan	11
+diagnostic tool	ct	6
+diagnostic tool	ct scanning	3
+diagnostic tool	ct imaging	1
+diagnostic tool	ct scanner	1
+diagnostic tool	ct-guided percutaneous lung biopsy	1
+assessment tool	ct scanning	1
+clinical parameter	ct appearance	1
+modern technique	ct's	1
+modern technique	ct scan	1
+laboratory test	ct scan	1
+performance accessory	cts performance accessory	1
+camp	cty	3
+operating parameter	ctcss frequency	1
+government initiative	ctsa	1
+datum set	ct	1
+replacement part	ct tube & radiographic replacement	1
+experimental condition	ctab concentration	1
+exhibition	ctrl at the zkm in germany	1
+reptile	ctenosaur lizards	1
+reputable company	ct homes	1
+medical procedure	ct scan	10
+medical procedure	ct scan of the head	1
+medical procedure	ct procedure	1
+medical service	ct scan	5
+receptor	ctla- four 	2
+belief	ct russell's pyramidology measurement	1
+area	ct imaging	3
+area	ct	2
+imaging modalities	ct	176
+imaging modalities	ct scanning	6
+imaging modalities	ct scan	4
+imaging modalities	ctandmr imaging	1
+imaging modalities	ct angiography	1
+key	ctrl	19
+key	ctrl-alt-delete	1
+key	ctrl key	1
+cable	ct one hundred 	3
+examination	ct	7
+examination	ct scan	3
+examination	ct angiography	3
+examination	ct portography	1
+examination	ct of the pelvis	1
+examination	ct imaging of peripheral vessel	1
+service area	ct	1
+proponent	ctw investment group	1
+diagnostic procedure	ct scan	13
+diagnostic procedure	ct	7
+diagnostic procedure	ct-scan	1
+diagnostic procedure	ct scanning	1
+diagnostic procedure	ctof the abdomen	1
+sophisticated technique	ct	1
+emergency service	ct	1
+public agency	ct dcf	1
+surfactants	ctab	5
+surfactants	ct ab	2
+legume	ct-containing pasture legume	1
+file type	ct scan	1
+continuous variable	ctc count	1
+subgroup	cter student	1
+standard technique	ct	2
+broadcaster	ctv	9
+broadcaster	ctvglobemedia	1
+key performance indicator	ctr	1
+regime	ctbt	1
+service company	ct corporation	1
+area	ct scanning	1
+area	ctv	1
+outreach program	cty connect	1
+drive	ct's sp	1
+vocalist	ct martin	1
+computer system	ctss	1
+protective device	cts	1
+hub	ctnnb one 	2
+medium company	ctv	2
+content provider	ctv	1
+appointment	cto in the new administration	1
+exam	ct scan	4
+exam	ct seven 	1
+exam	ct six 	1
+exam	ct virtual colonography	1
+exam	ct	1
+exam	cta runoff exam	1
+exam	ct's with iv contrast	1
+exam	ct one 	1
+game mode	ctf	6
+diagnostic technique	ct	9
+diagnostic technique	ct scan	2
+treaty	ctbt	3
+screening test	ct scan	1
+handy feature	ctcss tone scanning	1
+critical parameter	ct ratio	1
+common service	ct scanning	1
+government entity	ct minimum wage county	1
+diagnostic method	ct	5
+diagnostic method	ct scan	2
+great game	ctf	1
+international agreement	ctbt	2
+auxiliary device	cts	1
+standard function	ctrl-x for cut	1
+standard function	ctrl-v for paste	1
+food additive	ctric acid	3
+vector	ctenocephalides felis	1
+carnivore	ctenophora	1
+complex case	ct angiograms	1
+good brand	cts	1
+modern tool	ct scanning	1
+modern tool	ct imaging	1
+imaging method	ct	31
+imaging method	ct scan	10
+imaging method	ct scanning	3
+imaging method	ct angiography	1
+imaging study	ct	116
+imaging study	ct scan	80
+imaging study	ct scanning	11
+innovative solution	cts pots	2
+innovative solution	cts potentiometers	1
+industry heavyweight	ctv	1
+notable name	ctv personality mike duffy	1
+invasive technique	ct cisternography	1
+minor procedure	ct scan	1
+string	ct	1
+state institution	ctb	3
+imaging device	ct	7
+imaging device	ct scan	5
+imaging device	ct scanner	3
+routine procedure	ct scan	2
+complementary therapy	ctca's nutritional and complementary therapy	1
+detergent	ctab	2
+state-of-the-art technology	ct	1
+standardized test	ctbs	3
+standardized test	ctb	1
+standardized test	ctbs test	1
+datasets	ct datum	1
+evil	cthulhu	1
+sophisticated tool	ct	1
+sophisticated tool	ct scanning	1
+patient information	ct scan	1
+service	ct scan	7
+service	ct	5
+evaluation	ct scan	2
+scanner	ct scanner	1
+measurement technique	ctt	1
+imaging technology	ct	13
+imaging technology	ct scanning	3
+imaging technology	ct scan	3
+imaging technology	ct scanner	1
+imaging technology	ct-scan	1
+key -metric	ctr	1
+roadway	ct arterial roadway	1
+roadway	cth ce	1
+medical equipment	ct	1
+medical equipment	ct scan machine	1
+trial	ctn smoking	2
+prominent company	ctx mortgage	2
+cutting-edge technology	ct	1
+modern method	ct	2
+trade show	ctia mobile phone extravaganza	1
+clinical situation	ct angiograms	2
+illustration	ctmri image	1
+trade organization	ctia	1
+consumer group	ctn	1
+lab test	ct scan	2
+medium organization	ctv	1
+digital technology	ct	1
+pharmaceutical product	ct imaging procedure	2
+comprehensive service	ct	3
+menu option	ctr	1
+interactive service	ctm	1
+monitor	ctx pr five hundred 	1
+physical evidence	ct scan	2
+imaging system	ct	5
+monitoring device	cts	1
+pressure group	ctu	1
+service	ctm online	2
+service	cti manager	2
+service	ct scans in radiology for lung cancer screening	1
+service	ct scans using a  sixteen -slice ct scanner 	1
+service	ct imaging	1
+service	ct pharmacy unit	1
+service	cti solution	1
+service	ct extractions unit	1
+service	ct-scans	1
+Party Equipment Rental s	ct foam machine rental	1
+diagnostic testing	ct scan	7
+diagnostic testing	ct	5
+mutation	ctnnb one  gene mutation 	2
+physical device	ctp device	1
+common operation	ctrl-alt-del	1
+decision maker	cto	1
+common procedure	ct scan	1
+successful project	ct	1
+recording device	ctg technique	1
+telecommunication service	cti-based telecommunication service	1
+diagnostic service	ct scan	9
+diagnostic service	ct	3
+outpatient service	ct	2
+standard test	ct scan	2
+advanced procedure	ct scanning	1
+control signal	cts signal	1
+gateway	cti centre for history	1
+electrical part	ctek battery charger	1
+core course	ctp poetry	1
+reputed company	cts	1
+service	cti-based telecommunication service	1
+service	cti's datum processing service	1
+service	cto web.com	1
+service	ctv newsnet	1
+imaging	ct	23
+imaging	ct scan	6
+imaging	ct scanning	1
+imaging	ct coronary angiography	1
+quality factor	ctq	1
+committee member	ctv committee member	1
+medical test	ct scan	4
+medical test	ct	1
+big organization	cts	1
+international treaty	ctbt	1
+image datum	ct	1
+image datum	ct gray scale datum	1
+image datum	ct scan	1
+lotion	ct dark butter	1
+non-invasive technique	ct angiography	2
+non-invasive technique	ct	2
+diagnostic study	ct scan	12
+diagnostic study	ct	3
+diagnostic study	ct scanning	3
+television network	ctv	2
+RPGs	cthulhu	1
+modern equipment	ct scan	1
+routine test	ct scan	1
+shortcut	ctrl c	1
+screening method	ct	1
+television station	ctv	1
+advanced equipment	ct scanner	1
+visual information	ct scans of the patient's brain	1
+professional designation	ctfa	1
+programming tool	ctags	1
+imaging procedure	ct	24
+imaging procedure	ct scan	11
+imaging procedure	ct scanning	1
+interventional procedure	ct	1
+interventional procedure	ct guided lung biopsy	1
+interventional procedure	ct-guided interventional procedure	1
+test result	ctvalues	1
+test result	ct scan	1
+clinical application	ct cardiac analysis	1
+clinical application	ct-examinations of the heart	1
+non-invasive method	ct	4
+non-invasive method	ct scanning	1
+noninvasive technique	ct	4
+noninvasive technique	ct angiography	1
+service	ctps	1
+service	ct heart scan	1
+service	ct scanning	1
+digital system	ct- two 	1
+digital system	ct scanner	1
+surfactant	ctab	1
+unstructured datum	ct scan	2
+contrast agent	ct contrast agent	1
+diagnostic modalities	ct	16
+diagnostic modalities	ct angiography	2
+diagnostic modalities	ct-scan	1
+diagnostic modalities	ct scanning	1
+sensitive technique	ct	1
+community-based program	ctc	1
+imaging application	ct imaging application	1
+oxidizer	cti's osr	1
+interior part	cts pot	1
+advanced degree	ctfa	1
+biological datum	ct	1
+complicated procedure	ct scan	1
+information provider	ctos credit reporting agency	1
+member company	ctc	1
+sophisticated system	ctas trajectory synthesis process	1
+transistor	ct transistor	1
+medical technology	ct	1
+medical technology	ct scanning	1
+advanced imaging technique	ct	20
+advanced imaging technique	ct angiography	3
+advanced imaging technique	ct scanning	2
+advanced imaging technique	ct scan	1
+advanced imaging technique	ct-scans	1
+time-saving feature	cti compatibility	1
+large infrastructure project	ctrl	1
+great scholar	ctesibius	2
+emergency procedure	ct scan	1
+trading partner	ctm	1
+ancillary test	ct	2
+ancillary test	ct scan	1
+ancillary test	ct chest	1
+ancillary test	ct of the paranasal sinus	1
+medical instrument	ct	1
+thermal property	cte	2
+topic	ct scan	2
+topic	ction in the treatment	1
+topic	ctd profilers	1
+topic	ct district	1
+medium event	ctia wireless	1
+fleet	ct transit	1
+information tool	cti website	1
+information tool	ctas	1
+clone	ctx-m- fifteen -producing o twenty-five b-st one hundred and thirty-one  clone 	1
+TV station	ctv	2
+TV station	ctn	1
+non-invasive procedure	ct scan	2
+support document	cte certification chart	1
+technological breakthrough	ct scan	1
+car model	cts	1
+noninvasive method	ct	5
+noninvasive method	ct angiography	1
+post-translational modification	ctr incarequires post-translational modification	1
+medical record	ct scan	1
+medical record	ct-scans	1
+online school	ctu online	1
+angiogenic factor	ctgf	1
+established method	ct	1
+imaging tool	ct	6
+imaging tool	ct scan	2
+monitoring technique	ct	2
+proteolytic enzyme	ctsk	1
+video site	ctv	1
+relief agency	ctivities relief agency	1
+state-of-the-art technique	ct angiography	1
+suffix	ct.	1
+advanced device	ct	1
+consumer organization	ctn	1
+aid organization	ctb	1
+library function	ctype library function	1
+caterpillar	ctenucha virginica	1
+laboratory service	ct scan	1
+business task	ctr creation	1
+regulatory protein	ctcf	1
+clinical procedure	ct angiography exam	1
+kinase inhibitor	ctd kinase inhibitor	1
+logic	ctl	2
+non-invasive test	ct scan	1
+travel agent	ctc holidays	1
+investigative technique	ct	1
+treatment procedure	ct	1
+noninvasive test	ct	3
+noninvasive test	ct colonoscopy	1
+noninvasive test	ct with contrast mater ial administerediv	1
+chemotherapeutic drug	ctx	2
+network operator	ctn	2
+team game	ctf	1
+team game	ctr	1
+improved technology	ct scan	2
+local station	ctv	1
+objective test	ct scan	2
+medical system	ct	1
+medical system	ct scanner	1
+renowned organization	cts	1
+objective parameter	ct number of water	1
+processing service	cti's datum processing service	1
+classical writer	ctesias	1
+medical datum	ct scans	2
+scan	ct	18
+scan	ct scan	9
+gameplay mode	ctf	1
+web-based technology	ctms	1
+bacterial toxin	ctb	1
+cytotoxic drug	ctx	1
+medium partner	ctv	1
+travel website	ctrip china for a tourist advertisement	1
+automation tool	ctas arrival manager	1
+multiplayer mode	ctf	3
+national conference	ctia	1
+technical procedure	ct scan	1
+expensive method	ct scanning	1
+modern imaging technique	ct	11
+modern imaging technique	ct scan	2
+modern imaging technique	ct scanning	2
+modern imaging technique	ct discography	1
+MRI technique	ct	1
+objective method	ct	1
+scientific application	ct scanner	2
+topic	ct scanning	1
+common test	ct scan	2
+india tv channel	ctv telugu	2
+india tv channel	ctv	1
+candidate gene	ctsc	2
+screening technique	ct	1
+medium site	ct mirror	1
+accurate method	ct	1
+medical imaging technique	ct	6
+medical imaging technique	ct scan	3
+news program	ctv news	2
+testing equipment	ct scan	1
+sigma tool	ctq tree	2
+physical and mechanical property	ctl surface energy	1
+training service	ct	1
+visual method	ct	1
+hybrid system	ct  two hundred h 	1
+imaging service	ct scan	10
+imaging service	ct	2
+imaging service	ct scanning	1
+mechanical test	ctod	1
+diagnostic technology	ct scan	2
+diagnostic technology	ct	1
+expansion	cthullu	1
+expensive service	ct scan	1
+hybrid model	ct hatchback	1
+surface marker	ctla- four 	2
+conventional test	ct scan	1
+modality	ct	4
+exotic fish	ctenopharyngodon idella	1
+function key	ctrl	1
+medical image	ct	7
+medical image	ct scan	3
+medical image	ct angiography of the circle of willis	1
+medical image	ct datasets	1
+company	cts	13
+company	ctv	2
+household survey	cts	1
+france tv channel	ct two e tv 	1
+conventional instrument	ctd	1
+expensive technology	ct	1
+greek writer	ctesias	1
+medical imaging system	ct	6
+medical imaging system	ct scanner	3
+noninvasive procedure	ct scan	1
+cell surface molecule	ctla- four 	1
+local non-profits	ctmc hospice	1
+cutting-edge topic	ct angiography	2
+Diagnostic imaging	ct	12
+Diagnostic imaging	ct scan	7
+invasive approach	ct coronary angiography	1
+medical imaging modalities	ct	10
+medical imaging modalities	ct scanning	1
+medical imaging modalities	ct-scans	1
+quaternary ammonium compound	ct ab	1
+senior management position	cto	1
+cutting edge technology	ct	1
+investigative tool	ct	1
+neuroimaging technique	ct	8
+neuroimaging technique	ct scanning	1
+noninvasive imaging technique	ct	5
+noninvasive imaging technique	ct angiography	2
+noninvasive imaging technique	ct scan	1
+transmembrane protein	ctla- four 	1
+medical technique	ct	1
+state-of-the-art equipment	ct scan	1
+combination therapy	ctx with mem	3
+invasive diagnostic procedure	ct-guided needle biopsy	1
+phylum	ctenophora	1
+non-invasive imaging technique	ct	3
+non-invasive imaging technique	ct pulmonary angiography	1
+non-invasive imaging technique	ct angiography	1
+orgs	ctba	1
+radiographic study	ct scan	4
+radiographic study	ct	3
+radiographic study	ct scanning	1
+radiographic study	ct of the skull base with three-dimensional reconstruction	1
+affluent community	ct	1
+company	ctc aviation	1
+company	ctg healthcare solutions	1
+company	ctb-mcgraw hill	1
+company	ctia	1
+company	ctm racing products	1
+digital image	ct	3
+digital image	ct scan	2
+reliable method	ct	1
+sophisticated test	ct scanning	1
+sophisticated test	ct	1
+underwriter	ctic	1
+forensic technique	ct scanning	1
+ancient author	ctesias	1
+ancillary study	ct scanning	1
+complicated technique	ct scan	1
+china tv channel	cts	1
+mainstream medium	ctv	1
+medical report	ct scan	1
+methodological limitation	ctc toxicity	1
+mortgage company	ctx	1
+diagnostic imaging technique	ct scan	1
+diagnostic imaging technique	ct	1
+diagnostic imaging technique	ct scanning	1
+diagnostic measure	ct	1
+diagnostic measure	ct scan	1
+diver	ctd stainless steel diver	1
+imaging apparatuses	ct apparatus	1
+imaging apparatuses	ct scanner	1
+well-established program	ctc wings	1
+well-established program	ctc flexicrew	1
+sensitive test	ct scan	1
+local medium	ctv	1
+precise method	ct scanning	1
+process fluid	ctp developer	1
+brain imaging technique	ct scan	4
+brain imaging technique	ct	2
+company	ct consultants	1
+company	ctrl systems	1
+company	cts intl near pvd airport in rhode island	1
+formal language	ctl	1
+hearing	ctm	1
+political commentator	ctv's craig oliver	3
+radiological technique	ct	3
+radiological technique	ct scanning	1
+radiological technique	ct scan	1
+radiological technique	ct angiography	1
+structural technique	ct	1
+Ancillary testing	ct	2
+automation system	ctas	3
+Cationic surfactants	ctab	3
+Cationic surfactants	ct ah	1
+Cationic surfactants	ct ab	1
+conventional imaging technique	ct	10
+conventional imaging technique	ct scanning	1
+impervious area	ct road	1
+prestige project	ctrl	1
+top-ranked manufacturer	cta manufacturing	1
+Conventional imaging modalities	ct	19
+Conventional imaging modalities	ct andmri	1
+ionic surfactants	ctab	1
+radiographic technique	ct	1
+radiographic technique	ct scan	1
+radiology service	ct scan	6
+radiology service	ct	1
+tradeshows	ctia in san diego	1
+activation marker	ctla- four 	1
+advanced placement course	cte advanced placement course	1
+costimulatory molecule	ctla- four 	1
+costly procedure	ct imaging	1
+diagnostic system	ct lung perfusion	1
+imaging exam	ct scan	3
+imaging exam	ct	1
+large-ticket item	ct scanners	1
+radiological investigation	ct	6
+radiological investigation	ct scanning	1
+scanning technique	ct	2
+transport project	ct-operated individual passenger transport project	1
+Advanced imaging	ct	32
+Advanced imaging	ct scan	6
+complex test	ct	1
+clinical method	ct	2
+diagnostic equipment	ct scan	1
+diagnostic equipment	ct scanner	1
+diagnostic equipment	ct specification	1
+image type	ct	1
+national TV show	cthe tonight show with jay leno	1
+sophisticated imaging technique	ct	5
+sophisticated imaging technique	ct scanning	2
+structural product	ctd bar	1
+bandwidth-hungry application	ct scanner	1
+activity	ctc's open house initiate contact with student	1
+diagnostic facility	ct scan	1
+mass transit system	cta bus	1
+news station	ctv	3
+offspring	ct	1
+radiologic study	ct scan	4
+radiologic study	ct scanning	3
+radiologic study	ct	2
+medical examination	ct scan	1
+Medical imaging	ct	10
+Medical imaging	ct scan	2
+missing datum	ct report	1
+radiological study	ct scan	7
+radiological study	ct	7
+standard mode	ctf	1
+diagnostic exam	ct	2
+diagnostic exam	ct-scan of the head	1
+diagnostic imaging modalities	ct	6
+functional molecule	ctla- four 	1
+advanced imaging technology	ct	2
+advanced imaging technology	ct scan	1
+arterial roadway	ct arterial roadway	1
+datum processing service	cti's datum processing service	1
+diagnostic imaging service	ct scan	5
+diagnostic imaging service	ct	4
+medical imaging device	ct	3
+medical imaging device	ct scanner	2
+nondestructive test	ct scanning	1
+Noninvasive imaging modalities	ct	1
+radiographic procedure	ct scans	3
+sophisticated procedure	ct scan	1
+transit project	cta's circle line	1
+broadcasting company	ctv	1
+effector molecule	ctl granule protein	2
+expensive technique	ct scanning offer	1
+renowned music festival	ct's own gathering of the vibes	1
+basic material property	cte	1
+checkpoint	ctla- four 	1
+diagnostic investigation	ct scan	1
+great car	cts	1
+national test	ctbs	1
+noninvasive study	ct	3
+noninvasive study	ct scan	1
+online degree program	cter program at the university of illinois	1
+factor	cte	1
+surface protein	ctla- four 	1
+telephony device	cti port	1
+diagnostic imaging study	ct	4
+examination technique	ct tomography	1
+examination technique	ct scan	1
+hungary tv channel	ctv cegled	1
+imaging equipment	ct	5
+imaging equipment	ct scanner	5
+imaging equipment	ct scanning	1
+invasive study	ct	1
+popular shop	ctc shop	1
+tumor model	ct twenty-six  colon carcinoma 	1
+advanced -diagnostic	ct	2
+co-stimulatory molecule	ctla- four 	3
+diagnostic product	ct	1
+gametypes	ctf	6
+imaging examination	ct	3
+imaging examination	ct angiography	1
+imaging examination	ct scanning	1
+noninvasive modalities	ct	3
+physical examination	ct	1
+radiologic technique	ct	2
+radiologic technique	ct angiography	1
+respected writer	ctesias	1
+routine medical procedure	ct scan	5
+telecommunication carrier	ctc communications corp.	1
+advanced study	ct scan	1
+development stage	ctep protocol review	1
+development stage	ctep concept review	1
+navigation device	ct-integrated robot	1
+nongovernmental entity	ctic in the united states	1
+public transportation option	cta bus	1
+radiological procedure	ct	2
+specialist supplier	ctr lasers	1
+sub-units	ctio	1
+Advanced imaging modalities	ct	16
+Advanced imaging modalities	ct-scan	1
+ancillary investigation	ct scan	3
+brain imaging study	ct	3
+brain imaging study	ct scan	2
+brain imaging study	ct-scan	1
+continuous improvement tool	ctq	1
+diagnostic examination	ct scan	1
+diagnostic examination	ct	1
+diagnostic imaging test	ct scan	5
+diagnostic imaging test	ct	2
+examination method	ct	1
+examination method	ct scan	1
+good organization	ctu	1
+high-tech item	ct scanner	1
+large initiative	ctsa grant	1
+large medium outlet	ctv	1
+medical imaging application	ct scanning	1
+medical imaging technology	ct	4
+neuroimaging study	ct	8
+neuroimaging study	ct scanning	1
+neuroimaging study	ct scan	1
+primitive organism	ctenophora	3
+shortcut key	ctrl-c	1
+shortcut key	ctrl-n	1
+shortcut key	ctrl-o	1
+shortcut key	ctrl-v	1
+color image	ct	1
+datum acquisition device	ct	1
+activity	cti awards program	1
+fracture parameter	ctod	1
+greek historian	ctesias	4
+medical testing	ct scan	1
+top ranking company	cts	1
+advanced diagnostic technique	ct scan	1
+brain imaging method	ct	1
+brain imaging method	ct andmri	1
+copepods	ctenophore pleurobrachia	1
+cross-sectional imaging technique	ct	16
+cross-sectional imaging technique	ct scanning	1
+exciting concept	ctec coaching process	1
+high resolution technique	ct	1
+mythical being	cthulu	1
+noninvasive imaging	ct angiography	2
+noninvasive imaging	ct	2
+percutaneous procedure	ct-guided percutaneous procedure	1
+routine method	ct	1
+traditional diagnostic technique	ct scan	2
+award-winning show	ctv's corner gas	1
+digital imaging system	ct	1
+famous computer company	ctx	1
+high-end technology	ct	2
+image input device	ct apparatus	1
+currently available technique	ct	1
+imaging modality	ct	4
+non invasive method	ct	1
+Noninvasive testing	ct scan	1
+powerful machine	ct	1
+screening modalities	ct	2
+screening modalities	ctc	1
+screening modalities	ct scanning	1
+standard imaging technique	ct	3
+standard imaging technique	ct scan	1
+susceptibility gene	ctla- four  gene on chromosome  two q thirty-three 	1
+information	ctec course title	2
+information	ctd guidance information	1
+clinical investigation	ct scan	1
+Conventional imaging	ct scan	2
+Conventional imaging	ct	2
+diagnostic capability	ct scan	1
+global agreement	ctbt	4
+high tech tool	ct scan	1
+high-resolution imaging technique	ct	1
+imaging scan	ct	8
+imaging scan	ct scan	6
+modern diagnostic tool	ct	1
+modern diagnostic tool	ct scan technology	1
+ODS	ctc	2
+3D imaging technique	ct	1
+advanced modalities	ct	1
+control key	ctrl	1
+design property	cte	1
+hot favorite	ct fries	1
+imaging machine	ct	3
+invasive imaging technique	ct	2
+invasive imaging technique	ct angiography	1
+modifier key	ctrl	4
+non-invasive imaging	ct	1
+non-invasive imaging	ct scanning	1
+Non-invasive imaging modalities	ct	6
+rolled product	ctd bar	1
+strong detergent	ctab	1
+traditional imaging technique	ct	4
+traditional testing method	ct scan	1
+work-related injury	cts	1
+zero-sum game	ctf	1
+complementary investigation	ct	1
+conversion function	ct od	1
+pasture legume	ct-containing pasture legume	1
+radiological examination	ct scan	2
+radiological examination	ct	2
+supplier company	cts cartopsystems	1
+bone marker	ctx	1
+Brain imaging	ct	1
+information	ct ratio	1
+information	ct datasets	1
+information	ctr	1
+information	cta posture plugin return information	1
+conventional diagnostic technique	ct scanning	1
+diagnostic imaging procedure	ct scan	13
+immunotherapies	ctla four 	3
+invasive technology	ct scanning	1
+keystroke	ctrl	2
+keystroke	ctrl p	1
+marketing -metric	ctr	1
+medical breakthrough	ct scan	1
+professional tournament	ctca champions tennis series	2
+professional tournament	ctca champions series	1
+radiographic examination	ct	2
+radiological method	ct	2
+standard diagnostic test	ct	1
+thermo-mechanical property	cte	2
+tomographic technique	ct	3
+best part	cts pots	2
+brain imaging technology	ct scan	1
+brain scan	ct	6
+brain scan	ct scan	1
+brain scan	ct-scans	1
+cinematic classic	cthulhu	1
+common law state	ct	1
+complicated test	ct scan	1
+detailed investigation	ct brain	1
+digital modalities	ct	5
+highest quality part	cts potentiometers	2
+imaging investigation	ct	1
+improved imaging technique	ct scanning	1
+non-invasive diagnostic technique	ct	2
+noninvasive imaging method	ct scan	1
+non-invasive technology	ct angiography	1
+signalling system	ctcss	1
+standardized test result	ctbs	1
+suppressor	ctla four 	2
+calming measure	ctraffic calming measure	1
+conventional diagnostic procedure	ct	1
+Cross-sectional imaging modalities	ct	13
+CT parameter	ct number accuracy	1
+CT parameter	ct number uniformity	1
+diagnostic imaging method	ct	2
+diagnostic imaging method	ct scanning	1
+diagnostic imaging technology	ct	1
+high-end equipment	ct	1
+key material property	cte	1
+mental health provider	ctss	1
+noninvasive imaging study	ct	2
+noninvasive imaging study	ct angiography	1
+event	ctd	2
+event	ctf	1
+event	ctrl-c	1
+event	ctf report	1
+radiologic procedure	ct	2
+radiologic procedure	ct scan	1
+radiological modalities	ct	3
+radiological test	ct	1
+sophisticated diagnostic tool	ct scanner	1
+station group	ctv	1
+Utilizing modalities	ct	1
+x-ray test	ct scan	2
+cadillac car	cts-v	1
+conventional imaging method	ct	8
+conventional imaging method	ct-scans	1
+conventional imaging method	ct scanning	1
+groundwater contaminant	ct	1
+hand injury	cts	1
+inhibitory molecule	ctla four 	1
+keyboard shortcut	ctrl windows key	1
+medical imaging procedure	ct	3
+medical imaging procedure	ct scan	1
+medical modalities	ct	5
+opiate antagonist	ctop diprenorphine	1
+popular connecticut city	ct	1
+private broadcaster	ctv	10
+radiologic test	ct scan	2
+radiologic test	ct	2
+radiologic test	ct scans of the liver	1
+radiology study	ct	3
+radiology study	ct scan	1
+runtime error	ctrl-c	1
+temporal logic	ctl	3
+three-dimensional imaging technique	ct	1
+traditional imaging method	ct scanning	1
+volume application	ct angiographies	1
+wholesale distributor	ct industries	1
+x-ray study	ct scan	2
+academic enrichment program	cty	1
+coreceptors	ctla- four 	1
+Cross-sectional imaging	ct	16
+Cross-sectional imaging	ct scanning	1
+diagnostic imaging system	ct imaging system	3
+diagnostic imaging system	ct	1
+engine trade product	ct sixty-four 	1
+enterotoxins	ct	1
+image modalities	ct	1
+impresario	cto of vodafone netherlands	1
+key combination	ctrl-alt-del	4
+key combination	ctrl	1
+multilateral issue	ctb	1
+non-invasive imaging method	ct	1
+noninvasive measure	ct scanning	1
+event	ct ms walk	1
+event	ctl-cognate target cell conjugation	1
+political program	ctv news power play	1
+radiology test	ct scan	3
+radiology test	ct scans of the brain	1
+rehabilitation aid	ctev splint	1
+root stock	ctv tolerant root stock	1
+screening examination	ct virtual colonoscopy	1
+telephone survey	cts	1
+time function	ctime	1
+brain-imaging technique	ct	1
+coelenterate	ctenophora	1
+common imaging technique	ct	3
+common imaging technique	ct scan	1
+Common surfactants	ctab	1
+conventional medical imaging technique	ct	1
+digital imaging	ct scan	1
+farm store	ct	1
+interrupt	ctrl-c keypress	1
+local and global company	ctg global consulting	1
+management frame	cts	1
+medical imaging test	ct	1
+medical scan	ct	3
+medical scan	ct scan	1
+motor neuron disease	cte	1
+neuro-imaging technique	ct	1
+neurological test	ct scan	1
+non-invasive imaging procedure	ct scan	2
+non-invasive imaging procedure	ct scanning	1
+non-invasive imaging technology	ct	4
+objective game	ctf	4
+preoperative imaging study	ct	2
+preoperative imaging study	ct scan	1
+preoperative imaging study	ct arterial portography	1
+radiographic imaging	ct scan	2
+snow state	ct	1
+static technique	ct	1
+Traditional testing	ct	1
+acquisition device	ct	2
+advanced imaging method	ct	1
+advanced imaging method	ct scanning	1
+advanced radiotherapy technique	ct simulation	1
+anatomic imaging technique	ct	6
+Anatomical imaging	ct	3
+comprehensive testing	ct scan	1
+conventional broadcaster	ctv	2
+conventional broadcaster	ctv television network ltd.	1
+diagnostic imaging tool	ct	1
+diagnostic intervention	ct	1
+diagnostic strategy	ct	1
+display property	ctrl-rset cms display property	1
+display property	ctrl-r set cms display property	1
+encryption mode	ctr	1
+event	ctia wireless show	1
+event	ct merchandise sale	1
+program	cty	4
+program	cti navigator	3
+program	cte	3
+program	ctiupdatemanager over the internet	3
+great keynote speaker	cto citrix	1
+imaging -diagnostic	ct	3
+industry impresario	cto of elia engineering	2
+Interveners	ctvgm	1
+medical tube	ct tube	1
+Modern imaging modalities	ct	6
+Modern imaging modalities	ct scan	1
+morphologic imaging technique	ct	8
+morphological study	ct	1
+noninvasive diagnostic tool	ct	1
+noninvasive investigation	ct	1
+non-invasive investigation	ct	1
+online discussion group	cta listserve	1
+radiographic image	ct	1
+regular check-ups	ct scan	1
+screening investigation	ct scan	1
+senior management role	cto	1
+sister state	ct	1
+traditional diagnostic test	ct	2
+x-ray	ct scan	1
+activation antigen	ctla- four 	1
+Advanced diagnostic imaging	ct	5
+Advanced diagnostic imaging	ct scan	1
+advanced diagnostic test	ct scan	1
+Anatomic imaging modalities	ct	14
+ancillary modalities	ct	1
+authorized abbreviation	ct vs. court	1
+bobcat product	ct one hundred and twenty-two  compact tractor 	1
+cadillac model	cts	1
+canadian network	ctv	3
+competing technique	ct	1
+complex imaging procedure	ct scan	1
+complex methodology	ctq	1
+control frame	cts	4
+diagnostic machine	ct scans	2
+diagnostic machine	ct	1
+diagnostic scan	ct	1
+diagnostic scan	ct scan	1
+diagnostic test result	ct-scans	1
+diagnostic test result	ct scans	1
+exclusive destination	ct	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- four 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- five 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- seven 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- two 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- six 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- one 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- three 	1
+fusion protein molecule	ctla four -fc molecule comprising a structure n- eight 	1
+glyphosate product	ct	1
+guidance technique	ct	1
+interagency group	ct technical assistance support group	1
+interventional radiology procedure	ct scan-guided biopsy	1
+medical diagnostic tool	ct scan	1
+modern medical imaging technique	ct	1
+program	cts system	1
+program	ctmp	1
+program	ctv w-five	1
+non-invasive diagnostic test	ct scan	1
+over-the-air broadcaster	ctv	1
+over-the-air broadcaster	ctvglobemedia inc.	1
+over-the-air broadcaster	ctvglobemedia	1
+polish company	ctl laser instruments	1
+preparation process	ct image study	1
+radiologic examination	ct	7
+receptor system	ct-r system	1
+representational image	ct image	1
+routine medical test	ct scan	1
+sensitive analog component	ct	1
+snippet	ctor	1
+Sophisticated imaging modalities	ct	3
+three-dimensional image	ct	2
+tomographic imaging technique	ct	1
+tropical perennial	ctenanthe	1
+user -metric	ctr	1
+web comic	ctrl-alt-del	1
+web comic	ctrl alt delete	1
+western diagnosis method	ct	1
+advanced imaging service	ct	1
+advanced imaging service	ct scan	1
+advanced imaging study	ct scanning	2
+advanced imaging study	cta with runoff	1
+Anatomic imaging	ct	2
+anatomical imaging technique	ct	1
+big broadcaster	ctn	1
+big TV network	ctv	1
+blood clotting disorder	ctor v leiden	1
+cadillac vehicle	cts	1
+cationic detergent	ctab	3
+CCD parameter	cte	1
+common diagnostic test	ct scan	1
+common modalities	ct	1
+creative performance information	ctr	1
+cross-sectional imaging study	ct	5
+cross-sectional technique	ct	5
+currently available imaging technique	ct	1
+cycle group	ctc	1
+diagnostic adjunct	ct	1
+diagnostic screening test	ct angiography	1
+expensive diagnostic test	ct scan	1
+filer	ctfc	1
+functional marker	ctla- four 	1
+GCs	ctn	1
+interactive command	ct	1
+large television network	ctv national news	1
+latest available technology	ct angiogram	1
+mechanical pulp	ctmp	1
+medical imaging scanner	ct scanner	1
+medical imaging scanner	ct	1
+program	ctcl	1
+program	cts setup	1
+Preoperative imaging modalities	ct	1
+racing accessory	ctek battery charger	1
+radiographic film	ct scans	1
+radiologic investigation	ct	2
+radiologic method	ct	1
+regional medium outlet	ctv northern ontario	1
+regional station	ctv	1
+sophisticated imaging tool	ct	1
+sophisticated imaging tool	ct scan	1
+sophisticated radiographic technique	ct scan	1
+standard imaging modalities	ct	2
+standard imaging test	ct	1
+Structural imaging	ct	2
+Structural imaging	ct & mri	1
+Structural imaging	ct scan	1
+structural imaging technique	ct scan	1
+structural imaging technique	ct	1
+alternate procedure	ct scan	3
+clinical regulatory document	ctd module ii summary	1
+common shortcut	ctrl-v for paste	1
+common shortcut	ctrl-c for copy	1
+complex examination	ct	1
+currently available test	ct scan	1
+cycling organization	ctc	2
+diagnostic medical imaging	ct scanning	1
+Digital imaging modalities	ct	1
+disarmament treaty	ctbt	1
+domestic fuel	ctl	1
+flaming turd	ctx	1
+gelatinous organism	ctenophora	1
+high-end diagnostic facility	ct scan	1
+High-tech imaging	ct scan	1
+hotkeys	ctrl-y	1
+hotkeys	ctrl- one 	1
+housing stock	ctx	3
+huge medium conglomerate	ctvglobemedia	1
+image study	ct	1
+image test	ct	1
+imaging facility	ct	2
+local bus service	ct transit route  eleven a 	1
+program	cte course	1
+program	ctc	1
+moisture meter	ct eight hundred and eight 	1
+Morphological imaging modalities	ct	1
+neurodiagnostic study	ct	3
+non printable character	ctrl key	1
+normed test	ctbs	1
+on-line datum	ct image	1
+operator interface device	cti  five thousand two hundred and fifty  access module 	1
+outpatient test	ct scan	1
+owner's matter	ctm	1
+paging format	ctcss	1
+pre-owned cadillac model	cts	1
+radiological exam	ct	1
+radiological imaging technique	ct	2
+radiological tool	ct	1
+seizure variable	ct	1
+Siphonaptera	ctenophalides canis	1
+Siphonaptera	ctenocephalides felis	1
+sometimes imaging study	ct	1
+standard keyboard shortcut	ctrl-v	1
+standard keyboard shortcut	ctrl-c	1
+standard keyboard shortcut	ctrl-b for bold	1
+standard medical test	ct	1
+standard physical property	cte	1
+Structural neuroimaging	ct	1
+task model	ctt	1
+traditional diagnostic study	ct scan	1
+transit property	ct transit	1
+Typical rich-fen bryophytes	ctenidium molluscum	1
+work-ups	ct scans of the pelvis	1
+academic student organization	ctsos with funding	1
+advanced clinical technique	ctl treatment for viral complication	1
+advanced -diagnostic imaging	ct	1
+advanced imaging tool	ct scan	1
+Advanced medical imaging	ct	2
+Advanced medical imaging	ct scanning	2
+Advanced medical imaging	ct scan	1
+anatomic test	ct	1
+anatomical technique	ct	1
+antioxidant gene	ctti in yeast	1
+beta-lactamases	ctx-m beta-lactamases	1
+big tour operator	ctrip	1
+bone augmentation procedure	ct-guided surgery	1
+classic poem	cthe red wheelbarrow	1
+commercial test	ctbs	1
+competitive multiplayer mode	ctf	1
+confirmatory procedure	ct scanning	1
+conventional diagnostic imaging technique	ct	1
+conventional diagnostic modalities	ct scan	1
+CT procedure	ct perfusion	1
+CT technique	ct perfusion	1
+CT technique	ct angiography	1
+dependent application	cti dependent application	1
+detailed imaging study	ct	1
+diagnostic medical test	ct scan	1
+diagnostic skill	ct	1
+digital imaging method	ct	1
+digital imaging technique	ct	1
+expensive investigation	ct scan	1
+follow-up imaging study	ct scan	1
+good quality cable	ct one hundred  with a good foil screen 	1
+high-politics international non-proliferation regime	ctbt	1
+investigative facility	ct scan	1
+large national mortgage company	ctx mortgage	1
+latin american mobile operator	cti argentina	1
+litigation support company	ct summation	1
+medical -diagnostic	ct scan	1
+Medical imaging equipment	ct	1
+medical imaging tool	ct	1
+medically necessary test	ct	1
+modern diagnostic test	ct	1
+modern neuroimaging technique	ct	1
+morphologic imaging modalities	ct	2
+mucosal adjuvants	ct	1
+mythos element	cthulhu	1
+national and local television station	ctv news	1
+NCOs	ctz	1
+non-display character	ctrl	1
+non-invasive imaging study	ct angiography	1
+one-time fund	ctap grant	1
+patient-related datum	ct scan	1
+planar imaging technique	ct	2
+pre-operative imaging study	ct	4
+pre-qualifications	ctsp on staff	1
+pre-treatment procedure	ct scan	1
+radiographic modalities	ct	1
+radiologic imaging	ct	1
+Radiologic imaging modalities	ct	1
+sectional imaging	ct at tace	2
+sectional imaging	ct at transarterial oily chemoembolization	1
+sensitive imaging technique	ct	1
+organization	ctc	5
+organization	ctu	3
+organization	ctbto	2
+organization	ctm	2
+organization	ctv	2
+organization	ctia	2
+specialty exam	ct	2
+standard street type abbreviation	ct	1
+Structural imaging modalities	ct	6
+test additional test	ctod test	1
+Traditional imaging	ct scan	3
+traditional imaging study	ct	4
+traditional imaging study	ct scan	1
+traditional scanning method	ct scan	1
+transit operation	ct transit	1
+typical game mode	ctf	1
+abdominal imaging study	ct	2
+advanced imaging procedure	ct scan	1
+advanced radiological technique	ct scan	1
+agency CTE document	cte course numbering system	1
+agency CTE document	cte equipment manual	1
+Alternate imaging modalities	ct	1
+Anatomic testing	ct scan	1
+assisted world-class client	ctca	1
+Bacterial enterotoxins	ct of vibriocholerae	1
+basic and sophisticated outpatient testing	ct scan	1
+battery brand	ctek battery chargers	1
+canada's major network	ctv	1
+Cardiovascular imaging modalities	ct angiography	1
+century organization	ctc	1
+certified pre-owned cadillac car	cts	1
+chain tool	ct- five 	2
+characteristic composite property	cte	1
+classic multiplayer mode	ctf	1
+coal conversion plant	ctl plants within cooperating international powerful team	1
+common examination	ct	1
+common medical test	ct scan	1
+common mouse function	ctrl key	1
+complex testing	ct imaging for prosthesis planning	1
+CONTROL-M utility	ctmrogr	1
+CONTROL-M utility	ctmrflw	1
+CONTROL-M utility	ctmrpln	1
+CONTROL-M utility	ctmxrf	1
+conventional brain scan	ct	2
+conventional imaging study	ct	3
+conventional neuroimaging technique	ct scan	1
+cross-sectional image	ct	1
+cross-sectional imaging method	ct	2
+cross-sectional modalities	ct	4
+CTI device	cti route point	1
+CTI device	cti port	1
+CTI launching service	cti vehicle management service	1
+CTI launching service	cti remote backup service	1
+CTI launching service	cti education	1
+Currently available imaging modalities	ct	1
+datum frame	cts frame	1
+default extension	ctype functions support	1
+diagnostic -metric	ctr	1
+Dierent imaging modalities	ct	1
+digital cordless telephone system	ct two 	1
+digital cordless telephone system	ct- two 	1
+digital cordless telephone system	ct- three 	1
+dry fractionation process	ctp process	1
+dummy device	cti route point	1
+education union	cta in superintendent of public instruction race	1
+english acronym	ct	1
+executive management position	cto of commerceworks	1
+expensive imaging study	ct scan	1
+extensive imaging test	ct scanning	1
+external imaging modalities	ct	1
+extraction separation process	cth process	1
+failure analysis tool	ctss	1
+fertility trait	ctfs	1
+guidance information	ctd guidance information	1
+high-tech diagnostic tool	ct scan	1
+imaging diagnostic technique	ct scanning	2
+imagining test	ct	1
+improved diagnostic procedure	ct scan	1
+indoor rowing championship	ct indoor rowing championships	1
+insulator element	ctcf	1
+intraoperative imaging technique	ct	2
+isoptera insect	ctenocephalidae felis	3
+isoptera insect	ctenocephalides canis	3
+key image	ct	1
+litigation support system	ct summation iblaze	1
+litigation support system	ct summation	1
+local car rental company	ctl rent-a-car	1
+long-term development project	ctv contract	1
+medical radiation procedure	ct scan	1
+minimally invasive study	ct	1
+mobile diagnostic service	ct scan	1
+Modern diagnostic modalities	ct	1
+modular fixturing system	ct	1
+Morphologic modalities	ct	1
+morphological method	ct	1
+neuroimaging	ct	1
+neuroimaging procedure	ct	2
+neuroimaging test	ct	1
+neuroradiological study	ct	1
+new personality	ctv toronto's popular new personality	1
+nonclassical ISGs	ctsl	1
+non-invasive modalities	ct	1
+non-invasive modalities	ct angiography	1
+non-printable key	ctrl key	1
+non-standard key	ctrl	3
+novel ISGs	ctsl	1
+nuclear weapon treaty	ctbt	1
+objective-based game	ctf	1
+opex tool	ctq trees	1
+original accessory item	ct- one hundred and nineteen  cable 	1
+outpatient	ct's behavioral health outpatient	1
+physical oceanography datum	ctd water column datum	1
+popular design format	ct	2
+organization	ctc in place	1
+organization	ctc motorsports	1
+organization	ct fire department	1
+organization	ct food bank	1
+organization	ct corporation	1
+organization	ct watercolor society	1
+organization	cto office	1
+organization	ctc scotland	1
+technique	ct	36
+technique	ct scan	9
+technique	ct scanning	7
+postoperative investigation	ct	1
+powerful and expensive imaging procedure	ct scan	2
+public transportation route	cta blue line	1
+radiodiagnostic technique	ct	1
+reliable new site	ctv	1
+remarkable advance	ct scan	1
+routine diagnostic study	ct	1
+scanner A	ct scanner	1
+Scanning equipment	ct scanner	1
+sensor modalities	ct	1
+siphonaptera insect	ctenocephalidae felis	5
+siphonaptera insect	ctenocephalides canis	5
+software archive	ctan for tex	1
+solventogenic gene	ctf b	2
+sophisticated and expensive test	ct scanning of the head	1
+specialist examination	ct scan	1
+staging method	ct	1
+standard IRC feature	ctcp	1
+standard radiographic technique	ct	1
+strict phenotype characterization	ctla- four 	1
+structural imaging method	ct	1
+structural neuroimaging technique	ct	4
+tax reform measure	ctt	1
+team-based objective game	ctf	1
+thermal and mechanical effect	cte mismatch	1
+time precision application	ct scanner	1
+time procedure	ct scan	1
+Tomographic imaging modalities	ct	1
+top UK brand	ct global	1
+track indicator	ctr	1
+traditional imaging device	ct scan	3
+traditional medical imaging technique	ct	2
+training mission	ctc rotations	1
+treatment plan parameter	ct image in conjunction with real-time feedback from modulated subsystem	1
+typical learning model	ctitious play	1
+UCLA resource	ctsi program	1
+uncertainty parameter	ctot	1
+unified communication proxy feature	ctl provider page	1
+unified communication proxy feature	ctl file	1
+unmodified volume datum	ct	1
+urological test	ct	3
+vascular imaging method	ct angiography	2
+wonderful title	cthulhu dice	1
+3-D datum	ct	1
+3D image	ct	4
+3D imaging	ct scan	1
+3D imaging	ct cone beam imaging	1
+Abdominal imaging	ct	2
+ABSTRACT conventional diagnostic imaging technique	ct	1
+accelerator key	ctrl-x for cut	2
+active conservation effort	ctc urban lot program	2
+actual diagnostic film	ct scan	1
+advanced diagnostic imaging technique	ct	1
+Advanced imaging equipment	ct	2
+advanced radiologic technique	ct	3
+advanced radiologic technique	ct angiography	1
+advanced radiology imaging service	ct scan	1
+advanced veterinary technology	ct scan	1
+aforementioned property	cte	1
+amyloid protein	ct	2
+analytical avenue	ct sacna	1
+anatomic imaging study	ct	1
+anatomical imaging method	ct	1
+anatomical imaging modalities	ct	7
+anatomical imaging study	ct	1
+anatomical technology	ct	4
+angiographic method	ct	1
+anomalous phenomenon	cthulhu	1
+technique	ctt	1
+technique	ct fluoroscopy	1
+better-known imaging procedure	ct scan	1
+big mass-media corporation	ctvglobemedia	2
+bin manufacturer	ctb brock	1
+blade technology	ct edge skate design	1
+blade technology	ct edge design	1
+brain-imaging test	ct	1
+branded safety feature	cts	1
+cardiac diagnostic or therapeutic testing	ct	2
+cardiac imaging system	ct	2
+cellular assay	ctl assay	1
+chair company	ctn communications	1
+classic Halo gametypes	ctf	1
+c-level manager	cto's	1
+climate controlled environment	ctu	1
+clinical imaging study	ct	1
+Common imaging	ct	1
+common keyboard shortcut	ctrl-s for save	1
+common medical examination tool	ct	1
+common medical-imaging test	ct scan	1
+common shortcut key	ctrl-x	1
+common shortcut key	ctrl-c	1
+common shortcut key	ctrl-v	1
+complex investigation	ct scan	1
+composite distortion	ctb	1
+Contemporary imaging modalities	ct	1
+contemporary imaging technique	ct	2
+conventional imaging technology	ct	2
+conventional medical imaging device	ct	1
+conventional station	ctv	1
+cordless standard	ct- two 	1
+cross sectional imaging study	ct	1
+detailed imaging technique	ct scanning of the tooth	1
+diagnostic imaging device	ct	1
+diagnostic resource	ct scan	1
+diagnostic test sometimes certain test	ct-scans	1
+DICOM modalities	ct	1
+dimensional high resolution digital scanner	ct scanner	1
+DNA testing technique	ct scan	1
+endpoint security information	cta version	1
+expensive laboratory test	ct scan	1
+expensive medical treatment	ct scan	1
+Formal urologic imagings	ct	1
+four-star and four-star-standard hotel	cts hotel	1
+fulltime network	ct-n in connecticut	1
+fully programmable user function	ct ratio	1
+technique	ct virtual colonoscopy	1
+technique	ctrr	1
+technique	ct perfusion	1
+good test	ct-scans	1
+high-cost radiology procedure	ct scan	1
+high-dose procedure	ct body scan	1
+high-resolution device	ctp platesetter s	1
+High-resolution imaging	ct	1
+high-tech diagnostic imaging scan	ct scan	1
+hi-tech method	ct scan	1
+IL-6 family member	ct- one 	1
+illegal equipment	ct machine	1
+image method	ct-scan	1
+imaging area	ct	1
+imaging techn iques	ct	1
+Imaging testing	ct scan	1
+imaging tube	ct tube	1
+inductive load testing	ct	1
+introduction 3D image diagnostic equipment	ct scanner	1
+introduction medical imaging device	ct scanner	1
+key command	ctrl-alt-del	1
+key groupm india official	ctg's prasanth kumar	1
+key metabolic datum	ctr	1
+key press	ctrl-v	1
+key press	ctrl-c	1
+large volume	cta of the lower extremity run-off	1
+largest TV network	ctv	1
+leading comic tracker	ctt	2
+leading mobile industry association	ctia - the wireless association	1
+Less-invasive modalities	ct imaging	1
+local over-the-air channel	ctv	1
+long report	ct	1
+low-value service	ct scan	2
+market microstructure factor	ctd status of bond	1
+medical diagnostic apparatus	ct scanner	1
+medical imaging exam	ct scan	1
+medical scanner	ct	1
+medical scanner	ct scanner	1
+member network	ctv	1
+metazoan taxonomic group	ctenophora	2
+Modern cross-sectional imaging	ct	1
+modern highly sophisticated technique	ct-scan	1
+modern medical device	ct	1
+modern medical imaging method	ct	2
+modern or future-style game	cthulhu	1
+modern radiologic imaging technique	ct	1
+modern radiological technique	ct scanning	2
+morphologic imaging method	ct	1
+multiplanar imaging method	ct	2
+nationally normed, standardized test	ctopp	1
+naturally-occurring protein	ct	1
+neuro-imaging procedure	ct scan	1
+neurological examination	ct scans of the neck	1
+neurological study	ct scan	1
+noninvasive colorectal screening examination	ct	1
+application	ct angiography	4
+application	ct	4
+application	ct scanner	2
+application	ctl	2
+application	cti application	1
+application	ct virtual colography	1
+application	ct fluoroscopy	1
+objective based game	ctf	1
+optional newer technique	ct angiography	1
+outpatient testing service	ct scanning	1
+over-the air station	ctv	1
+pain diagnosis radiological examination	ct	1
+peptide antagonist	ctop for the opioid receptor	1
+popular gamemodes	ctf	1
+preceding investigation	ct	1
+predecessor key	ctrl key	1
+preliminary imaging test	ct angiography	1
+Preoperative imaging	ct	2
+quick key	ctrl-c for copy	1
+radiation image	ct image	1
+radio specification	ctb	1
+radiographic imaging modalities	ct	1
+radiological image	ct scan	2
+Radiological imaging modalities	ct	2
+radiology exam	ct	1
+resolution image	ct	1
+revolutionary system	ct	1
+russian stock	ctc media	1
+satellite account	ctsa	2
+secondary imaging study	ct	1
+sectional diagnostic image	ct scan	1
+sectional imaging technique	ct	1
+simple testing	ct	1
+specialised imaging test	ct scan	1
+standard diagnostic testing	ct scan	1
+standard imaging technology	ct scan	1
+standard walkie-talkie feature	cts	2
+state-of-the-art hospital equipment	ct scan	1
+state-of-the-art imaging method	ct scanning	1
+state-of-the-art imaging tool	ct angiography	1
+support asset	ct scanner	1
+synthetic and real-world 3D datasets	ct	1
+application	cto recanalization	1
+application	cti dependent application	1
+application	ct- two 	1
+application	ct scan	1
+application	ct imaging application	1
+taiwanese TV station	ctv	1
+T-cell epitope	ctl epitope	8
+technology show	ctia wireless	1
+TF2 specific	ctf modes	1
+thermal-hydraulic characteristic	ct water level	1
+toronto's free channel	ctv	1
+traditional cancer diagnostic method	ct	1
+traditional cancer diagnostic method	ct scan	1
+traditional diagnostic machine	ct	1
+traditional neurologic and radiologic procedure	ct	2
+traditional neurologic and radiologic procedure	ct scan	1
+treg marker	ctla- four 	1
+TV new broadcaster	ctv	1
+underlying source datum	ct scan	1
+unnecessary imaging procedure	ct scan	1
+variousdatasets	ct datum	1
+vascular imaging study	ct angiography	4
+volumetric scan	ct scan	2
+Wet prairie species	ctenium aromaticum	1
+x-ray based technology	ct	1
+x-ray technology	ct	1
+x-ray-related procedure	ct scan	1
+2ZR-FXE engine	ct  two hundred h 	1
+3-D modalities	ct	2
+additionally international organization	ctbto	1
+Adifferentmodeof imaging	ct angiography	1
+adrenal positioning test	ct	1
+advanced adwords strategy	ctr management	1
+advanced ct-based technology	ct angiography	1
+Advanced diagnostic imaging modalities	ct scan	2
+advanced medical imaging technique	ct scan	1
+advanced radiology test	ct scan	1
+anatomic image	ct	1
+ancillary imaging technique	ct	1
+anti-tumor effector function	ctl activity	2
+Atherosclerosis imaging modalities	ct for cac	1
+at-rich TNR type	ctt	1
+autosomal transcription factor	ctcf	1
+Axial imaging	ct myelograms	1
+basic medical imaging modalities	ct	2
+bell media-owned channel	ctv news channel	1
+big college fair	ctcl	1
+biomedical datum set	ct	1
+biomedical equipment	ct	1
+blood vessel study	ct angiogram	1
+brain imaging test	ct scan	2
+brazilian tool	ctca	1
+broadcast heavyweight	ctv	1
+canadian broadcaster	ctv	4
+carotid artery study	ct angiography of the neck	1
+CCCS interactive online system	cte program approvals	1
+cell-associated gene	ctla- four 	1
+central and local authority	ctpa	2
+classic engineer	ctesibius	1
+classical non invasive morphological study	ct-scan	1
+clinical diagnostic procedure	ct-scan	2
+clinical imaging tool	ct	1
+Clinical medical imaging modalities	ct	1
+community support model	ctt	1
+competitive mod	ctf	1
+complex imaging study	ct	1
+complex scan	ct	1
+complicated radiological procedure	ct scan	2
+complimentary imaging modalities	ct	1
+computerised imaging technique	ct scan	2
+contemporary czech composer	ctirad kohoutek	1
+content teacher	cte teacher	1
+control pin	cts pins in the asynchronous serial interface	1
+Conventional anatomic imaging modalities	ct	2
+conventional broadcast network	ctv	1
+conventional cancer test	ct scan	1
+conventional cardiac imaging method	ct	1
+conventional diagnostic screening test	ct	1
+Conventional image modalities	ct	1
+conventional imaging procedure	ct	1
+conventional morphologic imaging method	ct	1
+Conventional noninvasive diagnostic modalities	ct	1
+Conventional noninvasive imaging modalities	ct	1
+conventional tissue imaging method	ct scanning	1
+cordless telephone standard	ct one  standard 	2
+costly and invasive modalities	ct arthrography	1
+costly imaging technique	ct	1
+Councills	ct movers & warehousemen's association	1
+credit reference company	ctos	2
+Cross sectional imaging	ct	4
+cross-section imaging method	ct	1
+cross-sectional anatomic imaging study	ct	1
+cross-sectional imaging tool	ct	1
+cross-sectional method	ct	1
+Cross-sectionalimag-ingmodalities	ct	1
+CTA posture plugin return information	cta's name	1
+CTEs	ctes at ranchi	1
+CTS accessory	cts reverse warning sensor	1
+CTS accessory	cts solar battery charger	1
+Currently diagnostic modalities	ct myelography	1
+decent charger	ctek charger	1
+desktop-based application	cti os	1
+detailed scan	ct	1
+diagno stic procedure	ct	1
+diagnostic and interventional service	ct	1
+diagnostic and therapy service	ct	1
+diagnostic film	ct scan	1
+diagnostic image test	ct scan	1
+diagnostic imaging investigation	ct	8
+diagnostic medical equipment	ct	4
+diagnostic neuroimaging technique	ct	1
+diagnostic radiology technique	ct	1
+digital study	ct scan	1
+dimensional imaging modalities	ct	2
+discussion new technique	ct	1
+dose exam	ct scan	1
+dose examination	ct	1
+educati onal completion	ctm	1
+effective imaging exam	ct scan	1
+efficient diagnostic technology	ct scan	1
+electronic radiation-emitting product	ct scanner	1
+ERB assessment datum	ctp test score	1
+established imaging modalities	ct	2
+established structural imaging modalities	ct	1
+excellent pastoral care facility	ctv monitoring of public area	1
+expensive and time-consuming technique	ct	1
+extensive diagnostic test	ct	1
+extracranial vessel non-invasive technique	ct angiography	1
+name	ctxs	1
+name	ctoton bug	1
+film-based system	ct	1
+flexible sequence	ctg	2
+full effector response	ctl proliferation	2
+furtherstemness-related gene	ctnnb one 	1
+generally test	ct scan	2
+ge's DFSS product	ctscan	1
+great new network	ctv newsnet	1
+great split screen game	ctf	1
+groupon website	ctoc and btoc	1
+hardware handshake line	cts	1
+health check test	ct scan	1
+higher-dose study	ct	1
+high-rvu procedure	ct	1
+high-tech diagnostic imaging	ct	1
+high-tech imaging technique	ct	2
+high-technology imaging technique	ct	1
+ifother diagnostic study	ct	1
+image film	ct	3
+image-generating technology	ct	1
+imaging diagnostic exam	ct	1
+Imaging guidance	ct	1
+imaging scanner	ct scanner	1
+indirect evaluation parameter	ct	1
+Indirect liquefaction technology	ctl technology used by sasol	1
+ineffective, diagnostic measure	ct scan	1
+initial imaging study	ct	1
+insulator protein	ctcf	1
+intense environment	cty	1
+intensive diagnostic test	ct scan	1
+interpretation imaging test	ct scan	1
+INTRODUCTION cross-sectional imaging technique	ct	1
+INTRODUCTION Medical imaging modalities	ct	1
+Introduction Passive matrix color LCDs	ctn lcd	1
+introduction typical medical imaging technique	ct scan	1
+invasive imaging technology	ct scanning	1
+keyboard shortcut key	ctrl-z	1
+keyboard shortcut key	ctrl-y	1
+large diagnostic medical imaging system	ct scanner	1
+large former monopoly telephone company	ctc	1
+large multi-station ownership group	ctv	1
+latest LSA type	ct	1
+less-invasive test	ct angiography	1
+factor	ct evidence of the cartilage invasion	1
+factor	ct protocol	1
+case	ct	2
+local and national user group	ctc	1
+machine test	ct scan	1
+mass-media information source	ct treatment guide	1
+medical diagnostic technique	ct scan	1
+Medical X-rays	ct scan	1
+microcell technology	ct- two 	1
+minimally invasive imaging modalities	ct scanning	1
+misread radiological report	ct	1
+mobile industry show	ctia	1
+mobile support service	ct	1
+modal key	ctrl	1
+modern anatomical technique	ct scanning	3
+Modern brain imaging	ct scanning	1
+modern complementary diagnostic imaging technique	ct	1
+modern day imaging technique	ct	1
+Modern imaging	ct scan	1
+modern medical imaging device	ct	1
+modern radiologic imagi ng technique	ct	1
+monitoring investigation	ct scanning	1
+morp hologic imaging technique	ct	1
+morphologic imaging	ct	2
+morphologic technique	ct	1
+multimedia contact center component	cti server	1
+multimodal imaging technique	ct angiography	1
+multimodality image	ct with real-time ultrasound	1
+multimodality image	ct	1
+Multiplanar imaging modalities	ct	1
+mystical order	cthulhu cult	1
+national broadcast company	ctv	1
+neck image	ct	1
+negative co-stimulatory factor	ctla- four 	1
+niche-oriented show	ctia	1
+Non-caspase executor proteases	ctsb	1
+nonidentifiable angiographic characteristic	cto length	1
+non-invasive imaging test	ct	1
+noninvasive three-dimensional alternative	ct angiography with volume rendering	2
+non-invasive, cross sectional imaging study	ct	1
+nonlaboratory-based test	ct	1
+non-pkp railway freight company	ctl logistics	1
+novel modulator	ctla- four  ig 	1
+objective staging modalities	ct	1
+occassions test	ct	1
+occlusion pre-existing study	ct scan	1
+OHIM database	ctm online	3
+One-person blogs	cta tattler	1
+on-site diagnostic imaging service	ct scan	1
+organic substance transparent conductive material	ct complex using c sixty  dielectric 	2
+organizing effort	ctw	1
+original and classic fly pattern	cthulhu fhtagn parachute	1
+original crochet cthulhu creation	cthulhu toque	1
+othergp130 agonists	ct one 	1
+Outpatient imaging	ct scan	5
+out-patient procedure	ct scan	1
+Passive matrix color LCDs	ctn	1
+patch management expert	cto of gibraltar software	1
+perative imaging study	ct	1
+physician use image guidance	ct	1
+picture-taking medical device	ct scanner	1
+PK event	ctf	1
+planar image	ct	1
+case	ct image storage sop class	1
+case	ct based spinal igs	1
+case	ct datum	1
+case	ctas	1
+case	ctpl moscow	1
+powerful key combination	ctrl-alt-del	1
+powerful, easy-to-use technology	cto vessel road mapping	1
+practise issue	ctg interpretation	1
+preoperative image	ct	2
+preoperative localization tool	ct	1
+preoperative radiological examination	ct scan	5
+pretreatment study	ct scan	1
+privacy code system	ctcss	1
+private-sector medium company	ctv globemedia	1
+proper diagnostic test	ct scan	1
+proper imaging study	ct scan	1
+publicity-attracting procedure	ct	1
+Pulicidae	ctenocephalides canis	2
+Pulicidae	ctenocephalides felis	2
+qualifier key	ctrl	1
+radiation-based test	ct	1
+Radiologic diagnostic modalities	ct	1
+radiologic exam	ct	1
+radiologic film	ct scan	2
+radiologic testing	ct	1
+radiological evaluation	ct	2
+radiological instrument	ct	1
+radiology image	ct	1
+real image datum	ct	1
+REG marker	ctla- four 	1
+regional cisco learning partner	ctt in latin america	1
+repetitive strain ailment	cts	1
+resource intensive specialized test	ct scan	1
+roentgenographic study	ct scan	1
+rout ine diagnostic tool	ct scan	1
+routine imaging procedure	ct	1
+second, sophisticated study	ct scan	1
+secondary radiologic examination	ct	1
+separate program area	ct client	1
+service volunteer organization	ct envirothon steering committee	1
+smad3 target gene	ctgf	1
+software heavy hitter	cto of bmc software	1
+somecostimulatory molecule	ctla- four 	1
+sometimes additional record	ct scan	1
+sometimes objective diagnostic tool	ct scan	1
+sophisticated cardiac-imaging technology	ct scan	1
+sophisticated medical equipment	ct scanner	1
+Sophisticated radiologic modalities	ct	1
+Standard clinical imaging modalities	ct	4
+standard control key combo	ctrl-v to paste	1
+standard control key combo	ctrl-c to copy	1
+standard diagnostic imaging test	ct	1
+standard imaging method	ct	1
+standard staging study	ct scan	1
+state-of-the-art medical facility	ct	1
+static imaging modalities	ct	1
+stemness-related gene	ctnnb one 	2
+Store-and forward clinical information	ct scan	1
+structural imaging study	ct	2
+subscriber television system	ctv system	1
+successful game comic	ctrl alt del	1
+suitable high resolution imaging method	ct	2
+suitable radiographic examination	ct scanning	1
+suitable short distance radio interface	ct two  interface 	1
+supplementary radiologic test	ct	1
+option	ct scans	2
+option	ctrl-c to copy	1
+option	ctrl esc del the f key	1
+tagfile program	ctags	1
+t-cell molecule	ctla- four 	1
+test imaging study	ct	1
+thedigitizationprocessiscarriedoutbyasamplingdevice	ct scanner	1
+thethermomechanical property	cte	1
+today's advanced imaging technology	ct	6
+today's cancer imaging technology	ct scan	1
+today's modern medical imaging method	ct the mri	1
+tomographic and metabolic imaging technique	ct	1
+toronto channel	ctv	1
+totally naive, test	ct	1
+traditional diagnostic imaging study	ct	1
+traditional oceanographic observation	ctd	1
+traditional online game mode	ctf	1
+traditionally patient diagnostic image	ct s	1
+transthoracic imaging study	ct	1
+trinucleotide sequence	ctg	1
+tubing-conveyed, through-tubing well-intervention service	ct	1
+TV concert	ctn	1
+unneeded diagnostic test	ct scan	1
+vanilla multiplayer game mode	ctf	1
+wear characteristic	ctl wear characteristic	1
+well-accepted abbreviation	ct	1
+wordpress template	ctr theme	1
+x-ray image	ct	1
+x-ray tube application	ct	4
+year anatomical imaging modalities	ct	1
+1Introduction Biomedical imaging modalities	ct	1
+3D datum acquisition modalities	ct	1
+3D imaging datum	ct	1
+3-D imaging method	ct	1
+3D reconstruction imaging technique	ct scan	1
+3-D tomographic myocardial study	ct	1
+3-dimensional imaging application	ct	3
+accumulative imaging modalities	ct	1
+active contribturos	ctype	1
+adequate product	ctp plate	1
+adjunctive radiologic diagnostic method	ct	1
+Advance diagnostic modalities	ct	1
+advance imaging technology	ct	1
+advance test	ct scan	1
+Advanced imagi ng modalities	ct	1
+advanced medical imaging service	ct	1
+Advanced multi-modal diagnostic imaging	ct	1
+Advanced radiologic modalities	ct scanning	1
+advanced radiologic procedure	ct scanning	1
+Advanced-level aircraft	ct- one hundred and fourteen  tutor 	1
+advancing healthcare technology	ct	1
+air space datum	ctr	1
+akt-binding protein	ctmp	1
+alexandrian engineer	ctesibius	1
+allied type	ctenacodon	1
+alternate body composition technique	ct	2
+alternatively imaging technique	ct	1
+Alto-ofaCTDSer2-specific enzyme	ctdser two  gether 	1
+anatomic modality	ct	1
+anatomic study	ct	1
+anatomic technique	ct	1
+anatomical imaging procedure	ct	1
+anatomorphometric imaging technique	ct	1
+Anatomy-based imaging modalities	ct	1
+Ancillary diagnostic imaging	ct	1
+A-T-cell epitope	ctl epitope	1
+ATM DSTs	ctas traffic management advisor	1
+option	ctr	1
+basic medical device	ct	2
+Big ticket medical imaging equipment	ct scanners	1
+biggest broadcaster	ctv	1
+Body imaging	ct	1
+brain image test	ct	1
+brain imaging alternative	ct	1
+Brain imaging modalities	ct	1
+brain mapping study	ct	1
+branching-time logic	ctl	1
+branching-time temporal logic	ctl	1
+built-in php function	ctype	1
+bulk explosive detection system	ctx	1
+bush dual standard colour set	ctv twenty-five  series 	1
+canadian channel	ctv	1
+canadian private television broadcaster	ctv	1
+cardiac imaging tool	ct scan	1
+case imaging study	ct	1
+cationicdetergents	ctab	1
+cell epitope	ctl epitope	2
+cell phone industry advocate	ctia-the wireless association	3
+cerebral imaging test	ct	1
+challenging clinical protocol	ct of the spine	2
+characteristic treg marker	ctla- four 	1
+chinese booking engine	ctrip.com for a middle way	1
+Cisco software	cti os server	1
+civilian basic trainer	ct- four  while of similar fixed tricycle configuration 	1
+classical datum source	ct	1
+classical imaging modalities	ct	1
+clinical response criterion	ct-scan-based recist	1
+clinical scanner	cti reveal	1
+Clinical tional imaging	ct	1
+closely related enzyme	ctx-m- two  in argentina andtoho- one  in japan 	1
+cloud-computing play	ctxs	1
+coating issue	cte mismatch	1
+colemak popular shortcut	ctrl-v	1
+commercializing alternative transportation fuel	ctl	1
+common biomedical imaging facility	ct	1
+common imaging test	ct scan	1
+Competing modalities	ct	1
+competitor's product	ct from flight design	1
+complex diagnostic facility	ct scanning	1
+compression injury	cts	1
+Computed tomography Cross-sectional imaging modalities	ct	1
+computer-aided planning system	ct simulation	1
+computer-assisted imaging technique	ct scan	1
+computerized instrument	ct scanner	1
+conclusion medical volume imaging technique	ct	1
+Conclusion Non-invasive technology	ct scanning	1
+contact region	ct one 	1
+contrast imaging study	ct	2
+contrast morphological imaging modalities	ct	1
+conventional anatomic imaging procedure	ct	1
+conventional anatomic method	ct	1
+conventional cross-sectional imaging modalities	ct	1
+conventional electro-mechanical, single-phase meter	cta	1
+conventional neuroimaging	ct	1
+conventional neuroimaging method	ct	1
+conventional noninvasive imaging study	ct scanning	1
+Conventional radiographic modalities	ct	1
+conventional radiologie examina tions	ct scan	1
+conventional structural imaging method	ct	1
+conventional structural imaging technique	ct	2
+cool gametypes	ctf	1
+corporation service company	ct corp.	1
+correlative imaging	ct	2
+Counterterrorism-related in-services	ct stage ii academy	1
+critical diagnostic tool	ct	1
+cross sectional imaging exam	ct	1
+cross sectional imaging method	ct	1
+cross-sectional examination	ct	1
+cross-sectional modality	ct	1
+Cross-sectional noninvasive imaging	ct	1
+CT based imaging	ct coronary artery calcuim scoring	1
+CTC international consumer site	ctc's consumer web site for the united kingdom	1
+CTI information	cti port device	3
+cti-controlled application	cti port	2
+ctvglobemedia's television division	ctv limited	1
+cumulative or gradual trauma injury	cts	1
+Currently available modalities	ct	1
+currently available morphologic imaging technique	ct	1
+currently available noninvasive test	ct	1
+currently various cordless telephone system	ct two 	1
+cysteine protease-related protein	ctl ag	1
+DeLeon Application s	ct	1
+deputy head	cta chair	1
+diagnosis machine	ct scanner	1
+diagnostic procedure radiological equipment	ct	1
+diagnostic re	ct scan	1
+diagnostic technology tool	ct	1
+diagnostic test equipment	ct	1
+diagnostic test imaging scan	ct	1
+diagnostic x-ray machine	ct scanner	1
+DICOM-3 image modalities	ct	1
+Difierenttypeof medical modalities	ctc	1
+digital cordless telephone standard	ct- two 	1
+dimensional image system	ct	1
+dimensional imaging	ct scan	1
+dimensional imaging application	ct	1
+direct-compute layer	ctm	1
+DISCUSSION anatomical imaging method	ct	1
+DISCUSSION Cross-sectional imaging	ct	1
+Discussion Imaging modalities	ct	2
+discussion multiple imaging technique	ct	1
+distinct locus	ctla- four  gene 	1
+distortion level	ctb	1
+east timorese organization	ctt	1
+group	ctia	3
+group	ct parkinson's meeting group	2
+group	ct unity	2
+group	ct breastfeeding alliance	2
+elative study	ct	1
+emergency nutrition program	ctc	1
+endearing icon	cthulhu into the lunatic fringe	1
+established leisure travel service provider	ctrp	1
+evolution project	ctms tool interface with etmf	1
+ew medical technology	ct	1
+example medical image	ct images of lungs district	1
+exotic imaging technique	ct	1
+expensive disposable part	ct x-ray tube	1
+expensive high-end imaging modalities	ct	1
+expensive imaging	ct	1
+expensive imaging exam	ct	1
+expensive imaging machine	ct scanner	1
+expensive or invasive imaging technique	ct	1
+extensive CTX group datum	ctx group number plan	1
+extensive work-up	ct's of the chest	1
+extent imaging study	ct	1
+extremely technologically advanced equipment	ct	1
+fancy scan	ct	1
+FDMA system	ct two 	1
+FDP parameter	ct	1
+fictitious lovecraftian entity	cthulhu	1
+filter nonlinear distortion	ctb distortion	1
+first, medical image datum	ct	1
+frequent core haplotypes	ctla four .h two  in west of the himalaya population 	1
+frieght forwarder	ctsi logistics	1
+front engine RWD car	cts-v	1
+front line imaging modalities	ct	1
+Functional lab els	ctor	1
+Functional medical imaging technology	ct	2
+Fusing structural imaging	ct	1
+future vehicle	cta fund	2
+game type classic	ctf	1
+geeky dice bag	cthulhu	1
+genetic SNPs	ctla- four 	1
+GIS initiative	ct department of emergency management	1
+GM wagon	cts sports wagon	1
+good growth	ctrp	1
+good palliative treatment	ct-guided alcohol ablation of the celiac plexus nerve	1
+good quakity cable	ct one hundred 	1
+good quality satellite type cable	ct one hundred 	1
+great gametypes	ctf	1
+growth factor polypeptide	ctgf	1
+haitian union	cth	1
+head image	ct	1
+health system diagnostic resource	ct equipment	1
+heart imaging technology	ct scan	1
+high dose application	ct	1
+High dose modalities	ct	1
+high end radiology imaging service	ct	1
+High resolution imaging	ct	1
+high sensitivity imaging technique	ct	1
+high-cost imaging test	ct	1
+high-dose chemotherapy protocol	ctc regimen	1
+high-dose examination	ct	1
+high-end diagnostic device	ct scanner	1
+high-end radiology imaging service	ct	1
+high-performance diagnostic and therapeutic equipment	ct scanner	1
+high-resolution cross-sectional radiographic study	ct	1
+high-resolution study	ct	1
+high-resolution, contrast-enhanced scan	ct	1
+high-spatial-resolution anatomical modality	ct	2
+high-stress concentrator	cte mismatch	1
+high-technology expensive service	ct scanner	1
+Hi-tech X-rays	ct scan	1
+Holo-planktonic species	ctenophora	1
+hybrid imaging	ct scanning in nuclear medicine examination	1
+ICM product	cti server	1
+image datum set	ct data set	1
+image resolution technique	ct test	1
+image-based -diagnostic	ct	1
+imaging diagnosis	ct	2
+imaging guidance tool	ct	1
+imag-ing study	ct scan	1
+imaging technique standard radiological procedure	ct	1
+impaired regulatory function	ctla four  on t cell 	1
+improved diagnostic tool	ct	1
+InDesign plug-ins	ctrlchanges for text change tracking	1
+group	ct transit	1
+group	ctv	1
+group	ct farmland trust	1
+ing technique	ct	1
+inhibitory co-stimulatory molecule	ctla four 	1
+integrated partner application	ctsm add-on suite for the life sciences industry	1
+intra-operative imaging device	ct	1
+INTRODUCTION clinical image	ct image	1
+INTRODUCTION computer assisted imaging technique	ct	1
+INTRODUCTION medical scanner	ct	1
+invasive vascular imaging technique	ct arteriography	1
+investigation modality	ct	1
+investigative series	ctv's w five 	2
+iodine contrast	ct contrast	1
+IRC related specification	ctcp	1
+italian access manufacturer	cte bizzocchi	1
+jeopardizing service	ct	1
+JIS lesson learned test event	ct	1
+keyboard command shortcut	ctrl-c for copy	1
+key-sequences	ctrl-alt-del	1
+large medical imaging technology	ct	1
+large medical instrument	ct scanner	1
+large scale medical imaging system	ct scanner	1
+Large-scale medical equipment	ct	1
+latest diagnostic imaging	ct angiogram	1
+LCG title	cthulhu from fantasy flight	1
+LDS item	ctr ring	1
+lesion-based anatomic imaging modalities	ct	1
+local enterprise support service provider	ctr slavonski brod	1
+local TV broadcaster	ctv	1
+localizing technique	ct	3
+loop tester	ct- one hundred 	1
+lysogenic filamentous phages	ctx	1
+macroscopic imaging datum	ct	1
+magnet wire specialty product	ctc	1
+Mainstream imaging modalities	ct scan	1
+MDCT application	ct angiography	1
+medical datasets	ct	1
+medical diagnostic imaging modalities	ct	2
+Medical image diagnostic apparatus	ct scanner	1
+medical image source	ct	1
+medical imaging system scanner	ct	1
+medical machinery breakthrough	ct scan	1
+medical volume datum	ct	1
+medical volumetric datum	ct	1
+medical, detailed scan	ct	2
+medical, minute scan	ct	1
+medical-physics tool	ct scan	1
+minute polychaetes	ctenodrilus serratus	1
+mission support requirement	ctc rotation	2
+modality machine	ct scanner	1
+model of reality	ctmu	1
+modem medical imaging technique	ct	1
+modern clinical investigation	ct	1
+modern diagnostic and therapeutic modalities	ct	1
+Modern instrumental diagnosis	ct	1
+modern medical diagnosis procedure	ct	2
+Modern medical equipment	ct	3
+Modern medical imaging	ct scan	1
+Modern modalities	ct	1
+modern neuroradiological imaging technique	ct	1
+modern radiological diagnostic method	ct	2
+modern staging device	ct scanning	1
+modern volumetric imaging technique	ct	1
+Morphologic imaging tech niques	ct	1
+morphological diagnostic imaging technique	ct	1
+morphological imaging method	ct	1
+morphological imaging procedure	ct	1
+morphology-based imaging modalities	ct	1
+multilateral treaty negotiation	ctb treaty	1
+myriad test	ct scan	1
+national title insurer	ctic	1
+near-term step	ctbt	1
+Negative co-stimulators	ctla- four 	1
+nerve compression condition	cts	1
+network capacity protection scheme	cts two self scheme 	1
+neural imaging technology	ct	1
+neuro-imaging	ct scan	1
+neuroradiologic study	ct	1
+neuroradiological examination	ct	1
+Neutrophilous-basophilous taxa	ctenidi um molluscum	1
+newest screening technology	ct	1
+non invasive diagnostic method	ct	1
+non-college credit course	cty	3
+non-destructive system	ct	1
+nonendoscopic technology	ct	1
+noninvasive 3D volumetric imaging technique	ct angiography	1
+noninvasive cardiac -diagnostic	ct angiography	1
+non-invasive cross-sectional imaging technique	ct	1
+noninvasive cross-sectional neuroimaging study	ct	1
+noninvasive diagnosis	ct	1
+Non-invasive imagi ng	ct	1
+non-invasive imaging equipment	ct	1
+non-invasive intervention	ct	1
+non-invasive pre-operative imaging study	ct	1
+noninvasive radiographic technique	ct	1
+Noninvasive radiologic imaging modalities	ct	1
+non-invasive scanning technology	ct scanning	1
+noninvasive vascular-imaging technique	ct	1
+non-linear trait	ctfs	1
+nonmark-ovianprocesses	ctrw	1
+non-nuclear modalities	ct	1
+non-proliferation step	ctbt	1
+group	ct unit	1
+group	cteq	1
+method	ct	14
+method	ct scan	6
+method	ct scanning	4
+method	ctmp process	1
+nuclear arm control agreement	ctbt	1
+O4 Formodallogics	ctl	1
+objective-based gametypes	ctf	1
+objectives-based curriculum	cte curriculum	1
+oceanographic observation	ctd	1
+OHIMdatabases	ctmo nline	1
+online high stake pro	cts from cardrunners	1
+onsite diagnostic service	ct scan	1
+outpatient interventional procedure	ct-guided biopsy	1
+patented non-psychotropic derivative	ct- three 	1
+periodic imaging test	ct	2
+pet imaging test	ct	1
+physician-owned imaging technology	ct	1
+PKB-binding or scaffolding protein	ctmp	2
+Plasmid-borne resistance	ctx-m type esbl	1
+popular youtube star	ctfxc	1
+port system	ctms	1
+portable phone unit	ct- two 	1
+potential future imaging study	ct	2
+pqube's current input module	ct four 	1
+preauthentication element	ctype	1
+preference variable	ctp	1
+pre-operative imgaging study	ct	1
+privacy code	ctcss	1
+private canadian broadcast network	ctv	2
+private sector broadcaster	ctv	2
+processed image datum	ct reconstructed image	1
+production ofimmunomodulatory transmucosal carrier molecule	ctb	1
+professional search	ct coresearch	1
+profibrotic factor	ctgf	1
+promising new adjuvants	ct subunit b	2
+prostate imaging technique	ct	1
+proven technology solution	ct summation	1
+purely structural scan	ct	1
+quantifiable value assessment tool	ctt	1
+radiation test	ct scan	1
+radiographic diagnostic tool	ct	1
+radiologic imaging procedure	ct	1
+radiological -diagnostic	ct	1
+radiological guidance	ct	1
+RASSF1A expression target	ctsl	1
+reactionary union	cth	1
+reference medical image	ct scan	1
+Remote medical imaging	ct scanning	1
+replay favorite	ctf	1
+response frame	cts frame	2
+risky medical imaging technique	ct scan	1
+Routine brain imaging	ct scan	1
+routine neuroimaging	ct	1
+routine neuroimaging study	ct	1
+Routine structural imaging	ct	1
+sampled volume datum	ct	1
+scientific and medical equipment	ct	1
+second generation cordless telephone system	ct- two 	1
+Second line investigation	ct	1
+Second, datasetsfrom different modalities	ct andmr	1
+second, diagnostic tool	ct	1
+second, imprinting-associated element	ctcf consensus site	1
+sectional image modalities	ct	1
+seemingly unrelated modalities	ct	1
+segregates	ctenomeria	1
+selective access	ctcss	1
+method	ct- one  dna 	1
+method	ct perfusion	1
+method	ct-scan	1
+method	ctl analysis	1
+method	ctab	1
+sensitive preoperative imaging study	ct of the lung	1
+sequential imaging study	ct	1
+serial image	ct	1
+serious heavy duty U-joints	ctm	1
+shared genetic risk factor	ctla four  gene 	1
+shear-thickening solution	ctab-nasal micellar system	1
+simple key press	ctrl-h	1
+singapore home-grown business	ctc tourism holdings	1
+singular modalities	ct	1
+SIPPER instrumentation datum	ctd datum	1
+small animal imaging technique	ct	1
+small matrix image	ct	1
+sometimes additional scan	ct	1
+sometimes x-ray study	ct angiogram	1
+sophiscated radiological test	ct scan	1
+sophisticated CT imaging modalities	ct colonoscopy	1
+sophisticated imaging	ct scanning	1
+sophisticated radiology exam	ct scan	1
+sophisticated scan	ct	1
+special-purpose image	ct scan	1
+Spinal imaging	ct	1
+staid and mind-numbing issue	ctot	1
+standard accelerator	ctrl-x for the cut action	1
+standard brain imaging technique	ct scan	1
+Standard diagnostic imaging	ct	1
+standard medical imaging technology	ct	1
+Standard neuroimaging	ct	1
+standard radiological modalities	ct	2
+standard word shortcut	ctrl-i	1
+standardmultihop protocol	ctp in tinyos	1
+state ofthe art diagnostic service	ct	1
+State of-the-art imaging technology	ct scan	1
+state-of-the-art medical imaging	ct	1
+State-of-the-art neuroimaging	ct angiogram	1
+status line	cts	1
+Struc tural tech niques	ct	1
+structural abnormalties	ctev	1
+Structural brain imaging	ct	1
+submarine-based system	ctm	1
+submersible sensor	ctd probe	1
+successful internet-based professional development program	ctep at indiana university	1
+successful medical imaging technique	ct-scan	1
+successful motion picture	ctalk of the town d	1
+suckass state	ct	1
+suggested process	ctd mapping	1
+supernatural race	cthulhu-flavoured dwimmerlaik	1
+surgery image	ct	1
+Surveillance imaging	ct	1
+target polypeptide	ctgf	3
+t-cell priming negative regulatory molecule	ctla- four 	1
+team objective game	ctf	1
+technically advanced and expensive procedure	ct	1
+term step	ctbt	1
+TFM tool	ctas	1
+thousand-dollar scan	ct scan	1
+three-dimensional digital tomographic technique	ct	1
+three-dimensional grid datum set	ct	1
+three-dimensional imaging study	ct	1
+three-dimensional scanner device	ct	1
+time division duplex communication system	ct two  system 	1
+timeless evil	cthulhu	1
+timesharing system	ctss	1
+tomographic datum	ct	1
+tomographic image measurement apparatus	ct apparatus	2
+Tomographic medical imaging modalities	ct	1
+tomographic modalities	ct	1
+tomographic technology	ct scanning	1
+toxic strain	ct- fourty-three 	2
+traditiona l imaging method	ct	1
+traditional clinical imaging modalities	ct	1
+Traditional medical imaging	ct	1
+traditional morphologic imaging technique	ct	1
+traditional neurodiagnostic test	ct	1
+traditional neurologic and radiological procedure	ct	1
+traditional neurological and radiologic procedure	ct	8
+traditional neurological and radiological procedure	ct	10
+traditional neurological and radiologi-cal procedure	ct	1
+traditional non-weight-bearing imaging study	ct scan	1
+traditional norm-based reference test	ctbs	1
+Traditional plaque imaging modalities	ct	1
+traditional radiological imaging technique	ct	1
+traditional radiological test	ct	1
+traditional temporal logic	ctl	6
+traditionally high-dose exam	ct angiography	1
+traditionalneurological and radiologic procedure	ct	1
+transgovernmental arrangement	ctr program	2
+translational program	ctsa	1
+transmission-blocking target	ctrp	1
+transportation demand management element	ctr plan	1
+trauma imaging advance	ct protocols for cervical spine screening	1
+true 3D tool	ct colon-ography	1
+tumoral cell	ctcl cell	2
+two-dimensional imaging technique	ct	2
+two-dimensional tomographic medical image datum	ct scan	1
+typical imaging test	ct	2
+Typical mucosal adjuvants	ct	1
+typical simulation system terrain format	ctdb	1
+UCC service provider	ct lien solutions	1
+unnecessary study	ct scan	1
+UPPERCASE keyboard key	ctrl for the control key	2
+uppercasekeyboard key	ctrl for the control key	2
+up-to-date RUFs	ctr three 	1
+Urgent brain imaging	ct	1
+valuable confirmatory test	ct	1
+tool	ct scan	5
+tool	ctms	1
+tool	cts andtestcover	1
+tool	ctq tree	1
+tool	ct scanning	1
+volume scan	ct	1
+volumetric modalities	ct	1
+voxel processor modern medical-imaging system	ct	1
+water quality compliance parameter	ct requirement	1
+well-known plastic surgery clinic	ctg healthcare	1
+western brain examination	ct scan	1
+widespread imaging modalities	ct	1
+worthy examination	ct	1
+x-ray-based method	ct	1
+year policy adviser	ctec	1
+tool	ct segmentation	1
+tool	ctfconvert	1
+tool	cte online tool	1
+project	ctrl	4
+project	ctcs	1
+project	ct-operated individual passenger transport project	1
+project	cta brownline expansion	1
+project	cta circle line	1
+material	ct urban glass	1
+material	ctab	1
+place	ct punk fest	1
+player	cts eventim	1
+technology	ct scan	16
+technology	ct	15
+technology	ct scanning	4
+technology	ct scanner	2
+product	ct scanner	2
+product	cta fund	1
+product	ctc black tea related product	1
+technology	ct fluoroscopy	1
+technology	ctp	1
+technology	cti middleware	1
+technology	ct colonography show promise	1
+technology	ct angiography	1
+technology	ct perfusion scan	1
+technology	ct- two 	1
+technology	ct two 	1
+technology	ct scans with angiograms	1
+technology	ct angiogram	1
+term	cte program	1
+term	ctf	1
+parameter	ctp curve	2
+parameter	cte	2
+parameter	cte of the pcb	2
+parameter	ct andmanyother parameter	1
+parameter	ctoa	1
+parameter	ctab	1
+parameter	ct-scan slice thickness	1
+parameter	ct range	1
+system	ct	3
+system	ct scanner	2
+system	cti model railroad control system	1
+system	cthulhu by gaslight	1
+system	ctcss tone	1
+system	ct- three 	1
+system	ct scanning system	1
+system	ct two  system 	1
+system	cte book	1
+system	ct-max tube by eldco	1
+species	ctenochasma	1
+species	ctenotus fallens	1
+species	ctenophorus nuchalis	1
+measure	ctbt	2
+measure	ctdi in ct	1
+measure	ct frequency	1
+measure	ctraffic calming measure	1
+condition	cteph-predisposing medical condition	1
+condition	ctcss code	1
+function	ctype library function	1
+function	ctd	1
+device	ct	4
+device	ct's	2
+device	ct scanner	2
+device	ct-integrated robot	1
+device	cti port	1
+device	ct scan	1
+brand	cts	2
+brand	ctc	1
+brand	ctm	1
+brand	cta manufacturing	1
+brand	ctv	1
+concept	ct value	1
+aspect	ct tech ni que	1
+aspect	ctr	1
+aspect	ct technique	1
+related product	ctc black tea related product	1
+related product	ctp related product	1

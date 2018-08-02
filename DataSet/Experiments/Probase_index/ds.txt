@@ -1,0 +1,1875 @@
+product	ds batteries	1
+initiative	dsp	1
+accessory	dsp- three 	1
+datum	dsp age eligible population	1
+datum	dsfg-b	1
+datum	ds one 	1
+resource	dsp	3
+resource	dsm-iv	1
+resource	dsstox master inventory	1
+facility	dsf	1
+facility	ds smith	1
+process	dsdm	2
+process	dsa's internal process	1
+source	dsm-iv	1
+source	dsm-iv criterion	1
+source	dss	1
+source	dss satellite	1
+benefit	dso	1
+game	ds	3
+game	dsi	2
+game	ds strategy title dawn of heroes	1
+game	ds one	1
+game	ds-styled action game	1
+game	ds microchip game	1
+game	ds puzzle game	1
+game	ds puzzle series vol	1
+exception	dsst exam for principles of public speaking	1
+reason	dsl being associated with the wrong line on the customer service record	1
+reason	dsm radio	1
+character	ds ted roach	1
+model	dss	2
+model	dsm	2
+model	dsl-g six hundred and four t 	1
+model	ds lite	1
+model	ds four thousand three hundred  storage subsystem 	1
+category	ds	2
+category	dslr camera backpack	1
+institution	dso	1
+institution	dssu	1
+change	dsr rating	1
+change	dso activity	1
+change	dso	1
+client	dsm	2
+client	dsw shoe warehouse	1
+client	dsi international	1
+client	dsi structures international	1
+client	dso education	1
+document	ds- one hundred and sixty  confirmation page 	1
+document	dsm-iv	1
+product	dspace for rapid prototyping	1
+product	dsquared jean	1
+product	dsquared online	1
+product	dsquared shoe related product	1
+product	dsp switcher integrated regulator module	1
+product	ds donna	1
+product	ds fire card related product	1
+product	dsl chips with multi-protocol capability	1
+feature	dsp	4
+form	ds- one hundred and fifty-six 	1
+form	ds- one hundred and fifty-eight 	1
+form	ds- one hundred and fifty-seven 	1
+person	dso	1
+approach	dsrna-mediated suppression of gene expression	3
+approach	dsdv	2
+approach	dsm-iv	2
+approach	dsm	2
+approach	dssp secondary structure assignment method	1
+approach	dsdt editing	1
+approach	dsp system	1
+approach	dsrna analysis	1
+alternative	dsl over telephone line	1
+agency	dss	15
+agency	dshs	6
+agency	dst	2
+agency	dsa	2
+agency	dso	1
+agency	dsms	1
+agency	dse	1
+agency	dss benefit	1
+symptom	dsor headache	1
+course	dse	3
+course	dsp	2
+course	dsu coastal and marine-related course	1
+course	dsm basic safety course	1
+mechanism	dsip	1
+mechanism	ds code point definition	1
+solution	dslr camera remote	2
+solution	ds two 	2
+solution	ds slot only solution	1
+solution	dsrc	1
+feature	dsi's browser	2
+feature	ds game	2
+business	ds nutrition	1
+business	dsm biologics	1
+field	ds- two thousand and nineteen 	1
+field	dscp	1
+amenity	dsl internet access	1
+amenity	dsl internet	1
+title	dsn board staff	2
+title	dss	2
+title	ds's portrait of ruin	1
+title	ds training for adults	1
+feature	ds rumble pak	1
+feature	dsa	1
+feature	dsi locking system for additional safety	1
+feature	ds browser	1
+feature	dso	1
+feature	dsp block	1
+feature	dsr	1
+feature	ds's unique feature	1
+feature	dstv	1
+feature	dsp-based architecture	1
+feature	dslr like still images with hd video	1
+development	dsp	1
+type	dsb	1
+venue	dsg venue	1
+criterion	dsm-iv	1
+criterion	dscr	1
+firm	dsp merrill lynch	2
+firm	dsl software	1
+firm	dst systems	1
+industry	dsp	3
+industry	dsm	1
+test	dsst	7
+test	ds-dna antibody test	1
+manufacturer	dsp from ti	1
+manufacturer	dsm	1
+manufacturer	dsl equipment manufacturer	1
+instrument	dsm-iv	1
+feature	dstc	1
+feature	dsi shop	1
+publication	dswd wall news	1
+publication	dsm-iv casebooks	1
+publication	dsm-iv tr	1
+class	dscp-based subscriber traffic class	1
+class	ds	1
+position	ds	3
+position	dsp	1
+website	dslreports	1
+website	dsl reports	1
+figure	dsk	1
+equipment	dsl modem	1
+equipment	dsp resource board	1
+unit	dsm	1
+unit	ds-xtreme	1
+unit	dsp	1
+expense	dss staff salary	1
+innovation	ds one thousand nine hundred and ninety-one  touch memory button.tm 	2
+innovation	dsp synthesis	1
+cause	dslam error at the exchange	1
+mean	dsn	1
+entity	dso	1
+entity	dsp merrill lynch	1
+feature	dsp filtering	1
+feature	dsp related feature	1
+feature	dsi two play store 	1
+format	dss	3
+format	dst	3
+format	dssi	1
+format	dsb	1
+format	dsd	1
+Organisations	dspca	1
+Organisations	dsm engineering plastics	1
+Organisations	dse	1
+partner	dsp	1
+big name	dsquared	1
+big name	ds players	1
+big name	dsm	1
+big name	dsp merrill lynch	1
+standard	dsm-cc	7
+standard	dsml	1
+piece	dsp	1
+advanced feature	dsp block	1
+advanced feature	dsp technoloy	1
+vendor	dsp resource board vendor	1
+vendor	dsp board vendor	1
+vendor	dst	1
+vendor	dsl extreme	1
+design	dsp chip	1
+sector	dsp	1
+store	dsw	9
+store	dsw shoe warehouse	2
+store	dsw shoe	1
+customer	dsl customer	2
+customer	dsv	1
+effort	dss	2
+effort	dsto's armchair warrior program	1
+label	dsquared	3
+department	dss	2
+department	dsp	1
+scheme	dsr	3
+scheme	dsp merrill lynch balanced fund	2
+scheme	dsp blackrock top  one hundred  equity fund 	1
+scheme	dsp ml opportunities	1
+scheme	dsp blackrock small & midcap	1
+duty	ds on the rig	2
+duty	dse assessments	1
+designer	dsquare	1
+designer	dsquared	1
+designer	dsquared two 	1
+software	dscaler	2
+software	dslr remote pro	1
+capability	dsp capability	1
+module	dskt two 	1
+magazine	dsp magazine	1
+asset	dscada electric grid asset	1
+retailer	dsw	7
+retailer	dsw shoes	2
+retailer	dsw inc.	1
+report	dsmb report	3
+report	ds one hundred  top  one hundred  companies of the muslim world 	1
+report	dsmb	1
+party	dsp sw development	1
+professional	dsp engineer	1
+speaker	dsp four hundred and twenty  digital loudspeakers 	1
+machine	dsps with large on-chip memory	1
+competitor	dsm	3
+competitor	dsa community publishing	1
+stakeholder	dse	1
+issue	dss assistance	1
+issue	ds labels	1
+point	dse	1
+corporation	dsm	1
+corporation	dsi footwear	1
+possibility	ds ride	1
+law	dshea	1
+difference	dst offset	1
+flavor	dsl modem	1
+image	dslr	1
+neighborhood	dsrt hot spgs	1
+line	ds three 	1
+package	dss software package	1
+producer	dsm	2
+channel	dstv's hallmark	1
+algorithm	dsr	11
+algorithm	dsdv	5
+algorithm	dsa	4
+text	dss revelation	1
+text	dsm-iv	1
+file	dss speech recording	1
+issue	ds being autistic	1
+platform	ds	4
+service provider	dsl provider	1
+supplier	dsm nutritional products ltd.	1
+supplier	dsa for barrel	1
+fee	dsc early redemption fee	1
+symbol	ds	1
+protocol	dsr	107
+protocol	dsdv	18
+protocol	dsl forum protocol	1
+bank	dssp	1
+card	dstt	4
+card	ds extreme	1
+provision	dsh payment	1
+top brand	dsquared	2
+domain	dsrna binding domain	1
+sensor	dsd	1
+network	dsl	1
+network	dsland cable	1
+upgrade	dsl	1
+shop	dse	1
+authority	dse	1
+stock	dsq software	1
+account	dsw warehouse	1
+large company	dst output	1
+large company	dstv	1
+fund	dspbr world mining	1
+fund	dspml equity	1
+fund	dsp merrill lynch	1
+fund	dsp br equity	1
+fund	dscdm's duchess i	1
+fund	dsp-merrill lynch	1
+fund	dsp br natural resources	1
+fund	dspbr world energy	1
+fund	dsp blackrock balanced	1
+supplement	dsm's joint health supplement	1
+annual event	dss host annual event	1
+database	dsm-iv	1
+forum	dslreports	1
+forum	dsoul	1
+scenario	dsr setup	1
+scenario	ds losing power	1
+signal	dsl carrier	1
+government agency	dswd	6
+government agency	ds office	1
+carrier	dsl provider	1
+carrier	dsl service provider	1
+rival	dsw	1
+genre	dsico	1
+industry leader	dsm	1
+industry leader	dst	1
+advanced topic	dsp	1
+maker	ds co	1
+substrate	dsdna	1
+substrate	dsrna molecule	1
+electronic device	ds system	1
+electronic device	ds player	1
+electronic device	ds's	1
+methodology	dsdm	2
+methodology	dsdm consortium's dynamic systems-development method approach	1
+command	dscl	1
+command	dsptap	1
+issue	dsm iv	1
+issue	dsd over hdmi	1
+issue	dse	1
+practical issue	dsl evolution	1
+giant	dsm	1
+goodie	dsm two  receiver 	1
+establishment	dsta	1
+key player	dsm composites resins	1
+advanced technology	ds storage manager gui	1
+advanced technology	dsp	1
+tribe	dslala	1
+tenant	dsw	2
+kind	ds- seven  of a black model 	1
+interest group	dss employee	1
+national organization	dsa assessment centres	1
+financial institution	dsp merill lynch	2
+link	dsm iv diagnosis	1
+technological advance	dstc	1
+workshop	dslr photography	1
+infrastructure	dsl via satellite	1
+infrastructure	ds one 	1
+online service	dsa's online service	1
+load	dsi load	1
+big company	dsm	1
+interface	ds zero 	1
+assessment	dsb report	1
+software package	dss software package	1
+camera	dslr	2
+camera	dsc-h seven 	1
+camera	dslr without a battery pack in conjunction with prime lens	1
+camera	dslr type camera	1
+body	dslr style body	1
+promotion	dsl cable	1
+international company	dsm	1
+international company	dsd gmbh	1
+supporter	dsm oral health foundation	1
+agreement	dsu	1
+youngster	ds erik johnson	1
+electronics	ds system	1
+electronics	dsl boxes	1
+electronics	dslr camera	1
+certification	dscc mil-std- seven hundred and ninety 	1
+item	ds	1
+info	dsi bundle pack with day	1
+non-governmental organization	dspca	1
+list	dshield	1
+hardware	dsvd modem	1
+innovative feature	dsp capability	2
+public service	dss	2
+international brand	dsquared two  clothing bikkembergs 	1
+international brand	dsquared	1
+major	dsqworld	1
+connection	dsl lines from home	1
+connection	dsl	1
+connection	dsl internet service	1
+shoe	ds trainer	2
+big player	dsm	1
+officer	ds hibbitt	1
+communication system	dsl communication system	1
+expensive item	dsg fluid change on the maintenance schedule	1
+item	dsl	1
+item	dsl modem	1
+item	dsp bluetooth speakerphone	1
+item	dstv decoder	1
+loss	dsp- twenty-three 	1
+privilege	ds	2
+merchant	ds waters	2
+optional accessory	dsb- one 	1
+big brand	dsw shoes	1
+external device	dsp	3
+external device	dsc radio	1
+scale	dsm-based rating scale	1
+editor	dstc's reggie	1
+classification	dsm-iii-r	1
+classification	dsm iv	1
+mod	ds rumble	1
+mobile device	ds	1
+leading company	dsm	1
+innovative product	ds four thousand   raceway 	3
+peer	dsp br balanced	1
+peripheral device	ds one thousand two hundred and eighty-three  watchdog timekeeper 	1
+diagnostic tool	dsm iv	3
+diagnostic tool	dsm	1
+diagnostic tool	dsm iv-tr	1
+social service	dshs for medical assistance	1
+assessment tool	dsm-iii-r criterion	1
+assessment tool	dsm iv	1
+laboratory test	ds test	1
+semiconductor device	dsp	2
+semiconductor device	dsp with an internal ram	1
+architecture	dsp architecture	1
+niche	dsl	1
+experimental parameter	dsrna preparation	1
+great name	ds dundee	1
+file format	dss	2
+popular product	dsc	1
+block	dsp functional block	1
+dye	dsdna binding dye	1
+processor	dsp	10
+processor	dsp-like processor	2
+processor	ds six thousand   cpus 	1
+representation	ds	1
+commitment	ds two 's gym club 	1
+large firm	dsm	2
+folder	dsp from the dialog box	1
+storage device	dstt	1
+outside agency	dsb	1
+area	dsps	3
+top company	dsp merrill lynch	1
+episode	ds nine 's the reckoning 	1
+modern feature	dsx	1
+connector	dsubs	1
+national brand	dsv road limited	1
+consulting service	dsp-related consulting service	1
+communication device	dsp-enabling communication device	1
+personal belonging	dss	2
+comfort	dstv	1
+revenue source	dsh payment	1
+industry organization	dsa	1
+technical service	dsl	1
+emergency service	dse	1
+communication technology	dsrc	3
+controller	dsl optimizer	1
+controller	dsm center dsl optimizer	1
+controller	dsp	1
+controller	dsm center	1
+file type	dss	2
+import	dsm s	1
+import	dsm's	1
+basic material	dsp material	1
+key technology	dsg gearbox	1
+blood test	ds-antidna test	1
+institutional investor	dsp merrill lynch	2
+institutional investor	dsp blackrock trustee company	1
+technology company	dsc communications corp.	1
+area	dss generator	1
+area	dsp programming	1
+area	dss	1
+area	dsm diagnoses	1
+big-ticket item	dslr camera	1
+business group	dsm agro	1
+business group	dsm elastomers	1
+business group	dsm pharmaceutical products	1
+global player	dsm	1
+community agency	dss	1
+technological advancement	dsg	2
+social institution	dsq playing a role in controlling the lives of people with a disability	1
+top brand name	dsquared	2
+advanced application	dsa	1
+computer system	dsd computer system	1
+grade	dsocc	2
+electrical item	dss	1
+predecessor	dsm-iv	1
+electronic item	dslr camera	1
+electronic item	dsi	1
+electronic item	dsi games	1
+exam	dsst astronomy	1
+free gift	ds lite	1
+multimedia application	dsp	1
+national event	dsp conference	1
+computer game	ds	1
+gang	dsn	1
+cargo	dsdna	1
+laboratory	dshs	1
+acronym	ds three 	1
+seller	dsg	2
+boxes	dsp  one 	1
+chip	dsp one 	1
+imaging study	dsa	1
+industry heavyweight	dsm	3
+paradigm	dsl programming	1
+role player	ds role player	1
+control function	dsp selection	1
+state institution	dso	1
+not-for-profit organization	dsea	1
+thread	ds games thread	1
+online	dsquared two  item available online 	1
+equipment manufacturer	dsl equipment manufacturer	1
+handheld device	ds  three d 	1
+high-profile case	dsg retail	1
+ratio	dscr	1
+probe	dsred	1
+area	dsp design	1
+service	dsp	5
+service	dsl	3
+national institution	dsa of the mgap	1
+satellite	dscs iii	1
+building block	dsp core	1
+digital device	dss receiver	1
+simple application	dsptrgd command	1
+luxury amenity	dstv	1
+funding agency	dst	3
+high profile company	dst systems	1
+edition	dsm-ii	1
+global giant	dsm	1
+fashion house	dsquared	4
+electronic part	dsp	3
+anchor	dsw	1
+manual	dsm-iv	1
+factor	dsr score	1
+factor	dss functionalities	1
+factor	dsl provider	1
+factor	dsd	1
+service	ds- one 	2
+service	dsl router	1
+service	dsl internet service	1
+service	dsa's online service	1
+basic resource	dsl connection	1
+milk product	dsm	1
+routine matter	dss child support enforcement case	1
+audio format	dsd	1
+key resource	dsp	1
+mutual fund	dsp blackrock	1
+mutual fund	dsp merrill lynch mutual fund	1
+productivity tool	dsplogic's reconfigurable computing toolbox with seamless matlab integration	1
+network protocol	dsn	1
+macromolecules	dsdna	1
+electronic tool	dsp-based eq	1
+access point	dsl modem	1
+service	dsl broadband	1
+service	dshs repair work	1
+service	dsl internet & phone service	1
+service	dsl internet & phone service.	1
+service	dsng	1
+service	dsrr	1
+telescope	ds- seventy  ec 	1
+telescope	ds- one hundred and fourteen  ec 	1
+international partner	dsm	1
+national tenant	dsw	1
+brokerage	dsp merrill lynch	1
+private sector company	dsb	1
+arrival	dsl market arrival	1
+corporate partner	dstv channels mnet	1
+global firm	dsp merrill lynch	1
+music star	dsp kofi sarpong	1
+social service agency	dshs	2
+coalition	dshs	1
+embedded system	dsp	1
+medium file	dss	1
+consumer electronic product	dstt	5
+business event	dsei	1
+world-class company	dsc logistics	1
+amplifier	dsp- five hundred and sixty 	1
+imaging procedure	dsa	1
+digital service	ds- three 	1
+digital service	ds- one 	1
+microprocessor	dsp	2
+service	dsng vans fabrication	1
+service	ds one 	1
+service	dsl service	1
+service	dsl support	1
+service	dsn	1
+service	dsl internet access	1
+service	dss	1
+service	dsp-related consulting service	1
+core technology	dsp design	1
+adapter	ds cartridge adapter	1
+financial factor	dscr	1
+embedded application	dsp	1
+student characteristic	dsm-iv-tr diagnostic category	2
+digital datum	ds one  datum 	1
+ICs	dsp	2
+classification system	dsm	2
+classification system	dsm-iv	1
+classification system	dsmiv	1
+external service	dsl reports five  tool 	1
+external service	dss	1
+external service	dsl reports tool	1
+official source	dss	1
+prominent organization	dsbl	1
+action game	ds-styled action game	1
+popular store	dsw	1
+member company	dsa member company	1
+breeder	dsv	1
+complex item	dslrs sight unseen	1
+discounter	dsw	1
+fashion label	dsquared	1
+physical component	dsp device	1
+development agency	dse	1
+pilot project	dsfs	1
+upstart	dsl providers northpoint communications	1
+institutional client	dsm	1
+large multinational	dsm	1
+chemical company	dsm	1
+hardware feature	ds's dual screen	1
+topic	dsp	1
+state-owned company	dsm	1
+integrated circuit	dsp	3
+common property	dscp value	1
+puzzle game	ds puzzle game	1
+county agency	dss	2
+pedal	ds- one 	1
+pharmacokinetic parameter	dspc half-life	1
+fund house	dsp blackrock	2
+fund house	dsp blackrock mf	1
+regulatory mechanism	dsm regulations	2
+standard interface	dspf	3
+hardware solution	dsl router	1
+anchor store	dsw	1
+core	dsp	2
+costly item	ds game	1
+embedded device	dsl routers	1
+oscillator	dsp- ninety-three  clock oscillator 	1
+multi-nationals	dsm	1
+advanced device	dsi	1
+valuable tool	dsm	1
+jacket	dsg triton	1
+jacket	dsg pheonix	1
+jacket	dsg maze	1
+jacket	dsg nero	1
+datum provider	dshield	1
+school project	dsd project	1
+local government agency	dss	1
+independent third party	dst health solutions	2
+asian company	dsg	1
+datum product	dstv mobile	1
+instructional program	dsps	1
+hardware resource	dsp chip	1
+hardware resource	dsp	1
+high profile organization	dsto	1
+large international company	dsm	1
+big box retailer	dsw	1
+characterization method	dsc	1
+online system	ds nitris	1
+broadband service	ds one 	1
+broadband service	ds three  data transport service 	1
+datum model	dsm	2
+state department	dswd	1
+ontology	dsnotifyeventset vocabulary	1
+encryption algorithm	dsa	2
+entertainment device	ds's	2
+extra	ds lite extra	1
+mathematical method	dsa	1
+rating scale	dsm-based rating scale	1
+ides	dsp development ides	1
+wireless communication	dsrc	1
+camera accessory	dslr lens	1
+processing device	dsp	2
+digital content	dsiware game	1
+economic model	dsge model	1
+handhelds	ds lite	1
+korean company	dsme	1
+clinical criterion	dsm iii	1
+applicat ion	dsp function	1
+home improvement service	dslr listing photography	1
+professional publication	dsm-iv	1
+electronic game	ds	1
+local datum	dsr route request	1
+retail partner	dsw	1
+system attribute	dsp attribute	2
+system attribute	dspattributes	1
+world famous company	dsm	1
+free information	dslr tips	1
+functional product	dslr bag	1
+integrated service	dsl	1
+programmable device	dsp	1
+internet connection	dsl modem	2
+internet connection	dsl interface	1
+internet connection	dsl	1
+specialty ingredient	dsm's health ingredient	1
+high bandwidth application	dsl fallback	1
+company	dsm	33
+company	dsa	3
+company	dsp merrill lynch	2
+company	dsw shoe warehouse	2
+company	dss	2
+cryptographic algorithm	dsa	3
+small expense	dstv sub	1
+high-bandwidth application	dsp	1
+running cost	dstv	2
+broadband technology	dsl	1
+diagnostic criterion	dsm-iii	1
+diagnostic criterion	dsm iv	1
+diagnostic criterion	dsm-iv-tr	1
+diagnostic criterion	dsm-iii-r	1
+diagnostic criterion	dsm-iv	1
+matrix protein	dspp	1
+broadband provider	dsl operator	1
+large corporate client	dsm	1
+logic circuit	dsp	1
+pioneering company	dsm	2
+UK retailer	dsg international	1
+hardware requirement	dsl high speed	1
+patented technology	dsi locking system	1
+portable system	dsi	1
+digital source	dss	6
+simulation model	dspace's automotive simulation models	1
+state actor	dsi involved in gediz basin water management	1
+modem	dsl modem	1
+register	dsp initializes critical register	1
+animal welfare group	dspca	1
+company	dsl gateway provider	1
+company	dsi digital	1
+company	dst health solutions	1
+company	dsw	1
+company	dss consulting	1
+company	dst	1
+company	ds smith recycling	1
+company	ds gmbh	1
+company	ds graphics	1
+company	dsb	1
+company	dscl sugar	1
+company	dsi installation	1
+company	dsm china	1
+communication line	dsl line	1
+diagnostic instrument	dsm-iv	1
+public database	dssp	1
+reporter gene	dsred two  gene 	2
+advanced user	dslr owner	1
+industrial partner	dsm	2
+portable product	dsc	1
+DSL provider	dsl extreme	1
+risk indicator	dss involvement	1
+supplementary product	dsl modem	1
+agile method	dsdm	8
+fluorescent protein	dsred	2
+reliable company	dsm	2
+routing protocol	dsr	5
+routing protocol	dsdv	4
+brand shoe	dsquared shoe	2
+brand shoe	dsquared men shoe	2
+development method	dsdm	1
+electronics store	dse	1
+fluorophores	dsred protein	4
+network equipment	dslam	1
+image processing device	dsp	1
+transmission method	dsss	1
+business -metric	dso	1
+database function	dsum	1
+initial	ds dw ds dt dr dwhatever	1
+expensive system	dsi	1
+company	dsp merill lynch	1
+company	dsp blackrock	1
+company	dsv	1
+company	dsp	1
+company	dsx access systems inc.	1
+company	dss inc. in juno beach	1
+company	dssa management	1
+company	dsq software	1
+company	dsn technology	1
+company	dsa member company	1
+company	ds smith	1
+company	dsg	1
+high-tech service	dsl line	1
+CASE tool	dsee	1
+processing unit	dsm screen	1
+datum processing device	dsp	1
+categorical program	dsps	2
+delivery technology	dsl-based broadband	1
+diagnostic system	dsm-iv	3
+diagnostic system	dsm iv-r	1
+diagnostic system	dsm iv	1
+autonomic feature	ds four thousand   service alert 	1
+autonomic feature	ds four thousand   alert manager 	1
+proteoglycans	dspg	1
+t-shirt	dsquared	1
+well datum	dst analysis	1
+access option	dsl connectivity	1
+government report	dsd households below average income survey	1
+IC	dsp	2
+network node	dslam  three hundred and four 	1
+shoe store	dsw	6
+signal type	ds- three 	1
+agile technique	dsdm	1
+dutch company	dsm	4
+antibody fragment	dsfv fragment	1
+brand name clothes	dsquared	1
+broadband connection	dsl modem	4
+broadband connection	dsl line	1
+broadband connection	dsl modems providing an always online connection	1
+large manufacturing company	dsm	1
+legacy application	dsa	1
+military program	dscs	1
+bundle	dsi	1
+complex algorithm	ds	1
+complex algorithm	dsa	1
+high speed device	dsp	1
+national scheme	dsa schools programme	1
+user community	dsag	1
+access scheme	ds-cdma without sic	1
+audio file format	dss	1
+functional block	dsp functional block	1
+government unit	dswd	1
+scientific name	dsungaripterus wii	1
+telecom product	dss module	1
+academic honor	dsc by research from london university	1
+broadband service provider	dsl company	1
+common protocol	dsr	1
+mutual fund house	dsp black	1
+semiconductor integrated circuit	dsp	1
+agile methodology	dsdm	2
+flash card	dstt	3
+flash card	ds r four 	1
+postemergence herbicide	dsma	1
+activity	dsn scheduling	1
+stand-alone program	ds nine 	1
+standard algorithm	dsa	1
+taxonomy	dsm-iv	2
+financial house	dsp merrill lynch	1
+hash algorithm	dsa	1
+proven solution	dsl providers	1
+vital public service	dss	1
+purpose processor	dsp	3
+dynamic test	dst	1
+countless application	dsp	2
+epithelial marker	dsg one 	1
+equity fund	dsp equity fund	1
+research funding agency	dst	2
+structural model	dsge model	1
+bridge component	ds	1
+cryptosystems	dsa	1
+datum protocol	ds- one hundred and two 	1
+datum protocol	ds- one hundred and one 	1
+music producer	dsan powell	1
+personality measure	dsi in driver training	1
+popular protocol	dsr	2
+professional standard	dsm-iv	1
+sound option	dsee	1
+classic program	dssp	1
+digital signature	dsa	1
+famous brand product	dsquared	1
+reporting agency	dss	1
+term effect	ds doing better in school later	1
+balanced fund	dspbr balanced	2
+balanced fund	dsp br balanced	1
+customer premise equipment	dsl modem	1
+digital file format	dss olympus	1
+digital file format	dss	1
+embedded processor	dsp processor	1
+embedded processor	dsp	1
+international fund	dspbr world energy fund	1
+international fund	dspbr world mining fund	1
+large multinational firm	dsm from the netherlands	1
+nationwide retailer	dsw shoe warehouse	1
+well-known multinational	dsm	1
+emerging wireless technology	dsrc	1
+package manager	dselect	1
+regulatory information	dsl status	1
+agile process	dsdm	1
+information	dsc emergency datum	2
+information	dsid in a packet header	2
+information	dsl mode	1
+information	dstm controller store binding information	1
+information	dsp temperature	1
+information	dsc	1
+county project	dss building	1
+developmental course	ds e ninety-nine 	2
+government funding agency	dst	1
+high-speed Internet connection	dsl connection	1
+high-speed Internet connection	dsl link	1
+independent system	ds- two thousand   digital steering 	1
+international powerhouse	dsm	1
+typology	dsm-iv-tr	2
+analog function	dsm based adc	1
+assessment approach	dsmiv assessment	1
+handheld system	dsi	1
+handheld system	ds lite	1
+high-speed connection	dsl	1
+marketing plan	dsr training	1
+networking issue	dsaccess topology	1
+operational criterion	dsm-iv	1
+signature scheme	dsa	2
+desirable outcome	dse assuming the strategic policy	1
+firearm manufacturer	ds arms	2
+IP core	dsp processor	2
+IP core	dsp	1
+PAMPs	dsrna from bacterium	1
+party organization	dscc	1
+user agency	dss	1
+information	dsm's diagnostic criterion	1
+information	dscp	1
+distinguished name	dsm netherlands	1
+IP block	dsp core	1
+public-key algorithm	dsa	1
+science agency	dst	1
+science agency	dsir	1
+co-tenants	dsw	1
+credit card type	ds for discover	1
+modern electronic gadget	ds	1
+signal processing circuit	dsp	1
+world famous enterprise	dsm	1
+biotoxins	dsp	1
+broadband solution	dsl line	1
+competitive local exchange carrier	dsl provider	1
+external funding agency	dst	1
+high speed internet connection	dslor a t one  line 	1
+housing complex	dsk chandradeep	1
+ISP service	dsci	1
+letter acronym	dsss	1
+oversight committee	dsmb	1
+signaling mechanism	dsss	1
+supplementary equipment	dss module	1
+unique feature	ds's unique feature	1
+broadband internet connection	dsl modem	7
+broadband internet connection	dsl connection	1
+fluorescent marker	dsred	1
+monitor datum	dss's azimuth	1
+multimodal system	dsvii product line	1
+particle method	dsmc	2
+proactive protocol	dsdv	7
+public key algorithm	dsa	1
+required criterion	dscp	1
+top fund	dsp blackrock tiger fund	1
+travel facility	dsv in ruby	1
+agile software development method	dsdm	1
+angiographic technique	dsa	1
+digital video system	dss system	2
+DS	dsi	1
+expensive electronic item	dspics	1
+flashcarts	dstt	1
+flashcarts	dslink	1
+innovative financing method	dsm incentive	1
+internet connectivity option	dsl product	1
+level signal	ds- three 	2
+level signal	ds one 	1
+event	dsp olympics	1
+event	dse	1
+event	ds nine 's way of the warrior 	1
+prestigious clothing brand	dsquared	1
+well-known pharmaceutical company	ds	1
+agile approach	dsdm	2
+application specific	dsmcc file structure	1
+asymmetric algorithm	dsa	2
+bouquet	dstv select	1
+commodity fund	dsp br world gold fund	1
+commodity fund	dsp blackrock world energy fund	1
+debt management company	dsn	1
+digital signature algorithm	dsa	2
+empty field	dscp in the ip header	1
+fast processor	dsp	1
+high-speed Internet service	dsl hook-up	1
+large budget item	dss	1
+original computer setting	dsl setting	1
+speed test	dsl speed test	1
+summative datum	dstp result	1
+swiss and japanese company	dsm	1
+UK client	dsg	2
+bandwidth service	ds one 	1
+cross-linkers	dss	1
+program	dsps	5
+program	dsm	2
+fast internet connection	dsl data line	1
+fast internet connection	dsl for sip telephony	1
+hand-held game	ds	2
+high speed internet	dsl through the phone company	1
+large gene	dscam	1
+national or international organization	dsdm consortium	1
+overexpressed gene	dsc two 	1
+planning authority	dse	1
+political figurehead	dsk	1
+reactive protocol	dsr	10
+software engineering tool	dssa	1
+thematic fund	dsp blackrock natural resources	1
+year big name	dsm	1
+bag type	dslr bag	1
+brand dress shirt	dsquared	1
+commercial database service	dsc orbit	1
+datum path	ds one  path 	1
+digital signature scheme	dsa	2
+domain function	dsum	1
+energy-efficiency program	dsm	1
+enzyme company	dsm	2
+frontends	dselect	1
+italian shoe	dsquared shoe	1
+nintendo product	ds	1
+nintendo product	ds game	1
+nintendo product	dsi	1
+program	dss	1
+program	dssa	1
+program	dsi ware	1
+on-device component	dsp core	1
+project methodology	dsdm	1
+prominent nationalist	ds senanayake	1
+Self-components	dsdna	2
+sequence spread spectrum system	ds-cdma system	1
+session parameter	dscp	1
+strong algorithm	dsa	1
+third party equipment	dsl router	1
+unit specific information	dsp version	1
+well-established player	dsm	1
+wideband communication system	dsss system	1
+asymmetric encryption algorithm	dsa	1
+autofluorescent protein	dsred	1
+disparate connection	dsl	1
+DSP feature	dsp slope	1
+dutch multinational	dsm	1
+failure case	dsp crash	2
+financial analysis tool	dscr	1
+handheld electronic game	ds	1
+high-speed internet access technology	dsl	1
+host annual event	dss host annual event	1
+internal process	dsa's internal process	1
+local internet service provider	dsl internet provider	1
+on-demand protocol	dsr	2
+others protocol	dsr	1
+others protocol	dsdv	1
+premium organization	dscl ltd.	1
+processing circuit	dsp	1
+quality camera	dslr's with larger sensor	1
+quiet time activity	ds game	1
+recognised assessment tool	dsm iv	1
+reporter protein	dsred	1
+resource element	dsp block	1
+set-top box	dss box	1
+nemo	dsv sea cliff	0
+ad-hocrouting protocol	dsr	2
+ad-hocrouting protocol	dsdv	2
+agent type	ds	1
+agile software development approach	dsdm	1
+broadband line	dsl for the xbox	1
+composition type	ds	3
+datapath function	dsl mib implementation	1
+diagnostic mechanism	dsm-iv-tr a variety of tailored strategy	1
+digital sound file	dss file	1
+external modem	dsl modem	1
+format conversion	dsb	3
+GV series card	dsp card	1
+host interface	dsp of ti	1
+immigration application	ds- three thousand and thirty-six  exchange visitor program application 	2
+integrated telecommunication device	dsl access multiplexer	2
+internet message board	dsl reports	1
+layer datum	dscp	1
+low-speed signal	ds one c 	1
+low-speed signal	ds two 	1
+program	dsmc	1
+program	ds nine   four 	1
+program	dsto involvement in cooperative research centres	1
+program	dsp&s	1
+luminescent protein	dsred	1
+MANET protocol	dsdv	2
+MANET protocol	dsr	2
+processor resource	dsp	2
+public key scheme	dsa	1
+public-key cryptosystems	dsa	1
+record game	ds	1
+routing scheme	dsr	2
+server-side email filter	dspam	4
+specialty chemical company	dsm	1
+system level tool	dsp builder	1
+visa document	ds- two thousand and nineteen 	1
+wireless LAN attack tool	dsnifi	1
+adjunct technology	dsrc	1
+always-on connection	dsl line	3
+anti-interference technology	dsss	1
+attribute selector	dsorg	1
+behavior model	dsp function	1
+binder test	dsr	1
+broadband device	dsl internet	1
+conventional migration technique	dsn one copy 	1
+factor	dsl signal quality	1
+DSP tool	dsp builder	4
+expensive board	ds three & four 	1
+formulation type	ds	3
+free game system	ds	1
+game copying device	dstt	1
+ground connection	dss dish	2
+hand-held entertainment device	ds s	1
+healthcare side organization	dst health solutions	1
+kinetic approach	dsmc method	1
+korean entertainment company	dsp	1
+large-cap fund	dspbr top  one hundred  equity 	8
+lower-end product	dsl modem	1
+market driven organization	dst output	1
+non-consumable electrode	dsa used in a number of electrochemical synthesis applications e.g. electrowinning of metals practiced on a large scale in the production of electrorefined zinc	1
+parent node	dsl modem	1
+particle-based method	dsmc	1
+personal financial record	dshs payment	2
+public-key cryptography system	dsa	1
+router protocol	dsr	1
+Rout-ingprotocols	dsdv	1
+russian filmmaker	dsiga vertov	1
+organization	dstc	2
+single seat vehicle	dsr	1
+super hot item	ds	1
+thin film solar cell	dssc solar cell	1
+advanced security application	dscc	1
+agile programming methodology	dsdm	1
+air force system	dscs	2
+asynchronous signal	ds one 	1
+australian public sector research organization	dsto	1
+binding information	dstm controller store binding information	1
+brand T-shirts	dsquared	3
+concentration point	dslam in the case of a broadband connection	1
+co-ordination structure	dsgs	1
+datum warehousing component	dss tool	1
+directional symbol	ds al coda	1
+DS activity	ds ut interactive booth	1
+DSL company	dsl net	1
+organization	dswd for the reach out program of the intermediate	1
+organization	dst systems	1
+organization	dsir	1
+organization	dse	1
+federal mechanism	dsh payment	1
+feeder fund	dsp blackrock world energy fund	1
+high capacity bandwidth	ds- three 	1
+high capacity circuit	ds- three 	2
+high capacity circuit	ds- one 	2
+high capacity circuit	ds- zero 	2
+high-level graphical programming development tool	dsplogic's reconfigurable computing toolbox	1
+iccavr various library module	ds one thousand three hundred and two 	1
+increasingly lower cost new technology	dssc	1
+industry acronym	dshea	1
+introduction agile software development methodology	dsdm	1
+korean yard	dsme	1
+meade camera	dsi pro monochrome	1
+meade camera	dsi color	1
+meade camera	dsi pro ii	1
+meade camera	dsi ii color	1
+modern cryptosystems	dss	2
+optical glass element	dsa glass	2
+pipelined microsystem	dsp	1
+popular electronics device	dsp	1
+organization	dsica in australia	1
+organization	dsea	1
+organization	dsto	1
+organization	dss speakers bureau	1
+organization	dsp merrill lynch	1
+prewritten treatment plan component	dsmiv diagnosis	1
+pre-written treatment plan component	dsm-iv diagnosis	1
+priority control	dscp	1
+psychiatric diagnostic system	dsm-iv	1
+public key cryptography system	dsa	1
+retail boss	dsgi's john browett	1
+robust development tool	dsp starter kits	1
+security space-based system	dsp	1
+speed test site	dsl reports	1
+standard cryptographic algorithm	dsa	1
+state-level group	dshs mental health planning	1
+streaming device	ds	1
+style language	dsssl	1
+trotskyist organization	dsp	1
+venerable lighter distros	dsl	1
+VLSI chip	dsp chip	1
+year new client	dsm	1
+2FA solution	ds three 	2
+access circuit	ds one 	1
+ad-hoc protocol	dsdv	1
+ad-hoc protocol	dsr	1
+advanced design technology	dsp	1
+anti-jamming technique	dsss with channel hopping	1
+antispam engine	dspam	3
+arithmetic processor	dsp	1
+article discussingvarious technology	dsn-less connection	1
+article discussingvarious technology	dsn connection	1
+automated reporting service	dshield	1
+automatic datum processing task	dsm generation	1
+basic financial -metric	dscr	1
+technique	dsss technology	2
+technique	dsr	2
+technique	dsdv	1
+technique	dss c approach	1
+technique	dsc	1
+technique	dsmod group command	1
+basic telephony need	dsl internet	1
+Blocksets	dsp blockset	3
+broadband modem	dsl modem	1
+chronic disease model	dss-induced colitis	1
+civilian submarine	dsv alvin	2
+connection file	dsn	1
+conventional digital signature	dsa	1
+CSM management function	dsh	1
+cult international label	dsquared two 	1
+debian tool	dselect	1
+decent package manager	dselect	1
+decontamination system	ds two  solution 	1
+desmosomal component	dsg  two 	1
+diagnostic classification system	dsm-iv	1
+diagnostic manual	dsm-iii	1
+diagnostic manual	dsm-iv-tr	1
+digital logic	dsp	1
+direction various agency	dst	1
+donor-assisted project	dssp	1
+dsi accessory	dsi charger	2
+earth connection	dss dish	1
+embedded target	dsps with the national instruments labview graphical development environment	1
+end lotion	ds-phonecian	1
+end lotion	ds-black	1
+european biopharmaceutical company	dsm	1
+extended mode	dsl grammar	1
+external reference number	dsr number	2
+external reference number	dsr associated with the job	1
+fitting formula	dsl v five 	2
+flexible use	dsb data transmission while transmitting dual video	1
+fluorescence marker	dsred	1
+formal classification system	dsm-iv	1
+technique	dsss modulation	1
+geosync satellite	dsp sats	1
+high bandwidth internet connection	dsl connection	1
+high speed broadband internet service	dsl modem	1
+high-speed Internet access	dslor cable	1
+homebrew browser	dshobro	1
+iaudio's signature feature	dsp feature	1
+inconceivable, system	dsp satellite	2
+installed, high-speed service	dsl modem	1
+intelligent sensor	dsm one - ten  speed sensor 	1
+introduction agile method	dsdm	1
+latest network technology	dsl service	1
+ldap-compliant tool	dsquery . exe	1
+ldap-compliant tool	dsmod . exe	1
+ldap-compliant tool	dsadd . exe	1
+master circuit	dsp	1
+member dutch company	dsm	1
+mile technology	dsl in an increasing number of geographical area	1
+military and commercial switching system	dsn	1
+mining fund	dsp blackrock world gold fund	1
+modern control technology	dspdrive process of nanotec controller	1
+modern software development method	dsdm atern	1
+modern system development approach	dsdm	1
+neck-breaking shoe	dsquared high top sneaker	1
+next-generation service provider	dsl provider	2
+non photo card	dsas	1
+non photo card	dsns	1
+application	dsc calling	2
+application	dss	1
+application	dsp one	1
+application	dss tool	1
+application	dsc alarm	1
+operational diagnostic system	dsmiv	3
+picture instrument	dsc phone	1
+pioneering start-ups	dsc communications	1
+PLM company	ds	1
+point-to-point network	ds- three 	1
+portable gaming system	ds	1
+power bigger device	dslr battery	1
+professional audio production program	dsp quattro	1
+professional high-quality product	dsp	1
+promotional outreach material	dsp&s banner	1
+psychiatric classification	dsm-iii	1
+purpose microprocessor	dsp	1
+reactive algorithm	dsr	3
+reference area	dsmaxtheaftermath	1
+resin company	dsm	1
+rich downloadable content	dsi game	1
+second-generation player	ds construction	1
+senior umno's leader	ds rais yatim	2
+senior umno's leader	ds muhyiddin yassin	2
+shoe website	dsw.com	1
+Simulink Blocksets	dsp blockset	1
+so-called high-speed internet connection	dsl line	1
+spread-spectrum technique	dsss	1
+standard business cycle model	dsge models used for monetary policy analysis	3
+standard dictation format	dss	1
+standards-based mechanism	dscp qos tag	3
+STB device	dss receiver	1
+application	dsp routine	1
+application	dsmc	1
+application	dsp	1
+tag type	dst tag	1
+tdr-capable instrument	dsa eight thousand two hundred  oscilloscope 	1
+thriving organization	dsa	1
+verizon product	dsl internet service	1
+virtual pet game	ds nintendogs	2
+wire-line access application	dsl modem	1
+world standard telecommunication network format	ds- three 	1
+1-wire device	ds eighteen b twenty  digital temperature sensor 	1
+8-bit board	dsp pc four 	1
+ad hocrouting protocol	dsr	1
+Adhocprotocols	dsr	1
+air force space system	dsp	1
+altera DSP tool	dsp builder	1
+alternate communication line	dsl from separate provider	1
+application necessity	dsn	1
+asymmetric component	dsa	1
+asymmetric cryptosystem	dsa	1
+austin-area store	dsw	1
+australian offline retailer	dse	1
+avocent enterprise solution	dsr kvm over ip switch	1
+back-office accounting -metric	dso	1
+bandwidth physical link	ds- three 	1
+bandwidth solution	dsl service	1
+binder rheological test	dsr	1
+broadband network operator	dsl provider	1
+name	dst	1
+name	dso	1
+name	dss	1
+name	dstore	1
+caramel colour	ds- four hundred 	1
+carrier mode	dsb	1
+car-to-car communication	dsrc	1
+categorical counseling program	dsps	1
+categorical state funded program	dsps	1
+categorical state-funded program	dsps	2
+categorical system	dsmiv	1
+categorical system	dsm-iv	1
+CDMA variant	ds-cdma	1
+CDMA-based 3G system	ds-cdma	1
+Channel Associated Signaling	ds one  robbed bit signaling 	1
+citroen car	ds	1
+classical ad-hocrouting protocol	dsr	1
+classical ad-hocrouting protocol	dsdv	1
+clinical diagnostic system	dsm-iv	1
+coaxial cable assembly	dsx test cables	1
+commercial debuggers	ds- five  debugger 	1
+common diagnostic criterion	dsm-iv-tr	1
+common diagnostic tool	dsm	1
+common low rate signal	ds one 	1
+conclusion many embedded application	dsp application	2
+constant block	dsp constant	1
+conventional mobile adhocrouting protocol	dsr	1
+conventional radio technology	ds-cdma	1
+conventional single-carrier protocol	ds-cdma	2
+credit-by-exam program	dsst	1
+credit-by-examination test	dsst	1
+diabetic testing product	ds five  instrument 	1
+difficult discipline	dsp-board development	1
+Digital enhancers	dsee	1
+digital signature generation algorithm	dsa	1
+digital telecommunication service	ds- three 	1
+digital telecommunication service	ds- one 	1
+distance-dependent technology	dsl service	1
+distro's live cd	ds linux	1
+domain-specific method	dsdm	1
+domestic and federal program	dsha's delaware emergency mortgage assistance program	1
+DS card	dstt	1
+DS lite repair part	ds lite replacement upper lcd	1
+DS lite repair part	ds lite replacement lower lcd	1
+DS model	ds lite	3
+DS model	ds phat	1
+DS repair part	ds replacement upper lcd	1
+DS repair part	ds replacement lower lcd	1
+dsi repair part	dsi replacement lower lcd	1
+dsi repair part	dsi replacement upper lcd	1
+DSP farm service information	dsp resource allocation for transcoding	2
+Dsquared T shirt online	dsquared polo t shirt	2
+earliest protocol	dsr	2
+earliest protocol	dsdv	2
+end deck	dsr one thousand eight hundred 	1
+end version	ds four  with the heatpipe cooling system 	1
+end-to-end tributary service	dsl	1
+end-to-end tributary service	ds three 	1
+end-user analytical activity	dss modeling using spreadsheet	1
+enjoy extra	dss satellite tvs in every room	1
+EPhotovoltaics	dssc	1
+established public-key system	dsa	1
+european food ingredient company	dsm	2
+external motion controller	dspmc	1
+Fancy creatines	ds replenish	1
+name	dsp	1
+name	ds kulkarni	1
+name	dsp merrill lynch	1
+film equipment	dslr camera	1
+financial analysis effort	dscr analysis	1
+finite state system	dsp systems with finite data path bits per word	1
+formal diagnostic system	dsm-iv	1
+formal priority marking	dscp	1
+formal rapid application development approach	dsdm	1
+fully-featured distribution	dsl linux	1
+fun USB drive	dslr camera usb flash drive	1
+general-purpose programmable processor	dsp	1
+global ingredient company	dsm	1
+government funded research agency	dsir	1
+handheld game platform	ds	1
+hardware functional block	dsp	1
+hardware-based NAT device	dsl router	1
+hardware-based platform	dsp core	1
+head end LRUs	dsus  one hundred and four 	3
+high speed broadband internet provider	dsl internet service	1
+higher-level signal	ds three  signal 	2
+higher-level signal	ds two 	2
+HM game	ds cute	1
+home high-speed internet connection	dsl modem	2
+ICE member	dscoop's current president	1
+incorporated diagnostic screening tool	dsm-iv tr	1
+increasingly sophisticated ICT application	dss	1
+industrial format	dst	1
+inexpensive department store telescope	ds- seventy  ec 	1
+interactive version	ds	1
+international television	dst tv	1
+inter-services structure	dssc	1
+jammingmitigation spread-spectrum technique	dsss	1
+key generation scheme	dsa	1
+key nintendo DS feature	ds wireless service	2
+land-based high speed Internet connection	dsl modem	1
+large logic block	dsp block	1
+latest fireware	dsi v one . fourty-three 	1
+latest firmware	dsi v one . fourty-three 	1
+latest technological advancement	dsp on modern rig	1
+leninist organization	dsp	1
+lie bandwidth option	dsl	1
+factor	dsn's capacity	1
+name	ds jim carver	1
+name	dsg international	1
+case	ds- three  entrance facility without equipment 	1
+case	dsa	1
+case	dsc of concord	1
+case	dso	1
+case	ds- one 	1
+case	dsk case	1
+live-cd distros	dsl	1
+london demo	dsei docklands	1
+loopfree distance vector protocol	dsdv	1
+loop-free distance vector protocol	dsdv	2
+lossy fast ME algorithm	ds	1
+massive shoe outlet	dsw on powell	1
+measure-mentsshowthe asymmetric algorithm	dsa	1
+minihdmi device	dslr camera	1
+minimum hop count protocol	dsr	1
+mobile gaming platform	ds	1
+modern classification	dsm-iv	1
+modern classification system	dsm-iv	1
+modern classification system	dsm-iii-r	1
+modern psychiatric classification system	dsm-iv	1
+modern RAID controller	ds four thousand eight hundred  fibre channel controller 	1
+multiplication intensive application	dsp	1
+network gateway	dsl modem	1
+ngroute discovery algorithm	dsr	1
+nice analog	dsi mono evolver	1
+Nintendo DS flash card	dstt	1
+Nintendo DS model	ds lite	1
+nintendo platform	ds	1
+non-passthrough drive	dsa drive	1
+non-pcm format	dsd	1
+non-structured clinical diagnostic classification system	dsm-iv	1
+open programming liquid handling platform	dsx	1
+open programming liquid handling platform	ds two 	1
+operationalised diagnostic criterion	dsm-iv	1
+operationalized criterion	dsm-iv	1
+partly well-known company	dsm elastomers	1
+PDH signal	ds one 	2
+perfumey scented lotion	ds luminary	1
+Photovoltaics	dssc	1
+Phycotoxins	dsp	3
+plainsignatures plain digital signature scheme	dsa	1
+popular mobile ad-hoc network algorithm	dsdv	1
+case	dsk	1
+case	dsl modem	1
+practical scheme	dsa	1
+preloaded software title	dsi browser	1
+prevailing platform	dsl technology	1
+private consultancy firm	dsp financial consultants	1
+production store low level setting	dsp configuration	1
+programmable IC	dsp	1
+pro-gramming liquid handling platform	dsx	1
+pro-gramming liquid handling platform	ds two 	1
+public key encryption method	dsa method	1
+purpose programmable processor	dsp	1
+qos marking	dscp	1
+recommendation multiaxial framework	dsm-iv	1
+redesigns	ds lite	1
+regular leader	ds described	1
+repository system	dspace  six 	1
+Roland GS synth	ds three hundred and thirty  dr synth 	1
+scientific standpoint diagnostic manual	dsm-iv	1
+second communication device	dsl communications device	1
+sequential equivalent-time sampling oscilloscope	dsa eight thousand two hundred  digital serial analyzer available from tektronix 	2
+series PHYs	dsss	2
+shareholder association	dsw	1
+side producer	dsb of mental st eight  music 	1
+signature system	dsa	1
+signing algorithm	dsa	1
+soft core	dsp	1
+sony digital camera	dsc-t three hundred 	1
+sony's slr-like camera	dsc-h seven 	1
+sound enhancement funtions	dsee	1
+source-routed protocol	dsr	1
+south korean entertainment company	dsp media	1
+specialty block	dsp	1
+speed DNA service	ds- zero 	1
+SSR client component	dsa	1
+standard Ethernet attached internet connection	dsl modem	2
+standard schedule	dsr	1
+standardized lexicon	dsm-iii	1
+suggested handheld and console system	ds	1
+suitable hardware	dsp	1
+support filter	dscaler deinterlace	1
+option	dsl	3
+telecommunication line	ds one  subscriber line 	1
+temporal planner	ds one  remote agent planner 	1
+testicular parameter	dsp per gram of testicular parenchyma	1
+topology change event	dsl activation event	1
+topology change event	dsl deactivation event	1
+touch memory device	ds one thousand nine hundred and ninety a touch memory device available from dallas semiconductor 	1
+touch memory device	ds one thousand nine hundred and ninety a touch memory deviceavailable from dallas semiconductor 	1
+traditional asymmetry key algorithm	dsa	2
+traditional diagnostic system	dsm	1
+traditional public key system	dsa	1
+traditional public-key system	dsa	1
+traditional signature scheme	dsa	1
+traditional wan circuit	ds three 	1
+traditional wireline service	dsl internet provider	1
+uportal component	ds	1
+well-known conventional digital signature	dsa	2
+2D projection technique	dsa	1
+3rd party DSL provider	dsl extreme	1
+80A07 witha Tektronix sampling oscilloscope	dsa eight thousand two hundred  digital serial analyzer 	1
+access signaling protocol	dsm-cc	1
+active load-sharing controller	dse  fifty-five xx 	1
+actual use ofdiagnostic system	dsm	1
+adaptive and composable visualisation system	dsto's invision	1
+advanced or technical gear	dslrs camera	1
+algorithm specific utility	dsaparam	1
+algorithmic based digital subsystem	dsp subsystem	1
+altera tool	dsp builder	1
+alternate processor	dsp	1
+amateur radio advancement	dstar	1
+amplifier driver application	dsl application	1
+aneuploidy disorder	ds	1
+Anthracite burning stove	ds machine	1
+option	dsl connectivity	1
+option	dsb	1
+option	ds one  gear 	1
+option	dsp for high-speed real-time processing	1
+option	dsn	1
+option	dsrc transponder	1
+option	dsi &  zero - ten v analog dimming 	1
+option	dsg	1
+option	dsp	1
+option	ds version	1
+option	dst time fix	1
+bandwidth DS0 source line unit	ds one  line unit 	3
+bandwidth DS1 source line unit	ds one  line unit 	1
+best quality brand name shoe	dsauared shoe	1
+broad diagnostic category	dsm-iv's autism category	1
+car various module	dsc for yaw rate	1
+categorical classification system	dsm-iv	1
+Caustic decontaminants	ds two 	4
+cav arm dealer	dsg arms	1
+chromonic material	dscg	1
+classic pedal	ds- one 	1
+classical digital signature	dsa	1
+classificatory system	dsm iv	1
+clinical diagnostic criterion	dsm-iii diagnosis	1
+CMOS camera	dslr cameras from nikon	1
+commercial RCP product	dspace	1
+commercial topical treatment	ds labs	1
+content-sharing feature	dsi photo-sharing with facebook	1
+conventional digital device	dsp	1
+conventional voice circuit	ds zero 	2
+Corrosive decontaminants	ds two 	1
+coupled hydrodynamic and biogeochemical model	dsm- two  model 	1
+CPE	dsl modem	1
+credit card's type	ds for discover	1
+currently decontamination solution	ds two 	1
+customer circuit	ds one 	1
+datum rate signal	ds three  signal 	2
+DDC system	dsc- eight thousand five hundred  series controller 	1
+de facto industry standard	dspf	1
+dedicated circuit resource	dsps in an fpga	1
+dedicated processor	dsp	1
+delirium diagnostic instrument	dsm-iv	1
+demantra product	dsm	1
+department-level special and fundamental laboratory	dsp laboratory	1
+DFC intelligence device	dsi	1
+diagnostic classification	dsm-iv	1
+Diagnostic classifica-tionschemes	dsmiv	1
+diagnostic framework	dsm-iv	1
+diagnostic or evaluative tool	dsm-tr-iv text revision	1
+digital carrier capability	ds one 	1
+digital signal level	ds zero 	1
+digital terrain datum	dsm	2
+direct-sequence protocol	ds-cdma	1
+discount shoe retailer	dsw	1
+discount shoe store	dsw	1
+distributed shell	dsh	1
+DNSBL	dsbl	1
+ds element	ds nine 	1
+DS Homebrew	dslinux	1
+DSL Speed software	dsl speed	1
+DSP solution	dsp core	1
+DTV standard	dsm-cc standard	1
+dutch polymer producer	dsm	1
+dye-based solar cell	dssc	1
+e-government technology	dsta's gebiz portal	1
+elecronics store	dse	1
+electrical transport network	ds three  electrical network 	1
+electronic dev ice	ds	1
+end platform	dsc- twenty-five 	1
+end-to-end digital service	ds one 	1
+enhanced telecommunication service	dsl service	1
+exclusive comme des garcon retailer	dsm in london	1
+exclusive hardware	dsp	1
+external Secure world hardware block	dsp	2
+extremely valid brand	dsquared two 	1
+first package	dsp of bga	1
+first time reformists	dsp-led socialist alliance	1
+fit viewer	ds nine 	1
+fixed-location service	dsl broadband service	1
+fixed-point unit	dsp fifty-six thousand and one  with  twenty-four -b precision 	1
+full-resolution display	dsigner's  one thousand and eighty p plasma 	1
+generally pure on-demand protocol	dsr	1
+generalperiplasmic folding agent	dsba disulfide isomerase	1
+general-purpose digital signal processing system	dspace	1
+generation proactive protocol	dsdv	1
+generi c virtual unit name	dsa	1
+generic virtual unit name	dsa	1
+genetically abnormal fetus	ds fetus	1
+global military research laboratory	dstl	1
+gold equity fund	dsp black rock world gold fund	1
+gold mining mutual fund	dsp blackrock world gold fund	1
+gold-related fund	dsp blackrock world gold fund	1
+good camera chart	dsc labs camalign	1
+hand held video game	ds	2
+hardware board	dsk	1
+hardware handshake	dsr for flow control	1
+hard-wired block	dsp multipliers found on tabula's highest-end device	1
+high order system	dst ao seventy-six 	1
+high profile arm fair	dsei	1
+high profile datum loss case	dsw shoes	1
+high-end reconfigurable computing application	dsp	1
+high-frequency XO product	ds four -xo product series 	1
+high-speed element	dsp	1
+home internet service bandwidth package	dsl package	1
+homobifunctional cross-linkers	dss	1
+IBM system storage midrange array	ds three thousand   through ds five thousand   series scale with the needs of a medium sized data center 	1
+ifn-related protein	dsrna-dependent protein kinase	1
+imbalanced load	dslr with a telephoto lens	1
+incompatible device	dsl filter	1
+independent strategy	dsl  five . zero 	1
+industrial economic venture	dst systems	1
+inevitably handhelds	ds	1
+inexpensive second WAN link	dsl with a low-cost dns host	1
+group	dsp	1
+group	dsm	1
+information processing ICs	dsp	1
+innovative access solution	dsl channel bonding	1
+innovative food ingredient company	dsm	1
+intermediate mass system	dsphs around the galaxy	1
+international chemical group	dsm	1
+internet connection issue	dsl dropping for a couple of second	1
+investment association	dsw	1
+ire device	ds eighteen b twenty  digital temperature sensor 	1
+ISCUSSION Dynamic RRMschemes	dsfn	1
+ISP customer premise device	dsl routers used by hundreds of thousands of customer	1
+item available online	dsquared two  item available online 	1
+key state agency	dse	1
+large door access enterprise system	dsx	1
+lassificatory system	dsm iv	1
+LCLCs	dscg	1
+legacy nintendo device	ds model	1
+legitimate direct selling company	dsa member organization	1
+lorient's flexible finned product	ds seal	3
+low cost IP service	dsl internet	1
+Low-end access equipment	ds lams	1
+M&C saatchi group client	dsg	1
+mainstream economic model	dsge model	1
+Marine bio-toxins	dsp	1
+Maryland-based company	dsr computer technology specialists	1
+mask cutter manufacturer	ds america	1
+methanearsonates herbicide	dsma	1
+mobile gaming system	dsi	1
+multimedia chip	dsp audio	1
+multi-national satellite subscription broadcasting service	dstv service	1
+multi-processor algorithm	dsp algorithm	1
+multitasking executive	dstni os	1
+negative elongation factor	dsif	1
+nintendo DS system	dsi	1
+nintendo game platform	ds	1
+non silicone photo-curable polymer	dsm waterclear ultra ten thousand one hundred and twenty-two 	1
+nonautonomous element	ds element in maize	1
+noncable ISPs	dsl giant at&t	1
+non-ddc buyer	dsc philadelphia	1
+non-exchange access service	dsl	1
+non-memory circuit	dsp processor	1
+non-tingle steam heat lotion	ds's melt	1
+method	dsp analysis	2
+method	dsdm	2
+method	dsa	2
+method	dsrc	2
+method	dsr	2
+method	dsc	1
+odontoblasts	dspp	3
+onboard specialized application	dsp for music processing	1
+operational diagnostic method	dsm-iii	1
+optical jukebox manufacturer	dsm	1
+orange-red fluorescent protein	dsred	1
+original e-books	dsk affair	1
+palm hold video diversion	ds	1
+parameter specification	dsaparameterspec class provided in the same package	1
+personal gaming machine	ds	1
+point-to-point protocol implementation	dsl implementation	1
+popular ku band service	dss broadcast	1
+Popular repository software	ds pace & eprints	1
+popularmanet algorithm	dsdv	1
+power optional component	dsr- thirty c controller using the lipo's balance connector 	1
+powerful enough computational platform	dsp types of processor	1
+powerful transmission facility	dsn goldstone solar system radar	1
+precocious RFPs	dsred	1
+private line network service	ds one 	1
+programmable general purpose component	dsp	1
+programmable or domain-specific processor	dsp	1
+proven large-cap fund	dspbr equity	1
+psychiatric classification system	dsm-iv	1
+public-key authentication system	dsa	1
+purely proactive algorithm	dsdv	1
+purely RAD approach	dsdm	2
+putative h-bond-dependent method	dssp	1
+quad-channel application	dslam access equipment	1
+rapid application development methodology	dsdm	1
+rate payload	ds one 	1
+reactive source-routing protocol	dsr	1
+real gaming machine	ds	1
+Real-time simulation platform	dspace	1
+recognizable international classification system	dsm	1
+red fluorescent protein	dsred	3
+red variant	dsred	1
+regular sale promotion	dss & dsf	1
+relaxing criterion	dsr test	1
+residential gateway	dsl modem	3
+result diagnostic schema	dsm-iv	1
+revolutionary console	ds	1
+rotavirus strain	ds- one 	1
+routing-table based protocol	dsdv	1
+saatchi group client	dsg	1
+saftey equipment	ds loop	1
+second synth	dsi prophet	1
+second technician	dsl technician	1
+second, functional test	dst	1
+second, periodic protocol	dsdv	1
+second-tier shipbuilder	dsme	1
+Self Ags	dsdna	1
+self report measure	dsq	1
+method	dsm	1
+Separate DSPs	dsps  five hundred and twenty 	1
+sequence spread spectrum technology	dsss	1
+shoe warehouse type store	dsw	1
+simple adaptor	dse p six thousand six hundred and ninety-nine 	1
+simple, functional piece	dsc- thirty-six  dispensary sink 	1
+Singalayas	ds senanayaka	1
+single digital service channel	ds zero 	1
+single high-speed Internet connection	dslo rcable modem	1
+slave processing device	dsp	1
+small angolan company	dsm comercio	1
+small, stylish model	dsc-w fifty 	1
+sonic tool	dsi dipole shear sonic imager	1
+SONY deck	dsr- eleven 	1
+source-routed ad-hocrouting protocol	dsr	1
+specifi c race	dse's embarcadero  ten k 	1
+spread spectrum	dsss	1
+spreading sequence	ds cdma one	1
+spread-spectrum protocol	ds-cdma	1
+Stand-alone networking equipment	dsl modem	1
+standard cell numerous cell	dsp core	1
+standard diagnosis tool	dsm iii	1
+standard distortion	ds- one 	1
+standardised diagnostic system	dsm-iv	1
+standardized exam format	dsst	1
+superior performance resin	dsm somos	1
+supposedly atheoretical diagnostic system	dsm	1
+t-carrier channel	ds- one 	1
+technically feasible transmission capability	ds one 	6
+telco watcher	dsam's duncan stewart	1
+telecommunication module	dsx module	1
+Telephonic facilitates	ds zero 	1
+temperature-related 1-wire device	ds one thousand eight hundred and twenty   one -wire thermometer 	1
+terminator card	ds- three  line interface card 	2
+third-party IP element	dsp	1
+top end vendor	dsv	1
+top-of-the line safety feature	dstc anti-skid system	1
+top-sell seeedstudio product	dso quad	1
+traditional diagnostic categorization system	dsm-iv-tr	1
+traditional digital processor	dsp	1
+traditional digital signature technique	dsa	1
+traditional macro-economic model	dsge model	1
+transmitter device	dslam  three hundred and one 	1
+transposeable element	ds in maize	1
+trap limited device	ds cell	1
+two-dimensional projection technique	dsa	5
+typical datum intensive application	dsp	1
+ultra-high molecular weight polyethylene fiber	dsm's dyneema sk seventy-six 	1
+unofficial homebrew software	dslinux	1
+user payload	ds one 	1
+valid diagnostic tool	dsm	1
+variable-rate channel	dsl link	1
+tool	dsa	2
+tool	dsm iv criterion	1
+tool	dsi tool	1
+tool	dsplink for interprocessor communication	1
+tool	dsniff	1
+tool	dspb-ab with a vector representation	1
+well-resourced wealth management provider	dsp merrill lynch limited	1
+wireline alternative	dsl internet service	1
+XML directory standard	dsml	1
+tool	dselect	1
+tool	dsc-gps for distress call	1
+tool	dsh	1
+tool	dspace controldesk	1
+tool	dsm	1
+project	ds version of need for speed	2
+project	dsp-based weather processing system	1
+project	dsky front panel debugger	1
+project	dst tb lead programme	1
+place	dsw	1
+player	ds role player	1
+player	dsb	1
+technology	dsrc	4
+technology	dsl extender	2
+technology	dsl	2
+technology	dsc	2
+technology	ds- three 	2
+product	dslr camera	2
+product	dspeaker anti mode  eight thousand and thirty-three c 	1
+product	dsquared jacket	1
+product	dsl transceiver	1
+product	ds	1
+product	ds- four  switch 	1
+product	ds one hundred and thirty-five  menu board system 	1
+technology	dsml	1
+technology	dsl connectivity	1
+technology	dsi locking system	1
+technology	dslr camera	1
+technology	dsl arriving	1
+technology	dsl connection	1
+technology	dsl rings	1
+term	dsl connection	1
+parameter	dsn	1
+parameter	ds two  slot assignment 	1
+parameter	dsd	1
+parameter	dsst	1
+system	dsr	4
+system	dsp early warning	3
+system	ds	3
+system	dsp	2
+system	dstar hotpoint	1
+system	dscs	1
+system	dsf	1
+system	dsd computer system	1
+system	ds-cdma cellular network	1
+system	dsg from vw	1
+system	dsm	1
+system	dsm-iv psychiatric code	1
+system	dss system	1
+system	dstc	1
+measure	dsi into employee screening process	1
+element	dsp cores on chip	1
+product	dsp	1
+product	dsquared related product	1
+product	dstv mobile	1
+product	dstv related product	1
+product	dsl routers	1
+product	dsl modem	1
+product	dsf fused mullite hf seventeen 	1
+product	dsi card	1
+product	dsl	1
+product	dsm	1
+product	ds lite nintendo	1
+product	ds podium	1
+product	dsa  one hundred and fifty-one a  twelve 	1
+product	dsc collector related product	1
+function	dsl internet	7
+function	dsp	4
+function	ds heuristic	1
+device	dstt	4
+device	ds one thousand eight hundred and fourty-seven  dual temperature-controller nv variable resistor 	3
+device	ds	2
+device	dsl modems	2
+device	dsi	1
+device	dsc radio	1
+device	ds edge card	1
+device	dstv into the amp	1
+device	dsp-enabling communication device	1
+device	dsp	1
+device	dsl routers	1
+device	ds eighteen b twenty  temperature sensor 	1
+device	ds-xtreme	1
+device	dss receiver  one hundred and seventy-one b 	1
+device	dsp board	1
+device	dsu	1
+brand	dss	3
+brand	dsi	1
+brand	dsb	1
+brand	ds corning	1
+brand	dsquared	1
+brand	dsw	1
+brand	dsquared two 	1
+component	dsp chip	1
+component	dsl am  sixteen 	1
+component	dsp	1
+component	dsp board	1
+component	dss receiver	1
+site	dstar	1
+task	dsp processor performedreal-time task	1
+related product	dsc collector related product	1
+related product	dstv related product	1

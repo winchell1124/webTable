@@ -1,0 +1,850 @@
+product	xbox arcade controller	1
+product	xbox boss battle light-gun	1
+product	xbox compatible light gun	1
+product	xbox console with  two hundred and fifty gb hard drive plus 	1
+product	xbox live	1
+product	xbox s-video cable	1
+initiative	xbrl	2
+accessory	xbox live vision camera	1
+accessory	xbox live wireless headset	1
+accessory	xbox  three hundred and sixty  live card 	1
+accessory	xbox  three hundred and sixty  wireless racing wheel 	1
+accessory	xbox live membership card	1
+accessory	xbox  three hundred and sixty  headset 	1
+accessory	xbox live account	1
+source	xbox	3
+source	xbox magazine	2
+source	xbox live	1
+source	xbox three hundred and sixty 	1
+game	xbox	6
+game	xbox  three hundred and sixty 	6
+game	xbox live community	1
+game	xbla arcade game	1
+game	xbla title bastion	1
+game	xbox kinect game	1
+game	xboing	1
+game	xbox's top game	1
+game	xbla adventure hydrophobia	1
+game	xbla title	1
+game	xbox  three hundred and sixty  game console 	1
+game	xbox launch game	1
+game	xbox arcade game	1
+game	xbox only game	1
+product	xbox memory cards	1
+product	xbox miscellaneuos item	1
+product	xbox related product	1
+product	xbox replacement power supply	1
+product	xbox rf cable	1
+product	xbox rgb cable	1
+product	xbox supreme vga box	1
+product	xbox vga adapters	1
+product	xbox videogame console	1
+product	xbox flash memory card  eight mb 	1
+product	xbox  three hundred and sixty  cases 	1
+product	xbox  three hundred and sixty  controllers 	1
+product	xbox hard drives	1
+product	xbox high definition cable	1
+product	xbox kinect	1
+product	xbox spare parts	1
+product	xbox component cable	1
+product	xbox controller extension cable	1
+product	xbox  three hundred and sixty  modchip installation 	1
+product	xbox analog steering wheel	1
+product	xbox gaming console	1
+product	xbox gunner mark ii	1
+product	xbox memory unit	1
+product	xbox multi-purpose altec lansing subwoofer	1
+product	xbox premium system related product	1
+product	xbox  one hundred and twenty  gb hard drive 	1
+product	xbox  three hundred and sixty  adapters 	1
+exception	xbox live month cards	1
+model	xbox	1
+model	xb	1
+model	xbox  three hundred and sixty 	1
+attraction	xbox live game	1
+category	xbox live	1
+client	xbox	4
+client	xbox  three hundred and sixty 	1
+client	xboard	1
+feature	xbox live marketplace	4
+idea	xbox  three hundred and sixty  snowglobe 	2
+matter	xbox-exclusive game	1
+alternative	xbox live	1
+alternative	xb series	1
+action	xbrl	1
+business	xbailiff	1
+amenity	xbox  three hundred and sixty 	2
+amenity	xbox gaming system	1
+title	xbox's halo	1
+title	xbox only title	1
+title	xbla so title	1
+title	xbox game title	1
+feature	xbox hd game player	1
+feature	xbox hardware feature	1
+feature	xbox live blocking	1
+feature	xbs extra base	1
+feature	xbox live arcade	1
+development	xbox video game system	1
+requirement	xbrl	1
+advantage	xbox video compatibility	1
+publication	xbox mag	2
+website	xbox scene	1
+website	xbox live	1
+equipment	xbox three hundred and sixty  gaming console 	2
+feature	xbox live multiplayer	1
+region	xbox live region	1
+format	xbox	1
+format	xbox's video format	1
+format	xbrl	1
+format	xbm	1
+standard	xbrl	2
+standard	xbrl standards for identification of legal entity	1
+market	xbox live indie games	1
+section	xbox  three hundred and sixty 	1
+incentive	xbox	3
+incentive	xbox  three hundred and sixty s 	1
+feature	xbox live compatibility	1
+feature	xbox dwell arcade	1
+article	xbox	1
+software	xbox media center	2
+software	xbmc	1
+software	xbrl processors used by technical person	1
+capability	xbox live	1
+capability	xbox's special capability	1
+magazine	xbox magazine	1
+professional	xbailiff	1
+competitor	xbox  three hundred and sixty 	2
+brand name	xbox  three hundred and sixty 	1
+addition	xbox live	1
+language	xbase	1
+image	xbox  three hundred and sixty 	1
+functionality	xbox live	1
+incident	xbox live youtube attack	1
+file	xbase format file	1
+issue	xbox three hundred and sixty  problem 	1
+issue	xbrl	1
+everything	xbox news	1
+platform	xbox  three hundred and sixty 	17
+platform	xbox	4
+platform	xbox live	3
+platform	xbla	2
+platform	xbox  three hundred and sixty  having been released 	1
+platform	xbox arcade	1
+platform	xbox three hundred and sixty 	1
+platform	xbox indie	1
+platform	xbox live arcade	1
+network	xbox live	5
+apps	xbmc	2
+apps	xbox bing	1
+apps	xbox live	1
+prize	xbl	2
+prize	xbox  three hundred and sixty  with kinect 	2
+prize	xbox  three hundred and sixty 	2
+prize	xboxes	2
+prize	xbox three hundred and sixty  membership 	1
+prize	xbox live indie games	1
+prize	xbox game system	1
+prize	xbox  three hundred and sixty  game 	1
+prize	xbox live card	1
+prize	xbox  three hundred and sixty  slim 	1
+prize	xbox live subscription	1
+prize	xbl point card	1
+prize	xbox live code	1
+prize	xbox live points	1
+prize	xbox three hundred and sixty  in a vegemite eating contest 	1
+prize	xbox elite	1
+gene	xbp one 	1
+keyword	xbox	1
+great feature	xbox live	1
+cell	xbp- one  deficient cell 	1
+personal information	xbox live detail	1
+spot	xbox mosquito	1
+command	xba	1
+mediums	xbl marketplace	1
+aircraft	xb- seventy 	1
+stuff	xbox three hundred and sixty 	1
+technical issue	xbrl reporting	1
+participant	xbox.com	1
+reward	xbox  three hundred and sixty  game 	1
+reward	xbox  three hundred and sixty s 	1
+official	xbailiff	2
+item	xbox	7
+item	xbox  three hundred and sixty 	4
+board	xbib-u from digi international	1
+online service	xbox live	9
+online service	xbox live for xbox	1
+trade	xbox  three hundred and sixty  hard drive 	1
+trade	xbox  three hundred and sixty  game 	1
+interface	xboard	1
+interface	xbp for managing batch job	1
+entry	xbox gaming system	1
+software package	xbase-type software	1
+version	xbox  three hundred and sixty  pro 	2
+version	xbox  three hundred and sixty  core 	2
+electronics	xbox  three hundred and sixty 	3
+electronics	xbox	3
+electronics	xbox  three hundred and sixty s 	1
+electronics	xbox system	1
+electronics	xbox three hundred and sixty 	1
+item	xbox  three hundred and sixty s 	1
+item	xbox  three hundred and sixty  bundle 	1
+item	xbox's	1
+list	xbox	1
+hardware	xbox containing	1
+video game	xbox	10
+video game	xbox  three hundred and sixty 	7
+video game	xbox  three hundred and sixty  kinect 	1
+video game	xbox kinect	1
+video game	xbox  three hundred and sixty  system 	1
+graphic	xbox  three hundred and sixty 	1
+key word	xbox game testing job	1
+visitor	xbailiff	1
+expensive item	xbox in free gifts with cheap  three g mobile phone tariff plan 	1
+tag	xbox live ms point	1
+item	xbox map pack	1
+privilege	xbox	1
+guide	xbox  three hundred and sixty  repair guide 	1
+big brand	xbox	1
+luxury item	xbox game	1
+advertiser	xbox	3
+basic tool	xbox  three hundred and sixty  repair guide 	1
+operating system	xboxmediacenter	1
+sound effect	xbox's disc tray opening	1
+input device	xbox three hundred and sixty  gamepad 	1
+venture	xbox tour	1
+electronic product	xbox	1
+item	xbox controller	1
+item	xbox three hundred and sixty 	1
+industry standard	xbrl	2
+industry standard	xbrl for financial reporting	1
+industry standard	xbrl for a real-time	1
+global brand	xbox	1
+popular product	xbox	1
+portable device	xbox  three hundred and sixty 	4
+portable device	xbox three hundred and sixty 	1
+online game	xbox mw three 	1
+popular game	xbox  three hundred and sixty  games 	1
+market leader	xbox's kinect	1
+storage device	xbox  three hundred and sixty  hard drive 	1
+storage device	xbox  three hundred and sixty  memory unit 	1
+good feature	xbox live support	2
+area	xbrl	2
+excellent feature	xbox live service	1
+support staff	xbailiff	1
+transcription factor	xbp one 	1
+consumer electronics	xbox  three hundred and sixty  bundle 	1
+high profile client	xbox & nokia	1
+screen	xbox  three hundred and sixty 	1
+wireless device	xbox	1
+international standard	xbrl	1
+big ticket item	xbox  three hundred and sixty  kinect 	1
+currency	xbox live credits	1
+electronic item	xbox accessory	1
+free gift	xbox	12
+free gift	xbox  three hundred and sixty 	5
+free gift	xbox three hundred and sixty 	2
+free gift	xbox gaming console	1
+hardware device	xbox	3
+hardware device	xbox  three hundred and sixty  game player 	1
+extras	xbox	1
+open standard	xbrl	2
+established brand	xbox	2
+medium player	xbmc	2
+medium player	xbox	2
+medium player	xbmc pc	1
+medium player	xbox  three hundred and sixty 	1
+mobile phone	xbox  three hundred and sixty 	1
+hardware item	xbox	1
+web technology	xbml	1
+video format	xbox	1
+video format	xbox's video format	1
+output device	xbox	1
+service	xbox live	13
+service	xbox live arcade	7
+service	xbox	3
+distribution channel	xbox live	1
+giveaway	xbox live subscription	1
+door prize	xbox games	2
+door prize	xboxes	1
+radio	xbee	1
+third-party application	xbmc	1
+electrical product	xbox	1
+computing device	xbox	1
+great prize	xbox  three hundred and sixty 	1
+great prize	xbox  three hundred and sixty  with kinect 	1
+niche area	xbrl	1
+service	xbla	2
+service	xbox live integration	1
+free item	xbox  three hundred and sixty 	2
+free item	xbox live gold	1
+free item	xbox three hundred and sixty 's 	1
+free item	xbox  three hundred and sixty s 	1
+unnecessary item	xboxs	1
+electronic gadget	xbox  three hundred and sixty  slim 	1
+electronic gadget	xbox	1
+airplane	xb- seventy 	2
+datum format	xbml	1
+arcade game	xbla arcade game	1
+arcade game	xbox arcade game	1
+consumer device	xbox	1
+microsoft product	xbox	2
+microsoft product	xbox live	2
+microsoft product	xbox three hundred and sixty 	1
+service	xbox live marketplace	1
+multimedia device	xbox three hundred and sixty 	3
+multimedia device	xbox	2
+multimedia device	xbox  three hundred and sixty 	1
+PC game	xbox  three hundred and sixty 	1
+hardware product	xbox gaming	1
+modern system	xbox  three hundred and sixty 	1
+medium service	xbox live	1
+small car	xb	14
+medium file	xbox  three hundred and sixty  game 	1
+online forum	xbox.com	1
+medium device	xbox  three hundred and sixty 	2
+medium device	xbox	1
+game title	xbox game title	1
+online feature	xbox live gaming network	1
+popular company	xbox	1
+critical process	xbrl tagging	1
+service	xbmc server	1
+service	xbox live online games service	1
+service	xbox music	1
+closed system	xbox live	1
+electronic good	xbox	1
+indoor game	xbox	1
+disk	xbox game	1
+free alternative	xbmc	1
+delivery option	xbox  three hundred and sixty 	1
+hardware feature	xbox hardware feature	1
+team building activity	xbox day	1
+global client	xbox	1
+topic	xbrl	3
+connected device	xbox  three hundred and sixty 	4
+connected device	xbox  three hundred and sixty  memory card 	1
+peripheral item	xbox	1
+markup language	xba	1
+markup language	xbrl	1
+popular player	xbox  three hundred and sixty 	11
+popular player	xbox	1
+microsoft application	xbox live	1
+music player	xbox	1
+social medium	xbox live	1
+video player	xbox	3
+topic	xbl	1
+small electronic device	xbox	1
+best service	xbox  three hundred and sixty  wii pc game 	1
+civil servant	xbailiff	1
+gaming device	xbox  three hundred and sixty 	5
+gaming device	xbox	4
+gaming device	xbox three hundred and sixty 	1
+basic capability	xbox  three hundred and sixty  arcade 	1
+entertainment device	xbox	2
+entertainment device	xbox  three hundred and sixty 	1
+popular device	xbox  three hundred and sixty 	2
+popular device	xbox	1
+multiplayer mode	xbox live	1
+large community	xbox live	1
+debt collector	xbailiff	1
+raffle prize	xboxes	1
+networked device	xbox	1
+social medium outlet	xbox live	1
+online social network	xbox live	1
+console game	xbox	24
+console game	xbox kinect	1
+console game	xbox  three hundred and sixty  game 	1
+wholesale product	xbox  three hundred and sixty 	1
+proprietary item	xbox  three hundred and sixty 	1
+video device	xbox	1
+safety-critical system	xby-wire system	1
+top game	xbox's top game	1
+experimental design	xb- fifteen 	1
+popular platform	xbox	1
+legal professional	xbailiff	1
+datum standard	xbrl	1
+distribution method	xbox live	1
+sub-brands	xbox	1
+electronic toy	xboxes	1
+wide range product	xbox  three hundred and sixty 	1
+portable medium player	xbox  three hundred and sixty 	1
+emerging standard	xbrl	1
+prepaid card	xbox microsoft points	1
+digital item	xbox	1
+electric product	xbox	1
+exploit	xbmc translator	1
+local application	xbmc	1
+free stuff	xboxes	1
+popular portable device	xbox	2
+popular portable device	xbox  three hundred and sixty 	1
+console	xbox  three hundred and sixty 	25
+console	xbox	6
+console	xbox three hundred and sixty 	2
+demo	xbox live arcade demo	1
+hardware upgrade	xbox system	1
+video game system	xbox  three hundred and sixty 	23
+video game system	xbox	15
+video game system	xbox kinect	2
+video game system	xbox kenict	1
+video game system	xbox live	1
+open platform	xbox live's indie games	1
+cool prize	xbox  three hundred and sixty s 	1
+multimedia player	xbox	1
+competing product	xbox  three hundred and sixty 	1
+original game	xbox original game	1
+premium content	xbox live arcade game	2
+attached device	xbox	1
+source software	xbmc	1
+activity	xbox	3
+internet-connected device	xbox  three hundred and sixty 	1
+microsoft service	xbox live	4
+portable player	xbox  three hundred and sixty 	3
+game company	xbox	1
+popular multimedia device	xbox  three hundred and sixty 	1
+format file	xbase format file	1
+substantial item	xbox  three hundred and sixty  controller 	1
+exclusive title	xbox's halo	2
+exclusive title	xbox s halo	1
+grand prize	xbox  three hundred and sixty 	2
+input mechanism	xbox  three hundred and sixty  controller 	1
+stand-alone device	xbee	1
+stationary device	xbox  three hundred and sixty 	1
+taxonomy	xbrl gl	1
+game accessory	xbox  three hundred and sixty 	1
+XML standard	xbrl	1
+game device	xbox  three hundred and sixty 	1
+interactive format	xbrl	1
+attractive free gift	xbox  three hundred and sixty  console  two hundred and fifty gb 	1
+console video game	xbox  three hundred and sixty  t-rated 	1
+console video game	xbox  three hundred and sixty  games 	1
+popular medium player	xbox three hundred and sixty 	4
+popular medium player	xbox	1
+expensive electronics	xbox  three hundred and sixty 	1
+killer feature	xbox live integration	1
+big prize	xbox  three hundred and sixty 	1
+blue-chip name	xbox  three hundred and sixty 	1
+game system	xbox	1
+must-have item	xbox	1
+video game accessory	xbox  three hundred and sixty  accessories 	2
+video game company	xbox	1
+free prize	xbox  three hundred and sixty s 	1
+powerful machine	xbox  three hundred and sixty 	1
+generation game	xbox  three hundred and sixty 	1
+xml-based language	xbrl	1
+component video device	xbox  three hundred and sixty 	8
+component video device	xbox three hundred and sixty 	1
+active video game	xbox	1
+active video game	xbox kinect	1
+exciting gift	xbox  three hundred and sixty 	1
+game service	xbox live	2
+graphical program	xbmc	1
+planned feature	xbox live primetime	1
+code generator	xbox live code generator	1
+digital distribution service	xbox live arcade	2
+game console	xbox  three hundred and sixty 	6
+game console	xbox systems	2
+game console	xbox	2
+game console	xbox  three hundred and sixty  & ps three 	1
+game controller	xbox  three hundred and sixty 	1
+game player	xbox  three hundred and sixty 	2
+game player	xbox	2
+legal service provider	xbailiff	1
+xml-based standard	xbrl	2
+high definition source	xbox  three hundred and sixty 	3
+high end system	xbox  three hundred and sixty 	1
+modern electronic gadget	xbox three hundred and sixty 	1
+publishing platform	xbox live arcade	1
+video game console	xbox	3
+console system	xbox  three hundred and sixty 	1
+ip-enabled device	xbox	1
+launch game	xbox launch game	1
+movie player	xbox  three hundred and sixty 	4
+specialist device	xbox	1
+frivolous item	xbox  three hundred and sixty 	1
+home theater device	xbox console	1
+markup tool	xbrl gl for basic business reporting	1
+microsoft platform	xbox live network	1
+random video	xbox prank	1
+completely free product	xbox  three hundred and sixty 	1
+high definition device	xbox	1
+XML vocabulary	xbrl	1
+program	xbmc	4
+gaming console	xbox  three hundred and sixty 	8
+gaming console	xbox	3
+high-ranking executive	xbox chief robbie bach	1
+incredible offer	xbox	1
+popular medium player s	xbox three hundred and sixty 	1
+connected USB device	xbox  three hundred and sixty 	3
+Court staff	xbailiff	1
+digital currency	xbox points	1
+digital distribution platform	xbox live arcade	1
+discounted electrical item	xbox  three hundred and sixty  & ps three  games console 	1
+free gift offer	xbox	1
+free gift offer	xbox  three hundred and sixty 	1
+HD player	xbox  three hundred and sixty 	1
+kinect game	xbox kinect game	1
+legal official	xbailiff	1
+medium center extender	xbox  three hundred and sixty 	9
+medium center extender	xbox	1
+networked home theater device	xbox  three hundred and sixty 	7
+networked home theater device	xbox  three hundred and sixty  ps three  tivo vudu bluray player 	2
+networked home theater device	xbox  three hundred and sixty  ps three  tivo vudu blu-ray player 	1
+program	xbox backup creator v two . nine 	2
+numerousdevices	xbox	1
+potential device	xbox  three hundred and sixty 	2
+replacement activity	xbox	3
+dedicated gaming device	xbox  three hundred and sixty 	1
+digital distribution channel	xbox live	2
+high-definition source	xbox  three hundred and sixty 	1
+high-tech game	xbox	1
+ISO	xbuntu	1
+program	xbox media player	1
+program	xbc	1
+set-top device	xbox  three hundred and sixty 	1
+age device	xbox	1
+analog gamepad	xbox  three hundred and sixty  wired controller 	1
+AV input device	xbox	2
+compatible client	xbox  three hundred and sixty 	1
+competing platform	xbox live	1
+component video home theater device	xbox  three hundred and sixty 	1
+contest prize	xbox  three hundred and sixty 	1
+electronic entertainment system	xbox	1
+fortune-class company	xbox	1
+free reward	xbox live point	1
+free reward	xbox three hundred and sixty  elite 	1
+fun electronic gadget	xbox	1
+generation machine	xbox  two 	1
+generation platform	xbox  three hundred and sixty 	1
+HDMI input source	xbox  three hundred and sixty 	1
+HTC apps	xbox live	1
+independent element	xbox controller	1
+indie-friendly platform	xbox	1
+information technology initiative	xbrl	2
+latest platform	xbox  three hundred and sixty 	1
+latest video game	xbox  three hundred and sixty 	1
+program	xbox live	1
+program	xbox most `maker' program	1
+lucrative gift	xbox	1
+medium center program	xbmc	1
+medium center program	xbox media center	1
+microsoft's service	xbox	1
+modern gaming system	xbox  three hundred and sixty 	3
+notable system	xbox  one 	1
+online gaming service	xbox live	2
+popular microsoft service	xbox live	2
+popular microsoft service	xbox live for game	1
+record game	xbox	1
+sector index	xbd	2
+3rd party controller	xbox controller	1
+accountable official	xbailiff	1
+consumer-clients	xbox	1
+digital entertainment device	xbox  three hundred and sixty 	2
+electronic game system	xbox	1
+embedded player	xbox  three hundred and sixty 	1
+free game system	xbox  three hundred and sixty 	1
+gaming item	xbox	1
+HD electronics	xbox  three hundred and sixty 	1
+HD multimedia player	xbox  three hundred and sixty 	3
+high-definition device	xbox  three hundred and sixty 	1
+microsoft device	xbox	1
+noob weapon	xbows	1
+XBOX accessory	xbox  three hundred and sixty  media remote 	1
+XBOX accessory	xbox  three hundred and sixty  play & charge kit 	1
+child brand	xbox	1
+computer console	xbox	1
+console platform	xbox	1
+daily kid activity	xbox	1
+digital distribution network	xbla	1
+drm-encumbered device	xbox	3
+free electronics	xbox  three hundred and sixty 	2
+free software alternative	xbmc	1
+image manipulation function	xbox feature image manipulation function	1
+internet-tv device	xbox  three hundred and sixty 	1
+marquee game	xbox	1
+microsoft consumer service	xbox live	1
+moderately high demand car	xb	1
+online movie rental device	xbox  three hundred and sixty 	1
+organization	xbrl solution provider	1
+potential future device	xbox  three hundred and sixty 	1
+single platform	xbox  three hundred and sixty 	1
+small release	xbla	1
+source video game	xbox	1
+standalone DVD player	xbox  three hundred and sixty 	1
+voice recognition command	xbox facebook	1
+voice recognition command	xbox fast forward	1
+voice recognition command	xbox review	1
+voice recognition command	xbox stop	1
+XML industry standard	xbrl	1
+absolutely FREE game related item	xbox  three hundred and sixty  card 	1
+amazon.com download-only product	xbox point	1
+common home platform	xbox	1
+console gaming system	xbox  three hundred and sixty 	1
+cool gift card	xbox card	2
+criminal court official	xbailiff	1
+digital delivery network	xbox live	1
+digital download service	xbla	1
+external app	xbmc	1
+fancy motion controller	xbox kinect	1
+fantastic free gift	xbox  three hundred and sixty 	1
+format version	xbox  three hundred and sixty 	1
+gambling system	xbox  three hundred and sixty 	1
+game box device	xbox	1
+gen system	xbox  three hundred and sixty 	2
+great networking tool	xbox live	1
+HDMI ready electronics	xbox  three hundred and sixty 	1
+home gaming system	xbox  three hundred and sixty 	1
+home video game system	xbox  three hundred and sixty 	1
+hopeful alternative	xbmc	1
+latest video game accessory	xbox  three hundred and sixty  hard disk driver case 	1
+mainstream electronic product	xboxes	1
+microsoft casual gaming service	xbox live arcade	1
+microsofts product	xbox	1
+modern AAA video game	xbox  three hundred and sixty 	1
+movement control	xbox kinect	1
+mozilla's component	xbl	1
+natural grassland	xbr	1
+application	xbmc	4
+online gaming system	xbox  three hundred and sixty 	1
+online marketplace game	xbox live arcade	1
+online play	xbox live service	1
+popular medium application	xbmc with gesture	1
+preloaded microsoft application	xbox live	1
+quality electronic gaming device	xbox  three hundred and sixty  platinum 	1
+quality electronic gaming device	xbox  three hundred and sixty  premium console 	1
+quality electronic gaming device	xbox  three hundred and sixty  core system 	1
+seventh generation gaming system	xbox three hundred and sixty 	2
+simple hardware	xbox	1
+sophisticated game platform	xbox  three hundred and sixty 	1
+technology-based standard	xbrl	2
+tversity medium player	xbox  three hundred and sixty 	1
+underground topic	xbox upgrade	3
+video gaming gadget	xbox	2
+videogame console	xbox	2
+21st century gami ng system	xbox kinect	1
+3D graphic system	xbox  three hundred and sixty 	1
+3rd generation system	xbox three hundred and sixty 	1
+6th generation console product	xbox game	1
+adult industry associate	xbiz	1
+beneficial video game	xbox kinect	1
+brand new gadget	xbox  three hundred and sixty 	1
+application	xbox live application	1
+application	xbiff	1
+computer game system	xbox	1
+console fault	xbox rrod	1
+console mod	xbox  three hundred and sixty  laptop mod 	1
+console network	xbox live	1
+currently digital platform	xbox marketplace	1
+digital game platform	xbox live arcade	3
+digital medium player device	xbox  three hundred and sixty 	5
+digital prize	xbl	1
+downloadable content market place	xbox live arcade	1
+downloadable game service	xbox live arcade	1
+dual-analog game pad	xbox  three hundred and sixty  wired controller 	3
+dual-analog game pad	xbox  three hundred and sixty  wired cont roller 	1
+electronic reporting format	xbrl	1
+electronics game	xbox	1
+elite electronic and gaming company	xbox	1
+era gaming device	xbox  three hundred and sixty 	1
+format game	xbox	1
+full console	xbox three hundred and sixty 	1
+full online service	xbox live	1
+game console service	xbox live	2
+gen platform	xbox  three hundred and sixty 	1
+gigantic competitor	xbox  three hundred and sixty 	1
+good console	xbox  three hundred and sixty 	1
+home console platform	xbox  three hundred and sixty 	1
+homemade	xbox shell mod inspired by gears of war	1
+hot electronic product	xbox	1
+in-room gaming system	xbox  three hundred and sixty 	1
+interactive datum technology	xbrl	1
+interactive, online game service	xbox live	1
+internet-centered product	xboxes	1
+judicial support staff	xbailiff	1
+kavachart format	xbm	1
+lectronic game	xbox	1
+medium extender	xbox  three hundred and sixty 	3
+microsoft's end-user program	xbox live	1
+modern gaming platform	xbox  three hundred and sixty 	1
+modern video game system	xbox  three hundred and sixty 	1
+modern video gaming platform	xbox  three hundred and sixty  kinect 	1
+motherboard type repair	xbox  three hundred and sixty s rrod 	1
+nextgen platform	xbox three hundred and sixty 	2
+next-gen platform	xbox three hundred and sixty 	3
+online game service	xbox live	1
+open source medium player	xbmc	2
+popular microsoft consumer service	xbox live	1
+popular subscription service	xbox live	1
+case	xbox three hundred and sixty 	1
+case	xbox live arcade	1
+powerful next generation system	xbox  three hundred and sixty 	1
+preferred gaming unit	xbox	1
+quality display	xbr	1
+RF modem	xbee	1
+Robot microcontrollers	xbc	1
+so-called wireless system	xbox  three hundred and sixty  slim 	1
+successful podcasts	xbox podcast	1
+option	xbox  three hundred and sixty  game -lrb- two . zero -rrb- 	2
+top gaming system	xbox	1
+typically X client	xbiff	1
+uninitiated, video game system	xbox three hundred and sixty 	1
+USB controller	xbox  three hundred and sixty  controller 	1
+user exclusive gift	xbox  three hundred and sixty  or nintendo 	1
+video game unit	xbox	1
+wireless medium extender	xbox	1
+WP7 feature	xbox live	1
+xbox brand activity	xbox live retail packaging	1
+xbox version	xbox  three hundred and sixty 	2
+Xboxs application	xbox media center	1
+Xbox's application	xbox media center	1
+application-specific XML vocabulary	xbrl	1
+applied statistic method	xbar charting	1
+option	xbmc dharma	1
+option	xbmc	1
+option	xbox	1
+option	xbox  three hundred and sixty  battery 	1
+bandwidth hogging service	xbox live	1
+basically game	xbox live	1
+binding layer	xbl	1
+black game system	xbox  three hundred and sixty 	1
+broadband gaming service	xbox live service	1
+broken game system	xbox  three hundred and sixty 	1
+budget title	xbla	1
+cabinet game	xbox	1
+capable medium server	xbmc available for free	1
+classic microsoft system	xbox	1
+compelling consumer product	xbox kinect device	1
+compliant accessory	xbox  three hundred and sixty  wireless racing wheel 	1
+consles	xbox three hundred and sixty 	1
+Console game s	xbox	1
+console gaming device	xbox	1
+console online game	xbox  three hundred and sixty 	1
+console specific	xbox live experience	1
+crazy scheme	xboxes being smuggled into england	1
+digi's lower range device	xbee	1
+digital storefront	xbox live marketplace	2
+digital video gaming system	xbox  three hundred and sixty 	1
+DNLA device	xbox  three hundred and sixty 	1
+domain-specific XML vocabulary	xbrl	1
+dual-analog gamepad	xbox  three hundred and sixty  wired controller 	7
+enthusiast forum	xbox scene	2
+free homebrew apps	xbox friends watch	1
+front end app	xbmc	1
+game peripheral product	xbox  three hundred and sixty 	1
+gamenights	xboxlive community playdate	1
+gamepad controller	xbox  three hundred and sixty  controller 	1
+gaming brand	xbox  three hundred and sixty 	1
+gaming traffic	xbox live traffic	1
+hard-copy trade	xbiz world	1
+high altitude military aircraft	xb- seventy  in supersonic flight 	1
+high end graphic machine	xbox  three hundred and sixty 	1
+high-speed airplane	xb- seventy 	1
+high-tech video game device	xbox  three hundred and sixty 	1
+home entertainment console machine	xbox  three hundred and sixty 	1
+huge online community	xbox live	1
+iconic consumer tech product	xbox	2
+interactive datum format	xbrl	1
+last-generation model	xbox	1
+latest gaming console	xbox three hundred and sixty 	1
+lucrative free gift	xbox	1
+medium center extender device	xbox  three hundred and sixty 	1
+memorable ebay sale	xbox box sale	1
+microsoft medium center extender	xbox  three hundred and sixty 	3
+microsoft's new product	xbox	1
+multiplayer platform	xbox live	1
+multiplayer service	xbox live	1
+native full-hd title	xbla daytona usa	1
+next-generation input device	xbox's kinect	2
+non-official driver	xbcd	1
+notorious popular game	xbox	1
+online digital retail outlet	xbox live	1
+on-line gaming service	xbox live	1
+open-source medium center software	xbmc	1
+points2shop order item	xbox microsoft points	1
+popular and addictive gaming device	xbox	1
+popular christmas gift item	xbox  three hundred and sixty 	1
+popular game player	xbox  three hundred and sixty 	1
+portable proxified browser	xb browser	1
+remote multiplayer gaming platform	xbox	1
+reporting technology	xbrl	2
+method	xbox live subscription code	1
+sensational gaming device	xbox  three hundred and sixty 	2
+set-top platform system	xbox	1
+so-called exer-gaming system	xbox kinect	2
+standardised datum format	xbrl	1
+sub-soiler	xb from king kutter	1
+superior version	xbox  three hundred and sixty 	1
+terrible product	xbox  three hundred and sixty 	1
+transaction datum analysis technology	xbr tool by datavantage	1
+trans-activating activity	xbp one  trans-activating  activity 	1
+true life issue	xbox's noise	1
+typical tracker	xbt	2
+uniform datum standard	xbrl	1
+vaporware product	xbox portable	1
+tool	xbox  three hundred and sixty  commander 	2
+tool	xbox	1
+video clip system model	xbox  three hundred and sixty 	1
+video game repair	xbox rrod	1
+Webcam technology	xbox live	1
+window medium center extender	xbox  three hundred and sixty 	4
+window medium center extender device	xbox  three hundred and sixty 	1
+wireless networking adapter	xbox  three hundred and sixty  wireless networking adapter 	1
+WLID site	xbox.com	1
+xbox service	xbox modding	1
+tool	xbrl	1
+factor	xbox live ect	1
+product	xbox  three hundred and sixty 	12
+product	xbox	8
+place	xbmc site	1
+player	xbox  three hundred and sixty 	5
+player	xbox	2
+technology	xbox live	2
+technology	xbrl	2
+technology	xbox kinect	1
+technology	xboxes	1
+product	xbox  three hundred and sixty  games 	2
+product	xbox auto air cooler	2
+product	xbox dust preventer cover	2
+product	xbox modified console	2
+product	xbox three hundred and sixty 	2
+product	xbox  three hundred and sixty  modified consoles 	2
+product	xbox bio-x light gun	2
+technology	xbl	1
+technology	xbrlis enabling	1
+term	xbox killer	1
+system	xbox  three hundred and sixty 	17
+system	xbox	9
+system	xbox live arcade	3
+system	xbox three hundred and sixty 	2
+system	xbox party system	1
+system	xbox game	1
+system	xbox  three hundred and sixty . 	1
+system	xbox  three hundred and sixty  & wii 	1
+system	xbt recorder	1
+system	xbox live	1
+system	xbox  three hundred and sixty  launched with plenty of new 	1
+product	xbox console with  three hundred and twenty gb hard drive plus 	1
+product	xbox controller related product	1
+product	xbox duox  three  modchip installation 	1
+product	xbox console price related product	1
+product	xbox live communicator	1
+product	xbox live product	1
+product	xbox replacement lens	1
+product	xbox services	1
+product	xbox usb cable	1
+product	xbox link cable	1
+product	xbox gaming system related product	1
+product	xbox light guns	1
+product	xbox ac cable	1
+function	xbox feature image manipulation function	1
+device	xbox	32
+device	xbox  three hundred and sixty 	29
+device	xbox three hundred and sixty 	3
+device	xbox  three hundred and sixty  kinect 	3
+device	xboxen	1
+brand	xbox	9
+site	xbox.com	2
+site	xbox live	2
+site	xbox.com . au ebay	1
+site	xbox  three hundred and sixty  achievements 	1
+site	xbitlabs	1
+related product	xbox console price related product	1
+related product	xbox premium system related product	1

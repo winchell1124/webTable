@@ -1,0 +1,1275 @@
+factor	h. pylori infection	5
+factor	h. pylori status	5
+resource	h. pylori strain repository	1
+game	h.o.r.s.e	3
+game	h.a.w.x	2
+exception	h. sara	2
+work	h. r. keller's reader's guide	2
+work	h. g. wells the war of the worlds	1
+work	h. flood control structural work	1
+model	h.e.	1
+document	h. trial document trial document	1
+author	h. p. lovecraft	6
+author	h. g. wells	3
+author	h. rider haggard	3
+author	h. russell wakefield	2
+author	h. george frederickson	1
+author	h. peter aleff	1
+author	h. gordon skilling	1
+author	h. t. colebrooke	1
+author	h. von stietencron	1
+author	h. s. klein	1
+strategy	h. use study strategy	1
+form	h. decourcy richards three-story	1
+person	h. h. the dalai lama	1
+person	h. norman wright	1
+person	h. m. loud of oscoda	1
+alternative	h. two hundred and sixty-one  used in tele-conferencing 	1
+writer	h. g. wells	5
+writer	h. p. lovecraft	4
+writer	h.g.wells	2
+writer	h.d.	2
+writer	h. beam piper	2
+writer	h.p lovecraft	2
+writer	h. savile clarke	1
+writer	h.g wells	1
+writer	h. warner munn	1
+writer	h. cameron richardson of london	1
+writer	h. jaeger	1
+writer	h. ling roth	1
+writer	h. rider haggard	1
+writer	h. j. mccloskey	1
+writer	h. bedord jones	1
+writer	h. allen smith	1
+book	h. rider haggard	3
+feature	h. two hundred and sixty-four  video 	2
+book	h. r. mcmaster's dereliction of duty	1
+business	h. lee moffitt cancer center	1
+amenity	h.e.b.	1
+title	h. g. wells horror story	1
+title	h.a.w.x.	1
+plant	h. ammodendron	1
+scholar	h. r. ellis davidson	3
+scholar	h. graetz	2
+scholar	h. l. a. hart	1
+scholar	h. perry chapman	1
+scholar	h. stuart hughes	1
+scholar	h. bhabha	1
+scholar	h.h. the dalai lama	1
+scholar	h. dreyfus	1
+scholar	h. e. richardson	1
+scholar	h. colin slim	1
+scholar	h. h. rowley	1
+scholar	h. brinton milward	1
+feature	h. two hundred and sixty-four  compression 	1
+development	h. two hundred and sixty-four  codec improvements on compressed image quality 	1
+disease	h. pylori infection	1
+disease	h. influenzae meningitis	1
+firm	h. j. heinz	1
+test	h.v test	1
+test	h.pylori test	1
+indicator	h.i  two thousand and ten  & min 	1
+man	h. r. wagner	1
+man	h. l. ellison	1
+feature	h. two hundred and sixty-four  enhancement 	1
+man	h. suso	1
+man	h. e. phillips	1
+man	h. w. halleck	1
+man	h. j. justin	1
+setting	h. three hundred and twenty-three 	2
+compound	h. extremely hazardous compound	1
+individual	h. w. kendall	1
+individual	h. thomas johnson	1
+individual	h. wallace goddard	1
+figure	h.g.wells	1
+leader	h. rap brown	3
+leader	h. clay whitlow	1
+song	h.a.t.e.u.	1
+substance	h. sub . two  o 	1
+building	h. h. richardson's marshall fields warehouse	1
+feature	h. two hundred and sixty-four  codec support 	1
+feature	h. two hundred and thirty-nine 	1
+researcher	h. douglas brown	1
+researcher	h. luis	1
+researcher	h. beck	1
+format	h. two hundred and sixty-four 	14
+format	h. two hundred and sixty-three 	2
+format	h. two hundred and sixty-four  for ipod 	1
+format	h. two hundred and sixty-four  from dslr camera 	1
+format	h.  two hundred and sixty-four  web movie 	1
+format	h.  two hundred and sixty-four 	1
+standard	h. two hundred and sixty-three 	16
+standard	h. two hundred and sixty-four 	15
+standard	h. three hundred and twenty-three 	11
+standard	h. two hundred and sixty-one 	9
+standard	h. two hundred and sixty-four  video compression 	5
+standard	h. two hundred and sixty-four  standard 	2
+standard	h. two hundred and sixty-three  baseline profile 	2
+standard	h. three hundred and twenty 	1
+standard	h. two hundred and sixty-four  avc 	1
+standard	h. one hundred and twenty 	1
+standard	h.  three hundred and twenty-three 	1
+standard	h. two hundred and twenty-five 	1
+standard	h. twenty-six l 	1
+standard	h. two hundred and sixty-four  for broadcast 	1
+classic	h. g. wells	1
+classic	h. bigelow	1
+classic	h. g. wells's war of the worlds	1
+store	h. stockton	1
+store	h. stern	1
+critic	h. l. mencken	1
+critic	h. g. rawlinson	1
+critic	h. h. waggoner	1
+environmental factor	h. pylorus	1
+environmental factor	h. pylori infection	1
+label	h. freeman	1
+department	h. r. department	1
+department	h.r.	1
+scheme	h. twenty-six l 	1
+risk factor	h. pylori infection	5
+designer	h. w. s. cleveland	1
+award	h. m. the king's medal from the king of sweden for important contributions in the field of mobile telephony	1
+provider	h. other service provider	1
+woman	h. d.	1
+top quality inn	h. d. ellis inn b&b	1
+retailer	h. e. butt grocery co.	1
+retailer	h. stern	1
+protein	h. capsulatum nuclear protein	1
+competitor	h. j. heinz co.	1
+issue	h. pylorus	1
+state	h.p.	1
+festival	h.o.r.d.e	1
+luminary	h. c bailey	1
+luminary	h. g. wells	1
+algorithm	h. two hundred and sixty-one 	1
+algorithm	h. two hundred and sixty-three 	1
+driver	h. kitazawa	1
+friend	h. soetadi in surakarta	1
+text	h.d. s asphodel	1
+file	h. two hundred and sixty-four 	1
+story	h. beam piper's paratime series	1
+service provider	h. other service provider	1
+composer	h. t. burleigh	1
+composer	h. berlioz	1
+protocol	h. three hundred and twenty-three 	27
+protocol	h. two hundred and fourty-eight 	2
+protocol	h. three hundred and twenty-three  on the ip network 	1
+protocol	h. two hundred and fourty-five 	1
+protocol	h. three hundred and twenty-three  signaling protocol 	1
+protocol	h. two hundred and fourty-eight  megaco 	1
+protocol	h.  three hundred and twenty-three 	1
+scientist	h. ballentine carter	1
+hazard	h. maintenance emergency repair hazard	1
+historian	h. allen brooks	2
+historian	h. z. hirschberg	1
+organism	h. sap	2
+organism	h. felis	1
+organism	h.influenzae	1
+organism	h. pylorus	1
+organism	h. sapiens	1
+result	h. hironaka's resolution of singularity	1
+shop	h.m dunn in euless	1
+shop	h. samuel	1
+authority	h. l. mencken	1
+theorist	h. mintzberg	1
+theorist	h. lefebvre	1
+museum	h.r.macmillan space center	1
+gene	h. pylorus gene	1
+charity	h.e.r.o.	1
+great feature	h. two hundred and sixty-four  compression 	1
+poet	h. d.	3
+commentator	h. ross lambaugh	1
+infection	h. influenza	1
+maker	h. naoto	1
+notable	h. beecher hicks	1
+outdoor activity	h. outdoor activity	1
+pioneer	h. g. wells	2
+philosopher	h. g. gadamer	1
+philosopher	h. field	1
+enzyme	h. influenzae nadp-dependent enzyme	1
+gas	h. sub . two  s 	4
+gas	h.sub. two  gas 	2
+gas	h.sub. two  during the annealing 	1
+master	h. l. mencken	1
+famous name	h. h. hilton	1
+hospital	h. lee moffitt cancer center	1
+functionalities	h. two hundred and sixty-four  video playback 	1
+selection	h. g. wells the war of the worlds	2
+publisher	h. w. wilson	1
+acid	h.sub. two  so four 	1
+pathogen	h. pylorus	8
+conductor	h. chr	1
+conductor	h. robert reynolds	1
+recommendation	h. two hundred and fourty-eight 	1
+meeting	h. p. blavatsky business meeting	1
+pest	h. zea	1
+architect	h. cook	1
+local artist	h. g. williams	1
+contributor	h. g. wells	2
+taxa	h. neblinae var	1
+activist	h. rap brown	2
+ship	h.m.a.s schaeffer	1
+nonprofit organization	h.i.p. of new york	1
+visitor	h. c. van de hulst	1
+fitting	h.w. clamp	1
+latest technology	h. two hundred and sixty-four  video streaming 	1
+communication system	h. three hundred and twenty-three  system 	2
+parent	h. peter aleff	1
+international artist	h. charasia	1
+toxin	h. pylori associated factor	3
+charitable organization	h.e.r.o. for children	1
+item	h.o.m.e mug	1
+academic	h. r. trevor-roper	1
+contemporary artist	h.r giger	1
+chronic disease	h. pylori infection	1
+colleague	h. paul williams	1
+patient	h.m.	4
+patient	h. p.	1
+patient	h. m.	1
+interaction	h. two hundred and fourty-five  sequence forbasic call 	1
+entrepreneur	h. l. hunt	1
+government program	h.u.d. s homeless prevention	1
+bacterium	h. pylorus	13
+bacterium	h.pylori	3
+bacterium	h. sulfur bacterium	1
+bacterium	h. influenza	1
+innovative technology	h. two hundred and sixty-four 	1
+industry giant	h. j. heinz	1
+theologian	h. w. tribble	1
+theologian	h. richard niebuhr	1
+theologian	h. r. mackintosh	1
+innovative program	h.e.a.r.t. home	1
+industry standard	h. three hundred and twenty-three 	4
+industry standard	h. one hundred and ten 	1
+industry standard	h. two hundred and sixty-four 	1
+industry standard	h. thirty x video codecs 	1
+intellectual	h.e keat chhon	1
+intellectual	h. g. wells	1
+listing	h.g wells martians	1
+file format	h. two hundred and sixty-four  mkv 	1
+designer brand	h. naoto	1
+liberal	h. a. l. fisher	1
+liberal	h. h. asquith	1
+key figure	h. richard niebuhr	1
+patient characteristic	h. pylori status	1
+psychologist	h. heath bawden	1
+profile	h. two hundred and sixty-four  baseline profile 	1
+novelist	h. p. lovecraft	1
+novelist	h. g. wells	1
+villain	h.i.v.e.	1
+business leader	h. wayne huizenga	1
+music festival	h.m.gorecki festival	1
+management system	h. three hundred and twenty-three  gatekeeper 	1
+upcoming event	h.h. the dalai lama's birthday on july  six th 	1
+communication technology	h. three hundred and twenty-three 	6
+high profile client	h. rap brown	1
+high profile client	h. samuel	1
+luxury brand	h. stern	1
+supermarket	h.e.b.	1
+playwright	h. leivick	1
+protected area	h. texana site	1
+vaccine	h. influenza type b	1
+international standard	h. two hundred and sixty-one 	2
+international standard	h. two hundred and sixty-four 	1
+international standard	h. two hundred and sixty-three 	1
+allowance	h.r.a.	1
+alumnus	h. paul johnson jr.	1
+investigator	h. w. popp	1
+investigator	h. watson	1
+bacterial infection	h. pylorus	1
+bacterial infection	h.pylori with stomach ulcer	1
+reaction condition	h.sub. two  pressure 	1
+predecessor	h. s. reimarus	1
+antigen	h. pylorus antigen	1
+high-end feature	h. two hundred and sixty-four  recording format 	3
+high-end feature	h. two hundred and sixty-four  remote viewing 	3
+high-end feature	h. two hundred and sixty-four  video compression for recording 	1
+high-end feature	h. two hundred and sixty-four  recording format & remote viewing 	1
+boutique	h. lorenzo	1
+retail chain	h. e. butt	1
+identity	h. g. welles	1
+grocery store	h.e.b.	3
+acronym	h. two hundred and sixty-four 	2
+business owner	h.e.b.	1
+infectious agent	h. pylorus	1
+high profile event	h.h.the karmapa's ogyen trinley dorjee's  twenty-six th birthday on june  twenty-six th 	1
+contemporary writer	h. p. lovecraft	1
+open standard	h. three hundred and twenty-three 	2
+open standard	h. two hundred and sixty-four 	1
+open standard	h. two hundred and sixty-one 	1
+open standard	h. two hundred and sixty-three 	1
+citizen	h. worth whited	1
+communication network	h. three hundred and twenty-three 	1
+codecs	h. two hundred and sixty-four 	18
+codecs	h. two hundred and sixty-one 	1
+codecs	h.  two hundred and sixty-four 	1
+codecs	h. two hundred and sixty-three 	1
+codecs	h. two hundred and sixty-four  video 	1
+codecs	h.  two hundred and sixty-three 	1
+climber	h. anomala petiolaris	1
+literary figure	h. l. mencken	2
+famous writer	h.g.wells	1
+video format	h. two hundred and sixty-four 	12
+video format	h. two hundred and sixty-three 	6
+video format	h.  two hundred and sixty-four , three  gp 	2
+video format	h.  two hundred and sixty-three 	1
+video format	h. two hundred and sixty-three  in lg mini gd eight hundred and eighty 	1
+video format	h.  two hundred and sixty-four 	1
+video format	h. two hundred and sixty-four  mov 	1
+buzzword	h. two hundred and sixty-four 	1
+fossil	h. erectus	1
+physicist	h. nielson	1
+monitoring tool	h.p openview	1
+Large species	h. nobilis	1
+church leader	h.g.dr.geevarghese mar osthathios	1
+large manufacturer	h. rella of austria	1
+businessman	h. trivedi	1
+disease condition	h. pylori infection	2
+famous author	h.p lovecraft	3
+amphibian	h. chinensis	1
+illustration	h. a. ironside's story of an elderly man receiving exact answer	1
+sculptor	h. h. kitson	2
+engineer	h. m. crane	1
+mathematician	h. brezis	1
+innovative company	h. d. smith	1
+medium format	h. two hundred and sixty-four 	4
+service	h. three hundred and twenty-three -based video conferencing 	1
+great thinker	h. bergson	1
+american writer	h.w.longfel low	1
+food company	h. j. heinz	1
+reviewer	h. s. d.	1
+linguist	h. ahrens	2
+chronic infection	h. pylori gastritis	1
+virulence factor	h. pylorus virulence factor	1
+bacterial species	h. pylorus	1
+opportunistic infection	h.pylori	1
+professional feature	h. two hundred and sixty-four  import 	1
+guard	h. r. bhardwaj	1
+CEOs	h. lee scott	1
+dopants	h.sub. two  se 	1
+tropical species	h. anomalum wynne	1
+classic author	h.g.wells	1
+classic author	h. r rey	1
+multimedia device	h. three hundred and twenty-three  gatekeeper 	1
+atheist	h. l. mencken	1
+bacterial pathogen	h. pylorus	3
+security technology	h. three hundred and twenty-three  proxy 	1
+output format	h. two hundred and sixty-four 	1
+operational function	h.r	1
+standard protocol	h. three hundred and twenty-three 	4
+coalition	h.o.p.e.	1
+game title	h.a.w.x	1
+popular format	h. two hundred and sixty-four 	2
+popular format	h. two hundred and sixty-three 	1
+common format	h. two hundred and sixty-four 	1
+service	h. two hundred and fourty-eight 	1
+core technology	h. two hundred and sixty-four  compression 	1
+optional module	h. two hundred and sixty-four  video decoder 	1
+human pathogen	h. pylorus	1
+patriot	h. w. daendels	1
+compression technique	h. two hundred and sixty-one 	1
+renowned author	h. g. wells	1
+standard format	h. two hundred and sixty-four 	2
+genetic and environmental factor	h. pylori infection	1
+eukaryotes	h. sapiens	2
+closely related species	h. melpomene	1
+topic	h. two hundred and sixty-four 	1
+compression algorithm	h. two hundred and sixty-four 	1
+compression algorithm	h. two hundred and sixty-one 	1
+compression algorithm	h. two hundred and sixty-three  compression algorithm 	1
+compression algorithm	h. two hundred and sixty-three 	1
+model organism	h. sapiens	1
+categorical datum	h. pylorus	1
+personal favorite	h. davenport's the higher arithmetic	1
+popular video format	h.  two hundred and sixty-four 	3
+high street store	h. hawkins	1
+communication standard	h. three hundred and twenty-four 	1
+communication standard	h. three hundred and twenty 	1
+temporary facility	h. use of hay bale	1
+geographer	h. wagner	1
+inorganic acid	h. sub . two  so . sub . four 	1
+other factor	h. other factor	1
+fairy tale	h. c. andersen s the traveling companion	2
+established technology	h.  three hundred and twenty 	1
+topic	h.r.	1
+voice actor	h. jon benjamin	1
+encoder	h. two hundred and sixty-three 	2
+encoder	h. two hundred and sixty-four 	1
+volatile component	h. sub . two  s 	1
+common variety	h. lancifolia	1
+standard technology	h. two hundred and sixty-four 	1
+popular retailer	h. samuel	1
+social critic	h. mayhew	1
+government leader	h. clinton	1
+hazardous activity	h. v testing	1
+internet protocol	h. three hundred and twenty-three 	1
+pathogenic microorganism	h. pylorus	1
+idealist	h. ross perot	1
+network function	h. two hundred and sixty-four  video streaming 	1
+viral illness	h.i.v.	1
+codec	h. two hundred and sixty-four 	4
+local grocery store	h.e.b.	1
+genome	h. sapiens	3
+genome	h. pylorus	2
+jeweler	h. samuel	1
+compression standard	h. two hundred and sixty-one 	12
+compression standard	h. two hundred and sixty-three 	3
+compression standard	h. two hundred and sixty-four 	2
+compression standard	h.  two hundred and sixty-one 	1
+diplomat	h.e mr. giacomo sanfelice di monteforte	1
+great figure	h. s. m. coxeter	1
+renowned writer	h. g. wells	1
+integrated tool	h.e.a.t.	1
+vitals	h.r	1
+company	h.i.s.	2
+company	h. j. heinz	2
+high-bandwidth application	h. two hundred and sixty-four  video 	1
+young writer	h.d.	1
+coding scheme	h. two hundred and sixty-one 	1
+science fiction writer	h. g. wells	6
+gram-negative bacterium	h. pylorus	1
+gram-negative bacterium	h. influenza	1
+infectious organism	h. pylorus	1
+top official	h. lee scott	1
+coding system	h. two hundred and sixty-four 	1
+compression format	h. two hundred and sixty-four 	1
+encodings	h. two hundred and sixty-three 	1
+american scholar	h. p. smith	1
+carnivorous species	h. marmorata	1
+pop group	h.o.t.	1
+resistant species	h. bajulus	1
+bacterial strain	h. pylorus	1
+digestive condition	h. pylori infection	1
+multimedia format	h. two hundred and sixty-three 	1
+great function	h. two hundred and sixty-four  file support 	1
+company	h.e.b grocery store	1
+company	h. lee moffitt cancer center	1
+company	h. m. rowe company	1
+modern historian	h. wayne morgan	1
+moss	h. priscum	1
+pathogenic bacterium	h. pylorus	1
+application protocol	h. two hundred and fourty-eight 	1
+application protocol	h. three hundred and twenty-three 	1
+ecologist	h. t. odum	2
+prominent researcher	h. j. roberts	1
+industry standard protocol	h. three hundred and twenty-three 	1
+interesting plant	h. argenteum from wales	1
+botanist	h. de vries	2
+treatable cause	h. pylori infection	1
+video compression standard	h. two hundred and sixty-three 	9
+video compression standard	h. two hundred and sixty-one 	8
+video compression standard	h. two hundred and sixty-four 	7
+video compression standard	h. two hundred and sixty-four  standard 	1
+video file format	h. two hundred and sixty-four 	1
+video file format	h. two hundred and sixty-three 	1
+renowned singer	h. r. jothipala	1
+science fiction author	h.g wells	3
+science fiction author	h. g. wells	3
+video coding standard	h. two hundred and sixty-three 	15
+video coding standard	h. two hundred and sixty-four 	13
+video coding standard	h. two hundred and sixty-one 	9
+video coding standard	h. twenty-six l 	4
+video coding standard	h. two hundred and sixty-two 	3
+video coding standard	h. two hundred and sixty-three  standard 	2
+video coding standard	h.  two hundred and sixty-four 	1
+video coding standard	h. two hundred and sixty-two  mpeg- two  video 	1
+video coding standard	h. two hundred and sixty-four  offer flexibility in selecting the references frame 	1
+combustible gas	h. sub . two 	1
+prominent member	h.g wells	1
+acidic gas	h. sub . two  s 	1
+acidic gas	h. sub . two  so . sub . four 	1
+audio codecs	h. two hundred and sixty-four 	1
+company	h.e. service	1
+company	h.i.s hose	1
+company	h. lundbeck	1
+video codecs	h. two hundred and sixty-four 	6
+video codecs	h. two hundred and sixty-five 	1
+video codecs	h. two hundred and sixty-one 	1
+video codecs	h. two hundred and sixty-four  codecs 	1
+video codecs	h. two hundred and sixty-four  with hi-res capability 	1
+compression technology	h. two hundred and sixty-four 	5
+evangelical scholar	h. e. dana	1
+industry standard technology	h. two hundred and sixty-four 	3
+opportunistic species	h. australis	2
+control protocol	h. three hundred and twenty-three 	1
+protestant theologian	h. paul santmire	1
+reputable store	h. stern	1
+signaling protocol	h. three hundred and twenty-three 	16
+signaling protocol	h. two hundred and fourty-five 	2
+signaling protocol	h.  three hundred and twenty-three 	1
+academician	h. r. ellis davidson	1
+small retailer	h. james baum in downstate morris	1
+black author	h. k. edgerton	1
+liberal politician	h. ried	1
+liberal politician	h. h. asquith	1
+medicinal mushroom	h. erinaceus	1
+open protocol	h. two hundred and fourty-eight 	1
+activity	h. outdoor activity	1
+deepwater species	h. barbatum okam	1
+distinguished figure	h. g. wells	1
+video standard	h. two hundred and sixty-one 	3
+video standard	h. two hundred and sixty-three 	2
+video standard	h. two hundred and sixty-four 	2
+video standard	h. two hundred and sixty-four  high profile support 	1
+woman poet	h.d.	1
+gaseous component	h. sub . two  o 	1
+structural work	h. flood control structural work	1
+common video format	h. two hundred and sixty-three 	1
+common video format	h. two hundred and sixty-four 	1
+large grocery store	h.e.b with locations throughout texas	1
+mural	h. louis freund's early days	1
+audio company	h. h. scott	1
+standards-based technology	h. two hundred and sixty-four  compression 	2
+vaccine-preventable disease	h. influenzae type b	1
+co-infections	h. pylorus	1
+european intellectual	h. g. wells	1
+generalist	h. zea	1
+telephony device	h. three hundred and twenty-three  client 	1
+dispensationalists	h. a. ironside along with modern-day dispensationalists william macdonald	1
+idol group	h.o.t.	2
+nineteenth-century writer	h. c. koch	1
+packaging bag	h.d.p.e. bag	1
+satirist	h. l. mencken	1
+standard specification	h. two hundred and sixty-four 	1
+agitator	h. rap brown	1
+european scholar	h. u. vogel	1
+latency-sensitive application	h. three hundred and twenty-three 	1
+application layer protocol	h. three hundred and twenty-three 	2
+famous politician	h.h sheikh zayed	1
+industry-leading feature	h. two hundred and sixty-four  compression 	11
+Orientalists	h. t. colebrooke	1
+victorian writer	h. rider haggard	1
+adventure story	h. rider haggard's king solomon's mines	1
+grammarian	h. e. dana	1
+pulp writer	h. p. lovecraft	1
+unusual infection	h. pylorus	1
+viral and bacterial infection	h. pylori infection	2
+hominid	h. habilis	1
+popular medium format	h. two hundred and sixty-four 	1
+IP protocol	h. three hundred and twenty-three  andsiptoss seven 	1
+legacy protocol	h. three hundred and twenty-three 	6
+prominent business leader	h. furlong baldwin	1
+protic acid	h. sub . two  so . sub . four 	1
+well condition	h.sub. two  s contamination of the well fluid 	1
+image compression algorithm	h. two hundred and sixty-one 	1
+image compression technique	h. two hundred and sixty-four 	2
+image compression technique	h. two hundred and sixty-one 	1
+multi-media application	h. two hundred and sixty-four  standard 	2
+third party candidate	h. ross perot	1
+well-known economist	h. michael mann	1
+hydrolysis product	h. sub . two 	1
+liberal theologian	h.c king	1
+Ruderal species	h. matronalis	1
+video compression technique	h. two hundred and sixty-four  compression use temporal 	2
+video compression technique	h. two hundred and sixty-one 	1
+emblematic figure	h. von brentano	1
+famous physicist	h. coulomb	1
+literary influence	h.p. lovecraft	1
+prominent theologian	h. paul santmire	1
+upper-layer protocol	h. three hundred and twenty-three 	1
+air vehicle	h. k. porter	2
+antisecretory agent	h.sub. two  receptor antagonist cimetidine 	2
+civil war general	h. h. sibley in the second dragoons	1
+cuban cigar	h. upmann cigar	2
+essential device	h. three hundred and twenty-three  terminal 	2
+hazardous compound	h. extremely hazardous compound	1
+hydrangea	h. macrophylla	1
+multimedia standard	h. two hundred and sixty-four 	3
+notable comedian	h. jon benjamin	2
+quality shop	h. h. babcock	1
+video encoder	h. two hundred and sixty-three 	1
+video encoder	h. two hundred and sixty-four 	1
+video encoder	h. two hundred and sixty-one  video encoder 	1
+video encoder	h. two hundred and sixty-four  into a single access package 	1
+legal positivists	h. l. a. hart	1
+music file format	h. two hundred and sixty-three 	1
+music file format	h. two hundred and sixty-four 	1
+senior congress leader	h. k. l. bhagat	4
+trunk	h. three hundred and twenty-three 	6
+video compression algorithm	h. two hundred and sixty-four 	1
+well-known theorist	h. blumer	1
+illustrious individual	h. thomas james	1
+influential poet	h.d.	1
+major project	h. only major project	1
+science fiction book	h.g wells	1
+signalling protocol	h. three hundred and twenty-three 	2
+application-layer protocol	h. three hundred and twenty-three 	1
+big marketer	h. j. heinz	1
+distinguished researcher	h. kesten	1
+forester	h. von cotta	1
+inorganic acidic compound	h. sub . two  s 	1
+lossless codec	h. two hundred and sixty-four  lossless 	1
+Piscivores	h. platyrhynchos	1
+trial document	h. trial document trial document	1
+video capability	h. two hundred and sixty-four  scalable video coding 	1
+video compression method	h. two hundred and sixty-three 	1
+video compression method	h. two hundred and sixty-four 	1
+air treatment system	h.e.p.a. filter air cleaner	1
+custom format	h. two hundred and sixty-four 	1
+infrequent visitor	h. lee white	1
+physiologist	h. magnus	1
+selection aid	h. w. wilson's standard catalog series	1
+voip protocol	h. three hundred and twenty-three 	7
+dilution gas	h.sub. two  gas 	2
+network processing device	h. three hundred and twenty-three  gatekeeper 	1
+peer-to-peer protocol	h. three hundred and twenty-three 	1
+popular codecs	h. two hundred and sixty-four 	1
+two-year college	h. councill trenholm technical college	1
+video compression scheme	h. two hundred and sixty-four 	2
+world-known start	h.i.m	1
+advanced codecs	h. two hundred and sixty-four 	4
+american researcher	h. h. goddard	1
+citing scholar	h. richard niebuhr	1
+common GI condition	h. pylori infection	1
+conventional video coding standard	h. two hundred and sixty-one 	2
+conventional video coding standard	h. two hundred and sixty-three 	2
+conventional video coding standard	h. twenty-six l 	1
+event	h.o.p.e summer volleyball tournament	1
+event	h.p.s. bowling class	1
+Historicists	h. b. nicholson	1
+hybrid species	h. paradoxus	1
+modern expert	h. allen orr	1
+protocol suite	h. three hundred and twenty-three 	1
+tick species	h. flava	1
+well-known international standard	h. two hundred and sixty-one 	1
+well-known international standard	h. two hundred and sixty-three 	1
+classic horror author	h. p. lovecraft	1
+conventional standard	h. two hundred and sixty-three 	1
+dime	h. l. green	1
+Intuitionists	h. a. prichard	1
+ip-based protocol	h. three hundred and twenty-three 	1
+modern novelist	h. g. wells	1
+national pundit	h. l. menchen	1
+Petrocrops	h. wighitiana	1
+prominent contemporary	h. a. lorentz	1
+psuedonyms	h. w. g. ja bond	1
+radio commentator	h. v. kaltenborn of nbc	4
+radio commentator	h. v. kaltenborn of cbs	2
+retail grocer	h.e.b.	1
+Risk factor s	h. pylori infection	1
+textual scholar	h. vogels	1
+upscale establishment	h. stern jewellers	1
+video coder	h. two hundred and sixty-three 	1
+video coder	h. two hundred and sixty-four 	1
+american reader many european author	h. g. wells	1
+dairy processor	h. p. hood	1
+distribution format	h. two hundred and sixty-four 	1
+encoding standard	h. two hundred and sixty-one 	1
+gastrointestinal drug	h.sub. two -receptor antagonists famotidine 	1
+male group	h.o.t.	2
+program	h.o.b.y.	1
+Prescribers	h. w. fowler	1
+prominent cultural figure	h. barbusse	1
+proprietary standard	h. two hundred and sixty-four 	1
+psi researcher	h. f. saltmarsh	2
+simple acid	h. sub . three  po . sub . four 	3
+strong -regional	h. e. butt	1
+well-established video compression standard	h. two hundred and sixty-four 	1
+well-established video compression standard	h. two hundred and sixty-one 	1
+well-established video compression standard	h. two hundred and sixty-three 	1
+well-known video compression standard	h. two hundred and sixty-three 	3
+well-known video compression standard	h. two hundred and sixty-one 	3
+well-known video compression standard	h. two hundred and sixty-four 	3
+active measurement tool	h. three hundred and twenty-three  beacon 	2
+advanced communication protocol	h. three hundred and twenty-three 	1
+auxiliary server	h. three hundred and twenty-three  server 	1
+coding algorithm	h. two hundred and sixty-four 	1
+digital video compression standard	h. two hundred and sixty-one 	1
+digital video compression standard	h. two hundred and sixty-three 	1
+medium standard	h. two hundred and sixty-four 	1
+militant brother	h. rap brown	1
+mobile 3GPP codecs	h. two hundred and sixty-four 	18
+mobile 3GPP codecs	h. two hundred and sixty-three 	17
+mobile 3GPP codecs	h.  two hundred and sixty-three 	2
+mobile 3GPP codecs	h.  two hundred and sixty-four 	1
+open standard protocol	h. three hundred and twenty-three 	1
+popular video coding system	h. two hundred and sixty-four 	1
+popular video coding system	h. two hundred and sixty-one 	1
+popular video coding system	h. two hundred and sixty-three 	1
+session control protocol	h. three hundred and twenty-three 	1
+star group	h.o.t	1
+twentieth century poet	h.d.	2
+video compression format	h. two hundred and sixty-four 	1
+video compression technology	h. two hundred and sixty-three 	1
+advanced video compression algorithm	h. two hundred and sixty-four 	1
+american humorist	h.l.mencken	1
+archaic human	h. heidelbergensis	1
+black power figure	h. rap brown	1
+brilliant physician	h. j. roberts	1
+british researcher	h. mayhew	1
+classic hi-fi brand	h. h. scott	1
+compressed image	h. two hundred and sixty-four  image 	1
+Congeneric species	h. dianthus	1
+factor	h. other factor	1
+factor	h. pylorus virulence factor	1
+factor	h. pylori s genetic diversity	1
+developed video coding standard	h. two hundred and sixty-one 	1
+developed video coding standard	h. two hundred and sixty-three 	1
+editing format	h. two hundred and sixty-four 	1
+great science fiction writer	h. g. wells	2
+hd video file	h. two hundred and sixty-four 	1
+hellebore	h. orientalis	1
+heroes favorite	h.r.g.	1
+high value timber species	h. odorata	1
+image compression standard	h. two hundred and sixty-three 	1
+international video coding standard	h. two hundred and sixty-four 	1
+international video coding standard	h. two hundred and sixty-three 	1
+international video coding standard	h. two hundred and sixty-one 	1
+langley school	h. d. stafford secondary	1
+Legendary local mixologists	h. joseph ehrmann	1
+open international standard	h. three hundred and twenty-three 	1
+Otehr noteable comediens	h. jon benjamen	1
+QC equipment	h.d. microscope	1
+real-time and multimedia application	h. three hundred and twenty-three  standard 	1
+science fiction classic	h. g. wells war of the worlds	1
+signaling scheme	h. two hundred and sixty-three 	1
+standard backbone modification	h. sub . two  n-p 	1
+standard compression technology	h. two hundred and sixty-three 	1
+standard voip protocol	h. three hundred and twenty-three 	2
+standardised protocol	h. three hundred and twenty-three 	2
+streaming protocol	h. three hundred and twenty-three 	1
+Subdividers	h. i. latham	1
+telephony signaling protocol	h. three hundred and twenty-three 	2
+traditional block-based video encoder	h. two hundred and sixty-one 	1
+traditional block-based video encoder	h. two hundred and sixty-four 	1
+traditional mens store	h. herzfeld	1
+variable species	h. boreale	1
+Video compression	h. two hundred and sixty-four 	1
+video fotmats	h.  two hundred and sixty-four , three  gp 	1
+voip signaling protocol	h. three hundred and twenty-three 	2
+advanced multimedia video application	h. twenty-six x video conferencing 	1
+benchmark test set	h. gustafson set	1
+block-based video compression standard	h. two hundred and sixty-three 	1
+block-based video compression standard	h. two hundred and sixty-one 	1
+broadband signaling protocol	h. two hundred and fourty-eight 	1
+call-setup protocol	h. three hundred and twenty-three 	1
+common representative compression method	h. two hundred and sixty-one 	1
+digital image format	h. two hundred and sixty-one  video picture 	1
+divergent philosopher	h. h. price	1
+english mathematician	h. d. macleod	1
+first generation idol group	h.o.t	2
+flood control structural work	h. flood control structural work	1
+gaseous raw material	h. sub . two  gas 	1
+gateway control protocol	h. two hundred and fourty-eight 	2
+HD codecs	h. two hundred and sixty-four 	1
+high class conductor	h. b. karajan	1
+high-quality video format	h. two hundred and sixty-four 	1
+hosted video file	h.  two hundred and sixty-four 	1
+influential national performer	h. franklin baby seals	1
+international coding standard	h. two hundred and sixty-three 	1
+international coding standard	h. two hundred and sixty-one 	1
+international video standard	h. two hundred and sixty-one 	2
+international video standard	h. two hundred and sixty-three 	1
+IP telephone standard	h. three hundred and twenty-three 	2
+IP telephone standard	h. two hundred and twenty-five 	1
+large nation-wide group	h.o.g.	1
+long-established and venerable firm	h. huntsman & sons	1
+mixed game	h.o.r.s.e	4
+mixed game	h.o.s.e	2
+modern video coding standard	h. two hundred and sixty-four 	2
+modern video coding standard	h. two hundred and sixty-four  standard 	1
+Otherprotocols	h. three hundred and twenty-three 	1
+playable video format	h. two hundred and sixty-four 	1
+popular video compression standard	h. two hundred and sixty-one 	1
+organization	h. j. heinz	1
+prevailing video coding standard	h. two hundred and sixty-four 	1
+prevailing video coding standard	h. two hundred and sixty-three 	1
+silent infection	h.pylori	1
+specialty card game	h.o.r.s.e	1
+tamil muslim representative	h. abdul basith	2
+traditional block-based video codecs	h. two hundred and sixty-one 	1
+unique-to-the-market store	h. stern	1
+video algorithm	h. two hundred and sixty-three 	1
+video codec standard	h. two hundred and sixty-four 	2
+video coding	h. two hundred and sixty-four 	1
+video coding system	h. two hundred and sixty-three 	1
+video coding system	h. two hundred and sixty-one 	1
+video protocol	h. three hundred and twenty-three 	1
+videoconferencing technology	h. three hundred and twenty-three 	1
+voip standard	h. three hundred and twenty-three 	1
+19th-century german industrialist	h. j. heinz	1
+advanced compression technology	h. two hundred and sixty-four 	1
+advanced video compression technique	h. two hundred and sixty-four 	2
+Asian carp	h. nobilis	1
+austin retail grocer	h.e.b.	1
+AVI format	h. two hundred and sixty-four  avi video 	1
+award winning jeweler	h. stern	1
+block-based coding scheme	h. two hundred and sixty-three 	1
+bridge device	h. one hundred and ten -to-starfabric bridge 	1
+british radical	h. n. brailsford	1
+bygone composer	h. berlioz	1
+common digital video format	h. two hundred and sixty-four 	1
+common video coding standard	h. two hundred and sixty-three 	2
+common video coding standard	h. two hundred and sixty-four 	1
+contemporary psychoanalytically oriented author	h. kohut	1
+conventional digital video compression standard	h. two hundred and sixty-three 	1
+conventional video compression method	h. two hundred and sixty-one  standard 	1
+conventional video compression standard	h. two hundred and sixty-four 	1
+currently video compression standard	h. two hundred and sixty-three 	1
+dct-based standard	h. two hundred and sixty-three 	2
+digital compression method	h. two hundred and sixty-four 	2
+digital video coding standard	h. two hundred and sixty-three 	2
+distinguished international alumnus	h. steve hsieh	1
+downgrader historian	h. c. vedder	1
+eminent teacher	h.h. the xvith karmapa	1
+technique	h. two hundred and sixty-one 	1
+Gastric NPHS	h. suis	2
+greek expert	h. v. p. nunn	1
+horror anthology	h. p. lovecraft's magazine of horror	2
+illinois state champion	h. b. mason	1
+industry standard video codecs	h. two hundred and sixty-four 	1
+industry standard voip protocol	h. three hundred and twenty-three 	1
+interventional measure	h. pylori eradication	1
+INTRODUCTION many image compression standard	h. two hundred and sixty-three 	1
+INTRODUCTION Modern video codecs	h. two hundred and sixty-four 	2
+INTRODUCTION traditional block-based video coder	h. two hundred and sixty-one 	2
+ip-to-ip gateway	h. two hundred and fourty-eight  border gateway 	1
+latest codecs	h. two hundred and sixty-four 	1
+latest video compression standard	h. two hundred and sixty-four 	2
+liberal and radical journal	h. l. mencken's american mercury	1
+liberal progressive	h.g wells	1
+lifelong politician	h. clinton	1
+lossy image compression technique	h. two hundred and sixty-four 	1
+lunchtime medium smoke	h. upmann lonsdale	1
+mobile 3GP P codecs	h. two hundred and sixty-three 	1
+mobile 3GP P codecs	h. two hundred and sixty-four 	1
+mobile 3GPP code cs	h. two hundred and sixty-four 	1
+mobile 3GPP code cs	h. two hundred and sixty-three 	1
+moderate conservative leader	h. w. hinde	1
+modern intuitionists	h. a. prichard	1
+MPEG video coding standard	h. two hundred and sixty-four 	1
+NBX product sport feature	h. three hundred and twenty-three -based call control 	2
+NBX product sport feature	h. three hundred and twenty-three -based call a combination of strategies in complex environment 	1
+NGN protocol	h. two hundred and fourty-eight 	1
+non-classical factor	h. pylori infection	1
+application	h. two hundred and sixty-one  qcif codec 	3
+application	h. three hundred and twenty-three  toll bypass 	3
+application	h. two hundred and sixty-three 	3
+application	h. three hundred and twenty-three 	2
+application	h. two hundred and sixty-four  hardware acceleration support in quicktime 	1
+open standard format	h. two hundred and sixty-four 	1
+picture standard	h. two hundred and sixty-one 	1
+picture standard	h. two hundred and sixty-three 	1
+policy advisor	h. f. verwoerd	1
+popular video codecs	h. two hundred and sixty-four 	1
+prominent Lutherans	h. george anderson	1
+proper video codec	h. two hundred and sixty-four 	1
+recombination protein	h. pylori recg	1
+segmentation algorithm traditional video standard	h. two hundred and sixty-one 	1
+standard video coding system	h. two hundred and sixty-three 	1
+standard video coding system	h. two hundred and sixty-one 	1
+standard video compression coding scheme	h. two hundred and sixty-one 	1
+standard video compression coding scheme	h. two hundred and sixty-three 	1
+straightforward form	h.d.	1
+sulfur bacterium	h. sulfur bacterium	1
+application	h. three hundred and twenty-three -basedmultimedia communication 	1
+application	h. two hundred and sixty-four  hardware acceleration help in quicktime 	1
+application	h. three hundred and twenty  video 	1
+application	h. two hundred and sixty-four 	1
+application	h. two hundred and sixty-four  hardware acceleration support for quicktime 	1
+application	h. three hundred and twenty-three  gateway 	1
+application	h. twenty-six l 	1
+application	h. two hundred and sixty-four  andfft 	1
+application	h. two hundred and sixty-three  hybrid video encoder 	1
+thermal water	h. ouled sidi slimane	1
+traditional jeweler	h. stern	1
+traditional video standard	h. two hundred and sixty-one 	1
+twentieth-century collector	h.f. du pont	1
+typical format	h. two hundred and sixty-four 	1
+typical hybrid video coding algorithm	h. two hundred and sixty-three 	1
+typical hybrid video coding algorithm	h. two hundred and sixty-two 	1
+typical hybrid video coding algorithm	h. two hundred and sixty-four 	1
+typical nonmetallic precursor	h. sub . two  o 	2
+typical nonmetallic precursor	h. sub . two  s 	2
+university don	h. a. passe	2
+video encoding standard	h. two hundred and sixty-four 	1
+video transmission standard	h. two hundred and sixty-one 	1
+video-compression standard	h. two hundred and sixty-three 	1
+videoconferencing standard	h. two hundred and sixty-three 	1
+videoconferencing standard	h. two hundred and sixty-one 	1
+VOIP signaling technology	h. three hundred and twenty-three 	1
+VOIP signaling technology	h.  three hundred and twenty-three 	1
+well-know industrialist	h. j. heinz	1
+wide area weapon	h.e.	1
+world story	h. rider haggard's king solomon's mines	1
+Advanced compression	h. two hundred and sixty-four 	4
+advanced encoder	h. two hundred and sixty-four 	1
+advanced video codec	h. two hundred and sixty-four 	1
+advanced video codecs	h. two hundred and sixty-four 	3
+advanced video coder	h. two hundred and sixty-four 	1
+amnesiac patient	h.m.	1
+anglo-saxon intellectual	h. g. wells	1
+anuran AQP2 orthologues	h. japonica aqp-h two k 	1
+art history text	h. gardner's art through the ages	1
+art history text	h. h. amason's history of modern art	1
+assembly writer	h. a. ironside	1
+AV stream	h. two hundred and sixty-four  video 	1
+bundled session application	h. three hundred and twenty-three 	1
+canadian collector	h. s. southam	1
+name	h.e.a.t	1
+codec algorithm	h. two hundred and sixty-four 	1
+co-infection model	h. polygyrus with citrobacter rodentium	1
+coke-oven operator	h. daley	1
+commercial video codecs	h. two hundred and sixty-four 	1
+console title	h.a.w.x series	1
+Contemporary Marxists	h. i. kleven	1
+conventional IP telephony protocol	h. three hundred and twenty-three 	1
+dept	h.r	1
+digital coding system	h. two hundred and sixty-four 	1
+dynamic protocol	h. three hundred and twenty-three  annex g protocols 	1
+endlessly productive contemporary	h. g. wells	1
+established medical publishing house	h. k. lewis & co.	1
+famous idol group	h.o.t	2
+name	h. marshall gardiner	1
+name	h. p. lovecraft	1
+name	h. y. hind	1
+fossil man	h. erectus	1
+frequent-lytobiological classic	h. driesch	1
+generation codecs	h. two hundred and sixty-four 	2
+generation compression system	h. two hundred and sixty-four 	1
+great journalist	h. l. mencken	1
+h-containing gas	h.sub. two  gas 	1
+Helicobacter spp	h. felis	1
+high resolution video playback format	h. two hundred and sixty-four 	1
+high-profile PR campaign	h. stern's launch in the spanish market	1
+high-profile work	h. natural history museum	1
+histomorphological feature	h. pylori infection	1
+Homegrown right-wingers	h. l. hunt	1
+houston's GLBT publication	h.e.r.s. magazine	1
+hybrid video coding standard	h. two hundred and sixty-three 	1
+image compression-coding system	h. two hundred and sixty-three 	1
+image compression-coding system	h. two hundred and sixty-one 	1
+impurity gas particle	h.sub. two s gas particle 	1
+international video compression standard	h. two hundred and sixty-three 	2
+INTRODUCTION informer video coding standard	h. two hundred and sixty-four 	1
+INTRODUCTION most video compression method	h. two hundred and sixty-three 	1
+IP communication protocol	h. three hundred and twenty-three 	2
+islamic cleric	h. sheh shamia	1
+japanese street fashion designer	h. naoto	1
+jumpering material	h.g. clamps  zero . two  no.  two  socket tape 	1
+jumpering material	h.g. clamps socket tape	1
+key boutique retail partner	h. lorenzo	1
+large west avenue business	h. h. dobbins inc.	1
+large, complicated protocol	h. three hundred and twenty-three 	2
+latest mobile-friendly codecs	h. two hundred and sixty-four 	1
+leveraging industry-standard packet protocol	h. three hundred and twenty-three 	1
+factor	h.o.a. approval	1
+lofty thinker	h. spencer	1
+lossy video compression standard	h. two hundred and sixty-four 	1
+mainstream project	h.b.o. s tales from the crypt	1
+management audit	h.r	1
+midsize species	h. procerus	1
+midsize species	h. fuscus	1
+military notable	h. norman schwarzkopf	1
+modern compression codecs	h. two hundred and sixty-four 	1
+modern compression method	h. two hundred and sixty-four 	2
+modern compression standard	h. two hundred and sixty-four 	2
+Modern differential codecs	h. two hundred and sixty-four 	1
+modern digital video standard	h. two hundred and sixty-four  standard 	1
+modern high definition video codec	h. two hundred and sixty-four 	1
+motion codecs	h. two hundred and sixty-one 	1
+motion compensation prediction-based codecs	h. two hundred and sixty-one 	1
+mpeg-like video coding system	h. two hundred and sixty-three 	1
+mpeg-like video coding system	h. two hundred and sixty-four 	1
+multimedia socs design	h. two hundred and sixty-four 	1
+nonmembership organization	h. ross perot	1
+norteamericano writer	h. l. mencken	1
+NTRODUCTION current video compression system	h. two hundred and sixty-three 	1
+optional video format	h. two hundred and sixty-four 	1
+outside factory	h. freeman	1
+packet-switched video com-munications protocol	h. three hundred and twenty-three 	1
+picture coding method	h. twenty-six l 	4
+picture compression standard	h. two hundred and sixty-four 	1
+case	h. boreale	1
+practical video coding system	h. two hundred and sixty-one 	1
+practical video coding system	h. two hundred and sixty-three 	1
+practical video-coding system	h. two hundred and sixty-three 	1
+practical video-coding system	h. two hundred and sixty-one 	1
+private-sector-oriented strategy theorist	h. igor ansoff	1
+pro-bulgarian researcher	h. henry brailsford	1
+pro-bulgarian researcher	h. brailsford	1
+QuickTime codecs	h. two hundred and sixty-four 	1
+RADITIONAL block-based video coder	h. two hundred and sixty-one 	1
+reduced street standard	h. reduced street standard	1
+reliable and durable component	h.t generator	1
+relic species	h. helix	1
+respected preacher	h. leo boles	1
+RT video compression standard	h. two hundred and sixty-four 	1
+RT video compression standard	h. two hundred and sixty-three 	1
+saxophone soloist	h. benne henton in sousa's band	1
+science fiction pioneer	h. g. wells	1
+session initiation mechanism	h. three hundred and twenty-three  from the itu telecommunication standardization sector 	1
+set-up signalling protocol	h. three hundred and twenty-three 	1
+signaling communication protocol	h. three hundred and twenty-three 	1
+Silicon fluoric hydrides	h. sub . two  sif . sub . two 	1
+sophisticated video compression algorithm	h. two hundred and sixty-four  itu 	1
+sophisticated video compression algorithm	h. two hundred and sixty-three  itu 	1
+south korean music group	h.o.t.	2
+spring larva	h. defoliaria	1
+spring larva	h. progemmaria	1
+standard packet signaling protocol	h. three hundred and twenty-three 	1
+standard video coding	h. two hundred and sixty-three 	1
+standard video compression format	h. two hundred and sixty-one 	1
+standard voip signaling protocol	h.  three hundred and twenty-three 	1
+starting material gas	h.sub. two  gas 	1
+stream-based protocol	h. three hundred and twenty 	2
+stream-based protocol	h. three hundred and twenty-four 	1
+sugar baron	h. p. baldwin	1
+suitable, relatively inert gas	h. sub . two 	1
+case	h. americanus	1
+telephony signal protocol	h. three hundred and twenty-three 	1
+thatahybridvideo encoder	h. two hundred and sixty-three 	1
+third-party activist	h. s. p. stump ashby qv	1
+traditional video coding algorithm	h. two hundred and sixty-four 	3
+trial document trial document	h. trial document trial document	1
+type multiple stream format	h. two hundred and sixty-four 	2
+typical broadcast transport stream	h. two hundred and sixty-four  stream 	1
+typical video codec	h. two hundred and sixty-three 	1
+ultra-high bitrate codecs	h. two hundred and sixty-four 	2
+vatican II standard moral theologian	h.noldin sj	1
+vatican II standard moral theologian	h. noldin sj	1
+VC recipient	h. jones	1
+video coding technique	h. two hundred and sixty-four 	1
+Video Compression In atypical standard	h. two hundred and sixty-one 	1
+video encodings	h. two hundred and sixty-two 	1
+video specification	h. two hundred and sixty-four 	1
+videoconferencing format	h. three hundred and twenty-four 	1
+videoconferencing format	h. three hundred and twenty 	1
+voice control protocol	h. three hundred and twenty-three 	1
+voip peer-to-peer signaling protocol	h. three hundred and twenty-three 	1
+weil-mclain's program	h.e.a.t.	1
+weird tale author	h. p. lovecraft	1
+young toynbee hall resident	h. r. maynard	1
+acid pen journalist	h. l. mencken	1
+advanced video coding standard	h. two hundred and sixty-four 	3
+aflatoxin-tolerant species	h. zea	1
+aforementioned mixed poker game	h.o.r.s.e	1
+all-pervading adult trait	h.d. s constant need for a supernatural reality	1
+alternate history story	h. beam piper's lord kalvan of otherwhen	1
+ancestral human	h. erectus	1
+Asia distinct species	h. erectus	1
+option	h. three hundred and twenty-three 	1
+benefit newer codecs	h. two hundred and sixty-four 	1
+brown hydra	h. vulgaris	1
+cambridge boat builder	h. c. banham	1
+case target	h. two t smoking cessation 	2
+city big and small, store	h. gordon & son in gary	1
+clearly colorado criminal defense lawyer	h. michael steinberg	1
+coding technology	h. two hundred and sixty-four 	2
+colonial adventure writer	h. rider haggard	1
+colonial forester	h. n. thompson	1
+combination game	h.o.r.s.e	1
+Co-mimetic species	h. erato	1
+common hybrid video coding standard	h. two hundred and sixty-three 	1
+complex video codecs	h. two hundred and sixty-four 	1
+contagious disease case	h. influenza meningitis in infant	1
+conventional block-based video coder	h. two hundred and sixty-three  coder 	2
+conventional CODECs	h. two hundred and sixty-four 	1
+conventional encoder	h. two hundred and sixty-one  encoder of fig 	1
+conventional staining	h.e.	1
+coral taxonomist	h. m. bernard	1
+cultural liberal	h. l. mencken	1
+currently common switching protocol	h. three hundred and twenty-three 	3
+customer's video device	h. three hundred and twenty-three  device 	2
+DCT-based video coding	h. two hundred and sixty-four 	1
+definition video file	h. woot	1
+densely amnesic patient	h.m.	1
+device control session	h. two hundred and fourty-eight 	1
+digestive health GI infection	h. pylorus	1
+distantly related Heliconius	h. erato	2
+dsp-intensive algorithm	h. two hundred and sixty-four 	1
+group	h.o.t	4
+group	h.o.t.	2
+efficient codec	h. two hundred and sixty-four 	2
+efficient compression algorithm	h. two hundred and sixty-four 	2
+efficient compression codec	h. two hundred and sixty-four 	1
+enterohepatic helicobacters	h. felis	1
+erestingfor advanced video coding standard	h. two hundred and sixty-four 	1
+established standardization	h. two hundred and sixty-one  recommended by the itu 	1
+external dial plan resolution subsystem	h. three hundred and twenty-three  gatekeeper 	1
+F.I.O.S.A. theoretician	h. jaffe	1
+first rate philosopher	h. putnam	1
+Fornonobject-based video coding	h. two hundred and sixty-three 	1
+H.species	h. bilis	2
+haemulids	h. sciurus	1
+hand negotiator	h. l. de silva	1
+Helicobacter immunogens	h. pylori lysates	2
+helicobacters	h. canis	1
+heliconius butterfly	h. melpomene	1
+hi-def video codecs	h. two hundred and sixty-four 	1
+high efficiency video compression standard	h. two hundred and sixty-four 	1
+high-level encoding format	h. two hundred and sixty-one 	1
+human amnesic	h. m.	1
+hybrid video coding system	h. two hundred and sixty-four 	1
+Hypoderma species	h. diana	1
+IfHaematococcus species	h. pluvialis	1
+imperialist romance writer	h. rider haggard	1
+Ina typical video codec	h. two hundred and sixty-three 	1
+industry-standard PCM highway	h. one hundred 	1
+group	h. art chaos	1
+influential and critically acclaimed writer	h. g. wells	1
+inhumane provision	h. r.  four thousand four hundred and thirty-seven 	1
+integrating approach	h. two hundred and sixty-four  svc 	1
+intestinal helicobacters	h. canis	1
+ip-telephony protocol	h. two hundred and twenty-five 	1
+large bodied porcupine	h. primigenia	1
+large-bodied, long-lived species	h. sapiens	2
+Layered video codecs	h. two hundred and sixty-four 	1
+lefty bastard	h. reid	1
+linear control design strategy	h.	1
+low bitrate codecs	h. two hundred and sixty-three 	1
+low bit-rate video coding standard	h. two hundred and sixty-three 	2
+low-bit rate coding technique	h. two hundred and sixty-one 	1
+luminizer	h.wood.beauty illuminate in sunshine	1
+Mac-friendly format	h. two hundred and sixty-four 	1
+malacostracans	h. americanus	1
+MIF infection	h. taichui infection	1
+modern video standard	h. two hundred and sixty-four 	2
+modernist foremothers	h.d.	1
+modernist innovator	h.d.	1
+MPEG based codecs	h. two hundred and sixty-four 	1
+muck-raking novel	h. g. wells tono-bungay	1
+naturally competent organism	h. pylorus	2
+new-generation picture compression technique	h. two hundred and sixty-four 	2
+next-generation moving picture compression technique	h. two hundred and sixty-four 	1
+next-generation video coding system	h. two hundred and sixty-four 	1
+non-Southerners	h. l. mencken	1
+NTYPICAL block-based video coder	h. two hundred and sixty-three 	1
+occultist writer	h. p. blavatsky	1
+odd ivy plant species	h. helix congesta	1
+oip network	h. three hundred and twenty-three -based voip network 	1
+oldest video coding standard	h. two hundred and sixty-one 	1
+Open-standard codecs	h. two hundred and sixty-four 	1
+orthodox religious educator	h. shelton smith	1
+overly ruthless woman	h. clinton	1
+owned expert	h. westley clark	1
+packet-based telephony protocol	h. three hundred and twenty-three 	1
+packet-switched call control protocol	h. three hundred and twenty-three 	1
+popular pulp author	h. p. lovecraft	1
+popular video coding standard	h. two hundred and sixty-four 	1
+popular video compression technology	h. two hundred and sixty-four  standard 	1
+potentialhomininallotaxa	h. floresiensis	1
+presumed pathophysiological mechanism	h. pylori infection	1
+process enabler	h.r	1
+prominent archi-tects	h. h. richardson on designs for private estate	1
+prominent ob server	h. g. wells	1
+reddish kind	h. purpurascens	1
+reprocessed plastic granule	h.m.	1
+responsible dutch historian	h.w. von der dunk of the university of utrecht	1
+school idol	h.o.t	1
+school opera-plays	h.m.s pinafore	2
+method	h.  two hundred and sixty-three 	1
+method	h.  two hundred and sixty-one 	1
+method	h. two hundred and sixty-one 	1
+Selling prduct	h. dd	1
+short, classification	h. habilis	1
+slender-bodied form	h. boans	1
+sophisticated codecs	h. two hundred and sixty-four 	2
+standard networking protocol	h. three hundred and twenty-three 	1
+standard video codecs	h. two hundred and sixty-three  andmpeg two  codecs 	1
+standardized compression tool	h. two hundred and sixty-four  encoder 	1
+state-of-the-art codecs	h. two hundred and sixty-four 	1
+State-of-the-art video coding	h. two hundred and sixty-four 	1
+stomach various Helicobacter spp	h. canis	1
+study strategy	h. use study strategy	1
+summer competitor	h.o.r.d.e.	1
+teleconference endpoint	h. three hundred and twenty-three  endpoint 	1
+Temporal compression	h. two hundred and sixty-four 	1
+test-makers	h. h. goddard	1
+timber liquidator	h. c. haynes	1
+time division bus	h. one hundred and ten  bus used in compactpci system 	1
+today's video coding standard	h. two hundred and sixty-three 	1
+Traditional video codecs	h. two hundred and sixty-one 	2
+traditional video encoder	h. two hundred and sixty-four 	1
+two-dimensional video coding method	h. two hundred and sixty-four 	1
+typical codec	h. two hundred and sixty-four 	2
+umbrella standard	h. three hundred and twenty-three 	1
+underlying organism	h. pylorus	1
+urgent operation	h.t. fuse replacement	1
+video-coding standard	h. two hundred and sixty-three 	1
+video-phone coding technique	h. two hundred and sixty-one 	1
+voip control protocol	h. three hundred and twenty-three 	1
+VoIPprotocols	h. three hundred and twenty-three 	1
+water official	h. k. burton	2
+Winter-blooming dinoflagellates	h. triquetra	1
+tool	h.s.s tool	1
+project	h. only major project	1
+artist	h. r. giger	3
+artist	h.r giger	2
+artist	h.c. gilje	2
+artist	h.o.t	2
+artist	h.d.	1
+artist	h.doobie powell	1
+artist	h. kasala	1
+artist	h. robert reynolds	1
+artist	h. j. draper	1
+artist	h. harvey	1
+artist	h.o.p.e.	1
+artist	h. manet	1
+player	h. b. warner	1
+player	h. sarda devi	1
+technology	h. three hundred and twenty-three 	2
+technology	h. two hundred and sixty-four 	2
+technology	h. two hundred and sixty-four  compression 	1
+technology	h. two hundred and sixty-four  video coding 	1
+technology	h. two hundred and sixty-three 	1
+technology	h. two hundred and sixty-two 	1
+technology	h.  two hundred and sixty-four  video 	1
+parameter	h. three hundred and twenty-three  default gateway 	1
+parameter	h. three hundred and twenty-three  gateway information 	1
+parameter	h.sub. two  s mole fraction 	1
+parameter	h.r	1
+system	h. two hundred and sixty-four 	1
+system	h. two hundred and sixty-three 	1
+species	h. aspera	2
+species	h. erato	2
+species	h. nobilis	2
+species	h. pylorus	2
+species	h. infucata by the shape	1
+species	h. kenai wilson	1
+species	h. parenthesis	1
+species	h. patulum	1
+species	h. pilosella	1
+species	h. africana	1
+species	h. androsaemum	1
+species	h. angustifolia	1
+species	h. borealis	1
+species	h. sapiens	1
+species	h. savigny	1
+species	h. gigas	1
+species	h. con vergens	1
+species	h. cymbalum	1
+species	h. ergaster	1
+species	h. ater	1
+species	h.sub. two f.sub. two  coming from the hydrofluoric acid 	1
+species	h. cavenessi sher	1
+species	h. croatica in central europe	1
+species	h. hippopus	1
+species	h. johannis	1
+species	h. beckyae from brazil	1
+species	h. sempervirens	1
+species	h. viola	1
+species	h. oligactis	1
+species	h. melpomene	1
+species	h. moserianum	1
+species	h. macrophylla	1
+species	h. minor	1
+species	h. salsola	1
+species	h. serrata	1
+species	h. audax	1
+species	h. grandifoliusand d. anceps	1
+measure	h.r. twenty-five 	1
+condition	h. influenzae disease	1
+condition	h. pylori infection	1
+variable	h. pylori infection status	1
+function	h. two hundred and sixty-four  encoding 	1
+function	h. two hundred and thirty-nine  double video stream 	1
+device	h. three hundred and twenty-three  end-points 	1
+device	h. three hundred and twenty-three  gateway 	1
+device	h. three hundred and twenty-three -enabled telephone 	1
+brand	h. naoto	2
+brand	h. wilson	1
+brand	h. k. brand	1
+brand	h. d. hudson	1
+component	h. pylorus component	1
+site	h. rosh zayit	1

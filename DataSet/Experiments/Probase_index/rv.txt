@@ -1,0 +1,439 @@
+factor	rv ownership cost	3
+product	rvca trucker hat	1
+facility	rv supply	1
+facility	rv camping at chief hosa	1
+subject	rv & camping area	1
+subject	rv insurance	1
+subject	rving with computer	1
+product	rv parts & accessories	1
+product	rv telecommunication	1
+work	rvu	1
+model	rv- seven 	1
+attraction	rv campsite minnesota attraction	1
+situation	rv	2
+category	rv stuff	1
+change	rv parking area	1
+change	rv-financing program	1
+client	rvc enterprises	1
+person	rvd	1
+location	rv park	4
+location	rvs	2
+feature	rvalue reference	2
+star	rvd	6
+business	rv services	1
+amenity	rv park	6
+amenity	rv access	1
+amenity	rv parking	1
+amenity	rv customer additional amenity	1
+amenity	rv hookup	1
+title	rv trader	1
+cost	rv insurance	1
+city	rv rentals los angeles	1
+disease	rvf	3
+venue	rv park	1
+industry	rv	3
+requirement	rvsm	1
+feature	rv conversion group	1
+publication	rv magazine	1
+publication	rv trader	1
+publication	rva magazine	1
+website	rv basics	1
+expense	rv insurance	1
+movie	rv	6
+entity	rv park	1
+building	rv storage	1
+building	rv garage	1
+feature	rv campground	1
+improvement	rv campground	1
+big name	rvd	1
+show	rv event	1
+show	rv show	1
+club	rv travel club	1
+store	rvca	1
+market	rv market	1
+market	rv hardware	1
+customer	rv anderson	1
+vehicle	rvs	77
+vehicle	rv's	2
+vehicle	rv's carrying heavy load	1
+vehicle	rv campers	1
+vehicle	rv motor home	1
+vehicle	rvt's	1
+vehicle	rv's motorcycle	1
+vehicle	rvs semi-trucks	1
+opportunity	rv signage	1
+feature	rv park	1
+feature	rv parking	1
+issue	rvs	4
+designer	rvca	3
+barrier	rvs	1
+algorithm	rvmandsmlron feature space sparseclassiflcation algorithm	1
+issue	rv ef from gated spect blood-pool imaging	1
+offering	rv camping	1
+specialty	rv park	1
+top brand	rvca	1
+problem	rv plumbing problem	1
+upgrade	rv parking	1
+space	rvs	2
+toy	rv	3
+toy	rv's	2
+guy	rvd	4
+factor	rv function	2
+issue	rv storage	1
+college	rvce	1
+director	rv resort entertainment director	1
+rival	rvd	1
+community event	rv camping	1
+index	rvi	1
+regulation	rv towing regulation	1
+contaminant	rv holding tank	1
+detailed information	rv campground	1
+aircraft	rv- seven  van's 	1
+name brand	rvca	1
+specialty item	rv cover	1
+specialty item	rv awning	1
+quantity	rv volume change	1
+impact	rv's	1
+municipality	rvsa's member municipality	1
+superstar	rvd	3
+large item	rv's	2
+large item	rvs	2
+item	rvs	8
+virus	rv	7
+virus	rvf	1
+online resource	rv registry	1
+lesion	rvot aneurysm	1
+lesion	rvot obstruction	1
+industrial application	rv trailer	1
+item	rv camping accessory	1
+item	rv awning	1
+small business	rv park	1
+testing	rvr balance	1
+purchase	rv	2
+modern convenience	rv site	1
+item	rv covers for tire	1
+item	rv &	1
+training program	rvda's rv learning center	1
+wrestler	rvd	5
+designation	rv six 	2
+tournament	rvce	1
+local favorite	rv park	1
+big event	rv show	1
+commercial application	rv towing	1
+great brand	rvca	2
+loan	rv	2
+loan	rv loan	1
+optional extra	rvskins	1
+dealer	rv part dealer	1
+dealer	rv dealership	1
+seasonal item	rvs	1
+bulky item	rvs	1
+feature film	rv with robin williams	2
+optional service	rv trailer towing	1
+optional service	rv waste water evacuation	1
+plane	rv eight 	1
+battery	rv battery	2
+battery	rv	1
+objective measure	rv size	1
+corporate sponsor	rvca clothing	1
+big ticket item	rvs	1
+online source	rv trader	1
+home	rvs	1
+high profile case	rvcannings  eighteen 	1
+commercial use	rv park in the immediate area	1
+business owner	rv park in birch bay	2
+insurance	rv insurance	1
+insurance product	rv insurance	1
+enclosure	rv compartment	1
+media	rv life	1
+traditional source	rv dealer	1
+large vehicle	rvs	9
+service	rv	4
+internet resource	rv	1
+small space	rvs	1
+language feature	rvalue reference	1
+household good	rvs	1
+personal property	rv	2
+international client	rvk studios	1
+convenience food	rv dinner	1
+mobile service	rv	1
+factor	rv fixture	1
+service	rv sale	1
+service	rv accommodation	1
+commercial vehicle	rv's	1
+enclosed area	rv	1
+service	rv campground	1
+service	rv part	1
+committee member	rv coordinator	1
+outbuilding	rv garage	1
+specialty vehicle	rvs	1
+large purchase	rvs	2
+recreational vehicle	rvs	7
+generic name	rv- six 	1
+service	rv collision repair	1
+industrial customer	rv manufacturers monaco	1
+valuable asset	rvs	1
+state-owned company	rva	1
+resort amenity	rv park	1
+traffic	rvs	1
+personal asset	rvs	1
+mobile unit	rvs	1
+surgical approach	rv mechanical assistance	4
+motorized vehicle	rv camper	1
+accessory building	rv storage	1
+topic	rv electrical	1
+remote device	rv monitor	1
+approval	rvsm	1
+ments	rva	1
+industry magazine	rv companion	1
+sorbents	rvc	1
+color space	rvb	1
+tight space	rvs	2
+vector-borne disease	rvf	1
+rental company	rv rental company	1
+fuel property	rvp	1
+seasonal business	rv parks	1
+commercial location	rv park	1
+trade item	rvs	2
+trendsetters	rvlt canada	1
+core item	rv cover	1
+company	rvca	1
+company	rv lifestyle inc.	1
+area event	rv show	1
+engine modification	rv camshaft	1
+foam product	rv seats	1
+heavy duty vehicle	rv's	1
+automotive vehicle	rv s	1
+undeveloped area	rv parking area	1
+biodegradable product	rv-trine bacterial formula	1
+large surface area	rv s boat	2
+personal line	rvs	2
+conveyance	rv	1
+personal loan	rv loan	1
+company	rv rental company	1
+company	rv conversion company	1
+close quarter	rv park	1
+recreational user	rv traveler	1
+oversized vehicle	rvs	4
+modeling parameter	rvp	1
+toys	rvs	1
+family movie	rv	1
+activity	rv camping	1
+activity	rv rental	1
+high-end vehicle	rvs	1
+personal vehicle	rvs	1
+good change	rvr change	1
+member event	rv sale	1
+messaging	rv between running job	1
+talented wrestler	rvd	1
+arboviruses	rvf	1
+personal insurance	rv insurance	1
+world class product	rvl nutrition	1
+high profile vehicle	rvs	3
+mobile environment	rvs	1
+coating service	rv roof repair	1
+information	rvr readings an d altimeter s et ting	1
+essential travel information	rv site	2
+recreational application	rv rocker switch	1
+recreational property	rv park	1
+category item	rvs	1
+high-profile vehicle	rvs	5
+latest software tool	rvit seven 	1
+high-risk location	rv park	1
+event	rv show	4
+oversize vehicle	rvs	1
+high-traffic site	rv america.com	1
+high-traffic site	rv sales.com	1
+tall vehicle	rvs	1
+year-round service	rv parking	1
+event	rv super show	1
+event	rv trip	1
+event	rv rally	1
+quality unit	rvp	1
+RV part	rv refrigerator	4
+travel club	rv travel club	1
+boy toys	rv	1
+event	rv rental space	1
+event	rv show in houston	1
+Foreclosed property	rvs	1
+key channel	rv supply stores	1
+large motor	rv	1
+park's facility	rv site	1
+big online retailer	rvwholesalers	1
+FAA program	rvsm	1
+heavy repair	rv cover	1
+hemodynamic abnormality	rv dilatation	1
+high electrical load requirement	rvs	1
+program	rvrp	1
+ECW superstar	rvd	1
+open space use	rv storage	1
+plumbing problem	rv plumbing problem	1
+Repo property	rvs	1
+space restricted application	rv	1
+avenbury amenity	rv & boat parking	1
+big name wrestler	rvd	1
+foreclosed asset	rvs	2
+land company	rvfc	1
+program	rv show	1
+mobile home	rvs	1
+motorized toy	rv	1
+recreational market	rvs	1
+report vehicle	rvs	1
+repossessed property	rvs	2
+seasonal vehicle	rvs	6
+secured facility	rv lot	1
+short-term use	rv park	1
+t-night housing unit location	rv park	1
+top surf brand	rvca	1
+vehicle battery	rv	3
+ex-wwe wrestler	rvd	1
+latent stage active promoter	rv three thousand and thirty c 	2
+latent stage active promoter	rv three thousand one hundred and twenty-seven 	2
+latent stage active promoter	rv two thousand and thirty-one c 	2
+sun control product	rv windshield covers	1
+volatility index	rvx	1
+volt DC power source	rv	1
+worn vehicle	rvs	1
+animal health emergency	rvf epidemic	1
+custom-built RV airplane	rv- seven 	1
+custom-built RV airplane	rv- six 	1
+custom-built RV airplane	rv- four 	1
+custom-built RV airplane	rv- eight 	1
+day superstar	rvd	1
+educational basic	rv safety	1
+organization	rv campground organization	1
+interesting accommodation option	rvs	1
+junk vehicle	rv s	1
+kitchenaid attachment	rvsa	1
+operating specification	rvsm	1
+organization	rv park	1
+repo asset	rvs	1
+surplus dealer	rv surplus	1
+weekend outdoor enthusiast	rvs	1
+characteristic imaging finding	rv enlargement	1
+company import radio electronic system	rvsm	1
+convertible item	rvr medallion	1
+convertible item	rvr crest	1
+designedfor larger vehicle	rvs	1
+domestic and recreational vehicle	rvs	1
+gasoline parameter	rvp	1
+high traffic industry	rv rental	1
+leverage automotive traveler	rv enthusiast	1
+non-exempt property	rv	1
+application	rv	4
+application	rv's & yacht	1
+application	rv skins cfs	1
+possibilites	rv & camping	1
+recognizable clothing brand	rvca	1
+recrea tional activity	rv camping	1
+relief valve	rv one   one hundred and fourty-five  in fig 	3
+replacement marine battery	rv	1
+RV dealer	rv hunter	1
+application	rv's room	1
+application	rv septic system	1
+wireless area	rv	1
+aquiring star	rvd	1
+automotive washer fluid product	rv anti-freeze	1
+bangalore's prominent college	rv college of engineering	1
+big, weather-resistant item	rvs	1
+business SOHO router	rv eighty-two 	1
+application	rv temporary conditional use permit	1
+application	rv compartment door	1
+name	rvd	1
+commerical account	rv parks	1
+consumer-driven market	rv market	1
+cycloidal reducer	rv reducer	1
+extracurricular activity vehicle	rvs	1
+name	rvca	1
+first, non-compositional fuel property	rvp	1
+flexible regulatory approach	rvp	1
+function ladder	rv ladder	1
+HD application	rv	1
+Health Group sub-brands	rvg	2
+heavy soil condition	rv's garage	1
+homebuilt aircraft	rv- ten 	1
+inline extractor fan	rvk	1
+large-sized passenger vehicle	rv vehicle	1
+lesser-known institute	rvs college of engineering in jamshedpur	2
+low table	rv coffee table	1
+lower-quality factory construction product	rvs	1
+mid and upper range product	rv zero  series router 	1
+monthly and quarterly EMR update	rvu	1
+non-fixed location	rvs	1
+nonhumoral factor	rv antigen-specific cd four  t-helper cell 	1
+novel, antigen	rv three thousand eight hundred and seventy-nine c  fifty-eight  alongside esat- six 	1
+ommercial facility	rv park	1
+on-board necessity	rv-style toilet	1
+oversized or unusual vehicle	rvs	1
+overview larger vehicle	rvs	1
+private reclamation company	rvm	1
+remote leisure application	rv	1
+RV camping club	rv clubs	1
+scripps ship	rv thomas washington	1
+scripps ship	rv new horizon	1
+sealer paint	rv kool seal	1
+separate vehicle	rv a car	1
+septic safe toilet paper	rv tissue	1
+sheltering seasonal vehicle	rvs	1
+shipping-related transaction	rvg	1
+starter many software provider	rvskin	1
+starter many software provider	rvsitebuilder	1
+tight condition	rv park	1
+air traffic procedure	rvsm	1
+airspace region	rvsm	1
+option	rv parks free	1
+option	rv site	1
+option	rv park	1
+option	rv garage	1
+CNS-ATM element	rvsm	2
+discretionary, luxury purchase	rvs	2
+disease forecasting model	rvf risk maps developed by the nasa goddard space flight center	1
+disposal modern investigation method	rvg	1
+option	rvs	1
+External rotational vibration	rvi from an adjacent drive	2
+first, early viral kinetic parameter	rvr	1
+good private institute	rv college of engineering in bangalore	1
+heavy vehicle traffic	rvs	1
+Helipath viscometer	rv series viscometer	1
+high-performance upgrade	rv cam	1
+h-rich star	rv tau star	1
+Indiana personal property	rv	1
+large, noncommercial vehicle	rvs	1
+market-driven solution	rvu	1
+mild injector	rv  two hundred and seventy-five  s cpp injector 	1
+mobile residence	rv	1
+modern research vessel	rv sars	1
+once-controversial idea	rv park	3
+online listing & search service	rv trader	1
+outstanding grass variety	rvp vigor	1
+OVERVIEW brainstem nucleus	rvm	1
+portable residence	rv	1
+private ATC company	rva	1
+rewarding career path	rv technician	3
+RV site	rv.net for a pdi	1
+rvmandsmlron feature space sparseclassiflcation algorithm	rvm	1
+RVTC memorabilia	rvtc water bottle with pen	1
+suction tool	rv adapter	1
+time interval index	rv myocardial performance index	1
+upgraded camping option	rv pass	1
+vacation vehicle	rvs	1
+victorian hospital	rvh	1
+tool	rvm for managing ruby installation	1
+factor	rv power need	1
+product	rvs	5
+project	rv parks	1
+material	rv antifreeze	1
+place	rv	4
+place	rv campground	1
+place	rv park	1
+place	rv park reviews	1
+player	rvp	3
+product	rv holding tank	2
+product	rv dealer new	2
+term	rvsm	1
+parameter	rv dimension	1
+system	rvp	1
+device	rvc module	1
+device	rv air conditioning unit	1
+brand	rvca	10
+site	rv builder's hotline	1

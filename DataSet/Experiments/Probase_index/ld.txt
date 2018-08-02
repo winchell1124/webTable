@@ -1,0 +1,1164 @@
+factor	ldh	3
+factor	ldl	3
+factor	ldh level	2
+product	ldpe handle bag related product	1
+product	ldpe plastic related product	1
+product	ld positioners	1
+initiative	lda's ' diversity works ' program	1
+initiative	lda's diversity works' program	1
+datum	ld  fifty 	1
+resource	ld screening help	1
+source	ldap	5
+source	ldp home site	1
+source	ld	1
+source	lds film number	1
+source	lds igi index	1
+source	ldp home site www.linuxdoc.org	1
+property	ldap server setting	2
+property	ldh-based nanocomposites present mechanical property	1
+product	ldpe apron related product	1
+product	ldpe bag related product	1
+product	ldpe building	1
+product	ldo to fo conversion systems	1
+model	lda	5
+model	lda with a latent syntactic labels per word	1
+model	ld twenty 	1
+model	ld ten 	1
+characteristic	ldd structure	1
+attraction	lds temple	1
+category	ld	1
+institution	lds family history centers	1
+client	lds church institute program	1
+document	ldf background document	1
+feature	ldap	3
+feature	ldap integration	3
+form	ldl	4
+idea	ld two thousand   ciws with ty ninety  sams 	2
+alternative	ldp	1
+alternative	lda	1
+alternative	ldraw	1
+object	ldf macro	1
+mechanism	ldap directory	1
+mechanism	ld preload	1
+mechanism	ldl apo b production	1
+solution	ldi by considering the sampling rates of the depth image	1
+structure	ldd structure	4
+field	ld application field including a laser pointer	1
+procedure	ldt	1
+school	ld bell	1
+agent	ldl	1
+development	lds temple	1
+type	ldpe	7
+type	ldap server type	1
+criterion	ld  fifty 	1
+criterion	ldl-c	1
+firm	ldk solar	1
+job	ldc	1
+test	ldh	5
+test	ld fifty 	2
+test	ld fifty  test for botulinum toxin 	1
+test	ldh level	1
+test	ldap ping	1
+test	ldl cholesterol	1
+indicator	ldpc decoding parity check status	1
+manufacturer	ldk solar co	1
+feature	ldap support	1
+feature	ldap directory search	1
+attribute	ldap guid	1
+setting	lds social services	1
+setting	ldap	1
+setting	ldap port	1
+setting	ldap authentication information	1
+setting	ldap queries for the user datum	1
+class	ldr	1
+study	ldl-apheresis atherosclerosis regression study	1
+leader	ldf convener	1
+song	ldn	1
+song	ldf	1
+team	ldu loja	1
+country	ldk	1
+country	ldc member country	1
+variety	ld braithwaite	1
+format	ldh release assay	2
+format	ldf	1
+format	ldr mdr	1
+Organisations	ldwa	1
+partner	ldwf	1
+animal	ld snail	1
+standard	ldap	11
+standard	ldap while showing promise	1
+vendor	ldap server vendor	1
+label	ld	1
+value	ld fifty 	3
+value	ld  fifty 	2
+feature	ldap browser	1
+feature	ldap compatibility	1
+feature	ld headlamp	1
+feature	ldap compatible authentication	1
+feature	ldap connector	1
+feature	ldap access	1
+risk factor	ldl cholesterol	4
+risk factor	ldl particle size	2
+risk factor	ldl level	1
+risk factor	ldl-c	1
+risk factor	ldl	1
+risk factor	ldl-cholesterol	1
+designer	ld tool designer	1
+additive	ldpe	1
+software	ldap client	2
+capability	ldap support	1
+module	ldap	1
+provider	ldap membership provider	1
+party	ldp	4
+party	ldd	1
+party	ldpr	1
+offer	ldpe film related offer	1
+competitor	ldk solar	1
+issue	ld balancing	1
+issue	lds priesthood	1
+stakeholder	ld group	1
+stakeholder	ldp	1
+point	ldap integration	1
+key item	lds church economic	1
+record	ldapimport request	1
+functionality	ldap retrieval	1
+surface	ldpe	1
+algorithm	lda	3
+algorithm	ldpc decoding	1
+principle	lds gospel principle	1
+utility	ldap browser	1
+utility	ldap search	1
+service provider	ldcom in france	1
+supplier	ldk solar	2
+supplier	ldd group	1
+symbol	ld	1
+protocol	ldap	13
+protocol	ldp	2
+protocol	ldap for the address book	1
+outcome	ldl	1
+quality ringtones	lds ringtones	1
+molecule	ldl	1
+problem	ldcs' specific problem	1
+interest	ldd	1
+stock	ldr	1
+raw material	ldpe	4
+gene	ldl-receptor gene	1
+gene	ldlr	1
+gene	ldha	1
+time	lds church's general conferences	4
+page	ldt	1
+rival	ldk solar's rival	1
+industry leader	ldk solar co.	1
+advanced topic	ldap control	3
+advanced topic	ldap	1
+advanced topic	ldpc code	1
+road	ldp	2
+substrate	ldl-cholesterol	1
+contaminant	ldpe bag	1
+marker	ldl cholesterol	2
+marker	ldh	1
+hit	ldn	1
+church	lds	3
+church	lds church	2
+quantity	ldos	1
+code	ldpc code	7
+enzyme	ldh	9
+number	ldl	1
+number	ldl cholesterol	1
+datum source	ldap	3
+reference	ldt	1
+polymer	ldpe	3
+functionalities	ldap authentication	1
+configuration	ldap	1
+key concept	ldap group	1
+message	ldm	1
+library	lds family history library in salt lake city	1
+library	ldi	1
+combination	ld	1
+mission	ldr	1
+online resource	ldp kernel hacker's guide	1
+entry	ldap	2
+priority	ldc fund	1
+priority	ldd	1
+priority	ldc	1
+fuel	ldo	2
+member	ldl receptor family member	1
+server	ldap authentication server	1
+server	ldap server ldap directory server	1
+item	ld	1
+base	lda	5
+variant	ld-celp	2
+variant	ldr	2
+instruction	ldu	1
+instruction	ldx	1
+instruction	ldm	1
+instruction	ldb	1
+religion	lds	3
+religion	lds church	2
+religion	lds faith	1
+connection	ldap	1
+traditional technique	lda	1
+key component	ldpc encoder	1
+management tool	ldap management tool	1
+secondary source	lds record	1
+resin	ldpe	1
+resin	ldpe other polyolefin resin	1
+solid	ldpe	1
+powerful feature	ldap integration	1
+capacity	ldm	1
+operating system	ldos	1
+plastic	ldpe	6
+support group	lds family services pornography addiction support groups	1
+statistical method	ldu map	1
+input device	ldrs between gate input	1
+biological factor	ldl	1
+local resource	lds family history centers	1
+industry standard	ldap	1
+directory	ldap	3
+directory	ldap directory	3
+directory	ldap readable directory	1
+directory	ldap-enabled user directory	1
+clinical parameter	ldl-cholesterol	1
+clinical parameter	ldl	1
+entrant	ldk	1
+mechanical property	ldh-based nanocomposites present mechanical property	1
+outcome measure	ldl	1
+disability	ld	3
+receptor	ldl receptor	6
+receptor	ldlr-related protein	1
+receptor	ldl receptor-related protein	1
+receptor	ldlr	1
+political party	ldp party	1
+basic element	ldap connectivity	1
+prognostic factor	ldh level	1
+prognostic factor	ldh serum level	1
+patient characteristic	ldh level	1
+patient characteristic	ldh	1
+network service	ldap	3
+network service	ldap service	1
+soft material	ldpe with a tougher	1
+religious group	lds church	1
+statistical technique	lda	3
+family member	ldl receptor family member	1
+chemical product	ldpe	1
+packaging material	ldpe film	1
+plugins	ldap management	1
+plastic product	ldp granule	1
+biomarkers	ldh isoenzymes	1
+clinical datum	ldl cholesterol	1
+search	ldoce's word origin	1
+endpoint	ld fifty 	1
+blood test	ldl	1
+optical device	ld	1
+plastic material	ldpe	4
+plastic material	ldpe pc	1
+implementation	ldap-enabled smtp implementation	1
+rare exception	ldl receptor gene	1
+customization	ldap authentication	1
+display device	ldc tvs	1
+scripture	lds d&d	1
+Clinical information	ldl	2
+numerical method	ldu decomposition	1
+optical component	ld	1
+key partner	ldi	1
+area	lds family search center	1
+area	ld	1
+student service	ld resource	1
+highway	ldp	28
+highway	ldp highway	3
+acronym	ldfs	1
+acronym	lddm	1
+polymeric material	ldpe	2
+essential feature	ld plot	1
+external resource	ldap server	4
+religious organization	lds	1
+conventional material	ldpe	1
+renowned brand	ld	1
+biochemical parameter	ldl	3
+biochemical parameter	ldh	1
+state-of-the-art technology	lda	1
+critical service	ldap	1
+chinese company	ldk solar co	11
+chinese company	ldk solar	1
+service	ldap	14
+great act	ldoh	1
+simple application	ldap directory	1
+medical information	ldl	4
+medical information	ldl level	2
+petroleum product	ldpe	1
+third-party application	lds scriptures	1
+lab test	ldh	1
+common term	ldl	1
+cardiovascular risk factor	ldl cholesterol	1
+advanced functionality	ldap dynamic groups	1
+implant	ldd formation implant	1
+traditional risk factor	ldl cholesterol	1
+recipient	ld pankey	1
+factor	ldl cholesterol	1
+service	ldshelp four hire.com email 	1
+service	ldap via gui interface	1
+service	ld-adhd assessment	1
+service	ldap-compatible directory service	1
+client application	ldap client application	1
+biological parameter	ldh	1
+cult	lds	1
+professional company	ldm plastering	1
+complex feature	ldap	1
+configuration information	ldnsserverip address	2
+popular service	ldap	1
+demonstration	ldraw	1
+search tool	ldp.exe utility	1
+faith	lds with puzzlement	1
+faith	lds	1
+lipid	ldl	3
+lipid	ldl-cholesterol	1
+lipid	ldl cholesterol	1
+measuring instrument	ld two 	1
+member country	ldc member country	1
+classifier	lda	2
+classifier	ldf	1
+collaboration	lda joining with jowell ortiz	1
+application server	ldap	1
+system service	ldap	2
+thermoplastic	ldpe	3
+medical test	ldl	1
+membrane protein	ldl receptor	1
+standard protocol	ldap	3
+standard protocol	ldap andtls	1
+arterial road	ldp	1
+authentication method	ldap	6
+basic application	ldap	1
+advance feature	ldap user login	1
+advance feature	ldap integration	1
+strong base	lda	2
+tumor marker	ldh	2
+popular format	ldif	1
+service	ldap integration ldap-compatible directory service	1
+liquid fuel	ldo	1
+security function	ldap server	1
+service offering	ldap-based service directories	1
+standard operation	ldap query	1
+christian denomination	lds church	1
+external service	ldap	3
+private agency	lds family services	1
+statistical approach	lda	1
+alarm	ld- fourty  wireless entry alert door seen in the human body heat 	1
+transistor	ldmos	1
+access method	ldap	1
+high quality raw material	ldpe	1
+classification method	lda	2
+serum marker	ldh	1
+laboratory parameter	ldl	3
+laboratory parameter	ldh	2
+programmer	ld i	1
+operational area	ldb launch pad	1
+established method	lda	1
+internet source	lds site	1
+laboratory datum	ldh	1
+free radical	ldl-cholesterol in the blood	1
+religious event	lds endowment	1
+clinical measure	ldl cholesterol concentration	1
+productivity feature	ldap	1
+topic	ldap adapters	1
+topic	ldpc code	1
+routine laboratory test	ldh	1
+metabolic parameter	ldl-cholesterol	2
+mission critical application	ldap	1
+management application	ldcm	1
+client program	ldap-aware client program	1
+hydrophobic material	ldpe	1
+directory service	ldap	14
+directory service	ldap server	1
+directory service	ldap integration ldap-compatible directory service	1
+directory service	ldap directory	1
+directory service	ldap service	1
+directory service	ldap-compatible directory service	1
+analog circuit	ldr circuit	1
+semiconductor element	ldmos transistor	2
+well-known individual	ldk president in kosovska mitrovica, fifty-one  din mehmeti 	1
+enterprise system	ldap directory platforms	1
+authentication mechanism	ldap authentication	1
+blood parameter	ldl-c	1
+function test	ldh	1
+Nanostructures	lde	1
+network setting	ldap configuration	1
+demographic indicator	lds church membership	1
+plastic bottle	ldpe bottle	2
+cabinet minister	ldp's former secretary-general of the ldp	1
+classification algorithm	lda	1
+famous enterprise	ldk solar co.	1
+glass material	ld glass	1
+biochemical method	ldh release	1
+secondary parameter	ldl	1
+optional function	ldap integration	1
+connection type	ldap	1
+pattern recognition technique	lda	1
+clinical indicator	ldl level	1
+clinical indicator	ldl	1
+company	ldk solar	5
+solar company	ldk solar	1
+approximation	lda	1
+petrochemical product	ldpe	1
+advanced operation	ldap control	1
+environment variable	ld library path on unix	1
+access	ldap acls	1
+probabilistic model	lda	1
+premium quality raw material	ldpe	1
+third-party service provider	ldap directory	1
+emerging standard	ldap	1
+expressway	ldp highway	1
+level service	ldap	1
+linear method	lda	3
+traditional cardiovascular risk factor	ldl cholesterol	1
+company	ldv vans ltd	1
+company	ldc argentina	1
+oxidation product	ldl oxidation product	1
+cell surface receptor	ldl receptor	2
+cell surface receptor	ldl receptor used for the treatment of hypercholesterolemia	1
+cell surface receptor	ldl receptor-related protein	1
+industry standard protocol	ldap	1
+manufacturing technology	lds	1
+software option	ldap	1
+splinter group	lds	1
+chemical raw material	ldpe	1
+datum store	ldap directory	1
+internet standard	ldap	1
+holistic method	lda	1
+church member	lds professors at byu	1
+platform service	ldap	1
+concurrent disease	lda	1
+external database	ldap	1
+authentication system	ldap	8
+authentication system	ldap server	1
+dimensionality reduction technique	lda	1
+heart disease risk factor	ldl	1
+heart disease risk factor	ldl cholesterol	1
+serum protein	ldl	1
+confounding effect	ld block	2
+company	ldi	1
+company	ldk solar co.	1
+company	ldk	1
+cardiac risk factor	ldl cholesterol	1
+well-known application	ldap	1
+baseline factor	ldl-c level	1
+cell surface protein	ldl	1
+signaling protocol	ldp	2
+famous horse	ldr so radical	1
+plastic resin	ldpe	1
+basic model	lda	1
+continuous measure	ld fifty 	1
+prominent location	lds temple	1
+statistical analysis technique	lda	1
+plastic sheet	ldpe sheet	1
+server vendor	ldap server vendor	1
+system command	ldd on php	1
+class feature	ldap integration	1
+higher-level protocol	ldap	1
+serum biochemical parameter	ldh	1
+traditional algorithm	lda	1
+lipoproteins	ldl	11
+mormons	lds mainstream mormons	1
+potential prognostic factor	ldh	1
+semiconductor technology	ldmos	1
+serological marker	ldh	1
+debuggers	ldb	1
+feature extraction method	lda	2
+resource provider	ldap directory	1
+kernel method	lda	1
+poor prognostic factor	ldh	2
+container material	ldpe	1
+enterprise technology	ldap	1
+proven product	ld	1
+dimensionality reduction method	lda	1
+private room	ldr room for the recovery period	2
+private room	ldrp room for the recovery period	1
+crystalline polymer	ldpe	1
+culture parameter	ldh	1
+hierarchical system	ldap	3
+shopping bag	ldpe shopping bag	1
+standardized service	ldap	1
+traditional marker	ldh	1
+common polymer	ldpe	1
+topic model	lda	3
+promising method	lda	1
+supervised method	lda	1
+authentication	ldap	1
+authentication service	ldap	1
+probabilistic approach	lda	1
+prognostic parameter	ldh	1
+background document	ldf background document	1
+high voltage device	ldi	1
+high voltage device	ldmos	1
+letter combination	ld	1
+lipid parameter	ldl cholesterol	1
+mainstream religion	lds	1
+subspace method	lda	1
+unofficial source	lds tech forum	1
+children's organization	ld group	1
+exotic method	ldap	1
+genetic predisposition	ldl subclass	1
+lab result	ldh	1
+authentication type	ldap	2
+established format	ldif	1
+ferry operator	ld lines	2
+occult group	lds	1
+packaging film	ldpe	1
+semiconductor optical device	ld	2
+cardiovascular parameter	ldl cholesterol level	1
+package material	ldpe	1
+determination condition	ldh loading	1
+infrastructure server	ldap	1
+latent variable model	lda model	1
+latent variable model	lda	1
+online map	lds maps	1
+serum enzyme	ldh	2
+synthetic plastic	ldpe film	1
+basic semiconductor device	ldr	1
+information	ld- fifty 	1
+information	ld fifty  datum 	1
+information	ldap url	1
+commercial server	ldap	1
+dimension reduction method	lda	1
+directory server	ldap server ldap directory server	1
+evaluative measure	ldl	1
+muscle enzyme	ldh	4
+native format	ldap directory	1
+plastic scrap	ldpe film	1
+vitro method	lda	1
+excellent website	lds.org	1
+network infrastructure service	ldap	1
+parametric technique	lda	1
+scientific test	ld fifty 	1
+bioengineering technique	ldf imaging	1
+cardiovascular benefit	ldl cholesterol	1
+complex configuration	ldap	1
+conservative party	ldp	1
+ferry company	ld lines	1
+parliamentary party	ldp	1
+traditional cardiac risk factor	ldl cholesterol	1
+analytical program	ldp	1
+application-layer protocol	ldap	1
+directory system	ldap	1
+external authentication server	ldap	3
+lipid molecule	ldl	1
+local training provider	ldr two  & fe college 	1
+operating tool	ldar program	1
+parametric statistical method	lda	1
+plastic raw material	ldpe in bulk quantity	1
+plastic raw material	ldpe	1
+required variable	ldapserver	1
+solar stock	ldk	2
+successful approach	lda	1
+Traditional biomarkers	ldl-c	1
+back-end database	ldap	1
+light sensitive device	ldr	1
+low energy surface	ldpe	1
+event	lds general conference	1
+event	ldc in denver	1
+server type	ldap	1
+silicon technology	ldmos	1
+single socket protocol	ldap	3
+tubing product	ldpe corrugated tubing	1
+typically service	ldap	1
+advanced driver assistance system	ldw	1
+authentication provider	ldap servers	1
+authentication provider	ldap	1
+big chinese company	ldk solar	1
+enterprise component	ldap registry	1
+gospel principle	lds gospel principle	1
+language model	lda	1
+serial product	ld	1
+AAA protocol	ldap	1
+centralized facility	ldap	1
+chinese solar company	ldk solar	1
+clean source	ld	1
+commodity resin	ldpe	2
+event	lda ball	1
+program	ld	3
+internet auction	ld bidz	1
+photoperiodic species	ld plant silene armeria	1
+service name	ldap	1
+statistical classification method	lda	1
+advanced configuration option	ldap integration	1
+animal test	ld test	1
+Atherogenic lipoproteins	ldl	1
+Atherogenic lipoproteins	ldl cholesterol	1
+blood lipid	ldl	4
+dimension reduction approach	lda	1
+discriminative method	lda	2
+identity service	ldap	1
+identity technology	ldap-based user repository	1
+key strategic document	ldnpa's partnership plan	1
+program	ldp	2
+program	ldap-aware client program	1
+program	ldap	1
+non-intrusive method	lda	1
+plastic packaging bag	ld packaging bag	1
+scavenger receptor	ldl scavenger receptor	1
+signal protocol	ldp	1
+acute animal test	ld  fifty  tests in rat 	8
+acute animal test	ld fifty  test in rat 	4
+authentication module	ldap	1
+basolateral protein	ldl receptor	1
+china-based integrated solar firm	ldk	1
+community development group	ldf	1
+directory function	ldapapiprovides typical directory function	1
+disability label	ld	1
+grade type	ldpe	1
+image display system	ld display	1
+injection attack	ldap injection	1
+ldap directory server	ldap server ldap directory server	1
+leveraging industry standard	ldap	1
+licensed agency	lds family services	1
+little-covered topic	lds architecture	1
+mature standard	ldap	1
+non profit agency	lds family services	1
+oracle management-related component	ldap server	1
+program	ldap browser	1
+program	ld assistant	1
+program	ldd on the php binary	1
+program	ldi's assessment activity	1
+plasma lipid	ldl-c	1
+political alliance	ldf	1
+secondary waste material	ldpe	1
+AAA server	ldap server	1
+brittle rock	ldb granite	1
+china's most successful company	ldk solar	2
+commodity polymer	ldpe	1
+complicated protocol	ldp	1
+conventional base	lda	1
+elevated blood lipid	ldl cholesterol	1
+enterprise directory	ldap	2
+external help	ldk	1
+good treatment	ldn	1
+injection flaw	ldap injection	7
+iteratively decodable code	ldpc code	2
+modern web standard	ldap authentication	1
+popular network service	ldap	1
+proapoptotic e-box-containing myc target gene	ldh-a	1
+research guide	lds research outlines	1
+rigid resin	ldpe	1
+sincethey use market standard protocol	ldap	1
+small niche market	lds market	1
+solar energy company	ldk solar hitech	1
+standard network protocol	ldap	1
+supervised approach	lda	1
+24x7 essential central system service	ldap service	1
+address book	ldap directory	1
+asian peer	ldk	3
+customer specific application	ldap	1
+cytoplasmic enzyme	ldh	1
+directory source	ldap	1
+duplex stainless steel	ldx  two thousand one hundred and one 	3
+enterprise directory service	ldap	1
+high-pressure component	ldpe reactor	1
+identity store	ldap	1
+LAN service	ldap	1
+legacy authentication scheme	ldap	1
+lipoprotein parameter	ldl cholesterol	1
+lipoprotein parameter	ldl particle size	1
+lipoprotein particle	ldl	1
+network resource directory	ldap-based directory	1
+plastic application	ldpe	1
+post-press binding machine	ld one thousand and twenty  series automatic roll paper high speed flexographic printing plus wire stapling production line 	1
+routine labor atory test	ldh	1
+serum lipid level	ldl-cholesterol level	1
+organization	lda	2
+specific problem	ldcs' specific problem	1
+u.s.-listed chinese firm	ldk solar	2
+user directory	ldap	1
+user directory	ldap-enabled user directory	1
+user registry	ldap registry	2
+user registry	ldap user registry	1
+us-listed chinese firm	ldk solar	1
+big solar company	ldk	1
+binary outcome measure	ldl goal	2
+channel coding technique	ldpc code	1
+chinese solar player	ldk solar	1
+chosen few artist	lda	1
+common film	ldpe	1
+common integration standard	ldap	1
+DDC inhibitor	ldopa products carbidopa	1
+demographi c indicator	lds church membership	1
+directory standard	ldap	1
+distribution protocol	ldp	1
+downstream producer	ldk	1
+external message	ldm	1
+external meter	ldg ft-meter	1
+famous and popular team	ldu quito	1
+human serum protein	ldl	1
+latent topic model	lda	1
+lipid level	ldl-c	1
+lipid profile parameter	ldl-c	3
+numeric toxicity value	ld fifty 	5
+numeric toxicity value	ld  fifty 	2
+OSPs	ld one  from bacillus sp 	1
+organization	ldp	1
+organization	ld	1
+organization	lds family services	1
+organization	lds media	1
+organization	lds church	1
+organization	lds humanitarian services	1
+technique	lda	5
+query-optimized directory service	ldap	3
+simple prognostic factor	ldh	1
+standard corporate database	ldap	1
+traditional lipid risk factor	ldl-c	1
+traditional lipid risk factor	ldl-cholesterol	1
+well-recognized lipoproteins	ldl	1
+Adaptive Server's directory service	ldap service	1
+advanced authentication option	ldap	1
+aforementioned instruction	ldl instruction	1
+authentication model	ldap	2
+authentication option	ldap	1
+autonomous pathway gene	ld	1
+back-end user database	ldap	1
+basic internet technology	ldap	1
+blood serum marker	ldl	1
+business-critical network service	ldap	1
+capacity-approaching code	ldpc code	1
+case-insensitive system	ldap	1
+chemcial raw material	ldpe	1
+church welfare resource	lds social services	1
+classical chemometrictools	lda	1
+CLI tool	ldapsearch	1
+CLI tool	ldapmodify	1
+common directory standard	ldap	1
+configuration method	ldap	1
+consonant group	ld	1
+contact application	ldap application	1
+corporate authentication system	ldap	1
+custom datum provider	ldap	1
+datasource type	ldap	1
+democratic dominant party system	ldp in japan	1
+differentdecorrelation technique	lda	1
+discontinuous method	ldg	1
+disposabe product	ldpe glove	1
+DM patient outcome datum	ldl value	1
+dynamic source	ldap directory	1
+easily accessible thru major highway	ldp	1
+electronic asset	ldhha domain	1
+external authentication	ldap	2
+external auto match	ldg	1
+fast model	ld rat	1
+flow measurement method	lda	1
+technique	ldl apheresis	1
+global GSLB parameter	ldns entry timeout	1
+global management system	ldap	1
+identity-based security feature	ldap	4
+JNDI source	ldap	1
+label distribution protocol	ldp	2
+latent aspect model	lda	1
+latest CAD technology	ldl design	1
+LDAP access variable	ldap user name	1
+LDAP APIs	ldap java-sdk	1
+LDAP APIs	ldap c-sdk	1
+LDAP tool	ldp utility	1
+lightweight directory access protocol tool	ldp utility	1
+linear dimensionality reduction method	lda	2
+lithium amide base	lda	1
+low softening binder material	ldpe	1
+magazine display	ld three t eighty-five dfl literature holder 	1
+motion-picture playback apparatus	ld player	1
+nationalistic party	ldpr	1
+neandrogennoobuslovlennye side effect	ldl	1
+news World faiths	lds	1
+non-androgenic side effect	ldl	1
+non-standard CAD risk factor	ldl subparticles	1
+application	ldap	2
+operational forecast model	ldeo five  model 	1
+polyolefin homopolymers	ldpe	1
+popular approximation	lda	1
+popular directory store technology	ldap	1
+popular genealogy site	lds familysearch.org	1
+power transmission application	ldi	1
+practical wireless channel code	ldpc code	1
+projection light source	ld	1
+recycling receptor	ldlr	1
+skilled prosecutor	ldb	1
+Specialist health staff	ld nurses with skills in working with child	1
+standard directory protocol	ldap	1
+standard input material	ldpe	1
+subscriber management system	ldap	2
+subspace analysis method	lda	2
+synthetic film	ldpe	1
+synthetic thermoplastic	ldpe	1
+application	ldap client application	1
+application	lds tools	1
+application	ldcm	1
+application	ldap user directory	1
+third, important risk factor	ldl cholesterol	1
+third-party server	ldap	1
+tolled highway	ldp	1
+topic modeling technique	lda	1
+traditional directory service	ldap	1
+traditional linear method	lda	1
+user credential service	ldap	1
+user repository	ldap	1
+viability parameter	ldh release	1
+vulnerability description injection flaw	ldap injection	1
+water quality regulatoryprograms	ldeq's non-pointsource pollution program	1
+abundant human genomic information	ld block estimation	1
+acute toxicity value	ld  fifty 	1
+advanced coder	ldpc coder	2
+advanced lipoprotein testing	ldl particle number	1
+assembly language statement	ldr %r one 	1
+authentication store	ldap	1
+back-end server	ldap directories	1
+baseline resource	ldap policy	1
+BBC local station	ldn	1
+biologic signal	ldf signals from human skin	1
+blood test indicator	ldl cholesterol	1
+built-in redundancy feature	ldap pooling	2
+bulk plastic	ldpe	1
+campus group store	ldap	1
+cardiac marker protein	ldh	1
+central authentication facility	ldap	1
+central user registry	ldap	1
+chinese solar-panel maker	ldk solar co.	4
+chinese solar-panel maker	ldk solar co ltd	1
+classic assay	ldh cytotoxicity assay	1
+classic linear feature extraction approach	lda	1
+classical dimensionality reduction technique	lda	1
+classical dimensionality-reduction technique	lda	1
+commercially available assessment tool	ldb	1
+common file sharing authentication protocol	ldap	1
+concrete datum model	ldap	1
+conventional subspace analysis method	lda	1
+conventional subspace learning method	lda	1
+conven-tionallinear projection method	lda	1
+credential store	ldap	1
+CVD risk fact -or	ldl-cholest erol	1
+datum movement instruction	ld	1
+DFT method	lda	1
+directory access tool	ldp	2
+directory scheme	ldap	1
+directory technology	ldap	2
+discriminant analysis method	lda	1
+distributed search technology	ldap	1
+district-level stake holder	ldo	1
+driver support function	ldws	1
+end server	ldap	1
+endogenous biological marker	ldh	1
+enterprise security protocol	ldap	1
+established internet standard	ldap	1
+external authentication source	ldap	1
+external authentication source	ldap directory	1
+external repository	ldap	1
+external user database	ldap	2
+name	ldr	1
+name	ldap udp	1
+name	lda	1
+ground-based VHF mapping system	ldar	1
+heterogeneous service	ldap	1
+heteroscedastic discriminant analysis approach	ldr approach based on chernoff criterion	1
+hierarchical indexing scheme	ldap	2
+high lipid level	ldl cholesterol	1
+high-performance code	ldpc code	1
+identified best of breed component	ldap server	1
+identity standard	ldap	1
+implementa-tionsforcommon provider	ldap directory	1
+industry standard open source component	ldap server	2
+integrated web resource	ldap	1
+introduction subspace projection technique	lda	1
+large PV company	ldk solar	1
+large-size solar firm	ldk	1
+largest ferry operator	ld lines	1
+laser -diagnostic technique	lda	1
+lateral semiconductor device	ldmos transistor	1
+LDAP application	ldp in windows support tools	1
+ldap-compatible directory service	ldap integration ldap-compatible directory service	1
+learners background characteristic	ldd	1
+lethal endpoint	ld fifty 	1
+factor	lds church	1
+factor	ldc debt crisis	1
+factor	ld fifty 	1
+linear block code	ldpc with the sum product algorithm	1
+linear classification technique	lda	1
+linear dimension reduction method	lda	1
+linear representation method	lda	1
+lipid subclass information	ldl pattern density	2
+lipoprotein	ldl	1
+lipoprotein marker	ldl particle number	1
+lithium base	lda	1
+local utah site	lds temples	1
+logical namespaces	ldap	1
+low current modulation laser device	ld	2
+low flexural modulus polymer	ldpe	1
+macro name	ldflags	2
+mass such hillbilly airguns	ld pistol	1
+modified protein	ldl	1
+nceofmoreand more application level protocol	ldap	1
+network directory service	ldap	1
+non-recyclable plastic	ldpe	1
+othermultimeric protein	ldh	1
+oxo-biodegradable plastic	ldpe	1
+path setup protocol	ldp	1
+pelleted material	ldpe	1
+photometric file	ldt	1
+polyethylene type	ldpe	2
+population-based quality measure	ldl-c level	1
+pre and post consumer polymer	ldpe	2
+pre-defined ULDs	ld three 	1
+pre-defined ULDs	ld seven 	1
+preliminary and detailed design activity	ldm	1
+preliminary experiment	ld fifty  of edwardsiellasis by antibiotic 	1
+pseudo-random code	ldpc code	1
+RADIUS-compatible directory server	ldap	1
+record-oriented query system	ldap	1
+repository type	ldap	1
+sabah political party	ldp	1
+samba function	ldap directory integration	1
+sarcoplasmic enzyme	ldh	1
+scrap plastic	ldpe	1
+server building service	ldap	1
+single instruction	ld	1
+solar business	ldk	1
+solution support various authentication method	ldap	1
+stable classifier	lda	1
+standard active directory support tool	ldp	1
+standards-based system	ldap	1
+statistical DA model	ldm	1
+strategic directory	ldap	1
+strong ionic base	lda	3
+subspace learning method	lda	1
+supervised learning	lda removesvariations in illumination	1
+case	ld	1
+surplus approach	ldi	1
+systematic code	ldpc code	1
+text model	lda	1
+topic model method	lda	1
+traditional optical technique	ldv	1
+traditional subspace algorithm	lda	1
+understands websphere security concept	ldap authentication	1
+urban development corporation	lddc for the london dockland project	1
+user authentication system	ldap	1
+user directory service	ldap	1
+user security directory	ldap	1
+user store	ldap	1
+user-authentication repository	ldap	2
+100-watt automatic antenna tuner	ldg	1
+1-2b solar company	ldk	1
+16-bit address command	lda	1
+actual directory	ldap	1
+ADSI provider	ldap provider	1
+adult surgery	lda shown	1
+advanced administrative capability	ldap support	1
+advanced error-management technique	ldpc ecc	1
+alow-MI, heat-stable resin	ldpe	1
+ammonium nitrate product	ldan prills	1
+Anysuitable plating solution	ldc nickel high build	1
+ATplug-ins	ldap	1
+authentication directory	ldap	1
+option	ldap	1
+option	ldap search option	1
+option	ld function for excellent low dust performance	1
+option	ldg  eight hundred and ninety-seven  tuner 	1
+backup execution software	ldm	1
+basolateral receptor	ldlr	1
+bemco integral chamber	ldf	1
+central authentication system	ldap	1
+Centralised PKIsmakeuseofa directory scheme	ldap	1
+centralized directory system	ldap-based directory	1
+childhood disability	ld	1
+circulating fat	ldl cholesterol	2
+clathrin cargo molecule	ldl	1
+clini-calvalueofother parameter	ldh level	1
+commercial shipping operator	ld shipping	1
+common user directory	ldap	1
+complex leasing scheme	ldo	1
+computable directory	ldap	1
+conclusion action group	ld ag	1
+conventional CV risk factor marker	ldl	1
+conventional discriminative subspace method	lda	2
+conventional polyethylene	ldpe produced via high pressure free radical polymerization	3
+corporate contact server	ldap server	1
+datum detection scheme	ldpc code	2
+DIAGNOSIS possible primary disease	lda	1
+diagnostic and therapeutic option	ldl apheresis	1
+dialkylamide base	lda	1
+diameter lens	lds ultra prime	1
+dimension-alityreduction technique	lda	1
+diode driver	ldp- two hundred and one  from power technology 	1
+directory access protocol	ldap	2
+directory service protocol	ldap	1
+group	lds	6
+endocytosed protein	ldl	1
+exemplary active device	ldmos	2
+external authentication protocol	ldap	1
+external authentication provider	ldap	2
+external corporate identity repository	ldap	1
+external datum memory instruction	lde	1
+external verification source	ldap	1
+fat number	ldl cholesterol	1
+flexible lining material	ldpe	1
+flexible polymer film	ldpe	1
+funding commissioner	lda area programme	1
+generative topic model	lda	1
+genetic property	ld pattern	1
+hand discriminative method	lda	1
+heart related number	ldl	1
+heat-sensitive, stretchable material	ldpe	1
+heavy police ship	ldr	1
+high throughput heterodyne spectroscopic mission	ldr	1
+high voltage application device	ldmos	1
+implantation operation	ldd	1
+group	ldf	1
+group	ldssa	1
+group	ldwa local group	1
+ingestors	ldm	1
+iterative decoding algorithm	ldpc decoding algorithm	1
+IVDAS device	lds-nicolet's liberty data acquisition system	1
+joint venture partnership	ldl in liverpool	1
+ken-era plan	lda's for crystal palace	1
+Lavage biomarkers	ldh	1
+LDAP feature	ldap-based mail alias	1
+LDAP information	ldap flag	1
+ldl-r-related protein	ldl receptor-like protein	2
+lean duplex grade	ldx  two thousand one hundred and one 	1
+learning discriminative classifier	lda	1
+legacy organization system	ldap	1
+lethal dose percentage	ldi	1
+letter command	lda	1
+linear discriminant technique	lda	1
+Lipid metabolism biomarkers	ldl-c	1
+lipid-related candidate gene	ldlr	1
+lipoprotein test	ldl pattern	2
+low density ethylene polymer	ld  nine hundred and ninety e 	1
+low-MI, heat-stable resin	ldpe	1
+mesocale detection system	ldar	1
+message-passing decoder	ldpc decoder	1
+micro flow memory operation	ldq offset	1
+mnemonic code	lda for load	1
+mormon organization	lds church	1
+multi-family housing partner	ldg development	1
+nad-dependent enzyme	ldh	1
+network password	ldap password for authentication using the client	2
+new-release font	ld plush	1
+non-coherent frequency estimation technique	ld demodulators	1
+nonintrusive point measurement	lda andpda	1
+nonporous polymer	ldpe	1
+non-specific blood test	ldh	1
+method	lda	4
+method	ldap	1
+non-trinity church	lds	1
+on-wafer non-rf transistor	ldmos transistors used for switching power supply	1
+original field	ldr	1
+out-of-the-box authentication provider	ldap	1
+password-based system	ldap	1
+perfusion detection technique	ldf	2
+phase-locked optical measurement technique	lda	1
+popular conference	ldstech conference	1
+powerful error control code	ldpc code	1
+pro-atherogenic particle	ldl	1
+rarely-used instruction	lds	1
+regional economic development partner	lda	1
+reprocessed granule	ldpe granule	1
+resident plasma membrane protein	ldl receptor	1
+resource pool ~	ldc fund	1
+scrutinizer's robust and superior feature	ldap integration	1
+second, lipid factor	ldl	1
+security management infrastructure	ldap compliant directory service	1
+method	ldp	1
+method	ldr	1
+method	ld excitation	1
+service-catalog technology	ldap	1
+shared lightweight directory service model	ldap	1
+simple dynamical system	lds	1
+single protocol	ldap	2
+soft coding	ldpc coding	1
+solar-energy company	ldk solar	2
+soluble plasma protein	ldl	1
+solu-bleplasma protein	ldl	1
+sophisticated channel code design	ldpc code	1
+specialised health professional	ld liason nurse	1
+spin heros	ld mandelson	1
+standard dimensionality reduction tool	lda	1
+standard manufacturing technology	lds	1
+standard ULD	ld three 	1
+stream based protocol	ldap	1
+strength waste plastic	ldpe	1
+strong, non-nucleophilic base	lda	1
+suitable plating solution	ldc nickel high build	1
+testicular functional marker enzyme	ldh	1
+tetrameric enzyme	ldh	1
+third-party user authentication	ldap	1
+third-party user profile store	ldap	1
+typical approximation	lda	1
+tool	ldp	2
+tool	ldp tool	2
+tool	ldif	2
+tool	ldapsearch with kerberos authentication	2
+tool	ldap	2
+tool	ldap amin tool	1
+tool	ldap utility	1
+tool	ldi machine	1
+tool	ldp.exe tool	1
+well-known service class name	ldap for a directory service	2
+tool	ldap for user account	1
+tool	ldap powertool	1
+tool	ldirectord	1
+tool	ldap management tool	1
+tool	ldap studio	1
+project	lda-funded work on london thames gateway heat network	1
+project	ldap setup	1
+artist	lda	2
+material	ldpe	9
+material	ld glass	3
+material	lds booklets on research in various state	1
+material	ldr	1
+place	lda	2
+player	ldk solar	3
+player	ldt provider	2
+technology	ldap	14
+product	ldpe	2
+product	ldc tvs	1
+product	ldpe bag	1
+product	ldpe shopping bag related product	1
+product	ld two thousand   intro 	1
+product	ldap server product	1
+product	ldl oxidation product	1
+product	ldpe black related product	1
+product	ldpe film related product	1
+product	ld	1
+technology	ldap directory	1
+technology	ldws	1
+term	ldl	3
+term	ld  fifty 	2
+term	ld fifty 	1
+parameter	ldl	3
+parameter	ldl cholesterol	1
+parameter	ld fifty 	1
+parameter	ld lipoprotein	1
+parameter	ldo	1
+parameter	ldl-c	1
+parameter	ldap administrative parameter	1
+system	ldap	1
+system	ldap directory system	1
+system	ldap directory server	1
+system	ldap system	1
+species	ld nobile	1
+measure	ldl cholesterol	1
+measure	ldl targets for the general adult patient panel	1
+measure	ldl	1
+element	ldap server	2
+variable	ldl cholesterol	1
+variable	ldl-cholesterol	1
+function	ldap syncrhonization function	1
+function	ldapapiprovides typical directory function	1
+function	ldap authentication	1
+brand	ld	3
+brand	ld systems	1
+component	lds	2
+component	ldp	1
+component	ldap bc	1
+component	ldp alumnus	1
+component	ldr	1
+aspect	ldl	1
+aspect	ldap configuration	1
+task	ldap search	1
+related product	ldpe plastic related product	1
+related product	ldpe shopping bag related product	1
+related product	ldpe film related product	1
+related product	ldpe black related product	1
+related product	ldpe bag related product	1

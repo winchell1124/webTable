@@ -1,0 +1,465 @@
+source	znte	2
+property	zno nanoparticles	2
+product	zno varistor related product	1
+agent	zn with nickel chloride	1
+town	znojmo	2
+favorite	zneida dove	1
+compound	zno	6
+compound	znf  two 	1
+compound	znf two 	1
+compound	zn oxide	1
+compound	zn two 	1
+compound	znso  four 	1
+compound	zncl  two 	1
+environmental factor	zn content	1
+additive	zno	1
+additive	znbr  two 	1
+state	zn oxide state	1
+surface	zno flat film	1
+suggestion	zn-ni plating	1
+error	znedine zidane	1
+raw material	zn dross	1
+raw material	zn galvanizers ash	1
+centre	zns in katete	1
+substrate	zno passivated substrate	1
+aid	zno	3
+newspaper	znbc	1
+reaction	zns capping of cdse	1
+mineral	zn	1
+candidate	zngeas  two 	2
+metal	zn	18
+metal	zn  two 	2
+metal	znso  four 	2
+metal	znand cd	1
+metal	zn ii	1
+particle	znoand sio  two  indifferent solvents like methanol 	1
+impurity	zn	1
+filler	zno	2
+combination	zns-sio  two 	1
+stress	zn deficiency	1
+catalyst	zno	5
+catalyst	zncl  two 	2
+catalyst	zn	1
+salt	zncl  two 	1
+salt	znso  four 	1
+coating	zno	1
+coating	zn electrodeposited alloy	1
+coating	zns shell	1
+foundation	zns hannelore kohl foundation	1
+pigment	zno	7
+inorganic material	znsandcertain types of glass	1
+oxide	zno	27
+oxide	zno film	2
+oxide	zno seven 	1
+oxide	zn two 	1
+promoter	zn	1
+chemical product	znh  two  po  four 	1
+factory	znsmelters on the banks of the periyar river anda news print factory on the muvattupuzha i~	1
+soil property	zn concentration	1
+optional ingredient	zno	2
+qualitative method	znso four  flotation 	1
+qualitative method	znso  four  flotation 	1
+metal oxide	zno	54
+metal oxide	znsb . sub . two  o. sub . six 	1
+crystal	znse	2
+processing technique	zno composite fiber	1
+filler material	zno	2
+soap	znp bar	1
+beautiful place	znojmo	1
+antimicrobial agent	zn  two 	1
+semiconductor	zno	18
+semiconductor	znse	7
+semiconductor	znte	1
+semiconductor	zns	1
+metal salt	zncl  two 	4
+metal salt	znso  four 	1
+heavy metal	zn	7
+precursor	zno micropowder	1
+minor component	zn	1
+ceramic material	zno	1
+semiconductor material	zno	9
+semiconductor material	znse	2
+semiconductor material	zns	1
+cation	zn ii	2
+cation	zn	1
+cation	zn  twenty-one 	1
+deposition technique	zno deposition technique	1
+transparent material	zno	1
+metal ion	zn  two 	2
+metal ion	zn  twenty-one 	1
+metal ion	znso  four 	1
+metal ion	zn two 	1
+metal ion	zn ii	1
+metal ion	zn	1
+metal ion	zncl  two 	1
+micronutrients	zn	2
+coating material	znte	1
+dopants	zn	2
+lewis acid	zncl  two 	13
+lewis acid	znbr  two 	3
+lewis acid	zn  two 	2
+lewis acid	znc one   two 	1
+lewis acid	znl twenty-one  eu three 	1
+lewis acid	znet  two 	1
+lewis acid	znci  two 	1
+nanomaterials	zno	4
+trace element	zn	3
+substrate material	zno	1
+metal material	zn alloy	2
+Nanoparticles	zno	3
+thin film	zno	1
+top performer	zn mexico	1
+solid particle	zno	1
+crystalline material	zno	4
+residence	znamenka	1
+internet source	znet	1
+halides	zncl  two 	1
+piezoelectric material	zno	5
+mineral salt	zncl  two 	1
+metallic element	zn	1
+chinese brand	zna	1
+metallic oxide	zno	5
+transition metal oxide	zno	1
+toxic metal	zn	1
+Nanostructures	zno nanowires	1
+carbonate	znco  three 	1
+metal halides	zn	1
+acidic material	znapo	1
+material system	zncdsse system	1
+trace metal	zn	3
+CNC machine	znc shape forming edm	2
+CNC machine	znc edm sinker	2
+compound semiconductor	zns	1
+inert filler	zno	2
+material option	zn stannate	1
+hydroxide	zn . sub . two 	1
+heavy metal ion	zn	3
+heavy metal ion	zn  two 	1
+company	znanje	1
+company	znet india	1
+valuable metal	zn	2
+light-emitting device	znse based led	1
+zinc salt	zncl  two 	2
+zinc salt	znbr  two 	1
+nutritional element	zn	1
+buffer layer	zno	1
+lewis acid catalyst	zncl  two 	2
+lewis acid catalyst	zn complex	1
+scooter	znen brand scooter	1
+dielectric film	zns-sio  two 	1
+microelements	zn	1
+divalent cation	zn  twenty-one 	3
+divalent cation	zn  two 	1
+zinc compound	zno	8
+zinc compound	zn sulfate	2
+suspension	znoin deg	1
+metal impurity	zn	1
+semiconductor layer	zno	1
+chloride salt	zncl  two 	2
+divalent metal	zn	1
+low-cost material	zno	1
+antibacterial substance	zno	1
+sintering aid	zno	2
+seed layer	zno	3
+solution parameter	zn content	1
+semiconducting material	zno	1
+metal oxide material	zno	2
+divalent salt	zncl  two 	1
+divalent salt	zn  two 	1
+divalent salt	znso  four 	1
+TFs	znf twenty-two 	1
+metal oxide nanoparticles	zno	8
+microelement	zn	1
+transparent conductive oxide	zno	1
+metal oxide layer	zno	1
+motorola phone	zn five 	1
+oxide semiconductor	zno	4
+oxide semiconductor	zno film	2
+particulate additive	zno	1
+fluoride salt	znf  two 	1
+binary oxide	zno	5
+wide band gap semiconductor	zno	4
+wide bandgap semiconductor	zno	1
+inorganic particulate material	zno	3
+nanofillers	zno	1
+Semiconductor nanoparticles	zno	1
+shell material	zno	1
+trace ion	zn	1
+conventional lewis acid	zncl  two 	1
+suitable semiconductor material	zno	3
+suitable semiconductor material	zns	3
+basic oxide	zno	1
+iodide salt	zni  two 	1
+metal content	zn	1
+metal oxide semiconductor	zno	3
+event	znm	1
+quantum dot	zns-capped cdse	1
+transparent conducting oxide	zno	4
+semiconductor oxide	zno	3
+corpuscle	zno	1
+exciting character	zne truesdale	1
+II-VI compound	znse	2
+II-VI compound	zno	1
+pigment particle	zno	1
+semiconducting metal oxide	zno	3
+simple metal oxide	zno	1
+transparent electrode	znoal	2
+typical lewis acid	zni  two 	1
+wide band gap material	zno	1
+chalcogenide semiconductor	zno	2
+crystalline semiconductor	zncdte	1
+electro-optic crystal	znte	2
+group IVA metal compound	zno	1
+kind ofinorganic compound	zno	1
+transition-metal oxide	zno	1
+transparent electrode material	zno	1
+commercially available photocatalyst	zno	2
+Inorganic nanocrystals	znse	1
+nonmetallic oxide	zno	1
+oxide insulator	zno	1
+znaga	znaga	0
+wide-band-gap semiconductor	zno	2
+book dealer	znanie bookstore	1
+essential trace metal	zn	1
+low-surface material	zno	1
+Manufactured Nanomaterials	zno	1
+metal oxide nanowires	zno	1
+native defect	zn -interstitial	1
+semi-conductor material	znse	1
+Semiconductor nanostructures	zno	1
+type defect	zn interstitial	1
+wide-bandgap semiconductor	znse	2
+acceptable additive	zno	1
+conductive fine particle	zno	1
+deposited material	zno	1
+functional thin film	zno	1
+II-VI material	znse	1
+inorganic particulate	zno	1
+metal oxide sol	zno	2
+metal-oxide semiconductor	zno	2
+nanorodsof different material	zno	1
+optical window material	znse	1
+oxide substrate	zno	2
+piezoelectric film	zno	1
+Semiconductor nanowires	zno obtained in different electrodeposition condition	1
+soluble zinc salt	zn  two 	1
+tracer element	zn	1
+traditional melody	znamenny	1
+volatile metal salt	zncl  two 	2
+diffusion source	zno film	1
+electroconductive oxide	zno	1
+endogenous metal	zn  two 	1
+glass oxide	zno	1
+heat-resistant transparent oxide single-crystal substrate	zno substrate	1
+high purity metal oxide	zno	3
+hydrometallurgical process	zn production	1
+II-VI compound semiconductor	zns	1
+Inorganic nanostructures	zno	1
+inorganic transparent conductive layer	zns	4
+mesoporous ceramic material	zno	1
+metal oxide semiconductor material	zno	1
+metal semiconductor oxide	zno	2
+mineralization-related element	zn	1
+nano-sized semiconductor	zno	2
+nano-sized semiconductor	znoand tio  two 	1
+non-perovskite oxide	zno	1
+organic and inorganic pigment	zno	1
+reduction reagent	zn  two 	1
+semiconductor catalyst	zno	1
+semiconductor particle	zno	1
+TCO material	zno	1
+wide band gap semiconductor oxide	zno	1
+alkaline solid state electrochemical system	zn-air fuel cell	1
+binary metal-oxygen compound	zno	3
+compound semiconductor layer	zns	1
+compound semiconductor layer	zno	1
+conventional transparent conductive oxide	zno	1
+drug mixts	zno	1
+technique	zncc	1
+technique	zno deposition technique	1
+group II-VI compound	znse	2
+hexagonal crystal	zno	1
+II-VI semiconductor nanocrystals	znse	1
+interfering metal ion	zn in the fly ash sample	1
+introduction electrical conductivityofn-type semiconductor	zno	1
+introduction metal oxide	zno	1
+long-living and well-established magazine	znamya	1
+MBE growth parameter	zn cell temperature	2
+metabolically significant trace element	zn	1
+metal oxide 1D nanostructures	zno	2
+metallic oxide semiconductor	zno	1
+mild lewis acid	znbr two 	1
+mineral nanoparticles	zno	1
+Nanopigments	zno	1
+nano-scale semiconductor material	zno	1
+nanostructured metal oxide semiconductor	zno	2
+nanostructured semiconducting oxide	zno	1
+non transmetallating lewis acid	zncl  two 	1
+non-ferrous metal oxide	zno	1
+n-type buffer layer	zno	2
+NW material	zno	1
+piezoelectric thin film	zno	1
+preferred metal soap	zn stearate	3
+semi-conducting metal oxide	zno	1
+semiconducting oxide	zno	1
+semiconductor photo electrocatalysts	zno	1
+space charge transfer oxide	zno	1
+trace salt	znso four  x  seven h two o 	2
+traditional chain transfer agent	znet  two 	1
+traditional lewis acid	zncl  two 	1
+traditional transparent conductive film	zno	1
+transparent conductive oxide film	zno	2
+water soluble reactant	zn two 	1
+wide gap semiconductor	zno	1
+wide-band-gap material	zno	1
+wideband-gap semiconductor	zno	1
+alternatively solution parameter	zn content	1
+brand scooter	znen brand scooter	1
+easily reducible oxide	zno	1
+electrically conductive transparent oxide	zno	1
+famous compound semiconductor	znse	1
+heterogeneous photocatalysis various semiconductor	zno	1
+high quality thin oxide film	zno	1
+inorganic zn salt	zn sulfate	1
+inorganic zn salt	zn chloride	1
+large gap oxide semiconductor	zno	1
+lewis inorganic acid	zncl  two 	1
+metal oxide semiconductornanoparticles	zno	1
+metal oxidenanoparticles	zno	1
+Metalhalides	zncl  two 	1
+nano-particulate oxide	zno	1
+Nanorods	zno nanorods	1
+non-transparent semiconductor	znse	1
+n-type defect	zn interstitial	1
+n-type metal oxide	zno	1
+n-type oxide	zno	1
+One-dimensional metal-oxide nanostructures	zno	1
+optical substance	zno	1
+optically dense crystal	znse	1
+oxide nanowires	zno	3
+oxinato complex	zn  two 	1
+polycrystalline phosphor system	zncds	1
+case	zn sites of viral zinc finger	1
+pure metal oxide	zno	1
+resorbable zn salt	zni  two 	1
+resorbable zn salt	zncl  two 	1
+semi-conducting oxide	zno	2
+semiconductormaterials	znse	1
+simple salt solution	zn  two 	1
+single-phase coating	zno	1
+solar cell material	zno	1
+case	znse layers grown on gaas	1
+case	zns particle	1
+surge suppression device	znr in the transformer primary	1
+TCO	zno	1
+type metal oxide	zno	1
+type semiconductor oxide	zno	1
+uncommon substrate	zno	3
+WBG material	zno	1
+wide band gap metal oxide	zno	1
+Wide band-gap photocatalysts	zno nps	1
+wide-band gap semiconductor oxide	zno	1
+wide-bandgap substance	zno	2
+wider-gap semiconductor	znse	1
+zn source	znso four 	1
+zn source	znco three 	1
+aboundary-conduction-limited material	znoor tio  two 	1
+ATR crystal	znse	1
+ATR material	znse	1
+binary metal oxide compound	zno	2
+binary semiconductor oxide	zno	2
+broad-range inhibitor	zn  two  chelators 	1
+bulk oxide	zno	1
+c2h2-type zinc finger protein	znf two hundred and thirty-eight 	2
+category II-VI material	znse	1
+chelate loop	zn dh four 	1
+chemical semiconductor	znse	1
+congested center	zny	1
+crystalline metal oxide nanoparticles	zno	2
+currently nanoparticle metal oxide	zno	1
+divalent metal-ions	zn  two 	1
+electroconductive inorganic pigment	zno	1
+emerging freestanding substrate	zno	1
+established inorganic material	znte	1
+excess inert material	zno	1
+Formal specications	znotationor models based on logical formalism	1
+functional semiconductor nanostructures	zno	1
+II-Bmetals	znand cd	1
+II-VI group compound semiconductor material	znte	1
+II-VI group semiconductor	znse	1
+II-VI semiconductor material	zno	1
+II-VI wide bandgap semiconductor	znte	1
+II-VI Zn-chalcogenides	znse	1
+infrared transparent material	znse	1
+innonferroelectric or weakly ferroelectric material	zno	1
+Introduction ATERIALS	znse	1
+INTRODUCTION nano-particulate oxide	zno	1
+Introduction One-dimensional metal oxidenanowires	zno	1
+IR window material	znsandchemical-vapor-deposited diamond	1
+lewis acidic metal complex	zn two 	1
+metal oxide nanostructures	zno	1
+monocrystalline transparent conductive oxide	zno-based transparent conductive oxide	1
+nano-scaled semiconductor material	zno	1
+nanosized metal oxide	zno	2
+nanostructured ZnO	zno nanorods	1
+non-cubic material	zno	1
+nonferroelectric material	zno	1
+non-functionalised porphyrins	zn-tetraphenyl porphyrins	1
+non-physiological metal	zn  two 	1
+novel hierarchicalnanostructures	zno	1
+optically clear ceramic particle	zno	1
+optoelectronically important material	znse	1
+oxide semiconductor crystal	zno	2
+oxide semiconductor film	zno film	1
+piezoelectric thin film material	zno	1
+polar crystal	znse	1
+polar semiconductor	zno	1
+popular online newsmagazines	znet	1
+QDswithWZcrystal structure	znoand gan nanostructures	1
+ravishing russian lilac	znamya lenina	1
+method	zno-ag composite	1
+Semiconducting nanowires	zno	2
+semi-conductive oxide	zno	1
+SMO film	zno	1
+suitable transition metal compound	zno	1
+surface-treated steel sheet	zn galvanized steel sheet	1
+TCO layer	zno	1
+ternary wide band gap semiconductor	zncds with dopants like ag	1
+THEORY EO crystal	znte	1
+thin-film piezoelectric material	zno	1
+transparent metal oxide semiconductor	zno	2
+transparent, wide-bandgap material	zno	1
+transparent, wide-bandgapmaterials	zno	1
+typical infrared material	znse	1
+vapor phase reactant	zn  two 	1
+vertical-type electro-optical crystal	znte	1
+VI semiconductor	znse	2
+wide band gap oxide	zno	1
+wideband gap II-VI semiconductor	znse	1
+wideband gap semiconductor	znoand gan	1
+wide-band gap semiconductor thin film	zno	1
+wurtzite-structure material	zno	1
+wurtzite-structured semiconductor	zno	1
+Wurzite crystalline material	znse produced at a high temperature	1
+Zinc chalcogenides	znse	1
+zinc rich intermetallic compound	zn.sub. three  ti 	1
+ZNF145 vector	znf one hundred and fourty-five  expression vector 	2
+zno-based material	zno	1
+material	zno	28
+material	znse	6
+material	znsse system	1
+material	znmgsse system semiconductor material	1
+material	zn	1
+material	znse atr crystal	1
+material	znte	1
+technology	zn-ni plating	1
+parameter	znso  four 	1
+system	zncl  two 	3
+system	zn plating	1
+element	zn	4
+element	zn  four 	1
+element	znpresentinhigh abundance in natural environment	1
+variable	zn depletion	1
+variable	zn concn.	1
+component	zno	4
+related product	zno varistor related product	1

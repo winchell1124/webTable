@@ -1,0 +1,569 @@
+resource	kfl&a public health	1
+source	kfm nine hundred and sixty-one  . com 	1
+product	kfi	1
+product	kfi winch	1
+product	kfc bbq beans	1
+institution	kfw	3
+client	kfc	6
+client	kfw	1
+client	kfc co-ops	1
+client	kforce	1
+agency	kforce	2
+agency	kftc of korea	1
+business	kfc	8
+food	kfc bowl	1
+operation	kfor	2
+city	kfar sava	1
+celebrity	kfc founder colonel sanders	1
+town	kfar etzion	1
+firm	kfc	3
+firm	kforce	1
+class	kf two 	1
+class	kf three 	1
+substance	kf	1
+Organisations	kfw	1
+big name	kfc	3
+big name	kfh	1
+vehicle	kfz  fifteen 	1
+actor	kfw	1
+restaurant	kfc	38
+retailer	kfc	2
+competitor	kfc	6
+competitor	kforce	1
+corporation	kfc	3
+local tourist attraction	kfc yum center	1
+landmark	kfai radio	1
+channel	kftk	1
+algorithm	kf with gaussian distribution	1
+utility	kformula	1
+recipe	kfc's chicken	1
+supplier	kff	1
+bank	kfw	2
+bank	kfw bankengruppe	1
+operator	kfc	5
+chain	kfc	32
+network	kfla	1
+station	kfi	2
+station	kfjx	1
+station	kfac los angeles	1
+station	kfgo in fargo	1
+station	kfxm in surburban san bernardino	1
+station	kfbk	1
+shop	kfc	2
+account	kfc	3
+large company	kfc	1
+sponsor	kfc	3
+outlet	kfc	3
+outlet	kfc enduring great success in india	1
+enterprise	kfc	1
+issue	kfs activation procedure	1
+issue	kfs standard operating procedure	1
+investor	kfw banking group	1
+giant	kfc	2
+establishment	kfyn radio	1
+household name	kfc	1
+street	kfar giladi	1
+hospital	kfsh	1
+ministry	kfuo	1
+tenant	kfc	3
+convenience	kfc	9
+financial institution	kfw fourty-one 	1
+financial institution	kfw	1
+big company	kfc	3
+mission	kfor operation in the balkans	1
+campaign	kfc campaign	1
+menu item	kfc snacker sandwich target between meal eating	1
+large corporation	kfc	4
+promotion	kfc coupon	1
+promotion	kfc printable coupon	1
+international company	kfc	4
+salt	kf	5
+lender	kfw	1
+medium outlet	kfai	1
+donor	kfw	5
+international brand	kfc	5
+big player	kfc	1
+well-known name	kfc	2
+radio station	kfi	3
+radio station	kfog	3
+radio station	kfwb	2
+radio station	kfai	1
+radio station	kfab	1
+radio station	kfat in gilroy	1
+radio station	kfbk	1
+radio station	kfdi	1
+radio station	kfma	1
+radio station	kfcf	1
+radio station	kfog-fm	1
+stalwart	kfc	2
+settlement	kfar adumim	1
+big brand	kfc	4
+franchise	kfc	14
+multinational company	kfc	2
+advertiser	kfc	6
+multinational	kfc	1
+buyer	kfc	1
+global brand	kfc	2
+entrant	kfc	1
+sandwich	kfc snacker	1
+corporate client	kfc	1
+retail store	kfc	1
+national brand	kfc	1
+promoter	kf	1
+national chain	kfc	1
+U.S. company	kfc	1
+international agency	kfw	1
+reporter	kfwb traffic reporter	1
+chain store	kfc	2
+eatery	kfc	1
+external agency	kfl & a public health	1
+popular model	kf three hundred  wine 	1
+popular model	kf seven hundred and fifty  secret 	1
+popular model	kf three hundred and fifty  ice cream 	1
+international player	kfc	1
+fatty food	kfc	2
+experienced player	kfir edri	1
+international institution	kfw	4
+industry heavyweight	kfc	1
+investment product	kfhmb general investment account-i	1
+investment product	kfhmb foreign currency general investment account-i	1
+logo	kfc	1
+large chain	kfc	2
+global giant	kfc	1
+medium organization	kfi radio	1
+huge company	kfc	2
+food company	kfc	1
+commercial	kfc	2
+commercial	kfc colonel burger in the late  one thousand nine hundred and eighty s 	1
+chain restaurant	kfc	8
+international name	kfc	2
+restaurant chain	kfc	13
+junk food	kfc	1
+fast food	kfc	10
+radio program	kfwb	2
+american brand	kfc	1
+multi-national company	kfc	1
+famous brand name	kfc	1
+local place	kfc	1
+development partner	kfw	3
+well-known organization	kfw bankengruppe	1
+high calorie food	kfc	1
+unhealthy food	kfc	1
+american favorite	kfc	1
+donor agency	kfw	2
+social amenity	kfc	1
+fast food chain	kfc	42
+international actor	kfor	1
+consumer brand	kfc	1
+fast food restaurant	kfc	42
+national and international organization	kfw	1
+popular restaurant	kfc	1
+multilateral institution	kfw	1
+international financial institution	kfw	2
+food outlet	kfc	2
+international chain	kfc	2
+multi-nationals	kfc	1
+food chain	kfc	5
+recruiter	kforce	1
+commercial brand	kfc	1
+famous restaurant	kfc	1
+soluble salt	kf	1
+high street brand	kfc	2
+occupier	kfc	2
+multilateral agency	kfw	2
+food retailer	kfc	1
+popular chain	kfc	1
+fast-food chain	kfc	16
+franchisor	kfc	5
+Integrators	kfc holdings	1
+retail partner	kfc	1
+donor organization	kfw	1
+popular franchise	kfc	1
+worldwide brand	kfc	1
+fluoride	kf	2
+U.S. brand	kfc	2
+company	kfc	50
+fast food outlet	kfc	19
+european institution	kfw	1
+well-known chain	kfc	1
+company	kforce	1
+branded company	kfc	1
+jewish community	kfar etzion	4
+retail client	kfc	1
+smart company	kfc	1
+famous customer	kfc	1
+fast food place	kfc	5
+fast-food restaurant	kfc	10
+american business	kfc	1
+fast food item	kfc's double down	1
+company	kf	1
+company	kfc corp.	1
+retail name	kfc	2
+american chain	kfc	17
+food business	kfc	1
+commercial outlet	kfc	1
+international certification	kfda	1
+successful franchise	kfc	1
+blue chip brand	kfc	2
+international restaurant	kfc	1
+international donor agency	kfw	1
+U.S. chain	kfc	1
+american giant	kfc	3
+american retailer	kfc	1
+global chain	kfc	1
+renowned brand name	kfc	1
+broadcasting company	kfn	2
+fast food joint	kfc	19
+reputable place	kfupm	1
+television commercial	kfc	2
+well-known restaurant	kfc	2
+development finance institution	kfw	2
+fluoride compound	kf	4
+potassium compound	kf	2
+staffing firm	kforce	2
+international financial organization	kfw	1
+mega-brands	kfc	1
+fast-food outlet	kfc	11
+franchise operation	kfc	3
+local advertiser	kfc in philadelphia	1
+community radio station	kfai	1
+popular outlet	kfc	1
+fast food company	kfc	10
+traditional american food	kfc	1
+all-american favorite	kfc	1
+fast food franchise	kfc	1
+american fast food chain	kfc	6
+popular food chain	kfc	1
+service-oriented company	kfc	1
+established corporation	kfc	1
+fast food brand	kfc	2
+international fast food chain	kfc	13
+well-known establishment	kfc	1
+famous chain	kfc	1
+international financing institution	kfw	2
+fast food establishment	kfc	4
+franchiser	kfc	1
+high-street brand	kfc	1
+large local conglomerate	kfc holdings bhd	1
+takeaway food	kfc	1
+american chain restaurant	kfc	1
+company's customer	kfc	1
+event	kfo technical conservation measures workshop	1
+restaraunts	kfc	1
+time product	kfsm-tv	1
+time product	kfor-tv	1
+world-famous enterprise	kfc	3
+american franchise	kfc	3
+international and national brand	kfc	1
+music station	kfi	1
+popular tournament	kfc big bash t twenty 	3
+quick-service restaurant	kfc	1
+regular chain	kfc	1
+resturants	kfc	1
+signal sequence	kferq	1
+fast food giant	kfc	5
+fast-food giant	kfc	5
+fast-food place	kfc	2
+event	kfest cosplay competition	1
+western eatery	kfc	4
+western franchise	kfc	1
+fast food staple	kfc	1
+food service job	kfc	1
+long-term cooperative company	kfc	1
+renowned multinational company	kfc	1
+successful global brand	kfc	1
+top brand shop	kfc	1
+western fast food	kfc	3
+commercial advertisement	kfc x-mas bucket meals	1
+commercial buyer	kfc	3
+dynamic analysis tool	kfi	1
+famous global brand	kfc	1
+fancy restaurant	kfc	1
+fast feeder	kfc	1
+fast-food company	kfc	1
+international fast-food chain	kfc	3
+northern place	kfar netter	1
+private sector outlet	kfc outlet	1
+top international buyer	kfc	1
+viable candidate	kfg	1
+vital amenity	kfc	1
+western fast food chain	kfc	4
+american commercial industry	kfc	1
+international food chain	kfc	5
+jewish settlement	kfar giladi	1
+large international chain	kfc	1
+lot recognizable venue	kfc	1
+luxury neighborhood	kfar shmaryahu	1
+national code	kfc	2
+restaurant coupon	kfc coupon	1
+western chain restaurant	kfc	1
+alkali metal fluoride	kf	1
+american commercial giant	kfc	28
+american fast food restaurant	kfc	1
+fast food operator	kfc	3
+fast food store	kfc	1
+fast-food	kfc	1
+fluoride source	kf	2
+multilateral and bilateral organization	kfw	1
+rec	kfmc	1
+western chain	kfc	4
+american fast-food restaurant	kfc	3
+brand outlet	kfc	1
+chain eatery	kfc	1
+example local establishment	kfc	1
+fast food-style restaurant	kfc	1
+high traffic place	kfc	1
+international fast food restaurant	kfc	1
+junkfood	kfc	1
+large new corporation	kfdi	1
+community	kfar darom	1
+popular fast food restaurant	kfc	1
+public radio station	kfai	1
+quick-service restaurant chain	kfc	1
+successful establishment	kfc	1
+U.S. franchise	kfc	1
+advertising mascot	kfc colonel sanders	1
+american standby	kfc	1
+american-style fast food chain	kfc	1
+biggest chain	kfc	2
+branded chain	kfc	1
+chicken chain	kfc	3
+electronic medium company	kfmb-tv	1
+fancy diner	kfc	2
+foodservice brand	kfc	1
+hotel industry	kfc	1
+international chain restaurant	kfc	3
+kibbutz	kfar ruppin	4
+kibbutz	kfar blum	1
+large foreign corporation	kfc	1
+local chain restaurant	kfc	1
+local new agency	kfbk	1
+longstanding sponsor	kfc	1
+multinational fast food chain	kfc	4
+multinational outlet	kfc	1
+overseas enterprise	kfc	1
+popular fast food chain	kfc	1
+organization	kfc	2
+sister station	kfrz	1
+successful retail operation	kfc	1
+takeaway shop	kfc	1
+ultra-modern equipment	kfr	1
+unavoidable high street mega-chains	kfc	1
+world-renowned chain	kfc	1
+adolescent year place	kfc	1
+american establishment	kfc	1
+american fast-food chain	kfc	2
+CBS affiliate	kfmb-tv in san diego	1
+co-ordination structure	kfsm	1
+co-ordination structure	kfssg	1
+corporate-owned station	kfog  one hundred and four . five -fm 	1
+organization	kfw development bank	1
+famous big name	kfc	1
+fast food purveyor	kfc	1
+fast-food retail chain	kfc	5
+food retail chain	kfc	1
+global and national brand	kfc	1
+government force company	kfc	1
+international F&B brand	kfc	1
+investor conf erences	kfnn financial fest	1
+investor conference	kfnn financial fest	1
+israeli town	kfar saba	1
+kibbutz guesthouses	kfar blum	1
+kibbutz guesthouses	kfar giladi	1
+local fast food chain	kfc	1
+noxious cocktail company	kfc	1
+peptide motif	kferq motif	1
+popular american brand	kfc	1
+popular US restaurant	kfc	1
+powerhouse organization	kfc	1
+prominent indian and international brand	kfc	1
+song rapper	kfb	1
+successful fast food franchise	kfc	1
+television advertiser	kfc	1
+trade company	kf	1
+typical american fast food chain	kfc	1
+typical western fast food	kfc	1
+ubiquitous chain	kfc	1
+us-owned brand	kfc	1
+well-known chain store	kfc	1
+western franchise restaurant	kfc	2
+western restaurant chain	kfc	1
+yum brand	kfc	1
+american chain store	kfc	1
+american eatery	kfc	1
+american fast food company	kfc	1
+america's fast food	kfc	1
+basic fast food joint	kfc	1
+brand character	kfc's colonel sanders	1
+distinguished military and civil authority	kfor	1
+eatting place	kfc	1
+fast food supplier	kfc	1
+food chain outlet	kfc	2
+fried chicken famous food chain	kfc	1
+hot-on-demand franchise name	kfc	1
+internation client	kfc	1
+international high potential credit institution	kfw	1
+key restaurant customer	kfc	1
+Kibbutz guesthouse	kfar blum	1
+large franchise retailer	kfc	1
+large retailing client	kfc	1
+lucrative industry's most popular company	kfc corp.	1
+news radio station	kfwb	1
+application	kftpgrabber	1
+obligatory fast-food outlet	kfc	1
+popular fast food outlet	kfc	1
+public or semi-public institution	kfw in germany	1
+quick service chain	kfc	1
+reputable bilateral and multilateral institution	kfw	1
+serious partner	kfw	1
+successful service firm	kfc	1
+takeaway chain	kfc	4
+take-out restaurant	kfc	1
+today many household name	kfc	1
+traditional american brand	kfc	1
+traditional fast food restaurant	kfc	2
+transnational food corporation	kfc	1
+U.S. fast food restaurant	kfc	1
+U.S. retail food company	kfc	1
+well-known fast food chain	kfc	2
+well-represented, major chain	kfc	3
+western fast food outlet	kfc	1
+western fast-food chain	kfc	1
+western food chain	kfc	1
+Western style fast food s	kfc	1
+world famous fast food chain	kfc	1
+world renowned food chain shop	kfc	2
+year old fast food	kfc	1
+youth-centric brand	kfc	1
+american fast food franchise	kfc	1
+american fast food giant	kfc	1
+american fast-food outlet	kfc	1
+american health food staple	kfc	1
+B outlet	kfc	1
+big fast food outlet	kfc	1
+biggest food chain	kfc	1
+brand restaurant	kfc	3
+name	kfc	3
+chicken joint	kfc	1
+commercial restaurant	kfc	2
+environmental leader restaurant chain	kfc	1
+fair few recognisable eatery	kfc	1
+famous international franchise restaurant	kfc	1
+fast food retail giant	kfc	1
+fast-food purveyor	kfc	2
+food regulation organization	kfda	1
+food service brand	kfc	1
+foodservice concept	kfc	1
+Fried chicken	kfc original recipe chicken breast	1
+Fried chicken	kfc snack box original recipe	1
+german development institution	kfw development bank	1
+German Development Organisations	kfw	1
+global brand logo	kfc	1
+global fast food chain	kfc	1
+high profile fast food company	kfc	1
+high-quality residential area	kfar vradim	1
+host outlet	kfc	1
+international fast food store	kfc	1
+israel's wealthiest suburban community	kfar shmaryahu	1
+key security provider	kfor	1
+large fast food restaurant	kfc	1
+lower-profile station	kfan	1
+medical accreditation	kfda	1
+medium chain	kfc	1
+metallic fluoride	kf	1
+Middlefirms	kforce	1
+moshav farming community	kfar hittim	1
+non-ffhr based chain	kfc	1
+Operational level HQs	kfor	1
+overseas fast food giant	kfc	1
+peacebuilders	kfor	1
+peculiar small shop	kfc	1
+perpedicular and paralel eatery	kfc	1
+prototypical fluoride anion source	kf	1
+QSR chain	kfc	1
+quick service restaurant client	kfc	1
+quick-service operator	kfc	1
+renowned food chain	kfc	1
+rival fast food retailer	kfc	1
+rotor friendly pad	kfp carbon kevlar	1
+single-concept chain	kfc	1
+standard fast-food outlet	kfc	1
+take-out favorite	kfc	1
+traditionally american company	kfc	1
+U.S. restaurant company	kfc	2
+well-known fast food chain store	kfc	1
+wendy's competitor	kfc	1
+westem style fast food chain	kfc	1
+western fast food franchise	kfc	2
+western outlet	kfc	1
+workers committee code	kfc	1
+world renowned fast food chain	kfc	1
+YUM food	kfc	1
+background low power FM station	kflo-lp	1
+big bucks type	kfc sanders	1
+bismarck clear channel station	kfyr	1
+black J. chain restaurant	kfc	1
+Brands'chains	kfc	1
+chained fast food player	kfc	2
+chained foodservice brand	kfc	1
+consumer product client	kfc	1
+cruel and unhealthy company	kfc	1
+de-oxidizing vaporizer	kf f two 	1
+extremely energy-efficient house	kfw- fourty  houses 	1
+famous chain restaurant	kfc	1
+fast food chain operator	kfc	1
+fast food outfit	kfc	1
+fast food takeaway brand	kfc	1
+fast service franchise	kfc	1
+fast-food competitor	kfc	1
+fastfood industry	kfc	1
+fast-food operator	kfc	1
+food franchise chain	kfc	1
+global food chain outlet	kfc	1
+high quality issue	kfw in europe	1
+house supplier	kfc	1
+limited-time offer	kfc's controversial double down sandwich	1
+lingru xian fast food restaurant	kfc	1
+mainstream chicken restaurant	kfc	1
+mainstream global brand	kfc	1
+mouth probiotics	kforce	1
+multinational fast-food chain	kfc	1
+national public bank	kfw bankengruppe in germany	1
+NWS WSR-88D s	kftg	1
+NWS WSR-88D's	kftg	1
+paradigmatic development bank	kfw	1
+popular food chain restaurant	kfc	1
+product hospitality operation	kfc	1
+prompt food chain	kfc	1
+public sector liquidity support	kfw program	1
+quick service restaurant chain	kfc	1
+quick-service chicken restaurant	kfc	1
+real-life fast food outlet	kfc	1
+reporting station	kfsi	1
+SME specialist agency	kfw	1
+soluble alkali fluoride	kf	1
+state-run investment bank	kfw bank in germany	1
+successful fast food operator	kfc	1
+sydney site	kffr in gordon	1
+takeaway place	kfc	1
+tax-exempt purchaser	kfor	1
+top-of-the-line graphic card	kfa two  geforce  nine thousand eight hundred  gx two 	2
+traditional fast-food company	kfc	1
+trailblazing company	kfc	1
+typical fast food chain	kfc	1
+unicorn-hub, corporate company	kfc	1
+united state restaurant company	kfc	1
+western quick service restaurant	kfc	1
+western takeaway chain	kfc	1
+world's biggest fast food chain	kfc	1
+world's largest borrower	kfw bankengruppe	1
+project	kfc	1
+place	kfc	10
+place	kfar vradim	1
+player	kfs	1
+species	kfc's bird	1
+brand	kfc	33
+brand	kfi	1
+concept	kfc's colonel's kitchen	1
+site	kfar hahoresh	2
+site	kffl.com for ranking	1

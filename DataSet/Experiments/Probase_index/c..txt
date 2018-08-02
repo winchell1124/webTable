@@ -1,0 +1,1554 @@
+product	c. sub . four  f. sub . six 	1
+accessory	c.r.t wooden stand	1
+resource	c. burr artz library	1
+facility	c.j. s senior care	1
+facility	c. service facility	1
+process	c.certain subsequent conformal coating process	1
+process	c.certain subsequent coating process	1
+property	c.sub. two  content 	1
+benefit	c. evaluation of new substance	1
+game	c.o.d	1
+subject	c. b. t.	1
+ophthalmologist	c. howell tucker	1
+ophthalmologist	c. tobin taylor	1
+product	c. jenkins freezer paper	1
+product	c. microfiber product	1
+product	c. sub . three  f. sub . eight 	1
+product	c.d. burner	1
+exception	c. prima facie	1
+exception	c. s. lewis	1
+reason	c.g. problem	2
+reason	c. g. problem	1
+character	c. auguste dupin	1
+character	c.j.	1
+character	c. viper	1
+work	c. s. lewis the abolition of man	2
+work	c.p.e.bach a major concerto	1
+work	c. s. lewis's a grief observed	1
+work	c.  one thousand eight hundred and ninety-two 	1
+work	c.  one thousand six hundred and fourty-eight 	1
+model	c. elegans	2
+characteristic	c. water quality characteristic	1
+attraction	c. sightseeing attraction	1
+attraction	c.n. tower	1
+situation	c. eight 	1
+institution	c.s.i.r.o. in australia	1
+client	c. ronson	1
+document	c. religious document	1
+author	c. s. lewis	16
+author	c. wright mills	2
+author	c. m. eddy	2
+author	c. david lisman	1
+author	c.	1
+author	c. h. spurgeon	1
+author	c. l. moore	1
+author	c. gunton	1
+author	c. evert palmer	1
+author	c. robert holloway	1
+author	c. kalinda	1
+author	c. singh	1
+author	c. y. lee	1
+author	c. hempel	1
+author	c.s lewis	1
+form	c. tortuosus	1
+form	c. amaranticolor coste & reynier	1
+form	c. nycticalis	1
+form	c. grandi f torus	1
+person	c.c.r.a. employee	2
+person	c. eric lincoln	1
+person	c. stanley bliss	1
+person	c. l. r. james	1
+person	c. jenkins	1
+person	c. boveyron in  one thousand nine hundred and ninety-two 	1
+idea	c. w. worth house bed & breakfast	1
+agency	c.i.a.	1
+agency	c.a.b.	1
+object	c.n. train	1
+course	c.p.r.	1
+writer	c. s. lewis	7
+writer	c. h. hsieh	2
+writer	c. taylor	1
+writer	c. peter wagner	1
+writer	c. p. e. bach	1
+writer	c. arnold snyder	1
+writer	c. eagleton	1
+writer	c. l. r. james	1
+writer	c.s.lewis	1
+writer	c. s. forester	1
+writer	c. l. moore	1
+writer	c. p. taylor	1
+writer	c. lloyd morgan	1
+writer	c. e. harris	1
+writer	c.l.r james	1
+book	c. s. lewis classic mere christianity	1
+book	c. h. mckennon's iron men	1
+book	c. wright mill's white collar	1
+star	c. johnson	1
+star	c. ronaldo	1
+structure	c.v.c. grain elevator	1
+structure	c.sub.l domain	1
+structure	c. temporary structure	1
+structure	c.g. de la garza's store	1
+business	c.  one thousand eight hundred and ninety-five 	1
+business	c. peltier mushroom company	1
+procedure	c. seven 	1
+procedure	c. three 	1
+procedure	c. eight 	1
+band	c.o.c.	1
+school	c. santa maria	1
+school	c. san ignacio de recalde	1
+school	c. milton wright	1
+school	c. peruano britanico	1
+school	c. markham	1
+school	c. casuarinas	1
+practice	c. best management practice	1
+title	c. official title	1
+ingredient	c. cohnii oil	1
+operation	c. paarshowedhow cryptographic operation	1
+plant	c. seedless vascular plant	1
+plant	c. limosa	1
+plant	c. lulu	1
+plant	c. sativum	1
+plant	c. coggygria scop	1
+plant	c. cam plant	1
+agent	c. parvum protein	1
+agent	c. parvum	1
+circumstance	c. &c.	1
+scholar	c. wright mills	2
+scholar	c. h. dodd	1
+scholar	c. f. w. walther	1
+scholar	c. y. lee	1
+scholar	c. k. barrett	1
+scholar	c. p. snow	1
+scholar	c. h. toy	1
+scholar	c. a. bayly	1
+scholar	c. bailey	1
+scholar	c. scott littleton	1
+scholar	c. wayne gordon	1
+type	c. botulinum type	1
+type	c. pepo type	1
+type	c. moschata type	1
+type	c. hivolvens reuss	1
+type	c. liberica	1
+type	c. different type	1
+celebrity	c.y lam	1
+disease	c. infectious disease	1
+disease	c. escude infectious disease	1
+disease	c.  eight 	1
+test	c.b.r.	2
+test	c. p. k.	1
+test	c. albicans screen	1
+manufacturer	c. general aviation manufacturer	1
+instrument	c. seashore's measures of musical talents	1
+instrument	c. electronic instrument	1
+act	c.w stoneking	3
+man	c. i. scofield	5
+man	c. d. plum	1
+man	c. columbus	1
+man	c. h. spurgeon	1
+man	c. l. r. james	1
+man	c. h. macintosh	1
+feature	c. selected feature	1
+man	c. welton gaddy	1
+man	c. s. lewis	1
+man	c. eric lincoln	1
+man	c. peter wagner	1
+man	c. r. nichol	1
+complication	c. pregnancy complication	1
+complication	c. infectious complication	1
+publication	c.a.w.m.c. s timber talk	1
+compound	c. cl . sncl  three   four   three  c. c one  . a one c one   three 	1
+compound	c. subvermispora aromatic compound	1
+study	c. a. bayly's empire	1
+position	c.a.w. benefit representative	1
+individual	c. s. lewis	2
+individual	c. alice baker	1
+individual	c. y chao	1
+figure	c. desmond greaves	2
+figure	c. p. snow	1
+figure	c. i. lewis	1
+figure	c. asinius pollio	1
+leader	c. r. das	1
+leader	c. c. olin	1
+leader	c. peter wagner	1
+leader	c. phillip johnson	1
+musician	c. eschenbach	1
+innovation	c. academic innovation	1
+cause	c.difficile ect.	1
+team	c. top notch team	1
+substance	c.sub. twelve - eighteen  alkylbenzene sulfonates 	1
+substance	c. parvum	1
+entity	c.i.a's directorate of science	1
+country	c.n.atucha ii in argentina	1
+country	c. american country	1
+country	c.n.laguna verde in mexico	1
+style	c.v	1
+researcher	c. tsai	2
+researcher	c. roser	1
+researcher	c. leigh broadhurst	1
+researcher	c. switzer	1
+researcher	c. hughes	1
+researcher	c. lloyd morgan	1
+researcher	c. ford runge	1
+researcher	c. loring brace	1
+concern	c.i.e.	1
+variety	c. blue pearl	1
+variety	c. maximum variety	1
+variety	c. selloana pumila for smaller space	1
+animal	c. elegans	11
+animal	c. ornata	1
+animal	c. an animal	1
+animal	c. elegans worm	1
+standard	c. in engineering	1
+show	c.s.i	2
+show	c.s.i.	2
+show	c.i.d	1
+critic	c. wright mills	2
+critic	c. m. bowra	1
+label	c.i.a	1
+department	c.i.a	1
+department	c. government department	1
+risk factor	c. trachomatis	1
+article	c.	1
+disorder	c. systemic disorder	1
+magazine	c.  one thousand nine hundred and sixty-eight 	1
+magazine	c.  one thousand nine hundred and eighty-three 	1
+magazine	c.  one thousand nine hundred and ninety-three 	1
+provider	c. integrate external content provider	1
+color	c. neutral color	1
+report	c. summary report	1
+report	c.a.u.s.e study	1
+professional	c.i.a.	1
+protein	c. elegans ced- nine 	1
+protein	c. elegans ced- four 	1
+addition	c. attached addition	1
+herb	c. palustris	1
+pattern	c. number theory pattern	1
+record	c.  nine 	1
+luminary	c. s. lewis	2
+algorithm	c. encryption algorithm	1
+series	c. s. lewis's chronicles of narnia	6
+charge	c.o.d.	1
+charge	c. nonrefundable charge	1
+offering	c.j. s bus	1
+platform	c. elevating work platform	1
+fish	c. undulatus	1
+fish	c. polylepis	1
+fee	c.o.d.	2
+local attraction	c.	1
+composer	c.p.e bach	1
+provision	c. procured from spain	1
+historian	c. vann woodward	3
+historian	c. northcote parkinson	2
+historian	c. kephart	2
+historian	c. martin wilbur	1
+historian	c. a. bayly	1
+historian	c. r. fay	1
+organism	c. elegans	57
+organism	c. albicans	6
+organism	c.elegans	3
+organism	c. dif	1
+organism	c. elegansand drosophila melanogaster	1
+organism	c. trachomatis	1
+organism	c. riparius	1
+organism	c. fetus	1
+organism	c.difficile	1
+crop	c. tender vegetable	1
+association	c. other ``respectable'' anti-slavery association	1
+problem	c. client problem	1
+teacher	c. f. andrews	1
+personality	c.j.	1
+authority	c. wright mills	1
+guy	c.m punk	1
+theorist	c. wright mills	1
+theorist	c. d. broad	1
+fact	c.v.	1
+director	c. douglas dillon	1
+raw material	c.i.	1
+raw material	c.i. casting	1
+raw material	c.s. casting	1
+forum	c. henry smith lecture	2
+forum	c. henry smith mennonite peace lecture	1
+veteran	c. n. annadurai	1
+government agency	c.i.a	1
+gene	c.elegans rna gene	1
+society	c. examine pre-columbian society	1
+creature	c. an creature	1
+collection	c.politis collection	1
+poet	c. day lewis	1
+poet	c. k. williams	1
+poet	c.d.wright	1
+poet	c. r. avery	1
+community event	c.a.s.t for kids	1
+commentator	c. k. barrett	2
+commentator	c. f. delaney	1
+commentator	c. h. dodd	1
+infection	c. diff	3
+infection	c. difficile intestinal infection	1
+suspect	c.s lewis	1
+notable	c. peter wagner	3
+specialist	c. marcel	3
+professional organization	c. h. robinson worldwide ltd.	1
+personal information	c.v	1
+insect	c. capitata	1
+issue	c.o.d.	1
+issue	c.o.d. salvage	1
+thinker	c. wright mills	1
+thinker	c. p. cranch	1
+thinker	c. s. lewis	1
+hit	c.r.a.z.y	1
+household name	c. s. lewis	1
+TV show	c.s.i.	2
+photographer	c. diane williams	1
+photographer	c. f. walters	1
+photographer	c. e. watkins	1
+solvent	c.most volatile solvent	1
+analyst	c. ford runge	2
+shrub	c. nigricans	1
+fighter	c. viper	1
+philosopher	c. a. bowers	1
+enzyme	c. non-thermostable enzyme	1
+worker	c. h. gilbert	1
+worker	c. b. boss	1
+worker	c. t. regan	1
+notable exception	c. h. spurgeon	1
+assignment	c. special assignment	1
+number	c. lupus the dusky wolf	1
+gas	c. sub . two  f. sub . six 	3
+gas	c. inclusive, inert gas	1
+population	c. virginica populations from the atlantic	1
+heroes	c. s. lewis	1
+reference	c. hames	1
+reference	c. kittel	1
+qualification	c.p.a.	2
+genus	c. pocillum	1
+resident	c. f. goldman	1
+predator	c. maculata	1
+kind	c. pumila	1
+weed	c. iria	1
+acid	c.sub. one -c. sub. three -carboxylic  acid 	1
+pathogen	c. albicans	8
+pathogen	c.difficile	2
+pathogen	c.perfringens	1
+pathogen	c. parvum	1
+board	c.itoh terminal keyboard	1
+grass	c. coloratus	1
+conductor	c. abbado	1
+plant species	c. quinoa	1
+plant species	c. indicum	1
+community activity	c.a.s.t for kids	1
+painting	c.  one thousand nine hundred and thirty-four 	1
+architect	c. emiliano amann	1
+architect	c. a. doxiadis	1
+catalyst	c.an acid catalyst	1
+catalyst	c.a transesterification catalyst	1
+observer	c. neal tate	1
+observer	c. everett koop	1
+guest speaker	c. l. r. james	1
+vessel	c. containing liquid	1
+answer	c. beaver post	1
+supporter	c. richard lyttle	1
+native species	c. grandis	1
+native species	c. junos	1
+certification	c.p.r.	1
+certification	c. professional certification	1
+management practice	c. best management practice	1
+imaging technique	c.t. scanning	2
+imaging technique	c. t. scanning	1
+item	c.d. s containing corrupted datum	1
+historical figure	c. s. lewis	1
+base	c. andan organic base	1
+taxa	c. inconspicua	2
+school activity	c.h.a.l.k. board	1
+video game	c.o.d.	1
+convention	c. language convention	1
+microorganism	c. pneumonia	1
+seed	c. non-free-flowing seed	1
+branch	c.i.d	1
+toxin	c. botulinum c two  toxin 	1
+toxin	c. bot toxin	1
+item	c.f.i. s	1
+item	c.b.	1
+item	c.b. radio	1
+item	c.v joint	1
+item	c.d. s	1
+academic	c. l. cole	2
+student organization	c. registered student organization	1
+common species	c. serpentina	2
+degree	c.a.t.	1
+television program	c.s.i	1
+derivative	c. florida	1
+infectious disease	c. infectious disease	1
+infectious disease	c. albicans-caused brain infection	1
+strength	c. mechanical strength	1
+host	c. florida	1
+host	c. cerevisiae	1
+syndrome	c. clinical syndrome	1
+post	c.o. of northern command	1
+bar	c. a long bar	1
+fungus	c. albicans	12
+fungus	c. coccodes	1
+builder	c. stewart knudsen & sons	1
+fish species	c. apogon	1
+water	c. ocean water	1
+parasite	c. parvum	2
+big event	c.i.a.a tournament in charlotte	1
+owner	c. h. shackelford of shackelford's restland	1
+bacterium	c. trachomatis	1
+bacterium	c.diff	1
+invasive procedure	c.t.-guided biopsy	1
+theologian	c. f. h. henry	1
+browser	c. an internet browser	1
+distributor	c. bruno	1
+government department	c. government department	1
+intellectual	c. s. lewis	1
+intellectual	c. wright mills	1
+cultivars	c. bivittatus cultivars	1
+gallery	c.a.v.e gallery in venice	1
+federal program	c. guide federal program	1
+green	c. spring green	1
+great name	c. b. cochran	1
+invertebrate	c. elegans	13
+invertebrate	c.elegans	3
+human factor	c. human factor	1
+operating parameter	c.t. ratio	1
+dye	c. i. direct blue  one 	2
+dye	c. i. direct blue  two 	2
+soft skill	c.v. writing	1
+girl	c.c.	1
+reptile	c. horridus	1
+drama	c. don bastian's romeo	1
+alloy	c. tough alloy	1
+small molecule	c.sub. two - ten  alcohol 	1
+organic solvent	c.sub. five - ten  hydrocarbon 	1
+organic solvent	c. sub . one  - c. sub . five  alcohol 	1
+landscape	c.  one thousand eight hundred and eighty-two 	1
+communication device	c.b. radio	2
+pursuit	c. active recreational pursuit	1
+proponent	c. boyden gray	1
+proponent	c. peter wagner	1
+flowering plant	c. papaya	1
+legume	c. pubescens	1
+legume	c. cajan	1
+marking	c.m.	1
+control device	c. neighborhood traffic control device	1
+small mammal	c. parva	1
+abbreviation	c.o.d	1
+abbreviation	c.o.d.	1
+adjuvants	c.parvum	1
+strain	c. miniata belgium strain	1
+strain	c. difficile pcr ribotype  twenty-seven 	1
+strain	c. elegans strain	1
+industry expert	c. peter waegemann	1
+investigator	c. daniel batson	1
+area	c. s. lewis nature reserve in risinghurst	1
+area	c.i.a.	1
+area	c. & s. america	1
+commercial service	c.c.t.v. system	1
+best management practice	c. best management practice	1
+powerful tool	c.d.p. techniques in the field	1
+cast member	c. aubrey smith	1
+monomer	c. alkyl acrylate monomer	1
+construction activity	c. construction activity	1
+standout	c.j wilson	1
+faculty member	c. d. haynes	1
+content provider	c. integrate external content provider	1
+certificate	c.d	1
+exam	c. test	1
+representative	c. rangel	1
+collector	c. b. corwin	1
+collector	c. montague cooke	1
+common service	c. three  common service common service 	1
+payment option	c.o.d.	1
+payment option	c.o.d	1
+sociologist	c. wright mills	1
+vine	c. grandis	1
+component part	c.f. fins & rudder	1
+print	c.  one thousand nine hundred and two 	2
+garden	c. melvin sharpe health school garden	1
+administrator	c. m. newton of kentucky	1
+advanced method	c.d.	1
+exposure	c. difficile infection	1
+great writer	c. wright mills	1
+great writer	c. s. lewis	1
+contemporary writer	c. day lewis's with narnia	1
+analytes	c. trachomatis lps	1
+charity event	c.a.s.t. for kid	1
+plant extract	c. alata	1
+weed species	c. arvensis	1
+killer	c.difficile	1
+famous writer	c. s. lewis	1
+preacher	c. h. spurgeon	1
+radical	c.sub. one -c. sub. thirty -hydrocarbon  radical 	1
+fossil	c. jurcalispinum from the paleocene	1
+neutral color	c. neutral color	1
+service	c.o.d.	3
+microbe	c. albicans	1
+attorney	c. c. burlingham	1
+sightseeing attraction	c. sightseeing attraction	1
+senior player	c. lipson	1
+degenerative disease	c. neoformans meningoencephalitis	1
+Large species	c. arabica	1
+church leader	c. peter wagner	1
+famous singer	c. bergonzi	1
+famous person	c. abbado	1
+Forbs	c. erecta	1
+sculptor	c. c. mulligan	1
+woody species	c. col linum	1
+service facility	c. service facility	1
+literary device	c. imagery	1
+health indicator	c. difficile infection rate	1
+pilot	c. alfred anderson	1
+temporary structure	c. temporary structure	1
+isotope	c. including the c- twelve 	1
+trader	c. n. cotton	1
+youth group	c.a.r. society	1
+factor	c. albicans infection	1
+factor	c. pseudotuberculosis infection	1
+factor	c. human factor	1
+factor	c. neoformans virulence factor	1
+alga	c. vulgaris	1
+couple	c.j	1
+great thinker	c. s. lewis	1
+popular theme	c.s.i.	1
+life form	c. al- bicans	1
+national leader	c. rajagopalachari	1
+perennial weed	c. rotundus through desiccation of tuber	2
+bishop	c. h. phillips	1
+aromatic compound	c. subvermispora aromatic compound	1
+perennial grass	c. ciliaris	1
+genetic condition	c. genetic condition	1
+sealant	c. other sealant	1
+virulence factor	c. neoformans virulence factor	1
+anionic surfactants	c.sub. twelve - thirteen  alkyl sulfate derived from safol.tm 	1
+anionic surfactants	c.sub. twelve - thirteen  alkyl sulfate derived from safol 	1
+influential figure	c. v. rajagopalachari	1
+professional qualification	c.a	1
+professional certification	c. professional certification	1
+substituents	c.sub. one - six  alkyl substituents 	1
+substituents	c.sub. one - ten  alkyl 	1
+systemic disorder	c. systemic disorder	1
+christian writer	c. s. lewis the chronicles of narnia	1
+christian writer	c. s. lewis	1
+model system	c. elegans	5
+model system	c.elegans	2
+absence	c. partial absence	1
+example	c. use fossil example	1
+close friend	c. s. mein	1
+bacterial pathogen	c. psittaci	1
+documentary evidence	c.a's certificate for the same	1
+great mind	c. p. snow	1
+pick	c.r.e.a.m.	1
+american author	c. ray jeffery	1
+lighting	c. no special lighting	1
+pastor	c. j. mahaney	1
+projection	c. ordinary building projection	1
+inert gas	c. inclusive, inert gas	1
+therapeutic technique	c. therapeutic technique	1
+yeast	c. albicans	6
+indigenous species	c. gamblei	1
+indigenous species	c. thwaitesii	1
+mass	c. benign mass	1
+portrait	c.  one thousand eight hundred and ninety-seven 	1
+auto accessory	c.v. boot nut	1
+great author	c. s. lewis	1
+world class player	c.ronaldo	1
+respondent	c.c.	1
+traffic control device	c. neighborhood traffic control device	1
+political scientist	c. herman pritchett	1
+service	c. three  common service common service 	1
+service	c.o.d. consignment	1
+service	c.d. release party	1
+long-lived species	c. atrox	2
+pregnancy complication	c. pregnancy complication	1
+alkyl group	c.sub. one - twenty  alkyl group 	1
+alkyl group	c.sub. four - five  alkyl group 	1
+alkyl group	c.sub. one - eight  alkyl 	1
+alkyl group	c.sub. one - three  alkyl group 	1
+collective	c.o.c.	1
+electronic instrument	c. electronic instrument	1
+construction company	c.s.& w. contractors inc. of phoenix	1
+mobile communication device	c.b. s	2
+consumable material	c. i. manhole cover	1
+fashion label	c.p company	1
+mayor	c. j. parr	1
+senior figure	c. k. stead	1
+senior figure	c. subramaniam	1
+commercial species	c. gigas	1
+traveller	c. lebrun	1
+invertebrate species	c. elegans	2
+laxative	c. osmotic laxative	1
+emergency procedure	c.p.r.	1
+archival material	c. r. cockrell's diary from riba	1
+eukaryotes	c. elegans	1
+reactive gas	c.sub. four  f.sub. eight  gas 	1
+topic	c.v. information	2
+naturalist	c. moore	1
+industry analyst	c.e.o. of pkf consulting in san francisco	1
+pathogenic organism	c. botulinum	1
+pathogenic organism	c. fetus	1
+pathogenic organism	c. parvum	1
+booth	c. p. bourg	1
+germ	c. diff	1
+model organism	c. elegans	26
+model organism	c. elegans nematode	2
+veteran actor	c. aubrey smith	1
+coating process	c.certain subsequent coating process	1
+coating process	c.certain subsequent conformal coating process	1
+intergovernmental organization	c. international intergovernmental organization	1
+acid catalyst	c.an acid catalyst	1
+programming concept	c. object-oriented programming concept	1
+rare plant species	c. peruvianus	2
+organic base	c. andan organic base	1
+evangelist	c. peter wagner	1
+vascular plant	c. seedless vascular plant	1
+leftist	c. george benello	1
+outstanding artist	c.w stoneking	2
+school board	c. s. lewis academy	1
+halides	c.sub. two - four  carboxylic acid halides 	1
+volatile solvent	c.most volatile solvent	1
+internet browser	c. an internet browser	1
+apologist	c. s. lewis	1
+topic	c.v writing workshop	1
+nematode	c. elegans	6
+harmful contaminant	c. botulinum	2
+trading company	c. itoh & co.	2
+hardware manufacturer	c. cowles & co.	1
+host cell	c. cerevisiae	1
+resistant material	c.p. titanium	1
+respected organization	c.a.l.m.	1
+plant pathogen	c. gramineum nisikado et ikata	1
+plant pathogen	c. gregatum allington et chamberlain	1
+psychiatrist	c. wernicke	1
+STDs	c. trachomatis	3
+recreational pursuit	c. active recreational pursuit	1
+gastrointestinal side effect	c. difficile associated diarrhea	2
+clinical syndrome	c. clinical syndrome	1
+simple organism	c. elegans	4
+simple organism	c. albicans	1
+encryption algorithm	c. encryption algorithm	1
+opportunistic pathogen	c. parvum	1
+opportunistic pathogen	c. albicans	1
+real estate developer	c. perry snell	1
+slave	c. former slave	1
+psychoanalyst	c. naranjo	2
+ancestor	c. williams	1
+small firm	c. w. fletcher	1
+characteristic species	c. leptoporus	1
+christian author	c. s. lewis	7
+prominent Americans	c. woodbridge	1
+qualified person	c.h.e.k institute-trained professional	1
+genome	c. elegans	2
+genome	c.elegans	1
+multicellular organism	c. elegans	1
+comonomers	c.sub. four - six  alkenes 	3
+invertebrate animal	c. elegans	3
+idiot	c. wilson	1
+pudding	c. salt	1
+communist leader	c. b. cowan	1
+crime show	c.s.i	1
+restoration	c. two hundred and five v mm ninety-one thousand eight hundred and eighteen  at museo nazionale della scienza 	1
+endowment	c. i. buxton	1
+STIs	c. trachomatis	2
+experimental model	c. elegans	1
+handbook	c. seases's conservation manual for the field archaeologist	1
+lichen	c. cucullata	1
+lichen	c. nigrescens	1
+protozoan parasite	c. parvum	2
+infomation	c.v	1
+intelligence agency	c.i.a.	1
+pathogenic fungus	c. albicans	2
+Warm water species	c. chromis	1
+accessory material	c. accessory material	1
+eukaryotic organism	c. elegans	1
+infectious complication	c. infectious complication	1
+auto spare part	c. v. joint	3
+highest quality brand	c.h.i. door	2
+special-interest group	c. special-interest group	1
+company	c.a	1
+company	c.i.t group in connection with the sublease of aircrafts tomoroccan company	1
+company	c. r. bard	1
+company	c. crane	1
+pathogenic bacterium	c. diff	1
+irish writer	c. s. lewis	1
+pathogenic species	c. botulinum	2
+pathogenic species	c. albicans	1
+public intellectual	c. vann woodward	1
+washer	c. larger part washer	1
+common abbreviation	c.	1
+leading product	c.v joint	1
+orchid species	c. damasonium	1
+orchid species	c. rubra	1
+secondary outcome measure	c. difficile infection	1
+hybrid variety	c. lanuginosa	1
+industry award	c. everett koop national health award	1
+auditor	c.c yang & co	1
+anhydrides	c.sub. two - four  carboxylic acid anhydrides 	1
+interest activity	c. employee interest activity	1
+pragmatist	c. s. peirce	1
+young child	c.	1
+combustible gas	c. sub . two  h. sub . four 	1
+habitat generalist	c. castanea	1
+initial	c.o.d.	1
+colloidal particle	c. parvum oocysts	1
+orator	c. the older greek orator	1
+loyalist	c.c lee	1
+annual legume	c. juncea	1
+Fullerenes	c. sub . seventy 	2
+Fullerenes	c. sub . seventy-six 	2
+Fullerenes	c. sub . eighty-four 	2
+Fullerenes	c. sub . sixty 	2
+Fullerenes	c. sub . seventy-eight 	2
+industry notable	c.k. for obsessable	1
+sectarian group	c. l. p. of germany	1
+self-employed professional	c.a	1
+civil right activist	c. vernon mason	1
+civilian agency	c.i.a.	2
+congress leader	c. rajagopalachari	6
+indian leader	c. rajagopalachari	1
+eminent writer	c. radhakrishnan	1
+anaerobic organism	c. botulinum	3
+bibliography	c. read	1
+coding	c. special coding	1
+reformed theologian	c. van til	1
+saturated hydrocarbon	c.sub. four  h.sub. ten  gas 	1
+up-and-coming star	c. thomas howell in the outsiders	2
+psychotherapist	c. dowling	1
+water quality characteristic	c. water quality characteristic	1
+harmful bacterium	c.diff	1
+local lake	c. j. brown	1
+modern critic	c. w. lasalle ii	1
+american historian	c. vann woodward	1
+large shark	c. carcharias	1
+Understorey species	c. aculeata	1
+workman	c. &c. in the neighborhood	1
+acrylates	c.sub. one -c. sub. eight -hydroxyalkyl acrylates 	1
+intracellular parasite	c. parvum	1
+aryl group	c.sub. six - ten  aryl group 	1
+aryl group	c.sub. six - fourteen  aryl group 	1
+denaturants	c. denaturing buffer denaturants	1
+intestinal infection	c. difficile intestinal infection	1
+phytopathogenic fungus	c. parasitica	1
+activity	c. employee interest activity	1
+activity	c. construction activity	1
+theist	c. stephen evans	1
+Asian species	c. azarolus l.	1
+dispensationalists	c. f. hogg	1
+distantly related species	c. albicans	1
+pernicious weed	c. vulgare	1
+respected brand name	c. j. vander	1
+chief minister	c. h. mohameed koya	1
+chief minister	c. h. mohammed koya	1
+indian scholar	c. raja mohan	1
+Polychaetes	c. capitata	1
+metazoans	c. elegans	1
+osmotic laxative	c. osmotic laxative	1
+Reactive diluents	c.sub. two - twenty  aliphatic 	1
+trading house	c. itoh corp.	1
+primitive organism	c. elegans	1
+activity	c.o.p.e.	1
+indicator plant	c. quinoa	1
+official title	c. official title	1
+billing option	c.o.d	1
+crab species	c. pagurus	1
+freelance site	c. hope clark's blog	1
+guitar maker	c. f. martin	2
+multi-cellular organism	c. elegans	2
+Pathogenic micro-organisms	c. albicans	1
+primitive species	c. vulgaris	1
+prominent atheist	c. hitchens	1
+renewable energy device	c. renewable energy device	1
+famous preacher	c. h. spurgeon	1
+transesterification catalyst	c.a transesterification catalyst	1
+benign mass	c. benign mass	1
+detective show	c.s.i	1
+film scholar	c. wees	1
+low molecular weight hydrocarbon	c. sub . two  to c. sub . four  chlorinated hydrocarbon 	1
+summary report	c. summary report	1
+unrelated species	c. echinus	2
+Alkali metal alcoholates	c. sub . two  h. sub . five  ona 	3
+information	c. difficile case	1
+information	c.v. s	1
+atypical organism	c. trachomatis	1
+closely related organism	c. albicans	2
+former	c. bulk former	1
+high-profile leader	c. peter wagner	1
+intermediate chemical	c.	1
+microbial agent	c. parvum	1
+non-native weed	c. iria	1
+object-oriented programming concept	c. object-oriented programming concept	1
+operating area	c.i.s.	1
+testament scholar	c. f. d. moule	1
+XML format	c.	1
+agroforestry system	c. odorata	1
+Basidiomycetes	c. cinerea	1
+ectothermic animal	c. elegans	1
+great soccer superstar	c. ronaldo	1
+religious document	c. religious document	1
+work platform	c. elevating work platform	1
+year scholar	c. marshall	1
+Bacterial STDs	c. trachomatis	1
+cam plant	c. cam plant	1
+genetic system	c.elegans	2
+local support service	c.a.b. solicitor	1
+acclaimed singer	c. ashwath	1
+american country	c. american country	1
+american philosopher	c. s. peirce	1
+american sociologist	c. wright mills	2
+atypical pathogen	c. albicans	1
+chain alcohol	c.sub. four - fifteen  alcohol 	1
+entomologist	c. v. riley	2
+input technology	c. new input technology	1
+invasive tree species	c. pubescens	1
+simple model organism	c. elegans	7
+simple model organism	c. elegansand drosophila	1
+algebraic method	c. use algebraic method	1
+alkanoyl group	c.sub. one - five  alkanoyl group 	1
+alkanoyl group	c.sub. one - six  alkanoyl group 	1
+building projection	c. ordinary building projection	1
+distinctive species	c. cinerea	1
+eukaryotic microbe	c. elegans	2
+exegetes	c. f. d. moule	1
+selected feature	c. selected feature	1
+acrylate monomer	c. alkyl acrylate monomer	1
+alkanol	c.sub. one - six  alkanol 	1
+complex eukaryotes	c. elegans	2
+crime series	c.s.i	1
+embryo	c. elegans	1
+language convention	c. language convention	1
+spring green	c. spring green	1
+active recreational pursuit	c. active recreational pursuit	1
+british scholar	c. h. dodd	1
+Candida species	c. albicans	7
+Candida species	c. albicans  three thousand one hundred and fifty-three a 	1
+Candida species	c. albicans b three hundred and eleven 	1
+cycloalkyl group	c.sub. three - ten  cycloalkyl 	2
+cycloalkyl group	c.sub. three - six  cycloalkyl 	1
+cycloalkyl group	c.sub. three - six  cycloalkyl group 	1
+manuscript material	c. louis leipoldt collection	1
+safe payment method	c.o.d	1
+single variety	c. jackmani alba	1
+trade term	c.&f.	1
+transgenic non-human animal	c. elegans	5
+B&M store	c. city	1
+delivery condition	c.i.f.	1
+pelagic shark	c. longimanus	1
+short term action	c.m.e. initiative	1
+union representative	c. j. wilson of the south bay labor council	1
+wild relative	c. metuliferus e. meyer ex naudin	1
+alkylcarbonyl group	c.sub. two - six  alkylcarbonyl group 	1
+animal model system	c. elegans	1
+dimorphic fungus	c. albicans	1
+email domain	c.com	1
+endophytes	c. rosea	2
+human pathogenic fungus	c. albicans	1
+hydrogen-containing gas	c. sub . two  h. sub . six 	1
+Indo-Pacific species	c. gracilipes de man	1
+international intergovernmental organization	c. international intergovernmental organization	1
+mechanical strength	c. mechanical strength	1
+non-musical influence	c.s.lewis	1
+notable management scholar	c. k. prahalad	1
+orchestra director	c. hogwood	1
+popular television drama	c.s.i.	1
+process thinker	c. hartshorne	1
+vehicle property	c.g. location	1
+american researcher	c. k. bolton	1
+business title	c.e.o.	1
+carboxylic acid anhydrides	c.sub. two - four  carboxylic acid anhydrides 	1
+clematis	c. alpina	3
+crystal growth technique	c. conventional crystal growth technique	1
+invertebrate model	c. elegans	5
+popular music director	c. ramchandra	1
+prominent american painter	c. r. leslie	1
+thistle	c. canescens nutt	1
+abstract conception	c.  eight  marsh 	2
+Campylobacter species	c. fetus	1
+Campylobacter species	c. concisus	1
+Campylobacter species	c. sputorum	1
+Campylobacter species	c. mucosalis	1
+Campylobacter species	c. lari	1
+conformal coating process	c.certain subsequent conformal coating process	1
+dental chew	c.e.t. chew	1
+modern academic	c. c. torrey	1
+program	c.a.r.e.	1
+program	c.e.o.workshop series	1
+program	c.o.p.e.	1
+program	c.c.c	1
+program	c. elegans genetic center	1
+program	c. guide federal program	1
+Petrocrops	c. procera	1
+Petrocrops	c. gigantea	1
+registered student organization	c. registered student organization	1
+research animal	c. elegans	1
+successful TV series	c.s.i	1
+theosophist	c. w. leadbeater	1
+aralkyl group	c.sub. seven - thirteen  aralkyl group 	1
+cf-based gas	c.sub. two f.sub. six  gas 	1
+cf-based gas	c.sub. three f.sub. eight  gas 	1
+cf-based gas	c.sub. four f.sub. eight  gas 	1
+cf-based gas	c.sub. four f.sub. six  gas 	1
+common alien	c. horizonlalis	1
+deciduous variety	c. horizontalis	1
+early-flowering species	c. alpina	1
+early-flowering species	c. montana	1
+great African Americans	c. powell doing the same	1
+invertebrate model organism	c. elegans	3
+lady slipper	c. reginae	1
+non-free-flowing seed	c. non-free-flowing seed	1
+online account information	c.c. info	1
+ordinary building projection	c. ordinary building projection	1
+palatable grass	c. setigerus	1
+program	c.s.i	1
+senior china scholar	c. m. lau	1
+bulk milk cooler dairy equipment	c.i.p system	1
+catholic apologist	c. s. lewis	1
+cultural entrepreneur	c. b. cochran	1
+ephemeroids	c. solida	1
+genetic model organism	c. elegans	2
+medium unit	c.d	1
+microfiber product	c. microfiber product	1
+pioneering intellectual	c. l. r. james	1
+popular account	c. w. ceram	1
+real hiphop artist	c.l smooth	1
+seedless vascular plant	c. seedless vascular plant	1
+statutory amendment	c.  four hundred and seventy-two 	1
+statutory amendment	c.  four hundred and fourty-two 	1
+statutory amendment	c.  one hundred and thirty 	1
+well-known theologian	c. h. dodd	1
+young zydeco musician	c. j. chenier	5
+academic innovation	c. academic innovation	1
+alkyl substituents	c.sub. one - six  alkyl substituents 	1
+area notable	c. ford riley	1
+clostridial toxin	c. septicum alpha toxin	1
+clostridial toxin	c. tetani toxin	1
+commercially available alpha olefin fraction	c.sub. twelve - eighteen  alpha-olefins 	1
+commercially available alpha olefin fraction	c.sub. fourteen - fourteen   sixteen  alpha-olefins 	1
+commercially available alpha olefin fraction	c.sub. fourteen - eighteen  alpha-olefins 	1
+commercially available alpha olefin fraction	c.sub. sixteen - eighteen  alpha-olefins 	1
+commercially available alpha olefin fraction	c.sub. twelve - sixteen  alpha-olefins 	1
+curriculum book	c. j. key concepts for understanding curriculum	1
+Cycloaliphatic halides	c. sub . five  - c. sub . six  aliphatic halides 	4
+fruticose lichen	c. islandica	1
+genetically tractable model organism	c. elegans	1
+genetically tractable organism	c. elegans	2
+high-connectivity models	c. elegans	1
+internationally acclaimed show	c.s.i	1
+large and flourishing town	c. florence	1
+live embryo	c. elegans	1
+Massive species	c. leptoporus	1
+Ministerial brethren	c. r. perry	1
+neotropical species	c. repens schltdl.	1
+neotropical species	c. jutiapensis croizat	1
+non-aquatic plant	c. odorata	1
+non-nigerian anthropologist	c. k. meek	1
+powerful outfit	c. v. whitney	1
+pulp fiction writer	c. m. miller	1
+rattan species	c. gracilis roxb	1
+rattan species	c. nambariensis var	1
+scholar activist	c. l. r. james	1
+Stabile-Top-Thinkers	c. k. prahalad	2
+time species	c. capitata	1
+Acidophilous and oligotrophic species	c. nigra	1
+alkali alcoholates	c. sub . two  h. sub . five  ona 	1
+alkoxycarbonyl group	c.sub. one - four  alkoxycarbonyl group 	1
+alkynyl group	c.sub. two - three  alkynyl group 	1
+animal model organism	c. elegans	1
+baptist giant	c. h. spurgeon	1
+carbon fluoride compound	c. sub . two  f. sub . six 	1
+carbon fluoride compound	c. sub . three  f. sub . eight 	1
+Christian Right bioLuddites	c. ben mitchell	1
+Clostridium species	c. botulinum	1
+commerce raider	c.s.s sumter	1
+contemporary black author	c. kelly robinson	1
+divergent philosopher	c. i. lewis	1
+eminent evolutionist	c. h. waddington	1
+enterprising man	c. davis	1
+organization	c.m.l.	1
+organization	c.n.c. organization	1
+organization	c.r.c. for irrigation future	1
+organization	c. registered student organization	1
+organization	c. international intergovernmental organization	1
+organization	c.i.s.	1
+organization	c.a.m.p.	1
+example unsaturated compound	c.sub. six - twenty  olefins 	2
+experienced evangelist	c. d. brooks	1
+flowered plant	c. sasanqua	1
+genetic organism	c. elegans	1
+genetically tractable model system	c.elegans	1
+government scientist	c. d. walcott	1
+human-pathogenic fungus	c. albicans	1
+immense structure	c. d. howe building	1
+longtime UFC champion	c. liddell	1
+michigan entrepreneur	c. s. mott	1
+muslims group	c.a.i.r demand tolerance	1
+nar's A' list prophet	c. peter wagner	1
+national and local artist	c. susan ferraro	1
+nautical novel	c. northecotte parkinson's sea novel	1
+neighborhood traffic control device	c. neighborhood traffic control device	1
+nonstructural practice	c. riparian buffer	1
+nurse researcher	c. s. burckhardt	5
+prominent tycoon	c. p. huntington	1
+reed species	c. rostrata	1
+reputable piano manufacturer	c. bechstein of germany	1
+serious author	c. s. lewis	1
+snakeheads	c. orientalis	1
+spanish scholar	c. garcia de la riega	1
+specialty report	c.l.u.e. report from lexisnexis	1
+vege-dro table acid	c. di- luted with water	1
+writters	c.s.lewis	1
+yeast isolate	c. vini	1
+acclaimed critical scholar	c. f. d. moule	1
+acylamino group	c.sub. one - three  acylamino group 	1
+alkylthio group	c.sub. one - four  alkylthio group 	1
+aryl-carbonyloxy group	c.sub. six - ten  aryl-carbonyloxy group 	1
+bacterial preparation	c. parvumor streptococcal extract	1
+technique	c. therapeutic technique	1
+technique	c. employ agriculture technique	1
+technique	c. conventional crystal growth technique	1
+best christian philosopher	c. s. lewis	1
+bulk former	c. bulk former	1
+carboxylic acid halides	c.sub. two - four  carboxylic acid halides 	1
+caribbean intellectual	c. l. r. james	1
+charity benefit	c.h.o.c. with carlton burnett productions	1
+Cheilanthes	c. aemula maxon	2
+Cheilanthes	c. microphylla sw.	2
+Cheilanthes	c. wrightii hook.	2
+clostridium strain	c. butyricum	1
+clostridium strain	c. beijerinckii am twenty-one b 	1
+clostridium strain	c. pasteurianum	1
+commercial slide preparers	c. m. topping	1
+contemporary african-american evangelist	c. d. brooks	1
+conventional abbreviation	c.i.a.	1
+corydoras	c. julii	1
+crime television show	c.s.i.	1
+crown world entertainment executive	c.o.b.d trina martin	2
+Cryptoheros	c. septemfasciatus	1
+Cryptoheros	c. cutteri	1
+Cryptoheros	c. altoflavus	1
+Cucumis species	c. anguria	1
+Cucumis species	c. metuliferus e. meyer ex naudin	1
+culicoides species	c. imicola kieffer	1
+developmental model organism	c. elegans	1
+dna-repair protein	c. elegans orthologs of topbp one 	1
+eccentric, detective	c. auguste dupin	1
+eudicot genome	c. melo	1
+eukaryotic genome	c. elegans	1
+Euryhaline elasmobranchs	c. leucas	1
+flea species	c. canis	1
+fluorocarbon gas	c.sub. two  f.sub. six  gas 	1
+ford collaborator	c. harold wills	5
+technique	c. use technique	1
+good all-american pragmatist	c. s. peirce	1
+honolulu hard-to-find line	c. ronson	1
+inexpensively worth fish	c. reba	1
+internationalist contemporary master	c. hartley	1
+invertebrate system	c. elegans	3
+Irish heroes	c.s parnell	1
+italian research institut ion	c. besta neurological institute irccs foundation	1
+italian research institution	c. besta neurological institute irccs foundation	2
+local cultivars	c. liberica	1
+Lowland forest taxa	c. africana	1
+moderate conservative leader	c. m. chavasse	1
+non-thesis program	c.a.s.	1
+organisational learning pioneer	c. otto scharmer	1
+paleotropical species	c. argyratus blume	1
+paleotropical species	c. insularis baill.	1
+paleotropical species	c. macrostachys del.	1
+panoramic work	c.  one thousand four hundred and ninety-four 	2
+part washer	c. larger part washer	1
+perfluoroalkylcarboxylic acid	c.sub. three  f.sub. seven  cooh 	1
+perfluoroalkylcarboxylic acid	c.sub. seven  f.sub. fifteen  cooh 	1
+pharmacy weekend event	c.e.	1
+polyphagous species	c. capitata	1
+popular fantasy narrative	c. s. lewis's chronicles of narnia	1
+prominent oklahoma architect	c. e. hair	1
+real maestro	c. ramchandra	1
+rna gene	c.elegans rna gene	1
+sensible Black	c. rice	1
+shrub legume	c. cajan	1
+somewhat fastidious or fragile organism	c. albicans	1
+spacer group	c.sub. one - six  alkyl 	1
+species pair	c. angaria	1
+student-athlete service	c.a.t.s. program	1
+surveillance initiative	c. difficile associated disease	1
+tatums resident	c. l. anderson	1
+tephritids	c. capitata	1
+top notch team	c. top notch team	1
+traditional cover species	c. pubescens	1
+traditional health care facility	c. tucker health center	1
+umbelhferous plant	c. in august	1
+veteran officeholder	c. ellen connally	1
+yeast system	c. albicans	1
+Zingiberaceous species	c. parviflora wall	1
+20th century apologist	c. s. lewis	1
+aberdeenshire maker	c. smith	1
+absolute idealist	c. c. j. webband henry jones	1
+additonal course	c.p.r.	1
+agassiz's name	c. emarginatus	1
+albumen print	c.  one thousand eight hundred and eighty-five - ninety  bonfils photograph of an octopus fisherman near mt. carmel 	1
+albumen print	c.  one thousand nine hundred and twenty  lehnert & landrock image of bedouin nomads on camel 	1
+ambitious citizen	c. f. holden	1
+arylsulfonyl group	c.sub. six - ten  arylsulfonyl group 	1
+Asian taxa	c. macrophylla	1
+Asian taxa	c. bardunovii popov ex lomonosova	1
+bacterial and parasitic genital infection	c. trachomatis	1
+british art & craft designer	c.f.a voysey	1
+C.P.A company	c.p.a. lead	1
+name	c.	2
+name	c. falconeri	1
+name	c. h. toy	1
+name	c. h. wheeler	1
+name	c. h. patterson	1
+name	c. rajagopalachari	1
+name	c. mariae	1
+name	c. vernon mason	1
+name	c. c. sabathia	1
+carbon fluoride gas	c.sub.xf.sub.x gas	1
+carbon fluoride gas	c.sub.ah.sub.bf.sub.c gas	1
+caucasian bell	c. saxifraga	1
+China-watchers	c. fred bergsten	2
+classical dispensationalists	c. i. scofield	1
+close follower	c. rajagopalachari	1
+college music program	c.w post	1
+complex model organism	c. elegans	1
+Cryptosporidium species	c. felis	2
+Cryptosporidium species	c. canis	2
+Cucurbita species	c. maximum	1
+curious MSS.	c.  one thousand three hundred and eighty-two 	1
+developmental geneticist	c. h. waddington	1
+diploid fungus	c. albicans	1
+diploid pathogen	c. albicans	1
+distinguished male supporter	c. b. fry	1
+divergent organism	c.elegans	1
+dominion theologian	c. peter wagner	1
+dress scholar	c. cody collins	2
+economic investment	c.u.b development	1
+employee interest activity	c. employee interest activity	1
+endless device	c.	1
+ethnicity-limited mutation	c. two thousand one hundred and seventy-five dupa in african americans 	1
+ethnicity-limited mutation	c. three thousand seven hundred and fourty-four dela in hispanics 	1
+exclusive anime character	c. blue jr. into the mix	1
+exotic cycads	c. siamensis	1
+exotic cycads	c. revoluta	1
+external content provider	c. integrate external content provider	1
+name	c. thomas howell	1
+name	c. walter porter	1
+name	c. s. lewis	1
+name	c. b. dabney	1
+name	c.h.	1
+faster-growing macro	c. taxifolia	1
+first class native cane	c. caesius	1
+flat-shelled species	c. constricta	1
+flowering dogwood	c. kousa	5
+fourth, organism	c. elegans	1
+fragile aggregate	c. radiatus	1
+free-living nematode	c. elegans	2
+frequent-lytobiological classic	c. m. child	1
+guaymas merchant	c. sandoval	2
+healthcare associated infection	c.difficile	1
+honolulu architect	c.w dickey	1
+honolulu merchant house	c. brewer & co	1
+influential professor	c. west churchman	1
+interspecific hybrid	c. amomum x c. racemosa	1
+invertebrate genetic model	c. elegans	1
+invertebrate host model	c. elegans	1
+italian metaphysical and cubist artist	c. carra	1
+legati	c. antistius	1
+case	c. botulism	1
+case	c.s.lewis	1
+case	c. rugosa lipases w ninety-two x 	1
+case	c.i.t. program at kadima camp	1
+mayonnaise	c. good quality mayonnaise	1
+microscopic nematode	c. elegans in functional high throughput in vivo assays suitable for the detection of inhibitor	1
+nineteenth-century expert	c. bigelow	1
+nonrefundable charge	c. nonrefundable charge	1
+notable mycologist	c. l. shear	1
+notable sociologist	c.wright mills	1
+ocean water	c. ocean water	1
+outstanding protestant evangelical philosopher	c. stephen evans	1
+overpayment	c. housekeeping service	1
+partial absence	c. partial absence	1
+pioneer winemaker	c. h. wente	1
+plant ecologist	c. l. willdenow	1
+poikilothermic animal model	c. elegans	1
+case	c. i. o.	1
+case	c. elegans on groundnut	1
+case	c. californica	1
+preferred implementationuses material	c. sub . two  h. sub . six 	1
+preformed toxin	c. botulinum toxin	1
+premier, large-diameter species	c. manan	1
+Program Description	c.o.p.	1
+progressive researcher	c. w. randolf	1
+Prostrate cotoneasters	c. horizontalis	2
+radical sociologist	c. wright mills	2
+red-flowering cereuses	c. coccineus	1
+red-flowering cereuses	c. speciosissimus	1
+renowned logician	c. s. peirce	2
+representative tetrapolar multiallelic species	c. cinerea	1
+Short-growing species	c. aspera	1
+shrubby dogwood	c. sericea	1
+simple genetic model	c. elegans	1
+small model organism	c. elegans	1
+small pore-forming toxin	c. septicum alpha-toxin	1
+soft-bristled toothbrush	c.e.t. dual-ended toothbrush	1
+source tried and true authority	c. s. lewis	1
+special lighting	c. no special lighting	1
+specialty reading	c. s. lewis day for the kid	1
+specifi c behavior	c.	1
+student-initiated program	c.a.r.e. for carter	2
+SUN protein	c. elegans unc- eighty-four 	1
+text-oriented approach johannine scholar	c. h. dodd	1
+Tissue culture Cytotoxins	c. difficile toxin b	1
+tough alloy	c. tough alloy	1
+transient native Hawaiian piscivores	c. argus forms harem	1
+true acid loving plant	c. grabowski	2
+Typically Zanclean species	c. grandis	1
+unknown face	c. suzane from brazil	1
+vindictive punishment	c. seldom	1
+voluntary communication resource	c.b.	1
+well-established genetic model system	c. elegans	1
+XRs	c. tropicalis xr	1
+acrylatemonomers	c. alkyl acrylatemonomers	1
+AE100	c.v joint	1
+alkanoylamino group	c.sub. one - four  alkanoylamino group 	1
+alkoxycarbonylamino group	c.sub. one - four  alkoxycarbonylamino group 	1
+alkoxycarbonyloxy group	c.sub. one - four  alkoxycarbonyloxy group 	1
+alkyl acrylatemonomers	c. alkyl acrylatemonomers	1
+alkyloxysulfonyl group	c.sub. one - four  alkyloxysulfonyl group 	1
+alkylsulfinyl group	c.sub. one - four  alkylsulfinyl group 	1
+alkylsulfonyl group	c.sub. one - four  alkylsulfonyl group 	1
+alkylsulfonyloxy group	c.sub. one - four  alkylsulfonyloxy group 	1
+arabic advocate	c. even arabic advocate	1
+aralkylamino group	c.sub. seven - twelve  aralkylamino group 	1
+aralkyloxy group	c.sub. seven - twelve  aralkyloxy group 	1
+aralkyloxycarbonyl group	c.sub. seven - twelve  aralkyloxycarbonyl group 	1
+aralkyloxysulfonyl group	c.sub. seven - twelve  aralkyloxysulfonyl group 	1
+aralkylthio group	c.sub. seven - twelve  aralkylthio group 	1
+arborists	c. way hoyt	1
+arylamino group	c.sub. six - ten  arylamino group 	1
+arylcarbonylamino group	c.sub. six - ten  arylcarbonylamino group 	1
+aryloxy group	c.sub. six - ten  aryloxy group 	1
+aryloxycarbonyl group	c.sub. six - ten  aryloxycarbonyl group 	1
+aryloxysulfonyl group	c.sub. six - ten  aryloxysulfonyl group 	1
+arylsulfinyl group	c.sub. six - ten  arylsulfinyl group 	1
+arylsulfonyloxy group	c.sub. six - ten  arylsulfonyloxy group 	1
+arylthio group	c.sub. six - ten  arylthio group 	1
+automated reflux technique	c.o.d.	1
+awesome Surgeon General	c. everett koop	1
+B. movie icon	c. thomas howell	1
+bacterial gene	c. trachomatis outer membrane protein gene	1
+bacteriocin-producing lactic acid bacterium	c. maltaromaticum cb one 	1
+bacterivorous nematode	c. elegans	2
+basic quality material	c.i.	1
+benthic invertebrate assay	c. riparius	1
+bible expositor	c.i.scofield	1
+bilingual student	c.	1
+bindweed's	c. sylvatica	1
+bipolar, heterothallic fungus	c. parasitica	1
+Bivalve filter-feeders	c. gigas	1
+bright folks	c. k. prahalad	1
+c.sub.18-fatty acid	c.sub  two - 	1
+Calamus species	c. caesius	1
+camellia species	c. japonica s	1
+Centaurea species	c. depressa	1
+Centris species	c. minuta	1
+century many initial	c.o.d	1
+chesnut scholar	c. vann woodward	1
+chlorhexidine rinse	c.e.t. s oraly hygiene rinse	1
+Chromalveolate species	c. hominis	1
+church-growth expert	c. peter wagner	1
+classic anti-colonial text	c. l. r. james's the black jacobins	1
+classic British emergentists	c. d. broad	1
+clematis vine	c. orientalis	1
+client problem	c. client problem	1
+clinical fungus	c. albicans	2
+common animal model	c. elegans nematode	1
+community-based populist organization	c.c.f. party in saskatechewan	1
+Coniothyrium spp	c. ova tum	1
+construction related association	c.s.i.	1
+contemporary follower	c. iversen	1
+cordia species	c. sulfate	1
+Cotoneaster Prostrate cotoneasters	c. horizontalis	2
+cotoneasters	c. horizontalis	1
+crinum species	c. bulbispermum start flowering in may	1
+Crinums	c. americanum	1
+crypt	c. ciliata	1
+Cussia species	c. auriclrlatu l.	1
+cyclamen	c. hederifolium	1
+cycloakyl group	c.sub. three - six  cycloakyl group 	1
+cycloalkylamino group	c.sub. three - six  cycloalkylamino group 	1
+cycloalkyloxy group	c.sub. three - six  cycloalkyloxy group 	1
+cycloalkyloxycarbonyl group	c.sub. three - six  cycloalkyloxycarbonyl group 	1
+cycloalkylthio group	c.sub. three - six  cycloalkylthio group 	1
+derivitives	c. florida	1
+devout christian thinker	c. s. lewis	1
+DG species	c. vagus	1
+different type	c. different type	1
+dispersal species	c. caudata	1
+disturbance-adapted plant	c. m. maritimus	1
+easily-cultured and well-studied organism	c. elegans	2
+ecologically biotrophic pathogen	c. africana	1
+effective educational institute	c.r.reddy higher education	1
+egg-laying reptile	c. constrictor	1
+eighty juggernaut	c. thomas howell	1
+Elegans-group species	c. elegans	1
+elevating work platform	c. elevating work platform	1
+eminent international specialist	c. pauli	1
+exemplary nematode	c. elegans	1
+experimental nematode	c. elegans	1
+extant organism	c. elegans	2
+fallen eighty wannabe	c. thomas howell	1
+fastidious gram-negative rod	c. hominis	1
+FCC commissioner	c. copps	1
+former slave	c. former slave	1
+fossil example	c. use fossil example	1
+furniture consultant	c. britt beemer	2
+gar member	c. william needles of the  eight th ohio cavalry 	1
+gc-rich organism	c. michiganensis subsp	1
+geneti-callyaccessible model system	c. elegans	1
+Genuinely terrestrial cymbidiums	c. cyperifolium from nepal	1
+good herbal bowel cleaner	c.c.e.-w combination	2
+gram positive bacterial cell	c. glutamicum cell	1
+great christian fantasy	c. s. lewis the chronicles of narnia	1
+guitar manfacturers	c.f martin	1
+GW182 protein	c. elegans ain- one 	1
+half-hardy sort	c. cineraria	1
+hardy garden species	c. hederifolium	2
+health care associated infection	c. diff	1
+hemolytic pathogen	c. albicans	1
+herbaceous clematis	c. rectum	1
+hermaphroditic nematode	c. elegans	1
+heterochromatin component	c. albicanslacks classic heterochromatin component	1
+high melting surfactants	c.sub. ten - fourty  ester of a long chain fatty acid 	1
+hip hop geography	c.a.	1
+host-pathogen interaction	c. acutatum on citrus	1
+hubbard s many critic	c. r. ashbee	1
+hubbard's many critic	c. r. ashbee	2
+hypothetical language	c.	1
+infectious fish disease	c. shasta	1
+group	c. geppiorum complex	1
+group	c. peter wagner's new apostolic reformation	1
+group	c.sub. seven - twelve  aralkylthio group 	1
+group	c.sub. three - six  cycloakyl group 	1
+group	c.sub. one - five  alkanoyl group 	1
+group	c.sub. one - six  alkanoyl group 	1
+group	c.sub. one -c. sub. twenty -alkyl  group 	1
+group	c.sub. three - six  cycloalkyl group 	1
+group	c.sub. one - three  acylamino group 	1
+group	c.a.s.t. for kid	1
+group	c. special-interest group	1
+group	c.sub. one - four  alkanoylamino group 	1
+group	c.sub. one - four  alkoxycarbonyl by acid hydrolysis 	1
+group	c.sub. one - six  alkyl 	1
+group	c.sub. two - three  alkynyl group 	1
+group	c.sub. six -c. sub. twelve -aryl  group 	1
+group	c.sub. six - ten  aryl group 	1
+group	c.sub. one - four  alkoxycarbonyl group 	1
+group	c.sub. one - four  alkylsulfinyl group 	1
+group	c.sub. four - five  alkyl group 	1
+group	c.sub. six - ten  aryloxy group 	1
+group	c.f.r.	1
+group	c.h.a.g.e. the deal with ethnic diversity topic	1
+group	c.o.r.e.	1
+group	c.j	1
+group	c.n blue	1
+group	c.sub. one - three  alkyl group 	1
+group	c.sub. two - six  alkylcarbonyl group 	1
+group	c.sub. six - fourteen  aryl group 	1
+group	c.sub. seven - thirteen  aralkyl group 	1
+group	c. arabicum complex	1
+intact animal	c. elegans	1
+introduction model genetic organism	c. elegans	1
+italian species crocus	c. niveus	1
+journalistic expert	c. raja mohan	1
+large new york importer	c. bruno & son	1
+large, armored Cordylus species	c. giganteus	1
+letelysequenced genome	c. elegans	1
+macroscopically similar species	c. chalybaeus soop	1
+Madagascar species	c. nobilis baill.	1
+magenta pigment	c.i	1
+male triploids	c. nobilis	1
+medically important Candida species	c. albicans	1
+medically important yeast	c. albicans	1
+medium-height species	c. crispus	1
+Micro-RNAs	c. elegans lin four 	1
+model organism system	c. elegans	1
+modular synthesizer	c.  one thousand nine hundred and sixty-seven 	1
+molecular genetic system	c. albicans	1
+mound-building termite	c. clepsydra	1
+mushroom formula	c. sinensis	1
+NAC species	c. rugosa	1
+Native Cucurbitaspecies	c. pepo subsp	1
+nd-wait pathogen	c. diphtheriaeand the smallpox	1
+non-native fern	c. parasitica	1
+non-orthodox source	c. s. lewis	1
+method	c.i	1
+OP-termites	c. secundus	1
+ossianic poem	c. i. e. the hill of slaughter	2
+outside government circle	c. van vollenhoven	1
+overgrown spring-flowering clematis	c. alpina	1
+parasitic cordyceps fungus	c. sinensis	1
+pathogenic diploid fungus	c. albicans	1
+Pearlscales	c. mertensii	1
+pendulous species	c. nobilis	1
+pet toothpaste	c.e.t. by virbac animal health	1
+phenylphosphonyl group	c.sub. one - seven  alkyl-or  phenylphosphonyl group 	1
+philosophical theist	c. h. weisse	1
+polydomous species	c. iberica	1
+position well-known commentator	c. k. barrett	1
+post-war regimental history	c. falls	1
+pre-columbian society	c. examine pre-columbian society	1
+pre-wgd yeast	c. albicans	1
+projector synaesthete	c.	1
+pure 3GL language	c. while in today's environment	1
+rainfall species	c. maculata	1
+religious or quasi-religious instutions	c. g. jung education center	1
+revolutionary biologist	c. j. howell	1
+rootstock genotypes	c. limonia	1
+school scientist	c. c.	1
+season clematis	c. alpina	1
+sedge grass variety	c. hachijoensis var	1
+severalneo-pluralist author	c. e. lindblom	1
+small and simple nervous system	c. elegans	1
+Smaller-sized campanulas	c. carpatica form charming mounds of flowers in small container	1
+small-sized animal species	c. monticola	1
+so-called winter-flowering crocus	c. chrysanthus	1
+soil nematode	c. elegans	2
+sometimes giant orange variety	c. maximum	1
+Sometimes yeast	c. albicans	1
+special coding	c. special coding	1
+Spreading Cotoneasters	c. horizontalis	1
+straightforward pacifism	c. o. s hansard by the central board for conscientious objectors	1
+strong-growing shrubby Cornus	c. amomum	2
+successful educational institute	c.r.reddy higher education	1
+Sulfurized olefins	c. sub . eight  to c. sub . thirty  mono - 	1
+te-phritids	c. capitata	1
+time giant orange variety	c. maximum	1
+True Alumnis	c. ross	1
+true alumnus	c. ross	1
+typical Cypripedium	c. calceolus	2
+typical diurnal ant	c. aff	1
+UCS protein	c. elegans unc- fourty-five 	1
+unfavourable condition yeast	c. albicans	1
+urogenital pathogen	c. trachomatis	1
+vender's	c.a.r.s.	1
+tool	c. provides tool	1
+tool	c. botulinum c three  toxin 	1
+victorian traveler	c. m. doughty	1
+water born pathogen	c. parvum	2
+well-regarded not-for-profit college	c.i.a.	1
+wetland Carex species	c. limosa	2
+wild watermelon accession	c. colocynthis	1
+world renown mathematician	c. de boor	1
+would-be citizen	c. j. wu	1
+X0 species	c. elegans	2
+project	c.a.p.e. fynbos i-forum	1
+artist	c. b. falls	1
+artist	c. dahl	1
+artist	c.o.	1
+artist	c. ford riley	1
+material	c.v	1
+material	c.v.	1
+material	c. vulgaris	1
+material	c. accessory material	1
+material	c.s.	1
+player	c. ronaldo	3
+player	c. lerch	2
+player	c. meclanchton	2
+player	c. adam	1
+technology	c. new input technology	1
+term	c. three  provisions 	1
+species	c. elegans	13
+species	c. lari	6
+species	c. orientalis	3
+species	c. fetus	3
+species	c. felis	2
+species	c. maculata	2
+species	c. monoculus	2
+species	c. florida	2
+species	c. limosa	2
+species	c. montana	2
+species	c. maximum	2
+species	c. liberica	2
+species	c. albicans	2
+species	c. album	2
+species	c. aurantium	2
+species	c. austeni carter	1
+species	c. angustifolia	1
+species	c. carthaginensisin spain	1
+species	c. botulinum	1
+species	c. candida	1
+species	c. abortus	1
+species	c. erecta	1
+species	c. obsoletus meigen	1
+species	c. smithii	1
+species	c. sativa	1
+species	c. variegata koern	1
+species	c. undulatus	1
+species	c. tenuissimum cooke	1
+species	c. tetradactylus	1
+species	c. golli	1
+species	c. elephantopus	1
+species	c. ferruginea dc	1
+species	c. alpina	1
+species	c. arvensis	1
+species	c. cornuta g. o. sars	1
+species	c. crispus	1
+species	c. di- cotoma with yellow fall foliage	1
+species	c. plagiocephalus	1
+species	c. ochlandra	1
+species	c. mobile	1
+species	c. tomentose	1
+species	c. ursinus	1
+species	c. speciosa warder	1
+species	c. serpentina	1
+species	c. scoticus downs &kettle	1
+species	c. longa	1
+species	c. mooreana	1
+species	c. nambariensis var	1
+species	c. microphylla	1
+species	c. psittaci	1
+species	c. torquatus	1
+species	c. vicina	1
+species	c.  three  sumichrasti 	1
+species	c. asper	1
+species	c. australis	1
+species	c. batrachus	1
+species	c. cristata	1
+species	c. versicolor	1
+species	c. spinosa	1
+species	c. socialis	1
+species	c. radiata	1
+species	c. leucas	1
+species	c. magna	1
+species	c. mooreana a nd c. tomentosa	1
+species	c. ferruginea	1
+species	c. heliophilus edwards	1
+species	c. incisa	1
+species	c. marmorata	1
+species	c. edulis	1
+species	c. esculenta	1
+species	c. falcata	1
+species	c. inconspicua	1
+species	c. arietinum	1
+species	c. balsamita	1
+species	c. caesius	1
+species	c. canephora pierre	1
+species	c. capitata	1
+species	c. carpio	1
+species	c. caudatum l.	1
+species	c. amazonica	1
+species	c. anis	1
+species	c. apala	1
+measure	c.e.s. program	1
+condition	c. genetic condition	1
+condition	c.difficile diarrhea	1
+variable	c. do other variable	1
+function	c. important function	1
+device	c. neighborhood traffic control device	1
+device	c. new device	1
+device	c. renewable energy device	1
+concept	c. object-oriented programming concept	1
+component	c. albicanslacks classic heterochromatin component	1
+site	c. on social networking site	1
+site	c. w. harris site in san diego	1

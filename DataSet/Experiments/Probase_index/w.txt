@@ -1,0 +1,18 @@
+property	w	1
+venue	w	1
+line	w	1
+hotel	w	3
+national chain	w	1
+star hotel	w	2
+hotel chain	w	1
+high-profile project	w	1
+luxurious hotel	w	1
+upscale hotel	w	1
+high-end hotel	w	1
+massive particle	w	1
+prominent project	w	1
+subway line	w	1
+high-rise hotel	w	1
+chicago hotel	w	1
+famed hotel	w	1
+standard model particle	w	1

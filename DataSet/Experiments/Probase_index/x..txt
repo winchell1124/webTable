@@ -1,0 +1,244 @@
+form	x. five hundred and nine  certificate 	1
+object	x. four hundred  connector 	1
+solution	x. ten 	1
+part	x. nine  rear mech 	1
+food	x.o. sauce	1
+feature	x. five hundred and nine  crl support 	1
+feature	x.v.colour technology	1
+town	x.	1
+attribute	x. role conflict	1
+instance	x. two hundred and sixty-four  encoding 	1
+feature	x.v.colour	1
+format	x. five hundred and nine  certificate 	1
+standard	x. five hundred and nine 	3
+standard	x. five hundred and nine  certificate 	1
+standard	x. five hundred and nine  certificate encodings 	1
+standard	x.v.color	1
+standard	x. five hundred  suite 	1
+value	x. sub . two 	1
+protocol	x. twenty-five 	16
+protocol	x.  twenty-five 	1
+protocol	x. twenty-five  protocol 	1
+protocol	x. five hundred  directory access protocol 	1
+protocol	x. four hundred 	1
+protocol	x. five hundred 	1
+organism	x. laevis	2
+network	x. twenty-five 	2
+network	x. twenty-one 	1
+network	x. twenty-five  packet network 	1
+link	x. twenty-five 	1
+communication system	x. twenty-five 	1
+external device	x.linkle breakout box	1
+claim	x. five hundred and nine  certificate 	2
+industry standard	x. five hundred and nine  v three 	1
+industry standard	x. five hundred and nine 	1
+industry standard	x. five hundred and nine  protocol 	1
+directory	x. five hundred 	2
+directory	x. five hundred -compliant network directory 	1
+connector	x. four hundred  connector 	1
+communication device	x. twenty-five  card 	1
+credential	x. five hundred and nine  certificate 	1
+strain	x. bovienii a two 	1
+certificate	x. five hundred and nine  standard 	1
+certificate	x. five hundred and nine  certificate 	1
+certificate	x. five hundred and nine 	1
+datum service	x. twenty-five 	1
+medium type	x. twenty-five 	1
+APIs	x. four hundred  api 	1
+enhanced feature	x.v.colour technology	1
+keynote speaker	x. sunney xie	1
+vertebrate	x. laevis	1
+communication protocol	x. twenty-five 	2
+identifier	x. two 	1
+identifier	x. one 	1
+amphibian	x. laevis	1
+service	x. twenty-five 	2
+client application	x. four hundred  p seven 	1
+network protocol	x. twenty-five 	11
+network protocol	x.  twenty-five 	1
+security technology	x. five hundred and nine  certificates 	2
+standard protocol	x. five hundred 	1
+service	x. four hundred 	1
+alcoholic drink	x.o. brandy	1
+widespread species	x. seychellensis scott	1
+access method	x. five hundred  dap 	1
+traffic	x. twenty-five 	1
+communication standard	x. twenty-five 	1
+security protocol	x. five hundred and nine  certificate 	1
+notable alumnus	x. j. kennedy	1
+directory service	x. five hundred 	1
+directory service	x. five hundred  standards-based directory 	1
+directory service	x. five hundred  service 	1
+gram-negative organism	x. campestris	1
+datum network	x. twenty-five  based network 	1
+network architecture	x. twenty-five 	1
+level protocol	x. twenty-nine  protocol 	1
+network type	x. twenty-five 	1
+digital network	x. twenty-five  packet switching network 	1
+WAN technology	x. twenty-five 	6
+wide area network	x. twenty-five 	4
+hierarchical system	x. five hundred and nine 	1
+research work	x. twenty-five 	1
+application layer protocol	x. four hundred  electronic mail 	5
+application layer protocol	x. five hundred  directory service 	3
+application layer protocol	x. four hundred  mhs electronic mail 	2
+packet-switched network	x. twenty-five 	4
+popular protocol	x. twenty-five 	4
+security model	x. five hundred and nine  certificate 	1
+datum communication service	x. twenty-five 	1
+legacy protocol	x. twenty-five 	1
+common interface	x. twenty-one 	1
+packet datum network	x. twenty-five  network 	1
+acclaimed poet	x. j. kennedy	1
+security scheme	x. five hundred and nine  certificate 	1
+heterologous expression system	x. laevis oocytes	1
+protocol layer	x. five hundred 	2
+high level service	x. four hundred  mail protocol 	1
+high level service	x. five hundred  directory service 	1
+packet-based network	x. twenty-five 	1
+traditional interface	x. twenty-one 	1
+directory system	x. five hundred 	1
+key type	x. five hundred and nine  certificate 	1
+slow connection	x. twenty-five  pads 	1
+packet technology	x. twenty-five 	2
+mail protocol	x. four hundred 	5
+connection-oriented network	x. twenty-five 	1
+electrical interface	x. twenty-one 	1
+NBMA network	x. twenty-five 	13
+public datum network	x. twenty-five 	1
+telematic application	x. four hundred 	2
+WAN protocol	x. twenty-five 	4
+converter available online	x. twenty-one 	1
+proven standard	x. five hundred and nine  certificates 	1
+strong authentication mechanism	x. five hundred and nine  certificate 	2
+synchronous protocol	x. twenty-five 	2
+serial line	x. twenty-five  qllc 	1
+wide-area service	x. twenty-five 	1
+HDMI feature	x.v.color	1
+nonbroadcast multiaccess network	x. twenty-five 	3
+operating concept	x. twenty-five  public data network 	1
+packet-switched service	x. twenty-five 	1
+resolution service	x. five hundred 	1
+shared technology	x.  twenty-five 	1
+shared technology	x. twenty-five 	1
+AT&T datum service	x. twenty-five  packet switching 	1
+data-link protocol	x. twenty-five 	1
+email standard	x. four hundred 	1
+multi-access interface	x. twenty-five 	3
+packet-switching technology	x. twenty-five 	1
+popular ISDN protocol	x. seventy-five 	1
+digital certificate	x. five hundred and nine 	1
+digital certificate	x. five hundred and nine  certificate 	1
+digital signaling protocol	x. twenty-five 	2
+directory standard	x. five hundred 	2
+elite squad	x.s.e.	1
+large sponge	x. muta anda	1
+multipoint WAN interface	x. twenty-five 	1
+optional protocol	x. twenty-five 	1
+packet switching protocol	x. twenty-five 	1
+routable protocol	x. twenty-five 	1
+wide area service	x. twenty-five 	1
+contemporary children's poet	x. j. kennedy	1
+conventional datum network	x.  twenty-five  wan 	1
+conventional datum network	x. twenty-five  wan 	1
+cost-conscious network	x. twenty-five 	1
+cost-conscious network link	x. twenty-five 	1
+datum link layer module	x. twenty-five  lapb 	1
+HD version	x. one 	1
+HD version	x. three 	1
+HD version	x. two 	1
+insusceptible host	x. fastidiosa multiplies	1
+multiaccess WAN interface	x. twenty-five 	1
+multipoint nonbroadcast multi-access network	x. twenty-five 	1
+non-broadcast multi-access network	x. twenty-five 	1
+non-ISDN-compatible interface	x. twenty-one 	1
+physical transmission method	x. twenty-five 	1
+standard directory protocol	x. five hundred and nine  certificate 	1
+application	x. four hundred 	1
+application	x. five hundred and nine  directory 	1
+telco datum link	x. twenty-five 	1
+traditional WAN service	x. twenty-five 	1
+traditional WAN technology	x. twenty-five 	1
+virtual circuit datum network	x. twenty-five 	1
+WANs	x. twenty-five 	1
+young Armagnacs	x.o.	1
+common packet technology	x. twenty-five 	2
+connection-oriented medium	x. twenty-five 	3
+flexible authentication option	x. five hundred and nine  certificate 	1
+innonmeshed network	x. twenty-five 	1
+link-establishment datum	x. twenty-one  call-progress signal 	1
+local security scheme	x. five hundred and nine  based authentication 	2
+multipoint nonbroadcast multiaccess network	x. twenty-five 	4
+network directory	x. five hundred -compliant network directory 	1
+non broadcast multi-access cloud	x. twenty-five 	1
+nonbroadcast multiaccess cloud	x. twenty-five 	1
+OSI application layer protocol	x. five hundred  directory service 	2
+OSI application layer protocol	x. four hundred  mhs electronic mail 	2
+OSI application layer standard	x. four hundred 	1
+OSI application layer standard	x. five hundred 	1
+packetswitching technology	x. twenty-five 	1
+PDP type	x. twenty-five 	1
+physical layer protocol	x. twenty-one 	1
+point-to-multipoint link	x. twenty-five 	2
+powerful directory service	x. five hundred 	1
+public or private packet-based network	x. twenty-five  network 	1
+sliding-window protocol	x. twenty-five 	1
+standard credential	x. five hundred and nine  certificate 	1
+standard VPN feature	x. five hundred and nine  digital certificate support 	1
+switched virtual circuit service	x. twenty-five 	1
+traditional datum network	x. twenty-five 	1
+virtual modem	x. seventy-five  modem 	1
+wide area network switching technology	x. twenty-five  packet switching 	3
+wide areanetwork technology	x. twenty-five 	1
+amphib ians	x. laevis	1
+certificate hierarchy	x. five hundred and nine 	1
+certification hierarchy	x. five hundred and nine 	1
+character domain	x.com	1
+Compressed HD material	x.  two hundred and sixty-four 	1
+connection-oriented packet network	x. twenty-five 	1
+digital certificate-based system	x. five hundred and nine 	1
+EDI technology	x. twelve 	1
+General-topology subnetworks	x. twenty-five 	1
+identity certificate	x. five hundred and nine 	2
+information froma hierarchical directory	x. five hundred 	1
+large organizational structure	x. five hundred  name service 	1
+letter X. com-binations	x.y z.	1
+low level port datum	x. twenty-five  line datum 	1
+monolithic computing initiative	x. five hundred  directory service 	1
+Multi-point WAN	x. twenty-five 	1
+nonbroadcast medium	x. twenty-five 	1
+original, public key certificate	x. five hundred and nine 	1
+OSI application protocol	x. four hundred 	2
+outdated protocol	x. twenty-five 	1
+physical network type	x. twenty-five 	1
+public key certificate	x. five hundred and nine  certificate 	2
+public-key certificate	x. five hundred and nine  certificate 	1
+referral-based system	x. five hundred 	1
+relationship server issue digital certificate	x. five hundred and nine  certificates in the preferred embodiment 	1
+method	x. twenty-five 	1
+sony-exclusive feature	x.v.color output	1
+standard credential system	x. five hundred and nine  attribute certificate 	1
+standardized approach	x. five hundred and nine  certificate 	1
+susceptible indicator species	x. australis	1
+switched access packet-switched network	x. twenty-five 	1
+topology subnetworks	x. twenty-five 	1
+tool	x. five hundred and nine  certificate 	1
+WAN access service	x. twenty-five  network access 	1
+WAN medium type	x. twenty-five 	1
+well-known certificate standard	x. five hundred and nine v three  certificate standard 	2
+X11 hardware abstraction layer	x.org installed on the host	1
+Xenopus sp.	x. laevis	1
+material	x. five hundred and nine  certificate 	1
+technology	x. twenty-five 	8
+technology	x. five hundred and nine  public-key certificate 	5
+technology	x. five hundred and nine  public key certificate 	2
+technology	x. five hundred 	1
+technology	x.v.colour	1
+term	x.	1
+system	x. five hundred and nine -based pki 	1
+system	x. five hundred and nine 	1
+species	x. platyceps	1
+species	x. laevis	1
+species	x. grandis	1
+variable	x. solve for the variable	1
+concept	x. five hundred and nine  certificate 	1

@@ -1,0 +1,571 @@
+factor	vr	2
+product	vr two 	1
+resource	vr	1
+resource	vrwa the town of royalton	1
+resource	vrml file	1
+facility	vr trainer	1
+game	vrc	1
+exception	vroom	1
+character	vronsky	1
+work	vr simulation	1
+model	vrml world	1
+situation	vrs	1
+skill	vrml	1
+institution	vrsac	1
+document	vrml	1
+agency	vr in assessing	1
+agency	vr-independent living	1
+solution	vrml	1
+feature	vr	3
+feature	vr training mode	2
+book	vraja mandala darshan	1
+structure	vreeland house in leonia	1
+field	vrywyn lake	1
+amenity	vrv air-conditioning	1
+title	vrye weekblad	1
+scholar	vrinda naur	2
+scholar	vron ware	1
+development	vrml	3
+development	vr	1
+city	vryburg	1
+city	vroomen note border city	1
+city	vrsar	1
+city	vrindavan	1
+disease	vriddhi	1
+town	vryheid	2
+consideration	vrs schemes of the discoms	1
+challenge	vrs exodus	1
+favorite	vrsc night rod special	2
+manufacturer	vredo dodewaard	1
+manufacturer	vredestein	1
+feature	vrrp	1
+study	vrana	1
+website	vrbo	1
+unit	vrad- s- for a rate gyro	1
+leader	vreeland	1
+feature	vr in body	1
+feature	vr image stabilization	1
+researcher	vrba	1
+format	vrml	4
+format	vrml model	1
+format	vro	1
+partner	vr	2
+animal	vriksha-shayika	1
+customer	vrl	4
+feature	vrayies photometric light	1
+feature	vrd	1
+feature	vrf lite	1
+issue	vr's eligibility requirement	3
+environment	vr	1
+environment	vrml	1
+capability	vrf aware ping	1
+destination	vrindavan	1
+district	vratsa	1
+discipline	vr	1
+discipline	vr counselor	1
+control	vru	1
+language	vrml	2
+producer	vrla battery producer	1
+channel	vrac	2
+hotel	vrp guest house located near the city center	1
+medicine	vridhivadhika vati	1
+car	vr six  corrado 	1
+car	vr six 	1
+driver	vrf driver	1
+university	vrije universiteit of amsterdam	1
+university	vrije universiteit in amsterdam	1
+file	vrml	2
+theory	vroom's expectancy-valence theory	1
+platform	vrml	1
+protocol	vrrp	8
+protocol	vrrp for ethernet	1
+village	vryheid's lust	1
+result	vrrp switchover	1
+authority	vra	3
+theorist	vroom	4
+veteran	vrabel in the picture	1
+enhancement	vr device	1
+enhancement	vrml	1
+county	vrancea	1
+marker	vrm	1
+programme	vr math	1
+command	vrcon	1
+establishment	vrde	1
+wine	vranec	4
+wine	vranac	1
+church	vredelust dutch reform church	1
+support	vrt rebate	1
+physical property	vrijk magnitude	1
+finding	vromen's concerning voting in australia	1
+power	vritra	1
+genus	vriesea	1
+item	vrefs	2
+pathogen	vre	1
+online service	vrt for motor vehicle	1
+library	vr development library	1
+assessment	vrt	1
+television show	vr five 	1
+small town	vryheid	1
+peripheral	vref for closed-loop-control application	1
+tax	vrt	1
+international company	vranken-pommery australie	1
+medium outlet	vreme	1
+large city	vratsa	2
+legislation	vra	1
+funding source	vr	1
+experiment	vrikshmandir	1
+heading	vroom with a view	1
+emerging technology	vr	3
+design parameter	vr design parameter	1
+microorganism	vre	1
+item	vr scheme	1
+software tool	vrmesh studio	1
+temple	vrindavan	1
+TV series	vr five 	2
+industry standard	vrml	1
+session	vrta insurance	1
+cultivars	vrac de bintagoungou	1
+public institution	vr	1
+niche	vrml browser	1
+file format	vrml	2
+research	vrouter project	1
+block	vrd	1
+representation	vrml format	1
+reputable company	vredestein	1
+subsidiary	vrijbuiter publishing	1
+regulator	vr one hundred and fifty 	1
+analytical tool	vrio	1
+modern feature	vr	1
+custom feature	vr dash conversion	1
+traditional approach	vrml	1
+plugins	vray	1
+memory	vram e thirty-two 	1
+information technology	vr	1
+international standard	vrml	1
+bug	vre	2
+area	vr nvr	1
+area	vryheid	1
+motor	vr four 	1
+motor	vr six 	1
+advanced application	vr	1
+hardware device	vr gloves	2
+medium type	vr panoramas	1
+medium type	vrml	1
+medium type	vrp anoramas	1
+residential area	vredehoek	1
+basic parameter	vrms	1
+herbal product	vrishya vati	5
+herbal product	vrishyavati	1
+area	vrylokas disdain	1
+natural herb	vrishya vati	1
+fishery	vrl fishery	1
+memory device	vram	1
+internet application	vrml browser	1
+faculty	vrije universiteit of amsterdam	1
+web technology	vrml	1
+video format	vro	1
+datum file	vrone file	1
+large river	vrbas	2
+standard component	vram memory	1
+service	vrs	2
+client application	vrt	1
+governmental organization	vrom in the netherlands	1
+internet technology	vrml	2
+varietal	vranac	1
+datum format	vrml	1
+regimen	vrd	1
+open system	vrpn from unc	1
+seaside resort	vrsar	1
+posture	vrikshasana	3
+posture	vrksasana	1
+service	vrml conversion	1
+engagement	vrac	1
+myth	vritra	1
+membrane protein	vr one 	1
+standard protocol	vrrp	1
+grassroots organization	vrg	1
+advance feature	vr image stabilization	1
+houseplant	vriesia	1
+service	vrml viewer	1
+secret society	vril	1
+australian company	vri biomedical	1
+professional application	vrml-based web browser	1
+technical development	vrml	1
+guild	vroom rulez	2
+seaside town	vrsar	2
+rural town	vredendal	1
+state-owned company	vr	1
+asanas	vrksasana	1
+asanas	vriksh asana	1
+asanas	vrikshasana	1
+promising technology	vrml	2
+email service	vr	1
+germ	vre	2
+tourist town	vrboska	1
+large construction project	vresap pipeline	1
+popular video format	vro	1
+markup language	vrml	3
+ancient building	vredeburg castle	1
+custom part	vrod motorcyle part	1
+management approach	vra	1
+modeling language	vrml	4
+shaft	vrp	1
+benefit plan	vrs	1
+holy place	vrindavana	1
+web-based technology	vrml	1
+border city	vroomen note border city	1
+historic location	vrieshuis amerika	1
+topic	vrv operational principle	1
+family friendly activity	vr roller coaster a large arcade	1
+biography	vrndavana dasa thakura's chaitanya bhagavata	4
+virtual environment	vr	1
+vocabulary	vra	1
+high availability feature	vrrp	2
+program requirement	vra	1
+federal legislation	vra	1
+avant-garde artist	vrvara stepanova	1
+tyre	vredestein v eighty-eight 	1
+company	vr innovations	3
+company	vroom &dreesmann	2
+art method	vram	1
+germany tv channel	vrf vogtland	1
+datum standard	vrml	1
+reliability feature	vrrp	1
+entertainment application	vr	1
+high volume application	vr hmds	2
+refuge	vrindavan	1
+company	vrt	1
+local icon	vredefort dome during the international prelim voting process	1
+washer	vru aluminum overcapper	1
+agricultural project	vredendal tomato project	1
+yoga exercise	vrikshasana	14
+simulation program	vrml	1
+global datum	vreg temp	1
+interactive system	vr system	1
+company	vrl transporter	1
+company	vr	1
+company	vreba-hoff dairy devel opment	1
+metadata standard	vra core	1
+community service provider	vrd	1
+prebiotics	vrp staff prebiotics	1
+generic theme	vraj	1
+resource value	vrm	1
+time expense	vrs expense	1
+Yoga asanas	vriksasana	1
+visualization system	vrml	1
+activex control	vrml add-in	1
+export format	vrml	1
+Bromeliads	vriesea	1
+motivation theory	vroom	1
+battery system	vrla battery	1
+generation feature	vrf aware firewall	1
+sensor input	vrus	1
+motivational theory	vroom	1
+local grape variety	vranec	1
+realtime application	vr content	1
+renderers	vray	2
+renderers	vray for max	1
+resistant organism	vre	1
+tyre brand	vredestein	1
+leadership style	vroom	1
+projection device	vr projection device	1
+spiritual place	vrindavan	1
+surrounding place	vrlika	1
+multimedia standard	vrml for virtual reality file	1
+multimedia standard	vrml	1
+national franchise	vr business brokers of fort lauderdale	1
+superbugs	vre	1
+modern engine	vrp	1
+powerful demon	vrock	1
+ram player	vree george	1
+embedded operating system	vrtx	1
+popular shopping destination	vroom	1
+graphic standard	vrml	1
+terminal benefit	vrs	2
+naval architect	vripack naval architects	1
+redundancy protocol	vrrp	2
+reference voltage	vrt	2
+sensitive circuit	vr sensor	1
+air conditioning system	vrf	1
+event system	vrml event system	1
+multi-tasking operating system	vrtx	1
+seaside community	vrahati	1
+well-known seaside resort	vrsar	1
+commuter line	vre	1
+program	vrml	2
+program	vr toobox's objectworx	2
+pain scale	vrs	1
+wine farm	vrede en lust	1
+3D visualisation standard	vrml	1
+catch-up TV service	vrt's net gemist	1
+edge web technology	vr plug-ins	1
+famous hybrid	vriesea favorite	2
+game content	vr mission	1
+glass factory	vrbno	1
+good tire	vred tricomps	1
+lovely location	vrboska	1
+modern ship	vrouwe maria	1
+mystical organization	vrill organization	3
+mystical organization	vrill society	1
+mystical organization	vril organization	1
+mystical organization	vril society	1
+open language	vrml	1
+sealed control	vr nine hundred and two 	6
+sealed control	vr seven hundred and one 	2
+sealed control	vr seven hundred and two 	2
+sealed control	vr nine hundred and one 	2
+sealed control	vr nine hundred and three 	1
+sealed control	vr four hundred and one 	1
+client-server system	vrml environment	1
+community	vrooman township	1
+real-time graphic application	vr application	1
+small temple	vruddha mallikarjuna swamy	1
+virtual site	vrave telnet port	1
+3D file format	vrml	1
+asuras	vritra	1
+bromeliad genus	vriesea	1
+company's competitor	vrlogic gmbh in germany	1
+derivative standard	vrml	1
+community	vredenburgh town	1
+FHRPs	vrrp	2
+horn parameter	vrc	1
+large crater	vredefort crater in south africa	1
+multi-drug resistant organism	vre	1
+press report	vrye weekblad	1
+community	vredenburgh ccd	1
+community	vr community	1
+community	vratnica	1
+VRML feature	vrmlscript node	1
+3D animation system	vrml	2
+cellar	vredendal	1
+czech author	vrana	1
+dependent technology	vrml browser plugins	1
+environmentally-sensitive practice	vrt	1
+level representation system	vrml	1
+magnificent scene	vronsky's horse race	1
+mesmerizing destination	vrindavan	1
+non race day event	vrc's chairman's dinner	1
+novel combination	vrr	1
+novel combination	vrrandahrwere described for breeds in germany	1
+others lesser known adapts	vr troopers	1
+router redundancy protocol	vrrp	1
+socio-behavioral discipline	vr	1
+standard 3D format	vrml	1
+sydney's popular dining outlet	vrindavan indian restaurant	1
+typical router high availability feature	vrrp	1
+valuation resource	vref	1
+virtual reality technology	vrml	1
+technique	vrml	2
+commuter rail	vre in washington dc	1
+company & brand	vroom & dreesmann	1
+datum structure standard	vra	1
+Descriptive or bibliographic metadata	vra core	1
+do-it-yourself service	vrbo web site	1
+flash interface	vrq interface	1
+ginormous standard file format	vrml for color print	1
+good tyre	vredestein  eighty-six h 	1
+herbal article	vrishya vati	1
+instance town	vredendal	1
+interactive & interesting element	vrml in the near future	1
+interactive animation application	vr	1
+internationally famous premium wine	vranec	1
+jedi master	vrook lamar	1
+Jewlers	vrba	1
+knowledgeable service	vr	1
+local bookseller	vroman's bookstore in pasadena	1
+multidrug-resistant organism	vre	1
+multimineral formula	vrps essential minerals	1
+multimineral formula	vrp's essential minerals	1
+music server	vrs	1
+non-sync-doubler shutterglasses	vr-joy	1
+application	vr	2
+online condo vendor	vrbo.com	1
+per-interface feature	vrf name	1
+pristina residential area	vranjevac	1
+radar measuring tool	vrm	1
+rich-media feature	vr	1
+software IT park	vrindhavan sez	1
+software-ecommerce maker	vrsn	1
+sofwares	vray	1
+standardized digital informational format	vrml	1
+startup technology	vrml	1
+static or non-configurable pin	vref out	2
+static or non-config-urable pin	vref out	1
+application	vret	1
+application	vr six 	1
+application	vrm	1
+application	vrml	1
+application	vr training	1
+tissue transfer technique	vram	1
+town square	vrijthof	1
+type Bromeliads	vrieseas	1
+typically graphic format	vrml	1
+venetian coastal town	vrsar	1
+virtual gateway protocol	vrrp	1
+virtual reality language	vrml	1
+winter tyre	vred wintrac xtreme	1
+3D modeling language	vrml	2
+3D modelling technique	vrml	1
+AA filter	vray laczos	1
+advanced munition	vr seven  anti-tank warhead 	1
+advanced scanning technique	vrs	1
+antibiotic-resistant pathogen	vre	3
+armenian bakery	vrej on allen	1
+Big Vriesea species	vriesea hieroglyphica	1
+application	vrml client	1
+application	vrf	1
+cutting-edge internet technology	vrml	1
+enrollment system	vrs	1
+equally nasty organism	vre	1
+fail-over protocol	vrrp	1
+name	vratislav in polish	1
+name	vratislav sima	1
+First-Hop Redundancy FHRPs	vrrp	1
+germany's pre-war secret society	vril	2
+Hip Rotators	vrksasana	1
+HNM s	vrtra	1
+indigenous science	vriksh-ayurveda	1
+information extraction system	vra reader	1
+interrelated essential implementation issue	vr technology based on opengl	1
+language representation	vrml grammar	1
+name	vrbnik	1
+name	vrogrum	1
+local yarmouth business	vreeland advertising	1
+mini system	vri	2
+motivational expert	vroom	3
+motor related tax	vrt	1
+non-flooded lead acid battery	vrla	1
+outside facility problem	vrad port issue	1
+personal computer-based virtual reality technology	vrml	1
+Photographic VR software	vr tool box vr panoworx	1
+picturesque seaside town	vrsar	1
+platform independent web technology	vrml	1
+case	vr issue	1
+redox flow battery	vrb battery	1
+renewable energy target scheme	vret	1
+sealed lead acid battery	vrla	1
+sophisticated presentation	vrije universiteit chapter's fascination of light'' science show	1
+suitable DMX controller	vrx controller	2
+case	vr	1
+travel related form	vres	1
+unpronouncable word	vrh	1
+virtual reality program	vrml	1
+Virtuaroid series	vr fei-yen	1
+Virtuaroid series	vr angelan	1
+voltage unit	vrms	1
+web3d open standard	vrml	3
+zululand town	vryheid	2
+3D conferencing system	vrml-based system	1
+3D datum visualization system	vr-vibe from nottingham university	1
+3D language	vrml	1
+3D platform	vrml	1
+airspeeds	vr	1
+ancient pilgrimage town	vrindavan	1
+brazilian brand	vr menswear	1
+buddy window	vredit control	1
+commercial authoring package	vr studio	1
+common 3D object file format	vrml	1
+declarative markup language	vrml	1
+distinguished legal luminary	vr krishna iyer	1
+drive amplitude shell-type structure	vrg	1
+dynamic address mode	vrf	1
+emerging PA technology	vr	1
+emplaced heavy weapon	vrf gauss gun	1
+enthusiast website	vr-zone forum	2
+FHRP FHRPs	vrrp	1
+former special function	vr mode	1
+freemasonic socities	vrill	1
+geometric replication method	vrml	1
+GPS technique	vrs	1
+heat vapes	vriptech heat wand	1
+high output current buck converter	vrs for the micro processor	1
+high quality grape type	vranec	1
+high taxation	vrt	1
+hire authority	vra	1
+holy dhama	vrndavana	1
+hot standby technology	vrrp	1
+interactive 3-D framework	vrml	1
+inter-city commuter line	vre	1
+lincoln's product	vrtex  three hundred and sixty  virtual welding cell 	1
+local pasadena business	vroman's bookstore	1
+local techy webby	vr-zone.com	1
+maastricht attraction	vrijthof	1
+managed targeted in-store marketing program	vrms database marketing	1
+mid range european tyre manufacturer	vredestein	1
+nazi esoteric group	vril	1
+non-physical network RTK solution	vrs	1
+non-stock renderer	vray	1
+northern designer	vredeman de vries of leeuwarden	1
+note tool	vrs	1
+oil injection stem	vro	1
+pendant vrieseas	vriesea guttata	1
+popular basic VR system	vr juggler	1
+pre-design cost estimate	vrom	1
+psychological risk assessment tool	vrs	1
+Reflexology add-ons	vrt	1
+registration tax	vrt in ireland	1
+rhino plug-in utility	vray	1
+method	vrml	1
+method	vray irradiance map	1
+shame expensive therapeutic tool	vr	1
+simple web-based graphical tool	vrml player software	1
+site-specific production practice	vri	1
+specialist trick	vr object movies embedded within vr panorama	1
+standard geometry representation	vrml for easy portability	1
+standard international metadata field	vra	1
+standard rendering process	vray	1
+technically incorrect, term	vrms	1
+Traditional geometry-based approach	vrml	1
+tool	vr toolkits	1
+tool	vrt of the superscape inc	1
+tool	vrml browser	1
+Vref's	vref twenty 	1
+web specific format	vrml	1
+Weight-bearing asanas	vrksasana	1
+tool	vray	1
+tool	vrml	1
+factor	vram	1
+project	vrygrond & westlake township development	1
+project	vr juggler	1
+project	vrml community building project	1
+project	vrml	1
+artist	vredeman de vries	1
+material	vr mission	1
+material	vratsa marble	1
+place	vrindavan	3
+place	vrboska	2
+place	vrilya point	1
+player	vraj patel	1
+technology	vrml	12
+technology	vr	7
+technology	vrf	2
+technology	vrt	1
+product	vrla battery	2
+technology	vrrp	1
+technology	vrf system	1
+term	vr	2
+term	vrm rom	1
+term	vrm	1
+parameter	vrtx	1
+parameter	vref	1
+parameter	vr design parameter	1
+system	vrrwb at stanford	1
+system	vrml	1
+system	vrvii unit	1
+system	vr compliant	1
+system	vrf	1
+species	vrankeni	1
+species	vriesea sintenisii	1
+element	vray mtlid	1
+element	vray zdepth	1
+product	vrla battery related product	1
+product	vroom	1
+function	vrrp	1
+device	vr projection device	1
+brand	vredestein	2
+brand	vredestein tyre	1
+component	vr unit	1
+component	vrt	1
+site	vrbo.com	1
+site	vranesi in boeotia	1
+related product	vrla battery related product	1

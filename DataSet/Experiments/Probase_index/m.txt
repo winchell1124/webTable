@@ -1,0 +1,5 @@
+shift	m	1
+clothing size	m	1
+variable reference	m	6
+place	m	1
+parameter	m	1

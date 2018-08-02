@@ -1,0 +1,2536 @@
+factor	c protein	2
+initiative	c fourty  cities climate leadership group 	2
+initiative	c fourty  climate leadership group 	1
+initiative	c omm unity connection program m	1
+accessory	c clip	1
+datum	c one 	1
+resource	c linical facility	1
+resource	c four ds 	1
+resource	c drive	1
+facility	c areers center	1
+facility	c utting	1
+facility	c seven 	1
+facility	c co on ns st t s in constant expression	1
+facility	c h i l d re n s hospital	1
+facility	c d roms	1
+process	c fourty-one  developing 	1
+process	c four  bga process 	1
+source	c five  registry & corvette action center 	1
+property	c s lewis estate	1
+property	c  two  content 	1
+property	c six  benzene 	1
+game	c sixty-four  non-fixed scren game 	1
+game	c nine 	1
+game	c & c	1
+ophthalmologist	c barnes	1
+ophthalmologist	c carroll	1
+ophthalmologist	c gilbert	1
+ophthalmologist	c hynes	1
+ophthalmologist	c atkinson	1
+ophthalmologist	c michael samson	1
+ophthalmologist	c lyon	1
+ophthalmologist	c m gilbert	1
+ophthalmologist	c yee	1
+ophthalmologist	c diaz zimmerman	1
+ophthalmologist	c r bice jr	1
+ophthalmologist	c brennan jr	1
+ophthalmologist	c evans	1
+ophthalmologist	c bowman	1
+ophthalmologist	c ho	1
+exception	c action surf rod	1
+product	c & e serum	1
+product	c extreme	1
+product	c four  extreme 	1
+product	c two  signalling controller 	1
+product	c six  peptide intensive treatment 	1
+product	c three i demand management 	1
+product	c fourty-five n circuit breaker related product 	1
+product	c two 	1
+exception	c five  brake kit 	1
+character	c s forester's horatio hornblower	1
+character	c r for a carriage return	1
+character	c one  control character 	1
+character	c zero  control character 	1
+character	c three p zero 	1
+work	c minor piano concerto	1
+work	c major sonata	1
+work	c major symphony	1
+model	c fifty-nine 	2
+model	c one -promoted sv fourty  tag 	2
+model	c model	2
+model	c sixty-six 	2
+model	c one hundred 	2
+model	c four s 	1
+model	c fifteen 	1
+model	c eighty 	1
+model	c eight  double  twelve r 	1
+model	c eight  spyker laviolette 	1
+model	c four . five  decision tree 	1
+model	c thirty 	1
+model	c twelve  laturbie 	1
+model	c one hundred and eleven 	1
+model	c two c space marines tacticals 	1
+model	c two  si 	1
+model	c four 	1
+model	c one hundred and thirty 	1
+model	c six - zero 	1
+model	c class	1
+word	c word	2
+skill	c programming	1
+category	c six 	2
+category	c four 	1
+category	c client	1
+category	c sixty-four  demo 	1
+category	c sixty-four  graphic 	1
+category	c five 	1
+category	c licence	1
+client	c g u asia	1
+client	c two c train 	1
+client	c nielsen	1
+document	c accn sphilosophystate mentandor various position state ments	1
+author	c j langenhoven	1
+author	c s lewis	1
+author	c hess et al	1
+author	c h spurgeon	1
+person	c corporation	1
+person	c four c 	1
+approach	c r e a t ive workshops	1
+alternative	c corporation	1
+effect	c four d 	1
+effect	c four ds 	1
+object	c four 	1
+object	c an s	1
+course	c twenty-three 	1
+location	c four 	1
+location	c one 	1
+writer	c s lewis	1
+writer	c nineteen th woman writer 	1
+writer	c benson	1
+mechanism	c clamp	1
+solution	c four  ip 	1
+feature	c three hundred 	2
+feature	c three hundred  luxury 	2
+book	c major shifting for the cello	1
+structure	c zone	1
+structure	c l domain	1
+film	c harade starring audrey hepburn	1
+field	c ust s tate	1
+field	c one 	1
+field	c three i 	1
+procedure	c fourteen  method 	3
+procedure	c section delivery	1
+procedure	c section	1
+band	c h stretching band	1
+band	c average	1
+part	c two  tank 	1
+part	c deck airlock	1
+practice	c smile	1
+ingredient	c e	1
+plant	c  four  plant 	1
+agent	c  two 	1
+agent	c virus	1
+cost	c ontract work	1
+scholar	c m kulkarni	5
+development	c nine hundred and nineteen  with deep concern 	1
+development	c one hundred and thirty  avionics modernization program 	1
+type	c one hundred and eighty-two 	1
+type	c two  s two 	1
+type	c three  s one 	1
+type	c two  driver 	1
+type	c structure	1
+city	c te saint-luc	1
+criterion	c four 	1
+firm	c vrd	1
+firm	c twenty  holdings 	1
+test	c six  lyme antibody test 	2
+test	c three 	1
+test	c peptide	1
+test	c six  peptide elisa for lyme disease 	1
+test	c laid in test	1
+test	c reactive protein test	1
+test	c reactive protein	1
+favorite	c class	1
+favorite	c minor short prelude of j. s. bach	1
+favorite	c hive pie	1
+manufacturer	c media	1
+instrument	c six  lap steel 	1
+feature	c two c interaction 	1
+feature	c two  error correction 	1
+feature	c programming interface	1
+feature	c compatibility	1
+feature	c four  birthday club module 	1
+feature	c three hundred  sport 	1
+feature	c one 	1
+setting	c one e 	2
+setting	c one e support 	1
+setting	c  three 	1
+setting	c ount	1
+compound	c dce	2
+compound	c  four  af found in the waste-based cement 	1
+compound	c  two  s 	1
+compound	c three  h eight 	1
+compound	c  three  s 	1
+compound	c two h six 	1
+compound	c three f eight 	1
+compound	c three a 	1
+compound	c five a 	1
+website	c net network	1
+figure	c four 	1
+figure	c b purdom	1
+equipment	c six thousand one hundred and thirty-two  common lathe 	1
+equipment	c truck -loco	1
+equipment	c twenty-one  automatic winder from japan muratec 	1
+equipment	c onstruction testing equipment	1
+equipment	c arm table	1
+unit	c two  dragster racing unit 	1
+unit	c tan shard	1
+unit	c one 	1
+basic	c at food	1
+leader	c rajagopalachari	3
+leader	c k jaffar sharief	1
+expense	c ar payment	1
+innovation	c d o two 	1
+substance	c five a 	1
+entity	c corporation	3
+entity	c three i laboratory operated by the institute for defense analysis 	1
+entity	c five  community business entity 	1
+style	c two 	1
+feature	c two  package 	1
+feature	c one e 	1
+feature	c seventeen  mullion window on the first floor 	1
+feature	c three hundred and fifty  sport 	1
+researcher	c kuesel	1
+region	c two v three  in the env gene of hiv 	1
+purpose	c ompilation of national policy document	1
+variety	c ninety-nine 	1
+format	c size	1
+Organisations	c fourty  cities 	1
+Organisations	c fourty  group of large city 	1
+standard	c language standard	1
+standard	c eighty-nine 	1
+standard	c four isr architecture framework 	1
+classic	c jam blues	1
+piece	c u stom picture frames	1
+show	c twenty-four 	1
+club	c one hundred and three 	1
+vendor	c three  call center 	1
+design	c four 	1
+design	c five  vette 	1
+sector	c four istar 	1
+influence	c ommunication r esearch t rends v olume  twenty-five  n o 	1
+market	c tick	1
+vehicle	c class mercedes	1
+vehicle	c five  corvette 	1
+vehicle	c thirty 	1
+vehicle	c twenty 	1
+vehicle	c class	1
+intervention	c aesarean section	1
+effort	c ourage under fire	1
+label	c for the unit	2
+issue	c diff	2
+environment	c six  at iowa state university 	1
+environment	c applications on unix	1
+restaurant	c a mohamed restaurant at the yayasan branch	1
+software	c ad	1
+disorder	c cerebral palsy	1
+module	c sixty-four  sprite set 	1
+module	c sixty-four  texture set 	1
+module	c sixty-four  models 	1
+top quality inn	c nine  hatillo del mar 	1
+retailer	c five  company 	1
+color	c onservative blue	1
+protein	c reactive protein	5
+protein	c one -inhibitor 	2
+protein	c four -binding protein 	2
+protein	c three b 	2
+protein	c two h two -type zinc finger protein 	1
+protein	c three 	1
+protein	c four bp 	1
+protein	c one -esterase inhibitor 	1
+protein	c  seven 	1
+protein	c fourteen orf one hundred and sixty-six 	1
+protein	c four  binding protein 	1
+protein	c  three 	1
+machine	c three p zero 	1
+machine	c six thousand one hundred and thirty-two  common lathe 	1
+machine	c sixteen 	1
+guest	c six  designer 	1
+guest	c six  exterior designer 	1
+competitor	c one  communications 	1
+competitor	c six  corvette 	1
+gift	c seventeen  flagons from john lister 	1
+constraint	c  four 	1
+constraint	c four 	1
+risk	c redit risk	1
+risk	c ri m	1
+point	c statistic being higher	2
+point	c in the diagram	2
+state	c one 	1
+corporation	c corporations	2
+weapon	c four 	2
+weapon	c four  explosive 	1
+great	c w stoneking	1
+flavor	c coffee bean dark chocolate	1
+language	c language	4
+language	c programming language	2
+language	c two 	2
+language	c or fortran	1
+language	c safer than interpreted languages like perl	1
+language	c for graphics by nvidia	1
+language	c regional	1
+language	c having medium level of structure	1
+language	c for image manipulation	1
+line	c i	1
+line	c ii	1
+line	c branch	1
+package	c four d 	1
+producer	c j pask winery	1
+landmark	c seven  spinous process 	1
+channel	c four 	6
+algorithm	c four . five 	7
+algorithm	c four . five  andbayes nets 	1
+series	c series	1
+car	c five  corvette 	1
+car	c three hundred and fifty 	1
+car	c thirty-six 	1
+car	c sixty-three 	1
+car	c six  z six 	1
+car	c four  chassy 	1
+car	c two hundred and thirty  mercedes 	1
+utility	c five hundred c memory check 	1
+measurement	c  six 	1
+symbol	c  one 	2
+error	c one thousand nine hundred and five  using the help function in visual studio 	1
+key issue	c lass size	1
+scientist	c ghosh	1
+top brand	c four  waterman 	1
+historian	c nims	1
+molecule	c three b 	5
+molecule	c two 	2
+molecule	c sixty 	2
+molecule	c six h five ch three 	1
+molecule	c six h five och three 	1
+molecule	c six  h six 	1
+molecule	c  sixty 	1
+molecule	c three a 	1
+molecule	c two h two  with multiple bond 	1
+molecule	c five a 	1
+molecule	c  two 	1
+organism	c elegans	1
+organism	c psittaci	1
+chain	c one thousand  	1
+chain	c attacks d	1
+result	c v of coefficient of friction	1
+network	c fourty  cities climate leadership group 	1
+station	c one hundred  with peter harrison doing new 	1
+station	c one 	1
+mode	c mode	1
+ability	c  one thousand nine hundred and ninety-eight  alan l. yuille 	1
+context	c seven 	1
+supplement	c zero  q- ten 	1
+input	c  one 	1
+input	c  two 	1
+shape	c face	2
+shape	c seven  shape 	1
+tactic	c four -quad attack 	1
+competition	c aptain s day	1
+target	c five a peptidase 	1
+factor	c : n ratio	2
+factor	c five a 	2
+museum	c carlos at atlanta's emory university	1
+raw material	c five -c six  fraction 	1
+veteran	c ben bojicic	1
+gene	c three 	5
+gene	c one q 	1
+gene	c one s proenzyme 	1
+gene	c eight orf four 	1
+enhancement	c shell	1
+icon	c drive	1
+keyword	c callbacks in lua	1
+keyword	c four 	1
+popular brand	c & f bedding	1
+poet	c j dennis	1
+content	c twelve  peptin 	1
+infection	c difficile	1
+cell	c six  glioma cell 	2
+cell	c one 	1
+cell	c sixteen 	1
+cell	c eighteen 	1
+road	c five  mindanao avenue 	1
+index	c four  ratio 	1
+attachment	c four  systems support requirements 	1
+substrate	c nineteen  steroid 	1
+professional organization	c ommittee of unctuous lawyers	1
+spot	c & o's	1
+marker	c reactive protein	1
+container	c one 	1
+issue	c two  requirement 	1
+issue	c four h nine -c three  h seven -a heterogeneous species 	1
+issue	c itizenship	1
+snack	c hana bhatura	1
+add-ons	c language	1
+aircraft	c one hundred and eighty-two 	2
+aircraft	c one hundred and seventy-two 	1
+aircraft	c one hundred and thirty  hercules 	1
+aircraft	c one hundred and fifty-two 	1
+aircraft	c one hundred and thirty 	1
+hit	c & c red alert	1
+reaction	c three hg oxidation 	1
+solvent	c three -c five  alcohol 	1
+solvent	c six h five cl solvent 	1
+solvent	c six h fourteen 	1
+key player	c jeff mitchell	1
+code	c for captain	1
+code	c three  forchoithram 	1
+code	c two  forspinney's 	1
+code	c one 	1
+code	c four  forunitedand c five  for lulu hypermarket 	1
+code	c one  for carrefour 	1
+support	c ten 	1
+street	c street	1
+expression	c surface	1
+number	c one 	1
+number	c one -c eighteen 	1
+gas	c  two  f  six 	5
+gas	c twenty-five 	4
+gas	c two 	3
+gas	c  three  f  eight 	2
+gas	c two h four 	2
+gas	c two h six 	2
+gas	c  two  h  six 	1
+gas	c four f six 	1
+gas	c  two  h  two 	1
+gas	c  four  minus hydrocarbon 	1
+gas	c  four  f  eight 	1
+gas	c four f eight 	1
+gas	c twelve 	1
+gas	c two f four 	1
+population	c population of viator	1
+reference	c  two hundred and seven 	1
+reference	c one 	1
+reference	c four 	1
+inhibitor	c seventy-five 	1
+inhibitor	c four b-binding protein 	1
+inhibitor	c thirty-four 	1
+inhibitor	c one  inactivator of complement 	1
+qualification	c programming skill	3
+qualification	c & g	1
+item	c four 	2
+framework	c four isr 	1
+painter	c larsson	1
+fluid	c two 	1
+pathogen	c ryptosporidium parvum	1
+particle	c  sixty  fullerenes 	2
+particle	c co with large glueballs of appropriate color	1
+particle	c  sixty 	1
+board	c six thousand seven hundred and eleven  based board 	1
+board	c fifteen 	1
+gadget	c d players	1
+gadget	c four 	1
+virus	c virus	1
+organic material	c  sixty 	2
+professional service	c three i solution 	1
+waste	c two 	1
+big company	c four  waterman 	1
+plant species	c arum carvi	1
+plant species	c four  plant 	1
+plant species	c three 	1
+library	c three p zero 	2
+library	c standard library	2
+library	c runtime lib	1
+library	c library	1
+local company	c & d auto sales	1
+impurity	c two 	1
+combination	c  four  - 	1
+volunteer	c & o bike patrol	1
+painting	c orner of the church of st. stae	1
+diagnosis	c omplex ptsd	1
+fuel	c three -c four  gas 	1
+fuel	c sixteen 	1
+nutrient	c e	1
+communication	c & i update	1
+salt	c six h fourty-two 	1
+investigation	c one -inh 	1
+investigation	c reactive protein	1
+basic function	c two  concentration calculation 	1
+practical consideration	c of g	1
+young player	c carlos santana	1
+item	c twenty th wood item 	1
+item	c thirteen 	1
+item	c fourteen 	1
+item	c seventy-five 	1
+item	c nine  mnh 	1
+order	c t brian	1
+local artist	c street gallery owner abbie chessler	1
+phone	c one 	2
+phone	c isco ip communicator	1
+phone	c seven 	1
+complex issue	c omplex synchronization problem	1
+contributor	c nine  hotelworks bill barnett 	1
+taxa	c bor ist ella	1
+surgery	c section	2
+natural resource	c of fee	1
+ship	c class ship	1
+physical parameter	c zero 	1
+motif	c shape	1
+winner	c five  vette 	2
+product category	c  eight  to c  nine 	3
+product category	c  six  to c  seven 	2
+product category	c  eight 	2
+product category	c  two  to c  six 	1
+product category	c  nine  to c  thirty 	1
+product category	c nine  to c thirty 	1
+product category	c  nine  to c  fourty-six 	1
+product category	c  eleven  to c  thirty-eight 	1
+product category	c  seven  to c  eight 	1
+product category	c  eleven  to c  twelve 	1
+product category	c  seven 	1
+product category	c six 	1
+cell type	c two c twelve  cell 	1
+latest technology	c class blade system	1
+common item	c ancer p revention  ninety-seven  chinaware 	1
+contract	c  four 	1
+court	c sixteen  raven court 	1
+stalwart	c n r rao	1
+toxin	c three  exoenzyme 	1
+organic compound	c  three  h  eight 	1
+organic compound	c  two  h  four 	1
+organic compound	c  two  h  six 	1
+organic compound	c two h four 	1
+search engine	c sixty-four  games database 	1
+item	c two  current quarter 	1
+item	c one  current quarter 	1
+item	c ration	1
+item	c zero bz 	1
+item	c two  fire extinguisher 	1
+item	c ten 	1
+item	c fifty-six 	1
+item	c seventy-four 	1
+item	c seventy-eight 	1
+item	c twenty-four 	1
+phase	c eight 	3
+phase	c eighteen 	1
+bill	c six 	1
+bill	c fifteen 	1
+by-products	c  three 	1
+derivative	c  six  h s ci 	1
+computer program	c program	1
+wood	c fir	1
+designation	c one 	1
+luxury item	c two hundred and thirty  mercedes 	1
+technological innovation	c two  scrubber 	1
+scale	c major	3
+editor	c one  silverlight editor 	1
+descriptors	c  twelve 	1
+descriptors	c sixteen 	1
+descriptors	c  six 	1
+descriptors	c  eight 	1
+descriptors	c  sixteen 	1
+electronic component	c two 	1
+fungus	c neoformans	2
+bacterium	c difficile	1
+column	c  eight 	2
+column	c eight 	1
+mark	c  three 	1
+note	c twenty-four 	1
+theologian	c s lewis	1
+hydrocarbon	c one -c six  alkyl 	2
+hydrocarbon	c seventeen : two 	1
+hydrocarbon	c two h four 	1
+hydrocarbon	c  two  h  two 	1
+hydrocarbon	c  thirteen - fifteen 	1
+hydrocarbon	c two h two 	1
+hydrocarbon	c two h six 	1
+hydrocarbon	c three 	1
+hydrocarbon	c seventeen : one 	1
+hydrocarbon	c  two  h  six 	1
+hydrocarbon	c  one - three 	1
+hydrocarbon	c  five 	1
+hydrocarbon	c  ten - twelve 	1
+hydrocarbon	c sixteen : two 	1
+hydrocarbon	c sixteen : three 	1
+hydrocarbon	c  two  h  four 	1
+hydrocarbon	c three -c five  hydrocarbon 	1
+item	c t mutual insurance co property tax	1
+structural feature	c three  side chain 	1
+clinical parameter	c four  level 	1
+sequence	c seven 	1
+laboratory test	c reactive protein	1
+traditional material	c an vas	1
+fragrance	c plug-in air freshener	1
+environmental variable	c two 	1
+camp	c five  foundation 	1
+furnishings	c lighting lamp	1
+datum set	c three hundred and seventy lib object library 	1
+rogue Anti-Spyware	c components	1
+boat	c ninety-seven 	1
+star player	c ronaldo	2
+premium brand	c two 	1
+large object	c one 	1
+basic technique	c chord	1
+size	c through k cup	1
+limit	c of g position come into play	1
+small molecule	c  sixty 	1
+organic solvent	c  one  - c  five  alcohols acetone 	1
+area	c four isr 	2
+educational material	c ha lks	1
+alcohol	c six  sugar alcohol 	1
+alcohol	c  ten  alcohol 	1
+alcohol	c one -c six  lower alcohol 	1
+alcohol	c five -c eight  with straight 	1
+connector	c four  solder bump 	1
+connector	c one  underside 	1
+node	c two  c three 	1
+node	c one 	1
+profile	c - channels u-channels	1
+rare case	c  five hundred and fifty-six  in rb 	1
+formula	c two  for hour 	1
+input parameter	c factor	1
+objective measure	c reactive protein	1
+revenue	c o llege from a hunting rights lease	1
+upcoming event	c five fest ii trip 	1
+key function	c two 	1
+fringe benefit	c m p s n	1
+bike	c one  bmw 	1
+postoperative complication	c five  radiculopathy 	1
+denomination	c of e	1
+biomarkers	c reactive protein	1
+discovery	c reactive protein	1
+key technology	c four i oriented synthetic display of multi-dimensional information 	1
+cell line	c one ra two  dc-sign 	1
+cell line	c one hundred and twenty-seven 	1
+abbreviation	c for cis	1
+agonists	c five a 	1
+blood test	c six  antibody test 	2
+blood test	c panel	1
+blood test	c reactive protein	1
+adjuvants	c parvum	3
+organic product	c one  through c five  monoalcohols 	1
+strain	c fifty-seven  black 	1
+strain	c fourty-one 	1
+strain	c phylotype of symbiodinium isolate	1
+training course	c c lesson in india meant for different aspects of a job	1
+development tool	c compiler	3
+vitamin	c esters	3
+vitamin	c from orange juice	1
+vitamin	c & folate in rich amount	1
+investigator	c daniel batson	1
+area	c lean technology	1
+area	c??il aodha in west cork	1
+young star	c matt weiters	1
+Christians	c s lewis	1
+drive	c three hundred 	1
+shopping center	c k tang	1
+impairment	c i rcuit noise	1
+datum structure	c union	1
+currency	c point	1
+mediator	c reactive protein	1
+mediator	c five a 	1
+information system	c four isr system 	1
+programming language	c programming language	6
+programming language	c language	3
+programming language	c eighty-nine 	2
+programming language	c sharp	1
+programming language	c plus plus	1
+countermeasure	c fourty-one  network 	1
+national publication	c osmopolitan	1
+national publication	c magazine	1
+marketing strategy	c redit card rewards program	1
+reserve	c yemi makanjuola	1
+standard method	c p andadjustedr  two 	1
+fatty acid	c sixteen : zero 	3
+fatty acid	c fourteen : zero 	2
+fatty acid	c  fourteen 	1
+fatty acid	c fourteen 	1
+fatty acid	c seventeen : zero 	1
+fatty acid	c eighteen : zero 	1
+fatty acid	c eighteen  acid 	1
+fatty acid	c  sixteen 	1
+fatty acid	c twelve 	1
+fatty acid	c twenty : five 	1
+fatty acid	c eighteen : two 	1
+flammable material	c three  seam sealer 	1
+free agent	c ryan cook being unrestricted	1
+large retailer	c one thousand  	1
+boundary condition	c  zero 	3
+anthropogenic activity	c onveyance of contaminated soil material by plant	1
+auto part	c six  corvettes 	1
+area	c five r engine 	1
+genetic disorder	c one  esterase inhibitor protein deficiency 	1
+truck	c twenty 	1
+truck	c one thousand five hundred  pickup 	1
+truck	c thirty 	1
+infectious agent	c difficile	1
+insurance product	c ar cover	1
+chip	c eight thousand and fifty-one f three hundred and twenty-six 	1
+paint	c two 	1
+control function	c o n t r o l p l a y d v	1
+Smartphones	c seven 	1
+cluster	c eleven 	1
+logistical issue	c replenishment	1
+blend	c monster	2
+deficiency	c two  system deficiency 	1
+preacher	c h spurgeon	1
+address	c  zero  ptr 	1
+amendment	c ninety-five 	1
+amendment	c eighty-eight 	1
+amendment	c one hundred and two 	1
+radical	c  two  h 	2
+radical	c two h 	1
+radical	c one -c four  alkyl radical 	1
+soldier	c co.	1
+letter	c for chrysler	1
+handset	c seven 	3
+area	c scheme	1
+area	c nineteen th residential conservation area 	1
+TV channel	c five n 	1
+national institution	c anadian wheat board	1
+anion	c  six  h  five  c  two  - 	2
+radio	c crane radio	1
+online community	c four d cafe 	1
+electrical product	c plug	3
+local initiative	c four c 	1
+sculptor	c c mulligan	1
+simple feature	c code with embedded assembly	1
+direction	c in the ferroelectric rhombohedral phase	1
+lab test	c three 	1
+boy	c four d 	1
+cycle	c one  on fig 	1
+polar solvent	c six - twelve  alkyl esters of lower alcohol 	1
+performance feature	c wing mast	1
+news source	c hina post	1
+innovative company	c r bard	1
+rare disease	c ha rcot-marietooth disease	1
+economic incentive	c credit	1
+hazardous chemical	c one  combustible liquid 	1
+isotope	c thirteen 	2
+isotope	c  twelve  o 	1
+explosive	c four 	12
+explosive	c three 	1
+animal model	c three h persistent infection mouse model 	1
+large client	c twenty-eight 	1
+woman writer	c nineteen th woman writer 	1
+factor	c & folate	1
+factor	c  eighteen  sorbent amount 	1
+factor	c eighteen  sorbent amount 	1
+factor	c two  fertilization 	1
+factor	c gd	1
+service	c card	2
+service	c sixty-four  system service 	1
+service	c two u clinic 	1
+service	c arpet steam cleaning	1
+dependency	c runtime library	1
+premium product	c four  extreme 	1
+forest	c five  forest management unit 	1
+volatile compound	c five  alcohol 	1
+airplane	c one hundred and eighty-two 	1
+airplane	c twenty-seven j 	1
+analog	c eight -substituted purine nucleotide analog 	1
+business entity	c five  community business entity 	1
+greenhouse gas	c two 	1
+graph	c c versus v cb	1
+network resource	c three po 	1
+inflammatory mediator	c three a 	2
+inflammatory mediator	c five a 	1
+chronic infection	c pneumoniae pneumonitis	1
+small species	c  three 	1
+small species	c  two 	1
+carboxylic acid	c  six  h  five  cooh 	1
+jockey	c located in swansea area	1
+jockey	c located in east sussex	1
+anionic surfactants	c twelve - thirteen  alkyl sulfate derived from safol.tm 	1
+mutual fund	c share	1
+lipid	c sixteen : zero 	2
+lipid	c sixteen : three 	2
+lipid	c sixteen : one 	2
+lipid	c eighteen : three 	2
+lipid	c eighteen : one 	2
+mission-critical application	c four isr application 	1
+mission-critical application	c two  application 	1
+substituents	c  eighteen  based imidazolines 	1
+emulator	c sixty-four  frodo 	1
+loose material	c oa l	1
+legal entity	c corporation	1
+atom	c thirteen 	1
+atom	c  twelve 	1
+atom	c sixteen 	1
+classifier	c four . five  family algorithm 	1
+classifier	c four . five 	1
+classifier	c five . zero 	1
+organic molecule	c four h ten 	1
+computer service	c programming	1
+model system	c elegans	1
+steel	c fifteen 	1
+steel	c ten 	1
+steel	c twenty 	1
+architectural style	c two  architecture used by xu et al. in 	1
+surgical complication	c five  nerve palsy 	1
+professional activity	c onsultant on database modelling	1
+nanomaterials	c fullerenes	1
+system service	c sixty-four  system service 	1
+side reaction	c shift	1
+control strategy	c capture	1
+fragment	c three b 	1
+tracer	c two cl four 	1
+flag	c for clean	1
+independent	c hoare	1
+state variable	c carbon pool	1
+manuscript	c i l o r s t	1
+yeast	c albicans	2
+customer datum	c redit card number	1
+Nanoparticles	c  sixty  fullerenes 	2
+personal circumstance	c special occasion	1
+mutant	c five  r sixty-two a 	1
+top prospect	c tony sanchez	2
+shell	c shell	3
+alkyl group	c  one - six  alkyl group 	2
+alkyl group	c one -c six  alkyl 	1
+alkyl group	c eighteen -alkyl group 	1
+alkyl group	c  two  h  five 	1
+alkyl group	c one - twenty  alkyl group 	1
+alkyl group	c one - twenty  alkyl group 	1
+alkyl group	c one - eight  alkyl 	1
+alkyl group	c  one - twenty  alkyl group 	1
+alkyl group	c two h five 	1
+inflammatory marker	c reactive protein	5
+racehorse trainer	c located in cambridgeshire	1
+racehorse trainer	c located in newport	1
+business facility	c d roms	1
+classification system	c four . five 	1
+policy option	c taxation	1
+UK company	c dugard	2
+food vendor	c hot dogs	1
+discounter	c twenty-one 	1
+conservation area	c nineteen th residential conservation area 	1
+Marxists	c l r james	1
+successful initiative	c card scheme	1
+generation	c c tan in singapore	1
+capacitor	c one 	2
+capacitor	c two 	2
+capacitor	c three 	2
+capacitor	c twenty 	1
+capacitor	c two b 	1
+capacitor	c eleven 	1
+ation	c three a 	1
+chemical constituent	c two 	1
+classification method	c five . zero 	1
+reactive gas	c  twelve 	2
+reactive gas	c  three  f  eight 	1
+reactive gas	c two 	1
+reactive gas	c  two  f  six 	1
+topic	c of o's	1
+topic	c four isr 	1
+laboratory parameter	c reactive protein	1
+radioactive material	c  fourteen 	1
+interactive program	c four 's interactive program 	1
+reaction product	c two h 	1
+machine learning technique	c four 	1
+machine learning technique	c five . zero 	1
+pharmacokinetic parameter	c max	2
+plug	c twenty 	1
+standard parameter	c olo r	1
+TV network	c ctv	1
+key site	c fifteen  hydroxyl 	1
+physical location	c two  center 	1
+text file	c source code	1
+text file	c listing	1
+text file	c program	1
+bonding technique	c four  bonding 	2
+conventional weapon	c four 	1
+pedagogical feature	c hapter objective	1
+famous dish	c otoletta alla milanese	1
+non-genetic factor	c effect	1
+powerful ingredient	c combines with optimal proportions into the female lymphatic system	1
+delicious item	c onfit for cheese	1
+topic	c three  change 	1
+topic	c library	1
+topic	c hild predator	1
+routine laboratory test	c reactive protein	1
+biological product	c ball	1
+cherished number plate	c fourty-seven  ley 	1
+clamp	c & pipe clamp with assorted cable	1
+clamp	c shaped clamp	1
+clamp	c clamp	1
+programming environment	c programming language	1
+aircrafts	c one hundred and thirty 	1
+designer item	c & c california clothing	1
+inequality	c pa	1
+energy saving feature	c one e in the cpu configuration section 	1
+night club	c two k club in las vegas 	1
+electrical connection	c four  connection 	1
+protein kinases	c kinase	1
+aliphatic hydrocarbon	c  fifteen  n-paraffins 	1
+computer language	c by means of pointer	1
+codex	c f k l r s x y z	1
+codex	c g k l o t y	1
+codex	c r s t aa bb ee	1
+codex	c f g h k l r s u v w x y	1
+codex	c f l o r s t w	1
+codex	c g k o r s u v y	1
+codex	c g h i l r s t u y z	1
+codex	c f g i k l o s t u w x	1
+codex	c f g i k r s t u	1
+tumor cell	c six  cell 	3
+veterinarian	c p located in hertfordshire	1
+Nanostructures	c sixty  fullerenes 	1
+senior executive	c level executive	1
+topic	c operator	1
+polyunsaturated fatty acid	c eighteen : three 	1
+polyunsaturated fatty acid	c twenty : four 	1
+polyunsaturated fatty acid	c twenty-two : six 	1
+polyunsaturated fatty acid	c  eighteen 	1
+essential program	c library	1
+ligand	c three d 	1
+complex datum type	c structure	1
+industry representative	c keshava rao	1
+classification algorithm	c four . five 	2
+habitat parameter	c pool size	1
+machine learning algorithm	c four . five 	2
+machine learning algorithm	c four . five  decision tree algorithm 	1
+metabolic pathway	c five  ring-hydroxylation 	1
+tutorial	c programming	1
+cellular protein	c twenty-three 	1
+impact player	c jeff mathis	1
+modern machine	c n c milling machine	1
+aircraft type	c two hundred and six 	1
+aircraft type	c two hundred and ten 	1
+chord	c major	3
+chord	c sus	1
+chord	c minor	1
+chord	c minor open	1
+chord	c cm cdim c seven 	1
+chord	c chord	1
+chord	c minor seventh chord	1
+circuit parameter	c  two 	1
+circuit parameter	c  one 	1
+comonomers	c four - six  alkenes 	3
+conviction	c felony	1
+graduate course	c five hundred 	1
+key input	c key for no input condition	1
+legal structure	c corporation	2
+backup system	c two  portable backup 	1
+performance car	c five 	1
+machine learning method	c five . zero  decision tree 	1
+machine learning method	c four . five 	1
+second-order effect	c hannel-length modulation	1
+compan ies	c & h dye casting	1
+company	c & t transportation	4
+company	c c limousine	2
+company	c schwab	2
+company	c & s national bank	2
+company	c & t publishing	1
+company	c a l g a ry-based energy firm encana c o r p.	1
+france tv channel	c nine  television 	1
+laboratory value	c reactive protein concentration	1
+movie character	c three po from star wars 	1
+wood item	c twenty th wood item 	1
+world class musician	c harles dutoit	1
+world class musician	c arlo maria giulini	1
+explosive material	c four 	3
+gram-negative bacterium	c pneumoniae release lps on multiplication	1
+environmental requirement	c lean water act's intake structure regulation	1
+explosive device	c four 	1
+datum mining tool	c four . five  by ross quinlan 	1
+high sodium food	c anne d soup	1
+learning algorithm	c four . five 	2
+satisfied client	c one rca 	1
+nonpolar solvent	c six h six 	1
+nonpolar solvent	c six -c twenty  straight chain alkanes 	1
+sexually transmitted infection	c trachomatis	1
+sharp	c omega	1
+small ship	c one hundred and thirty 's for immediate assistance 	1
+core functionality	c l command	1
+good material	c one s fbb board 	1
+saturated fatty acid	c  sixteen 	3
+saturated fatty acid	c  eighteen 	3
+saturated fatty acid	c eighteen : zero 	1
+saturated fatty acid	c  fourteen 	1
+saturated fatty acid	c fourteen : zero 	1
+saturated fatty acid	c  twenty-two 	1
+saturated fatty acid	c  twenty 	1
+nonnative plant	c anada thistle	1
+alkyl	c  four  alkyl 	3
+alkyl	c  five  alkyl 	3
+alkyl	c  one - six  alkyl 	2
+alkyl	c three h seven 	1
+alkyl	c four h nine 	1
+alkyl	c  one  alkyl 	1
+alkyl	c two h five 	1
+alkyl	c one -c six  alkyl 	1
+alkyl	c  one - thirty-six 	1
+hard drive	c drive	1
+company	c & h dye casting	1
+company	c four 	1
+company	c two net 	1
+company	c three  corporation 	1
+company	c four m 	1
+company	c & g porting	1
+company	c & t transportation near pga airport in arizona	1
+company	c de la b	1
+identification number	c thirty-seven . seventy-one  for the requirements for line closing switching surge voltage control 	1
+MS	c channel	1
+exposure parameter	c min	1
+locomotive	c fourty - eight w 	1
+business structure	c corporation	1
+common design	c  thirty-three  d 	1
+ambiguous term	c justification	1
+proven program	c itibank management program	1
+visual component	c one 	1
+personal protection device	c two  tasers 	1
+proinflammatory mediator	c five a 	2
+proinflammatory mediator	c three a 	1
+common command	c for copy	1
+game engine	c four  engine 	1
+liquid component	c  five 	1
+transcript	c five r one 	1
+brilliant mind	c s lewis	1
+global measure	c  three 	1
+growth company	c speed	1
+light hydrocarbon	c three 	1
+proper material	c thirty-three  concrete sand 	1
+sugar alcohol	c six  sugar alcohol 	1
+combustible gas	c  two  h  six 	1
+combustible gas	c  two  h  four 	1
+datum collection	c fourteen  database 	1
+chlorinated compound	c dce	2
+chronic liver disease	c infection	2
+company	c one r 	1
+company	c two e technology labs pvt. ltd 	1
+company	c & j trailways	1
+company	c j lang	1
+isolate	c ryptococcus spp.	1
+Transport aircraft	c five  galaxy 	1
+abdominal surgery	c section	1
+bracket	c shaped mounting bracket	1
+electron-withdrawing group	c f  three 	1
+genomic tool	c dna	1
+high level language	c compilers	2
+high level language	c in the field of computer programming	1
+mathematics	c maths	1
+polymorphisms	c  three thousand four hundred and thirty-five  t snp 	1
+Fullerenes	c  seventy 	17
+Fullerenes	c  sixty 	16
+Fullerenes	c sixty 	9
+Fullerenes	c  seventy-six 	9
+Fullerenes	c seventy 	6
+Fullerenes	c seventy-six 	5
+Fullerenes	c  eighty-four 	5
+Fullerenes	c  eighty-two 	3
+Fullerenes	c eighty-four 	2
+Fullerenes	c eighty 	2
+Fullerenes	c seventy-eight 	2
+Fullerenes	c  seventy  andc  seventy-two 	1
+Fullerenes	c  seventy  fullerenes 	1
+Fullerenes	c ninety 	1
+Fullerenes	c  ninety-four 	1
+Fullerenes	c seventy  fullerenes 	1
+Fullerenes	c  five hundred and fourty 	1
+Fullerenes	c  seventy-two 	1
+Fullerenes	c  two hundred and fourty 	1
+high explosive	c four 	2
+control character	c one  control character 	1
+control character	c zero  control character 	1
+influential publication	c magazine	2
+microwave component	c o u p l e r s	1
+organic group	c one -c ten  alkyl group 	1
+retainer	c ring	2
+standard size	c six 	1
+standard size	c five 	1
+couplers	c one 	2
+couplers	c two 	1
+full accessory	c channel	1
+market entrant	c two  biofuels 	1
+transnational organization	c fourty  group 	1
+brownfield site	c one 	1
+brownfield site	c eight 	1
+chronic viral infection	c old sore	1
+hospital supply	c - arms	1
+laboratory examination	c three a 	1
+laboratory marker	c reactive protein	2
+mammalian cell line	c two c twelve 	1
+protective film	c film	1
+volatile species	c  two  hydrocarbon 	1
+atmospheric constituent	c two 	1
+host protein	c four bp 	1
+hydrocarbon group	c  one  - c  six  alkyl group 	1
+hydrocarbon group	c  one  to c  twenty-four  alkyl group 	1
+hydrocarbon group	c  one - twenty  alkyl 	1
+hydrocarbon group	c one - six  monovalent hydrocarbon group 	1
+star performer	c?line dion	1
+wireless provider	c spire	1
+chemotactic factor	c five a 	5
+email service provider	c on stant c on tact	1
+gaseous product	c two 	1
+grass root organization	c one hundred 	1
+inflammatory biomarkers	c reactive protein	1
+carbon atom	c eighteen 	1
+carbon atom	c fifty-two 	1
+coupler	c two 	1
+coupler	c one 	1
+environmental value	c stock	1
+immunological technique	c one q deviation test 	1
+specialty gas	c three h six 	1
+specialty gas	c two h six 	1
+user file	c source file	3
+compressed gas	c two 	1
+gas species	c two 	1
+light bulb	c nine  type light bulb 	2
+Nazis	c eighteen 	1
+dangerous element	c two  center 	1
+heavy hydrocarbon	c  five 	2
+heavy hydrocarbon	c  eight  hydrocarbon 	1
+heavy hydrocarbon	c  six  hydrocarbon 	1
+objective variable	c reactive protein	1
+paper size	c four 	1
+single cell	c cell	1
+spelling variation	c?sul ~ c?nsul	1
+alkyl radical	c one -c four  alkyl radical 	1
+carving	c up mark	1
+acoustical parameter	c eighty 	1
+acoustical parameter	c fifty 	1
+character model	c three p zero 	1
+activity	c sr capacity-building for enterprise	1
+activity	c l i m b i n g stair	1
+star war character	c three -po jedis 	1
+acute-phase reactant	c reactive protein	1
+generation aircraft	c seventeen 	1
+alkylene group	c one -c four  alkylene group 	1
+alkylene group	c one -c six  alkylene group 	1
+battery manufacturer	c & d technologies	1
+hydrophobic group	c  three  c  twenty-four -alkyl group 	1
+light gas	c  one 	1
+procedural language	c programming language	5
+procedural language	c programming enguage	1
+strong female character	c  two 	1
+technologic advance	c six  eia 	1
+well information	c one 	1
+genotypes	c two hundred and eighty-two y homozygosity 	2
+light component	c three 	1
+light component	c two 	1
+mercaptans	c four -c twenty-two  alkyl mercaptans 	1
+nucleotide analog	c eight -substituted purine nucleotide analog 	1
+repetitive motion injury	c arpa l tunnel sy ndrome	1
+Chemoattractants	c five a 	3
+critical capability	c two  system 	1
+immunological factor	c four 	1
+immunological factor	c three 	1
+constant value	c v	1
+activity	c class driver licensing	1
+inflammation marker	c reactive protein	1
+local method	c four . five 	1
+security model	c two 	1
+auctioneer	c c aikman	1
+computer science subject	c omputer networks	1
+fluorocarbon	c four f six 	1
+fluorocarbon	c four f eight 	1
+grit	c  sixty 	1
+local fund	c three  holdings llc 	1
+nickel alloy	c two thousand  	1
+nickel alloy	c twenty-two 	1
+positive control	c three  in blood vessel 	2
+positive control	c four d in mesangial area 	1
+production model	c thirty 	1
+prominent atheist	c grayling	1
+stationary phase	c eighteen 	2
+stationary phase	c eight 	1
+stationary phase	c two 	1
+cleanup method	c eighteen  column 	1
+condensable gas	c twelve 	1
+radioactive tracer	c fourteen  n-octacosane 	1
+strong antioxidant	c for optimum nutritional health	1
+composite type	c structs	1
+cutting-edge procedure	c olgate whitening	1
+low molecular weight hydrocarbon	c  two  to c  four  chlorinated hydrocarbon 	1
+susceptibility gene	c four a 	2
+top quality paint	c two  eggshell 	1
+american vehicle	c thirty 	1
+liquid formulation	c eight thousand nine hundred and ten  in silicone 	1
+parallel architecture	c ninety 	1
+ring structure	c one  vertebra 	1
+ring structure	c thirty  macrocyclicpericyclyne 	1
+volatile memory	c mos ram	1
+blood factor	c reactive protein	1
+ERP component	c one 	1
+great soccer superstar	c ronaldo	1
+nokia device	c seven 	3
+performance mod	c & l air intake	1
+personal debt	c ar lo ans	1
+poly bag	c & a film	1
+problem-solving activity	c two  car 	1
+pyrolysis product	c  four 	1
+up-to-date feature	c  sixty 	1
+foil material	c ol d-welded material	1
+intermediate species	c  two  hydrocarbon 	1
+isuzu model	c two hundred and fourty - three g 	1
+isuzu model	c two hundred and fourty - four r 	1
+isuzu model	c two hundred and fourty - three r 	1
+isuzu model	c two hundred and twenty-three 	1
+isuzu model	c one hundred and ninety g- four g 	1
+on-line community	c four d cafe 	4
+suitable connection	c clip	1
+acute phase reactant	c reactive protein	3
+acyl	c  one - six  alkanoyl 	2
+acyl	c  one - six  alkoxy-carbonyl 	1
+acyl	c  one - six  alkyl-carbonyl 	1
+acyl	c  one - thirty  alkyl-carbonyl 	1
+acyl	c  six - fourteen  aryl-carbonyl 	1
+acyl	c one - six  alkyl-carbonyl 	1
+acyl	c  two - thirty  alkenyl-carbonyl 	1
+acyl	c  one - six  alkylsulfonyl 	1
+acyl	c six - fourteen  aryl-carbonyl 	1
+acyl	c one - six  alkoxy-carbonyl 	1
+antifibrinolytic agent	c one -esterase inhibitor 	1
+bigs	c kendrick perkins	1
+Carbon nanomaterials	c  sixty  fullerenes 	1
+emerging risk factor	c reactive protein	1
+fascist group	c eighteen 	2
+fluorine compound	c two f six 	1
+great prospect	c robinson chirinos	1
+light aircraft	c one hundred and seventy-two 	1
+MMA organization	c three  fights based out of oklahoma city 	1
+teacher behavior	c alling on student	1
+aroma compound	c thirteen  norisoprenoids 	1
+entry-level model	c class	1
+greedy algorithm	c four . five 	1
+greenhouse gas emission	c two 	1
+PSO parameter	c  two 	1
+refinery stream	c  four  s 	2
+soluble ion	c one 	1
+wholesale various brand watch	c hanel watch	1
+wholesale various brand watch	c artier watch	1
+acute-phase protein	c three 	1
+anti-inflammatory property	c reactive protein	1
+chain fatty acid	c fourteen 	1
+chain fatty acid	c twelve 	1
+force multiplier	c four i 	1
+great characteristic	c two  power banana tech for precise control 	1
+halogen-containing gas	c twelve 	1
+inflammation mediator	c reactive protein	1
+japanese motif	c ranes	1
+light type	c bulb	1
+NPs	c sixty  fullerenes 	2
+plastic explosive	c four 	8
+plastic explosive	c three 	1
+power saving feature	c one e 	3
+power saving feature	c three  c six 	1
+suitable substituent	c two - six  alkenyl 	2
+suitable substituent	c six - ten  aryl 	2
+suitable substituent	c six -c ten  aryl 	1
+suitable substituent	c two -c six  alkenyl 	1
+triad	c e g	1
+alkynes	c twenty-two 	1
+architectural practice	c four isr af 	1
+assay technique	c one q deviation test 	1
+council document	c two hundred and fourty  covenant 	1
+cycloalkyl group	c three - ten  cycloalkyl 	1
+cycloalkyl group	c three - six  cycloalkyl 	1
+established cell line	c two c twelve 	1
+fixation technique	c two  pedicle screw fixation 	1
+high-performance component	c six thousand one hundred and fourty  ipc 	1
+hydrocarbon radical	c  two v symmetricpropargyl radical 	1
+key free agent	c jason kendall	2
+local government association	c fourty  cities climate leadership group 	1
+PFCs	c two f six 	2
+popular size	c five 	1
+popular size	c four 	1
+power-saving feature	c one 	1
+regional asset	c herokee t ribe	1
+secondary structure element	c helix	1
+Side information	c arrier phase	1
+standard version	c eighty-nine 	1
+acoustic measure	c  eighty 	1
+basic chord	c major	2
+carbon-based nanomaterials	c  seventy 	1
+carbon-based nanomaterials	c  sixty 	1
+cpu	c two d t seven thousand five hundred 	1
+Cs	c one 	1
+decision tree algorithm	c four . five 	12
+decision tree algorithm	c five 	1
+decision tree algorithm	c five . zero 	1
+discharge source	c rf discharge	1
+explosive charge	c four 	1
+gnu tool	c compiler	1
+historical combat aircraft	c one hundred and twenty-three k provider 	1
+Isoprenoids	c fifteen  farnesyl 	1
+lower alcohol	c one -c six  lower alcohol 	1
+Nokia smartphones	c seven 	2
+event	c street scandals	1
+event	c two c ride 	1
+powerful ruler	c abd al-ramn iii	1
+sensitive detection system	c two  kit 	1
+serpins	c one -inh 	2
+ADLs	c two 	6
+alkyl mercaptans	c four -c twenty-two  alkyl mercaptans 	1
+bulk	c compliers	1
+cape	c ape arkoma	1
+chronic, non-communicable disease	c ardiovascular disease	1
+complement factor	c three 	3
+complement factor	c three a 	2
+complement factor	c four b 	1
+complement factor	c four 	1
+complement factor	c five a 	1
+compound datum type	c structure	1
+efficient part	c two hundred and fourty  aftermarket power steering hose 	1
+great orator	c ali b. abi talib	1
+Hydrofluorocarbons	c two f six 	1
+hydrogen-containing gas	c  two  h  six 	1
+machine-learning algorithm	c five . zero 	1
+marketing research firm	c nielsen	1
+mercedes model	c one hundred and eighty  blue efficiency 	1
+nucleophilic group	c  one  - c  six  alkyl group 	1
+power saving option	c one e 	1
+prevention product	c e ferulic	1
+required client-side plug-ins	c isco unified communications manager attendant console	1
+required client-side plug-ins	c isco unified communications manager r eal-time monitoring tool	1
+simple scale	c major scale	1
+single vehicle	c two  lav 	1
+standard learning algorithm	c four . five  algorithm 	1
+supercritical solvent	c one -c four  alkanes 	1
+traditional programming language	c language	1
+wooden handicraft item	c candle holder	1
+alkyls	c  one  - eight -alkyls 	1
+antibody assay	c six  igg eia 	1
+bypass capacitor	c two 	1
+bypass capacitor	c one 	1
+cell reference	c one 	1
+data-mining method	c four . five 	1
+electrolytic solution	c two h two o four 	1
+program	c program	3
+free area	c three  ~ c eight 	1
+gujarat-based company	c mahendra exports	1
+instance variable	c array	1
+low-fat bread	c orn tortilla	1
+non lethal self defense weapon	c two  taser 	1
+Penetrants	c three h eight 	1
+simple chord	c major	1
+SSD	c three hundred  realssd 	1
+system-level setting	c isco unified communications manager groups	1
+training aircraft	c one hundred and fifty-two 	1
+angle plate	c i angle plate	1
+authentic military weapon	c four  charge 	2
+chemical symbol	c for carbon	1
+common assumption	c c across the leaf	1
+corrosion kinetic parameter	c a degree of surface coverage fig	1
+error-correction code	c one  code of reed solomon code 	1
+exam class	c two  proficiency 	1
+fullerene derivative	c -lcb- sub  sixty  -rcb- o 	1
+fullerene derivative	c sixty ch two 	1
+fullerene derivative	c -lcb- sub  sixty  -rcb- ch -lcb- sub  two  -rcb- 	1
+fullerene derivative	c -lcb- sub  seventy  -rcb- o 	1
+fullerene derivative	c sixty o 	1
+fullerene derivative	c seventy o 	1
+legendary street artist	c two hundred and fifteen 	1
+low carbon steel	c ten 	1
+low carbon steel	c fifteen 	1
+low end mics	c one 	1
+nano-carbon material	c sixty 	1
+program	c fourty 	2
+program	c four d 	1
+program	c four 	1
+program	c four  c 	1
+program	c four 's interactive program 	1
+program	c amtasia for producing screen video	1
+program	c compiler	1
+nokia model	c one - one 	1
+nokia model	c two 	1
+non-deleterious component	c four  lower paraffin 	1
+non-deleterious component	c  four  lower paraffin 	1
+non-linear classifier	c four . five  andripper 	1
+part number	c thirty 	1
+symbian phone	c seven 	1
+ASTM test	c one thousand and twenty-six  freeze-thaw resistance 	1
+betaines	c twelve - eighteen  dimethylammonio hexanoate 	1
+buckeye	c michael brewster	1
+canadian club	c lounge	1
+children's writer	c s lewis	1
+classic pairings	c ranberries & chocolate	1
+complex hydrocarbon	c six h fourteen 	1
+CPU feature	c one e 	4
+Cracker co-products	c nine  resinfeeds 	2
+example feature	c one e 	1
+formal company	c corporation	1
+halogen-substituted paraffinic hydrocarbon	c  two  h  five  cl 	1
+high-level language construct	c structure	1
+honda cylinder block	c one hundred 	2
+Light Sport Aircraft	c fourty-two 	1
+milbemycin compound	c  one 	1
+mm rifle	c eight  cqb 	1
+mouse strain	c fifty-eight 	1
+MUFAs	c twenty-two : one n nine 	1
+MUFAs	c twenty : one 	1
+MUFAs	c seventeen : one 	1
+MUFAs	c fourteen : one 	1
+MUFAs	c sixteen : one n nine c 	1
+MUFAs	c fifteen : one 	1
+MUFAs	c eighteen : one 	1
+nokia handset	c six  along with n eight 	1
+nokia handset	c seven 	1
+Perfluorochemicals	c three f eight 	1
+Perfluorochemicals	c two f six 	1
+program	c language	1
+program	c one  pro 	1
+rail firm	c spencer ltd	1
+SAP system	c eleven 	1
+riddelliine	c eighteen h twenty-three no six 	0
+acoustic index	c eighty 	1
+basic business structure	c corporation	1
+blood investigation	c reactive protein	1
+capability area	c four isr 	1
+cleavage product	c three b 	1
+complement	c four b 	1
+complement component	c three 	8
+complement component	c five a 	4
+complement component	c four 	2
+complement component	c two 	1
+conventional classification method	c four . five 	1
+critical sociologist	c wright mills	1
+dell product	c six hundred  wireless notebook 	1
+dimensional model	c fifty 	1
+domain task force	c four i 	1
+envelope size	c four 	1
+envelope size	c six 	1
+envelope size	c five 	1
+famous australian poet	c j dennis	1
+fluorine compound gas	c  two  f  six 	1
+fluorine compound gas	c  two f . sub . six 	1
+fluorine compound gas	c two f six 	1
+gas constituent	c three  i-c four 	1
+immunogenetic factor	c four 	1
+induction algorithm	c four . five 	1
+literary heavyweight	c s lewis	1
+monovalent hydrocarbon group	c  one - twenty 	1
+monovalent hydrocarbon group	c one - six  monovalent hydrocarbon group 	1
+muscle cell line	c two c twelve 	1
+muscle cell line	c two c twelve  cell 	1
+NMR experiment	c thirteen 	1
+non-specific test	c reactive protein	1
+normal cell line	c two c twelve 	1
+polymorphic gene	c three 	1
+popular encodings	c fourty 	1
+power state	c one 	1
+power state	c two 	1
+PUFA	c  eighteen 	1
+single gene mutation	c one hundred and five  t ob 	1
+triplet molecule	c sixty 	1
+triplet molecule	c seventy 	1
+advanced formula	c plus	2
+BMW specific code	c one e one a 	1
+capacitance	c dg	1
+carbon number	c nineteen 	1
+carbon number	c twenty-five 	1
+carbon number	c sixteen 	1
+carbon number	c twenty-seven  for hydrocarbon 	1
+carbon number	c sixty  c seventy  c seventy-four  c seventy-six  c seventy-eight  c eighty  c eighty-two  c eighty-eight  c ninety 	1
+cell strain	c fourty-one 	1
+common fullerenes	c eighty-four 	1
+common fullerenes	c sixty 	1
+common fullerenes	c seventy-six 	1
+common fullerenes	c seventy 	1
+common fullerenes	c seventy-eight 	1
+complement activation product	c three a 	7
+complement activation product	c five a 	6
+complement activation product	c three b 	3
+complement activation product	c three d 	1
+complex chord	c nine 	1
+connection pool	c three p zero 	3
+continental engine	c seventy-five 	2
+continental engine	c eighty-five 	2
+Cycloaliphatic halides	c  five  - c  six  aliphatic halides e.g. 	4
+Cycloaliphatic halides	c  five  - c  six  aliphatic halides 	1
+decoratives	c hristmas flower vase	1
+defense molecule	c three b 	1
+defense molecule	c four b 	1
+factor	c  three  s content 	1
+factor	c factor	1
+factor	c gs	1
+dolt	c s lewis	1
+elastic constant	c thirty-three 	1
+english member	c & s goodall	1
+favorable case	c  one 	1
+historic story	c company	1
+home testing product	c learblue pregnancy test	1
+host strain	c fourty-one 	1
+inhstructure improvement	c urbs	1
+large capacitor	c three 	1
+large fragment	c three b 	1
+learning parameter	c  one 	1
+LG model	c one thousand five hundred 	1
+linear triatomic molecule	c two 	1
+lipid binding domain	c two 	1
+litigation case	c seven 	1
+lute	c thirty-four 	1
+military transport	c twenty-seven j 	1
+municipal network	c fourty 	1
+nano-particles	c  sixty  orcdse 	1
+PLFAs	c sixteen : zero 	1
+PLFAs	c fourteen : zero 	1
+PLFAs	c fifteen : zero 	1
+PLFAs	c eighteen : zero 	1
+PLFAs	c seventeen : zero 	1
+reactive trace gas	c two h two o two 	1
+rococo motif	c scroll	1
+saxophone	c melody	2
+organization	c oastal poodle rescue	2
+shell environment	c shell	1
+simple open chord	c major	1
+small airplane	c one hundred and seventy-two p 	1
+small lathe	c three  mini-lathe 	1
+standard-issue weapon	c seven  automatic rifle 	1
+surgery related complication	c five  palsy 	1
+transnational municipal network	c fourty 	1
+Volvos	c thirty 	1
+Volvos	c seventy  in ice white 	1
+war horse	c one hundred and thirty 	1
+alkali alcoholates	c  two  h  five  ona 	1
+best car	c four  picasso 	1
+best car	c five 	1
+bolt-on acquisition	c burn	2
+Buckminster fullerenes	c  sixty 	1
+Buckminster fullerenes	c  seventy 	1
+Buckminster fullerenes	c sixty 	1
+Buckminster fullerenes	c seventy 	1
+calibration curve	c two  of fig 	1
+cellular oncogene	c fos	1
+chain length	c six 	1
+chemotactic substance	c five a 	2
+classical chemoattractants	c five a 	1
+complement product	c five a 	3
+complement product	c three a 	2
+Confirmatory testing	c parvum direct fluorescent antibody staining	1
+corvette item	c five  cai's 	1
+corvette tuner	c five  concepts 	1
+CPU function	c one e 	1
+CPU setting	c one e support 	1
+crystal parameter	c  one 	1
+designer paint	c two 	1
+development file	c header file	2
+differentiation-associated property	c three  rosette formation 	2
+economically important feature	c four  photosynthesis 	1
+organization	c four 	1
+epson C series inkjet printer	c eighty-eight 	1
+epson C series inkjet printer	c ninety 	1
+epson C series inkjet printer	c seventy-nine 	1
+example unsaturated compound	c six hundred and twenty  olefins 	1
+example unsaturated compound	c six - twenty  olefins 	1
+exciting language framework	c at sea	1
+fa inhibitor	c seventy-five 	5
+FASN inhibitor	c ninety-three 	2
+FASN inhibitor	c seventy-five 	1
+field object	c one 	1
+fluorine source	c two f six 	1
+force category	c four isr 	1
+fullerene molecule	c sixty 	4
+fullerene molecule	c  sixty 	1
+fullerene molecule	c seventy 	1
+fullerene monomer	c seventy-four 	1
+fullerene monomer	c seventy-eight 	1
+fullerene monomer	c seventy-six 	1
+fullerene monomer	c eighty 	1
+gunship	c one hundred and nineteen  stinger 	1
+gunship	c fourty-seven  spooky 	1
+heavy-duty motor	c eighteen 	1
+heavy-duty motor	c thirteen 	1
+heavy-duty motor	c fifteen 	1
+high copper alloy	c one hundred and seventy 	1
+high copper alloy	c one hundred and seventy-two 	1
+High risk drinking	c h ronic drinking	1
+high-level language compiler	c language compiler	1
+innovative online tool	c hat room	1
+introduction organic molecule	c  sixty 	1
+leukotriene isoforms	c  four 	1
+limited topic	c three  sicilian 	1
+lipoxygenase pathway product	c four 	6
+long chain n-alkanoic acid	c  twenty-four 	1
+long chain n-alkanoic acid	c twenty-six 	1
+long chain n-alkanoic acid	c twenty-four 	1
+long chain n-alkanoic acid	c  twenty-eight 	1
+low ranking component	c fourty-nine 	1
+low ranking component	c fifty-two  in the aml datum 	1
+low ranking component	c fourty-five 	1
+low ranking component	c fifty-one 	1
+low-grade oil	c heavy oil	1
+low-q capacitive impedance	c bb one 	6
+low-q capacitive impedance	c bb three 	4
+low-q capacitive impedance	c bb four 	4
+low-q capacitive impedance	c bb two 	4
+memory allocation function	c malloc function	2
+mid-sized project	c development project in cuddalore	1
+minor street	c street	1
+NMR method	c thirteen -nmr spectroscopy 	1
+non-specific chemo-attractant compound	c three a 	1
+online backup	c infinity connected	1
+ordinary vegetable oil	c orn	1
+polar interaction	c  five  o 	1
+organization	c red	1
+organization	c one hundred 	1
+powerful explosive	c four 	1
+power-saving technology	c one e 	1
+rail bracket	c rail brackets	1
+raw analog datum	c of g.	1
+residential and commercial lighting product	c hand eliers	1
+sedan model	c class	1
+selected candidate lipid molecule	c four  sterols 	3
+skinceuticals product	c e ferulic	1
+small-signal component	c ss	4
+small-signal component	c osc	3
+soluble complement inhibitor	c one  inhibitor 	2
+soluble regulator	c four bp 	1
+taught subject	c programming	1
+technical and statistical method	c chart	1
+text abbreviation	c u soon	1
+traditional prepress service	c om position	1
+traditional reusage technique	c fourty-five 	1
+underwater species	c erathophyllum demersum	1
+veteran unrestricted free agent	c adam gates	1
+veteran unrestricted free agent	c adam oates	1
+well-known SELECT product	c la a s silage s t re tch film	1
+well-known VOCs	c three  benzene 	1
+agrobacterium strain	c fifty-eight 	1
+alkane hydrocarbon	c three 	1
+alkylthio group	c one - four  alkylthio group 	1
+ampoule	c complex	1
+antioxidant salen-metal complex	c seven 	9
+antioxidant salen-metal complex	c thirty-two 	2
+antioxidant salen-metal complex	c fourty 	2
+archtop model	c style	1
+technique	c four . five 	2
+technique	c zero 	1
+technique	c four d 	1
+technique	c four 	1
+technique	c drag	1
+technique	c d computed tomography	1
+bass chord	c major	1
+bio function	c one e 	1
+business legal formation	c corporation	1
+carbon cage structure	c seventy-six 	1
+carbon cage structure	c seventy-eight 	1
+carbon cage structure	c eighty-four 	1
+cargo airplane	c one hundred and thirty 	1
+CERP project	c one hundred and eleven  canal 	1
+CG aircraft	c one hundred and thirty 	1
+chief alumnus	c tim grunhard	1
+chitin binding protein	c type lectin regiiig	1
+chocolate-spa treatment	c hocolate-fondue wrap	1
+classic civil aircraft	c one hundred and eighty 	1
+comercial and military explosive	c four  plastic 	1
+complement activation fragment	c three b 	1
+complement activation fragment	c four b 	1
+complement activation fragment	c three a 	1
+complement inhibitor	c one  inhibitor 	1
+complement split product	c three a 	2
+complement split product	c three b 	1
+complement split product	c five a 	1
+consumer-facing tool	c onsumer pricing portal	1
+countless time	c four  hopping 	1
+crystalline hydrate	c four  ah nineteen 	1
+crystalline hydrate	c two  ah eight 	1
+crystalline hydrate	c three  ah six 	1
+decision-tree learning algorithm	c four . five 	1
+decoupling capacitor	c sixteen 	1
+drug-based measure	c one  inactivator 	1
+elevated plasma complement component	c three 	1
+elevated plasma complement component	c nine 	1
+elevated plasma complement component	c four 	1
+empirical formula	c five h ten o three 	1
+famous burgess shale organism	c anadia	1
+fancy control surface	c twenty-four s 	1
+field electrical system	c four isr 	1
+front-line ME ac	c one hundred and thirty j 	1
+front-line ME ac	c seventeen 	1
+FTV channel	c four 	1
+fullerenic material	c  eighty-four 	1
+fullerenic material	c  seventy 	1
+fullerenic material	c  sixty 	1
+technique	c four  connection 	1
+technique	c ontemporary psychology	1
+giant fullerenes	c  one hundred and four 	1
+giant fullerenes	c  five hundred and fourty 	1
+giant fullerenes	c  two hundred and fourty 	1
+gold jewellery manufacturing company	c mahendra exports	1
+g-protein effector molecule	c three  exoenzyme of c. botulinum 	1
+grade rating	c twenty-five 	1
+grade rating	c twenty 	1
+grade rating	c fifteen 	1
+green building organization	c four 	1
+handheld surefire military-grade flashlight	c three  centurion 	1
+high-quality health food supplement	c zero -q ten 	1
+HR2 peptides	c thirty-four 	1
+HR2 peptides	c fourty-three 	1
+hydrophobic stationary phase	c eighteen 	1
+idata truestroke linesin mission-critical application	c two  application 	1
+idata truestroke linesin mission-critical application	c four isr application 	1
+IEEE protocol	c thirty-seven . one hundred and eighteen 	1
+immunoreactants	c three 	2
+inexpensively worth fish	c punctatus	1
+INTERFERENCE gas	c twelve 	1
+intermediate ion	c iii	5
+international municipal network	c fourty 	3
+internationally many elite football club	c helsea in the uk	1
+latest mercedes-benz model	c two hundred  cgi 	1
+light hydrocarbon product	c twenty 	3
+light hydrocarbon product	c  twenty 	2
+light hydrocarbon product	c  nineteen 	1
+local business mogul	c arlyle group co-founder david rubenstein	1
+long chain fa	c twenty : zero 	1
+long chain fa	c twenty-two : zero 	1
+long chain fa	c twenty-four : zero 	1
+mid-pack car	c four  vette 	1
+military material	c four 	1
+mum species	c majus	1
+mum species	c sizzle salmon	1
+mum species	c carinatum	1
+mushroom mycelium extract	c ordyceps sinensis	1
+nerve fiber	c fiber	1
+non-cytokine mediator	c three a 	1
+application	c compiler	14
+non-VOCs	c four h ten 	1
+non-VOCs	c six h fourteen 	1
+non-VOCs	c five h twelve 	1
+numeric attribute type	c for counter	3
+ordinary opportunity	c is for car	1
+passivating gas	c  four  f  eight 	1
+pennsylvania incorporation option	c corporation	1
+photo radar alert product	c one hundred  photo radar detector 	1
+plasmatic component	c three d 	2
+polyenoic acid	c  twenty 	1
+polyenoic acid	c  twenty-two 	1
+polyenoic acid	c  twenty-four 	1
+polyunsaturated c16-fatty acid	c sixteen : two 	1
+polyunsaturated c16-fatty acid	c sixteen : three 	1
+polyunsaturated c16-fatty acid	c sixteen : four 	1
+power high-tech object	c four  defusers 	1
+powerful learning algorithm	c five  with boosting 	1
+prime talent	c victor martinez	1
+proinflammatory chemoattractants	c five a 	1
+promising mind	c four  bombsquad 	1
+public and private stakeholder	c ontinua alliance	1
+radical social and economic theorist	c wright mills	1
+real pvp game	c nine 	1
+reason explosive	c four 	2
+remote key	c sharp	1
+revenue commissioner documentation	c two  tax certificate 	2
+rodent muscle cell line	c two 	1
+rule induction technique	c four . five 	1
+serodiagnostic tool	c six  assay 	4
+settlement site	c y bers	1
+seven-transmembrane domain receptor agonists	c five a 	1
+snap-action thermal protector	c six ap for high current dc application 	1
+snap-action thermal protector	c eight am for large motor 	1
+solid murine tumor model	c thirty-eight  colon tumor 	1
+soluble penetrants	c three h six 	1
+soluble penetrants	c three h eight 	1
+SPE adsorbent	c eighteen 	1
+Spe-cificseven-transmembrane domain receptor agonists	c five a 	1
+standard plastic explosive	c four 	1
+standard processing	c fourty-one  processing 	1
+stopgap	c seventeen 	1
+strong emission line	c iv	1
+Subdesignations	c two 	1
+Subdesignations	c one 	1
+Subdesignations	c three 	1
+sublimation printer	c eighty-eight 	1
+sublimation printer	c one hundred and twenty 	1
+suitable retainer	c clip	1
+symbian anna phone	c seven 	1
+TNAC gene	c clade gene ntnac one hundred and fifty-six 	1
+top quality local general contractor	c & n construction	1
+traditional explosive	c three h five n three o nine 	1
+traditional vehicle component	c fourty-one 	1
+transport plane	c one hundred and thirty  hercules 	1
+typical programming environment	c compiler	1
+unit-cell parameter	c ax	1
+unsaturated ligands	c two  h four 	1
+unstable classifier	c four . five 	1
+urgent project	c street pump station upgrade	1
+volatile word	c word	1
+volvo's smaller car	c thirty 	1
+vp's specialty blend	c twenty-five 	1
+vp's specialty blend	c twenty-three 	1
+well-known and widely-applied PTFs	c osby et al.	1
+year machine learning technique	c five . zero 	1
+acoustical objective measure	c  eighty 	1
+aggregate remote transaction program datum	c structure containing field	1
+alkylene chain	c two -c four  alkylene chain 	1
+allocation information	c laiming firm	1
+Alpha-helical peptides	c thirty-four 	2
+anatomically difficult lesion	c lesion	1
+anti-aging serum	c quench	1
+atomic notation chemical symbol	c for carbon	1
+avant-garde and ground-breaking picture	c abinet of dr caligari	1
+badge-related weapon	c four  explosive 	1
+Basic light aircraft	c one hundred and seventy-two 	1
+basic programming skill	c language	1
+behicles	c one thousand five hundred  suburbans 	1
+benz model	c class	1
+benz tool	c four 	1
+beryllium copper alloy	c  one hundred and seventy-two 	1
+beryllium copper alloy	c  one hundred and seventy-four 	1
+biomarker parameter	c  thirty-five  homohopane index 	1
+biomarker parameter	c thirty-five  homohopane index 	1
+blank cell	c fifty-three 	1
+brand new addition	c four  explosive 	1
+caged circularasODNs	c thirty 	1
+caged circularasODNs	c fourty 	1
+calibrator shade	c four 	1
+name	c martin	2
+name	c four 	1
+name	c & c music factory	1
+name	c l r james	1
+Carbon fullerenes	c sixty 	2
+cell cyclerelated protein	c k one 	1
+Ceramides	c sixteen : zero 	1
+Ceramides	c eighteen : zero 	1
+CF film deposition gas	c two h four  gas 	1
+CF film deposition gas	c four f eight  gas 	1
+chain parameter	c one  chain parameter 	1
+chlorinated alcohol	c seven  h nine  clo 	1
+Chlorophyta	c seven  dunaliella 	1
+clarinet	c clarinet	1
+class plane	c fourty 	1
+class plane	c one hundred and thirty 	1
+classi cation tree	c four . five  qui ninety-three 	1
+classic microphone	c twelve 	1
+classical decision tree learner	c four . five 	1
+Classical fullerenes	c  six  o 	1
+Classical fullerenes	c  sixty 	1
+common acyl group	c twelve : zero 	1
+common acyl group	c ten : zero 	1
+complement fragment	c three a 	2
+conformant coursesclasses	c in mississauga	1
+conformant lesson	c plus plus programming in mississauga	1
+contemporary and complex societal issue	c two  constellation 	1
+controversial design tool	c language	1
+Conventional sorbents	c  eighteen  silica 	1
+costly carbonaceous material	c  sixty 	1
+coupling capacitor	c thirty-three 	1
+coupling capacitor	c thirty-two 	1
+critical enemy node	c  two 	1
+curved wedge surface	c two  in fig 	1
+cutin wax	c twenty-six 	1
+cutin wax	c twenty-nine  alkane 	1
+Cyanopolyynes	c  three  hn 	1
+cytosine	c fourty-nine  of trna asp 	1
+cytosine	c four thousand four hundred and seventeen  of  twenty-eight s rrna 	1
+darkest shade	c four 	1
+decision tree classifier	c four . five 	1
+decision tree induction algorithm	c four . five 	3
+decision tree induction method	c four . five 	1
+derived object	c object file	1
+development capability	c compiler	1
+discussion rodent muscle cell line	c two 	1
+double bond	c c	1
+dutch supermarket	c one thousand  	1
+easy prelude	c minor	1
+EAW's role supporting aircraft	c one hundred and thirty  hercules 	1
+Eco-Options	c one e 	1
+Electron-withdrawing alkenes	c two f four 	1
+empty-cage fullerenes	c sixty 	1
+empty-cage fullerenes	c  seventy-six 	1
+enemy explosive	c four 	1
+energized fluid	c two 	1
+eosinophil chemoattractants	c five a 	1
+epson printer	c seventy-nine 	1
+erentnonpolar group	c  eight 	1
+essential chord	c major chord	1
+essential free radical scavenger	c & super oxide dismutase	1
+essential library	c library	1
+EXO70 isoforms	c one 	1
+name	c street center	1
+name	c z guest	1
+name	c lazy u	1
+fatty acid synthase inhibitor	c seventy-five 	1
+feature track	c minor blues	1
+figure-grouped work	c  one thousand nine hundred and eighty-five 	1
+finished commercial and military product	c four 	1
+Flying Tank	c one hundred and thirty 	1
+foil-n-paper capacitor	c three 	1
+foil-n-paper capacitor	c four 	1
+founder effect	c with unix	1
+franchise office	c twenty-one 	1
+free C compiler	c fifty-one  compiler 	1
+frontier project	c  four  rice 	1
+frontier project	c four  rice 	1
+fullerene compound	c sixty -fused pyrrolidine-meta-c twelve  phenyl 	2
+fullerene nanoparticles	c seventy-six 	2
+fullerene nanoparticles	c thirty-six 	2
+GAS protein	c five a peptidase 	1
+gigaset communication's hybrid phone	c four hundred and seventy  ip 	1
+good-quality, medium-bodied wine	c tes du rh ne	1
+gospel artist & comedian	c & t connection	1
+GPU language	c for graphics from nvidia ltd	1
+heavy lifter	c one hundred and thirty 	1
+high explosive charge	c four 	1
+high rate	c rate	1
+high-level explosive	c four 	1
+high-order military explosive	c four 	1
+hydrocarbon system	c four 	1
+input location specific compound id	c twenty-five m 	1
+input location specific compound id	c twenty-five c 	1
+interesting sub-variations	c proofed on the keel	1
+jade female	c five 	1
+jade female	c six 	1
+job control shell	c shell	1
+land mine explosive	c four 	1
+lapinized CSFV strain	c strain	1
+large commercial plane	c nine hundred and twenty-nine  with  two hundred and ninety  seat 	1
+large commercial plane	c nine hundred and thirty-nine  with  three hundred and ninety  seat 	1
+factor	c  three  recovery 	1
+factor	c seven imate important determinants of the  seven ocation of high-techno seven ogy company 	1
+name	c programming guide	1
+case	c three 	2
+case	c seven 	2
+case	c four 	2
+case	c fourty 	1
+case	c thirty-one  of s. lividans 	1
+case	c twelve  in solid xenon matrix 	1
+case	c one hundred 	1
+case	c mandible	1
+case	c ninety 	1
+logic design language	c language	1
+low alkyl group	c  two  h  five 	1
+low sorbing penetrants	c two h six  at temperatures higher than  ten oc 	1
+low symmetry	c  three v 	1
+low symmetry	c  two v 	1
+lower-level programming language	c programming language	1
+LPV pharmacokinetic parameter	c min	1
+medieval survival	c fourteen  font with a magnificent  fifteen th century cover 	1
+mercedes c-class model	c three hundred and fifty  sport 	1
+mercedes c-class model	c three hundred  luxury 	1
+metabolic quotient	c tmb c t - one 	1
+metabolic quotient	c amb c t - one 	1
+Meteo-Factors	c ooling day	1
+microlight	c fourty-two 	1
+mill-turn machine	c axis lathe	1
+molecular weight variation	c  seventy-two 	1
+molecular weight variation	c  twenty-eight 	1
+NMR nucleus	c thirteen 	1
+non polar sorbents	c  eighteen 	1
+non polar sorbents	c  eight 	1
+non-object oriented language	c programming language	1
+nonpolar solid	c ten h eight 	1
+n-type organic material	c sixty 	1
+nule tax code	c zero 	1
+obsolete instrument	c melody saxophone	1
+oc-unfriendly bio option	c one e 	1
+oligomeric C-peptides	c thirty-seven 	1
+Ordered nanostructures	c sixty  on cupper substrate 	1
+party spot	c g road	1
+Penis jewelry	c ring	1
+perfor-mancesofseveral knowledge discovery technique	c five . zero 	1
+phospholipid-binding module	c one 	1
+plant physiological difference	c four  species 	1
+point group	c  six 	1
+polar modified fullerenes	c  seventy  bis-adducts 	1
+polar modified fullerenes	c seventy  bis-adducts 	1
+polymeric phase	c two 	1
+popular chord	c major	1
+popular decision tree algorithm	c four . five 	1
+popular induction technique	c four . five 	1
+popular new surgical technique	c one  lateral mass screw fixation 	1
+popular, structured programming language	c by offering	1
+case	c compiler	1
+case	c evans & sons ltd	1
+case	c signal in myxococcus xanthus	1
+case	c one hundred and thirty j 	1
+power management state	c  two 	1
+power management state	c  one 	1
+power-saving option	c - state	1
+power-saving option	c one e 	1
+preprocessor	c preprocessor	1
+Presently available RA biomarkers	c reactive protein	1
+quality-improvement tool	c ustomer satisfaction	1
+race-ready car	c six r 	1
+rule-based method traditional rule-based classifier	c four . five 	1
+school's recent improvement	c building	1
+seed molecule	c sixty 	1
+selected medical system	c two  system 	1
+semi-conserved base	c twenty-nine 	1
+senior figure head	c chief executive	1
+serological measure	c reactive protein	1
+serum-derived leukocyte chemotactic factor	c five a 	1
+simple chain	c c c c	1
+simulink optimizational technology	c mex s-function	1
+single etiologic agent	c virus	1
+singly symmetric section	c section	1
+skeletal muscle cell culture model	c two c twelve 	1
+small diaphragm condenser mics	c sixty-one 	1
+small fullerenes	c  seventy 	2
+small fullerenes	c  sixty 	2
+small speaker system	c one hundred 	1
+small speaker system	c fourty 	1
+small-molecule FASN inhibitor	c seventy-five 	2
+soluble complement regulator	c one  inhibitor 	2
+soluble complement regulator	c one -inhibitor 	1
+Southwest quilt	c & f's collin	1
+standalone connection pool library	c three p zero 	1
+standard column	c eight 	1
+standard fules	c two  kerosene 	2
+standard non-fuzzy ML algorithm	c four . five 	1
+steppings	c zero 	1
+summaryphospholipid-binding module	c one 	1
+super corvette	c six  z six 	1
+supplementary biochemical determination	c reactive protein	1
+case	c eighty 	1
+case	c fourty-one 	1
+case	c two  peo sample 	1
+case	c fifteen 	1
+case	c language	1
+option	c corporation	3
+symmetrical fullerenes	c  seventy 	1
+symmetrical fullerenes	c  sixty 	1
+synthesized adsorbent	c eighteen  sep-pack 	1
+synthetic capsaicins	c fourty-five 	1
+thee-ciencyofexisting decision tree algorithm	c four . five 	1
+thiel gallery painter	c larsson	1
+tracer species	c  two  h  six 	1
+unsaturated FCs	c two f four 	2
+unsaturated FCs	c three f six 	2
+user-level shared runtime library	c functions library	1
+vaccine candidate	c five a peptidase 	1
+valid material	c gypsum	1
+vector supercomputer	c ninety 	4
+vehicle management operation	c oordination of vehicle	1
+volunteer officer	c fifty-one 	1
+volunteer officer	c fifty 	1
+well-known decision tree construction algorithm	c four . five 	1
+work standard decision tree learner	c four . five 	1
+yoyo brand	c three  yoyo design 	1
+3rd generation SSD	c three hundred 	1
+50cc and 70cc Honda	c fifty  s sixty-five  c seventy  passport  seventy mk z fifty  ss fifty 	1
+600hp vehicle	c seven  zr- one 	1
+9th chord	c nine 	1
+abundant surface lipid	c twenty-nine  alkane 	1
+activated complement protein	c three d 	1
+actual high-lift design	c l max maximization	2
+ac-tualhigh-lift design	c l max maximization	1
+acyl sulfate	c two -c eight  sulfate 	1
+advanced power saving state	c two 	1
+advanced, military-specific subject	c two  software architecture 	1
+aforementioned device constant	c zero 	1
+ahistorical condition	c  two 	1
+Air cargo aircraft	c one hundred and thirty 	1
+akg's classic microphone	c twelve 	1
+algal biomarkers	c  twenty  hbis 	1
+Alkenoxyl group substituents	c one -c eight  alkoxy 	1
+alternate phase	c eighteen 	1
+anionic bidentate ligands	c one -c four  carboxylate 	1
+antibody-derived gpiib-iiia antagonist	c seven e three  fab fragment abciximab 	1
+Antibody-targeted SEA	c two hundred and fifteen  fab-sea 	2
+anti-infl ammatory property	c reactive protein	1
+Antioxidents	c zero  q ten 	1
+anyk-ary constraint	c  four 	2
+asset protection vehicle	c corporation	1
+atom linker	c one -c three  alkyl 	1
+Atypical classication algorithm	c four . five 	1
+auditing option	c two  audit mode 	1
+automated removal tool	c two  configuration utility 	1
+basic decision tree algorithm	c four . five 	1
+b-flat horn note	c on the third space	1
+bias component	c in formula	3
+bird food supplier	c j wildbird foods	1
+blended shieldi ng gas	c twenty-five 	1
+brand name pool table light	c l bailey light	1
+broken or reduced symmetry	c  two  orc s 	1
+brownfield development technique	c two  flooding 	1
+BTU heater	c thirty-five 	1
+bumping technology	c four  process 	1
+by-product chemotactic factor	c three a 	1
+c3b antagonist	c three b antibody 	1
+c6x gearbox	c sixty-three 	1
+calcite	c on fig	1
+Candida sppthatare relatively resistant tofluconazole	c guilliermondii  sixty-nine 	1
+capacitor feedback	c five  on u two a 	1
+carbon chain length	c six 	1
+carbonaceous active material	c nanotubes in an aq	1
+case of-encoded sequence	c seven 	1
+caspase-derived APP fragment	c thirty-one 	1
+Cat A aircraft	c one hundred and seventy-two 	1
+categorical clinical parameter	c four d deposition 	1
+cat-ionicIL surfactants	c  twelve  mimx 	1
+CCSPs	c thirteen 	1
+chain length fatty acid	c  twenty 	1
+chain-limiting agent	c four -clg alkanethiol 	1
+circular waste container	c one 	1
+city-level actor	c fourty  large cities climate leadership group 	1
+class I dielectric	c zero g 	1
+classical finiteness condition	c g being finite	1
+classical SPE sorbents	c  eighteen 	1
+classi-cation method	c four . five  decision tree 	1
+CLI-based development environment	c under vms	1
+Cllisinallyinized species	c iv	1
+closed-shell molecule	c  sixty  neutral 	1
+closely related structure	c fifty-four 	1
+coincidence boundary	c thirteen 	1
+combined percussi	c on gas	1
+common chord	c seven 	1
+common inbred mouse strain	c fifty-seven 	1
+common mode capacitor	c four 	1
+common value scheme method	c log p	3
+compiler type language	c language	1
+complement activation component	c five a 	1
+complement antagonist	c five -specific antibody 	1
+complement cleavage fragment	c three a 	1
+complement cleavage product	c three a 	1
+complement marker	c three d 	2
+complement pathway component	c three 	2
+complement pathway protein	c three b 	2
+complement regulatory factor	c one  inhibitor 	1
+Complement regu-latoryfactors	c one  inhibitor 	1
+complementary dispersive stationary phase	c eight 	1
+complete CDMA-processing module	c eighteen  cdma module from motorola 	1
+complicated optical solution	c three d 	1
+congressional level attendee	c hristen bloomfield a senate staffer on the small business committee	1
+constant direct sunlight item	c two  fire extinguisher 	1
+consumer protection device	c two  by taser intl. 	1
+contact chain	c two 	1
+controlled machine	c sixty  battery charger 	2
+controversial blockbuster	c s lewis chronicles of narnia	1
+convenient letter	c for cone	1
+corporation type	c corporation	1
+correct RPO code	c fourty-eight 	1
+cost-insensitive classifier	c four . five 	1
+critical vehicle	c thirty  concept 	1
+crystographic plane	c plane	1
+curriculum policy review	c two thousand and five  review 	1
+custom management tool	c level key performance indicator dash board	1
+Cylcoalkanes	c five h ten 	1
+dditional functionality	c r c checksum calculation	1
+decision tree-based method	c four . five 	1
+decision treelearning algorithm	c four . five 	1
+dedicated pyrotechnicians	c t brock	1
+definition channel	c four 	1
+destructive charge	c four 	1
+deuterated molecule	c  two  hd 	1
+dimensionally inconsistent expression	c  ten  shown in fig 	1
+discussion widespread phonological measure	c onsonant inventory	1
+divide-and-conquer approach	c four . five  algorithm 	1
+domain-specific ADLs	c two 	1
+dominant 7th chord	c seven 	1
+dominant suppressor allele	c one -i of maize 	1
+dopaminergic allele	c allele of c nine hundred and fifty-seven t snp 	1
+eager decision tree algorithm	c four . five 	1
+easily fermentable sugar	c six  cellulose 	1
+option	c section	1
+group	c  one - six  alkyl 	4
+group	c three h 	2
+electrode position	c four 	1
+elementary stuff	c being the maximum speed	1
+eliminating lesson	c seven 	1
+Emerging C2 database schemas	c two  integrated exchange data model 	2
+energy saving setting	c one e 	1
+equilibrium concentration	c s zero 	1
+etch chemistry	c four f six 	1
+exact position	c over lt	1
+experimental rodent glioma model	c six  model 	1
+explosive based weapon	c four 	1
+explosive perk	c four 	1
+external text symbol	c function	1
+extreme antioxidant	c for excellent nutritional health	1
+Extreme toxic stress	c hronic abuse	1
+fairly powerful base learner	c four . five 	1
+fast-denaturing DNA fraction	c  zero  t dna 	1
+FMJ stereo product	c thirty-one  preamplifier 	1
+formal description language	c two 	1
+forum highly symmetric molecule	c  sixty 	1
+friendly robot	c three  po 	1
+fullerene oxide	c  thirty-six  o 	1
+fullerene style polycarbons	c  seventy-one 	1
+Full-erene-based nanomaterials	c  sixty 	1
+Fullerenes Larger hllerenes	c seventy-six 	1
+funny tactic	c four  bombing from a transport helicopter 	1
+generic system component	c standard library	1
+good 5MP phone	c nine hundred and one 	1
+good race gas	c sixteen 	1
+good software programming skill	c programming	1
+gradually bigger aircraft	c fifty-four  skymasters with a  ten -ton cargo capacity 	1
+granule chain	c two 	2
+great many different standard	c fifteen - one hundred  in france 	1
+great many necessary	c among the best men in ross	1
+great player action	c ronaldo	1
+ground node	c three  negative terminal 	1
+hand-held pneumatic device	c ring clamping device	1
+hardware-based C64 emulator	c sixty-four  dtv 	1
+heavy duty explosive	c four 	1
+heavy military type	c one hundred and thirty 	1
+high end military explosive	c four 	1
+high hardness case material	c sixty-nine 	1
+high language	c language	1
+high M r component	c four 	1
+high pianissimo	c in o patria mia	1
+high-end VR system	c six  environment 	1
+higher-ionization species	c iv	1
+high-level third-party library	c three dl 	1
+high-wing single-engine Cessnas	c two hundred and seven  used in similar activity 	1
+homeopathy very high potency	c one thousand  	1
+honest trader	c m pleasance	1
+Hoststrains	c fourty-one 	1
+HP converged infrastructure component	c seven thousand   enclosure 	1
+hydrocarbon phase	c eighteen  phase 	1
+in-core algorithm	c four . five 	1
+INDIAN PEDIATRICS factor	c three a 	1
+group	c sixteen  alkyl 	1
+group	c three -c six  cycloalkoxyl group 	1
+group	c four c 	1
+group	c one -c four  alkylene group 	1
+group	c oalition of the concerned citizens for african america children	1
+group	c five -c ten  aryl sulfonyloxy group 	1
+group	c one - twenty  alkyl group 	1
+group	c one -c six  alkylene group 	1
+group	c one -c eight  alkoxy 	1
+group	c fourty  cities-climate leadership group 	1
+group	c one - six  monovalent hydrocarbon group 	1
+group	c two  socio-economic group 	1
+interesting elective course	c programming & java	1
+inter-molecular cross-link	c one hundred and sixteen 	1
+internationally-known nutritionist	c gopalan of the nutrition foundation of india	1
+intraocular gas	c three f eight 	1
+introduction alkyl phase	c eighteen  stationary phase 	1
+introduction carbon fullerene molecule	c  sixty 	1
+Introduction Carbon fullerenes	c sixty 	1
+introduction decision tree induction algorithm	c four . five 	1
+Introduction Fullerenes	c sixty 	1
+irregular or uneven road surface	c thirty-five  middle claydon 	1
+isco unified IP phone	c isco unified ip phone  seven thousand nine hundred and twelve g 	1
+ith additional equi p ment	c le an air hood	1
+lake based construction company	c & r drilling	1
+large cage-like molecule	c sixty  buckminster-fullerenes 	2
+large complement fragment	c three b 	1
+large electrolytic capacitor	c one 	1
+large, popular library	c library	1
+large, user-intensive system	c four isr system 	1
+latest Colnago framesets	c fourty  masterlight 	1
+leader s	c rajagopalachari	1
+Light armor protection	c two  lav 	1
+lightsquared cellular customer	c spire wireless	2
+Lipophilic sorbents	c  eight 	1
+local pro-ductionof complement component	c six  byrecipient macrophages 	1
+local sale tax program	c in los angeles county	1
+lockbolt	c six l 	1
+Longer-chain diacids	c  eight 	2
+Low molecular weight alpha olefins	c  fourteen  alpha olefins 	1
+low quality concrete	c fifteen 	1
+low volume seller	c thirty 	1
+low-bias, high-variance classifier	c four . five  decision tree 	1
+low-cost integrated product	c sixty-one 	1
+low-sticking-coefficient radical	c f  two 	1
+lymphoblastoid cell	c eight thousand one hundred and sixty-six  cell 	1
+machine learning classification algorithm	c four . five 	1
+machine learning classification program	c four . five 	1
+machine learning program	c four . five 	1
+macro processor	c preprocessor	2
+mamiya twin lens reflex camera	c three 	1
+man power reduction method	c four isr 	1
+manual operation internal valve	c four hundred and twenty-seven  series 	2
+MaP peptides	c  two  n 	1
+Mercedes	c two hundred and thirty 	1
+metal -opaque	c & b metabond ii	1
+metal patio chair	c lub chair	1
+Methylenetetrahydrofolate reductase genetic polymorphisms	c six hundred and seventy-seven t 	1
+metric, traditional decision tree algorithm	c four . five 	1
+mice strain	c three h strain 	1
+milk sample different organic pollutant	c two hcl three 	1
+mission symbol	c seventeen 	1
+model connection	c nut	1
+Modern C2 database schemas	c two  integrated exchange data model 	1
+modern kato diesel	c fourty-four - nine w 	1
+modernization activity	c four i upgrade 	1
+monocot sequence	c one  andp 	1
+Mononuclear cell chemoattractants	c five a 	1
+mouse tumor model	c twenty-six  model 	1
+multi-state corporation	c corporations	1
+museum quality display item	c one thousand eight hundred and seventy  coffee grinder 	1
+native code	c code	1
+NBC waste	c two a one  filter 	1
+niche sport car	c eight  aileron 	1
+nokia low cost phone	c one 	1
+non-complex aircraft	c one hundred and seventy-two 	1
+non-lead green alloy	c ninety-five thousand four hundred  aluminum bronze 	1
+non-passthrough business entity	c corporation	1
+method	c zero t, one  dna 	3
+method	c  one hundred and eighty-six 	2
+method	c two 	1
+obi T resource	c obi t online	1
+observational component	c oo	1
+Odd-chain species	c three 	1
+official medicine	c used in oncology	1
+one-character addendum type	c for child support	1
+online street team	c twenty-eight 	2
+opsonic fragment	c three b 	1
+ore critical technology	c four isr 	1
+oscillation mode	c mode	2
+outdated programming process	c four  systems directive 	1
+p35-binding protein	c fourty-two 	1
+parenthesized type	c null-terminated graphic string	2
+partial complement deficiency	c four a deficiency 	1
+partial rewrite	c four  with the new vst three  audio system 	1
+PCygniprofilesof high-ionisationlines	c iv	1
+perfectly normal text	c source file	1
+personalized recommendation solution	c two c essentials recommendations engine 	1
+physiological fatty acid	c  sixteen 	1
+pick-off capacitor	c p one 	1
+pigment ink printer	c eighty 	1
+pivotal complement component	c three  andtheanaphylatoxin c five a 	1
+plant MYBproteins	c one 	1
+PLD manufacturing tool	c compiler	1
+pocket amplifier	c tech pocket rockit v two  at musicians friend 	1
+political leadership x utilise forum	c fourty 	1
+Polyunsaturated fatty acid s	c eighteen : three 	1
+ponent	c three 	1
+popular UK show	c four 's ugly betty 	1
+POSIX program	c shell	1
+potent toxic solvent	c six h six 	1
+power sound	c sound in chloe	1
+precipitation hardenable copper alloy	c  seven hundred and twenty-four 	1
+Pre-presentation reading	c obi t executive summary	1
+procedural computing language	c language	1
+procedural implementation	c implementation	1
+processor option	c one e 	1
+program development environment	c compiler	1
+pseudohalide	c f  three  s o 	1
+race gas	c twelve 	1
+reactive type species	c  three 	1
+real turbine	c eighteen 	1
+real-time, asynchronous message passing architecture	c two -style architecture 	1
+regional and global learning network	c fourty  cities climate leadership group 	1
+Regular X-rays	c hest x-ray	1
+Regularpolyisoprenols	c  thirty  tricyclohexaprenol in bacterial membranes ormalabaricatrienes from alga 	1
+relevant document	c of a certificate	1
+reversed phase	c eight 	1
+reversed-phase column	c  eight 	1
+reversed-phase HPLC column	c eighteen 	1
+rocket motor configuration	c one 	1
+rule learning algorithm	c four . five 	1
+saturated and monounsaturated fatty acid	c twenty 	1
+science-fiction robot	c three po of the star wars movie 	1
+SCOs	c twenty-nine 	1
+second index	c five  index 	1
+seemingly unimportant species	c  two 	1
+selected pure component	c twelve 	1
+method	c statistic	1
+method	c one 	1
+method	c section	1
+method	c  fourteen 	1
+method	c four . five 	1
+method	c gas-assisted method	1
+method	c mathematical model	1
+method	c om bustion analysis	1
+senior top position	c levels	1
+sequence space	c  zero 	1
+seventh chord	c seven 	1
+side chain substituents	c seventeen : zero 	1
+side key	c side key thirty-three 	1
+silicon implementation	c eighteen 	1
+simple cell reference	c seventeen 	1
+simple selection statement	c if statement	2
+single-engine short-range trainer	c one hundred and seventy-two 	1
+size bulb	c nine  size bulb 	1
+skeletal muscle cell	c two c twelve 	1
+SM species	c  twenty-four 	1
+small low-performance aircraft	c one hundred and fifty-two 	1
+small trainer	c one hundred and fifty-two 	1
+small-scale industrial building	c one thousand eight hundred and twenty-five  warehouse on the corner of lee street 	1
+smoothing condition	c  one 	1
+smoothing parameter	c two  in the cell reference line 	1
+SMspecies	c  twenty-four 	1
+society s periodical	c m gleaner	1
+society's periodical	c m gleaner	2
+soldier source	c ompany commander	1
+sometimes story	c s lewis's the magician's nephew	1
+sony ericsson's newer model	c nine hundred and two 	1
+southern travel partner	c of charleston	1
+spherical-shaped carbon-only molecule	c seventy 	1
+SPI	c three dl 	1
+staffing implication new service	c card	1
+standard classifier algorithm	c four . five 	2
+standard ISCAS bench mark	c four hundred and thirty-two 	1
+standard reverse phase column	c eight 	1
+state andfederal highway	c four hundred and seventy 	1
+State-of-the-art MP	c oq	1
+stopper member	c ring	1
+straight-chain alkene	c two h four 	1
+suitable upload indicator	c  four hundred and eight 	1
+sulfur bearing carbon chain	c  three  s 	1
+sulfur tolerant shift catalyst	c twenty-five 	1
+supervised modeling node	c five . zero 	1
+susceptible inbreds	c one hundred and twenty-three 	1
+suzuki's boulevard series motorcycle	c fifty 	1
+SWIs	c library support swis	1
+table key	c sharp	1
+tall case	c six hundred and fourty  xl holster case 	1
+task manager drive	c drive	1
+TDIDT algorithm	c four . five 	1
+TDIDT implementation	c five . zero 	1
+tetroses	c four b into erythrulose 	1
+text language	c language	1
+textual function	c function	1
+thatagradientofa chemotactic factor	c five a 	1
+theantioxidant salen-metal complex	c seven 	1
+third-party collection APIs	c five  collections library 	1
+TI library	c run-time	1
+top-down algorithm	c four . five 	1
+traditional cray system	c ninety 	1
+traditional decision tree algorithm	c four . five 	4
+traditional decision tree learning algorithm	c four . five 	2
+traditional deci-siontree algorithm	c four . five 	1
+trainer teaching subject	c programming	1
+tree learner	c four . five 	1
+triclinic modulus element	c  two thousand three hundred and eleven 	1
+twin-lens reflex camera	c three 	1
+ukulele chord	c minor	1
+uncommon weapon	c ninety-six  pistol 	1
+unidirectional recombinases	c thirty-one 	1
+unmentioned change	c twenty-one 	1
+unused and convenient cell	c one 	1
+variable condenser	c in the circuit	1
+vari-ousbiomarker parameter	c  thirty-five  homohopane index 	1
+tool	c four 	4
+tool	c compiler	2
+tool	c infinity connected online backup for pcs	1
+tool	c infinity data defense encryption management service	1
+tool	c three hundred and sixty  import manager 	1
+tool	c two h 	1
+volatile aroma compound	c six  aldehydes 	1
+voluminous solute	c six -sugar alcohol 	1
+vulguar name	c unt	1
+well-loved philippine product	c two 	1
+well-proportioned model	c  one hundred and twenty-six  tradition 	1
+wing craft	c one hundred and thirty 	1
+workday basic	c california navy cotton cap-sleeve dress	1
+tool	c isotope study	1
+tool	c one 	1
+project	c street interchange project	1
+project	c four c 	1
+project	c three  project at stanford 	1
+project	c four isr aberdeen proving grounds md 	1
+project	c seventeen  heavy airlift 	1
+artist	c ray walz	1
+artist	c rayz walz	1
+artist	c good	1
+material	c  sixty 	2
+material	c sixty 	2
+material	c yanoacrylate-based adhesive	1
+material	c four 	1
+material	c  eighteen  silica 	1
+place	c of london	1
+player	c matt wieters	2
+player	c jamie del valle	1
+player	c karl thompson	1
+player	c dempsey	1
+player	c david baas	1
+player	c jeff saturday	1
+technology	c on unix	1
+technology	c twenty-four 's integration objects 	1
+product	c four 	3
+product	c osmetic brush	2
+product	c fourty-five  circuit breaker related product 	1
+product	c four f ten 	1
+product	c three f eight 	1
+product	c three a 	1
+product	c three 	1
+technology	c two  power banana 	1
+technology	c one e 	1
+term	c three - seven -cycloalkyl-c one -n-alkyl 	1
+term	c a b	1
+term	c plane	1
+term	c  two   one  c  two 	1
+term	c  one 	1
+term	c  two 	1
+term	c  three - seven  - cycloalkyl-c  one -n - alkyl 	1
+parameter	c  eighty 	2
+parameter	c factor	2
+parameter	c  fifty 	2
+parameter	c  zero 	2
+parameter	c one  chain parameter 	1
+parameter	c heap size	1
+parameter	c ac	1
+parameter	c  four 	1
+parameter	c  three  s 	1
+parameter	c  eight  coefficient 	1
+parameter	c ab andn	1
+parameter	c fifty 	1
+parameter	c three lcareous nature 	1
+parameter	c one 	1
+system	c four 	1
+system	c six xx series 	1
+system	c harcoal kiln	1
+system	c  sixty  fullerenes 	1
+system	c three i multi functional confrontation system 	1
+system	c  sixty  molecular junction 	1
+system	c five  aircraft at san antonio 	1
+system	c three  control van 	1
+system	c four . five 	1
+species	c iv	10
+species	c albicans	1
+species	c one hundred and two 	1
+species	c two 	1
+species	c  two  andch 	1
+measure	c v	1
+measure	c five 	1
+condition	c one - two  instability 	2
+condition	c ommon cold	1
+condition	c  two 	1
+condition	c difficile colitis	1
+condition	c  three 	1
+element	c one richtextboxtoolbar control 	1
+element	c vitamin	1
+element	c mn si cr ni mo n nb ti cu v co fe nitrogen	1
+element	c ollection of old lock	1
+element	c ring	1
+variable	c reactive protein	2
+variable	c for tuning	1
+variable	c two 	1
+product	c  one 	1
+product	c type power filters	1
+product	c four f six 	1
+product	c two  lovo 	1
+product	c two n two 	1
+device	c seven 	4
+device	c four 	1
+brand	c la rins	1
+brand	c f martin	1
+brand	c & c california	1
+concept	c four i 	1
+concept	c entripetal force	1
+concept	c two w 	1
+component	c three 	5
+component	c  one 	3
+component	c  three 	3
+component	c fourty-nine 	2
+component	c fifty-six 	2
+component	c library	2
+component	c fifty-seven 	2
+component	c three -c twelve 	2
+component	c two 	2
+component	c  thirty-four 	1
+component	c  three - five  condensable gas 	1
+component	c vitamin	1
+component	c one q and other c component 	1
+component	c eleven 	1
+component	c six  through c fifteen 	1
+component	c eight hundred and seven 	1
+component	c h  four 	1
+component	c  fifty-seven 	1
+component	c  fourty-two 	1
+component	c  six 	1
+component	c  fourty-nine 	1
+component	c front-end	1
+component	c four 	1
+component	c three i ignition system 	1
+component	c thirty-four 	1
+component	c fourty-two 	1
+component	c fourty-three 	1
+component	c eight 	1
+component	c eight hundred and two 	1
+component	c eight hundred and six 	1
+component	c eight hundred and fifteen 	1
+component	c nine 	1
+component	c  fourty-three 	1
+component	c  fifty-six 	1
+component	c o  two 	1
+component	c seventy -based fullerene n-types 	1
+component	c eight hundred and one 	1
+component	c twelve 	1
+component	c fifteen  acert engine 	1
+site	c seventeen 	1
+related product	c fourty-five  circuit breaker related product 	1
+related product	c fourty-five n circuit breaker related product 	1

@@ -1,0 +1,705 @@
+factor	fpd	3
+product	fpu controller	1
+initiative	fp seven -funded cigala project 	1
+initiative	fp seven 	1
+initiative	fpe	1
+initiative	fpga high-performance computing alliance	1
+initiative	fp seven  geoland 	1
+datum	fpf	1
+resource	fpga	3
+resource	fpga special resource	1
+facility	fpc	2
+process	fpd etch	1
+process	fpi	1
+process	fpc	1
+game	fps	11
+game	fps game	5
+game	fps pc game	1
+game	fps shooter	1
+game	fps with a good story	1
+game	fps?s	1
+game	fps style game	1
+subject	fpga	1
+product	fpd	1
+product	fpc cable related product	1
+product	fpc led lamps	1
+product	fpc related product	1
+product	fpc board related product	1
+product	fpgas	1
+product	fpc circuit board related product	1
+exception	fps map	1
+reason	fpv	1
+model	fpb krells	1
+situation	fp	2
+skill	fplc	1
+client	fps economy	1
+idea	fpgas	1
+alternative	fpgas	1
+agency	fpi	1
+agency	fpl	1
+course	fpower making	1
+feature	fpu support	1
+structure	fpsos	2
+structure	fp laser structure	1
+field	fp type	1
+part	fpd manufacturing device	1
+part	fpga	1
+circumstance	fpu	2
+development	fp six  workprogram 	1
+criterion	fpe	3
+criterion	fp coverage	1
+firm	fp	1
+firm	fpa	1
+firm	fpl group inc.	1
+industry	fpga	3
+drug	fp	1
+instrument	fpir spectrometer	1
+instrument	fplc	1
+setting	fps	3
+setting	fps to  twenty-four 	1
+class	fpu	2
+class	fp	1
+entity	fpl group	1
+feature	fp thirty-two  filtering 	1
+format	fpx	1
+partner	fpt	1
+big name	fpt	1
+standard	fpml	2
+advanced feature	fpga configuration	1
+customer	fpc	1
+intervention	fpsa	1
+department	fp	1
+value	fp scale	1
+scheme	fpga toselect modulation scheme	1
+magazine	fpn for adverts from surveyors practising in france	1
+retailer	fph of new york	1
+party	fpo in austria	1
+party	fpm	1
+professional	fpi member	1
+protein	fpv one hundred and twenty-four  from fowlpox virus 	1
+competitor	fpa	1
+issue	fpga interface issue	1
+point	fps difference	1
+experience	fps story experience	1
+corporation	fpl	2
+corporation	fp	1
+control	fps	1
+language	fp	2
+language	fpml for derivative	1
+package	fpga	1
+channel	fpsrussia	2
+utility	fpl group	6
+utility	fpl	5
+utility	fpl group fpl.n	2
+utility	fp	1
+platform	fpga board	1
+platform	fpv	1
+committee	fpc in the united kingdom	1
+association	fpm	1
+upgrade	fpr	1
+stock	fpt	1
+large company	fpt	1
+fund	fpa crescent	1
+basic information	fpic's fiscal year	1
+input	fps	1
+sponsor	fpl energy	1
+genre	fps	5
+content	fp specific content	1
+suspect	fpr	1
+substrate	fpd glass	1
+professional organization	fpa	1
+command	fpdma read extended	1
+issue	fpl natural gas power plant	1
+issue	fps issues on european bd player	1
+add-ons	fp protector	1
+developer	fpl energy	2
+developer	fpl	1
+advanced technique	fpga processing	3
+finding	fp supply	1
+qualification	fpc	2
+item	fpga type	2
+national organization	fpa	1
+board	fpc	2
+library	fpdf	1
+local company	fpt	1
+local group	fpa chapter	1
+software package	fps creator	1
+circuit	fpd	1
+agreement	fpa with huawei	3
+certification	fp-c	1
+survey	fpp's  two thousand and three  beneficiary survey 	1
+variant	fpga c language variant	1
+hardware	fpga	4
+professional association	fpa for a referral	1
+routine	fprintf	1
+well-known name	fpt corporation	1
+foundation	fpf	1
+optional accessory	fpm o-rings	1
+industry group	fpa	1
+minor issue	fps getting capped at  sixty-four fps 	1
+comment	fptddj watch movies online zypfgvk common	1
+buyer	fpl	1
+detector	fpp	1
+ally	fpda	1
+industry standard	fpml	1
+architecture	fpga	2
+competency	fp-c	1
+marketing tool	fpas	1
+processor	fpga	1
+consumable item	fpd photomultiplier tube	2
+community program	fp seven 	1
+area	fpra	3
+top company	fpt	1
+top company	fpt software	1
+cover	fpu	2
+cable	fpc	1
+revenue source	fpl franchise fee	1
+research project	fp five  ist create 	1
+controller	fpga	1
+memory	fpga internal memory	1
+strain	fp pring	1
+panel	fpe stab-loc	1
+basic topic	fpgas	1
+powerful tool	fping available in linux	1
+big project	fpso	1
+national company	fpd savills	1
+handy feature	fps mode	2
+computer game	fps game	1
+computer game	fps	1
+computer game	fps shooter	1
+great game	fps	1
+component part	fpga	1
+design tool	fpga design tool	1
+optional component	fpu	1
+area	fpse	1
+chip	fpga	4
+chip	fpgas in a structure fashion	1
+innovative solution	fpm concept	1
+medium player	fp newspapers lp	1
+key project	fps	1
+biochemical parameter	fpg	1
+shared resource	fpu	1
+activist group	fpi	1
+digital device	fpgas	3
+large system	fp aa	1
+automated system	fpps	3
+issuer	fpl	1
+design service	fpga logic designs for bus interface core	1
+legendary figure	fpa's robert rodriguez	1
+accelerator	fpgas	2
+factor	fpg	1
+service	fp	2
+service	fp seven  documentation 	2
+formal institution	fpda	1
+commercial tool	fpgadesign process commercial tool	1
+community issue	fpl transmission line	1
+mechanic	fp view cover mechanic	1
+holder	fpo	1
+health program	fp	1
+complex device	fpgas	1
+electrode	fp two 	1
+professional qualification	fpc	1
+professional qualification	fpc three  certificate 	1
+service	fp seven  calls 	1
+service	fpa health healthline	1
+pc game	fps pc game	1
+modulation scheme	fpga toselect modulation scheme	1
+corporate partner	fpl	1
+game type	fps	2
+power company	fpl group	4
+power company	fpl	1
+standard organization	fpml	1
+auction house	fpd savills	1
+common format	fpx	1
+estimation technique	fpbased method	1
+estimation technique	fp-based method	1
+core technology	fpga ip core	1
+production system	fpso	1
+extremist group	fpi target religious minority	1
+serological test	fphv-specific elisa	1
+complex component	fpgas	1
+conventional measure	fpg	1
+secondary resource	fpin clinical inquiries	1
+multilateral institution	fpda	1
+militant group	fpi	1
+armed group	fplc	1
+integrated circuit	fpga	2
+incredible feature	fps improver	1
+national firm	fpd savills	1
+internet provider	fpt telecom	2
+disruptive technology	fpgas	1
+library function	fprintf	1
+topic	fp	1
+competitive game	fps	2
+utility bill	fpl	1
+multi-national corporation	fp & l energy	1
+cognitive task	fpb navigation	1
+electronic technology	fpd	1
+hidden extra	fpus	1
+topic	fpa	1
+chromatographic method	fplc	1
+chromatographic technique	fplc	1
+camcorder	fp series handicams	1
+processing device	fpgas	2
+circuit device	fpgas	2
+lipophilic drug	fp	1
+tutorial	fpga schematic	3
+output setting	fps	1
+commercial account	fp international	1
+programmable device	fpgas	10
+programmable device	fpga with numerous ios	2
+programmable device	fpga overview programmable device	1
+advanced instrument	fplc	1
+system device	fpu	1
+european project	fp five  euroglycan rtd 	1
+game genre	fps	2
+game genre	fps game	1
+company	fpl group	3
+company	fpx	2
+company	fpt	2
+company	fpl	2
+company	fp mccann ltd	1
+material option	fpm	1
+electric utility	fpl	1
+working group	fp contracts	1
+investor-owned utility	fpl	1
+legitimate company	fpt	1
+company	fpga leaders xilinx inc.	1
+company	fpd savills	1
+company	fpv	1
+company	fpz blowers	1
+company	fpt software	1
+hazardous environment	fpsos in full production	1
+research initiative	fp seven 	1
+logic device	fpgas	2
+declarative language	fp	2
+company	fp corporation	1
+EU initiative	fp seven 	1
+large tech company	fpt	1
+processing unit	fpga	1
+radiation detector	fpd	1
+software suite	fps creator	1
+secondary endpoint	fpg	1
+typical component	fpgas	1
+IC	fpga	1
+model selection criterion	fpe	1
+radical organization	fpi	1
+fundamentalist group	fpi	1
+key stock	fpt	3
+recombinant virus	fp nine 	1
+recombinant virus	fpv	1
+digital component	fpgas	1
+fast-paced game	fps game	1
+fast-paced game	fps deathmatch	1
+FPS	fps for employment	1
+gaming	fps	1
+programmable logic device	fpgas	16
+programmable logic device	fpga ora cpld	1
+style game	fps style game	1
+domain expert	fpga designer	1
+hazardous industry	fpso	1
+activity	fp extension work	1
+activity	fp seven  program 	1
+negative comment	fps not coming off	1
+technology enhancement	fpi's help desk service	2
+business condition	fpinnovations transformative technology	3
+physico-chemical method	fplc	2
+functional programming language	fp	1
+output function	fprintf	1
+physical channel	fpach	2
+processing element	fpgas	2
+R&D project	fp six  projects vidi-video 	1
+clinical assessment	fpg	1
+hardware technique	fpga	1
+cultural and social factor	fp knowledge	1
+inf ormation	fp template	1
+balanced fund	fpa crescent	1
+core resource	fpga fabric	1
+photo format	fpx	1
+reconfigurable device	fpgas	11
+accuracy measure	fp rate	1
+offshore operation	fpso	1
+information	fp template	1
+traditional utility	fpl group	1
+storage medium device	fp memory	1
+turbo	fp green	1
+normal game	fps	1
+productivity factor	fp per staff month	1
+information	fpu code	1
+information	fpga datasheets	1
+graphical issue	fps spike	1
+liberal party	fpoe in austria	1
+regional employer	fpx	2
+big stock	fpt	1
+electric utility company	fpl	1
+Glucocorticosteroids	fp	1
+quality setting	fps	1
+stock fund	fpa capital	1
+hardware accelerator	fpgas	1
+logic element	fpgascontain additional logic element	1
+selective detector	fpd	2
+utility stock	fpl	1
+Combination chemotherapy	fp therapy using cisplatin	1
+electronic connector	fpc	1
+Intranasal corticosteroids	fp	1
+Isoprenoids	fpp	1
+MCH service	fp	1
+event	fphs prom	1
+programming device	fpgas	1
+offline game	fps	1
+read-only attribute	fpsload	1
+standard library function	fprintf	1
+community instrument	fp seven 	1
+dedicated hardware	fpga	1
+digital processor	fpga	1
+license holder	fpi ltd	1
+PLDs	fpga of fig	1
+synthetic substrate	fpp azide	2
+collaborative venture	fp five 	1
+configurable component	fpgas	1
+DNA repair enzyme	fpg	1
+flexible cable	fpc	1
+islamic fundamentalist group	fpi	1
+MATLAB command	fprintf	1
+program	fps creator	2
+program	fp seven 	2
+program	fpl e-bill with checkfree	1
+provider network	fpa medical management	1
+receptor molecule	fprl one 	1
+XML schemas	fpml	1
+accomplished various project	fpso	1
+australian car	fpv	1
+clinical care provider	fpan clinic	1
+good lube	fp- ten  in copious amounts on moving part 	1
+jacketing material	fpr	1
+liquid chromatography	fplc	1
+non-procedural language	fp	2
+program	fps maker	1
+program	fps	1
+Reconfigurable hardware	fpga	4
+reset	fpga-done	1
+advanced analytical instrument	fpd gc analysis	1
+computing component	fpgas	1
+digital design topic	fpgas	1
+majoritarian system	fptp	2
+postal code	fpo address	1
+programmable semiconductor device	fpgas	1
+reconfigurable hardware device	fpgas	1
+standard chromatographic technique	fplc	1
+configurable computing device	fpga s	1
+configurable computing device	fpgas	1
+conservative venue	fpct	1
+DTDs	fpml	1
+flat cable	fpc	1
+grown-in defect	fpd	1
+programmable ICs	fpgas	1
+progressive place	fpl foods in georgia	1
+science issue	fpe	1
+organization	fpa	4
+target platform	fpgas	1
+U.S. energy company	fpl group	1
+ultra-modern equipment	fpm	1
+big-name agent	fpd savills	1
+Canadian commenters	fpt group	1
+organization	fpc	1
+feature point FP	fp six 	1
+feature point FP	fp four 	1
+feature point FP	fp three 	1
+feature point FP	fp five 	1
+graphical error	fps drop	1
+implementation approach	fpga	1
+portuguese and european research project	fp six  noe e-next 	1
+organization	fpga high performance computing alliance	1
+programmable logic circuit	fpga	3
+programmable solution	fpgas	1
+screening assay	fpia assay	1
+sports-related model	fpv	1
+video game type	fps	1
+XML industry standard	fpml	1
+technique	fpi  two , three 	1
+technique	fpgas	1
+technique	fp-rfdr-ct	1
+bifunctional DNA glycosylases	fpg	1
+circuit IC	fpga-die temperature monitoring	1
+Complex electronics	fpgas	3
+configurable device	fpgas	2
+cowl unit	fp fourty-five 	1
+digital switching device	fpgas	4
+DVD author setting	fps	1
+end-to-end semiconductor solution	fpga design	1
+fast approach	fpga	2
+fixed-income alternative	fpa crescent	1
+international cooperation activity	fp seven  consortia integration 	2
+long-latency instruction	fp division	1
+methodoligies	fplc	1
+next-generation computational accelerator	fpgas	2
+application	fpga integrated circuit	2
+application	fpso swivel	1
+application	fpso	1
+particle model	fpm	1
+programmable architecture	fpga	15
+reconfigurable system	fpgas	2
+spill event	fpso hull damage	1
+standard clibrary function	fprintf	1
+suitable and powerful such utility	fphelp builder	2
+application	fpse	1
+time-varyingvegeta-tionbiophysical parameter	fp ar	1
+typical secondary process	fpi	2
+unconventional ship	fpso	1
+Absolute Value FundsManagers	fpa capital's bob rodriguez	1
+Advanced ICs	fpgas	2
+Air Force small UAVs	fpass	1
+bold allocation fund	fpa crescent fpacx	2
+bold allocation fund	fpa crescent	1
+name	fpk	1
+name	fp diesel	1
+name	fp	1
+cohesive unit	fpu	2
+competitive play	fps game	1
+computational accelerator	fpgas	1
+computational hardware component	fpgas	2
+controversial design tool	fpga-based development tool	1
+cost-effective component	fpgas	2
+educational umbrella organization	fpens	1
+employer-sponsored pension plan	fpp	1
+EU research project	fp seven  intersection 	1
+eu's framework funding instrument	fp six 	1
+eu's framework funding instrument	fp seven 	1
+exhaust chamber	fpp	1
+expression level	fpp	1
+financial planning qualification	fpc. one   two 	1
+flexible board	fpc	2
+form factor connector	fpc	1
+FPA-3000 tool	fpa- three thousand  ex six  krf stepper for optimum mix 	1
+FPHfromfish processing by-products	fph from yellowfin sole skin gelatine	1
+fuel-system cleaner	fp plus from lcd	1
+gate array	fpga	1
+great emulator	fpse adrippsx	1
+gun statistic	fps	1
+hardware-based platform	fpgas with embedded-processor	1
+horizontal architecture	fps api twenty -b 	1
+illegal vigilante group	fpi	1
+industry based scheme	fpa scheme	1
+industry-specific software bundle	fpmland fixml	1
+Industry-specific XML Schemas	fpml	1
+innovative floating structure	fpso	1
+insurance industry qualification	fpc	1
+INTRODUCTION chromatographic technique	fplc	1
+kiloprocessor device	fpgas	1
+laminopathies	fpld	1
+large protection object	fpso	1
+large spill event	fpso hull damage	1
+case	fp	1
+case	fpm	1
+long scale film	fp four 	1
+mistrust concern too arrogant project	fps	1
+modern microchip	fpgas	1
+mon service module	fping . monitor	2
+monitored relevant quality indicator	fpy	1
+native camera format	fpx	1
+NON C	fp four 	1
+non-mainstream processing technology	fpgas	1
+off-grid particle method	fpm	1
+offload coprocessor	fpga	1
+physician practice management organization	fpa	1
+popular unit system	fps	1
+case	fpl energy	1
+port-scanning tool	fport  two . zero 	1
+potential risk predictor	fpg	1
+preset control specification	fps style	1
+processor input layout datum	fpd value	2
+proline-rich motif	fpppp of listeria acta	1
+quality marked product	fpo	2
+real hardware	fpga	1
+reconfigurable integrated circuit	fpga	2
+reconfigurable logic	fpgas	2
+rohs compliant array package	fpga	1
+routine required report	fps notification lists	1
+sector-focussed program	fpinnovations	1
+short-chain prenyl diphosphate intermediate	fpp	2
+simple plurality system	fptp increase tactical voting	1
+somebasic topic	fpgas	1
+specific content	fp specific content	1
+standard VLIW technique	fpu operation	1
+strict muslim group	fpi	1
+summary justice disposal	fpn	1
+option	fps	2
+utelcos	fpl fibernet	1
+utility executive	fpl's steven scroggs	1
+volatile programmable logic device	fpgas	1
+ward-based, plurality-majority system	fptp	2
+acoustic micropump	fpw micropump	1
+adaptable hardware element	fpgas	1
+advance digitized circuit	fpga	1
+application-level standard	fpml	4
+option	fpv mat	1
+option	fpgas	1
+basic concept multifunction unit	fpusintheintelitanium  two  processor 	1
+big wind-power developer	fpl's next era	1
+central processing facility	fpso	1
+cmos-based programmable circuit	fpga circuit	1
+complete FPO address	fpo ae	1
+complex channel type	fp four 	1
+complex programmable logic device architecture	fpga architecture	1
+complex shaders	fpsc's water	1
+complex, programmable logic device	fpgas	1
+computational complexity class	fp	1
+CONCLUSION programmable electronic device	fpgas	1
+con-figurable device	fpgas	1
+contemporary reconfigurable platform	fpgas	1
+convenient hardware packet processing resource	fpga	1
+conventional diabetes screening method	fpg	1
+conventional dram	fpm	2
+conventional hardware emulator	fpga hardware emulator	1
+cowl F-units	fp fourty-five 	1
+datum acquisition many thermal parameter	fpa	1
+diphosphates	fpp	1
+dissimilar detector	fpd	1
+dosbased virus scanner	fprot	1
+earliest antivirus solution	fprot	1
+group	fpi	2
+group	fpa	1
+element selective detector	fpd	1
+established market standard	fpo	1
+famous model selection criterion	fpe	1
+fast chip	fpga	1
+financial planning group	fpa	1
+fine-grained device	fpgas	1
+fine-grained reconfigurable device	fpgas	1
+flexible implementation technology	fpgas	1
+flexible wiring board	fpc	2
+flexibleimplementation technology	fpgas	1
+floor stand home therapy laser	fp- seventy-five  home hair therapy laser at left 	1
+FP unit	fp multiplier	1
+FPT member	fpt telecom	1
+Glycosylasesthat repair oxidative damage	fpg dna glycosylase	1
+good known boost source	fpr before concluding a bad gauge	1
+grain device	fpgas	1
+health facility output	fp contact	1
+high performance turbocharger	fp green	2
+high speed processing element	fpgas	2
+high-speed processing element	fpgas	1
+homogenous immunoassay	fp	1
+index-count datum	fpc passage index	1
+group	fpk	1
+group	fpi maluku	1
+group	fpi act with impunity	1
+insome digital switching device	fpgas	1
+international, multi-programme initiative	fp four 	1
+introduction reconfigurable device	fpgas	2
+introduction reconfigurable HW device	fpgas	1
+journal bearing turbo	fp green	1
+key CEWG member	fpd	1
+Kontrol Freeks	fps freek	1
+large-scale offshore unit	fpso	1
+layout editor	fpga editor from xilinx	1
+licensing consultancy	fpo	1
+limited-coverage policy	fpa policy	1
+manly game type	fps	1
+measu re	fpg	1
+mevalonate pathway intermediate	fpp	1
+military address	fpo	2
+modern programmable device	fpgas	3
+MoF	fpo	1
+moored, buoyant structure	fpso	1
+nadventurous genre	fps	1
+NAIFA event	fpa chair nicholas nicolette's testimony	1
+method	fpd chromatography	1
+non-violent site	fpp	1
+novel computing element	fpgas	1
+off-the-shelf componentes	fpgas	1
+off-the-shelf embedded component	fpga-based compact rio platform coupled with the labview graphical system design environment	1
+one-versus-many game	fps	1
+on-farm or user-led research	fpr	1
+opportunist organization	fpr	4
+orthogonal acceleration technique	fpga	1
+PAR tool	fpga editor	1
+Pattern-growth method	fp growth	1
+physician practice management firm	fpa	1
+platform approach	fpga	1
+plurality voting system	fptp	1
+Plurality votingsystems	fptp	1
+popular floating structure	fpso	1
+post-war notable	fpl  twenty-nine  tunnan 	1
+programable logic fabric	fpga	1
+programmable and reconfigurable system	fp aas	1
+programmable fabric	fpgas	1
+programmable spatial fabric	fpgas	1
+programmable switching IC	fpga	1
+programmable system	fpgas	1
+pro-grammablelogic	fpgas	1
+public preventive program	fp	1
+R&D funding program	fp seven 	1
+rc plane aerial camera	fpv camera	1
+real-world evolutionary design	fpgas used in evolvable hardware	1
+reconfigurable and programmable analog device	fp aa	1
+reconfigurable computing device	fpgas	1
+reconfigurable com-putingdevices	fpgas	1
+reconfigurable digital platform	fpgas	1
+reconfigurable gate array	fpga	2
+reconfigurable hardware element	fpgas	2
+regular, user-programmable device	fpgas	1
+resonator-type device	fp etalons	1
+royal marine element	fpg	1
+Short-chain polyprenyl-diphosphate synthases	fpp	1
+simple majority system	fptp	2
+skilled, opportunistic bond manager	fpa new income	1
+SMT hardware	fpu	1
+softwaer program	fps creator	1
+solution-based fluorescence assay	fp	1
+specialised datum processing unit	fpu u one 	1
+specialised electronics	fpga s	1
+sram-based programmable logic device	fpgas	1
+standard DTDs	fpml	1
+standardized on-line procurement system	fpds	1
+stitch name	fpsc	1
+system dependent VFS request	fpathconf	1
+today reconfigurable hardware device	fpgas	1
+traditional programmable solution	fpgas	1
+user programmable logic device	fpgas	2
+usingo-the-shelf component	fpgas	1
+tool	fping	2
+tool	fpgadesign process commercial tool	1
+tool	fpga editor	1
+tool	fpga design tool	1
+volatile programmable device	fpgas	2
+wind power developer	fpl	1
+project	fpso	1
+material	fpm	2
+place	fp	1
+technology	fpgas	7
+technology	fpr	1
+technology	fpm	1
+parameter	fpgs activity	1
+parameter	fps radius	1
+parameter	fpg	1
+system	fps system	4
+system	fptp	3
+system	fps fuel polishing	1
+system	fpp	1
+system	fpgas	1
+system	fpu	1
+measure	fpg	1
+element	fpgascontain additional logic element	1
+element	fpgas	1
+element	fpcon measure	1
+function	fprintf	2
+function	fputc	1
+function	fputs	1
+function	fpassthru	1
+device	fpgas	19
+device	fpga overview programmable device	1
+brand	fpg	1
+concept	fpga library support	1
+concept	fpu	1
+component	fpgas	4
+component	fpc	1
+component	fpu of a processor	1
+component	fpga device	1
+component	fpa  fourteen 	1
+aspect	fps required	1
+site	fpn	1
+task	fpga logic design	1
+related product	fpc board related product	1
+related product	fpc cable related product	1
+related product	fpc circuit board related product	1

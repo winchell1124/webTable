@@ -1,0 +1,42 @@
+initiative	kqed digital storytelling initiative	1
+mechanism	kqueue	1
+cause	kqed	1
+language	kqml	1
+station	kqed	1
+station	kqke in san francisco	1
+station	kqed-fm	1
+personality	kqed's michael krasny	1
+advance	kqemu accelerator	1
+route	kq via khartoum	1
+radio station	kqrs	2
+radio station	kqxl  one hundred and six . five  fm 	1
+hand	kq	6
+hand	kq kj qj	1
+standard protocol	kqml	1
+communication mechanism	kqml	1
+complex language	kqml	1
+event	kq kbd chaos elemental	2
+event	kq	1
+high card	kq	1
+sierra game	kq two 	1
+public television station	kqed	1
+adult alternative station	kqpt in sacramento	1
+agent communication language	kqml	4
+marginal hand	kq	1
+marginal hand	kq kj	1
+public radio station	kqed	1
+coordination protocol	kqml	1
+public radio outlet	kqed in san francisco	1
+interaction protocol	kqml	1
+Local pubcasters	kqed	2
+well hole card	kq	1
+event interface	kqueue	1
+common communication language	kqml	1
+educational broadcasting	kqed	1
+inter-agent communication language	kqml	1
+multi-agent communication language	kqml	1
+national and local medium outlet	kqed	1
+pool allocation	kqr m po	1
+shared common protocol	kqml	1
+shared message protocol	kqml	2
+technology	kqml	1

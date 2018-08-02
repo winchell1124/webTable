@@ -1,0 +1,1316 @@
+factor	hcv genotype	5
+factor	hct of the specimen	2
+product	hcg pregnancy test related product	1
+product	hcg strip related product	1
+product	hcss's dispatcher	1
+initiative	hcsd's disease management program	2
+initiative	hcz	1
+initiative	hca's kickstart program promise financial help for delayed scheme	1
+initiative	hcv look-back program	1
+datum	hcpcs codes	1
+facility	hca grand strand regional	1
+facility	hca grand strand jefferson regional	1
+model	hc model	2
+model	hca's method of delivering housing in norwich	1
+model	hc-ub screw	1
+institution	hca	3
+institution	hcnm	1
+client	hcl toshiba	3
+client	hca healthcare	2
+client	hch administration	1
+client	hca chippenham hospital	1
+strategy	hcw education program	1
+form	hcg spray	1
+alternative	hcfcs	3
+alternative	hcfc- one hundred and twenty-four 	1
+alternative	hcfc- one hundred and twenty-three 	1
+alternative	hcg diet drop	1
+alternative	hcfc- one hundred and fourty-one b 	1
+agency	hccc	1
+agency	hcfa	1
+theme	hci theory	1
+course	hci	2
+course	hcpcs concept	1
+solution	hcg	1
+book	hcg dieters gourmet cookbook	1
+field	hci	4
+procedure	hcg diet	1
+procedure	hcps	1
+band	hcl tech tunes	1
+school	hcjc	1
+school	hci	1
+title	hcc-hr  one  application for employment 	1
+ingredient	hcg	1
+agent	hcl	4
+agent	hcfcs	4
+agent	hcfc- one hundred and fourty-one b 	3
+agent	hcfc- twenty-two 	2
+agent	hcg	2
+agent	hcv	1
+agent	hcfc- one hundred and fourty-two b 	1
+agent	hcfc- one hundred and twenty-three 	1
+agent	hc ten   three 	1
+agent	hc	1
+agent	hcho	1
+agent	hcn	1
+type	hcfc hcfc one hundred and fourty-one b 	1
+city	hcmc	3
+disease	hcv	5
+disease	hcc	2
+disease	hcv infection	1
+disease	hcm	1
+firm	hcc	2
+firm	hcl & tech mahindra	1
+firm	hcl technologies	1
+drug	hcg	3
+drug	hctz	1
+drug	hcg by week metacam	1
+drug	hcv helicase	1
+test	hcv rna	2
+test	hcv rna detection test	1
+test	hcv-specific t cell	1
+test	hcl challenge test	1
+test	hc- one thousand   hc- one thousand two hundred  on-state current test 	1
+treatment	hcg	2
+complication	hcloud thirteen 's youtube account being suspended 	1
+setting	hcw station	2
+setting	hcw computer station	2
+setting	hca west paces ferry hospital	1
+compound	hcl	3
+compound	hcg	2
+compound	hcn	2
+compound	hcfc	1
+compound	hcooh	1
+compound	hcfc- one hundred and thirty-three a 	1
+compound	hcn tetramer	1
+compound	hccl  three 	1
+compound	hc in the fuel with lower degrees of oxidation	1
+instance	hcws of major astrological aspect	1
+policy	hcbs	1
+team	hck	1
+substance	hcg	3
+substance	hcl	2
+substance	hcb with tropospheric sink	1
+entity	hcfs found in the district	1
+building	hct	2
+style	hc fourty-three 	1
+feature	hcl in ingredients tramadol	1
+feature	hcm disease feature	1
+concern	hcfc control and phase-out	1
+medication	hcg	3
+medication	hcv medication hcv medication	1
+medication	hcg fertility medication	1
+big name	hca	1
+standard	hcalendar	1
+opportunity	hca's public land initiative	1
+effort	hcap's bimonthly newsletter	1
+external factor	hcv	1
+step	hcl reflux	2
+supply	hcg diet direct drop	1
+supply	hcg diet kit	1
+additive	hcl	3
+additive	hclorsocl  two 	1
+chemical	hcl	7
+chemical	hcch	1
+chemical	hcho	1
+software	hcss	1
+software	hcs	1
+capability	hci providesvalue-added capability	1
+capability	hcl's excellent imaging capability	1
+module	hci	1
+module	hcm	1
+magazine	hci	1
+protein	hcg	1
+protein	hcv core-binding protein	1
+competitor	hc three hundred and sixty .com of hc international 	1
+issue	hcs career framework	1
+issue	hcv guidance	1
+corporation	hca	1
+algorithm	hcf	1
+measurement	hcch	1
+issue	hci	1
+issue	hcl emission	1
+error	hctor camacho	1
+bank	hcm city vcb	1
+employer	hca inc.	1
+molecule	hcl	14
+molecule	hcfc- one hundred and twenty-three 	2
+molecule	hcho	1
+molecule	hcn	1
+molecule	hc n n	1
+molecule	hcch	1
+association	hcw	1
+sensor	hc sensor	1
+station	hcjb	2
+stock	hca holdings	3
+stock	hcl tech	1
+large company	hcl	1
+large company	hca	1
+fund	hcf	2
+supplement	hcy guard	7
+supplement	hcg	1
+target	hcm target	2
+raw material	hcl	1
+illness	hcv infection	1
+gene	hcp	1
+charity	hcc foundation	1
+popular brand	hcp	2
+popular brand	hcl	1
+difficulty	hci performance despite the vivid image	1
+industry leader	hcp inc.	1
+infection	hcv	8
+index	hcc detection index	1
+contaminant	hcl	3
+contaminant	hcooh	1
+marker	hcg	4
+third party	hcfa	1
+issue	hcp project area boundary	1
+aircraft	hc- one hundred and thirty 	1
+aircraft	hc- one hundred and fourty-four  ocean sentry 	1
+aircraft	hc- one hundred and thirty j hercules 	1
+aircraft	hc- one hundred and thirty  hercules 	1
+social event	hccf's social event	1
+abnormality	hcv infection	1
+solvent	hcfc- one hundred and fourty-one b 	1
+international organization	hchr	1
+code	hcpcs	3
+enzyme	hcv polymerase	2
+advanced technology	hcci	1
+health issue	hcm	2
+gas	hcl	28
+gas	hcl gas	3
+hospital	hca's spring branch medical center	1
+hospital	hca hospitals	1
+hospital	hca in nashville	1
+inhibitor	hcv polymerase inhibitor	1
+polymer	hcp	1
+production	hcfc- one hundred and fourty-one b 	1
+metal	hcp magnesium	2
+advance	hcv replicon	1
+publisher	hci	1
+acid	hcl	110
+acid	hcooh	2
+acid	hci	2
+acid	hclo . sub . three 	1
+acid	hcn	1
+pathogen	hcmv	2
+pathogen	hcv	2
+art	hcg diet	1
+staff	hcb service provider	1
+pollutant	hcl	4
+pollutant	hc	4
+pollutant	hcho	3
+pollutant	hci	1
+pollutant	hch	1
+virus	hcv	26
+virus	hcmv	3
+virus	hcmv target pml nbs for inactivation	1
+office	hcfa regional office	1
+local company	hca	2
+local company	hcl infosystems inc	1
+impurity	hcl	3
+entry	hcob's	1
+entry	hco pl's	1
+lesion	hcc	4
+reagent	hcl	2
+reagent	hc one  in dioxane 	2
+reagent	hci in dioxane	1
+reagent	hcl indioxane	1
+software package	hcs	1
+large organization	hca	1
+catalyst	hcl	2
+catalyst	hclo  four 	1
+salt	hcl	3
+version	hcsb	2
+constituent	hcn	1
+item	hcg diet	1
+item	hcg diet drop	1
+item	hc ppm	1
+item	hc one thousand  	1
+confounding factor	hcv co-infection	1
+blogs	hcr	1
+tumor	hcc	1
+hardware	hctl- two thousand   integrated circuit 	1
+chronic condition	hcg diet side effects diabetes	1
+locality	hcmc	1
+microorganism	hcv	1
+radio station	hcjb in equador	1
+foundation	hca foundation	1
+intermediary	hc starck	1
+guide	hcg weightloss	1
+chronic disease	hcv infection	1
+infectious disease	hcv	1
+luxury item	hc ld television	1
+external device	hcs twelve  microcontroller 	3
+external device	hcs twelve  micro controller 	1
+external device	hcs twelve  hcs twelve  micro controller 	1
+external device	hcs twelve  hcs twelve  microcontroller 	1
+new	hcg diet	1
+diet	hcg diet	3
+substitute	hcfcs	1
+big city	hcmc	1
+big city	hcm city	1
+hydrocarbon	hcn	4
+hydrocarbon	hc	1
+hydrocarbon	hch	1
+top player	hcl top player	1
+detector	hcc internal detector	1
+manifestation	hcq duetoextraglandular manifestation	1
+item	hc plans	1
+item	hc reports	1
+item	hc two thousand  	1
+cancer	hcc	3
+perspective	hci	2
+industry standard	hcca	1
+operating condition	hcl concentration for the preparation solution of thiourea	1
+ion	hcv	1
+hormone	hcg	10
+hormone	hcgcheman chorionic gonadotrophin	1
+gallery	hcg gallery	2
+medical issue	hcv coinfection	1
+button	hcl touch	1
+natural substance	hcg	1
+basic datum	hc release frequency	2
+small molecule	hcl	2
+small molecule	hcn	1
+small molecule	hcv protease inhibitor	1
+accomplishment	hcr	1
+area	hci	2
+area	hcmc	2
+top company	hcl info-systems	5
+top company	hcl tech	1
+top company	hcl	1
+top company	hcl technologies	1
+toxic substance	hci	1
+staff member	hca s	1
+node	hca of the node	2
+regulatory agency	hcfa	1
+pesticide	hch	3
+common disease	hcv	2
+cell line	hc eleven 	2
+key ingredient	hca	2
+blood test	hcg	1
+indian company	hcl technologies	4
+indian company	hcl technologies ltd	1
+preservative	hcl	2
+viral infection	hcv	5
+viral infection	hcmv infection	1
+viral infection	hcv infection	1
+mixture	hcl	1
+software company	hcl technologies	1
+harmful substance	hcfcs	1
+countermeasure	hc-resistant rail material	1
+translation	hcsb	5
+fatty acid	hcl cholesterol	3
+scholarship	hcc leadership award	1
+national company	hcr manor care	1
+conservation measure	hcp conservation measure	1
+herbal ingredient	hca	1
+conglomerate	hcl technologies	2
+incentive program	hcp program	1
+hazardous substance	hcl	2
+hazardous substance	hc	1
+infectious agent	hcv	2
+etiology	hcv	1
+air pollutant	hcho	1
+industrial area	hcmc	1
+area	hci for pdas	1
+area	hcfa audit	1
+research field	hci	1
+chemical reaction	hcl gas formation reaction	1
+inorganic salt	hcl	1
+insert	hcv core gene	1
+precursor	hcn	2
+electrolyte	hcl	7
+global corporation	hcl perot systems	1
+emission	hc	6
+emission	hcl	2
+community college	hccs	1
+serious medical condition	hcv	2
+chemical additive	hcl	2
+manual	hcfa issue different manual	1
+factor	hcv ns protein	1
+service	hcg weight loss	1
+share	hcl tech	1
+kinases	hcr	1
+baseline characteristic	hcv co-infections	1
+food supplement	hcg injection	3
+Comorbidities	hcv infection	1
+chronic infection	hcv	1
+biggie	hcc	1
+computer software	hcs	3
+innovative tool	hcp resource center	3
+free software	hc encoder	1
+reputed company	hcl technologies	1
+reputed company	hcl	1
+liquid product	hcooh	1
+liquid product	hcooch  three 	1
+service	hct testing	1
+controlled substance	hcfcs	1
+dangerous substance	hc	1
+diuretic	hctz	1
+marquee name	hcl technologies	2
+notation	hcf	1
+graduate program	hcmc university of ago-forestry	1
+medical test	hcg level	1
+reactant	hcl	2
+high-profile company	hcl technologies	1
+corporate partner	hca	1
+refrigerant	hcfc- twenty-two 	4
+refrigerant	hcfc- one hundred and twenty-three 	3
+refrigerant	hcfcs	2
+largest city	hcmc	1
+financial report	hcfa form- sixty-four 	1
+replacement	hcfcs	1
+small plant	hc	1
+national client	hca healthcare	1
+drug treatment	hcg	1
+fad diet	hcg diet	3
+tumor marker	hcg	2
+evaluation method	hci walkthrough-style design evaluation method	1
+evaluation method	hci evaluation method	1
+malignant tumor	hcc	1
+solid tumor	hcc tumor	1
+service	hcp	1
+strong acid	hcl	50
+strong acid	hclo four 	3
+strong acid	hci	3
+infield	hci	1
+metropolis	hcmc	1
+weak acid	hcn	1
+weak acid	hco two h fromic acid 	1
+weak acid	hcn hydrogen cyanide	1
+complex disease	hcv	1
+construction company	hcc	1
+environmental contaminant	hch	1
+health care organization	hcfa	1
+payer	hcfa	1
+REITs	hcp	1
+harmful material	hc	2
+serological test	hcg	1
+billionaire	hcl's shiv nadar	2
+humanitarian organization	hcr	1
+RNA virus	hcv	8
+occassions	hcr	1
+private corporation	hce	1
+chemical company	hc starck	2
+reactive gas	hcl	3
+reactive gas	hcn	2
+toxic gas	hcl	3
+toxic gas	hcn	1
+toxic gas	hc	1
+topic	hci	2
+diet plan	hcg diet	2
+diet plan	hcg hormonal diet plan	1
+diet plan	hcg hormonal diet	1
+heart disease	hcm	2
+reaction product	hcl	2
+reaction product	hcl desorbe from the surface	1
+monoclonal antibody	hcd  one hundred and twenty-two 	1
+county agency	hca	1
+rubber	hcr	1
+contaminates	hcl	5
+hormonal factor	hcg	1
+acid catalyst	hcl	5
+corporate company	hcl technologies	1
+inorganic acid	hcl	34
+on-line resource	hci bibliography	1
+computer company	hcl	1
+indian firm	hcl technologies ltd	2
+training provider	hct	1
+clustering method	hc	3
+topic	hcl's mission	1
+great team	hc sibir novocibirsk ice hockey team	1
+volatile component	hcn	4
+etiologic factor	hcv infection	1
+chlorinated hydrocarbon	hcb pentachlorophenol	2
+chlorinated hydrocarbon	hch	1
+complex molecule	hcooch  three 	1
+key industry player	hcl technologies ltd	1
+global name	hcl technologies	2
+mineral acid	hcl	21
+mineral acid	hc ten   four 	1
+billing information	hcpcs procedure code	1
+polypeptides	hcg	1
+weight loss program	hcg diet	2
+weight loss program	hcg diet plan	1
+acidic substance	hcl	1
+simple molecule	hcl	1
+simple molecule	hcooh	1
+aqueous solution	hcl	4
+trace gas	hcl	3
+trace gas	hcho	1
+infrastructure company	hcc	1
+muslim organization	hci	1
+nitrogen-containing compound	hcn	1
+large database	hcup sid  sixteen -state database 	1
+progressive organization	hcan	1
+simple measurement	hc	1
+interdisciplinary area	hci	2
+synthesis parameter	hcl concentration	1
+integrated service	hcbc	1
+interesting product	hcg drop	1
+public and private organization	hcfa	1
+seaport	hcm city's tan cang	1
+topic course	hcde  four hundred and ninety 	2
+topic course	hcde  four hundred and ninety-six 	1
+acid gas	hcl	16
+acid gas	hci	1
+acid gas	hcl gas	1
+polar molecule	hcl	1
+company	hcl technologies	30
+company	hca	6
+company	hcc	5
+company	hcl	5
+company	hca inc.	4
+company	hcl tech	3
+company	hcl infosystems	2
+company	hcch	1
+ground cover plant	hc	1
+usability issue	hci	1
+acidic compound	hcl	4
+acidic compound	hclandso  two 	1
+blood pressure medication	hctz	2
+enveloped virus	hcv	2
+modern translation	hcsb	1
+coding system	hcpcs	2
+diet product	hcg	1
+fumigant	hcn	1
+harmful pollutant	hc	5
+viral factor	hcv genotype	3
+viral factor	hcv viral load	2
+viral factor	hcv viremia	1
+viral factor	hcv rna level	1
+viral factor	hcv type	1
+gaseous pollutant	hcl	1
+weight loss product	hcg unwanted weight burning remedy	1
+concomitant disease	hcv infection	1
+fertility treatment	hcg injection	1
+atmospheric gas	hcl	1
+others item	hcl generator	1
+scientific datum	hcho epidemiologic datum	1
+virus infection	hcv	3
+corrosive gas	hcl	12
+corrosive gas	hci	1
+hormonal agent	hcg	1
+viral pathogen	hcv	2
+company	hcl comnet	1
+corporate brand	hca	1
+hospital system	hca	2
+antihypertensive agent	hctz	1
+small organic molecule	hcn	1
+small organic molecule	hcho	1
+multifactorial disease	hcc	1
+third-party payer	hcfa	3
+industrial pollutant	hch	1
+notable case	hca	1
+poisonous gas	hcn	2
+poisonous gas	hcl	1
+reductants	hc	1
+microcontroller	hc twelve 	1
+conventional solvent	hcfc  one hundred and fourty-one b 	2
+fertility drug	hcg	2
+demographic and clinical characteristic	hcv genotype	1
+gas component	hc	1
+microcontrollers	hc eleven 	1
+microcontrollers	hc twelve 	1
+sensitive test	hcmv pcr	1
+health care company	hca inc.	1
+health care company	hca	1
+information technology company	hcl technologies	3
+information technology company	hcl technologies dell	1
+real estate investment trust	hcp	2
+top organization	hcl before venturing into entrepreneurship	1
+acidic gas	hcl	14
+acidic gas	hcn	1
+chronic liver disease	hcv	1
+computer software application	hcs	1
+company	hcl cleantech	1
+company	hcl - perot	1
+company	hcl infosystems of india	1
+company	hcl perot systems	1
+company	hcl technologies ltd.	1
+company	hcfc	1
+company	hcg group	1
+company	hcc international & short term health	1
+company	hc starck	1
+company	hcc insurance	1
+company	hca healthcare corp.	1
+company	hcr manorcare	1
+harmful component	hc	3
+noxious gas	hcl	3
+organochlorine pesticide	hch	3
+soluble gas	hcl	3
+undesirable component	hc	1
+third party payer	hcfa	1
+soluble substance	hcl	1
+cancer risk factor	hcv infection	1
+corrosive	hcl	1
+short form	hcp	1
+acidic catalyst	hcl	1
+air emission	hcl	1
+chronic viral infection	hcv	3
+e-commerce company	hc network	1
+novel drug	hcv protease	1
+acidic solution	hcl	1
+heat engine	hcci	1
+humanitarian agency	hcr	1
+water soluble compound	hcl	1
+long event	hcr	1
+television	hci's bedmate televisions	1
+gaseous component	hc	3
+gaseous component	hcl	1
+molecular compound	hcl	1
+residual insecticide	hch	2
+specialty gas	hcl	3
+conventional catalyst	hcl	2
+gaseous emission	hcl	1
+halogen compound	hcl	1
+intangible loss	hco's goodwill	1
+serum tumor marker	hcg	2
+analysis package	hcs	1
+differentiation marker	hcg	1
+herpesviruses	hcmv	5
+smoothing technique	hcl smoothing	2
+smoothing technique	hc smoothing	1
+vascular tumor	hcc	1
+common agent	hcl	1
+histone deacetylase inhibitor	hc toxin	3
+must-see sight	hcm complex	3
+unwanted component	hcn	1
+unwanted component	hcl	1
+biometric measurement	hc	1
+co-infections	hcv	1
+diatomic molecule	hcl	6
+christian ministry	hcjb world radio	1
+computer giant	hcl infosystems	1
+engine technology	hcci	1
+deterministic model	hcm	1
+diagnostic product	hcg	1
+acid solution	hcl solution	2
+acid solution	hcl	1
+exhaust gas	hc	2
+gaseous substance	hcl	1
+government regulatory agency	hccc	1
+nosocomial infection	hcv	1
+potent medication	hcg	2
+regional office	hcfa regional office	1
+weight loss plan	hcg diet suited for various nutritional need	1
+acid component	hcl	1
+catalyst poison	hcl	2
+human malignancy	hcc	1
+diet fad	hcg diet	1
+herpes virus	hcmv	1
+monobasic acid	hci	1
+strong inorganic acid	hcl	6
+acid compound	hcl	2
+car magazine	hci	1
+eluents	hcl	2
+injectable medication	hcg	1
+protein hormone	hcg	2
+strong mineral acid	hcl	8
+strong mineral acid	hclo four 	1
+deadly virus	hcv	1
+fertility medication	hcg	1
+fertility medication	hcg fertility medication	1
+indian giant	hcl technologies	1
+large DNA virus	hcmv	1
+Organochlorines	hch isomer	1
+prevention issue	hcv vaccine	1
+protic acid	hcl	6
+race event	hcr one-tenth e-challenge	1
+chlorinated pesticide	hch	1
+common acid	hcl	3
+high-protein diet	hcg diet	1
+low plant	hc	1
+simple organic molecule	hcn	1
+simple organic molecule	hcho	1
+step rapid test kit	hcv	9
+step rapid test kit	hcg	9
+stimulators	hcg & clomid	1
+suitable acid	hcl	4
+blood-borne pathogen	hcv	1
+cancer marker	hcg	1
+gas sensor	hc sensor	4
+GHGs	hcfcs	1
+inorganic or organic acid	hcl	2
+intensive method	hc	1
+ODS	hcfcs	2
+pH adjusting agent	hci	1
+top-tier player	hcl technologies	1
+aggressive liquid	hcl	1
+ancillary drug	hcg	2
+bloodborne pathogen	hcv	2
+concentrated acid	hcl	1
+exhaust emission	hc	2
+hormone replacement therapy	hcg injections	1
+hydrogen compound	hcl	1
+indian IT company	hcl	1
+indian IT giant	hcl technologies	1
+indian software firm	hcl technologies ltd	1
+indian software firm	hcl technologies	1
+irritant gas	hcl	2
+polyatomic molecule	hcn	1
+thiazide diuretic	hctz	4
+bronsted acid	hcl	3
+bronsted acid	hci	1
+harmful byproduct	hcl	2
+intermediate species	hcn	1
+Acidic species	hcl	1
+biochemical product	hcg	1
+information	hcp datum	1
+information	hcd initiatedcontrol information	1
+hepatitis virus	hcv	1
+polar gas	hcl	4
+relocation company	hcr	1
+residual contaminant	hcl	1
+acid addition salt	hcl	1
+halocarbons	hcfc- one hundred and twenty-three 	3
+halocarbons	hcfc  one hundred and twenty-three a 	1
+healthy individual	hc worker	1
+hydrogen donor	hcooh	2
+indian IT firm	hcl technologies	1
+CFCs	hcfc- twenty-two 	1
+defensive	hcl tech	1
+eminent organization	hcl hewlett-packard	1
+hydrogen-containing compound	hcl	3
+injectable substance	hcg	1
+OEM supplier	hcl infosystems	1
+information	hct service delivery datum	1
+information	hci revision	1
+information	hci version	1
+pretreatment variable	hcv rna level	1
+structural heart disease	hcm	1
+topmost brand	hcl	1
+acidic impurity	hcl	2
+aqueous acid	hcl	1
+blood-borne infection	hcv	1
+chemical vapor	hcl	1
+common mineral acid	hcl	3
+detection test	hcv rna detection test	1
+disease feature	hcm disease feature	1
+drilling rig	hc  seven hundred and twenty-five 	1
+drilling rig	hc seven hundred and twenty-six 	1
+financing agency	hcfa	1
+haloalkanes	hcfc- one hundred and fourty-one b 	1
+inorganic acidic compound	hcl	4
+liquid acid	hcl	3
+persistent organic compound	hcb	1
+persistent organic compound	hch isomer	1
+required test	hcv	1
+silicone rubber	hcr	1
+software major	hcl technologies	1
+virological factor	hcv genotype	2
+virological factor	hcvnongenotype  one 	1
+acidic condition	hcl in isopropanol	1
+e-commerce business	hc network	1
+HCFCs	hcfc- one hundred and fourty-one b 	6
+HCFCs	hcfc- twenty-two 	3
+HCFCs	hcfc- one hundred and twenty-three 	2
+HCFCs	hcfc- one hundred and fourty-two b 	2
+HCFCs	hcfc- one hundred and twenty-four 	2
+human tumor cell line	hct one hundred and sixteen  colon carcinoma 	1
+inorganic mineral acid	hcl	2
+large public work	hcm city environment-hygiene project	1
+linear molecule	hcl in a certain rotational energy state with a quantum number j	1
+persistent infection	hcv	1
+printed form	hctc letterhead	1
+proper medication	hcg & compounded testosterone gel	1
+public payer	hcfa	1
+rapid test kit	hcg	7
+viral and host factor	hcv genotype	2
+vital city	hcmc	1
+acidic pollutant	hcl	1
+avail brand	hcl	1
+basic reagent	hcl	1
+central service agency	hca	1
+confirmatory study	hcv rna	1
+controversial product	hcg	2
+flue gas component	hcl	2
+Gonadotropins	hcg	1
+high population density area	hcmc	1
+indy fed	hcw	1
+ketogenic diet	hcg	1
+low calorie diet	hcg diet	1
+low calorie diet	hcg diet detox	1
+non-oxidizing acid	hcl	1
+others department	hcfc twenty-two  refrigeration plant 	1
+Oxyacids	hclo three 	1
+Oxyacids	hclo	1
+positive-strand RNA virus	hcv	1
+strong electrolyte	hcl	2
+water pill	hctz	4
+acid treatment	hcl	1
+event	hcs scientific boat cruise	1
+etchant gas	hcl	1
+HCV protein	hcv protein core	1
+HCV protein	hcv core	1
+large gene	hcn four 	1
+large hospital system	hca	1
+microformats	hcard	5
+microformats	hcalendar	4
+quantitative discipline	hci	1
+toxic and corrosive compound	hcn	1
+toxic and corrosive compound	hcl	1
+water-soluble gas	hci	1
+addit ional feature	hcca	1
+datum path	hcdp  two hundred and fourty-five 	1
+hepatocellular lesion	hcc	1
+large IT firm	hcl infosystems	1
+lipid-coated virus	hcv	1
+measurement program	hcahps patient experience score	1
+program	hcrv program	2
+program	hct campaign	1
+program	hcg weight loss system	1
+noxious component	hc	6
+prebiotic molecule	hcn	1
+rapid test kit s	hcg	5
+well-known midcap company	hcc	1
+Acid etchants	hcl	1
+bangalore IT major	hcl technologies	1
+bilingual community resource	hcahh service	1
+chronic virus infection	hcv in human	1
+complex organic	hcooh	1
+enhancer element	hcr- one  of gene locus apoe 	1
+excellent publisher	hci	1
+free acid	hcl	1
+Greenhouse gas A gas	hcfc	1
+heavy molecule	hcl	1
+hematologic parameter	hct	1
+histonedeacetylase inhibitor	hc toxin	1
+Hydrochlorofluorocarbons	hcfc- one hundred and fourty-one b 	3
+Hydrochlorofluorocarbons	hcfc- one hundred and twenty-three 	1
+Hydrochlorofluorocarbons	hcfc  one hundred and fourty-one b 	1
+local health system	hca's tristar health system	1
+organochlorine contaminant	hch	1
+program	hcg weight loss	1
+program	hcg diet	1
+program	hci	1
+program	hcop	1
+program	hcwand youth camps	1
+religious station	hcjb quito ecuador	1
+simple diatomic molecule	hcl	2
+standard modern bible translation	hcsb	1
+structural disease	hcm	1
+huichol language	hch	0
+accurate translation	hcsb	1
+acidic contaminant	hcl	1
+aqueous mineral acid	hcl	2
+cleavage product	hcl	1
+domestic and international vendor	hcl infosystems	2
+domestic software service company	hcl technologies	2
+hepatotropic virus	hcv	1
+hi-tech machine	hcl generator	1
+indian IT major	hcl technologies	1
+ion plating method	hcd method	1
+mainstream, conservative english version	hcsb	1
+monovalent acid	hcl	3
+required update	hcd	1
+sour gas component	hcn	3
+transfusion-transmissible infectious agent	hcv	1
+bacterial metabolite	hcn orpyoluteorin	1
+B-C information	hcap provider directory	1
+carbon pollutant	hcl	1
+chronic viral disease	hcv	1
+claim form	hcfa	1
+CMOs	hct	2
+deoxidizing agent	hc	1
+design evaluation method	hci walkthrough-style design evaluation method	1
+factor	hcmv secretome factor	1
+factor	hcv load	1
+factor	hcv viral genotype	1
+factor	hcv-associated stigma	1
+emission species	hc	3
+engine concept	hcci engine	1
+foreground plant	hc	1
+HCG platinum's high quality product	hcg platinum  sixty -day supply 	1
+HCG platinum's high quality product	hcg platinum x- fourteen 	1
+heteroatomic molecule	hcl	1
+imaging capability	hcl's excellent imaging capability	1
+immortalized cell	hc eleven  mammary epithelial cell 	1
+indian IT service firm	hcl technologies	1
+industry standard form	hcfa	2
+med spa treatment	hcg diet	1
+molecular tracer	hco	1
+monoprotic acid	hcl	1
+nitrogen-containing species	hcn	1
+personal computer major company	hcl	1
+pickling acid	hcl	2
+popular game mode	hc s&d	1
+positive strand RNA virus	hcv	1
+pretransplant factor	hcv status	1
+process emission	hcl	1
+organization	hcr manorcare	2
+short-term international medical policy	hcc atlas plan	1
+short-term international medical policy	hcc atlas plan by lloyds of london	1
+short-term international medical policy	hcc medical insurance atlas plan	1
+toxic exhaust emission	hc	1
+Trace gas species	hcho	1
+virus particle	hcv	1
+vitro model	hcv replicons	1
+weak electrolyte	hc two h three o two 	1
+best PCT	hcg	1
+big, scary virus	hcv	1
+bluetooth tool	hciattach	1
+chronic and concurrent medical condition	hcv	1
+code s ets	hcpcs	1
+common workover fluid	hcl acid	1
+conservative translation	hcsb	1
+conventional mineral acid	hcl	2
+dignostic product	hcg	1
+diluted acid	hcl	2
+easily liquefiable gas	hcl	2
+easily oxidizable or reducible gas	hcl	1
+environmentally safe refrigerant	hcfcs	2
+environmentally safe refrigerant	hcfc s	1
+organization	hcs board	1
+Fad diet s	hcg diet	1
+for-profit chain	hca	2
+great modern english bible	hcsb	1
+halide acid	hcl	1
+healthy eating pattern	hcg diets with weight loss benefit	1
+heteronuclear diatomic molecule	hcl	1
+high grade company	hcl technologies	1
+india only limited company	hcc	1
+indian competitor	hcl technologies	1
+indian infotech company	hcl technologies	1
+industrial greenhouse gas	hcfc- twenty-two  molecule 	1
+inorganic process gas gas	hcl	2
+ionic molecule	hcl	2
+large local firm	hca inc.	2
+master's course	hci design at carnegie mellon university	1
+medium-temperature application	hcfc- twenty-two 	1
+MPEG encoder	hc	1
+MPEG2 encoder	hc	1
+non-CO2 GHGs	hcfcs	1
+organic analytes	hce	2
+plant growth-promoting attribute	hcn production	2
+polychlorinated compound	hch	1
+popular testosterone stimulating compound	hcg	1
+organization	hci	1
+organization	hca	1
+organization	hcfa	1
+organization	hca hospital systems	1
+organization	hcl	1
+organization	hclt bpo	1
+organization	hcr	1
+professional commercial site	hc network	1
+RNA target	hcv	1
+simple species	hcooh	1
+starvation diet	hcg	1
+strong protic acid	hcl	2
+substitute chemical	hcfcs	1
+vibrationally stiff, weakly anharmonic molecule	hcn	1
+carpet plant	hc	4
+CFC substitute	hcfc- one hundred and twenty-three 	1
+cheap compound	hch	4
+chlorine impurity	hcl	1
+chronic infectious liver disease	hcv infection	1
+classical chemometrictools	hca	1
+compression heating ignition system	hcci engine	3
+conventional acid system	hcl	1
+discrete molecule	hcl	1
+economic and commercial centre	hcm city	1
+exposure management blood-borne pathogen	hcv	1
+extremely restrictive diet	hcg diet	1
+fannie mae leader	hcd risk management	1
+foetal measurement	hc	1
+for-profit hospital company	hca corp.	1
+technique	hcl plasma	1
+gas scrubbing system gas	hcl	1
+gaseous acid	hcl	2
+halogen acid	hcl	4
+Halogen species	hcl	2
+halogen-containing acid	hcl	1
+hcg diet product	hcg clear	1
+hcg diet product	hcg platinum	1
+HCI conference	hci in england	1
+health care corporation	hca	1
+heterodimeric gonadotropin	hcg	1
+high pressure fumigant	hcn	1
+hypervascular tumor	hcc	1
+infotech sector stock	hcl infosystems	1
+insurance code	hcpcs	1
+leveraged buyout company	hca	1
+magmatic gas	hcl	2
+manufacture rapid diagnostic test	hcv	1
+manufacture rapid diagnostic test	hcg	1
+medical code	hcpcs	1
+nitrogen precursor	hcn	1
+non-h&ss program	hci	1
+non-orweakly cytopathic agent	hcv	1
+application	hcm	2
+OEM rapid diagnostic product	hcg	1
+POP s	hch s	1
+precursor item	hcl generator	1
+pressure refrigerant	hcfc- one hundred and twenty-three 	1
+private health fund	hcf	1
+reasonably complex application	hcms	1
+regular business event	hcss training seminar	1
+related system	hctionally related system	1
+rich component	hc	2
+secreted hormone	hcg	1
+shorter-lived compound	hcfc- one hundred and twenty-four 	1
+shorter-lived compound	hcfc- one hundred and twenty-three 	1
+soluble strong acid	hcl	1
+stable polyatomic molecule	hcn	1
+standard fabrication gas	hci	1
+standard fabrication gas	hcl	1
+Stratospheric species	hcl	1
+strong, non-reduc-ing acid	hc one o  three 	1
+application	hci	1
+application	hcm processes	1
+toxic and corrosive gas	hcl	1
+traffic technical program	hcs	1
+waiver program	hcs copes	1
+well-known economic factor	hce per capita	1
+well-known smoothing technique	hcl smoothing	4
+well-known smoothing technique	hc smoothing	2
+well-known smoothing technique	hci smoothing	1
+wonderful bloodline	hcm navajos distant thunder	1
+wonderful concoction	hco	1
+AAQ station	hcu	1
+absorptive and corossive gas	hcl	1
+acid hydrolysis product	hcl	1
+Additionalelectrolyte	hcl	1
+aggressive close competitor	hcl currently growing revenues at a faster pace than infosys	1
+aggressive component	hcl	1
+amino-acid precursor	hcn	1
+ancilliaries	hcg during the cycle	1
+aqueous system acidic gas	hcl	1
+artistic setting	hcp	1
+atomic and molecular gas	hcn	1
+big infrastructure company	hcc	2
+binary acid	hcl	3
+biochemical and virological factor	hcv genotype	1
+biosensor chemistry	hcp	1
+bluk ferro alloy	hc ferro manganese	1
+bluk ferro alloy	hc ferro chrome	1
+name	hcl	2
+CET product	hcm mashup builder	1
+CFC replacement	hcfc- one hundred and fourty-one b 	1
+chronic uncontrolled viral infection	hcv	3
+colon cancer cell	hct one hundred and sixteen  cell 	1
+commonly available chemical	hcl	1
+complex search algorithm	hc algorithm	1
+compression ignition system	hcci engine	2
+conventional inorganic acid	hcl	3
+Defined Microformats	hcard	1
+Defined Microformats	hcalendar	1
+desorbing agent	hcl	2
+detailed line prfilesfrhigh-density tracer	hco	1
+diagnostic and medical procedure code	hcpcs	1
+diatomic acompound	hcl	1
+diesel engine ignition system	hcci engine	2
+directly-targeted antiviral therapy	hcv protease	1
+directly-targeted STAT-C agent	hcv protease	1
+empirically evident factor	hcw's immune status	1
+name	hca	1
+FE translation	hcsb	1
+follow-up viral datum	hcv rna genotype	2
+for-profit health care company	hca	1
+fully computerized system	hcan cause injury	1
+halogenated refrigerant	hcfcs	1
+halogen-containing impurity	hcl	1
+hepatotrophic virus	hcv	2
+human coronaviruses	hcov strain oc fourty-three 	3
+hydrochloro-fluorocarbons	hcfc- one hundred and fourty-two b 	1
+hydrochloro-fluorocarbons	hcfc- twenty-two 	1
+india competitor	hcl technologies	1
+induced breeding substance	hcg	1
+injection factor	hcp administration	1
+inter-province bus route	hcm city-binh duong	1
+introduction acid	hcl	1
+investor-owned hospital company	hca management company	1
+kidney dysfunction risk factor	hcv	1
+large for-profit hospital system	hca	1
+factor	hcg at presentation	1
+factor	hcg rate	1
+factor	hcv rna level	1
+factor	hcv viral load	1
+case	hcv	1
+local IB school	hci	1
+local research institute	hcmc institute of economics	1
+loss program	hcg fat reduction therapy	1
+low emission combustion concept	hcci engine	1
+medical weight loss option	hcg diet	1
+medically important RNA virus	hcv	1
+meteoric water scrubs volcanic gas	hcl	1
+modern CMOS family	hct	1
+non-cfc refrigerant	hcfcs	1
+non-cytopathic virus	hcv	1
+oracle fusion application	hcm	1
+organ specific HCMV infection	hcmv pneumonitis	1
+organochlorine persistent compound	hch	1
+polemical product	hcg	1
+case	hca	1
+case	hcat data sharing site	1
+positive-stranded ires-containing virus	hcv	1
+post-lt clinical outcome	hcc recurrence	1
+predetermined process gas	hcl gas	1
+pregnancy-specific hormone	hcg	1
+proper PCT	hcg	1
+quic agency	hcfa	1
+refined travel forecasting model	hcm	2
+refrigerant chemical	hcfcs	1
+regulated emission	hc	1
+reputable hospital	hca-los robles regional medical center	1
+RNA silencing suppressor	hcpro from potato virus y	1
+safety group A1 refrigerant	hcfc- twenty-two 	1
+SAP related module	hcm	1
+silent cancers	hcc	1
+simple interstellar precursor molecule	hcn	1
+skeletal growth parameter	hc	5
+stratospheric gas	hcl	1
+subcontinent firm	hcl infosystems	1
+supplemental assay	hcv test by riba	1
+case	hca inc.	1
+option	hcc	2
+tapasin function inhibitor	hcmv protein us three 	1
+tetrameric channel protein	hcn channel	1
+toxic and environmentally unacceptable product	hcfc  one hundred and fourty-one b 	1
+triple bond	hc c-oet	1
+triple bond	hc c-set	1
+vietnam's large city	hcm city	1
+viral target	hcv	1
+volatile chloride compound	hcl	1
+volatile mobile-phase modifier	hcooh	1
+volatile nitrogen precursor	hcn	1
+water soluble inorganic material	hcl	1
+water soluble species	hcho	1
+wireless section qos control	hcca	1
+workforce issue LTC alternative	hcbs	1
+Acai detox product	hcg fusion pre-diet acai berry detox cleanse	1
+access approach	hcca	1
+acid etching solution	hcl	1
+acid hydrolysis concentrated acid	hcl	2
+acidaddition salt	hcl	1
+acid-forming contaminant presenttherein	hcl	1
+Activa-tionofR IG-IbydsRNA	hcv rna	1
+Acute-care hospital CEOs	hca's jack bovender jr.	1
+additionalradiatively active constituent	hcn	1
+advanced diesel ignition system	hcci	1
+affiliatedwith larger system	hca	1
+aggressive epithelial malignancy	hcc in male	1
+aggressive for-profit chain	hca	1
+ANTI-INFLAMMATORY compound many liver disease	hcv disease	1
+arterial analysis package	hcs	1
+augmented stabilisation device	hc cann't	1
+avail-able security	hcossehold furniture	1
+option	hcg ultra diet drops	1
+back-up measure	hc iii	1
+baseline difference	hcv rna-level	1
+bib-lica ministry partner	hcjb	1
+big buyout	hca inc.	1
+brilliant policy geniuses	hc coombs moonlighting from the resere bank	1
+Bronsted acid s	hcl	2
+by-product vapor	hcl	1
+captured gas product	hcl	1
+carbon fluoride group refrigerant	hcfc	2
+caveat advanced engine technology	hcci engine	1
+cfc-substitute solvent	hcfc	1
+chemical etchant acid	hcl	2
+chemicallj pure substance	hcl in the liquid state	1
+chlorofl uorocarbon alternative	hcfcs	1
+chorionic gonadotropins	hcg	1
+cometary organic compound	hcn	1
+common and familiar acid	hcl	1
+common strong acid	hcl	2
+congenital cardiovascular condition	hcm	1
+content provider database	hcm	1
+conventional reactive acid	hcl	1
+ctriigs	hcg	1
+Currently non registered staff	hca's only access adult bls	1
+dangerous raw material	hcl	1
+deaerated aqueous acid	hcl	2
+deprotection condition	hcl for t-butoxycarbonyl	1
+designer solvent	hcfc	1
+desorbing chemical	hcl	3
+detector module	hc one hundred and twenty  series 	1
+deterministic tool	hcm	1
+development microcontrollers	hc eleven 	1
+diagnostic categorisation system	hcfa drgs	1
+diagnostic radiopharmaceuticals	hcpcs code a four thousand six hundred and fourty-two 	1
+diesel combustion mode	hcci	1
+DNC protein	hcn ion channel	1
+driver layer	hca driver	1
+option	hcg fat loss strategy	1
+group	hcase	1
+group	hc derksen	1
+egfrviii-expressing line	hc two   twenty  d two 	1
+environmentally-safe refrigerant	hcfcs	6
+etchant species	hcl	1
+external encoder	hc encoder	1
+extremely aggressive acid	hcl	1
+far-reaching instrument	hcnm	1
+fat reduction product	hcg extra weight loss therapy	1
+first scrubber acid gas	hcl	1
+first stage acid gas	hcn	2
+freeware encoder	hc	2
+freon substitute	hcfc  one hundred and fourty-one b 	1
+friedel-crafts acid	hcl-alcl  three 	1
+good MPEG encoder	hc encoder	1
+half cycle datum path	hcdp  two hundred and fourty-five 	2
+Haloacids	hcl	1
+halogenated inorganic acid	hcl	1
+hard-charging firm	hcl technologies	1
+harmful gas component	hc	1
+hCG diet recipe cookbook	hcg diet gourmet cookbook	1
+HCV test	hcv riba	1
+hcv-dependent feature	hcv load	1
+heterogeneous genetic disease	hcm	3
+hetero-nuclear molecule	hcl	1
+high-dipole moment molecule	hcn	1
+high-performance physical model	hcci combustion model	1
+homogeneous catalytic system	hcl	1
+hospital administrative datum	hcup	1
+hospital discharge abstract	hcup	1
+HUD approved housing counseling agency	hcci	1
+hydrohalide acid	hcl	2
+ilmsbasedon traditional matrix	hcca	1
+immunogenic subunit vaccine	hcmv gb vaccine	1
+infectious disease molecular test	hcv genotyping	1
+group	hca with web based communication tool	1
+group	hcc with hcv ab positive group	1
+infosys top software company	hcl technologies	1
+in-home nursing care service program	hcbs	1
+installation sign specialist	hce solutions	1
+insurance-hospital corporation	hca	2
+interfering combustion gas	hcl	1
+interim substitute	hcfcs	1
+international staffing company	hcca international	1
+internet clique	hcsp	1
+ionic acid	hcl	1
+key construction company	hcc	1
+large for-profit organization	hca	1
+latest traffic analysis software	hcs	1
+LH-mimicking agent	hcg	2
+light cam	hc one  without attachment 	1
+low-calorie and low-carbohydrate diet	hcg diet	1
+luteotrophic substance	hcg	1
+medicaid provis ion	hcbs waiver authority	1
+medicaid provision	hcbs waiver authority	1
+mild cleaning method	hcl dip	1
+mild-cleaning method	hcl dip	1
+mineral acid gas	hcl	1
+minor gas species	hcl	1
+mtrhnnitut rrrtujttrs	hcasiekness	1
+national employer partner	hcr manor care	1
+nationalcompanies	hcr manor care	1
+natural chlorine emission	hcl from volcano	1
+neural stem cell proliferating agent	hcg	1
+night flowering water lily	hc harstick	1
+non oxidising acid	hcl	1
+non-oxidizing and unlike acid	hcl	1
+method	hctr	1
+ODP HCFCs	hcfc- one hundred and fourty-two b 	1
+organic acid mixture	hcooh at a range of temperature	1
+organo-chlorned pesticide	hch	1
+perpendicular magnetic recording layer	hcp granular ferromagnetic cobalt alloy	1
+petroleum industry	hc sleigh	1
+poisonous gas es	hcl	1
+positive stranded RNA virus	hcv	1
+pos-itive-strand RNA virus	hcv	1
+potent DAAs	hcv protease inhibitor sinemevir	1
+pre-growth treatment	hcl etching of the sic substrate	1
+presigous instiutions	hcc & essex community college	1
+private hospital company	hca	2
+profit fund	hcf	1
+progressive ally	hcan	1
+public option proponent	hcan	1
+pure service provider	hcl tech	1
+quick weight loss plan	hcg  five hundred  calorie diet plan 	1
+reactive and condensable gas	hcl	2
+real diet program	hcg diet	1
+reasonably strong acid	hcl	2
+Reductant delivery system	hc delivery system	1
+Reductantdelivery system	hc delivery system	1
+relative-value system	hcfa's resource-based relative-value system	1
+rich condition more reductants	hc	1
+safety group B1 refrigerant	hcfc- one hundred and twenty-three 	1
+second-generation replacement substance	hcfcs	1
+method	hc	1
+method	hcalendar	1
+method	hci evaluation method	1
+method	hch	1
+method	hci walkthrough-style design evaluation method	1
+service availability	hct	1
+soft modem	hcf modem	1
+SRL method	hci method	1
+stable chlorine molecule	hcl	1
+standard hematology value	hct	1
+standard microcontroller	hcs twelve  from freescale 	1
+strong acid treatment	hcl	1
+strong and weak acid	hcl	1
+strong non-oxidizing acid	hcl	1
+structured HTML format	hcard	1
+subsequently-injected fluid	hcl pre-flush	1
+substitute cost categorical program	hcp	1
+suitable inorganic or organic acid	hcl	1
+testosterone stimulating compound	hcg	2
+testosterone-stimulating compound	hcg	2
+tointroduce acid gas	hcl	1
+traditional CHC outcome measure	hcv rna viral load	1
+traffic software program	hcs	1
+typical molecular species	hcn	1
+uncommon variant	hcm with mid-ventricular obstruction	1
+unsymmetrical reagent	hcl	2
+unwanted fat burning product	hcg body weight reduction remedy	1
+very-low-calorie diet	hcg diet	3
+viral protease	hcv ns three - four a serine protease 	1
+vitablyina heterogeneous genetic dise ase	hcm	1
+water-soluble sample component	hcl	1
+weight impairment program	hcg weightloss therapy	1
+weight loss book	hcg detox diet	1
+well-knownsmoothing technique	hc smoothing	1
+word-oriented stream cipher	hc- two hundred and fifty-six 	1
+work acidic gas	hcl	1
+tool	hcm	1
+tool	hcg weightloss	1
+tool	hcard microformat	1
+product	hcg	5
+project	hca foundation	1
+project	hca's community day	1
+project	hccc	1
+material	hcl	4
+material	hcp	1
+material	hcho	1
+material	hci	1
+material	hc	1
+player	hcl technologies	2
+player	hcl technologies ltd.	1
+player	hcl top player	1
+technology	hcci engine	1
+product	hcl	2
+product	hcl related product	1
+product	hcg slimming pill	1
+product	hcg test strip related product	1
+product	hcg weight loss drop	1
+technology	hcci	1
+term	hcpcs	1
+term	hcfc	1
+parameter	hc	3
+parameter	hct	1
+parameter	hcv genotype	1
+parameter	hclacidityofthe sample	1
+system	hctionally related system	1
+system	hca	1
+species	hcl	8
+species	hcn	5
+species	hco	1
+measure	hca local land initiative	2
+measure	hcl washing	1
+measure	hcp conservation measure	1
+measure	hcr- twenty  violence risk assessment scheme 	1
+condition	hcm	1
+condition	hcmv infection in immunocompromised patient	1
+condition	hcg-secreting neoplasm	1
+variable	hcv-positive serology	1
+variable	hcv coinfection	1
+device	hcm	1
+brand	hcl	1
+brand	hcl technologies	1
+component	hcl	5
+component	hc	4
+related product	hcg pregnancy test related product	1
+related product	hcg test strip related product	1

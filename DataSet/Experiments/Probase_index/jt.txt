@@ -1,0 +1,261 @@
+initiative	jtrs	3
+initiative	jti	1
+character	jt	1
+institution	jts	1
+change	jttf	1
+form	jt sixty-five 	2
+person	jtpa employee	1
+agency	jtb	1
+agency	jtc corporation	1
+feature	jtag connector	2
+star	jtg	1
+business	jtekt	1
+business	jtv	1
+band	jt curtis	1
+manufacturer	jts	1
+act	jtq	1
+feature	jt distortion	1
+feature	jtag connection	1
+feature	jtag interface	1
+feature	jtag programmer support	1
+man	jt murphy	1
+class	jtg	1
+unit	jtu	2
+unit	jtf two 	1
+song	jtr	2
+format	jt	1
+partner	jtpa agency	1
+standard	jta	1
+vendor	jt's seafood	1
+design	jtpa evaluation	1
+feature	jta	1
+module	jtag uart	3
+guest	jt money	1
+driver	jt wharerau from new zealand	2
+file	jts	2
+platform	jtrs	1
+protocol	jtag instruction	2
+top brand	jt shower trays	1
+force	jtf-civil support	1
+mode	jt fourty-four 	2
+mode	jt sixty-five 	1
+guy	jty	1
+database	jtp	1
+specialist	jt's top shop	1
+photographer	jt smith	1
+engine	jt nine d 	1
+superstar	jtg	1
+tenant	jt's pizza	1
+interface	jtapi	2
+member	jts faculty member	1
+international company	jti	1
+international company	jt international	1
+local artist	jt money	1
+communication system	jtids	2
+software tool	jt open	3
+wrestler	jtg	2
+wrestler	jt smith	1
+wrestler	jtg of cryme tyme	1
+host	jt the brick	1
+local favorite	jt woodruff of hawthorne heights	1
+local favorite	jt roberts	1
+multinational	jti sweden ab	1
+detector	jt cool	1
+success story	jt eight d 	1
+success story	jt three d 	1
+success story	jt nine d 	1
+instructor	jt horenstein	1
+connector	jtext connector	1
+development tool	jtag debugger tantion	1
+faculty member	jts faculty member	1
+electronic system	jtids	1
+safety equipment	jt crossfire battle mask	1
+open standard	jt	1
+APIs	jtapi	1
+killer	jtr	1
+industry partner	jtc corporation	1
+area	jtids	1
+service	jta	1
+great character	jt	1
+blue chip client	jti	1
+military application	jtrs	1
+service	jta transaction recovery service	1
+master teacher	jt horenstein	1
+master teacher	jt jenkins	1
+standard organization	jtc one 	1
+wholesaler	jtb	1
+interactive component	jtextfield	2
+interactive component	jtable	2
+fleet	jt newbold	1
+travel agency	jtb	3
+training provider	jtl	1
+computer manufacturer	jtt	1
+large machine	jt- sixty 	1
+government job	jto	1
+company	jtb	3
+company	jtag technologies	1
+chief executive	jt battenberg of delphi	1
+great name brand	jti	1
+Scots	jt wilson	1
+company	jt graphics	1
+company	jti	1
+company	jti recruiting at the summit	1
+company	jt	1
+government sector	jtc	1
+national speaker	jt murray	1
+recourse	jtv	1
+digital mode	jt sixty-five 	2
+digital mode	jt sixty-five a 	1
+digital mode	jt six m 	1
+activity	jta's quarterly coffee house salon	3
+activity	jttf	1
+computer issue	jtac initiative	1
+international buyer	jti	1
+complementary program	jtrs	1
+dod program	jtrs	1
+J2EE technology	jta	2
+large engine	jt nine d- seven r four  turbofan engine 	1
+modern standard	jt	1
+statutory board	jtc corporation	1
+date technology	jta	1
+search firm	jtl services	1
+jet engine	jt eight d 	1
+supply chain process	jtt	1
+emporium	jt beedham & sons	1
+jobber	jtg	1
+official meeting	jtt	1
+successful rap artist	jt the bigga figga	1
+engine trade product	jt nine d 	2
+engine trade product	jt eight d 	2
+event	jt conference event	1
+GUI widgets	jtextpane	1
+personality instrument	jts mbti	1
+tokamaks	jt  sixty -u jaeri 	1
+debug feature	jtag debug	1
+international deejay	jt donaldson	1
+neo-Nazis	jt ready	2
+neo-Nazis	jt ready for mesa city council	1
+popular mode	jt sixty-five a 	1
+program	jtrs	2
+album artist	jtq	1
+interface port	jtag interface port	1
+Observatory latest tracking information	jtwc	1
+program	jtpa	1
+popular social medium channel	jtv's mobile application	3
+popular social medium channel	jtvs mobile application	1
+popular social medium channel	jtv s mobile application	1
+smackdown star	jtg	1
+WWC luminary	jt stahr	1
+classic producer	jt donaldson	1
+substitution matrix	jtt	1
+tape measure	jt five thousand five hundred and twenty  metric tape from jt five thousand five hundred and eighteen a 	1
+tape measure	jt five thousand five hundred and twenty-three  undercarriage inspection service tool kit 	1
+amino acid substitution model	jtt	1
+connectivity protocol	jtag for fast data reading	1
+generation engine	jt nine d 	1
+hyphy artist	jt the bigga figga	1
+japanese automotive supplier	jtekt	5
+reusable framework component	jtfile	1
+reusable framework component	jtdirectory	1
+reusable framework component	jturl	1
+reusable framework component	jtinputstream	1
+reusable framework component	jtkeyboard	1
+well-known criterion	jtc one  aro rules 	1
+blue-chip NHL prospect	jt miller	1
+cholesteryl ester transfer protein inhibitor	jtt- seven hundred and five 	1
+elite competitor	jt torres	1
+organization	jti	1
+organization	jtb	1
+organization	jtc corporation	1
+lipstick athlete	jt robinson	1
+ontology inference engine	jtp	1
+ontology-based inference engine	jtp	1
+organization	jtf jioc	1
+reasoner	jtp	1
+renouned amicable medium channel	jtv s mobile application	1
+swing content	jtextarea	1
+swing content	jtable	1
+swing content	jtextpane	1
+aeronautical system	jtids	1
+automotive related business	jtekt of botetourt county	1
+CETP inhibitor	jtt- seven hundred and five 	1
+famed choreographer	jt horenstein	1
+FPGA special resource	jtag	1
+homogenous communication system	jtrs	1
+non-burning, superconducting machine	jt sixty -sa 	1
+on-chip debugging standard	jtag	2
+op soldier	jtf two  of canada 	1
+present-day front line experiment	jt- sixty 	4
+bus controller	jtag bus controller	1
+command structure	jtf	1
+commercialized light weight CAD file	jt file by ugs-plm	1
+debugging interface	jtag connector	2
+defense communication application	jtrs	1
+dramatic conflict	jt lang	1
+famous brand owner	jt international	1
+handheld and portable system	jtrs radio	1
+japanese travel wholesaler	jtb	1
+japanese wholesale company	jtb	1
+lightweight format	jt	1
+local training company	jtl	1
+Marshalls	jtm's	1
+military radio system	jtids	1
+MSSQL2005 driver	jtds	1
+non-ipl player	jt billa	1
+nowadays jobber	jtg	1
+case	jtg	1
+prestigious global company	jt international	1
+pro speaker	jtr	1
+standards-based APIs	jts	1
+superlative restaurant	jt's bar & grill	1
+traditional embedded tool	jtag interface	1
+turbofan engine installation	jt eight d engine- seven hundred and twenty-seven  airplane installation 	1
+WSJT mode	jt sixty-five 	1
+biggest ILPs	jtl	1
+boundary scan	jtag standard published by ieee	1
+classical empirical matrix	jtt	1
+complement ary program	jtrs	1
+comprehensive displaced worker pro-gram	jtpa title iii	1
+consistency checking facility	jtp	1
+CTI APIs	jtapi	1
+dedicated debug hardware	jtag-based altera usb blaster	1
+diagnostic port	jtag port	1
+dial gateway	jtec j one thousand   series 	1
+digital operational mode	jt sixty-five 	1
+DoDprograms	jtrs	1
+GLC issue	jtc	1
+group	jtmm	1
+group	jt open	1
+japanese travel agency	jtb	1
+language based approach	jtag functional test built on the popular python programming language	1
+leading japanese tourism company	jtb	1
+lightweight datum format	jt	1
+low-bypass turbofan engine	jt eight d 	1
+meta-programming system	jts	1
+modern wideband multi-carrier communication application	jtrs radio	1
+paintball company	jt	1
+premium brand owner	jti	1
+robust digital transmission mode	jt sixty-five 	1
+single-matrix model	jtt	1
+software-programmable radio	jtrs radio	1
+stabilizer arm	jt strong arm stabilizers on the front jack	1
+statistical wideband indoor multipath model	jtc model	1
+strong consumer franchise	jt international	1
+translation organization	jtf	1
+tool	jtag level	1
+virtual training device	jtac training	2
+well-known armed group	jtmm	1
+tool	jtest	1
+tool	jtag interface	1
+artist	jt the bigga figga	2
+artist	jt tha bigga figga	1
+place	jts	1
+technology	jts	1
+technology	jta	1
+system	jts	1
+system	jtrs wideband waveform	1
+function	jtag test interface circuitry	1
+device	jtag ice from atmel	1
+device	jtag buffer chip	1
+component	jtextarea	3
+component	jtpa institutional skill	1

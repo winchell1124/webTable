@@ -1,0 +1,491 @@
+factor	pka	4
+factor	pkc	4
+product	pk polo related product	1
+datum	pk value	1
+property	pka	4
+property	pk b value	1
+game	pkm	2
+subject	pk	1
+character	pk droid	6
+word	pka	1
+skill	pk-pd modeling	1
+product	pkunzip	1
+approach	pki	3
+approach	pkcs	1
+object	pks	1
+object	pk nail	1
+object	pki info	1
+mechanism	pki	1
+mechanism	pkc-mediated regulation of cd ninety-five  oligomerization 	1
+solution	pki	3
+solution	pkgsrc	1
+solution	pkg-get	1
+business	pkf	1
+agent	pkp	3
+agent	pkg-effector agent	1
+cost	pki key pair	1
+type	pki request type	1
+challenge	pki design	1
+favorite	pk subban	2
+favorite	pk glass shattering	1
+feature	pki	1
+feature	pki certificate authority	1
+compound	pkc inhibitor	1
+leader	pkr chinese leader	1
+instance	pk	1
+standard	pkix	2
+standard	pkcsspecifications for enveloped datum	1
+standard	pkix ac profile	1
+standard	pkcs specifications for enveloped datum	1
+standard	pkcs twelve  digital certificates 	1
+standard	pkix timestamping protocol	1
+chemical	pk eleven thousand one hundred and ninety-five 	1
+capability	pki infrastructure capability	1
+student	pku sophomore shi qian	1
+party	pks	2
+party	pkr	2
+professional	pk analyst	1
+protein	pkr	5
+protein	pkc	4
+protein	pkd	1
+protein	pka istargetedto specific protein	1
+protein	pkm	1
+protein	pkd one  homologs 	1
+protein	pkd one -like protein from the sea urchin 	1
+constraint	pk	2
+issue	pki	2
+functionality	pki-based digital certificate functionality	1
+algorithm	pki algorithm	1
+rule	pk	1
+utility	pkzip	3
+utility	pkzip of winzip for windows	1
+utility	pkunzip	1
+utility	pkzip for dos	1
+file	pkzip file	2
+file	pk three 	1
+issue	pkk	1
+bank	pko bp	3
+card	pk taker	1
+domain	pkinase domain	1
+domain	pk	1
+molecule	pkc	7
+molecule	pkc activator	1
+supplement	pke	1
+issue	pk	1
+signal	pkc	1
+marker	pkh- twenty-six  dye 	1
+detailed information	pk parameter	1
+command	pkill	1
+analyst	pkf consulting	1
+analyst	pk basu of daiwa capital markets	1
+key player	pk subban	1
+physical property	pka of the terminal ionisable group	1
+physical property	pka	1
+health issue	pkd	1
+health issue	pk of the eye	1
+master	pkd	1
+inhibitor	pkc activity inhibitor	1
+race	pkunk	1
+invention	pk magnet	1
+security feature	pki	1
+security feature	pkzip and  seven  of the aes two hundred and fifty-six  encryption 	1
+move	pk thunder	1
+move	pk fire	1
+infrastructure	pki system	1
+software package	pk a db	1
+server	pks	1
+blogs	pkpolitics  seventy-six 	1
+video	pk video	1
+stalwart	pk sekhar babu	1
+software tool	pks	1
+new	pkfz scandal	1
+sensitive issue	pkk	1
+advocacy group	pkids	1
+innovative technology	pki	2
+item	pk	1
+item	pk nails	1
+growth factor	pks nutrient level	1
+industry standard	pki encryption	1
+industry standard	pkf trends report	1
+ligands	pk eleven thousand one hundred and ninety-five 	1
+agricultural product	pko	1
+file format	pkzip jpeg	1
+file format	pkcs twelve  format 	1
+file format	pkcs seven 	1
+disease state	pkd	1
+political party	pkr	2
+popular program	pkzip	1
+pathway	pkg	1
+transcription factor	pka-dependent transcription factor	1
+alumnus	pk subban	1
+security service	pki	1
+rookie	pk subban	1
+area	pki	1
+management function	pki management function	1
+physicochemical property	pka	4
+terrorist group	pkk	3
+scandal	pkfz	1
+chemical property	pka	1
+common cause	pk deficiency	1
+terrorist organization	pkk	1
+opposition party	pkr	1
+factor	pk a of the indolyl radical cation	1
+factor	pkc activating factor	1
+factor	pka-dependent transcription factor	1
+international firm	pkf	1
+kinases	pkc	18
+kinases	pkg	2
+kinases	pkc isotypes	1
+kinases	pkaand mapk	1
+mini game	pk shootouts	1
+popular website	pkr	1
+datum format	pkcs seven 	1
+women's organization	pkk	1
+gateway	pkgadd format used by solaris	1
+security mechanism	pki	1
+external datum	pk datum	2
+service	pki initiative established by the banking sector	1
+service	pki	1
+service	pkk & cidb registration	1
+technological solution	pki	1
+conventional technology	pki	1
+security technology	pki	1
+physicochemical parameter	pka	2
+security application	pki	1
+authentication method	pki	2
+utility program	pkzip	1
+interesting event	pkvv party	1
+projectile	pk thunder	1
+security function	pki services	1
+side event	pkr battle of teams event	1
+lending institution	pko bp s.a.	1
+external program	pkzip	1
+topic	pk	2
+common program	pkzip	1
+daily event	pk challenge	1
+industry analyst	pkf consulting	1
+fundamental information	pka value	1
+compression algorithm	pkzip compression algorithm	2
+compression algorithm	pkunzip	1
+large corporates	pkf	1
+security requirement	pki	1
+signaling molecule	pkc	1
+biomass fuel	pke	1
+topic	pki	1
+minor factor	pka	1
+signaling pathway	pkc	1
+protein kinases	pkc	15
+physical constant	pkb	2
+animal cell	pk fifteen  cell 	1
+company	pkn orlen of poland	2
+prognostic variable	pkr score	1
+kidney disease	pkd	1
+poker site	pkr	1
+genetic approach	pks	1
+poker room	pkr	1
+invasive approach	pki-based file encryption	1
+good band	pkm	1
+security procedure	pki encryption	1
+company	pkn	1
+company	pkware	1
+company	pkp daughter company	1
+company	pkf colliers	1
+company	pk steels	1
+company	pkc group	1
+metabolic enzyme	pkm two 	1
+nationalist group	pkk	2
+chinese leader	pkr chinese leader	1
+initial	pkd	1
+company	pkp polish rail	1
+company	pkg lowering input cost	1
+company	pkn of poland	1
+company	pkr.com	1
+industry standard technology	pki	1
+encryption scheme	pki	1
+large consulting firm	pkf	1
+psychic phenomenon	pk	1
+compression program	pkzip	2
+authentication technology	pki	1
+advanced modeling technique	pk-pd modeling	1
+signaling component	pkc	1
+signal transduction pathway	pkc	1
+professional software	pkpm software	1
+intracellular component	pkc	1
+signalling pathway	pkc	1
+compression utility	pkzip	7
+compression utility	pk zip	1
+compression utility	pkzip for pcs	1
+datum protocol	pki	1
+strong organic acid	pk.sub.a  three . zero 	1
+oil refiner	pkn	1
+information	pk	2
+pharmacological inhibitor	pka inhibitor h eighty-nine 	1
+window product	pkzip	1
+high-end area	pki	1
+intracellular event	pkc activation	1
+intracellular event	pkc activity	1
+security infrastructure	pki	1
+compression software	pkzip	2
+circadian rhythm	pk two 	1
+high profile firm	pkf	2
+medically necessary item	pku nutrition	1
+medically necessary item	pkli nutrition	1
+offensive spell	pk fire	1
+offensive spell	pk freeze	1
+authentication tool	pki	1
+islamic party	pks	2
+young defensemen	pk subban	1
+zip utility	pkzip	1
+enemy weapon	pkm	1
+high level function	pkcs	1
+international terrorist organization	pkk	1
+large accounting firm	pkf	1
+international terrorist group	pkk	1
+key website	pkr online poker	1
+light machine gun	pkm	1
+signal pathway	pka pathway	1
+unavoidable reason	pkk attacks from the iraqi border	1
+AAA protocol	pki	1
+country specific top level domain	pk for pakistan	1
+event	pking event	1
+event	pking trip	1
+program	pkzip	6
+program	pkunzip	4
+Machineguns	pkm	1
+noteworthy client	pk gallery in new orleans	1
+pharmacological tool	pkc inhibitor	1
+presynaptic protein	pkc	1
+traditional georgian dish	pkhali with walnut	1
+unzip program	pkzip	2
+unzip program	pkunzip	1
+country's biggest bank	pko bp	1
+decompression program	pkzip	1
+economic policy issue	pkk in northern iraq	1
+file compression utility	pkzip	2
+program	pkware inc. s pkzip	1
+rapid fire weapon	pkm	1
+unzip utility	pkzip	9
+unzip utility	pkunzip	1
+unzipping utility	pkzip	2
+biochemical modification	pkc activation	1
+common foreign weapon	pkm	1
+decompression software	pkzip	1
+e-commerce organization	pki forum	2
+exceptional teacher	pkd lee	1
+infrastructure capability	pki infrastructure capability	1
+program	pkware	1
+program	pk-term for windows from css	1
+serine kinases	pkc	1
+subcompact pistol	pk three hundred and eighty 	1
+zip program	pkzip	1
+archive utility	pkzip	3
+datum security technology	pki	1
+junctional protein	pkg	1
+junctional protein	pkp two 	1
+program	pkzip for windows into the ramwin directory	1
+specific protein	pka istargetedto specific protein	1
+authentication measure	pki certificate	1
+common generic text compressor	pkzip	1
+internet security technology	pki using a digital signature	1
+internet security technology	pki	1
+metaphysical phenomenon	pk	1
+minor card	pk taker	1
+pakatan rakyat leader	pkr's datuk seri anwar ibrahim	1
+passenger rail service	pkp intercity	1
+passenger rail service	pkp regional	1
+PCIs	pk c	1
+PVP area	pking in the wilderness	1
+request type	pki request type	1
+school BMX	pk ripper	1
+organization	pkk	5
+test security technology	pki	2
+top online poker room	pkr.com	1
+archiver	pkzip	1
+cryptographic standard	pkcs	1
+encryption capability	pki	1
+genetic fault	pkd	1
+genetic screening	pku testing	2
+leveraging security feature	pki key management	1
+p2p event	pking	1
+physiochemical feature	pka	2
+security-driven technology	pki	1
+third party infrastructure component	pki service	1
+traditional encryption technique	pki encryption	1
+advanced ipsec feature	pki encryption	3
+technique	pki using smart card	1
+big name defensive prospect	pk subban	1
+big research company	pk consulting	1
+common compression program	pkzip	1
+dsrbd-containing protein	pkr	1
+file-compression utility	pkzip	1
+technique	pki	1
+internet security requirement	pki	1
+large-scale privatization	pko bank polski	1
+machine gun & rifle	pkm	1
+management consultancy	pkf	1
+multiracial party	pkr	1
+myod downstream target gene	pkia	1
+myoddownstream target gene	pkia	1
+neuroendocrine hormone	pk two 	1
+non-traditional military operation	pko	1
+application	pki	2
+PKC isoforms	pkc	2
+professional shop	pk selective	1
+rapid-firing AAA gun	pkp	1
+rapid-fring AAA gun	pkp	1
+Rho effectors	pkn	1
+runtime binary packer	pklite	1
+up-and-coming defensemen	pk subban	1
+AGC kinases	pkc	2
+asymmetric cryptographic technology	pki	2
+big name editor	pk hack	1
+broad spectrum kinase inhibitor	pkc inhibitor bisindoylmaleidimide	1
+centralized security service	pki	1
+certificate-based solution	pki	1
+chinese band	pk fourteen 	1
+commonly available unzip utility	pkunzip	2
+cytoplasmic dsrna-binding protein	pkr	1
+datum compression software	pkzip	1
+e-security measure	pki authentication tool	1
+executable packet	pklite	1
+fairly high level security concept	pki	1
+file compressor	pkzip	1
+first bike	pk ripper bmxs	1
+industry-standard security technology	pki	2
+italian comic	pkna	1
+kurdish group	pkk	2
+factor	pk value	1
+factor	pka of the drug	1
+factor	pka value	1
+factor	pk a change	1
+measured physicochemical parameter	pka	1
+mid-tier accountancy firm	pkf	1
+native installer call	pkgadd on solaris	1
+non-muslim threat group	pkk	1
+Pharmacokinetics	pk parameters after a single dose	1
+physicochemicial property	pka	1
+PKC technology	pki	3
+PKD gene	pkd one 	1
+PKD gene	pkd two 	1
+case	pku case	1
+predefined task-based role	pki administrator	1
+radical islamist political party	pks	1
+regulatory kinases	pkc	1
+reliable authentication method	pki	1
+secure browser encryption solution	pki	1
+signature method	pki	1
+signature PSI spell	pk flash	1
+signature PSI spell	pk love	1
+third-party consultant	pkf	1
+turkish group	pkk	1
+underlying infrastructure	pki	1
+ZIP decompression utility	pkunzip	1
+3d poker site	pkr	1
+adequate framework	pkgsrc	1
+Archiver A file compression utility	pkzip	1
+Army research institute	pksoi	1
+basic physical chemical property	pka	1
+blazar source	pks  two thousand one hundred and fifty-five - three hundred and four 	1
+charlie mead carriage F issue	pki	1
+classical signaling molecule	pkc	1
+common command-line utility	pkware's pkzip	1
+conventional cryptosystem	pki	1
+Conventional PKC isoforms	pkc	1
+conventional public key infrastructure	pkix	1
+cytoplasmic nonreceptor tyrosine kinases	pkc	2
+datum compression utility	pk zip	1
+discredited IUML leaders	pk kunhalikkutty	1
+dsrna-dependent protein	pkr	2
+group	pkk	7
+group	pkk in turkey	2
+group	pki forum	1
+electronic information encryption capability	pki	1
+e-mail encryption method	pki	2
+encryp-tion scheme	pki	1
+end-to-end cryptographic method	pki encryptions	1
+equal merger partner	pkn orlen of poland	1
+erotic horror producer	pkf	1
+EXE compression program	pkzip	1
+external political difficulty	pkk terrorism	1
+factor authentication capability	pki	1
+file compression tool	pk zip	1
+file unzip utility	pkzip	1
+free standing utility	pkzip	1
+higher-end e-authentication method	pki	1
+identity management technology	pki	1
+intermediate kinase	pkb kinase	1
+internet public key technology	pkix	1
+isoquinoline carboxamide derivative	pk eleven thousand one hundred and ninety-five 	1
+ISV product	pkzip	1
+key management infrastructure	pki	1
+Lactococcal citrate plasmid	pkr two hundred and twenty-three  from strain of lactococcus lactis ssp 	1
+large effective organization	pkk	1
+largest, state-controlled enterprise	pkn orlen	1
+lauric-type oil	pko	1
+marxist-leninist party	pksh	1
+militant kurdish organization	pkk	1
+modulating molecule	pkc	1
+molecular signaling cascade	pkc isoforms	1
+multi-platform software packaging system	pkgsrc	1
+method	pk tree	1
+non-xml digital signature standard	pkcs	1
+normal file compression utility	pkzip	1
+NWL stadium	pk park in eugene	1
+offensive PSI	pk fire	1
+ongoing, nonseasonal series	pke series at the coronet theatre	1
+online Pokerrooms	pkr	1
+online repository solution	pks online	1
+opposition heavyweight	pkr de facto leader anwar ibrahim	1
+PBR ligands	pk eleven thousand one hundred and ninety-five 	1
+peacekeeper weapon	pk pulse rifle	1
+persian-related disorder	pkd	1
+PK2 receptor agonist	pk two 	2
+PKI key	pki signing key	3
+popular archivers	pkzip	2
+proliferative signal-transducing protein	pkc	1
+proven security feature	pki	1
+research actvities	pko capacity building workshop	1
+secure encryption system	pkcs	1
+method	pking	1
+method	pk method	1
+method	pk	1
+separatist terrorist group	pkk	1
+small continuous segment	pkkkrkv in the sv fourty  large t antigen 	1
+source based package management system	pkgsrc	1
+standard certificate format	pkcs	1
+strong explosive	pk flash	1
+totally symbian specific file	pkg	1
+traditional certificate chain	pki certificate chain	1
+traditional encryption system	pki	1
+TRPP channel	pkd one 	2
+two-player mini-games	pk tennis	1
+uncompression program	pkzip	1
+VPN global policy	pki enrollment	1
+yesterday villager	pk fourteen 	1
+young poker website	pkr	1
+tool	pki visualization	1
+tool	pke meter	1
+tool	pki	1
+project	pki challenge	1
+place	pkns	1
+player	pk subban	1
+technology	pki	12
+product	pkzip	3
+technology	pki-based e-mail	1
+term	pk	1
+parameter	pka	2
+parameter	pk a of the solute	2
+parameter	pk	1
+system	pki	2
+system	pk compound	1
+system	pk three 	1
+system	pki server	1
+condition	pk deficiency	1
+function	pk system	1
+function	pki management function	1
+concept	pki	2
+component	pki technology	1
+component	pkc	1
+aspect	pka	1
+site	pkr	3
+site	pkr poker	1

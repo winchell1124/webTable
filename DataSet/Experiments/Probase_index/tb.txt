@@ -1,0 +1,909 @@
+factor	tbp	2
+product	tbs phone systems	1
+product	tbr tyre related product	1
+product	tbbs	1
+initiative	tbk regional fruit marketing in the czech republic	1
+datum	tb treatment start	1
+process	tbaf activation	1
+process	tb migration	1
+exception	tb treatment	1
+work	tbtr	1
+characteristic	tb patient characteristic	1
+change	tbi-related personality change	1
+client	tbwa retail	1
+client	tbc's largest public relations account	1
+client	tbs superstation	1
+document	tb test	1
+approach	tb las	1
+alternative	tbb	1
+agency	tbwa	2
+agency	tbta	1
+solution	tb provision by the treasury	1
+field	tb research	1
+procedure	tbi	1
+procedure	tb skin test	1
+procedure	tb screening	1
+procedure	tb test	1
+practice	tbi with ovarian shielding	1
+food	tbsp	1
+cost	tb related overheads at the hospital	1
+city	tbilisi	8
+celebrity	tbo touch from metro fm	1
+disease	tb	149
+disease	tbo	1
+criterion	tb prevalence	1
+challenge	tbc	1
+requirement	tb skin test	2
+requirement	tb test	2
+requirement	tb screening	1
+test	tb skin test	3
+test	tbn	2
+test	tbas	1
+test	tb diagnostic test	1
+test	tb blood test	1
+indicator	tba tvb	1
+treatment	tb skin testing	3
+setting	tb isolation room	1
+compound	tbhq	3
+compound	tbt	3
+compound	tbp	2
+compound	tba	1
+class	tbitmap	1
+unit	tb wood's torsiflex	1
+cause	tb	2
+instance	tbe	1
+substance	tbt	2
+country	tb endemic country	1
+animal	tbese alga many animal	1
+piece	tbsv	1
+club	tbirds in durham	1
+vendor	tbh	1
+intervention	tb control intervention	1
+intervention	tb treatment	1
+department	tb department of electrical enginee ing	1
+issue	tbi	3
+issue	tb	3
+value	tb airflow	1
+duty	tb control	1
+environment	tbb	1
+award	tbs comedy	1
+additive	tbhq	2
+additive	tba	1
+disorder	tbi	1
+destination	tblisi	1
+protein	tbp	1
+protein	tb-rbp  ninety-eight 	1
+competitor	tbs	1
+corporation	tbs	1
+control	tb disease	1
+package	tb dots	1
+channel	tbs	16
+channel	tbs usa	1
+rule	tbt agreement	1
+artifact	tbe	1
+issue	tb test	1
+supplier	tbh	1
+fee	tb test	1
+provision	tbe no-striko commitment	1
+medical condition	tb	2
+network	tbs	10
+network	tbn	5
+network	tbs stress comedy	1
+station	tbs	3
+medium	tbab	1
+input	tb doctor	1
+park	tbilisi sea	1
+issue	tbt	1
+illness	tb	18
+gene	tbx one 	1
+gene	tbx two 	1
+gene	tbx twenty-one 	1
+web site	tb's web site	1
+infection	tb	32
+contaminant	tba	1
+local business	tbs tilers	1
+injury	tbi	4
+aircraft	tbm avenger	3
+aircraft	tb- nine  tampico 	1
+aircraft	tb two f 	1
+reaction	tb paradoxical reaction	1
+TV show	tbbt	1
+solvent	tbme other organic solvent	1
+solvent	tbp	1
+health issue	tb	2
+culture	tb culture	1
+ailment	tb	2
+engine	tbcc	1
+ministry	tbn	1
+item	tb case study	1
+national organization	tb surveillance committee	1
+link	tbs concert	1
+pathogen	tb	5
+pathogen	tbe virus with short-lived	1
+virus	tb	3
+office	tb clinic at thung song hospital	1
+library	tbb	1
+urban area	tbilisi	1
+member	tba's big-bank member	1
+agreement	tbt	3
+investigation	tb blood	1
+item	tb test	1
+coating	tbc	1
+promotional item	tbm bumper sticker	1
+active ingredient	tbz	2
+nonprofit organization	tbn	3
+chronic condition	tb	1
+chronic condition	tb laryngitis	1
+diagnostic test	tb diagnostic test	1
+convention	tbd or@@	1
+crisis	tb in central asia	1
+technical aspect	tb testing	1
+antioxidant	tbhq	6
+chronic disease	tb	8
+derivative	tbdms	1
+infectious disease	tb	48
+control measure	tb control measure	1
+fungus	tb-bacterium and fungus	1
+pathological condition	tbi	2
+sauce	tbsp light salad cream	1
+common issue	tb	1
+child	tbi student	1
+honor	tbs pathfinder's award	1
+marketing material	tbcc viewbook	1
+common condition	tb	1
+ion	tb iii	1
+laboratory test	tb skin test	1
+stain	tbo	1
+replacement part	tb tensioner	1
+unusual item	tbb length	1
+partnership	tb global drug facility	1
+corporate client	tbs	2
+organic solvent	tbme other organic solvent	1
+organic solvent	tbme	1
+area	tb	6
+area	tbt	2
+toxic substance	tbt	1
+patient characteristic	tb patient characteristic	1
+plane	tbm avenger	1
+modifier	tbp	1
+systemic disease	tb	2
+serious disease	tb	3
+transcription factor	tbp	6
+transcription factor	tbp-associated factor	1
+common disease	tb	4
+byproduct	tba	1
+byproduct	tbf	1
+vaccine	tb	1
+broadcaster	tbs	1
+bug	tb	1
+health risk	tb	1
+area	tbe south pacific	1
+preservative	tbhq	5
+chronic illness	tb	4
+chronic illness	tb in malawi	2
+chronic illness	tb infection	1
+toxic chemical	tbhq	1
+trade association	tbma	1
+viral infection	tb	1
+bacterial infection	tb	5
+serious illness	tb	2
+serious illness	tb infection	2
+inflammatory condition	tb	1
+key service	tb contact tracing	1
+key service	tb symptoms screening	1
+appointment	tb skin test	1
+common ailment	tb	1
+international player	tbs	1
+sugar	tbs coarse sugar	1
+real issue	tb	1
+design tool	tb woods drive selection software	1
+international agreement	tbt agreement	1
+acronym	tbh	1
+hand	tbm hand	1
+preventive service	tb screening	2
+infectious agent	tb	1
+cross-cutting issue	tb-hiv co-infection	1
+malady	tb	1
+paint	tbt	1
+organic	tbt	1
+abnormal condition	tbi	1
+buffer	tbs	1
+buffer	tbe ranging in concentration from  zero . five .times.- two .times. 	1
+comorbid condition	tb	1
+service	tb skin test	3
+biological agent	tb	1
+TV channel	tbs	1
+heavy metal	tbt	2
+regulatory issue	tbt	1
+descriptive term	tbsm services status history	1
+disease condition	tb	1
+funding mechanism	tb fund	1
+lab test	tb	1
+life-threatening condition	tb	1
+communicable disease	tb	22
+serious infection	tb infection	1
+tire	tbr	2
+service	tb management	2
+phenolic compound	tbhq	2
+team sport	tball through community organization	1
+ETFs	tbt	1
+industrial material	tbt	2
+regimen	tbi	1
+chronic infection	tb	3
+fungicide	tbz	1
+health program	tb	1
+opportunistic infection	tb	9
+environmental toxin	tbt	1
+historical factor	tbt pollution	1
+christian leader	tbn paul crouch	1
+causative factor	tb	1
+great song	tb sheets	1
+morbidity	tb	1
+epidemic	tb	2
+toxic compound	tbt	1
+service	tb screening	1
+service	tb control	1
+service	tb testing	1
+service	tb skin testing	1
+respiratory disease	tb	2
+advertising agency	tbwa	1
+big organization	tbn	1
+small organization	tbs	1
+routine service	tb testing	1
+deadly disease	tb	3
+sickness	tb	1
+flag	tbf	1
+television network	tbn	2
+cable channel	tbs	2
+television station	tbs	1
+basic functionality	tbrowser	1
+cable network	tbs	16
+industrial city	tbilisi	1
+television channel	tbn	1
+delivery	tbm cutting shield	1
+strong base	tbaoh	1
+psychological condition	tbi	1
+contrast agent	tb	2
+medical need	tb control	1
+competitive product	tbhq	1
+risk group	tb patient	1
+common infection	tb	1
+fatal disease	tb	2
+polar compound	tba	2
+acute illness	tb	1
+vaccination	tb japanese encephalitis	1
+investment firm	tbl capital	2
+pre-existing medical condition	tb	1
+organic liquid	tbp	1
+topic	tb	5
+preventable disease	tb	4
+public health program	tb	1
+TV station	tbs	1
+programmer	tbs	1
+respiratory infection	tb	1
+endemic disease	tb	10
+health challenge	tb	1
+TV network	tbn	1
+TV network	tbs	1
+popular channel	tbs	1
+tropical disease	tb	2
+zoonotic disease	tb	2
+topic	tb status of texas	1
+topic	tbi	1
+routine laboratory test	tb testing	1
+serious ailment	tb	1
+childhood illness	tb	1
+treatment procedure	tbi	1
+antioxidant enzyme	tbars	1
+large network	tbs	1
+fluid property	tbn in diesel lubricating oil	1
+Co-solvents	tbme	3
+premium channel	tbs	3
+devastating disease	tb	1
+life threatening disease	tb	1
+waterborne disease	tb	1
+HD channel	tbs	2
+debilitating disease	tb	1
+infectious cause	tb	1
+personality change	tbi-related personality change	1
+candidate gene	tbx one 	1
+proxy measure	tb diagnostic investigation	1
+biochemical technique	tbars test	1
+immunization	tb	1
+chemical preservative	tbhq	1
+flame retardant	tbbpa	1
+operational variable	tbp concentration	1
+biological hazard	tb	1
+creative professional	tbwa's ng pei pei	1
+pandemic	tb	6
+health care setting	tb clinic	1
+tyre	tbr	1
+company	tbs	4
+physical disease	tb	2
+screening program	tb screening	2
+critical illness	tb	1
+television drama	tbs's koukou kyoushi	1
+zoonoses	tb	1
+scourge	tb	1
+commune	tboung kropeu in kampong thom province	1
+rich medium	tb	2
+multilateral agreement	tbt	1
+salt solution	tbs	1
+company	tbw	1
+company	tb digital photography	1
+global program	tb	1
+common abbreviation	tb	1
+clinical scenario	tbi	1
+synthetic antioxidant	tbhq	4
+synthetic antioxidant	tbhq orethoxyquln	1
+life threatening illness	tb	1
+polymerization inhibitor	tbc	1
+transcriptional factor	tbp	1
+company	tb wood's	1
+company	tbs global	1
+medium corporation	tbn	1
+ETF	tbf	1
+ETF	tbt	1
+international trade agreement	tbt agreements	1
+killer disease	tb	2
+life-threatening infection	tb	1
+big challenge	tb	1
+separate program	tb	1
+sport channel	tbs	1
+degradation	tba derived from mbte in gasoline	1
+medium network	tbn	1
+physiological and pathological condition	tbi	1
+Oxygenates	tba	2
+phenolic antioxidant	tbhq	1
+physical health issue	tbi	1
+prevalent disease	tb	1
+russia tv channel	tbn	2
+common infectious disease	tb	1
+harmful bacterium	tb	1
+international band	tbc	1
+vertical program	tb	1
+wellness issue	tb screening	1
+featured event	tba event in october	1
+premium bullet	tbbc	1
+broadcasting company	tbs	1
+deseases	tb	1
+endemic country	tb endemic country	1
+infectious disorder	tb	1
+odorants	tbm	3
+well-known disease	tb	4
+co-infections	tb	2
+lab service	tb skin test	1
+polar substance	tbme	1
+factor	tb treatment arm	1
+factor	tbe size of a bank	1
+activity	tb awareness campaign	1
+artificial additive	tbhq	1
+artificial preservative	tbhq	1
+cable station	tbs	2
+high-level operation	tbil	1
+rapid diagnostic test	tb	1
+diagnostic product	tb	1
+potential alternative	tbbpa	1
+synthetic preservative	tbhq	1
+television appearance	tbn in texas	1
+vodka	tbsp cranberry vodka	1
+specialised procedure	tb skin testing	1
+curable disease	tb	1
+infectious material	tb culture	1
+protective group	tbs ether	4
+servicers	tbtf bank	1
+transcriptional regulator	tbx five 	1
+english channel	tbs	1
+local disease	tb of the spine	1
+orthopaedic condition	tb	1
+vital point	tbe joint factors of greatest significance	1
+WTO agreement	tbt	3
+WTO agreement	tbt agreement	1
+extractants	tbp	1
+pandemic disease	tb	2
+poisonous material	tbt	1
+cable outlet	tbs	1
+chutney	tbsp sweet chutney	1
+dread disease	tb	1
+ethereal solvent	tbme	4
+japan tv channel	tbs	1
+reporting system	tbl reporting	2
+acute respiratory infection	tb	1
+atypical organism	tb mycomplasma	1
+cable television network	tbs superstation	1
+Hydroperoxides	tbhp	1
+neglected disease	tb	1
+organotin compound	tbt	1
+sometimes additional test	tb skin test	1
+contagious condition	tb	1
+emerging infection	tb	2
+granulomatous disorder	tb	1
+pre-employment service	tb testing	1
+hose	tb coolant supply hose	1
+opportunistic disease	tb	2
+parallel programming model	tbb	1
+information	tbd	1
+information	tb testing result	1
+information	tbnametextbox.text property	1
+information	tba	1
+medical variable	tbsa	2
+toxicological parameter	tbars	1
+preventable and treatable condition	tb	1
+specialised clinic	tb	1
+superbugs	tb	1
+television broadcast	tbn's praise the lord	2
+top network	tbs superstation	1
+untreated medical condition	tb	1
+infectious virus	tb	1
+key disease	tb	1
+light type	tb type	1
+neurological injury	tbi	1
+event	tbw fishing derby for prize	1
+question mark	tb chris polk	1
+routine vaccination	tb	2
+cable TV network	tbs	1
+chain-breaking antioxidant	tbhq	1
+lipid peroxidation product	tbars	2
+parent compound	tbbpa	1
+private-public partnership	tb	1
+proactive protocol	tbrpf	6
+essential preventive service	tb screening	2
+HD national channel	tbs	1
+historical combat aircraft	tbf avenger	1
+initiation factor	tbp	1
+leveraged ETFs	tbt	1
+life illness	tb	1
+event	tbe clean	1
+perfusion parameter	tbf	1
+popular station	tbs	1
+active disease	tb	1
+antioxidant additive	tbhq	1
+co-existing disorder	tbi	1
+entertainment network	tbs	2
+hiv-related illness	tb	1
+isotonic solution	tbs	1
+national broadcast	tbs	1
+parallel programming language	tbb	1
+pestilence	tb	1
+target compound	tba	1
+acoustic information	tbf wouldhavethe advantage of being noninvasive	2
+acrylic monomer	tbma	1
+american channel	tbs	1
+American TV series	tbbt	1
+contemporary information	tb drug	1
+epidemiological indicator	tb meningitis trend	1
+great station	tbs	1
+high class hotel	tbilisi marriott hotel	1
+large ministry	tbn	1
+popular russian and CIS destination	tbilisi	1
+stand-alone product	tbox family of remote rtus	1
+U.S. network	tbn	1
+chemical attribute	tbars	1
+design show	tbs movie	1
+Fuel oxygenates	tba	2
+infectious and inflammatory condition	tb	1
+multinational advertising agency	tbwa	1
+program	tb infection control	1
+program	tb control program	1
+program	tbi program	1
+PDPs	tb alliance	1
+Photosensitisers	tbo	1
+public health method	tb testing	1
+superstations	tbs	2
+well-known agency	tbwa anthem	1
+bolt-on mod	tbe	1
+clinical public health service	tb	1
+coarse sugar	tbs coarse sugar	1
+complex infection	tb	1
+disease control program	tb	1
+fluoride source	tbaf	1
+global pandemic	tb	1
+insertable cable network	tbs	1
+mozilla product	tb email pdf	1
+Navy aircraft	tbm avenger	1
+organic hydroperoxides	tbhp	1
+oxidative stress indicator	tbars	1
+pay-tv network	tbs	1
+program	tbc	1
+program	tb program	1
+program	tbl	1
+preventable infectious disease	tb	1
+pro-oxidants	tbars	1
+series tire	tbr	2
+single gene defect	tbx five 	1
+AFM material	tbco	1
+bulletin board system	tbbs	1
+C2 inhibitor	tbb	1
+christian television network	tbn	2
+christian television network	tbn founded by paul	1
+circuit design technique	tbb	1
+complete test	tb	1
+content business	tbs	1
+control intervention	tb control intervention	1
+core public health program	tb	1
+detailed temperature coefficient	tbr one 	1
+detailed temperature coefficient	tbf one 	1
+disease program	tb	1
+granuloma tous disorder	tb	1
+great channel	tbs	1
+intergovernmental issue	tbeneedfor new jail	1
+international television network	tbn & daystar	1
+law enforcement job	tbta	1
+mental injury	tbi	1
+mycobacterial disease	tb	1
+poverty-related disease	tb	1
+product development partnership	tb alliance	2
+redox dye	tbo	1
+serious virus	tb	1
+silyl ether	tbdms	4
+solvating solvent	tbp	1
+technical trade issue	tbt	1
+top advertising agency	tbwa chiat day	1
+top advertising agency	tbwa	1
+air-borne disease	tb	1
+bacterial and viral microorganism	tb	3
+breathing disease	tb	1
+complex neurological disorder	tbi	1
+contagious bacterial infection	tb	2
+country infectious disease	tb	1
+deadly ailment	tb	1
+factor	tb prevalence	1
+factor	tbm utilization	1
+factor	tbn retention	1
+digital broadcast	tbs	1
+dormant infection	tb	1
+enterprise firm	tbv business services	1
+fluorinating reagent	tbaf	1
+huge international organization	tb alliance	1
+latest hardware	tb quad-core processor	1
+neurosurgical disorder	tbi	2
+popular cable entertainment channel	tbs	1
+program indicator	tb	1
+TB specific activity	tb specific performance incentive	1
+today's polluted environment many disease	tb	1
+top worldwide agency	tbwa	1
+transactional table	tblbills	1
+transactional table	tblinvoice	1
+treatment situation	tb in child	1
+treatment situation	tb in pregnancy	1
+USAID partner	tb coalition for technical assistance	2
+vintage plane	tbf avenger	1
+wonder disease	tb	1
+antifouling paint	tbt	2
+basic japanese TV station	tbs	1
+big, scary virus	tb	1
+cable's top network	tbs	1
+chinese brand tire	tbr	1
+commercially many corporate client	tbs	1
+complex neurological condition	tbi	1
+compromisers	tbn network	1
+ctad-sponsored event	tbr meeting	1
+dignostic product	tb	1
+endemic infectious disease	tb	1
+organization	tbs	1
+organization	tb alert	1
+organization	tb eradication group	1
+organization	tb retirement foundation	1
+organization	tb alliance	1
+fluorescent contrast agent	tbo	1
+global killer	tb	1
+innovative website	tbd	1
+lanthanide f-ions	tb	1
+marketplace development	tbs conversion	1
+Organotins	tbt	1
+petri net	tb net	2
+pharmacy utilization statistic	tb test	1
+organization	tbcc	1
+preventive medical program	tb screening	1
+rare earth cobalt alloy material	tbco  five 	1
+respiratory sample	tbas	1
+shows network website	tbs	1
+single antioxidant	tbhq	1
+skewing network	tbs	1
+specialist fluorinating reagent	tbaf	1
+standard immunization	tb	1
+surprising destination	tbilisi	1
+TOYOMOTO tyre	tbr	3
+turner network	tbs	1
+ubiquitous disease	tb	1
+advertising brand	tbwa worldwide	1
+aid related disease	tb	1
+aids-related illness	tb	2
+airbourne pathogen	tb	1
+amorphous alloy thin film	tbfe	1
+ancient disease	tb	1
+Athletic species	tb horse	1
+basal factor	tbp	1
+B-billets	tbs	1
+big global health issue	tb	1
+biggest cable channel	tbs	1
+big-market station	tbs	2
+cable tv's top network	tbs	1
+century old threat	tb	1
+century-old threat	tb	1
+christian television program	tbn s praise the lord	1
+competing health need	tb	1
+control level	tbm at site	1
+directly measurable property	tbw	1
+english station	tbs superstation	1
+fancy dessert wine	tba riesling	1
+fluoride reagent	tbaf	1
+technique	tb culture	1
+high priority disease	tb	1
+high tc superconductor	tbcco	1
+higher-throughput method	tbm	1
+high-priority disease	tb	1
+hospital requirement	tb test	1
+inverse bond ETFs	tbx	1
+irrelevant parallel programming framework	tbb	1
+multiferroic material	tbmno  three 	1
+nationally-known christian network	tbn	1
+nation-wide issue	tb	1
+OCX control	tbtab	1
+organic tin compound	tbt	2
+Others BFRs	tbbpa	1
+pertaining issue	tb	1
+phase-transfer agent	tba chloride	1
+phytoplasma infection	tbb phytoplasma in emiliasonchifolia	1
+phytoplasma infection	tbb phytoplasma in emilia sonchifolia	1
+progressive systemic disease	tb	1
+pseudopipe's parameter	tblastn e-value cutoff	1
+re-emerging microbial threat	tb	1
+restrictive airway disease	tb	1
+resurgent disease	tb	1
+single-phase, binary oxide multiferroic material	tbmno  three 	1
+social epidemic	tb	1
+standard buffer	tbst	1
+standard tropical disease	tb	1
+synthetic primary antioxidant	tbhq for the stabilization of fat	1
+targeted aid funding mechanism	tb & malaria	1
+third party monitor	tbb meter	1
+top basic-cable network	tbs	1
+traditional cable network	tbs	1
+U.S. channel	tbs	1
+VCL control	tbutton	1
+vertical health structure	tb dispensary	1
+volunteer requirement	tb test	1
+water soluble fuel oxygenates	tba	1
+well-researched disease	tb	1
+widely-used basic medicine	tb drug	1
+adhoc project structure	tb project	1
+adult hiv-related pathogen	tb	1
+aid related illness	tb	1
+air-borne infectious disease	tb	1
+alide additive	tbab	1
+alledged intra-industry activity	tbs into the world's largest media conglomerate	1
+ancillary testing service	tb	1
+anti-fouling agent	tbt	1
+ART administration Co-morbidities Various co-morbidities	tb	1
+attack aircraft	tbm avenger	1
+aware, opportunistic infection	tb	1
+basic CSS service	tb	3
+Bbillets	tbs	1
+binding assessment	tbg	1
+Biodegradation Oxygenate The gasoline oxygenates	tba	1
+bio-medical hazard	tb	1
+bonding night	tbs night of fun	1
+broadcast new	tbd news	1
+bulky donor	tbb	1
+christian cable channel	tbn	1
+christian television ministry	tbn in decatur	1
+Co-morbidities Various co-morbidities	tb	1
+complex public health challenge	tb	1
+country's top medium agency	tbg london	2
+decision-making support material	tbl reporting form	1
+discovery infection	tb	1
+disease specific condition	tb	1
+drug-resistant infectious disease	tb	1
+easy gasket	tb gasket	1
+Exceptional collaborative one-offs	tbc & baldelli	1
+Extra-pulmonary TB	tb of the bone	1
+faith-based network	tbn	1
+georgian folk festival	tbilisi's art gene festival	1
+good quality rubber accelerator	tbbs	1
+good quality rubber accelerator s	tbbs	1
+governmental study	tb	1
+high spirited breed	tb	1
+high-definition TV channel	tbs	1
+hot roll laminator	tb- sixty  from black bros. 	1
+illets	tbs	1
+infection control area	tb	1
+introduction giant magnetostrictive material	tbfe  two 	1
+japanese broadcasting network	tbs	1
+Japanese podcasts	tbs radio	1
+licensed washington mortgage broker	tb &w	1
+case	tb	4
+case	tb of bone joint	3
+case	tb peritonitis	3
+case	tb laryngitis	2
+lung signature gene	tbx two 	3
+MTBE by-products	tbf	2
+MTBE by-products	tba	1
+mycobacterium infection	tb	1
+national and international network	tbn	2
+non-broadcast channel	tbs	1
+ol watch	tbe howard	1
+omnicom agency	tbwa	1
+phobia severe infection	tb	1
+poor-country specific ailment	tb	1
+popular specialty channel	tbs	2
+case	tbt agreement	1
+prototypical fluoride anion source	tbaf	1
+psuedo-christian organization	tbn	1
+quick onsite oil test	tbn	1
+R&D problem neglected disease	tb	1
+re-containing intermetallic compound	tbfe  two 	1
+saddle type breed	tb	1
+sadly disease	tb	1
+Shared-memory APIs	tbb	1
+simple chemical test	tbars	1
+single crystal high Tc superconductor	tbcco	2
+single injector TBI unit	tbi fiero	1
+single-feed cable network	tbs	1
+social and nutrition related disease	tb	1
+specialist housing association	tbf housing association	1
+stigmatized disease	tb	1
+subacute infection	tb	1
+sulfenamide-type vulcanization accelerator	tbbs	1
+Sulfur-based odorants	tbm	2
+case	tb of bone	1
+case	tbi s	1
+TBHP formulation	tbhp in isooctane	1
+TDMAscheme	tbf	1
+third, infectious disorder	tb	1
+time warner cable network	tbs	1
+trading issue	tba trading	3
+traditional jeweller	tbz	1
+treatable and preventable disease	tb	1
+triorganotin compound	tbt	1
+triple-bottom-line institutional equity fund	tbl capital	1
+underground tunnelling method	tbm	2
+Undetected co-infections	tb	1
+untreated opportunistic disease	tb	1
+weird and wonderful infection	tb	1
+white man disease	tb	1
+ad agency network	tbwa	1
+ad api-based medium buyer	tbg digital test thousands of ad creative	1
+airborne contagion	tb	1
+airspace integration tool	tbmcs	1
+amazing web site	tbh	1
+antifouling agent	tbt	1
+bacterial and mycobacterial infection	tb	1
+BBS software package	tbbs	1
+built-in expression operator	tbose for arithmetic	1
+cable TV website	tbs	1
+christian channel	tbn	1
+christian TV channel	tbn	1
+chronic child illness	tb	1
+commercially usedextractants	tbp	1
+common failure item	tbb	1
+Common OIs	tb	1
+concern potentially profitable service	tb brokerage	1
+concomitant tropical infection	tb	1
+conventional x-ray sensor	tb two o three  scintillators 	1
+conven-tionalindicesof lipidperoxidation	tbars	1
+coupling sophisticated electronic structure model	tb topropertransport model	1
+dififr.rse infection	tb	1
+digital tv tuner card	tbs series tv card	1
+Discussion Organotins	tbt	1
+disease-focused program	tb	1
+DNA binding transcription factor	tbp	1
+dry fluoride salt	tbaf	1
+group	tbdms	3
+group	tbdps	3
+group	tb patient	2
+group	tbs	2
+effective SD activity	tbl accounting	3
+enemy image heroes	tb	1
+entertainment cable channel	tbs	1
+escapist network	tbn	1
+evangelical television network	tbn	1
+expensive and human-intensive effort	tbi rehabilitation	1
+failure datum	tbf	2
+form oftb	tb of the central nervous system	1
+forrespiratory disease	tb	1
+garret part	tb	1
+good turboprop airplane	tbm  eight hundred and fifty 	1
+gst-fused protein	tbp	1
+Higher-temperature peroxyesters	tbpb	1
+historic killer	tb	1
+hominoid-specific gene	tbc one d three 	2
+human-source infectious agent	tb	1
+hunter-gatherer type diet	tbk diet	1
+indospheric language	tb languages of northeast india	1
+inflammatory or degenerative disease process	tb	1
+group	tbe institute for the study	1
+interface use case	tbs menu	1
+intermediate-level pathogen	tb	1
+large-size parallel tester	tbt equipment used in a screening process	2
+laterwriters	tbe orientalist margoliouth	1
+Lipophilic metal-compounds	tbt	1
+local Apple resellers	tbi computer in westport	1
+newly consolidated subsidiary	tbc corporation	1
+non-emergency health care service	tb testing	1
+method	tbb	1
+organic phosphorus oxide modifier	tbp	1
+overt cause	tb	1
+potential contagion	tb	1
+poverty disease	tb	1
+premixed wash buffer	tbs	1
+preparatory regimen	tbi	1
+public-private product development partnership	tb alliance	1
+purpose various phase transfer agent	tbab	1
+rarely systemic disease	tb	1
+Reactive BFRs	tbbp-a	1
+reactive flame retardant	tbbp-a	1
+reportable contagious illness	tb	2
+reputable television network	tbn	1
+reverse bond ETF	tbt	1
+score st major general	tbe commandant of the first ivision	1
+method	tba colorimetric assay	1
+method	tbars value	1
+method	tbars	1
+method	tbars measurement	1
+serious systemic infection	tb	1
+severe transmissible virus	tb	1
+so-called multiferroic material	tbmno  three 	2
+spraying coating	tbc for themnal	1
+Sri Lankan teledramas	tb illangarathna's abha yaluwo	1
+stable silyl protection group	tbdms	1
+stovepiped system	tbm core systems	1
+sub-regional training partnership	tbbs	1
+sulfen amide accelerator	tbbs	1
+sulfenamide type vulcanization accelerator	tbbs	1
+super rich growth medium	tb	1
+tactical array system	tb- twenty-three  array 	1
+terminal acetylenic silyl group	tbdms	1
+tetraalkylammonium fluoride	tbaf	1
+thread status	tbh	1
+tick-borne virus	tbe virus	1
+today	tbk	1
+today local community group	tbwa	1
+top-tier cable network	tbs	1
+toxic and non-biodegradable antifouling agent	tbt from the marine environment	1
+traditional assumption tat hayobeenmade	tbedominanceof cave art	1
+transputer board	tbe two  board 	1
+turbine single	tbm seven hundred 	1
+Vintage Roland equipment	tb- three hundred and three 	1
+WG model	tb- ten 	1
+witha quaternary ammonium fluoride	tbaf	1
+tool	tb patient serum	1
+factor	tbe	1
+project	tb prevalence study	1
+project	tbccn interactive art project	1
+project	tbn	1
+project	tb innovation fund	1
+material	tbmno  three 	1
+material	tb calendar	1
+material	tbfeco	1
+place	tbars	1
+place	tbc bank	1
+place	tbilisi	1
+player	tbs	1
+product	tba	2
+product	tbr related product	1
+term	tbd	2
+term	tbn	1
+term	tbr pile	1
+term	tbh	1
+parameter	tbo of the engine	1
+parameter	tbii level	1
+parameter	tbw	1
+parameter	tbc	1
+parameter	tbc thickness	1
+system	tbmno  three 	1
+system	tb register	1
+system	tbtc	1
+measure	tb control measure	1
+condition	tb	15
+condition	tbi	6
+element	tbody	2
+variable	tbi severity	1
+function	tbc image correctors	1
+device	tbc	1
+brand	tb one hundred and ten  from troy bilt 	1
+component	tbx five  for forelimb development in vertebrate embryo 	1
+component	tbutton during runtime	1
+site	tbd	2
+task	tb testing	1
+related product	tbr related product	1

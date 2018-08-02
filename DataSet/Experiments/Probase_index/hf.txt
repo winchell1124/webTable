@@ -1,0 +1,616 @@
+accessory	hf-resistant nets for dicing-free release	2
+facility	hfov	1
+source	hfcs emissions from leakage	1
+property	hfsion trap property	1
+product	hf talc	1
+product	hf thermal expansion valve	1
+model	hfa	2
+client	hfma	1
+document	hfa renewal	1
+approach	hf vapor clean	1
+alternative	hfcs	3
+alternative	hfc  one hundred and thirty-four a 	2
+alternative	hfc- one hundred and thirty-four a 	1
+course	hf operator	1
+film	hfsion film	2
+film	hfon film	1
+film	hfsio film	1
+business	hfield technologies	1
+agent	hfc	7
+agent	hfc- two hundred and twenty-seven ea 	3
+agent	hfc- one hundred and thirty-four a 	2
+agent	hfc one hundred and thirty-four a 	1
+agent	hfc- one hundred and fifty-two a 	1
+agent	hfc- twenty-three 	1
+feature	hfe	1
+disease	hfa	1
+firm	hfi	1
+manufacturer	hfield technologies of the u.s.	1
+instrument	hf instrument	1
+instrument	hf radar	1
+instrument	hfa	1
+feature	hf propagation predictor	1
+feature	hf radio feature	1
+publication	hfm magazine	2
+compound	hfc- one hundred and thirty-four a 	4
+compound	hfcs	3
+compound	hf	3
+compound	hfc refrigerant	2
+equipment	hf vaporizer	1
+policy	hfc phase-down under the montreal protocol	1
+substance	hf	2
+substance	hfo  two 	1
+substance	hfn	1
+style	hf high front	1
+medication	hfrom other common sleep medication	1
+animal	hf cows	2
+actor	hfq protein	1
+additive	hf	2
+chemical	hf	5
+chemical	hfe	1
+chemical	hfcs	1
+capability	hfi	1
+provider	hfdc life	1
+provider	hfc	1
+protein	hfq	1
+protein	hfe	1
+key item	hfd economic	1
+channel	hfc channel	1
+outcome	hf-related hospitalization	1
+specialty	hf-weldable ether foam	1
+molecule	hf	11
+sensor	hf radar	1
+shop	hfoc in doody street	1
+competition	hft	1
+raw material	hfcl  four 	1
+gene	hfq	1
+contaminant	hf	1
+layer	hfo . sub . two 	1
+layer	hfo  two 	1
+electronic device	hfet	1
+solvent	hfip	1
+technical issue	hfc issue	1
+participant	hfa	1
+gas	hf	11
+gas	hfc- one hundred and thirty-four a 	4
+gas	hfcs	3
+superstar	hfs's henry r. silverman	1
+metal	hf	1
+acid	hf	10
+pollutant	hf	2
+pollutant	hfcs	1
+virus	hfmd	1
+nice feature	hfv six  engine package 	1
+organic material	hf  four 	1
+meeting	hftp host valuable meeting	1
+impurity	hf	1
+conference	hfes	1
+large project	hfc- twenty-three  projects in china 	1
+catalyst	hf	3
+communication	hf radio	2
+salt	hf-insoluble metal salt	1
+item	hfd property tax	1
+item	hf balun kit	1
+state agency	hfs	1
+adverse event	hfs	1
+composition	hfc- one hundred and fifty-two a 	2
+composition	hf	2
+composition	hfc- one hundred and thirty-four a 	1
+foundation	hfa	1
+designation	hf for high float	1
+mod	hf cats	1
+bar	hfcs-free energy bar	1
+substitute	hfc- one hundred and thirty-four a 	1
+hazardous material	hf	1
+hydrocarbon	hfc- two hundred and twenty-seven ea 	1
+electronic product	hf connector	1
+optional extra	hf aerial mounts	1
+adhesive	hf sealing	1
+oxide	hfo two 	1
+oxide	hfo  two 	1
+patient characteristic	hf treatment	1
+adverse reaction	hfs	1
+analysis tool	hfss	1
+local charity	hfh restore	1
+high profile client	hfc bank	1
+byproduct	hf	1
+abbreviation	hfjv	1
+abbreviation	hfov	1
+industry expert	hfma	1
+communication channel	hf shortwave ionospheric	1
+monomer	hfp	1
+motor	hf motor	1
+harmful substance	hfcs	1
+representative	hfh indonesia donor partner representative	1
+metal oxide	hfo  two 	4
+metal oxide	hfo two 	1
+metal oxide	hfsio  two 	1
+laser	hf	2
+polymeric material	hfp	1
+hazardous substance	hf	1
+process condition	hf ratio	1
+cluster	hf-c	1
+affiliate	hfh of westchester	1
+metal salt	hf-insoluble metal salt	1
+monitoring tool	hfm	1
+large facility	hfhs	1
+emission	hfcs	1
+trade organization	hfma	1
+file system	hfs	2
+network element	hfa ii-i series instrument	1
+therapeutic modalities	hfov	1
+commercial tool	hfss	1
+greenhouse gas	hfc- one hundred and thirty-four a 	1
+greenhouse gas	hfc- twenty-three 	1
+volatile organic compound	hfcs	1
+service	hfc	1
+service	hfs	1
+conventional system	hf rfid tag	1
+refrigerant	hfc- one hundred and thirty-four a 	7
+refrigerant	hfcs	3
+refrigerant	hfc  one hundred and thirty-four a 	2
+refrigerant	hfc- one hundred and fifty-two a 	1
+refrigerant	hfc type refrigerant	1
+electrical parameter	hfe	1
+replacement	hfcs	1
+reactor	hfr-petten in the netherlands	1
+reflective material	hfo two 	1
+liner	hf resistant liner	1
+strong acid	hf	7
+weak acid	hf	2
+weak acid	hf-based acid	1
+special event	hfcs host special event	1
+formal organization	hfes	1
+effective tool	hfbb technique	1
+reactive gas	hf	1
+toxic gas	hf	3
+topic	hft	1
+reaction product	hf	3
+propellant	hfc- one hundred and thirty-four a 	2
+propellant	hfa  one hundred and thirty-four a 	2
+propellant	hfc  one hundred and thirty-four a 	1
+propellant	hfa  two hundred and twenty-seven 	1
+refined product	hfc's mlp	1
+inorganic acid	hf	2
+toxic product	hf	1
+regulatory protein	hfe	2
+waveforms	hfm	1
+expensive component	hf	1
+lineage	hfy	1
+mineral acid	hf	1
+central agency	hfa	1
+modulation method	hf modulation	1
+olefins	hfp	2
+aqueous solution	hf	1
+technology platform	hfc embedded system	1
+volatile material	hf	1
+topic	hfcc	1
+camcorder	hf ten 	1
+monitoring program	hfm	1
+technology innovation	hft	1
+combustion product	hf	1
+acidic material	hf catalyst from an alkylation unit	3
+systemic infection	hfv	1
+state-of-the-art tool	hfss	1
+radio system	hf communication	1
+acid gas	hf	2
+reactive compound	hf	1
+work condition	hf power	1
+viable alternative	hfc- one hundred and thirty-four a 	1
+oxide material	hfo  two 	1
+gaseous pollutant	hf	1
+corrosive agent	hf	1
+corrosive gas	hf	1
+grid	hflex on a custom form	1
+company	hfp	1
+corrosive material	hf	1
+reactive element	hf	1
+inhaler	hfa asthma inhaler	1
+innovative treatment	hfv	1
+acidic gas	hf	3
+cleaning process	hf process	1
+etchants	hf solution	1
+isolate	hf two 	1
+outstanding program	hfa's dads in action	1
+well-established risk factor	hf with systolic dysfunction	1
+corrosive	hf	1
+medium server	hfs	1
+advanced algorithm	hfsc	1
+decomposition product	hf	2
+high-k material	hfo two 	6
+high-k material	hfo  two 	3
+gas species	hf	1
+user facility	hfir	1
+diatomic molecule	hf	6
+pressurized gas	hfc one hundred and thirty-four a 	2
+broadband network	hfc	2
+broadband network	hfc network	1
+graphic display	hf radar datum	1
+high dielectric constant material	hfo  two 	2
+high dielectric constant material	hfo two 	1
+evidence-based program	hfa	1
+acid solution	hf	1
+etchant	hf	5
+acid component	hf	2
+filesystem	hfs	1
+sleep medication	hfrom other common sleep medication	1
+student society	hfes	1
+project category	hfc- twenty-three 	1
+acid compound	hf	2
+green house gas	hfcs	1
+insulation film	hfo.sub. two  film 	1
+combat system	hfy	1
+disc format	hfs	1
+etch process	hf wet etch	1
+insulator layer	hfo  two 	1
+simulation software	hfss	2
+bluetooth profile	hfp	1
+disk format	hfs	1
+GHGs	hfcs	1
+high dielectric material	hfo  two 	1
+high dielectric material	hfo two 	1
+aircraft program	hf- twenty-four 	1
+candidate material	hfb  two 	1
+candidate material	hf	1
+high-k dielectric material	hfo two 	2
+high-k dielectric material	hfo  two 	2
+high-k dielectric material	hf containing oxide	1
+information	hf monitoring station	1
+bindery service	hf group's thesis on demand	1
+commercial code	hfss	1
+energy bar	hfcs-free energy bar	1
+asthma inhaler	hfa asthma inhaler	1
+comonomer	hfp	1
+global telecom player	hfcl	1
+halogen-containing gas	hf	1
+information	hfc consumption	1
+packet-based network	hfc network	1
+potent greenhouse gas	hfcs	1
+severe service	hf acid	1
+thin-film material	hfo  two 	1
+dairy company	hfl	1
+gate dielectric	hfo two 	2
+gate dielectric	hfo  two 	1
+high-k dielectric	hfo two 	3
+high-k dielectric	hfo  two 	3
+liquid acid	hf	1
+social insurance scheme	hfa	1
+electronic structure method	hf selfconsistent field method	1
+etching gas	hf	1
+HFCs	hfc- twenty-three 	5
+HFCs	hfc- one hundred and thirty-four a 	2
+HFCs	hfc- one hundred and fifty-two a 	1
+supplemental technology	hfd	1
+acidic pollutant	hf	1
+dietitian	hfg's own rd jennifer	1
+fluid type	hfb	2
+fluid type	hfa	2
+health care association	hfma	6
+HFC refrigerant	hfc- one hundred and thirty-four a 	5
+high K material	hfo two 	1
+Hydrofluorocarbons	hfc- one hundred and thirty-four a 	3
+Hydrofluorocarbons	hfc one hundred and thirty-four a 	1
+Hydrofluorocarbons	hfc- one hundred and fifty-two a 	1
+hydrofluorocarbons	hfc part-halogenised hydrofluorocarbons	1
+Hydrofluorocarbons	hfc  one hundred and thirty-four a 	1
+inert oxide	hfo  two 	2
+inert oxide	hfo two 	1
+profitable project	hfc	3
+profitable project	hfcand n two o destruction project 	1
+consumer finance company	hfc	1
+fluorinated gas	hfcs	2
+high profile gig	hfstival	1
+selective etchant	hf solution	3
+selective etchant	hf	1
+toxic and corrosive compound	hf	1
+acidic reagent	hf in pydrine	1
+generator service	hf-silent generator sets	1
+program	hfa screen	2
+organic ligand	hfac	1
+RFID technology	hf tags used in passport	1
+Acid etchants	hf	1
+dietary regimen	hfd	1
+gate metal	hf	1
+halohydrocarbons	hfc- one hundred and fifty-two a 	1
+halohydrocarbons	hfc- one hundred and thirty-four a 	1
+program	hft	1
+program	hfa	1
+callsigns	hf liason	1
+canon model	hf s twenty-one 	1
+fluoromonomers	hfp	2
+high K dielectric	hfo  two 	2
+standard micromachining technique	hf wet etching	1
+volatile diluents	hfc- one hundred and thirty-four a 	1
+bandwidth environment	hf radio	1
+BT device	hfl	1
+carbon pollutant	hf	1
+chemical laser	hf	3
+factor	hf symptom	1
+economical method	hf	1
+electrophilic compound	hf	1
+fluorinated compound	hfcs	1
+good link	hf aka hotfile	1
+heteroatomic molecule	hf	1
+Hydrofluoroalkanes	hfa  one hundred and thirty-four a 	1
+Hydrofluoroalkanes	hfa- one hundred and thirty-four a 	1
+hydrogen bond certain substance	hf	3
+monoprotic acid	hf	1
+negative CTE material	hfvpo  seven 	1
+pure fluid	hfc  one , one , one , two -tetrafluoroethane 	1
+refinery process	hf alkylation	2
+organization	hfma	4
+Superacids	hf with sbf five 	1
+trap property	hfsion trap property	1
+common workover fluid	hf acid	1
+diluted acid	hf	2
+file system implementation	hfs	2
+first, conventional flooding agent	hfc- one hundred and twenty-five 	4
+fluorocarbon refrigerant	hfc  one hundred and thirty-four a 	1
+gaseous laser	hf laser	1
+halide precursor	hfcl  four 	3
+hazardous acid	hf	3
+heteronuclear diatomic molecule	hf	2
+hfpack event	hfpack pedestrian eyeball qsos	1
+hfpack event	hfpack technical forums	1
+hfpack event	hfpack lunches	1
+hfpack event	hfpack rallies	1
+high-k oxide	hfo  two 	1
+hydrogenous compound	hf	1
+inorganic process gas gas	hf	2
+passive radar system	hf doppler system	1
+rare earthand reactive element	hf	1
+tweaking reverb parameter	hf damping	1
+vaarious plastic optical fiber cable	hfbr connector	1
+wet chemical etching process	hf for glass	1
+wet chemical etching process	hf etching	1
+ballast type	hf electronic	1
+technique	hf-isotope investigation of zircon	2
+technique	hf terminal technique	1
+binary metal oxide	hfo  two 	1
+CFC substitute	hfc- one hundred and thirty-four a 	1
+coastal ocean observatory technology	hf rader	1
+common sleep medication	hfrom other common sleep medication	1
+complexapparatus	hf solubilizer	1
+conventional acid system	hf acid	1
+conventional high-k material	hfo two 	1
+electromagnetic simulation package	hfss available from hewlett packard corporation	1
+electronic bulletin board	hfma net	1
+energy-conscious component	hf multizone galette concept	2
+excess reaction product gas	hf	2
+exit type	hfe	1
+F-gases	hfcs in fire protection	1
+gas scrubbing system gas	hf	1
+gaseous fire suppression agent	hfc- two hundred and twenty-seven 	4
+halogen-containing acid	hf	1
+halon alternative	hfc- twenty-three 	2
+high frequency detection method	hfd	1
+high-voltage industrial application	hf plasma torch	1
+hydrofluorocarbon refrigerant	hfc- one hundred and thirty-four a 	1
+low gain system	hf overtone	1
+modern refrigerant	hfc r one hundred and thirty-four a 	1
+application	hf communications receiver	1
+application	hf radio	1
+qos type	hfsc	1
+refractory-metal oxide	hfo  two 	1
+refrigeration gas	hfcs  one hundred and thirty-four a 	1
+set-neck model	hf two 	1
+shorter-lived compound	hfc- thirty-two 	1
+standard mod con	hf radio	1
+application	hf acid handling	1
+USERPARAMS table store user-based information	hfm cluster setting	2
+windblown sand sample	hf- two 	1
+windblown sand sample	hf- one 	1
+windblown sand sample	hf- three 	1
+zirconium-containing lewis acid	hfcl  four 	1
+add-on lip	hfp lip	1
+aggressive component	hf	1
+Alcohol-based cosolvents	hfip	1
+aqueous etchants	hf	2
+aqueous system acidic gas	hf	1
+binary acid	hf	1
+certified profile	hfp	1
+CFC free refrigerant	hfc r- one hundred and thirty-four a 	1
+CFC replacement	hfcs	1
+chlorine-free fluorocarbon	hfc- one hundred and thirty-four a 	1
+chlorine-free fluorocarbon	hfc- one hundred and fifty-two a 	1
+class ib molecule	hfe	1
+comm project	hf email	1
+comm project	hf messenger	1
+DE&S	hfi	1
+diatomic acompound	hf	1
+environmentally hazardous friedel-crafts catalyst	hf	1
+Fluoro-monomers	hfp	1
+full wave modeling tool	hfss	1
+gaseous fluorinating agent	hf	1
+gaseous HFCs	hfc- one hundred and fifty-two a 	1
+gaseous HFCs	hfc- one hundred and thirty-four a 	1
+good communication gear	hf radio	1
+hafnium-based high-k dielectric	hfo  two 	1
+hafnium-based high-k dielectric	hfo two 	1
+halogenated refrigerant	hfcs	1
+halogen-containing impurity	hf	1
+HFC type refrigerant	hfc- one hundred and thirty-four a 	2
+hfc-based card	hfc-s-based pci card	1
+high frequency solution	hff	1
+high GWP gas	hfcs	3
+high-k gate dielectric	hfo two 	1
+high-k gate dielectric	hfo  two 	1
+high-k layer	hfo  two 	1
+high-quality multimedia application	hf audio home theater	1
+homogeneous acid catalyst	hf	1
+hydrogen-containing halogenocarbons	hfc- one hundred and fifty-two a 	1
+hydrogen-containing halogenocarbons	hfc- one hundred and thirty-four a 	1
+incomplete reaction product	hfcl  three 	2
+industry standard numerical analysis tool	hfss	1
+kyoto gas	hfcs	1
+largest holding	hfs	1
+case	hfcs	2
+case	hf service	1
+case	hfp	1
+lodging stock	hfs inc.	1
+long distance communication equipment	hf radio	1
+lung protective strategy	hfov	1
+meteoric water scrubs volcanic gas	hf	1
+niche candidate	hfc- one hundred and fifty-two a 	2
+non-cfc propellant	hfa propellant	1
+non-cfc refrigerant	hfcs	1
+non-fibre technology	hfc	1
+non-ods refrigerant	hfcs	1
+ofhalogen-containing gas	hf	1
+physics-based solver	hfss	1
+polar detonation product	hf	1
+problematic liquid acid	hf	1
+reaction material	hf	1
+reason single-determinant wave function method	hf	1
+reflective display	hfe	1
+refrigerant chemical	hfcs	1
+relic file system	hfs	1
+safety group A1 refrigerant	hfc- one hundred and thirty-four a 	1
+SAP user	hfd sap users	1
+service alternative commercial product	hf radio system	1
+single oxide high-k dielectric	hfo two 	1
+single oxide high-k dielectric	hfo  two 	1
+small dimension device	hf bipolars	1
+small dimension device	hf bipolar transistor	1
+specialist index	hfrx global hedge fund index	1
+subtle mod	hfp lip	1
+U.K. credit card issuer	hfc bank	1
+ventilatory technique	hfv	1
+wired broadband network	hfc	1
+3d-finite element code	hfss	1
+actual transmission system	hfc network	1
+option	hf cat	1
+boiling point vaporizable liquid	hfc- thirty-two 	1
+breakthrough diagnostic approach	hfe dna analysis	2
+broadband datum transfer system	hfc network	1
+car antennas	hf antenna built by km four ie 	1
+casino-style trading	hft	1
+certaingreenhouse gas	hfc- twenty-three 	1
+cfc-free product	hfa pmdis	1
+chemical gas-based CDM project	hfc	1
+chlorine free refrigerant	hfc- one hundred and thirty-four a 	1
+class ibandclass i-related molecule	hfe	1
+coastal observation	hf radar	2
+commercial electromagnetic modelling package	hfss tm	1
+commercial field analysis software tool	hfss	1
+Common HFCs	hfc  one hundred and thirty-four a 	2
+compound field effect transistor	hfet	1
+conclusion experiential learning opportunity	hfs-enhanced lab activity	1
+DALI Grouping A DALI device	hf fluorescent ballast	1
+datum set organization	hfs in a data class definition	1
+dip step	hf dip step	1
+dxs	hfa	1
+easily polymerizable fluoroolefins	hfp	1
+enveloped spectrum	hfd	1
+esoteric reahns	hfe of the eel	1
+etchant vapor	hf vapor	1
+first-generation halon replacement	hfcs	1
+forum material	hfo  two 	1
+free patch detection tool	hfnetchk available from the microsoft web site	1
+full 3D code	hfss	1
+full-wave simulation tool	hfss	1
+full-wave solver	hfss	1
+gas-lasers	hf	1
+GHG-emissions	hfcs	1
+hafnium halide precursor	hfcl  four 	2
+halocarbon suppression agent	hfc- two hundred and twenty-seven ea 	1
+harmful breakdown product	hf	1
+HFCNs	hfcn  one hundred and thirty 	1
+HFO treatment equipment	hfo separator	1
+high cost fluorocarbon alternative	hfe	1
+high flux reactor	hfr petten	1
+high global warming potential gas	hfcs	1
+high stability compound	hfal  three 	2
+high-k gate material	hfo two 	1
+high-k mate rial	hfo  two 	1
+high-kdielectrics	hfo  two 	1
+high-permittivity dielectric material	hfo  two 	3
+homogenous acid catalyst	hf	1
+Hydro-fl uoroalkanes	hfa- one hundred and thirty-four a 	1
+importable frequency list	hfcc	1
+industrial gas destruction CDM project	hfc	1
+introduction high-dielectric constant material	hfo  two 	1
+introduction high-dielectric-constant material	hfo  two 	1
+introduction liquid bronsted acid	hf	1
+invasive ventilator strategy	hfo	1
+kyoto-covered gas	hfcs	1
+legacy telecommunication system	hf radio	1
+low hanging fruit type project	hfc twenty-three 	2
+metallic oxide film	hfo.sub. two  film 	1
+metastable mineral	hfo	1
+Millitech's state-of-the-art software	hfss	1
+modern delivery system	hfa-based pmdi inhaler	1
+monoacid	hf	1
+noncarboxylic acid	hfip	1
+non-cfc substitute refrigerant	hfc- one hundred and thirty-four a 	1
+method	hf	2
+method	hf radios requiring large antennas	2
+NOX4 mutant	hfbd lacking	1
+NTRODUCTION high dielectric constant material	hfo  two 	1
+ODP compound	hfcs	2
+ODP HFCs	hfc- one hundred and thirty-four a 	1
+ozone friendly refrigerant	hfc- one hundred and thirty-four a 	2
+ozone-safe substitute refrigerant	hfc- one hundred and thirty-four a 	1
+polar diatomic molecule	hf	1
+Polarity A molecule	hf	2
+post-oxidation treatment	hf acid leaching	1
+potent gas	hfc- twenty-three 	1
+potential process	hf last pre-clean process	1
+Pre-existing cardiac damage	hf following hypertension	1
+preferred etchant	hf	1
+pretty cool toy	hftd optimus prime	1
+pulsed DC application	hfe testing	1
+Reading content	hfw	1
+RF modeling tool	hfss modeling tool	1
+risk-reduction method	hft	3
+saturated HFC	hfc- one hundred and thirty-four a 	1
+Sector-specific VEAs	hfc- twenty-three  emission reduction program 	1
+method	hfsp for managing the land use of hazardous substance	1
+small chamber item	hf three hundred and sixty  boat 	1
+Spumaviruses	hfv	1
+standard level KPIs	hfma's map keys	1
+standard-level KPIs	hfma's map keys	1
+subscriber network	hfc cable television network	1
+substitute refrigerant	hfcs  one hundred and thirty-four a 	2
+suitable replacement hydrofluoroalkane propellant	hfa- one hundred and thirty-four a 	1
+synthetic GHGs	hfcs	2
+toxic etchants	hf	1
+toxic refrigerant	hfc- one hundred and thirty-four a 	1
+true forum major product	hf	1
+typical weak acid	hf	2
+ultrafiltration filter	hfp- two hundred and seventy-six  produced by abcor 	1
+unexpanded pipe	hfi pipe	1
+Unsaturated HFCs	hfo- one thousand two hundred and thirty-four yf 	1
+unstable channel	hf channel	1
+tool	hfslip	1
+tool	hfacs	1
+VOC exempt propellant	hfc- one hundred and thirty-four a 	1
+tool	hfss	1
+project	hfhi's brush with kindness project	1
+project	hf tower for yelahanka	1
+project	hfc- twenty-three  destruction 	1
+project	hfc destruction	1
+material	hfo  two 	9
+material	hfo two 	4
+material	hf silicate	2
+product	hf	2
+parameter	hf concentration	1
+parameter	hf asymmetry	1
+parameter	hfp content	1
+parameter	hf circuit parameter	1
+system	hf modernisation	1
+system	hf	1
+system	hfc	1
+system	hfs	1
+system	hft	1
+species	hf	5
+measure	hf- two  evaluation of lvs function 	1
+element	hf	3
+variable	hf concentration	2
+product	hfss from ansoft corporation	1
+product	hfc broadband network system	1
+function	hf spiral	6
+device	hf radio	1
+device	hfet	1
+component	hf	6
+component	hfm	2

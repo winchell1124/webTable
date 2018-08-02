@@ -1,0 +1,1550 @@
+factor	ngf	4
+initiative	ngos running projects for street child	1
+initiative	ngo code of conduct for health systems strengthening	1
+initiative	ngv kids space in melbourne	1
+initiative	ngn management	1
+initiative	ngomongo cultural village	1
+initiative	ng connect	1
+resource	ngoma	2
+resource	ngo project	1
+resource	ngo laboratory center	1
+facility	ngn architecture facility	1
+facility	ngst	1
+process	ngf-stimulated neurite extension	1
+process	ngl recovery	1
+source	ngos	4
+source	ngo survey	1
+source	ngola	1
+source	ngc one thousand three hundred and thirty-three  iras two 	1
+source	ngc one thousand three hundred and thirty-three  iras seven 	1
+source	nga garden shop	1
+source	ngc  four thousand five hundred and sixty-five 	1
+source	ngo report	1
+ophthalmologist	ngoc t nguyen	1
+ophthalmologist	ngoc nguyen	1
+product	ngdlc telecom gear	1
+exception	ngo-sponsored informal education	1
+exception	ngo africa fighting malaria	1
+work	ngugi's earlier work	1
+model	ngoc quyen	1
+model	nga pou mana	1
+characteristic	ng feature excellent flight characteristic	1
+word	ngn	1
+attraction	ngong ping  three hundred and sixty 	2
+attraction	ngong ping  three hundred and sixty  cable car 	2
+attraction	ngorongoro	1
+attraction	ngorongoro crater	1
+attraction	ngong ping	1
+attraction	ngong ping village	1
+skill	ng tube	1
+institution	ngos	45
+institution	ngee ann technical college	1
+institution	ngo from spain	1
+institution	ngee ann polytechnic	1
+client	ngo's interested in shooting in remote	1
+client	ngo for orphans in africa	1
+document	ngo report	1
+author	ngugi wa thiong'o	3
+author	ng	3
+author	nguyen anh  nine 	2
+author	ngui wa thiong'o	1
+author	ngugi wa thiongo	1
+product	ngl	1
+feature	ngscb	7
+form	ng	1
+person	nguyen tien trung	1
+person	ngos	1
+alternative	ngos with proven track record	1
+agency	ngos	18
+agency	ngo s	1
+agency	ngos with expertise in child protection	1
+agency	ngos recognized in terms of project execution	1
+object	ngc  six hundred and four  in m thirty-three 	2
+object	ngc  four thousand two hundred and thirty-six 	1
+object	ngc  two thousand nine hundred and fifteen 	1
+object	ngc  two thousand four hundred and fourty-four 	1
+object	ngc  two thousand four hundred and three 	1
+object	ngc  seven thousand two hundred and ninety-three 	1
+object	ngc  two thousand four hundred and fourty-five 	1
+object	ngc  four thousand two hundred and sixty-one 	1
+object	ngc  six thousand seven hundred and ninety-one 	1
+object	ngc  one thousand three hundred and sixty-five 	1
+location	ng tung shan	1
+location	ngaio	1
+writer	ngugi wa thiongo	3
+writer	ngugi wa thiong'o	3
+writer	ng	1
+writer	nguyen kien giang	1
+writer	nguyen thanh giang	1
+structure	ngos	5
+structure	ngo coalition	1
+business	ngai tahu fisheries	1
+business	ngai tahu property	1
+business	ngai tahu tourism	1
+business	ngai tahu vineyards	1
+field	ngawha in new zealand	1
+procedure	ng tube	1
+procedure	ngt feeding	1
+procedure	ngt	1
+school	ngee ann polytechnic	3
+school	ngee ann	1
+school	ngee ann primary school	1
+title	nguyen van thieu a president of south vietnam	1
+plant	ngo si lien	1
+scholar	ngugi wa thiongo	3
+scholar	ngo vinh long	1
+scholar	ngaire naffine	1
+scholar	ngaire woods	1
+venue	ngv	1
+town	ngozi	1
+town	nguru	1
+criterion	ngo's reputation in the community	1
+treatment	ng tube	2
+manufacturer	ngk	2
+manufacturer	ngear	1
+instrument	ng tube	1
+publication	ngi	3
+publication	ngo handbook published by odraz last year	1
+study	nga report on college readiness of high school student	1
+study	nguyen et al.	1
+individual	nghiep quan	1
+individual	nga leaders	1
+figure	ngo worker	1
+leader	nguyen van thieu	1
+leader	ngo dinh diem	1
+leader	nguema of equatorial guinnea	1
+expense	ngos	2
+innovation	ngo sales agent	1
+instance	ngc  one thousand two hundred and seventy-five 	2
+policy	ngc's policy decision on new capital investment project	1
+policy	nga whenua rahui offer financing for fencing	1
+policy	nga whenua rahui operating under the department of conservation offer financing for fencing	1
+entity	ngos	17
+entity	ngo community involved in the sector	2
+entity	ngo network	1
+building	ngee-ann city	1
+style	ngok fei pai	1
+expert	ngo health expert	1
+improvement	ngk iridium	1
+researcher	ng et al.	1
+researcher	ng	1
+region	ngorongoro crater	1
+variety	nguru	1
+Organisations	ngos	7
+Organisations	nga tamatoa	2
+Organisations	ngai tahu	1
+partner	ngos	33
+partner	ngo's	1
+big name	ngk	1
+role	ngo coordinator	1
+sector	ngos	4
+sector	ngo community	1
+sector	ngo agency	1
+sector	ngos like the red crescent	1
+sector	ngo sector	1
+critic	ngo oxfam	1
+critic	ngltf	1
+critic	ngo friends of the earth	1
+customer	nguyen quoc viet	1
+effort	ngo infrastructure	1
+effort	ngo-sponsored relief effort	1
+actor	ngos	80
+actor	ngo s	1
+actor	ngo supporting the efforts of developing public broadcasting in nepal	1
+actor	ngosand international organization	1
+actor	ngo's	1
+award	ngcsu hal b. rhodes iii artist of the year	1
+restaurant	nguan lee	1
+disorder	ngu	1
+student	nguyen	1
+student	ngee ann polytechnic graduate serene goh	1
+student	nguyet duong	1
+provider	ngos	2
+woman	ngozi okonjo iweala	1
+asset	ngl line pack	1
+retailer	nguyen kim	2
+destination	ngorongoro	1
+party	ngos	16
+party	nguyen	1
+professional	ngo workers	2
+speaker	ngukwase chia surma	1
+protein	ngf	6
+protein	ngb	1
+guest	ngo staff	1
+competitor	ngmoco	1
+district	ngan son	1
+district	ngao of lampang province	1
+district	ngorongoro	1
+district	ngororero	1
+stakeholder	ngos	156
+stakeholder	ngo representative	1
+issue	ngo involvement	2
+issue	ngo eligibility	1
+issue	ngn	1
+stakeholder	ngai tai iwi	1
+stakeholder	ngo's civil society representatives	1
+stakeholder	ngo watchdog	1
+stakeholder	ngo groups	1
+stakeholder	ng os	1
+point	nguyen extension	1
+brand name	ngk	3
+local tourist attraction	ngoc son temple	4
+local tourist attraction	ngee ann city	1
+language	ngbandi	1
+language	ngura group of australian language	1
+language	ngbaka	1
+channel	ngos	3
+hotel	ngoc minh hotel	1
+surface	ngentot pembantu setengah baya light assembly	1
+utility	ngrep	2
+driver	ngo support	1
+friend	nguyen van thieu	1
+statistic	ngrams co-occurrences	1
+tourist attraction	ngong ping  three hundred and sixty 	2
+artifact	ng tube	1
+measurement	ngr	1
+service provider	ngos	7
+supplier	ngk	1
+village	ngari	1
+village	ngola	1
+village	ngonga	1
+village	ngomeni	1
+scientist	nguyen tien khiem	1
+employer	ngos	1
+committee	ngos policy review steering committee	1
+association	ngos	2
+association	ngs	1
+association	ngo forest owner association	1
+operator	ngos	2
+sight	ngong ping  three hundred and sixty 	1
+sight	ngorongoro crater	1
+network	ngo forum	2
+network	ngo coordination committee	2
+network	ngo working group on women	2
+network	ngo groups on community-based initiative	1
+network	ngn	1
+force	ngos	2
+stock	ngp	1
+support service	ngos operating in the community	1
+park	ngorongoro crater	1
+sponsor	ngos	2
+sponsor	ngk spark plugs	1
+local organization	ngos	8
+college	ngwane teacher training	2
+ngos	ngo contract ngos	1
+NGOs	ngo forum	1
+ngos	ngos international humanitarian ngos	1
+forum	ngo village	1
+veteran	nguyen manh tuong	1
+government agency	ngo affairs bureau in bangladesh	1
+government agency	ngo affairs beureau in bangladesh	1
+notion	ngo activism	1
+gene	ngfr	1
+breed	nguni	1
+breed	nguni sheep breed	1
+centre	ngaruawahia	1
+community organization	ngos	2
+community organization	nga hau	1
+commentator	ngui wa thongo	1
+cell	ng one hundred and eight  cell 	1
+road	nguyen thai hoc-kim ma	3
+road	ngo quyen	2
+road	nguyen thai hoc	1
+index	ngo sustainability index	1
+enterprise	nguni cattle	1
+river	ngan sau	1
+river	ng tung river	1
+river	ngan pho	1
+marker	ng two 	3
+marker	ngfr	1
+nation	ngasany	1
+third party	ngos	9
+newspaper	nguoi viet	1
+issue	ngos from countries rich in natural resource	1
+investor	ngen venture capital investor	1
+city attraction	ngoc son temple	1
+establishment	ngos	3
+establishment	ngong house	1
+hit	ngoni kambarami's wakaenda	1
+international organization	ngos	8
+international organization	ngosinlocal capacity building by identifying	1
+key player	ngos	2
+key player	ngo dinh diem	1
+developer	ngmoco	3
+face	ngoc hoa	1
+street	nguyen hue	3
+street	nguyen trai	1
+street	nguyen xi	1
+street	nguyen dinh chieu	1
+municipality	ngaka modiri molema district municipality	1
+participant	ngos	8
+community group	ngos	1
+suburb	ngunnawal	1
+tribe	ngati hine	1
+tribe	ngati kuri	1
+tribe	ngati maniapoto	1
+tribe	ngati porou	1
+tribe	ngai tahu	1
+tribe	ngati tama	1
+tribe	ngati whatua	1
+tribe	ngati awa	1
+tribe	ngati tuwharetoa	1
+tribe	ngati porou on the east coast	1
+tribe	ngati rangi	1
+tribe	nguni	1
+tribe	ngapuhi	1
+tribe	ngati paoa	1
+tribe	ngati te ata	1
+famous name	nguyen ngoc truong son	1
+metal	ng cast metal	1
+item	ngr	2
+value-added service	ngn service	1
+interest group	ngos	9
+interest group	ngos identified through an appropriate process	1
+port	ngqura	1
+port	nghe tinh	1
+port	nghi son cement port	1
+route	ng sf	1
+non-profit organization	ngos	6
+urban area	ngong	1
+volunteer	ngo employee	1
+mission	ngst	1
+installation	ngv filling station	1
+key factor	ngos staff	1
+fuel	ngv	1
+body	ngo conservation body	1
+large organization	ngos	1
+international company	ngk spark plugs	1
+ethnic group	ngoni	2
+ethnic group	ngiti	1
+ethnic group	ngonde	1
+practitioner	nganga tolo-naa	1
+constituent	ngos	1
+province	ngozi	1
+donor	ngos	1
+donor	ngo organization	1
+accommodation	ngorongoro sopa lodge	1
+non-governmental organization	ngos	1
+non-governmental organization	ngo group for the convention on the rights of the child	1
+tumor	ngf receptor-bearing tumor	1
+educational institution	ngos	2
+key stakeholder	ngos	11
+key stakeholder	ngo staff	2
+big player	ngos	1
+motif	ngr	2
+well-known name	nguyen van lam	1
+tree species	ngaio	1
+contractor	ng bailey ext.	1
+parent	nguyen	1
+external force	ngos	1
+intermediary	ngos	12
+place name	nga motu	1
+contemporary artist	nguyen thanh chuong	1
+training program	ngo management	2
+tourist destination	ngorongoro	1
+claim	ngai tahu	1
+support group	ngos	2
+private organization	ngos	3
+senior	ng zi kai	1
+local resource	ngos	1
+community partner	ngos	2
+temple	nga phe kyaung	1
+item	ngo hiang	1
+growth factor	ngf	19
+industry standard	ngoss	1
+remote area	ngamiland	1
+intellectual	nguyen manh tuong	1
+technical skill	ng insertion	2
+public institution	ngos owned by governing official	1
+mall	ngee ann city	1
+camp	ngare serian	2
+great name	ngwaru mapundu	1
+environmental group	ngos	1
+support system	ngos	1
+development project	ngcc's personality development project	1
+reptile	ngosi volcano chameleon	1
+receptor	ng two -glia express ionotropic receptor 	1
+leading brand	ngk spark plugs	2
+political party	ngwane national liberatory congress	1
+critical component	ngv	1
+national park	ngorongoro	2
+political leader	nguyen cao ky	1
+outside agency	ngos	6
+traditional service	ngo support	1
+area	ngari	2
+area	ngorongoro crater	2
+service organization	ngo service organization	1
+famous musician	nguyen le	1
+dancer	ngawa	1
+industry organization	ngmn alliance	2
+industry organization	ngos	1
+audience	ngos	2
+water source	ngura	1
+transcription factor	ngn three 	3
+power tool	ngs	1
+local institution	ngos	7
+league	ngl	1
+outsider	ngo staff	1
+outsider	ngos	1
+hotspot	nggela	1
+international standard	ngo & red cross code of conduct	1
+local venue	ngoma	1
+grouping	ngos	2
+grouping	ngati matakore	1
+grouping	ngati hikairo	1
+international agency	ngos	3
+area	ngorongoro conservation area	1
+area	ngoua ii	1
+area	ngemplak district	1
+area	ngamiland	1
+area	ngapara	1
+business group	ngos like tulay sa pag-unlad	1
+community agency	ngos	1
+lawmaker	ngozi chioma	1
+handicraft	ngobe-bugle dress	1
+user group	ngos	3
+famous place	ngorongoro crater	1
+shopping mall	ngee ann city	1
+social institution	ngos	1
+hardwood	ngomas	1
+traditional instrument	ngoma	1
+civil society organization	ngos	20
+civil society organization	ngo congo assistance	1
+tourist site	ngrongoro crater	1
+external agency	ngos	4
+key document	ngo project template	1
+public entity	ngos	1
+key partner	ngo community	1
+international institution	ngos	1
+area	ng sangan	1
+policy instrument	ngo public campaign	1
+legendary name	ngorongoro	1
+policy initiative	ngms contract for primary care	1
+external stakeholder	ngos	9
+constituency	ngos	1
+constituency	ngami	1
+private institution	ngos	4
+research institution	ngos	1
+outside organization	ngdc	1
+good brand	ngk	2
+stakeholder group	ngos	4
+local community	ngos	3
+religious organization	ngos	2
+target group	ngos	1
+social organization	ngos	4
+business partner	ngos	1
+modeling technique	ngram models of turn-level prosodic feature	2
+external organization	ngos	5
+minor procedure	ng tube insertion	1
+anime	nge	1
+natural area	ngpn park	1
+cluster	ngc  seven hundred and fifty-two 	1
+cluster	ngc  five thousand nine hundred and eighty-six 	1
+cluster	ngc  two thousand two hundred and thirty-two 	1
+not-for-profit organization	ngos	2
+local partner	ngos	3
+private entity	ngos	2
+top quality brand	ngk	4
+tube	ng tube in the nicu	1
+big brand name	ngk	1
+non-state actor	ngos	40
+non-state actor	ngosorbusiness corporation	1
+ethnic minority	ngumba	3
+core area	ngorongoro crater	1
+area	nguruman escarpment	1
+area	ngn interconnection	1
+independent organization	ngos	2
+famous figure	ngah ibrahim	2
+private group	ngos	1
+japanese company	ngk spark plug usa	1
+prominent company	ngk sparkplugs	1
+petroleum product	ngl	2
+famous singer	nguyen phi hung	2
+conservation organization	ngos	1
+external partner	ngos	2
+dictator	nguema	1
+national agency	ngos	1
+public organization	ngos	1
+external party	ngos	1
+pressure group	ngos	2
+service	ngm consulting service	1
+service	ngn	1
+service	ngn services the associated device	1
+beautiful beach	ngapali	1
+beautiful beach	ngliyep beach	1
+private party	ngos	1
+good school	ngee ann polytechnic	2
+statesman	ngom jua	1
+statesman	ngu foncha	1
+traditional institution	ngos	1
+leading player	nguyen kim	1
+key organization	ngo founded by the tamil diaspora	1
+domestic factor	ngo involvement	1
+security threat	ngo vehicle theft	1
+background factor	ngos	1
+inflammatory mediator	ngf	1
+organized group	ngos	1
+outside group	ngos	1
+young artist	nguyen van cuong	1
+young artist	nguyen quang huy	1
+hit song	nguoi tinh mua dong	1
+teaching	ngondro	1
+prestigious school	ngee ann primary	1
+civil society group	ngos	13
+key group	ngos	1
+international partner	ngos	1
+social structure	ngos	1
+cultural site	ngoc son temple	1
+support mechanism	ngo service	1
+established organization	ngos	1
+intermediary organization	ngos	4
+detail information	ngk model	1
+web server	nginx	9
+web server	nginx in a clustered manner	1
+local stakeholder	ngos	5
+local stakeholder	ngo worker	1
+membership organization	ngo forum with  seventy-two  ngos working with environment 	1
+proxy	nginx	1
+external agent	ngos	5
+coalition	ngo council	1
+development partner	ngos	4
+northern area	ngorongoro crater	2
+grassroots organization	ngos	1
+lobby group	ngos	1
+local expert	ngos	1
+broad area	ng  nine - one - one 	1
+traditional name	ngoc hoang thuong de	1
+young talent	nguyen thi hai yen	1
+young talent	nguyen huynh minh huy	1
+young talent	nguyen ngoc thanh	1
+young talent	nguyen van huy	1
+spatial datum	ngr	1
+key informant	ngos	2
+research group	ngi project	1
+server application	nginx	1
+research facility	ngee ann polytechnic	1
+development organization	ngos	1
+lodge	ngorongoro crater lodge	1
+financial intermediary	ngos	1
+independent source	ngos	1
+international actor	ngos	5
+galaxy	ngc  three thousand three hundred and eighty-four 	2
+galaxy	ngc  one thousand three hundred and sixteen 	1
+galaxy	ngc  four thousand five hundred and ninety-four 	1
+galaxy	ngc  nine hundred and thirty-five 	1
+galaxy	ngc  three thousand six hundred and twenty-seven 	1
+galaxy	ngc  four thousand and eighty-eight 	1
+galaxy	ngc  four thousand four hundred and six 	1
+galaxy	ngc  one thousand four hundred and seven 	1
+galaxy	ngc  one thousand two hundred and seventy-five 	1
+galaxy	ngc  two thousand four hundred and three 	1
+galaxy	ngc  two hundred and fifty-three 	1
+galaxy	ngc  seven thousand two hundred and fifty-two 	1
+galaxy	ngc  one thousand three hundred and ninety-nine 	1
+galaxy	ngc two hundred and fifty-three 	1
+galaxy	ngc  two thousand nine hundred and three 	1
+galaxy	ngc  two hundred and ten 	1
+galaxy	ngc  one thousand and twenty-three 	1
+popular species	ngege	4
+inhabitant	ngati hotu	1
+eminent personality	nguyen binh khiem	1
+eminent personality	nguyen trai	1
+humanitarian organization	ngos	2
+key actor	ngos	1
+secondary datum source	ngos	1
+development agency	ngos	3
+external actor	ngos	11
+democratic institution	ngos	1
+health facility	ngos clinic	1
+public interest group	ngos	3
+stake holder	ngos	2
+technical reason	ngf antibody used for the previous quantitative immunoassay	1
+informal institution	ngos	1
+entry point	ngo's	1
+secondary material	ngo report	1
+tertiary institution	ngee ann polytechnic	1
+liquor	ng gah pei	1
+multinational organization	ngos	1
+remote region	ngari prefecture	1
+plug	ngk tr seven ix for  twelve - eighteen psi 	1
+plug	ngk bp five  es 	1
+plug	ngk bp six hs 	1
+business segment	ngl logistics & wholesale propane -logistic	1
+local actor	ngos	2
+financier	ngos	1
+institutional structure	ngos	2
+private sector	ngos	1
+elite	ngo dinh diem	1
+signaling molecule	ngf	1
+physiological characteristic	nger print	1
+topic	ngai tahu grievance	1
+topic	ngo database	1
+topic	ngos role in local	1
+topic	ngr membership	1
+chemical factor	ngf	1
+independent third party	ngos	2
+mass organization	ngos	1
+renowned architect	ngo quan hien	1
+control unit	ngc	1
+domesticated animal	nguni	1
+external group	ngos	1
+religious festival	ngaben	1
+technology development	ngn	1
+lineage	ng yiu	1
+blockbuster film	ngayong nandito ka	1
+cloud	ngc  one thousand three hundred and thirty-three 	2
+health expert	ngo health expert	1
+clinical syndrome	ngu	1
+private provider	ngos	2
+access service	ngs kidsnetwork	3
+adversary	ngo by threat	1
+convenient location	ngee ann city	1
+large user	ngos	1
+tyrant	ngo dinh diem of south vietnam	1
+national conference	ngs	1
+trustee	ngos	1
+social actor	ngos	5
+supporting actor	ngos	3
+essential commodity	ngv	1
+local structure	ngos	1
+top executive	ng subramaniam	2
+international and regional organization	ngos	1
+informant	ngos	1
+informant	ngo staff	1
+health provider	ngos	2
+influential individual	ngahuia te awekotuku	1
+character name	ngxabane	1
+renowned school	ngee ann primary school	2
+civil society actor	ngos	13
+neurotrophic factor	ngf	33
+quarry	ngilipitji in the northern territory	1
+claimant	ngos	1
+musical giant	ng la banda	1
+power equipment	ngr	1
+public and private organization	ngos	1
+seaport	nghi son	1
+surface marker	ngf-r for sorting of the cells using facs	1
+teenager	nguyen thi kim ngan	1
+worldwide brand	ngi	1
+topic	ng tube	1
+company	ngmoco	2
+political actor	ngos	1
+good quality brand	ngk	1
+large publisher	ngmoco	1
+local and international school	ngee ann polytechnic	5
+professional area	ngo development	1
+third-party provider	ngn	1
+crater	ngorongoro	1
+delivery channel	ngos	2
+pillar	ngc  two thousand two hundred and sixty-four 	1
+private actor	ngos	6
+informal source	ngos	1
+societal institution	ngos	1
+formal procedure	ngt	1
+national heroes	nguyen tri phuong	1
+biometrics	ngerprints	1
+peptide hormone	ngf	2
+state actor	ngos	1
+trophic factor	ngf	7
+nonstate actor	ngos	3
+working group	ngo working group	1
+african language	nguni language	1
+employer organization	ngos	1
+company	ngmoco making iphone-only game	1
+company	nguyen hoang	1
+company	ngong ping  three hundred and sixty 	1
+legal person	ngos	1
+non-governmental agency	ngos	1
+institutional actor	ngos	2
+non-government agency	ngos	1
+spiritual teacher	ngakchang chogyam rinpoche	2
+active volcano	ngauruhoe	1
+nebula	ngc  six thousand five hundred and fourty-three  in draco 	1
+nebula	ngc seven thousand   diffuse 	1
+exciting player	ngwenya	1
+pro-inflammatory mediator	ngf	1
+STD	ngu	1
+credit institution	ngos	1
+nonbank financial institution	ngos	1
+company	ngk with the vertical profiler	1
+neighborhood business	ngiah's auto repair	1
+umbrella group	ngo umbrella group	1
+female leader	nguyen thi binh	1
+Non-members	ngos	1
+powerful woman	ngozi okozo-iweala	1
+third party organization	ngos	1
+external expert	ngo employee	1
+organisational form	ngos	1
+private sector group	ngos	1
+potential employer	ngos	1
+transnational actor	ngos	2
+non-governmental actor	ngos	6
+notable place	ng armory	1
+peptide growth factor	ngf	1
+global actor	ngoswithaglobal reach	1
+multiplier	ngos	1
+african instrument	ngoni	1
+asian group	ngo forum on the adb	1
+capacity building program	ngo management	1
+global model	ngm	1
+nursing task	ngt insertion	2
+potential donor	ngos	1
+potential resource	ngos	1
+potential stakeholder	ngos	2
+civil organization	ngos	2
+datum user	ngos	1
+field guide	ngs	1
+hosting service	nginx hosting server	1
+institutional user	ngos	1
+niche company	ngis australia	1
+african scholar	ngugi wa thiongo	1
+civil institution	ngos	2
+civil institution	ngos specializing in certain aspects of sexual	1
+civil society institution	ngos	4
+formal source	ngos	1
+private sector actor	ngos	1
+african writer	ngugi wa thiongo	2
+building technology	ngscb	1
+outside actor	ngos	2
+semiarid region	ngp	1
+civil society	ngos	3
+development actor	ngos	3
+external institution	ngos	2
+famous national park	ngorongoro crater	1
+activity	ngo forum showcase	1
+activity	ngo advocacy	1
+activity	ngo service delivery programs with limited geographic outreach	1
+activity	nguyen hue flower street	1
+activity	nga manu bird santuary	1
+institutional organization	ngos	1
+nontraditional partner	ngos	1
+traditional stakeholder	ngos	1
+critical scholar	nguyen vo thu-huong	2
+intermediary institution	ngos	1
+non-traditional partner	ngos	1
+public awareness activity	ngos	1
+bantu language	ngumba	1
+choice school	ngee ann primary	1
+domestic institution	ngos	1
+game reserve	ngorongoro	1
+iconic design	nguni	1
+implementing agency	ngos	1
+large bridge	ngawun river crossing ngathaingchaung bridge	2
+nongovernmental entity	ngos	1
+space telescope	ngst	1
+disaster area	ngawa	1
+external player	ngos	1
+national and international institution	ngos	1
+private non-profit organization	ngos	1
+social partner	ngos	1
+arterial route	ngong road	1
+activity	ngoma dancing	1
+information intermediary	ngos	1
+private sponsor	ngos grupo sofonias	1
+societal group	ngos	2
+external funding source	ngos	1
+institutional partner	ngos	1
+qualified individual	ngwa certified vertical closed loop driller	1
+end-user organization	ngos	1
+not-for-profit agency	ngos	1
+singapore artist	ng joon kiat	1
+singapore artist	ng eng teng	1
+external constituency	ngo representative	1
+famous songwriter	ng yat-siu	1
+HTTP server	nginx	1
+northern tribe	ngati whatua	2
+open cluster	ngc  four hundred and fifty-seven 	2
+open cluster	ngc  six hundred and sixty-three 	1
+open cluster	ngc  two thousand one hundred and sixty-nine 	1
+open cluster	ngc  eight hundred and sixty-nine 	1
+popular server	nginx	1
+accessible source	ngos	1
+datum center	ngd europe	1
+famous expert	nguyen	1
+flight characteristic	ng feature excellent flight characteristic	1
+hydrocarbon mixture	ngl	1
+indigenous breed	nguni	2
+indigenous breed	nguniand zebu	1
+non-business organization	ngos	2
+non-government entity	ngos	1
+non-profit company	ngos	2
+non-state entity	ngos	1
+popular artiste	ngozi nwosu	1
+third party agency	ngos	1
+tourist attraction site	ngorongoro wildlife conservation	1
+Bacterial STDs	ngu	1
+commission initiative	nga recommendation	1
+famous pop star	nguyen phi hung	1
+glial cell	ng two  cell 	2
+intermediate organization	ngos	1
+non-profit association	ngo's work for people welfare	1
+relief effort	ngo-sponsored relief effort	1
+star system	ngc  six thousand nine hundred and fourty-six  clump 	1
+tourism stakeholder	ngos	2
+information	nginx log	1
+experienced team	ngee ann	1
+external network	ngo disaster relief forum	2
+great family	ngotak	2
+iconic destination	ngorongoro in the northern parts of the country	1
+key author	ngugi wa thiongo	1
+key target group	ngos	1
+mediating institution	ngos	2
+private sector agency	ngos	1
+pro-israel group	ngo monitor	2
+authorized dealer	ngs	1
+hand drum	ngoma	1
+hot destination	ngorongoro crater in tanzania	1
+national operator	ngos	1
+non-traditional provider	ngos from entering the market resulting in low competitiveness	1
+Pioneering species	ngaio	1
+planetary nebula	ngc  six thousand five hundred and fourty-three 	1
+planetary nebula	ngc  two thousand three hundred and fourty-two  on the left 	1
+polypeptide growth factor	ngf	2
+popular shopping mall	ngee ann city	1
+small restaurant	ng ah sio pork ribs soup eating house	1
+formal financial institution	ngos	1
+high-value service	ngn	1
+local indigenous variety	ngaprum ngakrijou	1
+local indigenous variety	ngakchrou	1
+local indigenous variety	ngakha	1
+local indigenous variety	nganap	1
+local indigenous variety	ngaton	1
+local indigenous variety	ngakra ngasep ngatel	1
+online search tool	nga plant finder	1
+policy statement	ngp	1
+civil group	ngos	2
+cuban artist	ng la banda	1
+first mover	ngmoco	1
+happy object	ngc  four hundred and fifty-seven 	2
+Neurotrophins	ngf	36
+office bearer	ng tong sing	1
+others actor	ngos	1
+pre-event activity	ngunume contest for groups of war canoe houses	1
+traditional fermented food	ngari	1
+well-known personage	nguyen tri phuong	1
+distribution mechanism	ngos	1
+domestic actor	ngos	1
+famous patriot revolutionary	nguyen duy hieu	1
+famous patriot revolutionary	nguyen thanh	1
+glow plug	ngk	1
+guerrilla leader	nguyen giap	1
+HD national channel	ngc	1
+high altitude area	ngorongoro highlands	2
+indirect beneficiary	ngos	1
+local intermediary	ngos	2
+NGO network	ngo federation	1
+NGO network	ngo federation of nepal	1
+non-military organization	ngos	1
+nonquantifiable benefit	ngos	1
+event	nglcc	1
+recruitment firm	ngs recruitment	1
+remote district	ngorogoro district	1
+socializing agent	ngo people involved in school civic education program	1
+spiral galaxy	ngc  four thousand nine hundred and eleven 	1
+spiral galaxy	ngc  three thousand one hundred and sixty-nine 	1
+attractive sight	ngong ping  three hundred and sixty  cable car 	2
+attractive sight	ngong ping  three hundred and sixty 	1
+cast metal	ng cast metal	1
+cross-cultural issue	ngo capacity-building	1
+gray areas	ngo grant	1
+great intellectual	nguyen binh khiem	1
+international grouping	ngos	1
+loan source	ngos	1
+microfinance provider	ngos	2
+non-traditional actor	ngos	4
+pioneering individual	nguyen	1
+space observatory	ngst	1
+state-sponsored program	ngy	2
+STD's	ngu	1
+venture capital investor	ngen venture capital investor	1
+world class writer	ngugi wa thingo	1
+african intellectual	ngugi wa thioug o	1
+civil society entity	ngos	1
+event	ngo forum	1
+event	ngt	1
+hospitality establishment	ngandu lodge	1
+intervention area	ngilima with geographical extension perspective depending on funds availability	1
+local and regional actor	ngos	1
+local partner organization	ngos	1
+non profitable organization	ngos	1
+secondary institution	ngos	1
+security researcher	ngs security	1
+attractive natural place	ngauw waterfall	1
+development agent	ngos	2
+end-to-end solution	ngbss solution	1
+famous radio football commentator	ng fong-wing	1
+formal credit institution	ngos	1
+health service organization	ngos	1
+implementing partner	ngos	1
+irregular galaxy	ngc  six thousand eight hundred and twenty-two 	1
+MCA leader	ng choon kiat	1
+participatory institution	ngos	1
+private-sector institution	ngos	1
+professional acquaintance	ngos	1
+publicly funded agency	ngos	1
+pvos	ngos many traditional pvos	1
+secondary target group	ngos	2
+short duration training course	ngo management	1
+socially complex resource	ngos	2
+southern resource	ngo capacity	1
+third party expert	ngos	4
+transcription factor gene	ngn three 	2
+trusted organization	ngos	1
+Webservers	nginx	2
+african author	ngugi wa thiongo	1
+behavioral tool	ngt	1
+bridging organization	ngos	1
+chieftain	ngah ibrahim	1
+definition term	ngos	1
+eligible applicant	ngos	1
+high-altitude area	ngorongoro highlands	7
+imo player	ngog	1
+natural tourist destination	ngliyep	2
+non-state provider	ngos	2
+program	ngo subsidy framework	1
+program	ngen for the marines	1
+program	nghe temple festival of son trach's ethnic community	1
+polypeptide factor	ngf	1
+regional figure	nguyen van linh in ho chi minh city	1
+reverse proxy	nginx	1
+seminar speaker	ngurah bagus in bali	1
+socio-economic group	ngos	1
+web proxy	nginx	2
+branch culture	ngos	1
+certified or slabbed service	ngc	1
+chondroitin sulfate proteoglycans	ng two 	3
+civil society representative	ngos	3
+collective zakat unit	ngos	1
+conservation body	ngo conservation body	1
+extragalactic object	ngc  five thousand one hundred and twenty-eight 	1
+health related organization	ngos	1
+humanitarian ngos	ngos international humanitarian ngos	1
+informal actor	ngos	1
+institutionalized source	ngos	2
+international participant	ngos	1
+key industry standard	ngoss	2
+large constituency	ngami	1
+literary heavyweight	ngugi wa thiongo	1
+non-statutory organization	ngos	1
+norm entrepreneur	ngos	4
+organic stakeholder	ngos	1
+organized social group	ngos	1
+Pharmacologically active polypeptides	ngr one  antagonist polypeptides 	3
+popular contemporary	ngaio marsh	1
+sector agency	ngos	1
+soft institution	ngos	2
+Southern Africa fat-tailed sheep	nguni	2
+surveyed stakeholder group	ngo's	1
+up-and-coming company	ngmoco	1
+vietnamese singer	ngo thanh van	1
+women's network	ngo working group on women	1
+basic med surg skill	ngt placement	1
+brand driver	ngos	1
+Buddhist patriotic-body-torches	nguyen huong	2
+content rich site	ngo	1
+elliptical galaxy	ngc  one thousand seven hundred 	2
+famous vietnamese artist	nguyen thanh binh	1
+farmnet partner	ngos	1
+first, many weighty social actor	ngos	1
+frame supplier	ngai sing	1
+grass-root organization	ngos	1
+hanoi attraction	ngoc son temple	1
+HTGRs	ngnp	1
+industry framework	ngoss	1
+iwi	ngai tahu	4
+iwi	ngati tama	1
+javanese-style arabic name	ngabdurohman	2
+large foreign corporation	ngk insulators	1
+large outback park	ngarkat conservation park	1
+local civil society group	ngos	1
+low-level tool	ngrep	1
+magi	ngoma	1
+mesic area	ngorongoro crater	1
+money lending institution	ngos	1
+mystery animal	ngoloko	1
+natural gas treatment service	ngl recovery	1
+nongovernmental player	ngos	1
+operational partner	ngos	1
+organized form	ngos	1
+platform key actor	ngos	1
+potential commodity	ngali nuts coconut oil & honey	1
+public or private sector institution	ngos	1
+REDD actor	ngos	1
+community	nghia dan	1
+organization	ngos	97
+organization	ngmn	2
+organization	ngltf	2
+top nollywood actor	ngozi ezeonu	2
+Tough species	ngaio	1
+vested stakeholder	ngos	1
+vibrant youth	ngozi okonjo iweala	1
+vietnamese top model	ngoc quyen	1
+world famous park	ngorongoro crater	1
+aboriginal-specific residential rehabilitation centre	ngaimpe aboriginal corporation	1
+AGN	ngc  one thousand two hundred and seventy-five 	1
+arab christian institution	ngos	1
+asbestos victim group	ngos	1
+authorized vendor	ngef ltd.	1
+class entity	ngos	1
+Diversified CSOs	ngos	1
+dwarf galaxy	ngc  one thousand five hundred and sixty-nine 	1
+endothelial and pericyte marker	ng two 	1
+engagement ofa wide range ofstakeholders	ngos	1
+organization	ngo locks of love in the u.s.	1
+organization	ngorongoro conservation area authority	1
+organization	ngo service organization	1
+organization	nga with information about the benefits of coordination	1
+organization	ngee ann city	1
+established and influential name	nguyen thanh binh	1
+established shopping centre	ngee ann city in terms of size	1
+formal and informal association	ngos	2
+generation IV reactor	ngnp	2
+great african intellectual	ngugi wa thiong'o	1
+GTs	ngt	1
+humanitarian partner	ngos	1
+humanitarian service provider	ngos	1
+informal dispute resolution mechanism	ngo-established committee	1
+informal financial sector	ngos micro-finance institutions	1
+institutional and organizational area	ngos dealing with environmental issue	1
+institutional stakeholder group	ngos	2
+International Grandmasters	nguyen anh dung	1
+International Grandmasters	nguyen van huy	1
+ionotropic receptor	ng two -glia express ionotropic receptor 	1
+ip-based solution	ngn	1
+IWRM-NET website stakeholder	ngos	1
+local and international material	ngo publication	1
+local private antique collector	nguyen van truong	1
+local relevant stakeholder	ngos	1
+maori group	ngai tahu	1
+maori group	nga puhi	1
+metabotrophic factor	ngf	1
+non-community external stakeholder	ngos	1
+nonentity	ngos	1
+non-federal actor	ngos	1
+non-official actor	ngos	1
+non-state player	ngos concerned with human right	1
+non-statutory civil actor	ngos	2
+northern tanzania national park	ngorongoro crater in tanzania	1
+outlying waikato township	ngaruawahia	1
+overarching entity	ngos	1
+organization	ngo for the benefit of refugee	1
+organization	ngo networks for health	1
+organization	ngo forum in gulu	1
+organization	ngo monitor	1
+organization	ngo forum	1
+organization	ngo with support from oxfam	1
+organization	ngo working in central america	1
+organization	ngo s working in the area	1
+organization	ngo founded under the auspices of the freedom support act	1
+organization	ngaanyatjarra pitjantjatjara yankunytjatjara women's council	1
+postoperative procedure	ng tube feeding	1
+profile product	ngps	1
+program's activity	ngo forum	1
+public and private interest group	ngos	1
+REACH stakeholder	ngos	1
+remote constituency	ngami	1
+reportable business segment	ngl extraction	1
+rightwing group	ngo monitor	1
+satellite galaxy	ngc  five thousand one hundred and ninety-five 	1
+Scientific Organisations	ngri	1
+self-help promotion institution	ngos	1
+serial copper application	ngio	1
+Seyferts	ngc  five thousand one hundred and ninety-four 	1
+Seyferts	ngc  one thousand and sixty-eight 	1
+Seyferts	ngc  one thousand and ninety-seven 	1
+Seyferts	ngc  five thousand and thirty-three 	1
+tangential stakeholder	ngos	1
+theirhapu	ngati kahurere	1
+theirhapu	ngati kuku	1
+theirhapu	ngai tuwhiwhia	1
+third party brand name	ngk	1
+Third party intervention	ngo programs in the village	1
+today many organization	ngos	1
+touse more feature	ngramfeaturesin the lyrical domain	1
+umbrella NGOs	ngo forum in bangladesh	1
+unregulated institution	ngos	1
+vietnamese newspaper	nguoi viet	1
+vietnamese scholar	nguyen thong	1
+vintage mystery writer	ngaio marsh	1
+worldfamous attraction	ngorongoro crater	1
+young cluster	ngc two thousand three hundred and sixty-two 	2
+african fascist	nguema's equatorial guinea	1
+Australia's biggest and best cliental	ngv	1
+beautiful coastal road	nguyen tat thanh	1
+biometric person-identicat ion method	ngerprint analysis	1
+community actor	ngos	2
+community-level organization	ngos	1
+congolese dialect	ngala	1
+constituency organization	nga center	1
+cuban popular group	ng la banda	1
+currently many actor	ngos	1
+diffuse interest	ngos in the field of development	1
+expensive hardware device	ngerprint scanner	1
+fluent speaker	ngela ferreira	1
+formal opposition group	ngos	1
+Gaseous feedstocks	ngl	1
+generation concept	ngoss	1
+geodetic service	ngs in the united states	1
+georgian stakeholder	ngos	1
+globin protein	ngb	1
+green building network	ngo briefings	1
+hanoi street	nguyen chi thanh	1
+hit video song	nguoi tinh mua dong	1
+hsbc's stakeholder	ngos	2
+huge caldera	ngorngoro crater	1
+indirect actor	ngos	2
+infrared mission	ngst	1
+international coffee company	ngo partner	1
+international humanitarian ngos	ngos international humanitarian ngos	1
+intervention agency	ngos	1
+italian cooperation partner	ngos	1
+juridical and legal mechanism	ngo legal aid service	1
+knowledgeable partner	ngos	1
+labor training service provider	ngos	1
+large open cluster	ngc  three thousand five hundred and thirty-two 	1
+lightweight server	nginx	1
+local level actor	ngos	1
+located opposite popular shopping mall	ngee ann city	1
+maasai region	ngorongoro	1
+mag's	ng explorer	1
+malay noble	ngah ibrahim	1
+mini-tours	nga hooters tour	1
+monastic institution	ngagyur ningma monastic university in south india	1
+national and multilateral institution	ngos	1
+national datum center	ngdc	1
+national level networking organization	ngo forum	1
+nation-specific actor	ngos	1
+natural world heritage site	ngorongoro conservation area	1
+neurotrophic protein	ngf	1
+neurotrophin	ngf	2
+neu-rotrophinsand matrix molecule	ngf	1
+neutral agency	ngos	1
+neutrophic factor	ngf	2
+Newtonian reflector	ngt	1
+NGO umbrella group	ngo forum	1
+nguni group	ngoni	1
+non-bank and non-financial institution	ngos	1
+non-corporate actor	ngos	1
+non-government extension functionary	ngos	3
+noteworthy school	ngee ann polytechnic	1
+outotec stakeholder	ngos	2
+plug brand	ngk	1
+popular scriptwriter	nguyen quang lap	1
+popular scriptwriter	nguyen manh tuan	1
+powerful hardware	ngp	1
+practitioner organization	ngos	1
+praise name	ngoato	1
+private and joint stock enterprise	ngoc canh company ltd	1
+progeny	ng che	1
+quality part supplier	ngk	1
+referencing source	ngos like human rights watch	1
+required server	nginx	1
+reverse proxy server	nginx	1
+risk management policy	ngos	1
+roadside market	ngundu along the harare-beitbridge road	1
+sb galaxy	ngc  five thousand two hundred and fifty-three 	1
+sb galaxy	ngc  four thousand five hundred and seventy-nine 	1
+second additional factor	ngo size	1
+selective neurotrophic factor	ngf	1
+senior politburo member	nguyen tan dung	1
+senior politburo member	nguyen phu trong	1
+senior politburo member	nguyyen minh triet	1
+skills-based topic	ngo management	1
+slabbed coin	ngc	1
+small deluxe establishment	ngala lodge	1
+social mobile game platform	ngmoco	2
+soundtrack song	ngiti by ronnie liang	1
+space-based infrared telescope	ngst	1
+spectacular and unique attraction	ngorongoro crater	1
+strong civil society institution	ngos	1
+supportive course	ngo management	1
+syrian non-governmental partner	ngos	2
+application	nginx	1
+application	ngerprint authentication using cameras in cell phone	1
+TIGER MISSION institution	ngos	1
+TOI supplement	ngage	1
+traditional combustion technology	ngcc	1
+tripeptides	ngr	1
+trophic and growth factor	ngf	1
+advanced reactor design	ngnp	1
+agricultural information provider	ngos	1
+anti war agency	ngos	1
+basic organization	ngos	1
+best US player	ngwenya	1
+better-known sector	ngos	1
+bioprospecting partner	ngos	1
+brazilian operator	ngmn tva brazil	1
+bright planetary nebula	ngc  one thousand five hundred and thirty-five 	1
+buddhist layman	nguyen nang quoc	1
+busy branch	ngarenaro	1
+busy provider facility	ngo facility	1
+name	ngk	3
+name	nguyen	2
+name	nguyen thanh hoa	1
+name	nguyen kim	1
+cast turbine part	ngv	1
+CDM stakeholder	ngos	1
+cellular growth factor	ngf	1
+child right advocacy group	ngo group for the convention on the rights of the child	2
+city abattoir	ngoc hoi	1
+classic british mystery writer	ngaio march	1
+coastal EZs	nghi son in thanh hoa	1
+complementary, technology	ngs	1
+conservative pressure group	ngo-watch in washington dc	1
+construct natural gas processing plant	ngl	1
+countryside worker	ngo staff	1
+credit delivery innovation	ngo networking	1
+critical non-state actor	ngos	1
+cuban band	ng la banda	1
+dangerous zone	ngru air space	1
+decentralization advocate	ngos	1
+decision making stakeholder	ngos	1
+dedicated hardware option	ngenius probe	1
+document preparers	nguyen	1
+dugout port	ngqura	2
+ECCE service provider	ngos	1
+economic and social actor	ngos	1
+environemental datum center	ngdc	2
+eventual program beneficiary	ngos	1
+excellent flight characteristic	ng feature excellent flight characteristic	1
+extremely young cluster	ngc  two thousand two hundred and sixty-four 	1
+extremely young cluster	ngc  six thousand five hundred and thirty 	1
+famous vietnamese writer	nguyen cong hoan	1
+name	ngog	1
+name	ng yen yen	1
+name	nguyen thanh binh	1
+fixed reference	ngvd of  one thousand nine hundred and twenty-nine 	1
+fourth, many nonstate actor	ngos	1
+free tibet organization	ngos	1
+good quality plug	ngk bp six es 	6
+good quality plug	ngk br nine es 	1
+great traditional maori area	nga hau e wha marae	1
+high-vapour pressure liquid	ngl	1
+igbo group	ngwa	1
+ignition upgrade	ngk plug	1
+Ina Newtonian reflector	ngt	1
+increased brn-3bexpressionvia growth factor	ngf	1
+Independent CSOs	ngos	1
+indigenous southern african sanga breed	nguni	1
+indonesian traditional dance	ngarojeng dance from betawi	1
+inexpensive two-electrode style plug	ngk bkr six ek 	1
+intermediary entity	ngos	1
+introductory teaching	ngondro	1
+invasive tube	ng tube	1
+japanese plug	ngk	1
+key highway	ngong	1
+knowledgeable key informant	ngo worker	1
+large iwi-based claim	ngai tahu	1
+large scale telescope program	ngst	1
+large, formal partnership	ngi	1
+licensed and approved project	nghi son	1
+factor	ngo support for municipal government	1
+name	nguyen quan	1
+LMC house object	ngc two thousand and seventy 	1
+local ad international school	ngee ann polytechnic	1
+local and sub-local element	ngos	1
+locally-active organization	ngos	1
+MDT service	ngos project	1
+mediating stakeholder	ngos	1
+megamasers	ngc  two hundred and fifty-three 	1
+mission-oriented organization	ngos	1
+modern experimental tool	ng technique	1
+MSE support institution	ngos	1
+multi-function system	ngwan edge	1
+nascent civil society element	ngos	1
+national GLBT organization	ngltf	1
+NCJ stakeholder	ngo employee	1
+nearest system	ngc  six thousand three hundred and ninety-seven 	1
+neurotrophic and neuroendocrine factor	ngf	1
+neurotropic factor	ngf	1
+non indigenous actor	ngos	1
+non-agricultural wage work	ngo staff	1
+non-facility based private sector actor	ngos	1
+nongovernment actor	ngos	1
+non-market actor	ngos	1
+non-military actor	ngos	1
+non-state stakeholder	ngos	1
+north vietnamese military leader	nguyen chi thanh	1
+northern game park	ngorongoro	1
+num-berofthird party intervention	ngo programs in the village	1
+OEM type plug	ngk	1
+official third-party standard	ngo-led process	1
+organised stakeholder	ngos	1
+pariah dog	ngsd	1
+partnership external party	ngos	1
+pioneering plant species	ngaio	1
+case	ngbaka one	1
+case	ngc  four thousand seven hundred and twenty-five 	1
+case	nguyen race	1
+case	ngos	1
+PPNe	ngc  two thousand three hundred and fourty-six 	1
+premenopause symptom	ngiht sweat	1
+profit making organization	ngos	1
+prominent organizer	nguyen khac toan	1
+prominent world writhers	ngugi wa thiong'o	1
+promising study	ngf treatment of peripheral neuropathies	1
+protein-based neuronal growth factor	ngf	1
+quality song	ngoni diggi	1
+regional champion	nga uri o te whanoa	1
+regional maori organization	nga whenua rahui	1
+Remote LGAs	ngaanyatjarraku	1
+second, broad category	ngos	1
+second, various stakeholder	ngos	1
+serious threat beach	ngo chien district's beach	2
+small and diverse agricultural activity	nguni cattle	1
+social environmental and economic responsibility	ngos	1
+social marketing organization	ngo population services international	2
+socio-economic actor	ngos	1
+sony mobile gaming product	ngp	1
+sounded-out interested stakeholder group	ngos	1
+south chinese style	ngo cho kun	1
+specialised intermediary institution	ngos	1
+successful experimental therapeutic approach	ngf sequestering protein	1
+case	ngati apa	1
+case	ngc  three thousand six hundred and twenty-eight 	1
+case	ngc  five thousand one hundred and one 	1
+third sector provider	nga hau	1
+time warlike tribe	ngoni from the south	2
+TNFRs	ngfr	2
+Top hip-hoppers	nguyen chinh dung	1
+traditional multiplier	ngos	1
+tribal development institution	ngolo cultural development association	1
+unhcr's partner	ngos	1
+unofficial datum source	ngo report	1
+un-spoilt beach	ngwe saung	1
+un-spoilt beach	ngapali	1
+vector representation	ngram	1
+venture-funded company	ngmoco	2
+vietnamese great writer	nguyen trai	1
+vietnamese great writer	nguyen du	1
+world renown game park	ngorongoro crater	1
+young blue-giant open cluster	ngc  three hundred and thirty 	1
+young blue-giant open cluster	ngc  one thousand eight hundred and sixty-six 	1
+young open cluster	ngc  two thousand two hundred and sixty-four 	1
+aboriginal women's group	ngunga women in derby	1
+agricultural extension service provider	ngos	1
+AIPCA member	ngari waweru	1
+attractive extracellular molecule	ngf	1
+option	ng unit	1
+biotechnology aspect more stakeholder	ngos	1
+bird ground	ngoc hien	1
+bright knotty emission nebula	ngc  six hundred and four 	1
+broadband concept car	ng connect toyota prius	1
+charge project partner	ngos	2
+chimpanzee experience	ngamba island	1
+city's private sector partner	ngos	1
+civil society intermediary	ngos	3
+civilian partner	ngos	1
+cluster brain	ngc  six thousand seven hundred and fifty-five 	1
+community specific and non-politicized group	ngos working in the area of gender	2
+compact radio galaxy	ngc  one thousand two hundred and seventy-five 	1
+contemporary salsa band	ng la banda	1
+contrary, civil society	ngos	1
+cool-ish running plug	ngk b seven  se 	2
+curvilinear, dead worm type suburb	ngunnawal	1
+custom glass fabricator	ngi designer glass	1
+demining practitioner	ngos	1
+dense cluster	ngc  one hundred and eighty-eight  in cepheus 	1
+development service provider	ngos	1
+difficulty unarmed EU civilian operator	ngos	1
+diffraction-limited 8m class telescope	ngst	1
+dwarf elliptical galaxy	ngc  one hundred and eighty-five 	2
+group	ngos	39
+group	ngo center for research	2
+group	ngal tahu maori trust board	1
+group	nga ta matoademandinga better deal for maori	1
+group	ng la banda	1
+group	nguru integrated farmers association	1
+group	ngo martin luther king memorial centre	1
+edge-on system	ngc  eight hundred and ninety-one 	1
+encouraging intermediary	ngos	1
+exogenous survival factor	ngf	1
+explicitly pro-immigrant civil society actor	ngos	1
+ex-surgeons	ng eng hen	1
+EXTERNAL AUDITING applicant organization	ngos	1
+F6RTCsparkplug	ngk bpr six es 	1
+flux many young artist	ng po wan	1
+forest block	nguru south	1
+formal civil society organization	ngos	1
+fundamental nghts	nght to life	1
+GANGULA ET AL. system	ngf system	1
+hapu	ngati hinepare	1
+harsh prison sentence	nguyen khac toan	1
+hindu religious ritual	ngaben	2
+historic challenge	ngonyama trust land	1
+indigenous, domesticated farm animal	nguni cattle	1
+indi-organizations	ngos	1
+indonesian civil society group	ngos	1
+group	ngoni	1
+group	ngs	1
+group	ngo umbrella group	1
+group	ngati poneke in wellington	1
+group	ngati tuwharetoa	1
+info source	ngos	1
+iphone developer	ngmoco	1
+key community forestry player	ngos	1
+key domestic project	nghi son oil refinery	2
+kimbundu language	ngola	1
+land-buying company	ngwataniro mutukanio company	2
+large and powerful iwi	ngai tahu	1
+large nebula	ngc seven thousand   the north american nebula 	1
+late-type galaxy	ngc  four thousand three hundred and ninety-five 	1
+leading colonial nationalist	nguyen van vinh	2
+lenticular galaxy	ngc  one thousand two hundred and one 	1
+lightweight, low-density payload	ngst	1
+linguistic cluster	nguni	1
+local cattle breed	nguni cattle	1
+low-carbon mid-merit generation resource	ng with ccs	1
+M&E company	ng bailey	1
+maori political group	nga tamatoa	1
+melanoma oncogenic growth factor	ngf	1
+merging galaxy	ngc  seven thousand two hundred and fifty-two 	1
+meso-level organization	ngos	2
+mid-eighties adept	nguyen chanh giao	1
+miocene, synrift sedimentary deposit	ngorora formation	1
+modern IP communication service architecture	ngn	1
+multi-industry consortium	ng connect program founded by alcatel-lucent	1
+multi-year client engagement	ngp	1
+national geodetic organization	ngs	1
+national level network	ngo forum	1
+national survey organization	ngs	1
+native neurotrophins	ngf	3
+neurotrophicfactors	ngf	1
+neutral density color filter glass	ng types made by schott	1
+Ngati Kahungunu-ki-Heretaunga hapu	ngati hori	1
+nguni fugitive	ngwane	1
+nonbarred ringed galaxy	ngc  four thousand seven hundred and thirty-six 	1
+non-evolving system	ngc  two hundred and fifty-three 	1
+non-local government actor	ngos	1
+non-messier galaxy	ngc  one hundred and fifty-seven 	1
+nonmilitary player	ngos	1
+non-official participant	ngos	1
+non-pharmacologic treatment option	ng tube	1
+non-platinum plug	ngk	1
+non-regulated institution	ngos	1
+non-state donor	ngos	1
+group	ngo based in kabul with an office in the u.s.	1
+group	ngo working group	1
+Notable Africans	ngugi wa thiong'o	1
+notable potential nominee	ngozi okonjo-iweala	1
+organized civil society	ngos	1
+organized major group	ngos	1
+outside local government intermediary	ngos	1
+overarching audience	ngos	1
+pericyte marker	ng two  proteoglycan 	1
+polar ring galaxy	ngc  four thousand six hundred and fifty a 	1
+political and civil organization	ngos	2
+positive actors	ngos	1
+prestigious japanese company	ngk spark plug corporation	1
+prominent and prolific writer	ngugi wa thiong'o	1
+public-service organization	ngos	1
+push channel	ngos	1
+quantifiable too l	ng process	1
+radical post-colonial writer	ngugi wa thiong'o	1
+rearing indigenous beef cattle breed	nguni	1
+reflection nebula	ngc two thousand and twenty-three 	1
+regionalorganisations	ngos	1
+Relevant stakeholders	ngos	1
+reputable case	ngp	1
+rich Galactic field	ngc  six thousand six hundred and thirty-three 	1
+Riverine peoples	ngbaka	1
+scalable server	nginx	1
+scale practitioner	ngos	1
+sched-carriers	ngo sy hiep	1
+second generation code	ngs package omni	1
+Second, neurotrophins	ngf	1
+seemingly benign entity	ngos	1
+self-regulatory tool	ngo codes of ethics	2
+shona cultural concept	ngozi	1
+singapore's hawker vendor	ng ah sio bak kut teh	1
+small applicant	ngos	1
+small sub-regions	ngari district	1
+smaller-scale practitioner	ngos	1
+so-cietal stakeholder	ngos	1
+soluble trophic factor	ngf	1
+source various brand	ngi	1
+southern Bantu	nguni	1
+southern Maori	ngati mamoe	1
+space born telescope	ngst	1
+spiral galaxy edge	ngc  four thousand five hundred and sixty-five 	1
+standard copper plug	ngk bkr six e 	1
+standard palaeoclimatic record	ngrip d eighteen o 	1
+sumatran dance	ngelajau dance performed by the lampung person	1
+talented oversea vietnamese composer	nguyen thien dao	1
+tanzanian park	ngorongoro crater in the north	1
+target-derived trophic factor	ngf	2
+tatutory organization	ngos	1
+thatneurotrophins	ngf	1
+third, non-state actor	ngos	1
+trade participant	ngos	1
+traditional civil society group	ngos network	1
+traditional grazing land	ngorongoro crater in tanzania	1
+transnational advocacy group	ngos	1
+tribal affiliation	nguni	1
+trusted community organization	ngos	1
+usinga F6RTCsparkplug	ngk bpr five es 	1
+values-based civil-society organization	ngos	1
+vasoactive and inflammatory molecule	ngf	1
+verbal difference	ngoli	1
+tool	ngrep	3
+tool	ngo scorecard	3
+tool	nginx	1
+videogame-content based website	ngi	1
+week core area	ngorongoro crater	1
+well-designed impactor	ngi	1
+winter season beach	ngwe saung	1
+yaka group	ngombe	1
+yellowbook.com placement item	ngps	1
+young artisan	nguyen long buu	1
+project	ngos	2
+factor	ngos name	1
+project	nghi son	2
+project	ngunyumu water project	1
+project	ngome tea farms	1
+project	ngo developes project	1
+project	ngo forum component sponsored by danida	1
+project	ngcc's personality development project	1
+artist	nguyen hung cuong	1
+artist	ngu music group in germany	1
+material	ng chain	3
+material	ngo registration paper	2
+place	ngorongoro crater	2
+place	ngorongoro conservation area	1
+place	nga	1
+place	ngee ann city	1
+place	ngaruawahia for the time being	1
+player	ngos	12
+player	ng tyrone melton	1
+player	ngpay	1
+player	nguyen thi hoai thu	1
+player	ngata	1
+player	nguyen thi le thu	1
+player	nguyen thi thuy chung	1
+player	ngwenya	1
+technology	ngn	6
+technology	ngs	1
+technology	ng fuel cell	1
+technology	ngcc with ccs	1
+technology	ngv	1
+term	nganga	1
+system	ngscb	1
+species	ngawa	1
+species	ngara	1
+species	ngaio	1
+species	ngaroi	1
+species	ngatin	1
+element	ngos	2
+variable	ngn self concept	2
+variable	ng tube day	1
+device	ngage qd	1
+device	ngp	1
+brand	ngk	5
+brand	ngc hd	3
+brand	ng music	3
+brand	ng wild	3
+brand	ng adventure	3
+concept	ngn-web convergence	1
+aspect	ngos codes of conducts transparency	1
+site	ngos media outlet	1
+site	nguom nagao	1
+site	ngph site at the causeway	1

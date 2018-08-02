@@ -1,0 +1,4320 @@
+factor	dna repair	10
+factor	dna methylation	7
+factor	dna	6
+factor	dna damage	5
+factor	dna topology	3
+factor	dna content	3
+factor	dna sequence surrounding the lesion	2
+factor	dna concentration	2
+factor	dna cross-hybridization	2
+initiative	dnapl removal from low permeables	1
+initiative	dnr's own reorganized structure based on geographic management units	1
+datum	dna sequence	2
+datum	dnis	1
+datum	dna content	1
+datum	dns server	1
+datum	dna analysis	1
+resource	dnr	2
+resource	dna protein sequence	1
+resource	dna organization	1
+facility	dna sequencing laboratory	2
+facility	dna synthesizer	2
+facility	dnp report facility	1
+facility	dna sequencing	1
+process	dna replication	14
+process	dna methylation	9
+process	dna repair	6
+process	dna recombination	3
+process	dna activity	2
+process	dna sequencing	2
+process	dna synthesis	2
+process	dna damage repair	2
+process	dna damage response	1
+process	dna amplification	1
+process	dna transcription	1
+process	dna spotting from spreading	1
+process	dna repair mechanism	1
+process	dna dependent process	1
+process	dna editing	1
+process	dna hybridization	1
+property	dna length	1
+game	dnd	4
+game	dnf	1
+game	dnd's eberron	1
+subject	dna	4
+subject	dna finger printing	1
+subject	dna sampling	1
+subject	dna technology	1
+subject	dna sequencing	1
+exception	dna sequence	2
+exception	dna helix	1
+reason	dns nameservers	1
+reason	dna source	1
+reason	dna denaturation	1
+reason	dna accessibility	1
+character	dna base ratio	2
+model	dna distortion	2
+model	dna model	2
+model	dna base assembly	1
+characteristic	dna profile	1
+characteristic	dna mapping	1
+word	dna	4
+situation	dna damage	1
+situation	dna damage response	1
+category	dna replication	1
+change	dna marker technology	1
+change	dna fragmentation	1
+change	dna adduct formation	1
+change	dna methylation	1
+document	dnr order	2
+document	dna sequence	1
+document	dnr's	1
+product	dns load balancer	1
+product	dna.ancestry.com	1
+feature	dns	3
+strategy	dna-based screening	1
+strategy	dna microinjection of mouse embryo	1
+strategy	dna pooling in snp typing	1
+strategy	dna microarrays	1
+form	dna sample	1
+person	dnc chairman howard dean	1
+approach	dna peptide	2
+approach	dna microarrays	2
+approach	dna array	2
+approach	dna-based vaccine	2
+approach	dna sequencing	2
+approach	dna microarray combined with molecular bar code	1
+approach	dna tag	1
+approach	dna testing for human papilloma virus	1
+approach	dns	1
+approach	dna-based alternative approach	1
+approach	dna injection	1
+approach	dna shuffling	1
+approach	dna resequencing array	1
+approach	dna chip technology	1
+approach	dna microarray analysis	1
+approach	dna vaccine	1
+approach	dna mutation detection microarrays	1
+approach	dna microarray method	1
+approach	dna sequence-based approach	1
+approach	dna sequence analysis	1
+idea	dna labeling	1
+idea	dna library	1
+matter	dna sampling	1
+alternative	dna vaccine	1
+effect	dna sequence dependence	1
+effect	dna synthesis	1
+effect	dna bending	1
+effect	dna adduct formation	1
+effect	dna damage	1
+agency	dnr	14
+agency	dnh	1
+agency	dner	1
+agency	dnrc	1
+agency	dnrc conservation districts bureau	1
+object	dns zone	3
+object	dns server	3
+object	dna molecule	2
+course	dnth six hundred and fourteen  externship 	1
+course	dnp seminar course	1
+course	dnth six hundred and sixty-eight  practicum 	1
+course	dnth six hundred and ninety-nine  thesis 	1
+course	dnth six hundred and ninety-eight  research 	1
+action	dna synthesis	2
+mechanism	dna methylation	9
+mechanism	dna hypomethylation	3
+mechanism	dna	2
+mechanism	dna repair	2
+mechanism	dns security mechanism	1
+mechanism	dna-damage response	1
+mechanism	dna methylation three 	1
+mechanism	dna sequence mutation	1
+mechanism	dna cleavage	1
+mechanism	dns	1
+mechanism	dna binding	1
+mechanism	dna mismatch repair	1
+mechanism	dna amplification mechanism	1
+mechanism	dna damage	1
+mechanism	dna fragmentation other apoptotic mechanism	1
+mechanism	dna repair inhibition	1
+mechanism	dns srv	1
+mechanism	dna vaccine	1
+solution	dns proxy	2
+solution	dna	2
+solution	dns round robin	1
+feature	dns change notification	2
+feature	dnis	2
+feature	dnr technology resulting in a clear & sharp image	2
+feature	dna methylations	2
+book	dnr publication	1
+structure	dna	2
+structure	dna replication machinery	1
+structure	dna helix	1
+field	dna sequence	4
+field	dna fingerprinting	3
+field	dna testing	2
+field	dna chips for diagnosing gene	1
+field	dna biology	1
+field	dna analysis	1
+field	dns servers on the networking screen	1
+field	dna profiling	1
+procedure	dna analysis	1
+procedure	dna identification	1
+procedure	dna amplification	1
+procedure	dna-based diagnostic procedure	1
+procedure	dna amplification procedure	1
+band	dna strings	1
+title	dnf	2
+title	dna chromosome wrapping	1
+ingredient	dnc	1
+ingredient	dns rebinding	1
+operation	dna purification	1
+agent	dna	4
+agent	dna repair enzyme	2
+agent	dna complexing agent	1
+agent	dna cross-linker agent	1
+agent	dna icl agent	1
+agent	dna vaccine	1
+agent	dna cross-linking reagent	1
+agent	dna-containing tumor virus	1
+agent	dna binding agent	1
+agent	dna interstrand cross-linking agent	1
+agent	dna minor groove binding agent	1
+agent	dna-protein complex	1
+feature	dnr	1
+feature	dnla compatibility	1
+feature	dns configuration	1
+feature	dna center	1
+development	dna vaccine	2
+development	dna chip-based technology	1
+development	dna microarrays	1
+development	dna testing for genetic disease	1
+development	dna vaccination	1
+development	dna chip technology	1
+type	dns	2
+type	dn angel	1
+city	dnepropetrovsk	2
+venue	dna lounge	1
+criterion	dna fragmentation	1
+criterion	dna sequence	1
+firm	dnv	1
+challenge	dna identification of skeletal remains from the world war ii mass grave	2
+requirement	dns assignment	1
+job	dna specialist	1
+drug	dna crosslinking drug	1
+drug	dna methylation inhibitor  five -aza- two -deoxycytidine 	1
+drug	dna methyltransferase inhibitor	1
+drug	dna binding drug	1
+drug	dnmt	1
+test	dna	8
+test	dna fingerprinting	4
+test	dna test	3
+test	dna analyses in genetic disorder	2
+test	dna adduct formation	2
+test	dna analyses by immuno-capture	2
+test	dnaase	2
+test	dna probe	1
+test	dna test called hla-h	1
+test	dna sequencing	1
+test	dna pcr test	1
+test	dna profiling	1
+test	dna analyses on the remains	1
+test	dna test called polymerase chain reaction	1
+test	dna sequence analysis	1
+test	dna identity test	1
+test	dna finger printing	1
+indicator	dna mutation	1
+treatment	dnase i enzyme treatment	1
+treatment	dna-damaging agent treatment	1
+treatment	dnase  seven 	1
+instrument	dna cyclers	1
+act	dna identification act	1
+feature	dnla	1
+feature	dna content	1
+attribute	dns servers address	1
+setting	dns	6
+setting	dns server	5
+setting	dnr	2
+setting	dns entry	2
+setting	dna samples obtained from a small group of individuals at risk for a specific disorder	1
+setting	dns suffix search order	1
+setting	dns server setting	1
+compound	dna	6
+compound	dna deoxyribonucleic acid	1
+compound	dna methyltransferase inhibitor  five -azacytidine 	1
+compound	dnp	1
+class	dna technology	1
+study	dna microarray analysis	2
+study	dna analysis	1
+study	dna histogram	1
+study	dna cytochrome sequencing checking	1
+study	dnt study	1
+study	dna-binding analysis	1
+website	dna hack.com	1
+website	dns stuff.com	1
+equipment	dna experiment facility	1
+equipment	dna testing hardware	1
+equipment	dna analyzer	1
+equipment	dna sequencers	1
+unit	dna analysis	1
+unit	dna fingerprinting	1
+innovation	dna mapping	1
+innovation	dna sequencing	1
+cause	dns name resolution	1
+cause	dna methylation	1
+mean	dna s	1
+instance	dna replication	1
+instance	dna sequence	1
+policy	dnd policy	1
+substance	dna	14
+entity	dns server	1
+entity	dnas	1
+expert	dna scientist	1
+expert	dna expert	1
+feature	dnla technology	1
+feature	dnd	1
+feature	dnie feature	1
+feature	dng conversion	1
+feature	dna tattoo	1
+feature	dna mode	1
+feature	dns blacklist check	1
+phenomenon	dna methylation	3
+phenomenon	dna condensation	1
+improvement	dns collector	1
+region	dnipropetrovsq~ oblasts	1
+purpose	dns setting	1
+medication	dna analog medication	1
+format	dng	2
+partner	dnr	2
+partner	dnrec	1
+standard	dnv	1
+classic	dn three d 	1
+advanced feature	dns application firewall	1
+advanced feature	dns app lication firewall	1
+role	dns	6
+role	dns server	4
+role	dna repair	1
+club	dnipro	2
+club	dnipro dnipropetrovsk	1
+customer	dnb nor	1
+effort	dna barcoding of population	1
+effort	dnr's outreach effort	1
+label	dna probe	1
+label	dng	1
+department	dnr	1
+value	dns resolver performance	1
+value	dns	1
+issue	dna testing	5
+issue	dna database	3
+issue	dna	2
+scheme	dns round robin	1
+scheme	dns security	1
+external factor	dna damage	1
+external factor	dns changes with isps	1
+step	dna extraction	8
+step	dna sequencing	2
+step	dna fragmentation	1
+step	dns forwarding	1
+step	dna staining	1
+step	dna translocation across the peptidoglycan layer	1
+supply	dna	2
+designer	dnky	1
+need	dns access	1
+chemical	dnt	2
+chemical	dna-damaging agent	1
+chemical	dnp	1
+chemical	dna reactive, genotoxic chemical	1
+chemical	dncb	1
+chemical	dna reactive carcinogen	1
+obstacle	dna damage	2
+software	dna analysis software	1
+capability	dns forwarding	1
+capability	dns	1
+module	dns blacklist	1
+module	dna-based event recognition	1
+provider	dnv	2
+destination	dnd	1
+speaker	dnc chairman howard dean	1
+protein	dna topoisomerases	3
+protein	dnase i	3
+protein	dna-binding protein	2
+protein	dna polymerase	2
+protein	dna regulatory protein	1
+protein	dna repair enzyme	1
+protein	dna-damage repair protein	1
+protein	dna methyltransferase-associated protein	1
+protein	dna polymerase iii	1
+protein	dna ligase i	1
+protein	dna gyrase	1
+protein	dna-repair enzyme	1
+protein	dna architectural protein	1
+protein	dna helicase gp four  of bacteriophage t seven 	1
+protein	dna replication protein	1
+protein	dna se-quencesofsome  ancient protein	1
+guest	dnr official	1
+trend	dna computing	1
+constraint	dna accessibility in the cell	2
+issue	dns redirects	1
+issue	dnr status	1
+issue	dna technology	1
+issue	dna manipulation	1
+discipline	dna study	1
+corporation	dnp electronics america	1
+record	dns pointer	1
+record	dns database record	1
+record	dns configuration record	1
+record	dns public key	1
+package	dnastar software suite available for mac os	1
+package	dnn	1
+package	dns server	1
+channel	dns	1
+functionality	dns querying	1
+functionality	dnaarray spotting	1
+functionality	dns cache	1
+surface	dna thatisheldona flat surface	1
+algorithm	dna alignment algorithm	1
+algorithm	dnjd	1
+algorithm	dna computer algorithm	1
+algorithm	dna parsimony	1
+rule	dnv's hslc	1
+suggestion	dnr link	1
+limitation	dnr order	1
+university	dnipropetrovsk state university	1
+file	dng	1
+sport	dnhl hockey league	1
+charge	dns fee	1
+issue	dna coupling	1
+issue	dna databasing	1
+issue	dna exoneration	1
+issue	dna fingerprinting	1
+offering	dna science	1
+offering	dnc press	1
+offering	dna preservation	1
+theory	dna repair	1
+everything	dns configuration	1
+fee	dna identification fee	1
+protocol	dns	22
+protocol	dnp three 	6
+protocol	dnp	2
+protocol	dns use udp for a two-way exchange	1
+protocol	dnp- three 	1
+protocol	dna sequencing	1
+protocol	dna extraction from an onion	1
+protocol	dns proxy	1
+protocol	dna uptake transformation protocol	1
+protocol	dna hybridization detection protocol	1
+error	dns error	1
+error	dna analysis showing a false positive	1
+error	dna error	1
+bank	dnb	3
+bank	dnb nor	3
+bank	dnb nor asa	2
+key issue	dna database	1
+card	dna surgery	2
+card	dna transplant	1
+provision	dna testing	1
+provision	dnr order	1
+modification	dna methylation	1
+modification	dna damage-induced post-translational modification	1
+molecule	dna	80
+molecule	dna polymerase	1
+molecule	dna-pkcs	1
+molecule	dna molecule	1
+molecule	dna plasmids	1
+defect	dna replication defect	1
+operator	dns root-server operator	1
+result	dnf	2
+result	dna fragmentation	1
+sensor	dna damage sensor	1
+apps	dnla service	1
+authority	dnv	1
+context	dna extraction	1
+stock	dnn	2
+tactic	dna taggants	1
+sponsor	dng designs	1
+factor	dna ploidy	2
+factor	dna target concentration	2
+factor	dna sequence	1
+factor	dna repair capability	1
+factor	dna repair mechanism	1
+factor	dna aneuploid	1
+factor	dna binding factor	1
+factor	dna damage response factor	1
+factor	dna hypomethylation	1
+factor	dna methyl tranferases	1
+factor	dna verification	1
+factor	dna-repair rate	1
+factor	dnmt one 	1
+factor	dnr objective	1
+factor	dns entry	1
+factor	dns ttl	1
+target	dna hybridization	1
+modalities	dna-based stool test	1
+fact	dna mutation	1
+database	dna databases embl	1
+forum	dnf of the day	1
+forum	dn forum for recommendation	1
+signal	dna damage induced by cr	1
+signal	dna-denaturation energy	1
+government agency	dnr	2
+government agency	dnd	1
+notion	dna engineering	1
+gene	dna repair gene	5
+gene	dna repair gene mgmt	1
+gene	dna damage response gene	1
+gene	dnak	1
+gene	dna replication gene	1
+evidence	dna	20
+evidence	dna testing	3
+evidence	dna sample	2
+evidence	dna test of a single hair found at the crime scene	2
+evidence	dna evidence	1
+evidence	dna analysis	1
+evidence	dna sampling	1
+evidence	dna trace	1
+evidence	dna samples from dead al-qaida fighter	1
+evidence	dna datum	1
+dimension	dn  two hundred and fifty 	1
+carrier	dna-mediated transfer	1
+segment	dna amplification	1
+genre	dnb	3
+traditional method	dna staining	1
+traditional method	dna-dna hybridization	1
+outlet	dnevni avaz	1
+substrate	dna	2
+river	dniepr	2
+river	dnieper	2
+river	dniester	1
+river	dniestr	1
+river	dnieper near lugansk	1
+river	dnjepr	1
+contaminant	dna	4
+contaminant	dna-ase	1
+spot	dnc event spot	1
+marker	dna fragmentation	2
+marker	dna ploidy	2
+marker	dna-level genetic marker	1
+marker	dna methylation marker	1
+marker	dna amplification fingerprinting	1
+marker	dna damage	1
+marker	dna ladder	1
+marker	dna content	1
+marker	dna polymorphism	1
+marker	dna methylation alteration	1
+detailed information	dns server	1
+local business	dn twenty-two  gardening from north leverton 	1
+methodology	dna analysis	1
+methodology	dna chip microarray	1
+methodology	dna profiling	1
+methodology	dna sequencing	1
+third party	dnv	1
+issue	dna comparison	1
+issue	dna banking	1
+issue	dna marker	1
+issue	dna extraction efficiency	1
+issue	dns problem	1
+issue	dna code ownership	1
+issue	dna screening	1
+issue	dnc registry	1
+issue	dna privacy right	1
+issue	dns error	1
+issue	dnr	1
+giant	dnh	1
+reaction	dna-protein binding	1
+abnormality	dna fragmentation	1
+candidate	dnah five 	1
+candidate	dnmt one 	1
+stuff	dns relay	1
+stuff	dns setting	1
+response	dna repair	1
+code	dnv os-f one hundred and one 	2
+code	dnf	1
+code	dns	1
+code	dna code	1
+enzyme	dna polymerase	12
+enzyme	dna glycosylases	2
+enzyme	dna topoisomerase	2
+enzyme	dnase	1
+enzyme	dna polymerase enzyme	1
+enzyme	dna polymerase isolated from thermus aquaticus	1
+enzyme	dna polymerase i	1
+enzyme	dna methyltransferases	1
+enzyme	dna repair enzyme	1
+enzyme	dnahelicasesorrna polymerases	1
+enzyme	dna helicase	1
+enzyme	dna gyrase b	1
+advanced technique	dna sequencing	1
+advanced technique	dna fingerprinting	1
+advanced technology	dna testing	1
+technical issue	dns propagation	1
+technical issue	dna extraction from soil	1
+technical issue	dna quality	1
+health issue	dna damage	1
+environmental condition	dna damage	1
+stimulus	dna damage	14
+stimulus	dna lesion	2
+datum source	dnase hypersensitive site	1
+datum source	dna microarrays	1
+reference	dnv rp-h one hundred and three 	1
+inhibitor	dna-repair enzyme inhibitor	1
+inhibitor	dna topo ii inhibitor	1
+inhibitor	dna topoii inhibitor	1
+inhibitor	dna polymerase inhibitor	1
+polymer	dna	8
+natural product	dna	2
+advance	dna fi ngerprinting of the pathogen	1
+advance	dna test	1
+advance	dna fingerprinting of the pathogen	1
+item	dns	4
+item	dna	3
+item	dns server	2
+basic concept	dna structure	1
+configuration	dns	2
+configuration	dns server address	1
+stressors	dna damage	2
+conventional method	dna sequencing	2
+conventional method	dna microchip array	1
+conventional method	dna synthesis	1
+technological advance	dna testing	2
+technological advance	dna microarrays	2
+technological advance	dna versification	1
+technological advance	dna typing	1
+technological advance	dna-chip based analysis	1
+technological advance	dna microarray gene-chips	1
+technological advance	dna evidence	1
+technological advance	dna genotyping	1
+technological advance	dna chip	1
+particle	dna	4
+opponent	dnr agricultural policy coordinator wayne edgerton	1
+luxury	dna testing	1
+infrastructure	dns	1
+message	dns error	1
+tissue	dnase i-producing tissue	1
+virus	dna plant virus	1
+virus	dna poxviruses	1
+nice feature	dnla	1
+analysis	dna typing	1
+attack	dns cache poisoning	3
+attack	dns poisoning	2
+attack	dns redirection	1
+attack	dns manipulation	1
+attack	dns spoofing	1
+office	dndo	1
+software program	dnv software program	1
+impurity	dna	5
+construct	dna construct	1
+online resource	dnn	1
+entry	dns	1
+assessment	dna paternity testing	1
+lesion	dna deletion	2
+lesion	dna double-strand break	1
+lesion	dna strand break	1
+lesion	dnet	1
+lesion	dna basestocreate mutagenic lesion	1
+reagent	dna polymerase	6
+reagent	dna probe	4
+reagent	dna molecular weight marker	4
+reagent	dna clone	2
+reagent	dntps used for pcr	1
+reagent	dna sequencing primer	1
+reagent	dna template	1
+proposal	dnz proposal	1
+stress	dna damage	13
+stress	dna damage induced by methyl-methanesulfate	1
+stress	dna damage by different types of anticancer drug	1
+stress	dna damaging agent	1
+guest speaker	dnr's natural resource biologist ben dodd	1
+international company	dnm	1
+version	dnn  four . seven . zero 	1
+version	dnn  four . eight . four 	1
+version	dnn  four . six . two 	1
+version	dnn  four . nine . two 	1
+version	dnn  four . nine . five 	1
+version	dnn  four . five . three 	1
+sample	dna	11
+server	dns	11
+server	dns server	5
+server	dns proxy server	1
+supporter	dnc chairperson debbie washwoman-shultz	1
+investigation	dna-dna hybridization between diverse members of genovar a seven 	1
+investigation	dna-dna hybridization	1
+investigation	dna antibody test	1
+clue	dna	3
+group activity	dna strand building race	1
+constituent	dna	1
+item	dnr fee	1
+item	dna extract	1
+item	dna contamination	1
+survey	dnb nor's annual enterprise survey	1
+orchestra	dnepropetrovsk phiharmonic orchestra	1
+processing	dnie	2
+processing	dnu control	1
+state agency	dnr	9
+state agency	dnrc in the mitigation planning process	1
+state agency	dnrec	1
+security measure	dna testing	1
+apparatus	dna chip	1
+public service	dns	1
+public service	dns query	1
+testing	dna testing	2
+testing	dna amplification testing	1
+testing	dna sequencing	1
+free service	dns	2
+free service	dns control	1
+trigger	dna damage	2
+trigger	dna damage initiate inflammation	2
+active ingredient	dna	1
+experiment	dna analysis	3
+experiment	dna microarray	3
+experiment	dna binding assay	1
+experiment	dna sequencing	1
+experiment	dna preparation	1
+experiment	dnase footprinting	1
+complex system	dna	2
+motif	dna-binding site	1
+extension	dnn skin	2
+extension	dnr garmin	1
+valuable information	dna	1
+diagnostic test	dna probe technique	1
+emerging technology	dna micro array profiling	3
+emerging technology	dna microarrays	2
+emerging technology	dna probe	2
+emerging technology	dna microarray profiling	1
+legal issue	dna	1
+application area	dna	1
+contractor	dnr license private contractor	1
+modern technology	dna analysis	2
+modern technology	dna vaccine	2
+modern technology	dna fingerprinting	1
+modern technology	dna array	1
+modern technology	dna database	1
+modern technology	dna testing	1
+minor change	dnxhd	1
+video	dna hellicase	1
+newcomer	dna wines	1
+item	dna ploidy	1
+item	dna matching	1
+item	dna sampler	1
+item	dns updates	1
+item	dns configuration	1
+key component	dns	1
+place name	dniester river	1
+place name	dnepropetrovsk	1
+vital information	dna sample	1
+business service	dns	1
+computer program	dna strider	1
+management tool	dns microsoft management console snap-in	1
+democrat	dnc chairman tim kaine	2
+democrat	dnc chief debbie wasserman schultz	1
+physical feature	dna	1
+host	dns server	2
+technological innovation	dna array	1
+technological innovation	dna testing	1
+system parameter	dns	1
+emergency situation	dna replication restarting after severe dna damage	1
+common feature	dna	2
+descriptors	dna sequencing	1
+mod	dnp header	1
+conventional technique	dna synthesis	1
+practical application	dna sequence analysis	1
+interaction	dna looping	1
+bacterium	dna extraction certain bacterium	1
+calculation	dna profile frequency calculation	1
+innovative technology	dna probe	2
+innovative technology	dna microarrays	1
+alteration	dna damage	2
+biological factor	dna ploidy	1
+biological process	dna replication	10
+biological process	dna repair	7
+biological process	dna transcription	4
+biological process	dna damage	2
+biological process	dna hybridization	1
+biological process	dna base flipping	1
+biological process	dna	1
+biological process	dna recombination	1
+biological process	dna damage response	1
+big city	dnipropetrovsk	1
+honor	dnr law enforcement supervisor of the year	2
+research area	dna analysis	1
+research area	dna characterization in reservoir	1
+research area	dna array	1
+diagnostic tool	dna probe	1
+diagnostic tool	dns analyzer	1
+diagnostic tool	dna test	1
+diagnostic tool	dn four 	1
+advanced function	dnr	1
+session	dna testing	1
+session	dna extraction	1
+modern technique	dna	3
+modern technique	dna analysis	2
+modern technique	dna sequencing	1
+modern technique	dna-dna hybridization	1
+modern technique	dna preparation	1
+modern technique	dna study	1
+modern technique	dna microarrays	1
+modern technique	dna microarray analysis	1
+laboratory test	dna sample	2
+laboratory test	dna	1
+laboratory test	dna for fragile x syndrome	1
+stimulant	dncb	1
+datum type	dna rflp allele datum	2
+datum type	dna methylation datum	1
+tourist spot	dna tower	1
+tourist spot	dna tower in kings park	1
+research	dna analysis	1
+specimen	dna	1
+critical application	dns	1
+dye	dna staining dye	1
+dye	dna-specific fluorescent dye	1
+dye	dna binding dye	1
+representation	dnf	1
+local service	dns	1
+hands-on activity	dna extraction	2
+receptor	dnam- one 	1
+receptor	dnax accessory molecule- one 	1
+basic technique	dna extraction	1
+web application	dns	1
+critical component	dns configuration	2
+health concern	dna damage	1
+interesting topic	dna fingerprinting	1
+regulator	dna sequence-specific transcriptional regulator	1
+small molecule	dnp	2
+small molecule	dna methyltransferase inhibitor	1
+area	dna analysis	8
+area	dna	6
+area	dna testing	4
+area	dna fingerprinting	2
+area	dna sequencing	2
+area	dna chip	2
+software product	dnr garmin	1
+key	dnd override	1
+key	dns service log	1
+network service	dns	48
+network service	dns server	3
+network service	dns-based naming	1
+topical issue	dna structure	2
+optional service	dns	2
+modifier	dna	1
+analysis technique	dna analysis technique	1
+endeavor	dna sequencing endeavor	1
+node	dns	1
+internet service	dns	4
+ethical issue	dnr	1
+large group	dnso's general assembly with sporadic comment online	1
+diagnostic procedure	dna-based diagnostic procedure	1
+regulatory agency	dnrec	2
+regulatory agency	dnr	2
+sophisticated technique	dna	1
+sophisticated technique	dna analysis	1
+sophisticated technique	dna hybridisation	1
+advanced concept	dna structure	1
+assay	dna-binding assay	1
+assay	dna quantitation with picogreen	1
+assay	dnase i assay	1
+assay	dna fragmentation analysis andannexin vanalysis	1
+assay	dna diagnostic assay	1
+assay	dna	1
+synthetic material	dna	1
+kit	dnaextraction of micrococcus luteus classroom kit	1
+core service	dns	5
+pesticide	dnoc	1
+pathway	dna replication	3
+pathway	dna repair	1
+pathway	dna methylation	1
+key function	dna damage repair	1
+surfactants	dna	2
+transcription factor	dna methyltransferase  three -like regulatory protein dnmt three l 	1
+transcription factor	dna methyltransferase  three -like regulatory proteindnmt three l 	1
+transcription factor	dna binding transcription factor	1
+local institution	dnd camp aldershot	1
+template	dna	2
+selection criterion	dna mismatch repair polymorphisms	1
+advanced service	dns	3
+practical aspect	dna extraction	1
+biomarkers	dna adducts	6
+biomarkers	dna content	1
+biomarkers	dna aberration	1
+biomarkers	dna sequence	1
+continuous variable	dna damage	1
+cell line	dna-pkcs deficient cell	1
+metabolite	dna	2
+saint	dnyaneshwar	1
+science	dna evidence	1
+vaccine	dna vaccine	4
+standard technique	dna hybridization	19
+standard technique	dna sequencing	1
+traditional tool	dns lookup	1
+portal	dnn	1
+advanced tool	dna-marker assisted breeding	1
+international standard	dnv os-f one hundred and one 	1
+blood test	dna paternity test	1
+management activity	dnr management activity	1
+area	dna typing	1
+area	dna mapping	1
+area	dna simulation	1
+area	dna dynamic	1
+area	dna evidence	1
+area	dna-protein interaction	1
+traditional topic	dna analysis	6
+intrinsic factor	dna aneuploidy	2
+implementation	dns name server implementation	1
+research tool	dna study	1
+private information	dns address	1
+technological advancement	dna testing	1
+technological advancement	dna vaccine	1
+technological advancement	dna typing	1
+technological advancement	dna testing for various trait	1
+innovative technique	dna microarray technology	4
+innovative technique	dna microarrays	2
+system information	dns	1
+flat surface	dna thatisheldona flat surface	1
+computer system	dns server	1
+allergen	dncb	1
+molecular technique	dna sequencing	11
+molecular technique	dna barcoding	9
+molecular technique	dna fingerprinting	5
+molecular technique	dna microarrays	5
+molecular technique	dna extraction	4
+molecular technique	dna probe	4
+molecular technique	dna hybridization assay	3
+molecular technique	dna sequence analysis	3
+molecular technique	dna marker identification	2
+molecular technique	dna hybridization	2
+molecular technique	dna microarray analysis	2
+molecular technique	dna-dna hybridization	2
+molecular technique	dna-rna hybridization	1
+molecular technique	dna reassociation	1
+molecular technique	dna amplification using pcr	1
+molecular technique	dna amplification by using pcr	1
+molecular technique	dna-dna	1
+molecular technique	dna isolation	1
+molecular technique	dna cloning	1
+molecular technique	dna probe development	1
+molecular technique	dna sequencing of rrna gene	1
+molecular technique	dna hybridisation	1
+molecular technique	dna methylation assay	1
+molecular technique	dna-methylation assay	1
+cellular process	dna replication	22
+cellular process	dna repair	7
+cellular process	dna modification	2
+cellular process	dna recombination	1
+cellular process	dna damage response	1
+cellular process	dna damage repair	1
+cellular process	dna condensation	1
+cellular process	dna damage	1
+mediator	dna dsb mediator	1
+key service	dns	2
+genetic factor	dna repairing gene	1
+genetic factor	dna repair protein	1
+genetic factor	dna polymorphism	1
+genetic factor	dna ploidy	1
+genetic factor	dna content	1
+operating cost	dns server	1
+diagnostic technique	dna sequencing	1
+diagnostic technique	dna dot-blot hybridization in situ hybridisation	1
+environmental stress	dna damage	2
+standard method	dna cloning	1
+hybrid	dna-rna hybrid	3
+hybrid	dna-rna-protein hybrid	2
+hybrid	dna rna hybrid	1
+potential application	dna computation	3
+potential application	dna computer	2
+potential application	dna sequencing	1
+therapeutic agent	dna-damaging drug	2
+therapeutic agent	dna methylation inhibitor	1
+clinical variable	dna status	1
+indirect method	dna	1
+medical application	dna vaccine	1
+snake	dnr release venomous snake	1
+standard service	dns	3
+standard service	dna microarray analysis	1
+security device	dns	2
+complementary service	dns	1
+common service	dns	1
+cargo	dna	2
+laboratory	dna testing laboratory	1
+delivery system	dna	2
+advancement	dna testing	1
+area	dns protocol	1
+area	dna amplification	1
+area	dng	1
+area	dnieper river region	1
+vital service	dns name resolution	2
+external stimulus	dna damaging agent	1
+external stimulus	dna-damaging agent	1
+acronym	dnf	1
+basic operation	dna quantification	1
+common tool	dna comparison	1
+secondary datum	dnar status of the patient	1
+stressful event	dna damage	1
+biological material	dna	15
+biological material	dna probe	1
+essential feature	dnla media share option	1
+physiological process	dna replication	4
+detection method	dna probe	1
+detection method	dna damage detection method	1
+detection method	dna detection method	1
+vector	dna-based viral and nonviral vector	1
+modern tool	dna	1
+analytes	dna	2
+sophisticated method	dna test	1
+codecs	dnxhd	1
+stress condition	dna damage	5
+stress condition	dna damage induced by etoposide	1
+stress condition	dna damage caused by toxic molecule	1
+infrastructure service	dns	2
+infrastructure service	dns traffic balancer	1
+infrastructure service	dns server	1
+buffer	dna isolation bufffers	1
+buffer	dna isolation buffer	1
+buffer	dna isolation bluffer	1
+biochemical parameter	dna damage	1
+biochemical parameter	dna	1
+state-of-the-art technology	dna barcoding	1
+state-of-the-art technology	dna chip	1
+critical service	dns resolution	1
+critical service	dns use udp	1
+critical service	dns	1
+complex process	dna replication	1
+core concept	dna replication	1
+structural parameter	dna packing density	1
+probe	dna oligomer	2
+delivery method	dna delivery method	1
+area	dna computing	1
+service	dns	111
+service	dns server	6
+service	dna sequencing	5
+safety product	dna kit	1
+chemical reaction	dna	1
+account information	dns information	1
+measurement technique	dna microarrays	1
+communication protocol	dnp three 	1
+large system	dna	1
+biological system	dna	4
+biological system	dna virus	1
+large river	dnipro	3
+large river	dnieper river	1
+large river	dnepr	1
+healing modalities	dna theta core belief reprogramming	1
+modern method	dna sequencing	2
+modern method	dna testing	1
+modern method	dna analysis	1
+molecular method	dna probe	7
+molecular method	dna sequencing	5
+molecular method	dna fingerprinting	3
+molecular method	dna	2
+molecular method	dna probe test	2
+molecular method	dna microsatellite analysis	1
+molecular method	dna-dna hybridization	1
+molecular method	dna amplification	1
+molecular method	dna microarrays	1
+molecular method	dna macrorestriction analysis by pulsed-field gel electrophoresis	1
+molecular method	dna-based molecular method	1
+molecular method	dna analysis of contaminating agent	1
+molecular method	dna analysis	1
+molecular method	dna hybridization	1
+molecular method	dna hybridisation	1
+molecular method	dna sequencing andrflpandpcr-rflp technique	1
+trade publication	dnr	1
+common term	dna	3
+core function	dns	1
+network element	dns server	2
+novel technique	dna sequencing	1
+novel technique	dna combing	1
+novel technique	dna microarrays	1
+biological function	dna replication	1
+performance feature	dnx image processing technology	4
+performance feature	dnx image processing	1
+performance feature	dns information caching	1
+physiological change	dna damage	2
+molecular marker	dna repair genes ercc one 	1
+molecular marker	dna polymorphism	1
+molecular marker	dna ploidy	1
+molecular marker	dna content	1
+common technique	dns	1
+national agency	dnpm	1
+edge technology	dna chip	1
+experimental method	dnase footprinting	2
+experimental method	dna footprinting	1
+experimental method	dna array	1
+experimental method	dnaase footprinting	1
+experimental method	dna microarrays	1
+typical feature	dna binding	1
+custom service	dna sequencing	1
+cellular function	dna replication	3
+cellular function	dna repair	2
+explosive	dnt	3
+common method	dna laddering	1
+datum field	dns server	1
+physical evidence	dna	24
+natural compound	dna	1
+technical innovation	dna microarrays	1
+factor	dna configuration	1
+factor	dna analysis of the breed's consistency	1
+factor	dna binding proteins of the cell envelope	1
+factor	dna degradation	1
+factor	dna degrading	1
+factor	dna flow cytometry	1
+factor	dna fragment size	1
+factor	dna ploidy status	1
+factor	dna profile	1
+factor	dna length dependence	1
+factor	dna targetconcentration	1
+factor	dna-adduct formation	1
+factor	dna-protein interaction	1
+factor	dns domain name length	1
+factor	dns's method of prioritizing	1
+service	dna injection into fertilized oocytes	2
+service	dna testing	2
+service	dna analysis	2
+service	dnadirect of san francisco	1
+service	dna testing for health	1
+service	dna id banking	1
+service	dna paternity testing	1
+service	dna sequenci ng	1
+service	dna sexing	1
+service	dns control	1
+service	dns-based naming	1
+physical trait	dna	1
+mutation	dnaa	1
+mutation	dnab	1
+system feature	dns flush	1
+kinases	dnapk ii	1
+kinases	dna-pkcs	1
+kinases	dna-dependent protein kinase	1
+kinases	dna damage response kinases	1
+small structure	dna	1
+system function	dns	1
+physiological condition	dna damage	1
+nicety	dnla media serving	1
+complex area	dna marker technology	1
+configuration information	dns server address	1
+configuration information	dns server	1
+configuration information	dns search domain	1
+configuration information	dns	1
+analog	dna-directed nucleoside analog	1
+analog	dna base analog	1
+aggregators	dna network	1
+popular service	dns	1
+security threat	dns pharming	1
+technical advance	dna microarray	1
+cartridge	dna storage bicameral cartridge	1
+network resource	dns server resolution	1
+successful project	dnt association	1
+innovative tool	dna chip	1
+novel technology	dna	1
+complex concept	dna replication	1
+limiting factor	dna length	1
+natural item	dna	1
+beautiful city	dnepropetrovsk	2
+environmental stimulus	dna damaging agent	1
+technology advance	dna testing	1
+exotic place	dnipropetrovs'k	1
+security mechanism	dns security mechanism	1
+macromolecules	dna	53
+animes	dnangel	1
+biomaterials	dna	4
+biomolecules	dna	92
+biomolecules	dna molecule	2
+biomolecules	dnasbearing biotin moiety	1
+biomolecules	dna rna	1
+biomolecules	dnas bearing biotin moiety	1
+classifier	dna bindingand transcription related category	1
+service	dna testing for genealogists	1
+service	dna specimen provenance assay	1
+laboratory technique	dna extraction	4
+laboratory technique	dna purification	1
+laboratory technique	dna fingerprinting	1
+laboratory technique	dna-based laboratory technique	1
+organic molecule	dna	6
+scientific field	dna array technology	1
+breakthrough	dna analysis	1
+pathological process	dna damage	2
+nanomaterials	dna base	1
+nanomaterials	dna polyplexes	1
+system service	dns	3
+manipulation	dna manipulation dna manipulation	1
+physical facility	dna amplification room	1
+reactant	dna	1
+party leader	dnc chairman howard dean	2
+party leader	dnc national finance vice-chair michael brown	1
+infrastructure component	dns	2
+perturbation	dna damage	1
+research technique	dna sequencing	1
+research technique	dna	1
+complex activity	dna binding	2
+detection technique	dna detection technique	1
+large molecule	dna	16
+standard protocol	dnp three 	2
+standard protocol	dns	1
+standard protocol	dnp	1
+adhesion molecule	dnam- one 	1
+novel approach	dnmt silencing with azanucleoside administration	1
+scientific method	dna testing	2
+scientific method	dna sample	1
+scientific method	dna fingerprinting	1
+scientific method	dna typing	1
+screening method	dna tests of the stool	1
+array	dna microarray	4
+query	dns query	1
+technical topic	dna	2
+toxic effect	dna structure damage	1
+harmful effect	dna strand break	3
+broad area	dna assay	2
+biological sample	dna	7
+biological sample	dna sample	2
+biological sample	dna molecule	1
+environmental agent	dna-damaging chemical	1
+standard procedure	dna cloning	1
+biochemical marker	dna fragmentation	1
+biochemical marker	dna	1
+Biopolymers	dna	50
+hypothesis	dna methylation	1
+regulatory authority	dnr	1
+critical process	dna replication during s phase	2
+defense mechanism	dna repair	3
+experimental approach	dna sequencing	1
+key application	dna forensic	2
+molecular biology technique	dna probe	2
+molecular biology technique	dna extraction	2
+molecular biology technique	dna isolation	1
+molecular biology technique	dna amplification	1
+molecular biology technique	dna preparation	1
+molecular biology technique	dna mutagenesis	1
+molecular biology technique	dna gel electrophoresis	1
+molecular biology technique	dna manipulation	1
+molecular biology technique	dna sequencing	1
+molecular biology technique	dna subcloning	1
+service	dna consultation	1
+service	dna testing service	1
+service	dns blacklisting service	1
+service	dns usage statistic	1
+topic	dna	21
+topic	dns	6
+scientific concept	dna molecule	1
+central service	dns	1
+fundamental process	dna metabolism	1
+local team	dnepr	1
+natural polymer	dna	9
+contrast agent	dna	1
+well-known method	dna recognition	1
+server application	dns server	4
+server application	dns	1
+commercial program	dnasis	1
+complementary technique	dna sequencing	1
+distortion	dna helix distortion	1
+latest technique	dna profiling	2
+latest technique	dna-dna hybridization	1
+sensitive technique	dna	1
+sensitive technique	dna microarrays	1
+powerful technique	dna micro-arrays	1
+complex method	dna analysis	1
+basic process	dna extraction	1
+basic process	dna	1
+external service	dns	1
+external service	dns server	1
+valid reason	dns server failure	1
+binding agent	dna binding agent	1
+binding agent	dna minor groove binding agent	1
+biomedical application	dna separation	1
+biomedical application	dna conjugation	1
+biological datum	dna	3
+biological datum	dna sequence	2
+molecular tool	dna sequencing	3
+molecular tool	dna base sequence homology	2
+molecular tool	dna marker system	2
+molecular tool	dna microarrays	1
+molecular tool	dna marker	1
+molecular tool	dnase i footprint identification technology	1
+molecular tool	dna library	1
+molecular tool	dna-dna hybridization	1
+molecular tool	dna extraction	1
+configuration parameter	dns server address	3
+configuration parameter	dns address	1
+configuration parameter	dns server	1
+outreach effort	dnr's outreach effort	1
+polar compound	dna	1
+regional city	dnipropetrovsk	2
+technical development	dna microchip	1
+detection system	dna detection system	1
+real world application	dna sequence mining	1
+real world application	dna sequence analysis	1
+laboratory procedure	dna extraction	2
+pathophysiological condition	dna-damaging agent	1
+anticancer drug	dna replication inhibitor	1
+common option	dns server	1
+archival material	dna	1
+cultural center	dniprodzerzhynsk russian music	1
+ancillary test	dna sequencing	1
+cellular component	dna	7
+cellular component	dna methyltransferases	1
+topic	dna structure	5
+topic	dna analysis	4
+topic	dna fingerprinting	3
+topic	dna technology	3
+topic	dna testing	3
+topic	dna methylation	2
+topic	dna database	2
+topic	dna evidence	2
+topic	dna science	2
+topic	dna replication	2
+topic	dna repair	2
+topic	dna profiling	1
+topic	dna recombination	1
+topic	dna sequencing	1
+target gene	dna recombinase gene	1
+biological effect	dna strand-breaks	1
+administrative process	dna test	1
+brain disorder	dna disorder	1
+traffic	dns	2
+cross-linking agent	dna interstrand cross-linking agent	1
+molecular approach	dna probing	1
+molecular approach	dna-dna hybridisation	1
+molecular approach	dna taxonomy	1
+molecular approach	dna sequencing	1
+molecular approach	dna probe	1
+post-translational modification	dna damage-induced post-translational modification	1
+nucleophiles	dna	1
+structured datum	dna sequence	1
+genetic marker	dna fingerprint	2
+genetic marker	dna	1
+genetic marker	dna-level genetic marker	1
+regulatory mechanism	dna methylation	1
+biometric datum	dna	6
+biometric datum	dna sample	1
+biometric datum	dna profile	1
+network issue	dns issue	1
+network issue	dns setting	1
+common contaminant	dna	1
+beat	dnb	1
+commercial package	dnastar	1
+commercial package	dnasis	1
+infrastructure system	dns	1
+state-of-the-art technique	dna microarrays	1
+analytical instrument	dna analyzer	1
+generation technology	dna microarrays	1
+generation technology	dna methylation	1
+aldehydes	dna protein crosslink aldehydes	1
+aldehydes	dna-reactive alpha,beta-unsaturated aldehydes	1
+newest technology	dna fingerprinting	1
+basic procedure	dna digestion by restriction enzyme	2
+biotechnology	dna sequencing	2
+biotechnology	dna bar-coding	1
+biotechnology	dna technique	1
+biotechnology	dna probe	1
+biotechnology	dna analysis	1
+genetic alteration	dna rearrangement	1
+genetic alteration	dna mutation	1
+pharmaceutical agent	dna	2
+technological application	dna technological application	1
+complex information	dna code	1
+enforcement action	dnl message	2
+fundamental technique	dna purification	1
+laboratory service	dna sequencing	1
+on-campus event	dna day	1
+physiological characteristic	dna	1
+Biological information	dna datum	2
+topic	dna scanning	1
+topic	dnar order	1
+topic	dna analysis & electrophoresis	1
+topic	dns name resolution	1
+regulatory protein	dna regulatory protein	1
+regulatory protein	dna-directed rna polymerase	1
+approval	dnv	2
+authorized user	dnr county biological survey	1
+independent third party	dnv	1
+intrinsic property	dna sequence variation	2
+body process	dna replication	1
+core application	dns	1
+high-tech tool	dna fngerprinting	1
+high-tech tool	dna fingerprinting	1
+high-tech tool	dna testing	1
+travel agent	dnata	1
+cellular event	dna damage	2
+cellular event	dna replication	2
+cellular event	dna repair promotion	1
+investigative technique	dna fingerprinting	1
+investigative technique	dna profiling	1
+investigative technique	dna evidence	1
+investigative technique	dna	1
+antioxidant enzyme	dna repair enzyme	2
+biochemical process	dna hybridization	1
+biochemical process	dna	1
+cell function	dna damage repair	1
+powerful technology	dna micro array	1
+scientific term	dna sequence	1
+normal item	dns	1
+novel method	dna finger-printing	1
+complex molecule	dna	7
+sophisticated approach	dna shuffling	1
+difficult concept	dna damage	1
+provincial city	dnipropetrovsk	1
+biological phenomenon	dna replication	1
+directory service	dns	2
+enzyme inhibitor	dna-repair enzyme inhibitor	1
+fluorescent dye	dna-specific fluorescent dye	1
+state department	dnr	1
+internet protocol	dns	1
+oncogene	dna hyperreplication	1
+today's technology	dna testing	1
+today's technology	dna sequencing	1
+biological feature	dna sequence	1
+industrial center	dnipropetrovsk	1
+industrial center	dniprodzerzhyns'k	1
+regulatory function	dna binding	2
+basic method	dna restriction	2
+basic method	dna treatment for molecular cloning	1
+blood component	dna	1
+chemistry	dna synthesis chemistry	1
+cytotoxic drug	dna alkylating agents temozolomide	1
+high-throughput technology	dna microarrays	16
+high-throughput technology	dna	3
+high-throughput technology	dna microarray analysis	2
+high-throughput technology	dna sequencing	1
+high-throughput technology	dna array	1
+high-throughput technology	dna microarray-based gene expression profiling	1
+high-throughput technology	dna chip	1
+monitoring method	dna profiling of individual wolf	1
+nucleoside analog	dna-directed nucleoside analog	1
+epigenetic change	dna methylation	49
+epigenetic change	dna hypermethylation	2
+epigenetic change	dna methyaltion	2
+ethical consideration	dnr for terminal cancer patient	1
+network setting	dns	3
+network setting	dns server	2
+network setting	dns information	2
+network setting	dns in the automatic configuration	1
+network setting	dns address	1
+network setting	dns association	1
+objective method	dna cytometry	1
+scientific application	dna analysis	1
+topic	dnr order	1
+topic	dns poisoning	1
+topic	dna vaccine	1
+topic	dna mutation	1
+topic	dna computer	1
+topic	dna cloning	1
+biological structure	dna	1
+cellular activity	dna replication	1
+nucleic acid	dna	133
+nucleic acid	dna probe	5
+nucleic acid	dna plasmids	4
+nucleic acid	dna molecule	2
+others service	dns	1
+cellular response	dna repair	2
+screening technique	dna microarrays	1
+state resource	dnr	1
+surrogate measure	dna oxidative repair lesions in urine	1
+biochemical technique	dna marker	2
+biochemical technique	dna analysis	1
+complementary method	dna typing	1
+complex datum type	dna sequence	1
+great saint	dnyaneshwar	1
+biological molecule	dna	51
+biological resource	dna	1
+biological marker	dna damage	1
+computing technology	dna	1
+external stress	dna damage	1
+external stress	dna damage from excessive heat	1
+study design	dnt	1
+bioactive agent	dna	1
+complex organism	dna tumor virus	1
+biological indicator	dna ploidy	1
+cellular stress	dna damage	22
+epigenetic mechanism	dna methylation	82
+epigenetic mechanism	dna hypermethylation	3
+epigenetic mechanism	dna	1
+genetic trait	dna sequence	1
+optional parameter	dns server	2
+organizational unit	dna core lab	1
+identification method	dna sampling	1
+identification method	dna fingerprinting	1
+in-depth information	dns	1
+bacterial product	dna	1
+biological application	dna hybridization	1
+laboratory instrument	dna sequenatcm	1
+laboratory instrument	dna sequenators	1
+laboratory instrument	dna synthesizer	1
+law enforcement officer	dnr warden	1
+scientific advance	dna testing	9
+scientific advance	dna analysis	2
+scientific advance	dna test	1
+biological substance	dna	1
+biometric technology	dna	1
+cell component	dna	3
+empirical datum	dna	1
+hydrolytic enzyme	dnases	1
+advanced control	dnarecbo tm application for the recovery boiler	1
+biological event	dna repair	2
+biological event	dna linear transfer	1
+biological event	dna damage	1
+electronic information	dna sequence	1
+function key	dnd	1
+polar molecule	dna	3
+provincial town	dnipropetrovsk	1
+company	dna direct	4
+company	dnv	3
+company	dnata	2
+company	dna sciences	2
+fundamental characteristic	dna	1
+hard evidence	dna	2
+molecular biological technique	dna chip	1
+molecular biological technique	dna microarrays	1
+molecular biological technique	dna cloning	1
+molecular biological technique	dna extraction	1
+molecular biological technique	dna amplification	1
+biochemical property	dna-binding specificity	1
+cities new	dnepropetrovsk	1
+potential adverse effect	dna damage	2
+prognostic marker	dna ploidy	2
+unnecessary service	dns	2
+ancillary technique	dna flow cytometry	1
+ancillary technique	dna ploidy	1
+commercial software package	dnasis	3
+commercial software package	dnastar	3
+critical technology	dns	1
+fundamental service	dns server	1
+genetic approach	dna sequencing followed by phylogeographic analysis	1
+genetic technique	dna sequencing	1
+genetic technique	dna fingerprinting	1
+genetic technique	dna hybridisation	1
+industrial centre	dnepropetrovsk	1
+soda	dnl	1
+biometric information	dna	3
+biometric information	dna analysis	1
+cellular structure	dna	2
+high technology	dna analysis	1
+specialised technique	dna analysis	1
+biomedical device	dna delivery vehicle	1
+scientific technique	dna testing	2
+scientific technique	dna analysis	1
+sensitizers	dncb	2
+utility application	dns	1
+biological method	dna	1
+functional attribute	dna unwinding activity	1
+pathologic feature	dna ploidy	1
+private contractor	dnr license private contractor	1
+window service	dns	1
+specialty department	dnr	1
+complexing agent	dna complexing agent	1
+epigenetic modification	dna methylation	66
+epigenetic modification	dna hypermethylation	3
+epigenetic modification	dna	2
+epigenetic modification	dna cpg methylation	1
+IP service	dns	2
+physical mechanism	dna microarray technology	1
+popular package	dns servers	1
+preparation parameter	dna sequence	1
+company	dna synthesis company	1
+company	dna software in ann arbor	1
+company	dna testing company	1
+company	dnb nor	1
+company	dna lifeprint	1
+company	dna direct in the united states	1
+company	dna diagnostics	1
+bioactive molecule	dna	4
+class project	dna model	1
+cutting-edge technique	dna micro array	1
+housekeeping function	dna replication	2
+repetitive element	dna repeat element	1
+venomous snake	dnr release venomous snake	1
+application protocol	dns	3
+distinct area	dna binding	1
+fundamental biological process	dna duplication	2
+fundamental biological process	dna replication	1
+interesting aspect	dna collecting	1
+modeling agency	dna new york	1
+remote service	dns	2
+sophisticated test	dna analysis	1
+sophisticated test	dna	1
+sophisticated test	dna polymerase chain reaction test	1
+bacterial component	dna	1
+bacterial component	dna containing cpg	1
+forensic technique	dna testing	3
+forensic technique	dna identification	1
+forensic technique	dna analysis	1
+forensic technique	dna swabbing	1
+forensic technique	dna	1
+forensic technique	dna testing in capital case	1
+forensic technique	dna fingerprinting	1
+industry standard protocol	dnp three 	1
+localized area	dnd barracks in the south-western part of the site	1
+platform technology	dna sequencing	1
+platform technology	dna se quencing	1
+biological concept	dna transcription	1
+biological entity	dna	3
+biologically active molecule	dna	2
+cell process	dna replication	1
+chaperone	dnakor groel	1
+common abbreviation	dna	4
+fluoroquinolones	dnf	1
+internet standard	dns	1
+mobile element	dna transposons	1
+practical exercise	dna isolation exercise	1
+high-throughput technique	dna microarray	3
+high-throughput technique	dna microarray analysis	1
+metabolic activity	dna replication	1
+raid	dn favor aoe	1
+defense system	dna repair	1
+global setting	dns server	1
+identification technique	dna genotyping	1
+molecular mechanism	dna repair	2
+network equipment	dns servers a dedicated server	1
+outside funding source	dnr recreation grant	1
+outstanding facility	dna laboratory	2
+genomic technology	dna microarrays	6
+genomic technology	dna microarray analysis	1
+genomic technology	dna	1
+genomic technology	dna array	1
+lab technique	dna isolation	1
+secondary system	dns	1
+sensitive test	dna test	1
+sensitive test	dna tests for periodontal pathogen	1
+chromosomal aberration	dna amplification	1
+chromosomal aberration	dna deletion	1
+epigenetic factor	dna methylation	10
+genetic mechanism	dna replication slippage	1
+introductory topic	dna	1
+public datum	dns	1
+company	dna now	1
+company	dna genetics	1
+company	dna productions	1
+company	dnv ps	1
+live vaccine	dna	1
+genomic tool	dna marker	4
+molecular typing method	dna restriction pattern	1
+polymorphisms	dna repair pathway gene polymorphisms	1
+proxy server	dns proxy server	1
+regulatory process	dna methylation	1
+scientific development	dna expansion program	1
+stress signal	dna damage	12
+targeted agent	dna binding compound	1
+advance directive	dnr order	2
+cell structure	dna	1
+chiropractic technique	dnft	1
+epigenetic alteration	dna methylation	20
+epigenetic alteration	dna methylation-mediated silencing of tumor suppressor gene	2
+epigenetic alteration	dna hypermethylation	1
+epigenetic alteration	dna hypomethylation in tumor cell	1
+genetic method	dna isolation	1
+healing therapy	dna theta healing	1
+healing therapy	dna thetahealing	1
+physiological feature	dna	1
+recourse	dna analysis	1
+resource agency	dnr	1
+authentic ingredient	dna	1
+discovery tool	dna motif discovery tool	1
+discovery tool	dnamotif discovery tool	1
+essential cellular process	dna replication	1
+essential process	dna replication	1
+essential process	dna repair	1
+heat-resistant material	dna	1
+high-throughput method	dna microarrays	2
+indirect evidence	dna	1
+molecular chaperone	dnak in escherichia coli	1
+resistance mechanism	dna methylation	1
+resistance mechanism	dna repair	1
+side mission	dna collecting	1
+signaling protocol	dns	2
+standard abbreviation	dna	5
+stressful stimulus	dna damage	4
+stressful stimulus	dna lesion	1
+time service	dns	1
+diagnostic system	dna microarrays	1
+high throughput technology	dna microarrays	3
+high throughput technology	dna array	1
+high throughput technology	dna	1
+molecular technology	dna microarrays	4
+molecular technology	dna testing for virus	2
+molecular technology	dna microarray analysis	1
+nucleic acid molecule	dna	94
+nucleic acid molecule	dna molecule	10
+sensitive assay	dna hybridization assay	2
+server function	dns	2
+small sample	dna from a single cell	1
+stress response	dna damage	2
+transactional information	dns state	1
+biological compound	dna	2
+dedicated resource	dns server	1
+forensic tool	dna	1
+forensic tool	dna analysis	1
+polymerases	dna polymerases	2
+polymerases	dna-dependent rna polymerases	1
+test kit	dna damage quantification kit	1
+complex organic molecule	dna	4
+genetic event	dna mutation	2
+objective evidence	dna	1
+structural alteration	dna bending via lef one 	1
+structural alteration	dnabending via lef one 	1
+biotechnology tool	dna marker	1
+built-in service	dns	1
+activity	dnata ground handling	2
+activity	dna repair	2
+activity	dna paternity testing	2
+activity	dna replication	2
+activity	dna-dependent atpase activities of helicases	1
+activity	dnr management activity	1
+activity	dns querying	1
+character datum	dna sequence	1
+complex protocol	dns	2
+environmental stress condition	dna damage	1
+forensic evidence	dna	12
+forensic evidence	dna sample	2
+forensic evidence	dna analysis	1
+genomic approach	dna microarrays	2
+identification technology	dna profile	1
+identification technology	dna	1
+key cellular process	dna replication	2
+key cellular process	dna repair	1
+liquid sample	dna solution	1
+oil finish	dnish oil	1
+physiologic function	dna synthesis	1
+rapid method	dna hybridization	1
+scientific discovery	dna	1
+biochemical reaction	dna	1
+diagnostic assay	dna diagnostic assay	1
+DNA manipulation	dna minipreps	4
+DNA manipulation	dna-dna hybridization	1
+DNA manipulation	dna ligation	1
+DNA manipulation	dna isolation cloning	1
+dna manipulation	dna manipulation dna manipulation	1
+DNA manipulation	dna digestion	1
+DNA technique	dna hybridization	1
+DNA technique	dna finger-printing	1
+epigenetic event	dna methylation	12
+genetic test	dna analysis	1
+genetic test	dna sequencing	1
+genetic tool	dna sequence analysis	2
+genetic tool	dna marker	1
+genetic tool	dna fingerprinting	1
+metabolic inhibitor	dnp	1
+morphologic change	dna fragmentation	4
+serological technique	dna probe	1
+server role	dns server	1
+standard molecular biology technique	dna sequencing	1
+standard molecular biology technique	dna isolation	1
+tissue structure	dna	1
+transactional application	dns implementation	1
+accessory protein	dna-dependent protein kinase	1
+downstream event	dna fragmentation	1
+functional molecule	dna	1
+genomic technique	dna microarray analysis	2
+genomic technique	dna microarray expression analysis	1
+global approach	dna hybridization array	3
+machinery component	dna machinery component	1
+molecular biological method	dna purification	1
+molecular biological method	dna restriction	1
+molecular biological method	dna-ribosomal ribonucleic acid hybridization	1
+nuclear protein	dna repair enzyme parp	1
+nuclear protein	dna polymerase i	1
+binding assay	dna hybridization assay	6
+DNA polymerases	dna polymerase	1
+enrollment information	dn value	2
+forensic service	dna evidence screening	1
+fundamental cellular process	dna replication	2
+normal information	dns	1
+specialised equipment	dna sequencers	1
+biologic marker	dna adducts	1
+certification authority	dnv	1
+common protocol	dns	3
+common protocol	dnp	1
+genetic material	dna	8
+genetic material	dna plasmids	1
+genotoxic agent	dna alkylating agent	2
+high throughput method	dna microarrays	1
+ip-based service	dns	1
+molecular event	dna methylation	1
+molecular event	dna repair focus	1
+molecular event	dna mutation	1
+nuclear reaction	dna repair	1
+nuclear reaction	dna replication	1
+state-of-the-art method	dna microarrays	1
+stress stimulus	dna damage	1
+adverse side-effects	dna damage	1
+biological species	dna	1
+cellular mechanism	dna repair	3
+checkpoint	dna damage g one  checkpoint 	1
+enterprise technology	dns management service	1
+experimental issue	dna melting temperature dependence on local gc content	1
+indirect approach	dna probe	1
+modular system	dnn	1
+network server	dns	3
+network server	dns server	1
+nuclear material	dna	2
+nuclear technique	dna cloning	2
+activity	dna electrophoresis	1
+activity	dnc fundraising extravaganza	1
+vital matter	dna replication	1
+apoptotic stimulus	dna damage	3
+body characteristic	dna	1
+carrier molecule	dna	5
+cell property	dna content	1
+epigenetic phenomenon	dna methylation	3
+epigenetic phenomenon	dna repair	1
+genetic technology	dna analysis	1
+host service	dns	1
+host service	dns resolution	1
+mobile carrier	dna	1
+protein family	dna-binding protein	1
+recombinant DNA technique	dna sequencing	1
+recombinant DNA technique	dna shuffling	1
+recombinant DNA technique	dna ligation	1
+server service	dns	3
+service category	dns	2
+user account	dnb nor bank	1
+biological macromolecules	dna	14
+classification society	dnv	8
+complex parameter	dna integrity	1
+diagnostic product	dna chip	1
+hierarchical system	dns	2
+modern technological advance	dna sequencing	1
+repetitive sequence	dna transposons	1
+resolution method	dns	1
+well information	dnis	2
+application layer protocol	dns	1
+automated technique	dnf method	1
+chemical structure	dna	2
+emerging contaminant	dna	1
+functional domain	dna binding	1
+intracellular component	dna	3
+lab activity	dna	1
+molecular genetic technique	dna sequencing	2
+molecular genetic technique	dna isolation	1
+molecular genetic technique	dna polymerase chain reaction	1
+scientific advancement	dna testing	1
+scientific advancement	dna cloning	1
+scientific evidence	dna	5
+scientific evidence	dna fingerprint	1
+scientific evidence	dna test result	1
+scientific evidence	dna testing	1
+scientific evidence	dna match of the victim	1
+single service	dns	2
+typing technique	dnaband-based typing technique	1
+typing technique	dna-based genomic typing technique	1
+typing technique	dna band-based typing technique	1
+typing technique	dna microarrays	1
+biochemical assay	dnase i footprinting	1
+biologically important molecule	dna	6
+cell characteristic	dna content of tumor cell	1
+modern program	dna sampling in conjunction with micro chip implanting	1
+molecular analysis	dna sequencing	1
+organic structure	dna	1
+screening technology	dna testing	1
+transposable element	dna transposable element	1
+ancillary parameter	dna content	1
+bacterial process	dna replication	1
+Biosensors	dna sensor	1
+electrochemical sensor	dna sensor	1
+activity	dna assembly	1
+activity	dna testing	1
+activity	dns query	1
+activity	dna repair mechanism	1
+information	dns	13
+information	dns server	8
+information	dns server address	5
+information	dna test lab	4
+information	dna sequence	3
+genetic information	dna	3
+genomic alteration	dna fragmentation	1
+non-viral vector	dna plasmid vector	1
+sample preparation method	dna extraction	4
+standard ingredient	dnase	1
+technology-based company	dna micro inc.	2
+transcriptional regulator	dna sequence-specific transcriptional regulator	1
+advanced analysis	dna	1
+biological element	dna molecule	1
+biomacromolecules	dna	5
+fluorescence technique	dna microarrays	2
+good candidate	dna repair gene xrcc three 	1
+high throughput application	dna sequencing	3
+high throughput application	dna sequence	1
+macromolecular structure	dna	2
+modern day technology	dna testing	1
+modern day technology	dna test	1
+molecular component	dna operator	1
+molecular component	dna	1
+molecular target	dna	1
+plant virus	dna plant virus	1
+polyelectrolytes	dna molecule	1
+scientific breakthrough	dna	1
+sperm parameter	dna fragmentation	1
+sperm parameter	dna fragmentation index	1
+staining method	dna sequencing	1
+staining method	dna staining method	1
+cellular constituent	dna	6
+Cellular stressors	dna damage	1
+computer software tool	dnastar software suite	1
+computing paradigm	dna computing	2
+date technology	dna profiling	2
+DNA binding protein	dna polymerase	1
+essential biological process	dna replication	1
+fibrous structure	dna	1
+IP protocol	dns	1
+molecular characteristic	dna hybridization	1
+molecular characteristic	dna base composition	1
+molecular datum	dna sequence	2
+molecular datum	dna	1
+molecular datum	dna analysis	1
+molecular datum	dna se quences	1
+molecular test	dna sequencing	3
+novel tool	dna microarrays	1
+others method	dna	1
+profiling technique	dna microarrays	3
+profiling technique	dna	2
+proliferation marker	dna ploidy	2
+target molecule	dna	5
+analysis application	dna fragment analysis application	1
+apoptotic event	dna fragmentation	3
+apoptotic event	dna fragmentation by cad	1
+biological polymer	dna	1
+cellular element	dna	1
+cellular feature	dna content of the nucleus	1
+charged molecule	dna	6
+chromatin modification	dna methylation	4
+complementary test	dnase test	1
+complex lesion	dna double-strand break	1
+culture-independent technique	dna probe test kits for salmonella	2
+culture-independent technique	dna extraction followed by dgge	1
+cutting edge technique	dna fingerprinting	1
+danger signal	dna damage	1
+danger signal	dna adducts	1
+discovery method	dns	1
+enzymatic reaction	dna sequencing reaction	1
+epigenetic mark	dna methylation	15
+epigenetic mark	dna methylation throughout the ifng locus	1
+epigenetic mark	dna	1
+epigenetic mark	dna methylation at the promoters of lineage-specific genes in hescs during differentiation into hepatocytes in vitro	1
+genomic resource	dna microarrays	1
+genomic resource	dna marker	1
+latest application	dna repair	1
+macromolecule	dna	7
+nuclear event	dna replication	3
+nuclear event	dna cleavage at internucleosomal site	2
+nuclear event	dna fragmentation	1
+reaction component	dna template	1
+Repetitive information	dn programming	2
+stress-inducing factor	dna damage	1
+analyte	dna	2
+information	dns name	3
+information	dnis	2
+information	dnc event venue	2
+information	dna paternity test	2
+information	dnr order	2
+information	dna testing	2
+information	dna profile	1
+information	dna sequence datum	1
+information	dns configuration change	1
+information	dns for the said connection	1
+information	dna structure	1
+information	dna test	1
+information	dna record	1
+information	dna of the people involved	1
+information	dna identification record	1
+information	dna duplex stability	1
+information	dnre wetland inventory maps	1
+information	dns servers name	1
+basic biological process	dna function	2
+basic biological process	dna metabolism	1
+biochemical compound	dna	1
+biological reaction	dna replication	1
+concrete term	dna	1
+DNA	dna adducts	1
+forensic issue	dna	1
+molecular biology method	dna ligation	1
+molecular feature	dna methylation	1
+nucleotide sequence	dna	5
+screening strategy	dna sequencing	1
+sensitive detection method	dna pcr	1
+turbulence model	dns	1
+amazing producer	dntel	1
+apoptotic characteristic	dna ladder	1
+conventional analytical method	dna analysis	1
+datum center service	dns	1
+dedicated server	dns	2
+digital standard	dng	1
+DNA damage	dna strand break	2
+DNA damage	dna crosslinkingand double-strand break	1
+DNA structure	dna hairpin	1
+DNA structure	dna junction	1
+DNA structure	dna bend	1
+genetic engineering technique	dna shuffling	1
+genetics	dna methylation	1
+hybridization condition	dna concentration	1
+intracellular event	dna damage	1
+large government agency	dnr	1
+local participant	dnj	2
+molecular change	dna methylation with the evolution	1
+molecular diagnostic technique	dna hybridization	1
+networking issue	dns configuration	1
+nuclear process	dna replication	8
+nuclear process	dna repair	3
+organic remains	dna	1
+profiling method	dna	1
+profiling method	dna fingerprint	1
+right-wing organization	dnvp	1
+single test	dna test	1
+stringent condition	dna template concentration	1
+acute insult	dna damage	1
+biochemical substance	dna molecule	1
+biomaterial	dna	3
+biometric characteristic	dna	1
+biomolecule	dna	2
+biotechnology technique	dna profiling	2
+common mechanism	dna damage	2
+core infrastructure service	dns	1
+drug molecule	dna	2
+forensic field	dna analysis	2
+forensic field	dna	1
+genome-wide approach	dna microarray analysis	1
+genotypic method	dna sequencing	1
+harmful event	dna damage	1
+infrastructure server	dns	7
+infrastructure server	dns server	1
+infrastructure server	dns servers for name resolution	1
+living cell	dna in the human body	1
+molecular probe	dna	2
+molecular structure	dna	1
+nonviral vector	dna plasmids	1
+nonviral vector	dna-based viral and nonviral vector	1
+privileged group	dns administrator	1
+solid evidence	dna testing	1
+solid evidence	dna analysis	1
+solid evidence	dna	1
+standard internet service	dns	1
+standard molecular cloning technique	dna isolation	4
+standard molecular cloning technique	dna ligation	1
+standard molecular cloning technique	dna gel electrophoresis	1
+web application framework	dnn	1
+wireless setting	dns cache	1
+basic cellular function	dna replication	1
+basic molecular biology technique	dna sequencing	1
+biomedical technology	dna	1
+information	dns name of the mobile communication device	1
+information	dns setting	1
+information	dna information	1
+information	dna profiles of suspect	1
+information	dna analysis documentation	1
+information	dns gateway	1
+information	dns address	1
+information	dns name server address	1
+information	dnr wetland coverage	1
+information	dna canister location	1
+information	dna sample	1
+core network service	dns	1
+critical infrastructure service	dns	1
+critical procedure	dna extraction	1
+hybridization technique	dna probe	1
+marker system	dnabased marker system	1
+medical evidence	dna	1
+modern molecular technique	dna sequencing	1
+modern scientific technique	dna analysis	1
+modern scientific technique	dna anlaysis	1
+molecular biology tool	dna sequencing	2
+natural molecule	dna	1
+nucleases	dnase i	2
+nucleases	dnase i from human	1
+regular test	dna check-ups	1
+standard recombinant DNA technique	dna ligation	1
+third-party resource	dns	1
+transfection method	dna transfection method	1
+accessory factor	dna helicases encoded by the genes defective in werner syndrome	1
+biologically active component	dna	1
+biotechnological approach	dna automatic sequencing	1
+content word	dnn	1
+dna-based method	dna array	1
+domain information	dns	1
+epigenetic process	dna methylation	18
+facial service	dna	1
+forensic science	dna	1
+forensic science	dna testing	1
+genomics technology	dna microarrays	1
+genomics technology	dna chip	1
+heat-shock protein	dnajb one 	1
+helicases	dnab helicase	1
+ionic polymer	dna	1
+joint service	dna chip	1
+molecular information	dna	1
+Natural biopolymers	dna	1
+network infrastructure service	dns	6
+nucleic acid sequence	dna	1
+party official	dnc chairman	1
+person's information	dna	1
+proper control	dna competition with specific-ptz one  dna 	1
+radical innovation	dna cloning	1
+recommended procedure	dna	1
+routine DNA manipulation	dna blot	2
+routine DNA manipulation	dna sequencing	1
+routine DNA manipulation	dna digestion with restriction enzyme	1
+routine DNA manipulation	dna ligation	1
+scientific test	dna	2
+traditional detection method	dna hybridization	1
+tumor-associated factor	dna ploidy	1
+advanced directive	dnr order	2
+advanced directive	dnr	1
+biochemical molecule	dna	1
+biomedical issue	dna testing	2
+biopolymer	dna	1
+browser setting	dns setting	1
+camera format	dng	1
+cell constituent	dna	1
+cell material	dna	1
+cellular target	dna	1
+complicated molecule	dna	1
+conventional assay	dna microarray assay	1
+conventional assay	dna binding assay	1
+dna-based technique	dna probe	1
+dna-based technique	dna finger printing	1
+dna-based technique	dna hybridisation	1
+essential central service	dns name resolution	1
+genetic analysis	dna sequencing	1
+host information	dns name	1
+intercalators	dna-binding fluorochromes like pi	1
+key protein	dna damage recognition protein	2
+modern diagnostic technique	dna fingerprinting	1
+molecular study	dna-dna hybridization	2
+morphologic characteristic	dna content	1
+event	dna replication	4
+sample preparation	dna extraction	1
+transfer technique	dna transfer technique	1
+utilized technique	dna extraction	1
+wide river	dnestr	1
+wide river	dnieper	1
+absolutely nothing	dna in a shaman's brain cell	1
+basic microbiological technique	dna extraction	1
+basic protocol	dns	2
+biologically relevant molecule	dna	2
+biopharma service	dna integration	1
+body's system	dna	1
+critical raw material	dna	1
+currently available method	dna based polymerase chain reaction technique	1
+day technology	dna microarray chip	1
+dna-based technology	dna-based nanotechnology	2
+dna-based technology	dna computing	1
+dna-based technology	dna nanoassembly	1
+dna-based technology	dna biochips	1
+dna-based technology	dna hybridization	1
+gene sequence	dna	3
+genetic aberration	dna copy number variation	2
+genomics tool	dna sequencing	2
+high-profile target	dns server	1
+IETF protocol	dns	1
+intracellular signal	dna damage	1
+key biological process	dna repair	2
+Large macromolecules	dna	3
+large polymer	dna	1
+long chain molecule	dna	2
+modern discovery	dna	1
+modern scientific method	dna testing	1
+molecular biological tool	dna analysis	1
+molecular biological tool	dna array	1
+molecular genetic method	dna sequencing	1
+molecular genetic method	dna barcoding	1
+molecular signal	dna methylation	1
+namespaces	dns namespace	1
+network address	dns server address	1
+normal cellular process	dna replication	1
+nucleolar protein	dna topoisomerase	1
+Polynucleotides	dna polynucleotides	69
+popular new game	dna	1
+probe molecule	dna	1
+public server	dns server	1
+required test	dna testing	1
+reversible change	dna methylation	1
+serial protocol	dnp three 	1
+simple protocol	dns	1
+subtyping method	dna-based subtyping method	1
+Traditional biomarkers	dna adducts	1
+world's greatest artist	dntel	1
+biological tool	dna encoding ospc	2
+cellular stress condition	dna damage	1
+class society	dnv	1
+core object	dns	1
+critical cellular process	dna replication	3
+critical cellular process	dna damage repair	2
+currently application	dna sequencing	1
+functional genomic approach	dna microarrays	2
+functional genomic approach	dna micro-arrays	1
+gateway service	dns	1
+global regulator	dnaa	1
+high availability application	dns server	1
+high-throughput experimental technique	dna microarrays	2
+intrinsic trait	dna	1
+large set	dna	1
+load balancer	dns round robin	1
+negative report	dns list	1
+event	dna damage	1
+event	dna hybridization	1
+event	dna-methylation-based silencing of tumor suppressor gene	1
+event	dnb mafia	1
+event	dna mutation	1
+event	dna replication checkpoint	1
+event	dna repair	1
+event	dnd night	1
+protein factor	dna polymerases	1
+proxy service	dns	2
+quantitative assay	dna microarrays	1
+regulatory event	dna methylation of the endogenous mouse reck promoter	1
+regulatory event	dna methylation of the endogenous pdgf-b promoter	1
+single socket protocol	dns	3
+standard internet protocol	dns	1
+superfamily member	dna repair protein xpg	2
+vital protein	dna polymerase	7
+amplification assay	dna pcr	1
+anticancer therapy	dna-damaging drug	1
+attack technique	dns spoofing	1
+bhakti period saint	dnyaneshwar	7
+binding site	dna binding site	1
+bioactivity	dna repair	1
+biologic parameter	dna index	1
+biologically active material	dna	1
+business related event	dng networking luncheon	1
+cellular substance	dna	1
+complex polymer	dna	1
+DHCP option	dns server	3
+DHCP option	dns	1
+DNA technology	dna microarrays	1
+DNA technology	dna chip	1
+forensic method	dna testing	2
+genome rearrangement	dna deletion	5
+high profile deal	dna sciences	1
+high-throughput assay	dna microarrays	1
+marketplace site	dnforum	1
+matching tool	dna	1
+microfabrication technology	dna chip-making technology	1
+molecular biology procedure	dna extraction	2
+network change	dns server	2
+network configuration setting	dns server	2
+network configuration setting	dns	1
+polymerase	dna polymerase	1
+recombinant DNA method	dna ligation	1
+robust technique	dna microarrays	1
+sequence-based method	dna sequence-based method	1
+single molecule	dna	2
+toxic protein	dnase i	1
+year new technology	dna chip	1
+best educational game	dna	1
+bioinformatics company	dnastar	1
+bio-molecules	dna	3
+biotechnological method	dna array expression analysis	1
+cell stress	dna damage	1
+cell stress	dna damage induced by uv irradation	1
+cellular molecule	dna	5
+critical cellular function	dna synthesis	1
+datum supplier	dnb	1
+DHCP server	dnsmasq	1
+event	dna synthesis	1
+enzymatic process	dna translocation	1
+epigenetic regulation	dna methylation	3
+epigenetic regulation	dna methylation in the promoter region of the tff one  gene 	1
+essential cellular function	dna repair	1
+essential cellular function	dna replication	1
+exogenous molecule	dna into the cell	2
+exogenous molecule	dna into cell	1
+exotic approach	dna computing	1
+free speech advocate	dnrc	1
+freshwater river	dnestr	1
+freshwater river	dnepr	1
+genetic resource	dna sequence	1
+genomic application	dna methylation profiling	3
+genotypic technique	dna chromosomal profile	1
+industry protocol	dnp & modbus	1
+informational system	dna	3
+IP service feature	dns	1
+macromolecular drug	dna	3
+molecular biology application	dna sequencing	1
+natural and synthetic compound	dna binding molecule	1
+network configuration parameter	dns	1
+novel system	dna iq	1
+observation type	dna prole	1
+online subscription service	dnrec press release	1
+powerful agency	dna	1
+quantification method	dna quantification method	1
+recombinant vector	dna expression vectors comprising the above nucleic acid	1
+rna polymerases	dna-dependent rna polymerases	1
+server-based service	dns	1
+state levy	dnr forestry	1
+stateless service	dns	1
+threat vector	dns redirection	1
+Uncouplers	dnp	2
+uncoupling agent	dnp	1
+vaccine technology	dna vaccine	1
+vaccine technology	dna	1
+advanced video setting	dnr	1
+alternative approach	dna-based alternative approach	1
+anionic substance	dna	2
+basic network service	dns	2
+big molecule	dna	1
+Bioactive macromolecules	dna	1
+biochemical mechanism	dna replication	1
+Biological evidence	dna	1
+cell content	dna	3
+cell element	dna	1
+characteristic change	dna fragmentation	1
+Complex macromolecules	dna	1
+database record	dns database record	1
+DNA repair enzyme	dna glycosylases	1
+example biologically important molecule	dna	1
+forensic information	dna evidence	1
+forensic science technique	dna profiling	1
+genomic datum	dna sequence datum	1
+genomic method	dna fingerprinting	1
+gigantic project	dnieper dam	1
+GPS software	dnr garmin tool	1
+high-level participant	dne	1
+high-throughput screening method	dna array	1
+immunochemical reactant	dna	3
+large biological molecule	dna	3
+large biomolecules	dna	2
+Linked information	dna sequence	1
+memorial product	dna necklace	1
+metabolic gene	dna	1
+modern investigative technique	dna evidence from cornwell	1
+molecular detection technique	dna-dna hybridization	2
+network-management application	dns	1
+program	dna typing	1
+nuclear function	dna replication	2
+onboard service	dns	1
+Physical biometrics	dna	1
+proapoptotic stimulus	dna damage	2
+registry service	dns zone file generation	1
+response factor	dna damage response factor	1
+response gene	dna damage response gene	1
+robust platform	dna microarrays containing wzx	1
+running condition	dna injection width	1
+server capability	dns server	1
+server-based technology	dns	2
+small biological molecule	dna	1
+standard DNA recombinant procedure	dna isolation	7
+subtle injury	dna strand break	1
+UDP protocol	dns	1
+advanced molecular technique	dna barcode analysis	1
+analyte molecule	dna	1
+anionic contaminant	dna	1
+apoptotic signal	dna damage	1
+atp-dependent process	dna synthesis	1
+atp-dependent process	dna andprotein synthesis	1
+atp-dependent process	dna	1
+biochemical experiment	dnase i footprinting analysis	1
+biological probe	dna	1
+biomarker test	dna sequencing	1
+british producer	dna films	1
+cell cycle event	dna replication	1
+cell death mechanism	dna damage	1
+cellular compound	dna	1
+central infrastructure service	dns	2
+clough pipeline related software	dnv spreadsheets	1
+complex biological molecule	dna	1
+connection feature	dncon	3
+core infrastructure component	dns	1
+dependent process	dna dependent process	1
+distributed service	dns	1
+DNS record	dnssec	1
+emerging biotechnology	dna-based optronics	1
+encoding strategy	dna encoding	2
+endogenous antigen	dna from necrotic cell	1
+essential network configuration datum	dns	1
+forensic activity	dna	1
+forensic science concept	dna analysis	1
+forensic testing	dna	1
+functional genomic technique	dna microarray anayses	1
+inorganic matrix	dna embeddedin agarose gel	1
+installing service	dns	1
+Key-words	dna	1
+lab instrument	dna sequencers	2
+man-in-the-middle attack	dns poisoning attack	2
+meaningless name	dna transposons	1
+molecular diagnostic method	dna microarray technique	1
+molecular-based method	dna probe hybridization	2
+monitor core service	dns	3
+multi-valued attribute	dnis group	2
+Natural macromolecules	dna	2
+network related issue	dns	1
+network-centric service	dns	1
+nuclear component	dna	1
+oral compound	dnp	2
+Organic macromolecules	dna	2
+pharmacological parameter	dna binding in l one thousand two hundred and ten  cells inoculated in mice 	2
+program	dnv software program	1
+program	dna strider	1
+program	dnadist	1
+program	dnsc program at ut-memphis	1
+policy system	dns	1
+powerful, high-level component	dns server and client	1
+prominent morphological feature	dna fragmentation	1
+propagative material	dna clone	1
+real-time protocol	dnp	1
+real-world context	dna fi ngerprinting	1
+sequence-based typing method	dna sequence-based typing method	1
+state wildlife agency	dnr	1
+academic camp	dna & forensics	1
+apoptosis-inducing stimulus	dna-damaging drug	2
+basic network function	dns	1
+basic research equipment	dna	1
+biologic molecule	dna	2
+biological matter	dna	1
+biomolecular system	dna	4
+biosensor	dna sensor	1
+cellular insult	dna damage	2
+cellular macromolecules	dna	2
+cellular physiological parameter	dna content	1
+cellular signal	dna damage	1
+chip technology	dna	1
+chip technology	dna array	1
+classification authority	dnv	2
+common prognostic factor	dna index	1
+complex biochemical process	dna replication	1
+crucial department	dna analysis	1
+currently sample	dna	1
+cyberattacks	dns-changing malware exploit	1
+dedicated task	dns	1
+distinct morphological feature	dna fragmentation	1
+DNA analysis technique	dna fingerprinting	1
+dna-associated process	dna repair	1
+endogenous process	dna replication	1
+epigenetic drug	dna methylase inhibitor	1
+epigenetic drug	dna methyltransferase inhibitor	1
+epigenetic drug	dna methylation inhibitor	1
+epigenetic effect	dna methylation	1
+epigenetic regulator	dna methyltransferases dnmt one 	1
+epigenetic regulatory mechanism	dna methylation	2
+essential structural feature	dna binding	1
+fundamental cellular function	dna replication	1
+gene polymorphisms	dna repair pathway gene polymorphisms	1
+genome approach	dna microarrays	1
+genotoxic chemical	dna reactive, genotoxic chemical	1
+high-throughput genomic technology	dna microarray technology	1
+hybridization technology	dna microarray hybridization technology	1
+immune response modifier	dncb	1
+internet related technology	dns	1
+introduction molecule	dna	1
+ip	dns provider ip	1
+lab experiment	dna	1
+large scale technology	dna microarrays	1
+large state agency	dnr	1
+large-scale genomic datum	dna binding datum	1
+legal directive	dnr	2
+long-chain molecule	dna	1
+program	dna program in lithuania	1
+program	dna kits	1
+meth ods	dna	1
+microfluidic system	dna analysis system	2
+modern biotechnology technique	dna forensic	1
+modern genetic technique	dna transformation	2
+molecular diagnostic tool	dna microarray analysis	1
+molecular recognition system	dna replication	1
+mutagenesis technique	dna mutagenesis technique	1
+national democrat	dnc chair josh lyman	1
+national information system	dna database	1
+network related service	dns	2
+networking parameter	dns andbroadcast	1
+networking parameter	dns	1
+nitrated organic compound	dnt	1
+nonculture method	dna probe	1
+non-culture test	dna probe	1
+nucleic acid construct	dna	3
+otic characteristic	dna ladder	1
+performance object	dns	1
+polynucleotide	dna	7
+popular network protocol	dns	3
+popular representation	dnf	2
+proxy application	dns	2
+R&D tool	dna array	1
+repressors	dna binding repressors	1
+resolution service	dns	1
+scientific analysis	dna testing	1
+scope option	dns	2
+scope option	dns server	1
+sensitive target	dna	1
+ship classification society	dnv	1
+solubilization agent	dna	1
+staining dye	dna staining dye	1
+supplementary protocol	dns	1
+system-wide service	dns	1
+the invisible things	dna	1
+today internet attack	dns spoofing	1
+toxic insult	dna damage	1
+transfection condition	dna concentration	1
+typical ISP application	dns	1
+udp-based protocol	dns	2
+vibrational technique	dna reprogramming	1
+virtual activity	dna fingerprinting	2
+vital cellular function	dna replication	2
+water soluble treatment agent	dna	2
+wide biological material	dna	1
+anionic biopolymers	dna	1
+application layer IP protocol	dns	1
+basal process	dna replication	1
+base analog	dna base analog	1
+basic laboratory analysis	dna isolation	1
+basic network setting	dns	1
+biometric tool	dna	1
+biomolecular interaction	dna hydration	1
+biomolecular interaction	dna hybridization	1
+biomolecular recognition component	dna sequence	1
+bio-recognition element	dna	1
+broadband access information	dns server address	2
+broadband ISP information	dns server address	1
+cell adhesion peptides	dna	1
+cell cycle process	dna replication	2
+cellular stress stimulus	dna damage	1
+chrom atin-related event	dna replication	1
+chromatin-related event	dna replication	1
+common pathway element	dna	4
+Complex biomolecules	dna	2
+complex waste	dnapl	1
+conclusive evidence	dna	1
+core internet protocol	dns	3
+critical IT service	dns	1
+customer specific application	dns	1
+factor	dna paternity	1
+factor	dna purity	1
+factor	dna damage susceptibility	1
+factor	dna alteration	1
+factor	dna binding transcription factor	1
+factor	dna replication factor	1
+factor	dna size	1
+factor	dna stability	1
+factor	dnase ii	1
+DHCP setting	dns server	4
+distinct biochemical and morphological change	dna fragmentation	4
+DNA purification kit	dna gel extraction kit	1
+DNA repair protein	dna-dependent protein kinase catalytic subunit	1
+drug-induced effect	dna damage	1
+elementary technique	dna extraction	2
+endogenous marker	dna marker	1
+endonucleases	dna gyrase	1
+essential internet connection feature	dns	1
+essential molecule	dna	1
+essential network service	dns server	1
+experimental vaccine	dna	1
+external and internal stimulus	dna damage	1
+famous model agency	dna model management	1
+Firewall system information	dns server	2
+follow-on technology	dna microarrays	1
+forensic test	dna test	1
+forensic test	dna analysis	1
+free radical oxidation molecule	dna	1
+fully open access journal	dna research	1
+genetic and epigenetic factor	dna methylation	1
+genetic and genomic approach	dna barcoding	2
+great international AR company	dnp digitalcom	1
+gross structural and biochemical marker	dna	1
+hexameric helicases	dnab	3
+high-molecular-weight organic compound	dna	1
+high-throughput experimental method	dna	5
+homeostatic system	dna repair	1
+hydrophilic macromolecules	dna	1
+infrastructure support system	dns	1
+interagency strategy area	dna collection	1
+internet's main application protocol	dns	5
+introduction many cellular process	dna replication	1
+IR tool	dnp website	1
+key network service	dns	1
+modern high-throughput technology	dna microarrays	1
+molecular genetics method	dna sequencing	1
+molecular genetics method	dna-dna hybridization	1
+morphological and biochemical change	dna fragmentation	3
+namespace	dns namespace	2
+non-spherical object	dna	1
+note program	dns caching utility	2
+novel construct	dna-coated single-walled carbon nanotubes enriched with maghemite nanoparticles	1
+nuclear activity	dna repair	1
+organic nanomaterials	dna	1
+Pen-and-paper RPGs	dnd	1
+performed common lab procedure	dna extraction	1
+polymerase enzyme	dna polymerase	2
+polynucleotide molecule	dna	6
+popular educational game	dna	1
+pro-apoptotic stimulus	dna damage	1
+radio series	dna chronicles	2
+random approach	dna shuffling	3
+random mutagenesis technique	dna shuffling	2
+rapid assay	dna probe	1
+renowned ride	dna mixer	1
+repair pathway	dna mismatch repair	1
+secondary DNA structure	dna quadruplexes	1
+organization	dna people's legal services	2
+single stranded nucleic acid	dna	1
+single-cell component	dna	1
+soft matter material	dna	1
+sophisticated molecular biology technology	dna sequencing	1
+sophisticated scientific technique	dna testing	1
+sophisticated scientific technique	dna analysis	1
+speed feature	dns prefetching	2
+subject particle	dna	1
+substrate extension	dna	1
+targeted investment	dna bank	1
+technical support issue	dns issue	1
+template molecule	dnt	1
+tugboat company	dnl salvage	2
+typical cellular aging phenomenon	dna defect	1
+unusual DNA structure	dna fork	1
+unwanted service	dns	2
+utilized advanced biotechnology technique	dna isolation	1
+valid advance directive	dnr	1
+valuable research tool	dna sequence	1
+variousexternal and internal stimulus	dna damage	1
+vertebrate cell	dna in mitochondria	1
+acidic polyelectrolytes	dna	1
+actin monomer binding protein	dnase i	1
+apoptosis detection method	dna laddering analysis for detection of fragmentation of dna	2
+bacterial cell product	dna	2
+basic biomolecular process	dna transcription	1
+basic biomolecular process	dna replication	1
+basic IT infrastructure service	dns	1
+behind-the-scenes protocol	dns	1
+biological building block	dna	2
+biological device	dna	1
+Biological identifiers	dna	1
+biological key process	dna replication	1
+biological membrane process	dna encapsulation	1
+biomedicial and biochemical process	dna purification	1
+biometric test	dna testing	1
+Bio-polymers	dna	1
+biorecognition molecule	dna	1
+biosubstances	dna	1
+business critical service	dns	1
+candidate human es-specific gene	dnmt three b 	1
+cell biology topic	dna	1
+charged biomolecules	dna	3
+charged material	dna	1
+chromatin-modifying enzyme	dna methyltransferases	1
+classical epigenetic mechanism	dna methylation	1
+cloning step	dna purification	1
+common apoptotic marker	dna fragmentation	1
+common SCADA protocol	dnp three 	1
+countless AAA title	dnd online	1
+critical analysis service	dna	1
+daily user issue	dns	1
+deleterious host effect	dna damage	1
+Detecting biomolecules	dna	1
+distinct morphological change	dna fragmentation	1
+DNA regulatory protein	dna gyrase	1
+DNA transaction	dna replication	2
+dna-dependent activity	dna repair	1
+dna-dependent reaction	dna repair	1
+drug resistance mechanism	dna repair	1
+organization	dnr	1
+organization	dnv note the importance of transmitting cultural value	1
+epigenetic modifier	dna demethylating agent	1
+epigenetic modifier	dna methyltransferase	1
+essential cellular reaction	dna replication	1
+experimental alternative therapy	dncb	1
+fancy device	dna sampling	1
+forensic laboratory technique	dna	1
+functional macromolecules	dna	1
+fundamental biochemical process	dna replication	1
+gene name	dnaa	1
+gene name	dnac	1
+gene name	dnab	1
+genetic agent	dna	2
+genetic procedure	dna isolation	1
+genetic procedure	dna ligation	1
+genetic screening	dna testing	1
+genomic analysis tool	dna sequencers	1
+genomic analysis tool	dna array	1
+genomic and proteomic strategy	dna microarrays	1
+genomic-enabled technology	dna microarrays	1
+genotoxic effect	dna mutation	1
+genotoxic effect	dna strand break	1
+growth-related function	dna synthesis	2
+Helical biomacromolecules	dna	1
+heritable change	dna methylation	1
+high-performance active ingredient	dna	1
+high-throughput experimental approach	dna microarrays	1
+human genetic material	dna sequence	1
+ii inhibitor	dna topo ii inhibitor	1
+influenza vaccine	dna vaccine	1
+insolation datum	dni map	1
+internets main application protocol	dns	6
+Introduction Biomolecules	dna	1
+introduction fundamental biological process	dna transcription	1
+INTRODUCTION high-throughput technology	dna array	1
+irrational approach	dna shuffling	1
+ISP related function	dns	1
+joint international project	dnepr	1
+key infrastructure element	dns server	1
+key window service	dns client	1
+large sequence database	dna	1
+large-scale, expensive technology	dna microarrays	1
+large-scale, expensive technology	dna chip	1
+ligand-receptor binding interaction	dna hybridization	3
+load-balancing mechanism	dns round robin	1
+logging feature	dns server log	5
+long polymer	dna	2
+low-grade case	dnet	1
+lymphocyte function	dna synthetic response	1
+macromolecular agent	dna	1
+medical and health material	dna	2
+methodological parameter	dna extraction	1
+Methyltransferases	dnmt three b 	2
+Methyltransferases	dnmt one 	1
+Methyltransferases	dnmt three a 	1
+microscopic material	dna	1
+modern molecular tool	dna sequencing	1
+molecular biology approach	dna manipulation	1
+molecular epidemiological study procedure	dna extraction in fecal	1
+molecular genetics approach	dna cloning	1
+molecular genetics approach	dna marker technology	1
+multinational handler	dnata	1
+name server	dns	1
+name server	dnsmasq	1
+nanotechnology-based application	dna	1
+natural creation	dna	2
+NCMEC resource	dna protocol	1
+network item	dns setting	1
+NII service	dns	1
+NK cell receptor	dnam- one 	1
+nonimmunoglobulin molecule	dna	1
+normal internet service	dns	1
+nuclear alteration	dna fragmentation	1
+nucleic acid sample	dna sample	2
+nucleic acid sample	dna	1
+nucleotide molecule	dna	1
+nucleotide molecule	dna andmrna	1
+online internet service	dns lookup	1
+Othercarriers	dna-mediated transfer	1
+patient biological medical datum	dna	1
+patient material	dna sample	1
+Personal biological identifiers	dna tag	1
+organization	dnipropetrovsk	1
+organization	dnd	1
+organization	dnepropetrovsk	1
+technique	dna sequencing	30
+technique	dna microarrays	22
+technique	dna analysis	11
+technique	dna fingerprinting	10
+technique	dna	10
+technique	dna footprinting	8
+technique	dna extraction	7
+technique	dna shuffling	6
+technique	dna hybridisation	6
+technique	dns spoofing	5
+technique	dna probe	5
+technique	dna cloning	4
+technique	dna testing	4
+technique	dna amplification method	3
+technique	dna isolation	3
+technique	dna research	3
+powerful experimental technique	dna shuffling	1
+process-related impurity	dna	1
+purpose server	dns server	3
+radical new technology	dna computer	2
+real polymer	dna	2
+regular separate application	dns	1
+replication factor	dna polymerases	2
+resolved many server operational issue	dns	1
+routine laboratory duty	dna extration	1
+scientific police service	dna	1
+self-replicating molecule	dna	2
+semiflexible polymer	dna	5
+senescence-inducing signal	dna damage	1
+senescence-inducing signal	dna-damage response	1
+Sensitive identification information	dna	3
+sequence-based approach	dna sequence-based approach	1
+serious legal and evidentiary issue	dna	1
+service entity	dni	1
+simple server	dns	1
+small-scale experiment	dnase footprinting	1
+state recreation land	dnr forest land	1
+strong trademark	dnb north	1
+surfactants molecule	dna	1
+symbolic sequence	dna sequence	1
+traditional molecular and biochemical method	dna fingerprinting	1
+transfer issue	dnr	2
+typical apoptotic characteristic	dna fragmentation	2
+unauthorized network service	dns	1
+UNIX server program	dns	1
+vaccine strategy	dna vaccine	1
+valuable forensic datum	dna	1
+webmaster task	dns	1
+yeast gene	dnm one 	1
+acadia's lab student use technique	dna testing	1
+active directory setting	dns	1
+actual medical tool	dna id kit	1
+advanced airport option	dns	1
+advanced molecular biology technique	dna pyrosequencing	1
+allergy elimination technique	dna allergy reprogramming	1
+amazing new tool	dnc's new online tool for neighborhood organizing	1
+anabolic enzyme	dna polymerase	1
+anionic macromolecules	dna	1
+anti-spam measure	dnsbls	1
+apoptosis change	dna fragmentation	1
+apoptotic process	dna fragmentation	1
+attack biological macromolecules	dna	1
+auxiliary method	dna image cytometry	2
+bacteria-derived product	dna	1
+band-based typing technique	dna band-based typing technique	1
+base modification	dna methylation	1
+basic binding feature	dna looping	1
+basic internet technology	dns	2
+basic molecular technique	dna isolation	1
+technique	dna profiling	2
+technique	dna barcoding	2
+technique	dns cache poisoning	2
+technique	dna transfection	2
+technique	dna hybridization	2
+technique	dna probing	1
+technique	dna mutagenesis technique	1
+technique	dna testing technique	1
+technique	dna sampling for minimum number	1
+technique	dna study	1
+technique	dna-dna relative reassociation	1
+technique	dna-based identification	1
+technique	dns flood	1
+technique	dna cytometry	1
+technique	dna evidence	1
+technique	dna fragment-based technique	1
+technique	dna chip	1
+technique	dna amplification fingerprinting	1
+technique	dns blacklisting	1
+technique	dna typing of blood	1
+technique	dna-based laboratory technique	1
+technique	dna-dna hybridization analysis	1
+technique	dnase i footprinting	1
+technique	dns blacklist	1
+technique	dna nucleotide sequencing	1
+technique	dna recombinant technology	1
+technique	dna recombination technique	1
+technique	dna test	1
+technique	dna sequence analyses of the small subunit rrnas	1
+technique	dna micro-arrays	1
+technique	dna in-situ hybridization	1
+technique	dna hybridisation technique	1
+technique	dna mapping	1
+technique	dna microarray analysis	1
+technique	dna adduct assessment	1
+technique	dna affinity column	1
+technique	dna detection technique	1
+basic, everyday protocol	dns	1
+biochemical genetic technique	dna sequencing	1
+biochemically important substance	dna	1
+biochemistry topic	dna structure	1
+biochip	dna chip	8
+biochip	dna micro-array	1
+biological part	dna	1
+biological tumor variable	dna ploidy	1
+biologically important macromolecules	dna	1
+BIOLOGY A substance	dna	1
+biomedical process	dna hybridization	1
+biomolecular probe	dna	1
+bio-structure	dna	1
+built-for-purpose system	dns	1
+built-in server application function	dns	1
+business-critical network service	dns	1
+cancer-related research area	dna repair	1
+candidate vaccine	dna vaccine	1
+cell damage	dna break	1
+cellular component removal enzyme	dnases	1
+cellular repair protein	dna-pkcs	1
+certain bacterium	dna extraction certain bacterium	1
+certifying authority	dnv	1
+charged biopolymers	dna	1
+Chemical uncouplers	dnp	1
+chemotherapeutic molecule	dna alkylators	2
+chromosomal defect	dna amplifi cation	1
+classical molecular method	dna footprinting	1
+classification approval	dnv	1
+classification company	dnv	1
+clinical microbiological research technique	dna transformation	1
+clinical microbiological research technique	dna extraction	1
+commercially available DNA synthesizer	dna synthesizer based on the thiophosphite method	1
+commercially available DNA synthesizer	dna synthesizer based on the phosphoamidite method	1
+common directory standard	dns	1
+company network service	dns	1
+company server	dns	1
+complex non-linear system	dna	1
+computer's network property	dns server addresses	1
+conditional lethal mutation	dna ligase i mutation	1
+Conscriptive evidence	dna identification evidence derived from bodily sample	1
+contemporary criminal justice topic	dna	1
+crucial network service	dns	1
+dedifferentiation technique	dna nucleus reprogramming	1
+democratic surrogate	dnc chair debbie wasserman schultz	1
+democratic surrogate	dnc communications director brad woodhouse	1
+denon compact disc cart player	dn- nine hundred and sixty-one fa 	1
+denon compact disc cart player	dn- nine hundred and fifty f 	1
+denon compact disc cart player	dn- nine hundred and fifty-one fa 	1
+diagnostic and forensic application	dna fingerprinting in criminal investigation	2
+diamagnetic cell component	dna in the head	2
+distinct process	dna methylation	1
+DNA technology topic	dna fingerprinting	1
+DNA variation	dna repair gene	2
+dna-based molecular technique	dna-dna hybridization with cloned probe	1
+DNS security mechanism	dns security extensions	1
+DNS security mechanism	dns security transaction signatures	1
+domain name system technique	dns cache poisoning	1
+double-stranded polynucleotides	dna molecules used in the present invention	1
+double-stranded polynucleotides	dna of the present invention	1
+electronic dance music style	dnb	1
+Encoded information	dna	1
+enzymatic treatment	dna gyrase	1
+epigenetic chromatin modification	dna methylation	3
+epigenetic chromatin modification	dna	1
+epigenetic difference	dna methylation	1
+epigenetic regulation mechanism	dna methylation	1
+epigenetic signal	dna methylation	2
+epigenetic therapy	dna demethylating agent	1
+essential biologic function	dna synthesis	1
+essential biological molecule	dna	1
+essential communication service	dns	1
+essential protocol	dns	1
+Extremely sensitive personal information	dna sample	1
+famous modeling company site	dna	1
+fashion agency	dna	1
+fee-per-use service	dna sequencing	1
+first, essential process	dna replication	2
+fundamental biological difference	dna base composition	1
+fundamental breakthrough	dna cloning	1
+fundamental forensic technique	dna analysis	2
+fundamental research tool	dna chip	2
+technique	dns block list	1
+technique	dns srv record	1
+technique	dns reflection	1
+technique	dna array	1
+technique	dna bar-coding	1
+technique	dna chip technology	1
+technique	dna analysis from teeth tissue	1
+technique	dna analysis technique	1
+technique	dna filter assay s	1
+technique	dna flow cytometry of biopsy sample	1
+technique	dna preparation	1
+technique	dna reassociation	1
+technique	dna ploidy analysis	1
+technique	dna microarray technology	1
+technique	dna-dna hybridization	1
+technique	dna synthesis	1
+technique	dna technology	1
+technique	dna transfer technique	1
+technique	dnaband-based typing technique	1
+technique	dns test	1
+technique	dna recombination	1
+technique	dna microspectrophotometry	1
+technique	dna ploidy study	1
+technique	dna pooling	1
+technique	dna analysis of parts collection item	1
+technique	dna band-based typing technique	1
+technique	dnarrna hybridization	1
+technique	dna-based study	1
+technique	dnase susceptibility assay	1
+technique	dna subcloning	1
+technique	dna templating	1
+technique	dna-based genomic typing technique	1
+technique	dna-based marker technique	1
+application	dns	25
+Fur-therexperiments	dna sequencing	1
+genetic modification technique	dna vaccination	1
+genetic substance	dna	2
+genomic and post-genomic technology	dna microarrays	1
+genotoxic endpoint	dna protein crosslinks	1
+global directory service	dns	2
+good laboratory	dna laboratory	1
+hard-proven scientific field	dna analysis	1
+heat stable enzyme	dna polymerase used in pcr analysis by forensic scientist	1
+heterochromatin-modifying effect	dna methylation	1
+high-fidelity biomolecular analysis technique	dna sequencing	2
+high-resolution application	dna sequencing	1
+high-tech concept	dna profiling	1
+high-throughput experimental technology	dna sequencing	2
+high-throughput experimental technology	dna chip	1
+human genomics application	dna microarrays	1
+hybridization-based technology	dna microarrays	5
+icl agent	dna icl agent	1
+impressive advance	dna testing	1
+Incorporating biomolecules	dna	2
+indifferent context	dna extraction	1
+informational molecule	dna	1
+innovative service provider	dna	1
+innovative, privacy-enhancing technology	dna scanner	2
+integrating operation	dna extraction	1
+interagency program area	dna collection	1
+Introduction Biological macromolecules	dna	1
+introduction semiflexible polymer	dna	1
+IP setting	dns server	1
+ISP setting	dns ip	1
+key concept word	dna testing	2
+key medi-atorsinthese pathway	dna-dependent protein kinase dna-pk	1
+key molecular biologic procedure	dna sequencing	1
+labelled nucleic acid	dna	1
+local area network service	dns caching	2
+local window service	dns	1
+long molecule	dna	2
+loose-end item	dns system	1
+low-light-level, uv-sensitive application	dna sequencing	1
+massive datum acquisition technology	dna array	1
+Memory-intensive workflows	dnx  four hundred and fourty-four 	1
+microarrayed-patterned biomolecules	dna	1
+microbe's smaller component	dna	1
+microchip device	dna	1
+microsoft network system	dns	1
+modem molecular tool	dna sequencing	1
+modern analysis method	dna probes employing pcr	1
+modern laboratory technique	dna extraction	1
+molecular analytical technique	dna sequencing	1
+molecular analytical technique	dnasequencing	1
+molecular application	dna synthesis	1
+molecular enzyme	dna polymerase	1
+molecular phylogenetic technique	dna purification	1
+molecular phylogenetic technique	dna extraction	1
+molecular profiling technology	dna microarrays fortoxicogenomics	1
+molecular tumor marker	dna microsatellite instab ility	1
+motorcykles	dniepr- eleven 	1
+multiplex technology	dna microarrays	1
+mundane network task	dns	1
+nameforms	dns name	1
+net CMS product	dnn	1
+network configuration change	dns server	3
+non-infectious material	dna	1
+noninvasively biological phenomenon	dna molecular recognition event	2
+non-linguistic system	dna code	1
+non-liquid crystal technology	dna amplification	1
+non-nmda AMPA receptor antagonist	dnqx	1
+non-resource-intensive infrastructure application	dns	3
+Non-specific nucleases	dnase i	1
+application	dna	5
+application	dna sequencing	4
+application	dna testing	4
+application	dna profiling	3
+application	dna microarraying	2
+application	dna microarray data analysis	2
+application	dna-hybridisation assay	2
+application	dna detection	2
+application	dna normalization	2
+application	dna microarrays	2
+application	dna analysis	2
+application	dna forensic	1
+application	dna hybridization	1
+application	dna transfection	1
+application	dna minipreps	1
+application	dns query	1
+application	dns server	1
+application	dnp	1
+application	dns dhcp	1
+application	dna nanoarrays	1
+application	dna separation	1
+application	dna sequence	1
+application	dna cloning	1
+application	dna microarray application	1
+application	dna microarray analysis	1
+application	dna fingerprinting organisms with large genome size	1
+application	dna fragment analysis	1
+novel technological development	dna microarrays	1
+nucleic acid fragment	dna	1
+nucleic acid-based technology	dna hybridization	1
+nucleic assay	dna sequencing	1
+Nucleicacids	dna	1
+nucleophil site	dna	1
+oligomeric substance	dna	2
+Open Source DNS server	dnsmasq	1
+optional global setting	dns server	1
+oral steroid compound	dnp	2
+organic N compound	dna	1
+otherpharma cological parameter	dna binding in l one thousand two hundred and ten  cellsinocu lated in mice 	1
+p53-mediated cellular response	dna repair	1
+PCR enrichment technique	dna blocking	1
+performed laboratory test	dna extraction	1
+personal biometric datum	dna	1
+pharmacogenomic testing	dna quantitation	1
+pharmacogenomic testing	dna integrity	1
+phosphatidylinositol-3-kinases	dna-pk cs	1
+pip	dna ligase i	1
+pipetting long, sticky molecule	dna	1
+policy attribute	dns	1
+Polyanionic macromolecules	dna	1
+polynucleic acid	dna	1
+polynucleotide sample	dna	1
+post-genomic technique	dna microarrays	1
+potential anti-cancer drug	dna methyltransferase inhibitor	1
+pretty complex idea	dna replication	1
+primer extension reaction	dna sequencing reaction	1
+print medium brand	dna	1
+Probe material	dna	1
+random fun event	dnb	1
+rapid identification method	dna probe	2
+rational information	dna coding	1
+recursive DNS service	dns advantage	1
+regular molecular biology method	dna	1
+replication protein	dna polymerases	3
+replisome component	dna polymerase	1
+replisomecom-ponents	dna polymerase	1
+review various log file	dns log	1
+RNA quantitation technique	dna microarrays	2
+ROS attack cellular component	dna	1
+scanning voltammetric technique	dnpv	1
+server administration tool	dns	1
+simultaneous detection method	dna chip analysis	1
+singapore-based company	dnb nor	1
+site application	dnn	1
+small lipid-soluble molecule	dncb	1
+small scale model	dns of turbulent ow with particle	1
+small-molecule chemical	dna methyltransferase inhibitor	1
+solid state technology	dna chip technology	1
+sophisticated and costly technique	dna sequencing	1
+standard directory protocol	dns	1
+Statistical evidence	dna match probability calculated on the basis of population genetic survey	1
+string-like object	dna	1
+structurally complex charged biopolymers	dna	4
+summary biological process	dna replication	1
+application	dna fragment analysis application	1
+application	dna footprinting	1
+application	dna content analysis	1
+application	dna evidence in court	1
+application	dns redirection	1
+application	dns lookup	1
+application	dna array	1
+application	dna sizing	1
+application	dna technological application	1
+application	dna-hybridization assay	1
+targeted severalbiomarkers	dna	1
+third-party classification society	dnv	1
+Tobacco carcinogen biomarkers	dna adducts	1
+Tobacco carcinogenbiomarkers	dna adducts	1
+top congressional democrat	dnc chair debbie wasserman schultz	2
+top2 function	dna replication	1
+topo ii inhibitor	dna topo ii inhibitor	1
+topoisomerases	dna gyrase	2
+traditional directory service	dns	1
+ukrainian river	dnieper	1
+uncompressed graphic file format	dng	1
+underground genre	dnb	1
+utilized molecular biology technique	dna analysis	1
+utilized molecular biology technique	dna sequencing	1
+viral activity	dna replication	1
+vital molecular process	dna replication	2
+Vital protein s	dna polymerase	2
+vitro testing	dnase  one  footprinting 	1
+vitro testing	dna unwinding	1
+Vulnerable biomaterials	dna	1
+web based content management system	dnn	1
+wet-lab activity	dna extraction	2
+window server component	dns	1
+yearly test	dna stool test	1
+absolute proof	dna	1
+abstract epigenetic modification	dna methylation	5
+abstract genetic aberration	dna copy number variation	5
+ABSTRACT protein engineering technology	dna recombination	1
+administers server	dns	1
+advanced CFD technique	dns	1
+advanced forensic technique	dna matching	1
+advanced forensic technique	dna	1
+advanced modern forensic technique	dna	1
+affinity-based bioanalytical assay	dna probing	1
+alternate DNA form	dna prepared by partial	3
+ambiguous evidence	dna found on jonbenet's underwear	1
+analytic bioassay	dna hybridization	1
+analytical measurement system	dna analysis system	1
+ancillary genetic service	dna banking for future testing	1
+antiaging strategy	dna protection	1
+application layer component	dns	1
+background art binding assay	dna hybridization assay	1
+background genomics tool	dna sequencing	2
+bacterial ECM polymer	dna	1
+basic genetics term	dna	1
+BCL-2 FAMILY many apoptotic signal	dna damage	1
+Binding bioassays	dna hybridization assay	1
+bio entity	dna	2
+biochemical and morphological change	dna fragmentation	1
+biologic therapeutic agent	dna	1
+biological molecular nanostructures	dna	1
+biological nanostructures	dna	1
+biological recognition event	dna hybridization	1
+biological sequence	dna	2
+biological soft material	dna	1
+biologically related material	dna base	1
+biomatik corporation's DNA purification kit	dna gel extraction kit	2
+biometric physical feature	dna	1
+biomolecular component	dna	1
+biomolecular recognition process	dna hybridization	1
+bio-organic macromolecules	dna	1
+biopolymer graph biopolymers	dna	2
+Biopolymer macromolecules	dna	1
+bioreceptor molecule	dna	1
+black-and-white evidence	dna	1
+broad-scale method	dna hybridisations	1
+broad-scale technique	dna reassociation	1
+business credit bureau	dnb	1
+name	dna transposons	2
+name	dnky	1
+carbohydrate-containing species	dna	1
+causative event	dna mutation	1
+cell death indicator	dna nicking	2
+cell-inducing vaccine	dna vaccine	1
+cellular and stressful event	dna damage	1
+cellular distress signal	dna strand break	1
+central genetic process	dna replication	1
+charged reagent	dna expression plasmids	1
+chromatin alteration	dna methylation	1
+chromatin modeling mechanism	dna methylation	1
+chromatin-associated activity	dna recombination	1
+clinical test option	dna probe analysis	1
+clonal marker	dna ploidy	1
+commercially available DNAsynthesizer	dna synthesizer based on the thiophosphite method	1
+commercially available DNAsynthesizer	dna synthesizer based on the phosphoamidite method	1
+common modern forensic investigation method	dna analysis	3
+complementary high-throughput technology	dna microarrays	1
+complete nuclear event	dna cleavage at internucleosomal site	1
+complex biological pathway	dna replication	1
+Complex macromolecule	dna	1
+complicated molecular biology technique	dna sequencing	1
+concentrated biopolymer solution	dna  nine , twenty-one , thirty-seven , thirty-eight 	1
+consequence combinatorial, directed evolution approach	dna shuffling	1
+conventional chip	dna chip	1
+correct dhcp lease setting	dns	1
+CRC screening test	dna stool test	1
+crime fighting technology	dna analysis	1
+critical enterprise server	dns server	1
+crucial cellular component	dna	1
+cutting-edge science	dna	1
+date subject	dna sexing	1
+dedicated DNS proxy server	dnsmasq	1
+detailed technology	dna fingerprinting	1
+DHCP option information	dns server address	1
+DHCP-related information	dns information	1
+dhcpv6 option	dns	1
+differential gene expression technology	dna microarrays	1
+digital animation studio	dna productions	1
+dinucleotides	dna contain-ingunmethylatedcpg  dinucleotides	1
+discrete character datum	dna	1
+DISCUSSION molecular application	dna synthesis	1
+Dissolved macromolecules	dna	1
+distinct genetic and molecular technique	dna	1
+distributed directory system	dns	1
+DNA associated process	dna repair	1
+DNA biophysical property	dna-drug interaction	1
+DNA identity test	dna profile	1
+DNA replication gene	dna primase	1
+DNA sequencing product	dna analysis engine	1
+dna-related process	dna repair	1
+dna-related process	dna replication	1
+DNases	dnase ii	2
+DNS caching server	dnsmasq	1
+DNS-related information	dns server	1
+dns-related service	dns forwarder	1
+double-stranded nucleic acid	dna	1
+downstream result	dna stability	1
+dynamic content management system	dnn	1
+ebola vaccine technology	dna-based vaccine	1
+electronic diagnosis material	dna	1
+emerging new technology area	dna sequencing	1
+emerging test	dna typing	1
+endpoint identifier	dns name	1
+enhanced delivery system	dna-plasmid vector	1
+epigenetic assay	dna methylation	2
+epigenetic modulator	dna methyltransferase inhibitor	1
+epigenetic pathway	dna methylation	2
+epigenetic protein	dnmt one 	1
+Epige-neticmarks	dna methylation	1
+Epigenetics	dna methylation	2
+epigenetics epigenetic modification	dna methylation	1
+ethical area	dnr order	1
+exiting new technology area	dna sequencing	1
+exiting new technology platform	dna sequencing	1
+expanding technology	dna typing	1
+extrinsic or intrinsic stimulus	dna damage	1
+faux fur coat	dna's natural fur bolero	1
+follow-up non-antibody test	dna pcr	1
+footprinting method	dnase footprinting	1
+forensic covert technology	dna marking	1
+forensic crime scene marker	dna	1
+forensic material	dna	1
+forensic procedure	dna analysis	1
+forensic task	dna research	1
+free-product	dnapl	1
+front-end registry function	dns	2
+function domain	dna binding	1
+GDS global directory service	dns	1
+Gen A namespace	dns namespace	1
+gene-based vaccine platform	dna plasmids	1
+genetic diagnostic technique	dna testing	1
+genetic endpoint	dna mutation	1
+genetic endpoint	dna adducts	1
+genomic target	dna target	1
+genomics experiment	dna	4
+genotoxic factor	dna-damaging chemical	1
+genotoxin-induced cellular anomaly	dna double-strand break	1
+government's flagship database	dna database	1
+GP issue	dns	7
+growth-associated parameter	dna	1
+heterologous genetic sequence	dna molecule a hypersensitive response elicitor protein	3
+high content screening methodology	dna microarrays	1
+high temperature biological molecule	dna	1
+high throughput screening technique	dna microarrays	1
+high-dimensional genetic datum	dna copy number	1
+high-tech DNA technique	dna sequencing	1
+highthroughput application	dna sequencing	1
+high-throughput molecular technology	dna array	1
+high-throughput platform	dna microarrays	1
+high-throughput, discovery technology	dna microarrays	1
+HIV vaccine category	dna vaccine	1
+homologous or heterologous functional region	dna-binding region	1
+host cell impurity	dna	1
+host-like function	dna replisome	1
+human I.D. forensic qualifier	dna	1
+human identity forensic ID qualifier	dna	1
+image biological species	dna	1
+immunological and molecular-based technique	dna probing	2
+imple-menting new technique	dna fingerprinting	1
+industrial communication protocol	dnp three 	1
+information distribution protocol	dns	1
+initial damage	dna double-strand break	2
+initiatorprotein	dnaa in e. coli	1
+integration withpreamplification process	dna extraction	1
+inteins	dnab	1
+interdisciplinary office	dnr watershed services ecosystem analysis center	2
+Internationally acceptedabbreviations	dna	1
+intracellular change	dna damage	1
+intracellular species	dna	1
+intracellular system	dna repair enzyme	1
+intragenomic rearrangement	dna amplification	2
+intrinsic maintenance mechanism	dna repair	1
+Introduction Biomaterials	dna	1
+INTRODUCTION Biopolymers	dna	2
+INTRODUCTION epigenetic mechanism	dna methylation	2
+introduction fundamental biological molecule	dna	1
+introduction high throughput technology	dna microarrays	1
+Introduction Polynucleotides	dna	1
+key bacterial enzyme	dna gyrase	1
+key communication node	dns server	1
+key genetic process	dna replication	1
+key infrastructure server	dns server	4
+key supporting technology	dna synthesis	1
+large scale differential screening technique	dna microarrays	1
+factor	dna conformation	1
+factor	dna contamination	1
+factor	dna condensation	1
+factor	dna fragmentation	1
+factor	dna adsorption time	1
+factor	dna sequence context	1
+factor	dna replication	1
+factor	dna isolation efficiency	1
+factor	dna loss	1
+factor	dna polymerase concentration	1
+factor	dna-contact coupling	1
+factor	dna-repairing gene	1
+factor	dns server availability	1
+name	dns domain name	1
+case	dns zone file	3
+case	dna comparison	1
+case	dna based computing	1
+case	dna damage	1
+case	dna warrant	1
+linear biological molecule	dna	1
+linear DNA	dna of eukaryotic chromosome	4
+LLNLprograms	dnt	1
+long range interaction	dna looping	1
+long, rigid molecule	dna	1
+long-range consequence	dna damage	1
+low-contrast image	dna autoradiograph image	1
+machine specific event log	dns log	2
+macromolecular polymer	dna	1
+maintained networking component	dns	1
+medically related company	dna genotek	1
+microsoft network service	dns	1
+microwell assay	dna hybridization	1
+modern biotechnology tool	dna microarrays	1
+modern genetic test	dna typing	1
+modern genetic test	dna t ping	1
+modern genomic approach	dna micro-arrays	2
+modern molecular genetic technique	dna based paternity analysis	1
+modern molecular genetic technique	dna sequencing	1
+molcular trait	dna sequence	1
+molecular and biological assay	dna microarrays	1
+molecular and cellular experimental approach	dna mutagenesis	1
+molecular biotyping technique	dna fingerprinting	1
+molecular criterion	dna-dna reassociation	1
+molecular diagnostic methodology	dna sequencing	1
+molecular library	dna library	1
+molecular measure	dna	1
+molecular testing technique	dna fingerprinting	1
+molecular therapy	dna vaccination	1
+molecular-based test	dna-dna hybridization	1
+molecular-profiling study	dna microarray	1
+molec-ulartechniques	dna probing	1
+morphologic mimic	dnt	1
+mucous gel-forming component	dna	1
+mutation mechanism	dna replication slippage	1
+name-resolving system	dns	2
+naming mechanism	dns	1
+nanometer-scale object	dna	2
+natural biological molecule	dna	1
+natural polynucleotides	dna	2
+network management server	dns	1
+network name service	dns	1
+network server service	dns	1
+network service capability	dns	1
+newest genomic technology	dna microarray analysis	1
+nickel-induced genotoxic effect	dna-protein crosslinks	1
+nickel-induced genotoxic effect	dna strand break	1
+NOC service	dns	1
+non-invasive sampling method	dna from hair	1
+nonpathogenic animal virus	dna-containing adenoviruses	1
+non-protein crystal structure	dna	1
+non-sequence-specific nucleases	dnase i	1
+nonspecific target	dna	1
+Non-testimonial evidence	dna sample	1
+non-text-based protocol	dns	1
+nonviral system	dna-protein -conjugate	2
+north-south flowing river	dniester	1
+north-south flowing river	dnieper	1
+novel and powerful technology	dna microarrays	3
+novel vaccine technology	dna vaccine	1
+nuclear morphological alteration	dna fragmentation	1
+nucleic acid binding agent	dna damage-binding agent	1
+Nucleic Acid Complex macromolecules	dna	1
+nucleic acid polymer	dna	6
+nucleic acid target	dna	1
+nucleic acid transaction	dna replication	1
+nucleic acid-based compound	dna	2
+Nucleic Acids-complex macromolecules	dna	1
+obligatory medical test	dna test	2
+oligomer probe array	dna chip	2
+one-time only project	dna lab	1
+optical front projection screen	dnp supernova	2
+ordnance compound	dnt	1
+Organic biomacromolecules	dna	1
+OS network service	dns	1
+OSTEORISKMARKER nucleic acid	dna	1
+othe evidence	dna	1
+othernitroaromatic compound	dnt	1
+partly navigable river	dnieper	1
+patentable biological asset	dna library	1
+PCR reaction mixture compone nts	dna polymerase	1
+pcrbased assay	dna hybridization	1
+permanent creation	dna	1
+permanent entity	dna	1
+personal directive	dnr	1
+phage protein	dna	1
+plant molecule	dna	1
+platinum resistance pathway	dna-binding gene hmgb one 	1
+platinum resistance pathway	dna repair gene ercc one 	1
+pleiotropic regulatory effect	dna supercoiling	1
+polypeptide therapeutic agent	dna	2
+popular gene transfer method	dna transfection	1
+case	dna sequencing	1
+case	dna recombination	1
+case	dna polymerase i	1
+case	dna synthesis	1
+possi-blethatsome biological entity	dna	1
+post procedure	dna infusion	1
+powerful genomics technology	dna microarrays	1
+powerful new diagnostic technique	dna testing	1
+powerful new laboratory technique	dna microarrays	2
+power-utility centric communication protocol	dnp three 	1
+pre-analytic parameter	dna yield	1
+precise laboratory procedure	dna	2
+pre-configured server	dns	1
+predominately government agency	dnr	1
+prestigious literature festival	dnevi poezija in vina	1
+principal topic	dna	1
+principle topic	dna	2
+Printing biomolecules	dna	1
+prolonged cellular stress	dna damage	1
+protein array	dna array	1
+protein array	dna chip	1
+protein engineering technology	dna recombination	1
+protein machine many cellular process	dna synthesis	1
+public-domain biological sequence repository	dna databank of japan	1
+publicly accessible system	dns server	1
+quantitative pathological feature	dna content	1
+raltriggers	dna damage	1
+reaction cell biomolecules	dna oligonucleotides	1
+reactive intermediate damage molecule	dna	2
+Real-Time Black list	dnsbl	1
+recombination technique	dna shuffling	1
+registrar offer special service	dns	1
+repair protein	dna-damage repair protein	1
+replicative DNA helicase mutant	dnab mutant	1
+replicative DNA helicasemutants	dnab mutant	1
+research interest epigenetic change	dna methylation	1
+resilience technology	dns anycast	1
+response center	dns-oarc for dns-related security	1
+restarting service	dns	1
+reversible DNA binding dye	dna groove binding dye	1
+reversible DNA binding dye	dna intercalator dye	1
+rod-like biological polyelectrolytes	dna	1
+routine DNA procedure	dna ligation	1
+routine DNA procedure	dna digestion with restriction enzyme	1
+routine prenatal test	dna testing	3
+scientific forensic technique	dna testing	1
+scientific identifiers	dna	1
+second, large multi-protein complex	dna clamp-clamp loader complex	1
+secondary DNR member	dnrhstxx	1
+secondary DNR member	dnralcxx	1
+separate protocol	dns	1
+seperate substences	dna strends	1
+sequence-based identification method	dna microarrays	1
+server configuration program	dns	1
+server-based name service	dns	1
+simple quasi life form	dna molecule	1
+so-called epigenetic mechanism	dna methylation	1
+soft and rigid template	dna	1
+sophisticated forensic tool	dna analysis coming into increasing use	1
+sophisticated identification technique	dna sequencing	1
+sophisticated laboratory technique	dna study	1
+spam support service	dns	1
+spiraling structure	dna	1
+spirochetal constituent	dna	1
+stain acidic part	dna of the nucleus	1
+standard molecular biology protocol	dna gel electrophoresis	1
+standard molecular method	dna extraction	1
+standard network service	dns	1
+standard recombinant DNA methodology	dna fragment purification	1
+stiff polyelectrolytes	dna	1
+stimulation signal	dna damage	1
+stochastic theory	dna repair theory	1
+strand separation event	dna replication	1
+stressrelated condition	dna damage	1
+structural genomic change	dna methylation	2
+structured and consistent datum type	dna sequence	1
+stryi sanatorium	dnister	1
+substation datum protocol	dnp	1
+option	dns	4
+option	dns server	2
+option	dna normalization	2
+option	dns name-server address	2
+tantalizing new research technique	dna analysis	1
+Target nucleic acid	dna	1
+Target nucleic acid material	dna	2
+tcell-inducing vaccine	dna vaccine	1
+telecom feature	dnis	1
+template nucleic acid	dna	1
+template nucleic acid	dna amplified by pcr	1
+thenoncovalent modification method	dna wrapping	1
+thesis different mechanism	dna repair mechanism	1
+today many cellular function	dna translation	1
+today's advanced investigation technique	dna	1
+today's advanced research area	dna computing	1
+traditional cantilever application	dn ahybridization assay	1
+traditional cell phone forensic measure	dna testing	1
+traditional forensic measure	dna testing	1
+traditional internet service	dns	1
+traditionally network identity application	dns	1
+tumorigenic regulatory process	dna repair	1
+tumorigenic stress	dna damage	1
+tuning molecule	dna	1
+twentieth-century technology	dna polymerase chain reaction	1
+typical biomolecular system	dna	2
+U.S. security step	dna identification measure	1
+ultrahigh-molar-mass polymer	dna	3
+ultratrace nitroaromatic compound	dnt	1
+unconventional compound	dnp	1
+unnecessary redundant system	dns	1
+uponapoptotic stimulus	dna damage	1
+user datagram protocol-based service type	dns	1
+user recognition datum	dna	1
+user's genetic element	dna	1
+Usingbiomarkers	dna	1
+utility protocol	dnp three 	1
+uvc-induced apoptotic symptom	dna fragmentation	2
+uv-sensitive molecule	dna	1
+vaccine platform	dna vaccine	2
+virological assay	dna pcr	1
+vital cell structure	dna	1
+voice GUI interface	dnis	1
+vulnerable biological molecule	dna	1
+well-understood ip-based protocol	dns-sd	1
+wet lab component	dna analysis	1
+wet laboratory activity	dna extraction	1
+wide band gap polymer	dna	1
+XCI chromatin-remodeling gene	dna methylation enzyme	1
+aberrant chromatin-remodeling mechanism	dna methylation	1
+aberrant epigenetic modification	dna methylation	1
+abiotic site	dneiper-donets basin	1
+abstract non-specific target	dna	1
+accomplishment T partner	dnr	1
+actual physical evidence	dna	1
+additionally additional SCADA protocol	dnp three 	1
+additionally attack	dns cache poisoning	1
+addressable molecule	dna	2
+adjunct IP function	dns	1
+advanced biomedical device	dna analyzer	1
+advanced genealogical method	dna analysis	1
+advanced microbiological technique	dna probe	1
+advanced molecular approach	dna microarrays	1
+agricultural biotechnology	dna marker assisted selection	1
+alleged glass shop	dns auto glass	1
+alpha,beta-unsaturated aldehydes	dna-reactive alpha,beta-unsaturated aldehydes	1
+anticancer reagent	dna damaging agent	2
+apoptotic mechanism	dna fragmentation other apoptotic mechanism	1
+appropriate medical forensic techniques	dna testing in capital case	1
+aptamersareoligonucleic acid	dna	1
+architecture diagram	dns map	1
+art-recognized sequence alignment program	dnastar's mega align	1
+AUF1 target	dnmt one 	1
+authoritative DNS service	dns failover	1
+automated or semi-automated tool	dna barcodes	1
+autosomal test	dna tribes	1
+option	dns domain name	1
+option	dnssec	1
+background high-throughput technology	dna microarrays	1
+background large scale technology	dna microarrays	1
+background recombinant DNA technique	dna shuffling	1
+backgroundthe anticancer drug	dna replication inhibitor	1
+bacterial detection platform	dna microarray	1
+bacterial type IIA Topos	dna gyrase	1
+ballistics method	dna particle bombardment	1
+base sequence analysis technology	dna sequencers	2
+b-cell subtype marker	dntt in pro-b cell	1
+bcl6-regulated pathway	dna damage	1
+behind-the-scene protocol	dns	1
+belarusian large river	dnieper	1
+better-known method	dna analysis	1
+binary molecular mixture	dna-caffeic acid	1
+Bioanalysis	dna analysis	3
+biochemical identification method	dna	1
+biogeochemical model	dndc model	1
+bioinformatics study biological sequence	dna	1
+BioInformatics technology	dna microarrays	1
+bio-information area	dna pattern matching	1
+biological and non-biological application	dna amplification with polymerase chain reaction	1
+biological chain	dna	2
+biological filament	dna	2
+Biological filament s	dna	1
+Biological linkers	dna	1
+biological nano system	dna	1
+biological recognition	dna	1
+biological testing	dna test	1
+biologically critical molecule	dna	1
+biology side	dna of plant	1
+biomarker-based technique	dna analys es	1
+biomaterial pattern	dnas deoxyribonucleic acid dandproteins	1
+biomedical assay application	dna sequencing	2
+biometric identity marker	dna	1
+biomolecular and biochemical response	dna damage	1
+biomolecular recognition	dna	1
+biomolecule binding event	dna hybridization	1
+biomolecule ladder	dna ladder	1
+bioorganic macromolecules	dna	3
+bioprocess contaminant	dna	1
+bioscience application	dna synthesis	3
+biosensor component	dna probe sequence	2
+biotechnology lab procedure	dna fingerprinting	1
+Bluntinga resistance mechanism	dna repair up-regulation	1
+body operation	dna synthesis	1
+botnet-based attack	dns ddos amplification attack	2
+bulk controlled polymerization technique	dna synthesis	2
+bunker testing agency	dnv petroleum services	2
+candidate rotavirus vaccine	dna vaccine	1
+capital budget fund	dnr stewardship fund	1
+caspase-dependent event	dna fragmentation	1
+cell repair mechanism	dna repair enzyme	1
+cellular enzymatic process	dna repair	1
+central cellular process	dna replication	1
+centralized naming system	dns	1
+characteristic apoptotic symptom	dna fragmentation	1
+characteristic domain	dna binding domain	1
+charged bioactive agent	dna	7
+chiral template	dna	1
+Circular LNB	dn	1
+circular polymer	dna	1
+circulating nucleic acid	dna	2
+classic silencing marker	dna methylation	1
+cleavage method	dna-based cleavage method	1
+closed architecture system	dna micro-cameras	1
+closely related metaphor	dna code	1
+commercial screen	dnp supernova	1
+common biomolecular interaction	dna hydridization	1
+common measurement technique	dna chip	1
+compatibility guideline	dnl of  sixty-five  db 	2
+Compelling physical evidence	dna	1
+complementary biomarkers	dna methylation	1
+completely new approach	dna vaccine	1
+Complex evidence processing	dna testing	1
+complex intracellular signalling process	dna repair	1
+complex sequence composition datum	dna strings analyzed by edwards et al.	1
+Comprehensive gene expression analysis	dna microarray	1
+conclusion dna-based method	dna array	2
+confirmation assay	dna probe	1
+Confocal Microscopy Biomolecules	dna	1
+connectionless datagram transaction	dns name lookups	1
+connection-specific parameter	dns	2
+consequently epigenetic signal	dna methylation	1
+contribu-tionofepigenetic mechanism	dna methylation	1
+conventional competitive antagonist	dnqx	1
+core biological function	dna replication	1
+core bioscience topic	dna structure	1
+coreinternet protocol	dns	1
+costly rule	dnr's mercury	1
+Covalent cross-linking	dna-dnr-hcho adduct	1
+covalent epigenetic modification	dna hypermethylation	1
+critical cell cycle event	dna replication	1
+critical network server	dns	1
+Crucial prosecution evidence	dna testing	1
+CTI capability	dnis	1
+cutting-edge research area	dna fingerprinting	7
+cycle-related gene	dna-pk cs	1
+cytochemical parameter	dna measurement	1
+damaged, certain macromolecules	dna	1
+datum sequence	dna	1
+Definitive forensic evidence	dna	2
+deployment-wide setting	dns setting	3
+detailed investigative measure	dna analysis	1
+developmental epigenetic change	dna methylation	2
+Diagnostic and monitoring equipment	dna	1
+differential epigenetic alteration	dna methylation	1
+discussion epigenetic event	dna methylation	1
+DISCUSSION epigenetic modification	dna methylation	1
+discussion large-scale molecular biology technology	dna microarrays	1
+discussion metabolic inhibitor	dnp	1
+disease relevant molecule	dna	1
+DNA aberration	dna gene allele deletion	1
+DNA detection system	dna chip	1
+DNA displacers nucleic acid	dna	1
+DNA genetic test	dna sequencing	1
+DNA hybridization method	dna probe pcvd four hundred and thirty-two 	1
+DNA ladder	dna molecular weight marker x used at the moredun research institute	1
+DNA methylating enzyme	dnmt one 	1
+DNA methyltransferases	dnmt three b 	1
+DNA nucleic acid	dna	1
+DNA ploidy-related parameter	dna index	2
+DNA replication initiation protein	dnab	1
+DNA sequence motif	dnaa box	1
+DNA testing center	dna diagnostics center	1
+DNA testing laboratory	dna diagnostics center	1
+DNA tracking system	dna replication	1
+dna-based carrier	dna dendrimers	5
+dna-based process	dna profiling	1
+dna-based therapy	dna vaccines intended for use in the general population	1
+dna-methylating enzyme	dnmt  one 	1
+DNA-methyltransferases	dnmt one 	1
+DNMTs	dnmt three b 	1
+DNS lookup tool	dns stuff	1
+DNS monitoring service	dns stuff's dnsalert	1
+domain name resolution mechanism	dns	1
+domain sale database	dn sale price	1
+dominant negative mutant	dn raf- one 	1
+DTC genetic test company	dna direct	1
+Dynamic chromatin remodeling	dna methylation	1
+eastern university town	dnipropetrovsk	1
+ec SSB partner	dnag primase	1
+efficient molecular tool	dna marker	1
+egenet's server	dns	1
+electrical gear component	dno cut-out	1
+ellular macromolecules	dna	1
+emerging new technique	dna microarrays	1
+energy inhibitor	dnp	2
+enterprise network service	dns	1
+environmen-tal stress	dna damage	1
+enzymatic mechanism	dna repair	1
+enzymic and chemical cleavage agent	dnase  one 	1
+epigenetic analysis	dna methylation assay	1
+epigenetic gene silencer	dnmt one 	1
+epigenetic marker	dna methylation	1
+epigenetic modulation	dna methylation	1
+epigenetic mutation	dna methylation	1
+epigenetic therapeutic agent	dna hypomethylating agent	1
+epige-neticalterations	dna methylation	1
+epigenomics factor	dna methylation	1
+Ercursive DNS sirvices	dns adventage	1
+essential host	dns server	1
+essential nucleic acid function	dna recombination	1
+ethical framework advance decision	dnar decision	1
+eukaryotic characteristic	dna replication system	1
+evidential topic	dna	1
+example contact allergen	dncb	1
+example hydrophilic biopolymers	dna	1
+exascale operation	dna sequencing	1
+exploratory experiment	dna microarray	1
+expression-based genomic technology	dna microarrays	1
+external IP address	dns	1
+external naming method	dns	1
+external naming service	dns	1
+externial DNS provider	dns park	1
+extracellular endonucleases	dns from v.cholerae	1
+extremely complex mechanism	dna replication	1
+fabulous enterprise	dnieprostroi	1
+fast-capacity screening technology	dna microarray hybridization	1
+festo component	dnc standard profile cylinder	1
+fixed genetic alteration	dna copy number gain	1
+forensic breakthrough	dna	3
+forensic genetics class	dna statistic	1
+forensic laboratory report	dna test result	1
+forensic opportunity	dna	1
+forexample hydrophilic biopolymers	dna	1
+Forheteropolymers	dna with a natural base sequence	1
+Fossil biomarkers	dna	2
+four-letter sequence	dna	1
+fourth, high-throughput analytical tool	dna microarrays	2
+Frequent DNA repair	dna repair associated with recombination	1
+functionally analogous bacterial protein	dnaa	1
+fundamental microscopic process	dna replication	1
+fundamental network service	dns	1
+gene category	dna methylation gene	1
+gene polymorphism detector tool	dna chip	1
+genetic carrier	dna	2
+genetic code material	dna plasmids	1
+genetic research technology	dna chip	2
+genome scale technology	dna microarrays	1
+genome stability system	dna repair	1
+genomic diagnostic technology	dna chip	1
+genomic high-throughput technology	dna microarrays	1
+Genotoxic damage	dna adducts	1
+Genotoxicstress	dna damage	1
+global screening approach	dna microarrays	1
+globally-scoped naming system	dns fully-qualified domain name	1
+government controlled service	dns	1
+hakan's tool	dnc	1
+hard forensic evidence	dna	1
+helical molecule	dna	1
+helicase	dnaa	2
+hematopoietic-specific regulator	dna-binding myeloid zinc finger protein gata one 	1
+heterochromatic mark	dna methylation	1
+heterochromatin marker	dna methylation	1
+heterologous nucleic acid	dna	11
+hierarchical name space	dns	1
+high throughput analysis technology	dna microarry	1
+high throughput experimental method	dna microarrays	1
+high throughput experimen-talmethods	dna microarrays	1
+high throughput functional genomic technology	dna microarrays	1
+high throughput genotyping method	dna microarrays	1
+high throughput screening technology	dna extraction robotics	1
+high throughput system	dna arrays	1
+high-density genomic tool	dna microarrays	1
+high-end scientific application	dna sequencing	1
+high-tech crime-fighting technique	dna testing	1
+high-throughput genotyping technology	dna pooling	3
+high-throughput or multiplexed mutation-specific method	dna microarrays	1
+high-throughput research tool	dna	1
+homologous recombination method	dna shuffling	1
+host-based naming service	dns	1
+hostname lookup tool	dns stuff	1
+house-keeping chaperone	dna kand groel	1
+Huge botnets	dns changer	1
+huge government IT project	dna database	1
+Hypoxic stress	dna damage	1
+IETF standard protocol	dns service discovery	5
+illiberal measure	dna database	1
+imino sugar constituent	dnj	1
+improved and quicke method	dna sequencing	1
+Improved forensic technology	dna profiling	1
+Improved science	dna evidence	1
+incredibly intricate laboratory technique	dna fingerprinting	1
+indian legal service program	dna-people's legal services	1
+industry standard RTU protocol	dnp	1
+information-processing capability	dns	1
+innovative medical approach	dna vaccination	1
+installed intranet service	dns	2
+institutional objector	dnrc	2
+interesting investigation	dna hypomethylation	1
+international verifiers	dnv	1
+internets core protocol	dns	1
+intracellular or extracellular factor	dna damage	1
+introduction genomic datum	dna	1
+introduction high-throughput experimental method	dna	1
+INTRODUCTION Many filamentous biopolymers	dna	1
+introduction many important molecular application	dna oligonucleotide array	1
+introduction powerful new technology	dna microarrays	1
+investigation opportunity	dna	1
+Ionic biopharmaceuticals	dna	1
+IP phone programmable key	dnd key	1
+ip-related parameter	dns within ppp ipcp	1
+jumonji C protein epigenetic modification	dna methylation	1
+key management parameter	dnssec algorithm	1
+key supporting infrastructure service	dns	1
+key survival pathway	dna repair	1
+labeled macromolecule	dna	1
+landmark set	dns server	1
+land-owning agency	dnr	1
+large complex molecule	dna	1
+large-scale industrial and building development	dneiper dam	1
+large-scale molecular biology technology	dna microarrays	1
+large-scale molecular technology	dna microarrays	3
+large-scale screening method	dna array	1
+latest investigative technology	dna testing	1
+latest medical advance	dna testing	1
+library-dependent method	dna fingerprinting	1
+light wieght shaft	dng sl s three hundred 	1
+linear target molecule	dna	1
+linux infrastructure service	dns	1
+localized dna-structural change	dna bending	1
+long bit vector	dna	1
+long stringy polymer	dna	1
+Macromolecule A large polymer	dna	1
+macroscopic assay	dna sequencing	1
+maritime application approval	dnv	1
+maryland executive agency	dnr	1
+mecha-nismsthatsilence transposons	dna methylation	1
+mechanistic consideration	dna repair	1
+mechanistic reason	dna repair	1
+metage-nomic study	dna sequences from the sargasso sea sample	1
+micro invasive technique	dna sampling	1
+Microarray chip technology	dna chip	1
+microarrays powerful technique	dna microarrays	1
+microfluidic unit-operations	dna extraction	1
+micropipette exogenous material	dna	1
+Microsoft Web Page call-based information	dnis	1
+microsynthetic manipulation	dna fragment ligation	3
+milionyk	dnipropetrovsk	1
+military architectural framework	dndaf	1
+miniature-scale system	dna chip	1
+mixed-modality immunization regimen	dna prime followed by recombinant-virus boost	1
+model initiator	dnaa	1
+modern day forensic evidence technique	dna matching	1
+modern detective method	dna	1
+modern evidence	dna	1
+modern experimental technology	dna microarrays	1
+modern high-throughput measurement technology	dna microarrays	1
+modern systematic technique	dna sequencing	1
+Modern technical evidence	dna test result	1
+molecular biologic study	dna hybridization	1
+molecular datum set	dna	1
+molecular epidemiological technique	dna fingerprinting technique used in tuberculosis control	2
+molecular resource	dna microarrays	1
+molecular sequence	dna	1
+molecular systematic method	dna	1
+molecular-based technology	dna microarrays	1
+MTases	dna adenine methyltransferase	1
+mundane cost	dna testing	1
+MusTRD polynucleotides	dna polynucleotides	1
+mutation screening methodology	dna sequencing	1
+name-resolution method	dns	1
+nanobio analytical device	dna microarray	1
+natural biomacromolecules	dna	1
+natural logic system	dna	1
+natural rod-like polymer	dna	1
+negative polyelectrolytes	dna	1
+network basement , core IP service	dns	1
+newest investigative technique	dna research	1
+nij-administered initiative	dna initiative	1
+nitration product	dnt for tdi	1
+non official site	dnd online games dot com	1
+non sidecar format	dng	1
+nonamplified nonculture test	dna probe test	1
+non-amplified non-culture test	dna probe test	1
+non-culture-based method	dna detection by pcr	1
+non-cytological screening method	dna testing	1
+non-language sequence	dna	1
+non-redox process	dna photorepair	1
+non-sequence-specific DNA binding domain	dna binding domain of sso seven d 	1
+non-specific target	dna	1
+non-telomeric protein	dna repair proteins mre eleven 	1
+method	dna sequencing	14
+method	dna microarrays	8
+method	dna analysis	5
+method	dna probe	4
+method	dna fingerprinting	4
+method	dna	4
+method	dna sampling	3
+method	dna unwinding	3
+method	dna titration	2
+method	dnp algorithm	2
+method	dna testing for human papillomavirus	2
+method	dna hybridization	2
+method	dna quantification method	1
+method	dna sequence-based method	1
+method	dna sequence-based typing method	1
+method	dna damage detection method	1
+method	dna analysis of scat	1
+method	dna forensic solution	1
+method	dna marker	1
+method	dna-based molecular method	1
+method	dna-based cleavage method	1
+method	dna-based subtyping method	1
+method	dna typing	1
+method	dna exogenous control kit	1
+method	dna delivery method	1
+method	dna detection method	1
+method	dna testing	1
+method	dna quantification with ethidium bromide	1
+method	dna-based typing method	1
+method	dns txt record for the domain	1
+non-viral gene transfer strategy	dna nanoparticles	1
+novel detection technique	dna sampling	1
+novel molecular biology-based technique	dna probing	1
+novel molecular technique	dna microarrays	1
+novel nanobiocomposite material	dna-encapsulated carbon nanotubes	1
+novel vaccine	dna vaccine for malaria	1
+nuclear content	dna	1
+nucleic acid blotting	dna blotting	2
+nucleic acid hybrid receptor	dna	1
+nucleic acid scanning technique	dna amplification fingerprinting	1
+nucleic acids-based approach	dna microarrays	1
+nucleotide polymer	dna	1
+nucleotide-based epigenetic mechanism	dna methylation	1
+OASIS relieson standard redirection mechanism	dns	1
+obscure attack	dns injection	1
+oligomeric material	dna	1
+Oligonucleotide microarrays	dna chip	1
+opaque procedure	dna analysis	1
+organic biological molecule	dna	1
+organic information system	dna	1
+Otehr constaints	dna accessibiliti iin teh cel	1
+output domain	dna binding domain	1
+oxidative stress consequence	dna damage	1
+pain modulatory mechanism	dnic	1
+parental-specific epigenetic event	dna methylation at cpg domain	1
+party verifiers	dnv	1
+PCR technical parameter	dna target	1
+p-demanding process	dna synthesis	1
+personal identification marker	dna	1
+PET technique	dna synthesis	1
+photo-in-ducedoxidativedna modification	dna-protein cross-links	1
+physical and biological system	dna excitations in biological system	1
+PI3Ks	dnapk at similar level	1
+pigenetic mechanism	dna methylation	1
+pipeline code	dnv rp-f one hundred and one 	1
+pivotal concept	dna	1
+pocket PC solution	dncfusion at site www.dncfusion.com	1
+poly-anionic molecule	dna	1
+polyatomic helical molecule	dna	1
+polyclonal therapy	dna vaccination	1
+polymer array	dna microarrays	2
+polymeric nucleic acid	dna	2
+Polymeric nucleicacids	dna	1
+polynucleotide fragment	dna	2
+post genome technology	dna array	2
+power system communication protocol	dnp three 	1
+powerful molecular biological technology	dna array technology	1
+preanalytical processing step	dna extraction	1
+preimplantation embryo epigenetic modification	dna methylation	1
+pre-malignant change	dna damage	1
+primase	dnag	2
+priming vector	dna	1
+private new source	dnevni telegraf	1
+problem innovative medical approach	dna vaccination	1
+proliferation-independent genetic measurement	dna flow cytometry	1
+promising computing model	dna-based computing	1
+promising detection system	dna microarrays	1
+public or quasi-public naming system	dns	1
+pull model	dns	1
+pull-based database	dns	1
+PURPOSE epigenetic alteration	dna methylation	1
+query-response application	dns query	1
+real udp-based protocol	dns	1
+realistic finding	dna characteristics of current native americans	1
+recombinant nucleic acid	dna	1
+recombination-based approach	dna shuffling	1
+regional rolling new service	dnn	1
+regulatory epigenetic mechanism	dna methylation	1
+regulatory epigenetic modification	dna methylation	1
+reliable biometric identifiers	dna	1
+replication component	dna polymerase	2
+replication issue	dns	1
+replication stress	dna replication fork stalling	1
+robust genomics technology	dna microarrays	1
+routine manipulation	dna blot	2
+rugged molecule	dna	1
+Russian bike	dnepr	1
+safe candidate aid vaccine	dna vaccine	1
+SAM-dependent methyltransferases	dna methyltransferases	1
+sample molecule	dna	1
+sample preparation protocol	dna amplification	1
+sample substrate	dna sipper chip	2
+scalable name service	dns	1
+scien-tifi c method	dna testing	1
+scientific abstract epigenetic modification	dna methylation	1
+Scientific proof	dna profiling	1
+Scientific testing	dna	1
+second, epigenetic modification	dna methylation	1
+second, massive parallel assay system	dna microarrays	1
+second, modern diagnostic method	dna hybridization	2
+secure DNS proxy	dnsd proxy provided with symantec gateway security	1
+security proxy	dns	1
+self-replicating protein	dna	1
+method	dna testing method	1
+method	dna transfection method	1
+method	dna staining method	1
+method	dna dimerization	1
+method	dna evaluation	1
+method	dna dendrimer probe	1
+method	dna analysis of hair taken by hair snare	1
+method	dna amplification	1
+method	dna extraction	1
+method	dna digestion by restriction endonucleases	1
+method	dna typing procedure	1
+method	dna-dna hybridization	1
+method	dna microarray gene expression analysis	1
+method	dna hplc	1
+method	dna shuffling	1
+method	dns cache poisoning	1
+serpentine capture biomolecules	dna from complex solution	1
+server role related issue	dns	1
+shape-persistent macromolecules	dna	1
+shared biochemical molecule	dna	1
+signal amplification molecule	dna dendrimers with large quantities of fluorescent	1
+silencing factor	dna methyltransferase	1
+SIMD technology	dna computer	1
+simple networking service	dns	1
+simple three-dimensional structure	dna	1
+Simulating biomolecules	dna	1
+simultaneous and rapid epigenetic process	dna methylation	1
+single biological molecule	dna	1
+single request-response service	dns	2
+sirt1 substrate	dna methyltransferase dnmt one 	1
+skin allergen	dncb	1
+skin's own natural repair process	dna repair	2
+Skin-specific endonucleases	dnase one l two  target genomic dna during cornification 	1
+smallest factor	dna	1
+so-called high-throughput technology	dna sequencers	1
+solid-phase method	dna microarrays	2
+somatic genetic error	dna base mispairs	1
+somebotnet-based attack	dnsddos amplification attack	1
+sometimes forensic evidence issue	dna	1
+sophisticated vaccine	dna vaccine	1
+stable marker	dna	1
+stable signal	dna methylation	1
+stable trace element	dna chain	2
+standard biological part	dna sequences of known structure	1
+standard contaminant	dna	1
+standard keynote measurement component	dns time	1
+standardisation protocol	dnp three 	1
+state-of-the art method	dna sequencing	1
+state-of-the-art behavioral and molecular tool	dna microarrays	1
+state-of-the-art genetics technique	dna fingerprinting	1
+state-of-the-art molecular genetics technique	dna fingerprinting	1
+stress pathway	dna damage	1
+stringent evidence gathering practice	dna sampling	1
+strong uncoupling agent	dnp	2
+structural expenditure	dns cert	1
+subtle genetic injury	dna strand break	1
+summary epigenetic mechanism	dna methylation	1
+summary high-throughput technology	dna microarrays	1
+synergy worldwide skin care product	dna repair creme	1
+synthetic and biological macromolecules	dna	1
+synthetic biology standardized part	dna	1
+system UDP service	dns	1
+Tada Application s	dna sequencing research gallbladder	1
+Technical evidence	dna	2
+technical format	dna microarrays	1
+therapeutic antibody complex	dnl complex	1
+third-party add-in application	dns comfort	1
+third-party groove template	dna groove templates made by the canadian firm wc music research	1
+time dna-based device	dna microarrays	1
+tiny biological molecule	dna	4
+today's policy conflict	dns war	1
+toluidine blue stain tissue component	dna	1
+top dog democrat	dnc ringleader terry mcauliffe	1
+Topo IIA	dna gyrase	1
+traceability system	dna	1
+tracking purpose	dnr bridges reviewed by dot	1
+traditional forensic examination	dna examination of blood recovered from a crime scene	2
+traditional name service	dns	1
+transcriptional mechanism	dna bending	1
+transcriptomic technique	dna array	2
+tremendous advance	dna analysis	1
+tumor-associated stress signal	dna damage	1
+typical apoptotic morphological change	dna fragmentation	1
+typically agency	dnr	1
+UDP stateless service	dns	1
+UDP-based traffic	dns	1
+ukraine's secondary market	dnepropetrovsk	2
+undeniable scientific evidence	dna	1
+unproven science	dna testing	1
+upper application	dns	2
+upstream stress signal	dna damage	1
+vaccine production strategy	dna vaccine	1
+versatile transporter	dnp-sg atpase	1
+tool	dns	6
+tool	dna marker	2
+tool	dna microarrays	2
+tool	dna testing	2
+tool	dnc set	1
+tool	dna microrrays	1
+tool	dns information	1
+tool	dns audit	1
+tool	dna database	1
+tool	dna genotyping	1
+tool	dnsiff	1
+tool	dna analysis technology	1
+tool	dna vaccine	1
+viral diagnostic test	dna	1
+virus material	dna	2
+virus's enzymatic function	dna transcription	1
+viscoelastic polymer	dna	1
+vital bacterial biochemical event	dna replication	1
+vital protocol	dns	1
+vocational science project	dna screening	1
+voice channel datum	dnis	1
+water soluble biomolecule	dna	2
+website supporting service	dns pointing	1
+well-known server	dns	1
+wildlife forensic service	dna analysis	1
+windows-based host name resolution method	dns	1
+world class ship classification Company	dnv	2
+wortmannin-sensitive kinase	dna-dependent protein kinase	1
+yeast key meiotic event	dna replication	1
+tool	dns stuff	1
+tool	dns server test	1
+tool	dna collection	1
+tool	dna library	1
+tool	dna motif discovery tool	1
+tool	dnar policy	1
+tool	dna tracking	1
+tool	dns propagation checker	1
+tool	dnv nauticus	1
+tool	dnamotif discovery tool	1
+tool	dnastar seqman assembly program	1
+tool	dna sequencing	1
+tool	dna micro array	1
+tool	dna sequencers	1
+project	dnial	2
+project	dna focussed project	1
+project	dnda mixed-use library	1
+project	dnr michigan history millennium education project	1
+project	dna banking in south africa	1
+project	dnssec	1
+project	dna sequencing	1
+artist	dntel	2
+material	dna	15
+material	dna marker	1
+material	dna evidence	1
+material	dna encoding dr five 	1
+material	dna-binding intercalating material	1
+place	dneipropetrovsk	2
+place	dna evolution	1
+technology	dna microarrays	35
+technology	dna	13
+technology	dna testing	10
+technology	dna fingerprinting	8
+technology	dna analysis	8
+technology	dna sequencing	7
+technology	dns	7
+technology	dna chip	5
+technology	dna vaccine	4
+technology	dna profiling	3
+technology	dna computing	3
+technology	dna array	3
+technology	dna tracking	3
+technology	dna micro-array	3
+technology	dna technology	2
+technology	dna chip technology	2
+technology	dna micro array	2
+product	dna	3
+product	dna-based vaccine	1
+product	dnbi pro for small customers in risk management solution segment	1
+product	dna diagnostic test product	1
+technology	dna test	1
+technology	dna-testing laboratory	1
+technology	dns round robin	1
+technology	dns security extensions	1
+technology	dna analysis of fetal cells in a pregnant woman's blood	1
+technology	dna advance	1
+technology	dna cloning	1
+technology	dna code	1
+technology	dna marker	1
+technology	dna marker assisted selection	1
+technology	dna mico-array	1
+technology	dna fingerprinting for microbials	1
+technology	dna evidence now	1
+technology	dna id analysis	1
+technology	dna microchip array	1
+technology	dna record	1
+technology	dna parentage testing	1
+technology	dna sampling	1
+technology	dna evidence	1
+technology	dna hybridisation	1
+technology	dna recombinant technique	1
+technology	dna-based fingerprinting technology	1
+technology	dna-gut content analysis	1
+technology	dna probe hybridization	1
+technology	dna identification	1
+technology	dns security	1
+technology	dns security extensions dnssec	1
+technology	dna marking	1
+technology	dna molecules for computing	1
+technology	dna micro-injection	1
+technology	dna sample	1
+technology	dna barcoding	1
+technology	dna coding	1
+technology	dna foot-printing analysis	1
+technology	dna fingerprinting technology	1
+technology	dna-based testing	1
+technology	dna microarray hybridization technology	1
+technology	dna microarray technology	1
+technology	dna microarray-based aneuploidy screening	1
+technology	dna modifi cation	1
+technology	dna library of local breed	1
+technology	dna manipulation	1
+technology	dna identification of antibiotic resistance gene	1
+technology	dna source tracking	1
+technology	dna shuffling	1
+technology	dna sequencing become	1
+term	dna	16
+term	dna array	1
+term	dna transplant	1
+term	dna binding	1
+term	dna amplification fingerprinting	1
+term	dna evidence	1
+term	dns server	1
+term	dna metabolism	1
+term	dna sequence	1
+term	dns spoofing	1
+parameter	dns	4
+parameter	dna concentration	4
+parameter	dna length	3
+parameter	dna ploidy	3
+parameter	dna content	2
+parameter	dns server address	2
+parameter	dns server	1
+parameter	dna load	1
+parameter	dns entry	1
+parameter	dnbr trip	1
+parameter	dna repair rate	1
+parameter	dna linker length	1
+parameter	dna methylation pattern	1
+parameter	dna integrity	1
+parameter	dnis	1
+parameter	dntp concentration	1
+parameter	dna ploidy-related parameter	1
+parameter	dna-repair capacity	1
+parameter	dna purity	1
+system	dns	19
+system	dna amplification system	7
+system	dna molecule	3
+system	dna	2
+system	dnabased marker system	1
+system	dns server	1
+system	dna chip	1
+system	dna database	1
+system	dna code	1
+system	dna function	1
+system	dna dependent rna polymerase system	1
+system	dna detection system	1
+measure	dns blacklisting	1
+measure	dna legislation so-called	1
+condition	dna damage	3
+condition	dna synthesis	1
+condition	dna concentration	1
+condition	dna repair disorder	1
+element	dna	2
+element	dnd message	1
+element	dna sample	1
+element	dns using specific check	1
+element	dna transposable element	1
+product	dna repair formula	1
+product	dna sequencing reagents & cytogenetic reagent	1
+variable	dnr order	1
+variable	dna repair perturbation	1
+variable	dna sequence	1
+variable	dna ploidy	1
+function	dna replication	6
+function	dns	3
+function	dna repair	2
+function	dna synthetic response	2
+function	dnr	2
+function	dna damage checkpoint response orapoptosis	1
+function	dna structure	1
+function	dns lookup	1
+function	dna amplification	1
+function	dna binding	1
+device	dna chip	2
+device	dns server	2
+brand	dnc	1
+brand	dnp dai nippon	1
+brand	dni nevada	1
+brand	dnm	1
+brand	dna footwear	1
+concept	dna	7
+concept	dna testing	1
+concept	dna profiling	1
+component	dna polymerase	4
+component	dna	3
+component	dna machinery component	1
+component	dns naming	1
+component	dns server	1
+aspect	dna protection	2
+aspect	dns role	1
+aspect	dnr used	1
+site	dna binding site	1
+task	dns lookup	1
+task	dns setup	1

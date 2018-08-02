@@ -1,0 +1,112 @@
+exception	qf contract	1
+model	qfd along with hoq	1
+approach	qfd	1
+business	qfc	2
+part	qfp	1
+development	qf in mind	1
+format	qfx	1
+store	qfc grocery chain	1
+store	qfc	1
+retailer	qfc	1
+competitor	qf	1
+competitor	qfc	1
+package	qfp	8
+package	qfn	3
+package	qfp of conventional semiconductor device	1
+methodology	qfd	1
+airline	qf	13
+electronic component	qfp	2
+semiconductor device	qfp	2
+semiconductor device	qfn	1
+file type	qfx	1
+supermarket	qfc	2
+training course	qfd institute's green	1
+design tool	qfd	2
+standard tool	qfd	1
+nominee	qfs asset management's qfs currency	1
+file system	qfs	2
+electronic part	qfp	2
+premium product	qfii	1
+quality tool	qfd	8
+design method	qfd	2
+evaluation method	qfd	1
+meteorological datum	qfe	1
+proven method	qfd	1
+topic	qfd analysis	1
+national carrier	qf	1
+sigma tool	qfd	1
+company	qf	1
+grocery store chain	qfc	1
+large grocery store	qfc	1
+airline website	qf	1
+quality assurance technique	qfd	1
+large grocery chain	qfc	2
+advanced package	qfn	1
+quality technique	qfd	1
+structured technique	qfd	1
+forecasting model	qf wind generation forecasting	1
+TQM tool	qfd	1
+participating store	qfc	1
+premium airline	qf	1
+structured process	qfd	1
+flow sensor	qfs	1
+mainstream supermarket	qfc	1
+sigma technique	qfd	2
+continuous improvement technique	qfd	1
+high precision component	qfp	1
+premium carrier	qf	1
+advanced quality tool	qfd	1
+leadless package	qfn package	1
+underlying theory	qft	1
+defect prevention method	qfd	1
+product development tool	qfd	1
+rapid process	qfd	1
+sigma & lean tool	qfd	1
+standard JEDECIC package	qfp	1
+standard JEDECIC package	qfn	1
+common quality tool	qfd	1
+IC package product family	qfp package family	1
+kroger-affiliated store	qfc	1
+leadless semiconductor package	qfn	1
+meteorological calculation	qfe	1
+meteorological calculation	qff	1
+technique	qfd	4
+australian airline	qf	1
+gear geometry	qfb	3
+investigation few QTL	qfg seven  . one 	1
+normal quality management tool	qfd	1
+quality assurance instrument	qfd	1
+surface built-in semiconductor package	qfp	1
+chip package	qfn package	1
+decision support method	qfd	1
+industry-compatible instrument	qfd	1
+internetcan power method	qfd	1
+liquid handling task	qfill task	1
+low strain situation	qfps	1
+management science methodology	qfd	1
+pressure setting	qfe	1
+service design tool	qfd	1
+shared file-system	qfs on the lun	1
+spe-cifictools	qfd	1
+surface-mount resin-sealed package	qfi	1
+surface-mount resin-sealed package	qfj	1
+conventional leadframe-based package	qfp	1
+dedicated asset	qf plant	1
+fine-pitch component	qfp	1
+flat package	qfn	1
+fme pitch component	qfp	1
+four-sided device	qfp	1
+micro lead frame component	qfn	2
+modern compact package	qfn package	1
+modern quality method	qfd	1
+method	qfd	2
+plan trough international modelling magazine	qfi	1
+quad cartridge four-sided device	qfp	1
+qualification provider	qfa	1
+quality design tool	qfd	2
+self-management property management system	qff's farm management systems program	1
+specialist roofline installer	qfi roofline scotland	1
+typical extractive industry	qfii	1
+tool	qfd	14
+component	qfp	4
+component	qfn	2

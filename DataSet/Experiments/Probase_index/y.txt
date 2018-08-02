@@ -1,0 +1,10 @@
+structure	y	1
+nonprofit	y	1
+gym	y	1
+chromosome	y	1
+organization	y	2
+nonrecombining chromosome	y	2
+ABSTRACT nonrecombining chromosome	y	1
+good gym	y	1
+place	y	1
+variable	y	2

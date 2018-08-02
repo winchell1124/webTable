@@ -1,0 +1,350 @@
+product	jvc stereo system related product	1
+model	jvc	2
+model	jvc ch-x	1
+model	jvc ks-ax six thousand seven hundred 	1
+model	jvs emerging	1
+client	jvc	2
+procedure	jv contract	1
+feature	jv sixteen  powertools' feature 	1
+firm	jvc	3
+manufacturer	jvc	40
+setting	jvm heap size	2
+setting	jvm maximum heap size	2
+team	jv	1
+partner	jv	1
+big name	jvc	3
+big name	jvc uk	1
+piece	jvm	1
+role	jv lacrosse player	1
+vendor	jvc	2
+opportunity	jv's with local business owner	1
+opportunity	jvi	1
+label	jvc	1
+label	jv from italy	1
+award	jv pin	1
+award	jv dancer of the year	1
+capability	jvm diagnostics	1
+party	jvp	4
+competitor	jvc	1
+stakeholder	jv partner	2
+brand name	jvc	12
+festival	jvc jazz festival in new york city	1
+festival	jvc in nyc	1
+great	jvg	1
+line	jvc	3
+producer	jvc	1
+driver	jv	1
+sport	jv football	1
+platform	jvm welcoming technologies like scala	1
+platform	jvms with a special class loader	1
+supplier	jvc	2
+key issue	jvm tuning	1
+top brand	jvc	14
+modification	jvc stereo	1
+account	jvc	1
+transaction	jv	1
+tactic	jv giveaway	1
+issue	jv's show	1
+scenario	jvs	1
+charity	jvs	1
+popular brand	jvc	7
+popular brand	jvc pro	1
+industry leader	jvc	3
+name brand	jvc	5
+famous name	jvc	1
+extracurricular activity	jv girls soccer coach	1
+camera	jvc gy-hd two hundred and fifty 	1
+camera	jvc hd camera	1
+camera	jvc gy-hd two hundred and fifty u 	1
+camera	jvc gy-hm one hundred e 	1
+famous brand	jvc	1
+item	jvc dvd player	1
+well-known brand	jvc	3
+choreographer	jv jennings	1
+international brand	jvc	1
+international brand	jvc sales & service	1
+quality brand	jvc	2
+big player	jvc	1
+well-known company	jvc	3
+high quality product	jvc	2
+multinational company	jvc	1
+multinational	jvc	1
+great brand	jvc	3
+outside influence	jv unit demand fluctuation	1
+global brand	jvc	1
+leading brand	jvc	2
+political party	jvp	3
+corporate client	jvc	1
+sophisticated technique	jvd	1
+outsider	jv partner	1
+international standard	jvt	1
+top name brand	jvc	1
+best brand	jvc	1
+implementation	jvm hardware implementation	1
+reputable brand	jvc	1
+top brand name	jvc	1
+high quality brand	jvc arsenal head unit	1
+corporate giant	jvc	1
+top manufacturer	jvc	2
+hardware device	jv eight hundred and eighty 	1
+seminar	jv alert live	1
+big name brand	jvc	1
+record label	jv-music group	1
+top quality brand	jvc	2
+well-known manufacturer	jvd	1
+large manufacturer	jvc	1
+monitor	jvc monitor	1
+recording device	jvc dvhs tape deck	1
+service	jvmti	1
+blue-chip company	jvc	1
+social service agency	jvs	1
+quality name brand	jvc	3
+reliable brand	jvc	1
+retail brand	jvc	1
+prestigious name	jvc	1
+large multinational	jvc	1
+industry name	jvc	1
+consumer electronics product	jvc's new high definition consumer camcorder	1
+good company	jvc	2
+mainstream brand	jvc	1
+excellent brand	jvc	1
+topic	jvm language	1
+minor factor	jvm activity	1
+electronics company	jvc	1
+big-name brand	jvc	1
+jazz festival	jvc jazz festival	1
+specialty brand	jvc	1
+trusted brand	jvc	3
+popular manufacturer	jvc	1
+projector	jvc rs one 	1
+error message	jvm error	1
+camcorder	jvc model sxm three hundred and sixty u 	1
+camcorder	jvc gz-mg six hundred and thirty 	1
+camcorder	jvc	1
+camcorder	jvc picsio gc-fm one 	1
+camcorder	jvc camcorders	1
+camcorder	jvc gz-mg two hundred and fifty-five 	1
+electronics manufacturer	jvc	3
+performance statistic	jvm memory usage	5
+stand	jvc stand	1
+electronic company	jvc	1
+company	jvc	49
+financial arrangement	jv	1
+small party	jvp	1
+jar	jvm-agent jar	1
+enquiry	jv	1
+synths	jv	1
+accounting document	jv	1
+TV manufacturer	jvc	1
+registry cleaner	jv sixteen  power tools 	1
+successful corporation	jvc	2
+company	jvm realty corporation	1
+quality name brand product	jvc	1
+top branded product	jvc	2
+household brand name	jvc	1
+binary	jvm diagnostics agent	1
+binary	jvm diagnostics manager	1
+outdoor festival	jvc jazz festival	1
+national brand product	jvc	1
+environment information	jvm	1
+good model	jvc ha-nc one hundred 	1
+good model	jvc ha-nc two hundred and fifty 	1
+game company	jvc entertainment in japan	1
+industry member	jvc	1
+HD format	jvc prohd	2
+high-impact sport	jv	1
+industry manufacturer	jvc	1
+audio company	jvc	1
+activity	jv	1
+electronic giant	jvc	1
+on-air personality	jv & elvis	1
+consumer electronics giant	jvc	1
+world famous brand name	jvc	1
+electronics maker	jvc	2
+japanese player	jvc	1
+battery charger	jvc charger	1
+blue chip customer	jvc	1
+large brand name	jvc	1
+prestigious stage	jvc jazz festival	1
+industry brand	jvc	1
+TV brand	jvc	1
+well-known multinational	jvc	1
+popular electronics brand	jvc	1
+well-known multinational company	jvc	1
+consumer electronics firm	jvc	1
+national party	jvp	1
+radio manufacturer	jvc	1
+standardization activity	jvt	1
+international industry	jvc america	1
+market-leading company	jvc	1
+platform issue	jvm implementation detail	1
+affiliated program	jv giveaways	1
+big electronics company	jvc	1
+electronic brand	jvc	1
+information	jv deadline	1
+top-of-the-line product	jvc	1
+area club	jv's restaurant	1
+deployment information	jvm parameter	2
+good registry cleaner	jv sixteen  power tool 	1
+good registry cleaner	jv sixteen  powertools 	1
+display manufacturer	jvc	1
+high school team	jv	1
+liberals	jv	1
+digital video camera	jvc	1
+great upgrade	jvc in mobile audio system	1
+high end equipment brand	jvc	1
+home theater system	jvc th-m five hundred and five 	1
+innovative manufacturer	jvl	1
+japanese publicly-traded company	jvc	1
+digital camcorder	jvc everio	2
+event	jv basketball game	1
+event	jvc jazz festival	1
+HD digital camera	jvc	1
+popular commercial name brand	jvc	1
+projection technology	jvc digital image light amplifier	1
+today top quality brand	jvc	1
+county-wide issue	jvs	1
+customer world-renowned electronics maker	jvc	1
+hardware implementation	jvm hardware implementation	1
+head unit	jvc kw-xr eight hundred and ten  come with tons of option 	1
+high-end brand car audio accessory	jvc	1
+parallel interface	jvc's  fourty-five  pin interface 	1
+premium-brand company	jvc	1
+brand camcorder	jvc mod camcorder	2
+brand camcorder	jvc	1
+electronic manufacturing company	jvc	1
+good quality product brand	jvc	1
+electronic manufaturers	jvc	1
+HD camcorder	jvc everio gz-hm thirty 	2
+HD camcorder	jvc	1
+quality plasma	jvc	1
+CE vendor	jvc	1
+customer top brand	jvc	1
+DV camcorder	jvc gy-dv three hundred 	1
+extrusive brand	jvg	1
+global consumer electronic product company	jvc	1
+mainstream cd player	jvc	1
+monitor weblogic integration performance statistic	jvm memory usage	1
+startup parameter	jvm parameters for oc four j 	2
+bellow	jvk	1
+branded used LCD TV	jvc	1
+camcorder battery	jvc	1
+car stereo maker	jvc	1
+cheap and popular camcorder	jvc	1
+CRT monitor	jvc tm-h one hundred and fifty cg with the sdi card 	1
+digital HD camcorder	jvc gz-hd three hundred and twenty 	1
+digital peripheral company	jvc	3
+earphone brand	jvc	1
+established electronic company	jvc	1
+FI document	jvs	2
+HD video camcorder	jvc	1
+modern DV camera	jvc	1
+monitor weblogic performance statistic	jvm memory usage	1
+organization	jvc	1
+reputable top-tier manufacturer	jvc	1
+respected japanese brand	jvc	1
+stereo maker	jvc	1
+top manufacturer name brand	jvc	1
+trusted ugg shoe brand	jvc	1
+VCR manufacturer	jvc	1
+VCRs	jvc's low-end industrial model brs- three hundred and seventy-eight u 	1
+vinyl tape	jvcc v- thirty-six  colored vinyl tape 	1
+allowed manufacturer	jvc	1
+annual premier sport league	jvc badminton open	1
+bose competitor	jvc	1
+common add-ons	jvs	1
+deal list	jvc everio gz-mg three hundred and thirty  camcorder 	1
+deal list	jvc everio gz-mg six hundred and thirty   sixty gb hdd digital camcorder 	1
+deal list	jvc everio ms one hundred and twenty  dual flash 	1
+expensive DVD player	jvc	1
+extreme nationalist force	jvp	1
+market sterio supplier	jvc	1
+multinational camcorder producer	jvc	1
+native VM interface function	jvmti function	2
+native VM interface function	jvm ti function	1
+popular car stereo brand manufacturer	jvc	1
+reg cleaner	jv sixteen  power tools 	1
+veteran firm	jvc	1
+3000-year-old city's historical site	jvari church	1
+brand name stereo system	jvc	1
+brand name TV	jvc	1
+name	jvc	3
+competing japanese electronics producer	jvc	1
+discounted S-VHS machine	jvc hr-s five thousand nine hundred 	1
+effective module	jv accordion menu	1
+elcaset manufacturer	jvc	1
+expensive JVC HD camcorder	jvc gzhd three 	1
+expensive JVC HD camcorder	jvc everio gz seven 	1
+EXTERNAL MIDI instrument	jv one thousand and eighty  in logic environment 	1
+famous also rans	jvc xeye	1
+FAQ	jv	1
+final generation oHJf JVC VCRs	jvc sr v one hundred and one us 	1
+final generation oHJf JVC VCRs	jvc hm dt one hundred u 	1
+Guevarists	jvp of sri lanka	1
+hard disk camcorder	jvc gz-mg seventy 	2
+in-car radio	jvc kd-hdr one  mobile 	1
+industrial level camera	jvc dv- five hundred and fifty 	1
+industrial-level camera	jvc dv- five hundred and fifty 	1
+japanese and american electronics company	jvc	1
+JMX client tool	jvisualvm	1
+managed global account	jvc	1
+monitor silverstream performance statistic	jvm memory usage	1
+mu ltinational corporation	jvc	1
+normal consolidation procedure	jv	1
+case	jv between bank of montreal	1
+case	jvc rs one 	1
+post-grad wing	jvonte brooks out of san diego	1
+prized amateur standout	jv casio	1
+prosumer HDV camcorder	jvc gr-hd one 	1
+retread coach	jvg	1
+Sasanadevatas	jvalamalini	1
+stereo manufacturer	jvc	1
+tampa construction firm	jvs contracting inc.	1
+tough-minded coach	jvg	1
+V-plate	jvc ka- five hundred and fifty-one u 	1
+websphere application server setting	jvm heap size	1
+websphere setting	jvm heap size	1
+43-58mm threaded camcorder	jvc gy dv three hundred u 	1
+option	jvc gumy air earphone	1
+CCF intermediary	jva consulting llc	1
+committed agency	jvs toronto	1
+communal force	jvp	1
+Digital VCRs	jvc hm-dsr one hundred u 	1
+option	jvc	1
+fan-assisted unit	jvi unit	1
+good free registery cleaner	jv sixteen  power tool 	1
+HDD camera	jvc mg two hundred and fifty-five 	1
+japanese consumer electronics firm	jvc	1
+JV broker	jv alert	1
+low cost camcorder	jvc gz-mg twenty 	1
+Mini DV camera	jvc gr-d thirty-three  minidv digital camcorder 	1
+minimal EC	jv football	1
+multinational renowned brand	jvc	1
+non-competitive, negotiated agreement	jv	1
+oppossition political party	jvp	1
+popular JVC monitor	jvc dt-v twenty-four l one du 	1
+private and public customer	jvc europe	1
+professional DVD recorder	jvc sr-dvm seven hundred 	1
+projector company	jvc	1
+purpose log	jvm log	1
+re monitor	jvc dila	1
+reliable wireless home theater system	jvc	1
+time relevant change	jvm upgrade	1
+top panel product	jvc home theater	1
+video camera maker	jvc	1
+VTR	jvc br-hd fifty u 	1
+XLR compatible camera	jvc gy-dv five hundred 	1
+project	jvap best bets	1
+product	jvc car audio related product	1
+parameter	jvm heap size	1
+system	jvc	1
+variable	jvm internal variable	1
+variable	jv partner	1
+variable	jvm heap memory	1
+device	jvc dvhs machine	1
+device	jvc d-vhs player	1
+brand	jvc	108
+brand	jvc onkyo	1
+component	jvm name	1
+component	jviews multi-user support component	1
+related product	jvc car audio related product	1

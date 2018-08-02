@@ -1,0 +1,4523 @@
+factor	dvt	3
+product	dvd fab	1
+product	dvd loader related product	1
+product	dvd maker related product	1
+product	dvd camera	1
+product	dvb-t antenna related product	1
+product	dvb-t tv receiver related product	1
+product	dv	1
+product	dvb receivers	1
+product	dvb tv tuner related product	1
+product	dv camera digital related product	1
+product	dv camera related product	1
+product	dv tdm	1
+product	dvr video card related product	1
+product	dvt prophylaxis	1
+product	dvds television related product	1
+product	dvi computer cable related product	1
+initiative	dvb's mhp	1
+accessory	dvd player	20
+accessory	dvd	12
+accessory	dvd system	3
+accessory	dvd cases	2
+accessory	dvb-t usb device	1
+accessory	dvd burner	1
+accessory	dvdr	1
+accessory	dvd remote control	1
+accessory	dvd presentation	1
+accessory	dvd course	1
+datum	dv drive time	1
+resource	dvds	92
+resource	dvd player	5
+resource	dvd's	3
+resource	dvd s	3
+resource	dvd with skills demonstration	1
+resource	dvd gamers	1
+resource	dvd drive	1
+facility	dvd player	54
+facility	dvd	14
+facility	dvd library	3
+facility	dvd rental	2
+facility	dvds for hire	1
+facility	dvd writer	1
+facility	dvd production	1
+facility	dvd system	1
+process	dvd burning	1
+source	dvd	46
+source	dvd player	42
+source	dvla	3
+source	dvb-t tuner	1
+source	dvi digital source	1
+source	dvd s	1
+source	dvd recorder	1
+benefit	dvr service	6
+benefit	dvc member benefit	1
+game	dvonn	1
+exception	dvds	4
+exception	dv	1
+exception	dvz trap	1
+work	dvaak's piano trio	1
+work	dvorak serenade for winds	1
+work	dvorak's slavonic dances	1
+characteristic	dvrs	1
+characteristic	dvd unit	1
+characteristic	dvd quality in the movie	1
+word	dvdfab eight thousand and thirty-two  keygen 	1
+word	dvdpe pro keygen	1
+word	dvd profiler  three . seven . one  keygen 	1
+word	dvblink tvsource keygen	1
+word	dvblogic keygen	1
+word	dvdfab eight . zero . three . two  keygen 	1
+word	dvdfasb  eight  keygen 	1
+word	dvdfab  eight . zero . zero . five  keygen 	1
+word	dvd fab eight  keygen 	1
+word	dvd profiler keygen	1
+situation	dvt	1
+situation	dvd lending license mentioned in part ii.a	1
+skill	dvd studio pro	1
+skill	dvd creation	1
+skill	dvd authoring	1
+category	dvds	11
+category	dv survivor	1
+category	dvr id	1
+category	dvds & cds	1
+category	dvd's	1
+category	dvd player	1
+category	dvd ? s	1
+change	dvd dispenser	1
+product	dvd rewritable drive related product	1
+product	dvd record software related product	1
+product	dvd player mpeg four  related product 	1
+product	dvd players with recording facility	1
+product	dvi adapter related product	1
+product	dvi plug related product	1
+product	dvd store related product	1
+product	dvd suite	1
+product	dvd-based rear-seat entertainment system	1
+product	dvr security cameras	1
+product	dvrs by replaytv	1
+product	dvd cleaner related product	1
+product	dvd bag related product	1
+product	dvd disc	1
+product	dvd divx mpeg four  related product 	1
+product	dv camcorder related product	1
+product	dvb remote control related product	1
+product	dvb s with decode	1
+product	dvd burner related product	1
+product	dvd & bd writer	1
+product	dvd laser related product	1
+product	dvd format player	1
+product	dvd drive	1
+product	dvd rom drive related product	1
+product	dvd sale	1
+product	dvd slideshows	1
+product	dvd portable player related product	1
+product	dvd receiver related product	1
+product	dvd record player	1
+product	dvd related product	1
+product	dvd-r	1
+feature	dvd player	46
+feature	dvd	17
+feature	dvd comand navigation	12
+feature	dvi	10
+feature	dvr	9
+feature	dvd burner	8
+feature	dvd playback	8
+feature	dvd entertainment system	6
+feature	dvd navigation	6
+feature	dvd-audio	5
+feature	dvd drive	5
+feature	dv input	5
+feature	dvi output	4
+feature	dvd navigation system	4
+feature	dvd-based navigation system	4
+feature	dvd rear seat entertainment system	4
+strategy	dvm during the summer	1
+form	dvd	7
+form	dvd lecture course	1
+form	dvds for home	1
+form	dvla	1
+matter	dvd's teaching child different matter	1
+matter	dvla address	1
+alternative	dvds	2
+alternative	dvd-a	1
+alternative	dvd recorder	1
+alternative	dvd rental	1
+alternative	dvico fusionhdtv series card	1
+alternative	dvorak keyboard	1
+alternative	dv cam route	1
+alternative	dvi	1
+agency	dvla	5
+agency	dvr	3
+agency	dv agency	1
+object	dvds	3
+object	dvds bollpoin	1
+object	dvd disc	1
+object	dvd about flanders field	1
+object	dv	1
+mechanism	dvd burner	1
+mechanism	dvmrp	1
+mechanism	dvp	1
+solution	dvr	2
+solution	dvds	2
+solution	dvdfab passkey for bluray	1
+feature	dvd entertainment	2
+feature	dvd audio	2
+feature	dvd system	2
+feature	dvd rewriter	2
+feature	dvd editing	2
+feature	dvd chapter	1
+feature	dvd menu creator	1
+feature	dvd burning format	1
+feature	dvi video connector	1
+feature	dvi-d input	1
+feature	dvi-i dual link port	1
+feature	dvr manager	1
+star	dvc	1
+field	dvr	1
+band	dvd feature legendary band	1
+part	dvd drive	5
+part	dvd rom	4
+part	dvd player	2
+part	dvd movie	1
+amenity	dvd player	71
+amenity	dvd	22
+amenity	dvd rental	4
+amenity	dvd library	2
+amenity	dvd navigational system	1
+amenity	dvd & cd player	1
+amenity	dvd movie	1
+amenity	dvd stereo	1
+amenity	dvd burner	1
+title	dvd title	1
+title	dvd software title	1
+operation	dvd authoring	3
+operation	dvd player control operation	1
+circumstance	dvt	1
+cost	dvds	1
+feature	dvd extra feature	1
+feature	dvd family entertainment center	1
+feature	dvd store	1
+feature	dvd workshop offer	1
+feature	dvd writer	1
+feature	dvd quality	1
+feature	dvd rear entertainment center	1
+feature	dvd menu	1
+feature	dvd mobile entertainment system	1
+feature	dvd-burning	1
+feature	dvd-a	1
+feature	dvd chapter listing	1
+feature	dvd cover capture	1
+feature	dvd bundle	1
+feature	dvd authoring	1
+feature	dvd burning	1
+feature	dvd case	1
+feature	dvar torah's	1
+feature	dvi with hdcp	1
+feature	dvr compensation	1
+feature	dvr service for the entire home	1
+feature	dvd nine  compatibility 	1
+feature	dvi dual-link	1
+feature	dvi connector	1
+feature	dvd rear entertainment system	1
+feature	dvd player.wire-less broadband access	1
+development	dvds-by-mail delivery service	1
+development	dvd authoring	1
+development	dvb-c two  complement deep fiber technology 	1
+type	dvi-i	1
+type	dvd player	1
+type	dv	1
+type	dvi-d	1
+type	dvd-ram	1
+type	dvd	1
+venue	dv eight 	3
+venue	dvorak hall	2
+criterion	dvd release	1
+industry	dvd industry	1
+job	dvd authoring	1
+manufacturer	dvd drive manufacturer	1
+act	dv eight  physical theatre 	1
+feature	dvr function	1
+feature	dv input for connecting digital camcorder	1
+feature	dvd section	1
+feature	dvd recording	1
+feature	dvd-based navigation	1
+feature	dvd-ram compatibility	1
+feature	dvo device	1
+feature	dvr feature	1
+feature	dvs system	1
+feature	dvd playing capability	1
+complication	dvt	10
+publication	dvandva formations in new persian	1
+setting	dvd title	1
+setting	dvd drive	1
+setting	dvd language	1
+setting	dv training event	1
+setting	dvd menu language	1
+setting	dvd viewing	1
+setting	dvd name	1
+setting	dvd subtitle	1
+setting	dvd menu template	1
+setting	dv fifty  ntsc  fourty-eight kh 	1
+website	dvorak uncensored	1
+website	dvdshrink	1
+website	dvd planet	1
+equipment	dvd player	19
+equipment	dvd	10
+equipment	dvr	5
+equipment	dvd player in the master outlet	1
+equipment	dvd player with monitor	1
+equipment	dvd drive	1
+equipment	dvd recorder	1
+equipment	dvr recorder	1
+equipment	dvd player in the master socket	1
+equipment	dvb-t aux sat	1
+unit	dvd player	3
+unit	dvds	2
+unit	dvd production	2
+unit	dvr	1
+basic	dvr	3
+basic	dvd	1
+basic	dvi convertor	1
+basic	dvd rental	1
+musician	dvd many guest musician	1
+movie	dvd format at huge bargain	1
+movie	dvd cartoon movie	1
+innovation	dvd	5
+innovation	dvd acceleration	2
+innovation	dvd player	2
+innovation	dvd acceweration	1
+innovation	dvd recordings of lesson	1
+innovation	dvs home ventilation system	1
+cause	dvd emulator	1
+mean	dvd	6
+instance	dvla	1
+entity	dveswithhighly agile entity	1
+feature	dvb standard	1
+feature	dvd control	1
+feature	dvd extreme online chanel rob player	1
+feature	dvd feature special feature	1
+feature	dvd game	1
+feature	dvd-rw drive	1
+feature	dvd support	1
+feature	dvd super multi burner	1
+feature	dvd satellite navigation with mdi	1
+feature	dvd rom feature	1
+feature	dvd movie playback	1
+feature	dvd navigation available	1
+feature	dvd players for the back seat passenger	1
+feature	dvd maker	1
+purpose	dvds	1
+format	dvd	72
+format	dv	14
+format	dvd-audio	12
+format	dvd-video	6
+format	dvd-a	6
+format	dvcam	5
+format	dvd audio	5
+format	dvcpro hd	3
+format	dvi	2
+format	dvi-i	1
+format	dvda	1
+format	dvd-r	1
+format	dv avi	1
+format	dv disc	1
+format	dvcpro	1
+format	dvcpro dvcam	1
+format	dvds for input	1
+format	dvd-video audio format	1
+format	dvix & avi	1
+format	dvc pro hd	1
+format	dvd ipod audio format	1
+format	dv for video	1
+format	dvi-d	1
+format	dvd-ram	1
+format	dv-compressed video in an avi-container	1
+format	dvc pro	1
+format	dvcam & digital betacam	1
+format	dv fifty 	1
+format	dvb	1
+format	dvd-video dvd-audio super audio cd	1
+format	dvcpro fifty 	1
+format	dvd ipad audio format	1
+format	dv twenty-five 	1
+format	dv video format	1
+Organisations	dvla	2
+Organisations	dv talent	1
+Organisations	dva	1
+partner	dvla	1
+standard	dvb-t	7
+standard	dvb-h	6
+standard	dvi	4
+standard	dvb-t two 	4
+standard	dvb	3
+standard	dvb-s two 	2
+standard	dva	1
+standard	dvb-c for cable	1
+standard	dvb-s for satellite dvb-t for terrestrial	1
+standard	dvb-sh standard	1
+standard	dvb's common interface	1
+standard	dvb s common interface	1
+standard	dvb-sh	1
+classic	dvorak's new world symphony	1
+piece	dvds	1
+piece	dvorak humoresque	1
+advanced feature	dvd	2
+advanced feature	dvi input	2
+advanced feature	dvi switching	1
+advanced feature	dvd audio	1
+advanced feature	dvd bookmark	1
+club	dvd rental club	1
+vendor	dvd drive vendor	1
+vendor	dvd maker	1
+design	dvc exclusive church suits	2
+design	dvd tray	1
+influence	dvaravati	1
+market	dvb-h	1
+intervention	dvt prophylaxis	1
+label	dvrv recordings	1
+department	dva	1
+scheme	dvlottery issued by the state	1
+supply	dvds	5
+supply	dvr	1
+supply	dvd writers	1
+supply	dvd movie	1
+designer	dvc exclusive	2
+award	dvd premiere awards	1
+article	dvds	7
+software	dvdfab	4
+software	dvd shrink	3
+software	dvd remaster	2
+software	dvd studio	2
+software	dvr program	2
+software	dvd playing software	1
+software	dvd rip n burn pro deluxe	1
+software	dvd region free	1
+software	dvd decrypter	1
+software	dvd copying software	1
+software	dvd slideshow	1
+software	dvd specific software	1
+software	dvd video plackback software	1
+software	dvd rip software	1
+software	dvd management software	1
+software	dvdgenie	1
+software	dvd fourty-three 	1
+software	dvd architect	1
+software	dvd creation software	1
+software	dvd decoding software	1
+software	dvd decrypt	1
+software	dv film magic	1
+software	dvd-rw burning software	1
+software	dvdr emaster	1
+capability	dvd ripping	1
+capability	dvd recording	1
+module	dvd burner	1
+module	dv capture	1
+module	dvi	1
+magazine	dv magazine	1
+provider	dvr service provider	1
+retailer	dvdempire.com	1
+offer	dvd box related offer	1
+offer	dvb-s related offer	1
+offer	dvb-t antenna related offer	1
+offer	dvd replication related offer	1
+offer	dvd-rom related offer	1
+offer	dvi cable related offer	1
+offer	dvd disc related offer	1
+offer	dvd player related offer	1
+machine	dvd player	3
+gift	dvds	14
+gift	dvd player	6
+gift	dvr system	1
+gift	dvd box set	1
+gift	dvd s set to music coffee table book	1
+risk	dvt	1
+good	dvds	15
+good	dvd player	2
+good	dvd movie	1
+good	dvds than web customers on the continent	1
+good	dvd s	1
+good	dvd recorder	1
+brand name	dvdxpress	1
+addition	dvd player	1
+addition	dvd	1
+law	dv act	1
+image	dvd menu	1
+package	dvd factory	1
+package	dvd workshop	1
+package	dvd player package	1
+package	dvd burning package	1
+channel	dvd print of the film	1
+surface	dvd's	1
+touch	dvd player	5
+touch	dvd library	3
+touch	dvds	2
+touch	dvd's	1
+touch	dvds for rainy day	1
+touch	dvds of a range of film	1
+series	dvd sci fi tv series	1
+series	dvd tv series	1
+utility	dvd burning utility	1
+driver	dvd driver	3
+driver	dvd drive	2
+file	dvd movie	2
+file	dvr boxes	1
+file	dvd video	1
+issue	dvd-based navigation system	1
+everything	dvd	1
+service provider	dvr service provider	1
+supplier	dvd-rom drive supplier	1
+fee	dvr	1
+composer	dvorak	12
+essential	dvd	2
+essential	dvd burner	1
+essential	dvd player	1
+protocol	dvcs	1
+scientist	dvm from the university of saskatchewan	1
+card	dvds	1
+responsibility	dvd organising	1
+responsibility	dvd rental	1
+top brand	dvs	6
+top brand	dvs shoes	1
+top brand	dvf	1
+domain	dvds	2
+arrangement	dvp	1
+committee	dvla neurology committee	1
+operator	dvdxpress	1
+sensor	dvl	1
+network	dvb-h	2
+network	dvb-h see mobile tv	1
+upgrade	dvd burner	3
+upgrade	dvr	2
+upgrade	dvr rental	1
+medium	dvd	31
+medium	dvd-r	5
+medium	dvd copies of the films produced by warner bros.	4
+medium	dvd-video	3
+medium	dvd back-ups	1
+medium	dvd version	1
+medium	dvd drive	1
+medium	dvd-blu ray	1
+medium	dvd s	1
+medium	dvd player	1
+medium	dvd's on the network	1
+medium	dvd disk	1
+medium	dvd-rw	1
+medium	dvd movie	1
+mode	dvb-h	1
+mode	dvd deck	1
+mode	dvd	1
+shop	dvd shop located on the ground floor	1
+apps	dvd shrink	1
+apps	dvd fourty-three 	1
+apps	dvd encoder	1
+request	dvd navigation	2
+request	dvd in the room	1
+request	dvd menu support	1
+request	dvd player	1
+stock	dvd deliverer netflix	1
+standard feature	dvd burner	2
+standard feature	dvd navigation system	1
+standard feature	dvd entertainment system	1
+standard feature	dvd-based navigation system	1
+standard feature	dvd player with movie collection	1
+input	dvd player	11
+input	dvd	10
+input	dvi	4
+input	dvr boxes	1
+input	dvd correct	1
+prize	dvd player	22
+prize	dvds	11
+prize	dvds of korean drama	1
+prize	dvd component	1
+prize	dvd's manga dojin	1
+prize	dvd training	1
+small item	dvds	6
+small item	dvd player	4
+small item	dvu	1
+small item	dvd's cd's small collectable	1
+competition	dvd fab	1
+factor	dvd drive's read speed	2
+target	dvd video recorder	1
+forum	dvcon	1
+illness	dvt see deep vein thrombosis	1
+signal	dvd	2
+government agency	dvla	2
+icon	dvd	2
+keyword	dvd codecs	1
+perk	dvr service	5
+perk	dvd player	3
+perk	dvds	2
+page	dvdempire.com coupon codes	1
+creature	dvergar	1
+popular brand	dvs	1
+great feature	dvd burner	2
+great feature	dvd	1
+web site	dvd verdict	1
+web site	dvd enthusiast web site	1
+collection	dvd s	1
+appliance	dvd player	31
+appliance	dvd	9
+appliance	dvd-players	1
+content	dvd	4
+content	dvd for a while	1
+content	dvds with bad edit	1
+suspect	dvi	1
+road	dvp	1
+specification	dvb-t	2
+specification	dvd burner	1
+attachment	dvds	1
+aid	dvds	2
+electronic device	dvd player	52
+electronic device	dvds	8
+electronic device	dvd's	1
+electronic device	dvd s	1
+marker	dv-infected dcsshow maturation marker	1
+personal item	dvds	9
+personal item	dvd player	4
+issue	dvd drive problem	1
+issue	dvd playback	1
+item	dvds	292
+item	dvd player	128
+item	dvd's	21
+specific	dvd watching program	1
+mediums	dvd	9
+add-ons	dvr	3
+add-ons	dvd	2
+add-ons	dvd player	1
+add-ons	dvd component	1
+goodie	dvd label	2
+goodie	dvd player	2
+goodie	dvd	1
+emergency	dvd rom error	1
+distraction	dvd	8
+stuff	dvd player	2
+stuff	dvds	1
+support	dvds	3
+advanced technique	dvd creation	1
+community group	dv program	1
+reward	dvds	4
+stimulus	dvd	1
+reference	dve disc	1
+functionalities	dvd menu designer	1
+invention	dvd player	1
+household item	dvd player	2
+selection	dvd	1
+selection	dvd chapter selection	1
+advance	dvd	2
+advance	dvr	2
+item	dvd recorder	4
+item	dvd s	4
+item	dvd movie	4
+item	dvds cds videos	4
+item	dvd stand	2
+port	dvi	11
+port	dvi-i input	1
+port	dvi port	1
+convenience	dvd player	8
+convenience	dvd	7
+convenience	dvd library	1
+technological advance	dvr	3
+gadget	dvd player	5
+gadget	dvds	2
+gadget	dvd system	1
+gadget	dvr security system	1
+gadget	dvd participant	1
+gadget	dvue	1
+luxury	dvd	6
+luxury	dvd player	4
+luxury	dvd entertainment with an  eleven -inch monitor 	1
+luxury	dvd burning	1
+luxury	dvd drive	1
+nice feature	dvd rewriters with under-run protection	1
+nice feature	dvd-rw drive	1
+nice feature	dvd dual layer burner	1
+load	dvd players	1
+interface	dvi	5
+interface	dvi-analog	1
+software program	dvd decrypter	1
+conference	dvd pro	2
+entry	dvd afternoon	1
+software package	dv rack for windows	1
+software package	dvr program	1
+software package	dvd maker for windows	1
+camera	dvcam	1
+camera	dvx one hundred 	1
+basic feature	dvd rw along with double layer support	1
+peripheral	dvd player	12
+peripheral	dvd drive	4
+peripheral	dvd decoder	1
+peripheral	dvd rom	1
+peripheral	dvd - r drive	1
+peripheral	dvd printer	1
+peripheral	dvd-r	1
+peripheral	dvd-rom drive	1
+peripheral	dvd battler	1
+consumer product	dvd player	6
+consumer product	dvds	4
+consumer product	dvd writer	2
+consumer product	dvd recorder	1
+electronics	dvd player	93
+electronics	dvds	12
+electronics	dvd recorder	4
+electronics	dvd disk player	1
+electronics	dvd players into surge protector	1
+electronics	dvd-palyers	1
+electronics	dvd recorders for sale	1
+electronics	dvd pocket player	1
+electronics	dvd recoders	1
+electronics	dvd player device	1
+electronics	dvd-players	1
+donation	dvds	8
+consumable	dvds	6
+consumable	dvd ram	1
+consumable	dvd cassettes	1
+gift item	dvd set	1
+gift item	dvd player	1
+interesting feature	dvd based navigation	1
+apparatus	dvd player	2
+hardware	dvd burner	2
+hardware	dvd recorder	1
+hardware	dvd drive	1
+output	dvi ect.	1
+output	dvi connector	1
+output	dv widescreen	1
+output	dvd	1
+output	dvp six hundred and two ci's other output 	1
+output	dvi	1
+funding source	dvr	1
+innovative feature	dvb-s two  compatibility 	1
+modern amenity	dvd player	28
+modern amenity	dvd	11
+modern amenity	dvd players along with multiple television	1
+modern amenity	dvd players in selected room	1
+video game	dvds	2
+promotional item	dvd's	1
+promotional item	dvd duplication	1
+product line	dvd	1
+connection	dvi	5
+connection	dvd player	1
+quality product	dvd printers	1
+quality product	dvd disc duplicator	1
+everyday item	dvds	4
+small object	dvds	1
+purchase	dvds	3
+purchase	dvd player	2
+simple item	dvds	2
+convention	dvd logo	1
+emerging technology	dvd digital video disc	3
+emerging technology	dvd digital video disk	1
+product category	dvds	4
+latest technology	dvds	3
+latest technology	dvb-s two 	1
+modern technology	dvd player	5
+modern technology	dvds	3
+modern technology	dvr	2
+modern technology	dvd burner	1
+common item	dvd player	1
+expensive item	dvds	2
+expensive item	dvd player	2
+expensive item	dvd's	1
+modern convenience	dvd player	12
+modern convenience	dvd	8
+modern convenience	dvd player with hi fi stereo	1
+video	dvd feature video	1
+software application	dvd-playing software	1
+well-known company	dvico	1
+item	dvd system	1
+item	dvd region	1
+item	dvd-based navigation system	1
+item	dvd's for the library	1
+item	dvd's video game system	1
+item	dvd's & therapy products	1
+item	dvom reading	1
+item	dvr spy pen with a built-in tiny video camera	1
+item	dvd navigation	1
+item	dvd slideshows	1
+item	dvaadasha jyotirli . nga	1
+item	dvd copy	1
+item	dvd plyers	1
+item	dvr	1
+visual aid	dvds	6
+visual aid	dvd's	1
+artefact	dvds paperback book	1
+optional accessory	dvd player	3
+bill	dvd club membership	1
+business service	dvd player	1
+insurance company	dva	2
+mechanical device	dvd drive	1
+luxury item	dvds	4
+luxury item	dvd player	1
+luxury item	dvd players for the back seat passenger	1
+valuable	dvd player	8
+valuable	dvds	4
+technological innovation	dvd recorder	1
+external device	dvd player	9
+external device	dvd	5
+external device	dvc	1
+external device	dvd burner	1
+modern facility	dvd player	3
+modern facility	dvd	2
+new	dvd release	1
+common feature	dvd writer	1
+popular item	dvds	5
+popular item	dvd's	1
+spare part	dvd drive	1
+federal agency	dva	1
+electronic component	dvd player	1
+powerful feature	dvd burner	2
+mobile device	dvd burner	1
+mobile device	dvd player	1
+innovative product	dvd navigation	1
+innovative product	dvd player	1
+innovative product	dvd recorder	1
+everyday object	dvd player	1
+operating system	dvd player	3
+operating system	dvd-video player	1
+valuable item	dvd player	3
+valuable item	dvd's	1
+valuable item	dvds	1
+minor issue	dv	1
+peripheral device	dvd player	9
+peripheral device	dvd	2
+peripheral device	dvd drive	1
+bonus	dvcpro fifty  on the hvx 	1
+bonus	dvd theater	1
+basic amenity	dvd player	1
+activites	dvd	1
+interactive feature	dvr control	1
+input device	dvd player	12
+input device	dvd	8
+input device	dvd burner	1
+note	dvd player	1
+electronic product	dvd	8
+electronic product	dvd writer	8
+electronic product	dvd player	6
+electronic product	dv	3
+electronic product	dvd recorder	1
+electronic product	dvd camera	1
+electronic product	dvr card	1
+electronic product	dvd shell processing into various grain	1
+electronic product	dvr system	1
+external source	dvd player	1
+external source	dvd players ect	1
+item	dville property tax	1
+marketing material	dvds	3
+marketing material	dvd tour	1
+tv series	dvd tv series	1
+tv series	dvd sci fi tv series	1
+standard item	dvd player	3
+industry standard	dvi	2
+industry standard	dvd	1
+industry standard	dvb	1
+industry standard	dvd-video	1
+industry standard	dvb-s two  standard for satellite television 	1
+government department	dvla	3
+freebie	dvd player	2
+technological development	dvd	1
+facet	dvd	2
+nice touch	dvi output port	1
+nice touch	dvd s	1
+nice touch	dvd player & dvd's board game	1
+small area	dvd cover spine	1
+heavy item	dvds	1
+optional extra	dvd playback	1
+electrical device	dvd player	10
+music	dvd audio	1
+souvenir	dvds	2
+souvenir	dvd's	1
+CDs	dvds of the artist in concert	1
+button	dvr	1
+file format	dv avchd	1
+marketing tool	dvds	3
+promotional material	dvds	3
+promotional material	dvd development	1
+replacement part	dvd drive	3
+severe complication	dvt	2
+support material	dvds	6
+support material	dvds of choreographic work	2
+support material	dvd's	1
+portable device	dvd player	6
+portable device	dvd drive	1
+portable device	dv	1
+accessory item	dvds	1
+consumable item	dvds	4
+optional item	dvd player	1
+great amenity	dvd player	1
+art form	dvd authoring	2
+large firm	dvd renter netflix	1
+basic task	dvd	1
+storage device	dvds	21
+storage device	dvd player	5
+storage device	dvd drive	5
+storage device	dvd-r	1
+bulky item	dvds	4
+good feature	dvd fit	1
+interesting topic	dvds	1
+outside agency	dvr	1
+non-food item	dvd's	1
+key	dvd pairing key	1
+educational material	dvds	6
+educational material	dvd on dac	1
+educational material	dvds in the clinic	1
+educational material	dvd's	1
+excellent feature	dvd drive	1
+excellent feature	dvb-t	1
+connector	dvi-i	7
+connector	dvi	3
+connector	dvi connector	1
+famous landmark	dvortsovaya square	1
+valve	dva	1
+cable	dvi	4
+cable	dvi cable	1
+internet site	dvd box office	1
+custom feature	dvd player	1
+entertainment	dvd player	1
+regular feature	dvi	1
+electrical appliance	dvd player	10
+electrical appliance	dvd	1
+electrical appliance	dvd players on stand-by	1
+supporting material	dvds	2
+comfort	dvd player	5
+personal touch	dvd library	1
+visual	dvrs	1
+common household item	dvd player	1
+apparatuses	dvd recorder	3
+apparatuses	dvd	1
+communication technology	dvd player	1
+supplemental material	dvds	9
+supplemental material	dvd's	3
+supplemental material	dvd of the director's prior work with the receptionist at find	1
+supplemental material	dvds from the sfu bookstore	1
+supplemental material	dvd of the director's prior work	1
+online retailer	dvdempire.com	3
+online retailer	dvd empire	2
+online retailer	dvd planet	2
+online retailer	dvd universe	1
+template	dvd ntsc video stream	1
+consumer electronics	dvd player	31
+consumer electronics	dvds	12
+consumer electronics	dvr	1
+consumer electronics	dvd recorder	1
+advanced service	dvr	1
+key technology	dvb-h key technology	1
+small gift	dvds	2
+free tool	dvd decryptor	1
+free tool	dvd decrypter	1
+free tool	dvd shrink	1
+abbreviation	dvu	1
+online store	dvd shop online	1
+consumer good	dvds	3
+consumer good	dvd player	2
+government organization	dvla	2
+international standard	dvb-h	1
+international standard	dvb	1
+novelty item	dvd monatages	1
+top name brand	dvs	1
+premium feature	dvd player	2
+premium feature	dvd	1
+optical device	dvd-rom	1
+optical device	dvd-rom read device	1
+optical device	dvd-rw	1
+script	dvd rentals script	1
+area	dvr	1
+area	dv tv	1
+area	dvd authoring	1
+outside activity	dvd	1
+drive	dvd drive	5
+presentation	dvd movie	1
+advanced option	dvi	1
+big ticket item	dvd player	2
+minor complication	dvt	1
+teaching aid	dvds	4
+finished product	dvb-tdvb-sound device	1
+display device	dvd burner	1
+home appliance	dvd player	5
+home appliance	dvd	4
+home appliance	dvr	2
+home appliance	dvd participant	1
+information system	dvd-based information system	1
+electrical item	dvd player	9
+electrical item	dvds	2
+electrical item	dvd recorder	1
+valuable resource	dvds	2
+content provider	dvd vendor	1
+online source	dvdempire	1
+online source	dvd aficionado	1
+electronic item	dvd player	19
+electronic item	dvd	6
+electronic item	dvd in wooden carton	1
+electronic item	dvd recorder	1
+electronic item	dvd s	1
+electronic item	dv camcorder	1
+quality feature	dvd player	1
+free gift	dvd player	10
+free gift	dvds	5
+portable electronic device	dvd player	10
+hard material	dvds	1
+multimedia application	dvd playback	1
+multimedia application	dvd playback with high quality audio	1
+high-end feature	dvd	3
+high-end feature	dvd audio disc compatibility in mind	1
+high-end feature	dvd writer	1
+high-end feature	dvr functionality	1
+supplementary material	dvds	6
+app	dvdfab decrypter	1
+merchandise	dvds	3
+creature comfort	dvds	1
+creature comfort	dvd player	1
+premium service	dvr	1
+premium service	dvr service	1
+training material	dvds	4
+training material	dvd presentation	1
+hardware device	dvd player	2
+hardware device	dvd burner	2
+hardware device	dvd players for the computer	1
+hardware device	dvd writer	1
+hardware device	dvd writer between computer	1
+hardware device	dvd drive	1
+electronic system	dvr standalone & dvr card	3
+electronic system	dvd player	1
+electronic system	dvd recorder	1
+security system	dvr card	1
+security system	dvp	1
+security system	dvb-rcs	1
+security system	dvr	1
+security system	dvb-s	1
+leisure facility	dvd player	2
+medium type	dvd-video	2
+medium type	dvd	1
+medium type	dvd-ram	1
+medium type	dvd-rw	1
+medium type	dvd video	1
+medium type	dv	1
+common facility	dvd player	1
+extras	dvd cover containing an image captured from the tape	1
+extras	dvd rental	1
+optical component	dvd roms	1
+exciting feature	dvd crop	14
+exciting feature	dvd letterbox	14
+household appliance	dvd player	4
+auto part	dvd player	1
+delivery system	dvd	1
+advancement	dvds	2
+area	dvds	1
+simple device	dvd	1
+auxiliary device	dvd	2
+auxiliary device	dvd player	1
+auxiliary device	dvd drive	1
+auxiliary device	dvr	1
+source material	dvd	5
+source material	dvd-video disc with a  five . one -channel dolby ac- three  soundtrack 	1
+source material	dvd disc	1
+promotional gift	dvd player	1
+free program	dvd decrypter	1
+brand name product	dvds	1
+digital product	dvds	6
+digital product	dvr	2
+digital product	dvd player	2
+digital product	dve's	1
+digital product	dv	1
+essential feature	dvd burner	1
+training aid	dvds	2
+training aid	dvds book	1
+security product	dvr equipment	1
+security product	dvr	1
+exclusive feature	dvd navigation system	2
+exclusive feature	dvd player	1
+small appliance	dvd player	4
+bonus feature	dvd	1
+interesting item	dvds	1
+memory device	dvd	3
+plug-ins	dvd player	1
+present	dvds	2
+medium source	dvd player	1
+medium source	dvd	1
+physical asset	dvds	2
+physical asset	dvd player	1
+standard amenity	dvd player	2
+electronic equipment	dvd player	1
+open standard	dvb-h	1
+open standard	dvb simulcrypt	1
+open standard	dvb-sh	1
+media	dvds	1
+media	dvd's	1
+software solution	dvd ripper	1
+external component	dvd player	2
+external component	dvd	1
+popular application	dvdx	1
+reservoir	dvc	2
+hardware component	dvd	2
+hardware component	dvd player	2
+hardware component	dvd-rom drive	1
+ammenities	dvd player	1
+medium player	dvd player	3
+personal effect	dvds	1
+codecs	dv	4
+codecs	dv twenty-five 	1
+codecs	dvi	1
+codecs	dvcpro hd	1
+codecs	dv fifty 	1
+codecs	dv codecs	1
+community amenity	dvd library	1
+electrical equipment	dvd player	2
+tangible item	dvd's	1
+local partner	dvc	1
+private entity	dvo	1
+physical resource	dvds	1
+technical term	dvikarani	1
+hardware item	dvd writer	1
+technological change	dvds	1
+video format	dvd	17
+video format	dv	15
+video format	dv widescreen	1
+video format	dvd compatible mpeg file	1
+video format	dvix	1
+video format	dv video format	1
+output device	dvd	1
+shared resource	dvd player	1
+educational resource	dvds	1
+multimedia feature	dvd maker	1
+multimedia feature	dvd	1
+fragile item	dvds	3
+fragile item	dvd's	1
+handheld device	dvd player	4
+quality service	dvd video combining	1
+fun item	dvds	2
+fun item	dvd's	1
+simple pleasure	dvd player	1
+vintage item	dvds	1
+instructional material	dvds	6
+personalized item	dvds	1
+car accessory	dvd player	1
+modern comfort	dvd	5
+modern comfort	dvd player	3
+service	dvd	16
+service	dvd authoring	11
+service	dvd player	4
+service	dvd hire	4
+technology solution	dvds	1
+distribution channel	dvd	2
+distribution channel	dvd sale	1
+wireless communication system	dvb-s two 	1
+large file	dvd	3
+large file	dvd image	1
+large file	dvd iso image	1
+suite	dvd burning ``suite''	1
+digital device	dvd player	3
+digital device	dv camcorders with a firewire card	1
+digital device	dv camera	1
+digital device	dvd player dvdp	1
+giveaway	dvds	1
+physical item	dvds	6
+physical item	dvd's	2
+entertainment option	dvds	6
+entertainment option	dvd player	3
+hot item	dvds	1
+simple project	dvd copy	1
+guru	dv film guru	1
+inexpensive item	dvds	1
+door prize	dvd player	2
+door prize	dvds	1
+cost item	dvds	1
+critical item	dvd movie	1
+luxury amenity	dvd player	2
+excellent facility	dvd player	1
+frill	dvd library	1
+luxurious amenity	dvd player	3
+teaching material	dvds	2
+philosophy	dvaitadvaita	1
+third-party application	dvd capture	1
+electrical product	dvd player	3
+electrical product	dvb-s	2
+electrical product	dvb-t	2
+helpful resource	dvds	2
+electronic resource	dvds	1
+file system	dvd	2
+household good	dvd player	1
+authentic material	dvds	4
+resource material	dvds	2
+family issue	dv	1
+digital technology	dvds	2
+digital technology	dvr	1
+information resource	dvd authoring book	1
+great prize	dvds	2
+medium format	dvd	19
+medium format	dvd-rw	2
+medium format	dvd-video	2
+medium format	dvd-audio format	1
+advanced functionality	dvd to dvd burning	1
+advanced functionality	dvd menu setting	1
+edge technology	dvr	1
+home product	dvd camera	1
+nice amenity	dvd comand navigation	1
+nice amenity	dvd based navigation with xm radio	1
+consumable product	dvds	1
+electric appliance	dvd player	2
+electric appliance	dvd	1
+manufacturing industry	dvd player	1
+pleasure	dvd rental	1
+common method	dv-hop	1
+consumer item	dvds	2
+consumer item	dvd player	1
+consumer item	dvd recorder	1
+consumer item	dvd camera	1
+notable feature	dvd navigation system	1
+entertainment facility	dvd player	11
+entertainment facility	dvd	3
+entertainment facility	dvd library	1
+disc	dvd	16
+disc	dvd movie	6
+disc	dve	4
+disc	dvd-r	2
+disc	dvd-audio disc	2
+disc	dvd-rw	2
+disc	dvd-rom disc	1
+disc	dvd- nine 	1
+disc	dvd- five 	1
+disc	dvd- ten 	1
+disc	dvdram	1
+disc	dvd-ram	1
+disc	dvd-audio	1
+disc	dvd test disc	1
+disc	dvd- eighteen 	1
+high value item	dvds	2
+high value item	dvd player	1
+factor	dvds in the collection	1
+factor	dvd manufacturer	1
+factor	dvd drive firmware	1
+factor	dvd drive type	1
+service	dvd rental	2
+service	dvd duplication	2
+service	dvd slideshows	2
+service	dvr service	2
+service	dvd lending	1
+service	dvd photo montage	1
+service	dvd menu designs & authoring	1
+service	dvd's	1
+free item	dvds	2
+physical device	dvd drive	2
+meter	dva	1
+fun feature	dvd player	1
+system function	dvr	1
+modern device	dvd player	2
+catagories	dvds	1
+interactive application	dvd player	2
+nicety	dvd player	1
+local source	dvd players through ir pass-through	2
+local source	dvd player	2
+third-party tool	dvd	1
+electronic gadget	dvd player	5
+electronic gadget	dvds	1
+key organization	dvla	1
+multimedia	dvds	4
+multimedia	dvds at meeting	1
+multimedia	dvd ripping	1
+datum format	dvd-rom	1
+datum format	dvd-video	1
+single item	dvds	2
+renewable source	dvd	1
+technical advance	dvds	1
+audio format	dvd	15
+audio format	dvd-audio	2
+audio format	dvd ipad audio format	1
+audio format	dvd audio	1
+audio format	dvd mp three  mp four  m four a wma wav ac three 	1
+audio format	dvd ipod audio format	1
+audio format	dvd-video audio format	1
+layout	dvorak	6
+layout	dvorak simplified keyboard	2
+layout	dvorak keyboard	2
+layout	dvorak layout	1
+connectivity option	dvi-d	5
+connectivity option	dvi	1
+connectivity option	dvd player	1
+moving part	dvd drive	1
+recording device	dvd recorder	3
+recording device	dvr	3
+consumer device	dvd player	3
+consumer device	dvd	1
+corporate service	dvds for company introduction	1
+subscription service	dvd subscription service	1
+traditional mean	dvd	1
+awesome feature	dvr	1
+complex device	dvd drive	1
+great option	dvd entertainment system	1
+auxiliary component	dvd player	1
+gateway	dvo	1
+mature market	dvd product	1
+technology advance	dvd	1
+resolution	dv twenty-five 	1
+resolution	dvdrip	1
+computer peripheral	dvd writer	15
+desire	dvd player	1
+power device	dvd device	1
+equipment item	dvd player	1
+unwanted item	dvds	3
+emulator	dve vectrex emulator	1
+free software	dvd decrypter	2
+storage medium	dvd	8
+storage medium	dvd disk	4
+storage medium	dvd player	1
+storage medium	dvd drive	1
+storage medium	dvd-r	1
+audio device	dvd player	11
+audio device	dvd player satellite radio tuner	1
+retail product	dvds	1
+multimedia component	dvd writer	2
+service	dvd postal delivery service	1
+service	dvd video	1
+service	dvd rendering	1
+service	dvdxpress	1
+service	dvd copies of documents produced	1
+retail item	dvds	1
+sensitive item	dvds	1
+electric device	dvd player	2
+multimedia device	dvd player	19
+multimedia device	dvd	2
+multimedia device	dvd drive	1
+multimedia device	dvd burning a cd	1
+multimedia device	dvd reader	1
+nifty feature	dvi video output	1
+recreational amenity	dvd player	1
+consumer application	dvrs with stringent environment	1
+consumer application	dvd	1
+modern system	dvd player	1
+multimedia service	dvd authoring	1
+video source	dvd player	30
+video source	dvd	14
+video source	dvr video out put	2
+video source	dvb-t receiver	1
+video source	dvd-r's transferred from vhs	1
+video source	dvd-players	1
+video source	dvr	1
+video source	dvd gamers	1
+video source	dv camera	1
+video source	dvd layer	1
+delivery service	dvd postal delivery service	1
+electronic appliance	dvd player	9
+electronic appliance	dvd	3
+rental item	dvds	2
+common device	dvd player	1
+guest musician	dvd many guest musician	1
+production cost	dvd duplication	1
+conventional system	dvd	2
+entertainment feature	dvd player	4
+member benefit	dvc member benefit	1
+output format	dv	4
+common component	dvd player	1
+famous composer	dvorak	1
+recording medium	dvd	9
+recording medium	dvd-rw	2
+recording medium	dvd  seventy-eight n 	1
+recording medium	dvd-ram	1
+recording medium	dvd disk	1
+differential diagnosis	dvt	1
+synonym	dvd authoring software	2
+computer component	dvd product	1
+computer component	dvd-rw	1
+nice option	dvd player	1
+security application	dvr	1
+commodity product	dvds	1
+information product	dvds	3
+wireless system	dvb-h	1
+embedded system	dvd recorder	1
+medium file	dvd	1
+teaching resource	dvds	1
+advanced equipment	dvr	1
+consumer electronic product	dvd player	4
+visual material	dvds	3
+business event	dvd	1
+expensive product	dvds	4
+medium form	dvd player	1
+network parameter	dvb network parameter	1
+online forum	dvd talk	1
+ancillary material	dvd's	1
+display technology	dvi	2
+display technology	dvds	1
+medium device	dvd player	6
+DVDs	dvd for the artist tricky	1
+essential tool	dvd writer	1
+mod con	dvd	6
+mod con	dvd player	3
+popular format	dvd	3
+popular format	dv	1
+state-of-the-art facility	dvd player	1
+business tool	dvd	1
+emergency case	dvt	1
+audio source	dvd	6
+audio source	dvd player	6
+audio source	dvd video disk	1
+common format	dvd	3
+consumer service	dvd transfer	1
+digital service	dvb-s	1
+technology product	dvr	2
+technology product	dvd player	1
+service	dvd creation	1
+service	dvd & monitor installation	1
+service	dvd subscription service	1
+service	dvd subtitiling	1
+service	dvd production	1
+service	dvd purchase	1
+service	dvd photo album	1
+service	dvd menu production	1
+service	dvd mastering available from local provider	1
+service	dvd-rom content	1
+service	dvr equipment	1
+licensee	dvd manufacturer	1
+physical product	dvds	7
+digital system	dvd player	1
+study aid	dvds	2
+regional group	dvrpc	1
+simple technology	dvds	1
+adapter	dvi-to-component video	1
+high-tech product	dvd	3
+high-tech product	dvd player	1
+integrated feature	dvd player	1
+keyboard	dvorak english	1
+traditional medium	dvd	19
+professional application	dvd studio pro	2
+room amenity	dvd player	1
+application software	dvd decoder	1
+derivative product	dvd player based on the certified model	2
+embedded application	dvr	1
+medium tool	dvd	4
+unusual symptom	dvd drive noise	1
+video file	dvd	57
+video file	dv	2
+collateral material	dvd case	1
+collateral material	dvds	1
+digital datum	dvds	1
+editing function	dvd cropping	4
+editing function	dvd editing function	1
+essential amenity	dvd player	2
+secondary information	dvds	1
+sensitive product	dvd device	1
+third party software	dvd ripper for mac	1
+electrical good	dvd player	4
+in-room amenity	dvd player	3
+learning resource	dvds	4
+video application	dvd player	5
+video application	dvd	2
+competitive product	dvds	2
+electronic good	dvd player	7
+electronic good	dvds	5
+storage option	dvds	1
+digital resource	dvds	2
+communication vehicle	dvds	1
+technological device	dvd	1
+video service	dvr	1
+accessory product	dvds	1
+analog device	dvd player	2
+consumable supply	dvds	1
+cultural product	dvds	3
+digital format	dvd	6
+digital format	dvd-a	2
+digital format	dvi	1
+digital format	dvd dv-cam	1
+digital format	dv cam	1
+digital format	dvd video	1
+digital format	dvcam	1
+digital format	dvd-r	1
+digital format	dvcpro	1
+input signal	dvi	3
+learning material	dvds	1
+modern touch	dvd player	2
+personal electronic device	dvd player	2
+personal electronic device	dvd	1
+professional program	dvd studio pro	1
+high-value product	dvds	1
+modern appliance	dvd player	4
+disk	dvd player calibration disk	1
+disk	dvd movie	1
+disk	dvd-ram	1
+disk	dvd-standard optical disk	1
+disk	dvd-r	1
+lightweight item	dvds	1
+powerful function	dvd video crop	1
+powerful function	dvd chapter	1
+quantitative technique	dvh analysis	1
+resource information	dvds	1
+audio file	dvd's	2
+compression technique	dvc	1
+entertainment service	dvd player	2
+research material	dvds	1
+third-party software	dv synchro master hd	1
+electronic apparatus	dvd recorder	2
+visual stimulus	dvd demonstrating the inspection process	1
+standard format	dv	1
+sound source	dvd player	5
+sound source	dvd	1
+demon	dvivida gorilla	1
+hard cost	dvd printing	1
+hardware feature	dvd burning	1
+tangible resource	dvd's	1
+great composer	dvorak	2
+mature technology	dvd player	1
+topic	dvd	2
+topic	dvd's cover topic	1
+medium platform	dvds	1
+traditional resource	dvds	2
+presentation material	dvds	2
+digital medium	dvds	4
+digital medium	dvd disk	2
+indoor facility	dvd player	1
+connected device	dvd player	2
+electronics product	dvds	2
+electronics product	dvd player	1
+electronics product	dvd video	1
+recorder	dvd recorder	1
+recorder	dv camcorder	1
+recorder	dvd-recorders for recording	1
+third party program	dvblink	1
+consumer electronics product	dvd player	2
+external storage device	dvds	6
+external storage device	dvd drive	2
+external storage device	dvd disc	1
+external storage device	dvd ram	1
+informational material	dvds	1
+material type	dvd	1
+modern item	dvds	2
+removable medium	dvds	13
+removable medium	dvd-r	4
+removable medium	dvd-rw	1
+removable medium	dvds from the computer	1
+technology resource	dvd s	1
+wonderful item	dvds	1
+modern invention	dvd	1
+original item	dvds	1
+systemic complication	dvt	1
+baby accessory	dvd's	1
+multimedia file	dvds	7
+vital datum	dvds	1
+authoring tool	dvd authoring tool	1
+licensed product	dvds	1
+popular video format	dv	5
+popular video format	dvd	3
+digital information	dvd movie	1
+embedded device	dvr system	1
+aftermarket accessory	dvd player	1
+automobile accessory	dvd player	2
+automobile accessory	dvd entertainment system	1
+business LED sign	dvd video led sign	1
+business LED sign	dvd karaoke led sign	1
+classroom material	dvds	1
+communication standard	dvb-s two 	3
+communication standard	dvb-t	1
+communication standard	dvb-h	1
+computer part	dvd drive	1
+connectivity feature	dvi	1
+medium product	dvds	4
+advanced device	dvd player	1
+music player	dvd player	1
+video player	dvd player	4
+analog signal	dvd player	1
+complimentary amenity	dvd rental	2
+excellent brand	dvs	1
+high-value item	dvd player	1
+material donation	dvd player	1
+material donation	dvds	1
+real application	dvd distribution	1
+signal source	dvd player	2
+signal source	dvd player in a different input	1
+signal source	dvd play	1
+classical composer	dvorak	3
+everyday essential	dvd player	1
+topic	dvd building	1
+medium item	dvds	17
+medium item	dvd's	1
+modern electronic device	dvd player	2
+approval	dvgw	1
+consumer electronic device	dvd player	7
+consumer electronic device	dvd	1
+free material	dvds	4
+informal event	dvd presentation	1
+discretionary item	dvds	1
+entertainment item	dvds	6
+entertainment item	dvd player	1
+high-ticket item	dvd navigation system	1
+small electronic device	dvd player	2
+output option	dvi	1
+small electronics	dvd player	5
+small electronics	dvds	1
+standard device	dvd	1
+complete facility	dvd	1
+firm favorite	dvds	1
+medium component	dvd super multi burner	1
+software title	dvd software title	1
+typical product	dvd player	1
+advanced product	dvr	1
+backup	dvds for entertainment	1
+audio-visual material	dvds	13
+audio-visual material	dvd player	1
+medium element	dvds	1
+learning aid	dvds	1
+campaign material	dvds	1
+cool item	dvds	1
+handy item	dvds	1
+multimedia resource	dvds	3
+multimedia resource	dvds on interview preparation	1
+peripheral equipment	dvd	1
+peripheral equipment	dvd player	1
+stationary item	dvds	1
+common technology	dvds	1
+portable storage device	dvds	5
+traditional device	dvd recorder	1
+traditional device	dvd player	1
+removable device	dvd	2
+removable device	dvd drive	1
+commercial item	dvds	1
+entertainment device	dvd player	9
+entertainment device	dvd	2
+long-lived asset	dvd content library	1
+portable item	dvds	1
+room facility	dvd player	1
+training resource	dvds	2
+training resource	dvd training module	1
+upscale amenity	dvd player	1
+binary datum	dv frame	1
+multimedia product	dvds	5
+multimedia product	dvd recorder	1
+multimedia product	dvr	1
+multimedia product	dvd player	1
+wireless standard	dvb-s two 	1
+electrical connector	dvi connector	1
+electronic technology	dvd interactive disk	1
+input source	dvd	5
+input source	dvd player	5
+input source	dv source	1
+portable electronics	dvd player	1
+surveillance system	dvr surveillance system	2
+electronic material	dvds	4
+good source	dvd	1
+scholarly work	dvds	1
+add-on product	dvd player	1
+topic	dvd player	1
+topic	dvmr	1
+topic	dvfs	1
+clutter	dvds	1
+high ticket item	dvds	1
+physical good	dvds	2
+technical equipment	dvd player	1
+valuable possession	dvds	1
+video editing program	dvd pro	1
+accessory device	dvd player	2
+e-commerce site	dvd direct	1
+electronics device	dvd player	1
+evening	dvd night	1
+technical standard	dvb-s two 	2
+technical standard	dvb-rcs	1
+backup program	dvd backup program	1
+codec	dvcpro hd	1
+codec	dv	1
+epithet	dvaravati	3
+good tool	dvd ripper	1
+hot product	dvds	2
+serious risk	dvt	1
+camera function	dvr control	1
+home electronics	dvd player	9
+home electronics	dvd recorder	1
+nice extra	dvd drive	1
+optical disc	dvds	56
+optical disc	dvd-ram	6
+optical disc	dvd-r	3
+optical disc	dvd-r disc	2
+optical disc	dvd disc	2
+optical disc	dvd-rw available on the market	2
+optical disc	dvd rewritable optical disc	1
+optical disc	dvd- five 	1
+optical disc	dvd- nine 	1
+optical disc	dvd-rom	1
+regular social event	dvd	1
+clinical tool	dvd	1
+electronic feature	dvd	1
+external drive	dvd	2
+legendary band	dvd feature legendary band	1
+medium material	dvds	9
+middleware	dvb-mhp	1
+visual device	dvd player	1
+HD source	dvd player	3
+HD source	dvd	1
+separate component	dvd recorder	1
+advertising campaign	dv campaign	1
+daily expense	dvds	1
+household device	dvd player	2
+removable storage device	dvd	4
+removable storage device	dvd drive	1
+wholesale product	dvds	1
+add-on module	dvd burner	1
+audio application	dvd	4
+class material	dvds	2
+system device	dvd player	2
+visual resource	dvds	1
+hopeful	dvdbarn inc. in scottsdale	1
+input format	dv	2
+item type	dvd	1
+medium program	dvd	1
+video device	dvd player	10
+video device	dv	2
+video device	dvr card	1
+video device	dvd recorder	1
+video device	dvd	1
+company	dvdo	2
+company	dv eight 	2
+connection option	dvi	2
+electrical tool	dvom	1
+electronic format	dvd	2
+external equipment	dvd player	3
+feature artist	dvd feature artist	1
+physical medium	dvds	13
+premium option	dvd-based navigation radio	3
+premium option	dvd-based radio	1
+premium option	dvd player	1
+common household appliance	dvd	1
+high-bandwidth application	dvd playback	1
+home comfort	dvd player	1
+information technology system	dvd	1
+luxury touch	dvd player	1
+modern luxury	dvd player	1
+modern luxury	dvds	1
+physical artifact	dvds	1
+cosmetic feature	dvd player	1
+digital signal	dvi-d	1
+digital signal	dvi	1
+educational product	dvds	2
+multimedia program	dvd software	3
+nice little touch	dvds	1
+peripheral product	dvd player	1
+official organization	dvla	1
+audiovisual aid	dvds	3
+audiovisual aid	dvd by bob barancik about harbor de grace	1
+classical piece	dvorak's the new world symphony	1
+conventional equipment	dvd	1
+image processing apparatus	dvd recorder	1
+one-off project	dvds	1
+optical disk	dvds	30
+optical disk	dvd-ram	3
+optical disk	dvd-ram of the prior art	2
+optical disk	dvd-r	1
+optical disk	dvd-standard optical disk	1
+standard source	dvd	1
+collector item	dvds	2
+distribution method	dvds	1
+freeware program	dvd shrink	2
+freeware program	dvd flick	1
+hardware requirement	dvd player	1
+management software	dvd management software	1
+unnecessary device	dvd burner	1
+digital source	dvd	9
+digital source	dvd player	9
+digital source	dvi digital source	1
+digital source	dvi	1
+Personal electronics	dvd player	1
+supplemental item	dvds	1
+INTRODUCTION many application	dvd player	1
+powerful application	dvd studio pro	1
+exciting new product	dvd player	2
+reading program	dvd reading program	1
+audiovisual material	dvds	18
+audiovisual material	dvd's	2
+datum stream	dvb subtitling	2
+evening program	dvd show of the diving team	1
+fundamental feature	dvd rw along with doubled layer beam	1
+industry product	dvd fusion	1
+industry product	dvd creator	1
+multimedia material	dvds	2
+wonderful gift	dvd player	1
+company	dvs	1
+company	dvd replication facility	1
+company	dvd replication specialist for the uk	1
+company	dvd disc	1
+entertainment product	dvds	8
+entertainment product	dvd player	1
+external peripheral	dvd drive	2
+intelligent device	dvr	1
+PC component	dvd drive	1
+setup parameter	dvd parameter	1
+backup device	dvd-ram	1
+education material	dvd newton in space'and the secondary-level iss education kit	1
+latest gadget	dvr	1
+novelty gift	dvds	1
+subscription	dvd movie-by-mail subscription	1
+amazing product	dvds	1
+digital item	dvds	1
+library material	dvds	2
+luxurious facility	dvd player	1
+medium vehicle	dvds	2
+optional product	dvd slideshows	1
+orchestral work	dvorak new world symphony	1
+small good	dvds	1
+software option	dv toolkit	1
+convenient option	dvds	1
+conversion program	dvd flick	1
+digital platform	dvb	3
+gizmo	dvd player	1
+imaging apparatus	dvd	2
+leading product	dvds	1
+low-cost item	dvds	1
+optical application	dvd system	1
+optical medium	dvd	16
+optical medium	dvd medium	2
+optical medium	dvds for long-term storage	1
+optical medium	dvd & cd	1
+promotion gift	dvd player	1
+technology standard	dvd format	1
+audio component	dvd player	1
+burning software	dvd-rw burning software	1
+burning software	dvd shrink	1
+consumer electronics device	dvd player	4
+consumer electronics device	dv camcorder	1
+non-print material	dvds	6
+optical recording medium	dvd	5
+optical recording medium	dvd  nine b 	2
+optical recording medium	dvd-r	1
+optical recording medium	dvd-rw	1
+technological product	dvds	1
+technology change	dvd	1
+video compression standard	dvi	2
+video file format	dvix	1
+art product	dvd label	1
+delivery platform	dvd-video	1
+optional add-ons	dvd player	1
+basic comfort	dvd player	2
+free stuff	dvds	1
+high-tech gadget	dvd player	1
+official institution	dvla	1
+romantic composer	dvorak	1
+backup solution	dvd	1
+DVD	dve	1
+reading device	dvd drive	1
+supplemental resource	dvds	1
+support equipment	dvcpro deck	1
+video parameter	dvd menu duration	1
+video parameter	dvd menu safe distance	1
+video parameter	dvd type	1
+counterfeit product	dvds	1
+distribution platform	dvd	1
+company	dv eight  physical theatre 	1
+company	dvd infinity www.dvdinfinity.com.au	1
+company	dvd fly	1
+company	dvd kiosk company	1
+hardware upgrade	dvd drive	1
+informational product	dvd video	1
+sensitive electronics	dvd player	2
+video codecs	dv	1
+audio system	dvd player	2
+counterfeit good	dvds	4
+digital material	dvds	1
+high demand item	dvds	6
+counterfeit item	dvd case	1
+counterfeit item	dvds	1
+cover topic	dvd's cover topic	1
+modern gadget	dvd projection screen	1
+music source	dvd player	1
+playback device	dvd player	3
+playback device	dvd	2
+software player	dvd software player	1
+storage mediums	dvd	2
+storage mediums	dvd-rw	1
+christmas favorite	dvds	1
+established standard	dvb	2
+external medium	dvd	2
+external medium	dvd-r	1
+external medium	dvd-rw drive	1
+image source	dvd player	1
+interactive medium	dvd	1
+laser device	dvd player	1
+latest amenity	dvd	2
+medium feature	dvd maker	1
+multimedia capability	dvd re-writers	1
+signaling protocol	dvi	1
+specialist material	dvds	1
+vital sector	dvd sale	1
+attached device	dvd player	1
+burning program	dvd software burning program	1
+disk drive	dvd drive	1
+esteemed organization	dvc	1
+interface standard	dvi	2
+modern day convenience	dvd	1
+popular video file	dvd	3
+popular video file	dv	1
+saleable item	dvds	1
+standard group	dvb	2
+troubleshooting tool	dvom	1
+apple application	dvd studio pro	2
+asian manufacturer	dvn	2
+broadcast system	dvb	4
+broadcast system	dvb-t two 	1
+choral work	dvorak's mass in d	2
+computer hardware	dvd drive	1
+external audio source	dvd	1
+internet appliance	dvd player	1
+laptop component	dvd writer	1
+non-book item	dvds	6
+popular gift	dvds	1
+electronics item	dvd player	2
+exciting technology	dvd player	1
+normal facility	dvd	1
+portable medium	dvd-rw	2
+portable medium	dvd	2
+small order	dvds	1
+video editing tool	dvd ripping software	1
+adult product	dvds	1
+activity	dvd	5
+activity	dvd night	2
+activity	dvd evening	1
+activity	dvd show	1
+connectivity port	dvi-d input	1
+connectivity port	dvi-d	1
+interface technology	dvi	1
+latest innovation	dvb-s two  techn ology 	1
+latest innovation	dvb-s two  technology 	1
+modern necessity	dvd player	1
+non-book material	dvds	2
+separate device	dvd disk	1
+video standard	dv ntsc	1
+awesome prize	dvd player	1
+computer supply	dvds	2
+firewire device	dv camcorder	3
+firewire device	dv cam	2
+firewire device	dvd burner	1
+great reward	dvds	1
+inexpensive tool	dvd presentation	3
+junk item	dvd player	1
+large, bulky item	dvd player	1
+physical material	dvds	1
+portable electronic apparatus	dvd player	1
+video equipment	dvd player	3
+video equipment	dvd recorder	1
+alternate format	dvd	1
+consumer technology	dvd player	1
+consumer technology	dvd drive	1
+high risk item	dvds	1
+high speed device	dvd drive	1
+Modern electronics	dvd player	2
+monitoring equipment	dvr in the projects of the security	1
+star amenity	dvd player	1
+training product	dvd's employee training tools	1
+capture device	dvd recorder	1
+conventional resource	dvds	1
+digital component	dvd player	2
+digital component	dvd	2
+digital component	dvd-ram drive	1
+digital medium product	dvd player	2
+event sponsor	dvb bank	1
+fascinating feature	dvd writer	1
+HD format	dvcpro hd	1
+kid product	dvds	1
+real world object	dvd player	1
+recording mediums	dvd	3
+room feature	dvd rentals upon request	1
+vision system	dvr system	1
+decision aid	dvds	2
+information recording medium	dvd	9
+information recording medium	dvd characterized by high-density recording	2
+information recording medium	dvd-ram for recording predetermined information	1
+material gift	dvds	1
+optical drive	dvd	13
+optical drive	dvd drive	5
+optical drive	dvd-rom drive	4
+optical drive	dvd player	2
+optical drive	dvd-roms	2
+optical drive	dvd-rw	2
+optical drive	dvdrws	2
+playback function	dvd	1
+third-party device	dvd player	1
+video component	dvd player	8
+video component	dvr	1
+digital video format	dv	4
+digital video format	dvd vob	3
+digital video format	dvd	1
+digital video format	dvcpro fifty 	1
+export format	dvd	1
+japanese item	dvds	1
+medium venue	dvd	1
+merchandise category	dvds	1
+multimedia system	dvd player	1
+optional topic	dvd authoring	1
+ordinary product	dvds	1
+activity	dvd playing	1
+activity	dvb-t receiver	1
+removable storage medium	dvd	1
+source device	dvd player	10
+source device	dvr	3
+source device	dvd	1
+specialty machine	dvd rental machine	1
+symphony	dvorak's new world	2
+traditional present	dvds	1
+datum carrier	dvd	1
+digital input	dvi	5
+digital storage device	dvd recorder	1
+display screen	dvd	1
+game accessory	dvd player	1
+hard copy	dvds	1
+high-value good	dvds	1
+library item	dvds	1
+low value item	dvds	1
+low-cost technology	dvds	1
+memorial item	dvds	1
+mobile tool	dvc	1
+multimedia item	dvds	6
+multimedia item	dvd's	1
+post-production service	dvd authoring	1
+ripper	dvd decrypter	2
+ripper	dvd descryptor	1
+ripper	dvd fab decrypter	1
+ripper	dvdfab hd decrypter	1
+superior product	dvorak keyboard	1
+ubiquitous technology	dvds	1
+authoring program	dvd architect by the way john	1
+digital interface	dvi	5
+high-tech amenity	dvd player	1
+household electronics	dvd player	2
+key equipment	dv vtrs	1
+light-weight item	dvds	1
+PC card	dvd decoding card	1
+popular video	dvd	3
+residual product	dvds	1
+two-dimensional object	dvds	1
+block device	dvd	1
+car electronics	dvd player	2
+fake item	dvds	1
+freelance service	dvd production	4
+high frequency device	dvd players and burner	1
+informative material	dvds	1
+integrated technology	dvd player	1
+luxurious option	dvd rear seat entertainment	1
+multimedia source	dvd player	1
+regular video format	dv	1
+shareware program	dvd movie factory	1
+attractive free gift	dvd player	1
+AV device	dvd player	5
+AV device	dvd	3
+collection item	dvds	1
+contemporary facility	dvd player	1
+delivery format	dvd-audio	1
+delivery format	dvd	1
+drive device	dvd	1
+high-tech item	dvd player	1
+home entertainment product	dvds	6
+home entertainment product	dvd player	1
+modern teaching aid	dvds	2
+movie format	dvi-d	1
+non-essential expense	dvds	1
+physical format	dvd	5
+physical format	dvd-audio	1
+set-top boxes	dvd vcr	1
+themed night	dvd night	1
+work sample	dvd	1
+absolutely everything	dvd player	1
+adult item	dvds	1
+attractive gift	dvd player	2
+audio visual material	dvds	2
+BJP leader	dv sadananda gowda	2
+connector type	dvi	1
+creation tool	dvd creation tool	1
+dermatologist	dvora ancona	2
+drive unit	dvd-rom drive unit	1
+electronic display device	dvd player	2
+expensive electronics	dvrs	1
+activity	dvd burning	1
+activity	dvd presentation	1
+information	dvds	6
+heat-sensitive item	dvds	1
+home entertainment device	dvd player	1
+islamic product	dvds	1
+memory medium	dvd	1
+portable audio device	dvd player	2
+professional standard	dvcpro	1
+regular format	dv	1
+self-help method	dvds	1
+standard input	dvi	1
+standard input	dvi-d	1
+broken appliance	dvd player	1
+central government department	dvla	3
+easy item	dvds	1
+entertainment system	dvd player	2
+IDE device	dvd	2
+input video format	dv	1
+interactive product	dvds	3
+keyboard layout	dvorak	5
+keyboard layout	dvorak keyboard	3
+keyboard layout	dvorak layout	2
+keyboard layout	dvorak keyboard layout	1
+keyboard layout	dvorak simplified keyboard	1
+linear measurement	dvm excluding the growth process	1
+movie file	dvd's	1
+outdated technology	dvds	1
+tape format	dvcam	1
+tape format	dvc pro	1
+calibration disc	dve	7
+calibration disc	dve disc	1
+calibration disc	dve disc at www.amazon.com	1
+calibration disc	dve hd	1
+calibration disc	dvd esentials	1
+digital receiver	dvb-c	1
+disc format	dvd	2
+disc format	dvd-ram	1
+disc format	dvd- nine 	1
+disc format	dvd- ten 	1
+HDMI device	dvd player	10
+HDMI device	dvd	2
+infrared device	dvd	1
+non-print item	dvds	4
+sturdy item	dvds	1
+transmission standard	dvb-t	1
+unwanted electronics	dvd player	1
+unwanted household item	dvd player	2
+broadcast application	dvb	3
+consolation prize	dvd player	1
+consumer electronics item	dvd player	1
+device class	dvd	1
+disk format	dvd-r	1
+disk format	dvd media  one hundred d 	1
+DVD burning software	dvd ripper platinum	1
+electronic consumer product	dvd player	1
+electronic machine	dvcr  three 	1
+external video source	dvd player	7
+external video source	dvd	1
+hardware provider	dvr makers tivo	2
+high tech gadget	dvd player	1
+high-volume product	dvd player	1
+latest application	dvd writer	2
+linux program	dvd players like mplayer	1
+low-power technique	dvfs	1
+magnetic recording device	dvc	1
+medium need	dvd	1
+non-real-time application	dvd authoring	1
+optical disk drive	dvd-rom drive	3
+optical disk drive	dvd drive	2
+optical disk drive	dvd-rams	2
+optical disk drive	dvd recorder	2
+optical disk drive	dvd player	1
+optical disk drive	dvd	1
+private amenity	dvd player	2
+removable disk	dvds	5
+removable medium drive	dvd-rom drive	2
+removable medium drive	dvd	1
+removable medium drive	dvd-r drive	1
+thromboembolic event	dvt	1
+unplug appliance	dvd player	2
+up-to-date amenity	dvd	1
+valuable gift	dvd player	1
+ancillary market	dvds	1
+information	dvd release date	2
+information	dvd cover image	1
+information	dvd clip	1
+information	dvd s	1
+information	dv shelter bed availability	1
+audio standard	dvd-a	2
+audio visual device	dvd player	1
+audio visual device	dvd using a single high definition interface	1
+digital imaging service	dvd transfer	1
+exclusive amenity	dvd player	1
+high-end user	dvd viewer	1
+medium size	dvd- five 	3
+medium size	dvd- nine 	3
+non-essential feature	dvd player	1
+non-paper material	dvds	2
+optical storage device	dvds	9
+optical storage device	dvd recorder	1
+optical storage device	dvd-ram	1
+oversized product	dvd player	3
+processor intensive task	dvd playback	2
+regular source	dvd	1
+security accessory	dvr's	1
+self-service technology	dvd kiosk	1
+sensitive appliance	dvd player	1
+special feature	dvd feature special feature	1
+video content	dvd movie	1
+affiliate product	dvds	1
+CE device	dvhs recorder	2
+CE device	dv camcorder	1
+component video device	dvd player	9
+computer consumable	dvds	1
+digital standard	dvi	2
+DVD authoring software	dvd architect	1
+DVD authoring software	dvdstyler	1
+DVD authoring software	dvd maestro	1
+information storage medium	dvd	3
+item category	dvds	1
+latest electronics	dvd player	1
+loan item	dvds	1
+lossy format	dv	1
+multi-media tool	dvd	2
+portable consumer electronic device	dvd player	1
+PR material	dvds	1
+self-help resource	dvds	1
+suggested item	dvds	1
+third party agency	dva	1
+video recorder	dvd xpress	1
+audiovisual equipment	dvd player	1
+avail free gift	dvd player	1
+broadcast technology	dvb-h	2
+broadcast technology	dvb	1
+broadcasting technology	dvb-h	1
+charitable endeavor	dvds for the troops	1
+CPU intensive application	dvd player	1
+discounted product	dvds	1
+fashion dress	dvf	1
+household electronic device	dvd player	1
+industry standard product	dvi	1
+instructional item	dvd's	1
+portable electronics device	dvc	1
+post-production task	dvd authoring	1
+suitable option	dvb-s	1
+vascular event	dvt	1
+audio-visual product	dvd player	1
+broken electronics	dvd player	1
+cartoon movie	dvd cartoon movie	1
+information	dvb information	1
+information	dvb satellite	1
+information	dvd how-to-grow information	1
+company tool	dvd	1
+compliant device	dvd player	1
+cool amenity	dvd player	1
+digital audio source	dvd	2
+disk device	dvd player	2
+disk device	dvd drive	2
+DVD software	dvdxpack for a newer decoder	1
+entertainment source	dvd movie	1
+family gift	dvd of cirque du soleil	1
+hard product	dvds	1
+HDMI source	dvd player	13
+medium technique	dvds	1
+on-board facility	dvd library	1
+rip	dvdscr	1
+surveillance product	dvr card	1
+technical need	dvd	4
+technology-based product	dvds	1
+training delivery method	dvds	1
+video input	dvd	1
+video input	dvd player	1
+advanced multimedia feature	dvd quality movie playback	1
+backup medium	dvd	1
+contemporary comfort	dvd player	2
+digital equipment	dvd player	1
+digital input device	dvd	1
+enduring material	dvds	1
+entertainment equipment	dvd	1
+entertainment equipment	dvd player	1
+facility feature	dvd	1
+HD device	dvd player	1
+high tech amenity	dvd player	1
+home electric appliance	dvd	2
+information equipment	dvd-rom drive	1
+information equipment	dvd-r drive	1
+item online	dvds	1
+legacy interface	dvi	1
+OFDM system	dvb-t two 	2
+OFDM system	dvb-t system	1
+OFDM system	dvb	1
+optical storage medium	dvd-r	2
+optical storage medium	dvd	1
+optical storage medium	dvd-rw	1
+popular wholesale product	dvd players & recorders	3
+protocol parameter	dvi mode	1
+stand-alone option	dvd navigation system	1
+audio video component	dvd	1
+audio video component	dvd player	1
+audio visual equipment	dvd player	1
+AV component	dvd player	4
+broadcast standard	dvb-h used in europe	1
+broadcast standard	dvb-sh	1
+broadcast standard	dvb	1
+common electrical device	dvd player	1
+computer-readable medium	dvd	2
+connected component	dvd player	1
+dangerous medical condition	dvt	1
+datum storage technology	dvd-r	1
+dedicated system	dvb-h	1
+detailed task	dvd-menu navigation	1
+DVD feature	dvd- nine 	1
+electronic consumer good	dvd player	1
+export option	dv	1
+graphical file	dvd	1
+High end electronics	dvd's	1
+merch	dvds	1
+multi-media resource	dvds	2
+novel item	dvd of a storm	1
+portable video device	dvd player	1
+power saving technique	dvfs	1
+promotional need	dvd label	1
+quality setting	dv-avi	1
+recordable medium	dvd-r	1
+security system product	dvr card	1
+service & product	dvd video production	2
+240V appliance	dvd player	1
+audio and visual material	dvds	1
+bandwidth-hungry device	dvd drive	1
+boating accessory	dvd player	1
+brand name producs	dvd movie	1
+DVD ripper	dvdx	1
+DVD ripper	dvd decrypter	1
+educational resource material	dvds	1
+electrical object	dvd player	1
+essential notebook feature	dvd writer	6
+fake product	dvds	1
+format item	dvds	1
+free educational material	dvds	1
+home electronics product	dvd player	1
+input terminal	dvi-d	1
+large service organization	dvla	1
+medium sector	dvds industry	1
+nice prize	dvd player	1
+photo gift item	dvds	1
+sealed item	dvds	1
+sensitive electronic appliance	dvd player	1
+serial port device	dvr	6
+shortcut button	dvr	1
+small domestic appliance	dvd player	1
+surveillance equipment	dvr	1
+unwanted household electronics	dvd player	1
+video cable	dvi	2
+amazing gift	dvds	1
+datum processing apparatuses	dvd drive	1
+digital broadcasting service	dvb-t	1
+digital video system	dvb system	1
+experiential exercise	dvd case study	1
+flash memory product	dvd player	1
+HDTV source	dvd player	3
+high definition video	dvd	1
+high value service	dvd duplication	1
+home entertainment item	dvds	2
+home entertainment item	dvd player	1
+home theater device	dvd	1
+interface specification	dvi	2
+latest gift	dvd	3
+medium capability	dvd	1
+mobile video device	dvd	2
+multichannel format	dvd-audio	4
+optical recording mediums	dvd-r of a recordable type	1
+event	dvd release of the social network	1
+personal entertainment device	dvd's	1
+Plug home electronics	dvd player	1
+portable display device	dvd player	4
+problem waste	dvd player	1
+professional format	dvcam	1
+professional format	dvc pro fifty 	1
+professional format	dvc pro	1
+professional format	dvcpro tape	1
+promotional incentive	dvd player	1
+removeable medium	dvd-r	1
+rich option	dvd movie trimming	18
+rich option	dvd video crop	5
+search product	dvds	1
+take-home item	dvds	1
+technological equipment	dvd player	1
+test disc	dve	3
+test disc	dvd test disc	1
+type item	dvd recorder	1
+video accessory	dv manual rewinder	1
+video element	dvd player	1
+wideband application	dvb	1
+audiovisual service	dvd	1
+broadcast signal	dvd	1
+combination device	dvdvcr	1
+computer medium	dvd	2
+concerto	dvorak	1
+concession card	dva white card	1
+conventional format	dvb-c	1
+conventional format	dvb-s	1
+conventional format	dvb-t	1
+digital connection	dvi	10
+digital television system	dvb	1
+digital television system	dvb family	1
+digital television system	dvb-h	1
+diversified item	dvds	1
+domestic technology	dvd player	2
+entertainment amenity	dvd player	2
+expensive appliance	dvd player	1
+findfabulous deal onitems	dvds	1
+hanz product	dvd player	1
+high definition device	dvd player	1
+high demand material	dvds	1
+high value prize	dvd player	2
+High-end electronics	dvd player	1
+higher-end application	dvd	1
+home electronic device	dvd player	1
+home theater system	dvd home theater	1
+home theater system	dvd player	1
+jewish city	dvinsk	1
+medium drive	dvd	1
+medium solution	dvd protection system	1
+packaged product	dvds	2
+periferals	dvd-rom drive	1
+photonic application	dvd player	1
+processor-intensive activity	dvd-r	1
+professional quality material	dvds	1
+removable recording medium	dvd	1
+satellite technology	dvb-sh	1
+sizeable item	dvd's	1
+small cap	dvp	1
+small, inexpensive item	dvds	1
+software DVD player	dvd x player	1
+standardization group	dvd forum	1
+standardization group	dvb	1
+technological service	dvd of a photo slideshow	2
+upgraded amenity	dvd player	1
+USA company	dvd	1
+advanced codecs	dvd-audio	1
+AV output device	dvd player	1
+boot device	dvd inserted	1
+button name	dvr media server	1
+clean source	dvd	2
+compatible format	dv-avi	1
+consumer electronics good	dvds	1
+digital video signal	dvd	2
+digital video signal	dv fifty 	1
+digital video signal	dvd player	1
+digital video signal	dv twenty-five 	1
+disc drive	dvd drive	2
+disc drive	dvd	1
+distribution medium	dvd	3
+doctorate degree	dvm	1
+DVD format	dvd video	2
+DVD format	dvd-rw	1
+DVD format	dvd audio	1
+DVD format	dvd-rom	1
+DVD format	dvd-r	1
+electronic emergency	dvd rom error	2
+event	dvd evening	1
+event	dvd night	1
+program	dvd decrypter	10
+program	dvd shrink	10
+program	dvd decryptor	7
+program	dvd studio pro	6
+program	dvd fourty-three 	4
+program	dvd fab	3
+program	dvdx	3
+program	dvdfab decrypter	3
+program	dv express	2
+executive toy	dvd with  seven in screen 	1
+external hardware device	dvd writer	1
+external input device	dvd player	2
+fake good	dvds	1
+frequency component	dvb-h signal	1
+frequency component	dvb-t signal	1
+fund initiative	dvd library	1
+handheld gadget	dvd player	1
+HDTV product	dvd player	9
+high-resolution audio format	dvd-audio	4
+home theater component	dvd player	2
+local memory	dvd	1
+magnetic and optical storage device	dvds	18
+marketing aid	dvds	2
+modern advancement	dvds	1
+modern household appliance	dvd player	1
+networked peripheral	dvds	5
+noticeable defect	dvd grain	1
+outbound marketing technique	dvd mailer	1
+popular consumer electronics	dvd player	1
+program s	dvd club	1
+quality electronics	dvd player	1
+returnable item	dvds	1
+rewritable optical disk	dvd-ram	2
+rewritable optical disk	dvd-rw	1
+romantic birthday gift	dvd of romantic movie	1
+routine formatted file	dvd	1
+Skateboard-brands	dvs	1
+Small home electronics	dvds	1
+supporting format	dvd	1
+technology event	dvd-video technology event	1
+tuning device	dvd recorder	1
+unauthorized electronic device	dvd player	1
+unplug electrical appliance	dvd player	1
+Unplug electronics	dvd player	2
+Unplug electronics	dvd's	1
+venous thromboembolic event	dvt	1
+visual learning aid	dvds	1
+yoga product	dvd with actual yoga instruction	1
+yoga product	dvds	1
+analog video source	dvd player	1
+audio and video component	dvd player	2
+basic and modern facility	dvd player	1
+brand name electric appliance	dvd player	3
+calibration DVD	dve	7
+channel source	dvd player	1
+common medium	dvd	2
+common video file format	dv video	1
+companies printing need	dvds	1
+composite video source	dvd player	1
+contemporary and useful amenity	dvd	1
+coupon code	dvdtalk	1
+digital video source	dvd video drive	1
+digital video source	dvb t tuner	1
+disc player	dvd player	1
+discounted electrical item	dvd recorder	1
+entertainment resource	dvd player	1
+ergonomic keyboard	dvorak simplified keyboard	1
+expertise electronic emergency	dvd rom error	2
+external processor	dvdo duo	1
+external recording device	dvd	3
+external recording device	dvd orhdd	1
+external recording device	dvr	1
+fun variation	dvd bingo	2
+high definition audio format	dvd-audio	1
+high quality source	dvd player	1
+high speed interface	dvi	1
+high-end task	dvd ripping	1
+high-quality source	dvd source	1
+in-vehicle information system	dvd player	2
+in-vehicle information system	dvd players ande-mail system	1
+large electronic device	dvd player	1
+large volume application	dvd	1
+medium center function	dvd writing	1
+modern day ailment	dvt	1
+modern technical system	dvd player	1
+modern-day feature	dvd navigation	1
+multi-carrier system	dvb-t	1
+multimedia accessory	dvd player	1
+multi-media function	dvd player	1
+multimedia interface	dvi	1
+program	dvdshrink	2
+program	dvdfab	2
+program	dvd genie	2
+program	dvd authoring program	1
+program	dvd burner program	1
+program	dvdfab platinum	1
+program	dvdfab decryptor	1
+program	dvd stripper	1
+program	dvd video burner work	1
+program	dvd next copy	1
+program	dvd maker plus	1
+program	dvd reading program	1
+program	dvd ripper wizard	1
+program	dvd complete	1
+program	dvd data rescue	1
+program	dvd architect	1
+program	dvds of older television program	1
+program	dvddecrypter	1
+program	dvdfab software from the internet	1
+program	dvd writing	1
+program	dvd writing program	1
+program	dvd recording program	1
+program	dvd region killer	1
+program	dvd remake pro	1
+program	dvd rebuilder	1
+program	dvd decoding program	1
+program	dv rack	1
+program	dvr edit	1
+non-print format	dvd	1
+non-seasonal item	dvds	1
+open standard technology	dvb-mhp	1
+outside device	dvd	1
+pc's accessory	dvd	1
+Plug electronics	dvds	2
+Plug electronics	dvd player	1
+popular multimedia format	dvd	1
+portable entertainment device	dvd player	1
+protected content	dvd	1
+quality source	dvd player	1
+radio interface	dvb-h	1
+reducing stand-by loss many appliance	dvd player	1
+resolution format	dvd-a	1
+resolution format	dvd audio	1
+second source	dvd player	1
+self-study material	dvds	1
+sometimes program	dvd shrink	1
+source equipment	dvdplayer using ir control module	1
+standard definition source	dvd	3
+standard definition source	dvd via component	1
+standard video source	dvd	2
+successful format	dvd-audio	1
+S-Video device	dvd player	1
+symphonic work	dvorak's stabat mater	1
+target item	dvd player	1
+TV accessory	dvd player	2
+TV standard	dvb-h	1
+TV standard	dvb-t	1
+unwanted gift	dvds	1
+valuable device	dvd player	1
+amazing free gift	dvd player	1
+at-home device	dvd player	1
+attractive and valuable gift	dvd player	1
+auxiliary input	dvd player	1
+blood clot	dvt	1
+built-in macintosh application	dvd player	1
+camcorder tape	dvcam	1
+CCTV product	dvr	1
+chinese export	dvd player	1
+christian related item	dvds	1
+contemporary dance company	dv eight 	1
+country specific standard	dvb	1
+datum communication standard	dvb-s two 	2
+datum disc	dvds of the game	1
+definitive feature	dvd playback	1
+digital carrier	dvds	1
+digital consumer device	dvd player	1
+digital consumer product	dvds	1
+digital content creator	dvd creator	1
+disc type	dvd	4
+disc type	dvd-r	1
+disk unit	dvd drive	1
+display interface	dvi	5
+distribution format	dv	1
+electrical and gadget item	dvd player	1
+end technology	dvd divx	1
+ENERGY STAR home product	dvd player	2
+entertainment component	dvd player	1
+entertainment good	dvd player	1
+entertainment technology	dvd player	1
+entertainment technology	dvds	1
+essential laptop feature	dvd writer	3
+essientials	dvd s	1
+everyday garage sale item	dvds	1
+firewire peripheral	dv camcorder	6
+free video converter program	dvd video soft	1
+good learning resource	dvds	1
+good quality equipment	dvd player	1
+hand-held telecommunication device	dvd player	1
+hard-to-find training workshop	dvd studio pro	1
+high-tech good	dvd player	1
+home entertainment system	dvd player	1
+hot event	dvd release	1
+indispensable and useful tool	dve	1
+indoor toy	dvds	1
+information recording device	dvd drive	1
+input signal source	dvd player	1
+Kitty electronics	dvd player	1
+latest audio format	dvd audio	1
+lot valuable gift	dvd player	1
+low-value product	dvds	1
+math supply	dvds	1
+movable device	dvd	2
+movie system	dvd	1
+multimedia production	dvds	1
+non-white good	dvd player	1
+periphery device	dvd-roms	1
+program	dvd decoder	1
+program	dvd decrpyter	1
+program	dvd backup program	1
+program	dvd fab decrypter	1
+program	dvd fab passkey	1
+program	dvd workshop	1
+program	dvd santa	1
+program	dvd ripper	1
+program	dvd ripping program	1
+program	dvd software burning program	1
+program	dvd ghost	1
+program	dvd fab gold	1
+program	dvd flick	1
+program	dvd maker	1
+program	dvd rather fine program	1
+program	dvd movie factory	1
+program	dvd next	1
+pirated good	dvds	1
+players	dvd	1
+popular search	dvds by branch	1
+power electronics device	dvr	1
+publication medium	dvd	1
+quality format	dvd	1
+radio component	dvd player	1
+serious composer	dvorak	1
+shared platform	dvd	5
+source component	dvd player	1
+standard definition format	dvcam	1
+asset management solution	dvd	1
+audio and visual classroom need	dvds	1
+audio and visual tool	dvd player	1
+audiovisual device	dvd player	3
+AV application	dvd player	2
+AV input device	dvd player	6
+AV input device	dvd	2
+box feature	dv recording	3
+branded consumer electronics	dvd player	1
+brand-new feature	dvr functionality at a cheaper price	1
+broadcast mediums	dvd	1
+calibration disk	dve	2
+calibration disk	dvd player calibration disk	1
+CD format	dvd-rw	1
+component video home theater device	dvd	1
+consumer format	dv	1
+consumer-electronic product	dv camera	1
+control operation	dvd player control operation	1
+copyright item	dvds	1
+copyright item	dvd's	1
+counterfeit designer label	dvds	1
+crop circle product	dvds	1
+daily prize	dvds	2
+datum medium	dvd	1
+datum recording medium	dvd-ram	2
+day more and more product	dvd player	2
+digital cable	dvi	2
+DVD setting	dvd name	1
+electonic item	dvds	1
+entertainment-based gift	dvds	1
+EPO product	dvds	1
+essential electronics	dvd player	1
+exotic form	dvd  ten s 	1
+expensive home appliance	dvd player	10
+expertise digital emergency	dvd rom error	1
+extensive connectivity option	dvi	2
+first prize	dvd player	1
+flat, rectilinear-packaged product	dvds	1
+free converter program	dvdvideosoft studio	1
+fully entertaining material	dvd player	2
+fun electronic gadget	dvd player	1
+fun evening activity	dvd night	1
+generally smaller item	dvds	1
+high bandwidth signal	dvi	1
+high quality format	dvd	4
+high-quality application	dvd	1
+home entertainment component	dvd	1
+home-from-home comfort	dvd	1
+innovative young company	dv eight 	1
+integrated optical device	dvd	1
+kiosk service	dvd rental	1
+kiosk service	dvd play	1
+latest player feature	dvr functionality	4
+program	dvbs	1
+program	dvd playback program	1
+program	dvd player program	1
+program	dvdfab hd decrypter	1
+program	dvd x player	1
+program	dvd xcopy	1
+program	dvd ripper platinum	1
+program	dvd playing	1
+program	dvips	1
+lucrative gift	dvds	1
+maturation marker	dv-infected dcsshow maturation marker	1
+medium collection	dvds	1
+medium cost	dvds	1
+medium peripheral device	dvd player	1
+monita brand CCTV product	dvr	1
+monitor type	dvi	1
+multimedia software solution	dvd ripper	1
+multimedia software solution	dvd converter	1
+non-consumable resource	dvds	1
+non-essential appliance	dvd player	1
+non-literary material	dvds	1
+non-toy product	dvds	1
+optical disc apparatus	dvd	2
+optical disc drive	dvd recorder	1
+optical disc drive	dvd drive	1
+optical disc player	dvd player	1
+ordinary consumer good	dvds	1
+physical and electronic item	dvds	1
+popular audio product	dvd player	1
+popular digital product	dv	1
+prize incentive	dvd player	1
+recordable disc	dvd-rw disc	1
+recreational accessory	dvd player	1
+ronic device	dvd player	1
+serial communication link	dvi	2
+sideline item	dvds	1
+small parcel	dvds	1
+sony professional camcorder	dvcam tm series	1
+sony professional camcorder	dvcam series	1
+stolen good	dvds	1
+substantial prize	dvd player	1
+tape device	dv andhdv	1
+tape device	dv	1
+technologically sophisticated item	dvd player	1
+third party contract	dvla	1
+third-party hardware	dvd drive	1
+tom rhoads executive director device	dvd player	1
+universal capability	dvb-s	1
+universal player	dvd player	1
+video medium	dvd	1
+video service provider	dvd rental company	1
+voice actress	dvd producer clarine harp	1
+alkene comonomers	dvb	2
+ancillary revenue source	dvd sales constricting	1
+anonymous payment method	dvds	1
+audio visual item	dvds	2
+audio visual resource	dvds	1
+audio-visual item	dvds	5
+automated disaster	dvd	1
+backup storage device	dvd-r	1
+best-selling consumer electronics product	dvd player	1
+built-in option	dvr security system	3
+camp expense	dvds	1
+car video system component	dvd player	1
+century personality	dvorak	1
+christmas gift exchange idea	dvds	1
+classroom peripheral	dvd player	1
+compressed file format	dv	1
+computer datum storage product	dvd-r	2
+computer-assisted instructional material	dvds	1
+consumerand e-commerce application	dvd	1
+conventional digital broadcasting system	dvb system	2
+culture company	dvd	1
+darsanas	dvaitadvaita	1
+dedicated medium player	dvd player	1
+factor	dvd rom performance	1
+developed patient resource	dvds	1
+digital broadcast standard	dvb-t two 	1
+digital broadcast standard	dvb-h standard	1
+digital broadcast standard	dvb variants in europe	1
+digital connector	dvi	3
+Digital interconnects	dvi	1
+digital modulation technology	dvb-h	1
+digital output	dvi-d	1
+digital port	dvi	1
+digital recording	dvds	1
+disk player	dvd player	1
+dissimilar device	dvd player	1
+distribution area	dvd sales worldwide	1
+DVD player program	dvd play	1
+DVD type	dvd-rom for theexclusive use of reproduction	1
+DVD type	dvd-rom for the exclusive use of reproduction	1
+DVD-ripping software	dvd decrypter	1
+DVD-ripping software	dvd shrink	1
+DVD-ripping software	dvdfab	1
+electronic and furniture stuff	dvd player	1
+entertainment electronics appliance	dvd player	1
+equipped modern amenity	dvd	1
+exceed feature	dvd player	2
+expensive consumable	dvds	1
+external connector	dvi-i	1
+external input signal	dvd reproducing signals besides tv broadcasting signal	1
+fast-moving popular material	dvds	1
+FCE compatible format	dv	2
+featured composer	dvorak	1
+firm sale good	dvds cd-roms	1
+firm sale good	dvds cd roms	1
+foot pedal	dviusb pedal	1
+gaff	dvds with the wrong zone	1
+good burning program	dvdfab	1
+good quality electronics	dvd recorder	1
+good quality electronics	dvd player	1
+great educational item	dvds	1
+hand-held entertainment device	dvd player	1
+hdmi-equipped device	dvd player	16
+hdmi-equipped device	dvd players set-top boxes av receiver	1
+high definition cable	dvi	2
+high quality device	dvd player	1
+high-level class	dvd	1
+high-quality audio format	dvd audio	1
+home expensive electronics	dvd player	1
+home prize	dvd player	1
+home visual electrical appliance	dvd	1
+hot products	dvd player	1
+hybrid player	dvd player	1
+image reproduction device	dvd player	2
+independent application	dvd player	1
+indoors facility	dvd	1
+Infested electronics	dvd player	3
+influential product	dvd player	1
+information technology gadget	dvds	1
+laser product	dvd player	1
+leisure-time screen behavior	dvds	2
+letter code	dvz	1
+lower-tier asian manufacturer	dvn	1
+mailing item	dvds	1
+marked item	dvds	1
+medium peripheral	dvd drive	1
+medium setting	dvd	1
+merchandise donation	dvds	1
+miniature storage device	dvd-rw drive	1
+minor classic	dvorak's new world symphony	1
+mixed medium item	dvds	1
+mobile TV technology	dvb-h	3
+modern ammenities	dvd player	1
+modern con	dvd player	1
+MPEG2 source	dvb tuner	1
+MPEG2 source	dvd player	1
+multichannel source	dvd-video player	1
+multi-input video device	dvr	2
+multi-input video device	dvr multiplexer	1
+mundane gift	dvd player	1
+music industry	dvd-audio	1
+musical genius pioneer	dvorak	1
+mutli-format material	dvds	1
+non-book producst	dvd s	1
+offline storage	dvd ram	1
+optional integrated device	dvd player	1
+others good	dvds	1
+personalized children's product	dvds	1
+popular entertainment option	dvds	1
+practitioner doctoral degree	dvm	1
+receiver device	dvd player	1
+regular electric appliance	dvd player	1
+rental condo	dvds	1
+rewritable optical disc	dvd-ram	1
+ripping program	dvd ripping program	1
+satellite equipment	dvb modem	1
+SD source	dvd	2
+set home entertainment appliance	dvd player	1
+shared image device	dvd burner	1
+organization	dvla	6
+side piece house medium component	dvd player	1
+small consumer electronic repair	dvd	1
+smaller-sized item	dvd player	3
+soja issue	dvd viewing	1
+spa accessory item	dvd player	1
+state-of-the art interior feature	dvd player	1
+state-of-the-art electronic system	dvd player	1
+supplementary learning material	dvds	1
+thailand's renowned artistic period	dvaravati	1
+traditional delivery capability	dvd	1
+traditional library material	dvds	1
+typical medium player	dvd player	1
+USB item	dvd burner	1
+van content	dvd	1
+vertex part	dvd player	1
+video communication application	dvd	1
+video distribution source	dvd	2
+wellknown program	dvdxcopy	2
+writable optical disk	dvd-r	1
+yoga-related item	dvds	1
+ad entertainment feature	dvd player	1
+algebra curriculum product	dvds	2
+anime-releted company	dvd distributor	1
+application format	dvd-video	1
+automotive entertainment system	dvd vcd	1
+auxiliary video source	dvd player	1
+AV source	dvd player	1
+avail many exciting free gift	dvd player	1
+avail many interesting free gift	dvd player	2
+avail various lucrative free gift	dvd player	1
+AVN420 Webcastertoany analog source	dvd player	1
+awe-inspiring feature	dvr	1
+baby bumblebee product	dvds	1
+bookstore gem	dvds	1
+brilliant program	dvd decrypter	1
+broadband satellite system	dvb-rcs	1
+burning product	dvddecrypter in iso mode	1
+car play feature	dvd player	1
+circuit-level technique	dvs	1
+component video source	dvd	1
+connectedtoany AV device	dvd player	1
+consumable product good	dvds	1
+conventional consumer electronic product	dvd recorder	2
+conventional training method	dvds	2
+conveyable installation car stereo feature	dvd player	1
+covered prop small electrical appliance	dvd	1
+cultural and technological product	dvds	1
+delightful gift	dvd player	1
+dierent format	dvi	1
+differnt source	dvd	1
+differnt technology	dvb-h	1
+digital cable assembly	dvi	1
+digital display interface	dvi	1
+digital entertainment product	dvd player	2
+digital medium supply	dvds	1
+digital signal source	dvd player	1
+digital storage medium	dvd	1
+digital TV tuner	dvico fusion hdtv dvb-t home tv tuner	1
+digital TV tuner	dvb-t	1
+digital TV tuner	dvb-c	1
+DVD decrypter	dvd fourty-three 	8
+DVD decrypter	dvd fourty-three  oranydvd 	1
+DVD standard	dvd-ram	1
+DVD standard	dvd-plus	1
+DVD standard	dvd-rom	1
+DVD-ripping program	dvd decrypter	2
+DVD-ripping program	dvd shrink	1
+DVR related offer	dvr card	1
+editing activity	dvd creation	1
+educational medium supply	dvds	1
+educational technology resource	dvds	1
+electric comfort	dvd	1
+electronic and digital product	dvr pen	1
+electronic audio device	dvd player	1
+ELECTRONIC device POLICY item	dvd player	1
+electronics collection item	dvd player	1
+entertainment business related item	dvds	1
+organization	dvlc in swansea	1
+established festival venue	dv eight 	1
+everyday consumer task	dvd	1
+everyday video source	dvd	1
+expansion unit	dvd	1
+expensive and popular item	dvds	1
+external analog source	dvd player	1
+fantastic m edia resource	dvd's tape	1
+full-size component	dvd player	2
+gifted many expensive home appliance	dvd player	1
+great home comfort	dvd player	1
+hard-to-obtain item	dvds	2
+HDMI equipped device	dvd player	1
+HDMI source device	dvd player	3
+HDMI source device	dvd	1
+high performance audio application	dvd player	1
+highest-quality digital format	dvcpro hd	3
+high-quality informational resource	dvds	1
+high-theft item	dvds	1
+high-volume, standardised product	dvds	1
+high-volume, standardized product	dvds	2
+hired item	dvds	1
+home's medium equipment	dvd player	2
+home's medium equipment	dvrs	2
+hungry gadget	dvd player	1
+idling device	dvd player	1
+immigration & citizenship product	dvd s	1
+inch device	dvd-rom	1
+infotronics system	dvd player	1
+input audio signal	dvd	1
+in-vehicle consumer device	dvd player	1
+in-vehicle infotainment application	dvd video	1
+IR AV device	dvdr	1
+itional and exciting feature	dvd crop	1
+itional and exciting feature	dvd letterbox	1
+language aid	dvds	1
+latest modern amenity	dvd player	1
+latest technological comfort	dvd player	1
+leap frog product	dvds	1
+library land resource	dvds	1
+local multimedia production	dvds	1
+luxurious fitting	dvd	1
+manmade device	dvd	1
+medium delivery platform	dvds	1
+medium electronics	dvd player	1
+medium gift	dvds	1
+metal particle tape	dvc pro	1
+metal particle tape	dvcpro	1
+mobile electronics product	dvd player	1
+modern guestroom amenity	dvd player	1
+modern hotel room amenity	dvd player	1
+modern indoor amenity	dvd player	1
+modern storage technology	dvds	1
+modern technical product	dvd recorder	1
+monitor cable	dvi	1
+multichannel audio device	dvd-audio	4
+multi-input device	dvr	1
+multimedia development project	dvds	1
+multimedia-based training method	dvds	1
+multiplevle format	dvi	1
+nav-aid facility	dvor building	2
+newly high-speed communication system	dvb-s two 	1
+non-christian material	dvd's	1
+non-documentary material	dvds	1
+non-figure item	dvd's	1
+notebook laptop accessory	dvd player	1
+onboard personal electronic device	dvd player	2
+on-going project activity	dv clinic	1
+online back-up solution	dvds	2
+optic part	dvd-r	1
+optical recording disc	dvds	1
+Optical storage	dvds	1
+pirated movie release type	dvdrip	1
+popular connector	dvi	1
+popular industrial format	dvcam	1
+pre-recorded medium	dvd	1
+prevalent item	dvd player	1
+quality GM accessory	dvd headrest	1
+recordable optical disc	dvd-ram	2
+recordable optical disc	dvd-rw	1
+recordable or rewritable optical disk	dvd-rw	2
+recordable or rewritable optical disk	dvd-ram	2
+remote volume	dvds	1
+removable medium IDE device	dvd drive	3
+replicated disc	dvd- five 	2
+replicated disc	dvd- nine 	2
+replicated disc	dvd- ten 	1
+replicated disc	dvd- eighteen 	1
+required audio visual equipment	dvd player	1
+resolution file	dvd-a	1
+rewritable disc	dvd-rw disc	1
+rewritable disc	dvd-ram	1
+rewritable disc	dvd-rw	1
+samsung device	dvd player	1
+self-teaching material	dvds	2
+shared source	dvd player	2
+small, contemporary art gallery	dvir gallery	1
+small, mobile electronic product	dvd player	1
+spindled drive	dvd drive	1
+stable source	dvd player	1
+standard case	dvd case	1
+staple accessory	dvd media storage	1
+Stocking DVD	dvd's dive master dvd's	1
+stream native format	dvix	1
+studio-related cost	dvds	1
+surveillance & security solution	dvr	1
+target receiver product	dvd player	1
+tech input item	dvr	1
+technical gadget	dvd player	1
+technology system multimedia peripheral	dvd player	1
+toos	dvd protection toos	1
+traditional manufacturing service	dvd replication service	1
+traditional physical medium	dvd	1
+truefor mobile digital TV standard	dvb-h	1
+truefor mobile digital TV standard	dvb-t	1
+truth-clarification material	dvds	1
+unchecked DVD product	dvd hdd	1
+unchecked DVD product	dvd player	1
+unchecked DVD product	dvd recorder	1
+unnecessary electrical appliance	dvd player	1
+video capture system	dvd recorder	2
+video conversion program	dvd flick	1
+video factor	dvd player	1
+video output port	dvi	2
+video-related technology	dvds	1
+well-known video coding standard	dvb	1
+wholesale educational material	dvds	1
+writable optical disc	dvd-r	1
+add-in peripheral	dvds	1
+advertising player related offer	dvd player	1
+alternate sound source	dvd player	1
+analog video input	dvd player	1
+archival medium	dvd	1
+archiving technique	dvds	1
+article name	dvb-sh	1
+article name	dvb-c	1
+article name	dvb-t	1
+ATAPI device	dvd-roms	1
+audio apparatuses	dvd player	1
+audio broadcasting signal standard	dvb-h	1
+audio source output	dvd	1
+automobile entertainment device	dvd player	1
+automobile part accessory	dvd entertainment system	1
+avail many wonderful free gift	dvd player	1
+av-in connection device	dvd player	1
+awesome victorious product	dvds	1
+based format	dvd-ram	1
+basic household electrical item	dvd player	1
+technique	dvs	2
+technique	dvb-h	1
+technique	dvfs	1
+basic technology product	dvd player	2
+belief building material	dvds	1
+best entertaining product	dvd player	1
+better-quality video source	dvd player	1
+big electronic item	dvd player in checked luggage	1
+big-ticket electronics item	dvd recorder	1
+black product	dvd player	1
+blank DVD related offer	dvd-r	1
+blank DVD related offer	dvd products	1
+blank writable disk	dvd-rw	1
+blockbuster s new initiative	dvd trading	1
+blockbuster's new initiative	dvd trading	1
+board display support	dvi-d	1
+broadcast network technology	dvb-h	1
+buyer club	dvd club	1
+cabin feature amenity	dvd	1
+cabin technology	dvd-based navigation system with voice activation	1
+cd drive	dvd	1
+CD jewel case related offer	dvd case	1
+cellular and broadcast technology	dvb-h	2
+centralised source	dvd server	2
+centralized source	dvd server	1
+china electronic product	dvd player	1
+china wholesale item	dvd player	2
+commercial DVDs	dvds containing movie	1
+common high drain device	dvd player	3
+common standard format	dvd	1
+computer accessory device	dvd drive	1
+connected peripheral appliance	dvd player	2
+consumer AV device	dvcr	1
+consumer electronic video product	dvd player	1
+consumer medium product	dvds	1
+consumer multimedia product	dvd player	1
+consumer video device	dvd player	1
+consumer-supported medium option	dvds	1
+conventional logo	dvd logo	1
+current-day necessity	dvd player	2
+custom electronics	dvd player	1
+cynodonts	dvinia	1
+day many appliance	dvd player	1
+Decryption software	dvd fourty-three 	1
+dedicated broadcasting technology	dvb-h	1
+dedicated mobile broadcasting technology	dvb-h	1
+desirable digital technology	dvd player	1
+devotional material	dvds	1
+digital audiovisual application	dvd recorder	1
+digital audio-visual device	dvd player	1
+digital AV component	dvd	7
+digital broadcast technology	dvb-t standard	1
+digital broadcasting standard	dvb	3
+digital broadcasting system	dvb-mhp	1
+digital camera disaster	dvd	1
+digital DVI device	dvd player	3
+digital medium software	dvd studiopro on the job	1
+digital playback system	dvd	1
+digital television broadcasting standard	dvb-t two 	2
+digital tuner	dvb-c	2
+digital tuner	dvb-t	2
+digital video equipment	dvd player	1
+discount consumer electronics	dvd player	2
+disk option	dvds	1
+disk recording medium	dvd	1
+display output	dvi	1
+dissimilar accessory	dvd player	1
+DV source	dv camcorder	1
+DVB-T stick related offer	dvb-t receiver	1
+DVD burning utility	dvd xcopy xpress	1
+DVD copying program	dvd shrink	1
+DVD decoder program	dvd shrink	1
+DVD disc related offer	dvd sleeve	1
+DVD disc related offer	dvd products	1
+dvd program	dvd decrypter	1
+dvdfab product	dvd copy	1
+dvdfab product	dvd ripper	1
+dvr-like device	dvd recorders a recordable	1
+dvr-like device	dvd recorder	1
+easy-to-ship good	dvds	1
+electrical entertainment home appliance	dvd player	1
+electronic publishing product	dvd-room	1
+electronical product	dvd player	1
+end-user-accessed AV device	dvd player	1
+entertainment collection	dvds	1
+everyday use product	dvd player	1
+exciting optional extra	dvd player	1
+exclusive free promotional material	dvds	1
+exhibit not available online	dvds	1
+extended video product	dvi	1
+extensive multimedia function	dvd jukebox	5
+extensive multimedia function	dvd jukebox music slideshow	1
+external digital audio source	dvd player	1
+external plug-ins	dvd-read only memory	1
+external video input device	dvd player	1
+fabulous specification	dvd burner	1
+faith-based retail item	dvds	1
+financial purchase	dvd player	1
+firewire compatible device	dvd player	1
+folic acid educational item	dvds	1
+foreignstandards	dvb-h	1
+fragile electronic item	dvd player	1
+free and open source software	dvd shrink	1
+free, open-source software	dvd shrink	1
+full post-production service	dvd authoring	1
+technique	dvd tutorial	1
+good parenting product	dvds	1
+HDD medium player related offer	dvd player	1
+HDMI compliant device	dvd player	2
+HDTV compatible device	dvd recorder	1
+helpful learning resource	dvds	1
+high-capacity recording medium	dvd	1
+high-density recording medium	dvd	1
+high-end professional format	dvcam	1
+higher-resolution format	dvd-audio	1
+high-quality martial art product	dvds	1
+high-resolution video source format	dv	1
+hi-tech option	dvd player	1
+home-from-home touch	dvd player	2
+home-theater HDMI source	dvd player	1
+homily touch	dvds	1
+horror collectible	dvds	1
+horse christmas present	dvds	1
+IC recorder	dvf	1
+imitation good	dvds	1
+implemented power management technique	dvfs	1
+IN-CAR gadget	dvd player	1
+increasingly more entertainment device	dvd	1
+industry standard codecs	dv twenty-five 	1
+industry standard codecs	dv fifty 	1
+inexpensive market	dvds	1
+inexpensive, easy-to-use in-home copying device	dvd recorder	1
+innovative assessment	dvd trigger examination	1
+innovative learning material	dvds	2
+input standard	dvi	1
+input video signal	dvd	1
+installing aftermarket car accessory	dvd player	1
+interior luxury amenity	dvd player	1
+international broadcasting standard	dvb-h	1
+international certification authority	dvgw	1
+introduction consumer electronics device	dvd recorder	1
+ir-equipped device	dvd player	1
+key format	dvd	1
+large capacity recording medium	dvd	2
+large-capacity nonvolatile storage unit	dvd	1
+large-capacity recording medium	dvd	2
+large-capacity storage medium	dvd-ram	1
+latest multi-channel format	dvd-audio	1
+latest secondary storage technology	dvd-rom	1
+listening source	dvd	1
+local audio source	dvd player	1
+luxury add-ons	dvr	1
+luxury component	dvd player	1
+mainstay codecs	dvcpro hd	1
+marking valuable	dvd player	1
+medium disc	dvds	3
+medium replication software program	dvd shrink	1
+medium requirement	dvd player	1
+medium storage item	dvds	1
+MMA related item	dvd's	1
+mobile multimedia product	dvd player	1
+mode button	dvd	1
+motion-picture playback apparatus	dvd player	1
+movie & film related item	dvds	1
+Mpeg source	dvd	1
+multi medium nonprint format	dvd	1
+multi medium service	dvd montage	1
+multi-channel music	dvd-audio	1
+multi-channel music	dvd-a	1
+multi-channel music format	dvd-audio	1
+multimedia aid	dvds	1
+multimedia design	dvd presentation	1
+multimedia playback system	dvd player	1
+non-hd compatible device	dvd player	1
+non-image item	dvds	1
+nonpaper material	dvds	1
+non-system keyboard layout	dvorak	1
+application	dvd	11
+application	dvd player	11
+application	dvb-t	3
+application	dvd studio pro	3
+application	dvd entertainment	2
+application	dvb-h	2
+application	dvb-s two 	2
+application	dvd storage of content	2
+application	dvd playback software	2
+application	dvd playback	1
+application	dvd shrink	1
+application	dvd authoring	1
+application	dvbcfg	1
+application	dv stochastic	1
+application	dv capture application	1
+application	dvd authoring application	1
+application	dvd bootable other application	1
+application	dvd ``ripping'' application	1
+application	dvd decoding application	1
+application	dvd-rental kiosk	1
+application	dvms	1
+application	dvr	1
+application	dvd recorder	1
+normal recordable optical medium format	dvd-rw	1
+normal recordable optical medium format	dvd-ram	1
+normal recordable optical medium format	dvd-r dl	1
+notebook display connector	dvi	4
+notebook display connector s	dvi	1
+off-the-shelf recording device	dvd recorder	1
+on-board interface	dvi i	1
+on-board interface	dvi-i	1
+optical disc format	dvd	1
+optical disc format	dvd-ram	1
+optical medium material	dvds	1
+optical storage medium supply	dvdr	1
+otehr philosophy	dvaitadvaita	1
+output connection	dvi	3
+personal external storage device	dvd	1
+phase-change erasable optical recording medium	dvd-ram	1
+phase-change erasable optical recording medium	dvd-rw	1
+pixelplus delivery platform	dvd-video	1
+popular disc type	dvd-r	1
+popular disk type	dvd-r	1
+posh perk	dvd player	1
+potential surgical complication	dvt	1
+power-sensitive device	dvd	1
+practical connection	dvi	1
+precious free gift	dvd player	1
+preproduction support material	dvd testing	2
+pre-production support material	dvd testing	1
+present-day consumer electronic medium player	dvd player	2
+price matching non grocery item	dvd's	1
+product announcement	dvd studio	1
+project-managed single and combined item	dvds	1
+proven patient-education technique	dvds	1
+public equipment	dvr	1
+purc hased gift	dvd player	1
+radically different layout	dvorak keyboard	4
+radically different layout	dvorak	2
+read-only archiving technique	dvds	1
+real life prize	dvds	1
+real-time PKI service	dvcs	1
+rear jack	dvd component s-video	1
+recorded and duplicated material	dvds	1
+recorded file	dvd	1
+regular garage-sale item	dvd player	1
+removable medium storage item	dvds	1
+rental material	dvds	2
+representative range-free method	dv hop	1
+rewritable DVDs	dvd-rw	1
+rewritable DVDs	dvd-ram	1
+rewritable, high-density storage device	dvd-ram	1
+rewritable, high-density storage device	dvd-rw	1
+rotatable storage article application	dvd	1
+safety training material	dvds	1
+SATA device	dvd drive	1
+SCART equipped device	dvd	2
+scottish-themed item	dvds	1
+scratched disc	dvds	1
+selected library resource	dvds	1
+shared system	dvb	1
+ship-to-home order	dvds	1
+shrink-wrapped product	dvds	1
+sightseeing site	dvortsovaya square	1
+signal-emitting source appliance	dvd player	3
+simple christmas gift	dvds	1
+single video source	dvd player	1
+slim DVD case related offer	dvd case	1
+small discretionary item	dvds	1
+small home electronic equipment	dvd	1
+smart power strips-Electronics	dvd player	1
+sony creative software application	dvd architect	1
+special-purpose room	dvd authoring suite	1
+standard entertainment requirement	dvd player	1
+standard PC interface	dvi	1
+standard storage medium	dvd	4
+standard video interface	dvi	1
+standard-definition source	dvd	2
+static, non-moving image	dvd menu	2
+STB device	dvd recorder	1
+storage medium control apparatus	dvd recorder	1
+application	dvd burn application	1
+application	dvd copy protection	1
+application	dvr recorder	1
+application	dvt evaluation	1
+application	dvc	1
+application	dvb	1
+application	dvd player software	1
+application	dvd studio pro on the mac	1
+application	dvd-rw	1
+application	dvd-ram	1
+application	dvr front-end	1
+application	dvrack in real time	1
+application	dvdx	1
+application	dvi	1
+application	dvd software	1
+application	dvd player application	1
+application	dvd players with internal amplifier	1
+application	dvd maker	1
+application	dvd flick	1
+three-phase PWM system	dvr	1
+time-shifting technology	dvr	1
+today's digital medium product	dvds	1
+today's newest product	dvd player	1
+Toshiba apps	dvd player	1
+Toshiba apps	dvd moviefactory	1
+traditional display interface	dvi	1
+traditional laptop feature	dvd drive	3
+tv appliance	dvd player	1
+unplugging electronic device	dvd player	1
+unwanted and unused electronic item	dvd player	1
+unwanted electronics item	dvd player	1
+vacation club	dvc	1
+valid concession card	dva at the time of enrolment	1
+valid concession card	dva blue card at the time of enrolment	1
+video aid	dvds	1
+video disc	dvds	3
+video extension product	dvi	2
+video player related offer	dvd player	1
+vision sensor	dvt corp. s ethernet-ready smartimage sensors	1
+website selling home entertainment product	dvds	1
+well-known gem	dvorak's stabat mater	1
+write-once medium	dvd-r	1
+writing program	dvd writing program	1
+ZENEC program component	dvbt tuner	4
+ZENEC program component	dvb-t tuner	2
+480p signal	dvd	1
+5.25-inch device	dvd drive	1
+activity resource	dvds	1
+advanced broadcast standard	dvb-h	1
+advanced broadcast standard	dvb-t	1
+advanced digital video standard	dvi	2
+already-sharp, high-resolution source	dvd	1
+alternate keyboard layout	dvorak	1
+alternate layout	dvorak	1
+alternate layout	dvorak keyboard	1
+analog composite video	dvd	1
+analog tuner television device	dvd recorder	1
+APQP document	dvp	1
+attachment extra	dvd player	1
+attractive and valuable free gift	dvd player	1
+audiovisual method technology	dvds	1
+automotive electrical accessory	dvd player	1
+automotive electronic device	dvd player	1
+autorun program	dvd software	1
+autorun program	dvd interactive software	1
+AV apparatuses	dvd recorder	1
+AV apparatuses	dvd player	1
+AV electronic appliance	dvd player	1
+avail feature	dvr	1
+basic entertainment feature	dvd player	1
+best software guide	dvd ripper guide	1
+bit rate codec	dvcpro hd	1
+blank DVD	dvd-r	1
+board option	dvd player	1
+broad, general profile	dvd video	1
+bubble envelope related offer	dvd wallet	1
+budget-priced consumer electronics	dvd player	3
+built-in vehicle-mountable audio system	dvd player	1
+buying learning aid	dvds	1
+cable provider's interactive service	dvr	1
+CD display	dvd rack	1
+CD-R related offer	dvd sleeve	1
+cheap electronic good	dvds	1
+cheap pirate product	dvds	1
+classic gadget	dvd player	1
+closely related class	dvd	1
+COFDM approach	dvb in europe	1
+commercial disk	dvds	1
+commercially available disc	dve	1
+commercially lucrative format	dvd	1
+common DVD feature	dvd menu	1
+complex electronic product	dvd player	1
+component signal source	dvd	1
+computer drive	dvd rewritable drive	1
+connected external audio source	dvd player	1
+connected gear	dvd player	1
+connectivity input	dvi-d	1
+consideration additional component	dvd player	1
+consolidatedstorage medium	dvd	1
+consumer alternative	dvds	2
+contemporary electronic product	dvd player	1
+contrary, tangible digital item	dvds	1
+conventional AV interface	dvi	1
+conventional optical drive	dvd drive	1
+copying software	dvd copying software	1
+copyright protected video file	dvd movie	2
+copyright-protected video file	dvd movie	2
+Corresponding entertainment electronics	dvd player	1
+corresponding optical storage device	dvd drive	1
+corresponding optical storage device	dvd burner	1
+country charm & modern amenity	dvd & cd player	1
+curriculum-based material	dvds	1
+damage-sensitive material	dvds	1
+datum reproduction system	dvd-rw drive	1
+dedicated calibration disc	dve	1
+delicate electronicequipment	dvd player	1
+detailed program	dvd	1
+digital optical disk	dvds	1
+Digital outports	dvi	1
+digital television standard	dvb standard	1
+digital video connection	dvi	1
+digital video output	dvi	5
+digital video playback application	dvd	1
+disc cleaning device	dvd	1
+disc product	dvd-r	1
+disc shaped optical record carrier	dvds	1
+disc type recording medium	dvd	2
+distribution contract	dvd sale	1
+DV video format	dv twenty-five 	1
+DVB standard	dvb-c	1
+DVB standard	dvb-s	1
+DVD authoring application	dvd studio pro	1
+DVD authoring feature	dvd menu	1
+DVD case related offer	dvd box	1
+DVD converting software	dvd catalyst	1
+DVD copy program	dvd decrypter	1
+DVD copy program	dvdfab decrypter	1
+DVD decrypters	dvd fourty-three 	1
+DVD editing function	dvd chapter and title selection	4
+DVD player related offer	dvd products	1
+DVD related offer	dvd player	1
+DVD remote related offer	dvd box	1
+dvdediting function	dvd chapter and title selection	1
+DVD-R drive	dvd-rw drive	1
+DVD-R medium	dvd r	1
+dvd-related function	dvd playback	1
+DVD-RW related offer	dvd player	1
+DVD-RW related offer	dvd-r	1
+education al product	dvds	1
+educational green gift	dvds	1
+educational souvenir	dvds	1
+EIDE drive	dvd drive	1
+electronic essential	dvd player	1
+electronic medium system	dvd	3
+electronic video medium system	dvd	1
+encrypted digital medium	dvd	1
+enterprise dictation system	dvi	1
+entertainment accessory	dvd player	1
+entertainment system consumer electronics	dvd player	1
+entertainment-type product	dvd player	1
+essence-only file format	dvcpro	1
+excellent value product	dvd's teaching golf	1
+expensive electrical item	dvd player	2
+Expensive, yet crucial, electronics	dvd player	1
+external AV device	dvd player	1
+external compression program	dv kitchen	1
+external optical drive	dvd-rom drive	1
+extremely stable source	dvd	1
+fairly essential feature	dvd upscaling	1
+fancy new-fangled video input	dvi	1
+faster-growing product	dvd software	1
+featuring room amenity	dvd player	1
+formates	dvd	1
+forsaking fancy feature	dvi connector	2
+free DVD-authoring program	dvd styler	1
+free DVD-authoring program	dvd flick	1
+free oath keeper educational material	dvds	1
+freeware computer program	dvd decrypter	1
+freeware computer program	dvdshrink	1
+front row additional publishing right	dvd	1
+good complementary good	dvd video	1
+good complementary good	dvd player	1
+great entertainment device	dvd player	1
+great format	dvd-audio	1
+great prophetess	dvorah	1
+grey good	dvds	2
+guest room complimentary amenity	dvd player	1
+hard storage method	dvds	1
+hd component	dvd player	1
+hd component	dvr	1
+HD connection interface	dvi	1
+HD content delivery system	dvi	2
+HDMI equipment	dvd player	1
+high definition video output port	dvi	1
+high end electric gadget	dvd player	1
+high frequency datum cable	dvi	1
+high input device	dvd player	1
+high quality entertainment accessory	dvd player	1
+high resolution audio source	dvd-a	1
+high resolution signal	dvi	1
+high technical gadget	dvd player	1
+high-definition digital source	dvd player	1
+high-definition video output port	dvi	1
+high-end audio player	dvd player	1
+high-end consumer device	dvd player	1
+high-end music format	dvd-audio	1
+higher-capacity technology	dvd disc	1
+higher-end input	dvi	1
+high-quality medium product	dvds	1
+high-resolution digital audio format	dvd-audio	1
+high-resolution music format	dvd-a	1
+high-service good	dvd appliance	2
+high-speed, uncompressed format	dvi	1
+high-tech surface	dvd's	2
+hi-res music format	dvd-audio	1
+hollywood related item	dvd of an actual movie	1
+home entertainment electronics	dvd player	1
+home player	dvd player	1
+Home Theatre calibration DVD	dve	1
+home ventilation system	dvs	2
+home video source component	dvr	1
+home-based item	dvd player	1
+home-entertainment device	dvd player	1
+home-theater device	dvd	1
+household optical device	dvd player	1
+HP monitor sport various connection	dvi	1
+HP monitor various sport	dvi	1
+hut sell home entertainment product	dvds	1
+image-degrading codecs	dv	2
+in-car multi-media tool	dvd	1
+incompatible video format	dv avis	1
+industry standard video format	dv	1
+inexpensive medium	dvd	1
+information reproduction device	dvd player	1
+INPUT jack	dvd player	1
+input source external device	dvd player	3
+insidious woman protection law	dv act	1
+instruction tool	dvd narrative	1
+korean electronic product	dvd player	1
+kranks product	dvds	1
+labeling optical storage disc	dvds	3
+large capacity storage medium	dvd	1
+large storage medium	dvd-rw with write-once capability	1
+large-volume recording medium	dvd	1
+laser disc	dvds	1
+Legacy video content	dvd	1
+leopard program	dvd player	1
+factor	dv compression	1
+case	dvd application	2
+case	dvd protection algorithm	1
+case	dvd releases of motion picture	1
+case	dvr homecraft client	1
+case	dvds from netflix	1
+case	dvd with no menu	1
+living room electronics	dvd player	1
+lower-margin line	dvds	1
+low-speed optical storage device	dvd player	1
+loyal disciple	dvora of discipline at the hands of the guru	1
+luxurious multimedia equipment	dvd player	1
+magic APP	dvd ripper for mac	1
+martial art instruction material	dvds	1
+massive multimedia function	dvd jukebox	1
+master image	dvd-r	1
+mcsweeney standard	dvd quarterly wholphin	1
+mediaforms	dvd	1
+media-playback device	dvd player	1
+media-related product	dvds	1
+medicinal and physical intervention	dvt prophylaxis	1
+medium appliance	dvd recorder	1
+merchandise online	dvds	1
+mobile broadcasting technology	dvb-h	3
+mobile TV network	dvb-h	1
+mobile TV solution	dvb-h	1
+mobile TV system	dvb-h	1
+model unit	dvd	1
+modern digital AV device	dvd recorder	1
+modern picture source	dvd player	1
+modern storage medium	dvd	1
+modern technical tool	dvds in the class	1
+modern, advanced digital interface	dvi	1
+modulator signal	dvd	1
+Movie Maker friendly format	dv-avi	1
+MPEG presets	dvhs	1
+multi-channel audio format	dvd-audio	1
+multimedia effort	dvds	1
+multimedia entertainment	dvd player	1
+nationalist romantic composer	dvorak	1
+native quicktime file format	dv	2
+NB special product	dvds	2
+network DVR related offer	dvr card	1
+networked or rich-media publication	dvds	1
+newest digital source	dvd-audio	1
+newtec's unequalled product	dvb s two  modulator 	1
+nice family friendly touch	dvds for kid	1
+nice gadget	dvds	1
+non computer medium player	dvd player	1
+non-audio home electronics	dvd player	1
+non-electronic storage device	dvd	1
+non-foreign language character layout	dvorak	1
+non-hd source	dvd	1
+non-request item	dvds	1
+non-time-critical good	dvd player	2
+non-writable drive	dvd-rom drive	2
+nostalgic gift	dvds	1
+notable amenity	dvd player	1
+nowadays comfort	dvd	1
+off-air source	dvd player	1
+official DSA learning material	dvds	1
+official merchandise	dvds	1
+onboard interface	dvi-i	1
+on-the-fly decrypting tool	dvd fourty-three 	1
+operation screen design	dvd player	1
+optic disc	dvds	1
+optical data-reading device	dvd drive	1
+optical disc recorder	dvd-r	1
+optical disc recording technology	dvds	2
+optical disc standard	dvd-rw	1
+optical disc standard	dvd-ram	1
+optical disc system	dvd video	1
+optical disk recorder	dvd recorder	1
+optical medium burner	dvd burner	1
+optical reading device	dvd optical drive	1
+optiona feature	dvd player with televisions for the rear seat	1
+optional creature comfort	dvd player	1
+output volume	dvds	1
+overwrite optical disk	dvd-ram	1
+packaged home entertainment product	dvds	2
+packaging compact disk	dvds	1
+participation closely related class	dvd	1
+patient decision aid	dvds	1
+patient entertainment option	dvds	1
+patron traditional service	dvd loan	1
+peripheral AV device	dvd player	3
+permanent drive	dvd player	1
+physical copy	dvds	1
+physical course reserve	dvds	1
+physical information product	dvds	1
+physical reserve material	dvds	1
+pioneer elite item	dvd player	1
+piracy market	dvds	1
+Pirated electronics	dvd player	1
+playable medium	dvd	1
+case	dv	1
+case	dvla in italy	1
+case	dvd	1
+case	dvds with multiple chapter	1
+case	dvd video	1
+case	dvi	1
+portable digital item	dvd player	1
+portable electronic lifestyle product	dvd player	1
+portable media	dvds	1
+portable optical recordable disc	dvds	1
+postscript generator	dvips	1
+potential giveaway	dvds	1
+practical OFDM system	dvb family	2
+premium electronics	dvd player	1
+presentation file type	dvd	1
+professional training material	dvds	2
+professional-quality product	dvd case	1
+promising al-ternativein related application	dvd	1
+proper digital input	dvi	1
+provider filter	dvb-s network provider filter	1
+provider filter	dvb-t	1
+pure digital connection	dvi	1
+pure E&P stock	dvn	1
+pure-digital connection	dvi	1
+quality entertainment product	dvds	1
+reason aftermarket accessory	dvd player	2
+recordable disk	dvd-ram	2
+recordable DVD	dvd-rw	1
+recordable DVD	dvd-r	1
+recordable format	dvd-ram	3
+recordable format	dvd-rw	2
+recordable medium carrier	dvd-r	1
+recordable mini DVD medium	dvd-rw	1
+regular electrical appliance	dvd	1
+removable computer device	dvd	1
+removable datum storage device	dvd-rw	2
+removable digital storage medium	dvd	1
+removable disc	dvds	1
+removable medium component	dvd drive	1
+repaired playback device	dvd	1
+repeatedly rewritable DVD	dvd-rw	1
+repeatedly rewritable DVD	dvd-ram	1
+reproduction-only disk drive	dvd-rom drive	1
+resolution capture device	dv camera	1
+resolution digital application	dvd	1
+re-writable disc format	dvd-rw	1
+rewritable DVD disc	dvd-rw	1
+rewritable DVD disc	dvd-ram	1
+rewritable format	dvd-ram	1
+rewritable medium	dvd-ram	1
+separate audiovisual signal source	dvd player	1
+separate video source	dvd player	1
+shelfs component	dvd	1
+shrink-wrapped item	dvds	1
+simple video format	dv	1
+simple video playback device	dvd player	1
+slideshow program	dvd photo slideshow professional	1
+slideshow program	dvd picture slide show maker	1
+small high value item	dvd player	1
+small low cost item	dvd s	1
+so-called digital household appliance	dvd recorder	1
+so-called digital household electrical appliance	dvd player	2
+sony compact camcorder	dvcam series	4
+source selection	dvd	1
+stand-alone recorder	dvd recorder	1
+Standard definition content	dvd movie	1
+standard disc-based format	dvd	3
+standard industry-wide format	dvcpro	2
+standard issue feature	dvd burner	1
+standard packaging item	dvd case	2
+standard recording device	dvd	1
+standardized and uniquely branded product	dvds	1
+state-of-the-art mean	dvd	2
+stimulus source	dvd	1
+stnenopmoc	dvd rom	1
+stock idea	dvds	1
+storage casesfor medium disc	dvds	1
+subject matter resource	dvds	1
+successful infrastructural story	dvp	1
+suitable digital program source	dvd	2
+Supplementing additional hardware	dvr card	1
+option	dvds	15
+option	dvd player	12
+option	dvd entertainment system	7
+option	dvd authoring	3
+option	dvi	3
+option	dvd navigation	2
+option	dvd entertainment	2
+option	dvd slideshows	2
+option	dvr	2
+option	dvd-rom drive	2
+option	dv	1
+option	dvd & the latest multimedia business slideshows if required	1
+option	dvd creation option	1
+option	dvdfab	1
+option	dvr service	1
+technological accessory	dvd system	1
+technologically up-to-date feature	dvd player	1
+third party dictation system	dvi	1
+today's digital TV standard	dvb	1
+today's HD video source	dvd player	1
+top quality inclusion	dvd player dishwasher	1
+top quality multimedia material	dvds	1
+track-at-once optical disk	dvd-r	1
+trade show booth essential	dvd	1
+traditional game enhancement feature	dvd region x software	2
+traditional keyboard	dvorak keyboard	1
+traditional remote-control function	dvr access	1
+traditionally line-powered device	dvd player	1
+turquoise home appliance	dvd player	1
+TV input device	dvd player	1
+typical electronic product	dvd player	1
+typical RV appliance	dvd player	1
+typical video compression system	dvcpro	1
+ulead product	dvd workshop	1
+ultimate modern amenity	dvd player	3
+uncompressed video interface	dvi	1
+underlying standard	dvb	1
+underwater city	dvaraka	1
+ungrounded source device	dvd player	1
+upscale powerbook amenity	dvd burner	2
+vein clot	dvt	1
+video camera related offer	dv camera	1
+video collection	dvds	1
+video component cable	dvi	1
+video delivery application	dvd	1
+video playback system	dvd player	1
+video playing application	dvd player	1
+video reproduction device	dvd player	1
+virtually all-home electronic device	dvd player	1
+vocational resource	dvr	1
+waterproof TV highest-quality digital format	dvcpro hd	1
+well-appointed amenity	dvd player	1
+white label premium product	dvds	1
+worship rally resource	dvd & music cd	1
+writable disk medium	dvd-ram	1
+writable optical drive	dvd rw drive	2
+write-once format	dvd-r	1
+write-once optical disc	dvd-r disc	1
+write-once type optical disc	dvd-r	1
+WWE item	dvds	1
+YUY2 video source	dv avi	1
+3rd party software application	dvdsoft's youtube video downloader	1
+5.1-channel input signal	dvd	2
+actual recording device	dvd recorder	1
+additionally significant technological development	dvd	1
+advanced audio product	dvd-audio	1
+advanced DTV standard	dvb-h	1
+advanced power optimization	dvfs	1
+advanced satellite transmission technology	dvb-s two 	1
+Advanced Sony professional equipment	dvw- seven hundred  ws 	1
+advanced transmission system	dvb-t two 	1
+aftermarket sale	dvd sale	1
+after-market VIDEO device	dvd player	1
+Airy foot sheathes	dv by dolce vita strappy sandal	1
+all-digital connection	dvi	1
+alternate key layout	dvorak layout	1
+analogue only source	dvd-a	1
+ancilliary market	dvds	1
+Antec NSK-4482 Mid-Tower case	dvdfab	1
+anti-racist resource	dvds	1
+atic treasure	dvd movie	1
+attacking offshore agreement	dvd global zoning agreement	1
+audio-video player	dvd player	1
+audio-video transformer	dvd transformers & high power audio amplifier	1
+audio-visual recruitment information	dvds	1
+authentic collectible	dvds	1
+option	dvr security systems	1
+option	dvd video effect	1
+option	dvi input	1
+option	dvd profiler	1
+option	dvd movie trimming	1
+option	dvd evangelism	1
+option	dvd burner	1
+option	dvd drive	1
+option	dvd set	1
+option	dvd karaoke	1
+option	dvd player for rear passenger	1
+option	dvh analysis	1
+option	dvd movie cropping	1
+option	dvd  eight 	1
+option	dvd-based navigation system	1
+big enough market	dvd camcorder	1
+big organisational database	dvla	1
+binary object format	dvs bgf format	1
+bit rate codecs	dvcpro hd	1
+bit-oriented optical memory	dvd	2
+blank DVD's	dvd-rw	1
+bootup procedure	dvd response	1
+borderline device	dvd player	1
+british call centre	dvla in swansea	1
+broadcast distribution system	dvb-h	1
+broadcasting technique	dvb-h	1
+camcorder video-recorders	dvcam	1
+capture subsystem	dvd drive	1
+car DVD related offer	dvd products	1
+car related offer	dvd cd	1
+card option	dv storm	1
+CAS architecture	dvb simulcrypt	1
+CCD camera external visual device	dvd	1
+CD player related offer	dvd player	1
+channel device	dvd	1
+channel source device	dvd player	1
+chapter selection	dvd chapter selection	1
+cheap storage medium	dvd	1
+child's favorite gadget	dvd player	1
+Citing yechidot	dvorah ha nevia	1
+COFDM receiver	dvb-t	1
+color-blind test	dvorine pseudo-isochromatic plates test	1
+commercial team	dvla's personalised registration marks operation	1
+commercially available information recording apparatuses	dvd player	1
+common optical storage device	dvd	1
+common safety equipment	dvrs ccv	2
+compact disk application	dvd	1
+compact portable video apparatuses	dvc movie apparatuses	1
+compact video recording format	dvc	1
+compatible and compliant equipment	dvr	1
+compatible HDMI device	dvd player	1
+compatible medium type	dvd	1
+competent hacker	dvd jon	1
+composite and s-video source	dvd player	2
+constant rate transmission situation	dvb-s	4
+consumer audio & video product	dvd player	1
+consumer electronics design	dvd player	1
+consumer level format	dv	1
+consumer multimedia system	dvd recorder	1
+consumer-driven electronics	dvd player	1
+content customization random access device	dvd player	1
+content item recorder	dvd recorder	1
+conventional digital broadcasting service	dvb	1
+conventional movie container	dvd cases no	1
+conventional optical disc drive	dvd player	1
+conventional PC input	dvi	1
+conventional video signal generator device	dvd player	1
+cp-ofdm-based system	dvb-t two 	1
+credit card related article	dvds	1
+currently digital product	dvd movie	1
+curriculum support resource	dvds	1
+datum storage optical disc technology	dvd- five 	1
+decoding application	dvd decoding application	1
+dedicated broadcasting network	dvb-h	1
+defense-adjusted statistic	dvoa	1
+demandingapplications	dvd playback	1
+DETAILED DESCRIPTION certain optical disc	dvds	1
+digital broadcast communication system	dvb-h	1
+digital content device	dvr	1
+digital gear	dvd player	1
+digital multichannel format	dvd-audio	1
+Digital playback equipment	dvd	1
+digital possibility	dvd-a	1
+digital source device	dvd player	1
+digital surveillance system	dvr	1
+digital television broadcast system	dvb	1
+digital terrestrial broadcasting system	dvb-t	1
+digital TV broadcasting standard	dvb-t	1
+Digital video consumer equipment	dvd player	1
+digital video input	dvi	1
+digital video recording standard	dvd	1
+digital-age product	dvds	1
+directshow component	dvd graph builder	1
+disc-based format	dvd	1
+disc-like information storage medium	dvd-r	1
+discrete digital format	dvd	2
+discussion venous thromboembolic event	dvt	1
+distance learning solution	dvds	1
+divx certified device	dvd player	3
+DM6446 development environment	dvsdk	1
+double-sided optical disc	dvd- eighteen  disc 	1
+dual-layer disc	dvd- nine s  two hundred and five 	3
+DV capture card	dv storm	1
+DVD apparatuses	dvd recorder	1
+DVD backup program	dvd decrypter	1
+DVD drive related offer	dvd-r	1
+DVD system	dvd video	3
+DVD technology	dvd-audio	1
+DVD video source	dvd player	1
+DVD xtreme's component	dvd x maker movie-authoring program	1
+DVD-authoring program	dvd studio pro	2
+DVD-ripper	dvd decrypter	1
+DVE	dve i	1
+DVF section	dvf bag	1
+DVI signal extender	dvi over fiber connection	1
+DVI-equipped item	dvi equipped cable box	1
+dvi-to-whatever program	dvips	1
+DVR product	dvr combo	1
+group	dvb	2
+efficient keyboard	dvorak simplified keyboard	2
+efficient layout	dvorak	1
+eguipment	dvd &	1
+electronically readable medium	dvd	2
+electronic-based safety product	dvds	1
+ENERAL R ESOURCES audiovisual material	dvds	1
+English layout	dvorak layout	9
+entertainment system component	dvd player	1
+equipmentwith RCA composite input jack	dvd player	1
+ergonomic keyboard layout	dvorak	5
+ergonomic layout	dvorak keyboard	1
+established hardware technique	dvfs	2
+excellent signal	dvd	1
+exchangeable medium	dvd-ram	1
+exclusive interstitial element	dvd extra	1
+extended disk usage	dvd ripping	1
+extensive binary decision diagram operation	dvo	1
+external firewire device	dv camera	1
+external high-definition player	dvd player	1
+external multimedia	dvd	1
+external scaler	dvdo edge	1
+external test pattern generator	dvdo duo	1
+external video processor	dvdo edge	1
+external visual device	dvd	1
+externally accessible drive	dvd recorder	2
+Extraneous componoents	dvd satelite	1
+extreme right-wing party	dvu	1
+fabulous entertainment feature	dvd quality recording facility	1
+fast-moving merchandise	dvds	1
+feature special feature	dvd feature special feature	1
+final cut studio component	dvd studio	1
+Firewire DV source device	dv camera	1
+first generation digital standard	dvb-t	2
+first primary module	dvd player	1
+fixed-blocksize device	dvd	1
+folding-type cellu-lar phone model	dvd recorder s	1
+forexternally accessible drive	dvd recorder	1
+free audio video converter	dvd video soft	1
+free decss software	dvd decrypter	1
+free equipment upgrade	dvr	1
+free show present	dvds	1
+freeware video converter	dvd flick	1
+frequentonline transaction	dvd rental	1
+fully interactive TV	dvb-t	1
+gardening DVD tutorial	dvds on planting technique	1
+good endgame book	dvoretsky's endgame manual	1
+good, hi-quality, repeatable source	dvd	1
+great new medium advance	dvd-audio	1
+hand-carried electronic device	dvd player	1
+hard-drive copying device	dvd recorder	1
+hardware level power management technique	dvfs	1
+HDMI-enabled equipment	dvd players satellite set-top boxes	1
+HDMI-equipped video source	dvr	1
+heavy compression codecs	dv	1
+high density information stream	dvb-t two 	1
+high fidelity sound	dvd-audio	1
+high quality DVDR medium	dvdr discs by taiyo yuden	1
+High quality SD content	dvd movie	1
+high resolution PCM	dvd-audio	1
+high speed optical drive	dvd-ram	1
+high tech export	dvd player	1
+high value consumer product	dvd player	1
+high visual quality application	dvd	1
+high xfer device	dv cam	1
+high-definition source device	dvd player	1
+high-density optical recording medium	dvd	1
+high-end connection	dvi	2
+higher-end authoring package	dvd studio pro	1
+higher-quality audio format	dvd-audio disc	1
+high-resolution audio	dvd-audio	1
+high-rez, multichannel disc	dvd-audio	1
+home entertainment equipment	dvd player	1
+homebrew program	dvdx	2
+home-entertainment product	dvds	1
+HTDV source	dvd player	2
+Ifa hardware device	dvd player	1
+IFO conversion software	dvd converter platinum	1
+image player	dvd player	1
+improved gadget	dvds	1
+independent kiosk provider	dvd now of vancouver	2
+inexpensive format	dvd-r	1
+group	dvc member	1
+information record medium	dvd disc	1
+Infotainment electronics	dvd player	1
+infrared component	dvd	1
+infrastructure fixed cost	dvla on an equitable basis	1
+in-home source	dvd player	1
+input source selection	dvd	1
+it-based video format	dv twenty-five 	1
+land-groove recording format	dvd-ram	1
+large electrical good	dvd player	1
+large SINGLE-DIRECTION transfer	dvd burn	1
+large, super-expensive camera	dvc pros	1
+large-capacity medium-exchangeable storage device	dvd-ram	1
+large-scale, shared, VSAT platform	dvb-rcs	1
+latest delivery mediums	dvd	1
+latest extra	dvd drive	1
+layer laminate element	dvd optical recording element	1
+legacy consumer device	dvd player	1
+Licensed merchandise	dvds	1
+long term right	dvd sale	1
+long-anticipated apple project	dvd versions of the beatles shea stadium concert	1
+Loss-less compression	dvd-audio's meridian loss-less packing	1
+Low-amperage electronics	dvd player	1
+low-density embedded flash application	dvd baseband chip	1
+lower-resolution input	dvd	1
+lso purchase product	dvds	1
+macbook boot source	dvd-rom & hard drive	1
+manufacturing apparatuses	dvd	2
+matronymic name	dvorkin	1
+medium machine	dvd player	1
+medium reserve	dvds	1
+medium storage	dvd	1
+mobile entertainment unit	dvd player	1
+mobile television system	dvb-h system	1
+mobile TV application	dvb-h	2
+mobile TV DVB-H system	dvb-h	1
+mobile TV signal	dvb-h	1
+mobile TV standard	dvb-h	1
+MOBILE-TV ANTENNA challenge mobile-tv application	dvb-h	1
+Modern digital equipment	dvd player	1
+modern video source	dvd player	1
+modifying direct access medium	dvd	2
+momitsu preset mode	dvi  seven hundred and twenty p 	1
+more-compressed DVD option	dvd sp	1
+more-compressed option	dvd sp	1
+multicarrier transmission	dvb-t	1
+multi-layer datum storage disk	dvds	1
+multilayer laminate element	dvd optical recording element	1
+multimedia playback application	dvd	1
+multimedia storage	dvds & cds	1
+multi-part video file	dvd	1
+multi-piece set	dvds	1
+musical support	dvd arriving	3
+narrow track	dv lp	1
+nasty package	dvd santa	1
+next-generation wireless broadcasting standard	dvb-t two 	2
+non HDCP source	dvi	1
+non QUERTY keyboard	dvorak keyboard	1
+non-book physical product	dvds	1
+non-functional new feature	dvd	1
+non-interactive educational material	dvds	1
+non-linear accessible recording medium	dvd	1
+non-live source	dvd	2
+non-readable medium	dvd disks cd-roms dvd-roms floppys usb flash banners cards power-line	1
+non-recorded disc	dvd-rw	1
+nontemporal video output format	dv	1
+method	dvds	6
+method	dv	1
+non-web-based audiovisual resource	dvds	1
+normal PAL playback device	dvd	1
+normal TOSLINK output device	dvd player	1
+norton scanning non-writeable medium	dvd	1
+novel medium system	dvd	1
+NTSC source	dvd player	1
+off-line solution	dvd	1
+online video slay disk format	dvd	1
+operationally item	dvd player	1
+optical datum carrier	dvds	2
+optical disc apparatuses	dvd player	1
+optical disc D	dvd	1
+optical disc substrate	dvd substrate	1
+optical disk format	dvd-r	1
+optical disk medium	dvd	1
+Optical disk s	dvd s	1
+optical medium drive	dvd drive	1
+optically scannable information carrier	dvd	2
+optimized layout	dvorak	1
+optional component video source	dvd player	1
+optional external optical drive	dvd	1
+orchestral melody	dvorak's largo	1
+ordinary line-level component	dvd player	1
+outboard video processor	dvdo duo	1
+output template	dvd	1
+P&A expense	dvd manufacturing	1
+paid software	dvdfab platinum	1
+passive electronic product	dvds	1
+periodically-repeated component	dvb service information	1
+personalized merchandise	dvds	1
+phase change disk	dvd-ram	2
+phase shift type optical disc	dvd-ram	1
+physical disk device	dvd	1
+pioneering physical theater company	dv eight 	1
+plastic jewelcase.speciality package	dvd case	1
+play multi format	dvd	1
+play video-capture datum	dvb stream	1
+playback accessory	dvd player	1
+playback apparatus	dvd player	3
+playback-only apparatuses	dvd player	2
+plugging home theater peripheral	dvd player	1
+pneumatic-drive pump	dvp	1
+point-to-point unidirectional broadcast network	dvb-t	1
+popular disc format	dvd	1
+popular public broadcast service	dvb	2
+postal delivery service	dvd postal delivery service	1
+powered electronic device	dvd player	1
+powerful software application	dvgate plus video editing software	1
+preplanned product improvement	dv  two f one hundred and nineteen a digital radar landmass system technology upgrade 	1
+preset template	dvd	1
+private and alternative school	dvorsky college preparatory on crescent heights	1
+pro grade format	dvcpro hd	2
+problem decode file	dvr-ms	1
+proggie	dvd-audio solo	1
+prosumer-quality source format	dvcpro hd	4
+ptical storage medium	dvdsandblue-ray disk	1
+purchase request	dvds	1
+pure digital signal	dvi	1
+pure electro song	dvno	1
+quality SD source	dvd-video title	1
+reasonable codec	dv	1
+recent-generation digital link	dvi	1
+recordable datum recording medium	dvd-ram	1
+recordable DVD solution	dvd-ram	1
+recordable or rewritable optical disc	dvd-ram	1
+record-enabled optical recording medium	dvd-r	1
+reliable storage method	dvd with a proper capacity	1
+removable media	dvds	1
+resolution signal source	dvd player	1
+retail and information site	dvd times	1
+re-writable medium	dvd-ram	1
+rigid mail piece	dvds	1
+rip program	dvdfab	1
+rip software	dvd rip software	1
+rpm gauge	dvom with a tach	1
+sabermetric moneyball-type stat	dvoa	1
+salaried system	dva	1
+SD format	dvcpro fifty 	1
+selectafunction	dvd	1
+method	dvd training delivery	1
+service & high tech product	dvd editing	1
+setup disk	dve	1
+simple converter	dvd flick	1
+single programming source	dvd player	1
+small operator interface device	dv- one thousand   data access unit 	1
+so-called digital video interface	dvi	1
+someVsegments	dv one hundred and one s one  in human 	1
+Sony system video camera	dvcam dsr	2
+source footage format	dv	1
+specifi c child welfare issue	dv	1
+spinning optical drive	dvd-roms	1
+st sub controller screen	dvd	2
+stand-alone medium product	dvds	1
+Standard Definition digital source	dvd-video movie	1
+standard definition signal	dvd player	1
+standard display connector	dvi	1
+standard DVD cover feature	dvd logo along the spine	1
+standard int ensive care intervention	dvt prophylaxis	1
+Standard optical disc recording	dvd	1
+standard storage option	dvd case	1
+standards-based offering	dvb-rcs	1
+standby appliance	dvd	1
+static storage	dvds	1
+sticky application	dvr	2
+Store-bought DVDs	dvd movie	1
+stored medium	dvd	1
+streaming output	dvb asi	1
+sub-contracting service company cost	dvacs	1
+s-video source	dvd player	3
+system requirement input source equipment	dvd	1
+tape-based digital storage system	dv	1
+technology-driven educational material	dvds	1
+television feature	dvr	8
+television peripheral	dvd player	1
+television recording mechanism	dvr	1
+term market	dvd	1
+terrestrial broadcast signal	dvb-t	1
+terrestrial digital broadcasting standard	dvb-t	1
+test DVDs	dve	1
+theoretically superior technology	dvorak keyboard	4
+ther layout	dvorak	1
+third port 12V power device	dvd player	1
+tmdsbased interface	dvi	1
+today's format	dvd	1
+Top DVD copy software	dvd cloner	1
+TOSLINK compatible device	dvd player	1
+traditional BMW luxury	dvd entertainment	1
+traditional distribution format	dvd	1
+true CD-quality sound source	dvd player	1
+true digital source	dvd player	1
+true LFE signal	dvd	1
+TV market investigation consultation technology	dvb-h	1
+TV viewing equipment	dvd player	1
+UB item	dvds	1
+unbounded oscillator	dvu	1
+underperforming product category	dvds	1
+unidirectional mobile broadcast system	dvb-hdonotofferthis feature	1
+unit's more advanced feature	dvd playback	1
+unwanted consumer electronics	dvd player	2
+upscale non-protected DVDs	dvds with no copy protection	1
+usinga conventional basis set method	dvr	1
+tool	dvd	7
+tool	dvips	4
+tool	dvd product	4
+tool	dve	3
+tool	dvdfab decrypter	2
+tool	dvd burning xpress	2
+tool	dvd fourty-three 	2
+tool	dvp	2
+tool	dvdfab	2
+tool	dvd decryptor	1
+tool	dvr recording	1
+tool	dvd player dvi output canada knife	1
+tool	dvd menu maker	1
+tool	dvd creation tool	1
+tool	dvd profiler	1
+tool	dvd player	1
+VID3 Compatible component video source	dvd player	1
+video basic	dvd player	1
+video gear	dvd player	1
+video recording mechanism	dvr	1
+video-compression software	dvd shrink	1
+video-only standard	dvi	1
+Video-recorders	dvcam	1
+viewer-controlled mechanism	dvr	1
+virtual learning technique	dvd training program	1
+visual medium tool	dvd	1
+VlD3 Compatible component video source	dvd player	1
+widescreen presentation	dvd movie	2
+widespread and fairly standardised format	dv	1
+WORM optical disk	dvd-r	1
+writable disk	dvd-r	1
+writable dvd-format disc	dvd-ram	1
+writable recording disk	dvd-ram	1
+writeable optical medium	dvd-rw	1
+write-once disc	dvd-r discs used by the pioneer	1
+wrong cable STB remote button	dvd	1
+tool	dvd studio pro	1
+tool	dvd series	1
+tool	dvd ripper	1
+tool	dvd decrypter	1
+tool	dvd lab pro	1
+tool	dvd authoring tool	1
+tool	dvd-lab	1
+tool	dvdfab blu-ray ripper	1
+tool	dvx	1
+product	dvds	143
+product	dvd player	57
+product	dvr	8
+product	dvd recorder	8
+product	dvd case	5
+product	dvd s	4
+product	dvd of bestseller	4
+product	dvd's	3
+product	dvr system	3
+product	dvr card	3
+project	dvd & blu-ray review's discs of the decade supplement	2
+project	dvto court	1
+project	dvds cover	1
+project	dvd case conversion	1
+project	dvd content	1
+artist	dvas	1
+artist	dv alias krist	1
+artist	dvd feature artist	1
+material	dvds	110
+material	dvd's	2
+material	dvd s	1
+material	dvd cover image	1
+material	dvd's book	1
+place	dvla	1
+place	dvaravati	1
+place	dvd shop	1
+player	dvi dvd player	1
+player	dvd software player	1
+player	dvd player through the front jack	1
+player	dv- five hundred and seventy-five a from pioneer 	1
+player	dvon west	1
+technology	dvds	79
+technology	dvb-h	6
+technology	dvr	4
+technology	dvd-a	3
+technology	dvb	2
+technology	dvb-s two  acm 	2
+technology	dvb-iptv cds	2
+technology	dvd player	2
+technology	dvb-h open standard	2
+technology	dvbs two 	2
+technology	dvb-s two 	1
+technology	dv	1
+product	dv camcorder	3
+product	dvd burner	3
+product	dvd server	2
+product	dvb-t	2
+product	dvd duplication system	2
+product	dvd video	2
+product	dvd movie	2
+product	dvd ripper	2
+product	dvi	2
+product	dvd game	2
+product	dvd movie player related product	1
+product	dvd gps related product	1
+product	dvd hifi system related product	1
+product	dvb-s patch related product	1
+product	dvb-s related product	1
+product	dvb-s satellite receiver related product	1
+product	dvb-t dongle related product	1
+product	dvd business card	1
+product	dvd case related product	1
+product	dvd changer related product	1
+product	dvd digital related product	1
+product	dvd box related product	1
+product	dvb satellite related product	1
+product	dvb receiver series	1
+product	dvi hdmi cable related product	1
+product	dvd rom	1
+product	dvd rw sony related product	1
+product	dvd x file	1
+product	dvd replication related product	1
+product	dvd of the popular tv show the simpsons	1
+product	dvd overview	1
+product	dvd player download	1
+product	dvd players lcd tvs	1
+product	dvd printable related product	1
+product	dvd rack related product	1
+product	dvd ram related product	1
+product	dvd decrypter	1
+product	dvd display rack	1
+product	dvd fuanmatin	1
+product	dvd headphone related product	1
+product	dvd lense cleaner related product	1
+product	dvd machine	1
+technology	dva on the inside	1
+technology	dvd burner	1
+technology	dvi port	1
+technology	dvs theatrical	1
+technology	dvd recorder	1
+technology	dvd s	1
+technology	dvr hdtv dual tuners	1
+technology	dvb-h key technology	1
+technology	dvb-rct	1
+technology	dvi	1
+technology	dvd's	1
+technology	dvd navigation system	1
+term	dv	1
+parameter	dvb network parameter	1
+system	dvd player	4
+system	dvd	3
+system	dv	1
+system	dvb-s two  standard 	1
+system	dvs	1
+system	dvb system	1
+system	dvmt	1
+system	dvb-s two  acm 	1
+system	dvb-sh	1
+condition	dvt	4
+condition	dv treatment	1
+element	dvd navigation system	2
+product	dvr related product	1
+product	dvr remote related product	1
+product	dvr video capture related product	1
+product	dvrs from replaytv	1
+product	dvc pro	1
+product	dv related product	1
+product	dvb s card related product	1
+product	dvd mould	1
+product	dvd to blu ray	1
+product	dvd to ipad converter	1
+product	dvd sleeve related product	1
+product	dvd remote control related product	1
+product	dvd ram drive related product	1
+product	dvi cable	1
+product	dvi kvm switch	1
+product	dvr monitor related product	1
+product	dvr pci express related product	1
+product	dvi switch related product	1
+variable	dvd rewriters	1
+function	dvd	8
+function	dvd player	2
+function	dvd player function	2
+function	dvd menu	1
+function	dvd play function	1
+function	dvd burning	1
+function	dvi input	1
+function	dvr	1
+function	dvi	1
+function	dvd editing function	1
+device	dvd player	164
+device	dvd	74
+device	dvd drive	21
+device	dvr	14
+device	dvd recorder	12
+device	dvd roms	6
+device	dv camera	5
+device	dvrs digital video recorders	4
+device	dvd burner	3
+device	dvb-h client	2
+device	dvd-rom drive	1
+device	dv camcorder	1
+device	dvd-ram	1
+device	dvd-ram drive	1
+device	dvd-rw	1
+device	dvr boxes	1
+device	dvr players home audio video receiver	1
+device	dv-r recorder	1
+device	dvi	1
+brand	dvs	5
+brand	dvf	1
+concept	dvd-ram	1
+component	dvd player	47
+component	dvd	12
+component	dvd drive	8
+component	dvr	5
+component	dvd rom drives	2
+component	dvd burners	2
+component	dvd-video player	1
+component	dvd tray	1
+component	dvd burning component	1
+component	dvd with the touch of a button	1
+component	dvd laser pick-up device	1
+component	dvd golfers using plasma tv's individual panel	1
+component	dvd module	1
+component	dvdstyler	1
+component	dvd writer	1
+aspect	dvd category	1
+site	dvd empire	2
+site	dvd box	1
+site	dvxuser show bias	1
+site	dvd enthusiast web site	1
+site	dvd express	1
+task	dvd playback	2
+task	dvd control	1
+related product	dvd ram drive related product	1
+related product	dvr monitor related product	1
+related product	dvi switch related product	1
+related product	dv related product	1
+related product	dvb s card related product	1
+related product	dvr related product	1
+related product	dvr remote related product	1
+related product	dvr video capture related product	1
+related product	dvd rw sony related product	1
+related product	dvd replication related product	1
+related product	dvd rack related product	1
+related product	dvd printable related product	1
+related product	dvd movie player related product	1
+related product	dvd changer related product	1
+related product	dvd case related product	1
+related product	dvb-s satellite receiver related product	1
+related product	dvb-s patch related product	1
+related product	dvd cleaner related product	1
+related product	dvd portable player related product	1
+related product	dvd related product	1
+related product	dvd rom drive related product	1
+related product	dvi plug related product	1
+related product	dvi adapter related product	1
+related product	dvd store related product	1
+related product	dvd player mpeg four  related product 	1
+related product	dvd rewritable drive related product	1
+related product	dvd record software related product	1
+related product	dvds television related product	1
+related product	dvi computer cable related product	1
+related product	dvd maker related product	1
+related product	dvb-t antenna related product	1

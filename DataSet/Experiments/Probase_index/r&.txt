@@ -1,0 +1,571 @@
+factor	r&d expenditure	5
+factor	r&d	2
+factor	r&d spending	2
+factor	r&d tax credit	2
+initiative	r&d village	1
+initiative	r&d tax credit	1
+datum	r&d expenditure	1
+resource	r&d centre	1
+resource	r&d expenditure	1
+resource	r&d brand item	1
+source	r&d activity	1
+property	r&f sunny sky court	1
+benefit	r&r	1
+subject	r&d policy	1
+exception	r&d tax credit	2
+reason	r&d productivity	1
+institution	r&d organization	1
+institution	r&d lab	1
+strategy	r&d activity	1
+form	r&b	1
+form	r&d agreement	1
+idea	r&d treaty	1
+idea	r&d tax credit	1
+matter	r&d management	1
+matter	r&d expenditure	1
+alternative	r&d prize	1
+alternative	r&d	1
+location	r&d laboratory	2
+location	r&d facility	1
+mechanism	r&d alliance	2
+mechanism	r&d grant	1
+solution	r&d tax credit	1
+business	r&d intensive business	1
+part	r&r cast head	1
+cost	r&d	1
+type	r&b	1
+celebrity	r&b singer bobbie brown	2
+celebrity	r&b songstress ciara	1
+celebrity	r&b singer mya	1
+celebrity	r&b superstar usher raymond	1
+industry	r&d lab	1
+challenge	r&b song	1
+job	r&d	1
+job	r&d person	1
+indicator	r&d expenditure	6
+indicator	r&d intensity	3
+indicator	r&d spending	2
+indicator	r&d investment	1
+indicator	r&d expenditures within a year	1
+indicator	r&d infrastructure	1
+advantage	r&d capability	1
+favorite	r&b crooner steph jones	1
+instrument	r&s smu signal generator	1
+act	r&b duo ashford & simpson	1
+class	r&b dance	1
+class	r&b salsa stepping	1
+position	r&d technologist	1
+position	r&i clerk	1
+position	r&d scientist	1
+position	r&d head	1
+unit	r&d unit	9
+unit	r&d	1
+expense	r&d expense	1
+policy	r&d tax credit	3
+policy	r&d subsidy	2
+policy	r&d	1
+entity	r&g financial corp.	1
+entity	r&b foundation	1
+country	r&d `heavy' country	1
+country	r&d intensive country	1
+building	r&d facility	1
+style	r&b	1
+Organisations	r&d institute	2
+partner	r&d entity	4
+partner	r&l carriers	1
+big name	r&b princess rihanna	1
+role	r&d manager	1
+vendor	r&d systems	1
+sector	r&d service	1
+sector	r&d-intensive industry	1
+sector	r&d	1
+opportunity	r&d partnership	1
+intervention	r&d program	1
+section	r&d wing	2
+section	r&d	1
+section	r&d unit	1
+incentive	r&d tax credit	2
+incentive	r&d funding	1
+label	r&s	1
+label	r&g electronics	1
+department	r&d	9
+department	r&d unit	4
+department	r&d department	3
+department	r&d center	2
+department	r&d wing	1
+award	r&d  one hundred  award 	2
+need	r&d in small volume	2
+module	r&s	1
+asset	r&d	1
+asset	r&dandmineral exploration	1
+report	r&d magazine's annual funding forecast	1
+party	r&s squadron	1
+professional	r&d engineer	1
+guest	r&b sensation raheem devaughn	1
+issue	r&d intensity	1
+issue	r&d subsidy	1
+stakeholder	r&d institute	1
+point	r&d	1
+decision	r&d expenditure	1
+journal	r&d management	4
+neighborhood	r&f city	2
+friend	r&b diva ruth brown	1
+movement	r&b sine wave soloing	1
+issue	r&d tax credit	1
+issue	r&d intensiveness in estonian ict firm	1
+issue	r&d linkages with third level institution	1
+key issue	r&d approval	1
+employer	r&m plastics	3
+domain	r&d sandbox	1
+user	r&d facility	1
+station	r&b holiday	1
+force	r&s patrol	2
+objective	r&d support	1
+input	r&d expenditure	2
+input	r&d capability on manufacturing process	1
+sponsor	r& b cellars	1
+issue	r&m training for designers	1
+talent	r&b crooner lloyd	2
+segment	r&d department	1
+genre	r&b	10
+advanced topic	r&d stage	1
+notable	r&b crooner j. holiday	1
+specialist	r&d consultant	1
+enterprise	r&d-intensive concern	1
+key area	r&d spending	1
+local business	r&r meats	1
+investment	r&d project	1
+establishment	r&de	1
+international organization	r&m consultants japan	1
+datum source	r&d datum	1
+division	r&d	14
+division	r&d department	1
+sound	r&b	1
+item	r&d department	2
+value-added service	r&d lab	3
+Celebs	r&b diva monica	1
+non-profit organization	r&d institution	1
+office	r&d personnel	2
+intangible	r&d investments	1
+intangible	r&d effectiveness	1
+intangible	r&dwouldnotassess human capital theory	1
+payment	r&r air ticket encashment	1
+practitioner	r&d managers from corporation	1
+constituent	r&t agent	1
+item	r&i bumper cover	1
+educational institution	r&d establishment	3
+national act	r&b sensation joe	1
+expenditure	r&d capital expenditure	1
+simple tool	r&s plan	1
+fundamental issue	r&d within the firm	1
+item	r&d spending datum	1
+merchant	r&s grocery store	1
+contest	r&d tournament	1
+modern facility	r&d unit	1
+bar	r&r tavern	1
+hidden cost	r&b's customer service	1
+intangible asset	r&d asset	1
+intangible asset	r&d capability	1
+intangible asset	r&d investment	1
+intangible asset	r&d expertise	1
+intangible asset	r&dandmanagement capability	1
+key indicator	r&d expenditure level	1
+key indicator	r&d expenditure	1
+niche	r&d intensive niche	1
+dealer	r&d data products in illinois	1
+recording artist	r&b recording artist	1
+popular artist	r&b pianist john legend	1
+area	r&d investment	2
+area	r&d management	2
+consulting service	r&d project	1
+consulting service	r&d project plan	1
+policy area	r&d spending	1
+government policy	r&d funding	1
+government policy	r&d subsidy	1
+objective measure	r&dintensityand number of patent	1
+input datum	r&d expenditure	1
+explanatory variable	r&d expense	1
+clinic	r&r center	1
+business function	r&d service	1
+celebrity guest	r&b singer tyrese	1
+pharmaceutical company	r&d pharmaceutical company	1
+key sector	r&d capability	1
+common facility	r&d centre	1
+datum item	r&d expense	1
+public good	r&d in clean energy	3
+area	r&d expenditure	1
+area	r&d cost	1
+area	r&d	1
+area	r&d for future infrastructure	1
+policy instrument	r&d tax credit	1
+policy instrument	r&d support	1
+doll	r&b doll	1
+industry professional	r&d engineer	1
+international journal	r&d management	3
+transformation	r&b into rock & roll	1
+economic instrument	r&d eff orts	1
+area	r&d into emerging market disease	1
+area	r&d for future accelerator	1
+area	r&d funding	1
+area	r&d for pharma	1
+weekly event	r&b entertainment	1
+public policy	r&d tax credit	1
+key -metric	r&d expenditure	1
+opera	r&b's lyrical opera	1
+business opportunity	r&d covering td-scdma	1
+industry segment	r&d centers	1
+concession	r&d tax concessions	5
+product area	r&d	1
+service	r&d	1
+musical genre	r&b	1
+tax incentive	r&d tax credit	4
+firm characteristic	r&d intensity	4
+firm characteristic	r&d investment	1
+firm characteristic	r&d expenditure	1
+musical style	r&b funk	1
+musical style	r&b	1
+capital expenditure	r&d capital expenditure	1
+collaboration	r&d collaboration r&d collaboration	1
+service	r&d capability	1
+service	r&d support	1
+featured artist	r&b singer	1
+financial benefit	r&d grant	1
+government incentive	r&d tax credit	2
+music style	r&b	1
+standard measure	r&d expenditure	1
+technology issue	r&d tax credit	1
+dealership	r&s performance	1
+local entity	r&d center	1
+service function	r&d	1
+traditional indicator	r&d expenditure	1
+central service	r&d	1
+commercial entity	r&d center	2
+measurement system	r&d scoreboard	1
+government measure	r&d grant	1
+ticket	r&b concert ticket	1
+conventional measure	r&d spending	1
+conventional measure	r&d expenditure	1
+topic	r&d partnering	2
+decision support tool	r&d intensity	6
+digital asset	r&d datum	1
+dynamic environment	r&d lab	1
+entitlement program	r&d tax concession	1
+fiscal incentive	r&d tax allowance	1
+fiscal incentive	r&d tax credit	1
+successful case	r&d manager	1
+popular celebrity	r&b singer beni	2
+functional department	r&d department	1
+topic	r&d policy in canada	1
+topic	r&d tax credit	1
+topic	r&d cooperation	1
+topic	r&d subsidy	1
+topic	r&d funding source	1
+Proprietary information	r&d information	1
+policy intervention	r&d subsidy	1
+financial variable	r&d expenditure	2
+high-profile artist	r&b singer aretha franklin	1
+aggregate datum	r&d expenditure	1
+framework condition	r&d tax	1
+investment project	r&d program	1
+basic indicator	r&d spending	1
+stylistic element	r&b rhythm	1
+objective indicator	r&d spending	1
+local contractor	r&o construction	1
+quantitative variable	r&d investment capital	2
+quantitative variable	r&d investment	1
+vocal group	r&b vocal group	1
+financial item	r&d investment	1
+leading institution	r&g financial group	1
+senior management position	r&d head	1
+investment incentive	r&d tax credit	1
+technical staff	r&d personnel	1
+top journal	r&d management	1
+entry barrier	r&d cost	1
+regulatory instrument	r&d subsidy	2
+federal facility	r&d site	2
+girl group	r&b girl group	1
+input measure	r&d personnel	1
+input measure	r&d expenditure	1
+company	r&f properties	1
+company	r&g brenner	1
+company	r&d contractors	1
+company	r&d dollars from the department of energy	1
+company	r&d pharmaceutical company	1
+company	r&b inc.	1
+company	r&b network services	1
+company	r&m steel	1
+company	r&d systems	1
+european program	r&d program	1
+tax service	r&d credit studies	1
+formal network	r&d collaboration	1
+non-financial asset	r&d effort	1
+ancillary measure	r&d cooperation	1
+core business	r&d service	1
+business characteristic	r&d intensity	1
+tax provision	r&d credit	3
+tax provision	r&e tax credit	2
+business house	r&p signs	1
+activity	r&d of utilization	1
+tax policy	r&e tax credit	1
+attractive incentive	r&d grant	1
+federal incentive	r&d grant	1
+policy mechanism	r&d tax credit	1
+policy mechanism	r&d funding	1
+preferential policy	r&d tax credit	1
+firm-specific characteristic	r&d intensity	3
+separate unit	r&d department	1
+freight company	r&l carriers	1
+activity	r&d limited partnership	1
+interesting course	r&b revolution	1
+supply-side measure	r&d tax credit	1
+knowledge-intensive industry	r&d management	1
+micro issue	r&d management	1
+western influence	r&b & reggae	1
+external contact	r&d site	1
+strategic alliance	r&d partnership	1
+core asset	r&d	1
+local and national celebrity	r&b artist case	1
+network analyzer	r&s zvx series	2
+business department	r&d center	2
+domestic measure	r&d support	1
+established line	r&er	1
+firm-level characteristic	r&d intensity	1
+sub-divisions	r&d department	1
+celebrity attendee	r&b performer trina	2
+information	r&d project	2
+government support	r&d tax credit	1
+grammy winner	r&b vocalist erykah badu	2
+budget line item	r&d spending	1
+government support program	r&d tax credit	1
+horizontal measure	r&d activity	1
+authorization	r&pp permit	1
+contractual relationship	r&m contract	1
+forebear	r&b shouter little richard	1
+advanced factor	r&d experience	2
+information	r&d outlook	1
+fashion model	r&b singer brandy norwood	1
+tax strategy	r&d credit	1
+macro datum	r&d spending	1
+notable photographer	r&r editor steve barry	1
+power meter	r&s nrp with a model nrp-z eleven  power sensor 	1
+sub-departments	r&d unit	1
+upcoming model	r&b singer cassie	1
+input indicator	r&d expenditure	1
+security facility	r&d lab	1
+agricultural institution	r&d centre	1
+creative organization	r&d company	1
+economic feature	r&d expense	1
+innovation indicator	r&d expenditure	2
+innovation indicator	r&d spending	1
+firm-level information	r&d expenditure	1
+firm-specific datum	r&d expense	2
+event	r&b night	1
+firm level factor	r&d intensity	1
+international toy safety standard	r&tte	1
+quantitative performance indicator	r&d expenditure	1
+brand-named product	r&r	1
+dynamic consideration	r&d investment	1
+factory facility	r&b building	1
+harsh critic	r&b vocalist oran juice jones	1
+knowledge intensive service	r&d service	1
+program	r&d program	2
+non-production activity	r&d project	1
+overage	r&m vehicles	1
+framework policy	r&d tax credit	1
+high efficient management module	r&d	1
+innovation service	r&d support	2
+international peer-reviewed journal	r&d management	1
+program	r&d promotion	1
+program	r&d start graduate	1
+program	r&d contracting	1
+program	r&d funding program	1
+program	r&d tax concession	1
+public subsidy	r&d tax credit	1
+business tax credit	r&d credit	1
+celebrity notable	r&b chanteuse heather headley	1
+complex commercial transaction	r&d cooperation	1
+corporate-wide project	r&d portfolio management	1
+designed item	r&d theme	1
+external recognition	r&d  one hundred  awards 	1
+firm-specific and partner-specific datum	r&d expense	1
+government-supported facility	r&d center	1
+industrial function	r&d in medcs	1
+innovation measure	r&d expenditure	1
+program	r&d support	1
+lyrical opera	r&b's lyrical opera	1
+spectrum analyzer	r&s fsl	1
+featured incredible artist	r&b stalwart larry blackmon	1
+functional leader	r&d	1
+innovation-related variable	r&d spending	1
+knowledge-intensive business service	r&d service	1
+policy indicator	r&d environment	1
+prominent shipping company	r&l freight	1
+organization	r&d credit coalition in washington	3
+strategic capability	r&d strength	1
+corresponding business process	r&d budget process	1
+high valued-added service	r&d consulting	1
+high-priority R&D topic	r&d productivity	1
+indirect support	r&d tax credit	1
+innovative, time-saving feature	r&r study template	1
+italian and international journal	r&d management	1
+manufacturer-related factor	r&d program	1
+music production style	r&b	1
+music selection	r&b artist	1
+organization	r&d provider	1
+organization	r&d institution	1
+organization	r&d aspects of firms with high-value intellectual property	1
+strategic behavior	r&d collaboration	2
+targeted opportunity	r&d program	1
+aggregated investment cost	r&d expenditure	1
+city setting	r&d lab	1
+commercial mould design software package	r&b moldworks	1
+company-specific variable	r&d expenditure	1
+comprehensive supply chain solution	r&d service	1
+example certain professional	r&d staff	1
+fdi-related activity	r&d undertaken by foreign affiliate	2
+high-value resilient facility	r&d facility	1
+indirect scheme	r&d tax exemption by the ministry of finance	1
+infra-structural system	r&d management	1
+iron-gall ink	r&k salix	1
+S&T resource	r&d manpower	1
+traditional R&D indicator	r&d expenditure	1
+traditional R&D indicator	r&d personnel	1
+V5 present many extra	r&g crash bung	1
+broad industry assistance program	r&d start program	1
+application	r&d operation	1
+application	r&d purpose	1
+CESs	r&d cess	1
+contemporary musical style	r&b	1
+contemporary popular figure	r&b artist t-pain	1
+deflators	r&d price deflators	1
+DH funded resource	r&d support unit	1
+EMTM course	r&d management	1
+firm capability	r&d capability	1
+firm level financial measure	r&d expense	1
+firm-control variable	r&d behavior	1
+imperfect indicator	r&d spending	1
+innovation incentive	r&d tax credit	1
+innovation policy instrument	r&d subsidy	1
+innovation topic	r&d strategy	1
+innovative employee	r&d engineer	1
+innovativeness indicator	r&d expenditure	1
+intangible asset disclosure	r&d of the sector  one 	1
+intra-enterprise group service	r&d service	1
+knowledge intense business service	r&d service	3
+legendary featured group	r&b group rose royce	1
+factor	r&d budget	1
+factor	r&d environment	1
+factor	r&d reality	1
+factor	r&d resources	1
+factor	r&d activity	1
+factor	r&d support	1
+case	r&d project	2
+mechanical trade function	r&r of battery	1
+mutual fund constituent	r&t agent	2
+non-price competitiveness factor	r&d intensity	1
+orlando artist	r&b sensation jasper sawyer	1
+popular accounting report writer	r&r report writer	1
+case	r&d department	1
+potential policy incentive	r&d tax credit	1
+professional trade journal	r&d magazine	1
+psychologically sensitive environment	r&d facility	1
+R&D input	r&d expenditure	1
+R&D policy	r&d grant	1
+second, structural and behavioral variable	r&d intensity	1
+security sensitive facility	r&d facility	1
+seemingly general measure	r&d incentive	1
+case	r&s smu two hundred a vector signal generator from rohde & schwarz 	1
+tax based measure	r&d tax credit	1
+technology transaction	r&d based alliance	1
+technology-push instrument	r&d program	1
+typically important industry indicator	r&d expenditure	1
+ad valorem entitlement scheme	r&d tax concession	1
+atle christer christiansen regulatory strategy	r&d support	1
+business credit	r&d tax credit	1
+business innovation event	r&d alliance	1
+capitalizing operating expense	r&d expense	1
+chinese smes innovation activity	r&d investment	2
+classic smooth jazz	r&r by newcomer marcus h. mitchell	1
+clearly alternative measure	r&d employment	1
+common truck carrier	r&l carriers	1
+contest situation	r&d competition	2
+cutting-edge tax-savings project	r&d credit	1
+entitlements-based program	r&d tax concessions	2
+financial support instrument	r&d grant	2
+fsq-k93 function	r&s fsq-k ninety-three  function 	1
+gimmicky tax break	r&d tax credit	1
+highway R&T program	r&t programs of fhwa	1
+if customer	r&r products	1
+industrial position	r&d manager	1
+industry-specific tax break	r&d credit	1
+group	r&b foundation	1
+group	r&b vocal group	1
+group	r&b girl group	1
+innovation input measure	r&d spending	2
+innovation policy	r&d policy	1
+inter-firm collaboration	r&d partnership	1
+local amazing boutique	r&r trading	1
+music sector	r&b & jazz	1
+non-msaa compliant screen reader	r&w gold	3
+group	r&d	1
+project funding mechanism	r&d partnership	1
+public policy obstacle	r&d tax credit limitation	1
+R&D capital expenditure	r&d equipment like laboratory machinery	1
+r&d collaboration	r&d collaboration r&d collaboration	1
+method	r&r study	1
+method	r&d project evaluation	1
+similarly-themed festival	r&b festival	1
+speical project	r&d credit	1
+summary upstream hydrocarbon activity	r&d project	1
+Targeted assistance	r&d start program	1
+taxation incentive	r&d tax concession	1
+traditional technological variable	r&d expenditure	1
+tool	r&d support	1
+tool	r&dsupportandthe promotion of institutions for public-privateco-operation	1
+factor	r&d level	1
+factor	r&d need	1
+factor	r&d intensity	1
+factor	r&d investment	1
+project	r&f peach garden	1
+project	r&d chief dr. sugata mitra	1
+project	r&d planning	1
+project	r&d on independent brand vehicle	1
+project	r&f jubilee garden	1
+artist	r&b singer mary j. blige	2
+artist	r&b singer bobby valentino	2
+artist	r&b recording artist	1
+artist	r&b artist	1
+artist	r&b singer chester gregory	1
+place	r&d centers & college university	1
+place	r&d establishments of large corporation	1
+parameter	r&d project	2
+parameter	r&d productivity	1
+parameter	r&d network	1
+parameter	r&d performance datum	1
+measure	r&d expenditure	2
+measure	r&d tax credit	2
+measure	r&d support	2
+measure	r&d input	1
+measure	r&d funding	1
+measure	r&dexpenditureper employee	1
+measure	r&d intensity by business	1
+measure	r&d investment	1
+measure	r&d spending	1
+element	r&d activity	2
+element	r&d	1
+element	r&d expenditure	1
+element	r&b	1
+element	r&d capability	1
+variable	r&d expenditure	2
+variable	r&d investment	2
+variable	r&d collaboration with competitor	1
+variable	r&dexpendituresdo shed light on the phenomenon of firm-level innovation	1
+variable	r&d in the private sector	1
+variable	r&d personnel	1
+variable	r&d expenditures for pure	1
+variable	r&d intensity	1
+function	r&d	2
+brand	r&r	1
+brand	r&r suicide	1
+component	r&d facility	2
+aspect	r&d investments by company	1

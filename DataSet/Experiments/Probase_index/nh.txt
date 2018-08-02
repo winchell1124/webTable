@@ -1,0 +1,1694 @@
+initiative	nhs direct	5
+initiative	nhs national programme for information technology	2
+initiative	nhs returners scheme	1
+initiative	nhs connecting for health	1
+initiative	nhs care records	1
+initiative	nhs national program for information technology in the united kingdom	1
+initiative	nhs next stage review	1
+initiative	nhs plan	1
+initiative	nhs	1
+initiative	nhs brush bus	1
+initiative	nhs plus	1
+initiative	nhs net	1
+initiative	nhs lift	1
+initiative	nhs twenty-four 	1
+datum	nhs number	3
+datum	nhs district	1
+datum	nhd	1
+datum	nhs numberanddateof birth	1
+datum	nhc web site	1
+datum	nhanes iii	1
+resource	nhs direct	2
+resource	nhi ondemand	1
+resource	nhtsa	1
+resource	nh info line	1
+resource	nhscrd's effective health care bulletins	1
+resource	nhregsplus website	1
+facility	nhc place	2
+facility	nh jacksonville	1
+facility	nh camp pendleton	1
+process	nh  three  plasma process 	1
+process	nh.sub. three  plasma process 	1
+source	nhanes	1
+source	nhs central register	1
+game	nhl  ten 	3
+game	nhl  nine 	2
+game	nhl	2
+game	nhl  two thousand and two 	1
+game	nhl  two k six 	1
+game	nhl  ninety-nine 	1
+game	nhl  two thousand and one 	1
+game	nhl hockey	1
+game	nhl  two thousand and ten 	1
+game	nhl  ninety-four 	1
+game	nhl football	1
+game	nhl  eleven 	1
+game	nhl  six  at highest setting 	1
+game	nhl  two k ten 	1
+subject	nhl hockey	1
+subject	nhs organization	1
+exception	nh three  dissolving in water 	1
+exception	nhs	1
+exception	nh  three 	1
+model	nhs lift	2
+model	nhs highland's cost cube work	1
+attraction	nha trang	1
+institution	nhs	9
+institution	nhb	4
+institution	nhrc	1
+institution	nhh bergen	1
+client	nhs	31
+client	nhl	3
+client	nhs trust	2
+client	nhs hospitals	1
+client	nhf & coast	1
+client	nhk japan broadcasting corporation	1
+client	nhl linesmen ryan galloway	1
+client	nhl oldtimer's hockey challenge	1
+client	nhbc	1
+document	nhs card	1
+document	nhs plan	1
+document	nhs medical card	1
+agency	nhtsa	9
+agency	nhs	7
+agency	nhs trusts	2
+agency	nhs organization	2
+agency	nhs institute for innovation	2
+agency	nhs boards	2
+agency	nhs hospital	1
+agency	nhs surrey	1
+agency	nhs brent	1
+agency	nhw	1
+agency	nhs wakefield district	1
+agency	nhn	1
+course	nhs specific course	1
+location	nh- four 	1
+location	nh trang cathedral	1
+location	nhulunbuy	1
+action	nhs issue	1
+mechanism	nhej	1
+structure	nhs lift	1
+business	nhs	1
+field	nhs	1
+school	nhg & gear with no luck	1
+school	nhm	1
+title	nhl hitz	1
+agent	nh  four  cl 	4
+agent	nh  three 	1
+agent	nh  four  tungsten composition 	1
+circumstance	nhsenceofproofof extraordinary circumstance	1
+cost	nhs treatment	1
+cost	nhs reclaiming the cost of hospital treatment	1
+cost	nhs staff cost	1
+development	nhs cancer plan	2
+development	nhs direct	1
+development	nhais replacement	1
+development	nhs cadet scheme	1
+development	nhs care records	1
+development	nhs local improvement finance trust	1
+development	nhs healthspace	1
+development	nhs net	1
+type	nhmfl  fourty-five -t hybrid magnet 	1
+city	nha trang	4
+disease	nhs blood transfusion-borne disease	1
+town	nhill	2
+firm	nh futures	1
+industry	nhs	5
+requirement	nhs-funded alcohol	1
+job	nhs ect	1
+job	nhs health awareness television advert	1
+job	nhs	1
+indicator	nhs staff survey	1
+advantage	nhbc warranty	1
+manufacturer	nht	1
+publication	nhs tayside annual report summary	1
+publication	nhs carbon reduction strategy	1
+publication	nhs audiology services in scotland	1
+setting	nhs	4
+setting	nhs trust	1
+setting	nhs primary care	1
+compound	nh  three 	6
+compound	nh four cn 	1
+compound	nh four 	1
+class	nhs good hands event	1
+study	nhanes	3
+study	nhan~ iii	1
+study	nhis	1
+study	nhlbi rapid early action for coronary treatment study	1
+website	nhs choices	5
+website	nhs direct	4
+website	nh granit data mapper	1
+website	nhs pregnancy website	1
+website	nhs tower hamlets	1
+innovation	nhs direct telephone service	1
+policy	nhs plan	2
+policy	nhs reform	1
+policy	nhs constitution	1
+policy	nhs uniform	1
+team	nhl florida panthers	1
+team	nhl's tampa bay lighting	1
+team	nhl's toronto maple leafs	1
+team	nhl big team	1
+substance	nh three  form hydrogen bond 	1
+substance	nh  three 	1
+substance	nh  three  form hydrogen bond 	1
+entity	nht	1
+entity	nh center for public policy	1
+building	nhs trust	1
+style	nhb	1
+concern	nhs	1
+concern	nhs waiting list	1
+Organisations	nhs	21
+Organisations	nhs trusts	8
+Organisations	nhbc	3
+Organisations	nhs information centre for health	2
+Organisations	nhs institute	1
+Organisations	nhs horizon scanning centre in birmingham focus on assessing individual treatment	1
+Organisations	nhs luton	1
+Organisations	nhs westminster	1
+Organisations	nhs wirral	1
+Organisations	nhs alliance	1
+partner	nhs	7
+partner	nhs foundation trusts	2
+partner	nhs surrey	2
+partner	nhra	2
+partner	nhs central lancashire	2
+partner	nhs borders	1
+partner	nhs cambridgeshire	1
+partner	nhs county durham	1
+partner	nhs richmond	1
+partner	nhs oldham	1
+partner	nhs institute for innovation	1
+partner	nhs wales	1
+partner	nhk	1
+big name	nhs hitting the headlines in recent month	1
+standard	nhin connect	1
+standard	nhin direct	1
+standard	nhsnet sysop policy	1
+standard	nhin specification	1
+role	nhs hospital	2
+club	nhs	6
+club	nhhs	1
+club	nhoh club	1
+club	nhabe table tennis club	1
+design	nh  four hundred and fifty-one 	1
+design	nhr's v two 	1
+sector	nhs	7
+sector	nhs hospital trust	1
+customer	nhs	5
+customer	nhs trust hospitals	1
+customer	nhs influencers	1
+section	nhqi factor	1
+department	nhs	4
+department	nhs hospital department	1
+issue	nhs	6
+issue	nhs reform	3
+scheme	nhs	5
+scheme	nhs innovation programme	1
+scheme	nhdp	1
+risk factor	nhcc	2
+award	nh region's award	1
+additive	nh four hco three 	1
+chemical	nh four oh 	1
+chemical	nh four 	1
+chemical	nh three 	1
+capability	nhd	1
+provider	nhs	1
+provider	nhs primary medical care contractor	1
+asset	nhl network	1
+destination	nha trang	1
+destination	nha trang beach	1
+report	nhs cancer care in england	1
+party	nhtsa	4
+party	nhs qis	1
+party	nhs trusts	1
+professional	nhs rehabilitation professional	1
+offer	nhs staff discount	1
+offer	nhl center ice	1
+speaker	nhts	1
+speaker	nhl agent	1
+speaker	nhs bradford centre for citizenship	1
+protein	nhe three 	1
+risk	nhcc	1
+stakeholder	nhs trusts	2
+issue	nhs leadership	1
+stakeholder	nhs	1
+law	nhpa	2
+law	nhs redress measure	1
+law	nhk tv license payment law	1
+local tourist attraction	nhk hall	1
+great	nhl hockey great	1
+landmark	nhs plan	1
+channel	nhl network	2
+channel	nhk	1
+channel	nhl	1
+hotel	nh real arena	2
+hotel	nh hotel in santiago	1
+hotel	nh center	1
+hotel	nh grand hotel	1
+hotel	nh carlton	1
+luminary	nhlpa executive director paul kelly	1
+luminary	nhl commissioner gary bettman	1
+series	nhl beats by dr. dre	1
+sport	nhl	6
+sport	nhl hockey	2
+sport	nhl  nine 	1
+sport	nhl sport	1
+issue	nhs superannuation	1
+offering	nhl  two k nine 	1
+service provider	nhs trusts	1
+service provider	nhs	1
+service provider	nhs acute	1
+supplier	nh techno glass	1
+protocol	nhrp	1
+employer	nhs	13
+employer	nhs trust	2
+molecule	nh  three 	9
+molecule	nh three 	6
+association	nhrdn	1
+plan	nhs plan	1
+network	nhl network	3
+network	nhk	2
+network	nhk in japan	1
+station	nha trang	2
+station	nhy	1
+station	nhyira fm	1
+interest	nhl hockey betting	2
+athlete	nhl great wayne gretzky	1
+athlete	nhl hall of famer mario lemieux	1
+authority	nhs trusts	2
+authority	nhrc	2
+authority	nhcc	1
+authority	nhs	1
+authority	nhbc	1
+objective	nhs north somerset's objective	1
+sponsor	nhk	1
+sponsor	nhl players association	1
+factor	nhrc's passive performance	2
+local organization	nhs	4
+local organization	nh woman's forum	2
+local organization	nhs health trainer service	1
+museum	nhm	1
+database	nhgri gwas catalog	1
+database	nhs spine	1
+resort	nha trang	1
+resort	nh marbella hotel	1
+government agency	nhtsa	2
+government agency	nhc of noaa	1
+society	nhsf	1
+regulation	nhs constitution	1
+professional organization	nh commercial investment board of realtors	1
+professional organization	nhbc	1
+contaminant	nh  three 	3
+contaminant	nh three 	2
+third party	nhs executive	1
+third party	nhs trust	1
+issue	nhl labor dispute	1
+issue	nhs issue	1
+issue	nhs wide shortage of psychologist	1
+household name	nhs direct	1
+employee	nhs staff	1
+code	nhs number	5
+code	nhi	1
+worker	nhs staff	1
+assignment	nhl hockey	1
+community group	nhs stop smoking group	1
+gas	nh  three 	16
+gas	nh three 	10
+gas	nh  three  for generating nitrogen-containing functionalities 	2
+gas	nh  four  f 	1
+reform	nhs foundation trust	2
+beach	nha trange	1
+datum source	nhs direct	1
+hospital	nhill	1
+production	nhl awards	1
+coach	nhl head coach	1
+tenant	nhl team	1
+item	nhs number	2
+framework	nhs knowledge	1
+port	nha trang	2
+national organization	nhtsa	1
+fluid	nh three 	1
+board	nhs lothian	1
+board	nhs lanarkshire	1
+pollutant	nh  three 	1
+pollutant	nh three 	1
+office	nha trang	1
+local company	nhn corp. s naver web site	1
+local company	nhs hull royal infirmary	1
+impurity	nh three 	2
+impurity	nh  three 	2
+impurity	nh  four  cl 	1
+urban area	nha trang	1
+campaign	nhs stop smoking	1
+reagent	nh  three 	1
+reagent	nh  four  oh 	1
+television show	nhl awards cbc	1
+television show	nhk's the world	1
+large project	nhs direct online	1
+nutrient	nh  three 	2
+nutrient	nh  four  cl 	1
+large organization	nhs	13
+large organization	nhs trusts	2
+large organization	nhs authority	1
+large organization	nhs connecting for health	1
+catalyst	nh  four  f 	1
+catalyst	nh  four f 	1
+manager	nhl general manager	1
+observer	nhl historian charles l. coleman	1
+tax	nhs deductions from wage	1
+international company	nhnz	1
+salt	nh  four  cl 	7
+salt	nh four cl 	5
+salt	nh four no three 	1
+salt	nh  four  ci 	1
+item	nhk's role	1
+base	nh two 	2
+base	nh  four  oh 	2
+base	nh  two 	2
+base	nh  four  oh during the course of the reaction 	1
+base	nh three  solution 	1
+base	nh.sub. four  oh during the course of the reaction 	1
+base	nh  three 	1
+survey	nhis	7
+survey	nhanes	5
+survey	nhs wales respondents opinion survey	1
+DJs	nhan solo	1
+orchestra	nhk symphony	4
+orchestra	nhk of tokyo	1
+state agency	nh fish & game department	2
+composition	nh  three 	1
+non-governmental organization	nhf	1
+school activity	nhs	2
+blogs	nhl blogs	1
+public service	nhs	20
+public service	nhs hospital	1
+public service	nhs in the uk	1
+public service	nhs direct	1
+key stakeholder	nhs employers	3
+key stakeholder	nhs trusts	1
+key stakeholder	nhs	1
+video game	nhl  two thousand and two 	2
+video game	nhl	1
+video game	nhl  eleven 	1
+private company	nhl team	1
+complex system	nhs	1
+big player	nhk	1
+big player	nhs	1
+key information	nhs number	1
+contract	nhs centre of infection	1
+essential service	nhs	3
+organic compound	nh  two 	1
+date	nhl draft at cbssports.com	1
+well-known company	nhs	1
+doctor	nhs general practitioner	1
+phase	nh  two 	2
+student organization	nhs	1
+pressure	nhs value	1
+insurance company	nha rong	1
+institute	nhlbi	3
+franchise	nhl's phoenix coyotes	1
+franchise	nhl  two k ten 	1
+construction	nha rong wharf	2
+construction	nha trang railway station	1
+local authority	nhs	1
+tourist destination	nha trang	1
+identifiers	nhs number	4
+local agency	nhs	1
+diet	nhe	1
+nothing	nhs in singapore	1
+federal agency	nhtsa	2
+tournament	nhl  nine 	1
+leading company	nhs	1
+big event	nhra nationals	1
+big event	nhra o'reilly auto parts jr.	1
+mega event	nhl preseason happening throughout the year	1
+column	nh  two 	1
+item	nh dept of safety property tax	1
+cancer	nhl	1
+government department	nhs	1
+interesting place	nha trang	1
+ligands	nh  three 	1
+insurer	nhbc	1
+federal program	nhsc	1
+tributary	nhr	1
+public institution	nhs	1
+niche	nh honey	1
+curricular activity	nhs	1
+government initiative	nhs plan	2
+government initiative	nhs direct	1
+anomaly	nhs owning	1
+popular game	nhl  two k nine 	1
+local service	nhs brent	1
+local service	nhs wiltshire	1
+local service	nhs swindon	1
+powder	nh  four  cl 	1
+community facility	nhs healthcare center	1
+partnership	nhs lift	2
+drama	nhk historical drama	1
+small molecule	nh three 	4
+small molecule	nh  three 	1
+TV program	nhk educational television	2
+area	nhs	11
+area	nha trang	2
+top company	nhpc	1
+functional group	nh  two 	4
+functional group	nh two 	2
+functional group	nh group	1
+functional group	nh three 	1
+national brand	nhs	1
+student group	nhs	1
+arena	nhl size arena	1
+government policy	nhs plan	1
+health service	nhs	1
+health service	nhs direct site	1
+health service	nhs dentist	1
+regulatory agency	nhtsa	1
+coastal area	nha trang	1
+regional organization	nh lakes association	1
+regional organization	nhs east midlands	1
+large employer	nhs	7
+large employer	nhs borders	1
+pathway	nhej	2
+pathway	nhe	1
+public agency	nhs	3
+league	nhl	9
+boundary	nhs trust	1
+high profile client	nhs	1
+metabolite	nh  three 	1
+search	nh chinese	1
+broadcaster	nhk	3
+economic issue	nhs	1
+government organization	nhs	2
+allowance	nhs charge	1
+alumnus	nhl players like patrick sharp	1
+national program	nhrp	1
+indian company	nhpc ltd	1
+tourist area	nha trang	1
+leadership position	nhs president	1
+distinction	nhk broadcast cultural award	1
+travel spot	nha trang	1
+harmful substance	nh three 	3
+concert	nhk fm recital	1
+content provider	nhs direct	1
+external agency	nhs on research project	1
+external agency	nhs	1
+external agency	nhs litigation authority	1
+coastal city	nha trang	1
+representative	nhs waltham forest	1
+popular event	nhl all-star weekend	1
+popular event	nhl winter classic	1
+information service	nhs direct	1
+real issue	nhs	1
+datum item	nhs number	1
+public entity	nhs	1
+maneuver	nhtsa fishhook	2
+end user	nhs	1
+key partner	nhs board	1
+key partner	nhs manchester	1
+area	nh high fiber food	1
+area	nhs in scotland	1
+area	nhs in the public sector	1
+area	nhs trust	1
+area	nhill	1
+area	nhs direct datum	1
+area	nhs lanarkshire	1
+vital service	nhs	1
+government service	nhs	1
+government service	nhs in the uk	1
+workplace	nhs	1
+amines	nh  three 	1
+ester	nhs ester	2
+uncertainty	nhcc	2
+target group	nhrc	1
+process condition	nh  three  etching time 	1
+sporting event	nhl ice hockey	1
+sporting event	nhl	1
+analytes	nhanes environmental analytes	1
+national issue	nhs	1
+external organization	nhs alliance	1
+benchmark	nhs productivity -metric	1
+trust	nhs eastern	1
+trust	nhs worcestershire	1
+trust	nhs hounslow	1
+global organization	nhs	2
+local partner	nhs	1
+local partner	nhs lanarkshire	1
+air pollutant	nh  three 	1
+air pollutant	nh three 	1
+datasets	nhanes dataset	1
+datasets	nhis	1
+patient information	nhs number	3
+healthcare provider	nhs	2
+area	nh non-dairy milk	1
+area	nhs manufacturing area	1
+area	nhs spending	1
+service	nhs direct	19
+service	nhs	14
+service	nhs  twenty-four 	3
+sport team	nhl military army navy	1
+conservation group	nhill college environment cadets	1
+private group	nh audubon society	1
+national institution	nhmrc	1
+policy document	nhs reform white paper	1
+policy document	nhs plan	1
+policy document	nhs quality strategy	1
+inorganic salt	nh  four  cl 	1
+inorganic salt	nh . sub . four  cl 	1
+logo	nhl	1
+precursor	nh  three 	3
+precursor	nh three 	2
+identifier	nhs number	2
+indirect benefit	nhs	1
+chemical treatment	nh  three 	1
+emission	nh three 	1
+great city	nha trang	1
+national initiative	nhs cancer plan	1
+news outlet	nhk	1
+chemical additive	nh  three 	1
+public program	nhs in england	1
+external partner	nhs	1
+disinfectant	nh  two  cl 	1
+public organization	nhs	6
+interactive service	nhs direct	1
+factor	nh state retirement	1
+factor	nhce status	1
+factor	nh  three  volatilization rate 	1
+factor	nhl's hockey operations department	1
+service	nhs connecting for health	2
+service	nhs shared learning	2
+service	nhs lanarkshire service	1
+service	nhs national health service service	1
+service	nhs plus	1
+service	nhs gp service	1
+service	nhs without question	1
+service	nhs direct in the united kingdom	1
+Party Equipment Rental s	nh foam machine rental	1
+health organization	nhs south west	1
+public company	nh hotels	1
+local employer	nhs	1
+educational facility	nhsscotland e-library	1
+screening tool	nhtsa's traditional screening tool	1
+prestigious organization	nhk	1
+retail business	nh craftsmen store	1
+key organization	nhs sheffield	1
+greenhouse gas	nh  three 	3
+greenhouse gas	nh three 	1
+blue chip client	nhs	1
+open system	nhs choices	1
+cation	nh  four 	1
+population center	nha trang	1
+innovative service	nhs direct	1
+large customer	nhs	1
+public sector organization	nhs	12
+public sector organization	nhs trusts	2
+public sector organization	nhs primary care trust	1
+sport game	nhl	2
+sport game	nhl  nine 	1
+sport game	nhl series	1
+sport game	nhl  ninety-nine 	1
+sport game	nhl ten 	1
+sport game	nhl  eleven 	1
+public authority	nhs	3
+public authority	nhs body	3
+public authority	nhs birmingham east	2
+public authority	nhs county durham	2
+public authority	nhs board	1
+public authority	nhs direct	1
+repository	nhlbi-sponsored transfusion-transmitted virus study	1
+service	nhs pharmaceutical service	1
+third party tool	nhibernate	1
+dangerous substance	nh three 	1
+key group	nhs chicago	1
+graduate program	nha trang university of aquaculture	1
+big organization	nhs	1
+reactant	nh three 	1
+inert gas	nh . sub . three 	1
+publishing house	nha xuat-ban chinh-tri quoc-gia	1
+television network	nhk	1
+cable channel	nhk	1
+membrane protein	nhe three 	1
+novel approach	nhsg process	1
+independent agency	nhrc	1
+regulatory authority	nhbc	1
+service	nhs direct health line	1
+service	nhs health check	1
+service	nhs continuing care	1
+service	nhs walk-in centres	1
+service	nhs stop smoking service	1
+specialty retailer	nhsaves catalog	1
+southern city	nha trang	1
+nitrogen source	nh  four  cl 	1
+nitrogen source	nh  three  flow 	1
+nitrogen source	nh four h two po four 	1
+endogenous factor	nhibitors against enzyme	1
+growth condition	nh three h two o concentration 	1
+sulfur compound	nh  four  sh 	1
+big game	nhl game	1
+sport organization	nhl	2
+sport organization	nhls carolina hurricanes	1
+sport organization	nhl's carolina hurricanes	1
+volatile substance	nh  three 	1
+digital resource	nhs clinical knowledge summaries	1
+national policy	nhs plan	1
+national policy	nhs improvement plan	1
+payer	nhic new england	1
+sport program	nhl	1
+uniform	nhl jersey	1
+polar compound	nh  three 	2
+polar compound	nh three 	1
+professional sport team	nhl	1
+professional sport team	nhl's dallas stars	1
+patch	nhl  seventy-five th anniversary patch 	1
+patient group	nhf	1
+service program	nhsc search program	1
+specialist company	nhs	2
+helicopter	nh ninety 	1
+local service provider	nhs	1
+governmental institution	nhs	1
+national survey	nhis	6
+national survey	nhanes	4
+national survey	nhs	1
+lending institution	nhe	2
+reactive gas	nh  three 	6
+reactive gas	nh three 	4
+toxic gas	nh three 	2
+state-owned company	nhpc	1
+TV station	nhk world	1
+administrative agency	nhtsa	1
+reputable site	nhs	1
+nucleophiles	nh three 	1
+nucleophiles	nh two oh 	1
+ongoing initiative	nhs health checks in lewisham	1
+contaminates	nh  three 	3
+contaminates	nh three 	2
+fellowship	nhmrc peter doherty	1
+disclosure	nhla	1
+basic compound	nh  four  oh 	1
+key criterion	nhs number	1
+budget	nhs	1
+public-private partnership	nhs lift	1
+scholarship program	nhsc	1
+3D game	nhl  two thousand and two 	1
+elite player	nhl goaltender for la kings	2
+reactive group	nh.sub. two  group 	1
+reactive group	nh  two  group 	1
+ionic compound	nh  four  cl 	1
+ionic compound	nh four cl 	1
+topic	nhs trust	1
+topic	nhl	1
+topic	nhs	1
+tutor	nhs student	1
+volatile component	nh  three 	2
+volatile component	nh  three  orethanol 	1
+volatile component	nh three 	1
+volatile component	nh . sub . three 	1
+federal government agency	nhtsa	1
+big team	nhl big team	1
+high profile organization	nhs trusts	1
+large account	nhs	1
+electron donor	nh	1
+electron donor	nh three 	1
+electron donor	nh  three 	1
+weak base	nh three 	3
+weak base	nh  four  cl 	3
+weak base	nh  four  oh 	1
+weak base	nh  three 	1
+public sector	nhs	1
+technical expert	nhbc	2
+accreditation	nhbc	1
+central agency	nhpc	2
+tions	nhla	1
+governance structure	nhs foundation trusts	1
+job role	nhs graduate management training scheme	1
+local dignitary	nh senator kelly ayotte	1
+chemical group	nh  two 	1
+chemical group	nh two 	1
+simple molecule	nh  three 	1
+complex organization	nhs	1
+inorganic base	nh  four  oh 	2
+telephone service	nhs direct	1
+sport tv channel	nhl network	1
+good source	nhi	1
+topic	nhs reform	1
+topic	nhl lockout	1
+topic	nhl strike	1
+topic	nhibernate	1
+topic	nhibernate's architecture	1
+health authority	nhs direct	1
+international hotel chain	nh hotels	2
+trace gas	nh  three 	1
+nitrogen-containing compound	nh  three 	1
+high-profile celebrity	nhl hockey player rob niedermayer	1
+national resource	nhs direct	1
+nitrogen compound	nh  three 	1
+top client	nhs	1
+large database	nhanes	1
+national service	nhs mail	1
+national service	nhs	1
+professional sport	nhl	5
+external driver	nhs target	1
+regular client	nhs	1
+acid gas	nh three 	1
+alkalis	nh  four  oh 	3
+alkalis	nh four oh 	1
+alkalis	nh . sub . four  oh 	1
+news website	nhk world	1
+polar molecule	nh three 	1
+company	nhs	9
+company	nhd	2
+company	nhk	2
+company	nhai	2
+company	nhpc	2
+email system	nhs mail	1
+Reactive species	nh  three 	1
+ammonium salt	nh four no three 	1
+bet	nhl betting	1
+scientific study	nhtsa report	1
+hospital department	nhs hospital department	1
+project partner	nhs staff	1
+mainstream service	nhs	1
+process gas	nh  three 	1
+process gas	nh . sub . two 	1
+sport league	nhl	5
+head coach	nhl head coach	1
+public sector institution	nhs hospital	1
+specialist agency	nhs direct	1
+potential customer	nhs	2
+public service organization	nhs hospital	1
+beach destination	nha trang	1
+hydroxide	nh  four  oh 	1
+independent expert	nhbc	1
+public sector employer	nhs	3
+safety organization	nhtsa	2
+ecologically sensitive area	nhava island	1
+external measure	nhs choice	1
+contractual arrangement	nhs consultant contract	1
+music composer	nhyu bajracharya	1
+orgs	nhs choices	1
+orgs	nhs carers direct	1
+sport brand	nhl	1
+statutory service	nhs trusts	1
+company	nhon hoa	1
+company	nhs direct	1
+public sector client	nhs	4
+public sector client	nhs trust	1
+substituent group	nh  two 	2
+IPOs	nhpc	1
+public sector worker	nhs staff	4
+lever	nhs funding	1
+lever	nhb	1
+pure substance	nh  three 	1
+statutory organization	nhs board	1
+statutory organization	nhs	1
+statutory organization	nhs warrington	1
+typical information	nhs number	2
+youth event	nhsra	1
+3rd party apps	nhc for power management	1
+industrial park	nhon trach	1
+suburban district	nh- two 	1
+company	nhra motorsports museum	1
+healthcare system	nhs	1
+healthcare system	nhs in the uk	1
+hotel operator	nh hoteles	1
+huge organization	nhs	2
+huge organization	nhs in the united kingdom	1
+medium corporation	nhk	1
+national study	nhanes	1
+national study	nhis	1
+inorganic gas	nh three 	1
+precipitant	nh four oh 	1
+reputable client	nhs	1
+specialty channel	nhl	1
+state company	nhpc	1
+facility characteristic	nh size	1
+non-commercial organization	nhs	1
+outstanding program	nhf's first steps program	1
+PSUs	nhpc	1
+sport channel	nhl	1
+jersey	nhl jersey	2
+jersey	nhl hockey jersey	1
+jersey	nhl	1
+web site feature	nhi store	1
+well-established brand	nh detoxlim by multi herbs pharmaceutical	1
+distinguished organization	nhnz	1
+large port	nhava sheva	1
+population-based study	nhanes	2
+population-based study	nhanes iii	1
+priority group	nhs staff	1
+working fluid	nh three 	2
+british institution	nhs	1
+EA game	nhl	1
+high profile team	nhl players	1
+public sector employee	nhs staff	1
+well-known destination	nha trang	1
+activity	nhra drag race	2
+gaseous product	nh three 	1
+key worker	nhs staff	3
+key worker	nhs clinical staff	1
+news station	nhk	1
+nursing job	nhs hospital jobs in london	1
+nursing job	nhs hospital recruitment in london	1
+nursing job	nhs job vacancies in london	1
+nursing job	nhs professional nurses in london	1
+nursing job	nhs nurse vacancies in london	1
+nursing job	nhs jobs in london	1
+nursing job	nhs employment vacancies in london	1
+nursing job	nhs nursing job vacancies in london	1
+nursing job	nhs nursing jobs in london	1
+nursing job	nhs online recruitment	1
+nursing job	nhs hospital job vacancies in london	1
+reactive functional group	nh  two 	1
+government site	nhs direct	1
+innovative model	nhs lift	1
+patient identifiers	nhs number	2
+patient organization	nhf	1
+american sport	nhl gridiron	1
+gas species	nh  three 	1
+official site	nhs	1
+cohort study	nhs	1
+information asset	nhs statistical datum	1
+large-scale study	nhanes	1
+league sport	nhl	2
+organizational setting	nhs	1
+public broadcaster	nhk	4
+south korean company	nhm	1
+unwanted component	nh  three 	1
+water quality factor	nh  three  content 	2
+administrative boundary	nhs boards	2
+chloride salt	nh  four  cl 	2
+generic measure	nhp	1
+activity	nhrd meet	1
+public sector service	nhs trust	1
+sea port	nha trang	1
+stakeholder organization	nhs	1
+american breed	nh reds	1
+benefit scheme	nhs pension scheme	1
+isoforms	nhe three 	1
+supercritical fluid	nh  three 	1
+supercritical fluid	nh . sub . three 	1
+vital public service	nhs	1
+college publication	nhti catalog	1
+light gas	nh  three 	1
+national forum	nhsscotland data protection forum	1
+sport title	nhl  seven 	1
+traditional statistical method	nhst	1
+work situation	nhs	1
+3D model	nhl team logos clashing	1
+etchant	nh  four  oh 	1
+government-owned company	nhpc ltd	1
+government-owned company	nhpc	1
+local public service	nhs kirklees	1
+local search engine	nhn corp. s naver web site	1
+odorous compound	nh  three 	1
+reliable site	nhs	1
+adequate public service	nhs	1
+blood cancer	nhl	2
+countryman	nhl hall of famer jari kurri	1
+large survey	nhis	1
+monovalent cation	nh  four 	1
+monovalent cation	nh  four  acetate 	1
+monovalent cation	nh  four  cl 	1
+quangos	nhs twenty-four 	1
+stable compound	nh three 	1
+campus club	nhs	1
+activity	nhpp picnic	1
+hockey great	nhlpa past president mike gartner	1
+hockey great	nhl hockey great	1
+national database	nhanes	1
+safety agency	nhtsa	1
+halide compound	nh  four  cl 	2
+halide compound	nh four cl 	1
+historical drama	nhk historical drama	1
+largest organization	nhs	1
+legislative reform	nhs act	1
+public sector enterprise	nha	1
+stationary phase	nh  two 	1
+blue chip account	nhs	1
+condensable gas	nh three 	1
+extractants	nh four oh 	1
+lookup table	nhs postcode directory	1
+professional sport league	nhl	4
+professional sport league	nhl hockey	1
+reactant gas	nh  three  gas 	1
+symmetric molecule	nh  three 	1
+3rd party app	nhc	1
+development financial institution	nhb	1
+emphasis area	nhsc	1
+Equine Therapy	nhs  four  animals located in oxfordshire 	1
+helplines	nhs direct	1
+japan tv channel	nhk bs  two 	2
+japan tv channel	nhk	1
+local position	nh state agricultural advisory board member	1
+ORMs	nhibernate	6
+population-based survey	nhanes	3
+simple attribute	nhs identifier of the patient	1
+information	nhs number	3
+information	nhin update	2
+live game	nhl	1
+obscure sport	nhl	1
+polyatomic molecule	nh  two 	1
+specialist software	nhs activity database adb	1
+surface preparation	nh.sub. four  oh etching 	1
+blue-chip customer	nhs	1
+cheap jersey	nhl jersey	1
+corporate environment	nhs	1
+electron-donating group	nhch  three 	1
+electron-donating group	nh  two 	1
+government's initiative	nhs direct hotline	1
+high end user	nhs	1
+high profile employer	nhs	1
+leading orchestra	nhk symphony orchestra	1
+local and national client	nhs	1
+national datum set	nhanes	1
+national datum set	nhds data base	1
+realistic game	nhl  two thousand and two 	1
+universal system	nhs	1
+information	nhv agency	1
+cross-sectional survey	nhanes	2
+cross-sectional survey	nhis	1
+key strategic partner	nhs	1
+mild painkiller	nhf	1
+public situation	nhs	1
+safety group	nhtsa	1
+sport package	nhl center ice	2
+sportswear	nhl	2
+upscale chain	nh hoteles	1
+bold initiative	nhin	1
+canadian celebrity	nhl star sidney crosby	1
+cross-sectional study	nhis	2
+cross-sectional study	nhanes	1
+EA sport game	nhl  nine 	1
+EA sport game	nhl  seven 	1
+inorganic nitrogen source	nh  four  cl 	1
+insurance scheme	nhs	1
+manufacturing area	nhs manufacturing area	1
+NHS service	nhs direct	1
+nitrogen base	nh  three 	1
+ORM tool	nhibernate	5
+public and private company	nhs	1
+sport website	nhl.com	1
+call centre	nhs direct	1
+gaseous by-products	nh  four 	1
+gaseous by-products	nh four 	1
+health board	nhs lothian	1
+health board	nhs  twenty-four 	1
+health board	nhs ggc	1
+health board	nhs tayside	1
+honorary society	nhs	1
+impurity gas	nh  three 	10
+impurity gas	nh three 	3
+large public sector organization	nhs trusts	2
+legislative enactment	nhpa	1
+national highway	nh  sixty-seven 	1
+national highway	nh- five 	1
+national highway	nh seven 	1
+national highway	nh four 	1
+national highway	nh- six 	1
+information	nhs performance rating	1
+event	nhl san jose sharks hockey team	8
+event	nhl awards	3
+event	nhl trade deadline	2
+event	nhra national open	2
+weather service	nhc	2
+wet etchant	nh  four  oh 	2
+area plan	nhs local delivery plans	1
+EA title	nhl	1
+health survey	nhanes	1
+indian port	nhava sheva	1
+korean game	nhn games dungeon & fighter	1
+marine protected area	nha trang bay	1
+medicare carrier	nhic in california	1
+monovalent salt	nh four oh 	1
+Neutral ligands	nh  three 	1
+public sector partner	nhs	1
+publicly funded organization	nhs trusts	1
+raw material gas	nh three 	1
+self-care product	nhp s	2
+service provider organization	nhs hampshire	1
+sport ticket	nhl hockey	1
+zeolite	nh  four  y-zeolite 	1
+deposition gas	nh three 	1
+federal health care program	nhsc program	2
+funding avenue	nhs funding	1
+nutrient parameter	nh  four  cl 	2
+ORM	nhibernate	10
+PCTs	nhs north east essex	1
+PCTs	nhs birmingham east	1
+event	nhra racing	1
+event	nhra lucas series	1
+event	nhl stanley cup finals	1
+event	nhl's annual outdoor hockey game	1
+event	nhl all-star weekend	1
+event	nhl entry draft	1
+event	nhl finals	1
+event	nhb's annual heritage festival	1
+provincial center	nha trang	3
+unregulated emission	nh  three 	1
+warranty service	nhbc solo	1
+amino group	nhcor . sub . four 	1
+complex survey	nhanes	4
+extension project	nhibernate search	1
+extension project	nhibernate shards	1
+extension project	nhibernate validator	1
+extraction solution	nh  four  oh solution 	1
+fantastic hotel	nh frankfurt city for great offer	1
+federal and state regulatory agency	nhtsa	1
+lysosomotropic agent	nh  four  cl 	5
+lysosomotropic agent	nh four cl 	3
+popular game series	nhl	1
+public sector scheme	nhs	1
+public sector scheme	nhs pension scheme	1
+sport jersey	nhl jersey	6
+treatment gas	nh three 	1
+centralised system	nhs number	1
+currently service	nhs direct	1
+EA sport title	nhl	1
+event	nhl classic	1
+event	nhl hockey	1
+event	nhl hockey experience in calgary	1
+event	nhl tampa bay lightning	1
+event	nhl's new york rangers	1
+event	nhra driver	1
+event	nhra event	1
+event	nhl all-star game	1
+event	nhl pro-am gala	1
+event	nhl center ice	1
+event	nhk new comer concert	1
+program	nhc	3
+epic item	nhl jersey	1
+incumbent company	nhn	1
+noxious agent	nh  four 	1
+public sector initiative	nhs agenda for change	1
+reactive radical	nh radical	1
+rehabilitation professional	nhs rehabilitation professional	1
+second reagent	nh.sub. three  in combination with the titanium 	1
+small neutral molecule	nh  three 	1
+small neutral molecule	nh three 	1
+sport challenge	nhl  ten 	1
+toxic and corrosive compound	nh  three 	1
+american pastime	nhl ice hockey	1
+aqueous alkaline solution	nh four oh 	1
+cross-sectional datum	nhanes iii	1
+health partner	nhs	1
+hockey item	nhl hockey photo	1
+mega hit	nhl  two k five 	1
+program	nh home performance with energy star	1
+organisational setting	nhs	1
+ORM framework	nhibernate	1
+premium sport package	nhl centre ice	1
+premium sport package	nhl center ice	1
+reactive chemical species	nh three 	1
+Reactive nitrogen species	nh  three 	1
+specialist database	nhs eed	1
+status NHS organization	nhs trust	3
+viral syndrome	nh four cl 	1
+vocational institution	nhl university	1
+world's broadcaster	nhk	1
+AMs	nhc	1
+chemical base	nh  four  oh 	1
+editorially client	nhl digest	1
+linker group	nhs	1
+local healthcare provider	nhs trust hospital	1
+nitrogenous source	nh  four  cl 	1
+program	nh rivals	1
+program	nhra drag racing	1
+reagent solution	nh  two  oh 	2
+short-lived compound	nh  three 	1
+simple mineral compound	nh . sub . four  oh 	1
+simple mineral compound	nh . sub . four  cl 	1
+simple mineral compound	nh . sub . four  no. sub . three 	1
+Strong ligands	nh  three 	1
+3variousother odoriferous gas	nh  three 	1
+anisotropic etchants alkaline solution	nh four oh 	1
+bursary	nhs bursary for students on health-related degree course	1
+CD-ROM game	nhl  ninety-nine 	1
+health related organization	nhs trusts	1
+historical measure	nhs	1
+large corporate user	nhs	1
+large world brand	nhl	1
+program	nhs number	1
+program	nhs graduation coverage	1
+program	nh lady bombers	1
+program	nh shooting stars	1
+national target	nhs heat target	1
+patient identifiable information	nhs number	1
+Profit-making PSUs	nhpc	1
+prominent sport package	nhl center ice	1
+social plan	nhi	1
+UK public service	nhs	1
+uk's largest organization	nhs	2
+3rd party website	nhs direct & nhs choices	1
+alkaline etchant	nh  four  oh 	1
+alkaline etchant	nh four oh 	1
+american professional sport	nhl	1
+Autotransporters	nhha	1
+carbon pollutant	nh  three 	1
+council's partner	nhs	1
+CSC service organization	nhs	1
+efficient building	nhs primary care centre	1
+employment environment	nhs	1
+excellent electronic resource	nhs performance frameworks	1
+government service provider	nhs	1
+great british institution	nhs the bbc	1
+high profile medium house	nhk	1
+hydrogen bond certain substance	nh  three  form hydrogen bond 	2
+hydrogen bond certain substance	nh three  form hydrogen bond 	1
+international medium program	nhl network	1
+large public organization	nhs	1
+NHS board	nhs  twenty-four 	2
+NHS board	nhs tayside	1
+NHS scotland policy document	nhs quality strategy	2
+nitrogen-containing gas	nh  three 	2
+object-relational mapper	nhibernate	1
+object-relational mapping tool	nhibernate	2
+organized legislative event	nhpco's capitol hill day	1
+partnership working different organization	nhs	1
+PDZ protein	nherf	1
+pharmaceutical service	nhs pharmaceutical service	1
+popular and typical touristy spot	nha trang	1
+positive control drug	nh  four  cl tablet 	1
+professional series	nhra sports compact	1
+public pension scheme	nhs	1
+public sector pension scheme	nhs	2
+public sector provider	nhs	1
+race class	nhra stock	1
+road program	nhdp	2
+scholarship provider	nhg	1
+sea-ports	nha trang	1
+secondary care service	nhs hospital	1
+Service Organisations	nhs	1
+organization	nhs	60
+organization	nhs trusts	8
+organization	nhl	6
+organization	nhtsa	4
+organization	nhra	4
+simple controller	nhrc micro	2
+specific course	nhs specific course	1
+standardized feature	nhr	1
+undiscovered gem	nhu lan bakery	1
+unfunded scheme	nhs	1
+view engine	nhaml	1
+alkaline gas	nh three 	1
+alkaline gas	nh  three 	1
+amine-based compound	nh  three 	1
+amount worker	nhs staff	2
+approved scheme	nhbc schemes	1
+basic japanese TV station	nhk	1
+botanical supplement	nhsteps menopause	1
+cheap jersys	nhl jersys	1
+conclusion indicator	nhs foundation trust status	1
+corporate promotional material	nhs regional map	1
+covalent molecule	nh three 	1
+difterent polar group	nh two 	1
+easily liquefiable gas	nh  three 	2
+organization	nhs alliance	1
+organization	nhs body	1
+organization	nhmrc	1
+organization	nh food bank	1
+organization	nht	1
+organization	nhs direct	1
+erudite buddhist scholar	nhan tong	1
+etching substance	nh  three 	1
+external change agent	nhs institute	1
+gaseous raw material	nh  three 	1
+golf gift item	nhl head cover	1
+golf gift item	nhl licensed product	1
+Hydrogenated species	nh  three 	1
+hydrogenous compound	nh  three 	1
+inorganic process gas gas	nh  three 	2
+japanese television station	nhk japan national broadcasting	1
+japanese television station	nhk tv japan national broadcasting	1
+large board	nhs greater glasgow & clyde	1
+large observational study	nhs	1
+leading portal	nhn	1
+luxurious place	nha che	1
+magnificient beauty spot	nhi ho fall	2
+mastermind group	nhrd	1
+molecular base	nh  three 	2
+molecular base	nh three 	1
+national center	nhc	1
+national cross-sectional survey	nhanes	1
+national NHS support organization	nhs education in scotland	1
+nitrogen-bearing compound	nh.sub. three  gas 	1
+nitrogen-bearing compound	nh  three  gas 	1
+offering pro-team watch	nhl watches	1
+official information source	nhs choices	1
+online health service	nhs direct	1
+organization	nh council for the arts	1
+organization	nhf	1
+organization	nhi	1
+organization	nhs hospitals	1
+organization	nh can	1
+organization	nh humane society	1
+organization	nh main street community organization	1
+organization	nhs unit	1
+organization	nhrc	1
+professional athletic website	nhl.com	1
+public service pension	nhs	3
+school's extra curricular activity	nhs	1
+science-related industry	nhs	1
+SHAs	nhs yorkshire	1
+Simple ligands	nh  three 	1
+specialised development financial institution	nhb	2
+speciawised devewopment financiaw institution	nhb	1
+student community group	nhs	1
+undesirable emission	nh  three 	1
+undesirable emission	nh three 	1
+universal scheme	nhs	1
+voluntary survey	nhs	2
+vote-grabbing emotive issue	nhs	1
+widely-distributed item	nhl bobbleheads	1
+ammonia-related plant issue	nh  three  slip 	1
+big local employer	nhs	1
+biggest newspaper	nhan dan	1
+central government company	nhpc	1
+central power PSUs	nhpc	1
+central power utility	nhpc	1
+central public sector company	nhpc	1
+central sector utility	nhpc	1
+closed shell molecule	nh three 	1
+common absorption system	nh  three  in water 	2
+common absorption system	nh  three 	1
+common polar gas	nh three 	1
+comparative benchmark tool	nhs comparators	2
+comparative benchmark tool	nhs institute for innovation's opportunity locator	1
+competitive conference	nhsmun	1
+complexapparatus	nh  three  solubilizer 	1
+cross-bred rice variety	nhi uu  eight hundred and thirty-eight 	1
+crown establishment	nhs hospital	1
+daughter fragment	nh	2
+departmental website	nhs	1
+directly identifiable datum	nhs number	1
+emblematic hotel	nh constanza in barcelona	1
+emblematic hotel	nh city & tower in argentina	1
+emblematic hotel	nh amsterdam centre in holland	1
+epitaxial growth condition	nh  three  flow 	1
+epitaxial growth condition	nh.sub. three  flow 	1
+federal health survey	nhis	1
+federal health survey	nhanes	1
+football jersey	nhl jersey	1
+front line public service	nhs	1
+technique	nh  three  annealing 	1
+gas scrubbing system gas	nh  three 	1
+genuine embroidery jersey	nhl	1
+government run health service	nhs	1
+graduate solution team client	nhs institute of innovation & technology	1
+hand taping event	nhs inductions	1
+host broadcaster	nhk	1
+introduced technology	nhibernate	1
+key national stakeholder	nhs connecting for health	1
+key NH group	nh sierra club	1
+key NH group	nh audubon	1
+large national study	nhanes	1
+large open air event	nhs trust centenary concert	1
+league logo	nhl	1
+league website	nhl.com for hockey	1
+lifesharing provider agency	nhs human services	1
+low voltage fuse s	nh fuse	1
+minnesota team	nhl's wild	1
+national population-based survey	nhis	1
+national public sector agency	nhs	1
+NET framework	nhibernate	1
+non-mandatory field	nhs number	1
+non-police event	nhw meeting	1
+application	nhk world tv	1
+application	nher energy rating	1
+application	nhvas mass management	1
+norwegian institution	nhh	1
+off-shore territory & island	nhulunbuy	1
+ONC initiative	nhin initiative	1
+overseas satellite channel	nhk	1
+partially water soluble gas	nh  three 	1
+patient identification	nhs number	1
+patient-identifiable information	nhs number	1
+popular and successful sport series	nhl	2
+privatising public sector industry	nhs	1
+public broadcast station	nhk in japan	1
+public sector final salary scheme	nhs pension	1
+public sector setting	nhs	1
+receiving station	nhl network	1
+remainingmega-events	nhl andmlsplayofi game	1
+season package	nhlci	1
+senior medical figure	nhs medical director	1
+small, neutral molecule	nh  three 	2
+small, neutral molecule	nh three 	1
+sport center channel	nhl network	1
+statutory partner	nhs	1
+theother method	nhs	1
+top sport channel	nhl network	1
+traditional republican	nhut ho	1
+True patient identifiers	nhs number	1
+typical nonmetallic precursor	nh . sub . three 	2
+ubiquitin related gene	nhlrc one 	1
+vietnamese beach destination	nha trang	1
+work place monitoring parameter	nh three 	1
+workforce area	nhs pension scheme review	2
+world renowned symphony orchestra	nhk symphony orchestra	1
+abc's sister	nhk in japan	1
+absorptive and corossive gas	nh three 	1
+acidic and basic gas	nh  three 	1
+acidic phosphate compound	nh four h two po four 	1
+amino radical X	nh  two 	2
+aspect encompassing negligence case	nhs negligence	1
+atomic and molecular gas	nh  three 	1
+british public sector institution	nhs	1
+british service	nhs	2
+central generating agency	nhpc	1
+community awareness issue	nhs	1
+contemporary policy document	nhs plan	1
+corporate and service discount	nhs	1
+counting federally-supported provider	nhsc clinician	1
+country specialist information service	nhs centre for reviews	1
+creditworthy customer	nhs	1
+exciting sport channel	nhl network	1
+federal service program	nhsc	1
+front-line public service	nhs	1
+good medical hair restoration practice	nhi	1
+governmental driver	nhs plan	1
+group V precursor	nh three 	1
+heath care system	nhs in the uk	1
+helicopter type	nh ninety 	1
+higher-level geographical area	nhs boards	1
+hygroscopic molecule	nh  three 	1
+hypothetical scenario	nhla	1
+ICT strategic development	nhs care records service	1
+incoming device	nh four  switch disconnector 	2
+incross-sectional study	nhis	1
+industrial research organization	nhk	1
+inhibiting agent	nh  four  oh 	1
+inorganic nitrate salt	nh four no three 	1
+institutional health provider	nhs	1
+internet sport network	nhl gamecenter	2
+introduction aqueous base	nh  four  oh 	1
+key public service organization	nhs	1
+lager employer	nhs	1
+land use related variable	nh four 	1
+large QIC stakeholder	nhs	1
+large, bureaucratic organization	nhs	1
+case	nhs	4
+local NHS trust	nhs north west	1
+long-planned military aircraft program	nh ninety 	1
+long-running sport series	nhl franchise	1
+low speed game	nhl	1
+lysosomotropic weak amine base	nh  four  cl 	1
+lysosomotrpic agent	nh  four  c one 	1
+massively funded project	nhs university	1
+national certification system	nhba system	1
+national multimodal survey	nhts for passenger travel	1
+national specialist board	nhs  twenty-four 	1
+native role model	nhler jordin tootoo of the nashville predators	1
+newly available datum	nhamcs for hospital outpatient	1
+NHMRC program	nhmrc centres of clinical research excellence	2
+nitride species	nh  three 	1
+non violent, sport video game	nhl  two k 	1
+non-violent, sport video game	nhl  two k 	3
+north american sport league	nhl	1
+northern territory indigenous region	nhulunbuy	1
+NWOs	nhs of dimmit county	1
+NWOs	nhs of green bay	1
+object-relational mapping framework	nhibernate	1
+OEM car paint	nhb	1
+online health tool	nhs direct self help	1
+oxygen-free, nitrogen-containing material	nh  three 	2
+Passivations	nh four oh 	1
+photochemically active species	nh three 	1
+playable sport game	nhl  two k eleven 	1
+case	nhk series	1
+case	nh  three 	1
+case	nhs north east essex	1
+case	nhs leeds	1
+case	nhtsa's child restraint rule	1
+portal operation company	nhn	1
+potential identifiers	nhs number	1
+precision machining center	nh four thousand   dcg high-precision horizontal machining center 	1
+precision machining center	nh six thousand three hundred  dcg high precision horizontal machining center for manufacturing precise product 	1
+prestigious honor society	nhs	1
+pro league	nhl	2
+professional racing team	nhra team	1
+public service scheme	nhs	1
+reactive and heavy gas	nh  three 	1
+removable species	nh  three 	1
+resident board member	nhs-missouri board vice chair	1
+routine NHS source	nhs reference cost	1
+SCR catalyst performance -metric	nh  three  storage capacity 	1
+secondary care	nhs board hospital	1
+self-financing quasi-governmental organization	nhk	1
+separate store	nhs spine	1
+serologic survey	nhanes	1
+simple interstellar precursor molecule	nh three 	1
+socialised service	nhs	1
+soluble and reactive gas	nh  three 	1
+soluble N r gas	nh  three 	1
+south sudanese journalist	nhial bol	1
+starting material gas	nh.sub. three  gas 	1
+suitable nitrogen-containing gas	nh  three 	1
+suitable nitrogen-containing gas	nh three 	1
+superstrong base	nh two 	1
+surely service	nhs	1
+case	nhs sunderland	1
+case	nhs's epr program	1
+tax-funded system	nhs	1
+tbs game	nhowever other tbs game	1
+term lending institution	nhb	1
+top game portal	nhn's hangame	3
+top pro league	nhl	1
+traditional screening tool	nhtsa's traditional screening tool	1
+tri-dentate ligand	nh  three 	1
+U.S. trade association	nhla	1
+UK public procurement approach	nhs local improvement finance trust initiative	1
+unfunded public-sector scheme	nhs scheme	1
+universal healthcare system	nhs better	1
+universalist service	nhs	1
+volatile nitrogen precursor	nh  three 	1
+vs MC variable	nh two  group 	1
+web-based forum	nhs choices website	1
+year's success free' brand	nhs	1
+3rd-party solution	nhibernate orm	1
+4-stroke cycle engine	nh series cummins	1
+abusive institution	nhs	1
+acid-extruding mechanism	nhe	1
+aggressive or etching substance	nh three 	1
+AKJ help customer	nhs	1
+Amazon system	nhamunda	1
+ambitious unified system	nhin	1
+amino radical	nh  two  dimethylamino 	1
+ancientness	nhan tower	1
+applied university	nhl in leeuwarden	1
+ationofacid-base linkage	nhooo ti	1
+attractant stimulus	nh four cl 	1
+australian funding agency	nhmrc	1
+option	nhibernate	1
+option	nhl network	1
+basic HF salt	nh  four  f 	1
+big deal scheme	nhs's national core content	1
+big ticket IPOs	nhpc	1
+big-sized issue	nhpc ltd	1
+CDC national surveillance survey	nhanes	1
+central government contract	nhs digital mapping agreement	1
+central vietnam destination	nha trang	1
+centralized health care system	nhs	1
+closed-cycle system	nhs	1
+combined nitrogen source	nh  four  cl 	1
+commercially available gas	nh  three 	1
+concurrent technology	nhibernate	1
+convenient and inexpensive ammonium salt	nh  four  cl 	1
+convenient website	nhs choice in the uk	1
+countries health system	nhs of england	1
+coupling group	nh two  group 	2
+debt-service program	nhsc program	1
+decent ORM	nhibernate	1
+dental system	nhs provision the uk	1
+designated warranty scheme	nhbc	1
+discussion CDC national surveillance survey	nhanes	1
+DSB mechanism	nhej	1
+dutch partner	nh hotel	1
+eastern beach	nh	1
+group	nh two 	3
+group	nhs	2
+EH.sub.3 gas	nh.sub. three  for the formation of metal nitrides 	1
+electrodonating gas molecule	nh  three 	1
+energetic reaction gas	nh  three 	1
+equality impact assessment public authority	nhs foundation trusts	2
+example ammonium salt	nh  four  cl 	1
+exciting collectible	nhl art	1
+extremely authoritative survey	nhanes promoted by the nih	1
+family by-products	nh  three  f 	1
+final salary scheme	nhs	1
+food consumption database	nhanes	1
+gate driven sport	nhl	1
+good quality beef hen	nh red-colored	1
+government funded facility	nhs cord blood bank	1
+government innovation	nhs direct  twenty-four -hour phoneline for patient 	1
+Government-run healthcare	nhs in britian	1
+hard-hitting sport league	nhl	1
+headline cut	nhs national computer	1
+health care identifiers	nhs tracking number in the uk	1
+health program initiative	nh's healthy kids insurance program	1
+health service observer	nhs alliance chief executive michael sobanja	1
+health-delivery system	nhs in the uk	1
+heavily oversampled design	nhanes iii	1
+heavy user ofpublic service	nhs	1
+hindu institute	nhsf	1
+home warranty provider	nhbc building control services limited	1
+horticulture organization	nhs	1
+hot liquid chemical	nh four oh 	1
+housing counseling agency	nhs of chicago	1
+hydrogen bearing gas	nh  three 	1
+hydro-philicfunctional group	nh  two 	1
+group	nhs mental health service	1
+group	nhs clinical staff	1
+group	nhs employers	1
+group	nhf	1
+group	nhill men's shed	1
+information governance benchmarking tool	nhs information governance tool	1
+japanese TV broadcast medium house	nhk	1
+japanese TV network	nhk	1
+K2 medium server	nh ftp server	1
+key administration role	nhli's research managers	1
+large national health survey	nhanes	1
+large population-based database	nhanes	1
+large-scale NHS IT project	nhsnet	1
+largest, highest-producing housing rehabilitators	nhs of new york city	1
+lethargic painkiller	nhf	1
+light mass pyramidal molecule	nh  three 	1
+local health information resource	nhs direct	1
+local public sector partner	nhs bath & north east somerset	1
+lorraine denoris national change	nhs transition management saving	1
+lsassitwithin strategic organization	nhs authority	1
+lysosomotrophic agent	nh four cl 	2
+mcfarlane release	nhl twenty-three  with luke schenn 	1
+medium-sized naval helicopter	nhi nh ninety 	1
+membrane-permeant protonated weak base	nh  four  cl 	1
+migratory workplace	nhs	1
+modem helicopter	nh ninety 	1
+multi-offerings sport package	nhl center ice	1
+national benchmarking instrument	nhs staff survey	1
+national GP organization	nhs alliance	1
+national health system	nhs	1
+national screening programme	nhs fasp	1
+NCHS datum set	nhanes	1
+NCHS survey	nhanes	1
+NHS authority	nhs brent	1
+NHS national information service	nhs inform	1
+NHS reform pcts	nhs worcestershire	1
+nitrogen radical	nh  two 	1
+nitrogen-bearing gaseous species	nh three 	1
+non-governmental observer delegation	nhf	1
+non-IGCC service	nh three  production 	1
+non-ionisable group	nh three 	1
+group	nhs liaison	1
+group	nhtsa	1
+group	nh  two 	1
+group	nh  four 	1
+method	nhrp	1
+method	nh.sub. three  thermal nitridation 	1
+notremovednutrients	nh  three 	1
+notrogenous group	nh two 	1
+nurse-led initiative	nhs direct	1
+obesity q population study	nhanes	2
+object relation mapper	nhibernate	1
+object relational mapper framework	nhibernate	1
+Option B	nh four f containing ionic bond 	1
+ORM s	nhibernate	1
+parallel compound	nh . sub . three 	1
+personalized NFL jersey	nhl nba	1
+Phone helplines	nhs direct	1
+playoff series	nhl	1
+political gangster	nho gil-sang	1
+population-based serologic survey	nhanes	1
+positive charged ion	nh  four 	1
+power management program	nhc	1
+practice abase	nh  three  oh 	1
+professional contact sport league	nhl	1
+pseudonymisation process identifiable datum item	nhs number	1
+public sector call centre	nhs direct	1
+public sector pension	nhs	1
+Public Service Organisations	nhs cumbria	1
+publicly funded health service	nhs	1
+remarkable online gallery www	nhk symphony orchestra	1
+response t o new craft	nh- ninety  coming onto the market 	1
+retail CPU cooler	nh-u twelve p se one thousand three hundred and sixty-six  for lga one thousand three hundred and sixty-six  mainboards without backplate 	1
+revenue professional sport league	nhl	1
+salary-related scheme	nhs pension scheme	3
+scene-setting policy document	nhs plan	1
+season petro oil	nh f two hundred 	1
+second, statute	nhpa	1
+second-level cluster variable	nhis segment	1
+method	nh  three  thermal nitridation 	1
+small predissociative molecule	nh three 	1
+so-called protected area	nhs	1
+so-called ring fenced service	nhs	2
+soluble nr gas	nh three 	2
+sophisticated application layer framework	nhibernate	1
+sought-after game	nhl powershot hockey	1
+standard precursor	nh  three 	1
+state sector employer	nhs	1
+state-funded healthcare organization	nhs	1
+state-run health provider	nhs	1
+station side	nhk using pt two 	1
+stellar sport game	nhl  nine 	1
+tar decompose minor compound	nh  three 	1
+telephone advice initiative	nhs direct	1
+terrible plan	nhs reform	1
+test agency	nhtsa	1
+third-party ORMs	nhibernate	1
+time noxious gas	nh  three 	1
+top beach spot	nha trang	1
+totally taxation funded system	nhs	1
+traditional hot rodding event	nhra's hot rod reunions	1
+translatinganthropometricrelationsacrossdatabases most anthropometric database	nhanes	1
+unified healthcare system	nhs	1
+universal and budget limited system	nhs	1
+vibrant, diverse melodrama	nhl playoffs	1
+tool	nhibernate	3
+vietnamese piano music sheet	nha toi	1
+vital capital project	nh- ninety  helicopter procurement program 	1
+wafer pre-treatment procedure	nh  four  f-dip 	1
+workforce target	nhs plan	1
+tool	nhs better care	1
+tool	nhc forecast track cone of uncertainty	1
+tool	nhibernate profiler	1
+tool	nhtsa's traditional screening tool	1
+project	nhs database	2
+project	nhibernate	1
+project	nhmrc nutrient reference values website	1
+project	nhl flagship store	1
+project	nhs spine bid with bt syntegra	1
+project	nh ninety  helicopter 	1
+material	nh  four  oh 	1
+material	nh four oh 	1
+place	nhs	2
+player	nhl great bobby orr	1
+player	nhlanhla shabalala	1
+player	nhl's quickest player	1
+technology	nhibernate	4
+parameter	nh  four 	2
+parameter	nh three 	2
+parameter	nh four 	2
+parameter	nh three -n 	1
+system	nhs	7
+system	nhs direct in the uk	1
+system	nhs direct play safe	1
+system	nhs payment system	1
+system	nhs direct in the united kingdom	1
+species	nh  three 	2
+species	nh three 	1
+species	nhp for restraint	1
+measure	nhs reform in england	1
+measure	nhs direct  twenty-four -hour telephone advice line 	1
+measure	nhp	1
+condition	nh	1
+product	nhs comparators	1
+product	nh tack	1
+product	nh  three 	1
+brand	nht	3
+brand	nht s	1
+concept	nhs	1
+component	nh three 	2
+component	nh  three 	2
+site	nhs direct	3
+site	nhs choices	2
+site	nhs electronic patient record site	1
+site	nhl's	1
+site	nhs direct for further detailed advice	1

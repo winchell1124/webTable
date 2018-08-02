@@ -1,0 +1,2506 @@
+product	tsintao beer	1
+product	tsw cadwell gunmetal wheel	1
+product	tsw zolder hypersilver wheel	1
+product	tsrf with lexan body	1
+product	tsi's  five thousand two hundred 	1
+initiative	tsebo workshop	1
+accessory	tsx performance accessory	1
+datum	tsrs	1
+facility	tslf	2
+facility	tsukamoto public safety building	1
+facility	tst long-term care facility	1
+facility	tsd	1
+process	tsunami	3
+process	tsa	2
+process	tsunami generation	1
+source	tss	6
+source	tshwane university of technology's library	1
+benefit	tsa match	1
+game	tsaesci	1
+game	tsukihime	1
+subject	tsa	1
+subject	tshivenda hl	1
+ophthalmologist	tsuyoshi yamashita	1
+exception	ts maximum drawdown	1
+exception	tsingtao beer	1
+reason	tsunami	1
+character	tsunade	5
+character	tsukiko sagi	1
+character	tsumemon	1
+character	tsu'tey the future tribe leader	1
+character	tsuzuki	1
+work	tsene rene	1
+work	tsubasa chronicle	1
+model	tsx	2
+model	ts one 	1
+model	tseng labs et six thousand  	1
+model	tsay	1
+model	tse cellular model	1
+model	tsk fuzzy model	1
+word	tsunami	5
+word	tsundere	1
+attraction	tsitsikamma section of the garden route national park	1
+attraction	tsing-ma bridge	1
+attraction	tsarevets hill archaeological reserve	1
+situation	tsunami	5
+situation	tsunamis requiring evacuation	1
+skill	tsubame gaeshi	1
+institution	tshwane university of technology	2
+institution	tsa aviation security lab	2
+institution	tsa	1
+institution	tsinghua university school of law	1
+institution	tsinghua university	1
+change	tsa	1
+client	tsc stores	1
+client	tsys	1
+client	tsn	1
+document	ts base	1
+author	tsai	1
+author	tsuru	1
+author	ts eliot	1
+author	tsuneo watanabe	1
+strategy	tsm improvement	1
+person	tshepo mokibe	1
+person	tsawwassen first nation elder ruth adams	1
+person	tsukiko	1
+idea	tshirts	1
+alternative	tsearch	1
+effect	tsunami	5
+agency	tsa	7
+object	tsuba	1
+course	tsukuba circuit	1
+course	tshwane north college course	1
+location	tsing tao	1
+writer	ts eliot	4
+writer	tsvetaeva	1
+writer	tsirkas	1
+writer	tsui yut cun	1
+writer	ts elliot	1
+writer	tsugumi ohba	1
+solution	tsp	2
+feature	tstv	2
+feature	tsp-provided conference service	1
+feature	tsw wheels	1
+feature	tswaponghill range	1
+feature	tsunami sea	1
+feature	tsunami hazard feature	1
+feature	tsr's technologically-advanced  feature	1
+feature	tsp esp intelligent braking	1
+feature	tsr- six  transformer starting relay 	1
+book	tsar	1
+structure	tsunami control structure	1
+film	tsotsi	2
+business	tsinghua tongfang	1
+business	tsunami sushi	1
+business	tsunami	1
+field	tsentralnaya in  five hundred  m of water 	1
+field	tsys	1
+procedure	tsap	1
+procedure	tsa safety procedure	1
+procedure	tsh test	1
+band	tsol	3
+band	tsol in the southern portion of california	1
+part	tsetserleg soum of khovsgol province in the north	1
+school	tsinghua university	2
+school	tsinghua	2
+school	tsinghua university in china	1
+school	tseretse khama	1
+school	ts ao-tung school	1
+amenity	tsb commercial center	1
+food	tsukimi burger with a fried egg	1
+title	ts three   three d 	1
+title	tsar	1
+ingredient	tsp	1
+operation	tsa	1
+plant	tsuga	1
+plant	tsuchiura plant	1
+agent	tsp mashed peppercorn	1
+agent	tsh	1
+circumstance	tsunami	3
+circumstance	tsunami disaster in japan	1
+scholar	tsai	1
+scholar	tsuneishi keiichi in japan	1
+scholar	tsering shakya	1
+feature	tsx support	1
+development	tsukuba science city	1
+type	tshirt	1
+type	tsuboi	1
+type	ts one 	1
+city	tshwane	7
+city	tsuen wan	3
+city	tsingtau	1
+disease	tswv	2
+venue	tsongas arena	1
+venue	tsa committee meeting	1
+venue	tsuen wan	1
+town	tsitsikamma	1
+town	tsumeb	1
+firm	tsmc	2
+firm	tsc	1
+firm	tschumi associates	1
+firm	tsutaya online	1
+challenge	tserko ri	1
+challenge	tsunami	1
+requirement	tsb	1
+job	tshirt design	1
+dish	tsukume nabe	1
+test	tsh	2
+test	tsh help in reaching a diagnosis	1
+test	tsh stimulation test	1
+indicator	tss	1
+favorite	tsumeb	1
+manufacturer	tsmc	2
+manufacturer	tsst	1
+instrument	tsi aerodynamic particle sizer	1
+feature	tsissa tnemgesitlum trip planning	1
+feature	tsig support	1
+setting	tsr's previous setting	1
+setting	ts gateway server	1
+setting	tsavo	1
+study	tse	2
+study	tse et al.	1
+study	tsb report of a safety study on vfr flight into adverse weather	1
+study	tsao & yang	1
+study	tsouand smith	1
+position	tsx venture-listed junior gold producer	1
+individual	tsar nicholas	1
+figure	tsongkhapa	1
+unit	tst switch unit	1
+basic	tshirt with a crewneck	1
+basic	tshirts	1
+leader	tseng kuo-fan	1
+musician	tshepo tshola	2
+movie	tsotsi	1
+cause	tsunami relief fund	2
+cause	tsunami in japan	1
+song	tsugunai no uta	1
+team	tsukuba shuuei	1
+team	tsv  one thousand eight hundred and sixty  munich 	1
+team	tsf	1
+substance	tsp	1
+entity	tss	1
+building	tsb	1
+phenomenon	tsunami	12
+researcher	tse	2
+researcher	tsay	1
+researcher	tsuda	1
+researcher	tssg's mosley	1
+researcher	tsui	1
+region	tsunami-affected andaman	1
+region	tsim sha tsui	1
+region	tsagaan gol basin	1
+concern	tsunami	1
+purpose	tsunami modeling	1
+variety	tsu li	1
+Organisations	tsa	1
+partner	tsing-tao beer	1
+animal	tsessebe	3
+animal	tse tse fly	1
+big name	tsunami bomb	1
+standard	tsql	1
+classic	tsukune	1
+show	tsukuyomi	1
+role	tsuneo mori in united red army	4
+club	tsv havelse	1
+influence	tsunami	2
+influence	tsol	1
+environmental factor	tsunami	1
+market	tsx	2
+customer	tsmc	2
+customer	tsmc's chip-designing customer	1
+vehicle	tsunami tank	1
+intervention	tsetse trap	2
+incentive	tshirts	1
+incentive	tsa opportunity	1
+label	tsuba	3
+label	tsubi	1
+department	tshwane metro police	2
+issue	tsunami	2
+issue	tsql compatibility	2
+external factor	tsunami in japan	1
+designer	tsumori chisato	1
+designer	tsubi	1
+award	tsubouchi shoyo award	1
+restaurant	tsuruya japanese	1
+software	tsoft for tidal data processing	1
+student	tshepo mphuthi	1
+module	tsk	1
+provider	tsn	1
+top quality inn	tsars village	1
+retailer	tsc	1
+destination	tsb arena	1
+party	tsc	1
+party	tsomet	1
+protein	tsp one  in long bone 	1
+protein	tspo	1
+protein	tsh receptor	1
+protein	tsb from solanum lycopersicum	1
+machine	tsa line by nigel brown	1
+occasion	tsunami	2
+occasion	tshechu	1
+occasion	tsog offering	1
+occasion	tsetchu in december	1
+occasion	tsuchida's walk with yamamoto	1
+competitor	tsmc	2
+competitor	tsunami japanese steakhouse	1
+district	tsim sha tsui	1
+district	tsholotsho	1
+gift	tshirts	1
+constraint	tse tse fly infestation	1
+performer	tsianina redfeather blackstone	2
+performer	tseten dorji	1
+issue	tsedaka	1
+stakeholder	tsb	1
+brand name	tsd	1
+brand name	tsing tao beer	1
+experience	tsunami	1
+corporation	tsmc	7
+possibility	tsing yi	1
+weapon	tsunami edge	1
+journal	tsw urology	1
+local tourist attraction	tss earnslaw steamship	2
+local tourist attraction	tsukiji fish market	2
+local tourist attraction	tsim sha tsui clock tower	1
+language	tswana	3
+language	tshivenda	2
+language	tsou	1
+language	tsonga	1
+image	tschumi's conceptual drawing	1
+neighborhood	tsur baher	1
+line	tsuyama	1
+line	tsumori chisato	1
+package	tssop	2
+package	tsop	2
+package	tssop type	1
+package	tsp	1
+producer	tso jun hung	1
+producer	tswana pride	1
+landmark	tsuchiura first junior high school	1
+hotel	tsokkos beach	1
+principle	tseitin tautology	2
+incident	tsunami	6
+incident	tsunami on american samoa	1
+incident	tsunami of indonesia	1
+incident	tsunami appeals	1
+series	ts thirteen d cd thirteen l extra long life screw type electrolytic capacitor 	1
+series	tsubasa reservoir chronicle	1
+driver	tsuchiya	1
+university	tsinghua university	15
+university	tsinghua	5
+university	tsinghua in beijing	3
+university	tsinghua university in beijing	1
+university	tstc	1
+university	tsinghua university in china	1
+friend	tsukino usagi	1
+statistic	tssandvolume efficiency	1
+statistic	ts packet error rate	1
+file	ts sequence file	1
+tourist attraction	tsing ma bridge	1
+tourist attraction	tsukiji fish market	1
+measurement	tss	2
+tree	tsuga	1
+tree	tsuga canadensis	1
+offering	tsukihoshi children shoe	1
+issue	tss	1
+track	tsukuba circuit	1
+supplier	tsmc	2
+supplier	tsk products	1
+composer	tsukasa	1
+composer	tsvetan tsvetanov	1
+bank	tsb	2
+village	tsepelovo	2
+village	tsagarada	2
+village	tsau	1
+village	tshabong	1
+top brand	ts performance	1
+hazard	tsunami	34
+historian	tsuyoshi hasegawa	1
+molecule	tsh receptor	1
+crop	tsb	1
+plan	tsa plan	1
+sensor	tsl two hundred and thirty  sensor 	8
+network	tsn	2
+network	tsunami warning	1
+station	tsw	1
+station	ts three 	1
+singer	tsunami new singer	1
+upgrade	tsx exhaust cam	1
+medium	tsa	3
+medium	tsn	1
+medium	tsa art	1
+medium	tsb	1
+athlete	tsegaye kebede	1
+force	tsunami of browser-based application	1
+force	tsunami	1
+toy	tsx trains	1
+apps	ts three 	1
+authority	tsca	1
+guy	tsuyoshi kohsaka	2
+guy	tsuchiyama yoshiki	1
+stock	tsmc	1
+account	tsb	1
+large company	tsmc	1
+supplement	tsr's excellent supplement	1
+paper	tsuji et al	2
+input	tstm	1
+prize	tshirts for the best one day without shoes banner	1
+park	tsavo	2
+park	tsavo in kenya	1
+park	tsavo national park	1
+factor	tsunami source region	2
+factor	tsunami	2
+factor	tsunami in asia	1
+factor	tsunami in japan	1
+issue	tspe application	1
+college	tsinghua university	1
+college	tshwane north	1
+director	tsui hark	5
+director	tsu tseng hung	1
+NGOs	tsao foundation in singapore	1
+resort	tsilivi	1
+forum	tsg forum	1
+government agency	tsa	2
+notion	tscs andtscmsforthe purpose of dimension reduction intime series	1
+gene	tspan thirteen 	1
+gene	tsp one 	1
+gene	tsh receptor gene	1
+society	tsarist russia	1
+keyword	tsuchiura	2
+keyword	tsukuba university	2
+keyword	tsuruoka	2
+keyword	tsukuba	2
+keyword	tsunami	2
+charity	tsunami relief fund	4
+page	tsunayoshi sawada	1
+poet	ts eliot	1
+phrase	ts'un ch'i hsin	1
+threat	tsunami	4
+genre	tswana pop	1
+commentator	tsx group	1
+cell	tsc tumor cell	1
+index	tsx	1
+outlet	tsn	1
+specialist	tseng	1
+regulation	tsca	2
+enterprise	tsingtao beer	1
+contaminant	tss	1
+marker	tsg one hundred and one 	2
+local business	ts tech	1
+local business	ts tech of boaz	1
+programme	tsb innovation platforms	1
+insect	tsetse fly	4
+insect	tsetsefly	1
+insect	tsetse	1
+issue	tsa	1
+issue	tsawwassen treaty	1
+investor	tsc ventures	1
+mediums	tsh for doing thyroid function testing	1
+aircraft	tsr two 	1
+aircraft	tsr- two 	1
+establishment	tschuggen grand hotel in arosa	1
+emergency	tsunami	11
+emergency	tsunami disaster	2
+contemporary	ts'ui po	1
+mineral	tsumebite	1
+pioneer	tsai horng chong	1
+family	tsui	1
+family	tsiklon	1
+worker	tsai	1
+support	tss support carriage	1
+face	tsukamoto takashi	1
+assignment	tst system technician	1
+municipality	tsawwassen	2
+municipality	tshwane	2
+municipality	tsukuba city in ibaraki prefecture	1
+appetizer	tsatsiki	1
+participant	tskb real estate appraisal	1
+suburb	tseung kwan o	1
+staple	tsampa	2
+tribe	tsimshian	2
+tribe	tswana on the periphery of the kalahari	1
+tribe	tsohom djapa of the javari valley	1
+tribe	tsou	1
+tribe	tsartlip	1
+beach	tsilivi	1
+official	tseng chi-tse	1
+official	ts en ch un-hsuan	1
+master	tsubaki	1
+disaster	tsunami	152
+disaster	tsunami in asia	5
+disaster	tsunami in indonesia	3
+disaster	tsunami in japan	3
+disaster	tsunami of  two thousand and four 	2
+disaster	tsunami devastation in thailand	1
+disaster	tsunami last december	1
+play	tsodzo's babamunini francis	1
+inhibitor	tsa	1
+engine	tsi turbo petrol engine	1
+lake	tsagan-khak	1
+lake	tsomoriri lake	1
+genus	tsuga	1
+tenant	tsunami grill	1
+tenant	tsunami sushi bar & grill	1
+item	tshirts	13
+item	tshirt product	2
+item	tsa regulation	1
+predator	tsor-shotak lizard	1
+publisher	tsr inc.	1
+technological advance	tss t three 	1
+opponent	tsai ing-wen	1
+opponent	tsukimiya ayu	1
+opponent	tsoo sorcerers	1
+art	tsd	1
+preventive measure	tsa strip search	1
+message	tsunami	5
+pollutant	tss	5
+nice feature	ts gateway	1
+big company	tsmc	1
+local company	tsingtao brewery	4
+local company	tsc insurance	1
+local company	ts manufacturing	1
+interface	tsapi	3
+software program	tsd rental management software	1
+pest	tsetse fly	2
+peripheral	tsc two thousand and seven  touchscreen controller 	1
+famous artist	tschechow	1
+disturbance	tsunami	3
+ethnic group	tswana	5
+ethnic group	tshokwe	1
+certification	ts sixteen thousand nine hundred and fourty-nine 	2
+donation	tschanda bosnia	1
+donation	tschanda africa	1
+donation	tschanda for tsunami victim	1
+constituent	tss	2
+historical figure	tsar alexander i	1
+historical figure	tsarina alexandra	1
+historical figure	tsar samuil	1
+order	tsd tettg been unknown in the frank empire	1
+province	tsunami affected province	1
+medium outlet	tssd news	1
+medium outlet	tsu meter	1
+rare species	tsessebe	2
+info	tsb	1
+renowned artist	tsegazeab gebreselassie	1
+activist	tsakhiagiyn elbegdorj	1
+composition	tschaikowsky's nutcracker suite	1
+blogs	tsunami helpwiki	1
+natural disaster	tsunami	378
+natural disaster	tsunami in japan	12
+natural disaster	tsunami in asia	10
+natural disaster	tsunami in the indian ocean	6
+natural disaster	tsunami in indonesia	4
+natural disaster	tsumani	2
+natural disaster	tsunami in malaysia	1
+natural disaster	tsunami of  two thousand and four 	1
+natural disaster	tsunamis-hit in asia earthquake	1
+beverage	tsipouro	1
+educational institution	tsinghua university of china	1
+educational institution	tswane university of technology	1
+promotional item	tshirts	2
+national act	tsol	1
+specialty service	tsn	2
+basic item	tshirts	1
+quality product	tsg cabinetry	1
+key word	tsunami	1
+tree species	tsuga mertensiana	1
+tree species	tsuga heterophylla	1
+crisis	tsunami	8
+crisis	tsunami of the south pacific	1
+crisis	tsunami disaster	1
+fitting	tsuba	1
+fitting	tsuka	1
+endangered species	tsukinowaguma bear	1
+contract	tse's mini  ten  year jgb futures 	1
+filmmaker	tsai ming-liang	4
+filmmaker	tsui hark	4
+toxin	tsst- one 	1
+common name	tsoi sum	1
+software application	tsm	3
+external force	tsunamis disturbing the equilibrium of the water surface	1
+external force	tsu namis disturbing the equilibrium of the watersurface	1
+item	tsa-tsas	1
+place name	tschagguns	1
+common species	tsessebe	1
+sensitive area	tsalka	2
+popular destination	tshani	1
+identifiers	tsid	2
+identifiers	tsa for person	1
+infrastructure project	tsinghai-tibet railroad	1
+infrastructure project	tsunami warning system	1
+beer	tsingtao from china	3
+beer	tsingtao	2
+garment	tshirts	2
+emergency situation	tsunami	7
+zone	tsunami danger zone	1
+federal agency	tsa	3
+government	tsarist russia	1
+large event	tsunami	2
+column	tsk-gel supermultiporehz semim icro gpc column	1
+column	tsk-gel supermultiporehz semi-micro gpc column	1
+column	tskgel supermultiporehz semi- micro gpc column	1
+global issue	tsunami	1
+moment	tshalabala's opening goal of the tournament for south africa	1
+stones	tsavorite	2
+studio	tsuburaya	1
+statute	tsca	4
+public area	tsim sha tsui promenade	1
+multinational	ts chemicals of uk	1
+gem	tsavorite garnet	2
+item	tsukune	1
+item	tsw jarama hypersilver wheel	1
+item	tsw snetterton chrome wheel	1
+item	tshirts . hoodies . magnet board	1
+ally	tsukuyomi	1
+department store	tsum for souvenir	1
+performance accessory	tsx performance accessory	1
+semiconductor device	tsop	1
+small area	tsugaru	1
+tributary	tsui	1
+writing	tsi-tsi dangarembga's writing	1
+surprise	tsunami in japan	1
+definition	tsunami height	1
+promotional material	tshirts	1
+natural phenomenon	tsunami	16
+natural process	tsunami	6
+designer brand	tsumori chisato	1
+pro	tsquared	2
+international event	tsunami	1
+public figure	tsc board of trustee members francisco kiko rendon	1
+minority	tswana	3
+market leader	tsann kuen trans-nation group	1
+battle	tsushima strait	2
+battle	tsushima staits	1
+natural source	tsunami	1
+musical instrument	tsungi horn	1
+musical instrument	tsonga a horn	1
+musical instrument	tsymbaly	1
+weather condition	tsunami	1
+cytokines	tslp	1
+subsidiary	tsingtao kameda	1
+limit	tsb bank contents	1
+memorabilia	tshirts	1
+national park	tsavo	1
+peoples	tswana	1
+local product	tsipouro	1
+accomplishment	tsunami relief	1
+area	tsuen wan	2
+area	tsim sha tsui	1
+area	tsim sha tsui in kowloon	1
+area	tso moriri	1
+area	tsitsikamma national park	1
+area	tsuen wan bay	1
+area	tsumeb	1
+external event	tsunami	3
+operational issue	tsp coordination with local municipality	1
+environmental change	tsunami	2
+endeavor	tsuyoshi's solo project	1
+occurrence	tsunami	3
+tragedy	tsunami	7
+tragedy	tsunami in japan	4
+tragedy	tsunami in asia	1
+villain	tsarmina greeneyes	1
+catastrophic event	tsunami	27
+catastrophic event	tsunami of recent year	1
+mountain	tsinling mountains	1
+regulatory agency	tsa	1
+formula	tsukasa	1
+management system	ts sixteen thousand nine hundred and fourty-nine 	2
+american company	tsar nicoulai	1
+unexpected event	tsunami impact on the global supply chain	1
+announcement	tsunami warnings	1
+key technology	tsv fabrication	1
+popular area	tsukiji fish market	3
+popular area	tsim sha tsui	1
+broadcaster	tsn	1
+government organization	tsb	1
+explorer	tschudi	1
+exchange	tse	1
+international standard	ts sixteen thousand nine hundred and fourty-nine 	1
+international standard	ts sixteen thousand nine hundred and fourty-nine  standard 	1
+blood test	tsh thyroid	2
+blood test	tsh t three  t four  free t three 	1
+blood test	tsh	1
+blood test	tsh thyroid test	1
+rock band	tsol	1
+best brand	tsd	1
+secondary effect	tsunami	3
+training course	tsinghua-thomson reuters global journalism programme	1
+environmental parameter	tss	7
+investigator	tsung y lin	1
+unforeseen event	tsunami	1
+area	tsawwassen	1
+area	tsavo west national park	1
+area	tsetse fly infested area	1
+great band	tsol	1
+shopping center	tsum	1
+tourist area	tsim sha tsui	1
+natural event	tsunami	28
+cleaner	tsp	2
+natural attraction	tsitsikamma national park	1
+normal activity	tsd rally	1
+famous sight	tsarskoye selo	1
+traditional instrument	tsuzumi	1
+certificate	ts sixteen thousand nine hundred and fourty-nine 	1
+home	tsai house	1
+ruler	tsar alexander	2
+reserve	tsavo east national park	1
+textile	tshirts	1
+translation	tsukihime	1
+merchandise	tsutaya bag	2
+environmental hazard	tsunamis triggered by earthquake	1
+environmental hazard	tsunami	1
+large mammal	tsessebe	1
+shock	tsunami	2
+shock	tsunami disaster	1
+ring	tshirts decorated with lace	1
+catastrophe	tsunami	9
+catastrophe	tsunami in japan	2
+catastrophe	tsunami in papua new guinea	1
+catastrophe	tsunami in the indian ocean	1
+basic parameter	tss	2
+government entity	tsa	1
+migrant	tsui	1
+holding	tsmc	1
+area	tseung kwan o	1
+area	tsavo	1
+area	tsootsha	1
+area	tsinandali	1
+area	tsing yi	1
+big star	tshepo tshola	1
+extreme circumstance	tsunami	1
+severe case	tsunami	1
+world event	tsunami	4
+world event	tsunami in japan	2
+world event	tsunami off aceh	1
+blockbuster	tsui hark's flying swords of dragon gate''	1
+non-profit group	tsao foundation	1
+setback	tsunami	1
+law enforcement agency	tsa	2
+good player	tsonga	1
+fly	tsetse fly	1
+vector	tsetse fly	2
+fertilizer	tsp	12
+extreme event	tsunami	8
+quality parameter	tss	2
+designer label	tse	1
+medium source	tsn	1
+organic	tsca-listed pcbs	1
+dialect	tsotsitaal	1
+dialect	tshiluba	1
+famous company	tsinghua tongfang	1
+famous company	tsinghua unisplendour co.	1
+natural hazard	tsunami	68
+natural hazard	tsumani	1
+rarity	tsubugai	1
+benchmark	tse  three hundred  composite index 	1
+gemstone	tsavorite garnet	1
+gemstone	tsavorites	1
+anime	tsubasa	2
+rare item	tshirts	1
+thread	tsunade	1
+air pollutant	tsp	1
+control parameter	tss	1
+detergent	tsp	2
+textbook	tsuzoku rinri dan	1
+industrial area	tsuen wan	2
+evil	tsunami	1
+local club	tsv havelse	2
+shopping area	tsim sha tsui	1
+high-end brand	tsingtao	2
+area	tshabong	1
+area	tsau	1
+area	tsar bell	1
+bridge	tsurumi	1
+local name	tsigane	4
+climatic factor	tsunami	1
+genetic disease	tsd	1
+global challenge	tsunami	2
+national institution	tsinghua university's global climate change institute	1
+national institution	tsar	1
+giveaway	tshirts	1
+physical item	tshirts	1
+regular item	tsa's forthcoming conference	1
+global event	tsunami	1
+memento	tshirt	1
+weapon system	tsr- two  aircraft 	1
+opera	tsar's bride	2
+viral disease	tswv	1
+japanese company	tsutsumi jewelry	2
+japanese company	tsukishima kikai	1
+spring	tsagaan khundii	1
+fashion brand	tsubo	2
+typical application	tsp	1
+large chain	tsutaya	1
+environmentally sensitive area	tsunami zone	2
+extreme weather condition	tsunami	2
+water quality parameter	tss	5
+technical solution	ts gateway	1
+extreme weather event	tsunami	3
+extreme weather event	tsunami in japan	1
+great master	tsele natsok rangdrol	1
+natural force	tsunami	2
+natural force	tsunami's	1
+natural force	tsunami of  two thousand and four  strike 	1
+rare condition	tsh secreting pituitary tumor	1
+pundit	tsn insider bob mckenzie	1
+conifer	tsuga canadensis	2
+international project	tsunami relief	1
+legendary figure	tsukahara bokuden	8
+neighboring city	tsuchiura	1
+soy product	tsp	1
+large-scale event	tsunami	1
+structural measure	tsunami gate	1
+natural cause	tsunami	1
+unusual event	tsunami	1
+modern writer	ts eliot	1
+alliance	tsoe consortium	1
+big firm	tsmc	1
+monastery	tsarang	1
+monastery	tsemo gompa	1
+education institution	tsinghua university	1
+mechanic	tsuguo kameda	1
+weather event	tsunami	1
+crisis situation	tsunami	2
+calamity	tsunami	21
+necklace	tshirts decorated with lace	1
+descriptive name	tsm scheduler	1
+recruit	tsakani maluleka from atteridgeville	1
+tragic event	tsunami	2
+tragic event	tsunami in japan	1
+cleanser	tsp before sanitizing with iodophor	2
+top school	tsinghua	1
+top school	tsinghua university in beijing	1
+business school	tsinghua	1
+young man	tsiminday wenceslas	1
+arthropod	tsetse fly	1
+core course	tsolaire aghamanoukian's math class	1
+side character	tseng	2
+prestigious school	tsinghua university	2
+rare event	tsunami	1
+service	tss	1
+service	tsp pilot	1
+service	tshirts	1
+dramatic event	tsunami	1
+prestigious university	tsinghua university	1
+brewer	tsingtao brewery company limited	2
+local bank	tsb	1
+one-off event	tsunami in japan	3
+one-off event	tsunami	1
+quality factor	tss	3
+patron	tsar peter the great of russia	1
+epic	tsui hark's seven swords	1
+semi-precious stones	tsavorite	3
+common event	tsunami	1
+priest	tsongas	1
+party leader	tsvangirai's deputy thokozani khupe	2
+disciple	tsk	1
+wheel	tsw	2
+material object	tshibumba's painting	1
+mandate	tsca	1
+physicochemical parameter	tss	2
+crowded place	tsimshatsui ferry pier	1
+extreme	tsunami	1
+public venue	tsakopoulos library galleria in downtown sacramento	1
+converter	tsg incorporated	1
+market player	tsp consultant	1
+medium file	tsvideo	1
+large metropolitan area	tshwane	1
+top university	tsinghua university	3
+top university	tsinghua	2
+public university	tsukuba	1
+open source tool	tsung	1
+timer	tsc- one 	1
+unpredictable event	tsunami	2
+utility program	ts four thousand five hundred ctl 	1
+female artist	tse on kei	1
+service	ts web access	1
+service	tsunami	1
+service	tsapi	1
+service	tshirt design	1
+topic	tsunami	8
+key attraction	tsumeb	1
+key attraction	tsitsikamma nature reserve	1
+traditional indicator	tsi crossover	1
+famous poet	tsvetaeva	1
+good friend	tsubame	1
+peril	tsunami	1
+environmental disaster	tsunami	2
+hill	tsypina hill	1
+household cleaner	tsp	1
+natural occurrence	tsunami	1
+bullet	tsx	1
+credible source	tsn	1
+news event	tsunami	1
+natural calamity	tsunami	19
+apparel	tshirts	1
+famous scientist	tsiolkovsky	2
+famous scientist	tsung-dao lee	1
+extraordinary event	tsunami in japan	1
+specialist company	tss	1
+mining town	tsumeb	1
+physical event	tsunami	3
+environmental risk	tsunami	1
+renowned choreographer	tsai li-hua	1
+great composer	tschaikovsky	1
+great gift idea	tshirts	1
+timely issue	tsunami health-relief effort	1
+vocational program	tso	1
+topic	tsar nicholas ii of russia	1
+tertiary institution	tshwane university of technology	1
+physical measurement	tss	1
+group company	tsubaki emerson gear co.	1
+group company	tsubakimoto sprocket co.	1
+interesting attraction	tsimbazaza zoo	1
+literary great	ts elliot	1
+severe weather condition	tsunami	1
+fantasy book	tsr s endless quest series	1
+literary giant	tsvetaeva	1
+natural catastrophe	tsunami	5
+standard parameter	tss	1
+popular channel	tsitsikamma trail	1
+popular video format	tst- two  hd 	1
+similarity measure	tsallis entropy	1
+young person	tsvangirai mukwazhi	1
+bay	tsagaan ereg	1
+local language	tswana	1
+potter	tsuji seimei	1
+safety procedure	tsa safety procedure	1
+shrine	tsurugaoka hachiman shrine in kamakura	2
+weather phenomenon	tsunami	1
+wild fruit	tsamma	1
+environmental law	tsca	1
+leather item	tsuba	1
+unfortunate event	tsunami	2
+community board	tsa of washington	1
+geological process	tsunami	1
+metro	tshwane	1
+national treasure	tsai	1
+student leader	tsietsi mashini	1
+weather factor	tsunami	2
+id	tsid	1
+meteorological condition	tsunami	1
+sword	tsurugi	1
+topic	tsunami in japan	1
+topic	tsa	1
+funding opportunity	tsus mell initiative funded through the tea	1
+travel accessory	tsa approved locks	1
+travel accessory	tsa-approved security lock	1
+tutor	tsang	1
+big buyer	tsmc	1
+clinical procedure	tsh serum measurement	1
+passive measure	tsunami early warning system	1
+federal government agency	tsa	1
+non-invasive test	tst	1
+casual clothes	tshirts	1
+evergreen plant	tsuga canadensis	1
+measured parameter	tss	1
+sightseeing spot	tsuruoka hachimanguu	1
+unusual activity	tsitsikamma falls zipline	2
+benefactor	tsang family	1
+anime series	tsubasa	1
+control structure	tsunami control structure	1
+grazer	tsessebe	1
+good song	tsunami bomb	1
+hack	tserver	1
+sudden change	tsunami	1
+chinese brand	tsingtao beer	2
+chinese brand	tsingtao	1
+college course	tshwane north college course	1
+cosmetic company	tsumura international in secaucus	1
+warning system	tsunami early warning tower	1
+episodic event	tsunami	2
+cataclysmic event	tsunami	2
+cataclysmic event	tsunami occured by putting stones in the water	1
+local corporation	tsr bina	1
+supplementary datum	ts  one 	1
+supplementary datum	ts  three 	1
+tyrant	tsar alexander ii of russia	1
+topic	tsunamis in history	1
+topic	tsk supply business	1
+language group	tshonga shangana	1
+language group	tsonga	1
+language group	tswana	1
+local municipality	tshwane	1
+OEM part	tsk	1
+stochastic event	tsunami	3
+antelope	tsessebe	3
+financial giant	tsb	1
+sudden event	tsunami	1
+adequate resource	tstsps	1
+incidence	tsunami	1
+MMOs	tsw	1
+touristy area	tsim sha tsui	1
+renowned institution	tsinghua university	1
+basic foodstuff	tsampa	1
+classical work	tsar fyodor	1
+famous historical figure	tsar peter the great	1
+geologic hazard	tsunami	4
+famed artist	tse kwan-ho	1
+amazing player	tsonga	1
+asian language	tsat	1
+helper	tsukasa	1
+datum network	tshe datum network	1
+great brand name	tsunami	1
+quality company	tsurumi	2
+small stream	tsalu	1
+backup system	tsm	1
+character type	tsundere	1
+geologic process	tsunami	1
+chip maker	tsmc	3
+emergency event	tsunami	1
+exceptional event	tsunami	1
+large park	tsavo west in kenya	1
+periodic event	tsunami	1
+seaport	tsingtao	2
+tumor suppressor gene	tsg one hundred and one 	1
+cipher	tsc- three 	3
+cipher	tsc- one 	3
+dictatorship	tsars	1
+rig	ts- two thousand  	1
+conventional parameter	tss	4
+natural threat	tsunami	1
+scale event	tsunami	1
+company	tsmc	16
+company	tsingtao	4
+company	tsb	3
+company	tsc	2
+company	tsa	2
+company	tsinghua tongfang	2
+company	tsingtao beer	1
+company	tsumeb corporation limited	1
+company	tsumura	1
+company	tsingtao brewery	1
+business name	tsn travel	1
+decoder	tsunami oem decoder	1
+environmental catastrophe	tsunami	1
+leading international company	tsmc	1
+secondary event	tsunami	2
+large-scale disaster	tsunami	6
+market index	tse the dow jones industrial average	1
+market index	tsx in canada	1
+market index	tsx	1
+market index	tsx index	1
+crater	tsiolkovsky	1
+educational product	tsunami lesson plan	1
+futurist	tsvi bisk	1
+skilled player	tsonga	1
+adverse circumstance	tsunami	2
+disaster situation	tsunami	5
+disaster situation	tsunami in indonesia	1
+mantra	tsongkapa	1
+moisturizing ingredient	tsubaki oil	1
+renowned university	tsukuba	1
+renowned university	tsinghua university	1
+debugging tool	tso test	2
+geological event	tsunami	4
+geological event	tsunamis in australia	1
+national disaster	tsunami	4
+short-term event	tsunami	1
+academic organization	tsing hua university	1
+crossing	tsagaanuur in western mongolia	1
+fruit characteristic	tss %	1
+traditional risk	tsunami	1
+well-known university	tsinghua university	2
+foundry	tsmc	30
+quirk	tsa confiscating a boy's play-doh in new orleans	1
+salty snack	tsukudani	1
+indigenous community	tsimshian	1
+ornamental shrub	tsaang gubat	1
+security agency	tsa	1
+statistical package	tsp	2
+world-famous brand	tsinghua tongfang	1
+broadcast network	tsv television station	2
+Chipmakers	tsmc	5
+rich medium	tsb	1
+african language	tsonga	2
+african language	tswana	1
+african language	tshivenda	1
+lord	tsugaru nobumasa	1
+model name	tsunami	2
+rare stones	tsavorite	1
+company	tsavo media	1
+famous university	tsinghua university	5
+famous university	tsinghua science park	2
+famous university	tsinghua	2
+industrial group	tsinghua tongfang	1
+natural and man-made disaster	tsunami	2
+severe event	tsunami	1
+environment issue	tsunami	1
+software option	ts packet editor	1
+trope	tsundere	1
+electric product	tsm surface	1
+esteemed artist	tsuyoshi tsutsumi	1
+water quality variable	tss	2
+elite university	tsinghua university	1
+elite university	tsinghua	1
+Native peoples	tsimshian	1
+well-known vendor	tsmc	1
+Colored stones	tsavorite	2
+potential explanatory variable	tss	1
+well-known area	tsim sha tsui	1
+worldwide event	tsunami	1
+blog	tsd	1
+compatriot	tsietsi mashinini	1
+domestic firm	tsingtao beer	1
+company	tsinghua science park	1
+company	tsl	1
+company	tsogo sun	1
+company	tsa rona investments	1
+company	tsc moving	1
+company	tsd	1
+company	tsd tactical	1
+company	tsg group	1
+harmful component	tsna	1
+HDAC inhibitor	tsa	23
+inorganic fertilizer	tsp	1
+qualitative parameter	tss	1
+disastrous event	tsunami	1
+large disaster	tsunami	2
+large scale disaster	tsunami	6
+nonlinear method	tsdand euler equation	1
+secondary hazard	tsunami	3
+specialty channel	tsn	1
+traditional parameter	tss	1
+common parasite	tsetse fly	1
+devastating event	tsunami	1
+leading university	tsinghua	1
+long-term care facility	tst long-term care facility	1
+statistical software package	tsp	1
+taiwanese company	tsmc	1
+anthropometric measure	tsf	2
+geologic event	tsunami	1
+large-scale emergency	tsunami	1
+replica product	tshirt	7
+disparity	tsp for charcoal stove	1
+esteemed organization	tsa	1
+eventuality	tsunami	1
+fashionable item	tshirts	1
+international certification	ts sixteen thousand nine hundred and fourty-nine 	1
+large scale operation	tsunami	1
+natural risk	tsunami	2
+performance product	ts performance	1
+big university	tsinghua	1
+cruise liner	tss normandie	4
+cruise liner	tss model ship discounts	1
+environmental statute	tsca	2
+famous teacher	tsongkhapa	1
+leading-edge company	tsmc	2
+wildlife park	tsavo national park	1
+geological phenomenon	tsunami	4
+ninja	tsunade senju	1
+Rare and threatened species	tsessebe	1
+metal piece	tsuba	1
+resistant cultivars	tsukuba	1
+african musician	tshala muana from the democratic republic of congo	1
+health care entity	tss	2
+small package	tsop	2
+sophisticated market	tsx	1
+coastal process	tsunami	1
+criterion pollutant	tsp	1
+disaster event	tsunami	1
+female name	tsion	1
+reasonable answer	tsunami	1
+standard utility	tso transmit	1
+extreme climatic event	tsunami	1
+premium bullet	tsx	2
+big disaster	tsunami in japan	1
+catastrophic disaster	tsunami	2
+catastrophic disaster	tsunami in indonesia	1
+commercial cleaner	tsp	1
+geohazards	tsunami	4
+histone deacetylase inhibitor	tsa	4
+interesting spot	tsukiji market	1
+seismic event	tsunami	2
+storm event	tsunami	1
+water quality concern	tss	3
+youth leader	tsietsi mashinini	1
+freight company	tsc moviing	1
+gospel group	tshwane gospel choir	1
+factor	tsp- one 	1
+factor	tsunami directionalities	1
+factor	tst	1
+factor	tsunami response	1
+factor	tso	1
+activity	tsechu ceremony	1
+activity	tsm server replacement	1
+activity	tsunami camps cthirasara development foundation	1
+strong cleaner	tsp	1
+structural datum	ts analog	1
+webcomics	tsunami channel	2
+contemporary filmmaker	tsai ming-liang	1
+ecological disaster	tsunami	1
+fringe area	tsim sha tsui	1
+local disaster	tsunami	1
+local system	tsunami warning device	1
+natural or man-made disaster	tsunami	2
+veteran singer	tse suet sum	1
+word category	tswana	1
+aboriginal group	tsilhqot in national government	1
+catastrophic disturbance	tsunami	2
+earth change	tsunami	1
+fast algorithm	tss	1
+geopolitical event	tsunami	1
+mass disaster	tsunami	6
+monumental event	tsunami	1
+natural stress	tsunami	1
+secondary disaster	tsunami	10
+antibody test	tsi	2
+bacterial virulence factor	tsst- one  from staphylococcus aureus 	1
+folk song	tsugaru jongara boshi	1
+functional domain	tsp one 	1
+geological hazard	tsunami	3
+high street bank	tsb	1
+insect vector	tsetse fly	1
+weather hazard	tsunami	1
+budget brand	tsw	1
+complex medium	tsb	2
+ferry	tst-wan chai ferry	1
+global disaster	tsunami across the globe	1
+great park	tsavo east	1
+hazard event	tsunami	1
+natural danger	tsunami	4
+natural evil	tsunami	2
+prestigious customer	tsinghua university	1
+quality certification	ts sixteen thousand nine hundred and fourty-nine 	1
+anniversary gift	tshirts	1
+catastrophic natural event	tsunami	1
+humanitarian effort	tsunami relief	1
+package type	tssop	2
+terrible event	tsunami	2
+wine producer	tsiakkas winery at pelendri village	1
+game park	tsavo east national park	1
+game park	tsavo	1
+heritage	tst clock tower	1
+large-scale natural disaster	tsunami	1
+longer-term effect	tsunami	1
+MAC protocol	tsmp	3
+modernist author	ts eliot	1
+network analyzer	tshark	1
+plant virus	tswv	1
+tragic incident	tsunami	1
+alkaline cleaner	tsp	1
+cataclysm	tsunami	1
+catastrophic weather event	tsunami	1
+extreme natural event	tsunami	2
+famous village	tsagarada	2
+international beer	tsingtao	1
+long-established company	tss aviation	2
+project facility	tsf	1
+quality certificate	tse	1
+weather disaster	tsunami	1
+airsoft gun	tsd	1
+casual item	tshirts	1
+distant destination	tsarskoe selo	1
+give-away item	tshirts	1
+invasive disease	tss	1
+largest event	tsunami	1
+natural disturbance event	tsunami	1
+pressure sensitive adhesive	ts five hundred and twenty-three  adhesive 	1
+regulatory scheme	tsca registration	1
+restaurant owner	tsin	1
+taiwanese firm	tsmc	3
+terrible disaster	tsunami	1
+today name	tsavo	1
+information	tsh level	2
+information	ts map	1
+information	tsunami ray path direction	1
+celebrated brand	tsunami	1
+coastal hazard	tsunami	2
+conservative tracer	tss	1
+Fire-sensitive species	tsuga heterophylla sarg.	1
+Fire-sensitive species	tsugaheterophylla sarg.	1
+high-energy event	tsunami	3
+key tourist destination	tsodilo hills	1
+large natural disaster	tsunami	1
+natural hazard event	tsunami	1
+outsider artist	tsang tsou choi	1
+outstanding scientist	tsiolkovsky	1
+particulate pollutant	tss	1
+particulate pollutant	tsp	1
+pharmacological inhibitor	tsa	2
+twentieth century writer	ts eliot	1
+water quality constituent	tss	1
+fruit quality parameter	tss	1
+geological disaster	tsunami	2
+nobel prize laureate	tsung dao lee	1
+standard performance measure	tsr	3
+strong detergent	tsp	1
+unforeseen disaster	tsunami	1
+vector control measure	tsetse trap	1
+Adipokines	tsp- one 	1
+blood-feeding insect	tsetse fly	2
+exotoxins	tsst- one 	1
+fashion dress	tsumori chisato	1
+intermediate structure	ts one 	1
+international disaster	tsunami	2
+large village	tsangarada	1
+local pollutant	tsp	1
+national broadcaster	tsn in canada	2
+national university	tsinghua university	1
+natural act	tsunami	1
+perennial advertiser	tsl snowshoes	1
+sleep parameter	tst	1
+suitable option	tsoip	1
+tech player	tsmc	1
+throw	tsurikomi goshi	1
+weather disturbance	tsunami	1
+weather related event	tsunami	1
+catastrophic natural disaster	tsunami	3
+church project	tsunami relief	2
+information	tse data shared with the applicant	1
+earth event	tsunami	1
+great american player	tse	1
+hardcore game	tsuki ~ possession	1
+medic	tsunade	1
+natural shock	tsunami	1
+on-line system	tso	1
+suitable site	tsing yi	1
+third party payment	tsea due	1
+traditional hazard	tsunami	1
+windfall	tsar's treasure captured at ohrid	1
+acclaimed movie	tsotsi	1
+chinese university	tsinghua	2
+devastating natural disaster	tsunami	3
+famous gemstone	tsavorite	1
+federal standard	tssds for layer management	1
+hazardous event	tsunami	1
+humanitarian disaster	tsunami	1
+japanese art form	tsuba	2
+microelectronic component	tsop	1
+orthogonal polynomial	tschebysheff	1
+participatory event	tshechu	3
+political situation	tsarist russia	1
+traditional benchmark	tsx composite index for canadian equity	1
+childrens item	tshirts in blue	1
+date topic	tsunami	1
+english romantic poet	ts eliot	2
+fruit character	tss	1
+introduction natural hazard	tsunami	1
+large metro	tshwane	1
+loanword	tsunami	2
+loanword	tsar	2
+merch	tshirts	2
+modernist poet	ts eliot	1
+event	tsunami	89
+event	tsunami in japan	8
+event	tsunami disaster	6
+event	tsunami in indonesia	5
+event	tsunami in asia	4
+event	tsunami in the indian ocean	2
+event	tsunamai in japan	1
+event	tsugaru shamisen all-japan kanagi contest	1
+event	tsunami off indonesia	1
+event	tsuno so-odori parade	1
+event	tsunami in the far east	1
+event	tsunami crises in asia	1
+unexpected shock	tsunami crisis in japan	1
+world-class university	tsinghua university	1
+year natural disaster	tsunami	2
+assay technique	tsh assay technique	1
+cellular model	tse cellular model	1
+disastrous effect	tsunami	1
+earthquake-related hazard	tsunami	2
+fish market	tsukiji	1
+great natural disaster	tsunami	2
+humanitarian mission	tsunami relief	1
+japanese university	tsukuba university	1
+key business destination	tsys	1
+natural damage	tsunami damage	1
+premier university	tsinghua	1
+sedimentary characteristic	tsunamite thickness	2
+settled area	tsartlip	1
+Superantigens	tss toxin- one  made by ca-mrsa usa two hundred  strain 	2
+Superantigens	tsst- one 	1
+typical greek dish	tsoureki	1
+weather related disaster	tsunami	1
+abnormal case	tsunami incident	1
+acura model	tsx	1
+catastrophe event	tsunami	1
+chinese institution	tsinghua university	1
+cyclic process	tsa	2
+distinctive style	tsui hark's intense visual	1
+extreme environmental event	tsunami	1
+failure criterion	tsai-hill criterion	1
+geophysical process	tsunami	1
+key university	tsinghua university	1
+mammalian protein	tsg- six 	1
+matricellular protein	tsp one 	1
+event	tsanami in asia	1
+event	tse of  one thousand nine hundred and ninety-nine 	1
+event	tsd rallies	1
+pump manufacturer	tsurumi	1
+reactive agent	tsa	1
+sometimes natural disaster	tsunami	1
+true scientist	tsiolkovsky	1
+backbone enterprise	tsinghua unisplendour	1
+colonial empire	tsarist russia	1
+common gem	tsavorite garnet	1
+comprehensive university	tsinghua university	1
+devastation	tsunami in indonesia	1
+exotic gemstone	tsavorite	1
+farm store	tsc	2
+farm supply store	tsc	1
+geophysical event	tsunami	1
+green gemstone	tsavorite garnet	1
+green gemstone	tsavorite	1
+HDACIs	tsa	4
+HDACIs	tsa andsaha	1
+high profile disaster	tsunami	2
+legacy component	tsa	1
+long-term cooperative company	tsingtao brewery	1
+lower-fat alternative	tsatsiki	1
+metropolitan council	tshwane	1
+module type	tso clists	1
+native japanese word	tsunami	1
+natural challenge	tsunami	1
+periodic natural disaster	tsunami	1
+prominent national brand	tsunami	2
+regional concern	tsunami	1
+small resort town	tsarevo	1
+smelter	tsumeb	2
+solid constituent	tss	1
+sudden-onset disaster	tsunami	2
+third-party processor	tsys	1
+traditional sponsor	ts mahalingam & sons	1
+true event	tsunami in indonesia	1
+water column parameter	tss	1
+water-related disaster	tsunami	3
+world-famous university	tsinghua university	4
+biggest wine company	tsinandali old cellar	2
+cover area	tseung kwan o	1
+cross-linking protein	tsg- six 	1
+event	tsa backscatter device	1
+ewe group	tsome	2
+external disaster	tsunami	1
+extreme natural phenomenon	tsunami	1
+hazard datum	tsunami evacuation zone	1
+IBM tool	tso	1
+indigenous ethnic group	tsonga	1
+interjection	tsk	1
+key hazard	tsunami	1
+legislative authority	tsca	2
+long-term effort	tsunami response	1
+low probability event	tsunami hazard	1
+natural and manmade disaster	tsunami	1
+natural cataclysm	tsunami	2
+natural environmental event	tsunami	2
+normal site	tsr	1
+oceanic phenomenon	tsunami	1
+physical geography topic	tsunami	1
+powerful tribe	tsou	1
+scientific research organization	tsinghua-zhongda postdoctoral scientific research workstation	1
+souveniers	tshirts	2
+third party processor	tsys	1
+tokyo attraction	tsukiji fish market	1
+tsar	tsarina catherine ii	1
+beautiful colored gemstone	tsavorite	2
+bluechip company	tsb	1
+certified document	ts sixteen thousand nine hundred and fourty-nine 	1
+common medium	tsb	1
+earthly event	tsunami	1
+geo-hazards	tsunami	2
+great thailand related gift	tshirts	1
+HDACi	tsa	2
+insurable event	tsunami	1
+inyanim	tshuvah	1
+key shopping area	tsim sha tsui	1
+local african language	tsonga	2
+multinational software company	tsystems enterprise services gmbh	1
+natural and environmental factor	tsunami	1
+natural crisis	tsunami	2
+natural diasters	tsunami	2
+naturally-occurring event	tsunami	2
+network access server	ts gateway server	1
+program	tsm	2
+program	tsp	2
+program	tsunami rehabilitation programme	1
+program	tsunami rehabilitation scheme	1
+program	tsu's nasa participation in the louis stokes alliance for minority preparation program support undergraduate	1
+program	tshock for spawning item	1
+program	tspat	1
+public health disaster	tsunami	1
+rare antelope	tsessebe	2
+rare semi-precious gemstone	tsavorite	1
+severe challenge	tsunami	1
+student center	tsinghua university	1
+sudden onset disaster	tsunami	1
+switzerland tv channel	tsr  two 	2
+third party API	tsapi	1
+time stamp	ts  twelve thousand three hundred and fourty-five 	1
+top fashion model	tsuchiya anna	1
+unforeseen catastrophe	tsunami	1
+visual novel	tsukihime	1
+Autoantigens	tsh receptor	1
+blood-feeding arthropod	tstetse fly	1
+borderland	tsushima	1
+brooch	tshirts decorated with lace	1
+buddhist ritual	tsampa offering	1
+chinese port	tsingtao	1
+christian related item	tshirts	1
+cyclical market	tsx	1
+destination marketing organization	tshwane tourism information center	1
+earth activity	tsunami	1
+formosan language	tsou	3
+hampshire salt intolerant tree	tsuga canadensis	1
+hematophagous insect	tsetse	1
+histonedeacetylase inhibitor	tsa	1
+huge natural disaster	tsunami	1
+industry specific standard	ts sixteen thousand nine hundred and fourty-nine  for automotive 	1
+key project component	tsca facility with adequate capacity	1
+large foundry	tsmc	2
+large-scale hazard	tsunami	2
+large-scale tragedy	tsunami	1
+modern treaty	tsawwassen final agreement	1
+mountainous figure	ts eliot	1
+national and international issue	tsunami	1
+occasional load	tsunami	1
+odd phenomenon	tsunami	1
+overdrive	ts nine -bb preamp-blood drive 	1
+patrilineal society	tswana in africa	1
+program	ts three 	1
+program	tsr workshop	1
+program	tslf	1
+program	tskuba university in japan	1
+program	tsca new chemicals program	1
+proper part	tsuba	1
+randomly packed special card	tsc matix	1
+rapid onset hazard	tsunami	4
+rare antelope species	tsessebe	2
+record disaster	tsunami	1
+regional hot spot	tsehay's amhara region in ethiopia	1
+russian vehicle	tsyklon	1
+secondary earthquake effect	tsunami	1
+secondary seismic hazard	tsunami	1
+skilled actor	tsutomu yamazaki	1
+water related disaster	tsunami	1
+world-wide event	tsunami	1
+world-wide known brand	tsubaki	1
+analog cable channel	tsn	1
+angiogenic inhibitor	tsp- one 	1
+animation character	tsunade	1
+artifactitious food	tsatsai	1
+authoritarian system	tsars in russia	1
+callsigns	tsa liason	1
+clone brand	tsd	1
+common natural disaster	tsunami	1
+connects2 item	tsunami car audio accessories	1
+creative filmmaker	tsui hark	1
+experimental configuration	tsunami wave basin at oregon state	1
+extreme natural disaster	tsunami	3
+famous ancient physician	tsun simiao	1
+forensic application	tsk	1
+geophysical catastrophe	tsunami	1
+global financial company	tsb	1
+glycoprotein	tshr agonist	1
+government accident investigation organization	tsb of canada	1
+hazard natural phenomenon	tsunami	1
+hong kong brand	tse sui luen	2
+key academic partner	tsinghua university	1
+large emergency	tsunami	1
+leadless package	tssop package	1
+level interface	tsapi	1
+ligases	tsc ligase	2
+community	tsaile cdp	1
+community	tse bonito cdp	1
+community	tsawwassen	1
+community	tswana	1
+manga book	tsubasa reservoir chronicles	1
+mild solution	tsp	1
+natural and man-made calamity	tsunami	1
+natural geological hazard	tsunami	1
+natural hazard area	tsunami zone	1
+natural phenomenons	tsunami	2
+nature hazard	tsunami	1
+oceanic activity	tsunami	1
+onsens	tsuruno-yu	1
+popular ballet	tschajkovskys the sleeping beauty at the leipzig opera	1
+provincial governor	tso tsung-tang	1
+pvd's competitor	tsf	1
+rare gemstone variety	tsavorite garnet	1
+severe weather emergency	tsunami	1
+short-range event	tsunami	1
+sometimes unfamiliar natural hazard	tsunami	1
+sudden-impact natural disaster	tsunami	1
+surface group	tsi-fandt si-o-sif  three 	1
+systronix module	tstik	1
+top chinese university	tsinghua university	4
+traditional emergency	tsunami	1
+unexplainable natural disaster	tsunami	1
+weather warning	tsunami	1
+year geohazards	tsunami	1
+academic community	tsinghua university	1
+accounting study	tsakalotos	1
+advanced process technology	tsmc's  fourty -nm node 	1
+adverse natural event	tsunami	1
+altitude place	tsedang	1
+Anime-Style MMORPGs	ts online	2
+baby bunny gift	tshirts	1
+best-known national park	tsavo	1
+bhutanese movie	tshering meto	1
+cataclysmic natural disaster	tsunami	1
+circuit package	tsop	1
+coastal event	tsunami	1
+commercial and trusted foundry	tsmc	1
+complex U.S. federal environmental law	tsca	1
+county code	ts for tipperary south	1
+factor	tsar's poor management	1
+factor	tse strainspecific cell targeting	1
+factor	tslm in the regression model	1
+factor	tss	1
+community	tsilhqot'in first nation	1
+detergent cleaner	tsp substitute	2
+detergent cleaner	tsp solution	1
+detergent cleaner	tsp	1
+DHS component	tsa	2
+disastrous circumstance	tsunami	1
+discussion natural disaster	tsunami	1
+domestically renowned enterprise	tsingtao beer	2
+dramatic risk	tsunami	1
+emergency setting	tsunami-affected india	2
+famous domestic university	tsinghua university	1
+federal and state enforcement matter	tsca consent order	1
+Geo-hazards Geo-hazards	tsunami	1
+geologic disaster	tsunami	1
+geological, hydrological and meteorological event	tsunami	1
+geologically-induced hazard	tsunami	1
+geophysical disaster	tsunami	2
+global geological and atmospheric hazard	tsunami	1
+grave disasters	tsunami	1
+home medical service	tsao foundation's hua mei mobile clinic	1
+hong kong director	tsui hark	4
+industry quality standard	ts sixteen thousand nine hundred and fourty-nine 	1
+industry-leading supplier	tsmc	2
+infrequent catastrophic event	tsunami	1
+japanese traditional instrument	tsuzumi drum	1
+man-made or natural disaster	tsunami	1
+mega-disaster	tsunami	2
+mega-disasters	tsunami	1
+minor battle	tsukioka tsunan	1
+multimers	tsa one  form multimers 	1
+mythos element	tsathogghua	1
+national agenda	tsa national conversation through innovative	1
+nature's handiwork	tsunami	1
+NPPs	tsuruga	1
+ofdisasters	tsunami	1
+onsite safety activity	tsa's	1
+organism-level endpoint major EPA statute	tsca	1
+overdrive pedal	ts- nine  into a rat 	1
+polytechnic university	tsinghua	1
+popular shrine	tsurugaoka hachiman in kamakura	1
+powerful earth shift	tsunami	1
+real-deal course	tsukuba circuit	1
+regional research institution	tskuba science city	1
+organization	tsa	2
+organization	tswg	2
+organization	tsec	1
+short-term fluctuation	tsunami	1
+so-called black swan event	tsunami	1
+standard natural disaster topic	tsunami	1
+sub-disasters	tsunami	1
+taiwan company	tsmc	1
+terrestrial grazer	tsessebe	1
+terrible new	tsunami	1
+territory's commercial area	tsim sha tsui	1
+tragic disaster	tsunami	1
+unidentified risk	tsunami	1
+well-defined congested area	tsim sha tsui	1
+world renowned aikido instructor	tsutomo chida sensei	1
+world renowned index	tsx	1
+aha-branded item	tshirts	1
+alert condition	tsunami	1
+antiangiogenic compound	tsp- one 	1
+Bantustans	tswanaland	1
+beautiful resort town	tsarevo	1
+big evil	tsunami	1
+big natural disaster	tsunami in indonesia	1
+canadian site	tsx group	1
+catastrophic disaster event	tsunami	1
+catastrophic natural occurrence	tsunami	1
+central government undertaking	tsunami detection centres	3
+cheap stone	tsavorite garnet	1
+china's domestic well-known law school	tsinghua university	1
+Chinese font	tsc fming s tt for traditional chinese	1
+Chinese font	tsc jsong s tt for simplified chinese	1
+classic dead poet	ts eliot	1
+clemson item	tshirts	1
+CMOS foundry	tsmc	1
+common cheap stone	tsavorite garnet	1
+congolese national language	tshiluba	1
+convenient aspect	tsugumi	1
+cross-cultural psychologist	tsai et al.	1
+decorative artefact	tsuba	1
+domestic famous university	tsinghua university	2
+earthquake hazard	tsunami	3
+ecent natural weather phenomenon	tsunami	1
+organization	tsunami research center at the university of southern california	1
+organization	tsiba university	1
+organization	tsx venture exchange	1
+organization	tsb	1
+organization	tsfc	1
+extreme crisis	tsunami	1
+extreme episodic event	tsunami	1
+failure theory	tsai wu theory	1
+feedstock crop	tsb	1
+foundation class	tstring	1
+foundry company	tsmc	2
+generally episodic hazard	tsunami	1
+georgian controlled appellation	tsinandali	1
+global and regional business disaster	tsunami	1
+global equity index	tsx	1
+global weather disaster	tsunami	1
+great catastrophic event	tsunami	1
+ha-binding protein	tsg- six 	1
+high altitude lake	tso kar	1
+high altitude lake	tso moriri	1
+high lama	tsong khapa	1
+high quality photo gift	tshirts	2
+high-voltage stones	tsavorite	1
+humanitarian operation	tsunami relief in  two thousand and four - five 	1
+ITV station	tsw	1
+izakaya item	tsukune	1
+Japanese manga	tsubasa o motsu mono	2
+japanese pitcher	tskashi saito	1
+kenwood radio	ts- two thousand  	1
+level standard	ts sixteen thousand nine hundred and fourty-nine 	1
+local and export cult brand	tsubi	1
+long-standing south african client	tsogo sun	2
+Manygeo-hazards	tsunami	1
+marine disaster	tsunami	2
+massive earth change	tsunami	1
+mature woman	tsunade	1
+mega catastrophe	tsunami in japan	1
+megascale geologic process	tsunami	1
+message broker vendor	tsi software	1
+modern disaster	tsunami	1
+national university publishing house	tsinghua university press	1
+natural phenomenon event	tsunami	1
+nature disaster wallpaper	tsunami wallpaper	2
+nature's fury natural disaster	tsunami	1
+non-weather emergency event	tsunami	1
+northeast caucasian language	tsez	8
+overseas emergency	tsunami	1
+packet capture tool	tshark in combination with awk	2
+prestigious chinese school	tsinghua	1
+prestigious higher-learning institution	tsinghua university	1
+pre-war poet	ts eliot	1
+rechargeable lithium coin cell	ts six hundred and twenty-one  from seiko 	2
+rechargeable lithium coin cell	ts six hundred and twenty-one  ts six hundred and twenty-one  from seiko 	1
+registered agent	tsg canada	1
+renowned studio	tsunami tattoo	1
+research-oriented comprehensive university	tsinghua university	1
+reversible gate	tsg gate	2
+roller chain manufacturer	tsubaki	3
+schneider electric's flagship PLC product	tsx micro	1
+Second, zeolites	ts- one 	1
+Second, zeolites	ts- one  ti-beta 	1
+severe water-related disaster	tsunami	2
+short term symptom	tsunami symptom	1
+short-term natural event	tsunami	1
+sightseeing location	tsukuba space center	1
+south african and british artist	tshepo tshola	1
+spectacular medium disaster	tsunami	1
+state-fuelled company	tstt	1
+storm situation	tsunami	1
+superrefined soy product	tsp	2
+swiss television channel	tsr  one 	1
+taiwan-based firm	tsmc	1
+tourist district	tsim sha tsui	1
+traditional russian souvenir	tshirts	1
+training account	tsunade genin exams	1
+tsunami	tsunami hazard l arge tsunami	1
+unpredictable global event	tsunami	1
+unstable climate related disaster	tsunami	1
+upscale brand product	tse	1
+year environmental hazard	tsunami	1
+Youkai	tsuchigumo	1
+academic article	tsai	1
+amazing village	tsagarada	1
+anti-military politician	tsuyoshi inukai	1
+antique samurai item	tsuba	1
+antique samurei item	tsuba	1
+arsoft brand	tsd	1
+Asian beer	tsing tao	1
+asian grocer	tsai grocery on oak valley off ann arbor-saline road	1
+technique	tsing san	2
+technique	tsn	1
+technique	tsurikomi goshi	1
+technique	tsukuyomi	1
+bee farm specialty	tsokolate muffin	1
+beijing's main university	tsinghua	2
+beijing's university	tsinghua university	1
+big natural event	tsunami	1
+big profile name	tsitsi dangarembga	1
+bradoriids	tsunyiclla striata chang	1
+chemistry reaction	tsuji-trost reaction	1
+china's top tertiary institution	tsinghua university	1
+CLAMP's manga	tsubasa reservoir chronicles	1
+concept 14-1B natural geological hazard	tsunami	2
+context criterion	tsai-hill	1
+continuous disaster	tsunami	1
+contrasting weather event	tsunami hurricanes floods	1
+cool south african movie	tsotsi	1
+country's most prestigious school	tsinghua university	1
+critical historical figure	tsukahara bokuden	1
+cyprus hotel chain	tsokkos hotel	1
+delimited text file	tsv file	1
+directive natural disaster	tsunami	1
+disaster new	tsunami	1
+disaster relief effort	tsunami in indonesia	1
+disaster threat	tsunami	1
+DNS security mechanism	tsig	1
+domestic well-known manufacturer	tsinghua unisplendour	1
+earth science hazard	tsunami	2
+electoral information	tsai's platform	1
+electronic silicon foundry	tsmc	1
+emergency disaster situation	tsunami	1
+envelope waveforms	tsc envelope	1
+extreme natural hazard	tsunami	1
+eye technique	tsukuyomi	1
+famous orchestra conductor	tsvetan popov	1
+famous pelion village	tsagarada	1
+fast onset hazard	tsunami	2
+federal circuit decision	ts tech	2
+figma character	tsukasa hiiragi	1
+first, bad climate event	tsunami	1
+fun webpages	tsr's nes archive	1
+technique	tsh assay technique	1
+garnet type	tsavorite garnet	1
+geology-related disaster	tsunami	2
+geology-related hazard	tsunami	1
+geo-morphological hazard	tsunami	1
+georgian wine brand	tsinandali	1
+global geological hazard	tsunami	1
+great motion simulator	tsumo multi-game motion system	1
+Greek hors d'oeuvres	tsatziki dip	1
+HA operation	tsunami relief	1
+haematophagous arthropod vector	tsetse fly	1
+High quality bb	tsd	1
+h-share company	tsingtao brewery co.	1
+improved stove	tsotso	1
+increasingly severe weather condition	tsunami	1
+independent sale representation firm	tsmsi in the united kingdom	1
+intense and unexpected traumatic event	tsunami	1
+international or national emergency	tsunami disaster in indonesia	1
+international piano competition	tschaikovsky international piano competition in moscow	1
+internationally-renowned director	tsui hark	2
+internet security protocol	tsl	1
+introduction large sudden natural disaster	tsunami	1
+japanese analytical chemist	tsugio takeuchi	1
+japanese magic luminary	tsuyoshi fujita	1
+japanese traditional toy	tsutsumi	1
+kangaroo fashionable apparel	tshirts	1
+key comprehensive university	tsinghua university	1
+key industry semiconductor supplier	tsmc	1
+key medical institution	tsinghua university	1
+large chipmakers	tsmc	1
+large CMOS foundry	tsmc	1
+large fabrication company	tsmc	2
+large natural disturbance event	tsunami	1
+large natural environmental upheaval	tsunami	1
+large-scale unpredictable event	tsunami	1
+leading foundry	tsmc	2
+long-standing disaster threat	tsunami	1
+LS dance character	tsukasa	1
+maritime natural hazard	tsunami	1
+measurable technical improvement	tsfc	1
+mid-altitude and highaltitude element	tsuga	1
+mid-altitude and high-altitude element	tsuga	1
+mobile health clinic devastating event	tsunami	1
+natura disaster	tsunami	1
+natural hazard process	tsunami	1
+natural storm-related event	tsunami	1
+nineteenth-century woodblock artist	tsukioka yoshitoshi	1
+non weather-related natural disaster	tsunami	1
+nonessential program	tsr program	1
+application	tso	2
+non-weather disaster	tsunami	1
+northwest coast tribe	tsimshian	1
+OA protection philosophy	tsd	1
+online processing	tss processing	1
+pad package	tssop	1
+paleface writer	ts eliot	1
+pinky street non-original character	tsukihime	1
+popular hong kong food stall	tsui wah	1
+prestigious mainland china university	tsinghua	1
+professional high-quality product	tsp	1
+prominent georgian appellation	tsinandali	1
+Rare or very expensive species	tsessebe	1
+rare, sudden-onset hazard	tsunami	1
+real-world disaster	tsunami	1
+real-world licensed racing circuit	tsukuba	1
+regular souvenir item	tshirts	1
+requisite family-friend attraction	tsutenkaku tower	1
+restaurant souvenir	tshirts	1
+result thin type semiconductor device	tsop	1
+room airport worker	tsa staff	1
+runoff constituent	tss	1
+russian launch vehicle	tsyklon	1
+Russian vehi cles	tsyklon	1
+savvy businessman	tsai	1
+sea disaster	tsunami	1
+second, many university	tsinghua university	1
+semiconductor foundry	tsmc	1
+shareholder-friendly measure	tsr	2
+shortstop candidate	tsuyoshi nishioka	1
+small give-a-way item	tshirts	1
+small travel accessory	tsa lock	1
+snow-capped mountain	tsagaan deglii	1
+state level gun right organization	tsra in texas	1
+Stock exchanges	tse	1
+stunning, fashion-forward gemstone	tsavorite	1
+supernatural case	tsubasa cat	1
+surface built-in semiconductor package	tsop	1
+application	tsunami detection	1
+taiwanese semiconductor company	tsmc	1
+taiwan's company	tsmc	1
+thyroid antibody	tsh receptor antibody	1
+top chinese institution	tsinghua	1
+top silicon valley PR agency	tsantes & associates	1
+top-flight university	tsinghua	1
+traditional and historic area	tsukiji	1
+typically small island threat	tsunami	1
+under-monitor display protocol	tsl	1
+unexpected natural phenomenon	tsunami	1
+unforeseeable negative event	tsunami	2
+unpredictable and tragic emergency	tsunami in indonesia	2
+veldt food	tsama melon	1
+visual narrative	tsutomu yamamoto's talking tree''	1
+wastewater parameter	tss	1
+water related event	tsunami	1
+well-known chinese brand	tsingtao	1
+world wide weather phenomenon	tsunami	1
+world-famous guest	tsar alexander	1
+world's great visionary educator	tsunesaburo makiguchi	1
+zhongguancun-based enterprise	tsinghua tongfang	1
+200-year-old species	tsoongiodendron odorum chun	1
+2-character tag	ts for topic	1
+3D processing step	tsv insertion	2
+active comic-book artist	tsukasa hojo	1
+acute behavior test	tst	1
+advance warning system	tsunami warning system	1
+aftermarket catback exhaust	tsudo n one 	1
+agriculturally wealthier district	tsalka	1
+alix-type protein	tsg one hundred and one 	1
+american-chinese nobel prize winner	tsung-dao lee	1
+amusement spot	tsuruhashi korean town	1
+art-house groundbreakers	tsotsi	1
+artwork illustration	tsimshian logo	1
+asian crisis	tsunami	1
+authentic greek sea food dish	tsipoura	1
+autonomous state actor	tsk	1
+barring natural catastrophe	tsunami	1
+big-name calligraphy artist	tsai xiang in song dynasty	1
+brackish water lake	tso kar	1
+brackish water lake	tso moriri	1
+breathtaking stunt	tsunami flip	1
+cable-only channel	tsn	1
+canadian exchange	tsx	1
+name	tselkovo	2
+name	tsetse insect of africa	2
+name	tsh resources bhd	2
+name	tsukamoto	1
+name	tsai ming-liang	1
+name	tsai	1
+case cheaper vehicle	tsuru	1
+cataclysmic incident	tsunami	1
+catastrophic happening	tsunami	1
+catastrophic, hazard	tsunami	1
+cattle-rich society	tswana of eastern botswana	1
+certified Shoretel dealer	tsr solutions	1
+china's best university	tsinghua	1
+china's domestic beer maker	tsingtao brewery	1
+chinese top university	tsinghua university	2
+chronic PHASE natural disaster	tsunami	1
+city's older district	tsim sha tsui	1
+coastal flood hazard	tsunami	1
+collective shock	tsunami	1
+commercial windows-based tool	ts doctor	1
+common direct regularization technique	tsvd method	1
+computer-related modification	tst powermax	1
+considerably larger language	tsez	1
+conventional explo-sionsandnatural disaster	tsunami	1
+damaging aftereffect	tsunami	1
+day-flying insect	tsetse fly	1
+deacetylase inhibitor	tsa	2
+del rey title	tsubasa chronicle	4
+destructive geological event	tsunami	1
+devastating natural disast ers	tsunami	1
+direct-from-doujin success story	tsukihime	1
+disaster prevention information	tsunami warning	1
+disaster relief fund	tsunami relief fund	1
+disaster relief work	tsunami	1
+disaster time	tsunami in  two thousand and four  through human appeal 	1
+disruptive environmental event	tsunami	1
+domestic and international disaster	tsunami in indonesia	1
+domestic renowned university	tsinghua university	1
+dry forest	tsingy forest in ankarana	1
+duck bill	tsintaosaurus	1
+earth hazard	tsunami	1
+earth natural disaster	tsunami	1
+editorial board member	tsukuba university's tsujinaka yutaka	1
+endemic parasitic disease	tsetse-transmitted trypanosomiasis	1
+episodic hazard event	tsunami	1
+established, successful group	tss academy	1
+ETP testing	tss tds	1
+european king	tsars of russia	3
+european-type dry wine	tsinandali	1
+event warning system	tsunami warning	2
+exosomal protein marker	tsg one hundred and one 	1
+exotic kit	ts one 	2
+exportedby category	tsa import	1
+extensive emergency	tsunami	1
+extinct volcano	tsaratanana	1
+extrinsic shock	tsunami	4
+famous foundry company	tsmc	1
+name	tsotsitaal	1
+name	tsuji seimei's lackluster shigaraki set of book	1
+name	ts open	1
+name	tsugaru	1
+name	tsiolkovsky for craters on the farside	1
+fermented grape pomaces	tsikoudia	1
+first, individual package	tsop	1
+Flattingagents	ts  one hundred  from degussa 	1
+flooding blackspots	tsung pak long	1
+foundry firm	tsmc	1
+Fully protected or no-take MPAs	tsitsikamma	1
+fuzzy model	tsk fuzzy model	1
+geographic and environmental event	tsunami	1
+geological incident	tsunami	1
+geophysical natural hazard	tsunami	1
+geophysical related disaster	tsunami	2
+german and international politician	tschingis aitmatov	1
+global tragedy	tsunami	1
+government permission	tse	1
+gravity concrete structure	tsunami breakwater structure	1
+great discount shop	tse	1
+haiku collection	tsumaki	1
+hazard feature	tsunami hazard feature	1
+hazardous cleaning product	tsp	1
+hemlock species	tsuga diversifolia	1
+high intensity natural event	tsunami	1
+high-end glitzy mall	tsim sha tsui in ocean terminal	1
+high-visibility disaster	tsunami	1
+historically big pastoralist community	tswana of botswana	1
+hong kong's hottest district	tsim sha tsui	1
+hot-spring resort	tsuchiyu hot spring	1
+hydrodynamic disturbance	tsunami	1
+hydrothermal carbonate-hosted base-metal sulphide deposit	tsumeb	1
+increasing phenomenon	tsunami	1
+increasingly non-weather related event	tsunami	1
+innate cytokines	tslp	1
+innovative datum acquisition method	tsp	1
+Insedls	tsetse flies	1
+intense learning environment	tsinghua insead emba	1
+interpreted module	tso clists	1
+in-training Digimon	tsunomon	1
+INTRODUCTION major disaster	tsunami	1
+island hotel	tsarabanjina	1
+IV estimator	tsls	1
+joint model	tsm model	1
+junior stock exchange	tsx-v	1
+kenwood rig	ts- five hundred and thirty s 	1
+kenwood rig	ts- eight hundred and thirty s 	1
+Kruger antelope	tsessebe	1
+large scale interchange	tsuen wan	1
+large scale interchange	tsing yi ptis	1
+large semiconductor manufacturer	tsmc	1
+large, successful taiwanese company	tsmc	1
+leading macroeconomic indicator	tse  three hundred  stock price index 	1
+leading taiwanese foundry	tsmc	1
+name	tseleevo	1
+name	tse	1
+name	tsai c.c. in taiwan	1
+case	tsetse fly	4
+case	tsp	3
+case	tsunami package	1
+case	tsung-dao lee	1
+case	tsunami	1
+livestock insect pest	tsetse fly	1
+loanword s	tsar	1
+loanword s	tsunami	1
+local tractor store	tsc	1
+long return period loss event	tsunami	1
+long span crossing	tsing ma	1
+longitudinal river valley	tsangpo	2
+lossy fast ME algorithm	tss	1
+lovely gift idea	tshirts	1
+low-level strike aircraft	tsr two 	1
+major-impact black swan event	tsunami	1
+manmade or natural disaster	tsunami in japan	1
+mass casualty issue	tsunami	1
+mass notification project	tsunami warning system	1
+medical and hygienic pest insect	tsetse fly	1
+Mega geohazards	tsunami	1
+Megadisasters	tsunami	1
+merchant acquirer	tsys	1
+microsoft's offering	ts remoteapp	1
+modern rig	ts- two thousand  	1
+mtrc's project	tseung kwan o extension	1
+mtrc's project	tsim sha tsui station extension	1
+mvs-based application program	tso	1
+Nasty stinky clothes	tshirts	1
+national beer brand	tsingtao brewery	1
+national key university	tsinghua university	1
+natural coastal inundation hazard	tsunami	2
+natural disaster-related hazard	tsunami	1
+natural health disaster	tsunami	1
+natural or physical evil	tsunami in japan	1
+natural shift	tsunami	1
+non-climatic event	tsunami	2
+nonroleplaying game	tsr's spellfire collectable card game	1
+non-selective growth medium	tsa	1
+nonstop natural disaster	tsunami	1
+odd happening	tsunami	1
+okinawa cultural artifact	tsuboya pottery	1
+old-fashioned natural disaster	tsunami	1
+one-port device	tsm device	1
+orthographic symbol	tsh	1
+others site major disaster	tsunami	1
+outside traditional landscape garden	tsukiyama gardens	1
+polks speaker line	tsi	1
+case	tso	1
+case	tsimshian	1
+case	tsunami reconstruction fund for indonesia	1
+case	tsunami earthquake	1
+case	tsunamis in the pacific ocean	1
+case	tsui po ko s case	1
+powerful Genjutsu	tsukuyomi	1
+prestigious chinese university	tsing hua university	1
+prophylactic laminectomy	tsuji before carrying out a multilevel avf in patients with severe underlying cervical stenosis	1
+public HEIs	tsinghua university	1
+pure-play foundry	tsmc	1
+recurrence certain devastating natural calamity	tsunami	1
+redecorating room	tsar's formal reception room	1
+remarkable small scale project	tsai design studio's safmarine container club prototype	1
+retail subdistricts	tsimshatsui	1
+russian rocket	tsiklon	3
+S. exchange	tsx	1
+satellite common error	tsv i	2
+sequential external event	tsunami	1
+serious new disease	tss	2
+short notice disaster event	tsunami threat	1
+short time-scale coastal hazard	tsunami	1
+short-term catastrophic event	tsunami	1
+soviet-era titan	tsvetayeva	1
+standard greek staple	tsatsiki	1
+staphylococcal sag toxin	tsst- one 	1
+strange-sounding place name	tskhinvali	1
+strong-points	tsinan	1
+sword part	tsuba	1
+taiwanese foundry	tsmc	1
+taiwanese high-tech firm	tsmc	1
+taiwan's first and largest company	tsmc	1
+tango's local food	tsutsukawa soba	1
+terminal service role	ts gateway	1
+thin small outline semiconductor package	tsop	1
+top asian school	tsinghua sem	1
+top world cinematographer	tsai ming-liang	1
+topflight university	tsinghua	1
+top-quality educational institution	tsinghua	1
+tospoviruses	tswv	1
+track promising athlete	tshamano setone in the middle distance event	2
+traditional greek dance	tsamiko	4
+traditional malnutritional index	tsf	1
+training Digimon	tsunomon	1
+training sequence	ts zero  of the gsm standard 	1
+tribles	tsuchigumo	1
+TSO resource	tso region size	1
+TSO resource	tso account number	1
+unavoidable natural calamity	tsunami	1
+university foundation	tsinghua university education foundations	1
+violent, sudden-onset disaster	tsunami	1
+Wajin staff	tsuji	1
+wake board tower	tsunami pro series wakeboard tower	1
+well-defined palynological event	tsug a decline in eastern north america	1
+well-known manga	tsubasa reservoir chronicle	1
+well-recognized family name	tshombe	1
+west community	tsekelewu	1
+western modernist	ts eliot	1
+wing chun master	tsui sheung tin	1
+world-known university	tsinghua university	1
+years past tragedy	tsunami	1
+zenoss monitoring remote system	tsm	1
+ZX81 clone	ts one thousand five hundred 	1
+ZX81 clone	ts one thousand  	1
+abrupt aftershock	tsunade	1
+ABTCS	tsc	1
+academic vocabulary term	tsunami	1
+Additionally cellular cytokines	tslp	2
+agent provocateur	tsarist agent provocateur	1
+aid epidemic and natural disaster	tsunami	1
+aimag capital	tsetserleg	1
+Akaviri peoples	tsaeci practice dual wielding	1
+angiostatic mediator	tsp- one 	1
+ardent multitasker	tsuji	1
+asian foundry	tsmc	1
+asia's top technology company	tsmc	1
+Author's personal copy control	tsez	1
+automated CD&R system	tsafe system	1
+autoriggers	tsm two 	1
+big foundry	tsmc	1
+big local russian retailer	tsum	1
+BIND security feature	tsig	1
+bizarre early design	tsar's tank	1
+Blanket wrap carrier	tsc moving	1
+branch dojos	tsuki kage dojo	1
+broad medium comparison	tsou et al	1
+Broad-acting HDACIs	tsa	1
+BTCS	tsc	1
+business cleaner	tsp	1
+card trading forum	tsh	1
+carr property	ts renovations of pennsylvania ave. building	1
+CD rental shop	tsutaya	1
+chemical HDAC inhibitor	tsa	2
+China's university	tsinghua university	1
+chinese beer	tsing tao	1
+chinese beer brand	tsingtao	1
+chinese small cap	tstc	1
+chip foundry	tsmc	1
+chromatin-modifying agent	tsa	1
+circulating thyroid-specific transcript	tshr	2
+class E molecule	tsg one hundred and one 	1
+class new town	tsing yi	1
+closed-cavity design unit	tsi nephelometer	1
+CMC strategic reseller partner	tsys	1
+commodity-sensitive sector	tsx metals & mining index	1
+common par-tialcharge potential	tsuneyuki  eighty-three 	1
+company's procedure	ts  sixteen thousand nine hundred and fourty-nine 	1
+contract chip manufacturer	tsmc	1
+conventional leadless housing	tslp housing	1
+conventional water-soluble P fertilizer	tsp	1
+co-operative investment	tshwaragano hotel	1
+cutting-edge production	tsunamarama  six 	1
+dapa	tsou	1
+decent site	tsr	1
+disaster warning	tsunami	1
+discussion potent HDAC inhibitor	tsa	1
+door closers	ts  five thousand   l 	1
+DPP lawmaker	tsai huang-liang	1
+dual-status service	tsn	1
+earthquake precursor	tsunami coming	1
+group	tsvangirai's party	8
+group	tsagaan khass	4
+group	tsol	1
+group	tsol along crossover groups like s.o.d.	1
+group	tswana person	1
+group	tsx	1
+group	tswelopele cultural production from botshabelo	1
+ecologically important variable	tss	1
+economic and natural shock	tsunami	1
+ectofseveral parameter	tsv depth	1
+entropy -metric	tsallis entropy	1
+environmental destructive force	tsunami	1
+Epithelium-derived cytokines	tslp	1
+equally important reserve	tsingy de bemaraha strict nature reserve	1
+europe n king	tsars of russia	1
+eventhough major natural disaster	tsunami	1
+example catastrophe	tsunami	1
+experienced hospitality provider	tse offer	1
+extreme hazard event	tsunami	1
+fairly light and simple music	tschaikowsky's nutcracker suite	1
+famous lama	tsongkhapa	1
+famous new town scheme	tsukuba science city	1
+feature special issue	tsumeb	1
+first-rate domestic university	tsinghua	1
+flexible authority	tsca	2
+formal women's kimono	tsumugi	1
+fortunate band	tsawwassen first nation in vancouver	1
+Free swing door closers	ts  five thousand   efs 	1
+fresh lunar crater	tsiolkovsky	1
+generic non-selective growth medium	tsa	1
+geographic marvel	tsingy rock formations of the north	1
+geological site hazard	tsunami	1
+gift designation	tsunami relief	1
+gis-based hazard assessment project	tsunami vulnerability analysis	2
+global calamaties	tsunami in bangladesh	1
+global field model	tsyaganenko- ninety-six  model 	1
+Googledthemain airshowplayers	tsa consulting	1
+great race team	tsco	1
+HABU yarn	tsumigi silk	1
+hao-class cultural institution	tsinghua university	1
+harsh alkaline cleaner	tsp	1
+harsh, alkaline cleaner	tsp	1
+heavy duty cleaning solution	tsp with a scrubbing pad	1
+high-capacity, high-performance drive	ts one thousand one hundred and twenty  from ibm 	1
+Historical institutonalists	tsai	1
+hydrological and marine disaster risk	tsunami	1
+hydroxamic HDAC inhibitor	tsa	1
+IBM tape system	ts three thousand five hundred  tape library 	1
+IC foundry company	tsmc	1
+imminent catastrophe	tsunami	1
+inanimate force	tsunami	1
+independent asian foundry firm	tsmc	1
+group	tsetse fly	1
+group	tsaatan minority of reindeer breeder	1
+group	tswana	1
+informative measurement	tss	1
+intellectual-historical real-itythatarguments	tsongkhapa sarenever independent creations of a single mind	1
+irregular fluctuation	tsunami	1
+Itachi's jutsus	tsukuyomi	1
+japan sea warm current	tsushima current	1
+japanese folk dance	tsugaru jongara-bushiand aizu bandaisan	1
+Japanese Gyaru model	tsubasa masuwaka	1
+justice word	tsedeqah in hebrew	1
+koryu founder	tsukahara bokuden	1
+large and famous village	tsagarada	1
+large nightclub	tsunami night club on maui	1
+large taiwan-based foundry	tsmc	1
+large-scale disaster occurrence	tsunami	1
+large-scale saltwater inundation event	tsunami	1
+latest catastrophe	tsunami	1
+lethal environmental catastrophe	tsunami	1
+lkaline detergent	tsp	1
+local clip	tsn rider replays	1
+local top-tier university	tsinghua university	1
+long pip	tsp curl p one r 	1
+low-technology, high-performance building	tsoga environmental centre in the poverty-stricken outskirts of cape town in south africa	1
+massive emergency	tsunami	1
+massive police state government organization	tsa	1
+metro council	tshwane	1
+mid-altitude area	tsirang	1
+middle-era band	tsjuder	1
+mission-critical communication	tsunami warning	1
+modern bath smelting technology	tsl technology	1
+modern otaku story device	tsundere	1
+mongolian family	tsaatan reindeer herders in the far north	1
+monohull vessel	tsmarine's dp- two  intervention vessel havila phoenix 	1
+mountainous village	tsagarada	1
+multi ethnic political unit	tsarist	1
+multistage space transportation vehicle	tsto	1
+nakasendo's post town	tsumago	1
+national telco	tskl	1
+nationally acclaimed television network	tsn	1
+neglect forum	tsn for advice	1
+neophyte rookie	tsquare	1
+new-generation soy protein ingredient	tsp	1
+non data-parallel application	tsp	1
+NON EA site	tsr	1
+nonadditive statistic	tsallis statistic	1
+nonclimatic event	tsunami	2
+non-selective enrichment medium	tsb	1
+method	tsai method	1
+method	tsunami wall	1
+method	tsp	1
+northern nat ion	tsimshian	1
+novel imaging agent	ts-icg derivative	1
+nutritionally poor culture medium	tsa	1
+object editing program	tsr workshop	1
+ona nutritionally poor culture medium	tsa	1
+ontariomd resource	tsp team	1
+open-market foundry	tsmc	1
+operational performance -metric	tsa staff utilization	1
+original MTR line	tsuen wan line	1
+oteIGSsites	tsukuba	1
+pan-hdac inhibitor	tsa	2
+pan-HDACis	tsa	1
+particulate or water suspended constituent	tss	1
+pedophiliac fapfics	tsukuyomi boko ni on the site	1
+perpetual headwind	tsunami	2
+P-fertilizers	tsp	1
+pill driver	ts mod v	1
+point-to point bus	tsi bus	1
+political recording	tsa pat-down protest song	1
+Portable Air Velocity Meter	tsi v eloci c alc	1
+potent HDAC inhibitor	tsa	1
+power meter training -metric	tss	1
+power training -metric	tss	1
+pragmatic official	tseng kuo-fan	1
+process control continuous improvement tool	tsi's fms software	1
+professional sport service	tse sports & entertainment	1
+proper detergent	tsp	1
+proprietary stack	tsmp	2
+push zone	tsl weapons testing sandbox	1
+qingdao's branded enterprise	tsingdao beer in the park	1
+QMS system	ts sixteen thousand nine hundred and fourty-nine  with external consultant 	1
+quinoline-based compound	tsq	1
+rare semiprecious stones	tsavorite	1
+reading instrumentation	tsi inc.	1
+regional alerting system often threat	tsunami	1
+reliable and valid survey instrument	tsq	1
+remote vertical reference unit	tss hrp- twenty-five 	1
+reputable buyer	tsmc	1
+request video	tsr fanmail video	1
+researching natural hazard	tsunami	1
+resource-related average	tsx venture	2
+respected and experienced instructor	tsuruoka	1
+retirement plan deduction	tsp benefit deduction	2
+rude surprise	tsunami	1
+Sakha discos	tsaroiit	1
+savanna population	tsavo	1
+savannah population	tsavo	1
+scientific and technological institute	tsinghua university	1
+search point	tsa visible inter-mobile prevention	1
+segmented acquisition	tse sequence shown in fig	1
+self-loops	tseut nine   two hundred and nine 	1
+short damage event	tsunami	1
+short-notice incident	tsunami emergency	1
+silent video	tsr's sonic video	1
+simple application technology	tsetse trap	1
+skilled Medical-nin	tsunade	1
+skilled medical-Nins	tsunade	1
+skilled medic-nin	tsunade	1
+small New Zealand bank	tsb bank	1
+small package type	tssop	1
+small, sleepy-looking town	tsareva livada	1
+so-called foundry	tsmc	1
+solid culture medium	tsa	1
+southern california hardcore band	tsol	1
+specialty broadcaster	tsn	1
+sponsorship appeal	tsunami orphans	1
+spreading hemlock	tsuga canadensis jeddeloh	1
+stand-alone ethic resource	tsa ethics line	1
+standard disparity data-sets	tsukuba	1
+successive relief effort	tsunami relief	1
+successive ruler	tsewang namgyal	1
+supplier support operation	tssc in georgetown	1
+supposedly private video	tsa x-rays appearing on youtube	1
+survey wide-spread disaster	tsunami	1
+suspension group	tsd	1
+SVC system	tsc	1
+system administrator's command	tso netstat	1
+table 1weknowsome application	tsp andqs	1
+taiwanese semiconductor foundry	tsmc	2
+targeting pro-invasive element	tsp- two 	2
+T-cell superantigens	tsst- one 	1
+thin mold package	tsop	1
+Thin PKG	tssop	1
+time method INTRODUCTION disaster	tsunami	1
+time-shared task	tsp file processing	1
+timeslot	ts one 	2
+top-down centralized project	tsa	1
+tourist camp	tsagaan ovoo & munkhkhaan	1
+traditional instrumental variable estimator	tsls	2
+traditional sleep parameter	tst	1
+tryptophans	ts eighteen  clade 	1
+TSA senior leadership	tsa assistant secretary	1
+tsotsis	tsotsi malema	1
+TSP variation	tsp with precedence constraint	1
+TSRs	tsrs found in tsp- two 	1
+tsunami natural disaster	tsunami	1
+ukrainian restaurant	tsarske selo	1
+uncontrollable disaster	tsunami in japan	1
+unpredictable natural hazard	tsunami	1
+unusual headwind	tsunami	2
+upper class shopping area	tsim sa tsui	1
+urgent need fund	tsunami recovery fund	1
+USEPA regulation	tsca	1
+vacation country	tschechien	1
+tool	tsung	1
+tool	tso	1
+tool	tsm backup agent	1
+tool	tsp	1
+vongola fight	tsuna	1
+Warmasters	tsavong lah	1
+water related natural catastrophe	tsunami	1
+water suspended constituent	tss	1
+weels	tsw nurburgring	1
+well-known scientific research institute	tsinghua university	1
+wesley's purchased commer vehicle	ts three 	1
+wireshark utility	tshark & editcap	1
+world-leading foundry	tsmc	1
+yakimono	tsukune with poached egg	1
+year catastrophe	tsunami	1
+year crisis	tsunami	1
+young expert	tsuchiya	1
+zeolitic substrate	ts- one  in a powder form 	1
+tool	tsearch	1
+tool	tshark	1
+project	tsunami relief	3
+factor	tsh concentration	1
+factor	tsh configuration	1
+product	tshirt	5
+product	tsp	4
+project	tsunami reconstruction	2
+project	tshirts	1
+project	tsn broadcast studio	1
+project	tsz oi estate housing contract	1
+project	tsr two 	1
+project	tsa	1
+project	tseung kwan o hospital expansion	1
+project	tsubasa	1
+artist	tsuyoshi tsutsumi	2
+artist	ts monk	2
+artist	tshepo tshola	2
+artist	tshila	1
+artist	tsol	1
+artist	tsuchiya masami	1
+material	tshirt material	1
+place	tsi thread	1
+place	tsimshatsui	1
+place	tsumeb	1
+place	tsinandali	1
+place	tsarist russia	1
+place	tshane beach	1
+place	tsd	1
+place	tsc	1
+place	tsavo	1
+place	tsabong	1
+player	tsmc	2
+player	tshabalala	1
+player	tsl	1
+player	tshepo talk talk motlhabane	1
+player	tsuyoshi nishioka	1
+player	tsingtao beer	1
+player	tsubasa ishigure	1
+player	tsys	1
+player	tsonga	1
+technology	tsunami detection network	1
+product	tsunami warning	2
+product	tsm	2
+product	tsc ttp- three hundred and fourty-three  label printer 	2
+technology	ts web access	1
+technology	tsf	1
+technology	tssi's fingerprint biometrics	1
+term	tsar	1
+term	tse t two -weighted 	1
+term	tstl	1
+term	tspec	1
+parameter	tss	18
+parameter	tsm	1
+parameter	tsunami intensity	1
+parameter	tstab	1
+system	tsimmis	2
+system	tso	1
+system	tstar read	1
+system	tsa's behavior detection officer program	1
+system	tsmc central computer	1
+system	tsimmis using mediators for data integration from heterogeneous data source	1
+system	tsc	1
+system	ts-adc	1
+species	tsessebe	3
+species	tsetse fly	2
+species	tsuga	2
+species	tsuga canadensis	1
+species	tssesebe in mozambique	1
+condition	tsh-secreting pituitary adenoma	1
+element	tsuba	1
+element	tsr two  datum 	1
+element	tsm	1
+element	tstrong brass accent	1
+element	tsc one 	1
+element	tsc two 	1
+product	ts five thousand five hundred and fourty  spray valve 	1
+product	ts pro model	1
+variable	tsa location	1
+variable	ts inventory shortfall	1
+device	tsop type	1
+device	tsx nano plcs	1
+brand	tsunami	2
+brand	tsumori chisato	2
+brand	tsubi	2
+brand	tsw	2
+brand	tsingtao	2
+brand	tsubo	1
+brand	tsudo performance	1
+brand	tsi-la organics	1
+brand	tsn	1
+concept	tsurani	1
+component	tsr s	1
+component	tsa	1
+aspect	tsaining of trainer	1
+site	tsn	2
+site	tsu link directory	1
+site	tsu sellers network	1
+site	tsodilo hills	1
+site	tsimane	1
+site	tsr	1

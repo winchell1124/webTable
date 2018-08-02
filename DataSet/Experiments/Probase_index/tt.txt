@@ -1,0 +1,566 @@
+product	ttl shoe cord	1
+accessory	tt performance accessory	1
+datum	ttc	1
+resource	ttie national archives	1
+work	ttl	1
+model	tt	2
+model	tt rs	1
+model	ttm	1
+institution	ttk hospital in chennai	1
+institution	ttcl	1
+client	tt electronics plc	1
+client	tt games	1
+feature	tts	6
+form	tty	2
+person	ttc special constable	1
+alternative	ttls	1
+agency	ttc	2
+agency	ttd	1
+course	ttm	1
+location	ttdi	1
+mechanism	ttl	1
+solution	ttl value	1
+feature	tty call transfer	2
+feature	tty conference capability with multiple nextalk user	2
+feature	tts read-back	1
+feature	tt  one . eight t roadster  two hundred and twenty-five hp quattro 	1
+feature	ttyover ip	1
+feature	ttl	1
+structure	tty	1
+field	ttl	3
+field	tthe organization name	1
+part	tt gear	1
+agent	tta	1
+feature	ttm indicators	1
+type	ttl signal type	1
+venue	tt the bear's	1
+criterion	tty number	1
+firm	ttk services pvt. ltd	1
+drug	ttx	1
+test	tte	1
+treatment	tt	5
+manufacturer	tte	1
+instrument	tt co-financed by private industry	1
+setting	ttl	2
+compound	ttx	1
+study	tti study	1
+individual	tt matanzima	1
+website	ttc complaints	1
+equipment	ttm serato mixer	1
+equipment	ttb shunt	1
+innovation	ttl flash control	1
+country	ttie netherlands	1
+format	ttf	1
+standard	ttcn	1
+show	tttt	1
+vendor	ttml	1
+actor	ttos	1
+side effect	tts	1
+value	ttype  ten 	1
+environment	tty terminal	2
+supply	tty paper	1
+disorder	ttm	1
+disorder	ttp	1
+module	tts	1
+report	tti success insights tm management-staff	1
+competitor	tti	1
+discipline	tto different discipline	1
+weapon	tt	2
+language	ttcn	1
+language	ttm algebra	1
+neighborhood	ttdi	1
+rule	tt  three 	1
+rule	tt entry special rule	1
+measurement	ttff	1
+track	ttile track itslef	1
+protocol	ttp	2
+card	ttg	1
+association	ttsa	1
+plan	ttc ridership growth strategy	1
+result	ttr ranking	1
+mode	ttl	1
+shop	tt lounge	1
+stock	ttk prestige	1
+objective	ttl drive for transistor switch operation	1
+supplement	ttfd	1
+competition	ttr	1
+factor	ttt also effect growth factor	1
+issue	tty recognition	1
+NGOs	ttor	1
+NGOs	ttf rpps in the netherlands	1
+database	ttd	1
+forum	ttc forum	1
+forum	tt online	1
+scenario	tt's space adventure's	1
+gene	ttc four 	2
+gene	ttr	1
+prop	ttshirts	1
+rival	tti	1
+professional organization	ttma	1
+marker	ttf- one 	2
+marker	tt three 	1
+marker	tt four 	1
+programme	ttw	1
+specific	ttc bus number	1
+mediums	ttv	1
+stuff	ttar on the switch	1
+enzyme	tth	1
+enzyme	tth dna polymerase	1
+expression	ttop tt	1
+expression	tt optt	1
+participant	tt volunteers	2
+staple	tt landlord	1
+ailment	tts	1
+race	ttr	1
+tenant	tthe american bureau of shipping	1
+advance	ttl	1
+item	tty access	2
+board	ttgp	1
+art	tthe finest japanese fine art	1
+local event	ttg remembrance day	1
+local event	ttg christmas pageant	1
+virus	tt virus	2
+virus	ttv	1
+large project	ttc challenge agency staffing	2
+ride	ttd	1
+optional feature	tt- one  auto tool length measurement 	1
+phone	ttys	1
+processing	ttl decrementing	1
+public service	ttc	1
+release	ttg pages	1
+release	ttg auto index	1
+release	ttg highslide gallery	1
+picture	ttie village wedding	1
+motif	ttaa	1
+diagnostic test	tt test	1
+latest technology	tts	1
+physical condition	ttention deficit hyperactivity disorder	1
+well-known company	tthes tzivelli	1
+owner	ttx co.	1
+community partner	ttsd resource center	1
+growth factor	ttt also effect growth factor	1
+distributor	tti inc. of fort worth	1
+regular	tt boy	1
+deal	tto	1
+gallery	ttg highside pro	1
+performance accessory	tt performance accessory	1
+small area	tt's interior	1
+file format	ttf file	2
+speciality	ttoro	1
+small molecule	ttx	1
+abbreviation	ttyl	4
+abbreviation	ttfn	2
+abbreviation	ttc	2
+endpoint	ttp	2
+endpoint	ttf	1
+exchange	tt sgx gateway	1
+blood test	ttg	2
+surrounding area	ttdi jaya	1
+assistive device	tty phone	1
+popular model	ttl clock oscillators	2
+exotic material	tt six  aluminum 	5
+identity	ttls	1
+rare plant	ttaiwan sassafras	1
+acronym	ttly	1
+simple object	ttc streetcar stop	1
+blocker	ttx	2
+letter	tt	1
+head	ttf reef walker	1
+blue chip company	ttl	1
+city service	ttc	1
+assistive technology	tty telecommunication for the deaf	1
+healing modalities	ttouch for animal	2
+manual	tt fix adapter administration manual	1
+court case	tts court case	1
+chart	ttt curve	1
+holder	tt government	1
+arm	tt pistol	1
+theoretical approach	ttm	1
+service	ttnet music	1
+chelating agent	tta	1
+output format	tty	1
+television station	ttv	3
+clinical outcome	ttp	1
+service	ttela	1
+member company	ttc member company	1
+basic industry	ttr	1
+city agency	ttc	1
+private player	tt logistics	1
+group company	ttk prestige	2
+group company	ttk healthcare	2
+up-to-date information	ttl flash	1
+task force	ttu police of new york	1
+established area	ttdi	2
+training institution	ttuc medan	1
+modern weapon	tt	1
+corporate customer	ttc	1
+shaft	tt release	1
+shaft	tt lite xl	1
+neurotoxins	ttx from puffer fish	1
+valuation method	tto	1
+semiconductor element	ttl	1
+authentication mechanism	ttls	1
+topic	ttc-a trading template	1
+topic	ttab	1
+topic	ttl setting	1
+topic	ttl device parameter	1
+topic	ttl package minimisation	1
+extensive procedure	tta surgery	1
+rental company	tte ltd in uk	1
+anabolic steroid	ttokkyo brand steroid	3
+company	ttk prestige	2
+company	tti	1
+company	ttr	1
+company	ttc member company	1
+company	tt boy productions	1
+datum analysis tool	ttest	1
+project partner	tttech	1
+immunohistochemical marker	ttf- one 	2
+logic circuit	ttl	2
+noninvasive procedure	tte	1
+telecommunication technology	tty device	2
+loop	ttatt	1
+loop	tttt	1
+potential	ttm	1
+security aspect	ttp for telecommunications application	1
+city employee	ttc worker	1
+company	tti telecom	1
+copy	tt hongli	1
+authentication protocol	ttls	3
+coefficient	tt two 	1
+coefficient	tt three 	1
+industrial standard	ttcn- three 	1
+component manufacturer	tt electronics	1
+high temperature	tt c	1
+digital circuit	ttl circuit	3
+transcriptional factor	ttf- one 	1
+established neighborhood	ttdi	2
+communication interface	ttl serial	1
+Cationic surfactants	tt ab	1
+Cationic surfactants	tta oh	1
+common control	ttreeview	1
+IC	ttl	1
+immunohistochemical stain	ttf- one 	1
+regional team	ttech	1
+signal type	ttl signal type	1
+advanced algorithm	tti reverse time migration	1
+semiconductor technology	ttl	1
+semiconductor technology	ttl logic	1
+premium bullet	ttsx	1
+housing scheme	ttdi	1
+factor	ttl overload	1
+factor	ttl converter	1
+activity	tteokbokki & gimbap tasting	1
+activity	tti testing	1
+basic statistical technique	ttests	1
+control line	ttl	1
+hands-on therapy	tt	1
+noninvasive modalities	tt	1
+welding condition	ttir welding condition	1
+large collection	ttu mammal couection	1
+protein marker	ttk	2
+upmarket area	ttdi	1
+font format	ttf	3
+compact model	tt	1
+audi model	tt	6
+auxiliary program	ttd alter	1
+logic family	ttl	7
+lossless codecs	tta	3
+scaffold protein	ttp	1
+information	tty	1
+information	tt rate	1
+poland tv channel	ttk	3
+public transit	ttc in toronto	1
+mappings	tt ff	3
+circuit technology	ttl	1
+diacritic	ttaay	1
+first responder agency	tt defense force	4
+first responder agency	tt fire service	4
+neighboring retailer	tt supermarket	1
+serum test	ttg igg	1
+passive exercise	ttouch	1
+precast concrete element	tt slab	1
+statistical application	tting regression model	1
+large local conglomerate	tt resources bhd	1
+dataset	ttable	1
+EAP method	ttls	1
+efficacy parameter	ttp	1
+event	tt races	1
+event	ttc coin challenge	1
+EAP type	ttls	1
+local training provider	tte	1
+neuroendocrine marker	ttf- one 	1
+routine vaccine	tt	1
+afrikaans author	tt cloete	1
+global distributor	tti	2
+speech technology	tts	1
+benzene metabolite	ttm	1
+marine toxin	ttx	1
+real-time technology	tty text device	1
+approved product	ttys  seven 	1
+good leisure facility	tt	1
+healthcare group	ttk healthcare limited	1
+innovative partner	tttech automotive	2
+local and regional venue	tt reynolds	1
+small artery	tt bronchial artery	1
+input mode	ttl	1
+modifying agent	ttx	1
+program	tt	2
+program	tty watcher	1
+benchmark tool	ttcp	1
+classic snack	tteokbokki	1
+efficient lossless codecs	tta	1
+electrophysiological property	ttx resistance	1
+lossless codec s	tta	1
+words	ttyl	1
+competitor model	ttb	1
+efficient lossless codecs available, wavs	tta	1
+IP header field	ttl value	1
+IP header field	ttl	1
+ligases	tth ligase	2
+local domain name	tt for trinidad	1
+niche distributor	tti	1
+nuclear transcription factor	ttf- one 	1
+TDMA protocol	ttp	1
+bipolar technology	ttl	1
+configuration file format	ttf format	1
+converter device	ttl	1
+dirt bike	ttr one hundred and twenty-five 's 	1
+flower butterfly tattoo design	ttribal butterfly	1
+rare pattern	tt truck	1
+time-to-event endpoint	ttp	1
+auditory effect	tts	1
+cell phone hot abbreviation	ttfn	1
+constructional precast concrete element	tt slab	1
+CPC network	ttz media	1
+double letter	tt	2
+endodermal gene	ttr	1
+organization	ttc	1
+organization	ttp	1
+organization	ttf	1
+organization	tti performance systems	1
+foundation class	ttree	1
+high quality mini speaker	tt two  speaker 	1
+high quality mini speaker	tt three  speaker 	1
+language processing module	tts synthesis module	1
+legendary boston stage	tt the bear's	1
+MP3 tool	ttplayer	2
+technique	tto	3
+preconfigured chinese application	ttf-simsun	1
+resistor manufacturer	tt electronics irc advanced film division	1
+Standard ICs	ttl	1
+standard informations	tty	1
+traditional diphone synthesizer	tts- three thousand   of lernout & hauspie speech 	2
+traditional diphone synthesizer	tts three thousand   of lernout & hauspie speech 	1
+travel specialist title	ttg	1
+USOCs	ttr	1
+well-known gene	ttk	1
+yard interlock fabric	ttc double-layer fabric	1
+are-binding protein	ttp	3
+technique	tteams method	1
+carcinoma marker	ttf- one 	1
+city's agency	ttc	1
+CM cause	ttts	1
+common transcription factor	ttf- one 	1
+continental european trading hub	ttf	3
+delivery transport protocol	ttp	1
+efficacy end point	ttp	1
+electronics book	ttl cookbook	1
+executive model	tt	1
+false elementary organ	ttirpentine-vessels	1
+fine art	tthe finest japanese fine art	1
+generic functionality	tty management	1
+ICMP error message	ttl exceeded	1
+left-minded councillor	ttc chair adam giambrone	1
+mature lossless audio codecs	tta	1
+Noninvasive mod alities	tt	1
+Non-proofreading polymerases	tth	1
+application	tts	2
+application	ttcpbenchmarkin section  five 	1
+oldmovies	tthe thief of baghdad	1
+pakistani militant group	ttp	1
+peration	tting a part	1
+quantitative perfusion parameter	ttp	1
+remote testing specialized software program	ttc's distributed test manager	1
+soft synth	tts- one  from the synth rack 	1
+student convenience	tty public phone	2
+application	tts system tuning	1
+application	ttcp	1
+technology acceptance model	ttf	1
+third party research organization	ttc co-ordinate the project	1
+tissue-specific regulatory gene	tt two 	2
+tissue-specific regulatory gene	tt eight 	2
+160gr bullet	ttsx from barnes	1
+annoying quirk	tts- one  with no mechanism for suppressing the loading of plugins 	1
+art bipolar logic circuit	ttl	1
+audi product	tt	1
+bipolar logic family	ttl	1
+name	ttys zero 	1
+name	tt	1
+common virulence factor	ttss	1
+countless audi model	tt	1
+disability equipment	tty phone	1
+discontinued full-size bike	ttr	1
+discrete logic element	ttl	1
+name	ttys one 	1
+first large-scale facility	tt production line	1
+fuel managemnt device	tts mastertune	1
+independent detection technique	tta extraction	1
+input buffer	ttl input buffer	1
+international bus company	ttl	1
+kitchen appliance maker	ttk prestige	1
+korean traditional & cultural activity	tteokbokki & gimbap tasting	2
+large voltage-swing technology	ttl	1
+ligase	tth dna ligase	1
+case	ttl system	2
+liquid injectable vaccine	tt	3
+low voltage technology	ttl	1
+low volt-age technology	ttl	1
+mass market township	ttdi grove kajang	1
+mass market township	ttdi alam impian	1
+material expert	tt electronics irc advanced film div.	1
+mature hepatocyte marker	ttr	1
+mid-market advisor	ttk partners	2
+Non-raptor special status bird species	ttricolored blackbird	1
+non-spicy stew	ttukbaegi bulgogi	1
+non-standard abbreviation	ttc	2
+often-reported treatment parameter	tt	1
+patient-owned communication device	tty teletypewriter phone	1
+populated and urbanised area	ttdi	1
+case	tts court case	1
+presently available logic family	ttl	2
+propspects	ttim tebow	1
+pure late I na blocker	ttx	1
+regulatory and safety requirement	tty support	1
+respiratory tissue marker gene	ttf- one 	1
+scandinavian marine equipment supplier	tts marine	1
+semiconductor family	ttl	1
+senior al qaeda member	ttp leader baitullah meshud	1
+single-ended technology	ttl	1
+single-endedsignals	ttl	1
+skillbooks	tt ten 	1
+option	ttl synchronization	1
+option	ttl synchronisation	1
+system font name	ttf file name	1
+tape delay	tte	1
+tier-two distributor	tti	1
+time-triggered protocol	ttp	2
+Tissue-specific reg-ulatorygenes	tt two 	1
+Tissue-specific reg-ulatorygenes	tt eight 	1
+T-rich codons	ttg	1
+TTL circuit	ttl buffer circuit	1
+140gr monometal bullet	ttsx for elk	1
+7-segment display	ttl  seventy-four ls fourty-seven 	1
+advanced graphical scanning program	tts datamaster	1
+alternate initiation codons	ttg	2
+arabidopsis bhlh protein	tt eight 	1
+automatic dimmer mode	ttl automatic dimmer mode	1
+bandwidth testing application	ttcp between the site	1
+bandwidth-testing application	ttcp	1
+BCD affiliate	tti travel	2
+biospecimen resource	ttab	1
+campaigning website	ttas om property management	1
+Cationic micelles	ttab	1
+complicated multi-species up-conversion process	tta-supported up-conversion in multicomponent organic system	1
+compromise technique	tto share conceptual advantages over rating-scale technique	1
+conventional electronic circuit	ttl logic	2
+cosmetic dental practice	tthe dallas dental spa	1
+dedicated format	ttml	2
+different discipline	tto different discipline	1
+digital circuit technology	ttl	1
+disease-orientated outcome	ttp	1
+drug target related database	ttd	1
+dual purpose i.c	ttl  seventy-four ls one hundred and ninety-three 	1
+easily usable format	ttf	1
+group	ttp	2
+feedback sequential circuit	ttl edge-triggered d flip-flop in figure seven - nineteen 	1
+first, absent institutional influence	tto	1
+fuel management program	tts mastertune	1
+full SLR feature	ttl	1
+generally lower coffee grade	tt	1
+GM hater	ttac	1
+head-turning model	tt	1
+independent-cue model	ttb	1
+industry PCB fabricator	ttm technologies	1
+japanese fine art	tthe finest japanese fine art	1
+key alternative approach	ttc concept	1
+liver-affinitive virus	tt virus	1
+log ic family	ttl	1
+Mid-size soft-plastics	ttf hackberry hustler	1
+MirrorLures	tt twenty-one 	1
+mission expression product	tt	1
+Modern test stand ards	ttcn- three 	1
+non-hospital entity	ttuhsc	1
+method	tto	1
+method	ttl	1
+notable NIWA staff member	tte	1
+online wap emulator	tt emulator	1
+packet transformation	ttl reduction	1
+parametric search tool	tti's part builder	1
+passive type distance-measuring apparatus	ttl distance-measuring apparatus for a single-lens reflex camera	1
+processive DNA-dependent DNA polymerase	tth dna polymerase	1
+program IA	ttcp	1
+prosody prediction application	tts	1
+quick-turnaround player	ttm	1
+racing program	ttxgp	1
+rag tag group	ttp	1
+raskin's diminutive, hand-painted collage	ttr	1
+remote campus	ttuhsc el paso	1
+saturated bipolar digital circuit	ttl	1
+selection reusable hardware component	ttl integrated circuit	1
+selector parameter	tt	1
+sensitive and reliable marker	ttf- one 	1
+short insertion	ttaa	1
+shorthand code	ttyl	1
+static storage element	ttl flip-flops	2
+strong and reliable public service	ttc	2
+strong structured component	tt ceiling slabs	1
+synonymous codons	tta	1
+T1 channel access set	ttc's t-berd  two hundred and twenty-four 	2
+TCP test program	ttcp	1
+temporary directory	ttf- one 	1
+terminal-related command	ttyandsttyfrom executing	1
+throughput program	ttcp	1
+trading indicator	ttm squeeze & ttm trend	1
+TT gene	tt twelve 	1
+TT shaft	tt steel	1
+TTC email communication	ttc e-newsletters	1
+tunable twin guide laser	ttg-dfb laser	1
+typical bipolar AI circuit	ttl	1
+UNESCO tool	ttissa methodological guide for the analysis of teacher issue	1
+VCO	ttl ic  seventy-four ls six hundred and twenty-four 	1
+tool	tt decomposition	1
+tool	ttcp	1
+tool	tty directory	1
+tool	tty	1
+tool	ttw orkbench	1
+work rally car	tte corolla	1
+project	ttp with marko nastic	1
+project	tt-g for alcohol synthesis with better selectivity	1
+artist	ttf	1
+place	tt reynolds	1
+place	ttdi jaya	1
+player	ttk prestige	2
+player	tt one 	1
+technology	ttl	1
+technology	tti	1
+technology	tt-prefilled device	1
+term	ttyl	1
+term	ttaf	1
+parameter	ttr	1
+parameter	ttl	1
+parameter	ttg	1
+condition	ttir welding condition	1
+condition	ttp	1
+function	ttl conventional ip	1
+device	ttl device	5
+device	tti	1
+device	ttl	1
+device	tts	1
+brand	ttm led tail lamp	2
+brand	tt series	1
+brand	tti	1
+concept	ttl metering	1
+component	tts	1
+site	tt one hundred 	1
+site	tt store	1

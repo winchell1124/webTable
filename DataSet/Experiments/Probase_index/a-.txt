@@ -1,0 +1,1231 @@
+accessory	a-arms	1
+datum	a-level mathematics grade	2
+datum	a-level points score	2
+datum	a-vsb mcast datum	1
+datum	a-train satellite datum	1
+resource	a-z injury topic	2
+facility	a-gps support	1
+facility	a- three  scanners 	1
+process	a-particle emission	1
+game	a-maze-ing underground	1
+subject	a-level practical subject	1
+character	a-z	6
+character	a-umlaute in the popup editor for text object	1
+character	a-breve	1
+model	a- one 	1
+model	a- five 	1
+model	a- two  flight jacket 	1
+model	a- one hundred 	1
+model	a-o-r model	1
+attraction	a-ma temple	4
+situation	a- one  signing 	1
+category	a- one 	1
+category	a- two 	1
+client	a- one  creative packaging in palmyra 	1
+client	a-b	1
+client	a- plant	1
+product	a-board signage	1
+product	a-class	1
+feature	a-gps	9
+form	a-	1
+form	a-frame ladder	1
+form	a-frame banner	1
+alternative	a- seven  corsair 	1
+symptom	a-p contraction of the supraglottal cavity	1
+course	a-levels	1
+mechanism	a-p	1
+solution	a-b	1
+feature	a-gps system	1
+book	a-z series on embroidery published by country bumpkin	1
+book	a-list novel	1
+book	a-list	1
+star	a-list country star	1
+star	a-i- sixty-one  in m ten 	1
+star	a-list hollywood star	1
+star	a-list drama star	1
+structure	a-frames	1
+structure	a-helix	1
+structure	a-helical monolayers	1
+structure	a-league	1
+film	a-team	3
+business	a-power energy generation systems	1
+band	a-ha	2
+band	a-teens	1
+school	a-b tech	1
+title	a-next featuring the next generation of avengers	1
+title	a-z encyclopedia of food controversies	1
+ingredient	a-lipoic acid	3
+agent	a- eighty-six thousand nine hundred and twenty-nine 	3
+agent	a-receptor blocker	1
+circumstance	a-mong  other circumstance	1
+feature	a-z index tab	1
+feature	a-gps functionality	1
+feature	a-gps with picture geotagging	1
+development	a-p system	1
+type	a-line	1
+type	a-frame sign	1
+type	a- four 	1
+type	a- seven 	1
+celebrity	a-rod's current fling kate hudson	1
+celebrity	a-line wedding dresses wholesal lindsay lohan	1
+celebrity	a-list black female celebrity	1
+celebrity	a-listed bollywood celebrity	1
+disease	a-t	1
+job	a- twenty-six 	1
+drug	a-adrenergic response drug	1
+indicator	a- two  direct indicator 	1
+favorite	a-team	1
+manufacturer	a-dec	1
+act	a-trak	3
+act	a-list british act	1
+act	a-to-zs of black history	1
+feature	a-to-z network-based wavelength service provisioning	1
+feature	a-to-z index of the major features of the nbii	1
+feature	a-flex waveform optimization	1
+feature	a-class touch user interface	1
+complication	a-fib	1
+compound	a-pinene	1
+compound	a-methyl tyrosine	1
+compound	a-lipoic acid	1
+class	a-z training	1
+study	a-bomb survivor study	1
+website	a-z proxies	1
+basic	a-line	1
+leader	a-known intranet leader	1
+movie	a-team	3
+mean	a-c signal generator	1
+song	a-team	1
+substance	a-melanocyte stimulating hormone	2
+entity	a-racf  four 	2
+style	a-line	14
+style	a-line dress	3
+style	a-line evening dress	2
+style	a-line style	2
+style	a-line silhouette	1
+style	a-line strapless tea length pattern	1
+style	a-line halter chapel train	1
+style	a-line cut	1
+style	a-b-a	1
+style	a-line skirt	1
+expert	a- four  doctor 	1
+feature	a-b repeat function	1
+feature	a-b-c pencil	1
+feature	a-gps support	1
+feature	a-z browsing area for types of illness	1
+feature	a-rated appliance	1
+region	a-helix iandtheb-strand h	1
+classic	a-team	3
+classic	a-soft shell-crab sandwich	1
+show	a-team	9
+advanced feature	a-gps	2
+advanced feature	a-z wavelength provisioning	1
+design	a-line neck	1
+design	a-line jewel floor	1
+design	a-line bateau tea length	1
+design	a-line	1
+design	a-frame	1
+store	a- one  cellular 	1
+store	a-list crowd-pulling store	1
+vehicle	a- ten  warthog 	1
+vehicle	a-class with dpf equipped diesel	1
+section	a-b in the  seven th 	1
+incentive	a-plus-b contracting	1
+designer	a-list fashion designer	1
+award	a-levels	2
+chemical	a-hexylcinnamic aldehyde	1
+obstacle	a-frame	1
+software	a-ff repair station by a-ff laboratories	1
+top quality inn	a-mays-inn lakeside b&b	1
+sign	a-frame	2
+sign	a-frame signs	1
+destination	a-field such fascinating destination	1
+protein	a-actinin	2
+protein	a-com-plexwithagroupofrna  binding protein	1
+barrier	a- seventy-six 	1
+guest	a-list literary guest	1
+guest	a-list celebrity guest	1
+guest	a-list musical guest	1
+trend	a-rod's buff new girlfriend	1
+district	a- one 	2
+district	a-c	1
+constraint	a-priori shape model	3
+constraint	a-chain condition	1
+corporation	a- one  cardone industries 	1
+corporation	a-b	1
+flavor	a- one  steak sauce 	1
+language	a- zero 	1
+pattern	a-b	1
+landmark	a-house	1
+algorithm	a-star	2
+series	a-team	2
+series	a-list novels by zoey dean	1
+car	a-body and f-body car	1
+rule	a-side soccer game rule	1
+recipe	a-z bread	1
+story	a- thirty  spinach dip recipe 	1
+platform	a- ten 	1
+service provider	a-list solutions	1
+provision	a-b trust	1
+domain	a-ketoreductase domain	1
+result	a-c-b	1
+result	a-b-c	1
+sensor	a-gps	1
+station	a-channel	1
+singer	a-mei	1
+upgrade	a-head threadless fork with a clamp-on stem	1
+medium	a-suitable growth medium	1
+athlete	a-list gridiron athlete	1
+apps	a-z of london	1
+request	a-levels	1
+context	a-infinity algebra	1
+guy	a-rod	1
+account	a-list celebrity account	1
+supplement	a-lipoic acid	1
+shape	a-line tunic dress	1
+prize	a-league supporter gear	1
+competition	a-league	1
+factor	a-v discordance	2
+director	a-list movie director	1
+raw material	a-grade raw material	1
+veteran	a-rod	1
+icon	a-list celeb icon	1
+carrier	a-rated national carrier	1
+great feature	a-gps	1
+web site	a-independent   web site	1
+web site	a-v web site	1
+traditional method	a- frame	1
+road	a-roads	2
+road	a- thirty-two 	1
+index	a-index	3
+specification	a-gps	1
+substrate	a-cut sapphire substrate	2
+substrate	a-ketoglutarate	1
+marker	a-smooth-muscle actin	1
+marker	a- five 	1
+investor	a-list corporate real estate investor	1
+design feature	a-line	1
+goodie	a-gps	1
+aircraft	a- ten 	9
+aircraft	a- four  skyhawk 	3
+aircraft	a- seven  corsair ii 	3
+aircraft	a- twenty-six  invader 	3
+aircraft	a- four 	2
+aircraft	a- six 	2
+aircraft	a- seven 	2
+aircraft	a- fourty 	2
+aircraft	a- ten  warthog 	2
+aircraft	a- three hundred and twenty 	1
+aircraft	a- ten  thunderbolt ii 	1
+aircraft	a- twenty-six 	1
+aircraft	a- one e of late world war ii vintage 	1
+aircraft	a- six  intruder 	1
+aircraft	a- three hundred and eighty 	1
+aircraft	a- six e 	1
+hit	a-team	1
+TV show	a-team	1
+pioneer	a-list internet marketing pioneer	1
+stuff	a- six 	1
+liqueur drink	a-bomb kahlua recipe	1
+liqueur drink	a-bomb	1
+liqueur drink	a-bomb tia maria cocktail recipe	1
+fighter	a- five 	1
+enzyme	a-amylase	4
+enzyme	a-glucosidase orb-glucosidase	1
+support	a-frame  thirty 	1
+face	a-rod	2
+heroes	a-next	1
+reference	a- three  in the description for dagec 	1
+reference	a- three  in the description for dage 	1
+engine	a- sixty-five  continental 	1
+qualification	a-levels	8
+qualification	a-level english literature	1
+qualification	a-level in english literature	1
+qualification	a-level in accounting	1
+superstar	a-train	1
+functionalities	a-b repeat	2
+album	a-z	1
+metal	a-iron	2
+entertainer	a-list actor	1
+basic concept	a-b split testing	3
+predator	a-tively  large predator	1
+celebs	a-list outdoors celebs	1
+celebs	a-list hollywood celebs	1
+celebs	a-list pregnant celebs	1
+particle	a-particles	2
+opponent	a-bomb	1
+explanation	a-chain deficit	1
+exhibit	a- one 	1
+exhibit	a-bombed roof tile	1
+exhibit	a-do	1
+great artist	a-trak	1
+nice feature	a-dep shooting mode	1
+plant species	a-few bedding plant species	1
+topping	a- one  sauce 	1
+combination	a-b-a	1
+combination	a-f-g-l on purpose	1
+combination	a-si	1
+assessment	a-levels	1
+lesion	a-v malformation	1
+television show	a-team	1
+camera	a- one 	1
+rural area	a-p	1
+answer	a-army	1
+DJs	a-trak	2
+DJs	a-scratch on board	1
+historic site	a-ma temple	1
+critical area	a-frame	1
+heavyweight	a-trak	1
+artiste	a-star	1
+actress	a-list hollywood actress	1
+release	a-team	1
+testing	a-scan	1
+picture	a- ten  thunderbolt 	1
+connection	a-level result	1
+product category	a-b	1
+video	a- four 	2
+video	a-team	1
+toxin	a-amanitin	1
+online tool	a-space	1
+organic compound	a-naphthol	1
+item	a-frame ladder	1
+item	a-frames	1
+item	a- one 	1
+item	a- two 	1
+item	a-v equipment	1
+item	a-v	1
+comedian	a-list standup comedian	1
+serious condition	a-fib	1
+bill	a- ten thousand four hundred and ten  in the new york state assembly 	2
+business service	a-v equipment	1
+television program	a-team	1
+institute	a-grade management institute	1
+fan	a-list dj fan	1
+accident	a- twelve 	1
+accident	a- eleven 	1
+resin	a-olefin maleic acid anhydride resin	1
+solid	a-square	1
+fault	a-c line power loss	1
+fault	a-c line undervoltage	1
+fault	a-c line overvoltage	1
+column	a-burke column	1
+support group	a-ok home learners in boston	1
+sauce	a- one 	1
+condiment	a- one 	1
+trip	a-d	1
+trip	a-c	1
+clothes	a-line skirt	1
+item	a-frame sign	1
+item	a-line dresses	1
+perspective	a-historical social science perspective	1
+TV series	a-team	3
+diagnostic tool	a-special diagnostic tool	1
+distributor	a- three 	1
+regular	a-gps	1
+witness	a-list celebrity witness	1
+local band	a-bomb nation	1
+government initiative	a- seventy-six 	1
+healthy food	a- one  sauce 	1
+anomaly	a-scan	1
+critical application	a-pillar	1
+rogue Anti-Spyware	a-fast antivirus	1
+hollywood star	a-list hollywood star	1
+television series	a-team	4
+inorganic material	a-si	1
+plane	a- ten 	3
+plane	a- six 	2
+plane	a- ten  thunderbolt 	2
+plane	a- three hundred and fourty 	1
+plane	a- four cs used on the kitty hawk & entreprise 	1
+plane	a- four 	1
+seasoning	a- one  sauce 	1
+chemical agent	a-adrenergic antagonist	1
+promoter	a-lactalbumin promoter	1
+promoter	a-actin promoter	1
+powerhouse	a-bomb	1
+league	a-league	2
+flavoring	a- one  steak sauce 	1
+specialty store	a- sixteen 	1
+built-in feature	a-gps	1
+online store	a-main hobby	1
+local venue	a-best	1
+peptides	a-factor of saccharomyces cerevisiae	1
+peptides	a-melanocyte stimulating hormone	1
+inclusion	a-gps	1
+quantitative datum	a-level score	1
+fashion designer	a-list fashion designer	1
+innovative technique	a-plus-b-plus-c contracting	1
+range	a-z	1
+amino acid	a-amino isobutyric acid	1
+teaching aid	a-v	1
+grade	a-c exterior	2
+complex	a-b-a	1
+certificate	a-tick c-tick	1
+exam	a-levels	2
+home	a-frame	1
+celebrity guest	a-list celebrity guest	1
+high-end feature	a-gps	1
+music artist	a-list music artist	1
+free agent	a-list free agent	1
+boutique	a-you fashion	1
+terminology	a-line	1
+holding	a-q	1
+joint	a-c joint	1
+highway	a- fifty  from salamanca towards madrid 	1
+hand	a- eight 	3
+hand	a- nine 	2
+hand	a- seven  offsuit 	2
+hand	a- ten 	2
+hand	a-q	2
+hand	a-k-q-j	1
+hand	a- three - seven  with the  seven  showing 	1
+hand	a- two - ten -j with a board of  four - five -j-q 	1
+hand	a-k suited	1
+hand	a- two - four -q 	1
+hand	a- four 	1
+hand	a- three - four -k 	1
+hand	a- two - three -k 	1
+amines	a- three 	4
+amines	a- thirteen 	3
+amines	a- fifteen 	3
+amines	a- seventeen 	3
+amines	a- five 	3
+amines	a- eleven 	3
+ski resort	a-basin	1
+Supplemental information	a-	1
+brewery	a-b	1
+plate	a- one  through z- nine hundred and ninety-nine 	1
+medium player	a- two hundred  nmt 	1
+codecs	a-law pcm	1
+conventional material	a-c	1
+trust	a-b trust	1
+manipulatives	a-blocks	1
+multimedia feature	a-gps	1
+cartoon character	a-kuei in taiwan	1
+castle	a-frame bouncy castle	1
+product characteristic	a-con leg profile	1
+semiconductor	a-si	1
+guru	a-list strategy guru	1
+weapon system	a- thirty-seven 	1
+roadway	a- two  dual carriageway 	1
+cofactors	a-ketoglutarate	1
+discussion	a-class article council discussion	1
+trade publication	a-team group	1
+unusual feature	a- fourteen 	1
+typical feature	a-gps connectivity	1
+explosive	a- five 	1
+high-quality material	a-grade domestic raw materials-pvc	2
+club activity	a-day	1
+factor	a-share market stability	1
+service	a-gps	1
+local brand	a- one  steak sauce in north america 	1
+top act	a-ha	1
+education	a-levels	1
+proteases	a-lytic protease	1
+traditional form	a-b-a form	2
+transfer	a-class dvd transfer	1
+clan	a-clan of the northern resident	1
+weather event	a-individual   weather event	1
+carbon source	a-ketoglutarateand succinate	1
+intermediate	a-p	1
+connectivity option	a-gps	2
+large predator	a-tively  large predator	1
+team name	a- team	1
+structural member	a-arm	1
+Polysaccharides	a-l, four -polygalactosamine 	1
+big name player	a-rod	1
+bond	a-rated bond	1
+ski area	a-basin	1
+brewer	a-b	2
+practical subject	a-level practical subject	1
+marquee name	a-rod	1
+cultural icon	a-list celebrity	1
+web server	a-plus	1
+real-time information	a-b line	1
+popular television show	a-team	3
+jet	a- ten  thunderbolt ii 	1
+jet	a- ten  warthog 	1
+jet	a- four 	1
+standard protocol	a- ten 	1
+converter	a-pdf creator	1
+datum mining technique	a-priori algorithm	1
+datum mining technique	a-priori	1
+thin film	a-si film	1
+classic song	a- eleven 	1
+advance feature	a-gps support	1
+tumor marker	a-feto protein	1
+well-known character	a-bomb	1
+interval	a-z	1
+service	a-levels	1
+liquid fuel	a-type heavy oil	1
+digital datum	a-to-z map	1
+professional player	a-rod	1
+day spa	a-deva day spa in spartansburg	1
+rest	a-line maroon dress with a high neckline	1
+required document	a- four 	2
+aberration	a-bomb exchange type aberration	1
+coupling agent	a- one hundred and seventy-two  from union carbide of danbury 	1
+pair	a-t	1
+pair	a-pocket jean	1
+PVC product	a-pet sheet	1
+vascular lesion	a-v malformation	1
+administrative requirement	a- one hundred and two 	1
+hit show	a-team	2
+striker	a- seven 	1
+striker	a- four 	1
+striker	a- six 	1
+striker	a- ten 	1
+chemical constituent	a-pinene	1
+secondary structure	a-helices	1
+secondary structure	a-helix	1
+mature technology	a-smgcs surveillance	1
+serum marker	a-fetoprotein antigen	1
+academic course	a-level math	1
+academic course	a-level physic	1
+reading strategy	a-z wordstorming	1
+pathogenic organism	a-hemolytic streptococcus	1
+chemical component	a-pinene	1
+compression algorithm	a-law	1
+formal program	a-step program	1
+international	a-trak	1
+trade journal	a-n magazine	1
+country star	a-list country star	1
+musical guest	a-list musical guest	1
+alkylating agent	a-bromo amide	1
+hotel service	a-la-carte breakfast	1
+exciting new feature	a-list	1
+connectivity feature	a-gps	2
+legacy system	a- ten 	1
+premier brand	a-t financial information	1
+elevation	a-basin	1
+enhancers	a- one  sauce 	1
+simple pattern	a-line skirt	1
+baseline datum	a-g completion rate	1
+photosensitive material	a-si photosensitive body	1
+photosensitive material	a-silicon photosensitive body	1
+material handling product	a-frame truck	1
+phenotypic trait	a- glucosidase activity	1
+security software	a-squared anti-malware	1
+aircrafts	a- thirty-seven 	2
+military aircraft	a- ten  wart-hog 	1
+military aircraft	a- ten 	1
+suspension component	a-arm upright	1
+neurotoxins	a-bungarotoxin	1
+reel	a- fifty-five 	1
+bollywood celebrity	a-listed bollywood celebrity	1
+inflatable	a-frame bouncy castle	1
+traditional structure	a-frame style peak	1
+bleaching agent	a- isopropylcatechol	1
+national carrier	a-rated national carrier	1
+standard measurement	a-a	1
+topic	a-rod	1
+candidate gene	a-fabp gene	1
+female celebrity	a-list black female celebrity	1
+iconic image	a- one  beer poster 	1
+topical ointment	a-d	1
+navigation feature	a-gps	1
+chord	a-flat	1
+temporary sign	a-frame sign	1
+physical obstruction	a-frame type wood	2
+physical obstruction	a-frame-type wood	2
+physical obstruction	a-frame-type wood switching device used for isolating a circuit	1
+hydrolytic enzyme	a-amylase	1
+hydrolytic enzyme	a-amylase in cereal endosperm	1
+hydrolytic enzyme	a-glucosidase	1
+switching element	a-si tft	1
+company	a- one  auto transport 	3
+company	a-a blue star lines	2
+company	a-tlc limousine	2
+company	a- one  limousine service 	2
+company	a- one  plumbing of baltimore 	2
+mom	a-list celeb mom	1
+fun	a-team	1
+lover	a-list aviator designer sunglasses lover	1
+satellite town	a-ram	1
+antihypertensives	a-receptor blocker	1
+binding protein	a-com-plexwithagroupofrna  binding protein	1
+bus line	a-busses in copenhagen	1
+condo	a- five 	1
+suitable container	a- seven a 	1
+company	a-d technologies	1
+company	a-head, new economy company	1
+formal qualification	a-levels	1
+stars	a-rod	1
+common style	a-line dress	1
+visa category	a- one 	4
+baby toy	a-b-c block	1
+british act	a-list british act	1
+hollywood actress	a-list hollywood actress	1
+local singer	a-do	1
+academic qualification	a-levels	1
+company	a-life  two 	1
+company	a- one  luxury limousine 	1
+company	a- one  millionaire limousine service 	1
+company	a- one  ray's limo-van service 	1
+company	a- one 	1
+company	a-american avenue lmsne service	1
+company	a-aloha limousine service	1
+company	a-cap resources	1
+simple style	a-line	1
+basic style	a-line	1
+linear polymer	a-b block-type polymer	1
+programming element	a-z of opera	1
+auto insurance company	a-max auto insurance company	1
+terpenes	a-pinene	1
+successful show	a-team	1
+hollywood celebs	a-list hollywood celebs	1
+hot food item	a-la carte items like tempura	1
+hydrolases	a-amylase	1
+commercial publisher	a-z	1
+playback option	a-b	1
+tool steel	a- two 	1
+warbirds	a- twenty-six  invader 	1
+wedding dress	a-line wedidng dresses	2
+input item	a-grade potato	1
+premium bullet	a-frame	2
+famous car	a-team van	1
+movie director	a-list movie director	1
+actin-binding protein	a-actinin	1
+checkpoint	a-za ayem checkpoint	1
+jock	a-listed trance jock	1
+factor	a-line component	1
+activity	a- one 	1
+activity	a- two 	1
+coating layer	a-si layer	1
+economy company	a-head, new economy company	1
+generation aircraft	a- three hundred and eighty 	1
+decent feature	a-gps	1
+bucket	a-repeat   manufacturer bucket	1
+campus publication	a-line magazine	1
+gown	a-line gown	1
+protein-coupled receptor	a-adrenergic receptor	1
+radical thinker	a-holes in the nation of islam	1
+SE	a-able bonding	1
+celeb mom	a-list celeb mom	1
+interior piece	a-pillar cover	1
+local option	a-one florist on  thirty-six thst 	1
+local option	a-one florist on  thirty-six th st. 	1
+child care center	a-z day care	1
+clothing shop	a- one  tailor 	1
+collection technique	a- three  high-density collection technique 	1
+combat aircraft	a- ten 	1
+information	a-b line	4
+low-risk investment	a-rated bond	1
+resistive material	a-si	1
+light tank	a- twenty 	1
+Monoterpenes	a-pinene	1
+digital signal processing technique	a-to-d	1
+famous local snack	a-pou fashion ball soup	5
+famous local snack	a-pou fish ball soup	4
+famous local snack	a-po fish ball soup	1
+growth medium	a-suitable growth medium	1
+location technology	a-gps	2
+production program	a- four 	1
+production program	a- ten 	1
+shunt	a-v shunt	1
+exclusive ingredient	a-arbutin sturgeon caviar	1
+single character	a-z	1
+spyware scanner	a-squared free	1
+topology	a-b-c	1
+traditional qualification	a-levels	2
+traditional qualification	a-levels taken by evening class	1
+endogenous growth model	a-k model	1
+factory part	a-pillar cover	1
+legend player	a-rod	1
+American aircraft	a- four 	1
+Block copolymers	a-b	1
+family-owned business	a- one  auto body 	1
+international character	a-umlaut	1
+steel type	a- two 	2
+low-k material	a-c : f	1
+Naval aircraft	a- seven  corsair 	1
+Naval aircraft	a- four  skyhawk 	1
+professional contractor	a- one  remodeling & building 	1
+profile player	a-rod	1
+strong hand	a-a- two - three  double suited 	1
+vertical member	a-b	1
+world artist	a-ha	1
+Yankees	a-rod	1
+active learning approach	a-optimal design	1
+meeting room	a-frame chapel	1
+release layer	a-si	2
+signage product	a-frames	1
+advanced multimedia feature	a-gps	1
+ASCII character	a-z	1
+cargo aircraft	a- three hundred and eighty 	1
+sturdy support	a-frame trellis	2
+concept vehicle	a-bat compact pickup	1
+crate	a-list dj crate	1
+dollar company	a-b	1
+local convention	a-kon	1
+management institute	a-grade management institute	1
+SS	a-rod	1
+standup comedian	a-list standup comedian	1
+strategic move	a-major strategic move	1
+yankee player	a-rod	1
+added-value feature	a-gps	2
+air force asset	a- ten 	1
+barricade	a-frame barrier	1
+crap	a-team	1
+nonstandard material	a- two hundred and eighty-six  superalloy 	1
+secondary structural element	a-helices	1
+secondary structure element	a-helices	1
+alphanumeric character	a-z	1
+food display	a-frame sign	1
+good filter	a-c	2
+key combination	a-b-a	1
+event	a-rod taking steroids in the past	1
+portable sign	a-frame sign	1
+scaffolding protein	a-kinase anchoring protein	1
+supraventricular arrhythmia	a-fib	1
+unusual space	a-frame home	1
+airframes	a- ten  thunderbolt ii 	1
+A-list DJ	a-sides	1
+beautiful style	a-line	1
+CYP inhibitor	a-naphthoflavone	1
+face card	a-q	1
+heavyweight djs	a-trak	1
+hot movie	a-team	1
+interior trim component	a-pillar trim	2
+knowledgeable resource	a- one  septic tank service 	1
+mass producer	a-b	1
+modern jet fighter	a- ten 	1
+standard book	a-z	1
+television classic	a-team	1
+cross-linking protein	a-actinin	1
+driver circuit	a-mode driver circuit	1
+fighter-bombers	a- thirty-six 	1
+legendary aircraft	a- four d skyhawk 	1
+legendary airplane	a- twenty-six  invader 	1
+navigation service	a-gps	1
+netbook	a-listed asus eee pc  one thousand and one p 	1
+protein fraction	a-band protein	1
+sidewalk sign	a-frame sign	8
+adjunctive test	a-mode ultrasonography	1
+canon FD lens	a- one 	2
+flattering style	a-line	1
+foodservice company	a- one  steak sauce 	1
+hydrocarbon propellant	a- fifty-five 	1
+legacy aircraft	a- ten 	1
+MEMO various setting	a-b splice	1
+MEMO various setting	a-b loops	1
+memory module maker	a-data technology	1
+program	a-body car	2
+program	a-space	1
+program	a-levels	1
+notable wrestler	a-train	1
+offline communication	a-board poster	1
+popular lender	a-aaa mortgage loans & investments	1
+standard signage product	a-frames	1
+targeted ingredient	a-e-c vitamins	2
+top talent agency	a-list talent	3
+Airbus aircraft	a- three hundred 	1
+approved qualification	a-levels	1
+audio compression method	a-law pcm	1
+best system	a-trc for stable driving along with traction control system	1
+big name singer	a-mei	1
+binding compound	a-ketoglutaric acid	1
+conventional rocket	a- four 	1
+fascinating destination	a-field such fascinating destination	1
+front-line aircraft	a- seven 	1
+front-line aircraft	a- ten 	1
+iconic role	a-team s hannibal	1
+interfering component	a-arm suspension	1
+letdown	a-side	1
+letter board	a-frame sign	1
+light medium	a- twenty 	1
+Navy aircraft	a- six 	1
+Navy aircraft	a- seven 	1
+neighborhood retailer	a-z realty	1
+nephrological procedure	a-v shunt	1
+Nonimmigrants	a- one  diplomat 	1
+propeller plane	a- one 	1
+red hot act	a-trak	1
+sesquiterpenes	a-humulene	2
+soccer event	a-league	1
+soccer event	a-side soccer event	1
+steak sauce	a- one 	1
+stealthy aircraft	a- twelve 	1
+stochastic measure	a-percentile of efficiency score	1
+air craft	a- three hundred 	1
+contact obstacle	a-frame	3
+Conventional radiographs	a-p chest x-ray	1
+energy-efficient kitchen appliance	a-rated bosch gsd twelve v sixty gb freezer 	1
+fun surprise entrant	a- one 	1
+generation phone feature	a-gps	1
+inspiring style	a-line skirt	1
+program	a- twelve 	1
+premium controlled expansion bullet	a-square dead tough	1
+prom dress	a-line dress	1
+skirt	a-line	3
+specialist dictionary	a-z of food	1
+studentswith exam	a-levels	1
+thin-film semiconductor	a-si	1
+war bird	a- ten 	1
+war bird	a- six 	1
+wonderful show	a-team	1
+achievement measure	a-levels in the uk	2
+aluminium aircraft	a- ten 's 	1
+aluminium aircraft	a- four 	1
+amorphous semiconductor	a-si	1
+anti-Trojan program	a-squared free	1
+automatic transmission	a- nine hundred and four  model produced by chrysler corporation 	1
+biggest greek retailer	a-b vasillopoulos	1
+chin-intake jet	a- seven  corsair 	1
+factor	a-level background	1
+fabulous attribute	a-gps	1
+famous snack	a-pou fashion ball soup	1
+generally larger item	a-frame sign	1
+good quality pump	a- one  cardone rebuilt 	1
+ground attack aircraft	a- ten 	1
+HLA antigen	a- two 	2
+imaging capability	a-scan	1
+interesting facility	a-gps	1
+Major Genres	a-capalla	1
+monoterpene compound	a-pinene	1
+neural and humoral agent	a-adrenergic agonists	1
+program review	a- four 	1
+radial route	a- twenty-four 	1
+realistic simulation game	a- ten  attack 	1
+realistic simulation game	a- ten  cuba 	1
+road map	a-z	1
+scholastic and personal award	a-b honor roll	1
+second, classic style	a-line	2
+second, classic style	a-line v-neck	1
+sign accessory	a-frames	1
+SNL symbol	a-l	1
+SSD maker	a-data	1
+subsonic aircraft	a- four  skyhawk 	1
+USAF platform	a- ten c 	1
+vascular access device	a-v shunt for dialysis	1
+aircraft platform	a- ten 	1
+beneficial, safe ingredient	a-lipoic acid	1
+buddy action movie	a-team	1
+Cannell's series	a-team	2
+clear requirement	a-level mathematics for economics	1
+common metabolic intermediate	a-ketoglutarate	1
+contemporary map	a-z	1
+decent hand	a-t	1
+digital technology feature	a-scan freeze	1
+displaying historic military flying machine	a- six  intruder 	1
+displaying historic military flying machine	a- seven  corsair 	1
+electrophysiological defect	a-v node re-entry	1
+energy efficient home improvement	a-rated replacement window	1
+enhanced playback feature	a-b repeat	1
+organization	a- one  rental 	1
+organization	a- twenty-one  campaign 	1
+fast-attack aircraft	a- one h skyraider 	1
+fast-attack aircraft	a- four  skyhawk 	1
+fit flight helmet	a- eight 	1
+fit flight helmet	a- nine 	1
+frequenter	a-rod	1
+greenhouse-type structure	a-frames	1
+heart block	a-v block	1
+industrially important enzyme	a-amylase	1
+jute fabric	a-twill	1
+Linear block copolymers	a-b-a	4
+Linear block copolymers	a-b-a-b-a pentablock copolymers	2
+Linear block copolymers	a-b-a triblock copolymers	2
+Linear block copolymers	a-b-a-b tetrablock copolymers	2
+menu board	a-frame sign	1
+monolithic bullet	a-square monolithic solid	1
+non-stainless tool steel	a- two 	1
+OEM corporation	a-t	1
+photodetector structure	a-si pin diode	2
+organization	a-z children's charity	1
+PSSs	a-pss for m-gan	1
+public exam	a-levels	1
+punk venue	a-zone in chicago	2
+real life plane	a- twelve  ball blaster 	1
+scanning modalities	a-scan	1
+second-tier prospect	a-ball shortstop reese havens	1
+single-engine aircraft	a- seven  corsair ii 	3
+software term	a-star	1
+TCA cycle enzyme	a-ketoglutarate dehydrogenase	1
+valley-produced product	a-treat soda	1
+world-renowned DJ	a-trak	1
+accelerated particle	a-particles	1
+A-I SNL symbol	a-i	1
+ANG fighter legacy aircraft	a- ten 	2
+attachment style	a- fifty-three 	1
+attractive new product	a-class	1
+Barricade-A physical obstruction	a-frame type wood	1
+technique	a-b testing	1
+bedding plant species	a-few bedding plant species	1
+chassis member	a-arms	1
+classic apparel shape	a-line	2
+classical experimental design	a-optimal design	1
+college dropout	a-historical college dropout	1
+common aircraft noise measure	a-weighted level	1
+common silhouette	a-line	1
+common transistor	a-si field effect transistor	1
+competing thin-film technology	a-si	2
+disabled service	a-v	1
+dropout	a-historical college dropout	1
+easy-to-use reference feature	a-to-z dictionary of person	2
+ESRI press publication	a-z gis dictionary	1
+everal drug	a-glucosidase inhibitor	1
+famous Antiviruses	a-square	1
+f-body car	a-body and f-body car	1
+form-fitting style	a-line	2
+form-fitting style	a-line along with sheath	1
+technique	a-gps	1
+technique	a-b-c	1
+technique	a- three  high-density collection technique 	1
+glucose analog	a-methyl glucoside	1
+good plane	a- twelve 	1
+good spyware scanner	a-squared free	1
+helical structure	a-	1
+high wear resistant grade	a- eleven  lv 	1
+high-density collection technique	a- three  high-density collection technique 	1
+high-strength safety component	a-	1
+high-wing aircraft	a- seven  corsair ii 	1
+high-wing aircraft	a- seven 	1
+Host monoterpenes	a-pinene	1
+IO card	a-d card	1
+jap car friendly insurer	a-plan	1
+lettered check	a-d check	1
+local locksmith	a- one  locksmiths 	1
+military-style bag	a- three 	1
+mini cup specific part	a-arms	1
+minor protein	a-actinin	1
+application	a-z list	2
+application	a-gps on android phone	1
+optimal design	a-optimal design	1
+orchid compound	a-pinene	1
+party attire	a-line	2
+penn-dutch brand name	a-treat	1
+Permanent funding	a-base funding	1
+Permanent funding	a-based funding	1
+phone sensor	a-gps	2
+photoconductive layer	a-si	1
+popular trap hand	a-t	1
+pre-1980's american model	a- four 	1
+pre-university program	a-levels	1
+roids	a-roid	1
+Single nucleotide polymorphisms	a- nine hundred and fifty-three g in the aqp seven  promoter 	1
+slow-movers	a- ten  thunderbolt in the u.s. 	1
+South Vietnamese aircraft	a- thirty-seven 	1
+specialty lamp shape	a-line	1
+strong hole card	a-k	1
+surely brand	a-b	1
+application	a-pet sheet	1
+application	a-si tft lcd	1
+un-necessary background process	a-v scanning	1
+20th century fox title	a-team	1
+accelerated degree	a-msn degree	1
+active team	a-team	1
+add-on lip	a-spec lip	1
+ADG V aircraft	a- three hundred and thirty 	1
+agency website information location facility	a-z index	1
+amorphous inorganic compound	a-si	1
+anti-hyperglycaemic agent	a-glucosidase inhibitor	1
+Anything more premium	a-frame	1
+application testing	a-gps functional testing	1
+art training	a-one	1
+audio-text function	a-b loop	1
+automotive industry crash-protecting component	a-	1
+base pair change	a-c	1
+base pair change	a-t	1
+beautiful material & key shape	a-line	1
+best number	a-rod	1
+best safety system	a-trc for stable driving along with traction control system	1
+biotin antagonist	a-dehydrobiotin	1
+Black reconnaissance aircraft	a- twelve 	1
+brand new unit	a- thirty-four  comet 	1
+britain different educational certificate	a-level	1
+broken sequence	a-q	1
+name	a-power energy	2
+carrier based aircraft	a- four  skyhawk 	1
+chic option	a-line	1
+COIN platform	a- thirty-seven 	1
+Cold War aircraft	a- ten  thunderbolt ii 	1
+commercial warewasher	a- eleven 	1
+common adhesive cement	a-polymer adhesive cement	1
+Consumer-level DSLRs	a-listed canon  four hundred d 	1
+defense reform initiative	a- seventy-six  cost competition 	1
+desktop appliance	a-listed netgear readynas pro business	1
+diamond disc phonograph	a- eighty 	1
+digit sequence	a-b-c	1
+doubt aircraft	a- one 	1
+established qualification	a-levels	1
+excetpions	a-rod	1
+external exam sometimes exam	a-levels	1
+fairly heavy controlled expansion bullet	a-frame dead tough	1
+name	a-rod	1
+fastest aircrafts	a- twelve 	1
+fighter-bo mbers	a- four  skyhawk 	1
+follow-on SEAD aircraft	a- six e intruder 	1
+formal exam qualification	a-levels	1
+Free standing signage	a- frame sign	2
+Free standing signage	a-frame sign	1
+full line service	a- frame	1
+good free spyware program	a-squared free	1
+good, hard tool steel	a- two 	1
+great fro economics course	a-level	1
+ground-attack plane	a- ten 	1
+hardcore joint	a-cho in kyoto	1
+heterotrimeric gprotein-coupled receptor	a-adrenergic receptor	1
+hotosensitive material	a-silicon photosensitive body	1
+independent car rental agency	a-able of phoenix car rental	1
+industrially valuable amylase	a-glucosidase	1
+interesting modulatory or anchoring protein	a-kinase anchoring protein	1
+interesting static and flight display	a- ten  thunderbolt 	1
+key opinion former	a-list club djs	1
+keyboard button	a-z	1
+large glass-size si backplane technology	a-si	1
+factor	a-rich bulge	1
+case	a-v corporation	1
+local aboriginal tribe	a-mei	1
+locally famous boat	a-class keeler ranger	1
+location subsystem	a-gps	7
+lower-flying aircraft	a- ten  warthogs 	2
+maruti suzuki customer	a-star	1
+mature aircraft program	a- six 	1
+military team demo	a- ten  east 	1
+minor disappointment	a-rod	1
+model FD canon	a- one 	1
+modern-day war bird	a- ten  warthogs 	1
+MVP	a-rod	1
+naval aviation community	a- six  intruder 	1
+online title search website	a-plus registry services	1
+open-ended unit	a-	2
+organosilane	a- one hundred and eighty-six 	1
+outdoor advertising sign	a-frame sign	1
+Performance functionalities	a-b succession play	1
+phase-error compensation technique	a-si film	1
+Polysulfide silanes	a- one thousand five hundred and eighty-nine  from witco corp. 	1
+case	a-share  fifty  etf 	1
+case	a- three 	1
+case	a- ten  aircraft 	1
+pre-university study route	a-levels	1
+protein-bound lipoic acid	a-ketoglutarate dehydrogenase	1
+repeat mode	a-b repeat	1
+replacement RZR-S part	a-arms	1
+sadly movie	a-team	1
+school TV	a-team	1
+school-leaving qualification	a-levels	1
+SFX tool	a-z list	1
+simplest pattern	a-min pentatonic	1
+soccer game rule	a-side soccer game rule	1
+special-interest company	a- one  tours of clearwater 	1
+spin trap	a-phenyl-n-tert-butyl nitrone	1
+spin-trap antioxidant	a-phenyl-n-tert-butyl nitrone	1
+standard modern smartphone specification	a-gps	1
+standard UK qualification	a-levels	1
+stereotypical guy movie	a-team	1
+strategy guru	a-list strategy guru	1
+student forum	a-list	1
+case	a- seven d 	1
+tank killer	a- ten  thunderbolt ii 	1
+top hitter	a-rod	1
+traditional academic qualification	a-levels	1
+traditional Harlequin sign	a-piece of clothing with a diamond pattern	1
+trustworthy virus scanner	a-squared	1
+twin engine plane	a- ten 	1
+unwanted aircraft	a- twenty  havoc 	1
+USAAF medium bomber	a- twenty 	1
+wear-resistance grade	a- two 	1
+wedding gown style	a-line style	1
+wind power company	a-power energy generation systems	1
+year race track	a- one  ring in austria 	1
+a-adrenergic receptor agonists	a-methyl norepinephrine	1
+Actin binding pro-teins	a-actinin	1
+action node	a-p shown in fig	1
+actual jet turbine model	a- four  skyhawk 	1
+actual quality action film	a-team	1
+advanced secondary school course	a-level	1
+agilon performance filler	a- four hundred g silica 	1
+Alert aircraft	a- ten 	1
+Allied aircraft	a- twenty-six 	1
+alphabetical reference	a-safety issues in the occupational setting	4
+AMCMC method	a-r	1
+americans worship figure	a-rod	1
+amorphous carbon-based coating	a-c	1
+amorphoussemiconductor layer	a-si	1
+app development firm	a- one  technology of new york 	2
+assistant technology	a-gps	1
+attack plane	a- ten 	1
+auto hauler	a-aaa auto transport llc	1
+option	a-levels	1
+bob haircut	a-line bob haircut	7
+body frame pillar	a-pillar	2
+bundling protein	a-actinin	1
+chemically distinct block	a-b-c triblocks	2
+classic or simple cut	a-line dress	1
+combination pair	a-b	1
+Comfy wear	a-line dress	1
+commercially available chiral molecule	a-amino acid	1
+common letter grade	a-	1
+cone shape	a-frame house	1
+contemporary taiwanese singer	a-mei	1
+cost segment	a-	2
+craig's bit	a-sexual icon	1
+CRT console capability	a-scope mode	1
+dedicated CAS aircraft	a- ten 	1
+dialectal verb	a-goin for going	1
+dj fan	a-list dj fan	1
+dvd transfer	a-class dvd transfer	1
+endo-acting enzyme	a-amylase	1
+epidermoid carcinoma cell line	a- two hundred and fifty-three  cell 	1
+event recording technique	a-b-c chart	1
+extremely valuable unsaturated fatty acid	a-linolenic acid	1
+fast bumpy berm	a-line	1
+favourable road system	a-class trunk road	1
+federal cost principle	a- twenty-one 	1
+figure-flattering style	a-line off the shoulder wedding gown	1
+fixed position coupler	a-frame	1
+form-fitting design	a-line	3
+form-fitting model	a-line	1
+form-fitting variation	a-line	1
+forward-plus-retrace pair	a-c in fig	1
+frequency weighting	a-weighting	1
+full-scale aircraft	a- ten  hogwart 	1
+GBM cell	a- one hundred and seventy-two  mg 	1
+GBM cell line	a- one hundred and seventy-two  mg 	1
+glioma cell line	a- one hundred and seventy-two 	1
+good stainless steel	a- two hundred and eighty-six 	1
+google location service	a-gps	1
+grand final	a-league	1
+gravis bag	a-frame	1
+great and productive feature	a-gps	1
+green mulch system	a-c with inga	1
+ground traffic control project	a-smgcs	1
+Hexahydroindenopyridines	a- two 	1
+high profile page	a-z index ot the contact information page	1
+high-quality plywood grade	a-	1
+hormonal specialist	a- four  doctor 	1
+induction ofa classic secondary structure	a-helices	1
+infinitely varaiable valve timing system	a-vtec	1
+group	a-club out of denver	1
+group	a-hmao	1
+internet marketing package	a-la-carte package	1
+jumbo airliner	a- three hundred and eighty 	1
+label head	a-trak	2
+ladylike fashion innovation	a-line	2
+Lampholders	a- nineteen  shown 	1
+large conventional aircraft	a- three hundred and eighty 	1
+large round ball	a- one  necessary 	1
+leading dental cabinetry manufacturer	a-dec	1
+lethal anti-tank platform	a- ten  warthog 	1
+loose-fitting gown	a-line	1
+memory kit	a-data adqve one b sixteen k 	1
+mercedes product	a-class	1
+Methylated styrene	a-methyl styrene	1
+Mid-riser-biased coding	a-law coding used in european transmission system	1
+military static	a- ten 	1
+modern multirole transport aircraft	a- three hundred and thirty  mrtt 	1
+Modern ultrasonic imaging equipment	a-scan biometer	1
+negative blood type	a-	1
+nice two-channel integrated amp	a- eighty-five 	1
+non-b-dna duplex structure	a-dna	1
+method	a-stratified design	1
+method	a-law technique	1
+normal character key	a-z	1
+OMB directive	a- eleven  on budget preparation 	1
+one-or two-hit wonder	a-ha	1
+organized structural motif	a-helices	1
+out-of-town brewer	a-b inbev	1
+oversized passenger aircraft	a- three hundred and eighty 	1
+packet aggregation technique	a- mpdu with ba	1
+phone solution	a-gps	1
+portable pet home	a-frame from ware	1
+positive deal	a-rod	1
+premix compound	a-tops brand v-lite premix	1
+preprinted tab	a- z	1
+pre-university course	a-levels	1
+prime grade	a- thirty-six 	1
+product project	a-class	1
+pseudo qualifications	a-level in critical thinking	1
+recently-launched model	a-segment picanto hatchback	1
+regular license	a-b-c-d d being a chauffeurs license	1
+rhythmic or musical cue	a-b-c song	1
+rigid and exact conformation	a-helix andb-structure	1
+roiders	a-rod	1
+school sport fixture	a-division schools football semi-finals	1
+school uniform staple	a-line skirt	1
+school-level qualification	a-levels	1
+second-arystructural feature	a-helices andb-sheets	1
+selective control system	a-b-c analysis	3
+shortest-path search algorithm	a-star	1
+si-based inorganic material	a-si	1
+sign violation	a-frames	1
+simple, lightweight datum storage algorithm	a- tree	1
+single byte input value	a-z	3
+smartphone necessity	a-gps	1
+sound quality indicator	a-weighted sound pressure level	1
+spin trap s	a-phenyl-n-tert-butyl nitrone	1
+standard sorting option	a-z	1
+straight structural array	a-helices	1
+strong power structure	a-b-a	1
+style evening dress	a-line evening dress	2
+substructural motif	a-helices	1
+superdwarf bent	a- four 	1
+supporting aircraft	a- one  skyraiders 	1
+supposed steroid user	a-rod	1
+T-50 variant	a- fifty 	1
+tasked asset	a- ten  attack aircraft 	1
+teacher training workshop	a-way with waste training workshop	1
+tight, straight skirt	a-line skirt	1
+Tippmanns	a- five 	1
+traction control mechanism	a-trac-type system	1
+typical monolithic report	a- eleven 	1
+uncommon compound	a-aminoadipic acid	1
+university preparation course	a-levels	1
+unsynchronized link	a-b	1
+vehicle control barricade	a-frame barricade	1
+vitamin Eanalogues	a-tocopheryl succinate	1
+waterfront zone	a- two  zone 	1
+weighting curve	a-	1
+WW2 USAAF flight helmet	a- eleven 	1
+tool	a-special diagnostic tool	1
+project	a- ten  antenna high-priority project 	1
+artist	a-teens	5
+artist	a-ha	3
+artist	a-trak	2
+artist	a-sides	2
+artist	a-ha's lead singer morten harket	1
+artist	a-teens aaron carter dream street hoku jump five  romeo miller no secrets play 	1
+artist	a-ha lead singer morten harket	1
+artist	a-list music artist	1
+material	a-c	3
+material	a-si	2
+material	a-c amorphous carbon	2
+material	a-grade raw material	1
+material	a-v equipment	1
+material	a-b titanium alloy	1
+material	a- four  sheet 	1
+material	a- two 	1
+player	a-rod	8
+player	a-rod making	1
+product	a- seventy-seven 	2
+product	a-bomb	1
+technology	a-si	1
+technology	a-gps	1
+term	a-	1
+term	a-c	1
+term	a-hour	1
+parameter	a-values	1
+species	a-few bedding plant species	1
+measure	a-weighting	2
+measure	a-weighted level difference	1
+measure	a-rated boilers	1
+condition	a-fib	1
+element	a-line structure	1
+variable	a-z	1
+product	a-bike related product	1
+function	a-gps	1
+function	a-b repeat	1
+function	a- ten  unit 	1
+device	a- seven hundred and one  digital readout 	2
+device	a- seven hundred and two  digital readout with alarm 	1
+device	a- one  and device 	1
+device	a-med system	1
+device	a-gps locator device	1
+brand	a-b portfolio ``alliance'' brand	1
+concept	a-b-c theory	1
+component	a-line structure	2
+site	a-independent   web site	1
+site	a-z index	1
+site	a- five  operators group 	1
+site	a-v web site	1
+related product	a-bike related product	1

@@ -1,0 +1,4949 @@
+factor	tv	14
+product	tv  thirty-two  lg 	1
+product	tv antenna	1
+product	tv box related product	1
+product	tv cabinet	1
+product	tv cabinet related product	1
+product	tv coaxial socket	1
+product	tv combo related product	1
+product	tv dvd combo related product	1
+product	tv fitness product	1
+product	tv tuner card related product	1
+product	tv tuner dvd related product	1
+product	tv ts contact	1
+product	tv turntable	1
+product	tv unit	1
+product	tv wall unit related product	1
+product	tv pal related product	1
+product	tv recorder digital related product	1
+product	tv remote	1
+product	tv mainboard related product	1
+product	tv movie related product	1
+product	tv remote controller related product	1
+product	tv show	1
+product	tv's being offered with wifi capability	1
+product	tvs digital related product	1
+product	tvnz encyclopedia	1
+product	tvp related product	1
+product	tv's washing machine	1
+product	tv show related product	1
+product	tv socket related product	1
+product	tv series	1
+product	tv set-top box	1
+product	tv tuners	1
+product	tv vcr related product	1
+product	tv sony related product	1
+product	tv wholesale product	1
+product	tv station related product	1
+product	tv table related product	1
+product	tv video system converter	1
+product	tv wall bracket related product	1
+product	tv screen enlarger related product	1
+initiative	tvei	3
+initiative	tv three 's campbell live 	1
+accessory	tv	8
+accessory	tv out cable	2
+accessory	tv link	2
+accessory	tv device	1
+accessory	tv tuner	1
+accessory	tv antennae	1
+accessory	tv cabinet	1
+accessory	tv onto the seatback	1
+accessory	tv pla yers	1
+accessory	tv remote	1
+accessory	tv of the cabin	1
+accessory	tv satellite antennas	1
+accessory	tv support	1
+accessory	tv stand	1
+datum	tv guide	1
+datum	tv program	1
+datum	tv listing	1
+datum	tv show	1
+datum	tv guide info	1
+datum	tv guide system	1
+datum	tv rating	1
+datum	tv advertising schedule	1
+datum	tv station	1
+datum	tv transmitter	1
+resource	tv	6
+resource	tv program	4
+resource	tv trend report	1
+resource	tv medium	1
+resource	tv weather new	1
+resource	tv home decoration schedule	1
+resource	tv show	1
+resource	tv computer internet	1
+resource	tv advertisement	1
+resource	tv series	1
+facility	tv	82
+facility	tv room	12
+facility	tv lounge	5
+facility	tv set	2
+facility	tv's	1
+facility	tva's electrical generating plant in southwest memphis	1
+facility	tv cable	1
+facility	tv common room	1
+facility	tv studio	1
+facility	tv projector	1
+facility	tv connection	1
+source	tv	17
+source	tv station	7
+source	tv show	4
+source	tv program	3
+source	tv guide	3
+source	tv advertising	3
+source	tvsquad.com	2
+source	tvor sat	1
+source	tvrage	1
+source	tv show myth busters	1
+source	tv signal source	1
+source	tv tuner	1
+source	tv interview	1
+source	tv new source	1
+source	tv new	1
+source	tv commercials	1
+source	tv tropes	1
+source	tv show mythbusters	1
+source	tv set	1
+source	tvcatchup	1
+source	tv footage from the time	1
+source	tv cookery program	1
+property	tv-oriented robot property	1
+game	tv quiz	1
+game	tv game show	1
+game	tv fav	1
+game	tv playing video game	1
+game	tv games	1
+subject	tv show	2
+subject	tv production	1
+subject	tv shows sucking	1
+exception	tv set	2
+exception	tv news camera	1
+exception	tv performing.	1
+product	tv projector related product	1
+product	tv receiver	1
+product	tv interface device	1
+product	tv digital box related product	1
+product	tv dongle related product	1
+product	tv main board related product	1
+product	tv outdoor antenna related product	1
+product	tv bracket related product	1
+product	tv card wireless related product	1
+product	tv accessory related product	1
+exception	tv performing	1
+character	tv series character	1
+work	tv nation	3
+work	tv series	1
+work	tv-made melodrama	1
+work	tv show	1
+work	tv-programs	1
+model	tvs with integrated video function	1
+word	tv	7
+word	tversity media server pro keygen	1
+word	tv repair	1
+word	tv hints	1
+word	tv news reader software	1
+attraction	tv tower	2
+attraction	tverskaya street	1
+situation	tv studios with huge hum fields created by tv camera	2
+situation	tv show	1
+situation	tv commercial	1
+situation	tv ministry	1
+situation	tv repair truck	1
+category	tv	12
+category	tv show	4
+category	tv & visual	3
+category	tv visual	2
+category	tv trivia	1
+category	tv series	1
+category	tv & home cinema	1
+category	tv performance	1
+category	tv programs in the same way	1
+client	tv three 	2
+client	tv guide	2
+client	tv four 	1
+client	tvr	1
+client	tv globo	1
+client	tv guide network	1
+client	tv home shopping industry	1
+client	tvg	1
+client	tv works	1
+document	tv licences	1
+author	tv script writer stan cutler	1
+feature	tv	33
+feature	tv-out	29
+feature	tv tuner	7
+feature	tv output	4
+strategy	tv adverts	1
+strategy	tv in pregnancy	1
+form	tv	5
+form	tv commercial	2
+form	tv program	2
+form	tv technical secondary school	1
+form	tv series	1
+form	tvai	1
+person	tv preacher	2
+person	tv company	2
+person	tv reporter	1
+person	tv anchorman	1
+person	tv commentator stuart rothenberg	1
+person	tv & radio presenter	1
+approach	tv ad	1
+approach	tv-favored good cop	1
+alternative	tv program sponsorship	4
+alternative	tv	4
+alternative	tversity	2
+alternative	tv tuner usb card	1
+alternative	tvu for streaming tv	1
+effect	tv presentation style	1
+agency	tva	7
+agency	tv five  worldwide television network 	1
+object	tv	3
+object	tv remote	2
+object	tv set	2
+object	tv guide	1
+object	tv board	1
+object	tv program	1
+object	tv stand	1
+object	tv aerial	1
+theme	tv show	3
+symptom	tvo	1
+course	tv production	2
+course	tv directing	1
+course	tv format	1
+location	tv network	1
+action	tva declaration	1
+mechanism	tv program	1
+mechanism	tv filter wheel	1
+mechanism	tv focus stage	1
+feature	tv one 	2
+feature	tv two 	2
+feature	tv set	2
+feature	tv swivel	1
+feature	tv record	1
+feature	tv's with premium channel package	1
+feature	tv's media equipment	1
+feature	tv-out video-in	1
+feature	tv remote	1
+feature	tv option	1
+feature	tv function	1
+feature	tv antenna	1
+book	tv repair for beginners	1
+star	tv host jimmy houston in attendance	1
+star	tv presenter lisa wilkinson	1
+star	tv spot feature star	1
+star	tvlm  five hundred and thirteen 	1
+star	tv chef rachel ray	1
+star	tv centre star	1
+star	tv host richard whiteley	1
+star	tv presenter philip schofield	1
+star	tv new medium star	1
+star	tvxq's u-know yunho	1
+structure	tv	1
+structure	tv tower	1
+structure	tv antennas	1
+film	tv series	3
+film	tv series eli stone	1
+film	tv shows like the oc	1
+film	tv series carsons law	1
+film	tv's spaced	1
+film	tv drama secret diary of a call girl	1
+business	tv production company tiger aspect	1
+business	tv antennas perth	1
+field	tv new	2
+field	tv production	1
+field	tv set	1
+field	tv broadcasting	1
+band	tv on the radio	8
+band	tvxq	5
+band	tv heart attack	1
+band	tv twenty-one 	1
+amenity	tv	98
+amenity	tv set	4
+amenity	tv lounge	4
+amenity	tv in bathroom	3
+amenity	tv room	3
+amenity	tv monitor	1
+amenity	tv channels choice	1
+amenity	tvs with vcrs	1
+amenity	tv-vcr-stereo	1
+amenity	tv's internet	1
+amenity	tv's	1
+amenity	tv located inside the bathroom mirror	1
+food	tv dinner	45
+food	tvorog	1
+food	tvimip green	1
+food	tvp	1
+title	tv twenty-one 	1
+title	tv title	1
+title	tv superstars	1
+title	tv guide	1
+ingredient	tvp meat	2
+ingredient	tvp	2
+operation	tvontario	1
+circumstance	tv special	1
+cost	tv	3
+cost	tv satellite	2
+cost	tv licence	1
+cost	tv time	1
+scholar	tversky	1
+scholar	tversky & kahneman	1
+feature	tv listing	1
+feature	tv receiver	1
+development	tv	1
+development	tv compatible	1
+type	tv documentary	1
+celebrity	tv host	6
+celebrity	tv chef jamie oliver	3
+celebrity	tv host oprah winfrey	2
+celebrity	tv presenter holly willoughby	2
+celebrity	tv presenter jeff leach	1
+celebrity	tv presenter julia bradbury	1
+celebrity	tv presenters ant & dec	1
+celebrity	tv presenter fern britton	1
+celebrity	tv personality jimmy saville	1
+celebrity	tv newswoman diane sawyer	1
+celebrity	tv artist neha mehta of mamta fame along with a global clientele	1
+celebrity	tv chef rachel ray	1
+celebrity	tv hunting personality chris brackett	1
+celebrity	tv chef nigella lawson	1
+celebrity	tv presenter piers morgan	1
+celebrity	tv producer barry kemp	1
+celebrity	tv personality katie hill	1
+celebrity	tv star	1
+celebrity	tv four hundred and eleven  television series feature celebrity 	1
+celebrity	tv weatherman willard scott	1
+celebrity	tv anchor sabine christiansen	1
+celebrity	tvxq s changmin	1
+celebrity	tv weatherman al roker	1
+celebrity	tv personality robin leach	1
+celebrity	tv personality rove mcmanus	1
+celebrity	tv presenter	1
+celebrity	tv presenter philip schofield	1
+celebrity	tv reporter sam donaldson	1
+celebrity	tv chef jean-christophe novelli	1
+celebrity	tv actor aaron aziz	1
+celebrity	tv personality bree amer	1
+celebrity	tv personality joy behar	1
+celebrity	tv presenter davina mccall	1
+celebrity	tv presenter johanna griggs	1
+celebrity	tv presenter sarah murdoch	1
+celebrity	tv presenter tanya kim	1
+venue	tv appearance on telemundo	1
+town	tver	1
+firm	tvs	4
+firm	tvs capital funds	1
+firm	tvs motor co.	1
+industry	tv	10
+industry	tvi	1
+industry	tv storytelling	1
+industry	tv network	1
+requirement	tv	3
+requirement	tv removal	1
+job	tv advert	1
+job	tvc script	1
+job	tv script	1
+job	tv socket	1
+job	tv news reporter	1
+job	tv hookup	1
+job	tv chef	1
+indicator	tv rating	1
+indicator	tv ratings included in a warl survey	1
+favorite	tv guide	2
+favorite	tv cartoon	1
+favorite	tv offer popular favorite	1
+favorite	tv star	1
+manufacturer	tvs motor co.	2
+manufacturer	tvr	1
+manufacturer	tvisto	1
+act	tv on the radio	2
+feature	tv-out capability	1
+feature	tv-out connectivity	1
+feature	tv remote control	1
+feature	tv rental	1
+feature	tv s	1
+attribute	tv lounge	2
+publication	tv guide	12
+publication	tv magazine	1
+publication	tv schedule magazine	1
+publication	tvguide	1
+publication	tv engineering	1
+publication	tv journal	1
+publication	tv talk weekly	1
+setting	tv aspect ratio	2
+setting	tv standard	1
+setting	tv studio	1
+class	tverificationspanpainter  four hundred and fourty 	1
+class	tv acting class	1
+website	tv new website	1
+website	tv links	1
+website	tvland	1
+website	tv.com	1
+website	tv five 	1
+website	tv show website	1
+website	tv catch-up website	1
+website	tvtrip	1
+website	tv by the number	1
+website	tv guide for complete local listing	1
+figure	tv presenter anthea turner	2
+figure	tv chef jamie oliver	1
+equipment	tv	27
+equipment	tv game	4
+equipment	tv set	3
+equipment	tv aerial	1
+equipment	tv hdmi equipment	1
+equipment	tv test receivers	1
+unit	tv	5
+unit	tv watching room	1
+unit	tv tuner	1
+basic	tv	14
+basic	tv licence	1
+musician	tv on the radio	2
+expense	tv	3
+expense	tv license	2
+expense	tv ad	1
+movie	tv shows like the untouchables with robert stack	3
+movie	tv mini-series	1
+movie	tv shows like happy days	1
+movie	tv mini-series into the west	1
+movie	tv shows like the a-team	1
+movie	tv series	1
+movie	tv's alias	1
+innovation	tv everywhere	3
+innovation	tvw	1
+mean	tv	7
+instance	tv broadcasting	1
+instance	tv set top boxes	1
+song	tv pro	1
+team	tvs event	1
+team	tvm	1
+entity	tv cable	1
+entity	tv station	1
+entity	tva	1
+country	tv repair shop franklin tn	1
+building	tveit kirke	1
+building	tv studio	1
+expert	tv host fiona philips	1
+expert	tv gardener roger swain	1
+expert	tv personality alison smith	1
+expert	tv doctor rob hicks	1
+expert	tv property makeover expert	1
+phenomenon	tv watching	1
+improvement	tvs in howard hall	1
+region	tver region	2
+region	tver	1
+purpose	tv	5
+purpose	tv news camera	4
+purpose	tv stand	1
+format	tv show	1
+format	tv series on dvd	1
+format	tv tuner basic video format	1
+format	tv game-show format	1
+Organisations	tv	2
+Organisations	tv show	1
+partner	tv tokyo	1
+partner	tvg	1
+partner	tv turnoff network	1
+partner	tv essential partner	1
+big name	tv rock	1
+standard	tv anytime	2
+standard	tv transmission standard	1
+classic	tv western classic	1
+classic	tv cult classic	1
+piece	tv people	1
+show	tvd, ninety thousand two hundred and ten 	1
+show	tv variety show	1
+show	tv food show	1
+show	tv food network's unwrapped	1
+show	tv crime show	1
+show	tvd	1
+show	tv science show	1
+show	tv mystery show	1
+show	tv forensic show	1
+show	tv ontario's the agenda	1
+show	tv makeover show	1
+show	tv make-over show	1
+show	tv new show	1
+show	tv music show	1
+show	tv design show	1
+show	tv property show	1
+show	tv sci-fi show	1
+show	tv patrol	1
+show	tv dance show	1
+advanced feature	tv audio	1
+advanced feature	tv output	1
+role	tv presenter	1
+role	tv journalist	1
+role	tv program narrator	1
+vendor	tv distribution vendor	1
+design	tv show	2
+sector	tv & radio	1
+influence	tv	5
+influence	tv show	2
+influence	tv interest	1
+environmental factor	tv	1
+market	tv guest spot	1
+market	tv audience	1
+customer	tvs motors	2
+customer	tv home shopping retailer	2
+customer	tvs chakra	1
+customer	tv receiver	1
+customer	tva	1
+customer	tv giant	1
+vehicle	tv broadcasting	2
+vehicle	tv advertising	1
+opportunity	tv	2
+opportunity	tv commercial	1
+intervention	tv commercial	1
+section	tv	4
+section	tv clip	1
+section	tv & movies	1
+section	tv show	1
+section	tv section	1
+effort	tversky's prospect theory	1
+effort	tv writer	1
+actor	tv-friendly character actor	1
+actor	tv star	1
+label	tvt records	1
+issue	tv violence	2
+environment	tv drama	1
+environment	tv station	1
+supply	tv set	1
+award	tv music awards	2
+chemical	tvoc	1
+article	tv vcr	1
+article	tv set	1
+obstacle	tv lead	2
+software	tversity	2
+software	tvu player	1
+software	tv live	1
+software	tvu	1
+capability	tv	4
+capability	tv tuner	1
+module	tv schedule	1
+magazine	tv guide	12
+magazine	tv y novelas	1
+magazine	tv times	1
+magazine	tv listing magazine	1
+magazine	tv sorrisi	1
+magazine	tv soap	1
+magazine	tv week	1
+provider	tv programming provider	1
+provider	tv content provider	1
+woman	tv reporter linda schacht	1
+woman	tv anchorwoman	1
+asset	tv	3
+asset	tv mast owner arqiva	1
+report	tvmar report	1
+party	tv home shopping company	1
+professional	tv industry professional	1
+professional	tv show producer	1
+offer	tv show	1
+offer	tv wall bracket related offer	1
+speaker	tv presenter	1
+guest	tv stars mark cagney	1
+guest	tv personality sarah hill	1
+occasion	tv recording	1
+occasion	tv presentation	1
+occasion	tv interview	1
+competitor	tvs motor	3
+competitor	tvs motor co.	1
+gift	tv	2
+gift	tv lcd	1
+gift	tv's	1
+performer	tvxq	1
+good	tv	7
+good	tv s	3
+good	tv set	1
+brand name	tv brand name	1
+quality	tv animation in large quantity	1
+possibility	tv	9
+control	tv content control	1
+image	tvs in a circular fashion	1
+image	tv signal	1
+image	tv commercial	1
+image	tv broadcasting image	1
+image	tv channel logo	1
+neighborhood	tvs nagar	1
+record	tv & radio	1
+package	tv	2
+channel	tv	17
+channel	tv five 	4
+channel	tv ad	3
+channel	tv four 	2
+channel	tv land	2
+channel	tv program	2
+channel	tv three 	2
+channel	tv listings	1
+channel	tv play series	1
+channel	tv one 	1
+channel	tve	1
+channel	tvc	1
+channel	tvland	1
+channel	tv kanagawa	1
+channel	tv music channel	1
+channel	tv movie channel	1
+channel	tv maldives	1
+channel	tv sexy club	1
+channel	tv saitama	1
+channel	tv  three 	1
+channel	tv cable channel	1
+channel	tv station	1
+channel	tv eighteen  india ltd. group channel 	1
+channel	tvn	1
+channel	tv-special   entertainment channel	1
+channel	tv sport channel	1
+channel	tv brasil	1
+channel	tv asia	1
+luminary	tv network advertising business luminary	1
+surface	tv remote control	3
+surface	tv stand	2
+surface	tv's	1
+surface	tv remote	1
+touch	tvs in every bedroom	1
+series	tv tie-in series	1
+series	tv animation series	1
+series	tv cartoon series	1
+series	tv comedy series	1
+car	tvr	2
+car	tvr's	1
+car	tvr cerbera	1
+utility	tva	6
+utility	tv	4
+utility	tv cable	3
+suggestion	tv	3
+limitation	tv rating	1
+text	tv schedule	1
+file	tv show	20
+file	tv screenshots	1
+sport	tvcc cardinals	1
+charge	tva loan	1
+charge	tv voting	1
+story	tv series avatar the last airbender	1
+issue	tv privilege	1
+issue	tv contract	1
+issue	tv monitoring of public rest room	1
+track	tvg's exclusive track	1
+everything	tv	3
+platform	tv	8
+platform	tv broadcasting	1
+platform	tv animation	1
+platform	tv-based browser	1
+platform	tv programs on dvd	1
+service provider	tv satellite dish installer	1
+service provider	tv cable company	1
+supplier	tv panel supplier	1
+essential	tv	5
+essential	tv tuner	1
+card	tv card	1
+card	tv tuner	1
+employer	tva	3
+domain	tv	3
+domain	tv program broadcasting	1
+user	tva s power distributor	1
+committee	tv production	1
+association	tv bureau of advertising	2
+operator	tv shopping operator	1
+network	tv osaka	6
+network	tv land	3
+network	tv ns	1
+network	tv guide network	1
+network	tv network	1
+station	tv  sixty-nine 	1
+station	tverskaya	1
+station	tv network station	1
+station	tvm	1
+station	tve	1
+station	tv three 	1
+station	tv land	1
+station	tv four 	1
+station	tv twenty-four 	1
+singer	tvxq	2
+upgrade	tv receiver	1
+interest	tv show	3
+interest	tv	2
+interest	tv series	1
+medium	tv	40
+medium	tv show	3
+medium	tve	1
+medium	tv commercial	1
+medium	tv soap opera	1
+medium	tv broadcast	1
+space	tv unit	4
+space	tv room	2
+toy	tv remote	1
+toy	tv fish lamp	1
+mode	tv	4
+mode	tv output mode	1
+shop	tv sales & hire	1
+apps	tvtime	1
+apps	tv application	1
+personality	tv's jerry springer	2
+personality	tv presenter	1
+personality	tv personality terry grant	1
+personality	tv cooking personality	1
+authority	tv licensing	1
+context	tv program selection	1
+stock	tv eighteen 	1
+stock	tvs motor	1
+account	tv broadcaster	1
+large company	tvs	1
+standard feature	tv antenna	2
+basic information	tv screen area	2
+input	tv without losing sight	1
+prize	tv set	2
+prize	tv's	2
+prize	tv time	1
+small item	tv	3
+small item	tv remote control	2
+small item	tv remote control device	1
+small item	tv remote	1
+small item	tv s	1
+tactic	tv advertising	1
+sponsor	tv one 	1
+factor	tv viewing	2
+factor	tv watching	2
+factor	tvet school culture	2
+factor	tv commercial	1
+issue	tvs in the dorm	1
+target	tv s~ations	1
+fact	tv favorite	2
+forum	tv news commentary writing classes in the first three-minute speech	1
+forum	tv talk show between the palestinians	1
+perk	tv	2
+web site	tv-or radio-station site	1
+web site	tv.com	1
+web site	tv web site	1
+collection	tv series	1
+segment	tv	1
+segment	tv game	1
+segment	tv medium	1
+appliance	tv	80
+appliance	tv set	18
+appliance	tv's on stand-by	1
+appliance	tvs vcrs	1
+appliance	tv s	1
+centre	tver	1
+genre	tv tie-ins	1
+genre	tv series	1
+content	tv show	4
+content	tv program	2
+content	tv episode	2
+content	tv	2
+content	tv commercial	1
+content	tv series	1
+content	tv-commercials for the thunderdome-cd's	1
+content	tv programming	1
+content	tv new	1
+crime	tv licence evasion	1
+traditional method	tv	11
+traditional method	tv commercial	2
+suspect	tv	3
+food item	tv dinner	1
+outlet	tv	4
+outlet	tv talk show	2
+outlet	tv show	1
+outlet	tv station	1
+specialist	tvr to the mainstream vauxhall	1
+enterprise	tvs motors	1
+enterprise	tvb	1
+aid	tvs in the ceiling	1
+profession	tv new	1
+profession	tv preacher	1
+electronic device	tv	34
+electronic device	tv set	8
+electronic device	tv's	3
+electronic device	tv's stereo system	1
+electronic device	tv broadcast receiver	1
+electronic device	tv's computer	1
+electronic device	tvand computer screen	1
+electronic device	tv set-top-boxes	1
+electronic device	tvs - light switch	1
+commodity	tv set	1
+container	tv dinner	1
+programme	tv show about mi five  agent 	1
+programme	tv show	1
+programme	tv documentary series	1
+filter	tv game	1
+personal item	tv	15
+personal item	tv set	3
+personal item	tv's	1
+personal item	tv remote	1
+item	tv	121
+item	tv's	23
+item	tv set	19
+specific	tv network affiliation	1
+mediums	tv	35
+mediums	tv commercial	1
+mediums	tv advertising	1
+mediums	tv show	1
+giant	tv syndication giant	1
+add-ons	tv	2
+add-ons	tv stand	1
+add-ons	tv-out encoder	1
+add-ons	tv player	1
+hit	tv mammoth hit	1
+household name	tv presenter lorraine kelly	1
+household name	tv physicist brian cox	1
+TV show	tv	2
+TV show	tv azteca	2
+TV show	tv patrol	1
+TV show	tvd	1
+distraction	tv	299
+distraction	tv show	3
+distraction	tv's	2
+distraction	tv program	1
+distraction	tv's radio	1
+distraction	tvsandcomputers out of the bedroom	1
+distraction	tv running	1
+distraction	tv set	1
+distraction	tv for sure	1
+stuff	tv stand	1
+stuff	tv set	1
+necessity	tvs	2
+necessity	tv remote	1
+fun activity	tv watching	1
+fun activity	tv broadcasting	1
+support	tv course	1
+street	tverskaya street	1
+assignment	tv commercial	2
+assignment	tv production	1
+expression	tv network	1
+hobby	tv guides	5
+hobby	tv andrestaurants	1
+hobby	tv games	1
+number	tv right	1
+staple	tvorog	1
+reward	tv-watching time	1
+reward	tv time	1
+stimulus	tv	4
+heroes	tv celebrity oprah winfrey	1
+habit	tv every night	1
+career	tv editing	2
+career	tv director	1
+career	tv producer	1
+career	tv production	1
+career	tv show hosting	1
+production	tv commercial	3
+production	tv series	1
+production	tv with tv's jonathan torrens	1
+production	tv pilot show	1
+division	tvcogeco	2
+invention	tv	3
+household item	tv	4
+household item	tv armoire	1
+adverse effect	tv interference	1
+surgical procedure	tvt sling	1
+surgical procedure	tvt	1
+advance	tvchatter app for iphone	1
+large item	tvs	8
+large item	tv's	7
+large item	tv cabinet	1
+large item	tv's camcorder	1
+sound	tv	2
+sound	tv show	1
+item	tv s	10
+item	tv remote control	5
+item	tv remote	5
+item	tv show	4
+item	tv licence	4
+item	tv monitor	4
+item	tv card	3
+item	tv antennas	3
+item	tv aerial	3
+item	tv cabinet	3
+item	tv tuner	2
+item	tv dinner	2
+item	tv guide	2
+port	tv-tuner	1
+publisher	tvguide	1
+publisher	tv books in new york city	1
+convenience	tv	17
+convenience	tv gas	1
+convenience	tv set	1
+convenience	tv remote	1
+room	tv room	1
+conventional method	tv	3
+Celebs	tv presenter phillip schofield	1
+opponent	tv industry's association for maximum service television	1
+gadget	tv	6
+folks	tv's stephen colbert	1
+luxury	tv	14
+luxury	tv tuner	1
+conductor	tv operations coaxial cable	1
+message	tv program	1
+repair	tv aerial	1
+online service	tv.com	1
+load	tv	4
+load	tv-sets	1
+trade	tv repair	1
+interface	tvi	2
+software program	tvu player	1
+software program	tv ants	1
+installation	tv saloon	1
+food product	tv dinner	1
+online resource	tv broadcast	1
+fuel	tvo	1
+campaign	tv turn-off week	1
+campaign	tv sponsorship of the popular jetset series	1
+television show	tv asahi's tetsuko's room -lrb-tetsuko no heya-rrb-''	1
+television show	tv movie choices for abc	1
+circuit	tv receiver circuit	1
+daily activity	tv watching	1
+large organization	tv station	1
+large organization	tvs	1
+promotion	tv talk show at kofy	1
+peripheral	tv tuner	4
+peripheral	tv monitor	1
+peripheral	tv receiver	1
+observer	tv sports analyst john mansell	1
+observer	tv commentator	1
+tax	tv license	2
+tax	tv tax	1
+communication	tv	3
+communication	tv advertising	1
+answer	tv advertising	1
+answer	tv	1
+server	tvmobili with varying degrees of success	1
+basic function	tv show	1
+consumer product	tv set	2
+consumer product	tv	2
+payment	tv licence fee	1
+avenue	tv	5
+electronics	tv	57
+electronics	tv's	13
+electronics	tv set	4
+electronics	tv's from the bedroom	2
+electronics	tv s	2
+electronics	tv monitor	1
+electronics	tv remote control	1
+electronics	tvs dvd player	1
+electronics	tvs microwave	1
+group activity	tv new	1
+donation	tv	3
+practitioner	tvc website	1
+practitioner	tv celebrity	1
+practical consideration	tv production	1
+optional feature	tv tuner	1
+item	tv license	1
+item	tv license fee	1
+item	tv access	1
+item	tv board	1
+item	tvp	1
+item	tv.	1
+item	tv program	1
+item	tv stream	1
+medium outlet	tv	32
+medium outlet	tv station	6
+medium outlet	tvo	2
+medium outlet	tv show	2
+medium outlet	tv advertising	1
+medium outlet	tv guide	1
+donor	tvo	1
+donor	tv chef emeril lagasse	1
+gift item	tv	1
+guideline	tv stable region	1
+light source	tv screens	1
+info	tv model number	1
+display	tv monitor	6
+display	tv set	1
+display	tv with a polarising filter on the front	1
+recreational facility	tv	3
+recreational facility	tv lounge	1
+recreational facility	tv room	1
+recreational facility	tv set	1
+recreational facility	tvs in barrack	1
+recreational facility	tv & video	1
+hardware	tv card	5
+hardware	tv tuner	1
+public service	tv	1
+modern amenity	tv	32
+modern amenity	tvs for football	1
+modern amenity	tvs in every room	1
+modern amenity	tv monitor	1
+key stakeholder	tv station	1
+video game	tv game	1
+video game	tv playing video game	1
+free service	tv transmission	1
+free service	tvcatchup	1
+trigger	tv show	1
+picture	tv image	3
+picture	tv advertising	1
+major	tvs motors	1
+basic item	tv information	1
+routine	tv	2
+routine	tv time	1
+complex system	tv	1
+quality product	tv stand	1
+everyday item	tv guide	1
+everyday item	tvs from western ports like los angeles	1
+everyday item	tv	1
+extension	tv for television	1
+extension	tv	1
+extension	tv card	1
+purchase	tv	2
+expenditure	tv licence	1
+winner	tv talent winner	1
+communication tool	tv	4
+traditional technique	tv ad	1
+traditional technique	tv	1
+product category	tv visual	3
+product category	tv & visual	1
+special	tv set	1
+application area	tv	1
+fitting	tv antennae	6
+fitting	tv aerial socket	1
+latest technology	tv-out	1
+modern technology	tv	4
+modern technology	tv projector	1
+modern technology	tv with video recorder	1
+communication system	tv	4
+communication system	tv new	1
+common area	tv room	11
+common area	tv lounge	5
+common area	tv remote	1
+expensive item	tv	3
+modern convenience	tv	17
+modern convenience	tv antennas	1
+modern convenience	tv in living	1
+modern convenience	tvs with dvd player	1
+modern convenience	tv set	1
+modern convenience	tv with cable connection	1
+video	tv show	6
+video	tvc	1
+video	tv clip	1
+video	tv commercials on cleaning	1
+video	tv episode clip	1
+court	tva i	1
+branch	tv commercial	1
+background	tv	1
+date	tv & broadband	1
+item	tv armoire	1
+item	tv entertainment unit	1
+visual aid	tv	1
+tour	tverskaya street	1
+privilege	tv	38
+privilege	tv time	13
+privilege	tv show	2
+preference	tv safe area	1
+preference	tv production	1
+optional accessory	tv	1
+training program	tv mechanic	1
+bill	tv licence	10
+bill	tv	2
+bill	tv cable	1
+bill	tv rental	1
+television program	tv diner cooking with costa segment	1
+contest	tv talent contest	1
+contest	tv channel contest	1
+host	tv personalities kim kook jin	1
+luxury item	tv	6
+valuable	tv	11
+valuable	tv set	2
+technological innovation	tv	2
+external device	tv	1
+infrastructure project	tva	1
+modern facility	tv	12
+modern facility	tv lounge	3
+modern facility	tv satellite	2
+modern facility	tv set	1
+modern facility	tv with cable connection	1
+modern facility	tv with satellite program	1
+modern facility	tv production facility	1
+high quality product	tv stand	1
+noise	tv	18
+noise	tv's	1
+noise	tv going	1
+essential item	tv	1
+small project	tv commercial	1
+basic necessity	tv	1
+popular item	tv dinner	1
+federal agency	tva	3
+electronic component	tvs	1
+powerful feature	tv	1
+builder	tvh	1
+practical application	tv	1
+everyday object	tv monitor	1
+everyday object	tv remote control	1
+operating system	tv capture program	1
+owner	tv station owner	1
+government program	tva	1
+neighbor	tv host mario lopez	1
+studio	tv tropolis canada	1
+valuable item	tv's	3
+peripheral device	tv	3
+public area	tv room	3
+public area	tv lounge	1
+basic amenity	tv	14
+basic amenity	tv with remote control	1
+basic amenity	tv in the living room	1
+architectural element	tv hidden behind a movable panel	1
+gem	tv land gem	1
+heat source	tv	2
+heat source	tv set	2
+interactive feature	tv guide emmy smallville episode spoiler	1
+input device	tv antenna	4
+venture	tv nine 	1
+hazardous material	tv cathode ray tube	1
+electronic product	tv	16
+electronic product	tv set	1
+electronic product	tv remote control	1
+electronic product	tv s	1
+electronic product	tv remote controller	1
+external source	tv	1
+information source	tv	2
+information source	tv broadcast	1
+item	tv room	1
+item	tv's & computer monitor	1
+item	tvnz play school little ted's suit of armor	1
+item	tv?s	1
+item	tv for the room	1
+item	tv controller	1
+marketing material	tv ad	2
+marketing material	tv advertisement	1
+success story	tv globo in brazil	1
+basic facility	tv	6
+basic facility	tv room	1
+cancer	tvecsinhuman native cancer	1
+comedy	tv show monk	1
+comedy	tv especially comedy	1
+freebie	tv	1
+technological development	tv	3
+outside influence	tv	3
+outside influence	tv show	1
+outside influence	tv program	1
+statement	tv	1
+stimulant	tv in the bedroom	1
+small area	tv set	1
+federal program	tva	1
+industrial product	tv set	2
+heavy item	tv set	3
+heavy item	tv	1
+heavy item	tv on the unit	1
+heavy item	tv set on the unit	1
+optional extra	tv	3
+datum type	tv viewing	1
+role model	tv	1
+elective	tv studio	1
+niche	tv cinema	1
+curricular activity	tv time	1
+electrical device	tv	12
+leisure activity	tv	2
+leisure activity	tv room	1
+dealer	tvr	1
+electrical component	tv's projectors	1
+electrical component	tv s	1
+furnishings	tv	5
+furnishings	tv unit	1
+bloggers	tv reporters luqui luwei	1
+button	tv	2
+visual cue	tv program	1
+comic	tv twenty-one 	4
+entrant	tvs suzuki	1
+marketing tool	tv promotion	1
+marketing tool	tv announcement	1
+popular product	tv wall mounts	1
+convenient feature	tv guide	1
+promotional material	tv commercial	1
+hard surface	tv remote control	1
+block	tv program content block	1
+critical application	tv	1
+consideration factor	tv	1
+consideration factor	tv watching	1
+processor	tv processor	1
+unusual item	tv	1
+public figure	tv journalist yair lapid	1
+great amenity	tv	1
+great amenity	tv lounge	1
+executive	tvb's management executive	1
+specialty area	tv	1
+commitment	tv	2
+metal object	tv antennas	1
+prominent figure	tv moderator michel friedman	2
+liberal	tv host najam sethi	2
+liberal	tv's house liberal	1
+widgets	tv guide	1
+widgets	tv.com	1
+widgets	tv show widget	1
+battle	tv queen battle	1
+spec	tv out option	1
+contender	tv guide network	1
+dairy product	tvorog	1
+television series	tv tv	1
+drama	tv cop drama	1
+drama	tv police drama	1
+drama	tv detective drama	1
+bulky item	tv set	1
+business application	tv-sized calculator	1
+interesting topic	tv	1
+traditional service	tv channel access	1
+non-food item	tv	1
+area	tv	17
+area	tv room	6
+area	tv commercial	4
+area	tv area	2
+area	tv volume	1
+area	tv show	1
+area	tv actor	1
+area	tv collection	1
+datum element	tvd ss	1
+educational material	tv	1
+feature film	tv service	1
+feature film	tv shows like world's strictest parents	1
+modern feature	tv	4
+famous musician	tv gopalakrsihna	1
+financial incentive	tva's generation partners program	1
+optional service	tv	1
+psychologist	tversky	1
+cable	tv cable	2
+inanimate object	tv	2
+communication device	tv	2
+government policy	tves law	1
+regular activity	tv	1
+tab	tv	1
+tab	tv show	1
+entertainment	tv	7
+entertainment	tv show	1
+excursion	tv tapings	1
+niche market	tv commercial	1
+outside source	tv	3
+outside source	tv news in spanish	1
+outside source	tv guide	1
+personal belonging	tvs	2
+regular feature	tv grid	1
+traditional approach	tv	1
+great musician	tv on the radio	1
+electrical appliance	tv	46
+electrical appliance	tv set	4
+electrical appliance	tv's	1
+electrical appliance	tv antennas with remote	1
+comfort	tv	9
+comfort	tv with a huge range of channels available	1
+comfort	tv with digital channels free of charge	1
+cartoon	tv ads of the time	1
+revenue source	tv contract	1
+technical service	tv	1
+technical service	tv distribition	1
+small job	tv cable	1
+apparatuses	tv set	1
+processed food	tv dinner	1
+revenue	tv contract	1
+revenue	tv right	1
+key function	tv apps	1
+distribution	tvariouscommonly-used statistical distribution	1
+personal service	tv	3
+personal expense	tv movie	1
+communication technology	tv service	1
+plugins	tv showbox above the threadlist	1
+subcategory	tv	1
+process variable	tv	1
+consumer electronics	tv	10
+consumer electronics	tv's	2
+consumer electronics	tv set with satellite	2
+consumer electronics	tv set with cable channel	1
+consumer electronics	tv set	1
+advanced service	tv over ip	1
+environmental concern	tv signal noise	1
+built-in feature	tvm	1
+built-in feature	tv tuner	1
+byproduct	tv program	1
+traditional tool	tv	2
+screen	tv	2
+broadcaster	tv fox	1
+broadcaster	tvo	1
+broadcaster	tv new broadcaster	1
+broadcaster	tv five 	1
+broadcaster	tv tricolor tv	1
+consumer good	tv set	2
+consumer good	tv's	1
+consumer good	tv s fridge	1
+heavy object	tv monitor	2
+heavy object	tv monitor on top of the player	1
+heavy object	tv monitor on top of the unit	1
+heavy object	tv on the unit	1
+heavy object	tv	1
+allowance	tv licence	1
+best brand	tv scooty	1
+optical device	tv lens	1
+script	tvl segment	1
+area	tv presentation & production	1
+area	tv production	1
+area	tv entertainment center	1
+area	tv licensing	1
+area	tv lounge	1
+great band	tv on the radio	1
+big-ticket item	tv set	1
+big-ticket item	tv's	1
+inclusion	tv & dvd in loungeroom	1
+commercial service	tva	1
+local activity	tv repair	1
+traditional feature	tv	1
+communication channel	tv	3
+traditional area	tv	1
+implementation	tvs two -drop scheme 	1
+furniture	tv stand	2
+furniture	tv cabinet	1
+furniture	tv unit	1
+flat surface	tv	1
+protein source	tvp	1
+big ticket item	tv	2
+essential element	tv output	1
+teaching aid	tv	5
+finished product	tv tuner	1
+display device	tv	6
+display device	tv receiver	2
+display device	tv monitor	1
+display device	tv set	1
+metaphor	tv show	1
+normal activity	tv	1
+vice	tv	1
+harmful substance	tvoc's effectively	1
+famous celebrity	tv personalities	1
+home appliance	tv	17
+home appliance	tv set	4
+home appliance	tv displayer	2
+home appliance	tv dvr	1
+home appliance	tv set with cable channel	1
+protective device	tvs diode	2
+protective device	tvss	1
+hub	tv station	1
+medium company	tv broadcaster	1
+medium company	tv station	1
+electrical item	tv	19
+electrical item	tv's	3
+electrical item	tv set	2
+electrical item	tv's work on the electrical supply	1
+marketing activity	tv advertising	1
+literature	tv world	1
+literature	tversky	1
+content provider	tvn	2
+content provider	tv network	1
+content provider	tv guide	1
+content provider	tv content provider	1
+large institution	tv	1
+electronic item	tv	18
+electronic item	tv's	2
+national publication	tv guide	1
+free gift	tv	3
+indoor activity	tv game	1
+marketing strategy	tv and radio ad	1
+treaty	tvi	1
+adaptation	tv show adaptation	1
+multimedia application	tv reception	1
+multimedia application	tv transmission	1
+communication method	tv interview	1
+national event	tv turnoff week	1
+national event	tv-turnoff week	1
+big project	tva	1
+commercial project	tv hit program diy sos	1
+indirect method	tv program	1
+merchandise	tv	1
+secondary character	tv's tim stack	1
+creature comfort	tv room	2
+creature comfort	tv	2
+metal item	tv antennas	1
+premium service	tv with the standard service plan	1
+idol	tvxq	2
+possession	tv set	2
+possession	tv &	1
+possession	tv	1
+high profile case	tv new	1
+visual element	tv station logo	4
+visual element	tv	2
+hardware device	tv tuner	2
+local celebrity	tv host	1
+local celebrity	tv host angel wong	1
+local celebrity	tv chef simon rimmer	1
+informations	tv	1
+leisure facility	tv	1
+famous personality	tv actor faisal rehman	1
+great item	tv point	1
+medium type	tv show	2
+common facility	tv room	3
+common service	tv lounge	1
+prepared food	tv dinner	4
+reliable source	tv guide	2
+reliable source	tv news airing	1
+common interest	tv show	1
+household appliance	tv	11
+household appliance	tv set	6
+household appliance	tv set before the moving day	1
+mobile application	tv	1
+delivery system	tv	1
+public good	tv	1
+promotional activity	tv slot	1
+component part	tv tuner	4
+optional component	tv tuner	1
+social program	tv night	1
+area	tva	1
+area	tv remote control	1
+area	tv program	1
+USB device	tv receiver	1
+USB device	tv tuner	1
+USB device	tv card	1
+auxiliary device	tv	2
+big star	tvxq	1
+external stimulus	tv	2
+belonging	tv	2
+convenience feature	tv guide on screen	1
+industry professional	tv industry professional	1
+training aid	tv	1
+vector	tv on mobile phone	1
+network device	tv	1
+exposure	tv	2
+business sector	tv news & growing online medias	1
+small appliance	tv	5
+small appliance	tv air conditioner refrigerator	1
+small appliance	tv remote control	1
+bonus feature	tv commercial	1
+high profile event	tv director paul weiland	1
+interesting item	tv recliner	1
+religious leader	tv evangelists jimmy swaggart	1
+boxes	tv boxes	1
+boxes	tv cardboards boxes	1
+medium source	tv	8
+medium source	tv show	2
+medium source	tv network new	1
+physical asset	tvs	1
+standard amenity	tv	6
+standard amenity	tvs with entertaining programming	1
+standard amenity	tv remote control	1
+visionary	tv producer norman lear	1
+electronic equipment	tv	6
+electronic equipment	tv set	3
+big item	tv	5
+media	tv	5
+media	tv five  monde 	2
+media	tv advertisement	1
+software solution	tv software	1
+external component	tv	1
+kid	tv show kid	1
+traditional source	tv	1
+download	tv contest	1
+recreation facility	tv	1
+ammenities	tv	3
+ammenities	tv with extra cablevision channel	1
+communication service	tv	2
+communication service	tv station	1
+communication service	tv . station	1
+personal effect	tv's	2
+personal effect	tv	1
+hazardous waste	tvs	1
+hazardous waste	tv set	1
+loud noise	tv	3
+electrical equipment	tv	3
+electrical equipment	tv's	1
+electrical equipment	tvs computer	1
+common product	tv remote	1
+diversion	tv	7
+diversion	tv room	2
+diversion	tv suite	1
+exclusion	tv	1
+mobile phone	tv mobile phones	7
+mobile phone	tv phones for viewing digital multimedia broadcasting content	2
+focal point	tv	2
+luxury good	tv	1
+natural method	tv method	1
+video format	tv tuner basic video format	1
+marketing technique	tv	1
+marketing technique	tv commercial	1
+multimedia feature	tv tuner	1
+recording	tv interview	1
+standardized test	tvps ora test of visual motor integration	1
+terminal	tv	1
+practical feature	tv	1
+technological tool	tv viewing	1
+technological tool	tvs	1
+chinese company	tv set-maker changhong	1
+local club	tv seventy-seven  niederbiel tennis club 	1
+instructional material	tv set	1
+delicate item	tv set	1
+internet service provider	tv operator	1
+blue chip company	tvr sports cars ltd	3
+delivery method	tv	2
+modern comfort	tv	15
+area	tv connected	1
+service	tv	30
+service	tv distribution	7
+service	tv commercial	4
+service	tv installation	2
+service	tv lounge	2
+modern comfort	tv sat	2
+modern comfort	tv with plasma screen	1
+standard application	tv	1
+industry publication	tv world	1
+king	tvrtko	1
+distribution channel	tv	1
+internet resource	tv tome	1
+TV channel	tv five 	2
+TV channel	tv eight 	1
+TV channel	tv tropolis	1
+TV channel	tv show	1
+large file	tv show	2
+small space	tv room	1
+entertainment venue	tv show	1
+public policy	tv rating system	1
+third party application	tv guide	1
+end product	tv	1
+latest feature	tv output	4
+latest feature	tv output function	1
+latest feature	tv productivity	1
+national magazine	tv guide	1
+national magazine	tv popular	1
+physical item	tv's	1
+regular item	tv guide	1
+regular item	tv schedule	1
+entertainment option	tv	3
+entertainment option	tv display	1
+ad	tv ad	1
+ad	tv	1
+control mechanism	tv	1
+strategic partner	tva	1
+guru	tv business advisory guru	1
+wire	tv antenna wire	1
+wire	tv cable	1
+critical item	tv show	1
+critical item	tv	1
+prestigious client	tv comedian jim bowen	1
+convenience item	tv set	2
+convenience item	tv radio	1
+expensive option	tv ad	1
+luxury amenity	tv set	1
+advertisement	tv ad	1
+advertisement	tv	1
+excellent facility	tv lounge	2
+excellent facility	tv	1
+frill	tv	2
+luxurious amenity	tv	1
+cutting-edge technology	tv screens built into appliance	1
+popular favorite	tv offer popular favorite	1
+edition	tv dial	1
+limited resource	tv	1
+electrical product	tv set	2
+electrical product	tv	2
+famous person	tv actor	1
+national initiative	tv da gente	2
+household good	tv	1
+household good	tv set	1
+news outlet	tv	1
+authentic material	tv show	2
+authentic material	tv program	1
+authentic material	tv broadcast	1
+large building	tv station	1
+reflective surface	tv	2
+medium organization	tv five  monde 	1
+medium organization	tvb	1
+medium organization	tv three 	1
+rating	tv- fourteen 	2
+rating	tv fourteen 	1
+big business	tv & radio stations	1
+marketing method	tv ads	5
+marketing method	tv commercial	1
+marketing method	tv	1
+marketing method	tv advert for school	1
+marketing method	tv medium	1
+great facility	tv room sauna	1
+great facility	tv area	1
+great facility	tv	1
+personal property	tv	1
+background noise	tv	24
+background noise	tv's	1
+background noise	tvor people talking during the training session	1
+news source	tv shows like the tyra banks show	1
+medium format	tv	4
+medium format	tv game show	1
+convenience food	tv dinner	6
+small device	tv tuner	1
+frozen food	tv dinner	4
+electric appliance	tv	13
+electric appliance	tv set	3
+pleasure	tv	1
+consumer item	tv set	1
+consumer item	tv's	1
+interactive service	tv	1
+interactive service	tv guide	1
+interactive service	tv bank	1
+soy product	tvp	3
+entertainment facility	tv	9
+entertainment facility	tv system	1
+antennas	tv antennas	1
+antennas	tv reception antennas	1
+furniture item	tv unit	1
+furniture item	tv cabinet	1
+furniture item	tv	1
+service	tv up-linking	2
+client application	tv ticker	1
+motion picture	tv	1
+shared facility	tv room	2
+shared facility	tv lounge	2
+shared facility	tv room with satellite tv	1
+subtle difference	tv type	1
+unnecessary item	tv's	1
+home accessory	tv cart	1
+home furnishings	tv's	1
+revenue stream	tv right	1
+modern device	tv	1
+premium product	tv s	1
+electronic gadget	tv	3
+good facility	tv	2
+home service	tv	1
+computer accessory	tvs electronic keyboard	1
+appearance	tv movie appearance	1
+economic sector	tv	1
+sport car	tvr	1
+furniture piece	tv's	1
+furniture piece	tv stand	1
+hotel facility	tv room	1
+hotel facility	tv lounge	1
+material resource	tv set	1
+recording device	tv recording device	1
+telecommunication service	tv for businesses	2
+telecommunication service	tv service	1
+classic movie	tv shows like the invaders	1
+consumer device	tv set	2
+optical system	tv remote control	1
+subscription service	tv	1
+traditional mean	tv	4
+traditional mean	tv advertising	3
+traditional mean	tv ad	1
+traditional mean	tv network	1
+communal area	tv room	2
+communal area	tv	1
+promotional tool	tv commercial	1
+typical item	tv	1
+personal possession	tv's	2
+personal possession	tv	1
+durable good	tv set	4
+refinement	tv guiding	1
+communication material	tv	1
+resellers	tv station	1
+unwanted item	tv	1
+traditional market	tv	1
+service	tv program	1
+service	tv rental	1
+service	tv movie	1
+service	tv licence	1
+service	tv listing service	1
+service	tv land	1
+service	tv channel access	1
+service	tv catchup	1
+service	tv chichester in the bt vision service	1
+service	tv broadcast	1
+service	tva	1
+service	tv-based web surfing	1
+service	tversity	1
+service	tv with sky channel	1
+service	tv & video	1
+service	tv channel service	1
+service	tv broadcasting	1
+service	tv license	1
+service	tv lounge with satellite tv	1
+service	tv guide	1
+service	tv equipments rental service	1
+service	tv point	1
+service	tv setup	1
+service	tv shopping	1
+service	tv show	1
+service	tv hook-ups	1
+service	tv licence payment	1
+service	tv commercials with equal expertise	1
+service	tv decoder	1
+service	tv cabinet	1
+service	tv aerial installation in the ashford region	1
+service	tv aerial installation in the bedford area	1
+service	tv solution	1
+service	tv voting	1
+service	tv unlocking	1
+service	tv schedule datum service	1
+service	tv service	1
+service	tv signal	1
+service	tv room	1
+service	tvu	1
+service	tvn	1
+service	tv-based online commerce	1
+retail item	tv set	1
+third party tool	tvdb xml fetcher	1
+yearly event	tvbs	1
+electric device	tv	1
+multimedia device	tv	6
+multimedia device	tv cable	1
+corporate entity	tv ontario	1
+recreational amenity	tv	1
+slot	tv-out	1
+consumer application	tv tuners in cell phone	1
+multimedia service	tv	4
+video source	tv tuner	6
+video source	tv	4
+video source	tv broadcast	1
+commodity item	tv's	1
+communication application	tv distribution	1
+communication application	tv broadcast	1
+electronic appliance	tv	10
+electronic appliance	tv on stand-by mode	1
+electronic appliance	tv's	1
+big organization	tvb	1
+entertainment feature	tv	3
+entertainment feature	tv tuner	1
+high-profile company	tv eighteen 	1
+original material	tv new	1
+outside event	tv special	1
+utility service	tv licence	1
+medium service	tv documentary	1
+medium service	tv program	1
+output format	tv	1
+proxy	tv show	1
+quality item	tv game	3
+temptation	tv	2
+cable channel	tv land	2
+cable channel	tv cable channel	1
+essential facility	tv	1
+protection device	tvs diode	2
+trade magazine	tv guide	1
+commodity product	tv	1
+wireless system	tv	1
+iconic landmark	tv tower	1
+product group	tv receiver	1
+embedded system	tvs	1
+medium file	tv show	7
+passive device	tv	1
+replacement	tv midseason replacement	1
+television station	tv three 	3
+television station	tv one 	2
+television station	tv azteca	1
+work environment	tv	1
+basic functionality	tv archiving	1
+consumer electronic product	tv	2
+consumer electronic product	tv's	1
+consumer electronic product	tv set	1
+consumer electronic product	tv s	1
+cultural artifact	tv show	1
+high-tech feature	tv	1
+medium form	tv	2
+medium form	tv show	1
+radio show	tv talk show	1
+radio show	tv	1
+wireless application	tv	1
+domain name	tv	1
+domain name	tv domain name	1
+marketing effort	tv	3
+online forum	tvshowsondvd.com	1
+television channel	tv three 	2
+television channel	tvr cluj	1
+television channel	tvr timisoara	1
+television channel	tvr craiova	1
+television channel	tvr iasi	1
+television channel	tv five 	1
+ancillary material	tv program	2
+creative work	tv drama program production	1
+creative work	tv	1
+medium device	tv's	1
+medium device	tv	1
+essential tool	tv	1
+mod con	tv	11
+mod con	tvs with satellite	1
+ticket item	tv	3
+content type	tv programming	1
+machine part	tv frame	1
+party game	tv superstars	2
+religious institution	tv station	1
+timer	tv cable timer	1
+consortium	tv-anytime	1
+medium technology	tv	1
+modern element	tv	1
+recyclable item	tv's	1
+standard facility	tv monitor	1
+audio source	tv	5
+audio source	tv tuner	1
+digital service	tv	1
+regulatory authority	tv supreme council	1
+saving	tv delivery	1
+electronic apparatuses	tv receiver	1
+electronic apparatuses	tv	1
+service	tv cable connection	1
+service	tv cable	1
+service	tv cabling	1
+service	tv calibration	1
+service	tv mounting	1
+service	tv everywhere	1
+service	tv production	1
+topic	tv	10
+topic	tv show	7
+licensee	tv broadcaster	1
+medium channel	tv	13
+quiet activity	tv	1
+compilation	tv show compilation	1
+high profile celebrity	tv host	1
+indoor and outdoor activity	tv watching	1
+distortion	tv distortion	1
+high-tech product	tv	4
+traditional medium	tv	26
+traditional medium	tv ad	1
+traditional medium	tv radio	1
+business facility	tv	1
+medium tool	tv	8
+phone feature	tv output	1
+scam	tvi express	1
+essential amenity	tv	1
+conventional device	tv set	1
+electrical good	tv	2
+electrical good	tv's	2
+electrical good	tv set	1
+glass product	tv stand	2
+independent source	tv guide	1
+in-room amenity	tv with a wide variety of international channel	2
+learning resource	tv	1
+travel company	tvi express	1
+video application	tv highend video cctc	1
+log	tverr log	1
+marketing channel	tv	2
+marketing channel	tv commercial	1
+power plant	tva's coal-fired plant	1
+traditional channel	tv	15
+traditional channel	tv advertising	1
+traditional channel	tv station	1
+electronic good	tv	5
+electronic good	tv's	1
+established group	tvm	1
+information provider	tv	1
+communication vehicle	tv	1
+sophisticated system	tv broadcasting	1
+advertising material	tv commercial	1
+cultural product	tv program	3
+cultural product	tv series	1
+electrical accessory	tv winch	1
+modern touch	tv	1
+prominent personality	tv host rick steves	1
+technical development	tv	1
+telecommunication system	tv broadcasting	1
+telecommunication system	tv cable broadcasting	1
+fantastic feature	tv function	1
+modern appliance	tv	3
+modern appliance	tv's	1
+character feature	tv	1
+outgoings	tv licence	1
+traditional mediums	tv	15
+traditional mediums	tv advertising	1
+reputed organization	tvs	1
+wide area	tv	1
+entertainment service	tv	3
+expensive equipment	tv set	1
+prominent individual	tv star daniel dae kim of lost	1
+electronic apparatus	tv receiver	2
+processed meat	tv dinner	1
+visual stimulus	tv	3
+interruption	tv time	1
+large appliance	tv's	2
+large appliance	tv	2
+popular singer	tvxq	1
+tower	tv tower	1
+sound source	tv	3
+sound source	tv set	1
+final product	tv receiver	1
+guest service	tv lounge & library	1
+plot	tv series sliders	1
+storage unit	tv unit	2
+storage unit	tv element	1
+storage unit	tv	1
+excellent amenity	tv	1
+topic	tv co-viewing	2
+topic	tv favorite	1
+topic	tv minimization algorithm for dual problem	1
+topic	tv viewing	1
+mature industry	tv	3
+medium platform	tv	1
+non-essential item	tv	7
+secondary material	tv program articles about the primary material	1
+marketing tactic	tv	1
+common property	tv	1
+group company	tvs infotech	1
+group company	tv sundaram iyengar & sons	1
+skilled professional	tvi	1
+TV station	tvland	2
+TV station	tvri yogyakarta	1
+TV station	tv three 	1
+TV station	tv nine 	1
+TV station	tv three  and mtv 	1
+TV station	tve television espanola	1
+TV station	tv globo	1
+medium application	tv	1
+noisy environment	tv	2
+programmer	tvn	2
+technological breakthrough	tv	2
+criminal case	tv licensing	1
+electronics product	tv	1
+electronics product	tv set	1
+indie band	tv on the radio	1
+popular landmark	tv tower	2
+consumer electronics product	tv set	1
+modern item	tv	1
+peripheral item	tv	1
+sale channel	tv shopping	1
+traditional marketing method	tv	10
+traditional marketing method	tv commercial	1
+free amenity	tv lounge	1
+scope	tv- one hundred and one  &  one hundred and two 	1
+character actor	tv-friendly character actor	1
+domestic item	tv	1
+incredible feature	tv output port	1
+multimedia tool	tv	1
+multimedia tool	tv show	1
+modern invention	tvs	2
+tall structure	tv aerial	1
+white good	tv's fridge	1
+basic utility	tv	1
+TV network	tv azteca	1
+auto maker	tvs motor co.	1
+popular channel	tv land	2
+popular channel	tv five  monde 	2
+telecom company	tva	1
+creative industry	tv	7
+popular celebrity	tv presenter	1
+valuable datum	tv show	1
+visual display	tv monitor	2
+booster	tvi express booster	1
+marketing campaign	tv ad	1
+soy food	tvp	1
+transmitter	tv station	1
+medium product	tv show	2
+medium product	tv program	1
+social practice	tv	1
+communication facility	tv station	1
+professional user	tv station	1
+advertising method	tv	4
+advertising method	tv commercial	2
+advertising service	tv medium	1
+flat panel display	tv set	2
+full facility	tv	2
+ICT tool	tv	4
+leading name	tv journalist peter snow	1
+social medium	tv	1
+analog signal	tv broadcast	2
+creative idea	tv program	1
+electronic medium	tv	2
+medium group	tv station	1
+pollution source	tva's paradise plant	1
+shared area	tv room	2
+trivial matter	tv show	1
+exclusive service	tv	1
+exclusive service	tv framing	1
+high-value item	tv	1
+signal source	tv signal source	1
+transmission system	tv contribution link	1
+white noise	tv	1
+advertising	tv	4
+advertising	tv ad	1
+advertising	tv commercial	1
+clip	tv interview	1
+domestic appliance	tv set	1
+technical product	tv trainer	1
+automotive company	tvs	2
+datum application	tv broadcast	1
+loud sound	tv	1
+sedentary activity	tv watching	4
+sedentary activity	tv	4
+sedentary activity	tv viewing	1
+system application	tv-video home-link system	1
+tutor	tv presenter sally gray mbe	1
+consumer electronic device	tv	2
+consumer electronic device	tv using ir	1
+key customer	tv nova	1
+practical function	tv function	1
+electronic application	tv rf power amplifier	1
+entertainment item	tv	1
+small electronic device	tv remote control	4
+small electronic device	tv remote	1
+cultural phenomenon	tv	2
+passive activity	tv watching	4
+passive activity	tv	4
+passive activity	tv viewing	1
+small electronics	tv's	1
+auto company	tvs motors	1
+bright light	tv	3
+complete facility	tv	1
+consumer -durable	tv	2
+cult classic	tv cult classic	1
+wide application	tv	1
+indulgence	tv	2
+physical mean	tv	1
+aluminum product	tv antennas	1
+best service	tv	1
+broadband service	tv	1
+communication medium	tv	3
+creative field	tv	2
+fad	tv show adapations	1
+personage	tv's inane and gruesome personage	1
+sophisticated equipment	tv	1
+thriller	tv crime thriller	1
+top leader	tv wilson	1
+utility bill	tv licence	2
+utility bill	tv	1
+broadcast	tv	1
+conventional product	tv set	1
+healer	tv faith healer	1
+interesting idea	tv taking over the country	1
+local station	tvc	1
+local station	tvontario	1
+objective test	tvb	1
+elective area	tv	1
+multimedia resource	tv program	1
+peripheral equipment	tv monitor	1
+renowned organization	tvs	1
+vital item	tv	1
+advertising technique	tv advertising technique	1
+advertising technique	tv	1
+personal project	tv	1
+premium channel	tv globo	1
+premium channel	tvland	1
+premium channel	tvcine	1
+traditional device	tv	2
+commercial environment	tv	1
+conventional source	tv	1
+shared experience	tv program being watched	1
+text information	tv manufacturer	1
+background sound	tv's	1
+background sound	tv	1
+display system	tv receiver	1
+display system	tv set	1
+entertainment device	tv	8
+entertainment device	tv game device	1
+national network	tv seven 	1
+passive method	tv	1
+room facility	tv	2
+classroom supply	tv remote control	1
+material possession	tv	1
+medium resource	tv	2
+multimedia product	tv program	1
+separate item	tv's	1
+social area	tv room	1
+audio-visual aid	tv	3
+electronic technology	tv	1
+household expense	tv	2
+input source	tv	1
+input source	tv signal	1
+rack	tv rack	1
+sport tv channel	tv taroba brazil	1
+awareness program	tv program	1
+topic	tv miniseries on the atlanta child murder	1
+topic	tvi	1
+inactivity	tv viewing	1
+india tv channel	tv  one 	3
+instructional aid	tv	1
+new site	tv new site	1
+pleasurable activity	tv	1
+technical equipment	tv	1
+combo	tv dvd with digital tuner	1
+communication mediums	tv	1
+cultural venue	tv	1
+electronic accessory	tv aerial	1
+electronics device	tv	2
+news service	tv	1
+top magazine	tv guide	1
+traditional marketing tool	tv	2
+traditional marketing tool	tv advertising	1
+traditional marketing tool	tv ad	1
+traditional marketing tool	tv interview	1
+visual art	tv	1
+communication aid	tv	1
+monthly bill	tv	2
+external accessory	tv antennae	1
+home electronics	tv	2
+home electronics	tv's	1
+romania tv channel	tv galati	4
+romania tv channel	tv manele	2
+romania tv channel	tv love	2
+romania tv channel	tv dunarea	2
+romania tv channel	tvrm educational	2
+romania tv channel	tv muntenia	2
+romania tv channel	tv oltenia	1
+romania tv channel	tv cosmos	1
+romania tv channel	tvri	1
+romania tv channel	tvr jurnal	1
+thoughtful feature	tv	1
+renowned chef	tv personality jacques pepin	1
+magazine cover	tv guide	1
+native material	tv	1
+artistic mediums	tv	1
+conversion process	tv	1
+digital channel	tvnz  six 	1
+fandoms	tvxq's cassiopeia	1
+Macrophytes	tvpha angustifolia	1
+social influence	tv	1
+window manager	tvtwm	2
+electro-optical device	tv	1
+free download	tv show	1
+portable equipment	tv receiver	1
+proper equipment	tv	1
+small group activity	tv commercial	1
+superb feature	tv out application	1
+traditional marketing technique	tv	2
+visit	tv two 	1
+advertising campaign	tv	1
+advertising mediums	tv	3
+advertising mediums	tv commercial	1
+new source	tv new source	1
+non-medical service	tv	1
+supercars	tvr	2
+technical aid	tv	1
+advertising option	tv	1
+common surface	tv remote	1
+communication mean	tv	1
+content owner	tv production company	1
+content owner	tv company	1
+crime show	tv crime show	1
+external disturbance	tv	3
+family business	tvs group	2
+household device	tv	1
+integrated service	tv wall mounting	1
+plastic article	tv	4
+regular client	tv program production company	1
+wholesale product	tv wholesale product	1
+workarounds	tversity for streaming	1
+creative professional	tv production company	1
+creative professional	tv producer	1
+global industry	tv	1
+man-made source	tv	1
+mass medium	tv	11
+mass medium	tv advertising	1
+mass medium	tvb	1
+mass medium	tv broadcasting	1
+voip provider	tv cable company	1
+complex machine	tv set	1
+creative product	tv series	1
+shoot	tv commercial shoot	1
+sport celebrity	tv personality marius roberts	1
+video device	tv	1
+video device	tv set	1
+company	tvs	9
+company	tvs motors	8
+company	tva	5
+company	tvs sundaram	4
+company	tv guide	4
+company	tv eighteen 	4
+company	tvs group	3
+company	tvr	2
+company	tv azteca	2
+company	tv advertareing agency cheap-tv-spots.com	2
+company	tvn	2
+company	tv tokyo	2
+company	tv station	1
+company	tv shop europe	1
+company	tv five monde 	1
+company	tvb	1
+company	tvs logistics	1
+company	tvg	1
+company	tvs electronics	1
+company	tvu	1
+company	tv  two  sumo 	1
+company	tv answer	1
+company	tvx	1
+company	tvc multimedia	1
+company	tve dreamworks	1
+fitness product	tv fitness product	1
+luxuries	tv	3
+medical situation	tv series house	1
+prepackaged food	tv dinner	1
+real-time service	tv	1
+advertising tool	tv commercial	1
+common household appliance	tv	2
+france tv channel	tv eight  moselle 	2
+france tv channel	tv five  le journal economie 	2
+france tv channel	tvsf television sans frontieres	1
+france tv channel	tv  five  europe 	1
+france tv channel	tv miroir	1
+home comfort	tv	1
+local show	tv patrol bicol	3
+modern communication system	tv	1
+optical product	tv camera lenses in cricket stump	1
+professional area	tv	1
+traditional advertising method	tv	8
+traditional advertising method	tv commercial	1
+japanese product	tv	1
+broadband provider	tv-cabo	1
+germany tv channel	tv coburg	2
+germany tv channel	tv suedbaden	2
+germany tv channel	tv berlin	1
+germany tv channel	tv halle	1
+high tech feature	tv in the bathroom mirror	1
+local personality	tv host empress	1
+end item	tv set	1
+essential public service	tv	1
+high technology	tv	1
+italy tv channel	tv uno	3
+italy tv channel	tv padre pio	3
+italy tv channel	tv siena	2
+local medium outlet	tv station	1
+popular television program	tv champion	1
+practical amenity	tv	1
+solid item	tv	1
+stimulation	tv	1
+third party apps	tversity	1
+big purchase	tv	1
+electric equipment	tv	3
+everyday sound	tv	1
+high sodium food	tv dinner	1
+high technology product	tv	1
+medium brand	tvguide	1
+unnecessary device	tv card	3
+unnecessary device	tv tuner	1
+annual cost	tv license	1
+attractive item	tv remote control on top of the furniture	4
+civilian application	tv broadcasting	1
+electromagnetic wave	tv wave	1
+electromagnetic wave	tv	1
+electronic toy	tv	1
+entertainment application	tv listing	1
+high-end amenity	tv	1
+Personal electronics	tv	3
+traditional outlet	tv	3
+unsolicited material	tv pilots	1
+broadband application	tv system	1
+calendar event	tv listings	1
+common appliance	tv set	7
+core functionality	tv zapping	1
+iphone accessory	tv cable	1
+tabloid	tv shows like e-talk	1
+advanced functionalities	tv-out function	1
+broken item	tv	1
+complex event	tv tone	1
+distraction technique	tv	3
+external noise	tv	2
+modern communication tool	tv	1
+pre-packaged food	tv dinner	1
+shared amenity	tv room	1
+solitary activity	tv	1
+traditional medium outlet	tv	8
+traditional medium outlet	tv station	1
+video production service	tv commercial	1
+video production service	tv commercial production	1
+compatible device	tv	2
+marketing option	tv	1
+marketing option	tv ad	1
+mogul	tvguide	1
+music tv channel	tv segovia spain	1
+non-disposable item	tv remote	1
+technological system	tv monitoring	1
+traditional communication channel	tv	3
+traditional marketing channel	tv	3
+traditional marketing channel	tv in favor of capturing a variety of non-mainstream extreme sport	1
+traditional marketing channel	tv advertising	1
+company	tv content company	1
+comedy program	tv especially comedy program	1
+extraordinary feature	tv	1
+marketing piece	tv	1
+movie studio	tv networks like abc	1
+OEM product	tv cabinet	2
+small load	tv	3
+small load	tv set	1
+cultural project	tv show	1
+hidden feature	tv support	2
+specialty boxes	tv	1
+tems	tv's	1
+audio visual aid	tv	1
+cognitive psychologist	tversky	2
+desirable item	tv's stereo	2
+luxurious facility	tv	2
+medium vehicle	tv	1
+medium vehicle	tv animation	1
+multi-media	tv	1
+priority debt	tv license	1
+published material	tv guide	1
+television company	tv five 	9
+top feature	tv	1
+alternate technology	tvro	1
+arabic tv channel	tv rtm biladi	1
+arabic tv channel	tv sultanate of oman	1
+chinese firm	tv firm changhong	1
+diversionary activity	tv	2
+marketing task	tv campaign	1
+regular bill	tv licence	1
+regular bill	tv cable subscription	1
+small region	tver	1
+artificial mean	tv	1
+consumer market	tv	1
+E-waste	tvs	1
+E-waste	tv's	1
+harmful activity	tv	1
+mainstream medium	tv	4
+assistive listening device	tv	2
+assistive listening device	tv-listening system	1
+assistive listening device	tv listening device	1
+creative item	tv ad	1
+features	tv	1
+medium industry	tv	2
+non-core business	tv manufacturing	1
+power generator	tva	1
+basic comfort	tv	1
+commercial factor	tv viewing number	1
+common room	tv room	1
+common room	tv lounge for relaxing after a long day of sightseeing	1
+common room	tv area	1
+furniture product	tv stand	1
+high-tech gadget	tv	1
+image processing device	tv	1
+soybean product	tvp	8
+soybean product	tvp textured vegetable protein	1
+spain tv channel	tv leon	2
+spain tv channel	tv almansa	2
+spain tv channel	tv canaria	2
+spain tv channel	tv  three 	1
+spain tv channel	tv segovia	1
+spain tv channel	tv mas	1
+spain tv channel	tv telenoticies	1
+spain tv channel	tv ferrol	1
+spain tv channel	tv amistad	1
+visual presentation	tv show	1
+well-known face	tv cook clarissa dickson-wright	1
+deal program	tva	2
+local medium	tv station	2
+power item	tv	1
+scooter	tvs scooty	1
+technological invention	tv	2
+top organization	tve	1
+avail service	tv recharge	2
+comprehensive feature	tv-out	1
+company	tv advertaming agency cheap-tv-spots.com	1
+company	tv advertising agency cheap-tv-spots.com	1
+company	tv dish company	1
+company	tv download	1
+company	tv five 's sister company 	1
+company	tv broadcasting company	1
+in-room facility	tv	4
+medium content	tv series	1
+mod-cons	tv set	1
+outside distraction	tv	2
+print source	tv series	2
+rare mineral	tveitite	1
+RF device	tv tuner	1
+sensitive electronics	tv	2
+static image	tv station logo	1
+static image	tv station call sign	1
+well-known international company	tvs	1
+awareness campaign	tv advertising	1
+content service	tv contents services through local	1
+dehydrated food	tvp	3
+hierarchical organization	tv project team	1
+marketing mediums	tv	2
+outdoor place	tv studio	1
+TV service	tvu player	1
+big studio	tv  eighteen -promoted indian film company 	1
+bright light source	tv	1
+comfortable amenity	tv	2
+counterfeit item	tv remote	1
+fantastic facility	tv room	1
+korean artist	tvxq	1
+modern gadget	tv	1
+music source	tv	2
+old-fashioned game	tv tag	1
+promotional cost	tv ad	1
+video system	tv	1
+attractive amenity	tv lounge	1
+external medium	tv	1
+household noise	tv	4
+household noise	tv's	1
+literary activity	tv	1
+manufacturing giant	tvs electronics	2
+medium server	tversity	4
+medium server	tvix hd m- five thousand one hundred sh & m- four thousand one hundred sh 	1
+medium server	tversity on pc	1
+school publication	tv news broadcast	1
+short form	tv	1
+specialty magazine	tv guide	1
+tangible gift	tv set	1
+weekly magazine	tv guide	2
+attached device	tv card	1
+content datum	tv program	2
+feature option	tv set	1
+free source	tv news website	1
+have	tv	2
+local device	tv	1
+modern day convenience	tv	1
+news media	tv	1
+performance product	tv aerials	1
+potential distraction	tv	3
+potential distraction	tv's	1
+potential distraction	tv s	1
+practical facility	tv studio	1
+property item	tv	1
+recruitment material	tv ad	1
+security equipment	tv monitor	1
+soya product	tvp	2
+standardization effort	tv anytime forum	1
+strategic point	tv station	1
+actual object	tv remote control	1
+broadcast system	tv	3
+broadcast system	tv andpagingsystems	1
+comedy series	tv comedy series	1
+external audio source	tv	1
+facilties	tv	1
+high value asset	tv set	1
+home device	tv	2
+international channel	tv two 	1
+internet appliance	tvs with integrated internet access	1
+legacy device	tv set	1
+music channel	tv music channel	1
+newest feature	tv	1
+outside noise	tv in the next room	1
+outside noise	tv	1
+popular culture	tv	1
+popular culture	tv show numb three rs 	1
+traditional information source	tv	1
+traditional marketing tactic	tv	1
+access option	tv set-tops	1
+advertising platform	tv	1
+brazil tv channel	tve bahia	3
+brazil tv channel	tv jesus vem nos salvar	2
+brazil tv channel	tv senado	1
+brazil tv channel	tv agrocanal	1
+brazil tv channel	tv az	1
+brazil tv channel	tv ufpe	1
+brazil tv channel	tv seculo	1
+brazil tv channel	tv preve	1
+brazil tv channel	tv mundo maior	1
+brazil tv channel	tv assembleia leg	1
+brazil tv channel	tv cristo	1
+brazil tv channel	tvcom rs	1
+brazil tv channel	tvcom sc	1
+brazil tv channel	tv bahamas	1
+brazil tv channel	tv mocinha	1
+complicated item	tv tuner	1
+electronics item	tv	1
+external audio device	tv tuner	2
+great festival	tversted jazzy days	2
+independent state	tver	1
+movie tv channel	tv knob	1
+normal facility	tv	1
+prestigious prize	tv canvas award at the european film festival in brussels	1
+sample material	tv advert	1
+sci-fi film	tv series the x-files	2
+traditional communication tool	tv	1
+video project	tv commercial	2
+advertising vehicle	tv	2
+agricultural program	tva	1
+architectural monument	tv tower on mount avala	2
+boy band	tvxq	1
+activity	tv	17
+activity	tv watching	7
+activity	tv advertising	2
+content producer	tv station	1
+content producer	tv broadcaster	1
+electronic waste	tv	1
+electronic waste	tvs computer monitors	1
+everyday appliance	tv	1
+everyday appliance	tv's	1
+everyday noise	tv	1
+famous movie star	tv actress kristine davis of sex & the city	1
+labor-saving device	tv remote control	1
+noisy equipment	tv	1
+russia tv channel	tv guranga	1
+russia tv channel	tvc live station	1
+russia tv channel	tv plus russia	1
+sony product	tv	1
+television	tve	1
+art subject	tv	1
+awesome prize	tv	1
+broadcast service	tv	2
+broadcast service	tv broadcast	2
+commercial consideration	tv money	1
+common distraction	tv	3
+end-user application	tv	1
+higher-end feature	tv tuning	1
+image pickup device	tv camera tube	1
+in-kind benefit	tv license	1
+junk item	tv set	1
+latest equipment	tv	1
+local channel	tv five 	1
+local website	tv station	1
+municipal department	tv thirty-four 	1
+offline method	tv	1
+simple behavior	tv viewing	1
+competing interest	tv	1
+copyrighted material	tv show	1
+developmental project	tva	1
+image display apparatus	tv set	1
+netherland tv channel	tv west	5
+netherland tv channel	tv heusden	2
+netherland tv channel	tv oranje	1
+online video service	tv two  sumo 	1
+sedentary behavior	tv viewing	8
+star amenity	tv's	1
+Structuralists	tvetzan todorov	1
+time waster	tv	1
+top-notch brand	tvs tyres	1
+traditional route	tv	1
+advertising medium	tv	2
+advertising medium	tv commercial	1
+advertising medium	tv & radio	1
+digital component	tvs	2
+electronic channel	tv	2
+exciting option	tv-out	1
+external distraction	tv	2
+free goodie	tv show	1
+modern communication	tv	1
+projection system	tv	1
+second material	tv program articles about the primary material	1
+traditional marketing strategy	tv	2
+traditional marketing strategy	tv commercial	1
+traditional medium company	tv broadcaster	3
+traditional tactic	tv advertising	2
+traditional tactic	tv	1
+advertising avenue	tv commercial	4
+advertising avenue	tv	1
+distracters	tv	2
+econometric model	tvp model	1
+household cost	tv license	1
+leisure area	tv	1
+promotional service	tv	1
+public broadcaster	tvo	1
+sister company	tv five 's sister company 	1
+unnecessary distraction	tv	3
+video component	tv set	1
+video component	tv s	1
+video component	tvs	1
+visual medium	tv	2
+authentic resource	tv	1
+business component	tv	1
+cable service	tv guide	1
+common household device	tv remote	1
+consumer durable good	tv	1
+entertainment industry	tv	1
+lifestyle topic	tv	2
+medium venue	tv	1
+PCI card	tv tuner	4
+factor	tv's resolution	1
+factor	tv presenter	1
+activity	tv studio tour	1
+activity	tvet pilot	1
+activity	tv show watching	1
+activity	tv show tapings	1
+activity	tv room	1
+shared object	tv	1
+soy-based food	tvp	2
+standard fitting	tv	1
+traditional marketing	tv	2
+visual distraction	tv	1
+advertising channel	tv station	2
+advertising channel	tv	1
+advertising source	tv	1
+cable station	tv land	1
+communication avenue	tv	1
+electrical and electronic device	tv	2
+external unit	tv	1
+hungary tv channel	tv two  teneyk 	1
+idol group	tvxq	2
+local control	tv power	1
+news tv channel	tv biznes poland	2
+small extra	tvs in every office	1
+advertising venue	tv station	1
+balloon	tv	2
+basic communication tool	tv	1
+canada tv channel	tva	2
+communication outlet	tv show	1
+communication outlet	tv	1
+contemporary phenomenon	tv shows like let's make a deal	1
+conventional medium	tv	2
+distracting noise	tv	1
+film production	tv show	1
+grassroots activity	tv town meeting	1
+hindu god	tvashtri	1
+household electronics	tv set	3
+household electronics	tv's	1
+international model	tv	1
+movie channel	tv movie channel	1
+pre-prepared food	tv dinner	2
+real-time communication	tv-conference system	1
+Recreational equipment	tv	1
+sci-fi show	tv sci-fi show	1
+traditional advertising	tv	7
+traditional advertising	tv commercial	1
+traditional advertising	tv ad	1
+traditional advertising	tv will	1
+affordable technology	tv	1
+broadcast channel	tv	1
+cognitive scientist	tversky	1
+diversional activity	tv	2
+entertainment business	tv broadcasting of sports event	1
+entertainment business	tv	1
+environmental distraction	tv	2
+functional room	tv room	1
+heavy stuff	tv on the receiver	1
+information display	tv	2
+medium campaign	tv advertising	1
+modern aid	tv . tape recorder	1
+multimedia source	tv commercial	1
+new show	tv new show	1
+news provider	tv show	1
+prestige marque	tvr	2
+quick meal	tv dinner	1
+room product	tv video unit	1
+small film	tv commercial	1
+top level domain	tv	1
+traditional medium channel	tv	7
+traditional platform	tv	1
+unnecessary component	tv tuner	1
+video capture device	tv grabber	1
+visual technology	tv	3
+analog medium	tv	1
+AV device	tv	3
+big boxes	tv	1
+communication course	tv texts	1
+electrical function	tv	1
+electricals	tv's	1
+electricals	tv	1
+entertainment tv channel	tv youtube	3
+fun idea	tvtv newsnews	2
+global system	tv	1
+impressive amenity	tv lounge	1
+large medium outlet	tv politika	1
+local distributor	tvi express indonesia	1
+local distributor	tvi express india	1
+mass-produced product	tv set	1
+modern teaching aid	tv	3
+music show	tv music show	1
+new website	tv new website	1
+niche business	tv network	1
+one-way communication	tv broadcast	1
+outside stimulus	tv	3
+periodical publication	tv guide	1
+physical distraction	tv	1
+prepared meal	tv dinner	1
+prestige car	tvr	1
+regional channel	tv three  catalunya 	1
+regional channel	tv three 	1
+russian city	tver	1
+video display	tv	2
+well-known journalist	tv's larry king	1
+absolutely everything	tv	1
+audio visual material	tv	1
+activity	tv play	1
+greece tv channel	tv tilefos	1
+home entertainment device	tvs	3
+limiter	tvd	1
+limiter	tvb	1
+master device	tvws base station	1
+master device	tv for the master plug	1
+medium category	tv show	1
+medium category	tv	1
+medium presentation	tv show	1
+medium work	tv advertisement	1
+mobile phone technology	tv and codec	1
+nonfiction work	tv documentary	1
+automation device	tv set	1
+cartoon series	tv cartoon series	1
+cathode ray tube	tv braun tube	1
+central district	tverskaya	1
+compact model	tvix n one 	1
+complimentary feature	tv	1
+countless brand	tvs motors	1
+drama show	tv series	1
+entertainment system	tv	2
+entertainment system	tv game apparatuses	1
+escape route	tv	1
+fun category	tv	1
+hanging item	tv set	1
+medium production	tv soap opera	1
+medium production	tv	1
+order need	tv	1
+p2p software	tvu player	3
+p2p software	tvu	2
+popular web service	tv listing	1
+remote control device	tv	2
+Russians	tv commentator vladimir pozner	1
+standard appliance	tv	1
+top-level domain	tv	2
+traditional advertising mediums	tv	9
+AC appliance	tv	1
+annual show	tv land awards	4
+classroom technology	tv	1
+co-curricular event	tv production	1
+commercial player	tv broadcaster	1
+consumer program	tv consumer program	1
+customer premise equipment	tv set	1
+electric home appliance	tv set	1
+fandom topic	tv show	1
+fantastic product	tv blanket	1
+fantastic product	tv jacket	1
+high-interest topic	tv show	1
+household commodity	tv	1
+infrared device	tv	1
+infrared device	tv remote control	1
+iran tv channel	tv three  iran stream 	4
+large indian company	tvs	2
+location technology	tv transmitter	1
+luxurious product	tv.	1
+magnet program	tv production	1
+mass medium channel	tv	4
+mass medium channel	tv station	1
+modern distraction	tv	1
+standard in-room amenity	tv	1
+successful magazine	tv week	1
+third party app	tversity	1
+traditional new source	tv	1
+transmission standard	tv transmission standard	1
+TV documentary	tv eye	1
+vegetarian alternative	tvp	1
+weekly publication	tv guide	1
+worldly pleasure	tv	1
+broadcasting system	tv broadcasting system	1
+communal item	tv	1
+content company	tv content company	1
+external video source	tv tuner	3
+external video source	tv	1
+featuring category	tv	1
+interactive option	tv option	1
+juggernaut	tv rating juggernaut	1
+medium datum	tv ratings point	1
+medium report	tv programs four corners	1
+mexico tv channel	tv tabasco	2
+mexico tv channel	tv online	1
+mexico tv channel	tv acapulco	1
+newsmakers	tv journalist	1
+onboard amenity	tv	1
+tangible commodity	tv	1
+traditional medium source	tv	4
+traditional medium source	tv new	1
+unplug appliance	tv	3
+information	tv-on information	2
+information	tv program	2
+information	tv listing	1
+information	tv guide supply information	1
+information	tvfool information of the location	1
+information	tvm survey result	1
+information	tv's aspect ratio	1
+information	tv package subscription	1
+information	tv program guide	1
+information	tv show composition information	1
+information	tv show	1
+information	tv channel guide	1
+information	tv coverage	1
+information	tv setting information	1
+information	tv show information	1
+information	tv setting	1
+information	tv signal	1
+information	tvpg	1
+information	tvxq's calendar event	1
+audio visual device	tv set	1
+audio visual device	tv	1
+background distraction	tv	1
+celebrity author	tv reporter maria shriver	1
+easy option	tv dinner	1
+electrical home appliance	tv	3
+essential appliance	tv	1
+home-based activity	tv program	1
+integrated appliance	tv	1
+movable asset	tv's	1
+neutral topic	tv	1
+non-print source	tv series	11
+non-print source	tv program	1
+non-print source	tv	1
+poland tv channel	tvp kultura	3
+poland tv channel	tvm warszawa	1
+poland tv channel	tv asta	1
+poland tv channel	tv torun	1
+projection device	tv	5
+regular source	tv	1
+sensitive appliance	tv	4
+stereo source	tv set	1
+traditional communication technology	tv	2
+unfermented soy product	tvp	1
+video content	tv show	1
+virtual service	tv	1
+aluminum item	tv dinner	1
+content publisher	tv studio	1
+display mean	tv	1
+favorite artist	tvb's favorite artist	1
+flat part	tv frame	3
+hearing device	tv-listening system	1
+household gadget	tv remote	1
+interesting initiative	tva network	1
+korean singer	tvxq	1
+large electrical appliance	tv set	1
+latest electronics	tv	1
+low voltage electrical product	tv cable	1
+measurable indicator	tv rating	1
+mindless activity	tv	1
+mindless activity	tv watching	1
+modern medium	tv	1
+news portal	tv news websites	1
+pervasive device	tv browser	1
+publicity	tv	1
+social artifact	tv show	1
+specialty manufacturer	tvr	2
+talent contest	tv talent contest	1
+traditional marketing effort	tv	2
+AV equipment	tv	1
+avail free gift	tv	2
+bespoke piece	tv stand	1
+branding tool	tv guide ad	1
+broadcast medium	tv	3
+broadcast medium	tv advertising	1
+canon	tvd	1
+consumption activity	tv viewing	2
+conventional advertising method	tv commercial	1
+electron	tv set	5
+feature star	tv spot feature star	1
+high-tech facility	tv	1
+hot appliance	tvs near the unit's thermostat	1
+indoor amenity	tv	1
+latest function	tv	1
+marketing vehicle	tv	1
+niche magazine	tv listings	1
+non essential item	tv	2
+normal household sound	tv	1
+optional piece	tv armoire	4
+park event	tv show filming	1
+promotional channel	tv	1
+remote control application	tvs vcds	1
+room item	tv's	1
+sensitive electronic equipment	tvss device	1
+top group	tvxq	2
+traditional media	tv	2
+unnecessary hardware device	tv card	1
+unsightly object	tv antennas	3
+behavioral economist	tversky	1
+broadcasting station	tv pink promoting turbo-folk music	1
+information	tv schedules	1
+information	tvma	1
+information	tvy	1
+information	tv equipment characteristic	1
+information	tv football	1
+information	tv program lineup information	1
+information	tv audience	1
+information	tv campaign	1
+commercial channel	tv two 	1
+conventional display device	tv set	1
+discarded object	tv knob	1
+electric system	tv	1
+electronics appliance	tv	2
+entertainment channel	tv-special   entertainment channel	1
+entertainment source	tv	1
+essential device	tv card	1
+essential device	tv	1
+free player	tvu player	3
+gossip magazine	tv listings magazine	1
+mass medium outlet	tv	1
+medium message	tv ad	2
+mental stimulation	tv	1
+popular music	tv show theme	1
+professional purpose	tv in a conference room	1
+public medium	tv commercial	1
+public medium	tv	1
+small personal appliance	tv's	1
+strong magnetic field	tv	1
+summary offence	tv licence evasion	2
+traditional marketing campaign	tv	1
+unnecessary noise	tv	2
+voice command	tv guide	1
+western classic	tv western classic	1
+ATM service	tv	1
+award-winning producer	tv ontario	1
+award-winning title	tv's will & grace	2
+biggest project	tvc	1
+brown good	tv	1
+daily distraction	tv	1
+display medium	tv	1
+domestic equipment	tv	1
+entertainment equipment	tv	2
+entertainment medium	tv until the tablet	1
+entertainment medium	tv	1
+exciting challenge	tv production	1
+facility feature	tv	1
+high-profile woman	tv presenter sami lukis	1
+internet TV service	tv online in a one-time price	1
+islamic tv channel	tv  five  turkiye 	4
+joinery item	tv cabinet	1
+marketing outlet	tv	1
+multifarious activity	tv commercial	1
+nonfinancial incentive	tv privilege	1
+nonprint source	tv series	4
+option item	tv card	1
+passive product	tv guide channel	1
+protuberance	tv antennas	1
+recommendation system	tv-advisor	1
+russian manufacturer	tverskoy excavator	1
+satisfying facility	tv	1
+service utility	tv cable	1
+simple everyday item	tv program	1
+statistical distribution	tvariouscommonly-used statistical distribution	1
+trusted source	tv	1
+UK celebrity	tv host	1
+universal waste	tv's	1
+video display device	tv monitor	1
+youth culture	tv drama	1
+add-in card	tv card	2
+annual payment	tv licence	2
+audio visual equipment	tv	1
+audiovisual item	tv	1
+AV product	tv tuner box	2
+avail facility	tv	1
+boy group	tvxq	1
+commonly-touched surface	tv remote	1
+electric engine	tv	1
+external display	tv	1
+external display	tv monitor	1
+fireplace	tv	1
+graphical file	tvf	1
+high frequency signal	tv signal	1
+iraq tv channel	tv alsam	1
+ITV company	tvs	1
+large production	tv series	1
+LCD device	tv panel	1
+letter acronym	tvct	1
+lifestyle show	tv lifestyle show	1
+local noise source	tv set	1
+mass market application	tv	1
+medium communication	tv commercial	1
+minimum facility	tv	1
+non-print resource	tv	1
+non-recyclable material	tv monitor	1
+opposition newspaper	tv show host michele santoro	1
+optical apparatuses	tv lens	2
+event	tv program	8
+event	tv show	4
+event	tv commercials	2
+event	tv production	2
+event	tv word event	1
+event	tvnz's recent preview screening of the shortland street ending	1
+event	tv shot	1
+event	tv tapings	1
+programming provider	tv programming provider	1
+promotional element	tv advertisement	3
+satellite station	tv five 	1
+traditional advertising channel	tv	5
+traditional marketing mediums	tv	3
+verizon service	tv	1
+advanced communication system	tv	1
+advertising expense	tv	1
+communal room	tv room	1
+compression application	tv	1
+electrical field	tv	1
+fancy stuff	tv	1
+frequency wave	tv	1
+hazardous material item	tv's	1
+human-made object	tv tower	1
+korean group	tvxq	2
+large prize	tv	1
+local TV station	tv west	2
+mainstream resource	tv	1
+mass communication	tv	1
+mass communication channel	tv	1
+material support	tv	2
+medium size item	tv	1
+mindless task	tv	2
+mission-critical facility	tv studio	1
+mystery show	tv mystery show	1
+NGO organization	tv organization	1
+novel object	tv	2
+online video	tv episode	1
+police drama	tv police drama	1
+portugal tv channel	tv ciencia	2
+portugal tv channel	tvc news	2
+portugal tv channel	tv algarve	1
+portugal tv channel	tv evora	1
+prototype system	tv news retrieval system	1
+public domain information	tv	1
+real time service	tv	1
+shortcut button	tv button	1
+SM entertainment artist	tvxq	5
+television broadcasting company	tvb	1
+terrestrial broadcaster	tvn	1
+terrestrial broadcaster	tv four 	1
+topical information	tv channel site	1
+trade show display	tv stand	1
+traditional medium platform	tv	1
+video resource	tv show	1
+american influence	tv	1
+analog service	tv signal	1
+behavioral psychologist	tversky	1
+big medium outlet	tv guide	2
+conventional marketing method	tv	1
+copycat	tvil	1
+created marketing material	tv ad	1
+creative production	tv ads	2
+dynamic image	tv	1
+electrically connected device	tv	2
+exciting elective	tv production	1
+expensive electronic item	tv	2
+forensic show	tv forensic show	1
+frozen meal	tv dinner	2
+global automotive company	tvs	10
+high-tech function	tv	1
+home entertainment item	tv set	1
+ICT device	tv program	1
+image sequence	tv broadcast	1
+industry website	tv writers vault sourced by production companies seeking new material	1
+infotainment service	tv	1
+international new channel	tv five 	1
+LCD screen	tv monitor	1
+maintenace service	tv cable	1
+market statistic	tv markets ranked by size	1
+mass marketing activity	tv advertising	1
+medium capability	tv	1
+medium promotion	tv	2
+mobile multimedia service	tv broadcasting	1
+modern communication channel	tv show	1
+noisy space	tv room	1
+offline channel	tv	4
+offline promotion	tv	1
+passive medium	tv ad	1
+event	tv week logies	1
+event	tv shows like american idol	1
+event	tv peak sponsorship industry association	1
+personal extra	tv	1
+Plug home electronics	tvs into power strip	1
+primetime show	tv remake of the classic film dyesebel	1
+room feature amenity	tv with remote	2
+soya bean product	tvp	2
+soya bean product	tvp in nugget	1
+television role	tv series molloy	1
+television role	tv movie camp cucamonga	1
+today industry	tv industry	1
+traditional advertising strategy	tv	1
+traditional advertising vehicle	tv	2
+traditional communication vehicle	tv advertising	1
+underground utility line	tv cable	1
+unessential item	tv	1
+video input device	tv capture card	1
+actors	tv stars like kyra sedgwick of the closer	1
+advertising outlet	tv	1
+airborne noise	tv	4
+analog video device	tv system	6
+broadcast signal	tv	1
+common household noise	tv	1
+developed marketing material	tv storyboard	1
+electronic supply	tv cable	3
+electronics accessory	tv stand	1
+entertainment information	tv listing	1
+european channel	tve	1
+frozen convenience food	tv dinner	1
+HD video production service	tv commercial	3
+influential element	tv show	1
+large electronic item	tv monitor	3
+large electronic item	tv online	1
+latest technological product	tv set	2
+Living room furniture	tv stand	1
+low-drain device	tv remote control	1
+low-drain device	tv-remotes	1
+mass medium source	tv program	1
+mass medium technique	tv advertising	1
+medium center	tvix	1
+medium station	tv	1
+military surplus item	tvs for sale	1
+modern furniture product	tv stand	1
+neutral subject	tv show	1
+normal sound	tv	1
+offline material	tv ad	1
+pathological variable	tv	1
+powerful communication tool	tv five 	1
+priveleges	tv	3
+publicity event	tv	1
+satellite television channel	tv three 	1
+sauder item	tv stands	2
+small kingdom	tver	1
+standard place	tv tower	1
+strategic enterprise	tv	1
+suggested fix	tv tuner driver	2
+thailand tv channel	tv  eleven  evening new 	1
+traditional communication technique	tv	1
+traditional promotional method	tv	1
+two-wheeler maker	tvs motor	1
+UK client	tv licensing	1
+venture capital investor	tvm capital	1
+video display system	tv set	2
+advanced amenity	tv	1
+applicant transport high value cargo	tvs	1
+applicant transport high-value cargo	tvs	1
+AV output device	tv	1
+child safety item	tv guards	1
+commodity application	tv glass	1
+company sell consumer electronic product	tv set	1
+currently service	tv content	1
+daily promotion	tv tuesday	1
+dim light	tv	1
+discussion program	tv discussion program	1
+electronic distraction	tv	3
+program	tva	6
+program	tv show	4
+program	tversity	2
+established idea	tv promotion	1
+every-day necessity	tvs	1
+faith healer	tv faith healer	1
+global and indian automotive company	tvs	1
+home theater component	tv	1
+indoor entertainment	tv	1
+interior common area	tv lounge	2
+internet capable device	tv	1
+k-pop group	tvxq	4
+kpop star	tvxq	1
+leading original equipment manufacturer	tvs	1
+mass medium tool	tv	2
+media's	tv news	1
+medium art	tv commercials	1
+medium title	tv show	1
+modern day invention	tvs	1
+national TV channel	tv nine 	1
+Netflix-ready device	tv	1
+noisy appliance	tv	1
+non-print medium	tv	1
+outbound marketing technique	tv advertising	1
+popular domain	tv	1
+premium rate service	tv voting	1
+premium rate service	tv voting line	1
+promotional avenue	tv	2
+real-life material	tv	1
+solid state electronics	tv	1
+stream service	tv two  sumo 	1
+stream service	tvcatchup.com with no problem	1
+successful masthead	tv week	11
+TCL product	tv	1
+television project	tv show	1
+traditional actor	tv	1
+traditional advertising platform	tv	1
+traditional medium form	tv	1
+traditional medium service	tv	2
+Unplug electronics	tv's	1
+advertising element	tv	1
+advertising resource	tv	1
+aggressive toy	tv action figure	1
+analog video source	tv	1
+award winning firm	tvsa in atlanta	1
+basic electronic appliance	tv	2
+basic household appliance	tv set	1
+brand name electric appliance	tv	3
+broadband communication system	tv tuner	1
+built-in phone function	tv function	1
+BULK OR LARGE item	tv's	1
+channel source	tv broadcast	1
+common mediums	tv	1
+complete equipment	tv with satellite dish	1
+comprehensive conference aid	tv	1
+crime thriller	tv crime thriller	1
+cutting edge feature	tv output	1
+delivery mediums	tv	2
+electric consumer	tvs	1
+electric good	tv set	1
+electronic and electrical appliance	tv	3
+entertainment publication	tv guide	1
+entertainment resource	tv with cable connection	1
+entertainment resource	tv with satellite connection	1
+entertainment resource	tv with satellite	1
+essential site	tverskaya street	1
+expensive mediums	tv	1
+flat screen	tv	2
+high end equipment	tv	1
+high profile supporter	tv critic garry bushell	1
+leading builder	tvh	2
+live source	tv	1
+low power appliance	tv	1
+magnetically sensitive device	tv set	2
+marketing communication activity	tv commercial	1
+market-oriented policy	tv deregulation	2
+medium center function	tv recording	1
+modern good	tv	1
+multi channel marketing service	tv ad production	1
+program	tv terra	2
+program	tv channels like bet	1
+program	tv listing	1
+program	tv especially comedy program	1
+program	tv download program	1
+program	tv serial	1
+program	tv home improvement program	1
+program	tvs grand ceremony	1
+program	tvone key prime time program	1
+program	tv rss	1
+program	tvs new silk road model contest	1
+noisy distraction	tv	1
+non-academic source	tv program	1
+non-fermented soy product	tvp	1
+non-traditional distribution channel	tv	1
+obsolete electronics	tv set	1
+offline communication	tv	1
+output mode	tv output mode	1
+Plug electronics	tv sand dvd players into power strip	1
+Plug electronics	tvs into a power strip	1
+Plug electronics	tv	1
+popular content	tv show	1
+potential device	tv	2
+priviledges	tv	2
+priviledges	tv time	1
+privledges	tv	1
+product theme	tv show	1
+promotional partner	tv	1
+protection option	tvs diode	1
+public payment	tv licence fee	1
+publicity effort	tv	1
+refuseniks	tv licence refuseniks	1
+stock icon	tv	1
+surprising number ofproducts	tv	1
+teachable moment	tv docudrama	1
+technological distraction	tv	1
+television receiver	tv receiver with a built-in hard disk drive	1
+time-wasters	tv	2
+traditional medium organization	tv broadcaster	1
+TV accessory	tv stand	1
+visual instrument	tv	2
+worldwide communication	tv	1
+advertisement outlet	tv	1
+audio & video product	tv receivers monitor	4
+beautiful and practical accessory	tv rack	1
+Brand electronics	tv	2
+dance show	tv dance show	1
+DVD set	tv series	1
+dynamic business	tv for subscriber	1
+electronic connection	tv cable	1
+entertainment category	tv	1
+entertainment component	tv	1
+entertainment component	tv receiver	1
+entertainment good	tv s	1
+Famous brand electronics	tv sets	1
+good quality equipment	tv	1
+great hampton amenity	tv with cable	1
+haoqiu brand series electronic product	tv board	1
+high drain appliance	tv s	1
+impactive load	tv set	2
+india's most reputed brand	tvs suzuki	4
+key terrestrial channel	tve spain	1
+korean idol star	tvxq	1
+large antennas	tv	1
+light portable appliance	tv set	1
+local broadcaster	tvbs	1
+luxeries	tv	1
+mainstream mediums	tv	1
+mass marketing tactic	tv	2
+mass medium communication tool	tv	1
+mass medium vehicle	tv	1
+medium advertisement	tv	1
+medium announcement	tv	1
+medium avenue	tv show	1
+medium signal	tv signal	1
+military model	tv- two 	1
+moderation fast-digest food	tv dinner	1
+modern audio-visual aid	tv	1
+modern commodity	tv	1
+modern in-room amenity	tv	1
+monthly subscription	tv	1
+multimedia extra	tv	1
+news medium tool	tv talk	1
+non-fiction project	tv promo	1
+non-fiction project	tv show	1
+open plan entertainment area	tv room	1
+outreach communication	tv advertisement	1
+oversized refuse item	tv	1
+personal electrical item	tv's radio	1
+program	tv ants	1
+program	tv at home	1
+program	tv court program	1
+program	tv discussion program	1
+program	tv fansite	1
+program	tv eye	1
+program	tv broadcasting	1
+program	tv board	1
+program	tv guide	1
+power quality solution	tvss	1
+propaganda tool	tv station	1
+property show	tv property show	1
+radio component	tv	1
+red carpet award	tv soap awards	1
+regular device	tv	1
+russian celebrity	tv presenter svetlana sorokina	1
+small comfort	tv	1
+standard financial function	tvm	2
+stream format	tv news broadcast	1
+white and brown good	tv s	1
+advanced datum application	tv broadcast	1
+american facility	tv	1
+application market	tv	1
+argentina tv channel	tv interior	1
+audio facility	tv video recorder	1
+AV cable	tv	1
+awareness-raising tool	tv ad	1
+ban distraction	tv	1
+basic arrangement	tv	2
+best known application	tv broadcasting	1
+billionaire business magnate	tv's sir alan sugar	2
+billionaire business magnate	tvs sir alan sugar	1
+biographical topic	tv	1
+bulky or large item	tv's	1
+casual room	tv room	1
+comfortable reception place	tv room	5
+community room	tv room	1
+component video home theater device	tv	1
+composite endpoint	tvf	1
+consumer-electronic product	tv	1
+controlling device	tv	1
+conventional medium channel	tvc	1
+cop drama	tv cop drama	1
+corresponding item	tv cords in ziploc bag	1
+detailed temperature coefficient	tvaf one 	1
+device platform	tv	1
+digital signage solution information	tv	1
+distractions	tv	1
+distractors	tv	1
+electronic component system	tvs	2
+electronic device repair	tv repairs	3
+entertainment electronics	tv	1
+entertainment magazine	tv guide	1
+entertainment work	tv commercial	1
+everyday program	tv show party	1
+external appliance	tv set	1
+food show	tv food show	1
+gifts-free product	tv	1
+good shared facility	tv room	1
+hardware manufactur ing product	tv	1
+hardware manufactu-ring product	tv	1
+harmful organic compound	tvocs effectively	1
+high protein meat substitute	tvp	1
+high-quality plastic component	tv front	2
+home electrical good	tv's	1
+home entertainment component	tv	1
+huge medium company	tv guide	1
+independent broadcaster	tvg	1
+industrial major	tvs industries owned by tv sundaram group	1
+influential medium	tv slovenia	1
+inspirational source	tv	1
+IP owner	tv studio	1
+laparoscopic reconstructive procedure	tvt	1
+large and comfortable common area	tv place	1
+large unwieldy item	tv antennas	1
+latest minimally invasive surgical technique	tvt & tot	2
+legitimate web site	tv station	1
+local TV channel	tv nine 	1
+main-dish food	tv dinner	1
+mass medium technology	tv	1
+mass mediums	tv	1
+medium collection	tv series	1
+medium cost	tv time	1
+medium equipment	tv	1
+medium mediums	tv	1
+metadata initiative	tv-anytime	1
+metadata specification	tv-anytime	1
+modern installation	tv	2
+modern soy product	tvp	3
+modulation source	tvf	1
+multimedia equipment	tv monitor	1
+national new source	tv guide	1
+network leader	tv production manager	1
+normal monthly outgoings	tv	1
+normal noise	tv	1
+offline marketing channel	tv	1
+popular european satellite service	tv globo	2
+screen-based activity	tv	1
+serbia tv channel	tv naviagator serbia	2
+serbia tv channel	tv soko serbia	1
+signal processing feature	tvg	2
+simple light source	tv	2
+SM singer	tvxq	2
+standby medical event	tv shoot	1
+star group	tvxq	1
+strong communication system	tv	1
+study distraction	tv	1
+telecommunication enterprise	tv	1
+television accessory	tv aerial	1
+tool product	tv promotional item	2
+tradional agency service	tv	1
+traditional advertising avenue	tv	2
+traditional advertising campaign	tv advertising	1
+traditional advertising source	tv	1
+traditional marketing practice	tv	1
+traditional medium environment	tv	2
+traditional medium format	tv	1
+traditional outbound marketing method	tv	1
+TV programme	tv three  nona 	1
+typical approach	tv	1
+unlimited ipod touch medium download	tv show	1
+user transfer file	tv show	7
+vacation-enhancing amenity	tv with cable service	1
+vacation-enhancing amenity	tv with digital cable service	1
+water management agency	tva	1
+wheeler company	tvs	1
+White Elephant item	tv	1
+world famous firm	tvs motors	1
+ACTION MOBIL amenity	tv	1
+air-conditioned and feature amenity	tv	3
+ambient signal	tv	1
+ancillary fixed structure	tv antennae	1
+audio medium	tv	1
+basic modern convenience	tv	1
+BEST download	tv-series	10
+big institute	tv media	1
+brooklyn band	tv on the radio	1
+cachectic and exhausting disease	tvpliiiid	1
+chum	tv industry chum	1
+common calculation	tv illuminance	1
+common technology product	tv bracket	1
+commonly misplace item	tv remote	1
+communal benefit	tv lounge	1
+content industry	tv	1
+convenience foods	tv dinner	1
+conventional display apparatus	tv set	1
+countless self-help program	tv	1
+creative genre	tv serial	1
+creative zone mode	tv	2
+cultural and medium influence	tv	5
+cultural content	tv drama	1
+dedicated source	tv	1
+derivative right	tv	1
+desktop theme	tv personality	1
+desktop theme	tv show	1
+factor	tv broadcast limitation	1
+factor	tv movie on dating violence	1
+factor	tv programming	1
+digital content purchase	tv episode	6
+ELECTROMAGNETIC INTERFERENCE warningradio wave source	tv station	1
+electronic and furniture stuff	tv	1
+entertainment electronics appliance	tv set	1
+entertainment offering	tv	1
+environment activity	tv	1
+exceed feature	tv	2
+expensive traditional advertising channel	tv	1
+external analog line-level source	tv card's internal line output	4
+external apparatus	tv set	1
+foot structure	tv tower	2
+foreign-language channel	tv five  monde 	1
+fragile furniture piece	tv's	1
+free live and on-demand channel	tv episode	2
+free online TV site	tv catchup	1
+free server	tversity	1
+good communication material	tv	1
+HD multimedia player	tvix hd slim s one 	1
+HDMI display	tv	7
+high tech item	tv's	1
+home visual electrical appliance	tv	1
+house noise	tv	1
+import business	tv drama	1
+industrial food	tvp	1
+information communication method	tv	1
+information-handling technology	tv	1
+installation part	tv cable	1
+installing component	tv antennas	1
+international domain	tv	1
+italian chef	tv chef	1
+key federal organization	tva	1
+korean cultural product	tv series	1
+licensed device	tv station	1
+lightweight high-theft-risk item	tv's	1
+linear narrative	tv	1
+low-voltage source	tv sound	1
+lucky draw prize	tv	1
+magnetic sensitive object	tv set	1
+medium appearance	tv	1
+medium influence	tv	1
+medium torrent	tv	1
+model variation	tvs star	1
+modern ammenities	tv	1
+modern con	tv	2
+modern conviences	tv	1
+national TV station	tv azteca	1
+new-media outlet	tvsquad	1
+non-demanding application	tv set	1
+non-digital mediums	tv	1
+normal house activity	tv	1
+normal terrestrial signal source	tv	1
+noteworthy structure	tv tower in malaysia	1
+offline advertising	tv	1
+offline medium	tv	2
+ohter feature	tv	3
+old media	tv	3
+one-way medium	tv	1
+peripheral manufacturer	tvs electronics	1
+popular cultural mode	tv	1
+powerful appliance	tv set	1
+premium domain name	tv	5
+private television station	tv three 	1
+priveledges	tv	1
+priveledges	tv time	1
+processed meal	tv dinner	1
+programming content	tv movie	1
+programming content	tv drama	1
+public outlet	tv	2
+quiet indoor activity	tv	1
+radio wave source	tv station	3
+real world institution	tv station	1
+regular electric appliance	tv	1
+released relay	tvs relays	1
+rotators	tv antenna rotators	1
+russian channel	tv- six  air via cable 	2
+russian channel	tv- six 	1
+organization	tva	2
+organization	tv station	2
+simply substitute non-meat alternative	tvp	1
+sleep stealers	tv	1
+socially acceptable addiction	tv sports enthusiast	1
+society blinding mechanism	tv	1
+south african celebrity	tv presenter	1
+sprint-branded application	tv & movies	1
+state-of-the-art electronic system	tv tuner	2
+strategic communication approach	tv	1
+sucessful group	tvxq	1
+technological artefact	tv	1
+television giant	tvbi hong kong	1
+themed game	tv show	1
+traditional ad	tv commercial	2
+traditional ad	tv	1
+traditional advertising form	tv	1
+traditional broadcast method	tvc	2
+traditional broadcast method	tv	1
+traditional information channel	tv	4
+traditional information network	tv	2
+traditional law firm marketing option	tv	1
+traditional medium approach	tv	1
+trivial pursuit	tv	1
+typical CE device	tv set	1
+typical electronic device	tv	1
+upmarket product	tv set	1
+UPnP server	tversity	3
+van content	tv	1
+video monitor	tv	2
+video output interface	tv set	1
+visual medium composition	tv program	1
+well-established channel	tv	1
+accessory need	tv	1
+actual electronic device	tv	1
+alarm clock avoid stimulant	tv	1
+ana-themed stuff	tv show	1
+apartment fee	tv	1
+appearance information	tv	1
+appearences	tv interviews	1
+appointed room	tv	1
+artificial luxury	tv	1
+audio visual presentation equipment	tv	1
+AV instrument	tv	1
+backing-up important load	tv	1
+basic japanese TV station	tv tokyo	1
+basic japanese TV station	tv asashi	1
+berlin landmark	tv tower	1
+big screen celebrity	tv star roxanne pallett	1
+biggest category	tv	1
+broadcasted signal	tv	1
+business television station	tvn twenty-four 	1
+buyer -durable	tv	1
+cable television operator	tv agoro	1
+cable TV station	tvbs	1
+CG area	tv commercial	1
+chemical poisonous gas	tvoc	1
+China brand electronics	tv	1
+cinema film quality service	tv advertisement	1
+classic advertising campaign	tv	2
+classical hotel design element	tv cupboard	1
+comfortable modern amenity	tv set	1
+commercially successful model	tvs scooty	2
+communal or private amenity	tv	2
+composition title	tv show	1
+conversational setting	tv discussion	1
+copyright violation	tv screencaps	1
+country domain	tv	1
+covered prop small electrical appliance	tv	1
+creative input	tv advertisement	1
+debit most regular bill	tv licence	1
+dedicated collector	tv producer douglas cramer	1
+direct-to-consumer channel	tv	1
+distribution asset	tvs	1
+distribution asset	tv station	1
+download program	tv download program	1
+durable investment good	tv set	1
+education network	tvo in ontario	1
+electric and electronic equipment	tv	1
+electricity-operated appliance	tv set	1
+electronics article	tv	1
+energy hog	tv	1
+energy-efficient energy star appliance	tv	1
+organization	tv broadcaster	1
+estonian club	tvmk tallinn	3
+excessive LOUD noise	tv	1
+external disturbing source	tv transmitter	1
+external medium source	tv	1
+famous father	tv presenter vernon kay	1
+fascinating distraction	tv	1
+fashionable outlet	tv's home makeover	3
+federal power agency	tva	1
+film text	tv interview	1
+firsthand source	tv listing	1
+formal advertising outlet	tv station	1
+free zune music download	tv show	1
+freeview channel	tvnz seven 	1
+full-professional installation service	tv mounting	1
+generic campaign	tv style advertising	1
+golden age	tv	1
+good Catholics	tv sports anchor damian goddard	2
+good room amenity	tv	1
+great customer	tv two 	1
+high-cost advertising	tv	1
+high-end video equipment	tv	1
+hitherto separate service	tv	1
+home electronics component	tv	1
+home improvement program	tv home improvement program	1
+home learning activity	tv program	1
+imaging lens	tv camera lens	1
+innocent item	tv set	1
+innovative communication method	tv	1
+input line level source	tv	1
+installing utility	tv cable	1
+IR AV device	tv	1
+key conservative	tv evangelist mr p robertson	1
+key international licensors	tv asahi	1
+kid-in-a-candy-store podcasting program	tv show	1
+korean content	tv drama	1
+large cardboard boxes	tv boxes	1
+large casement piece	tv cabinet	1
+latest download	tv-series	1
+lighting instructional material	tv	1
+listening tool	tv show	1
+live video	tv program	1
+local major medium channel	tvb	1
+long program	tv series	1
+long term item	tvp	1
+low-energy electrical appliance	tv remote control	1
+low-load energy service	tv	1
+low-voltage system	tv cable	1
+main fed application	tv	2
+mass medium venue	tv	1
+meaningless distraction	tv	1
+medium centric feature	tv tuner	1
+medium discipline	tv	1
+medium electronics	tv	1
+mighty indian medium outlet	tv	2
+modern trappings	tv	2
+modest load	tv set	1
+moscow television channel	tv- six 	1
+motion project	tv promos for clarin	1
+mulitple venue	tv	1
+myriad performance venue	tv	1
+national domain	tv	1
+national domain	tv for tuvalu	1
+news things	tv	1
+non-essential electric appliance	tv's radio	1
+non-music file	tv episode	1
+non-wireless technology	tv cable	1
+normal station	tv three  utv 	1
+odd ball item	tv	1
+official mass medium	tv	1
+offline advertising method	tv	1
+offline advertising source	tv	2
+offline effort	tv	1
+on-camera talent	tv host	1
+opinion commentator	tv legends barbra walters	1
+ordinary people's entertainment	tv show	1
+output apparatus	tv	1
+PCI-E item	tv card into pci express port	1
+pervasive program	tva's environmental partnership	1
+pop-culture interest	tv	1
+popular kpop group	tvxq	1
+priceless home comfort	tv	1
+proactive lead	tv	1
+program diagram	tv program diagram	1
+promotion project	tv program	1
+promotional ad	tv	2
+promotional and marketing outlet	tv	1
+registered industry professional	tv buyer	1
+regular advertising method	tv	1
+regular household object	tv	1
+rental and installed application	tv studio	2
+required audio visual equipment	tv	1
+rich medium site	tv	1
+sales-tax exempt service	tv	1
+satellite-only channel	tvsn	3
+seldom immediately rewarding, activity	tv	1
+sensational singer	tvxq	1
+sex-exploitation mediums	tv show	1
+shared source	tv	1
+small distraction	tv running in the background for increased training intensity	1
+software-wise, theme	tv	1
+solid flat surface	tv tray	1
+sound reinforcement application	tv studio	1
+spanish print magazine	tv y novelas	1
+standard modern amenity	tv	1
+standard video option	tv aspect ratio	1
+stereoscopic display	tv	1
+stimulating electronics	tv	1
+stimulating event	tv	1
+strange menu item	tv dinner	1
+strong traditional creative sector	tv	1
+supernormal stimulus	tv	1
+superrefined soy product	tvp	1
+target receiver product	tv	1
+tech input item	tv	1
+today's electronic product	tv	1
+traditional ad channel	tv	1
+traditional alert method	tv	1
+traditional mass medium outlet	tv	1
+traditional medium option	tv	1
+traditional medium s	tv	1
+traditional promotion method	tv	1
+trendy subject	tv drama	1
+TV script	tvpc	1
+TV script	tv channel pack	1
+ultra-sized waste item	tv set	1
+unhealthy distraction	tv	1
+unlimited iphone download	tv show	1
+unnecessary bill	tv service	1
+video signal processor	tv receiver	1
+videosignal processor	tv receiver	1
+well-known anime event	tv five  caravan 	1
+active distraction	tv	1
+additionally utilitarian section	tv guide	1
+alphabet agencies	tva	1
+angolan company	tvcabo angola	1
+annoying background noise	tv	1
+area medium outlet	tv	1
+asian channel	tv asia	1
+audio distraction	tv	1
+audio-visual file	tv show	1
+audiovisual teaching aid	tv	2
+auto ancillary	tvs lucas	1
+backup purchase	tv episode	1
+basic amenity bill	tv licence	1
+technique	tv advertising technique	1
+basic setup option	tv aspect ratio	1
+big download	tv show	1
+big electronic appliance	tv set	1
+big name idol	tvxq	1
+big price tag product	tv's	1
+big ticket silent auction prize	tv	1
+book marketing event	tv show	1
+brand product sale	tv box	1
+broadcast related fixed radio link	tv pick-ups	1
+Broadcasting content	tv show	2
+broadcasting device	tv	1
+bryant's facility	tv studio	1
+built-in & custom furniture type	tv cabinet	1
+cabin feature amenity	tv	1
+campaign message	tv ad	1
+car electronic accessory	tv monitor	1
+China brand consumer electronics	tv	1
+classical communication technology	tv	1
+clear distraction	tv	1
+client -durable	tv	2
+coach appliance	tv	1
+cockpit console item	tv monitor	1
+college marketing effort	tv spots departments	1
+common hotel facility	tv with cable company	1
+common magazine	tv guide	1
+common use facility room	tv room	1
+commonplace medium outlet	tv	1
+communicative product	tv listening device	1
+community medium organization	tv	1
+company's newer cable network	tv land	1
+competitive medium	tv	1
+complete modern entertainment system	tvs with satellite tv connection	1
+connection multiple service	tv over ip	1
+consumer multimedia product	tv	1
+contemporary fiction	tv show	1
+content block	tv program content block	1
+conventional marketing medium tool	tv	1
+corrupted media	tv	1
+costly marketing campaign	tv commercial	1
+creature comfort necessity	tv	1
+CRT device	tv	1
+custom-made production	tv series	1
+day consumer electronics	tv set	1
+dern facility	tv with cable connection	1
+digital video equipment	tv game	1
+discounted magazine	tv listings magazines	1
+doubt	tv personality joe scarborough	1
+downloadables	tv primiers	1
+downstairs area	tv area	1
+driver autodetects CRT2 output device	tv	1
+economical device	tv set	1
+electrical entertainement item	tv's	1
+electrical entertainment unit	tv	1
+electrical wiring	tv	2
+electronic light-emitting device	tv	1
+electronic spare part	tv accessory	1
+electronical product	tv set	1
+electronics system component	tv	1
+entertainment related industry	tv	1
+excellent AV facility	tv's	1
+expensive advertising	tv	5
+expensive download	tv show	1
+expensive one-off purchase	tv	1
+external monitor	tv	1
+external stimulant	tv	1
+extreme distraction	tv	1
+fdr's project	tva	1
+federal utility	tva	2
+first-class mobile phone	tv phone	1
+formal oral context	tv news reading	1
+fragile electronic item	tv	1
+technique	tvt	1
+GDR monument	tv tower	1
+ghost book	tv series like ruhsar	1
+good art program	tv production	1
+great decorative piece	tv stand	1
+hdmi-connected compatible device	tv	6
+heavy steel structural product	tv broadcasting	1
+high bit-rate application	tv	1
+high power transmitter	tv station	1
+high speed video device	tv	1
+high-priced advertising	tv	5
+home entertainment	tv	3
+home shopping network	tv home shopping network	1
+house hold commodity	tv	1
+household electronic equipment	tv	1
+houshold noise	tv	1
+housing modern facility	tv set	1
+huge federal dam project	tva	1
+hunting expert	tv hosts peter fiduccia	1
+I2C device	tv	1
+increasingly more entertainment device	tv	1
+Indebtedness	tva's quarterly income debt securities	1
+INFORMATION ECONOMY technology	tv	1
+infrared communication device	tv remote controller	1
+infrequently unplugged item	tv	1
+innovative and idiosyncratic act	tv on the radio	1
+integrated marketing offline venue	tv	1
+interconnected component	tv series	2
+interesting environment	tv gameshow	1
+interesting multimedia player	tv receiver	1
+IR controllable device	tv	1
+itunes activity	tv show	1
+japanese fictional work	tv drama	4
+japanese network	tv osaka	3
+japanese network	tv aichi	2
+japanese network	tv tokyo	1
+japanese specific feature	tv tuner	1
+june 27th, k-pop performer	tvxq's changmin	4
+june 27th, k-pop performer	tvxq s changmin	1
+junior singer	tvxq	1
+korea s cultural content	tv drama	1
+korean superstar	tvxq	1
+korea's cultural content	tv drama	1
+large applicances	tv s	1
+large online video player	tv network	1
+Legal property	tv	1
+limiting time waster	tv	1
+liquid crystal display apparatus	tv set	3
+local and national new outlet	tv guide	1
+local medium channel	tv	1
+Longer-standing ad mediums	tv	2
+loud distraction	tv	1
+low stress product	tv panel	2
+magic set	tv magic cards from tv pitch man	1
+magic set	tv magic cards from tv pitchman	1
+makeover show	tv makeover show	1
+management file	tvrec	1
+mass advertising	tv	2
+mass marketing tool	tv	1
+mass medium platform	tv	1
+massive communication medium	tv	1
+mass-media technique	tv	1
+mass-produced material	tv set	1
+meaningful background sound	tv	3
+message medium	tv	1
+mid value item	tv	1
+minor set up	tv	1
+mitsubishi product	tv	1
+Mobile Phone s	tv mobile phone s	1
+mode button	tv	1
+model MP4 player	tv mp four  player 	1
+modern day advanced tool	tv	1
+modern medium amenity	tv	1
+modern technology distraction	tv	1
+monitor content	tv	1
+multi capture source device	tv card	1
+multimedia artistic product	tv program	2
+multimedia download	tv show	1
+multi-media equipment	tv	1
+nagoya landmark	tv tower	1
+national and international high achiever	tv's dragon's den star deborah meadon	3
+nation's most popular group	tvxq	2
+needless background noise	tv	1
+non-interactive activity	tv	1
+nonprint activity	tv programming	1
+non-traditional learning technique	tv clip	1
+application	tv	9
+application	tv broadcast	6
+application	tv broadcasting	2
+application	tv receiver	2
+application	tv distribution	2
+application	tv menu	1
+application	tv production	1
+application	tv broadcasting over ip gain in popularity	1
+application	tv broadcasts on the internetandvideo conferencing	1
+normal household noise	tv	5
+notebook display connector	tv-out s-video	4
+notebook display connector s	tv-out s-video	1
+noticing cable channel	tv land	1
+obscure track	tv themes	1
+offline and online element	tv ad	1
+Old school advertising	tv ad	2
+on-call, charge gadget	tv	1
+one-shot character	tv superstar edgar eagle	1
+one-to-one tool	tv	1
+open source medium center application	tv time	1
+operator issue	tv everywhere	2
+optional AG neovo accessory	tv turner frame	1
+optional hardware	tv tuner	1
+outbound marketing channel	tv	1
+outreach toolkit material	tv ad	1
+outside disturbance	tv	1
+passive influence	tv	1
+performance car company	tvr	1
+philippine periodical	tv times	1
+pointless entertainment	tv	1
+pop cultural medium format	tv	1
+popular bulgarian television channel	tv  seven 	1
+popular small-format publication	tv guide	2
+power-sensitive device	tv set	1
+precision screw driving application	tv	1
+private television outlet	tvn network	3
+private TV station	tv hayat in sarajevo	1
+privelages	tv	1
+priviliges	tv	2
+professional cheerleader	tv evangelist robert schuller	1
+professional content	tv show	1
+public medium source	tv	1
+range electrical product	tv	1
+real-time video transmission application	tv conference	1
+recorded file	tv program	1
+registered brand forex product	tv box	1
+regular household noise	tv	1
+remote control electric appliance	tv	1
+remote controller	tv	1
+residential electricity requirement	tv	1
+resonance based communication tool	tv	1
+rich downloadable content	tv show	1
+russian state	tver	1
+science show	tv science show	1
+selection accent piece	tv stand	1
+semester elective	tv production	1
+sensitive electrical appliance	tv	1
+separate audio source	tv	1
+Short duration work	tv mast erection	1
+signal-emitting source appliance	tv	2
+single distinguishable medium	tv	2
+single yearly expense	tv licence payment	1
+sky accessory	tv link eye	1
+small compact appliance	tv set	1
+smartphone capability	tv	1
+sometimes reward	tv	1
+sound situation	tv recordings with large audience	2
+south coast town	tvedestrand	1
+spanish-language station	tv azteca	1
+standard entertainment requirement	tv	1
+starry practice area	tv	1
+storage medium control apparatus	tv set	1
+story-telling device	tv newswall	1
+student-produced new program	tv newsmagazine	1
+suburethral sling	tvt	1
+successful promotion activity	tv advertising	1
+s-video display	tv	1
+application	tv watching	1
+application	tv system	1
+application	tv series	1
+application	tv broadcast video in demand	1
+application	tv tube	1
+application	tv smps	1
+application	tv production with live transmission	1
+application	tv over internet	1
+application	tv monitor	1
+application	tv viewing	1
+application	tv conference	1
+application	tv caller id	1
+application	tv camera broadcasting at night	1
+application	tv display	1
+application	tv distribution system	1
+application	tv game	1
+application	tv gaming	1
+application	tv news safeguarding the anonymity of a source	1
+application	tv program	1
+application	tv set-top boxes with instant replay	1
+application	tv tuner	1
+targeted mass medium program	tv campaign	1
+tekvisa application	tvc andtek toolbars	1
+tekvisa application	tvc	1
+throughtraditional channel	tv	1
+today many product	tv	1
+today's modern day appliance	tv	1
+top indian contemporary artist	tv santhosh	1
+tower project	tv	1
+traditional ad mediums	tv	1
+traditional and expensive advertising method	tv commercial	1
+traditional broadcast tactic	tv	1
+traditional embedded system	tv microcontrollers	1
+traditional fixed-network service	tv product	1
+traditional local medium website	tv	1
+traditional medium tactic	tv	1
+traditional medium vehicle	tv	2
+traditional offline channel	tv	1
+traditional offline marketing method	tv	1
+traditional offline marketing strategy	tv	1
+tthose item	tvs dvd	1
+TV mount accessory	tv bracket	1
+TV program genre	tv new	1
+tv-based application	tv navigator	7
+TVR model	tvr vixen	1
+TVR model	tvr grantura	1
+unidirectional mediums	tv	1
+unit feature amenity	tv	1
+unplug major appliance	tv	1
+unstable source	tv tuner	3
+uscandgeneral-purpose feature	tv trigger	1
+video signal processing apparatus	tv	1
+Visual advertising	tv commercial	1
+visual storytelling mediums	tv	1
+voltage sensitive item	tv's	1
+website medium article	tv	1
+white good product	tv	1
+wood furnishings	tv cabinet	1
+wood-finished item	tv unit	1
+year old	tv presenter lorraine kelly	1
+480p signal	tv	1
+75ohm device	tv monitor	1
+abstract communication	tv	1
+active medium outlet	tv station	1
+actual real-world article	tv show	1
+ad-films	tvs fiero	1
+administration acoustic file	tv show	1
+advection scheme	tvd	1
+advertisement channel	tv ad	1
+age-based rating	tv-y for youth	1
+age-based rating	tv- fourteen 	1
+alpine option	tv tuner	1
+alt hough spanish-language institution	tv	1
+amenity information	tv	2
+amplifier machine	tv	1
+analog signal component	tv	5
+annotation metadata format	tv-anytime	1
+asian pop star	tvxq	2
+atrial mass	tv vegetation	1
+audience friendlier station	tv three 	1
+audiovisual mean	tv	1
+audio-visual production	tv show	2
+aust cultural product	tv	1
+auto antenna related offer	tv antenna	1
+auxiliary request	tvmass host	1
+avdertising media	tv	1
+awareness creation program	tv discussion programs in the local language	1
+base setting	tvg	1
+baseband signal source	tv tuner	1
+behavioral finance proponent	tversky	1
+big display	tv	1
+big electrical appliance	tv	1
+big name k-pop boy group	tvxq	1
+big ticket advertising method	tv	1
+black lacquer living room piece	tv cabinet	1
+bottom image	tv program	1
+brand new branded electronic good	tv fridge ac	1
+brazilian channel	tv record internacional	1
+bright electronic device	tv	1
+broadcast advertisement	tv	1
+broadcast tower	tv	1
+broadcaster-specific service	tv one 	1
+broadcasting source	tv	1
+cable TV new channel	tvbs	1
+name	tv domain name	1
+CAUTION bright, stationary image	tv station logo	2
+child notice sound	tv sound	1
+children's leisure activity	tv watching	1
+child's independent activity	tv	1
+chinese language television network	tvb	1
+classical information source	tv	1
+classical part	tv adaptation of anna karenina	1
+club outing	tv show tapings	1
+comfort-seeking behavior	tv watching	1
+commercial electronic medium	tv	1
+common DTR function	tv program recording	1
+common mass medium broadcast channel	tv	1
+communal social area	tv lounge	1
+comsumer item	tv	1
+consumable electronic gadget	tv direct from usa	1
+consumer medium	tv	1
+consumer medium outlet	tv new	1
+continuous human-generated local RF source	tv station	1
+convenient technical standard	tv	2
+conventional advertising channel	tv	1
+Conventional advertising mediums	tv	1
+conventional broadcast system	tv	1
+conventional hight order flnitedifierence method	tvdrungekutta method	1
+conventional information channel	tv	1
+conventional marketing medium	tv	1
+conventional new source	tv	1
+conventional promotion strategy	tv	1
+conventional sound processing apparatus	tv	2
+countless optional creature comfort	tv	1
+country charm & modern amenity	tv	1
+country domain extension	tv	2
+country-code top level domain	tv	1
+creative styling project	tv commercial	1
+credit-bearing SL course	tv broadcast media	1
+Cross-promotion	tv presenters telling audiences about the service	1
+crowded congregate room	tv lounge	1
+cult star	tv's richard whiteley	1
+daily sound	tv	1
+daily unecessary need	tv	1
+damage expensive appliance	tv set	1
+datum listing	tv listing	2
+day new modern technology	tv	1
+depth index	tvd	1
+desktop display	tv set	1
+desktop type display	tv monitor	1
+diffused commu-nicationchannels	tv	1
+digital video file	tv show	1
+discarded electronic item	tv set	1
+discount travel related company	tvi express	1
+distance-learning delivery system	tv	1
+distracting amenity	tv	1
+ditto service	tv	1
+donor-funded program	tvet of the eu	1
+downloaded video	tv show	1
+driver comfort item	tv	1
+dsi file	tv show	1
+DSP setting	tv theatre	1
+DTC tactic	tv	1
+dynamic advertising stimulus	tv commercial	1
+electrical distraction	tv	1
+electrical functional object	tv	1
+electricity-related product	tv	1
+electronic independent medium	tv montena	1
+electronic prop	tv prop	1
+Eminent Russians	tvardovsky	1
+en-suite amenity	tv	1
+entertainment preference	tv show	1
+established mass medium	tv	1
+everyday life interruption	tv	1
+everyday privilege	tv	1
+excess stimulus	tv	2
+exciting distraction	tv	1
+exciting price	tv	1
+exotic hardware	tv tuner	1
+expensive electrical item	tv	2
+expensive household good	tv	1
+expensive mass medium vehicle	tv	1
+extension option	tv	1
+extensive marketing campaign	tv advertisments	1
+external high-def source	tv	1
+facility based clinic	tvc	1
+fairly clean and everything	tv	1
+famous idol	tvxq's yunho	1
+name	tv veteran doris roberts	1
+name	tveit	1
+name	tv chef lorraine pascale	1
+name	tv brand name	1
+name	tvetan todorov	1
+name	tvr	1
+fast certain activity	tv watching	1
+federal construction agency	tva	1
+fixed-fee video	tv commercial	1
+ford employee	tvm director	1
+format project	tv series	1
+free air wave	tv	1
+free-standing tower	tv	1
+french TV channel	tva	1
+full length video	tv program	1
+gamma setting	tv	1
+gardening luminary	tv's christine walkden	1
+generally non-compliant application	tv viewers	1
+gentle ambient sound	tv for distraction of the outdoor sound	1
+great entertainment facility	tv	1
+great everydat feature	tv tuner	1
+hairy chest big bruise roadster	tvr griffith	1
+hall feature facility	tv	1
+harmon's work	tv show community	1
+hdmi equipment	tv hdmi equipment	1
+health enhancement item	tv trainer	1
+high datum rate service	tv program	3
+high frecuency noise	tv	1
+high performance unit	tvs- eight thousand five hundred  by cmc electronics cincinnati 	1
+high-quality development service	tv commercial	1
+hong kong TV channel	tvb	1
+house-hold luxury appliance	tv	1
+humorous entertainment	tv show	2
+iconic moscow attraction	tverskaya street	1
+image display component	tv monitor	2
+image display component	tv	1
+Inactive behavior	tv watching	1
+incumbent spectrum licence holder	tv broadcaster	1
+incumbent spectrum license holder	tv broadcaster	4
+independent UHF station	tvk	1
+indie engine	tv three d 	1
+infared device	tv	1
+information transmission equipment	tv	1
+infrared controller	tv	1
+in-house client	tvland	1
+innovative multimedia product	tv wonder elite	1
+inpatient personal expense	tv rental	1
+inspirational service	tv program	1
+integrating platform	tv	1
+interactive television program guide	tv guide interactive	1
+ipc's heavyweight mainstream magazine	tv times	1
+irish channel	tv three 	1
+irrelevant URLs	tv programmes	1
+istractions	tv	1
+ith documentary	tv shows like food revolution	2
+japanese broadcasting network	tv tokyo	1
+japanese studio	tv tokyo	1
+journalistic area	tv	1
+jun 27th, k-pop performer	tvxq's changmin	1
+kamolot's on-going program	tv production	1
+korea's most popular singer	tvxq	2
+landmark BBC project	tv history of america presented by alistair cooke	1
+lebanese and european channel	tv five 	1
+legal P2P network	tv broadcaster joost	2
+legitimate advertising	tv	1
+leisure-time behavior	tv watching	1
+life small object	tv remote	1
+light sound	tv for distraction	1
+case	tva	6
+case	tv	3
+case	tv commercial	1
+live television service	tving	1
+local medium category	tv	1
+local new program	tv patrol	1
+local traditional medium site	tv	1
+long-established journalism venue	tv network new	1
+loose internal item	tv remote	1
+lot more amenity	tv	1
+low-drain appliance	tv remote	1
+low-level background noise	tv	1
+low-profile addon card	tv tuner	1
+low-value transaction	tv service	1
+magnetism-avoiding article	tv set	1
+marketing department leverage medium outlet	tv	1
+mass celebrity	tv starlettes	1
+mass-media campaign	tv	1
+mature mediums	tv	1
+mature viacom business	tv network	1
+mediaplatforms	tv	1
+medium advertising	tv	2
+medium database site	tvdb	1
+medium load appliance	tv set	3
+medium promotional activity	tv interview	1
+medium term contract	tv rental agreement	1
+midseason replacement	tv's bloopers	1
+midseason replacement	tv midseason replacement	1
+mobile and wireless technology	tv white spaces	1
+modern day's distraction	tv	1
+modern facilites	tv	2
+mold big and heavy part	tv casing	1
+morning distraction	tv	1
+mpeg-7-based application	tv-anytime	1
+multimedia educational program	tv	2
+multimedia-based service	tv	1
+nactive medium outlet	tv station	1
+namur accessory	tvc solenoid valve	1
+naturalistic stimulus	tv show	1
+negative vibration field	tv radiation	1
+non music related feature	tv review	1
+non-audio home electronics	tv	1
+nonbusiness download	tv show	1
+non-graphics expansion card	tv tuner	1
+non-horror title	tv series the wonder years	1
+non-interactive medium	tv	1
+non-journalists	tv gardener jamie durie	1
+non-sleep-related activity	tv watching	1
+non-store retail environment	tv	1
+non-suppressed household appliance	tv set	1
+normal screen	tv	4
+normal standard	tv	1
+nowadays comfort	tv	1
+occasional great mainstream series	tv burp	1
+official pa-sponsored medium outlet	tv	1
+official state-sponsored medium outlet	tv	1
+offline electronic channel	tv	1
+offline medium channel	tv	2
+old-line information product	tv guide	1
+optional multimedia feature	tv tuner	1
+ordinary pleasure	tv	1
+outlet point	tv switch	1
+out-of-the-way european village	tvedestrand	1
+passenger convenience	tv	1
+passive channel	tv	1
+pawn item	tv	1
+pc-based medium server	tversity	1
+PCI-e unknown card	tv tuner	1
+pedal-powered appliance	tv	1
+picture reception system	tv	1
+picture tube product	tv receiver	1
+plugged appliance	tv	1
+popular capture device	tv cards with mpeg hardware encoder	1
+popular capture device	tv cards with compatible wdm driver	1
+popular culture aspect	tv show	1
+popular culture program	tv show	1
+popular hot deal	tv deal	2
+popular new channel	tvbsn	1
+popular TV accessory	tv cable	1
+case	tv presenter	1
+case	tvs motor	1
+case	tv guide	1
+case	tv standard	1
+potential new revenue source	tv monitor	1
+powerful medium channel	tv	1
+premium electronics	tv	1
+pricey marketing program	tv ad	1
+processed foods	tv dinner	1
+pro-fessional writer	tv personality steve allen	1
+prolene mesh sling	tvt	1
+promising new P2P model	tv program series	1
+provincial public television broadcaster	tv ontario	1
+PSP go file	tv show	1
+publisher additional right	tv right	1
+publisher tangential right	tv right	1
+RAW capture device	tv tuner	1
+reason korean idol	tvxq	1
+Recommended Brand electronics	tv	1
+reputable worker	tv repairer	1
+room fitting	tv with in-room movies on demand	1
+rough sound source	tv sound	1
+sale communication	tv	1
+sale price everything	tv	1
+selective joinery element	tv unit	1
+semi-licensed band	tv whitespaces	1
+semi-licensed band	tv white space	1
+sexy field	tv	1
+short lead	tv	1
+side medium outlet	tv	1
+similarity search -metric	tversky	1
+simple assistive listening device	tv amplifier	1
+simultaneous noise	tv blaring	1
+SM entertainment singer	tvxq	2
+small-sized portable apparatus	tv	1
+smart home appliance	tv with internet access	1
+Spanning technologies	tv	2
+speakers	tv show producer	1
+standard definition component	tvs	1
+stream route	tv	1
+strong analog signal	tv	1
+subscriber's consumer electronic equipment	tv	1
+super medium	tv	1
+Supplementing additional hardware	tv tuner	1
+support method	tv antenna support method	1
+option	tv	20
+option	tv stand in wood with lift	7
+option	tv tuner	2
+option	tv show	2
+option	tv stand in lumber with lift	2
+option	tv station	1
+option	tv swivel	1
+option	tvs in bridge treadmill	1
+option	tvg	1
+option	tv-out	1
+option	tvs in crosswalk treadmill	1
+option	tv ad	1
+sustained seating application	tv watching	1
+swedish TV channel	tv four 	1
+talented idol	tvxq	1
+target projector	tv projector	1
+team element	tv advertisement	1
+technology-specific distracters	tv	1
+telecom breakthrough	tv	1
+television listing	tv guide	2
+temporary recording fromarangeof source	tv news item	1
+third, many good	tv set	1
+time controlled output	tv	2
+today's korean technology	tv	1
+top quality classical aid	tv	1
+town medium organization	tv	1
+traditional above-the-line medium	tv	1
+traditional broadcast station	tv	2
+traditional long video	tv program	2
+traditional mainstream medium	tv	1
+traditional marketing promotion technique	tv advertising	1
+traditional mass-marketing method	tv	1
+traditional off-line advertising component	tv	1
+traditional offline media	tv	1
+traditional one-way new broadcast	tv	1
+traditional outbound marketing tactic	tv	1
+traditional publicity tool	tv advertisement	1
+traditional stolen item	tv	1
+traditional, outbound marketing technique	tv advertising	1
+traditionally-organized system	tva	1
+transform activity	tv watching	6
+transmission tower	tv	1
+tricky car	tvrs	1
+true marketing mediums	tv	1
+TV appearences	tv show in argentina invited by the famous trillizas de oro	1
+TV listing site	tv guide	1
+TV magazine	tv quick	1
+TV magazine	tv times & look-in	1
+TV transmission system	tv transposers	1
+TV transmission system	tv transmitter	1
+twentieth century object	tv	1
+two-channel analog audio device	tv	1
+type ofonlinevideos	tv program	1
+ubiquitous channel	tv	1
+undesired segment	tv commercial	1
+universal campaign	tv commercial	1
+un-needed distraction	tv	1
+unrelated category	tv episode	1
+unwanted electrical good	tv	1
+URL landing page offline campaign	tv	1
+uruguayan medium outlet	tv	1
+User preference information	tv show	2
+venture capital advisory board	tvm	3
+video content program	tv show	1
+video port child device	tv tuner	1
+video processing apparatus	tv	1
+video scene	tv show	1
+video signal processing device	tv receiver	1
+visual medium format	tv	1
+well-known touristic sight	tv tower at alexanderplatz	1
+window vista's core entertainment feature	tv	1
+wireless activity	tv broadcasting	1
+withadvanced communication technology	tv	1
+world medium connection	tv	1
+wrong setting	tv type	1
+4:3 picture	tv picture	1
+a general element	tv hero	1
+accurate replica	tva be two 	1
+acoustic improvement	tvg	1
+action-adventure direction	tv show fastlane	1
+advanced and dynamic forecasting technique	tvp model	1
+advertising-supported medium	tv	1
+ADW provider	tvg	1
+affordable and family-focussed program	tv fifty 	1
+allentown morning call loud noise	tv	1
+American inventions	tv dinner	1
+anything high end	tv	1
+audio-video output device	tv receiver	1
+audio-visual medium	tv	1
+auxiliary market	tv	1
+AV accessory	tv stand	1
+AV display	tv into the receiver	2
+option	tv & radio	1
+option	tv stand in wooden with lift	1
+option	tversity	1
+option	tv-tuner card	1
+berlin favorite	tv tower	1
+best promotion tool	tvc in asia	1
+big audio installation	tv studio	1
+Black furnishings	tv	1
+broadband tuner	tv tuner	1
+broadband-enabled device	tv	1
+broadcast new source	tv	1
+broadcast signal processing apparatus	tv	1
+broadcasting signal processing apparatus	tv	1
+Broadcasting video content	tv program	2
+budget venue	tv	1
+built-in silverlight feature	tv screen showing an image from the webcam	1
+bush entertainment piece	tv stand	1
+cantonese TV channel	tvb	1
+celebritiess	tv babe fearne cotton	2
+celebrity cat owner	tv cleaning extraordinaire	1
+celebrity mailing address	tv cast members like smallville	1
+certian high-powered device	tv tuners	1
+chef's	tv's alton brown	1
+circumjacent product	tv program	1
+civilian place	tv station	1
+Classical ATL mediums	tv	1
+clinical common space	tv lounge	1
+coaxial device	tv antennae	1
+commercial entertainment device	tv	1
+commercial-free channel	tvo	1
+common advertising method	tv	1
+common or regular item	tv	1
+common teen activity	tv watching	1
+community television project	tvlink in kortrijk	1
+competitive and disruptive area	tv industry	1
+completely passive, sedentary activity	tv watching	1
+complicated energy-saving electronics	tv	1
+concomitant surgical procedure	tvt-secur suburethral sling	1
+concretely pertinent information	tv show's airdate	1
+consumer electronics platform	tv	1
+consumer marketing tool	tv	1
+consumers entertainment preference	tv show	1
+contemporary american effort	tv series kung fu	1
+content specific, multi-media domain extension	tv	1
+Conventional advertizing	tv commercial	1
+conversely standard product	tv	1
+cool old school commercial	tv spots	1
+Creative advertising	tv commercial	1
+creative zone shooting mode	tv	2
+curded cheese	tvorog	1
+data-oriented service	tv	1
+decade minimally invasive synthetic sling	tvt	2
+dense distraction	tv	1
+desirable, term	tv stereo	1
+Die-hard Geelong tragics	tv star daryl somers	1
+digital stimulation	tv	1
+digital TV asset	tvnz.on demand	1
+digital TV receiver related offer	tv antenna	1
+distance 2d screen	tv	1
+distracting influence	tv	1
+domestic cable	tv coaxial	1
+domestic entertainment device	tv	1
+downloadable player	tvu networks	1
+DVD box set	tv series on dvd	1
+dvd boxsets	tv dvd boxsets	1
+DVD enthusiast web site	tvshowsondvd.com	1
+earth station	tv uplinks	1
+group	tvxq	16
+group	tvs	4
+group	tvx	1
+group	tv turnoff network	1
+group	tv show night	1
+group	tv station group	1
+educational television service	tvo	1
+electioneering communication	tv ad	1
+electric information system	tv	1
+electric magnetic source	tv	1
+electroinic stuff	tv	1
+electro-magnetic appliance	tv	1
+electronic program guide	tv guide on screen	2
+Electronic program guide s	tv guide on screen	1
+electronics waste	tvs along with household battery	1
+electronis	tv s	1
+electro-pop group	tv on the radio	2
+e-mail project	tva's generation partners	1
+energy saving freebie	tv powerdowns	1
+entertainment medium content	tv drama	1
+entraintment industry	tv	1
+entrenched medium practice	tv upfronts	1
+everyday sound source	tv	1
+expensive heavy item	tv set	1
+expensive insigne device	tv	1
+expensive space heater	tvh six hundred  vornado touchstone vortex electric space heater 	1
+external AV source	tv receiver	3
+external video monitor	tv	1
+external video output	tv	1
+external video signal	tv video signal	1
+external, official instance	tv program	1
+extra-large USB device	tv tuner	1
+family-managed group	tvs	1
+Fancy add-ons	tv	1
+fans	tv fan	1
+first generation sling	tvt	1
+first, appliance	tv se ts	1
+first, beh avioral economist	tversky	1
+first, behavioral economist	tversky	3
+flip piece	tv chandelier	1
+forum complex device	tv	1
+free DLNA server	tversity	1
+French language channel	tva nouvelles	1
+full-color illustration	tv commercial storyboard	1
+full-screen listing	tv guide	1
+funny domain extension	tv	1
+futuristic production	tv's battlestar galactica	1
+game-show format	tv game-show format	1
+general-purport product	tv	1
+good cooking show	tv one's fantastic rick stein's food heroes	1
+good-sized cardboard box	tv box	1
+great sport car	tvr	1
+hdmi-connected agreeable system	tv	1
+hemispheric radio wave	tv	1
+high data-rate service	tv program	1
+higher-level marketing activity	tv ad campaign	1
+high-order upwind scheme	tvd	1
+high-power primary user	tv station	2
+high-quality air-ready video-production	tv commercial advertisement	1
+high-resolution, high-order momentum advection scheme	tvd	1
+historically broadcasting content	tv	1
+home electronic appliance	tv	1
+home travel business	tvi express	1
+home-bred peer	tvs motor co.	1
+household electric power appliance	tv set	1
+iffy area	tv news caster	1
+inactive daily activity	tv watching	1
+in-cab signalling system	tvm  four hundred and thirty 	1
+incumbent spectrum holder	tv broadcaster	1
+independent and wealthy television station	tv pink	1
+inexpensive card	tv tuner	1
+group	tv  two 	1
+group	tv cartoon-inspired game	1
+group	tvtv	1
+infrared remote controller	tv controller	1
+in-home entertainment	tv	1
+in-home shopping channel	tv	2
+initially noise	tv	1
+injurant	tvoc	5
+innocent inanimate item	tv remote control	1
+installation point	tv aerial	1
+Internet Widget option	tv guide	4
+IP-based video service	tv over dsl	1
+itune multimedia file	tv show	1
+jamming device	tv-b-gone	1
+korea's superstar	tvxq	1
+large-area application	tv	1
+largest volcanic plume	tvashtar	1
+latest minimally imasive surgical technique	tvt & tot	1
+leave appliance	tv	1
+logical address link	tv crossover.tm	1
+luminescent picture	tv picture	1
+luxury bedding electronic device	tv	1
+mainstream medium advertisement	tv	1
+mammoth hit	tv mammoth hit	1
+marketable content	tv series	1
+Marketing Communication Strategy & material	tv commercial	1
+marking strategy	tv	1
+mass education campaign	tv advertisement	1
+mass market advertising vehicle	tv	1
+mass medium content	tv program	3
+mass medium mediums	tv	1
+mass-manufactured good	tv set	1
+material distraction	tv	1
+mediainternational medium	tv network	2
+medium exposure variable	tv hour	2
+medium plan	tv commercial	1
+medium server program	tversity	1
+modern and contemporary amenity	tv	1
+modern disturbance	tv	1
+modern suburethral sling	tvt	1
+national and international press contact	tve	1
+network logo	tvland in the bottom right corner	1
+newest internet development	tv via adsl	1
+news & current affair	tv patrol	1
+newspaper insert	tv magazine	1
+non-game medium	tv	1
+non-it method	tv sponsorship	1
+non-literate technology	tv	1
+non-political type	tv broadcaster greg gumbel	1
+Non-traditional distribution c hannels	tv	1
+method	tv	3
+method	tv broadcasting	2
+method	tv station	2
+method	tv advertising	2
+method	tv commercial	1
+method	tv set	1
+norwegian HD channel	tv two  hd 	1
+note connect image display component	tv monitor	1
+occasion pre-taped clip	tv funnyhouse	1
+occasional public promotion	tv	1
+official media	tv	1
+OFFICIAL source comnfirm sth	tvguide	1
+off-limit object	tv remote	1
+often-used device	tv	1
+one-way mass medium technology	tv	2
+on-line television program guide	tv guide online	1
+online tv website	tv link	1
+on-screen software	tv programming guide	1
+ortant service	tv	1
+outstanding creative artist	tv dramatists usama anwar okasha	1
+passive television program guide	tv guide channel	1
+PCI video card	tv-tuner card for better graphic	1
+peoples appliance	tv s being affected	1
+permanent or temporary item	tv rubber band computer paper clip glass	1
+permanent setup	tv-to-headphone setup	1
+plasma television stand style	tv holders for banner	1
+playing video game	tv playing video game	1
+plenty US medium	tv	1
+plug electronic item	tv	1
+pluggable accessory	tv receiver	2
+popular culture outlet	tv show	1
+popular medium server	tversity	1
+powerful mass medium	tv	1
+powerful protest anthem	tv war	1
+powerup sequence	tv	1
+practical affair	tv with internet access	1
+practical viewing product	tv turntable	1
+premium extension	tv	1
+pressurized-water reactor	tva's sequoyah	2
+pretty full featured tool	tv harmony	1
+primitive or unreliable test equipment	tv- seven  s 	1
+printed television listing	tv guide	1
+private archive	tv archive	1
+private torrent tracker	tv torrents	1
+production design element	tv camera angle	1
+profligate corporation	tv's the family channel	1
+promax high-end digital satellite meter	tv explorer hd	1
+prominent swan fan	tv celebrity ian dickson	1
+promising video appliance	tv telephone	1
+public generator	tva	1
+public utility system	tva	3
+pubmatic seller	tvguide.com	2
+pull-and-push medium	tv	1
+pure communication project	tv documentary	1
+pure structure	tvf	1
+purpose feature	tv trigger	1
+push medium	tv	1
+quality high bandwidth service	tv	1
+quasi-scientific source	tv show mythbusters	1
+Radiant Foil insulation	tvm	1
+radio emission	tvlm  five hundred and thirteen 	1
+ratings-based business	tv news network	1
+recessed appliance	tv	1
+region-locked online service	tv content via the bbc's iplayer	1
+regular gucci spender	tv personality lydia shum	1
+regular picture	tv pro- tion	1
+relationship-driven business	tv	1
+remote player equipment	tv	1
+replaceble item	tv	1
+residential audiovisual application	tv broadcasting	1
+re-starting nuclear power plant	tva brown's ferry plant	1
+router-based capability system	tva	1
+routine marketing	tv	1
+RV amenity	tv	1
+sale support program	tv advertising	1
+Samsung brand item	tv for a long time	1
+savvy fly-fishing angler	tv personality	1
+second, many device	tv remote control	1
+second, many unlicensed device	tv remote control	2
+second-hand furniture price	tv	1
+seden-tarybehaviors	tv viewing	1
+seemingly mundane, at-home experience	tv	1
+method	tv antenna support method	1
+set-theoretic model	tversky's contrast model	1
+Sexting celebs	tv host vernon kay	1
+shape analysis	tvla	1
+simple and intuitive control	tv remote control	1
+simultaneous wireless connection	tv	1
+single IR input	tv power	1
+sleek, handheld little color job	tv- one thousand nine hundred  from casio 	1
+slight distraction	tv	1
+small national network	tv one 	1
+so-called push-type content distribution service	tv	1
+software DLNA server	tversity for window	1
+software-only approach	tvuplayer	1
+sophisticated and measurable new format	tv-style rich medium	1
+sophisticated, customised ICT solution	tv mini-broadcasting studio	1
+south beach diet food product	tv dinner	1
+specialised mode	tv	1
+specialty domain	tv	1
+spectrum licensee	tv broadcaster	1
+speed train	tvg	1
+standard dental marketing promotion	tv	1
+standard emulator filter	tv scanlines	1
+standard medium material	tv ad	1
+standing application	tv	1
+start distraction	tv	1
+successful street TV project	tv maxambomba in rio	1
+superficially realistic representation	tv serial oz	1
+Tagnateg furniture	tv set	1
+technological creature comfort	tv	1
+television guide	tv guide	1
+television rating	tv- fourteen 	1
+television-oriented web site	tv.com	1
+tertainment gadget	tv with home theater system	1
+ther m edia	tv	1
+thetelevision rating	tv- fourteen 	1
+third part software server	tversity	1
+third party DLNA server software	tversity	1
+traditional advertising market	tv	1
+traditional advertising sector	tv	1
+traditional broadcast medium	tv	1
+traditional EC platform	tv	1
+traditional image medium	tv	1
+traditional in-store program	tv	1
+traditional medium artefact	tv	1
+Traditional passive mediums	tv	1
+traditionally video	tv program	1
+transvaginal tape procedure	tvt	1
+TV software program	tvu	1
+TV specific component	tv splitters	2
+tvifSetInterruptScript function	tvifsetscript of the main script	1
+tv-specific component	tv splitter	1
+typical home-bound application	tv	1
+unlicensed family game	tv boy	2
+unlicensed family game s	tv boy	1
+unnecessary stimulus	tv	1
+unofficial workarounds	tv pack	1
+UPnP software apps	tversity	1
+vacuum tube application	tv pictures tube	1
+variety event	tv talk show	1
+VHF signal	tv	1
+viacom network	tv land	1
+tool	tv	8
+tool	tv remote control	2
+tool	tv commercial	2
+tool	tvm	1
+video image capture hardware	tv card	1
+video rate application	tv	2
+viewing package	tv dramas	1
+visually powerful medium	tv broadcasting	1
+wagering site	tvg	1
+wasteful distraction	tv	1
+Watching distance object	tv	1
+well-known risk measure	tvar  four 	2
+well-organized video	tv broadcast new	1
+tool	tv transmission	1
+tool	tvt	1
+project	tv program	2
+product	tv	31
+product	tv stand	13
+product	tv set	11
+product	tv  thirteen  dvd 	4
+product	tv card	3
+product	tv  fifty-four 	3
+project	tv commercial	2
+project	tva dam reservation	2
+project	tv	2
+project	tv show	2
+project	tv casting	1
+project	tv ad	1
+project	tv ad campaign	1
+project	tvb new tv city	1
+project	tv sitcom	1
+project	tv theme tune	1
+project	tv series	1
+project	tverskaya mall	1
+project	tv three  tezcaltepetl communitary television 	1
+project	tva's biggest project	1
+project	tv guestings	1
+project	tv series the west wing	1
+project	tv animation	1
+project	tv broadcast	1
+project	tvyf revival	1
+project	tva	1
+project	tv- four 	1
+artist	tvxq	14
+artist	tv on the radio	7
+artist	tv appearances for the box	1
+artist	tvxq sent by the famous christmas video message	1
+artist	tvb's favorite artist	1
+artist	tv shows like glee perverting airwaves by promoting homosexual lifestyle	1
+artist	tv rock	1
+material	tv spots	3
+material	tv program	3
+material	tv show	1
+material	tv guides	1
+material	tv character	1
+place	tv station	2
+place	tv station building on kattelox	1
+place	tv room	1
+technology	tv	32
+technology	tv-to-computer device	1
+technology	tv-displays	1
+product	tv brackets & mount	2
+product	tv shopping product	2
+product	tv's	2
+product	tvp	2
+technology	tv commercial	1
+technology	tv remote control	1
+technology	tv-based web browsing system	1
+technology	tv market investigation consultation technology	1
+term	tv ort v in the chipping sodbury business listing	1
+term	tv ort v in the mildenhall business listing	1
+term	tv ort v in the shepton mallet business listing	1
+term	tv ort v in the portishead business listing	1
+term	tv lines	1
+term	tv ort v in the downham market business listing	1
+term	tv ort v in the yate business listing	1
+parameter	tv energy dispersal excursion	1
+system	tv	5
+system	tv receiver	2
+system	tv transmission system	1
+system	tvla	1
+system	tv-conference system	1
+system	tv ant	1
+measure	tv program	2
+measure	tv rating	1
+measure	tv advertisement	1
+measure	tv audience	1
+measure	tv viewing	1
+condition	tv display	1
+element	tv	2
+element	tv antenna	1
+element	tv brainwashing	1
+variable	tv effect	1
+product	tvc mop	1
+product	tv tuner related product	1
+product	tv tuner car related product	1
+product	tv tuner radio related product	1
+product	tv watt related product	1
+product	tvs monitor	1
+product	tvs sony related product	1
+product	tv cell phone related product	1
+product	tv chassis related product	1
+product	tv display	1
+product	tv furniture	1
+product	tv lift related product	1
+product	tv set related product	1
+product	tv remote control	1
+product	tv transmitter related product	1
+product	tv portable related product	1
+product	tv car antenna related product	1
+product	tv cable related product	1
+product	tv bracket	1
+product	tv av jack related product	1
+product	tv connector related product	1
+product	tv adapter related product	1
+product	tv amplifier related product	1
+product	tv mobile phone	1
+variable	tv market	1
+function	tv	8
+function	tv reception	5
+function	tv viewing	4
+function	tv output	3
+function	tv tuner	2
+function	tv function	2
+function	tv test function	1
+function	tv watching	1
+function	tv real-time moments connection	1
+function	tv program in the background	1
+function	tv setup	1
+function	tv safe	1
+function	tv monitor system	1
+device	tv	72
+device	tv set	12
+device	tv tuner	6
+device	tv's	5
+device	tv receiver	4
+device	tv remote	4
+device	tv monitor	3
+device	tv remote control	2
+device	tvix hd	1
+device	tvs with an instant-on feature	1
+device	tvs amplifier	1
+device	tvs with usb slot	1
+device	tv-tuner	1
+device	tv recording device	1
+device	tv anytime device	1
+device	tv antennas	1
+device	tv projection system	1
+device	tv device	1
+device	tv-sound	1
+device	tvt	1
+device	tv s	1
+device	tv remote controller	1
+device	tv card	1
+brand	tvs motors	1
+brand	tv four 	1
+brand	tv jones	1
+brand	tvs	1
+brand	tvs apache	1
+brand	tvs victor	1
+brand	tv three 	1
+component	tv	9
+component	tv tuner	4
+component	tv monitor	2
+component	tv card	1
+component	tv camera for positioning	1
+component	tvs diode	1
+component	tv set	1
+aspect	tv event	1
+site	tv.com	8
+site	tv catch-up site	1
+site	tv forum	1
+site	tv rss	1
+site	tvguide	1
+site	tv tonight	1
+site	tvg	1
+site	tvshack	1
+site	tv links	1
+site	tv listing site	1
+site	tve	1
+site	tvaddicts . tv	1
+site	tv listings guide	1
+site	tv fool	1
+site	tv web site	1
+site	tv johnny	1
+site	tv interenet site	1
+site	tv new site	1
+site	tv network	1
+task	tv show	1
+task	tv schedule research	1
+task	tv stand	1
+related product	tv lift related product	1
+related product	tv cell phone related product	1
+related product	tv chassis related product	1
+related product	tv set related product	1
+related product	tv watt related product	1
+related product	tv tuner radio related product	1
+related product	tv cable related product	1
+related product	tv car antenna related product	1
+related product	tv amplifier related product	1
+related product	tv adapter related product	1
+related product	tv digital box related product	1
+related product	tv main board related product	1
+related product	tv card wireless related product	1
+related product	tv vcr related product	1
+related product	tv sony related product	1
+related product	tv wall bracket related product	1
+related product	tv table related product	1
+related product	tv socket related product	1
+related product	tv show related product	1
+related product	tvp related product	1
+related product	tvs digital related product	1
+related product	tv movie related product	1
+related product	tv recorder digital related product	1
+related product	tv tuner dvd related product	1
+related product	tv box related product	1
+related product	tv dvd combo related product	1
+related product	tv combo related product	1

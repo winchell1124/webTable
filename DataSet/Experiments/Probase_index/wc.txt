@@ -1,0 +1,613 @@
+product	wcf	1
+product	wc alarm	1
+initiative	wcb no lift program	1
+initiative	wcp	1
+resource	wcc	1
+resource	wcf service	1
+facility	wc	1
+facility	wc with hand basin in a separate room	1
+property	wcs layer's raster property	1
+property	wcf specific property	1
+benefit	wcca reporter wisconsin	1
+game	wciii	2
+game	wc three 	2
+product	wc toilet pan	1
+attraction	wc handy house	1
+skill	wc	1
+skill	wcf	1
+institution	wca hospital	1
+institution	wcc	1
+document	wc- one hundred and twenty-three  form 	1
+approach	wcml	1
+matter	wcb	1
+alternative	wcf	1
+agency	wcb	2
+agency	wcrs	2
+agency	wccs	1
+location	wcml cam	1
+solution	wcdma	1
+star	wc fields	1
+star	wcw tv star bobby starr	1
+business	wccg	1
+band	wck	1
+part	wcm web part	1
+title	wcw	1
+ingredient	wc sauce	1
+consideration	wc height	1
+instrument	wco's core instrument	1
+act	wcbo	1
+attribute	wc facility	2
+publication	wcva website	1
+compound	wcl  six 	1
+basic	wcs	1
+expense	wcb internal expense	1
+entity	wci in north america	1
+feature	wcms's sophisticated feature	1
+feature	wcb custom performance feature	1
+region	wcn	1
+purpose	wcm	1
+Organisations	wcl	1
+Organisations	wcmc	1
+partner	wcs	1
+partner	wcc	1
+big name	wc fields	1
+standard	wcdma	5
+standard	wcag  two . zero 	1
+show	wcw worldwide	1
+issue	wcw	3
+provider	wcva	1
+competitor	wcc	1
+district	wc gilcrest re- one 	1
+stakeholder	wcs	1
+line	wcml former london division	1
+line	wcml	1
+line	wca	1
+channel	wcpx	1
+functionality	wcf integration with biztalk	1
+utility	wc for counting	1
+utility	wcf configuration editor	1
+utility	wcpuid	1
+movement	wcm	1
+issue	wcag  two . zero 	1
+issue	wcag	1
+protocol	wctp	2
+protocol	wccp	1
+association	wca	1
+network	wcdma network	1
+station	wcbs	2
+station	wcpo-tv	2
+station	wcbs-fm in new york city	1
+station	wcsg	1
+station	wcrb boston	1
+station	wcfl of chicago	1
+station	wchs radio	1
+station	wcix in miami	1
+station	wcco-tv in minneapolis	1
+station	wcvo	1
+station	wcrh	1
+station	wcjb	1
+station	wchs-tv	1
+station	wcfe-dt	1
+station	wcav	1
+station	wchs in charleston	1
+station	wcma in corinth	1
+upgrade	wc brake	1
+college	wcjc	2
+NGOs	wcs	5
+forum	wco	1
+signal	wcdma	2
+keyword	wc	1
+index	wcst category	1
+attachment	wc woodchip buckets	1
+command	wc	8
+international organization	wco	4
+international organization	wcs	1
+advanced technology	wcdma	1
+datum source	wcf data services	1
+tenant	wcs lending	1
+framework	wcf data services	1
+framework	wcf	1
+board	wca hospital	2
+workshop	wcma workshop	1
+analysis	wco time release study	1
+library	wcf data services	1
+interface	wcdma	1
+pest	wcr	1
+conference	wcre	1
+promotion	wcw	2
+medium outlet	wcbs eight hundred and eighty 	1
+medium outlet	wcco-tv	1
+guideline	wcag	2
+guideline	wcag  one . zero 	1
+guideline	wcag  two . zero 	1
+non-governmental organization	wcs	1
+interesting feature	wcities travel books	1
+map	wc mappack map	1
+connection	wcdma	1
+simple tool	wc	1
+champion	wcw world champion	1
+convention	wca	1
+convention	wc for toilet	1
+latest technology	wcf	4
+latest technology	wcf from cobol using the award winning visual studio development environment	1
+contractor	wct	1
+radio station	wcol-am in columbus	3
+radio station	wclv	2
+radio station	wccc	1
+radio station	wckt	1
+radio station	wcpe	1
+radio station	wcco	1
+communication system	wcdma	3
+communication system	wcdma system	1
+item	wc's	1
+phase	wco  three 	1
+comedian	wc fields	1
+horse	wc the mighty moe	1
+horse	wc legally lethal	1
+tournament	wc qualifying	1
+tournament	wcppl	1
+builder	wci communities	1
+builder	wci communities of bonita springs	1
+builder	wci communities in bonita springs	1
+big event	wcg	1
+large event	wcw wrestling	1
+peer	wct engineering bhd	1
+public event	wct	1
+web service	wcf	2
+deduction	wcb	1
+hard surface	wc seat	1
+complex task	wcst	1
+web application	wcf	1
+area	wcs	3
+area	wcf workload capture	2
+node	wcs	1
+communication device	wcd	1
+league	wcac	1
+abbreviation	wcca	1
+broadcaster	wcbs	1
+government organization	wcb	1
+cultural institution	wcs's bronx zoo	2
+international agency	wco	2
+communication method	wcn blog	1
+national event	wcw	1
+datum service	wcdma	1
+conductive material	wcn	1
+international player	wco	1
+area	wcdma	1
+insurance	wcb	1
+open standard	wcf	4
+wireless technology	wcdma	3
+benchmark	wcdma acp	1
+tour operator	wcra	1
+sophisticated feature	wcms's sophisticated feature	1
+optimization	wc path duplication	1
+cartoon character	wc fields	1
+area	wca	1
+area	wcf	1
+area	wcvi	1
+International NGOs	wcs	2
+wireless communication system	wcdma	2
+TV channel	wcpx	1
+conservation organization	wcs	1
+performance feature	wcb custom performance feature	1
+service	wc	2
+service	wcb injury service	1
+sophisticated technology	wcf	1
+wireless network	wcdma network	1
+bright spot	wcw	1
+communication technique	wcdma	1
+international initiative	wcrp	1
+world champion	wcw world champion	1
+high-tech company	wcco belting	1
+holder	wcs license holder	1
+connectivity option	wcdma	5
+women's organization	wctu	1
+women's organization	wcg	1
+mobile technology	wcdma	1
+umbrella organization	wcva	1
+service	wcf	1
+tribunal	wcat	1
+modern application	wcdma	1
+modern system	wcdma	1
+christian organization	wcc	2
+big organization	wcg	1
+international program	wcrp global energy	1
+women's group	wctu	2
+television station	wcbs	1
+television station	wcnc	1
+wireless communication device	wcds  one hundred and two 	1
+radio show	wcbs-am	1
+VIPs	wcg ceo	1
+modulation technique	wcdma	1
+microsoft technology	wcf	4
+server application	wcf web service	1
+federation	wccw	1
+latest technique	wcf	1
+access technology	wcdma	1
+construction company	wct engineering bhd	1
+construction company	wct bhd	1
+topic	wcf	3
+basic command	wc	1
+famous location	wc handy park in beale street	1
+regional program	wci	2
+communication standard	wcdma	2
+newest technology	wcf	1
+topic	wcf instance management	1
+topic	wcf integration	1
+powerful technology	wcf	1
+accessibility feature	wcag guidelines in the elearning course	1
+influential organization	wcc	1
+cognitive task	wcst	1
+3rd party application	wc three  html validator 	1
+water conservation measure	wc displacement device	1
+room facility	wc shower	1
+insurance program	wcb	1
+radio communication system	wcdma	3
+wireless standard	wcdma	5
+competitive activity	wcpss reflections	1
+wireless product	wcdma repeaters	1
+wonderful organization	wcny	1
+topic	wcb	1
+cellular system	wcdma	3
+radio system	wcdma	2
+RTS game	wc three 	1
+vitals	wcco	1
+CPUs	wce arm.pdabot	1
+modern communication system	wcdma	1
+local radio station	wcco	2
+local radio station	wcco-am	1
+mobile network	wcdma	1
+watchdog organization	wcca	1
+cellular network	wcdma	2
+flagship program	wcf clp	2
+payroll tax	wcb	1
+community business	wcom  one hundred and three . five 	1
+company	wcb	1
+common standard	wcag	1
+big carrier	wcl	1
+wireless communication technology	wcdma	1
+statutory deduction	wct	1
+statutory deduction	wci . income tax	1
+company	wct	1
+company	wcpm	1
+company	wcbs	1
+company	wci communities	1
+company	wcco belting	1
+federal and state program	wca	1
+anthropometric measure	wc-to-hc ratio	1
+anthropometric measure	wc-to-height ratio	1
+cellular phone	wcdma cellular phone	1
+external interface	wcf service or a website	1
+CDMA system	wcdma system	3
+CDMA system	wcdma	2
+CDMA system	wcdma third generation partnership project system	1
+cognitive test	wcst	1
+professional league	wcg	1
+regional stakeholder	wco	1
+web part	wcm web part	1
+corporate donor	wci communities	1
+NET technology	wcf	3
+NET technology	wcf ria	1
+commercial station	wcco	1
+communication scheme	wcdma	1
+activity	wcc formation	1
+activity	wca field events	1
+broadband network	wcdma	1
+technical college	wctc	1
+standard command	wc	1
+wireless network technology	wcdma	1
+neuropsychological test	wcst	1
+wireless communication standard	wcdma	1
+buffer component	wce buffer component	1
+sanitary fitting	wc flushing cistern	1
+bandwidth application	wcdma	3
+transmission technique	wcdma	2
+independent authority	wcda	1
+rehabilitation facility	wcsv	1
+native community	wcfn	1
+3G technology	wcdma	4
+local governmental entity	wcrb	1
+local television station	wcia ch	1
+radio receiver	wcdma receiver	1
+third party agency	wcb	1
+wireless telecommunication system	wcdma	1
+big development	wci's sun city fort myers	3
+network option	wcdma	1
+information	wcet	1
+radio function	wcdma radio function	1
+call letter	wcco	1
+scientific program	wcrp	1
+wideband signal	wcdma	1
+back-end technology	wcf	1
+multidisciplinary program	wcrp	1
+multilateral instrument	wco kyoto convention	1
+information	wc	1
+event	wcs	2
+access requirement	wc access	1
+air interface	wcdma	1
+latino organization	wcvi	1
+wideband system	wcdma	1
+mobile broadband technology	wcdma	1
+event	wcg-panamerican  two thousand and six 	1
+wrestling promotion	wcw	1
+non-potable use	wc flushing	1
+OGC service	wcs	4
+regional fishery management organization	wcpfc focus on international issue	1
+spread spectrum technology	wcdma	1
+brawler	wcw big ol' brawler	1
+completion	wc one 	1
+event	wcg in london	1
+event	wc qualifier	1
+event	wcc poetry slam	1
+event	wcw bringing in former wwe star	1
+foreland basin	wcsb	1
+license holder	wcs license holder	1
+third generation system	wcdma	1
+tungsten electrode	wce twenty 	1
+business impact	wcb cost	1
+collectible card	wcw nitro	1
+modern communication standard	wcdma	1
+nonverbal test	wcst	1
+popular set	wcw monday nitro	1
+public builder	wci communities	1
+3G standard	wcdma	1
+ASP.NET technology	wcf ria services	1
+frontline professional	wcpu social worker	1
+high quality institution	wccc	1
+large debtor	wci communities	1
+latest standard	wcdma in  three g 	1
+leveraged company	wci communities inc.	1
+network affiliate	wcco-tv	1
+organized movement	wctu	1
+program	wcb	1
+program	wcpuid for the task	1
+program	wcs's in la paz	1
+radio standard	wcdma	1
+staple event	wcg	1
+3G system	wcdma	3
+accessibility standard	wcag standard	1
+accessibility standard	wcag	1
+chat	wcwradio	1
+framework library	wcf	1
+full duplex system	wcdma	1
+program	wclv's adventures in good music with karl haas	1
+program	wcf clp	1
+program	wca	1
+raster property	wcs layer's raster property	1
+assessment area species	wct	1
+big 50kw NYC giant	wcbs-am	1
+core instrument	wco's core instrument	1
+interoperable service	wcs	1
+local FM station	wcjo	1
+local medium personality	wcsx's uncle buck	1
+mainstream service provider	wcho	1
+OGC web service	wcs	2
+PEDs	wcde	1
+organization	wctu	4
+organization	wco	3
+organization	wcaa	2
+organization	wcl	2
+organization	wcs	2
+shell tool	wc	1
+sister station	wcbs	3
+spread-spectrum system	wcdma	6
+third-generation system	wcdma	2
+organization	wcwa	1
+organization	wcrf	1
+HPC technology	wcf web services	1
+iconic new york radio station	wcbs	2
+international or regional organization	wco	1
+lead organization	wcs	1
+mobile radio standard	wcdma	1
+NET library	wcf	1
+non-slam tournament	wct finals in dallas	1
+popular task	wcst	1
+organization	wcn wildlife conservation network	1
+organization	wchq	1
+organization	wcc	1
+organization	wcmc	1
+organization	wcf	1
+organization	wcva	1
+organization	wci communities	1
+service framework	wcf	2
+SNES game	wcw superbrawl wrestling	4
+SNES game	wcw super brawl	1
+TDD signal	wcdma	1
+Tourney series	wcppl	1
+TPC mem-berformany conference	wcnc	1
+wireless interface technology	wcdma	1
+technique	wcsa	1
+ceramic and super-alloy material	wc-co	1
+commercial construction developer	wci	1
+CONSTRUCTION player	wct bhd	1
+co-sponsored program	wcrp	1
+empowering latest technology	wcdma	1
+extremist site	wcotc	1
+flagship local network affiliate	wcbs	1
+generation cellular technology	wcdma	2
+geo-standards	wcm	1
+high-speed wireless datum system	wcdma hsdpa	1
+interfaced and non-interfaced application	wcf rest service	1
+large international LAN tournament	wcg	1
+large LAN tournament	wcg	1
+licensed band	wcs band	1
+mainstream communication mobile network	wcdma	1
+mobile phone standard	wcdma	1
+modern digital wireless communication system	wcdma	4
+NET web technology	wcf rest	1
+news radio station	wcbs-am	1
+non-standard report	wcb	2
+application	wcdma	5
+online poker tournament event	wcoop	1
+showcasing portfolio piece	wcmo-tv newscenter  fifteen  clip 	1
+silverlight SDK feature	wcf data services	1
+small-market radio station	wcmp in pine city	1
+soap-based application	wcf application	2
+spectrum system	wcdma	5
+super-powerful cleaner	wc net energy	1
+application	wcf storm	1
+telephony encoding standard	wcdma	1
+third generation cellular system	wcdma	1
+winfx technology	wcf	1
+3G digital system	wcdma	1
+3G network 3G technology	wcdma	1
+advanced.net feature	wcf	1
+anti-flooding solenoid valve	wckrs watercop corporal kit	1
+cdma-based technology	wcdma	3
+cermet material	wc based spray material	1
+classic wrestling	wcw	1
+communication transmit channel	wcdma base station	1
+consideration accessibility guideline	wcag	1
+cool colorways	wc final	1
+creative hot shop	wcrs	2
+direct-sequence code-division multiple-access system	wcdma	1
+DSSS system	wcdma	1
+established international standard	wco data model	1
+european and american 3G standard	wcdma	2
+Famous callsigns	wcbs	1
+name	wcrs	1
+florida-centric builder	wci communities inc wci.n	1
+good quality trap	wcs squirrel special	1
+good station	wcpe	1
+guided dispenser	wcmd	1
+hanford contractor	wch dosimetry	1
+high crest factor signal	wcdma	3
+improved centralized solution	wcdma	1
+integrated steelmakers	wci steel in warren	1
+international gaming tournament	wcg	1
+key provider group	wchq	1
+large sedimentary basin	wcsb	1
+levered company	wci communities	1
+case	wcdma network	2
+local talk radio station	wcbm	1
+mac OS game	wc three  & wc four 	1
+maintenance engineering technique	wcm	1
+middle-tier service	wcf	1
+modern wideband modulation scheme	wcdma	1
+moneymaker skill	wc	1
+non standard report	wcb	1
+OData client	wcf data services client	1
+offshore competitor	wci steel	1
+OGC datum service	wcs	1
+optional HR function	wc insurance	1
+organizational outreach entity	wco	1
+passover song related item	wchad mi yodea	1
+pay-per-view special	wcw wrestle mania	1
+popular guest artist	wck from dominica	1
+case	wcau	1
+case	wci	1
+R2 new feature	wcf	1
+radio new station	wcbs	1
+secondary AC station	wcfs-fm chicago & wnic in detroit	3
+silverlight's supporting technology	wcf	2
+SSRs	wchr	1
+standard WCF adapter	wcf-nettcp adapter	1
+standard WCF adapter	wcf-wshttp adapter	1
+Structured NGOs	wcs	1
+case	wcfs sited on large	1
+case	wcdma	1
+thermal spray material	wc-co thermal powder	1
+third generation mobile service	wcdma	1
+third generation mobile telephone technology	wcdma	1
+true third generation network	wcd ma	1
+twelve-team conference	wcha	1
+web casting major surf event	wct	1
+wide-area cellular communication technology	wcdma	2
+wideband technology	wcdma	1
+Withineach standard	wcdma	1
+3G mobile communication standard	wcdma	1
+3Gsystems	wcdma	1
+account central London postcodes	wc one h  nine ef 	1
+active sonar	wca	1
+advanced mobile communication system	wcdma	1
+Annual online tournament series	wcoop	1
+option	wcmd	1
+bandwidth air interface standard	wcdma	1
+big gaming competition	wcg india	1
+capability modeling environment	wcme	1
+CBS station	wcbs  eight hundred and eighty  am 	1
+cdma-based wireless communication system	wcdma	2
+central cancer registry	wcrs	1
+central London postcodes	wc one  wc two  w one 	1
+championship togethers	wcw	1
+CIL subsidiary	wcl	1
+code division system	wcdma	1
+complementary commodity	wc firewood	1
+connected many advantage	wcdma network	1
+conventional RF system	wcdma	1
+country music station	wcky in cincinnati	1
+dry organization	wctu	1
+option	wcdma only	1
+esports game	wc three 	1
+established messaging framework	wcf	1
+feedback-driven learning task	wcst	2
+filter command	wc	2
+frequency-division-duplex system	wcdma	1
+frontal-lobe measure	wcst	1
+fully-insured client	wcsc	1
+good pop station	wcgq-fm in columbus	1
+hearst station	wcvb-tv boston	1
+group	wcvi	1
+group	wcwc	1
+group	wctu	1
+group	wcga	1
+group	wcc's gay-straight alliance	1
+INTRODUCTION web content accessibility guideline	wcag	1
+large parallel line project	wcml	1
+loan guarantee scheme	wcgs	1
+local cable access channel station	wctv in wadsworth	1
+local reptile enthusiast group	wcr	1
+membership-based group	wcotc	1
+microsoft client library	wcf data services	1
+mid-sized contractor	wct	1
+mobile convergence solution	wcs mobility management solution	1
+modern cellular standard	wcdma	1
+multi-rate service	wcdma	1
+neonatal unit	wch in australia	1
+newoptimizations	wc path duplication	1
+notable second placement	wcg finals	1
+oldie station	wcbs	1
+online's largest tournament	wcoop	1
+PA professional	wcpa	1
+plasma asher	wcam branson	1
+prestige builder	wci communities	1
+radio stns	wcco	1
+redevelopment company	wci partnerships	1
+Referenced material	wcsip peir	1
+scientific datum processing	wcps	1
+sensitive pin	wclk	1
+spread-spectrum network	wcdma	1
+state trading program	wci	1
+successful golf community developer	wci	1
+third-generation wireless standard	wcdma	1
+traditional neuropsychological test	wcst	1
+traditional supply source	wcsb	1
+true anomolies	wc spencer	1
+tool	wcet analyzer	2
+tool	wcat	1
+virtual in-path deployment	wccp	1
+virtual in-path technique	wccp	1
+W3C WAI guideline	wcag  one . zero 	1
+WCDs	wcds  one hundred and twenty-one 	1
+western australian site	wcdr charles learmonth's beaufort bomber	1
+wild chinook stock	wcvi	1
+wonderful online poker title	wcoop	1
+world biggest game tournament	wcg	1
+world mayor meeting	wcs mayors forum	3
+tool	wc	1
+project	wci	2
+factor	wc grain size	1
+project	wccusd's advanced placement incentive project	1
+project	wcml	1
+artist	wc fields	1
+material	wcc safety poster	1
+material	wc-co	1
+place	wcny	1
+technology	wcf	13
+technology	wcdma	8
+system	wcdma	9
+system	wcf inventory service	1
+system	wcdma system	1
+variable	wc	1
+function	wcdma radio function	1
+component	wce buffer component	1

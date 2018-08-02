@@ -1,0 +1,757 @@
+product	cgi reporting gateway	1
+product	cg interact voice	1
+product	cg workstation	1
+product	cg- five  gravimeter 	1
+product	cg art	1
+product	cghg	1
+initiative	cgiar harvestplus challenge program	1
+initiative	cgap working group on poverty yardsticks	1
+accessory	cg box	1
+datum	cg location	1
+facility	cgi scripting	1
+facility	cghs	1
+process	cge	1
+game	cg appreciation	1
+subject	cgmp-compliant process control	1
+exception	cgi in jurassic park	1
+model	cgiar ecoregional project	2
+model	cgiar systemwide livestock initiative	1
+model	cgg	1
+model	cgiar system-wide program	1
+category	cgi proxy	1
+category	cgo vs. fgo	1
+category	cgi scripts	1
+institution	cgap	1
+institution	cgiar	1
+institution	cgsc	1
+institution	cgp in france	1
+change	cg yoda in the phantom menace	1
+client	cgu	1
+client	cg template generator	1
+document	cghs card	1
+feature	cgi	12
+feature	cgi script	4
+strategy	cgi	3
+form	cgi program	1
+approach	cgv	1
+approach	cgi programming	1
+idea	cgi script	1
+effect	cgi	3
+effect	cgi dragon	1
+object	cgi script	1
+course	cgfns	1
+mechanism	cgi	2
+mechanism	cgiar network	1
+solution	cga	1
+feature	cgi-bin	1
+film	cg heavy film	1
+film	cgi animated feature film	1
+film	cg animated film	1
+business	cgg veritas	1
+business	cg railway	1
+procedure	cgmp certification	1
+practice	cgl	1
+agent	cgp  fifty-seven thousand four hundred and eighteen b 	1
+scholar	cg jung	1
+disease	cgd	2
+venue	cg illustration	1
+criterion	cgpa	1
+firm	cg healthcare solutions for ongoing support service	1
+industry	cgi	2
+requirement	cg location	1
+requirement	cgmp compliance	1
+job	cga artist	1
+feature	cgi support	1
+feature	cg visualization of race	1
+figure	cgi superhero	1
+unit	cgc dauntless	1
+unit	cgi	1
+movie	cg type movie	1
+song	cgod save the king	1
+substance	cgp  twenty-eight thousand three hundred and ninety-two havean intermediate action 	1
+format	cgm	5
+partner	cg tech	1
+partner	cgiar member	1
+standard	cga	2
+standard	cga grade d	1
+show	cga gymkhannas	1
+advanced feature	cgi script	2
+advanced feature	cgi	2
+store	cgi sheet	1
+customer	cgb group	2
+customer	cgd	1
+actor	cgiar	2
+issue	cgt	4
+external factor	cghmn organizational change	1
+environment	cgi	1
+software	cgal	1
+module	cgi	4
+module	cgi.pm	2
+party	cgl	1
+party	cgtp	1
+protein	cgg	1
+occasion	cgced meeting	1
+point	cg road	1
+language	cg	5
+language	cgi	4
+language	cgi-pearl	1
+language	cgi script	1
+image	cg images created on a computer	1
+package	cgi	1
+package	cg software package	1
+algorithm	cg	1
+series	cg one hundred and twenty-five 	1
+series	cgxbox podcast	1
+series	cg one hundred and fifty 	1
+platform	cg cruiser	1
+platform	cg- fourty-seven  class 	1
+protocol	cgmp	1
+provision	cgt cost base provision	1
+arrangement	cgo gross scheme	1
+molecule	cgrp	1
+medium	cg leader	1
+request	cgi script	1
+account	cgs type account	1
+large company	cggveritas	1
+standard feature	cgi script	1
+fund	cgm focus	1
+fund	cgm mutual	1
+factor	cgmp analog	2
+issue	cgmp expectation	1
+government agency	cghs	1
+enhancement	cgi effect	1
+icon	cg scroll page	1
+icon	cg crawl page	1
+page	cgi page	1
+threat	cgi attack	2
+centre	cgi research centre	1
+content	cgi-based dynamic module	1
+spot	cg road	1
+marker	cga	1
+marker	cgrp for peptidergic neuron	1
+command	cg training center cape may	1
+command	cg training center yorktown	1
+response	cgmpmediates specific cellular response	1
+analyst	cges	1
+international organization	cgiar	2
+international organization	cgap	1
+international organization	cgiar system hold in trust for the world community the priceless collections of germplasm	1
+international organization	cgiar-pfu for central asia	1
+international organization	cgiar centre	1
+developer	cga bryson	1
+advanced technology	cgi	1
+inhibitor	cgmp pde five  inhibitor 	1
+item	cg location	2
+framework	cglib	1
+non-profit organization	cgf	1
+library	cgi.pm	1
+local group	cgoa chapter	1
+interface	cgi	2
+software package	cg software package	1
+tax	cgt	1
+international company	cgi communications inc. in rochester	1
+server	cgi compatible www server	1
+server	cgi-based web server	1
+famous brand	cgm ugg	1
+certification	cgr	1
+certification	cgeit	1
+certification	cgfm	1
+certification	cgb	1
+base	cgg	1
+big player	cgi	2
+extension	cgi	1
+legal issue	cgt	1
+key topic	cgi compositing	1
+modern technology	cgi-bin	1
+newcomer	cgm trust focus fund	1
+tag	cgm svg	1
+community resource	cgc registry	1
+insurance company	cgu	2
+contest	cg artwork competition	1
+designation	cga	2
+designation	cgr	1
+column	cg techniques for aspiring artist	1
+interactive feature	cgi script	1
+union	cgt-fo	1
+union	cgt	1
+union	cgsb	1
+union	cgil	1
+external source	cgi program	1
+item	cgs bulletin	1
+particular	cg location	1
+ligands	cgp  twenty thousand seven hundred and twelve a 	1
+insurer	cgu	5
+industrial product	cga handtights	1
+file format	cgm	1
+datum set	cgd	1
+consideration factor	cg content	1
+outcome measure	cg coping skill	1
+font	cg times	1
+folder	cgi folder	1
+web application	cgi application	2
+web application	cgi	1
+limit	cg range	2
+feature film	cgi animated feature film	1
+internet service	cgi programming	1
+sophisticated technique	cgh	1
+plugins	cg shader support	1
+plugins	cg referer	1
+advanced service	cgi scripting	1
+advanced service	cgi programming	1
+key technology	cgi	1
+abbreviation	cgs	2
+antagonist	cgrp receptor antagonist	1
+agonists	cgs twenty-one thousand six hundred and eighty 	2
+international standard	cga	1
+international standard	cga and din	1
+service company	cggveritas	1
+international agency	cgiar	1
+international agency	cgiar institute	1
+script	cgi	4
+script	cgi script	1
+peptides	cgrp	2
+advanced application	cgi programming	1
+molecular technique	cgh	2
+programming language	cgi	5
+programming language	cgi scripting	1
+programming language	cgi v- one . one 	1
+exam	cgfns	1
+standard method	cgi	1
+corporate giant	cgi	1
+advancement	cgi	1
+acronym	cgt taking over the financial services industry	1
+interactive element	cgi	1
+path	cgi executable path	1
+exclusive feature	cgi perl	1
+visual effect	cg animation	1
+plug-ins	cgi	1
+software vendor	cgi	1
+open standard	cgi	2
+growth parameter	cgr	1
+fare	cgi heavy action fare	1
+modeling technique	cge	2
+physical aspect	cg height	1
+web technology	cgi	1
+enhanced feature	cgi-bin access	1
+enhanced feature	cgm support	1
+established player	cgi	1
+service	cgi	4
+research organization	cgiar center	1
+strategic partner	cgnet services international	1
+static information	cgi-based search engine query	1
+funding agency	cgiar centre	1
+medium format	cgm	1
+factor	cgs abundance	1
+factor	cg height	1
+service	cgi scripting	2
+service	cgi developed by user	1
+internet technology	cgi	2
+traditional institution	cgiar	1
+web tool	cgi	1
+great option	cgi	1
+bond	cgs  seven - three hundred and seventy c, refunding bond 	1
+world famous brand	cgm excellent	1
+professional certification	cgeit	1
+service	cgi perl programming	1
+service	cgi-bin directory	1
+service	cgc submission option	1
+service	cgc training class	1
+graphic design service	cgi	1
+digital tool	cg imagery	1
+original equipment manufacturer	cgr	1
+established organization	cgs investments	1
+international program	cgiar challenge programme on water	1
+web server	cgi-based web server	1
+cable channel	cgv	1
+complex model	cge model	3
+complex model	cge	1
+image format	cgm	1
+professional designation	cga	1
+standard organization	cghs	1
+tumor marker	cga	2
+service	cgmp audit	1
+latest technique	cgi car	1
+complex method	cgh	1
+news event	cgcf break-up	1
+neurotransmitter	cgrp	3
+design characteristic	cg placement	4
+REITs	cgm realty	1
+service firm	cgi	1
+insurance provider	cgu	2
+graphic application	cg rendering	1
+production technique	cgi employed on foreign productions shot in australia like films from the star wars	1
+interactive technology	cgi	1
+neuropeptides	cgrp	21
+neuropeptides	cgrp from axon terminals near the meningeal	1
+neuropeptides	cgrp andsubstance p	1
+neuropeptides	cgrp released from sensory afferent nerve	1
+statutory requirement	cgmp	1
+external program	cgi script	1
+external program	cgi program	1
+global client	cgi's global client	1
+topic	cgi	2
+topic	cgi security	1
+trade union	cgt	1
+railroad	cgw	1
+ongoing initiative	cg portal intranet	1
+receptor antagonist	cgrp receptor antagonist	1
+planner	cgp	1
+standard interface	cgi	1
+animated film	cg animated film	1
+text file	cgi script	4
+text file	cgi script source code	1
+rich feature	cgi	1
+scripting language	cgi	2
+scripting language	cgi script	1
+today company	cgi	1
+topic	cgmp annual refreshers	1
+topic	cgi web scripting	1
+tax issue	cgt	1
+national and international company	cgu	1
+protein kinases	cgmp-dependent protein kinase	1
+internet program	cgi	1
+topic	cgi scripting	1
+cellular response	cgmpmediates specific cellular response	1
+web standard	cgi	1
+serif font	cg times	1
+serif font	cg times for body text	1
+dynamic content	cgi	3
+dynamic content	cgi script	1
+digital effect	cgi	1
+high-level language	cg	2
+high-level language	cg i s	1
+informal gathering	cg workshop	1
+company	cgi	4
+company	cgi group inc.	3
+company	cgu	2
+company	cgi group	2
+company	cge	2
+company	cgi companies inc.	1
+company	cgx	1
+company	cgx energy	1
+third-party provider	cg visions	1
+educational product	cgs tsunami notes	1
+virtual object	cgi dinosaur	1
+life insurer	cgnu	1
+plaintiff	cgf	1
+international certificate	cgl	1
+large insurer	cgnu	1
+needle	cgl	1
+secondary variable	cgi	1
+contemporary technology	cgh	1
+company	cgg veritas	1
+bioactive molecule	cgrp-like peptides	1
+file extension	cgi	1
+web development tool	cgiscript	1
+web development tool	cgi	1
+calculation method	cgh calculation method	1
+formal channel	cg meeting	1
+signaling protein	cgr	1
+biochemical	cgrp	1
+server component	cgi script	1
+genomic technology	cgh array	1
+initial	cg for coldstream guards	1
+math function	cgalsoprovides math function	1
+high level language	cg	2
+proxy server	cgiproxy	1
+server technology	cgi	1
+advanced web technology	cgi	2
+big insurer	cgu	2
+tender	cgc juniper	2
+image type	cgm	1
+mouthpiece	cg personal underpart	1
+programming topic	cgi	1
+external library	cg i input.pl	1
+video standard	cga	1
+application programming interface	cgi	2
+B2B service	cgi	1
+professional league	cgs	1
+agricultural organization	cgb	1
+image file format	cgm	1
+website element	cgi script	1
+standard Internet technology	cgi	1
+higher-level language	cg	1
+lexical resource	cgn	1
+system folder	cgi-bin	1
+academic study	cge	1
+digital element	cgi character	1
+popular script	cgi	1
+programming technology	cgi	2
+research network	cgiar	1
+traditional policy	cgl policies at issue in the hartford case	1
+traditional policy	cgl	1
+web programming language	cgi	3
+high-level programming language	cg	1
+key donor	cgap	1
+object system	cgi script	1
+liability policy	cgl insurance policy	1
+liability policy	cgl	1
+sample application	cgi script	1
+server-side technology	cgi	2
+software standard	cgi	2
+basic mod	cgs cold air intake	1
+character string	cgns file name	1
+mission-critical datum	cgi command	1
+pde5 inhibitor	cgmp pde five  inhibitor 	1
+implementation technology	cgi	1
+life company	cgu	1
+Vasoactive peptides	cgrp	1
+vector format	cgm	1
+animated feature film	cgi animated feature film	1
+server side technology	cgi	1
+server side technology	cgi-perl	1
+GIS	cgis	1
+growth index	cgr	1
+hybridization technique	cgh	1
+rip	cgs oris colortuner	1
+codons	cgg	1
+cytogenetic method	cgh	1
+cytogenetic technique	cgh	3
+scripting	cgi	3
+server-side language	cgi	1
+dna-based technique	cgh	1
+large module	cgi	1
+mass property	cg position	1
+information	cgi environment variable	1
+information	cgh data for the sample	1
+science organization	cgiar centers	1
+graphic language	cg	1
+microfinance organization	cgap	1
+PHP script	cgi	3
+server side language	cgi	1
+easily readable typeface	cg times	2
+graphic standard	cga	1
+modern effect	cgi	1
+event	cgs annual conference	1
+easily readable font	cg times	1
+european financial institution	cgnu	1
+game idea	cga solar warriors	1
+international development institution	cgiar	1
+latest internet technology	cgi	2
+lot more issue	cgt on disposal of goodwill	1
+program language	cgi	1
+server side script	cgi script	1
+verbal and written instruction	cgmp's	1
+website programming language	cgi	3
+cinema chain	cgv	1
+complicated algorithm	cg	1
+event	cgs application	1
+event	cga presidents address	1
+event	cgc test	1
+formal font	cg times	1
+peripheral subject	cgi scripting	1
+photoresists	cgr	1
+web protocol	cgi	1
+well-known international standard	cgmp ich q seven 	2
+CSIR laboratory	cgcri	1
+industry specific feature	cg- two thousand and fifteen  endorsement verification 	2
+program	cgi	2
+program	cgi script	2
+program	cg-x next generation cruiser	1
+rigorous technique	cge analysis	1
+single mechanism	cgiar foundation	1
+technology business	cgi	1
+advanced server technology	cgi	1
+comprehensive method	cgh	1
+deluxe partner	cg tech	1
+dynamic web content	cgis on web page	1
+honda cylinder block	cg one hundred and twenty-five 	2
+program	cgp	1
+program	cgi program	1
+program	cg child's program	1
+server file	cgi script	1
+server-side scripting	cgi	2
+accounting designation	cga	3
+assessment project	cgiar global assessment of food production system	1
+BPO vendor	cgi	1
+common web technology	cgi	1
+empirical relationship	cgr	1
+good study guide	cgp	1
+motorcycle engine	cg model	1
+neuromediators	cgrp	1
+script type	cgi if necessary	1
+server-side solution	cgi script on top of apache	1
+travel insurer	cgu	1
+web script	cgi	1
+youtube proxy	cgi proxy	1
+CG125 motorcycle part	cg one hundred and twenty-five  regulator 	2
+CG125 motorcycle part	cg one hundred and twenty-five  wheel rim 	1
+client policy	cgmp	1
+conventional software technique	cgi program	1
+experienced canadian company	cgi	2
+health authority compliant procedure	cgxp	1
+health authority compliant procedure	cglp	1
+health authority compliant procedure	cgmp	1
+hypertext object	cgi program	1
+inmotion hosting support program	cgi	1
+large-scale package	cgi-ams momentum	1
+logic model	cgiar logframe	1
+luable instrument	cgs	1
+Neuroactive peptides	cgrp	2
+ordinal categorical variable	cgi	1
+selective conference	cgo	1
+server side tool	cgi scripting	1
+organization	cgiar	5
+organization	cgi	2
+sublines	cgl	1
+technology consulting company	cgs technology	1
+thiazolidinedione derivative	cgp  fifty-two thousand six hundred and eight 	1
+12-point serif font	cg times	1
+CG analytical product	cg analysis reports	1
+classic neurotransmitter neuropeptides	cgrp	1
+critical flight condition variable	cg location	1
+easily readable serif typeface	cg times	1
+organization	cgoc	1
+organization	cgiar institute	1
+genome-wide technique	cgh array	1
+global and regional institution	cgiar	1
+international public organization	cgiar	2
+large development institution	cgap	2
+large trade union	cgt	1
+metafile format	cgm	3
+molecular cytogenetic method	cgh	1
+motorcycle electrical part	cg one hundred and twenty-five 	1
+national and international public organization	cgiar	2
+official military transcript	cgi	1
+organization	cgs	1
+organization	cgl	1
+organization	cggveritas	1
+technique	cgh	3
+technique	cgi	3
+presently organization	cgiar	1
+professional certification holder	cgeit	1
+proportional typeface	cg times	1
+real-estate-focused fund	cgm realty	1
+seemingly important topic	cgi	2
+server-side tool	cgi script	1
+software architecture element	cgi script	4
+specialty designation	cgr	1
+third-party language	cg	1
+traditional web application	cgi	1
+web file type	cgi-bin script	1
+web server application	cgi application	1
+www server	cgi compatible www server	1
+apache extension	cgi	1
+art forum	cg society	1
+technique	cggveritas v one  single vibrator acquisition 	1
+technique	cge	1
+BCE group company	cgi	1
+celebrated company	cgi	1
+CG200 engine part	cg two hundred  starter motor 	2
+CG200 engine part	cg two hundred  magneto 	1
+CG200 engine part	cg two hundred  rocker arm 	1
+commonwealth tax	cgt	1
+computer service firm	cgi group inc.	1
+disparate technique	cgi	1
+display hardware	cga	1
+dynamic content generation technology	cgi	1
+E&P player	cggveritas	1
+electrolyte material	cgo	1
+fish technique	cgh	1
+technique	cgm	1
+technique	cgh microarray	1
+genome level various experimental method	cgh	1
+interactive & interesting element	cgi	1
+internet programming tool	cgi scripting	1
+large international network	cgiar	1
+lot more AAW ship	cgn- nine 	1
+moviemaking tool	cgi	1
+application	cge modelling	1
+application	cg rendering	1
+original NCI database	cgap	1
+quantitative datum source	cgap's access to finance database	1
+recorded measure	cg support	1
+Sensory-derived neuropeptides	cgrp	1
+server extension	cgi script	5
+server-side program	cgi script	1
+server-side system	cgi	2
+SNP database	cgap	1
+standard web server feature	cgi	1
+standard, easy-to-read typeface	cg times	1
+application	cgi	1
+application	cgh data analysis	1
+application	cgh	1
+application	cgi script	1
+UI related component	cgi in the directory	1
+Vasoactive neuropeptides	cgrp	1
+web application development language	cgi	1
+web software application	cgi script	1
+webscripting language	cgi	1
+world famous snow boot brand	cgm excellent	1
+X-linked recessive PID	cgd	2
+A2a receptor agonists	cgs  twenty-one thousand six hundred and eighty 	2
+animated zombie film	cgi resident evil film	1
+blue chip investor	cgnu	1
+canadian corporate major	cgi group	1
+name	cgi	4
+name	cgr	1
+CG125 engine part	cg one hundred and twenty-five  starter motor 	1
+CG125 engine part	cg one hundred and twenty-five  clutch kit 	1
+CGI wrapper	cgi wrap	1
+code component	cgi script	1
+detailed mechanism	cgpw mechanism	1
+development phase service	cgmp synthesis	1
+dynamic web page generation technique	cgi	1
+dynamic web page technology	cgi	1
+enterprise social responsibility	cg knowledge popularization	1
+evident security device	cgm-ast tape	2
+Executible content	cgi script	1
+name	cgg veritas	1
+name	cgu	1
+flexible sequence	cgg repeats involved in triplet expansion disease	2
+fuzzy interactive use programming language	cgi	1
+gifted stage director	cgk	1
+glycerophosphate salt	cgp	1
+gold bullion ETF	cgl	1
+Gprotein effectors	cgmp phosphodiesterase	1
+grain-based coproducts	cgf	1
+high definition 3-d graphic	cgi movie	1
+high level shader language	cg	1
+higher-level shading language	cg	1
+high-throughput genome screening technology	cgh	1
+IBM PC video standard	cga	1
+innovative modern application	cgi	1
+iterative solution approach	cg method	1
+J2ME device	cgml nokia  seven thousand six hundred and fifty 	1
+large and well-known program	cgiar	1
+large scale survey-mode project	cgps	1
+case	cgms	1
+low-quality video standard	cga	4
+modern movie theater	cgv	1
+nonsmoker	cgs freshman sarah shilling	1
+Pentacyclic triterpenoids	cg seven 	1
+pentamers	cggcg	1
+policy exclusion	cgl professional services exclusion	1
+popular unit system	cgs	1
+case	cgi hits web page	1
+case	cgm's breakaway rfid adhesive seal	1
+case	cgem h six m six 	1
+pro-inflammatory sensory neuropeptides	cgrp	1
+revision guide	cgp	1
+robust library	cgal	1
+Server-generated dynamic content	cgi	1
+server-side software	cgiproxy	1
+server-side web technology	cgi	2
+severe immunodeficiency	cgd	1
+short-lived process	cgi script	1
+south korean movie theater chain	cgv	1
+case	cgs.gmu.edu many case	1
+case	cgiar centre	1
+option	cgi for the dav directory	1
+trinucleotide sequence	cgg	1
+typically non-volatile information	cg text	1
+vector-graphics format	cgm	1
+wholesale trade show	cgta gift show	1
+YTD high beta name	cggveritas	1
+2A receptor agonists	cgs  twenty-one thousand six hundred and eighty 	4
+A3 adenosine agonists	cgs  twenty-one thousand six hundred and eighty 	1
+access control series	cg drive sg series	1
+accredited option	cgea	1
+advanced macroeconomic model	cge	1
+afterword new lcd-applied technology	cgs lcd	1
+approval standard	cga standards for forced-air furnace	1
+canadian computer service firm	cgi	1
+catalog site	cgi resources	1
+CG datum	cg rom datum	1
+CGI library	cgi.pm	1
+CGI server-side technology	cgi	1
+CGT ases	cgtasefrom bacillus sp	1
+CGTases	cgtases from bacillus sp	1
+challenge-type fund	cgap's ppic	1
+color palette standard	cga	1
+compiled technology	cgi	1
+conformant planner	cgp andq bf p lan	1
+copy control system	cgms-a	1
+Cyclic nucleotide	cgmp	2
+dynamic content system	cgi	1
+dynamic page authoring tool	cgi	1
+dynamic request	cgi script	1
+option	cgi	1
+group	cgiar	1
+enhanced web feature	cgi	1
+factory target rifle variation	cg sixty-three 	1
+fda's primary regulation	cgmp & standards of compendia's	1
+flexible-price model	cge model	1
+GHs	cgtase	1
+good APC	cg grime reaper	1
+heavyweight mechanism	cgi	1
+HFS support server-side scripting	cgi	1
+high-level, c-like language	cg	1
+high-octane fund	cgm focus	1
+high-throughput genomic profiling method	cgh	2
+image resolution standard	cga	1
+imminent release	cg animated title bee movie	1
+indonesian airport	cgk	1
+industry standard web server interface	cgi	1
+group	cgg	1
+large canadian IT firm	cgi & bell	1
+large regional model	cgc gam	1
+less-standard library	cgcodeand pmg	1
+local proxy file	cgi	1
+lvy process	cgmy process	1
+Matrix peptides	cgrp	1
+mobile deployment	cgey rollout at swedish hospital	1
+modern cytol ogical technique	cgh	1
+modern cytological technique	cgh	1
+narrow, format	cgns	1
+method	cgh	5
+office-based CGMS device	cgms i pro recorder	1
+oil certification	cg- four 	1
+ongoing global DGF program	cgiar	1
+ordered categorical secondary outcome measure	cgi scale	2
+PC display hardware	cga	1
+Perl programming	cgi	2
+popular general circulation model	cgcm	1
+primitive graphic	cga card	1
+private client tax issue	cgt	1
+professional standardized test	cgfns	1
+Programmatic content	cgi processing	1
+prominent french trade union	cgt	1
+public agricultural organization	cgiar	1
+publication catalog	cgp-structured in the marc format	1
+resource intensive technology	cgi	1
+second-generation PGS technique	cgh	1
+seismic company	cgg veritas	4
+method	cgp process	1
+method	cge	1
+method	cg method	1
+method	cgh calculation method	1
+method	cgi script	1
+server side connection	cgi script	1
+serveral web development feature	cgi	1
+server-side connection	cgi script	1
+server-side programming technique	cgi	1
+standard open source module	cgi.pm	1
+standards-based internet service	cgdi-endorsed specifications like the web map service	1
+strain relief	cgb	1
+top-notch professional development event	cga ontario's annual conference	1
+trinucleotide repeat	cgg	1
+tool	cgi	4
+tool	cgi wizard in perl builder	1
+tool	cgmp's	1
+voltage dependent parameter	cgs	2
+web technology option	cgi programming	1
+WWW server application	cgi script	1
+tool	cgi scipts	1
+project	cgap	2
+project	cgi scripting	1
+technology	cgi	19
+technology	cgi scripts	1
+technology	cgi perl	1
+technology	cgm	1
+technology	cgh	1
+parameter	cg height	1
+system	cgi	1
+system	cgs	1
+element	cg building	1
+element	cg water	1
+element	cg flying plane	1
+product	cg sms search	1
+product	cg one thousand   power gate 	1
+variable	cg location	1
+function	cgalsoprovides math function	1
+brand	cgu	1
+component	cgridview	1
+site	cgi proxy listing site	1
+site	cg web solutions	1
+task	cgiving bath	1

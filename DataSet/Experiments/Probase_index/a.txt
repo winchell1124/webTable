@@ -1,0 +1,25 @@
+character	a	3
+model	a	1
+word	a	4
+situation	a	1
+skill	a	1
+type	a	1
+label	a	1
+series	a	1
+symbol	a	1
+combination	a	1
+letter	a	11
+common word	a	1
+railroad	a	1
+essential vitamin	a	1
+regular symbol	a	1
+fat soluble vitamin	a	1
+visa type	a	1
+name	a	2
+English letter	a	2
+console type	a	1
+end non-speed wave model	a	1
+freelance railroad	a	1
+group	a	1
+lettered series	a	1
+variable	a	1

@@ -1,0 +1,2265 @@
+product	lcd remote control related product	1
+product	lcd screen protector related product	1
+product	lcd monitor lift	1
+product	lcd television set	1
+product	lc adapter related product	1
+product	lcd dvr related product	1
+product	lcd display controller related product	1
+product	lcd key chain related product	1
+product	lcd material	1
+product	lcd matrix related product	1
+product	lcd mobile related product	1
+product	lcd mount bracket related product	1
+product	lcd replacement related product	1
+product	lcd clock related product	1
+product	lcd digital watch related product	1
+product	lcd advertisement player	1
+product	lcd system	1
+product	lcd ccfl backlights related product	1
+product	lcd cctv monitor related product	1
+product	lcd display radio related product	1
+product	lcd display vcd related product	1
+product	lcd rca related product	1
+product	lcd panasonic related product	1
+product	lcd tv module	1
+product	lcd tv projector related product	1
+product	lcd tv  thirty 	1
+product	lcn	1
+product	lcd-tft desktop monitor	1
+product	lcd touch related product	1
+product	lcd tuner tv related product	1
+initiative	lca	1
+initiative	lcp	1
+accessory	lcd screen	16
+accessory	lcd display	2
+accessory	lcd cover	2
+accessory	lcd	2
+accessory	lcd tv	2
+accessory	lcd monitor	1
+accessory	lcd mounts	1
+accessory	lcac	1
+accessory	lcd projector lamp	1
+accessory	lcu	1
+accessory	lcd bacpac	1
+datum	lc  fifty  animal test 	1
+resource	lcd flat panel display	2
+resource	lcr mscp staff	1
+resource	lcd projector	1
+resource	lci collection boxes	1
+resource	lc engineering	1
+facility	lcd projector	7
+facility	lcd tv	5
+facility	lcd	3
+facility	lcd television	3
+facility	lcls	3
+facility	lcd screens	2
+facility	lcd panel	1
+facility	lcbm storage tanks	1
+facility	lcd display	1
+facility	lcd flat screen facility	1
+facility	lc-ms	1
+facility	lcd tv projector	1
+facility	lcd tv-set	1
+facility	lc two  leisure center 	1
+process	lcia rule	1
+process	lcc	1
+property	lcor	1
+benefit	lcd tv	1
+subject	lcv stability	1
+product	lc one -k contactor related product 	1
+product	lca	1
+product	lcd  twenty  monitor 	1
+product	lcd accessory related product	1
+product	lcd backlight related product	1
+product	lcd cleaning kit	1
+product	lcd digital gauge related product	1
+product	lcd digital meter related product	1
+product	lcd dvd monitor related product	1
+model	lcd display	1
+model	lcd tv	1
+model	lcw	1
+model	lcd tv model	1
+model	lcp	1
+situation	lcw system	1
+category	lcd tvs	1
+category	lcd	1
+category	lcd screen	1
+institution	lcia	4
+document	lca	1
+document	lcs planning document	1
+feature	lcd screen	10
+feature	lcd	9
+feature	lcd display	7
+feature	lcd tvs	3
+strategy	lc trie	1
+approach	lcmv beamforming	1
+approach	lca	1
+idea	lcm	1
+idea	lcd backlighting	1
+alternative	lc resonator-based oscillator	1
+effect	lc firing rate	1
+agency	lcbo	2
+object	lc four  chaise lounge 	1
+object	lcd screen	1
+theme	lc-a	2
+theme	lc orientation	1
+course	lcvp	1
+course	lcap	1
+solution	lcd monitor mounts	1
+solution	lcd	1
+solution	lcos	1
+feature	lcd sony lens	2
+feature	lcd driver with booster	2
+feature	lcd control	2
+feature	lcd controller	2
+feature	lcd backlight	2
+star	lcd soundsystem	1
+film	lcd polarizer film	1
+procedure	lcr	1
+band	lcd soundsystem	9
+band	lcd sound system	1
+band	lcd soundsytem	1
+part	lcd	6
+part	lcd screen	3
+part	lcd display	2
+part	lcd's	2
+part	lcd monitor	1
+part	lcd lamp	1
+part	lcd panel	1
+part	lcd screen panel	1
+part	lcms	1
+part	lcd cable for the higher resolution screen	1
+school	lcst	1
+school	lcc	1
+amenity	lcd tv	10
+amenity	lcd television	5
+amenity	lcd screen	3
+amenity	lcd tv with cable	2
+amenity	lcd televisions with international channel	1
+amenity	lcd tv's with free view	1
+amenity	lcd tv set	1
+amenity	lcd hdtv?s	1
+amenity	lcd hdtvs	1
+amenity	lcd hdtv's	1
+amenity	lcd projector with a giant screen	1
+amenity	lcd information center	1
+amenity	lcd hdtv s	1
+cost	lc cost	1
+development	lca	1
+development	lcd televisions mp three s 	1
+type	lcw	4
+type	lc-ms interface type	1
+type	lc	1
+disease	lcb- lupus -rcb- erythematosus	1
+disease	lcb- rheumatoid arthritis -rcb-	1
+criterion	lc peak shape	1
+firm	lcs corrections services	1
+firm	lci	1
+firm	lcd flat-panel makers benq	1
+industry	lcd	2
+requirement	lcd projector	1
+test	lcd test	1
+indicator	lcd buzzer	1
+advantage	lcd screen	3
+manufacturer	lcn	4
+manufacturer	lcd monitor manufacturer	1
+manufacturer	lc meter	1
+instrument	lcms	2
+instrument	lca	1
+instrument	lcr bridge	1
+instrument	lcas	1
+instrument	lcc	1
+act	lcd soundsystem	4
+feature	lcd instrumentation	1
+feature	lc cagefighter club	1
+feature	lcc range of hoist winch	1
+feature	lcd backlight control	1
+feature	lcd brightness	1
+feature	lcd screen size	1
+feature	lcd readout	1
+feature	lcd display system	1
+feature	lcd monitor	1
+man	lcdr garvey	1
+attribute	lcd display	3
+attribute	lcd quality	1
+setting	lcn setting	1
+setting	lcd parameter	1
+setting	lcd contrast for readability	1
+class	lcc	1
+equipment	lcd projector	9
+equipment	lcd	4
+equipment	lcd display	1
+equipment	lcd screen	1
+equipment	lcd tv with loewe player	1
+equipment	lce	1
+equipment	lcr sortester	1
+unit	lcsd	3
+unit	lcd controller	1
+unit	lcd monitor	1
+unit	lcd polarizer	1
+basic	lc element	1
+musician	lcd soundsystem	2
+musician	lcd sound system	1
+innovation	lcd projection	1
+cause	lcd backlight failure	1
+policy	lcfs	1
+team	lcvp planning committee	1
+team	lcc	1
+entity	lcra	1
+country	lcd target sub-saharan african country	1
+building	lcbo	1
+expert	lca practitioner	2
+improvement	lcd digital scribble strips	1
+format	lcd devicesemploy other video format	1
+partner	lcbc's development partner	1
+partner	lcp	1
+standard	lc name authority file	1
+standard	lcri	1
+advanced feature	lcd display	2
+advanced feature	lcd screen	2
+advanced feature	lcd information screen	1
+design	lcos microdisplay	2
+design	lc meter	1
+influence	lcd soundsystem	3
+store	lcbo	1
+market	lcpv market	1
+market	lcd backlighting	1
+market	lcd tv backlighting	1
+customer	lch generators	1
+effort	lcf	1
+incentive	lcd tvs	2
+incentive	lcd television set	1
+department	lcsd	1
+feature	lcd color tv	1
+feature	lc release	1
+feature	lcd visibility in bright light	1
+feature	lcd television	1
+feature	lcd size	1
+feature	lcd screen for infotainment	1
+feature	lcd screen like premium gaming keyboard	1
+feature	lcd remote	1
+feature	lcd poster	1
+feature	lcd touch-screen control panel	1
+feature	lcdi plug	1
+issue	lcd bleeding	2
+scheme	lcfs	3
+scheme	lcc commuter train	1
+supply	lcd screen	1
+additive	lcp	1
+additive	lcm	1
+article	lcd screen	1
+article	lcd color filter	1
+module	lcd screen	1
+provider	lceoc	1
+asset	lcbo	2
+retailer	lc waikiki	1
+color	lc-light cyan	1
+offer	lcd tv related offer	1
+offer	lcd tv	1
+offer	lcd clock related offer	1
+protein	lcat	1
+protein	lc three -rel ated protein 	1
+protein	lck	1
+gift	lcd tvs	13
+gift	lcd's	1
+gift	lcd television	1
+gift	lcd tv set	1
+issue	lcg forum	1
+stakeholder	lcbo	1
+point	lcd in lieu of led	1
+difference	lce	1
+line	lcd tvs	1
+producer	lcd monitor producer	1
+producer	lcd display producer	1
+luminary	lcd soundsystem	1
+surface	lcd screen	4
+touch	lcd tvs	2
+touch	lcd tv panel being mounted inside ornate picture frame	1
+algorithm	lcbp	1
+driver	lcd controllers	1
+university	lcc	1
+measurement	lc  fifty  for gas 	1
+charge	lc opening charge	1
+everything	lcd	3
+everything	lcd monitor	1
+platform	lcs	1
+supplier	lcd panel supplier	1
+fee	lc fee	1
+card	lc eight  card 	1
+domain	lccl domain	1
+molecule	lck	8
+molecule	lcfa	1
+association	lcmc	1
+plan	lcd's long range plan	1
+plan	lcco & dnrc cooperative fire management plan	1
+mode	lc-ms compatible hplc mode	1
+prize	lcd tvs	5
+prize	lcd tv's	2
+prize	lcd tv sets	1
+prize	lcd television	1
+prize	lcd monitor	1
+issue	lcd damage	1
+issue	lca	1
+college	lcf	1
+college	lcc	1
+gene	lcn two 	1
+gene	lcat	1
+gene	lck	1
+perk	lcd screen	1
+carrier	lci	1
+carrier	lci international	1
+appliance	lcd panel	1
+appliance	lcd television	1
+suspect	lc- one 	1
+maker	lcd tv maker	1
+notable	lc tiffany	1
+substrate	lcd substrate	2
+substrate	lcp sheet	2
+substrate	lcd screen	1
+specialist	lcsw	1
+enterprise	lcg	2
+center	lcc's university center	1
+electronic device	lcd monitor	4
+electronic device	lcd controller	2
+electronic device	lcd device	2
+electronic device	lcd panel	2
+electronic device	lc circuit	1
+electronic device	lcd flat screen display	1
+methodology	lc-ms	1
+programme	lca	2
+programme	lcvp	1
+programme	lcap	1
+filter	lcos projector	1
+add-ons	lcd cleaning kit	2
+establishment	lcc school of building at brixton	1
+reaction	lcr	1
+enzyme	lcat	1
+developer	lc technologies	1
+advanced technique	lcm	1
+advanced technology	lcd screen	2
+advanced technology	lcd panel	1
+advanced technology	lc fifty-six  inch barco mega pixel display screen 	1
+administrative task	lcd brightness	1
+datum source	lcom data base	1
+polymer	lcp	2
+ministry	lcms world relief	1
+qualification	lcq	1
+division	lcd unit	1
+advance	lcd instrumentation	1
+advance	lcd flat screen	1
+item	lcd tvs	12
+item	lcd projector	12
+item	lcd monitor	6
+item	lcd screen's brightness	3
+item	lcd tv's	3
+item	lcd panel	2
+item	lcd display	2
+item	lcd screens	2
+item	lcd television	2
+configuration	lcd projector	1
+technological advance	lcd projector	1
+board	lcd main	1
+gadget	lcd screen	2
+gadget	lcds	2
+gadget	lcd monitor	2
+gadget	lcd television	1
+luxury	lcd tvs	4
+luxury	lcd screen	2
+luxury	lcd tv with digital broadcast	1
+message	lcp protocol-reject	1
+repair	lcd replacement	2
+repair	lcd screen repair	1
+virus	lcmv	5
+virus	lcmvand other virus	1
+virus	lcm virus	1
+nice feature	lcd panel	2
+nice feature	lcd screen	2
+analysis	lclint	1
+airport	lcy	1
+installation	lcd tv	1
+basic feature	lcr	1
+circuit	lcl resonant converter	1
+peripheral	lcd display	7
+peripheral	lcd	6
+peripheral	lcd projector	5
+peripheral	lcd monitor	1
+peripheral	lcd digital tvs & monitors	1
+vessel	lcx	1
+basic function	lcd color display	1
+consumer product	lcd tvs	2
+electronics	lcds	4
+electronics	lcd tvs	3
+electronics	lcd monitors	2
+electronics	lcd tv's	2
+electronics	lcd tvs at marked-down price	1
+electronics	lcd tv set	1
+item	lci membership application form	1
+item	lcr meters	1
+item	lcd@plasma, projector	1
+item	lcd photo frame	1
+item	lcds	1
+item	lcd projector computer	1
+item	lcd television set	1
+donor	lcip	1
+light source	lcd	3
+light source	lcd projector	1
+display	lcd	41
+display	lcd screen	8
+display	lcd display	7
+display	lcd monitor	5
+display	lcd panel	1
+display	lcd tv	1
+display	lcos	1
+processing	lcd image processing	1
+list	lcsh	1
+hardware	lcd cable	1
+modern amenity	lcd tv	14
+modern amenity	lcd television	2
+modern amenity	lcd screen	1
+modern amenity	lcd satalite tv	1
+modern amenity	lcd tv with satellite channel	1
+private company	lcs corrections	1
+ship	lcac	1
+fiber	lcp	1
+specialty service	lcl shipment	1
+purchase	lcd tv	1
+key information	lc detail	1
+product category	lcd tvs	3
+modern technology	lcos	2
+modern technology	lcd projector screen	1
+modern technology	lcd television	1
+expensive item	lcd television	1
+modern convenience	lcd tv	4
+modern convenience	lcd television	2
+tag	lcb- -lcb- dubious -rcb- -rcb-	1
+tag	lcb- -lcb- clarifyme -rcb- -rcb-	1
+tag	lcb- -lcb- fact -rcb- -rcb-	1
+tag	lcb- -lcb- tooshort -rcb- -rcb-	1
+tag	lcb- -lcb- copyedit -rcb- -rcb-	1
+tag	lcb- -lcb- trivia -rcb- -rcb-	1
+visual aid	lcd projector	2
+key component	lcd panel	6
+key component	lcd viewfinder	1
+contemporary artist	lcd sound system	1
+management tool	lca	1
+construction	lcos microdisplays	1
+creation	lc tubular steel sofa	1
+designation	lcpl lcm	2
+designation	lcu	1
+identifiers	lc control number	1
+technological innovation	lcs platform interface	1
+external device	lcd field monitor	1
+external device	lcd tv	1
+modern facility	lcd tv	7
+modern facility	lcd television	2
+modern facility	lcd satellite tv	1
+modern facility	lcd flat screen television	1
+modern facility	lcd projectors	1
+modern facility	lcd satellite television	1
+spare part	lcd screen	3
+spare part	lcd	1
+conventional technique	lc filter	1
+electronic component	lc filter	1
+analytical technique	lc-ms	1
+innovative product	lcd monitor	1
+cool feature	lcd screen	1
+plastic	lcp	2
+common issue	lcd bleeding	1
+innovative technology	lcd monitor	1
+innovative technology	lcd	1
+peripheral device	lcd projector	3
+peripheral device	lcd	2
+peripheral device	lcdc  two thousand one hundred and four  shown in fig 	1
+peripheral device	lcd backlight	1
+headliner	lcd soundsystem	1
+basic amenity	lcd with dvd player	1
+buyer	lcd panel buyer	1
+electronic product	lcd tv	19
+electronic product	lcd clock	2
+subsystem	lcd	1
+item	lcd cleaning kit	1
+item	lcd cables	1
+gun	lcp	1
+gun	lcr	1
+computer	lcd monitors	2
+government department	lcsd	1
+freebie	lcd tv	13
+modern technique	lc-ms	1
+nice touch	lcd tv in the bathroom	1
+heavy item	lcd	1
+optional extra	lcd television	1
+furnishings	lcd monitor	1
+furnishings	lcd tv	1
+bloggers	lcn	1
+popular product	lcd tvs	1
+popular product	lcd	1
+replacement part	lcd hinges	3
+replacement part	lcd monitor	1
+environmental group	lcv	1
+portable device	lcd	1
+accessory item	lcd monitor	1
+milestone	lca	1
+milestone	lco	1
+boat	lcac	1
+basic datum	lcd	1
+spec	lcd	1
+critical component	lcd screen	1
+traditional service	lcl cargo	1
+analytical tool	lca	2
+difficult issue	lchip funding	1
+educational material	lca module	2
+network service	lcr	2
+connector	lc connector from lucent technologies	1
+plane	lc- one hundred and thirty  hercules 	1
+reader	lcd tablet	1
+sophisticated technique	lc-ms	1
+electrical appliance	lcd tv set	1
+comfort	lcd tv	5
+comfort	lcd television	2
+comfort	lcd tv's	1
+comfort	lcd-tv home cinema	1
+experimental technique	lc-ms	1
+analytical method	lc-ms	6
+management issue	lcs trip limit	1
+analysis tool	lca	1
+template	lcb- -lcb- frances pomeroy naismith award -rcb- -rcb-	1
+template	lcb- -lcb- uw-refimprove -rcb- -rcb-	1
+template	lcb- -lcb- associated press college basketball player of the year -rcb- -rcb-	1
+consumer electronics	lcd tvs	5
+consumer electronics	lcds	2
+consumer electronics	lcd tv set with satellite channel	1
+consumer electronics	lcd screen television	1
+consumer electronics	lcd-tv	1
+key technology	lcd panel	1
+key technology	lcd	1
+key technology	lcd backlight control	1
+credential	lcsw	3
+screen	lcd	1
+screen	lcd screen	1
+endpoint	lc fifty 	1
+panel	lcd panel	1
+optical device	lcd panel	1
+corporate sponsor	lcra	1
+inclusion	lcd tv's & internet access	1
+inclusion	lcd tvs	1
+estate	lcc's alton estate in roehampton	2
+powerful tool	lca's social process triangles	1
+flat surface	lcd screen	1
+big ticket item	lcd tvs	1
+teaching aid	lcd	8
+teaching aid	lcd projector	3
+viral infection	lcmv	1
+finished product	lcd tvs	1
+finished product	lcd monitor	1
+display device	lcd	38
+display device	lcd screen	15
+display device	lcd device	4
+display device	lcd tv	3
+display device	lcd display	3
+display device	lcd monitor	2
+display device	lcd panel	2
+display device	lc cell	1
+display device	lcd projector	1
+display device	lcd television	1
+molecular technique	lcr	1
+home appliance	lcd tvs	5
+home appliance	lcd player	2
+faculty member	lc professor	1
+electronic item	lcd monitor	2
+electronic item	lcd's	1
+free gift	lcd tv	41
+free gift	lcd	8
+free gift	lcd tv's	2
+free gift	lcd television	2
+free gift	lcd tvs gaming console	1
+technology tool	lcd projector	3
+technology tool	lcd	1
+common function	lcd display	1
+security system	lcd alarm glass for the window	1
+security system	lcd alarm systems with pager	1
+luxury feature	lcd satellite tv	1
+extras	lcd playback screen	1
+household appliance	lcd monitor	1
+area	lcl	1
+generator	lcg withanother generator	1
+digital product	lcd tv with dvd player	1
+digital product	lcd digital product	1
+business model	lcc tiger airways australia	1
+training aid	lcd projector	2
+small appliance	lcd tvs	1
+small appliance	lcd television	1
+watch	lcd watch.	1
+present	lcd tvs	1
+standard amenity	lcd projector	1
+electronic equipment	lcd projector	1
+big item	lcds	1
+external component	lcd	1
+external component	lcd screen	1
+payment method	lc settlement for subsequent purchases after the first	1
+hardware component	lcd	2
+license	lcpc	1
+business unit	lcd	1
+cluster	lc's linux cluster	1
+imaging device	lcd projector	1
+luxury good	lcd	1
+video format	lcd devicesemploy other video format	1
+output device	lcd screen	1
+output device	lcd	1
+technological tool	lcd projector	1
+delicate item	lcd s	1
+car accessory	lcense plate frame	1
+modern comfort	lcd tv with usb port	5
+modern comfort	lcd tv	4
+modern comfort	lcd screen tv	2
+area	lcd screen	1
+modern comfort	lcd television	1
+modern comfort	lcd tv with satellite tv	1
+end product	lcd display	2
+activist group	lcc	1
+latest feature	lcd	1
+hot item	lcd cleaning kit	1
+precursor	lcose  three  cer 	1
+luxury amenity	lcd television	1
+frill	lcd	2
+frill	lcd tv	1
+frill	lcd display	1
+luxurious amenity	lcd screen	1
+luxurious amenity	lcd tv	1
+luxurious amenity	lcd television	1
+electrical product	lcd tvs	4
+community college	lccc	1
+electronic part	lc resonance circuit	1
+active device	lcd	3
+clothing brand	lc waikiki	1
+digital technology	lcd used in television	1
+bathroom accessory	lcd tv set with the variety of channels in different language	1
+great prize	lcd screen	1
+molecular marker	lc three 	1
+rare disease	lch	1
+small device	lcd screen	1
+home product	lcd projector	1
+manual	lct manual	1
+consumer item	lcd lamp	1
+consumer item	lcd projector	1
+consumer item	lcd television	1
+monitor	lcd	4
+monitor	lcd monitor	3
+african country	lcd target sub-saharan african country	1
+high value item	lcd monitor	1
+service	lcat	1
+service	lc's recovery platform	1
+service	lcr	1
+service	lcd screen tv installation	1
+service	lcl shipping	1
+service	lcl container freight station	1
+service	lcsw	1
+kinases	lck	3
+office product	lcd projector	1
+modern device	lcd tv	2
+modern device	lcd projector	1
+electronic gadget	lcd monitor	1
+good facility	lcd tv	1
+consumer device	lcd television	1
+consumer device	lcd projector	1
+essential component	lcd screen in a single unit for optimal portability	1
+great option	lcd tv's with dvd player	1
+computer peripheral	lcd monitor	1
+power device	lcd clock	1
+free software	lc iso creator	1
+green technology	lcd monitors	1
+service	lcc money transfer	1
+service	lcd projector & plasma rental video shooting	1
+service	lcd bonding	1
+service	lcc outsourcing	1
+multimedia device	lcd projector	1
+nifty feature	lcd backlight timeout control	1
+digital tool	lcd projector	1
+image processing	lcd image processing	1
+rental item	lcd projectors & screens	1
+thermoplastic material	lcp	1
+entertainment feature	lcd screen	1
+passive component	lc tank	1
+passive component	lc element	1
+common component	lcd flat screen tv	1
+common component	lcd panel	1
+common brand	lc smith corona	1
+high-end product	lcd tvs	1
+high-end product	lcd	1
+quality item	lcd tv s	1
+computer component	lcd monitor	1
+fancy feature	lcd display	1
+standard measure	lc fifty  value 	1
+indicia	lcd display	2
+modern equipment	lcd projector	1
+modern equipment	lc-ms	1
+modern equipment	lcd television	1
+teaching resource	lcd projector	1
+customer datum	lcd message	1
+development partner	lcbc's development partner	1
+consumer electronic product	lcd product	2
+consumer electronic product	lcd projector	1
+high-tech feature	lcd projector	1
+display technology	lcd	15
+display technology	lcos	1
+display technology	lcd panel	1
+therapist	lcsws	1
+mod con	lcd television	1
+state-of-the-art facility	lcd flat screen on satellite tv	1
+specialty application	lcd backlighting	2
+technology product	lcd-tft monitor	1
+electronic apparatuses	lcd device	1
+pin	lch	1
+planning document	lcs planning document	1
+specialist product	lcd tube	1
+built-in function	lcd	3
+core technology	lcd panel	1
+high-tech product	lcd	3
+high-tech product	lcd panel	1
+business facility	lcd projector	1
+embedded application	lcd panels used in notebook pcs	1
+in-room amenity	lcd tv with the option of having sky channels in the junior suite	1
+transport	lct	1
+transport	lcvp	1
+video application	lcd tv set	2
+convenient amenity	lcd tv	1
+electronic good	lcd tvs	1
+shipping option	lcl	1
+pistol	lcp	1
+small component	lcd cable	1
+analog device	lcd monitor	1
+modern touch	lcd television	1
+complex component	lcd display	1
+modern appliance	lcd television	1
+crystalline material	lcp	1
+illegal drug	lcd	1
+electronic apparatus	lc resonator	4
+electronic apparatus	lc filter	4
+best feature	lcd screen	1
+luxury product	lcd television	1
+topic	lcd technology	1
+digital medium	lcd	2
+electronics product	lcd screen	2
+real estate company	lcg	2
+repair service	lcd repair	2
+compiler	lcc	1
+consumer electronics product	lcd tv's	1
+technology resource	lcd projector	1
+fixed asset	lcd projectors mounted in lecture theatres	1
+multimedia tool	lcd	1
+complementary measure	lcfs	1
+diluent	lco	2
+business course	lcci international qualification	1
+clock	lcd clock	1
+visual display	lcd	2
+visual display	lcd display	1
+visual display	lcd screen	1
+common error	lcky luciano	1
+popular group	lcd soundsystem	1
+flat panel display	lcd	15
+flat panel display	lcd tvs	3
+flat panel display	lcd television	1
+flat panel display	lcds used in laptop computer	1
+flat panel display	lcd's used in laptop computer	1
+flat panel display	lcd screen	1
+full facility	lcd wide-screen television with  thirty-nine  channels cable 	1
+full facility	lcd wide-screen television with  thirty-nine  cable channel 	1
+full facility	lcd tv with satellite tv channel	1
+ICT tool	lcms	1
+presentation tool	lcd projector	1
+mega-projects	lcct	1
+technology firm	lcd maker sharp corp	1
+highest quality product	lcn	1
+high-value item	lcd tvs	1
+latest tool	lcd projector	1
+portable application	lcd monitor	1
+topic	lc-ms	1
+photosensitive material	lcd material	1
+custom part	lcd	1
+prestige brand	lcbo	1
+control unit	lcd controller	1
+entertainment item	lcd tv's	1
+entertainment item	lcd flat panel television	1
+interior accessory	lcd monitor	1
+mobile phone accessory	lcd screen	1
+organic substrate	lcp	1
+technological resource	lcd projector	1
+cutting-edge feature	lcd screen	1
+display setting	lcd monitor s brightness	1
+color space	lch	1
+expensive component	lcd	1
+expensive gift	lcd	2
+expensive gift	lcd monitor	1
+art system	lcd display	1
+instrumental technique	lc-ms	1
+common technology	lcd monitor	1
+today's technology	lcd	1
+TV	lci-tf one  in paris 	1
+display system	lcd	1
+entertainment device	lcd tv with sat-connection for various channel	2
+projector	lcd projector	2
+projector	lcos projector	1
+room facility	lcd color television	1
+cell phone accessory	lcd	1
+multimedia product	lcd	1
+audio-visual aid	lcd projector	2
+audio-visual aid	lcd	2
+electronic technology	lcd screen	1
+multivariate method	lca	1
+skier	lcpl andrew	1
+topic	lc decision about series	1
+topic	lc networks	1
+camera accessory	lcd screen	1
+e-commerce site	lc international inc. of marlborough	1
+featuring amenity	lcd tv	1
+lighting application	lcd-based video projection	1
+lighting application	lcd-basedvideo projection	1
+specialist facility	lcd projector	1
+hot product	lcd tvs	13
+hot product	lcd tv's	1
+lighting system	lcd	1
+world-class facility	lcd television	2
+state-of-the-art amenity	lcd flat screen digital tv	1
+state-of-the-art amenity	lcd flat screen with satellite tv	1
+state-of-the-art amenity	lcd flat screen on satellite tv	1
+progressive organization	lccr	1
+flat panel display device	lcd device	6
+flat panel display device	lcd	5
+marine	lcpl antonio lopez	1
+portable equipment	lcd projector	1
+technical facility	lcd tv	1
+sensitive component	lcd display	1
+ford model	lcf	1
+interesting product	lcd tvs	6
+laptop accessory	lcd screen	1
+open source application	lcd smartie	1
+graphic design	lcn graphics	1
+display unit	lcd	10
+display unit	lcd display	2
+feature amenity	lcd tv	1
+household survey	lcf	1
+plasma protein	lcat	1
+france tv channel	lcp assemblee nationale french	1
+modern luxury	lcd tvs	1
+modern luxury	lcd television	1
+on-demand service	lcd projector	1
+solid state device	lcd monitor	1
+tyrosine kinases	lck	4
+world class facility	lcd tv's	1
+subject heading	lc subject heading	1
+audiovisual aid	lcd	1
+interactive device	lcd projector	1
+hard-to-reach area	lcd's corner	1
+sensitive surface	lcd	1
+sensitive surface	lcd display of digital camera	1
+luxurious item	lcd television	1
+luxury option	lcd tv with dvd	1
+small ship	lcs	1
+iconic artist	lcd soundsystem s frontman james murphy	1
+peripheral circuit	lcd driver	1
+technology item	lcd projector	1
+background process	lck process	2
+grid	lcg	2
+light load	lcd tv's	1
+popular type	lcd	1
+display apparatus	lcd	2
+banner	lcb- -lcb- wp bio -rcb- -rcb-	1
+banner	lcb- -lcb- wp-tennis -rcb- -rcb-	1
+latest gadget	lcd projector	1
+amazing product	lcd tvs	1
+audio visual aid	lcd projector	7
+audio visual aid	lcd s	3
+audio visual aid	lcd	2
+audio visual aid	lcd's	1
+cam	lce	1
+information technology tool	lcd projector	1
+user interface component	lcd screen	1
+gizmo	lcd tvs	1
+complicated method	lca	1
+phone accessory	lcd	1
+display application	lcd television	1
+display panel	lcd panel	2
+display panel	lcd	1
+informal channel	lc meeting	1
+probabilistic method	lca	1
+value-added function	lcd screen	1
+high-priced item	lcd television	1
+initial	lcsw	1
+voice application	lcr on a pbx	1
+company	lcw	1
+company	lcd enclosure global ltd	1
+company	lc audio	1
+company	lc technology international	1
+company	lcg	1
+company	lci	1
+company	lcm	1
+company	lcp	1
+off-the-shelf product	lcd panel	1
+sensitive electronics	lcds	1
+attractive prize	lcd tvs	1
+bracket	lcd tv bracket	1
+built-in device	lcd driver controller	1
+datum parameter	lc-ms-ms datum parameter	1
+high demand item	lcd projector	1
+modern idea	lcd screen	1
+conference facility	lcd projectors	1
+conference facility	lcd tv	1
+fiber type	lcp polyester	1
+offshoot	lcg	1
+consumer appliance	lcd tvs	1
+first-class facility	lcd television	1
+valuable component	lcd	1
+display apparatuses	lcd apparatuses	2
+high-tech option	lcd screen	1
+electronic display	lcd	3
+electronic display	lcd display	1
+electronic display	lcd  one hundred a 	1
+laptop component	lcd screen	1
+plastic resin	lcp	1
+rental equipment	lcd projector	1
+sub-saharan african country	lcd target sub-saharan african country	1
+continuous measure	lc fifty 	1
+IC	lcd driver	1
+leisure product	lcd television	1
+optional facility	lcd projectors	1
+presentation aid	lcd projector	1
+sony product	lcd camera psp playstation laptop	1
+television	lcd tvs with dvd player	1
+television	lcd hdtv	1
+television	lcd tvs	1
+amplification technique	lcr	2
+laptop part	lcd screen	1
+laptop part	lcd power inverters	1
+laptop part	lcd panel	1
+latest equipment	lcd projector	1
+competitive technology	lcd	1
+evangelical church	lcms	1
+Modern electronics	lcd television	1
+requisite	lcd	3
+TVs	lcd	2
+TVs	lcd tvs	1
+user interface device	lcd	1
+bulky good	lcd tvs	1
+digital medium product	lcd tvs	1
+projection system	lcd	1
+configuration management tool	lcfg	2
+target object	lcd substrate	1
+unnecessary feature	lcd preview	1
+enhanced function	lcd backlit color display	1
+output information	lcd panel output information	1
+single organization	lcg	1
+analog technology	lcd	2
+clearinghouse	lch.clearnet	9
+clearinghouse	lch.clearnet group ltd.	4
+clearinghouse	lch clearnet ltd.	1
+clearinghouse	lch	1
+combination method	lca	2
+cool gadget	lcd tv	1
+display screen	lcd screen	3
+display screen	lcd	1
+pre-cancerous condition	lcis	1
+regulatory incentive	lcfs multiplier	1
+technology enhancement	lcd wall display screen	1
+canada tv channel	lcn	1
+glass substrate	lcd	1
+health option	lcynene foam	1
+high-tech amenity	lcd tvs with cable channel	1
+high-tech amenity	lcd television	1
+liquid crystal display	lcd television	3
+superior facility	lcd televisions	1
+bile acid	lca	2
+controlled vocabulary	lcsh	3
+genotypes	lcsv  one hundred and twelve 	1
+information technology product	lcd tvs	1
+integrated approach	lca	1
+popular add-ons	lcd cleaning kit	7
+attractive free gift	lcd tv	1
+audio-visual equipment	lcd	1
+audio-visual equipment	lcd projector	1
+digital camera accessory	lcd protectors	1
+entertainment tv channel	lc two  international 	1
+exciting offer	lcd tv	1
+home entertainment product	lcd tvs	2
+modern teaching aid	lcd projector	6
+modern teaching aid	lcd	5
+video display	lcd	2
+video display	lcd panel	1
+video display	lcd screen	1
+video display	lcos	1
+well-established technology	lcd	2
+clearing house	lch.clearnet	14
+clearing house	lch	2
+clearing house	lch clearnet ltd.	1
+connector type	lc	2
+display element	lcd	2
+exciting initiative	lco live	1
+exciting initiative	lco kids	1
+exciting initiative	lco new	1
+expensive electronics	lcd tvs	1
+hazardous component	lcd screen	1
+home entertainment device	lcd television	1
+independent operator	lcl in belgium	1
+interface type	lc-ms interface type	1
+lot more feature	lcd viewscreen	1
+modern essential	lcd freeview tvs	3
+modern essential	lcd free-view tvs	1
+advanced analysis	lc-ms	1
+digital display device	lcd	2
+digital display device	lcd panel	2
+digital display device	lcd device	1
+digital display device	lcd monitor	1
+flat-panel display	lcd	3
+flat-panel display	lcd tvs	1
+large display	lcd panel	1
+recycled building material	lcynene foam	2
+sub-segments	lcv	1
+consumer-friendly feature	lcd tutorial	1
+corporate member	lcfc	1
+flat display device	lcd	4
+integrated peripheral	lcd controller	2
+modern analytical method	lc-ms	1
+modern distraction	lcd hd tvs	1
+small screen	lcd displays on cellular telephone	1
+static model	lcp	1
+column name	lcb- shortname -rcb-	1
+column name	lcb- price -rcb-	1
+column name	lcb- image -rcb-	1
+consolation prize	lcd television	1
+digital display	lcd	5
+digital display	lcd monitor	1
+hardware improvement	lcd backlight displays	1
+minor anomaly	lcx arising from the rca	1
+thin product	lcd screen	2
+valuable gift	lcd tv	2
+arbitral institution	lcia	2
+bs	lcd marketing bs	1
+electro-optic device	lcd	1
+integral part	lcd	2
+LED application	lcd tv	1
+professional office service	lcd projector	1
+projection device	lcd panel	2
+projection device	lcd projector	1
+projection device	lcd	1
+security accessory	lcd display keyboard controllers	1
+access product	lcd monitor	1
+access product	lcd tvs	1
+common piece	lcd flat panel television	1
+conventional filter	lc filter	1
+display mean	lcd	1
+electronics good	lcd tv	1
+electronics good	lcd tv's	1
+ship class	lcc	1
+audiovisual equipment	lcd projector	1
+avail free gift	lcd tv	1
+common peripheral	lcd driver	2
+economic method	lcc	1
+exciting gift	lcd television	1
+flat panel display technology	lcd	3
+flat panel display technology	lcd monitor	2
+high-temperature material	lcp	1
+innovative firm	lca architects	2
+modern technical equipment	lcd tv	1
+non-core area	lcd projector business	1
+sensitive electronic equipment	lcd	1
+information	lcd controller data sheet	1
+government business enterprise	lcbo	1
+hyphenated technique	lc-ms	4
+information communication device	lcd back-light pda	1
+integrated study	lca study	1
+second device	lcd projector	3
+second-order statistic	lcr	3
+tissue-specific promoter	lck promoter	1
+complicated repair	lcd replacement	1
+display medium	lcd	1
+hard technology	lcd projector	1
+state-of-the art technology	lcd projectors in classroom	1
+transit provider	lctb in licking county	1
+amplification reaction	lcr	3
+audio visual equipment	lcd tv	1
+audio visual equipment	lcd projectors for employee meeting	1
+audio visual equipment	lcd monitor	1
+audio-video product	lcd tvs	1
+electronic consumer good	lcd television set	1
+feedback method	lcd screen	1
+flat display	lcd	1
+home electronic product	lcd hd tv	3
+lutheran church	lcms	3
+optional connector	lc	1
+information	lcd panel output information	1
+standard number	lccn	1
+technology equipment	lcd projector	1
+toxic endpoint	lc  fifty  s 	1
+traditional interface	lcd screen	2
+color display	lcd	2
+color display	lcd screen	1
+faulty hardware	lcd screen	1
+flat panel display apparatuses	lcd device	1
+low-pass filter	lc filter	1
+required subsystem	lcd	1
+serial port device	lcd	6
+small gun	lcr	1
+small gun	lcp	1
+tecniques	lc-ms	1
+university center	lcc's university center	1
+advanced management tool	lcc	1
+advanced management tool	lca	1
+arbitration rule	lcia rules	1
+camcorder feature	lcd monitor	2
+ceramic electronic part	lc resonator	1
+display issue	lcd bleeding	2
+HDTVs	lcd	1
+home entertainment item	lcd television	1
+hydrophobic bile acid	lca	2
+interchangeable part	lcd	1
+latest gift	lcd tv	1
+organized criminal group	lcn	1
+remote	lcd-based sony rm-av three thousand  	1
+samsung product	lcd television set	1
+samsung product	lcd computer monitor	1
+shipmate	lcdr d. garvey	1
+TV technology	lcd	2
+unsupervised learning technique	lc cluster	1
+advanced ship	lcs	3
+alluring gift	lcd tv s	1
+audio visual service	lcd projector	1
+audio visual system	lcd	1
+audiovisual service	lcd monitor	1
+burial mound	lchashen	1
+camcorder accessory	lcd screen protector	1
+complex filter	lc filter	2
+didactic aid	lcd projector	1
+exam preparation program	lcci	1
+flat panel monitor	lcd	9
+flat panel monitor	lcd tvs	4
+flat panel monitor	lcd monitor	2
+hanz product	lcd computer monitor	1
+imaging solution	lcd display	1
+industry-leading product	lcd hdtvs with build-in dvrs	1
+lipolytic enzyme	lcat	1
+mobile phone part	lcd on different b rands	1
+mobile phone part	lcd	1
+office asset	lcd	1
+optical connector	lc connector	1
+output display device	lcd projection panels for large audience presentation	1
+output display device	lcd projection panels for largeaudience presentation	1
+output display device	lcd projection panels for large-audience presentation	1
+output display device	lcd projection panel	1
+power-hungry component	lcd panel	1
+television set	lcd tv	2
+television set	lcd	1
+trench	lch	1
+classic measure	lc fifty 	1
+development software	lcd studio	1
+event	lca's fair in lexington	1
+event	lct show	1
+global tool	lca	1
+HDTV product	lcd	1
+laptop peripheral	lcd screen	1
+LCD product	lcd monitor	1
+meter component	lcd display	2
+multi-channel system	lcr	1
+multimedia projector	lcd display	3
+multimedia projector	lcd screen	2
+myriad function	lcd screen	1
+presentation equipment	lcd projector	1
+projection technology	lcd	2
+target substrate	lcd substrate	1
+technological object	lcd tv	1
+television technology	lcd	2
+up-to-date product	lcd tv with in-built bluetooth for headphone	1
+advanced IP telephony device feature	lcd screen	1
+advanced teaching tool	lcd	1
+brand new electronic product	lcd tv's	3
+brand new electronic product	lcd tv s	1
+byway	lcos cube	1
+casio C741 accessory	lcd cleaning kit	1
+cog	lcg	3
+comprehensive tool	lca	1
+digital and various product	lcd tvs	1
+electronic recycling part	lcd display	1
+emerging display technology	lcos	1
+flat display panel	lcd	1
+flat screen	lcd	1
+flat screen	lcd tv	1
+institutional response	lcr mscp	1
+iphone component	lcd	1
+kvm switch	lcd console kvm switch	1
+laptop electronic component	lcd	1
+large electronics	lcd television	1
+LCD TV stand	lcd cart	1
+LCD TV stand	lcd floor stand	1
+light device	lcd	1
+modern display	lcd	5
+modern display	lcd screen	2
+pocket pistol	lcp	3
+power supply circuit	lcd driver	1
+recognizable band	lcd soundsystem	1
+shared equipment	lcd projector	1
+support ship	lcs	1
+time-consuming function	lcd function	1
+unbeatable facility	lcd tv	1
+unconventional product	lcd monitors in widescreen	1
+visual instrument	lcd projector	1
+academic test	lct	1
+accounting qualification	lcci	1
+acute animal test	lc  fifty 	2
+advanced vedic math's technique	lcm & gcd	1
+amazing free gift	lcd tv	1
+attractive and valuable gift	lcd tv	1
+audio-visual teaching equipment	lcd	1
+business branch	lcd systems	1
+diploma mill	lcb	1
+display member	lcd of the camera	1
+display monitor	lcd panel	1
+flat panel device	lcd device	1
+flat-panel display device	lcd device	1
+forcing mechanism	lcfs for refiner	1
+grant money	lci grant	1
+great decoration	lcd screen	1
+high efficiency appliance	lcd tv's	1
+high-strength fiber	lcp fiber	1
+high-tech furnishings	lcd television	1
+laptop related service	lcd	1
+latest teaching technique	lcd projectors	2
+lot valuable gift	lcd tv	1
+peripheral driver	lcd with touch driver	3
+peripheral hardware	lcd projector	1
+program	lca	1
+program	lcii	1
+program	lcd-driver control program	1
+program	lci fund	1
+program	lcbp cultural heritage	1
+program	lca science	1
+program	lc iso creator	1
+program	lc certification program	1
+program	lci matin	1
+screen type	lcd	2
+sophisticated analytical instrument	lc-ms	2
+white and brown good	lcd screen	1
+audio and visual classroom need	lcd projector	1
+basic electronic component	lcd panel	1
+big selling name	lcd soundystem	1
+branded electronic good	lcd	1
+chromatographic step	lc-ms	2
+coated item	lcd monitor	2
+conventional display	lcd	1
+dell product	lcd tvs	1
+depth consultation service	lccn	1
+descriptive standard	lc subject heading s	1
+double shotgun	lc smiths	1
+environmental assessment tool	lca	2
+environmental assessment tool	lcc	2
+expensive home appliance	lcd tvs	17
+fitting algorithm	lc-model	1
+fully entertaining material	lcd tv	2
+gifts-free product	lcd	1
+gunboat	lcm's	2
+IC product	lcd driver	1
+image display unit	lcd	4
+LED component	lcd backlight	1
+massive and major group	lcu	1
+mild solution	lcd cleaner	1
+monitor component	lcd panel	1
+notebook accessory	lcd panel	1
+password cracker	lc five 	1
+space-saving appliance	lcd tvs	1
+standard datacom connector	lc	1
+supplying LCD monitor	lcd color monitor	1
+television device	lcd	1
+theater system	lcs	1
+thin display	lcd	1
+traditional display	lcd video display	1
+typical feedback oscillator	lc oscillator	1
+visual display system	lcd system	1
+advanced plastic	lcp	1
+air-conditioned and feature amenity	lcd tv	1
+arenaviruses	lcmv	5
+aspirational product	lcd television	1
+assigned text	lcg's statement of fundamental beliefs	1
+astonishing gift	lcd tv	2
+audio visual resource	lcd projector	1
+camping experience	lcsp	1
+color display device	lcd	1
+comprehensive and advanced microscope	lcd microscope	1
+computer monitor	lcd screen	1
+computer monitor	lcd monitor	1
+concealable handgun	lcp	1
+conference amenity	lcd projector	3
+criminal justice intervention	lcohol a rrest referral	1
+criminal justice intervention	lcohol treatment requirement	1
+factor	lcd's native charact eristics	1
+factor	lcd luminance	1
+factor	lcd brightness	1
+factor	lcd screen size	1
+factor	lcd solution	1
+digital monitor	lcd	1
+direct-view display	lcd	1
+discussion method	lc-ms	1
+evoultionary amphibious system	lcac	1
+famous accessory	lcd	1
+fixed pixel array display	lcos	5
+flat panel electronic display device	lcd	1
+flat panel technology	lcd	2
+full set analytical equipment	lc-ms	1
+fundamental step	lc separation	5
+fundamental step	lc separ ation	1
+great USB product	lcd frames	1
+HDMI display	lcd	1
+high definition screen	lcd tv	1
+high-resolution display	lcd	1
+histochemical method	lca	1
+hold-type display device	lcos display	1
+home expensive electronics	lcd tvs	2
+home visual electrical appliance	lcd	1
+household electronic appliance	lcd tvs	1
+hybrid provider	lci	2
+innovative digital lifestyle device	lcd monitors	1
+laptop peripheral device	lcd screen	1
+laptop repair	lcd screen replacement	1
+large format display	lcd	1
+latest teaching aid	lcd projector	1
+mobile phone spare part	lcd	4
+mobile type LCD device	lcd devices for notebook computer	1
+modern screen	lcd	2
+must-have PCD CDM8635 accessory	lcd cleaning kit	1
+needed equipment	lcd projector for student presentation	1
+passive design	lc filter	1
+periphery circuit	lcd	1
+pixel display	lcd	2
+probiotic drink	lc one 	1
+problem program	lcs	1
+quench medium	lco	1
+risk avoidance strategy	lcv use	1
+sell mobile phone accessory	lcd screen	1
+small form factor	lc connector type	1
+tree-based algorithm	lc-trie	1
+unused tool	lch editor	1
+wholesale iphone part	lcd	1
+advanced analysis facility	lc-mass	1
+advanced analytical system	lc-ms	1
+advanced polymer	lcp	1
+arbitration regulation	lcia	1
+audio visual presentation equipment	lcd	1
+AV need	lcd projector	2
+avail many exciting free gift	lcd tv	1
+backlighting application	lcd tvs	1
+best practice tool	lcp	1
+commodity off-the-shelf component	lcd display	1
+complementary assay	lc three -flux assay 	1
+Confessional Lutherans	lcms	1
+conventional amplification technique	lcr method	1
+custom peripheral	lcd driver	1
+digital technology feature	lcd display	1
+dimensional device	lcd	2
+eco-friendly and beneficial product	lcd peephole	1
+electric comfort	lcd tv	1
+electronic display screen	lcd	1
+expansive chinese product	lcd tvs	1
+expensive house appliance	lcd tvs	1
+fixed pixel display	lcd	3
+fixed-pixel display	lcd	1
+flat screen television	lcd	2
+Flat-panel TVs	lcd tvs	4
+freebie item	lcd clock	1
+gifted many expensive home appliance	lcd tvs	2
+iccavr various library module	lcd one thousand six hundred and two 	1
+in-room modern amenity	lcd cable tv	1
+it-related item	lcd	1
+it-related item	lcd projector	1
+laptop spare	lcd screen	2
+large screen TV	lcd	1
+LAT operational function	lci file	1
+latest audio-visual equipment	lcd screen	1
+leukocyte activating gene	lcp two 	1
+library classification scheme	lcsh	2
+margin item	lcd display	1
+marriage counseling professional	lcsw	1
+marvelous gift	lcd tv	1
+mature display technology	lcd	2
+microdisplay technology	lcos	1
+Microdisplays	lcd	1
+modern convenient amenity	lcd television with cable channel	1
+molten resin	lcp	1
+newest gift	lcd television	1
+non-computer technology	lcd projector	1
+On-chip module s	lcd controller	1
+optoelectronic material	lcd-tft optical pmma sheet	1
+optoelectronic material	lcd-tv optical pmma sheet	1
+ortantfactors	lc concentration	1
+pawn quality item	lcd tv s	1
+photonics component	lcd display	1
+plat panel display device	lcd device	1
+organization	lcms human care	1
+organization	lcms world relief	1
+organization	lcn	1
+organization	lcsc outreach centers	1
+organization	lcg	1
+organization	lcms world mission	1
+technique	lcms	4
+technique	lc-ms	3
+power-consuming device	lcd display	1
+private-label and exclusive brand	lc lauren conrad	1
+professional camera accessory	lcd cover	1
+progressive display device	lcd	1
+projection type image display device	lcd projector	2
+quality room amenity	lcd tv	1
+recreational type drug	lcd	1
+rochester NY marriage counseling professional	lcsw	1
+scarce sample	lcm sample	1
+second order statistic	lcr	1
+suitable output device	lcd	1
+supplying kvm switch	lcd console kvm switch	1
+system timer	lcd turnoff timer	2
+system timer	lcd turn-off timer	1
+test endpoint	lc fifty 	1
+testing authority	lcie in france	1
+thin television	lcd	1
+third party peripheral	lcd monitor	1
+traditional configuration tool	lcd indicator	2
+TV stand	lcd cart	1
+TV term	lcd	1
+typical isothermal amplification technique	lcr	1
+verious computer part	lcd	1
+VESA compatible VGA monitor	lcd	5
+watch & clock	lcd clock	1
+advanced gravitational-wave detector	lcgt	1
+agency's name	lcsw	1
+aluminum photo frame related offer	lcd photo frame	1
+analytical assessment technique	lca	1
+annotation checker	lclint	2
+annotation checker	lcl int	2
+audio video aid	lcd projector	1
+avail many wonderful free gift	lcd tv	1
+technique	lca	1
+technique	lc with ultraviolet-visible detection	1
+big screen TV	lcd flat-panel	1
+branded diamond	lc international's hearts	1
+branded electronics gadget	lcd tvs	1
+Catode materals	lco	1
+certainapplications	lcd lithography	1
+chip-type electronic component	lc filter	1
+color-capable device	lcds on mobile system	4
+common place item	lcd projector	1
+complicated and expensive equipment	lc-ms	1
+computer display technology	lcd screen	1
+consumer video device	lcd	1
+conventional display technology	lcd	1
+core analytical technique	lc-ms	1
+costly part	lcd screen	1
+critical airfield	lcy	1
+css rule	lcb- margin :  zero  auto  zero  ; -rcb- 	1
+css rule	lcb- margin :  zero  auto ; -rcb- 	1
+css rule	lcb- margin-left : auto ; -rcb-	1
+custom display solution	lcd display	1
+Cytoplasmic protein tyrosine kinases	lck	1
+day-to-day digital gadget	lcd monitor	1
+digital display technology	lcd	1
+digital signage technology	lcd	1
+digital television	lcd	1
+digital TVs	lcd	1
+digital TVs	lcd tvs	1
+discount consumer electronics	lcd displays & tv's	2
+discrete display	lcd	1
+discrete display	lcd monitor	1
+dislike band	lcd soundsystem	1
+diversified maintenance interface	lct terminal interface	1
+DNA amplification technology	lcr	1
+driver autodetects CRT2 output device	lcd	1
+DVB-T stick related offer	lcd tv	1
+environmental management approach	lca	1
+essential design aspect	lcd customer feedback	1
+excellent audio visual equipment	lcd television	1
+expensive and amazing free gift	lcd	1
+fashion college	lcf	1
+fiber optic pigtail	lc fiber optic pigtail	1
+flat panel electronic display	lcd	2
+flat panel video display	lcd display	2
+flat-panel television	lcd tvs	3
+flat-panel television	lcd	1
+technique	lc with fluorescence detection	1
+technique	lc-type combining	1
+technique	lcl	1
+technique	lcd programming	1
+GCC compatible compiler	lcc-win thirty-two  compiler 	2
+HD TVs	lcd	1
+HDTV display technology	lcd	1
+high-end high technology electrical product	lcd	1
+high-tech electronic product	lcd tvs	1
+high-tech electronic product	lcd television	1
+historically important institution	lcia	2
+hp's measurement instrument	lcr meter	1
+improved TV	lcd	1
+infectious model	lcmv	1
+information language	lcsh	1
+innovative teaching aid	lcd projector	1
+Integrated electronics	lcd screen	1
+international arbitral institution	lcia	1
+landing craft	lct	1
+LCL service	lcl customs brokage	2
+LCL service s	lcl customs brokage	1
+light modulator device	lcd	1
+LTCC component	lc filter	1
+matrix type display device	lcd	2
+memory-mapped peripheral	lcd display	3
+metabolic profiling technique	lc-ms	1
+metabolomic tool	lc-ms	1
+methodoligies	lc-ms	1
+microchip macro	lcall	1
+micro-display technology	lcos	1
+micro-display technology	lcd	1
+microprocessor function	lcd control	1
+mobile display technology	lcd	1
+mobile phone inner spare part	lcd	1
+modern audiovisual equipment	lcd projector	1
+modern fixed matrix display technology	lcos	1
+modern fixed matrix display technology	lcd	1
+modern projector	lcd	2
+mounted component	lcd panel	1
+multisystem TV	lcd	3
+next-generation light source	lcls	1
+non-core system product	lcd	1
+non-crt display	lcd panel	1
+application	lcd backlighting	8
+application	lcd screen	2
+application	lcd tv	2
+normal library authority standard	lc name authority	1
+nucleic acid detection method	lcr	1
+older shotguns	lc smith	1
+on-chip module	lcd controller	1
+optional AG neovo accessory	lcd arm	2
+original RIM product	lcd	4
+ornament appliance	lcd	1
+OTC clearing house	lch.clearnet	1
+passive network	lc resonators constructed with high quality factor component	1
+picture display	lcd	1
+plant OSCs	lcosc two  from luffa cylindrical 	1
+popular cell phone repair service	lcd	2
+precise electronic product	lcd screen	1
+precise TV mold	lcd mold	1
+presentation requirement	lcd projector	1
+projection type video display apparatus	lcd projector	1
+quality commercial brand	lcn	1
+radio player related offer	lcd car dvd player	1
+recyclable scrap product	lcd monitor	2
+required repair	lcd screen repair	1
+selection home cinema electronics	lcd screen	1
+self-amplifying spontaneous radiation free-electron laser	lcls	6
+semiconductor equipment	lcd defect inspection system	1
+separation performance parameter	lco	1
+service center certain product	lcd	1
+short-term animal test	lc  fifty  tests in rat 	2
+sony's product	lcd tvs	1
+spectroscopic and hyphenated technique	lc-ms	1
+Src family kinases	lck	3
+Src-family protein tyrosine kinases	lck	2
+standard nucleic amplification technology	lcr	1
+standard ss-v feature	lcd screen with  six stack mp three 	1
+state-of-the-art audio-visual equipment	lcd projector	1
+suitable screen	lcd	1
+supplying slide projector	lcd slide projector	1
+application	lcd game	1
+application	lca for waste minimization	1
+application	lcds	1
+application	lcd panel	1
+application	lcd miscellany	1
+application	lcd monitor	1
+application	lcd technology	1
+application	lcd panel backlights	1
+application	lcd glass bonding	1
+application	lcd apparatus for notebook personal computer	1
+application	lcos based projection system	1
+application	lcd substrate finishing	1
+application	lcms	1
+application	lcd tv backlighting lighting	1
+application	lcd projector	1
+telecommunication inter-exchange carrier enterprise	lci	1
+television display	lcd tvs	2
+template variable	lcb- closingday -rcb-	1
+toxicity datum	lc fifty 	1
+toxicological end point	lc fifty 	1
+transparent display	lcd	1
+typical trading world's word	lc	1
+user relevant information	lcd brightness	1
+visual solution	lcd screen	1
+vital database	lc classification web	1
+window vista password recovery tool	lcp	1
+X-ray FELs	lcls	2
+100,000-pound truck	lcv	1
+3G mobile part	lcd	1
+3M product	lcd projector	1
+acceptor fluorescent moiety	lc-red  six hundred and ten 	2
+acceptor fluorescent moiety	lc-red  six hundred and fourty 	2
+advanced abacus technique	lcm & gcd	1
+advanced gravitational wave detector	lcgt	1
+advanced mechanical component	lcd screen	1
+advanced television	lcd tvs	1
+agilent measurement instrument	lcr meter	1
+AIM CAN module	lcu	1
+anti-bush interest group	lcv	1
+arbitration regime	lcia	1
+attractive and valuable free gift	lcd tv	1
+audio visual electronic product	lcd projector	1
+avail superb free gift	lcd tv's	1
+bargain appliance	lcd tvs	1
+big international clearers	lch.clearnet of the uk	1
+big screen television	lcd television	1
+black television stand	lcd black tv stand	1
+blackberry part	lcd lens	1
+blendstocks	lco	1
+brand amenity	lcd television	3
+car adapter related offer	lcd monitor	1
+chemical test datum	lc-ms	2
+chromatographic and analytical hybrid	lc-ms	1
+circuit & component	lcd screen	1
+classic unsafe generator	lcg	1
+clearers	lch.clearnet of the uk	1
+clinical licensure	lcpc	1
+clinical licensure	lcsw	1
+commercial analytical instrument	lcms	1
+commercial proprietary technique	lcr	5
+component supply	lcd display	1
+computer graphic display	lcd	1
+conference requirement	lcd projector	1
+confessional lutheran church	lcms	1
+consumer report rate toshiba product	lcd tvs	1
+convenient new store	lcbo	1
+conventional optical measuring apparatus	lcd color analyzer ca- one hundred and ten  produced by minolta co. 	1
+conventional power supply circuit	lcd driver	1
+conventional screen	lcd	2
+conventional small size electronic part	lc filter	1
+CRT TV related offer	lcd tv	1
+Crucial signaling tyrosine kinases	lck	1
+currently licensed mental health professional	lcsw	2
+damascus barrel	lc smith	1
+datum handling endpoint	lc  fifty 	1
+DELAY BOX INTRODUCTION modern display	lcd screen	1
+detbct detection tool	lclint	1
+digital display screen	lcd	1
+digitally-generated display	lcd	1
+direct-view system	lcd tvs	1
+discounted consumer electronics	lcd tv's	1
+display device technology	lcd	1
+display industry	lcd	1
+divergent technology	lcos	1
+downstream TCR signaling protein	lck	1
+DPLDs	lch	1
+eames's plywood chair	lcw	1
+easy-to-use collaborative technology	lcd display	1
+educational multimedia resource	lcd projector	1
+electronic AV aid	lcd projector	1
+electronic import good	lcd	1
+emerging corporate water accounting method	lca	1
+enjoy thoughtful touch	lcd tvs	2
+ethernet-over-sdh technology	lcas	1
+excellent and exciting free gift	lcd tvs of the modern age	1
+exclusive freebie	lcd tv	2
+exemplary display technology	lcd	1
+expensive breakout board	lcd graphics display	1
+expensive high-performance resin	lcp	1
+expensive rental	lcd projector	1
+name	lcd soundsystem	1
+farshid multimedia projector	lcd display	1
+fatty acid oxidation disorder	lchad deficiency	1
+fixed panel display	lcd	1
+Fixed Pixel RPTVs	lcd	1
+fixed-pixel device	lcd	1
+fixed-pixel projection TVs	lcd	1
+fixed-size display	lcd	1
+Flat display TVtechnology	lcd	1
+flat panel display monitor	lcd	2
+flat panel fixed screen display	lcd	1
+flat panel product	lcd	1
+flat panel set	lcd	1
+flat panel television set	lcd tv's	1
+flat panel TV screen	lcd screen	1
+flat plate device	lcd	1
+flat screen technology	lcd	1
+flat screen TV	lcd	2
+flat screen TVs	lcd	2
+flat screen video display	lcd monitor	3
+flat-screen monitor	lcd screen	1
+flatscreen technology	lcd	2
+flexible display device	lcd	3
+free C compiler	lcc	1
+free m68k C compiler	lcc	1
+full laptop repair service	lcd replacement	1
+gay veteran	lcr president r. clarke cooper	1
+generation display technology	lcd	1
+glass-based technology	lcd	1
+GP2501-TC11 GP2500-SC41-24V FP2600-T12 glc2300-related product	lcd panels	1
+great entertainment device	lcd television	1
+HD TV	lcd	1
+HDMI output display device	lcd	1
+hi-definition television	lcd	1
+hi-definition TVs	lcd	1
+high class amenity	lcd television screen	1
+high definition television	lcd	1
+high end electric gadget	lcd tv	1
+high performance plastic resin	lcp	1
+high power LED application	lcd backlighting	1
+high power light-emitting diode application	lcd backlighting	1
+high quality digital display device	lcd monitor	1
+high quality ipad part	lcd screen	1
+high resolution 2D image source	lcd screen	1
+high standard meeting facility	lcd	1
+high-definition television	lcd	1
+high-resolution mediums	lcd computer screen	1
+high-tech event facility	lcd projector	1
+high-tech manufacturing industry	lcd	2
+home theater projector	lcd home theater projectors	1
+household credit product	lcd tvs	1
+hyphenated analytical technique	lc-ms	2
+ILO design parameter	lc oscillator	1
+image projection technology	lcd	1
+in-car digital product	lcd tv monitor	1
+in-car electronic item	lcd tv monitor	1
+indicator type	lcd type	1
+indie electronic band	lcd soundsystem	2
+in-flight entertainment option	lcd screen in the common cabin display area	1
+institutional panel	lcia	1
+instrument output device	lcd display	1
+introduction serial LCD application	lcd smartie	1
+large TV	lcd	1
+larger-size touchscreen product	lcd monitor	1
+large-sized liquid crystal display	lcd tvs	1
+large-sized liquid crystal display	lcd monitor	1
+latest flat panel display technology	lcd monitors	1
+latest market amenity	lcd tv with satellite reception	1
+LCD hardware attribute	lcd size	1
+LCIS variant	lcis with necrosis	1
+lc-wide bundle	lc-wide instant perfection	1
+lc-wide bundle	lc-wide mad scientist kit	1
+lethal endpoint	lc fifty 	1
+factor	lcd's native characteristic	1
+factor	lcat	1
+linear output WB	lc one 	1
+LMCK53-22NER LMCK5322NER LM-CG53-22NTK lm-cf53-related product	lcd panels	1
+lm-related product	lcd panels	1
+luminescent display surface	lcd	1
+master delaybox modern display	lcd screen	1
+modern digital display technology	lcd	2
+modern flat screen TVs	lcd	1
+modern technology learning aid	lcd projector	1
+modern video display	lcd	1
+monitor LCD related offer	lcd display screen	1
+monitor stand	lcd cart	1
+multi-media facility	lcd projector	1
+multi-media instrument	lcd projector	1
+must-have facility	lcd television	1
+non-crt display technology	lcd	1
+non-crt monitor	lcd panel	1
+non-emissive display device	lcd panel	4
+non-emissive flat panel display	lcd panel	1
+normal standardized examination	lcat	1
+optional scanning system	lcd	1
+oral presentation technical facility	lcd computer	1
+p73 target gene	lc three  homolog expressed in neuron 	1
+password recovery utility	lc three 	1
+pen-input display	lcd tablet	1
+photo frame related offer	lcd photo frame	1
+physical plant upgrade	lcd panel message board	1
+plasma TV stand	lcd cart	1
+PLL voltage-controlled oscillator	lc tank oscillator	1
+pocket gun	lcp	2
+popular design house	lc lauren conrad	1
+case	lcd panel	1
+portable TV related offer	lcd tv	1
+power crew	lcb	1
+powerful outside resource	lcd	4
+precursor technology	lcd holography	2
+presentation hardware tool	lcd projector	1
+professional recovery company	lc technologies	1
+projection optical system	lcd projection system	1
+proper display	lcd panel	1
+province's liquor store	lcbo	1
+quality home entertainment need	lcd tv	1
+queueing discipline	lcfs	1
+rear projection technology	lcd	1
+remote controller related offer	lcd controller	1
+romantic group	lcc	1
+SA tool	lcc	1
+SA tool	lca	1
+school's asset	lcd monitor	1
+second vessel	lcm- eight 	1
+self-excited oscillation	lco	1
+single display technology	lcd	1
+Ski-equipped aircraft	lc- one hundred and thirty 	1
+slim TVs	lcd tvs	1
+small or medium display device	lcd tv	1
+space exploration	lcross	1
+spectral study	lc-ms	1
+sporting in-room amenity	lcd hd tvs	1
+src family member	lck	1
+standard power-saving feature	lcd backlight	1
+sub-assembly p art	lcds	1
+case	lcf	1
+case	lcw in lawrence	1
+option	lcd	2
+technology related accessory	lcd projector	1
+television related offer	lcd tv	1
+thin display panel	lcd	1
+Thin large-screen TVs	lcd tvs	1
+third generation intercalating dye	lc green	1
+thyristor-based CSIs	lci	1
+top grade electronic product	lcd	1
+transmitter part	lc display	1
+trendy celebrity fashion	lc lauren conrad at kohl's	1
+typical flat panel display	lcd	1
+ultimedia projector	lcd screen	1
+ultra modern teaching aid	lcd projectors	1
+unconverted product	lco	1
+unnamed vessel	lci	1
+unrelated everyday object	lcd screen	1
+USB port A projection device	lcd	3
+VESDA configuration tool	lcd programmer	1
+video screen	lcd monitor	1
+wideband unit	lc- one 	1
+60hz medium	lcd tv	1
+abradable coating	lca- two hundred  for the combustor 	1
+active matrix type display device	lcd device	1
+acutely-infecting virus	lcmv	2
+advanced search gift	lcd monitor	1
+affordable laptop repair	lcd	2
+air quality policy	lcpd	1
+Alarge-sized LCD device	lcd television	1
+alphanumeric display device	lcd	1
+analog TV related offer	lcd tv	1
+anisotropic diffusion operator	lcis	1
+Annotation check ers	lclint  four , five 	1
+antenna substrate	lcp sheet	2
+antiphon	lceva ejus -rcb- in odorem	1
+apple manufacture huge volume component	lcd panel	1
+application specific software module	lcf three  low cycle fatigue 	1
+aspect ratio image source	lcd	1
+ASTM grade	lcb	1
+audio and visual technology	lcd tvs	1
+option	lcl	1
+option	lcr	1
+option	lct	1
+option	lcd projector	1
+option	lcsw	1
+back-lit television	lcd	1
+best picture quality display device	lcd screen	1
+big screen projector	lcd projector	2
+big turkish enterprise	lc waikiki	1
+broad spec	lcd	1
+bulb driven projector	lcd	1
+business education institution	lcb in the country	1
+capital grant scheme	lcbp	1
+car LCD related offer	lcd monitor	1
+car TV related offer	lcd tv	1
+circuit panel	lcd panel	2
+city's outside agency	lcpc	1
+cockpit glass surface	lcd monitor	1
+commercially available SFF connector	lc connector	1
+common display device	lcd device	1
+composite multi-layer part	lc composite part	2
+computational drug design approach	lct	1
+computer monitor arm	lcd computer monitor arm	1
+CONCLUSION high-tech product	lcd	1
+conclusion sample-and-hold visual display	lcd	1
+console repair part & spare	lcd screen	1
+conventional image display apparatus	lcd	1
+conventional landing craft	lcu	1
+conventional television set	lcd flatscreen	1
+cracked product	lco	1
+cumbersome and expensive physicochemical procedure	lc-ms	1
+curated vocabulary	lcsh	1
+cursor control key	lcb- home -rcb-	1
+D-B project	lcu project	1
+dedicated display device	lcd projector	1
+development field leadership entity	lcap	1
+digital camera repair service	lcd replacement	1
+digital viewing device	lcd	1
+discrete flat-panel technology	lcd	1
+discrete pixel display	lcd	1
+Display Unit A flat-panel device	lcd	1
+domestic and international arbitration panel	lcia	1
+DRDO project	lca	1
+eameses early innovative organic design	lcw wooden lounge chair	1
+option	lcd readout	1
+option	lcd keypad	1
+option	lcd backlighting	1
+eco-industrial method	lca	1
+electrodisplay device	lcd	2
+electromagnetic compatibility external unit	lcd tvs	1
+electromagnetic door holder	lcn sem seven thousand eight hundred  series 	1
+electronic advertising medium	lcd panel	1
+electronic readout	lcd	1
+electronic teaching facility	lcd	2
+embedded video display	lcd	1
+enahnced function	lcd	1
+end-of-life care protocol	lcp	1
+example specific fatty acid	lc pufa	1
+exciting freebie	lcd tv	3
+experimental source	lcls	1
+fiber jumper	lc jumper	3
+fixed pixel display device	lcd computer monitor	1
+Flat panel HDTVs	lcd	1
+flat panel monitor stand	lcd cart	1
+flat panel screen	lcd screen	1
+flat panel TV technology	lcd	1
+flat-panel monitor	lcd	1
+flat-screen electronic display device	lcd	1
+fourth international organization	lcr in france	1
+FPD device	lcd device	1
+frontlit display	lcd display	2
+future symbol	lc one m in the option box 	1
+generally applicable tool	lca	1
+generous accommodation	lcd television	1
+glass mother substrate	lcd	2
+great and high technology feature	lcd digit	1
+halogen-free plastic	lcp	1
+hepatotoxic bile acid	lca	1
+hierachical model	lcdm	1
+high end gel	lcn	1
+high frequency substrate	lcp	1
+high profile mission	lcross	1
+high-end category	lcd television	1
+high-modulus yarn	lcap	1
+home entertainment unit	lcd television	1
+home expensive home appliance	lcd tvs	1
+hyphenated Liquid Chromatography technique	lc-ms	1
+Image Engine technology	lcd	1
+group	lcv	1
+group	lcmc	1
+group	lcgc on the gospel circuit	1
+group	lcf rothschild	1
+group	lcd soundsystem	1
+influvastatin clinical trial	lcas	1
+ingersoll rand product	lcn closers	1
+innate immune response additional protein	lcn two 	1
+innovative consumer electronics product	lcd television	1
+in-room technology	lcd television	1
+ixel system	lcd	1
+japanese luxury home appliance	lcd tvs in the new store	1
+key component industry	lcd manufacturing equipment	1
+key technology accessory	lcd tv	1
+labtec model	lcs- one thousand and fourty  series 	1
+ladder company	lc  one hundred and four 	3
+large display application	lcd tv	1
+large-scale display device	lcd projector	1
+large-size TFT-LCD application	lcd monitor	1
+large-sized application	lcd tvs	1
+large-sized LCD device	lcd television	1
+laser vision correction corporate provider	lca-vision	1
+LC composite component	lc filter	1
+LCA activity	lca application	1
+LCD apparatuses	lcd television	1
+LCD panel related offer	lcd monitor	1
+LCD part	lcd panel	1
+LCD signal	lcd databus	1
+LCOS device	lcos light modulator	1
+LCX HD unit	lcx- twenty-six  hd 	1
+light weighted display monitor	lcd	1
+liquid crystal touch panel	lcd	3
+local or global registry identifiers	lc name authority file	1
+low radiation computer screen	lcd screen	1
+low radiation PC monitor	lcd monitor	1
+low-cost mission	lcross	1
+low-power item	lcd clock	1
+low-power, high-voltage application	lcd biasing	1
+low-profile television design	lcd panel	1
+low-radiation computer screen	lcd screen	1
+luminous surface	lcd display	1
+lunar probe	lcross	1
+lymphocyte-specific gene	lck	1
+marine cook	lcpl mel k. helmi	1
+master's level social worker	lcsw	1
+matrix-display technology	lcd	1
+mealy bug	lcerya aegyptiaca	1
+mid-century modern piece	lc one  chairs by courboisier 	1
+mobile device technology	lcd screen	1
+modern appartes	lcd	1
+modern education technology	lcd	1
+modern flat screen television	lcd	1
+modern TV set	lcd	1
+Modern TVs	lcd	1
+multi-mission platform	lcs	1
+multi-mode fiber optic	lc multi-mode	1
+multiple-lamp application	lcd tvs	1
+multi-source model	lcmv beamformer	1
+natively progressive display technology	lcd	1
+network advance	lcas	1
+niche digital gaming medium	lcd panel-based game	1
+n-myristoylated protein	lck	1
+nonreceptor kinases	lck	1
+method	lc-ms	6
+method	lca	3
+method	lcc	2
+numeric search	lccn	1
+organiz ation	lcra	1
+output voltage application	lcd bias generator	1
+particulate mud additive	lcm	1
+passive matrix display type	lcd	1
+passive type filter design	lc filter	1
+password-controlled site	lcsh	1
+PC peripheral equipment	lcd monitor of a notebook computer	1
+performance display	lcd television	1
+pixel display device	lcd	1
+pixel system	lcd panel	1
+pixel type display	lcd	1
+polarization-based projection engine	lcos projection engine	1
+post-review document	lco	2
+PPP control protocol	lcp	2
+projector technology	lcd projector	1
+proven lure	lc	1
+pure digital display	lcd	1
+Real Lutherans	lcms	1
+real small vessel	lcu's & motor torpedo boat	1
+red television stand	lcd red tv stand	1
+respect hyphenated technique	lc-ms	1
+rigorous tissue isolation method	lcm in concert with powerful genomic	1
+rotation deformity	lc type fracture	1
+SASE FEL	lcls	2
+method	lcd technology	1
+method	lcv	1
+method	lcr	1
+method	lcd projector	1
+semiflexible LCPs	lc five 	1
+seven-segment display	lcd	2
+SFP transceiver	lc duplex	2
+ship program	lcs	1
+signal-based amplification system	lcr	2
+signature extraction algorithm	lcs on the data filtered out by the administrator	1
+signed peices	lci	1
+simple home device	lcd television	1
+single decision	lc's decision on series authority record	2
+sizzling freebie	lcd tv	1
+sleek and swift vessel	lcs- one 	3
+small form factor connector product	lc connector	1
+small pocket gun	lcp	1
+specialist storage company	lcb	1
+src-family member	lck	1
+Srcfamilymembers	lck	1
+stand-alone display	lcd	1
+standard control number	lccn	1
+standardized toxicity endpoint	lc  fifty 	1
+strong hallucinogenic drug	lcd	1
+subject heading list	lcsh	1
+subject indexing	lcsh	1
+TCR pathway protein	lck	1
+tech type	lcd	1
+technically innovative device	lcd projector	1
+technology TVs	lcd	1
+TFT LCD related offer	lcd monitor	1
+TFT LCD TV related offer	lcd tv	1
+theflat panel device	lcd device	1
+today musical artist	lcd soundsystem	1
+today screen	lcd	1
+traditional LC trap	lc trap  one thousand eight hundred and thirty-five 	3
+traditional projector	lcd	1
+true ribbon tweeter	lcy	1
+tv new product	lcd hdtv	1
+typical displayer device	lcd displayer device	1
+typical ingredient substitution	lc milk for regular milk	1
+typically display	lcd	2
+unavoidable system element	lcd	1
+Uniform outerwear	lcc day school jacket	1
+unstable neighborhood	lc one 	1
+tool	lca	7
+tool	lcc	2
+tool	lc five 	2
+tool	lcps available from ibm	2
+tool	lclint	2
+tool	lcp	2
+tool	lca design	1
+video display screen	lcd screen	1
+visual appointment system	lcd scrolling information boards displaying appointment	1
+visual electronic readout	lcd	1
+vital replacement system	lcc command ship	1
+vital value	lcb	1
+voltage output application	lcd bias generator	1
+VVT engine	lc three 	1
+Wikipedia-specific templaes	lcb- -lcb- fact -rcb- -rcb-	1
+wooden television stand	lcd wooden tv stand	1
+x-ray free electron laser facility	lcls	1
+x-ray free-electron laser	lcls	1
+tool	lcris	1
+tool	lcsh	1
+tool	lcms	1
+tool	lcd projector	1
+tool	lcfg	1
+tool	lccustom.exe from lccm  three . zero 	1
+tool	lcca	1
+tool	lc cataloging service bulletin	1
+product	lcd	14
+product	lcd tvs	14
+product	lcd monitor	11
+product	lcd projector	6
+product	lcd television	5
+product	lcd panel	5
+product	lc  six thousand six hundred and one   two  door window handles , seven   two  laptops , two   two cm mushrooms 	3
+product	lcd screen	3
+project	lca	1
+project	lcra	1
+project	lcd projector	1
+project	lcms	1
+project	lcd wall mounting	1
+artist	lcd soundsystem	9
+artist	lcd sound system	1
+material	lco	2
+material	lcp	2
+material	lcd projector for the computer	1
+player	lcra	1
+player	lcw	1
+technology	lcd	39
+technology	lcd projector	3
+technology	lcos	2
+technology	lcd system	2
+product	lcd computer monitor	2
+product	lcd clock	2
+product	lcd display	2
+product	lc nine  pistol 	2
+product	lcm	2
+product	lcd & plasma tv	2
+product	lcd adapter related product	1
+product	lcd clock calendar related product	1
+product	lcd color monitor related product	1
+product	lcd counter related product	1
+product	lcd device related product	1
+product	lcb- type of product like cds	1
+product	lcd digital product	1
+product	lcd display screen related product	1
+product	lcd flat related product	1
+product	lcd gsm related product	1
+product	lc beads	1
+product	lcd tv plasma related product	1
+product	lcd-screen tv	1
+product	lcf vehicle	1
+product	lcr meter related product	1
+product	lcd light related product	1
+product	lcd mount wall related product	1
+product	lcd mp three  player related product 	1
+product	lcd multimedia player related product	1
+product	lcd safe related product	1
+product	lcd screen cleaner related product	1
+product	lcd screen color related product	1
+product	lcd screen related product	1
+product	lcd solar keychain related product	1
+product	lcd television wholesale related product	1
+product	lcd tft monitor	1
+product	lcd timer related product	1
+product	lcd tv board related product	1
+product	lcd tv sharp related product	1
+product	lcd universal remote related product	1
+product	lcd screen backlight related product	1
+product	lcd tv mount related product	1
+product	lcd universal related product	1
+product	lcd video projector related product	1
+product	lcd wall bracket related product	1
+product	lcds head units	1
+technology	lcd screen	1
+technology	lcd display	1
+technology	lcd tv	1
+technology	lcs	1
+technology	lcs-fib one didentify candidate structural bmp technology 	1
+technology	lcd driver	1
+technology	lcd monitor	1
+technology	lcd panel	1
+technology	lcls	1
+technology	lcm	1
+technology	lcds with high efficiency backlights	1
+technology	lc-ms	1
+term	lcd	7
+term	lc  fifty 	3
+term	lcb	2
+term	lchatchilah	1
+term	lcao	1
+term	lcoe	1
+parameter	lcl	2
+parameter	lcb- downspeedf eth zero  -rcb- 	1
+parameter	lc-ms-ms datum parameter	1
+parameter	lcn dimension	1
+parameter	lcl height	1
+parameter	lcvr voltage	1
+parameter	lcv	1
+system	lcd	2
+system	lcd eyewear used in conjunction with a synchronized display device	1
+system	lcd monitor	1
+system	lcd display system	1
+system	lcd controller	1
+system	lcs	1
+system	lc subject heading	1
+system	lc polymer	1
+system	lclint	1
+system	lcsh	1
+measure	lcco  two 	1
+measure	lc  ninety 	1
+condition	lcis	1
+condition	lcat deficiency	1
+condition	lch	1
+element	lcos	1
+function	lcd indication of various datum	1
+function	lcd with backlight	1
+function	lcd drive circuit	1
+function	lc	1
+function	lcmapstring in windows	1
+function	lcd driver	1
+device	lcd	8
+device	lcd tv	4
+device	lcd monitor	3
+device	lcd panel	3
+device	lcd projector	2
+device	lcd televisions ipods	2
+device	lcd display	2
+device	lcd screen	2
+device	lcd driver	2
+device	lcd computer monitor	1
+device	lcd displays for personal computer	1
+device	lcd television for the workplace	1
+device	lcd matrix	1
+device	lcd tvs with network connection	1
+brand	lcn gel nails	1
+brand	lcn	1
+brand	lcbo	1
+concept	lcc	1
+concept	lcm	1
+concept	lcl	1
+component	lcd	15
+component	lcd panel	6
+component	lcd screen	3
+component	lcd tvs	2
+component	lcd's	1
+component	lcd controller	1
+component	lcd monitor	1
+component	lcd pannels	1
+component	lc grille	1
+component	lc oscillator circuit	1
+component	lcd display	1
+component	lcd cable	1
+component	lcd clock	1
+component	lcs appearance	1
+aspect	lcd monitor	1
+aspect	lcd	1
+aspect	lca assessment	1
+site	lcis	1
+task	lcd panel	1
+related product	lcd screen protector related product	1
+related product	lcd digital watch related product	1
+related product	lcd clock related product	1
+related product	lcd key chain related product	1
+related product	lcd dvr related product	1
+related product	lcd replacement related product	1
+related product	lcd tv projector related product	1
+related product	lcd tuner tv related product	1
+related product	lcd rca related product	1
+related product	lcd panasonic related product	1
+related product	lcd cctv monitor related product	1
+related product	lcd ccfl backlights related product	1
+related product	lcd display screen related product	1
+related product	lcd adapter related product	1
+related product	lcd counter related product	1
+related product	lcd device related product	1
+related product	lcd clock calendar related product	1
+related product	lcr meter related product	1
+related product	lcd video projector related product	1
+related product	lcd universal related product	1
+related product	lcd mount wall related product	1
+related product	lcd mp three  player related product 	1
+related product	lcd solar keychain related product	1
+related product	lcd timer related product	1
+related product	lcd accessory related product	1
+related product	lcd digital gauge related product	1
+related product	lcd digital meter related product	1
+related product	lcd dvd monitor related product	1
+related product	lc one -k contactor related product 	1

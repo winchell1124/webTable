@@ -1,0 +1,273 @@
+datum	mw	3
+datum	mwd	1
+facility	mwra cottage farm	2
+facility	mwd single men's hostel	1
+facility	mweka college of african wildlife management in tanzania	1
+property	mw of the liquid	1
+property	mw of the vapor	1
+game	mw two 	44
+game	mw three 	11
+game	mw	3
+game	mw  two 	1
+game	mw two  world at war 	1
+game	mw three  on ultra 	1
+game	mw two  for xbox 	1
+exception	mwa haha	1
+category	mwr	1
+feature	mwi	7
+form	mwr's	1
+agency	mwr	4
+agency	mww group in the united states	1
+agency	mwd's founding member agency	1
+title	mw two 	2
+operation	mwd	1
+city	mwanza	2
+town	mwanza	1
+firm	mwh	1
+feature	mwi refresh	1
+setting	mwb	1
+website	mwave	1
+unit	mw	1
+leader	mwai kibaki	1
+leader	mwai kibaki of kenya	1
+policy	mwinyi's economic policy	1
+song	mwen wish song	1
+region	mwanza	3
+award	mwace award for outstanding contributions	1
+magazine	mwm	1
+district	mwingi	1
+language	mwera	2
+language	mwotlap	1
+luminary	mwalimu julius nyerere	1
+service provider	mweb	3
+service provider	mwb businessexchange	1
+village	mweya	1
+employer	mwi veterinary supply	1
+association	mwemba rice traders	1
+association	mwl	1
+station	mwanza	1
+authority	mwra	1
+authority	mwr	1
+factor	mw	2
+politician	mwenze kongolo	1
+time	mwi resynchronization on the unity server	1
+centre	mwansabombwe in luapula	1
+road	mwinilunga-jimbe road	1
+river	mwenezi	1
+river	mwatisi	1
+filter	mwco filter	1
+issue	mwr auto repair shop at san mateo	1
+issue	mwi delay experience	1
+face	mwadi mabika	1
+beach	mwnt	1
+datum source	mwd	1
+lake	mweru	1
+division	mw division	2
+route	mweka	1
+airport	mwanza on the shores of lakevictoria	1
+installation	mw scale installation	1
+conference	mwc	3
+performance	mw network performance	1
+circuit	mwc team circuit	1
+video game	mw two 	5
+periodical	mwr magazine	1
+scale	mw-andromeda distance	1
+descriptors	mw	2
+conventional technique	mwm	1
+big city	mwanza	1
+gun	mw two  type gun 	1
+period	mwp	1
+comedy	mww	1
+operating parameter	mw-ecr power	1
+window	mw curve	2
+online game	mw two 	2
+popular game	mw two 	1
+area	mwenezi	2
+area	mwanza	2
+profile	mwrr	1
+territory	mwi's new geographic territory	1
+objective measure	mwtor the mslt	1
+urban centre	mwanza	2
+league	mwc	1
+online retailer	mwave	1
+local activity	mw tournament	2
+site feature	mw three  models 	1
+merchandise	mwf ball cap	1
+night	mwalimu express	1
+area	mwnt	1
+area	mwenga	1
+established company	mw golf	1
+structural parameter	mw	1
+established player	mweb	1
+soap	mwf	1
+area	mwenezi west farm invasion	1
+area	mwiyogo	1
+principal	mwm	1
+shooter	mw two 	1
+traditional institution	mwethya groups of machakos	1
+leading player	mwb	1
+reputed company	mw group	1
+service	mwi service	1
+third party tool	mwd	1
+employment opportunity	mwr summer position	1
+multiplayer game	mw two 	1
+economic policy	mwinyi's economic policy	1
+online publication	mwari magazine	1
+community service program	mwr	1
+state organization	mwg	1
+popular video format	mwv	1
+FPS game	mw two 	4
+transmitter	mw transmitter	1
+well	mw- fourteen 	1
+well	mw- seventeen 	1
+well	mw- four 	1
+well	mw- sixteen 	1
+war game	mw two 	1
+company	mwb	3
+company	mweb	2
+company	mwm	2
+recreational event	mwr ticket	1
+vibrant city	mwanza	1
+regional town	mwanza	1
+hot spots	mwr facility	1
+company	mwinilunga pineapple plant	1
+company	mwg biotech	1
+common game	mw two 	1
+downhole tool	mwd	3
+traditional leader	mwata kazembe	1
+telephony feature	mwi	2
+PS3 game	mw two 	2
+stunning beach	mwnt	1
+company	mw kellogg	1
+federal and state program	mwra	1
+independent entity	mwra	1
+district council	mwanga	2
+sample information	mwp symptom	1
+mainstream game	mw	1
+northern district	mwanza	2
+arid environment	mwl	1
+transition area	mwanza	2
+FPS	mw two 	2
+high quality game	mw  two 	1
+popular video	mwg response video	1
+creative company	mwv	1
+local search engine	mweb search	1
+steam game	mw two 	1
+xbox game	mw three 	1
+natural lake	mweru	1
+prominent world leader	mwai kibaki	1
+intense game	mw two 	1
+drilling operation	mwd operation	2
+good leader	mwalim	1
+program office	mwaa's office of engineering	1
+store online	mwave	1
+global group	mww group	1
+irrigation scheme	mwea rice scheme	1
+information	mwallet datum	1
+ancient leader	mwanga	1
+oil & gas company	mwkellogg	1
+great african leader	mwalimu nyerere in tanzania	1
+great african leader	mwalimu nyerere of tanzania	1
+base activity	mwr ticket office for cheap stuff	1
+event	mwea classic marathon	1
+etailers	mwave	1
+multi-platform game	mw three 	1
+word line	mwl	1
+program	mwm	1
+program	mwtc program	1
+program	mwr	1
+real rural place	mwatate	1
+mainland region	mwanza	1
+sheltered bay	mwenda bay	1
+critical electrical parameter	mw	1
+program	mword	1
+program	mws	1
+monitor equipment parameter	mw	1
+network performance	mw network performance	1
+obsolete technology	mwembeshi satellite	1
+powerful and reliable security tool	mwl technology	1
+large mining house	mwana africa	1
+nordic center area	mwv ski touring	1
+school stuff	mw- one 	1
+xbox LIVE game	mw two 	1
+big constituences	mwinilunga east	1
+energy quantity	mwh	2
+organization	mwh global	1
+organization	mwp	1
+eutrophied hotspot area	mwanza gulf	1
+exploration firm	mwana africa	1
+innovative and futuristic technology	mwl technology	5
+nondegradable waste	mwc ash	1
+regional level organization	mwc	1
+SACCOs	mwalimu saccos	1
+wood-containing coated paper	mwc	1
+technique	mwd	2
+famous african figure	mwindo	1
+international diamond mining company	mwana africa plc	1
+legitimate public interest	mwr-related activity	1
+malawi's district	mwanza	1
+maychew dam parameter	mwl	1
+operator aggregate disparate datum source	mwd	1
+scp extension	mwl	1
+alternate spectral band	mwir	1
+energy purchase	mwd hydro	1
+FAA weather support system	mwp ii	1
+good video game	mw two 	1
+historic time	mwp	1
+iwth account	mwi vet	1
+large military watch	mwc	1
+letter id code	mwm	1
+matchings	mwm	1
+method purely statistical algorithm	mwf	1
+mid-size agency	mww group	1
+multiplayer	mw three 	1
+multi-spectral operation	mwir with the basic lwir flir	1
+pass-through fee	mwcc sac fee	1
+case	mw two 	1
+case	mwcnt treatment of aml twelve  cell 	1
+regional HSR plan	mwrrs	2
+standard military watch	mwc	1
+steamworks title	mw two 	1
+studio market	mwenge	1
+usage-based method	mw-mile method	1
+zeolite type	mww	2
+beautiful safe sandy beach	mwnt	1
+casual console game	mw two 	1
+efficently run window game	mw two 	1
+human-propelled breathing system	mw uba	1
+incorruptible exemplar	mwalimu julius nyerere	1
+group	mwsf	1
+group	mwr	1
+group	mwd advisors	1
+inland empire	mwene matapa	1
+interactive term	mws	1
+international research result	mwanza std trial result	1
+large temperature rise	mwp	1
+long-time superstar	mwo champion pure fury jeff clouse	1
+MWD system	mwd mud pulse telemetry system	2
+overseas gig	mwr tour in south korea	1
+piping design handbook	mw kellogg	1
+power-related suffix unit	mw	1
+quasi-public authority	mwra	1
+regional miners association	mwanza regional miners association	1
+regulatory unit	mwss regulatory office	1
+reliable, honest E-tailers	mwave	1
+system analog datum	mw	1
+thing macro'ed	mwc	1
+village setting	mwiyogo	1
+wales's best beach	mwnt	1
+tool	mwd tool	1
+tool	mwd telemetry tool	1
+project	mwr webpage project	1
+artist	mwnn	1
+artist	mwata bowden	1
+place	mwenga	1
+place	mweso road	1
+place	mwanza	1
+parameter	mw	2
+parameter	mw power level	1
+parameter	mw power mode	1
+system	mwcc	1
+system	mws	1
+concept	mwt	1
+component	mwd sensor	1

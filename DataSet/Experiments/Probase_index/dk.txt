@@ -1,0 +1,394 @@
+property	dk loss	1
+game	dkl three 	1
+game	dk sixty-four 	1
+game	dk jungle beat	1
+game	dkcr	1
+character	dk	3
+situation	dka	1
+institution	dkb	1
+client	dkny	5
+object	dk barrel	1
+feature	dkn & kids	1
+book	dk eyewitness book	1
+book	dk annotated guides	1
+business	dkny & foot locker	1
+band	dkcity's advance from china & taiwan	1
+venue	dkos	1
+firm	dkg buildcon	1
+mean	dkp	1
+song	dk bose	1
+team	dk yellow	1
+team	dkv joventut	1
+team	dkr engineering	1
+entity	dki	1
+country	dk	4
+feature	dkim	1
+variety	dk cabernet	3
+partner	dkny	1
+big name	dkny	3
+store	dkny	7
+store	dkny jeans	1
+customer	dkny	1
+label	dkny	13
+label	dkny underwear	1
+scheme	dkk	1
+designer	dkny	26
+designer	dkny for man	1
+color	dk blue	1
+competitor	dkw	1
+issue	dkba situation	1
+brand name	dkny	12
+addition	dk coins	1
+line	dkny	4
+producer	dk	1
+file	dkis file	1
+top brand	dkny	4
+space	dk spaces	1
+shop	dkny	1
+ability	dk's death coil	1
+large company	dkv	1
+charity	dkms	1
+popular brand	dkny	7
+collection	dkny	2
+specialist	dksh	1
+investor	dkr oasis	1
+city attraction	dkb-arena	1
+giant	dkny	1
+emergency	dkp freeze address rl emergency	1
+name brand	dkny	8
+developer	dk- fifty 	1
+reward	dk square resistance necklace	1
+move	dk's ground pound	1
+publisher	dk	4
+stressors	dka	1
+board	dk's treetop temple	1
+board	dk's stone statue	1
+local group	dk three 	1
+campaign	dkny	2
+peripheral	dk bongo	1
+famous brand	dkny	1
+variant	dkk for the danish krone	1
+heavyweight	dk	1
+adverse event	dka	1
+blogs	dkos	1
+well-known brand	dkny jeans	1
+well-known brand	dkny	1
+international brand	dkny	3
+stage	dk sixty-four  on random 	1
+guide	dk watcher travel	2
+guide	dk eyewitness travel	2
+guide	dk guide	1
+big brand	dkny	6
+government	dk	1
+leading company	dkw bank	1
+peripheral device	dkadmin maintenance pc	1
+great brand	dkny	1
+cultivars	dkc  seventy-seven - sixty-one b 	1
+fragrance	dk men cologne on sale	1
+global brand	dkny	1
+designer brand	dkny	8
+designer brand	dkny jeans	1
+popular game	dk	1
+leading brand	dkny	4
+contentious issue	dkp	1
+tragedy	dklahoma city bombing	1
+top designer	dkny	2
+luxury brand	dkny	1
+top name brand	dkny available in the cathedral quarter	2
+top name brand	dkny	1
+best brand	dkny	2
+classic game	dkc	1
+boutique	dkny	1
+weight	dk	1
+ester	dk esters	1
+member state	dk	1
+watch	dkny	1
+watch	dkny watch	1
+designer label	dkny	8
+designer label	dkny jeans	1
+good brand	dkny	1
+disease process	dka	2
+big name brand	dkny	1
+human disease	dkc	1
+membrane	dk	1
+membrane	dk from ge	1
+big brand name	dkny	1
+International NGOs	dkt international	1
+stadium	dk jungle	1
+prestigious client	dkny	1
+designer name	dkny	5
+advertisement	dkny perfume ad	1
+fashion brand	dkny	2
+dark color	dk blue	1
+dark color	dk green	1
+art gallery	dk gallery	1
+fashion house	dkny	1
+clothing brand	dkny	1
+great master	dkp	1
+stocking brand	dkny	2
+strong brand	dkny	5
+strong brand	dkny watch	1
+world famous brand	dkny	1
+branded item	dkny	1
+service	dk loudspeakers	1
+famous brand name	dkny	1
+german company	dkw	1
+well-known designer	dkny	1
+international designer	dkny	1
+fantastic feature	dk tsuka grip	1
+fashion label	dkny	1
+fashion label	dkny jeans	1
+affordable and high-end frame	dkny	2
+big client	dkny	1
+designer line	dkny	1
+perfume	dkny	2
+great designer	dkny	1
+armed group	dkba	1
+antibacterial agent	dkb	1
+top designer brand	dkny	1
+guidebook	dk eyewitness	2
+third party product	dkny jeans	1
+clothing company	dkny	1
+mainstream brand	dkny	1
+high profile brand	dkny	1
+salon	dk salon	1
+disease entity	dka	1
+designer item	dkny	2
+outlet store	dkny	1
+designer store	dkny	3
+fashion show	dkny	1
+sunglasses	dkny sunglasses	1
+classic brand	dkny	1
+high-end store	dkny	1
+jewel tone	dk blue	1
+designer frame	dkny	1
+designer watch	dkny watch	1
+acute complication	dka	4
+fantastic brand	dkny	1
+popular designer	dkny	1
+tumor suppressor gene	dkk three 	1
+fashion company	dkny	1
+designer clothes	dkny	2
+company	dkny	7
+company	dksh	2
+company	dk	2
+design company	dkny	1
+great name brand	dkny	2
+grassroots effort	dkos	1
+company	dkg buildcon	1
+company	dkv	1
+company	dksh india	1
+MS	dk	1
+acute event	dka s	1
+big name retailer	dkny	1
+branded watch	dkny	6
+book publisher	dk	1
+cooldowns	dk amz	1
+best brand name	dkny	1
+brand watch	dkny	1
+local artisan	dkco jewelry	1
+strong character	dk	1
+branded shoe	dkny	1
+famous designer brand	dkny	3
+perfume brand	dkny delicious	2
+perfume brand	dkny	1
+designer sunglasses	dkny	1
+popular designer brand	dkny perfume	2
+designer shoe	dkny	1
+powerful character	dk	1
+american retailer	dkny	1
+runway	dkny	1
+european currency	dkk	2
+brand label	dkny	1
+treasured item	dkny scuba	1
+signature brand	dkny	1
+featured designer	dkny	1
+successful economy	dk	1
+high profile designer	dkny	1
+reach	dk reach	1
+year handbag	dkny	1
+branded handbag	dkny	1
+designer fashion	dkny	1
+normal form	dknf	1
+watch maker	dkny	2
+jewelry brand	dkny	1
+sought-after brand	dkny	1
+wholesale brand	dkny jean	2
+wholesale brand	dkny	1
+adhesive product	dk film	1
+designer brand bag	dkny	1
+good guidebook	dk eyewitness	1
+hip brand	dkny jean s	1
+neutral accessory	dkny mauve clutch	1
+branded apparel	dkny	2
+german marque	dkw	1
+mainstream name	dkny	1
+fashion watch	dkny	1
+popular watch brand	dkny	1
+second-tier brand	dkny	1
+benevolent society	dkg	1
+big corporate brand	dkny	1
+fish market	dk in austin	1
+modern shop	dkny	1
+designer suit	dkny	1
+large research institution	dkfz	1
+lifestyle store	dkny in new york	1
+secondary research source	dk shiflett for spending amount	1
+luxury watch giant	dkny	1
+point system	dkp	1
+top end retailer	dkny	1
+western designer	dkny	1
+cast name	dkny	1
+electromechanical product	dk series of wedm	2
+fabulous vendor	dkt saddlery	1
+great designer brand	dkny	1
+original branded watch	dkny	3
+upscale company	dkny	1
+atlases	dk world atlas	1
+high-end fashion brand	dkny in korea	1
+hottest international brand	dkny	3
+trendy shoe	dkny	1
+awesome label	dkny	1
+biggest fashion house	dkny	1
+densely populated province	dki jakarta	1
+designer sun glass	dkny	1
+exclusive party	dkny belvedere fashion meets music preview party	1
+famous designer fragrance	dkny	1
+high-end designer shoe	dkny	1
+international distributor	dksh	1
+name designer	dkny for tot	1
+program	dk scripting tool for dungeon keeper	1
+season designer	dkny	1
+wnt antagonist gene	dkk three 	1
+biggest watch brand	dkny	1
+contemporary fashion watch	dkny	7
+designer brand watch	dkny	1
+differen't game	dk  three 	1
+differen't game	dk jr.	1
+international branded fragrance	dkny	2
+tax consultancy service	dk tax consulting	1
+classic nintendo character	dk	1
+design team	dkny	1
+designer brand name clothes	dkny	1
+great name designer lady watch	dkny	1
+great name designer watch	dkny	1
+hpsc marker	dkk one 	1
+integrable hierarchy	dkp	1
+liz claiborne's retail company	dkny	1
+movie element	dk's joker	1
+perfume maker	dkny	1
+organization	dkt international	2
+organization	dk	2
+thread stock designer brand	dkny	1
+tob brand	dkny	1
+top designer clothes brand	dkny	1
+wanted brand	dkny	1
+wnt antagonist	dkk one 	1
+buy handbag	dkny	1
+disk defragmenter	dk lite	1
+organization	dkt in the philippines	1
+organization	dkn financial group	1
+organization	dkt philippines	1
+organization	dkba	1
+famous product name	dkw	2
+good arcade game	dk	1
+good price	dkny quilted leather tote	1
+growth-promoting gene	dkk one 	1
+high fashion brand name	dkny	1
+mid-range item	dkny	1
+pocket battleship	dkm graf spee	1
+raid task	dkp management	1
+slick designer store	dkny	2
+top designer frame	dkny	1
+apparel brand name	dkny	1
+dazzling accessory	dkny watch	1
+exclusive clothing designer	dkny	1
+fashion forward brand	dkny	1
+high profile designer label	dkny	1
+high-end mixed brand name	dkny	1
+hip designer fashion	dkny	1
+loot system	dkp	2
+medical lamp	dkk lamp	1
+popular eyeglass brand	dkny	1
+rareware title	dk sixty-four 	1
+seasonal trendy brand name item	dkny	1
+standard weight	dk	1
+vocal and instrumental artist	dk pattammal	1
+women's designer shoe	dkny	2
+age-related methylation gene	dkk one 	1
+AoE	dk death	1
+british, european and american make	dkw	2
+name	dkny	6
+demonstrating title	dk's the concise human body	2
+designer diffusion brand	dkny	1
+dowsing rod	dkl locater	1
+endogenous wnt inhibitor	dkk one 	1
+european card option	dkv	1
+famous brand fashion	dkny	1
+name	dk	1
+name	dkt-mc five 	1
+good historical reference work	dk mesopotamia	1
+grown-up designer	dkny	1
+independent issuer	dkv	1
+international premier fashion brand	dkny	1
+name	dk chemicals	1
+local country pool	dk.pool.ntp.org	1
+non-british company	dkw	1
+now-unobtainable armor set	dk starter gear	1
+case	dkny fragrances	1
+case	dkny perfumes	1
+premier label	dkny for choice	1
+raiding guideline	dkp rule	1
+urban clothing brand	dkny	1
+well-known structured overlay network	dks	1
+wide-legged pant	dkny's white linen pant	1
+wnt pathway antagonist	dkk one 	1
+activist setting	dkos	1
+acute phase	dka	1
+challenging film	dk	1
+diffusion designer label	dkny	1
+driss's signature creation	dk martini	1
+group	dk	1
+expensive denim brand	dkny jeans	1
+fuel card operator	dkv	1
+glass bead jewelry artist	dk designs.biz	3
+global foodservice star	dke dinnerware	1
+High-order diffusion approach	dki	1
+High-order diffusion imaging	dki	1
+huge fashion brand	dkny	1
+indiana jones reference book	dk ultimate guide	1
+group	dk working group	1
+group	dkp	1
+intertel axxess card	dksc  eight 	1
+intervallic tunings	dkk- twelve  examples on the tunings page 	1
+LEADING fashion retailer	dkny	1
+loot distribution system	dkp	1
+loot policy	dkp	1
+looting system	dkp	1
+n.european country	dk	1
+obscure make	dkw	1
+plan team	dkny	1
+rootkit technique	dkom	1
+scientific encyclopedia	dk science encyclopedia	1
+sumptuous color series	dk s	1
+thin film nanofiltration membrane	dk	4
+top fragrance designer	dkny	1
+Toshiba Digital phone equipment	dkt  two thousand   series phone 	1
+used-car dealership	dk auto sales	2
+women's DKNY fashion	dkny jeans for woman	1
+project	dk-king of swing ds	1
+project	dk sixty-four  kiosk restoration 	1
+artist	dkun frost	1
+place	dkos	1
+player	dk khalilah pg anak abd rahman playing center	1
+player	dk kiana pg anak abd rahman	1
+system	dkp	1
+device	dks- ninety-six 	1
+brand	dkny	100
+brand	dkny jeans	4
+brand	dkny golf	1
+brand	dkw	1
+brand	dkcity's advance from china	1
+brand	dk book	1
+concept	dkom	1
+site	dkos	2

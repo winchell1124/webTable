@@ -1,0 +1,665 @@
+product	s-h mixture	1
+accessory	s-parameter test sets	1
+datum	s-bus configuration	1
+datum	s-wave velocity measurement	1
+resource	s-bus configuration	1
+source	s-video input	1
+subject	s- fifty-seven   three . one . one 	1
+model	s-p-s tester	2
+model	s-class	1
+model	s-curve i	1
+characteristic	s-quartz morphology	1
+word	s-word	1
+strategy	s-bases algorithm	1
+effect	s-factor improvement	2
+mechanism	s-nytrosilation of caspases	1
+feature	s-curve acceleration profile	2
+business	s-corp	1
+ingredient	s-adenosylmethione	1
+agent	s- one 	1
+agent	s-adenosylmethionine	1
+feature	s- ten  ls zr- two 	1
+feature	s- one  switching control 	1
+feature	s-video output	1
+development	s-digital multimedia broadcasting	1
+type	s-parameter method	1
+type	s-ips	1
+drug	s-phase-specific cytotoxic drug	1
+drug	s-adenil methionine	1
+instrument	s-parameter measurement instrument	1
+feature	s-line exterior package	1
+feature	s-curve patented zipper technology	1
+feature	s- ten  ls 	1
+feature	s-noise	1
+setting	s-video	1
+setting	s-meter level	1
+compound	s-allyl cysteine	3
+compound	s- thirty-five  methionine 	2
+compound	s-adenosylhomocystine hydrolase inhibitor	1
+innovation	s-fdb technology	2
+innovation	s- three - one -e- three  various innovation 	1
+substance	s- one hundred 	1
+entity	s-cscf	1
+entity	s-corporation	1
+feature	s-curve velocity profile	1
+feature	s-class safety feature	1
+medication	s-called salicylic medication	1
+medication	s-adenosyl-methionine	1
+format	s-vhs	4
+format	s- fifty-seven 	1
+format	s-video	1
+standard	s-video	3
+standard	s- fifty-seven 	1
+standard	s- one hundred 	1
+market	s- seventeen  table of contents the united states 	1
+vehicle	s- fifteen  pick-up truck 	2
+vehicle	s-class	1
+behavior	s-shaped growth	1
+chemical	s-adenosylmethionine	1
+software	s-plus	2
+asset	s-corporation stock	1
+destination	s-gravenhage	1
+party	s-vox group of companies	1
+protein	s-adenosylmethionine synthetase	1
+pattern	s-o-v	1
+pattern	s-v-o	1
+pattern	s-curve	1
+line	s- twenty-four 	1
+line	s- twenty-three 	1
+channel	s-http	2
+functionality	s-parameter computation	1
+therapy	s-adenosylmethionine	1
+algorithm	s-spline	1
+series	s- fourty-one 	1
+series	s- thirty-six 	1
+series	s- thirty 	1
+car	s-class	1
+theory	s-expressions	1
+protocol	s-mac	1
+protocol	s-http	1
+molecule	s-adenosylmethionine	1
+plan	s- thirty-nine  certain employee benefit plan 	1
+upgrade	s-line exterior for premium	1
+account	s-fone	1
+standard feature	s-drive servo driven operation	4
+standard feature	s-drive servo-driven operation	2
+supplement	s-adenosylmethionine	3
+supplement	s-adenosyl methionine	2
+input	s-video	12
+input	s-video in case	1
+shape	s-shapes	1
+sponsor	s-g ssb	1
+target	s-function target	2
+gene	s-cms	1
+time	s-i one  ignition 	1
+safety feature	s-class safety feature	1
+suspect	s-video	1
+fruit	s-sweet  exotic fruit	1
+marker	s- one hundred  protein 	4
+marker	s- one hundred 	2
+goodie	s-ayc	2
+aircraft	s- three  vikings 	1
+hit	s- ninety  skank 	1
+reaction	s-alkylation	2
+family	s-owawa	1
+enzyme	s-adenosylmethionine cytosolic enzyme	1
+enzyme	s-aminoacid oxidase	1
+enzyme	s-adenosylmethionine decarboxylase	1
+selection	s-video	1
+framework	s-curve	2
+port	s-video	4
+port	s-video out port	1
+key feature	s-video tv-out	3
+key feature	s-layer	1
+interface	s-video port	1
+software package	s-plus	1
+certification	s-mark	1
+constituent	s-allyl cysteine	1
+variant	s- four hundred 	1
+variant	s-ips	1
+instruction	s- six 	1
+interesting feature	s-tronic transmission	1
+output	s-video	2
+fiber	s-glass	1
+connection	s-video	4
+connection	s-video output	1
+connection	s-video input	1
+diagnostic test	s- one hundred 	1
+item	s-phase fraction analysis	1
+item	s-shaped tubing	1
+item	s-line variation front splitter	1
+nickname	s-line	1
+antioxidant	s-adenosylmethionine	1
+derivative	s-class	1
+designation	s- one  on epa document 	2
+zone	s- ten 	1
+zone	s- eleven 	1
+basic tool	s-i-p-o-c diagram	1
+key parameter	s-parameters	1
+innovative technology	s-tronic dual-clutch transmission	1
+input device	s-vhs	1
+light	s-mini	1
+item	s- seventy a blackhawk 	1
+stain	s- one hundred  protein 	1
+prognostic factor	s-phase fraction	1
+alcohol	s-butyl alcohol	1
+connector	s-video	4
+connector	s-video connector	4
+plane	s- three  viking 	7
+cable	s-video cable	3
+cable	s-video	2
+cable	s-vga monitor	1
+advanced concept	s-parameters	1
+dietary factor	s-amino acid	1
+marking	s- three 	1
+marking	s- one 	1
+nutritional supplement	s-adenosyl-methionine	1
+dietary supplement	s-adenosylmethionine	1
+subgroup	s-domain	1
+metabolite	s-adenosylmethionine	1
+agonists	s-dependent  adenylatecyclase stimulatory agonists	1
+traditional measure	s-paramics system report traditional measure	1
+antibody	s- one hundred 	2
+advanced option	s-video	1
+travel spot	s-gravenhage	1
+diagnostic technique	s-t segment analysis	1
+established company	s- seven  large and established company 	1
+truck	s- ten 	1
+medium source	s-video	1
+natural supplement	s-adenosylmethionine	1
+trade name	s- five hundred and fourty-one 	1
+insert	s-video	1
+radionuclides	s- thirty-five 	1
+comfort feature	s-shaped padded shoulder strap	1
+radio	s- six 	1
+radio	s- nine 	1
+potential issue	s-corp expense	1
+importer	s-mart	1
+simple feature	s-video	1
+isotope	s- thirty-five 	3
+isotope	s- ninety 	1
+top act	s-range	1
+prison	s- twenty-one 	1
+simulator	s-parameter	1
+shot	s- three hundred and thirty 	1
+high profile project	s-class	1
+primitive	s-boxes	1
+analog	s-adenosyl homocysteine	1
+business entity	s-corporations	2
+amp	s- fourty 	1
+bead	s-shaped polystyrene bead	1
+connectivity option	s-video	2
+connectivity option	s-video mini din port	1
+mathematical model	s-shaped curve	1
+exotic fruit	s-sweet  exotic fruit	1
+video source	s-vhs vcrs	1
+conventional system	s-wave superconductor	1
+radioisotope	s- thirty-five 	1
+arterial road	s- fourteen 	1
+yeast	s- thirty-three 	1
+display technology	s-ips	1
+tumor marker	s- one hundred  protein 	1
+tumor marker	s- one hundred 	1
+primer	s- seven 	1
+standard facility	s-video	1
+biochemical marker	s- one hundred  protein 	2
+oral agent	s- one 	1
+interpreter	s-plus	1
+elastic material	s-c base	1
+biological characteristic	s-phase population	1
+helicopter	s- seventy-six 	1
+hardware feature	s-bus support	1
+serum marker	s- one hundred 	1
+level course	s- one hundred and thirty 	1
+bed	s-class	1
+business form	s-corporation	1
+connectivity feature	s-video	1
+domestic player	s-tel	1
+security protocol	s-mime	1
+topic	s-drills	1
+well-known client	s-bahn berlin gmbh	1
+expensive model	s-class	1
+pickup	s- ten 	1
+measurement instrument	s-parameter measurement instrument	1
+refiner	s-oil	1
+audio feature	s-force front surround	1
+connection method	s-video	1
+passive method	s-parameter measurement	1
+simulation result	s-parameters	1
+cytotoxic drug	s-phase-specific cytotoxic drug	1
+anticancer agent	s- one 	1
+input source	s-video	1
+good source	s-vhs	1
+topic	s-block element	1
+topic	s-http	1
+resilient member	s-shaped spring	2
+design information	s-parameters	1
+posttranslational modification	s-nitrosylation at different sites of enos protein	1
+rocket	s- three hundred and ten 	1
+transport service	s-bahn berlin	1
+standard issue	s-video connector	1
+payload	s-band transponders for the japanese htv unmanned supply spacecraft	1
+filing	s- four 	2
+expensive car	s-class	1
+commercial software package	s-plus	1
+immunohistochemical marker	s- one hundred  protein 	4
+immunohistochemical marker	s- one hundred 	2
+video signal	s-video	5
+network entity	s-cscf	1
+statistical package	s-plus	1
+powerful move	s-bend pass	1
+alkyl	s-butyl	2
+company	s- seven  large and established company 	1
+natural approach	s-adenosylmethionine	1
+measurable quantity	s-parameters describing the return loss	1
+reinforcement material	s-glass	1
+business structure	s-corp.	1
+nutritional component	s-adenosyl-methionine	1
+regular report	s-curves	2
+creative feature	s-log gamma mode	4
+cost function	s-shaped cost function	1
+graphical display	s-curve	1
+frequency band	s-band	1
+statistical software	s-plus	1
+statistical software package	s-plus	2
+collateral duty	s- six  chief 	1
+hammer	s- two hundred 	1
+growth model	s-curve	1
+immunohistochemical stain	s- one hundred 	5
+immunohistochemical stain	s- one hundred  protein 	1
+synthetic wax	s- four hundred  n one .rtm 	1
+connectivity port	s-video input	1
+secure protocol	s-http	2
+class feature	s-class touch ui	1
+prestige vehicle	s-class	1
+radar	s- three hundred 	1
+small truck	s- ten 	1
+statistical program	s-plus	1
+beneficial compound	s-adenosylmethionine	1
+diagnostic program	s-o-s fluid analysis	1
+popular supplement	s-adenosyl-l-methionine	1
+south korean company	s-oil corp	1
+pass-through entity	s-corporation	2
+factor	s-r compatibility	1
+european competitor	s-bahn berlin gmbh	1
+potent agent	s- one 	1
+transistor parameter	s-parameters	1
+dielectric fluid	s-fluids	1
+kinematic indicator	s-c fabric	5
+kinematic indicator	s-c fabrics in the cataclasites	1
+analog input	s-video	2
+movie format	s-video	1
+nonlinear function	s-boxes in des	1
+output type	s-video	1
+fabric element	s-c composite planar fabric	1
+standard input	s-video	4
+letter combination	s-t s-p	1
+macromolecular structure	s-layer	1
+proliferation marker	s-phase fractions determined by flow cytometry	1
+connection port	s-video	1
+oil refiner	s-oil	1
+CDMA operator	s-fone	1
+video option	s-video inputs found on dell's  twenty-four -inch offering 	1
+steel type	s- seven 	1
+Synergists	s- four hundred and twenty-one 	1
+defensive system	s- three hundred  missile 	2
+good effect	s-factor improvement	1
+industry standard product	s-video	1
+name-brand item	s-k hand tools	1
+Naval aircraft	s- three  viking 	1
+Nitrovasodilators	s-nitrosothiols	1
+downloadable form	s-bis  six hundred and twenty-four 	1
+heat protection spray	s-factor spray	1
+low energy beta emitter	s- thirty-five 	6
+video input	s-video	1
+calcium-binding protein	s- one hundred 	2
+legacy interface	s-video	1
+traditional protocol	s-aloha alongside a channelized architecture	1
+transient ECG change	s-t segment depression	10
+transient ECG change	s-t depression	2
+audio-video product	s-video	1
+black spot	s-bend at hungry head	1
+clinico-pathological parameter	s-phase fraction	1
+encryption program	s-mime	1
+public insurance program	s-chip	2
+red herring	s-content in the oil	1
+phosphine ligands	s-phos	1
+small SUV	s- ten  blazer gmc jimmy 	1
+video cable	s-video cable	4
+video cable	s-video	1
+video cable	s-video cables used in home entertainment center	1
+antifibrinolytic drug	s-aminocaproic acid	2
+output interface	s-video	1
+physical -observable	s-matrix	1
+RF parameter	s-parameters	2
+digital connection	s-video	1
+government run program	s-chip	1
+mercedes model	s-class	2
+myoepithelial marker	s- one hundred 	2
+satellite technology	s-dmb	1
+advanced format	s-vhs	1
+critically-acclaimed film	s- twenty-one 	1
+input feature	s-video	1
+magnetic tape	s-vhs tape	2
+pharmaceutically important compound	s-naproxen	2
+pharmaceutically important compound	s-ibuprofen	2
+pharmaceutically important compound	s-fluorobiprofen	2
+pharmaceutically important compound	s-suprofen	2
+pharmaceutically important compound	s-tiaprofenic acid	2
+pharmaceutically important compound	s-ketoprofen	2
+pharmaceutically important compound	s-indoprofen	2
+C1-C6 alkyl	s-butyl	1
+common tool steel	s- seven 	2
+entitlements	s-chip	1
+glass fiber	s-glass	5
+natural -therapeutic	s-adenosyl-methionine	1
+program	s-plus	2
+others device	s-type load cell	1
+video connection	s-video	2
+audio-video environment	s-video	3
+central heating system	s-plan	1
+french tank	s- thirty-five 	1
+lisp feature	s-expressions	1
+neural marker	s- one hundred  protein 	1
+neural marker	s- one hundred 	1
+standard statistical package	s-plus	2
+chiral compound	s-propylene oxide	1
+compact truck	s- ten 	1
+encrypted file format	s-mime file	1
+extensive connectivity option	s-video	2
+flip-flop	s-r flip-flop	1
+histochemical and immunohistochemical technique	s- one hundred  protein 	1
+lug car	s- ten 	1
+monitor type	s-video	1
+oxidative molecule	s-nitrosothiols	1
+port type	s-video port	1
+seismic wave	s-waves	1
+serotonin modulator	s-adenosylmethionine	1
+shear-sense indicator	s-c fabric	1
+anchoring protein	s-layer protein	1
+anti-fibrinolytic agent	s-amino caproic acid	1
+cointegration test	s-l cointegration test	1
+conventional photocathode	s- one 	1
+conventional photocathode	s- twenty  type photocathodes 	1
+external connector	s-video tv-out	1
+function form	s-shaped curve	2
+Glucosinolates	s-methyl cysteine sulphoxide	1
+mainstay feature	s-force front surround	1
+milk drink	s- twenty-six  gold toddler 	1
+oral fluoropyrimidines	s- one 	7
+oxidative modification	s-nitrosylation of hif	1
+pass-through business entity	s-corporation	1
+scientific and statistic package	s-plus	1
+TV output mode	s-video	3
+video output	s-video	2
+analog datum signal	s-video signal	1
+analog-based standard	s-video	1
+co2-free hydrogen production process	s-i cycle	1
+common signal format	s-video	1
+defense related enzyme	s-adenosyl-l-methionine synthase	1
+digital clear audio technology	s-master digital amplifier	1
+expansion bus	s-bus	1
+free hydrogen production process	s-i cycle	1
+immunomarkers	s- one hundred 	1
+interleavers	s-random interleaver	1
+local oil company	s-oil corp.	2
+modern helicopter	s- ninety-two 	1
+multifocals	s- ten 	1
+popular connector	s-video for the dvd	4
+popular industrial format	s-vhs	1
+organization	s-corporation	1
+powerful interactive analytic tool	s-plus	1
+reinforcing additive	s-glass	1
+SAMs	s- one hundred and twenty-five 	2
+short half-life isotope	s- thirty-five 	2
+statistical and econometric package	s-plus	1
+superfine structure	s-fet product range by siemens	1
+S-VIDEO signal source	s-vhs camcorder	1
+S-VIDEO signal source	s-vhs vcr	1
+traditional connection	s-video	1
+TV output	s-video	1
+vertical-axis system	s-rotor type savonius type system	3
+analog tape	s-vhs tape	1
+analog video cable	s-video	1
+analysis component	s-parameter	3
+aromatic ether	s-trioxane	1
+brain protein	s- one hundred  protein 	1
+chicago tool manufacturer	s-k tools	1
+common cable	s-video	1
+common derivative financial instrument	s- twelve  interest rate swap 	1
+common UPRIGHT machine	s- nineteen 	1
+complementary and alternative medicine agent	s-adenosylmethionine	1
+conventional hanger	s-shaped hanger	1
+corporate financial filing	s- one 	1
+correction setting	s-parameter correction	1
+ESTIMATION software package	s-plus	1
+extended video product	s-video	1
+format variation	s-vhs	1
+high-resolution video source format	s-vhs	1
+IMO new mercedes-benz model	s-class	1
+inner laminate material	s-glass	1
+interleaver variant	s-random interleaver	1
+medicinal, nutraceutical and botanic extract	s-adenosylmethionine	2
+mercedes-benz variant	s-class	1
+midsize truck	s- ten 	1
+model luxury car	s-class mercedes	2
+modern statistical package	s-plus	1
+novel anticancer drug	s- one 	2
+oral 5-FU prodrugs	s- one 	1
+premium sedan	s-class	1
+rear jack	s-video	1
+satellite communication	s-band	1
+scale track	s-helper service track	1
+SD video input	s-video	1
+soft beta emitter	s- thirty-five 	1
+standard tool material	s- seven 	1
+sulfur isotope	s- thirty-three 	1
+sulfur isotope	s- thirty-four 	1
+sulfur isotope	s- thirty-two 	1
+superior audio enhancement	s-force surround	1
+swept measurement datum	s-parameter curve	1
+today's important measurement	s-parameters	1
+transcription elongation factor	s-ii	1
+ubiquitous kinematic indicator	s-c fabric	1
+universally applicable video input	s-video	1
+video extension product	s-video	2
+advanced scanner	s- eleven  from fotona 	2
+analog video-out option	s-video	1
+analogue input	s-video	1
+BW application	s-parameters	1
+classical analytical tool	s-n curve	1
+Cofactor-dependent and enzymatically active pro-drugs	s-nitrosothiols	1
+complementary and alternative medicinal agent	s-adenosylmethionine	2
+correct cable	s-video	1
+detailed progress information	s-curve	1
+display characterization method	s-curve model	1
+distinct video signal	s-video	1
+electron-rich, bulky biphenylphosphine ligands	s-phos	1
+esoteric setting	s-video auto-detect	1
+exemplar deluxe automobile	s-class mercedes	1
+extensive fundamental datum	s-parameter	1
+fecal marker	s- one hundred  protein 	1
+first helicopter	s- fifty-one 	2
+generation cytotoxic agent	s- one 	2
+GM truck application	s- ten 	1
+ground-reference maneuver	s-turns across a road	1
+growing-up milk	s- twenty-six  gold toddler 	1
+hepatoprotective agent	s-adenosylmethionine	1
+high volume radioisotope	s- thirty-five 	1
+high-band format	s-vhs	1
+higher-end cable	s-video	1
+high-quality output	s-video for video	1
+historical corsetry style	s-curve edwardian	1
+inventory control policy	s-q models	1
+large SAMS	s- four hundred 	1
+level NWCG course	s- one hundred and thirty 	1
+case	s-vhs	1
+case	s-layers from deinococcus radiodurans	1
+macroscopic result	s-parameters	1
+modern SAM system	s- four hundred  sams 	1
+modern statistical software package	s-plus	1
+multimedia port	s-video	1
+mundane source material	s-vhs	1
+ne-directed kinematic indicator	s-c fabric	1
+nervous system protein	s- one hundred 	1
+nice output option	s-video	1
+no-dependent signal	s-nitrosylation of inhibitory kappa b kinase	1
+non-copy protected analog interface	s-video	1
+non-plastic fiber	s-glass	1
+non-riemannian quantity	s-curvature	1
+oral 5-FU derivative	s- one 	1
+oral F	s- one 	1
+peculiar acronym	s-corp	1
+phase-zero short circuit	s- zero 	1
+case	s- one 	1
+case	s- two 	1
+case	s-triazine herbicide	1
+powerful statistical software	s-plus	2
+preparation various polymer	s- fourty 	1
+public club	s-sig club	1
+quality sugar grade	s- thirty 	1
+rate-based autopilot	s-tec	1
+registration statement	s- one 	2
+registration statement	s- three 	1
+root-finding procedure	s-plus function uniroot	1
+SARMs	s- four 	1
+SARMs	s- one 	1
+scythe fan	s-flex	1
+session control component	s-cscf	1
+short half life material	s- thirty-five 	1
+simple and complex function form	s-shaped curve	1
+small vietnamese mobile network provider	s-fone	1
+small-business corporation	s-corporation	1
+s-nitroso protein	s-nitroso hemoglobin	1
+s-nitroso protein	s-nitroso serum albumin	1
+south korean oil company	s-oil corp.	1
+standard definition output	s-video	1
+option	s-video	2
+tax entities	s-corps	1
+video auxiliary input	s-video	1
+abnormal magnetic property	s-shape hysteresis loop	1
+advanced SAMs	s- three hundred 	1
+alicyclic ether	s-trioxane	1
+alternate video cable	s-video	1
+anti-aircraft system	s- three hundred 	1
+axle-back system	s-type	1
+option	s-line sport pkg	1
+option	s-adenosyl methionine	1
+biological nitric oxide adducts	s-nitrosothiols	1
+cell cycle checkpoint	s-phase checkpoint	1
+cochlear neural element	s- one hundred 	1
+common interface connector	s-vhs	1
+complex proteinaceous surface structure	s-layer	1
+Conventional immunomarkers	s- one hundred  protein 	3
+decade high-tenacity fiber	s-glass	1
+desintegrated tissue S-alkyl cysteine sulfoxides	s-methyl-l-cysteine sulfoxide	1
+DPD inhibitory fluorouracil	s- one 	1
+dynamic range compression curve	s-curve	1
+electric circuit parameter	s-parameters	1
+Enterprise hardware	s-ata drive	1
+Eschewing analog legacy cabling	s-video	1
+famous curve	s-curve	1
+fire behavior course	s- one hundred and ninety 	1
+fortified growing-up milk	s- twenty-six  progress gold 	5
+forward transmission parameter	s-parameter s twenty-one 	1
+frequency domain model	s-parameters	1
+frequency-dependent accurate model	s-parameter model obtained with  three -d full wave em simulator 	1
+gain related criterion	s-shaped filter	1
+garlic component	s-allyl cystein	1
+glass cloth	s-glass	2
+good panel type	s-pva	1
+helicopter model	s- seventy 	1
+heterodyne format	s-vhs	1
+high end hardware firewall	s-box	1
+high performance autopilot	s-tec system  fifty-five x 	1
+high resolution sequence	s-cif used for instance in hdtv	1
+immunohistochemical feature	s- one hundred  protein 	1
+input source connection	s-video	1
+ISA reference standard	s- eighty-eight 	1
+issue number	s- four 	1
+large, diverse superfamilies	s-adenosyl methyltransferases	1
+low energy alternative	s- thirty-five 	1
+M&K speaker	s- eighty-five 	1
+microsimulation model	s-paramics  three 	1
+MIMD multiprocessor	s- one 	1
+Modeling withdierential equation	s-system	1
+modern soviet SAM system	s- two hundred ve vega 	1
+MWD project component	s- three hundred and fifty-five  structure 	1
+NO-dependent posttranslational modification	s-nitrosylation of protein	1
+non-component feed	s-video	1
+nonlinear differential equation model	s-system	1
+non-linear differential equation model	s-system	1
+method	s-n diagram	3
+method	s-wave	1
+nucleosynthesis process	s-process	1
+one-step engine cleaner	s- one hundred  total cycle cleaner 	2
+Oral 5-FU	s- one 	1
+plot RF datum	s-parameters	1
+pre-named input	s-video	1
+present-generation signal	s-video	1
+protein fatty acylations	s-palmitoylation	1
+reverse reflection parameter	s-parameter s twenty-two 	1
+reverse transmission parameter	s-parameter s twelve 	1
+rival helicopter	s- seventy-six 	1
+RWD application	s- ten 	1
+S-100 homebrew PCBs	s- one hundred  backplane 	1
+S-acetyl mercapto-substituted anhydride	s-acetyl mercaptosuccinic anhydride	1
+s-alkyl derivative	s-n-hexyl compound	1
+sd-geometry video source	s-vhs vcr	1
+second satellite band	s-band	1
+secondary cell wall polymer	s-layer protein	1
+secure web-related technology	s-http	1
+method	s-phenylmercapturic acid	1
+semi-professional equipment	s-vhs vcr	1
+session handling entity	s-cscf	1
+small signal simulation	s-parameter analysis	1
+soluble eutectic phase	s-phase	2
+sonar&infrared radar	s- three hundred 	1
+spiral-shaped feature	s-shaped gas in mea ninety-five 	1
+spring biasing mechanism	s-shaped spring	1
+STEM scholarship program	s-stem program funded by the national science foundation	1
+strategic air defense missile system	s- seventy-five 	1
+subcellular human intestinal fraction	s- nine  fraction 	2
+sufficient localized tracking method	s- three 	1
+sulfur-containing functional group	s-nitrosothiols	1
+surface linguistic error	s-v agreement	1
+today's modem higher performance helicopter	s- seventy-six 	1
+today's modem higherperformance helicopter	s- seventy-six 	1
+Top-of-the range Mercedes	s-class	1
+tunning device	s-afc ii	1
+typical manifold datasets	s-curve	1
+typical stealthy trick	s-curves in the engine air intake	1
+unknown network parameter	s-parameters	1
+vector measurement technique	s-parameters	2
+VHS subformats	s-vhs	1
+well-developed shear sense indicator	s-c structure	1
+wrist brace	s-one damage control wrist guard	1
+project	s-curve straightening	1
+artist	s-express	1
+material	s- seven 	2
+material	s-glass	1
+place	s- twenty-one 	1
+player	s-league player of the year	1
+product	s-s tableware	2
+product	s-shap slim	2
+product	s-derivatives of phytochelatins	2
+technology	s-video orcomponent video	1
+term	s-number	1
+parameter	s-protein level	1
+parameter	s-parameters of a transistor	1
+parameter	s-fibrinogen level	1
+parameter	s-wave splitting parameter	1
+parameter	s-wave scattering length	1
+system	s- three hundred  series 	1
+measure	s-paramics system report traditional measure	1
+product	s-adenosylmethionine	1
+variable	s-controlled adjustment procedure	1
+function	s-shaped cost function	1
+function	s-band downlink	1
+device	s-shaped hook	1
+device	s-hooks on swing	1
+device	s-video	1
+concept	s-domain	1
+component	s-iga agglutinate microorganism	1
+component	s-function	1
+site	s- twenty-five 	2

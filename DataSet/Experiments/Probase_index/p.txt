@@ -1,0 +1,7 @@
+character	p	2
+mode	p	1
+letter	p	2
+name	p	1
+true lower case letter	p	1
+italian consonant	p	1
+profile indicator	p	1

@@ -1,0 +1,825 @@
+resource	jcsp publication between the lines	1
+resource	jcahpo career advancement tool	1
+facility	jca	1
+facility	jcr	1
+source	jcsp publication between the lines	1
+source	jc penney	1
+game	jc two 	1
+subject	jcl	1
+product	jc gelebration	1
+institution	jcc	5
+institution	jcc in manhattan	1
+client	jc penney	5
+client	jcrew	4
+client	jc penny	2
+client	jcb	2
+client	jc decaux	1
+document	jcs order	1
+document	jcs	1
+author	jc mayer	1
+author	jc ryle	1
+agency	jcaho	4
+course	jcsp	1
+location	jc penny	4
+location	jcprd athletic training center	1
+writer	jc mccreary	1
+solution	jca	1
+star	jc chasez	1
+business	jc penny	2
+business	jc penney	1
+business	jc whitney	1
+business	jcpenney	1
+band	jcc anotited	1
+agent	jc virus	1
+development	jcaho new patient safety goals	2
+type	jc twelve v seventy-five w 	1
+type	jc twenty-four v one hundred w 	1
+type	jc twenty-four v fifty w 	1
+type	jc twenty-four v one hundred and fifty w 	1
+type	jc twenty-four v seventy-five w 	1
+celebrity	jc chasez	1
+firm	jc penney	2
+firm	jcb	2
+firm	jc penny	1
+favorite	jc penney	1
+favorite	jcpenny's	1
+manufacturer	jcb	8
+manufacturer	jcraft ribs	1
+instrument	jcmt	1
+publication	jck	2
+publication	jct contract	1
+position	jcs	1
+website	jc penney	1
+equipment	jcbs	1
+instance	jcb	1
+policy	jcps race-based student assignment plan	1
+expert	jcaw symposium expert	1
+researcher	jc kaufman	1
+Organisations	jcb	2
+Organisations	jcb india	1
+partner	jcp	1
+big name	jc tran	1
+big name	jc penney	1
+standard	jcr	2
+standard	jc three iedm 	1
+standard	jci accreditation	1
+club	jc dobbs	1
+vendor	jcrew	1
+vendor	jc penny	1
+store	jc penney	52
+store	jc penny	28
+store	jc penny's	6
+store	jc penney's	6
+store	jcrew	5
+store	jcpenney	4
+store	jcp	3
+store	jcpenney's	2
+store	jcpenny	2
+store	jc penny s	1
+store	jc penney's order dept.	1
+store	jc penney outlet store	1
+store	jcpenney in countryside mall	1
+customer	jc penney	2
+customer	jci	1
+vehicle	jcb fastrac	2
+vehicle	jcb s	1
+opportunity	jctd for joint application	1
+feature	jcs caching	1
+award	jcci art award	1
+retailer	jc penney	48
+retailer	jc penny	7
+retailer	jcpenney	4
+retailer	jcpenney's tiffany chaney	1
+retailer	jc whitney	1
+retailer	jc penney's	1
+report	jcr	1
+occasion	jcnh family share special occasion	1
+competitor	jc penney's	2
+competitor	jc decaux	1
+corporation	jc penney	3
+corporation	jc penney catalog	1
+corporation	jc penny	1
+key item	jc penney company economic	1
+journal	jco	1
+difference	jcl versus script	1
+producer	jc cellars	1
+charge	jcci&e	1
+service provider	jcom in japan	1
+supplier	jc whitney	1
+supplier	jci	1
+supplier	jcdecaux	1
+composer	jc bach	1
+composer	jc sanford	1
+card	jcb	5
+employer	jc penny	1
+employer	jcpenney salon	1
+chain	jc penny	2
+singer	jc lodge	1
+shop	jc penney	4
+shop	jc penny	3
+shop	jcpenney	1
+shop	jcrew	1
+stock	jc penney	3
+stock	jc penny company inc	1
+account	jc penney	1
+large company	jcp	3
+large company	jcb	2
+large company	jc penny	2
+large company	jc penney's	1
+sponsor	jcb	2
+local organization	jcc	1
+college	jcc	1
+annual event	jcc book festival	1
+suspect	jc penny	1
+professional organization	jcaho	2
+profession	jc	3
+local business	jc penny	1
+third party	jcaho	3
+investor	jc flower	1
+name brand	jc power	1
+photographer	jc from hardfitness	1
+photographer	jc hubrich	1
+international organization	jci	1
+community group	jcc	2
+datum source	jcd	1
+tenant	jc penney	1
+tenant	jcpenney	1
+national organization	jcaho	2
+pathogen	jc virus	2
+virus	jc	3
+meal	jcr guest night	1
+big company	jc penny	1
+big company	jc penney	1
+local company	jc penney	1
+reagent	jc- one  for mitochondrial integrity 	1
+large organization	jcb	1
+promotion	jcw fwf	1
+international company	jc penny	1
+international company	jcb	1
+sample	jcics sample	1
+ride	jcb robots	1
+item	jcr	1
+item	jcb tooth	1
+instruction	jcs	1
+sensitive information	jcaho survey	1
+heavyweight	jc tran	1
+artiste	jc lodge	1
+international brand	jc penny	6
+quality brand	jcp & ken rosebury body	1
+extension	jce editor	2
+extension	jce	1
+extension	jch optimize	1
+well-known name	jc penney	2
+contractor	jc decaux	1
+contract	jct contract	1
+contract	jct form	1
+well-known company	jc penney	2
+merchant	jc penney	3
+merchant	jc penny	1
+wrestler	jc grunge	1
+management tool	jconsole	2
+local authority	jcab chair	1
+editor	jce	2
+editor	jce with the correct plugins	1
+editor	jcreator	1
+advertiser	jc penny	2
+private organization	jci	1
+private organization	jcaho	1
+table	jcmxds	1
+buyer	jc penny	2
+winery	jc cellars	1
+exhibitor	jck show exhibitor	1
+department store	jc penney	53
+department store	jc penny	46
+department store	jc penny's	10
+department store	jcpenney's	6
+department store	jcpenney	6
+department store	jcpenny's	4
+department store	jcpenny	4
+department store	jc penney's	2
+department store	jcpenney at richmond mall	1
+department store	jcpenneys for a nice prom dress	1
+department store	jcpenney for affordable item	1
+local band	jc auto	2
+global brand	jcb	1
+community leader	jci warden ted jeters	1
+voice	jcall	1
+reputable company	jc taylor	1
+leading brand	jcb	2
+outside agency	jcaho	1
+retail store	jc penney	5
+retail store	jc penny	5
+retail store	jcp	1
+retail store	jcpenney offer custom online ordering for monogrammed towel	1
+retail store	jc penny's	1
+national brand	jc penny	1
+regulatory agency	jcaho	4
+industry organization	jcaho	1
+large employer	jcb	1
+national chain	jc penney	2
+national chain	jc penney optical	1
+upcoming event	jci world congress in brussels	1
+online retailer	jc penny	1
+template	jcpenney template	1
+playwright	jc lee	1
+online store	jcpenny	5
+online store	jc penney	2
+U.S. company	jc penney	1
+development tool	jcom tool	4
+area	jcpennys	1
+education program	jcc	1
+chain store	jc penney	5
+chain store	jc penney's	1
+chain store	jc penny	1
+famous celebrity	jc de vera	1
+musical	jc superstar	1
+musical	jcs	1
+international player	jcdecaux	1
+large retailer	jc penney	4
+large retailer	jc penny's	3
+large retailer	jcp	2
+large retailer	jc penny	1
+startups	jcs	1
+retail chain	jc penney	2
+retail chain	jc penney optical	1
+experienced player	jc janse van rensburg	1
+local store	jcpenney's	1
+local store	jc penney	1
+discount	jcp program	1
+national retailer	jc penney	3
+national retailer	jc penny	2
+established company	jcs	1
+renowned company	jc penney	1
+large business	jcb	1
+payment method	jcb	2
+big name brand	jcb	1
+external organization	jcaho	1
+Favourites	jcm eight hundred  split channels 	1
+equipment manufacturer	jcb	2
+utility company	jcp	1
+independent organization	jcaho	2
+high-profile client	jc penney	1
+monitoring tool	jconsole	1
+large chain	jc penney	1
+cutting-edge technology	jca	1
+notable player	jc tran	1
+trade show	jck las vegas	3
+trade show	jck toronto	3
+skater	jc kibbe	1
+anchor	jc penney	1
+local retailer	jc penny	2
+local retailer	jc penney	1
+opposition party	jcp	1
+large enterprise	jc penny	1
+large client	jc penney inc.	2
+antennas	jcmt	1
+external pressure	jcaho standard	1
+big name company	jcb	1
+catalog	jcpenney	1
+celebrity chef	jc poirier	1
+commercial	jc penney	1
+blue chip client	jcb	1
+big retailer	jc penney	1
+credit card	jcb	61
+credit card	jc penney	2
+poster	jc hawk	1
+opportunistic infection	jc virus infection resulting in progressive multifocal leukoencephalopathy	1
+retail giant	jc penney's	2
+retail giant	jc penny	1
+private equity firm	jc flowers & co	1
+private equity firm	jc flowers	1
+industrial company	jcb	1
+service	jcaho statement of condition	1
+discount store	jc penny's	1
+heavy vehicle	jcb s	1
+multi-national company	jcb	1
+private sector company	jcb	1
+big store	jc penny	1
+OEMs	jc bamford excavators ltd.	1
+OEMs	jcb	1
+development environment	jcreator	4
+national account	jcpenney company inc.	2
+clothing store	jc penny's	1
+clothing store	jc penney	1
+clothing store	jc penny	1
+clothing store	jc penney s	1
+clothing store	jcrew	1
+large store	jc penney	2
+large store	jc penny	1
+young talent	jc romero	1
+giant company	jcb	1
+auction house	jc devine	1
+professional player	jc decaux	1
+daily	jc daily	1
+black	jc watts	2
+popular store	jc penny	3
+popular store	jc penneys among hundred	2
+popular store	jc penney	1
+fashion label	jc collection	1
+western company	jci	1
+anchor tenant	jc penny	1
+anchor tenant	jc penney	1
+large department store	jc penney	3
+large department store	jc penny	2
+large department store	jcpenney	1
+quality standard	jcaho	1
+equipment maker	jcb	1
+global major	jc penney	1
+jewish group	jcpa	1
+jewish group	jcc	1
+jewish group	jcrc	1
+standard form	jct	2
+anchor store	jc penny	5
+anchor store	jc penney	5
+anchor store	jc penny's	1
+leading retailer	jc penny	1
+huge corporation	jc penney	1
+large corporates	jct ltd	1
+today company	jcb	1
+social service organization	jcc	1
+graphical tool	jconsole	1
+large chain store	jc penney	2
+popular retailer	jc penny	1
+color space	jch color space calculated by using a model	1
+outlet store	jc penney outlet	1
+hotties	jc de vera	2
+big department store	jc penney	2
+big department store	jcpenney	1
+great deal	jcpenney big one-day sale	1
+great store	jc penny	1
+corporate account	jc whitney	1
+DNA virus	jcv	1
+IDEs	jcreator	1
+retail location	jc penny-glendale galleria	1
+topic	jct contract	1
+fashion store	jc penny	1
+management company	jcr & associates	1
+upscale store	jcrew	1
+large retail store	jc penney	1
+traditional retailer	jc penney	1
+automotive manufacturer	jcb	1
+big name store	jc penny's	1
+brand company	jcp.	1
+health care issue	jcah standard	1
+portal site	jcentral . rtm.	1
+company	jc penney	23
+company	jcb	22
+company	jc penny	10
+company	jc decaux	3
+company	jc penny's	3
+company	jcpenney	3
+company	jcpenney portraits	2
+company	jcpenny	2
+company	jcdecaux	2
+company	jc whitney	2
+company	jct	2
+company	jcv	1
+company	jc salons	1
+large retail chain	jc penney	1
+local chain	jc penney	1
+well-known store	jc penney	1
+clothing retailer	jc penny	1
+high end store	jc penney	1
+key retailer	jcpenney	1
+departmental store	jc penney	1
+renowned client	jcb manufacturing ltd.	1
+apparel company	jc penney	1
+company	jc penney-asset recovery center	1
+company	jcpenney at northlake mall	1
+brand store	jc penney's	1
+national chain store	jc penny	1
+regulatory standard	jcaho	1
+big name retailer	jc penney	1
+accreditation agency	jcaho	2
+accreditation organization	jcaho	2
+accreditation organization	jci	1
+exciting player	jc intal	1
+shopping option	jc penney	2
+online merchant	jc penney	1
+successful corporation	jc penney's	1
+company	jcs	1
+company	jct ltd	1
+company	jcrew	1
+company	jcb excavators	1
+company	jcb india ltd.	1
+company	jcm	1
+IDE	jcreator	3
+subclasses	jcr-based resource	1
+poker pro	jc alvarado	1
+area retailer	jc penney	1
+area retailer	jc penny	1
+department store chain	jc penneys	2
+global retailer	jc penney company	1
+global retailer	jc penny	1
+mainstream retailer	jcrew	1
+spectacular site	jcdecaux	1
+access option	jca	1
+connectivity solution	jca	4
+on-line store	jcpenny	1
+on-line store	jc penney	1
+activity	jcyc picnics and sleepover	1
+card type	jcb	1
+national system	jcaho	1
+accrediting agency	jcaho	4
+internationally famous brand	jcb	1
+mall store	jc penney	2
+mall store	jc penny	1
+regular store	jcpenny	1
+traditional store	jc penney	1
+male actor	jc de vera	1
+international credit card	jcb	7
+end company	jc penney	1
+external dependency	jcifs for the share connector	1
+store card	jc penney	1
+store card	jcpenney	1
+famous department store	jc penny	1
+international fair	jck show in las vegas	1
+end store	jc penney	1
+district resource	jcps online	1
+UK firm	jcb	1
+customer service activity	jcpenney credit application	1
+authority site	jc penney	1
+heavy game	jc two 	1
+international show	jck las vegas	1
+modern scientist	jc bose	1
+quality store	jc penney	2
+connection technology	jca	1
+popular department store	jcpenney's	1
+popular department store	jc penney	1
+streamer pattern	jc's marblehead	1
+accrediting organization	jcaho	4
+arbitral institution	jcaa	1
+constituent group	jcc executive directors	1
+higher-end store	jc penney	4
+Indian corporates	jct	1
+insitutions	jcc	1
+on-line merchant	jcpennny	1
+dept store	jcpenny	1
+institutional program	jcc	1
+arbitration institution	jcaa	2
+engine spare part	jcb part	1
+high end component	jcm cash acceptors	1
+incoming player	jc transfer antavius sims	1
+renown brand	jc penney	1
+charge card	jcb	1
+information	jconsole connection datum	1
+clothes store	jc penny	2
+payment company	jcb	1
+true brand	jc penney	1
+area charity	jccs of greater boston	1
+filipino actor	jc tiuseco	1
+top department store	jcpenney	1
+high impact journal	jci	1
+event	jcra gala	1
+regulatory group	jcaho	1
+scalar type	jchar	1
+well-known merchant	jc penny	1
+well-known property	jc mandarin	1
+aviation airport	jcia	1
+global retail chain	jc penny	1
+local mall	jcpenneys	1
+neighborhood store	jc penney	2
+standard form contract	jct	1
+standard form contract	jct agreement	1
+accountability system	jcaho in the united states	1
+high profile global organization	jc penney	1
+international equipment OEMs	jcb	1
+leading foreign company	jc penney	1
+multinational corps	jc penny's	1
+store website	jc penny	1
+common outlet	jcrew	1
+famous urban V inyl designer	jc	1
+famous urban vinyl designer	jc	2
+global OEMs	jcb	1
+payment network	jcb	1
+residential developer	jc nichols company	1
+special occasion	jcnh family share special occasion	1
+top-tier online advertiser	jc penney	1
+black republican	jc watts	1
+consumer finance company	jcg	1
+merchant website	jc penney	1
+nation-wide retailer	jc penney	1
+OEM client	jcb group	1
+stationary crusher	jce jaw crusher	3
+brick-and-mortar store	jc penney	1
+card network	jcb	1
+casino deposit method	jcb	1
+checking store	jcpenney	1
+conditional branch instruction	jcc in the x eighty-six  instruction set 	1
+department shop	jc cent	2
+department shop	jc penny	1
+department store website	jcpenny	1
+familar face	jc watts	1
+giant business retailer	jc penny	1
+huge store	jcpenny	1
+kit car	jc midget	1
+large department store chain	jc penney	1
+local clothing store	jc penney	1
+national department store	jc penney	3
+national department store chain	jc penney	3
+on-line shop	jcpenny	1
+potential tenant	jc penney	1
+prestigious internation company	jcm	1
+retail department store	jc penney	1
+store promotion	jc penney online sale & super-target.com	1
+well-known department store	jc penney	1
+black candidate	jc watts	1
+card scheme	jcb	1
+credit card brand	jcb international	1
+DB2 library	jcl for user-defined tablespaces	1
+department store credit card	jcpenney's	1
+faux pa	jcpenny's logo redesigns	1
+integration product	jco	1
+medical book	jci hospital standards practical guidelines by clifford l. k. pang	1
+national and regional favorite	jc penney	2
+patient safety initiative	jcaho's universal protocol	2
+card association company	jcb	1
+dept. store	jc penny	1
+global buyer	jc penney	1
+large box retailer	jc penney	1
+modern machinery	jcbs	1
+ordered credit card service	jcb	1
+subsidiary organization	jci	2
+systronix module	jcx	1
+traditional anchor	jc penney	1
+youth theater	jcc's playmakers	1
+basic spare part	jcb carbon brush	1
+basic spare part	jcb drive belt	1
+basic spare part	jcb recoils	1
+basic spare part	jcb brush cutter spare	1
+biggest name brand store	jc penney	1
+collector car insurance company	jc taylor	2
+conventional payment service	jcb	2
+eye care chain	jc penney optical	2
+full-service retailer	jc penney	1
+global equipment manufacturer	jcb	1
+internationally acclaimed and reputed hotel	jc mandarin	1
+kansas city location	jccc	1
+largest online retailer	jc penney	1
+mainframe technology	jcl	1
+multi-national business	jcb	1
+polyoma virus	jc virus	1
+pro driver	jconcepts jason ruona	1
+organization	jcaho	17
+organization	jcp	3
+organization	jci	2
+organization	jcc	2
+street clothing retailer	jc penney	5
+U.S. customer	jc penney	1
+big brand client	jcb	2
+biggest department store	jc penney	1
+boasting anchor retailer	jc penny	1
+bureaucratic system	jcs	1
+construction equipment brand	jcb	1
+department store operator	jc penney	1
+organization	jchco	1
+organization	jcua	1
+organization	jc penny's	1
+f-school program	jcc	1
+generic client	jconsole	1
+global marketing leader	jc penney	1
+JCI official course	jci achieve	1
+JCI official course	jci presenter	1
+JCI official course	jci trainer	1
+JCI official course	jci admin	1
+JCrew wool skirt	jcrew wool herringbone skirt	1
+JMX-compliant client	jconsole	1
+local dept store	jcpenney	1
+national corporate leader	jc penney	1
+notable archival collection	jcpenney archives	1
+phillies reliever	jc romero	1
+organization	jcs	1
+organization	jcb	1
+organization	jc williamson	1
+preppy brand	jcrew	1
+product world major brand	jcb	1
+public communal area	jcr	1
+retail store credit card	jc penney	1
+software term	jcl	1
+solid, good reliable company	jc heating & cooling	1
+specialist investor	jc flowers	1
+standard anchor store	jc penney	1
+strategically company	jcb	1
+successful cultural attraction	jc fridays	1
+terrific store	jc penney	2
+top global apparel retailer	jc penny	4
+traditional anchor store	jc penney	1
+well department store	jc penney	1
+able-bodied known store	jc penney's	1
+accessing store	jc penney	1
+amazing boutique	jc de castelbajac	1
+arizona republicalthough christown anchor	jc penney	1
+armenian terrorist organization	jcag	1
+christian favorite	jctv	1
+circular DNA	jcv	1
+dirty friend	jc satan	1
+east midland company	jcb	1
+em system	jci metasys system	1
+french client	jcdecaux	1
+gift idea card	jcpenney's	1
+good fiat dealer	jcs kegworth	1
+graph generating tool	jchart	1
+incredible department store	jc penney	1
+industry-standard file format	jcamp	1
+institutional accreditation organization	jcaho	1
+international accreditation	jci accreditation	1
+JCB Toughphones	jcb pro-talk	1
+JCB Toughphones	jcb sitemaster	1
+JCB Toughphones	jcb tradesman	1
+jcii-developed instrument	jcii standard type flash meter	1
+JCrew wool coat	jcrew wool felicia coat	1
+JCrew wool suit	jcrew wool crepe suit	1
+JMX client	jconsole	1
+large chain department store	jcpenny	1
+large soft-goods retailer	jc penney	1
+limited service retailer	jc penney	2
+low-end retailer	jc penny	1
+mall department store	jc penney s	1
+medium vendor	jc decaux	1
+modern tractor	jcb fastrac	3
+national accrediting organization	jcaho	1
+nice editor	jcreator	1
+application	jcm	2
+north american chain store	jc penny with lighting item	1
+official JCI training session	jci admin	1
+official JCI training session	jci csr	1
+official JCI training session	jci achieve	1
+online retailer website	jc penny's	1
+opportunistic brain infection	jc virus	1
+Polyomaviruses	jcv	1
+popular and department store	jc penny's	1
+professional portrait studio	jcpenney portrait studio	1
+reliable online store	jc penny	1
+retail charge card	jc pennies	1
+retail shopping web site	jcpenny	1
+secondly major department store	jc penny	1
+simple everyday store	jc penny	1
+single member scheme	jcb	1
+specialty automobile insurer	jc taylor	1
+system-type tractor	jcb fastrac	1
+tag title	jcw	1
+temporary wartime institution	jcs	1
+typical mall shop	jc penney	1
+typically department store card	jcpenny's	1
+world's most popular musical	jc superstar	1
+78.full-service retailer	jc penney	1
+accreditation group	jcaho	1
+affordable retailer	jc penney	1
+area meeting	jci asia-pacific	1
+armenian armed organization	jcag	1
+name	jcb	3
+name	jc penney	1
+common mod	jc chip	1
+credible merchant	jc penny	1
+dent school	jcu	1
+department store's website	jcpenny's	1
+double credit card	jc penney	1
+name	jc squire of the london mercury	1
+name	jc from block ent	1
+name	jc higgins	1
+Fourth, major OEMs	jcb	1
+great liturature piece	jc whittney	1
+hospital accreditation program	jcaho	1
+ifyouhaveencounteredafewnucleotide-basedsubstitution model	jc sixty-nine 	1
+industry employer	jc penny's logistics	1
+international credit card brand	jcb	1
+Iqons	jc de castelbajac	1
+java-related captcha solution	jcaptcha	1
+JCrew wool sweater	jcrew wool cardigan	1
+JCrew wool sweater	jcrew wool turtleneck	1
+jewish center constituency	jcw	1
+jewish communal organization	jcc	1
+JMX client tool	jconsole	1
+key foreign retailer	jc penny	2
+large advertising conglomerate	jc decaux	1
+leading-brand name	jcb	1
+case	jc sixty-nine  model 	2
+local HDD component player	jcy international bhd	2
+long-term planning process	jcsp	1
+Long-time backhoe-loader OEMs	jcb	2
+majo US retailer	jc penney	1
+Marshalls	jcm  eight hundred  s 	1
+massive retail store giant	jc penny	1
+mid january store	jc penny	2
+multi-national medium company	jcdecaux	1
+peer support scheme	jcr welfare offi cers	1
+case	jcr	1
+presently big international brand	jc penny	1
+Regular companys	jcpenny	1
+result health care agency	jcaho	1
+retail card payment network	jcb	1
+secular jewish organization	jcc	1
+setup-oriented rule	jcr	2
+spring component	jca environment support	1
+traditional anchor tenant	jc penney	1
+traditional journal	jci	1
+acceptable international credit card	jcb	1
+accessible department store	jc penney	1
+option	jcra endowment	1
+big name chain salon	jc penneys macys	1
+catalog outlet	jc whitney	1
+clothing magazine	jcpenney catalog	1
+Commercial advertising Organisations	jcdecaux	1
+commercial outdoor advertiser	jcdecaux	1
+common datum model	jc three iedm 	1
+cre-atorsofsome environment	jcreator	1
+curtain store	jc penny	1
+distressed specialist	jc flowers	1
+dod acquisition document	jcids document	1
+earth mover service	jcb	1
+option	jcb	1
+option	jca	1
+group	jcc in manhattan	1
+elite trade show	jck	2
+engineering brand	jcb	1
+established accreditation program	jcaho	1
+established staffordshire firm	jcb	1
+fast RT model	jcsda's community radiative transfer model	1
+FVCS regular	jc cunningham	1
+global OOH major	jcdecaux	1
+good fiighters	jc gomez	1
+health care regulatory agency	jcaho	1
+high quality trigger	jcs duel trigger	1
+honorable merchant	jc penny home store	1
+group	jc denton's circle of associate	1
+group	jcpa	1
+group	jcc	1
+group	jcaho	1
+IP PABX system	jcl system	2
+java profiling tool	jconsole	1
+JAX-WS RI customer	jcaps	1
+JCB publication	jcb shopping & dining passport	1
+jersey electric distribution company	jcp	1
+JMX compliant monitoring tool	jconsole bundled in jdk	1
+key medium provider	jcdecaux	1
+large UK outdoor advertiser	jcdecaux	2
+letter program name	jcc maccabi games	1
+mis-information agent	jcattera & mrcometfraud	1
+moribund party	jcp	1
+MPE-specifi c functionality	jcl batch job	1
+multi-line retailer	jc penney	1
+national quality organization	jcaho	1
+official OPI retailer	jc penney	1
+outdoor medium owner	jcdecaux	1
+popular US chain retailer	jc penny	1
+portrait photography studio	jcpenney portrait studio	1
+prestigious national & global brand	jcb	1
+private certification organization	jcaho	1
+professional online cancer journal	jco	1
+quality monitoring organization	jcaho	1
+real time merchandiser	jcpenny company	1
+rugged mobile phone	jcb toughphone	1
+separately-funded training event	jcs exercises	1
+small rating agency	jcr	1
+standard form building contract	jct	1
+standard information exchange datum model	jc three iedm 	1
+standard JMX client	jconsole	1
+standardized datum interchange format	jcamp	1
+submillimeter telescope	jcmt	1
+sun JDK tool	jconsole	1
+surprisingly sometimes big brand	jc penny	1
+test-coverage tool	jcover  fourty-one 	1
+tightly coupled, standards-based solution	jca	1
+tightly-coupled connectivity solution	jca	5
+two-dimensional pharmacophore nomenclature method	jchem  two d pharmacophore representation 	1
+UTCs	jcb academy in staffordshire	1
+validator type	jcm bnf bulk feed validator	1
+tool	jconsole	2
+tool	jcl	2
+tool	jc bands	1
+waterproof cell phone	jcb tradesman	1
+Wyoming grant writer	jcs professionals	1
+year larger company	jc penney	1
+project	jc penney's	1
+project	jcr in the crescent room	1
+project	jcaho	1
+place	jc penny	3
+place	jcd	1
+place	jcpenny	1
+player	jc intal	1
+player	jc alverado	1
+player	jc sherritt	1
+player	jc tran	1
+technology	jca	3
+technology	jcl	2
+product	jc flanges	2
+term	jcl	1
+system	jci metasys	1
+system	jcaho	1
+element	jccs infrastructure	1
+function	jcl batch job	1
+function	jc williamson exhibition opening	1
+brand	jc penney	10
+brand	jcb	9
+brand	jc penny	5
+brand	jcrew	3
+brand	jcpenney	1
+brand	jcc lighting	1
+brand	jcpennys	1
+component	jco	1
+component	jc player	1
+component	jconsole	1
+component	jca messaging framework	1
+site	jc penney	3
+site	jc whitney	1
+site	jc penny	1

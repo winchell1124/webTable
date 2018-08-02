@@ -1,0 +1,3899 @@
+factor	nyha class	5
+product	nylon yarn hose related product	1
+product	nylon washer related product	1
+product	nymphenburg plate	1
+product	nylon tubing	1
+product	nylon tow rope	1
+product	nytol	1
+initiative	nyra's email newsletter on the lead	4
+initiative	nytimes.com times extra	2
+initiative	nyc marathon expo at the javitz center	1
+initiative	nyc leadership academy	1
+initiative	nyda youth training initiative	1
+accessory	nylon utility brush	1
+accessory	nylon carrying bag	1
+accessory	nylon halyard	1
+datum	nyha class	1
+datum	nyc ed datum	1
+datum	nyse composite index	1
+resource	nysdol's skills transferability assessment tool	1
+resource	nys forestry best management practices for water quality for guidance	1
+resource	nyu's volatility lab web site	1
+resource	nyc government	1
+facility	nyc resistor	1
+facility	nyahera health center	1
+process	nyamwezi depalatalisation	1
+source	ny times	2
+source	nyu langone medical center	1
+source	ny times article	1
+source	nypd	1
+source	nyu medical center	1
+property	nyc's parks	1
+property	nyse  one hundred 	1
+game	nyj	1
+exception	nyc	5
+product	nylon wrap	1
+product	nylon webbing wholesale related product	1
+product	nylon wool related product	1
+product	nylon sheet related product	1
+product	nylon strapping related product	1
+product	nylon tube related product	1
+product	nylon tulle related product	1
+product	nylon monofilament net	1
+product	nylon multifilament net	1
+product	nylon organza ribbon related product	1
+product	nylon polyester taffeta related product	1
+product	nylon fishing thread	1
+product	nylon hex bushing	1
+product	nylon hose related product	1
+product	nylon lock nut related product	1
+product	nylon machine related product	1
+product	nylon anchor related product	1
+product	nylon braided hose related product	1
+product	nylon car hood cover with emblazoned logo	1
+product	nylon caster related product	1
+product	nylon drawstring bag related product	1
+product	nyala	1
+product	ny-based rx vitamins for pets hepato support	1
+exception	nye	1
+reason	nylon rope being invented	1
+character	nymph	2
+character	nynaeve	1
+character	nyamo	1
+work	nyayavatara	1
+work	nymphenburg plate	1
+model	nyan cat	2
+model	nyk vesta	1
+model	nyomi marcela	1
+model	nylon string guitar	1
+word	nyaa	2
+word	nyfrgma	1
+attraction	nymphenburg palace	6
+attraction	nyangombe falls within easy driving distance	3
+attraction	ny carlsberg glyptotek	1
+attraction	ny skyline	1
+attraction	nys museum	1
+situation	nyc blizzard	1
+category	nylon	1
+institution	nyu	1
+institution	nyu libraries	1
+institution	nyu clive davis school of music business	1
+institution	nyc new york city institution	1
+institution	nyu medical center	1
+change	nystagmus	1
+client	nylon	3
+client	nyk logistics	2
+client	ny jets	2
+client	nylon magazine	1
+document	nyahbinghi constitution	1
+product	nylon braided cord	1
+product	nylon cable tie related product	1
+product	nylon coated related product	1
+product	nylon fiber related product	1
+product	nylon flag related product	1
+product	nylon organza related product	1
+product	nylon matrix system	1
+product	nylon glove related product	1
+product	nylon insert locknuts	1
+product	nylon kites	1
+product	nylon leash related product	1
+product	nylon long life flight	1
+form	nylon	2
+person	nyiila thrasher	1
+person	nyu journalism professor jay rosen	1
+person	nygen tran von	1
+person	nyle fisher	1
+person	nydia	1
+approach	nystrom method	1
+idea	nyc library	1
+alternative	nylon mesh harness	1
+alternative	nylon screw	1
+agency	nypd	2
+agency	nyserda	2
+agency	nys human rights division located in syracuse	1
+agency	nysid	1
+agency	nysobba	1
+agency	nys doh	1
+agency	nys dec	1
+agency	nyc dep	1
+agency	ny mta	1
+agency	ny common shared	1
+agency	nysp	1
+agency	nys comptroller	1
+agency	nyc acc	1
+agency	nycta	1
+agency	nyc government agency	1
+object	nylon comb	1
+object	nylon toothbrush	1
+symptom	nystagmus	7
+location	nyc	4
+location	ny rapper location	1
+location	nyp	1
+location	nymph lake	1
+writer	nye	2
+solution	nyquil	1
+feature	nystagmus	2
+star	nyree roberts	1
+star	nykki nichole	1
+structure	nyc building	1
+film	nylon	7
+film	nylon film	2
+film	nylon resin	1
+film	nyfes	1
+business	nyssa a&w restaur ant	1
+business	nys dot	1
+business	nyssa shipping depot	1
+band	nyarlathotep	1
+band	nyc's garage-glam semi-precious weapons	1
+band	nyc's thin lizard dawn	1
+band	nyc punk band	1
+band	nypc	1
+band	ny hardcore band short fuse	1
+band	ny flyers	1
+part	nymphae	1
+part	nylon roller	1
+part	nylon nut	1
+part	nylon stub	1
+school	nyu	10
+school	ny harbor school	2
+school	nyc	1
+school	nyack	1
+school	nyu's graduate school of social work	1
+school	nyu stern	1
+school	nyack ufsd	1
+school	ny state	1
+school	nyaya	1
+school	nyc art school	1
+school	nyu mt	1
+school	nyu's school of visual arts	1
+school	nyu's art school	1
+school	nyu poly	1
+amenity	nyc transportation for commuter	1
+practice	nyingma dzogchen practice	1
+food	nyc staple food	1
+food	nyjer	1
+title	nympho nurse	1
+title	nylon	1
+plant	nyssa sylvatica	1
+plant	nymphaea zenkeri	1
+agent	nystatin	3
+agent	nytol	2
+agent	nysdot	1
+scholar	nye	2
+feature	nyc technologist help center	1
+feature	nylon offer performance feature	1
+feature	nylon-lined main compartment	1
+type	nylon	4
+city	nyc	122
+city	ny	15
+city	nyssa	1
+city	nyon	1
+city	nyc's jfk airport	1
+celebrity	nylons	1
+celebrity	ny giant's brandon jacobs	1
+disease	nystagmus	1
+venue	nyc's cbgb's	1
+venue	ny academy of art	1
+venue	ny international fringe festival	1
+venue	nyx	1
+venue	nyc	1
+venue	ny dance intensive	1
+venue	ny public library	1
+venue	nysti	1
+venue	ny times	1
+venue	nyc's merkin hall	1
+town	nyngan	3
+town	nyack	3
+town	nylstroom	1
+town	nyeri	1
+town	nyazepetrovsk	1
+town	nyons	1
+criterion	nystagmus intensity	2
+firm	nyce	2
+firm	nyse euronext	1
+firm	nyx software	1
+industry	nylon industry	1
+dish	ny strip sandwich	1
+drug	nystatin	23
+drug	nytol	3
+drug	nyquil	1
+test	nystagmus test	1
+indicator	nyse bullish percent chart	1
+treatment	nystatin	1
+favorite	nympette	1
+manufacturer	ny.-based carrier transicold	1
+manufacturer	nyko	1
+instrument	nylon string guitar	1
+instrument	nylon-stringed classic acoustic	1
+publication	ny times	26
+publication	nylon	20
+publication	ny daily news	5
+publication	ny post	3
+publication	ny arts magazine	1
+publication	nyc-based first of the month	1
+publication	ny observer	1
+publication	ny magazine	1
+publication	nylon magazine	1
+setting	nyanza province	1
+compound	nyctanthic acid	1
+study	nys review of rti done by kileen	2
+study	nypd case study	1
+study	nyman	1
+position	ny in-school er vice position	1
+individual	nypd detective bill butler	1
+individual	nyr alumnus	1
+individual	ny occasions	1
+website	ny times	4
+website	nytimes.com	3
+website	ny daily news	2
+figure	nyanatiloka thera	2
+figure	nye	2
+figure	ny jets legend dan hampton	1
+figure	ny giants legend wesley walker	1
+figure	nyabingi priest	1
+equipment	nylon sling	1
+leader	nyerere	6
+leader	nyerere of tanzania	2
+leader	nyerere in tanzania	1
+leader	nyc michael bloomberg	1
+expense	nysc allowance	1
+expense	nyaa office building	1
+movie	nyu suicides	1
+innovation	nylon	1
+innovation	nyle herbal shampoo	1
+cause	nylon underwear	1
+mean	nylon locking element	1
+instance	nyssia zonaria	1
+instance	nyc transit	1
+song	nyahbingi-influenced anti-violence song	1
+team	ny jets	2
+team	ny nicks	1
+team	ny raiders	1
+team	nyc-based event management group	1
+team	ny yankees	1
+team	nyi	1
+team	nyack	1
+team	ny giants	1
+team	ny knicks	1
+team	nyc-based company	1
+team	ny liberty	1
+team	nyj	1
+team	nyr	1
+substance	nylon	10
+substance	nystatin	1
+entity	nyc health & hospitals corp.	1
+entity	nycwireless	1
+entity	nyserda	1
+country	nyasaland	1
+building	ny times building	1
+style	nylon pant	1
+style	ny mambo	1
+expert	nyu professor of nutrition	1
+expert	nyu medical center	1
+improvement	nylon trolley wheel	1
+researcher	nystrand et al.	1
+region	nyc watershed	1
+medication	nystatin	10
+medication	nytol	4
+medication	nyquil pm	1
+medication	nyquil	1
+variety	nymphaea minor	1
+variety	nyc diesel	1
+Organisations	nyks	1
+partner	nys oprhp	1
+partner	ny post	1
+partner	nys dot	1
+partner	ny farm bureau	1
+animal	nyala	15
+standard	nyse corporate governance standards for listed company	1
+show	nypd blue	10
+show	ny fashion week	1
+show	nyc fringe festival	1
+club	ny house oriented club in madrid	1
+club	nypirg	1
+club	ny comedy club	1
+club	nyanza	1
+club	nyac for woman	1
+vendor	ny-based metamatrix	1
+design	nyan cat	1
+design	nymph	1
+sector	nylon filament yarn	2
+influence	nyha class	1
+influence	nyonya	1
+store	nytro	1
+critic	ny times reviewer stephen holden	1
+critic	ny times columnist paul krugman	1
+market	nyc	5
+market	nyse	2
+market	nyiso tcc	1
+market	ny metro area	1
+market	nyse liffe	1
+customer	nyc department of finance	1
+incentive	nylon bag	1
+label	nymphomania	1
+label	nylon	1
+label	nyc independent rap label	1
+department	nypd	6
+side effect	nystagmus	3
+side effect	nycturia	1
+feature	nylon roller	1
+feature	nylon exterior	1
+feature	nylon belt case	1
+feature	nylon bracket	1
+behavior	nymphomania	1
+step	nyc's recycling bin	1
+environment	nyse euronext	1
+risk factor	nyha class	1
+risk factor	nyha functional class	1
+award	nyc council peter f. vallone academic award	1
+award	ny times outstanding book award	1
+award	nyfa fellowship from new york foundation for the arts	1
+restaurant	nyonya	1
+restaurant	nyein chan	1
+article	ny  thirty-two 	1
+disorder	nystagmus	2
+disorder	nystagmus-inner  ear disorder	1
+disorder	nycturia disorder	1
+magazine	ny times	3
+magazine	nyrsf	2
+magazine	ny times t magazine	2
+magazine	nylon magazine	1
+magazine	ny times magazine	1
+magazine	ny times style magazine	1
+woman	nympha	1
+sign	nystagmus	4
+sign	nymph	1
+destination	nyngan	2
+destination	ny	1
+destination	nyfix millennium	1
+professional	nyc plumbing person	1
+professional	ny fitlife for advice	1
+offer	nylon yarn related offer	1
+guest	nyc's comptroller john liu	2
+guest	nya	1
+district	nyc	1
+district	nyamagabe	1
+district	nyandarua	1
+district	nyanza	1
+gift	nyform troll	1
+stakeholder	nyfd	1
+issue	nystagmus	2
+issue	nys standards	1
+issue	nyu expansion	1
+stakeholder	nypd	1
+brand name	nylon	7
+brand name	nygard	2
+brand name	nytol	1
+brand name	ny & company	1
+experience	nylc	1
+state	ny	9
+state	ny ca	1
+state	ny medicaid	1
+state	ny villeroy	1
+state	nyrond	1
+corporation	ny waterways	1
+key item	nyona lake economic	1
+possibility	nylon membrane	1
+journal	nyu review of employee benefits	1
+journal	ny illustrerad tidning	1
+variation	nyc hustle	1
+variation	nyonya kebaya in melaka	1
+festival	ny comedy festival	1
+festival	nyc's eyewash	1
+festival	nyssma	1
+festival	ny's pictoplasma	1
+festival	nyu jazz festival	1
+festival	nyc international fringe festival	1
+flavor	ny cheesecake	1
+language	nyimang	3
+language	nyungwe	1
+language	nyquist	1
+herb	nymphacea caerulea	1
+line	nyk line	1
+line	nymr	1
+producer	nyetimber	1
+landmark	nyngan	1
+landmark	ny public library	1
+hotel	nympha hotel	1
+therapy	nystatin	1
+algorithm	nysiis	1
+medicine	nytol	4
+medicine	nyquil	2
+medicine	nystatin	1
+series	nypd blue	1
+utility	nyseg	2
+university	nyu	2
+university	nyu & university at albany	1
+friend	nyc boutique friend	1
+artifact	nyonya jewellery	2
+movement	nyabingi movement of uganda	1
+story	nyc fleet week	1
+track	nydia track	1
+everything	nyquil	1
+bank	nyc probably jewish bank	1
+village	nymfaio	1
+village	nyack	1
+employer	nypd	1
+specialty	nyonya dish	1
+specialty	ny labor law	1
+provision	nylon tie	1
+historian	nyangral nyima oser	2
+sight	nyhavn	2
+result	nys test score	1
+network	nyce	4
+network	nylon lift sling	1
+network	nyce & cirrus	1
+singer	nyboma	2
+singer	nyonya denise tan	1
+singer	nyonya jacqueline pereira	1
+singer	nyonya jessie cheang	1
+medium	nyt cbs nbc abc cnn lat	1
+athlete	ny giants kareem mckenzie	1
+toy	nylon bone	9
+toy	nyla bone	3
+toy	nylon rope	2
+toy	nyla-bones	1
+apps	ny times podcasts	1
+apps	nytimes	1
+apps	nytimes apps r free	1
+authority	nypd	1
+authority	nyman	1
+authority	nyaa operating authority	1
+theorist	nystrom	1
+large company	nynex	1
+paper	ny times	5
+paper	ny press	1
+paper	nyt	1
+paper	ny post	1
+basic information	nywea calendar	1
+park	nyanga national park	1
+park	nyika plateau national park in the north	1
+competition	nyibc	1
+competition	nyc big apps	1
+competition	nyssma	1
+issue	nyquist criterion	1
+college	nyack college in new york	1
+college	nyu	1
+college	nyu school of the arts	1
+database	ny times historical database	1
+raw material	nylon	9
+raw material	nylon  fourty-six 	1
+raw material	nylon polymer	1
+raw material	nylon tyre cord	1
+raw material	nylon  six 	1
+forum	nyasanet	1
+politician	nyc mayor michael bloomberg	1
+politician	ny state senator eric adams	1
+politician	ny governor cuomo	1
+government agency	nyc government agency	1
+government agency	nysca	1
+government agency	nyc dca	1
+government agency	nypd	1
+society	nyamwezi	1
+society	nyima	1
+icon	ny yankees	1
+carrier	nych	1
+creature	nymphs	2
+creature	nyarlathotep	1
+web site	ny times	3
+web site	nyhpmini.com for insights into the wonderful world of netbooking	1
+web site	ny mag	1
+web site	nytimes.com	1
+collection	nykredit	1
+threat	nyxathid	1
+community organization	nyc jobs with justice	1
+community organization	nypd	1
+road	nyerere road	1
+road	nysw	1
+index	nyse composite	4
+index	nyse arca gold mining index	3
+index	nyse of the new york stock exchange	2
+county	nye	3
+attachment	nylon brush	2
+attachment	nylon strap	1
+notable	nyt's paul krugman	1
+food item	nyonya kueh	1
+outlet	ny times	4
+outlet	nywt	1
+substrate	nylon	5
+substrate	nylon fiber	1
+regulation	nyse  four hundred and sixty-six 	1
+professional organization	ny yankees	1
+enterprise	nytil textiles	1
+river	nyong	1
+river	nymbodia river	1
+fabric	nylon	172
+fabric	nylon clothing	1
+fabric	nylon-blend velour	1
+fabric	nylon synthetic	1
+aid	nyquil	1
+layer	nylon fabric	1
+key area	nyanza	1
+spot	nyc's hottest spot	1
+spot	nyc hot spot	1
+commodity	nylon fiber	1
+commodity	nylon	1
+remedy	nytol herbal	1
+container	nylon pack	1
+container	nylon mesh netting shown in fig	1
+dessert	nymph thighs	1
+island	nysiros	1
+newspaper	ny times	16
+newspaper	ny post	1
+insect	nymphalidae	1
+insect	nymphs of mayfly	1
+insect	nymph of dragonfly	1
+investor	nytime savvy investor	1
+specific	nylon stockings patched with nail polish	1
+giant	nyeri high	2
+giant	nyamachaki in nyeri	1
+wine	nyetimber	1
+TV show	nypd blue	11
+pioneer	nyetimber in sussex	1
+abnormality	nystagmus	1
+stuff	nylon net	1
+family	nymphaeaceae	1
+natural material	nylon	2
+participant	nyse group inc.	1
+suburb	nyensi	1
+staple	ny state cheese	1
+tribe	nyangwara	1
+finish	nylon	4
+finish	nylon-coated steel	1
+master	nyoshul khen rinpoche	2
+master	nyingma rime master	1
+finding	nystagmus	2
+datum source	nycdhmh's community health survey	1
+hospital	nyu langone medical center	1
+heroes	nymu mage called kitty the nymu jewel	1
+reference	nymphos	1
+ailment	nystagmus	1
+polymer	nylon	86
+polymer	nylon  six 	3
+polymer	nylon- six , six 	1
+career	nypd	1
+race	nyrr new york mini  ten k 	2
+race	nyc nautica	1
+division	nypl express	1
+tenant	nypd pizza	1
+adverse effect	nystagmus	2
+item	nylon	11
+item	nylon rope	3
+item	nyquil	2
+interest group	nyclu	1
+jurisdiction	nye	1
+board	nyse company board	1
+workshop	nyc dance alliance	1
+route	ny  four hundred and thirty-four 	1
+route	nyayamkad	1
+route	nys rt	1
+non-profit organization	ny cares	1
+entree	ny strip steak	1
+entree	ny sirloin	1
+library	ny public library	2
+airport	ny metro airport	1
+urban area	nyc	7
+urban area	nyc metropolitan statistical area	1
+volunteer	nydia diefenbach	1
+painting	nymphs	1
+assessment	ny regents exam	1
+assessment	nys ela exam	1
+diagnosis	nystagmus	1
+television show	nypd blue	4
+rural area	nye county	1
+rural area	nyanza province	1
+rural area	nyamandlovu north-west of bulawayo	1
+bird species	nystalus maculatus	1
+delicacy	nyonya otak-otak	1
+delicacy	nyonya popiah	1
+small town	nyssa	1
+small town	nyeri	1
+observer	ny representative jerrold nadler	1
+tax	nyc communter tax	1
+supporter	nysca	1
+supporter	ny public interest research group	1
+ethnic group	nyiha	1
+consumable	nylon tie strap	1
+monument	nyay mandir	1
+item	nymo available at wholesale price	1
+item	nylon snowpants	1
+item	nylon toothbrush	1
+item	nylon twine	1
+item	nylon hand brush	1
+item	nyssa super raffle tickets	1
+item	nyger seed	1
+item	nylabones galileo bones	1
+item	nylon backpack	1
+item	nylon drawstring backpack	1
+item	nylon ropes used by the ships for anchoring	1
+item	nylon jacket	1
+item	nylon hanging decoration	1
+item	ny property tax	1
+item	ny steak	1
+item	nyc business license	1
+order	nyabinghi	1
+province	nyanza	1
+medium outlet	ny times	7
+medium outlet	ny press	2
+medium outlet	nyt	2
+medium outlet	ny one 	2
+historic site	nymphaeum	1
+taxa	nymphoides	1
+taxa	nyssa	1
+taxa	nymphaea odorata	1
+taxa	nymphaea tetragona	1
+orchestra	nyu symphony orchestra	1
+coating	nylon	3
+activist	nyc norml	1
+large city	nyc	20
+large city	ny	7
+heavyweight	nypd blue airing on the competition	1
+state agency	nys departments of environmental conservation	1
+state agency	nys department of health	1
+state agency	nypd	1
+composition	nylon	3
+blogs	nyc real-estate blogs	1
+hardware	nylon bushing	1
+hardware	nylon washer	1
+innovative feature	nylon pull-out hose	2
+educational institution	nyu langone medical	1
+commercial product	nylon mxd six 	3
+trigger	nylon clothes	1
+private company	ny water taxi	1
+fiber	nylon	68
+fiber	nylon fiber	3
+fiber	nylon  six 	1
+quality brand	nymphenburg	1
+connection	nyko's net connect	1
+shoe	nyc within the lifestyle collection	1
+everyday item	nylon mesh	1
+motif	nymph	2
+convention	nyc dance alliance	3
+convention	nyarm expo	1
+locality	nyeri	2
+locality	nyainqentanglha graben	1
+locality	nyc aging	1
+locality	ny city	1
+everyday activity	nypd blue	1
+product category	nylon carrier	1
+stage	nymph	1
+stage	nyokiri swamp	1
+special	ny strip	1
+contractor	nyanza road work	1
+seed	nyjer	1
+seed	nyjer seed	1
+common item	nylon paint strainer	1
+contract	nymex electricity	1
+parent	nyapai kek of st. paul	1
+texture	nylon string	1
+ensemble	ny city ensemble	1
+well-known company	ny times	1
+doctor	nyisszli	1
+academic	nyborg	1
+common species	nyala	1
+periodical	ny times	1
+periodical	nyg	1
+periodical	ny press	1
+contemporary artist	nyein chan suu	1
+contemporary artist	nyota ndogo	1
+insurance company	nylcare health plans of new england	1
+insurance company	nyu student health insurance plans	1
+television program	nypd blue	1
+institute	nyu medical center	1
+wrestler	nys	1
+antibiotic	nystatin	4
+antibiotic	nystatin & clotrimazole	1
+spice	nymphaea caerulea	1
+locale	nyc	1
+outfit	nysut	1
+luxury item	nylon	1
+large area	nyc	1
+common feature	nystagmus	1
+resin	nylon	23
+resin	nylon produced by polymerising caprolactam	2
+resin	nylon-based lft	1
+advertiser	ny times select	1
+dignitary	nys assemblyman crouch	1
+builder	nyse new home builder	1
+government	nyc	1
+leading company	nypro	1
+pathology	nystagmus	1
+big event	nyc marathon	1
+plastic	nylon	113
+plastic	nylatron	1
+plastic	nylatron with enhanced filler	1
+substitute	nylon	1
+neighbor	nylon peak	1
+cut	ny strip loin	1
+cut	nymphadora	1
+peer	nyc post-hardcore peer	1
+private school	nymc	1
+private school	nyu	1
+scent	nymphea	1
+recycled material	nylon	2
+recycled material	nylon carpet fiber	1
+clothes	nylon short	1
+union	nysut	2
+union	nyc district council of carpenters	1
+union	nylon bulkhead union	1
+union	nyc sanitation union	1
+big city	nyc	16
+big city	ny	2
+big city	nyc with the major wall street firm	1
+winery	nyarai cellars rosewood	1
+winery	nyetimber	1
+manifestation	nystagmus	3
+item	nylon hatch	1
+item	nylon briefcase	1
+item	nyan-nyan bowls from super dimension restaurant nyan-nyan	1
+item	ny yankes logo	1
+TV series	nypd blue	10
+prescription medication	nystatin	3
+prescription medication	nystatin suspension	1
+regular	nyc red carpet regular	1
+global company	nyrstar	1
+interesting place	nypd mounted police unit headquarters	1
+clinical parameter	nyha class	1
+deal	nycomed	1
+cultivars	ny six hundred and seventy-four 	1
+industrial process	nylon production	1
+modern technique	nymph fishing	1
+technological development	nylon	1
+nice touch	nye beach	1
+stimulant	nytol	1
+cultural factor	nyc centric badge	1
+irritant	nylon	1
+camp	nyarugusu	2
+dealer	ny toyota dealer	1
+tourist spot	nyc	1
+souvenir	nylon flag	1
+bloggers	ny times columnist floyd norris	1
+bloggers	nyc teacher monica edinger	1
+button	nylon	1
+hot spot	nyc hot spot	1
+entrant	nyfix millennium	1
+clinical sign	nystagmus	1
+anomaly	nyles jones	2
+community program	nyu downtown hospital	1
+cream	nystatin	2
+metropolitan area	nyc	6
+metropolitan area	ny	1
+metropolitan area	nyc area	1
+treat	nylon bone	1
+bag	nylon bag	2
+powder	nylon	1
+sandwich	ny cheese steak	1
+small part	nylon bush	1
+television series	nypd blue	4
+drama	nypd blue	3
+suitable material	nylon	20
+suitable material	nylon membrane	2
+suitable material	nylon filament	1
+suitable material	nylon woven fabric-type	1
+suitable material	nylon rope	1
+peoples	nyamwezi of tanzania	1
+fastener	nylon zipper	2
+non-food item	nyte vu digital night vision	1
+area	nyc	25
+area	nyanga	10
+area	nyanza	3
+area	nyanga north	2
+area	ny city	2
+area	nyanyano in the central region	2
+porous material	nylon	7
+porous material	nylon mesh bearing embryonic cell	1
+cover	nylon net	1
+soft material	nylon	1
+meds	nystatin cream	1
+connector	nylon wire tie	1
+quality material	nylon	4
+national brand	nys collections	1
+internet site	nytimes	1
+high quality material	nylon	3
+minor character	nymph	1
+tab	nyquist	1
+entertainment	nyummy food	1
+wildlife species	nyala	2
+territory	nyasaland	1
+regulatory agency	nys department . of health	1
+professional group	ny state urban & community forestry council	1
+synthetic material	nylon	159
+synthetic material	nylon material	2
+synthetic material	nylon fabric	1
+synthetic material	nylon rope	1
+industry organization	ny green building council	1
+factory	nymphenburg	1
+urban center	nyc	2
+packaging material	nylon	4
+pill	nytol	5
+non-profits	ny cares	1
+modern material	nylon	13
+modern material	nylon filament thread	1
+basic material	nylon	3
+discovery	nylon	1
+deposit	nyakafuru chocolate reef	1
+gathering	nyas symposium	1
+standard technique	nyquiststability criterion	1
+president	ny chapter president	1
+exchange	nyse euronext	7
+exchange	nyse liffe	3
+exchange	nyse arca	3
+exchange	nyse euronext on technology collaboration	2
+exchange	ny	1
+exchange	nyse	1
+exchange	nymex holdings inc.	1
+exchange	nymex	1
+exchange	nyse amex options	1
+being	nyarlathotep	1
+local area	nyc	1
+investigator	nyc detectives	1
+overhead cost	nylon	1
+area	nye bay	1
+area	nyasa in kigoma region	1
+area	nycc	1
+plastic material	nylon	59
+plastic material	nylon  sixty-six 	2
+pharmaceutical	nystatin	1
+global player	nycomed	1
+over-the-counter medication	nyquil	1
+estate	nyetimber	1
+estate	nyalenda	1
+lure	nylon jig	1
+rare exception	ny  twenty-three  race 	1
+common material	nylon fabric	1
+user group	nyc wireless	1
+tourist area	ny lake george	1
+medical supply	nylon aneroid with index	1
+grade	nylon	1
+finished product	nylon bath towel	2
+physical sign	nystagmus	1
+local material	nylon rope	1
+colony	nyasaland	1
+community member	nyseg	1
+traditional instrument	nyckelharpa	2
+simple material	nylon monofilament	1
+concert	nyc culturefest at battery park	1
+antigen	ny-br- one  of the cancer testis family 	1
+national publication	ny times	3
+prestigious venue	nyc winter jazz fest	1
+free gift	nylon bag for fishing line	1
+textile	nylon	3
+hard material	nylon	4
+clinical variable	nyha functional class	3
+clinical variable	nyha class	1
+aquatic plant	nymphaea alba	1
+aquatic plant	nymphoides	1
+aquatic plant	nymphae lotus	1
+conductive material	nylon	1
+flammable material	nylon	1
+nut	nylon insert lock nut	5
+nut	nylon insert nut	3
+nut	nylon insert locknuts	3
+nut	nylon insert lock	2
+nut	nylon nut	1
+scholarship	nyfa	1
+topical treatment	nystatin suspension	1
+tablet	nytol herbal	1
+woody plant	nyssa sylvatica	1
+reliable source	ny times	1
+everyday product	nylon	1
+organic substance	nylon	2
+township	nyelong park	1
+oral medication	nystatin	2
+reading	ny times	1
+area	nyandarua district	1
+area	nyingchi	1
+area	nyc borough queens	1
+area	ny's continental shelf water	1
+area	nyando	1
+area	nyanza-lac in makamba province	1
+MPs	nyleung hypolite	2
+highway	ny thruway	2
+polymeric material	nylon	22
+polymeric material	nylon  six 	1
+polymeric material	nylon of a selected color	1
+standard product	nylon rope	1
+durable material	nylon	13
+established company	ny magazine	1
+lightweight material	nylon	12
+fly	nymph	2
+critter	nymph	1
+truck	nyc f- three hundred and fifty 's truck 	1
+flexible material	nylon	5
+flexible material	nylon-based vinyl	2
+flexible material	nylon webbing	2
+flexible material	nylon material	1
+manufacturing process	nylon monomer production process	1
+shelter	nyc animal care & control	2
+water feature	nymphaea	1
+pastime	ny times crossword	1
+plate	nylon	2
+popular place	nyc	1
+successful program	nyserda's flextech program	1
+business partner	nypd pizza founder paul russo	1
+attendee	nylon magazine's creative director dani stahl	1
+conventional material	nylon	7
+string	nylon	1
+string	nylon string	1
+string	nylon fishing cord	1
+bone	nyla bones	1
+key project	nyingchi airport	1
+trade name	nylon  six 	1
+anime	nyan koi	1
+art organization	ny state council on the arts	1
+mechanical method	nylon insert	1
+thread	nymo curls without a heated hair curler	1
+thread	nylon thread	1
+state program	nyserda	1
+aquatic species	nymphaea pubescens	1
+membrane	nylon	7
+topical agent	nystatin	1
+topical agent	nystatin oral suspension	1
+abrasive material	nylon scrubber	2
+abrasive material	nylon pad	1
+inert material	nylon	1
+local club	nyali golf	1
+head	nylon head	1
+car accessory	nylon carpet floor mat	1
+butterfly	nymphalidae	1
+conventional treatment	nystatin	2
+clinical finding	nystagmus	2
+talented artist	ny soul all-stars	1
+antihistamine	nytol	2
+local facility	nyack boat launch	1
+affiliate	nyc	2
+herbal extract	nyctanthus	1
+popular magazine	nylon	1
+issuer	ny state thruway	1
+dielectric material	nylon	2
+topical medication	nystatin	1
+nonprofit group	nyc wireless	1
+nonprofit group	nyc wireless & personal telco in portland	1
+great city	nyc	1
+long-term complication	nystagmus	1
+philosophy	nyaya	1
+trade organization	ny farm bureau	2
+news outlet	ny times	3
+news outlet	ny daily news	1
+thoroughfare	ny state thruway	1
+deciduous tree	nyssa	1
+protection measure	nylon covering	1
+rigid material	nylon	2
+commercial client	ny lottery	1
+performance feature	nylon offer performance feature	1
+prescription	nystatin	1
+large town	ny city	1
+news source	ny times	5
+news source	nyt	1
+great master	nyingmapa	1
+fibrous material	nylon	3
+news organization	ny times	3
+rare condition	nystagmus	1
+edge technology	nys compliant alarm system	1
+medical disorder	nystagmus	1
+eye disease	nystagmus	1
+high-quality material	nylon	3
+recipient	nycdoe scholarship recipient	1
+classical method	nyquist analysis	1
+large client	nys	2
+council member	nysdot	1
+counter medication	nyquil	2
+counter medication	nytol	1
+factor	nyha grade	1
+Party Equipment Rental s	ny foam machine rental	1
+prestigious event	ny jazz festival	1
+prestigious event	ny guitar festival	1
+game species	nyala	5
+private party	nypirg	1
+thought	ny dark thought	1
+abrasive	nylon brush	1
+brush	nylon on the headstone	1
+large site	ny times	1
+professional company	nyc factors	1
+forest	nyaneni forest near lake sibaya	1
+proper noun	nye county	1
+telecommunication company	nynex	1
+metro area	nyc	2
+yarn	nylon	4
+yarn	nylon bcf	1
+contemporary author	nye haki madhubuti	1
+thermoplastic resin	nylon	7
+thermoplastic resin	nylon resin	2
+insulator	nylon  sixty-six 	1
+cloth	nylon	2
+mammal species	nyala	3
+synthetic polymer	nylon	18
+plastic part	nylon string	1
+plastic part	nylon roller	1
+population center	nyc	1
+port city	nyc	1
+objective datum	nyha classification , eleven  nature of strokes  twelve , thirteen 	1
+polymer material	nylon	11
+top school	nyu	1
+coating material	nylon	2
+base material	nylon	2
+dam	nyongwon power station	4
+great option	nys wine showcase	1
+eye condition	nystagmus	3
+over-the-counter medicine	nytol	1
+over-the-counter medicine	nyquil	1
+local paper	nypost.com	1
+local paper	nydailynews.com	1
+sheet material	nylon	1
+classic style	ny chic	1
+good book	nymphomation	1
+drug therapy	nystatin	1
+training activity	nylt	1
+repository	nypl's schomburg collection	1
+service	nys light weight diesel inspections	1
+kingdom	nyanja	1
+prestigious university	nyu	1
+certification program	nyc teaching fellows	2
+elastomers	nylon	4
+nifty feature	nylon carrying bag	1
+solid surface	nylon	1
+stop	nys center of excellence	1
+non-metallic material	nylon	6
+non-metallic material	nylon md	1
+reinforcement	nylon fiber	1
+reinforcement	nylon fabric	1
+light material	nylon	4
+thermoplastic	nylon	29
+thermoplastic material	nylon	28
+thermoplastic material	nylon  six 	1
+thermoplastic material	nylon monofilament	1
+music group	nys baroque	1
+inexpensive material	nylon	4
+neurologic symptom	nystagmus	1
+wheel	nylon wheel	1
+restraint	nylon hobble	1
+recycled product	nylon for carpet	2
+synthetic	nylon	100
+large market	nyc	1
+largest city	nyc	2
+man-made material	nylon	8
+man-made material	nylon football shirt	1
+synthetic resin	nylon elastomer	1
+premium material	nylon	1
+community outreach program	nypd united soccer	1
+over-the-counter remedy	nytol	4
+large metropolitan area	nyc	1
+peer-reviewed journal	nys psychologist	2
+resilient material	nylon	3
+large urban area	nyc	1
+leading indicator	ny fed empire state manufacturing index	1
+protective coating	nylon	1
+ruin	nyc farm colony in staten island	1
+marketplace	nyse	2
+staple food	nyc staple food	1
+top university	nyu	1
+young talent	nyjer morgan	1
+shipping company	nyk line	1
+small insect	nymph roaches	1
+subjective symptom	nycturia	1
+auto accessory	nylon carpet floor mat	1
+pet supply	nylon dog collar	1
+gel	nye oc four hundred and thirty-one a optical gel 	1
+innovative material	nylon cloth	1
+core material	nylon foam	2
+metallic material	nylon	1
+synthetic fiber	nylon	258
+synthetic fiber	nylon fiber	7
+synthetic fiber	nylon  sixty-six 	1
+defendant	nycomed	2
+news site	nytimes.com	5
+news site	nytimes	1
+service	nys inspections	1
+service	nyx	1
+neurological sign	nystagmus	2
+bat	nycteris hispida	1
+elder	nyi the feathered thunder	1
+fashion magazine	nylon	3
+metropolis	nyc	1
+vineyard	nyetimber	2
+antique item	nyonya tableware	1
+companion	nyssa	1
+companion	nyssa of traken	1
+ornamental tree	nyssa sylvatica	1
+small seed	nyjer	2
+collective	nyt profile audiobook collective	1
+flat item	nylon	1
+insulation	nylon	1
+movement disorder	nystagmus	4
+neurological complication	nystagmus	1
+routine operation	nyspin plate check	1
+independent source	ny times	1
+composite	nylon	3
+elastic material	nylon	3
+light item	nylon jacket	1
+everyday issue	nymphomania	1
+great place	nyc	1
+insulating material	nylon	2
+storage option	nylon pencil pouch	1
+eco-friendly material	nylon	1
+polar compound	nylon	1
+tourist facility	nyingchi hotel	1
+incumbent	nyse euronext	1
+key city	nyc	1
+top quality material	nylon	2
+top quality material	nylon lining	1
+police department	nypd	1
+crystalline material	nylon	5
+high temperature application	nylon	1
+international competition	ny world trade centre competition	1
+well-known product	nyala	1
+african leader	nyerere	2
+high quality raw material	nylon	2
+punk band	nyc punk band	1
+antifungal agent	nystatin	12
+fetish	nylon	6
+basic industry	nyingchi woolen mill	2
+city agency	nyc administration for children's services	1
+city agency	nyc economic development corporation	1
+city agency	nypd	1
+city agency	nyc dot	1
+topic	nys law	2
+phone company	nynex	2
+railroad	nyc	1
+regional agency	nysdot	1
+small market	ny sterling	2
+small market	ny bradenton	1
+thermoplastic polymer	nylon	5
+topical cream	nystatin	1
+urban environment	nyc	1
+home builder	nyse new home builder	1
+international magazine	nylon magazine	5
+international magazine	nylon	1
+large agency	nydot	1
+rising star	nyboma	1
+heroine	nyi ageng serang	1
+material type	nylon	2
+electric component	nylon component	1
+musical form	nyabingi drumming	1
+unusual animal	nyala	1
+circle	nyc venture philanthropy fund	1
+Native plant species	nymphaea	1
+soft plastic	nylon	2
+abstract	nylon thread	1
+cheap material	nylon	1
+OTC medication	nyquil	1
+colorful name	nymphs	1
+great classic	ny egg cream	1
+victory	ny turf writers cup handicap	1
+state entity	nys veterans home	1
+conventional therapy	nystatin	1
+engineering plastic	nylon	14
+engineering plastic	nylon one thousand and ten 	1
+engineering plastic	nylon six hundred and ten  nylon eight hundred and ten 	1
+message board	ny jets football board	1
+environmental law	nyc's ceqra regulation	2
+guest performer	nyima funk	2
+manufactured material	nylon	2
+thin material	nylon water resistant with an inner layer	1
+artificial material	nylon	9
+high grade raw material	nylon	1
+metro	nyc	3
+sturdy material	nylon	1
+large state	ny	1
+toxic agent	nystatin	1
+community setting	nyc senior centers based on program duration	1
+transportation company	nyk lines	1
+freedom fighter	nyerere	1
+carpet	nylon	3
+topic	nyquist plot	1
+topic	nyasa	1
+mat	nylon carpet floor mat	1
+petrochemical	nylon	2
+transmission	nyingma great perfection transmission	1
+biocompatible material	nylon	1
+soft fabric	nylon	3
+solid support	nylon	3
+congested area	nyc	1
+anticholinergic drug	nytol	1
+barrier layer	nylon	1
+delicate fabric	nylon	4
+hydrophilic polymer	nylon	1
+news agency	ny times	1
+porous substrate	nylon	2
+porous substrate	nylon membrane	1
+steak	ny strip	2
+steak	ny strip come with buttery mashed potatoes while pasta	1
+resistant material	nylon	2
+plastic film	nylon	6
+temperate climate	nyc	1
+unusual name	nyssa sound like common name	3
+organic additive	nylon	2
+protective material	nylon sling	1
+woman artist	nyankulya watson	1
+large department	nyc	1
+non-conductive material	nylon	3
+textile material	nylon	3
+textile material	ny	1
+chief	nyamaropa in the north	1
+counter drug	nyquil	1
+regional network	nysernet	1
+trophy	nyala	1
+free apps	ny times	1
+barrier material	nylon	1
+cord	nylon	4
+counter remedy	nytol available based on anti-histamines	1
+counter remedy	nytol	1
+largest company	nyse's largest company	1
+legislative initiative	nys senators schumer	1
+lightweight fabric	nylon	6
+lightweight fabric	nylon cotton	2
+organic fiber	nylon	5
+organic fiber	nylon fiber	2
+sleep aid	nyquil	1
+city park	nyc's central park	1
+quality fabric	nylon	2
+quality fabric	nylon net	1
+resin material	nylon	1
+hygroscopic material	nylon	1
+hygroscopic material	nylon for humidity sensing	1
+top magazine	nylon	2
+polish	nyx multi glitter	1
+print medium	ny daily times	1
+shipping line	nyk line	1
+shipping line	nyk	1
+shipping line	nyk nippon	1
+graphical method	nyquist	1
+hard plastic	nylon	2
+top destination	nyc	1
+eastern city	nyc	1
+good oil	nye oil	1
+modern language	nyquist	2
+neuromuscular disorder	nystagmus	1
+synthetic fabric	nylon	91
+delicate material	nylon	2
+porous item	nylon-webbed collar	1
+character set	nya	1
+cool stuff	nyc prep school girl adult costume	1
+disposable	nylon	1
+engineering material	nylon	2
+Macrophytes	nymphaea caerulea	1
+physiologic parameter	nyha functional class	1
+solid substrate	nylon	1
+pot	nyc diesel	1
+country town	nyngan	1
+inorganic component	nylon	1
+claimant	nyala motors s.c.	1
+dissimilar material	nylon  fourty-four a 	1
+flexible substrate	nylon	2
+light fabric	nylon	4
+merger	nyse-euronext merger	2
+merger	nyse euronext	1
+nonmetallic material	nylon	2
+permanent item	nylon rain suit	1
+seaport	nyc	1
+antifungal drug	nystatin	15
+antifungal drug	nystatin suspension	2
+art school	nyc art school	1
+high-tech material	nylon	1
+neurological issue	nystagmus	1
+efficient technology	nylon net	2
+insulative material	nylon	1
+news website	nytimes	1
+news website	nytimes.com	1
+protective covering	nylon covering	1
+specialty feature	nylon liner for incontinent dog	1
+superior quality raw material	nylon	2
+company	nyse euronext	4
+company	nyko	3
+company	nynex	2
+CNS effect	nystagmus	1
+ductile material	nylon fiber	1
+cost area	nyc	2
+fibre	nylon	6
+ocular complication	nystagmus	1
+reinforcing material	nylon	2
+antifungal medication	nystatin	7
+lover	ny times dan barry	2
+skilled player	nyc fab	1
+telephone company	nynex	1
+woodworking tool	nylon spring clamp	1
+fire department	nyfd	1
+large municipality	nyc	1
+thermosetting resin	nylon	1
+trading platform	nyfix euro millennium	1
+flexible member	nylon rope	1
+hot market	ny	1
+manmade material	nylon	2
+non-biodegradable material	nylon	3
+referral service	ny immigration coalition	1
+graduate school	nyu school of the arts in musical playwriting	2
+improviser	nyc music improviser	1
+lean cut	ny strip	1
+antifungals	nystatin	9
+applicator	nylon scrub pad	1
+conventional drug	nystatin	1
+eastern state	nys	1
+premium quality raw material	nylon  sixty-six 	1
+spacer	nylon washer	2
+breathable material	nylon	1
+compressible material	nylon	1
+crime drama	nypd blue	3
+fiber material	nylon	1
+iPhone apps	nytimes	2
+popular medication	nyquil	1
+stiff material	nylon	2
+strap	nylon strap	1
+strap	nylon webbing strap shown in fig	1
+strap	nylon webbing straps with velcro	1
+big name designer	ny-based michael bondanza	1
+liberal state	ny	1
+man-made fiber	nylon	58
+man-made fiber	nylon fiber	1
+non-prescription medicine	nyquil	1
+non-prescription medicine	nytol	1
+populated state	ny	1
+premium food	nyjer	1
+superior material	nylon	1
+company	ny party works	1
+company	nycomed	1
+company	nyc network group	1
+company	ny-west palm beach hedge fund service provider	1
+company	nypro of clinton	1
+company	nynas	1
+company	ny city center	1
+company	ny limo pros near ewr airport in new jersey	1
+company	nyc ballet	1
+company	nyk logistics	1
+company	nycb	1
+mundane material	nylon pantyhose	1
+OEM product	nylon	1
+rigid plastic	nylon	2
+robust material	nylon material	1
+tight clothing	nylon underwear	4
+tight clothing	nylon pantie	2
+big carrier	nyk	1
+binding material	nylon	1
+binding material	nylon casing	1
+chinese restaurant	nyun yen	1
+inventory datum	nys breeding bird atlas	1
+inventory datum	nys herp atlas	1
+liquid market	nymex natural gas future	1
+mainstream medium outlet	ny times	1
+mainstream medium outlet	ny one 	1
+non-metal material	nylon	1
+recreational site	nyaru menteng	1
+reinforcement material	nylon	1
+film material	nylon	1
+high profile account	ny life	1
+marginal area	nyanza	1
+molded part	nylon bushing	1
+neurologic manifestation	nystagmus	2
+prestigious concert hall	ny metropolitan opera house	1
+impermeable material	nylon	1
+inexpensive product	nyx	1
+moisture barrier	nylon	1
+neurologic deficit	nystagmus	1
+nonprescription medicine	nytol	3
+vision change	nystagmus	1
+conflict zone	nyanza	1
+mainstream medium	ny times	3
+notable publication	ny arts magazine	1
+Othermaterials	nylon	1
+clinical endpoint	nyha functional class	1
+cylindrical object	nylon fiber	1
+decorative motif	nymph	1
+fabric material	nylon	8
+fabric material	nylon material of the air bag	1
+high density material	nylon	1
+huge city	nyc	2
+mangrove species	nypa fruticans	1
+ocular symptom	nystagmus	1
+rope	nylon rope	2
+speedster	nyjer morgan	1
+cloth item	nylon	1
+desirable area	nyc	1
+energy efficiency program	nyserda	2
+hydrophilic material	nylon  six 	1
+hydrophilic material	nylon	1
+OTC medicine	nytol	2
+web material	ny	2
+high cost area	ny los angeles	1
+high cost area	nyc	1
+low area	nyingchi	2
+Macroinvertebrates	nymphs of dragonfly	1
+organic particle	nylon	2
+popular television series	nypd blue	1
+prestigious magazine	nylon	1
+suburban district	ny- nineteen 	1
+wedding vendor	nywb's wedding planning plus	1
+artificial substance	nylon	1
+biocompatible polymer	nylon	2
+dog product	nylon chew	1
+company	nyse group	1
+company	nyota minerals limited	1
+company	nynex corp.	1
+company	nyseg	1
+company	ny&c o.	1
+company	ny life	1
+company	nyc jobs	1
+company	ny state higher ed	1
+company	nylint	1
+company	nyse's largest company	1
+mecca	nyc	1
+stock market index	nyse composite index	1
+substitute material	nylon string	1
+tic	nylon	1
+convenient material	nylon	1
+Ectoparasites	nycteribiid fly	1
+loyalist	nyagah	1
+neurological side effect	nystagmus	2
+stock index	nyx	1
+tubing	nylon	1
+well-established technique	nyquist plot	1
+cheap brand	nyc	1
+commercially available material	nylon	1
+east coast city	nyc	2
+expensive place	nyc	1
+fiber type	nylon  sixty-six 	1
+forested area	nyingchi prefecture	2
+large metro area	nyc metro area	1
+lining material	nylon cotton	1
+membrane material	nylon	1
+progressive leader	nyerere	1
+safe alternative	nyjer seed	1
+toxic side effect	nystagmus	1
+venerable institution	ny times	1
+compliant material	nylon	3
+linear polymer	nylon	1
+protective eyewear	nylon frame glass	9
+slide	nyk	1
+Thermoplastic elastomers	nylon	1
+fastening device	nylon strap	5
+leading newspaper	ny newsday	1
+waterproof material	nylon	6
+best quality raw material	nylon film	1
+durable fabric	nylon	2
+inland region	nylsvlei	2
+inland region	nylsvlei in the northern province	2
+local directory	ny circle of translators	1
+movie title	nypd blue	1
+ocular abnormality	nystagmus	5
+online medium	ny times	1
+plastic resin	nylon	6
+pollen type	nymphoides indica	1
+reinforcing fiber	nylon	1
+respected publication	ny arts magazine	1
+sticky material	nylon	1
+stressful environment	nyc	1
+classical parameter	nyha functional class	1
+common english word	nylon	2
+heat sensitive material	nylon	1
+high-density area	nyc	1
+ocular manifestation	nystagmus	1
+sleeping pill	nytol	1
+visual condition	nystagmus	1
+best quality material	nylon	1
+non-corrosive material	nylon	1
+protected animal	nycticebus coucang	2
+synthetic resin material	nylon	2
+clinical end point	nyha functional class	1
+coast	nyc	1
+excellent material	nylon	1
+forest area	nyingchi prefecture	1
+german brand	nymphenburg	1
+hub city	nyc	1
+modern fabric	nylon	4
+population area	nyc	1
+refined material	nylon with animal print	1
+sister	nynaeve	1
+student-run organization	nyu comm club	1
+weight material	nylon cloth	1
+famous structure	nyanga mountains	1
+light-weight material	nylon	2
+polar material	nylon	1
+raw material cost	nylon thread	1
+resinous material	nylon	1
+runway	nyc fashion week	1
+scaffolding accessory	nylon rope  ten  mm. 	1
+All-Americans	nykesha sales	1
+anti-fungal agent	nystatin	3
+emergency service provider	nyssa police department	1
+emergency service provider	nyssa fire department	1
+everyday commodity	nylon	1
+heat-sensitive material	nylon	4
+legislature	ny state	1
+low cost material	nylon	1
+sexual disorder	nymphomania	1
+digital project	nyc open accessible space information system	1
+filament	nylon filament	1
+international pharmaceutical company	nycomed	2
+normal material	nylon	2
+regional location	nyc	1
+anti-fungal cream	nystatin	2
+anti-fungal medication	nystatin	6
+best raw material	nylon	1
+expensive city	nyc	2
+law source	ny case	1
+legendary club	ny palladium	2
+long-standing program	nyserda's flextech commercial	1
+plastic substrate	nylon acrylic	1
+activity	nyc bus trip on dec.  four th 	1
+activity	nyong climate change adaptation activity	1
+sheet good	nylon	1
+short fiber	nylon	4
+small fly	nymph	2
+symphony	nyphilhar monic	1
+textile fiber	nylon	3
+transportation agency	nysdot	2
+bulb plant	nymphaea sp.	1
+busy city	nyc	1
+clearinghouse	ny clearing corp.	1
+clothing material	nylon	2
+future market	nymex in new york	1
+nonconductive material	nylon	2
+respected scholar	nyaya vedanta baskara brahmashri pulusu appanna shastrigal	1
+top fashion magazine	nylon	1
+business corporation	ny medical	1
+cheap product	nyc lipstick	1
+conservatory	nyu tisch	1
+crystalline polymer	nylon	10
+dense city	nyc	2
+engineering resin	nylon	2
+engineering resin	nylon  six 	1
+market maker	nyse specialist	4
+oxygen scavenger	nylon mxd six  in beer bottle 	1
+popular TV series	nypd blue	1
+quality hardwood	nyatoh	1
+semi-rigid material	nylon	1
+topical antifungal agent	nystatin	9
+antifungal cream	nystatin	1
+city institution	nyc new york city institution	1
+cloth material	nylon	1
+common polymer	nylon	3
+contemporary product	nylon	1
+development stage	nymph	1
+leather craft supply	nylon coil zipper	2
+light weight fabric	nylon	3
+low-density material	nylon	1
+medium website	ny times	1
+medium website	nytimes.com	1
+non-prescription product	nytol	1
+reference signal	nyquist signal	1
+summer intensive	nyu's summer intensive	1
+synthetic polymeric material	nylon	1
+tribal name	nyamwezi in tanzania	1
+wear-resistant material	nylon	1
+commercially available polymer	nylon	2
+crowded city	nyc	1
+crowded city	ny	1
+drugstore product	nyx cosmetic	1
+engineering polymer	nylon	6
+industry executive	ny program director for the academy of motion picture arts	1
+large medium outlet	nytimes	1
+largest market	nyc	1
+largest market	ny metro area	1
+local and state agency	nypd	1
+neurologic effect	nystagmus	1
+non-conducting material	nylon fabric	1
+payroll cost	ny state retirement	1
+Polyamides	nylon  six 	13
+polyolefin	nylon	1
+reliable product	nylon	1
+ballerina	nycb's wendy whelan	1
+clearing house	nymex clearport	1
+dermatologist	nyc dermatologist dr. doris day	1
+man-made substance	nylon	1
+nature spirit	nymph	1
+non-woven product	nylon backpack	2
+objective finding	nystagmus	1
+plastic surface	nylon	1
+polar polymer	nylon	6
+police organization	nypd	1
+prognostic parameter	nyha functional class	1
+suitable plastic	nylon	4
+textile fabric	nylon	1
+third-party manufacturer	nyko	1
+combination drug	nyquil	1
+comfortable material	nylon	1
+efficient technique	nystrom approximation	1
+mainstream show	nypd blue	1
+polymer system	nylon  six 	1
+prescription cream	nystatin	1
+strategic material	nylon	1
+bond material	nylon  sixty-six 	1
+condensation polymer	nylon	3
+condensation polymer	nylon  six 	1
+endangered mammal	nyan	1
+flexible sheet	nylon mesh	1
+hair band	nylon strap	1
+manmade fiber	nylon	3
+material selection	nylon	1
+stretchy material	nylon	1
+washable fabric	nylon	2
+water surface	nymph cave	1
+antifungal treatment	nystatin	2
+antifungal treatment	nystatin drop	1
+best fabric	nylon	1
+comfortable fabric	nylon	1
+common plastic	nylon	1
+electrical insulator	nylon	1
+fashion fabric	nylon	2
+flexible object	nylon jacket	1
+free newspaper	ny times	1
+hit TV show	nypd blue	1
+mouth-watering dessert	ny cheese cake	1
+polymeric compound	nylon	2
+stretch fabric	nylon	1
+successful client	nycomed	1
+suitable plastic material	nylon	3
+suitable plastic material	nylon-based resin material	1
+thin product	nymph skin	1
+Topical antifungals	nystatin	7
+wonderful game	nyc tycoon	1
+anti-fungal drug	nystatin	2
+cerebellar sign	nystagmus	3
+conventional polymer	nylon	1
+eye movement	nystagmus	1
+ferry operator	ny waterway	1
+jewelry material	nylon	1
+large library	nypl premium services	1
+liberal bastion	nyc	1
+low friction material	nylon	4
+low friction material	nylon of ptfe	1
+non-plastic material	nylon	1
+resin particle	nylon	1
+stretchable material	nylon	1
+suitable flexible material	nylon	2
+usernames	nycrackdealer	1
+boat service	ny waterway	1
+coated material	nylon	1
+event organizer	nyc & co.	1
+fall event	nyc marathon	1
+filamentary material	nylon	2
+flexible plastic	nylon	1
+focal sign	nystagmus	1
+insect growth regulator	nylar	2
+insect growth regulator	nylar igr	1
+insect growth regulator	nyguard igr	1
+low voltage electrical product	nylon cable tie	1
+over-the-counter sleep aid	nytol	2
+over-the-counter sleep aid	nytol product	1
+polyamide resin	nylon  six 	2
+polymer product	nylon	1
+suitable substance	nylon	1
+antifungal medicine	nystatin	2
+antifungal medicine	nystatin suspension	1
+antifungal medicine	nystatin liquid	1
+art publication	nyarts magazine	1
+concrete	ny brownstone walk-ups	1
+extrapyramidal sign	nystagmus	1
+film product	nylon film for food packaging	1
+high modulus material	nylon	1
+melody instrument	nyckelharpa	1
+non-absorbable suture	nylon	3
+non-metallic substrate	nylon	1
+performance fabric	nylon	1
+promotional bag	nylon drawstring backpack	2
+protein fiber	nylon	2
+quality site	ny reverse mortgage lenders	1
+semicrystalline polymer	nylon  six 	1
+semicrystalline polymer	nylon	1
+semicrystalline polymer	nylon- six , six 	1
+semi-crystalline polymer	nylon	1
+suture material	nylon	1
+synthetic plastic	nylon	1
+wonderful city	nyc	1
+absorbable material	nylon	1
+absorbent fabric	nylon	1
+cappella group	nylons	1
+information	nys record	1
+classic cut	ny strip steak	1
+cold medicine	nyquil	2
+cold medicine	nyquil day	1
+commodity exchange	nymex	2
+cough medicine	nyquil	2
+filtration material	nylon	1
+frequency domain technique	nyquistarray analysis	1
+high strength fiber	nylon	3
+holster	nylon gun holster	1
+indigestible material	nylon	1
+local woman	nyonya	1
+MPOs	nymtc	3
+news apps	nytimes	2
+nonabsorbable suture	nylon	6
+nonwoven fabric	nylon nonwoven fabric	1
+olive	nyons	1
+powder coating	nylon	1
+rigid plastic material	nylon	1
+savvy investor	nytime savvy investor	1
+strong fabric	nylon	1
+tabloid newspaper	ny post	1
+technical exercise	nyoraku's stuff	1
+tool s	nylon knife	1
+tool s	nylon potato masher	1
+world class city	nyc	1
+allergic substance	nylon	1
+artificial item	nylon rope	1
+citites	nyc	1
+english brand	nyetimber	1
+fantastical being	nymph	1
+Flexible tubing	nylon	1
+great filmmaker	nyak abbas akkub	1
+high pass	nyele la	1
+historic ship	nyk line's asama maru	1
+key identifiers	nysid	2
+ocular defect	nystagmus	2
+outstanding company	ny daily news	1
+polyester product	nylon shioze	1
+polymer surface	nylon	1
+polymeric coating	nylon	1
+public client	nysdot	2
+rescue worker	nypd officers based at the morgue	1
+tax credit program	nys brownfields	1
+tax credit program	nys empire zone	1
+threaded member	nylock type nut	1
+trusted source	nytimes	1
+alumnus function	nyc club meeting	1
+draw string pouch	nylon	1
+flexible film	nylon	1
+floating aquatic plant	nymphaea spp.	1
+floating aquatic plant	nymphaea odorata	1
+future exchange	nyse euronext	1
+globalist	nyt columnist tom friedman	1
+low-friction material	nylon	4
+low-friction material	nylon film	1
+man-made fabric	nylon	7
+mesh bag	nylon	1
+microporous membrane	nylon membrane	1
+molded plastic	nylon	4
+natural or synthetic fiber	nylon	4
+event	ny media day	2
+performance material	nylon	1
+polar component	nylon	1
+polymer fiber	nylon	2
+popular road	nyc	1
+real city	nyc	1
+sedative antihistamine	nytol	1
+slippery fabric	nylon	1
+standard analysis technique	nyquist	1
+stringing material	nylon thread	1
+stringing material	nylon beading string	1
+synthetic item	nylon	1
+synthetic rope	nylon rope	5
+synthetic rope	nylon	2
+synthetic yarn	nylon	3
+thermoplastic fiber	nylon	4
+transformer component	nylon bobbin	1
+woven material	nylon	2
+artificial fiber	nylon	10
+bantu group	nyoro	2
+biocompatible polymeric material	nylon	1
+city plan	nyc	1
+cost material	nylon	1
+deep water plant	nymphaea	1
+fiber reinforcement	nylon	1
+generic pattern	nymph	1
+herbal pill	nytol with no success	1
+herbal sleep aid	nytol	1
+high quality fiber	nylon	1
+hose fitting	nylon	1
+local police department	nypd	1
+manmade fabric	nylon	1
+market operator	nyse euronext	1
+nigeria's finest artiste	nyore	1
+others source	nyt	1
+physical irritant	nylon	3
+political site	ny times	1
+public employee union	nysut	1
+release coating	nylon release coating	1
+sexy clothes	nylon	1
+sheltered site	nysted	1
+successful actress	nyomi marcela	1
+thermoplastic polymeric material	nylon	1
+thread type	nylon	1
+tight-fitting clothes	nylon pantie	1
+traditional plastic	nylon	2
+translucent fabric	nylon	1
+visual abnormality	nystagmus	1
+Workshop Pliers	nylon jaw pliers	1
+woven fabric	nylon	2
+york city agency	nycha	1
+basic fabric	nylon	2
+big urban area	nyc	1
+bird food product	nyjer	1
+botanical name	nymphaea nouchali	1
+charity function	ny cares benefit concert	1
+chemical fiber	nylon	4
+chemical fiber	nylon fiber	1
+clothing type	nylon	1
+electronic connector	nylon electrical connector	1
+example antifungal agent	nystatin	1
+exogamous clan	nyikuren clan of fire-makers	1
+fashion city	nyc	2
+flammable fabric	nylon	1
+Flood tolerant species	nyssa	1
+functional fabric	nylon	2
+high income area	nyc	2
+high performance thermoplastic	nylon	2
+jazzers	nylon string jazzers	1
+large race	nyrr	1
+liberal medium outlet	nyt	1
+liberal medium outlet	ny times favoring obama	1
+load balancer	ny standard load balancer	1
+mesh material	nylon	2
+minor and semi star	ny yankees team card	1
+neurological anomaly	nystagmus	1
+nylon	nylon  six 	5
+nylon	nylon  sixty-six 	1
+ocular effect	nystagmus	1
+operating brand	nyleo	1
+event	nye celebration	1
+event	nyc marathon	1
+event	nyeri marathon	1
+event	ny congress	1
+event	nycrsc first annual steamrolling cocktail reception in albany in recognition of insane governor	1
+event	nycs fashion week	1
+event	nyu nach	1
+plush fabric	nylon	1
+polymer thin film	nylon	1
+porous support	nylon membrane	2
+quality brush	nylon roller brush	1
+raw textile material	nylon	3
+release sheet	nylon	2
+rugged material	nylon	1
+single agency	nyc dot	1
+wet fly	nymph	2
+york city comedy club	ny comedy club	2
+bandpass filter	nyquist filter	1
+bearing material	nylon	1
+branded jenga game	ny yankees jenga	1
+continuous fiber	nylon	1
+conveyor belt	nylon conveyor belt	3
+delightful color	nyc dust	1
+durable plastic	nylon	1
+ear disorder	nystagmus-inner  ear disorder	1
+extremely light material	nylon	1
+generally non-conductive fiber	nylon	1
+headband	nylon strap	1
+high temperature plastic	nylon	1
+hunting clothes	nylon vest	1
+hydrophilic resin	nylon	1
+hydrophobic fiber	nylon	7
+injection molding resin	nylon	1
+latest lifestyle brand	nylon squid	1
+leading fashion magazine	ny times magazine	1
+local director	nyi pu	1
+molten polymer	nylon	1
+northern civil war title	ny herald	1
+northern civil war title	ny times	1
+northern civil war title	ny world	1
+northern civil war title	ny tribune	1
+ocular anomaly	nystagmus	2
+OTC sleep aid	nytol	1
+over-the-counter antifungal cream	nystatin	1
+over-the-counter cold medicine	nyquil	1
+payment network	nyce	1
+petroleum-based ingredient	nylon	2
+soft, pliable material	nylon	1
+summer intensive program	nysssa of the new york city ballet	1
+synthetic organic fiber	nylon	1
+synthetic resinous material	nylon	1
+temperature sensitive material	nylon	1
+thermoplastic synthetic resin	nylon	1
+tractor spare part	nylon bush	1
+vision defect	nystagmus	1
+vocal competition	nysta bel canto competition	1
+antifungal tablet	nystatin	1
+anti-fungal treatment	nystatin	2
+Anti-fungals	nystatin	2
+artificial fabric	nylon	6
+Bourses	nyse euronext	2
+bushing material	nylon	1
+common fabric	nylon	1
+elastic polymer	nylon	1
+elastic polymeric material	nylon	1
+event	nyu kirtan	1
+event	nyon's paleo festival	1
+event	ny fashion week	1
+event	ny transit strike	1
+program	nypd blue	4
+program	nyserda	3
+european factory	nymphenburg	1
+excellent quality raw material	nylon	1
+fabric reactive dye	nylon coloring dye	1
+film school	nyu's tisch school	1
+financial exchange	nyse euronext	2
+forested region	nyingchi prefecture	1
+franchise health club	ny health & racquet club	3
+furniture fabric	nylon	1
+inner-city school	nyu	1
+large and multinational company	nynex	1
+plant movement	nyctinasty	1
+polyenes	nystatin	5
+popular online website	nytimes video	1
+populous province	nyanza	2
+publicly available database	nyse taq database	1
+routine product	nylon	1
+sport bag	nylon sports bag	1
+staple material	nylon  sixty-six 	1
+suitable thermoplastic material	nylon	3
+synthetic bath item	nylon bath product	2
+synthetic brush	nylon	3
+synthetic polymer material	nylon	6
+terrorist target	nyc	1
+thermoplastic and thermoset polymer	nylon	1
+thermoplastic yarn	nylon	2
+thermoplastic yarn	nylon  sixty-six 	1
+upland	nyika	1
+viral video	nyan cat	1
+world renowned venue	nyc's caroline's on broadway	2
+world renowned venue	nyc's carolines on broadway	1
+amorphous plastic	nylon  six - six 	1
+anticline	nyk	1
+arbitrary material	nylon	1
+base fabric	nylon	1
+biggest site	ny times mbl	1
+blended yarn	nylon with polyester	1
+cable tie	nylone cable tie	1
+cable tie	nylon cable tie	1
+clinical correlate	nyha functional class	1
+commonly available belt material	nylon	1
+condensation product	nylon	1
+connector material	nylon	1
+dental office	ny pediatric dentistry	1
+durable feature	nylon strap	1
+elastic	nylon elastic cord	1
+exchange operator	nyse euronext	2
+exotic creation	nyonya peppered beef tenderloin	1
+exquisite hotel	nyago inn	1
+eye change	nystagmus	1
+flexible cable	nylon rope	1
+hard plastic material	nylon	1
+heat resistant plastic	nylon	2
+heavy rail system	nyc	1
+high demand resource	nylon	1
+includesmaterials	nylon	1
+initial product	nylon-bristled toothbrush	1
+japanese magazine	nylon	1
+legit source	ny times	1
+low energy material	nylon	1
+luo name	nyabongo	1
+nimals	nyala	1
+program	nyiso's emergency demand response programs	2
+program	nypd's cadet corps	2
+program	nyu in florence	2
+program	nyc's std clinic	1
+program	nyc's young adult borough centers	1
+program	nyiso's day-ahead demand response program	1
+program	nyingma psychology	1
+program	nyingma summer seminar	1
+non-abrasive material	nylon	1
+nonconductive natural or synthetic fiber	nylon	3
+non-natural material	nylon	1
+off-off-broadway theater	nyc fringe festival	1
+plastic system	nylon	1
+polishing cloth	nylon cloth	1
+polyene antibiotic	nystatin	8
+progressive policy	nypd's invasive stop-and-frisk practice	1
+sometime now area	nyamekye	1
+stable fabric	nylon jacket	1
+standard antibiotic	nystatin	1
+stiff polymer	nylon	1
+strength member	nylon	2
+suitable toy	nylabones	1
+synthetic membrane	nylon treated with polypropylene	1
+synthetic non absorbable polymer fiber	nylon	3
+tough plastic	nylon	1
+traditional african instrument	nyanga pan pipe	1
+vestibular symptom	nystagmus	2
+washable material	nylon for easy upkeep	1
+Wetland tree species	nyssa	1
+agriculturally rich area	nyamira	1
+anti-friction material	nylon	1
+awesome G-10 city	nyc	1
+ballistic material	nylon	1
+belt related offer	nylon belt	1
+celebrity perfume	nyc by sarah jessica parker	1
+cloth fiber	nylon	2
+compatibility thermoplastic	nylon	1
+complex byproduct	nylon	1
+control theorist	nye et al	1
+cool apps	ny times app	1
+culture material	nylon rope	1
+dark god	nyarlathotep	1
+export program	nypd cop car	1
+extrudable material	nylon	1
+extruded material	nylon	1
+gentle fabric	nylon	2
+gigantic metropolitan area	ny	1
+high-altitude area	nyasoso in tombel sub division	1
+industrial water user	nypac leather	1
+insparations	nyjah houston	1
+international show business event	nyc's fashion show	2
+lens feature	nylon	1
+mainstream paper	ny times	1
+manmade product	nylon	1
+materi-als	nylon	1
+microfiber	nylon	2
+music hub	nyc	1
+neighborhood name	nyc neighborhood name	1
+news operation	ny times	1
+nice food	nyonya kueh	1
+non-compressible material	nylon	1
+NYC subway souvenir	nyc subway christmas ornament	1
+objective observer	nyu nutrition professor marion nestle	1
+program	nyu in shanghai	1
+program	nylf	1
+program	nyc jazz club	1
+program	nyc leadership academy	1
+program	ny one 	1
+program	nyc asthma partnership	1
+program	nyu in berlin	1
+program	nyu in ghana	1
+program	nypd shield	1
+program	nyra rewards	1
+program	nyserda energy audit	1
+program	nyit alumni scholarship fund	1
+program	ny wine	1
+program	ny gauchos	1
+program	ny designs	1
+plastic plate	nylon	1
+polyester ribbon	nylon polyester ribbon	1
+polymer filament	nylon	2
+racial stereotype	ny state senator ruben diaz	1
+railroad line	ny central rr	1
+resin surface	nylon	4
+rope material	nylon	2
+serving entree	ny steak	1
+silvicultural work	nyaunbat felling	1
+strand material	nylon	1
+strong plastic material	nylon	1
+style bible	nylon	1
+subsurface fly	nymph	1
+wild canine	nyctereutes procyanoides	1
+yarn type	nylon	1
+aftermarket cooler	nyko	1
+anti-fungal medicine	nystatin	1
+antique show	nyc pier	1
+ATM network	nyce	2
+best partner	nyk	1
+big paper	ny times	1
+broad index	nyse composite	1
+busy urban area	nyc	1
+Clinical end-points	nyha functional class	1
+commercial polymer	nylon	1
+contemporary fabric	nylon supplex	1
+conventional high strength fiber	nylon	1
+cooling unit	nyko intercooler ts	1
+counter sleep aid	nytol	2
+crystalline resin	nylon	1
+custom floor mat	nylon carpet floor mat	2
+custom floor mat	nylon carpet mat	1
+disk-based material	nylon wheel drive	1
+extruded plastic material	nylon	1
+eye anomaly	nystagmus	2
+fiber yarn	nylon	1
+flat city	nyc	1
+generally nondistensible material	nylon	3
+government lender	nys housing trust fund	1
+high polymer compound	nylon	1
+hindu holiday	nyepi	1
+IIR filter	nyquist filter	1
+inferior wood	nyatoh	1
+kid sock	nylon kids sock	1
+large faunal species	nyala	1
+large state agency	nysdot	1
+lawyer group	ny state defenders association	1
+leading character	nymphs	1
+low modulus material	nylon	1
+program	nyu in london	1
+program	nyu in madrid	1
+program	nyuhome's webmail client	1
+program	nyserda programs concentrating on energy efficiency	1
+program	nysp	1
+program	nypa recharge new york	1
+community	nyngan	2
+melbourne icon	nylex clock	1
+mesh fabric	nylon	1
+metropolitan police department	nypd	1
+monofilament suture	nylon	3
+national & global brand	nynex yellow pages	1
+national exchange	ny stock exchange	1
+non-metal pipe material	nylon	1
+non-stretchable material	nylon strap	1
+non-stretchable material	nylon	1
+off-off-broadway venue	nyc fringe festival	1
+online medium site	nytimes.com	1
+organic fiber cord	nylon	5
+performance polymer	nylon	1
+physiological side effect	nystagmus	1
+pittsburgh star	nyjer morgan	1
+plastic tube	nylon	1
+polyamide fiber	nylon fiber	2
+polyamide fiber	nylon  six 	1
+polymeric fiber	nylon	4
+polyolefin plastic	nylon	1
+potential appointee	nydia velazquez	1
+professional mover	nyc movers in new york city	1
+prominent sponsor-members	nykredit	1
+public exchange point	nyiix	1
+pure synthetic	nylon	1
+rail road	ny central	1
+regional cable new operation	ny one  for nyc 	2
+regional cable new operation	ny one  for new york city 	1
+reputable new outlet	ny times	1
+rigid and semi-rigid material	nylon	1
+semi-crystalline homopolymers	nylon	1
+semi-crystalline material	nylon	1
+semi-crystalline resin	nylon	3
+serving	nylon	1
+soft restraint	nylon flex cuff	2
+specialty venue	nyama choma	1
+standard engineering polymer	nylon	1
+static-generating material	nylon	1
+strong flexible material	nylon	1
+student activity program	nyu's new club development program	1
+suitable fiber	nylon	1
+suitable flexible plastic	nylon	1
+synthetic blend	nylon	1
+synthetic clothes	nylon	3
+synthetic or animal material	nylon	1
+tube cutter	nylon trimmer	1
+tube cutter	nylon wire cutter	1
+tube cutter	nylon cutter	1
+unusual and unlikely material	nylon thread	1
+western publication	ny times	1
+adherent material	nylon clothing	1
+altered actual type	nylon	1
+altitude place	nyingchi	1
+aquatic angiosperm	nymphaeales	1
+balloon material	nylon	2
+barrow	nympsfield barrow	1
+big journal	ny times	1
+bodily irritant	nylon	2
+braid material	nylon	2
+brainstem sign	nystagmus	1
+busiest port	nynj	1
+busy metropolitan area	nyc	1
+canadian group	nylons	1
+carpet fiber	nylon	4
+child sock	nylon school sock	1
+classical ballet company	nycb	1
+classical indian school	nyaya	2
+coat material	nylon	1
+color plastic material	nylon	3
+commercially available thermoplastic	nylon	1
+common membrane material	nylon	1
+condensed resin	nylon resin	2
+contracting agency	nyc department of housing preservation & development	1
+community	nyack village	1
+community	nyssa ccd	1
+community	nyssa city	1
+dose-related toxic effect	nystagmus	1
+drapery item	nylon thread	1
+effectively clean various fiber	nylon	1
+evangelical school	nyack	1
+exchange group	nyse euronext	8
+exotic and rare animal species	nyala	1
+expensive steak	ny strip	1
+extra-limital species	nyala	1
+favourite site	ny times	1
+featured bymedia outlet	ny press	1
+fiber additive	nylon	1
+fiber rope	nylon rope	2
+fibrous solid	nylon	1
+fibrous, non-degradable material	nylon	2
+generally engineering plastic	nylon	1
+general-purpose engineering plastic	nylon  six 	1
+good chew	nyla bones	1
+good chew	nylabones	1
+good president	nyerere	1
+governmental and nongovernmental organization	nypd	1
+hard chew	nylon bone	1
+high quality brush	nylon	1
+homopolymer	nylon  six 	1
+hygroscopic plastic	nylon	1
+industrialized material	nylon-core rope	2
+injection molding material	nylon	1
+introduced material	nylon	2
+large global employer	nyse technologies	1
+life-history datum	nymphal development	1
+lightweight and breathable material	nylon mesh	1
+lining fabric	nylon	2
+local DJ's	ny sushi crew spinning the tunes at the weekend	1
+local emergency service agency	ny state police	1
+low viscosity material	nylon	1
+low viscosity resin	nylon	1
+low-extensible material	nylon	1
+magazine application	nylon	1
+mangrove plant	nypa fructicans	1
+medieval and modern folk instrument	nyckelharpa	1
+mentality	nyau iya aja aja	1
+Minor hardwood taxa	nyssa	1
+moldable polymeric material	nylon	2
+Molten plastic	nylon	1
+nanny	ny mayor bloomberg	2
+national and international trunk road	nyali bridge-kilifi road	2
+neurological phenomenon	nystagmus	1
+nitrogen-containing polymer	nylon	2
+nonstick pan-friendly material	nylon	1
+nylon belt	nylon fiber belt	1
+nylon fabric	nylon georgette fabric	1
+nylon product	nylon rod	1
+nylon product	nylon jacket	1
+option exchange	nyse euronext	2
+Petroleum by-products	nylon	1
+petrolium based material	nylon	1
+Pharmaceutical antifungals	nystatin	1
+plastic molding composition	nylon	4
+plastio material	nylon	1
+polyamide	nylon	3
+Polyene antifungals	nystatin	4
+Polyene antifungals	nystatin of amphotericin	1
+popular fashion title	nylon	1
+popular polymeric material	nylon	1
+powerful newspaper	ny times	1
+prescription anti-fungal medication	nystatin	1
+professional coating	nylon	1
+protective deity	nyenchen tanglha	1
+Rare taxa	nymphaea tetragona	1
+red carpet regular	nyc red carpet regular	1
+reliable new orginizations	ny daily news	1
+resin tube	nylon tube	1
+resin type	nylon	1
+rural economy	nye county	1
+second insulation layer	nylon layer	1
+semicrystalline resin	nylon	2
+community	nye county	1
+organization	nypd	4
+organization	nyserda	4
+organization	nys energy research & development authority	2
+organization	ny life	2
+single fiber fabric	nylon	1
+SINGLE FIBRE fabric	nylon	1
+slippery yarn	nylon blend	1
+soft and breathable material	nylon	1
+solid phase immunoadsorbents	nylon	1
+sound deadening material	nylon	1
+specialty hose clamp	nylon hose clips	1
+straight ingredient	nyjer seed	2
+synthetic carpet	nylon	3
+synthetic clothing	nylon	3
+synthetic filament	nylon	1
+synthetic graft material	nylon	1
+synthetic sock	nylon	3
+tai language	nyaw	1
+textile substrate	nylon carpeting	2
+thermoplastic resin system material	nylon	1
+thermo-set resin	nylon	1
+tibetan order	nyingma	1
+tire cord material	nylon	2
+tough plastic material	nylon	1
+traditional fiber	nylon	1
+trauma program	nyu international trauma studies program	1
+tube-shaped or bag-shaped material	nylon	1
+U.S. academic center	nyu medical center	1
+unknown effect	nystagmus on iris recognition system	1
+unnatural fiber	nylon	1
+unused pet supply	nylon dog collar	1
+urban and urbane area	nyc	1
+visual anomaly	nystagmus	1
+wet fly pattern	nyerges nymph	1
+20th century product	nylon	1
+abrasion-resistant long-wearing material	nylon	1
+additionally many resin	nylon	1
+african thinker	nyerere	1
+Aliphatic polyamides	nylon  six 	1
+Aliphatic polyamides	nylon  sixty-six 	1
+animal-free material	nylon	1
+anionic fabric	nylon	1
+antimycotics	nystatin	4
+archetypal abstract	nylon	1
+artificial polymer	nylon	2
+athletic pant	nylon wind pant	1
+best exquisite material	nylon	1
+biopolymers conventional synthetic polymer	nylon	1
+bitumen supplier	nynas	1
+breakthrough series	nypd blue	1
+candidate in-house	nyjer morgan	1
+carrier film	nylon	1
+Chemical Fiber Fabric s	nylon	1
+Clinical charact eristics	nyst agmus	1
+cold relief medication	nyquil	1
+colored staple organic fiber	nylon	1
+common machinable plastic	nylon on a daily basis	1
+company board	nyse company board	1
+constrictive clothing	nylon	1
+conventional plastic film	nylon	1
+conventional thermoplastic polymer	nylon	1
+crime datum	nyc murder rate	2
+diagnostic sign	nystagmus	1
+domestic prestigious shipping company	nyk	1
+durable string	nylon	3
+eclectic	nystrom	1
+EFT network	nyce	1
+elastic fiber	nylon	1
+elastomeric element	nylon	1
+electronic trading network	nyse arca	1
+organization	ny youth bloc	1
+organization	ny knicks	1
+organization	nyu reynolds program for social entrepreneurship	1
+organization	nyym	1
+organization	nyra	1
+organization	nyssma	1
+organization	nyk line	1
+organization	ny bass round-up	1
+organization	ny department of finance	1
+organization	ny club	1
+europe-usa market	nyc	1
+exciting new restaurant	ny sports club	1
+fabulous show	nyc prep	1
+fashionfabrics	nylon	1
+fav magazine	nylon	1
+flame-resistant synthetic material	nylon	1
+flavourful nyonya dish	nyonya style crab	1
+flex material	nylon	1
+frequency domain tool	nyquist	1
+gompas	nyingmapa gompa	1
+hacker space	nyc resistor	1
+hard and durable material	nylon	1
+high-profile industry event	ny fashion week	1
+hood material	nylon	3
+hot-melting fiber	nylon	1
+hugely familiar product	nylon	1
+hydrophilic synthetic fiber	nylon	1
+Incumbent LECs	nynex	1
+indigenous attraction	nylon pool	1
+in-stock fabric	nylon	1
+involuntary eye movement disorder	nystagmus	1
+isocyanate compatible fibrous filler	nylon	1
+italian area	nyc	1
+kenyan province	nyanza	1
+large franchise health club	ny health & racquet club	1
+large, liberal population center	nyc	1
+lateralizing feature	nystagmus	1
+leveraged top tier sponsorship	ny symphony	1
+liberal source	ny times	1
+lightweight and durable material	nylon strap	1
+lightweight cloth	nylon	2
+linese	nyk	1
+lingerie different material	nylon pure	1
+long barrow	nympsfield	1
+low friction bearing	nylon	2
+man-made or synthetic fiber	nylon	2
+manufactured fabric	nylon	3
+meltable fiber	nylon	14
+meltable synthetic fiber	nylon	1
+membrane-active agent	nystatin	1
+microporous and macroporous polymer	nylon	1
+modem material	nylon	1
+murdoch's newspaper	ny post	1
+napless cloth	nylon	1
+national and global brand name	nycomed	1
+neutral demon	nyx	1
+nitrogen-containing substrate	nylon	1
+non-electrically conductive material	nylon	1
+non-flame-resistant synthetic material	nylon	3
+non-leather material	nylon	1
+non-metal utensil	nylon	3
+nylon rod	nylon square rod	1
+olympic skier	nysef executive director jay rand	1
+operating authority	nyaa operating authority	1
+organic fiber material	nylon	1
+organic thermoplastic material	nylon	1
+outside auditor	nyc comptroller's office	1
+Over-the-counter sleep-aids	nytol	1
+parody sketch	nypd green	2
+peripheral company	nyko	1
+petrochemical polymer	nylon	1
+petroleum-based fiber	nylon	1
+petroleum-based synthetic fiber	nylon	1
+plastic office chair part	nylon base	1
+plastic resin material	nylon resin material	2
+poly blend	nylon	1
+polyamide substrate	nylon carpeting	4
+polyene antifungal agent	nystatin	1
+polymer matrix material	nylon	1
+polyurethane polymer	nylon	1
+popular length adjustment device	nylon hook	1
+porous membrane material	nylon	1
+organization	nys department of environmental conservation	1
+organization	nyse euronext	1
+organization	nyrr	1
+organization	nys restaurant association	1
+organization	nyc rescue mission	1
+organization	nyc student discount initiative for aids	1
+organization	ny times	1
+organization	ny organ donor network	1
+organization	ny mta	1
+organization	nyc department of sanitation	1
+organization	nynex	1
+pre-booked activity	nyalaland wilderness trail	1
+premium website	ny times	1
+prescription antifungals	nystatin	3
+prestigious porcelain manufacturer	nymphenburg	1
+protein-based fiber	nylon	1
+public health website	nysiis	1
+publishing business	ny times	1
+quick dry material	nylon	1
+quick dry material	nylon wind jacket	1
+reactionary organization	ny times in suggesting reform	1
+reputable private school	nyeri baptist	1
+safari operator	nyanja safaris	1
+semicrystalline plastic	nylon	1
+semi-rigid plastic material	nylon	1
+slick finish	nylon	1
+slick material	nylon	1
+small-scale program	nyc bonus program	1
+sock synthetic material	nylon	1
+soft-seat material	nylon	2
+specialty tubing product	nylon tubing	1
+spicy wine	ny state	1
+stability criterion	nyquist criterion	3
+strong strapping material	nylon webbing	2
+student housing service	nyu summer housing	1
+subtle condition	nystagmus	1
+successful collection	nyc	2
+suitable binder material	nylon resin	1
+suitable commercial plastic	nylon	1
+suitable fiber material	nylon	1
+synthesized material	nylon	1
+synthetic fiber rope	nylon	2
+synthetic man-made fiber	nylon	2
+textile cord	nylon	1
+thermoplastic fabric	nylon	2
+thermo-plastic material	nylon laminate	1
+thermoplastic or thermoset polymer	nylon	1
+thermo-plastic synthetic fiber	nylon fiber	1
+traditional membrane material	nylon	1
+traditional synthetic fiber	nylon	1
+transient response	nyctinasty	1
+True debit-cards	nyce	1
+twisted yarn	nylon twisted yarn	1
+underlayers meltable fiber	nylon	1
+varioius orchestra	nyo	1
+vision abnormality	nystagmus	2
+wall street banker	ny fed director	1
+wartime innovation	nylon	1
+waste packaging material	nylon	1
+wearingofmanysynthetic fabric	nylon	1
+well-known television network	ny one  news 	1
+yarn system	nylon	2
+York event information	ny giants ticket	1
+york state agency	nysdot	1
+york state agency	nyserda	1
+york state leader	nysrtl board member jean head	1
+19th century rockland's village	nyack	1
+abnormal eye movement	nystagmus	3
+acute cerebellar sign	nystagmus	1
+adverse candida remedy	nystatin	1
+answer A. vision change	nystagmus	2
+antifungal antibiotic	nystatin	2
+aphid demographic parameter	nymphal survival	1
+appetite-whetting salad	nyonya acar	1
+arousal cream	nympho niagra	1
+artificial and man-made material	nylon	1
+artificial textile	nylon	2
+award-winning television show	nypd blue	1
+bark stop collar related offer	nylon collar	1
+basic costume fabric	nylon	1
+technique	nyquist pulse-shaping technique	1
+battlefield event	nyzul isle assault	1
+best new android apps	nytimes android app	1
+best newspaper	ny times	1
+big city market	ny	1
+big foreign producer	nycomed	1
+big national blue event	nyc blues blaze	1
+biostable polymer	nylon	1
+book subject	nyt bestseller	1
+bow utilizing material	nylon	1
+braided nonabsorbable suture material	nylon	2
+bravo's reality show	nyc prep	1
+bright blacks	nyerere	1
+bristled brush	nylon scrubbing brush	1
+bulk crystalline polymer	nylon	2
+carbon polymer	nylon	1
+castor	nylon	2
+classic steak	ny strip	1
+classical frequency domain technique	nyquist	2
+classical indian philosophy	nyaya	1
+collective descriptive language group name	nyoongar	1
+colored base	nyx jumbo eye pencil in horseradish	1
+comfortable yet durable material	nylon	1
+commercial carpet	nylon	1
+common artificial fiber	nylon fiber	1
+common artificial fiber	nylon	1
+common household plastic	nylon	2
+common staple fiber	nylon	1
+competitive specialty petrochemical product	nylon carpeting	1
+composite or plastic material	nylon	2
+condensation polymerization plastic	nylon	1
+continuous filament	nylon	1
+continuous multi-filament thermoplastic textile yarn	nylon	1
+continuous synthetic filament	nylon	1
+conventional flexible material	nylon	1
+conventional polyamides	nylon  six 	1
+conventional suture	nylon suture	2
+copenhagen's historic landmark	nyhavn	1
+counter candida remedy	nystatin	3
+dancehall market	nyc	1
+democratic turncoat	nyack mayor john sheilds	1
+distinctive series	ny series	1
+diversified iin many different area	nyse floor	1
+dupont brand name	nylon	1
+durable paper	nylon paper	1
+durable, flexible material	nylon	1
+easy material	nylon	1
+easy-to-care fabric	nylon	1
+edgy name	nylon	1
+effortless-to-care fabric	nylon	1
+endocytotic inhibitor	nystatin	5
+environmental and health organization	nys lung association	1
+episodic television show	nypd blue	1
+established public garden	nybg	1
+ethnic city	nyc	1
+ethnically diverse place	nyc	1
+europe's largest exchange group	nyse euronext	1
+eye's disorder	nystagmus	1
+famous nyonya dessert	nyonya kuih	1
+fashionable ribbon belt	nylon belt	1
+fetish's	nylon	1
+filament fiber	nylon	2
+finnish word	nyky -	1
+first modern species	nypa fruticans	3
+fl oating-leaved plant	nymphaea alba	1
+flaccid material	nylon	1
+flat or rolled material	nylon	1
+flexible, sturdy material	nylon rope in the preferred embodiment	1
+frequency response analysis technique	nyquist stability criterion	2
+fun NYC summer event	ny underground comedy festival	1
+technique	nyasa	1
+technique	nyu impactor	1
+gas sample system	nylon	1
+gas-barrier synthetic resin film	nylon film	1
+glass-fiber-reinforced engineering thermoplastic	nylon  sixty-six 	1
+global university	nyit	1
+good undergrad school	nyu	1
+government administrator	nyumba kumi	1
+hard brush	nylon brush	1
+hard, rigid material	nylon	1
+healing workshop	nyc reiki meetup	1
+heat-resistant plastic film	nylon film	1
+high cost-of-living area	nyc	1
+high melting thermoplastic	nylon	1
+high quality waterproof material	nylon	1
+high-temperature and high-performance polymer	nylon	1
+home beauty product	nylon	1
+host polymer	nylon  six 	1
+hotel toothbrush related offer	nylon toothbrush	1
+hydrophobic film	nylon	2
+hygroscopic plastic material	nylon	1
+immature form	nymph	1
+imperial residential structure	nymphaeum in the horti liciniani	1
+impervious membrane	nylon	1
+impulse type seal material	nylon	1
+industrial belt related offer	nylon belt	1
+industrial fiber	nylon	1
+industrially important synthetic polymer	nylon	3
+industrially important various synthetic polymer	nylon	1
+isocyanate compatible fibrousfillers	nylon	1
+large, durable toy	nylon bone	1
+limo market	nyc	1
+local cream	nystatin	1
+local deity	nyenchen tanglha	1
+local worldwit discussion group	nycwit in new york	1
+lorises	nycticebus	1
+low digestible oligosaccharides	nystose	1
+low viscosity plastic	nylon	1
+low-cost fiber	nylon	1
+man-made clothing fiber	nylon	2
+manmade non-cellulosic fiber	nylon	1
+manuctured material	nylon	1
+manufactured fiber	nylon	2
+mature forest tree	nyatoh	1
+mega-mesothermal element	nyssa	1
+meltable fabric	nylon	1
+metro airport	ny metro airport	1
+metro restaurant area	nyc	1
+mind school	nyu poly	1
+mobile life stage	nymph	1
+modern social taboo	nymphomania	1
+modern synthetic fiber	nylon	1
+modern tabloid	ny post	1
+monastic institution	nyingma college in sikkim	2
+municipal police department	nypd	1
+nastic movement	nyctinasty	2
+natural or synthetic compound	nylon	2
+nickel catalyst	nysosel sp seven 	1
+nitrogen-contain-ing substrate	nylon	1
+Non-absorbable suture material	nylon	2
+non-biological substrate	nylon	2
+non-brittle plastic	nylon	2
+non-conductive, non-corrosive material	nylon	1
+non-dim sum cantonese place	nyc	1
+non-ironable fabric	nylon	1
+non-natural biomaterials	nylon fiber tube	1
+notch-sensitive material	nylon	3
+notorious area	nyanga	1
+NYFA program	nyfa source hotline for artist	1
+nylon rope	nylon solid braided rope	1
+NYPD souvenir	nypd t-shirts	1
+on-line debit card network	nyce	1
+ophthalmological abnormality	nystagmus	1
+ost synthetic carpet fiber	nylon	1
+OTC clearing house	nymex	1
+percent recycled carpet fiber	nylon	1
+permanent suture material	nylon	2
+pernapasan symptom	nyeri chest	1
+petroleum-derived synthetic polymer	nylon	1
+phonetic-based algorithm	nysiis	1
+pilot fence area	nyeri district	1
+plastic carpet	nylon	1
+pliable weather resistant fabric	nylon	1
+polar and non-polar material	nylon	1
+polyene anti-fungal drug	nystatin	3
+polyene macrolides	nystatin	1
+polymer s	nylon	1
+polymeric yarn	nylon	1
+popular engineered plastic	nylon	1
+popular synthetic	nylon	1
+porous hydrophobic polymer substrate material	nylon	1
+porous plastic	nylon	1
+port material	nylon	1
+preferably organic fiber	nylon	1
+preferably plastic filament	nylon	1
+preferably thermoplastic resin	nylon resin	1
+premier comedy club	ny comedy club	1
+premier comedy club	ny gotham	1
+premium shopping street	nyc's fifth avenue	1
+prescription antifungal medication	nystatin	2
+Prescription anti-fungals	nystatin	4
+primitive fluid-loss-control material	nylon	1
+printed satin ribbon related offer	nylon ribbon	1
+proactive street unit	nypd's elite street crime unit	1
+product mix BASF offer	nylon fiber	1
+prohibit material	nylon	1
+Proto-punks	ny dolls	1
+rap label	nyc independent rap label	1
+real cheap brand	nyc	1
+red lip liner	nyx deep mac's prep & prime lip''	1
+red lip liner	nyx deep red	1
+regional and international design competition	nyc two thousand and twelve  olympics 	1
+regional film	nyay danda	3
+relative material	nylon string	1
+research-intensive pharmaceutical firm	nycomed	1
+reuse able bag	nylon	1
+rigid synthetic resinous material	nylon	1
+rivet button	nylon rivet buttons	1
+rope ladder	nylon rope ladder	1
+rural fiber	nylon	1
+safety ladder	nylon rope ladder	1
+seaports-major city	nyc	1
+semi-crystalline fiber	nylon	1
+semi-flexible material	nylon	1
+smooth, body-hugging fabric	nylon	1
+so-called prestigious publication	ny times	1
+soft and flexible material	nylon	1
+soft non-porous material	nylon	1
+soft or hard material	nylon	1
+soft quality material	nylon	4
+Soft rope	nylon	1
+soft, flexible plastic	nylon	1
+source high quality material	nylon	1
+source high-quality material	nylon	1
+standard cable tie	nylon locking tie	3
+static generating material	nylon	1
+stiff film	nylon	1
+stiff plastic material	nylon	2
+stretch yarn	nylon	4
+strict union area	nyc	1
+string type	nylon	1
+strong synthetic fiber	nylon	2
+strong yet expandable material	nylon	1
+strong, flexible material	nylon strapping	1
+strong, waterproof material	nylon	1
+subsidiary sector	nylon net making	1
+substrate film	nylon	1
+subsurface insect	nymph	1
+subtle neurologic defect	nystagmus	1
+suitable bearing	nylon bushing	1
+suitable textile material	nylon	1
+synthetic and man-made fiber	nylon	1
+synthetic curtain fabric	nylon	1
+synthetic fabric type clothing	nylon	1
+synthetic fiber brush	nylon	1
+synthetic or manmade fiber	nylon	1
+synthetic plastic composition	nylon	1
+synthetic polymer fiber	nylon	2
+synthetic, man-made fiber	nylon	2
+synthetic-fiber clothing	nylon	4
+systemic or ocular abnormality	nystagmus	1
+tap-rooted tree	nyssa	1
+Taylor series	nylon series	1
+textile thread	nylon sewing thread	1
+thermoplastic condensation-type polymer	nylon	1
+thermoplastic synthetic fiber	nylon	3
+thin, water-resistant fabric	nylon	1
+tight or restrictive clothing	nylon	1
+tire yarn	nylon	1
+tm-doped material	nyw	1
+top quality gourmet steak	ny strip	1
+Traditional bourses	nyse euronext	1
+traditional manmade fiber	nylon	1
+traditional newspaper entity	ny times	1
+transitional city	nyc	1
+translucent or sheer fabric	nylon	1
+true, traditional winning team	ny yankees	1
+typical lining fabric	nylon	1
+unaffordable real estate market	nyc	1
+unionized areas	nyc	1
+unironable fabric	nylon	9
+un-ironable fabric	nylon	1
+un-natural material	nylon	1
+unpalatable taxa	nymphaeaceae	1
+unrelated -metric	nyquist frequency associated with the detector pitch	1
+washable garment	nylon	1
+waterproof cloth	nylon laying on the ground in a bowl shape	1
+wear-resistant plastic material	nylon	1
+well heard of schools	nyu	1
+well-known and respected consumer group	nypirg	1
+well-known plastic material	nylon	1
+wicking yarn	nylon	1
+world's top skateboarder	nyjah huston	1
+worldwide new organization	ny times	1
+york's great cultural institution	nypl research libraries	1
+2-letter state code	ny for new york	1
+4-0 nonabsorbable suture	nylon	1
+active future contract	nymex wti	1
+active future contract	nymex light crude oil	1
+alternate safe toy	nylon bone	1
+american stock exchange	nymex	1
+anti fungal antibiotic	nystatin	1
+anti fungal med	nystatin	1
+anticandidal agent	nystatin	1
+antifriction material	nylon	1
+anti-fungal lozenge	nystatin	1
+area civil service employer	ny state	1
+art feed eye material	nylon	1
+artificial fiber garment	nylon	1
+artificial fiber rope	nylon	1
+Aurors	nymphadora tonks	1
+avant-garde abstract	nylon	1
+beautiful east coast state	ny	1
+benevolent fey being	nymph	1
+big city daily	ny times	1
+big medium website	nytimes.com	1
+big theater city	nyc	1
+big U.S. city	nyc	1
+box team	ny titans	1
+braided material	nylon	1
+branding initiative	nyc & company's nyharborway	1
+breast material	nylon	1
+breathable and lightweight material	nylon mesh	1
+breathable, lightweight performance fabric	nylon	1
+Buddhist sculpture	nyorai	2
+calendared textile	nylon	1
+calendered textile	nylon	2
+application	nytimes	1
+name	ny air	1
+name	nylander	1
+name	nyc neighborhood name	1
+carpet fiber type	nylon	1
+categorical demographic information	nyha class	1
+cerebellar-vestibular sign	nystagmus	1
+cheap company	nys	1
+cheap drugstore brand	nyc	1
+cheap fabric	nylon	1
+cheap man-made fiber	nylon	1
+cheap-looking, shiny or garish fabric	nylon	1
+chemical fiber cord	nylon	1
+chemical fiber product	nylon thread	1
+chemically resistant tape	nylon	1
+cholesterol-blocking agent	nystatin	1
+classical control technique	nyquist plot	1
+clear wear layer	nylon	1
+clearly large newspaper	ny times	1
+clothes synthetic material	nylon	1
+clothing fiber	nylon	1
+coarse applicator	nylon abrasive pad	1
+coated finish	nylon	1
+commercial engineering thermoplastic polymer	nylon	1
+commercially important resin	nylon	1
+commodity plastic material	nylon	3
+common endocytotic inhibitor	nystatin	3
+common sleepwear material	nylon	1
+completely synthetic fiber	nylon	1
+contemporary supply	nylon	1
+contemporary world-dominant group	nymphalid butterfly	1
+continuous filament yarn	nylon	1
+copenhagen hostel	nyhavn boat hostel	1
+countless precious substance	nyangdrol ke duen	1
+crafting ribbon	nylon	1
+creamy eyeshadow pencil	nyx jumbo eye pencil	1
+CWNs	nycwireless	1
+dark thought	ny dark thought	1
+day artificial fiber	nylon	1
+day time material	nylon material	1
+DB plan	nysna pension plan	1
+debit network	nyce	2
+decent cooler	nyzt cryo lx	1
+dense location	nyc	1
+dense open fiber	nylon	1
+dense plastic	nylon	1
+dental floss yarn	nylon	1
+domestic fastener manufacturer	nylok corporation	1
+dramatic episodic program	nypd blues	1
+durable and flexible material	nylon	1
+durable polymer	nylon	1
+durable synthetic fabric	nylon	3
+durable yet lightweight material	nylon	1
+easily wipeable material	nylon	1
+easily-flammable material	nylon clothing	1
+effective antifungal drug	nystatin	1
+elastic or shock cord	nylon	1
+Engineeringlperformanceresins	nylon	1
+exchange-traded future contract	nymex's light sweet crude oil futures contract	1
+experienced local speciality company	nycomed	1
+extremely light-weight material	nylon	1
+name	nyi sri in the sunda language	1
+name	ny digital district	1
+name	nyani berre	1
+name	nyten	1
+name	nyoman ali	1
+fiber composition	nylon	1
+fibrous or porous support	nylon	1
+filler engineering grade plastic compound	nylon	1
+filter object type	nyquist	1
+first iron synthetic fiber	nylon	2
+first iron synthetic material	nylon	1
+first, plastic material	nylon	1
+flame-resistant fabric	nylon	2
+flexible chain polymer	nylon	1
+flexible fastener	nylon strap	2
+flexible-mount fastener	nylon strap	3
+floating-leaved and emergent growth form	nymphaea odorata	1
+for-profit web operation	nyu online	1
+frequency response graphical tool	nyquist	1
+frequency-response graphical tool	nyquist	1
+Freshwater loving species	nypa fruticans	1
+fusible fiber	nylon fiber	1
+genteel small town	nyon	1
+genteel, calming small town	nyon	2
+Germany factoies	nymphenburg	1
+glass-reinforced material	nylon	1
+good oxygen barrier material	nylon composition	1
+great nylabone treat product	nylabone prime choice	1
+great nylabone treat product	nylabone nutri dent	1
+guitar type	nylon	1
+hand brush	nylon tube brush	1
+handsome depot	ny's grand central station	1
+hard anddurable material	nylon	1
+hard member	nylon	2
+hard moldable plastic material	nylon	1
+harnessing sustainable textile	nylon	2
+hart-sensitive material	nylon	1
+heat-resisting material heat-resisting film	nylon	1
+heat-setting thermoplastic fiber	nylon	2
+high case-load area	nyanga	2
+high durometer plastic material	nylon	1
+high PD city	nyc	1
+high strength flexible material	nylon	1
+high tensile yarn reinforcement	nylon	1
+high traffic volume city	ny city	1
+higher-end place	nyc	1
+homogeneous plate material	nylon	2
+hot-melt fiber	nylon	1
+Hydric species	nyssa biflora	1
+ignitable fiber	nylon	1
+improper muscle functioning condition	nystagmus	1
+increasingly modern material	nylon	1
+indonesian timber	nyatoh	1
+inexpensive fabric	nylon tricot	1
+inextensible fiber	nylon	1
+inland non-desert area	nyoongar people's territory in south	1
+intestinal antifungal agent	nystatin	1
+introduction polyene antibiotic	nystatin	1
+kenyan dish	nyama choma	1
+label fabric	nylon	1
+laminated membrane	nylon	1
+large reconstruction project	nysdot reconstruction	1
+large synthetic polymer	nylon	1
+large-scale eye movement	nystagmus	1
+league's best company	nyc knicks	1
+library CD-ROMs	ny times index	1
+lifestyle hotel brand	nylo	2
+light body weight fabric	nylon	1
+light body weight material	nylon	1
+light bodyweight fabric	nylon	1
+light flammable material	nylon clothing	1
+light pound cloth	nylon	2
+lightweight durable material	nylon	1
+lightweight stretchy fabric	nylon tulle	1
+name	nyanza rift in western kenya near lake victoria	1
+name	ny for new york	1
+name	nymphadora	1
+name	ny central	1
+name	nyarweng	1
+case	nyc	2
+lightweight, movable material	nylon	1
+lightweight, quick-drying fabric	nylon	1
+linear synthetic polymer	nylon	1
+location keyword	nyc	1
+lorisids	nycticebus coucang	1
+low cost fiber	nylon	1
+low durometer material	nylon	1
+low modulus organic fiber cord	nylon	1
+low permeation barrier	nylon	1
+low-modulus fiber	nylon	1
+lumination additional weight material	nylon	1
+lycra fabric	nylon lycra fabric	1
+mainstream respected press source	ny times	1
+man-made organic fiber	nylon	1
+man-made plastic material	nylon	1
+melodramatic hit	nypd blue	1
+metropolitan paper	ny times	2
+Modern gear	nylon net	2
+modern, synthetic material	nylon  sixty-six 	1
+moisture sensitive engineering thermoplastic	nylon	2
+moisture-sensitive engineering thermoplastic	nylon	1
+monofilament nonabsorbable suture	nylon	1
+monofilament thread	nylon	1
+MTA agency	nyc transit	1
+navigational tape	nylon	1
+Nonabsorbable suture material	nylon	2
+nonabsorbable synthetic suture material	nylon	1
+non-adhesive polymer	nylon	1
+non-cellulosic synthetic fiber	nylon	1
+non-conductive resin material	nylon	1
+non-depository mortgage lender	nymc	1
+non-felting material	nylon	1
+non-leather bag	nylon	1
+non-napped cloth	nylon	1
+non-natural string	nylon string	1
+nonporous fabric	nylon	1
+non-porous fabric	nylon	2
+nonprescription sleep medication	nytol	1
+non-rubber material	nylon	1
+Non-specific QuantitiesItems	nylon tube	1
+non-specific quantity item	nylon tube	1
+non-wire rope sling	nylon rope	1
+NYC hospital	nyp	1
+NYCDOE scholarship recipient	nyc teaching fellows	1
+nylon resin	nylatron gs	1
+nylon system	nylon mxd six  nanocomposite 	1
+nylon thread related offer	nylon fabric	1
+ofsynthetic membrane	nylon treated with polypropylene	1
+open-mesh material	nylon	1
+oral lozenge	nystatin	1
+Oral polyenes	nystatin	3
+organic synthetic fiber	nylon	1
+panretinal laser complication	nyctalopia	1
+panretinal lasercomplications	nyctalopia	1
+paroxysmal feature	nystagmus	1
+partially contracted-out system	ny sewage treatment plant	1
+perennial deadweight	ny islanders	1
+pervious synthetic filter fabric	nylon	1
+planned situation	nyc marathon	1
+plastic and natural fiber rope	nylon	1
+plastic cloth	nylon	1
+plastic option	nylon	1
+plastomer liner	nylon	1
+pliable strain relief line	nylon	1
+political struggle	nyabingi at the outset of the colonial period	1
+polyamide material	nylon	1
+polyamide polymer	nylon-type polymer	2
+polyamide polymer	nylon	1
+polyamide product	nylon-type product	1
+polyene antimycotics	nystatin	2
+polyene macrolide antibiotic	nystatin	1
+polyene macrolide antifungal agent	nystatin	2
+polyene-macrolide antifungal antibiotic	nystatin	1
+polymeric synthetic fiber	nylon	1
+popular lightsaber dueling group	ny jedi	1
+popular police-crime drama show	nypd blue	1
+case	nykredit mortgage bank plc	1
+case	nypd	1
+preferred polymeric sheathing	nylon	1
+premium steak cut	ny strip	1
+prescription topical antifungal cream	nystatin	2
+pressure resistant material	nylon	2
+PROFESSIONAL cleaning product	nylac for carpet	1
+profile website	ny times	1
+progressive neurologic abnormality	nystagmus	1
+prominent TV series	nypd blue	1
+protective outer layer	nylon shell	1
+public use datum	nyc department of health	1
+quality fiber type	nylon	3
+quick dry blended fabric	nylon blend	1
+quick-drying fabric	nylon	1
+quick-drying synthetic material	nylon	1
+raccoon	nyctereutes procyonoide	1
+rangoon market	nyaung-bin lay	1
+rastafari house	nyabinghi	1
+Regional headquarters	nyk logistics	1
+remote charger	nyko charge base induction charger	1
+resilient insert	nylon	1
+rhythmic motor phenomenon	nystagmus	1
+ribbon related offer	nylon ribbon	1
+rip-stop, high performance fabric	nylon	1
+rug product	nylon	1
+scratchy and allergic material	nylon	1
+secondary efficacy measure	nyha functional class	1
+self-lubricating material	nylon	1
+self-lubricating plastic	nylon	1
+self-regulatory organization rule	nyse rule	1
+shiny gear	nylon wind pant	1
+shrinkage material	nylon	1
+simple thermoplastic	nylon	1
+simple well-known plastic	nylon	1
+slippery clothing	nylon	1
+Slippery monofilament suture material	nylon	1
+small wheel	nyb sfiberglass pressure blower	1
+smallest inert monofilament suture material	nylon	5
+smooth plastic material	nylon fabric	1
+so-called tribal name	nyamwezi in tanzania	1
+social medium corporate star	ny jets	1
+socialist reformists	nye bevan	1
+solid rod	nylon from mcmaster	1
+somewhat resilient material	nylon	1
+splitting sheet-like material	nylon into strip	1
+standard american option	nymex option	1
+standard load balancer	ny standard load balancer	1
+standard touristy NY spot	ny stock exchange	2
+state documentary transfer tax	nyi- two million one hundred and eighty-two thousand and thirteen v one  state documentary transfer tax 	1
+sterol-binding drug	nystatin	1
+stretchy line	nylon for the hoisting	1
+strong durable material	nylon	2
+strong rope	nylon	1
+strong yet light-weight material	nylon	1
+studio market	nyumba ya sanaa	1
+sturdy, waterproof material	nylon	1
+submergent floater	nymphoides	1
+successful newspaper web site	nytimes.com	1
+suitable moldable plastic	nylon	1
+suitable strong formable material	nylon	1
+suitable synthetic material	nylon	2
+suitable thermoplastic	nylon	1
+suitable upholstery material	nylon	1
+suitably strong polymeric material	nylon	3
+super ior artificial fiber	nylon	1
+superfine fabric	nylon	1
+super-metro area	nyc	1
+Surely someplace	nyc	1
+case	nymph wing case	1
+case	nymphomania	1
+case	nyangatom blessing	1
+case	nyc water basin	1
+case	ny bar exam	1
+option	nylon	4
+sylvian creature	nymphs	1
+synthetic and artificial fabric	nylon	1
+synthetic line	nylon	2
+synthetic man-made fabric	nylon	1
+synthetic monofilament material	nylon	1
+synthetic monofilament suture	nylon	1
+synthetic monofilament suture	nylon polypropamide	1
+synthetic mooring line	nylon	1
+synthetic option	nylon	1
+synthetic or man-made fiber	nylon	2
+Synthetic polyamides	nylon	3
+synthetic polymer textile	nylon	1
+synthetic rope material	nylon	1
+Synthetic suture material	nylon	1
+synthetic textile material	nylon	3
+synthetic thread	nylon	3
+synthetic-fiber rope	nylon	1
+sythetic material	nylon turf vs. natural planted grass	1
+taupe eyeshadow	nyx iced mocha	1
+technologically advanced material	nylon mesh	1
+temperature engineering resin	nylon	1
+thermoplastic powder coating	nylon	1
+thermoplastic substance	nylon	1
+thermoplastic, inelastic fiber	nylon	1
+thermoplasticmaterials	nylon	1
+thin synthetic polyamide thread	nylon	1
+tibetan school	nyingma	1
+tight, non-breathable fabric	nylon	1
+today modern material	nylon	1
+today's tough, weather-resistant material	nylon ripstop	1
+topical antifungal medicine	nystatin	1
+topical antifungal or antimycopic drug	nystatin	1
+topical anti-yeast or anti-fungal cream	nystatin	1
+traditional non-investment oriented company	ny life	1
+Tree-roosting species	nyctalus noctula	2
+Trendy and urban hot-spots	nyc	1
+typical condensation polymer	nylon	1
+typical trout wet fly	nymph	1
+unassuming fabric	nylon	1
+unbiased new agency	ny times	1
+underwear fabric	nylon	1
+unfilled plastic	nylon	1
+unfilled thermoplastic	nylon	1
+untreated fiber	nylon	1
+unweighted pattern	nymphs	1
+veteran education benefit	nys veterans tuition award	1
+vintage household item	nyonya lamp	1
+voluminous holy book	nyi-thri	1
+waterproof coat	nylon raincoat	1
+waterproof, resilient material	nylon	1
+well-respected newspaper	ny times	1
+world's largest financial exchange	nyse euronext	1
+w-produced event	nyc baby	1
+yarn material	nylon	2
+york city initiative	nyc economic development corporation's strategy for revitalizing nyc's financial sector through new business formation	1
+york city initiative	nyc seed fund	1
+york city website	nycedc's energy page	1
+young form	nymph	1
+AB type polyamides	nylon  six 	1
+abrasion resistant outer fabric	nylon	1
+accurate marked line	nylon measuring tape	1
+acoustically resistive plastic	nylon	1
+actual fly	nymph	1
+adjustable accessory	nylon dog collar	1
+Agaricini	nyelali s parasitica	2
+A-grade raw material	nylon	1
+aliphatic polyamide membrane	nylon - sixty-six 	1
+allowed actor	nye bevan	1
+alternate resinous material	nylon	1
+american famous scholar	nye	1
+anarchic medium	nylon canvases dissolved by acid spray into nothingness	1
+anti-candida drug	nystatin	1
+anti-candida treatment	nystatin	1
+anti-friction polymeric material	nylon	1
+anti-friction sleeve	nylon sleeve	1
+antifungal lozenge	nystatin	1
+anti-fungal med	nystatin	1
+anti-yeast agent	nystatin	2
+aplastics material	nylon	1
+apprentice warden	nyctimus	1
+approved cap block cushion	nylatron	1
+aquatic herb	nymphaea	1
+arc resistant resin	nylon	1
+artificial or man-made fiber	nylon	1
+artificial or man-made fiber s	nylon	1
+artificial rope	nylon	1
+option	nyu	1
+option	nylon cutting board spacer	1
+barrier plastic	nylon	1
+basic materi-als	nylon	1
+big city BBQ restaurant	nyc's blue smoke	1
+big medium chain	ny times	1
+boring, uncreative selection	ny cheesecake with the gelatin blueberry compote	1
+brewer role player	nyjer morgan	1
+broad market RS chart	nyse's in a column of xs indicating an increasing percentage on a buy signal	1
+broader-market index	nyse composite	1
+casual bag	nylon carryall	1
+CAUTION synthetic material	nylon	2
+caveolae inhibitor	nystatin	1
+central Foreign exchange workplace	ny stock trade	1
+century product	nylon	1
+chain-folded nylon polymer	nylon  six 	1
+champagne blend	nyetimber	1
+channel-forming reagent	nystatin	1
+chartered boat	ny water taxi	1
+cheap b-film trick	nylon string	1
+cheerleading certificiations	nys	1
+Chewing material	nylon bone	1
+Cholesterol-binding polyene anti-fungal macrolides	nystatin	1
+circumstance acute sign	nystagmus	1
+city cop drama	nypd blue	2
+city TLDs	nyc for new york	1
+city-specific discount coupon	nypass for new york city	1
+class labor figure	nye bevan	1
+classic coat	nylon coat	1
+classic grenadier nightmare larger model	nyarlathotep	1
+coated slide	nytran coated slide	6
+colorado hip hop vet	nyke nitti	1
+combination OTC prep	nyquill	1
+combined base	nyc	1
+commercially-valuable tree	nyatoh tembaga	1
+common collar	nylon collar	1
+common generic name	nylon	2
+common nylon	nylon  six 	1
+common syntheitc fiber	nylon	1
+common synthetic	nylon	5
+compar-ingwiththe synthetic nonabsorbable suture	nylon silk	1
+complex transit system	nyc	1
+compliant, cylindrical mandrel	nylon rod	1
+condensation fiber	nylon	1
+conducting polypyrrole coated textile	nylon lycra	1
+confident FO	ny dc miami	1
+conservative exchange	nyse euronext	1
+consumer assistance program	nyc mccap program	1
+contemplated thatother fibrous material	nylon	1
+continuous conveyor band	nylon belt	1
+continuous man-made filament	nylon	1
+contrast stretch yarn	nylon	1
+control fabric	nylon	1
+conventional carpet fiber	nylon	1
+conventional crystalline engineering resin	nylon	1
+conventional mesh tube material	nylon	1
+conventional nylon	nylon  six 	2
+conventional paint brush textile	nylon	1
+conventional tensile member	nylon	1
+Copolyamides	nylon  six 	1
+cord type	nylon	1
+cordate base	nymphaea mesozonica	1
+corrupt political machine	nyc's tammany hall	1
+cosmo Mecca	nyc	1
+counterfeited or man-made thread	nylon	1
+coveted trophy	nyala	1
+creamy eyeshadows	nyx jumbo pencils	1
+credible liberal new source	nytimes	1
+crude oil-based raw material	nylon cord tyre	1
+crystalline engineering grade resin	nylon	1
+crystalline homopolyamides	nylon  sixty-six 	2
+crystalline polyamide resin	nylon  six 	1
+culinary mecca	nyc	1
+dangerous entry point	nyamasuwo's lower zambezi in kariba	1
+densly ethnic populated city	nyc	1
+dental college	nyu college of dentistry	1
+disaster fund	nyanga bus disaster fund	1
+drm-disrupting agent	nystatin	1
+dry ribbon	nylon	1
+durable and pliant fabric	nylon	1
+durable non-marring material	nylon	1
+durable synthetic	nylon	1
+durable synthetic fiber	nylon	1
+durable, biocompatible polymeric material	nylon	1
+durable, bio-compatible polymeric material	nylon	1
+durable, non-corrosive synthetic fiber	nylon	1
+durable, utilitarian material	nylon	1
+ear tight clothing	nylon underwear	1
+Eastern US city	nyc	1
+group	nylons	2
+group	nys bureau of narcotic enforcement	1
+group	nyc-based event administration group	1
+efficient fishing gear	nylon gill net	1
+elastic line	nylon	1
+electronic fund transfer network	nyce	1
+email coupon	ny & company	1
+embroidered collar	nylon pet collar	1
+engineering plastic rod	nylon	2
+english sparkling wine	nyetimber	1
+enjoying kenyan's local dish	nyama choma	1
+entertainment promotion company	nytehype entertainment	1
+environmental protection material	nylon	1
+environmentally harmful synthetic thread	nylon	1
+esteemed publicatio ns	ny post	1
+example highly polar polymer	nylon	1
+example plastic material	nylon	1
+extensive and profound teaching	nyingtik cycles of the dzogchen approach	1
+Extremely dense city	nyc at around  three thousand  ft with maxed out settings 	1
+extremely lightweight material	nylon	1
+extrudable plastic	nylon	1
+extrudate material	nylon	1
+extruded thermoplastic fiber	nylon	1
+fabric upper shell	nylon	1
+fabric-solid material	nylon	1
+famed beach	nyali	1
+family exchange theorist	nye	1
+famous loved brand	nyk wedding	1
+fast-paced, urban environment	nyc	1
+federal government fund state program	nys environmental facilities corp.	1
+feed spacer	nylon mesh	1
+festoon member	nylon block	1
+fiber nap material	nylon	1
+fiber system	nylon	1
+Fiber types	nylon	1
+fibrous polyamide substrate	nylon carpeting	3
+fictitious source	ny times	1
+first flexible strap	nylon strap	1
+first, area	nyc	1
+flammable or loose fitting clothing	nylon	3
+flammable or loose-fitting clothing	nylon	2
+flammable synthetic clothing	nylon	1
+flexible fabric strap	nylon webbing	2
+flexible main line	nylon strap	1
+flexible non-water absorbing material	nylon rope	1
+flexible plastic filament	nylon filament	1
+flexible robust plastic	nylon	1
+flexible screening	nylon screening	1
+flexible strap	nylon webbing	2
+flexible, strong material	nylon	2
+FOP's	ny pd	1
+forgiving fiber	nylon	1
+free community network	nycwireless in new york	1
+Frequently man-made fiber	nylon	1
+freshwater floatingleavedaquatic plant	nymphaea alba	1
+freshwater pattern	nymph	1
+fringed water lily	nymphoides geminata	1
+fuel resistant material	nylon hose	1
+fusible fabric	nylon	1
+G. make provision	nylon tie	1
+gas barrier polymer	nylon	1
+glamour site	nylons nylon	1
+global university development project	nyu's in abu dhabi	1
+Good cop drama	nypd blue	1
+good teething bone	nylabone	1
+grade city	nyc	1
+gun holster	nylon gun holster	1
+halophyte crop	nypa forage	1
+hard resilient material	nylon plastic	1
+harmless abnormality	nymphomania	1
+heavily so-called blue state	ny	1
+High impact wear-resistant plastic	nylon	1
+high power tuner	nye mb-va	1
+high shrinkage yarn	nylon	1
+high strength composite plastic	nylon filled with tensile-strength increasing fibers of carbon	1
+high strength synthetic fiber	nylon	2
+high-anxiety fast paced environment	nyc	1
+higher-melting temperature material	nylon	2
+high-impact resistant material	nylon	1
+high-quality bird food	nyjer seed	1
+high-shear screw	nylon screw	2
+homegrown building code	nyc building code	1
+homeopathic sleep remedy	nytol	1
+hydraulic power tubing tong	nylon belt gripping	1
+hydrogen-bonded polymer	nylon  six - six 	1
+hypersexuality	nymphomania	1
+impact-modified engineering-grade material	nylon	1
+improved north-south highway	ny  sixty 	1
+inelastic retainer strap	nylon strap	1
+inexpensive plastic	nylon	1
+inextensible material	nylon	1
+group	nyc independent budget office	1
+group	nyserda	1
+in-house packaging job	nylon bag	1
+injection molding thermoplastic resin	nylon	1
+institutionalized environmental initiative	nye county natural resources office	1
+Insulating screen mesh	nylon mesh	1
+insulative thread	nylon	1
+inter-net retailer	nyce wheels in new york	1
+intrest group	nys teachers union along with catholic	1
+intrusive program	nypd stop	1
+juniper customer	nyse euronext	1
+Kaye Wiggs MSD	nyssa	1
+key national advisory committee	nycc's national youth court guidelines advisory committee	1
+key waterway	nymboida	1
+kinky fetish	nylon	1
+large american library	nypl in new york	1
+large, crowded urban environment	nyc	1
+large, urban center	nyc	1
+larger-volume engineered resin	nylon	1
+lateral part	nylon material	1
+latinos group	ny puerto ricans	1
+less-expensive modern fiber	nylon	1
+level security supervisory position	nys court officer-captain	1
+liberal interdependence theorist	nye	2
+light, easy-dry material	nylon	1
+lightweight sturdy material	nylon	1
+lightweight, durable synthetic material	nylon	1
+likewise big metropolitan area	ny	1
+likewise large metropolitan area	ny	1
+Linear chain polyamides	nylon	1
+liquid covering	nylon suspended in alcohol	1
+LM polymer	nylon	1
+local and city health department	nyc dohmh	1
+local delegate	nyc city council speaker christine quinn	1
+local nature spirit	nymph	1
+longship-like design	nydam oak boat	1
+loud material	nylon	1
+low denier synthetic fiber	nylon	1
+low-friction plastic material	nylon	2
+LRS program	nysba's program	1
+malawi-based air charter company	nyassa air taxi	1
+man-made lightweight fabric	nylon	1
+man-made shirt fabric	nylon	1
+manmade synthetic	nylon	1
+man-made, synthetic fiber	nylon	1
+manyeruke's all-time composition	nyika yakanaka	1
+material preferably usable, plastic film	nylon film	1
+meetings-capable venue	nys museum	1
+miuccia's innovative design	nylon backpack	1
+MJ12 base	nyc	1
+molded, plastic material	nylon	1
+monofilament material	nylon	1
+monofilament non-absorbable suture	nylon	1
+monofilaments	nylon monofilament	1
+multi-family foreclosure	ny group portfolio	1
+multifilament cord	nylon	1
+municipal police agency	nypd	1
+name online	nyago dr ciel kurunya	1
+narrow range circuit-breaker	nyse rule  eighty -a 	1
+nasdaq's competitor	nyse euronext	2
+national and international new site	nytimes.com	3
+national editorial	ny post	1
+natural or synthetic filament	nylon	1
+neighboring african tribe	nyangatom	1
+network entertainment program	nypd blue	1
+neuro-ophthalmic manifestation	nystagmus	1
+news corp. s print rival	ny daily news	1
+night-time cold medication	nyquil	1
+non conducting push rod	nyrod for the connection	1
+non conductive rigid tube	nylon rod	1
+non enforcement partner	nysdot	1
+non FR synthetic fiber	nylon	1
+non stretchy garment	nylon	1
+nonabsorbable agent	nystatin	1
+non-absorbable antifungal drug	nystatin	1
+nonabsorbable monofilament material	nylon	1
+non-flame-retardant thermoplastic fiber	nylon	2
+non-fraying rope	nylon	1
+non-kosher cut	ny strip	1
+Non-malleable plastic	nylon	2
+nonmetal brush	nylon	1
+non-metal lock nut	nyloc nylon lock nut	1
+non-metallic, low-friction material	nylon	1
+nonmetallic, nonconductive material	nylon	1
+nonpigmented coating	nylon	1
+non-reusable, self-locking device	nylon cable tie	2
+non-rubber compound	nylon	1
+non-systemic antifungal medication	nystatin	1
+group	ny cares	1
+group	nyanja	1
+group	nyc friend	1
+group	ny's pride agenda	1
+group	nys board of pharmacy	1
+group	nypl's young lions	1
+group	ny metropolitan martial arts foundation	1
+group	ny uprising	1
+method	nymph fishing	3
+method	nyquist stability graphs	2
+non-ventilating material	nylon	2
+normal processed and refined sock	nylon	1
+Normal super polyamides	nylon  sixty-six 	1
+north-south highway	ny  sixty 	1
+notable new source	ny times	1
+notchsensitive material	nylon	1
+Nyans	nyan cat	1
+NYC agency	nyc department of transportation	1
+NYFIX service	nyfix marketplace	1
+nylon filament fabric	nylon tricot lingerie	1
+nylon homopolymers	nylon  six 	1
+nylon material	nylon  six 	2
+nylon object	nylon frisbees	1
+nylon pantie	nylon hipster pantie	1
+Nylon polymer	nylon  six 	1
+nylon rope combination	nylon cotton rope	1
+Occlusive clothing	nylon pantie	1
+office chair component	nylon base	1
+offshore wind farm site	nysted wind farm in the baltic sea	1
+olored oil	nynas t four thousand  	1
+op-ed page	ny times	1
+optioal material	nylon	1
+organic carbon-containing fiber	nylon	1
+Orthodox anti-fungals	nystatin	1
+outer breathable material	nylon	1
+outside agency approval	nys department	1
+oxygen barrier film	nylon	1
+paint-selection consideration semicrystalline plastic	nylon	1
+partially ionic polymer	nylon	1
+pathetic, appealing part	nydia in buckstone's the last days of pompeii	1
+pension sponsor	nynex corp.	1
+perforation agent	nystatin	1
+permanent washable material	nylon mesh	1
+permeable fabric bag	nylon bag b	1
+perrennial bottom feeder	nyi	1
+petroleum resistant material	nylon	1
+pharmaceutical and biotech client	nycomed	1
+place fiber	nylon	1
+plant spirit	nymph	1
+plastic casing	nylon casing	1
+plastic catheter material	nylon material	1
+plastic cord	nylon	1
+plastic filament	nylon monofilament	1
+plastic food contact article	nylon kitchen utensil	1
+plastic form	nylon	1
+plastic insert	nylon	1
+plot window template	nyquest plot	1
+poetry hotspot	nyc	1
+polyamide fabric	nylon	1
+polyamide nylon	nylon  sixty-six 	1
+polyamide type plastic	nylon	1
+Polyene macrolide antimycotics	nystatin	1
+pop-lizepolyene antibiotic	nystatin	1
+popular synthetic fabric	nylon	1
+power-chewing dog toy	nylabone	1
+POY continuous fiber	nylon	2
+practice inert plastic	nylon	2
+PRE-CLOSE breadth statistic	nyse advances	1
+preferably offlexible, strong material	nylon	1
+preferably plastic	nylon	2
+prescription strength anti-fungal medication	nystatin cream	1
+prescriptive antifungals	nystatin	1
+Primary materials	nys constitution	1
+private loan comparison web site	nys higher education services corporation student loan marketplace	1
+professional skeptic	nyu economics professor william easterly	1
+Prophylactic topical antifungals	nystatin	1
+protective webbing material	nylon brand material	1
+pulse shaping filter	nyquist filter	1
+pure synthetic fabric	nylon	1
+purpose polyamides	nylon  six 	1
+quality kind material	nylon	1
+quality type material	nylon	1
+quick dry fabric	nylon	1
+quick-drying material	nylon	3
+radiation sensitive polymer	nylon	1
+red hat customer	nyse euronext	1
+regional genealogical society	nyg	1
+regular polymer	nylon	1
+reinforcing-fiber hardener contain fiber	nylon	1
+reliable online bookkeeper	ny bookkeeper	1
+reperatory company	nycb	1
+reputable law library	nyc bar assoc	1
+reputable, breed rescue	nycsr for help	1
+resource intensive product	nylon	1
+resource-intensive product	nylon	1
+respectable editorial	nyt	1
+ring-containing polyamides	nylon  six 	1
+rino region	nyc	1
+roller material	nylon	1
+rwanda's wetland	nyabarongo wetlands important bird area at risk	1
+sampling theorem	nyquist-shannon sampling theorem	1
+sampling-based method	nystrom method	1
+scenic highland	nyika plateau in the north	1
+scintillating dancer	nylon nalini	1
+second generation thermoplastic	nylon	1
+method	nyquist interpolation	1
+method	nyquist plot method	1
+method	nylon type plate	1
+semi-crystalline thermoplastic	nylon	1
+semi-fatty steak	ny strip	1
+semi-rigid tubing	nylon	1
+sensual benefit arousal cream	nympho's desire	1
+Served wire	nylon-textile serving	1
+shame department	nypd	1
+signal design method	nyquist criterion	1
+silky sock	nylon	1
+Simple polyamides	nylon	1
+simple topical preparation	nystatin suspension	1
+single colored plastic	nylon	1
+single sex competition	nyo	1
+sisal or synthetic fiber	nylon	1
+sister taxa	nyctiphruretus	1
+Slippery rope	nylon	1
+smooth suture	nylon	1
+smoothest synthetic	nylon	1
+So-called Neo-Keynesianists	nyt's paul krugman	1
+soccer net	nylon soccer net	1
+soft armor insert	nylon	1
+soft nonmetallic material	nylon	1
+Soft plastic tube	nylon	1
+soft screen material	nylon window screen	1
+solid blocking agent	nylon	2
+solution-dyed carpet	nylon harrington	1
+spatially remote place	nyae nyae in namibia	1
+speciation event	nylon eating bacterium	1
+standard analysis presentation	nyquist plot	1
+standard weapon cleaning tool	nylon brush	4
+state APA site	ny metro	1
+state wide special prosecutor politician	ny state senator eric adams	1
+step-reaction polymer	nylon	1
+stiff air permeable material	nylon mesh corrugated fabric	1
+stiff and tough plastic material	nylon	1
+street clothes artificial fabric	nylon	1
+strengthening polymer	nylon	1
+stretchable and breathable material	nylon mesh	1
+Stretchy rope	nylon	1
+strong flexible plastic material	nylon material	1
+strong inexpensive material	nylon	1
+strong lightweight belting material	nylon belting material	1
+strong lightweight man-made material	nylon	1
+strong synthetic resin	nylon	1
+strong, lightweight and resilient plastic	nylon	1
+sturdy luggage	nylon sausage type made of non-tear material	1
+sturdy, leak-resistant material	nylon	1
+suburban, rural and urban environment	nyc	1
+sugarless antifungal agent	nystatin powder	2
+suitable filament material	nylon	1
+suitable high-strength resilient material	nylon	1
+suitable lightweight durable material	nylon	1
+suitable polyamide resin	nylon	1
+suitable synthetic cord	nylon	1
+suitable wirelike member	nylon thread	1
+suitably flexible and resilient material	nylon	1
+summer wooden-bat league	nycbl	1
+summer-flowering water lily	nymphaea nouchali	1
+super cheap brand	nyc	1
+super dense city	nyc	1
+supposed lib	nyt's rich	1
+surgical drug	nytol	1
+susceptible fabric	nylon	1
+Swamp habitat species	nyssa	1
+syntheic fiber	nylon	1
+synthetic balling material	nylon	1
+synthetic carpet fiber	nylon	1
+Synthetic filamentary product	nylon fiber	1
+synthetic jacket material	nylon	3
+synthetic lightweight fabric	nylon	1
+synthetic monofilaments	nylon	1
+synthetic resilient material	nylon	1
+synthetic resin tube	nylon	1
+synthetic shirt fabric	nylon	2
+Synthetic type clothing	nylon	1
+synthetic, porous polymer	nylon	1
+SYNTHETIC-FIBER line synthetic-fiber line	nylon	1
+sythentic fabric	nylon	1
+tailorable material	nylon material	4
+technically challenging component	nyquist-rate front end component	1
+thermally loaded material	nylon	2
+thermoplastic bag material	nylon	1
+thermoplastic matrix material	nylon	1
+thermoplastic nanocomposites	nylon  six 	1
+thermoplastic rod	nylon	2
+thermoplastic system	nylon	1
+thermoplastic-fibre fabric	nylon	1
+thermoplasticnanocomposites	nylon  six 	1
+thick, strong string	nylon	1
+thin, lightweight item	nylon windbreakers over bulky pieces like down vest	1
+Tight or restrictive cloth	nylon	1
+tight or synthetic clothing	nylon underwear	3
+tight-fitting, synthetic clothing	nylon underwear	2
+time new synthetic fiber	nylon	2
+today modern textile	nylon	1
+today's numerous synthetic fiber	nylon	1
+top quality thread	nymo brand nylon thread	2
+topical antifungal preparation	nystatin cream	2
+topical antimycotics	nystatin	1
+topical or oral antifungal agent	nystatin	1
+Topical or systemic antifungals	nystatin	1
+topical oral antifungal agent	nystatin rinse	1
+totally new material	nylon	1
+toy ford truck	nylint	1
+traditional bagging system	nylon film	2
+traditional jamaican musician	nyabinghi drummers	1
+traditional membrane	nylon	1
+traditionally-strong transit corridor	ny  five 	1
+transit-oriented region	nyc	1
+translucent, strong material	nylon	1
+transparent line	nylon fish line	1
+true synthetic polymer	nylon	1
+tube bird feeder	nyjer	1
+twentieth century fiber	nylon	1
+two-part ink	nylon ink	1
+Typical tent material	nylon weave	1
+Typical tentmaterial	nylon weave	1
+U.S. future market	nymex market for crude oil	1
+underwater scene insect	nymph	1
+untoward result	nyctalopia	1
+urban adventure race	nyc extreme in new york	1
+urban central area	nyc	1
+urban ethnic nightclub	nyc's arabic club	1
+USB dongle	nyko bluwave	1
+tool	nylon brush	2
+video frequency inference issue	nyquist effect	1
+virgin and regrind technical plastic	nylon  six 	1
+warmth, synthetic fabric	nylon	1
+washable, expandable fabric	nylon	1
+water proof synthetic fiber	nylon	1
+wear-resistant plastic	nylon	2
+weight synthetic material	nylon	1
+Wetlubricants	nyoil	1
+wind incentive program	nyserda's wind incentive program	1
+wind resistant shell	nylon	1
+wind-breaking outer layer	nylon	1
+winnipeg's production facility	nygard international's act two  plant 	1
+wonderful youth program	nypd league	1
+world-class entertainment location	nyc's avery fisher hall	2
+world-reknown city	nyc	1
+young Africans	nyerere	1
+tool	nyphur s eve tanking spreadsheet	1
+tool	ny magazine	1
+tool	nylon potato masher	1
+tool	nyquist	1
+tool	nysan qsa tool	1
+factor	nyse floor broker interest	1
+factor	nylon clothing	1
+product	nylon	13
+product	nylon tube	4
+product	nyquil	3
+project	nyc living arts production of porgy and bess on tour	1
+project	nyc nitelife bar	1
+project	nyingchi	1
+project	nyp complement the work of the health service executive	1
+project	nyt linked open data project	1
+artist	nyc peech boys	2
+artist	nylons	2
+artist	nyc celebrity street musician dorian spencer	1
+artist	nyukana baker	1
+artist	nyc djs	1
+material	nylon	691
+material	nylon mesh	6
+material	nylon thread	5
+material	nylon rope	4
+material	nylon fabric	4
+material	nylon fiber	4
+material	nylon string	3
+material	nylatron nsm	1
+material	nylatron	1
+material	nylon blend	1
+material	nylon type	1
+material	nylon-canvas type of material	1
+material	nylon microfiber	1
+material	nylon gauze	1
+material	nylon pile	1
+material	nylon matrix	1
+material	nylon  six 	1
+material	nylons strap	1
+material	nylon webbing	1
+material	nylon strip	1
+material	nylon orcotton	1
+place	nyc	24
+place	nyngan	2
+place	ny	2
+place	nyons	2
+place	nyny	1
+place	nyu for the arabic club	1
+place	ny city	1
+place	nyc visitors	1
+place	ny-based web design company	1
+place	nyika plateau	1
+place	nyamabale parish in kabale district	1
+place	nypd	1
+place	nyp	1
+place	nyanza	1
+place	nyanza province	1
+place	nyc public library	1
+place	nyc's heidi cho gallery	1
+place	nyc's lincoln cent er	1
+player	nykesha sales	2
+player	nyron nosworthy	1
+player	nyse euronext	1
+player	nyasha mushekwi	1
+product	nylon quick connector	3
+product	nylon zipper	3
+product	nylon fabric	3
+product	nylon yarns	2
+product	nylon bird netting	2
+product	nylon bone	2
+product	nylon  six 	2
+product	nyc's raw food skincare brand yummy bee	2
+product	nylon guide	2
+term	nymphomania	4
+term	ny limo service	1
+term	nyoongar	1
+parameter	nyquist fraction of digital filter	1
+parameter	nyha class	1
+system	nyc subway	1
+system	nyc	1
+system	nyfix millennium	1
+species	nyala	4
+species	nyssa sylvatica	2
+species	nymphaea pygmaea	2
+species	nyssa aquatica	2
+species	nymphalidae	1
+species	nymphaea lotus	1
+species	nymphaea tetragona	1
+species	nymphaea odorata aiton	1
+species	nymphaea sp.	1
+species	nymphalis antiopa	1
+species	nyssa sylvatica found on upland	1
+species	nyctibatrachus aliceae	1
+species	nyctalus noctula	1
+species	nycticebus coucang	1
+measure	nystatin	1
+condition	nystagmus	2
+condition	nylon underwear	1
+element	nylon mesh material	1
+element	nymphs	1
+element	nyssa	1
+variable	nyha class	2
+product	nylon anchor	1
+product	nylon hairnet related product	1
+product	nylon hammer fixing	1
+product	nylon filament yarn	1
+product	nylon gift related product	1
+product	nylon gland related product	1
+product	nylon castor related product	1
+product	nylon chip related product	1
+product	nylon joint related product	1
+product	nylon kitchenware tool set	1
+product	nylon knitting	1
+product	nylon paper related product	1
+product	nylon rope related product	1
+product	nylon spandex related product	1
+product	nylon zipper related product	1
+product	ny hat related product	1
+product	nylon viscose related product	1
+product	nylon yarn related product	1
+product	nylon textile related product	1
+product	nylon thread related product	1
+product	nylon top related product	1
+product	nylon printing related product	1
+product	nylon protective related product	1
+product	nylon pulley related product	1
+product	nylon rayon related product	1
+product	nylon ripstop related product	1
+product	nylon scouring pad	1
+product	nylon sling related product	1
+product	nylon ribbon related product	1
+product	nylon rope	1
+product	nylon shell related product	1
+product	nylon stocking related product	1
+product	nylon mesh	1
+product	nylon net related product	1
+product	nylon nut related product	1
+product	nylon polyster related product	1
+product	nylon hat related product	1
+product	nylon lanyard related product	1
+product	nylon air brake tubing	1
+product	nylon air textured yarn	1
+product	nylon bonded thread related product	1
+product	nylon brush related product	1
+product	nylon butterfly related product	1
+product	nylon camlock coupling	1
+product	nylon fishing net related product	1
+product	nylon conveyor belt related product	1
+product	nylon strip related product	1
+product	nylon taslon related product	1
+variable	nyha classification	1
+device	nyloc nut	1
+device	nylon plug inserted into the external threads of the stud	1
+device	nylon straps with connector	1
+brand	nyc	6
+brand	nyx	3
+brand	nyman harts rosin double bass	1
+brand	nyse euronext	1
+brand	nygard fashion	1
+brand	nylex tank	1
+brand	ny&co.	1
+brand	nyx cosmetics	1
+component	nyssa	1
+component	nyssaand myrica	1
+site	ny times	6
+site	ny state park	1
+site	nyc simplicity	1
+site	nyfa	1
+site	nytimes.com mobile	1
+site	nypl	1
+site	nytime's own about.com	1
+site	nymag.com	1
+site	nyah west	1
+site	nycreative interns	1
+site	nytimes.com	1
+site	nytimes	1
+site	nyt	1
+site	nylon site	1
+related product	nylon yarn hose related product	1
+related product	ny hat related product	1
+related product	nylon zipper related product	1
+related product	nylon rope related product	1
+related product	nylon joint related product	1
+related product	nylon castor related product	1
+related product	nylon yarn related product	1
+related product	nylon viscose related product	1
+related product	nylon textile related product	1
+related product	nylon thread related product	1
+related product	nylon top related product	1
+related product	nylon printing related product	1
+related product	nylon protective related product	1
+related product	nylon organza related product	1
+related product	nylon sling related product	1
+related product	nylon bonded thread related product	1
+related product	nylon brush related product	1
+related product	nylon butterfly related product	1
+related product	nylon fishing net related product	1
+related product	nylon hat related product	1
+related product	nylon polyster related product	1
+related product	nylon ribbon related product	1
+related product	nylon stocking related product	1
+related product	nylon shell related product	1
+related product	nylon coated related product	1
+related product	nylon cable tie related product	1
+related product	nylon flag related product	1
+related product	nylon fiber related product	1
+related product	nylon anchor related product	1
+related product	nylon caster related product	1
+related product	nylon wool related product	1
+related product	nylon hose related product	1
+related product	nylon lock nut related product	1
+related product	nylon machine related product	1
+related product	nylon organza ribbon related product	1
+related product	nylon polyester taffeta related product	1
+related product	nylon tulle related product	1

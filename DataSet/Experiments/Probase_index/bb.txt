@@ -1,0 +1,3533 @@
+product	bbc iplayer	1
+product	bbc jacket related product	1
+product	bbq charcoal	1
+product	bbq cover related product	1
+product	bbq light related product	1
+product	bbq utensil	1
+product	bbq pan related product	1
+product	bbr dirt bike related product	1
+product	bbs complete pct	1
+product	bbl sceptor	1
+product	bbq sirloin burger	1
+product	bbs testify	1
+product	bbq fire pit related product	1
+product	bbq grill stainless related product	1
+product	bbq lighter related product	1
+product	bbq island	1
+product	bbq oven related product	1
+product	bbq brush related product	1
+initiative	bbc extend	2
+initiative	bbc creative archive	1
+initiative	bbc anchor agreement	1
+initiative	bbc's this is scotland'' series	1
+initiative	bbc's iplayer	1
+initiative	bbc's creative archive	1
+initiative	bbs recorders scheme	1
+initiative	bbc's spring watch	1
+datum	bbr	1
+datum	bbm	1
+resource	bbw phone sex line	2
+resource	bbc website	1
+resource	bbc's digital curriculum''	1
+resource	bbb	1
+resource	bbb.org for potential scam	1
+facility	bbq area	19
+facility	bbq pit	8
+facility	bbq	5
+facility	bbq facility	1
+facility	bbq pits for resident	1
+facility	bbq house	1
+facility	bbm	1
+facility	bbq point	1
+facility	bbq equipment	1
+facility	bbq courtyard	1
+facility	bbq utensil	1
+facility	bbq space	1
+facility	bbq entertaining area	1
+facility	bbq fridge	1
+source	bbc	23
+source	bbc world	2
+source	bbc documentary	1
+source	bbc reports of current event	1
+source	bbc world country profiles	1
+source	bbc persian	1
+source	bbc london	1
+source	bbc iplayer	1
+source	bbc since the days of shortwave radio	1
+source	bbb	1
+source	bbc for new	1
+source	bbc news front page	1
+source	bbc sport homepage	1
+source	bbcnews bbc international	1
+source	bbc accuweather	1
+game	bbs ``door game''	1
+exception	bbc with the iplayer	1
+exception	bbc world service	1
+exception	bbc	1
+exception	bbmp community hall in rajajinagar  six th block 	1
+work	bbi combinatory dictionary of english	2
+work	bb curls at the end	1
+model	bbm equation	1
+model	bbg	1
+model	bb nine thousand nine hundred 	1
+model	bbn model	1
+characteristic	bbb tuba characteristic	1
+word	bbb	1
+attraction	bbq house	1
+attraction	bbc experience	1
+attraction	bb king blues club	1
+attraction	bb plaza	1
+skill	bbgun shooting	1
+skill	bb range	1
+skill	bb gun shooting	1
+category	bbw	1
+institution	bbc	21
+institution	bbb	8
+institution	bbva	3
+institution	bbc wst	1
+institution	bbc world service	1
+institution	bbc three	1
+client	bbc	81
+client	bbc worldwide	6
+client	bbva	3
+client	bbdo	3
+client	bbh uk	1
+client	bbh architects	1
+client	bbj environmental solutions	1
+client	bbc one 	1
+client	bbt	1
+client	bb bis	1
+client	bbc digital	1
+client	bba aviation	1
+client	bbh	1
+client	bbmg	1
+document	bbc production guidelines	1
+feature	bbc iplayer	6
+feature	bbm	5
+form	bbq pork	1
+person	bbc	2
+person	bb	1
+alternative	bbs service	2
+effect	bbe sonic stomp	1
+agency	bbb	9
+agency	bbdo	5
+agency	bbmp	3
+agency	bbh	3
+agency	bbb of utah	1
+agency	bbl	1
+agency	bbc news on line	1
+agency	bbg	1
+agency	bbdo guerrero ortega	1
+agency	bbdo ny	1
+agency	bbdo south	1
+object	bb gun	1
+course	bba	9
+course	bbm	2
+course	bba law	1
+course	bbi breeder training	1
+mechanism	bbcode	1
+feature	bbqs	3
+feature	bbq facility	2
+feature	bbo hand viewer	1
+feature	bbq area	1
+feature	bbq option for wet bar	1
+feature	bbq grill	1
+feature	bb classroom management feature	1
+star	bb king	4
+star	bbw porn star	1
+star	bbf book baseball star	1
+star	bbc radio  four  presenter john humphrys 	1
+star	bbc new star	1
+film	bbc also screen film	1
+business	bbc	2
+business	bb	2
+business	bbb	1
+business	bbg	1
+business	bb riverboats	1
+part	bbls	1
+amenity	bbq area	10
+amenity	bbq grill	6
+amenity	bbq pit	6
+amenity	bbq facility	4
+amenity	bbq gas grill	1
+amenity	bbq	1
+amenity	bbq sets	1
+amenity	bbq site	1
+food	bbq pork sandwich	1
+food	bbq chicken skin	1
+food	bbq sauce	1
+ingredient	bbq chicken	1
+ingredient	bbq sauce	1
+ingredient	bbq pork	1
+ingredient	bbq marinade	1
+feature	bbq s	1
+feature	bbq pit	1
+feature	bb ninety  bottom bracket 	1
+feature	bb thirty  over sized bottom bracket 	1
+feature	bb messanger	1
+feature	bbcode	1
+celebrity	bbc's natasha kaplinsky	1
+celebrity	bbc sport's claire balding	1
+celebrity	bb king	1
+celebrity	bbc's kate humble	1
+disease	bbd	3
+venue	bb kings	4
+venue	bbc world service	3
+venue	bb kings blues club	1
+venue	bbc television	1
+venue	bbc proms	1
+venue	bbc radio  three  lunchtime concerts from the temple church 	1
+venue	bbc labs	1
+venue	bbc essex	1
+criterion	bbb score	1
+firm	bbc	2
+firm	bbk	1
+challenge	bbc's boxing competition	1
+requirement	bbc programs in  three d 	1
+requirement	bbq	1
+dish	bbq ribs	3
+dish	bbq chicken	2
+dish	bbq chicken pizza	1
+dish	bbq-glazed turkey breast skewer	1
+dish	bbq pork bun	1
+dish	bbq pork wan tan mee	1
+dish	bbq rib sandwich	1
+dish	bbq pork in puff pastry	1
+dish	bbq pork turnover	1
+dish	bbq ribeye with onion strings	1
+dish	bbq pulled pork	1
+dish	bbq chicken salad containing bean	1
+dish	bbq chicken with lemon & thyme	1
+dish	bbq side dish	1
+favorite	bbq pork	1
+favorite	bbmf	1
+favorite	bbc three	1
+favorite	bbc four	1
+favorite	bbq	1
+favorite	bb gun	1
+favorite	bbq pork rib	1
+favorite	bbq beef	1
+favorite	bb bats	1
+favorite	bbq ribs	1
+favorite	bbq quail	1
+manufacturer	bbs	2
+instrument	bb clarinet	3
+instrument	bb gun	3
+instrument	bb trumpet	1
+act	bb king	6
+act	bbu	1
+feature	bbe	1
+feature	bbc iplayer favorite hd	1
+publication	bbc focus	4
+publication	bbc	3
+publication	bbc good food	2
+publication	bbc music magazine	2
+publication	bbc's science	1
+publication	bbc news	1
+setting	bbq at a members home	1
+study	bba	2
+study	bbbs study	1
+position	bbc sports personality of the year	1
+website	bbc	48
+website	bbc news	7
+website	bbc bitesize	3
+website	bbc.co.uk	3
+website	bbs	2
+website	bbc's chinese language service	2
+website	bbc iplayer	2
+website	bbf	1
+website	bbc's iplayer	1
+website	bbc's news site	1
+website	bbc's sport section	1
+website	bbc's new homepage	1
+website	bbc persian	1
+figure	bb king	1
+equipment	bbq pit	1
+basic	bbq sauce	1
+basic	bbc iplayer	1
+musician	bb king	6
+movie	bbc documentary hiroshima	1
+movie	bbc's planet earth'' series	1
+innovation	bbc iplayer	3
+innovation	bbc website	1
+policy	bbbee	1
+team	bbmf	1
+substance	bbq grill	1
+entity	bbb	1
+entity	bbc worldwide	1
+style	bboying	1
+style	bbq blueberry	1
+expert	bbc radio  one xtra dj robbo ranx 	1
+expert	bbc football analyst	1
+feature	bb codes	1
+Organisations	bbc	25
+Organisations	bbc world service	1
+Organisations	bbc wildlife	1
+Organisations	bbc news	1
+Organisations	bbc humber	1
+Organisations	bbb	1
+Organisations	bbc world trust	1
+partner	bbc	4
+partner	bbc worldwide	2
+partner	bbc backstage	1
+partner	bbf	1
+big name	bbc	6
+big name	bb king	1
+show	bbc gardeners world live	1
+show	bbc good food	1
+show	bbc one 's sherlock 	1
+show	bbc's only an excuse'' with jonathan watson	1
+show	bbc's teletubbies	1
+show	bbc  two  sci-fi sitcom hyperdrive 	1
+show	bbc's comedy show	1
+show	bbc one 's saturday kitchen 	1
+show	bbc one 's holiday show 	1
+show	bbc's ready steady cook	1
+show	bbc extreme dreams	1
+show	bbc three  comedy show 	1
+show	bbc two 's celebrity conducting series maestro 	1
+advanced feature	bbe sound leveling	1
+club	bb king's blues club	1
+club	bbfc	1
+vendor	bbn hark	1
+sector	bba aviation operation	1
+influence	bb king	1
+store	bb	6
+store	bbq galore	1
+critic	bbc news's	1
+customer	bbc	13
+vehicle	bbc two  sketch-show the real mccoy 	1
+opportunity	bbq sale	1
+opportunity	bbq	1
+opportunity	bbc radio weekday phone-ins	1
+effort	bbc radio scotland series	1
+effort	bbb online	1
+incentive	bbq ribs	1
+label	bb dakota	2
+label	bbe	2
+label	bb dakota vero moda	1
+department	bbc online	4
+department	bbc programme-making department	1
+department	bbc chinese	1
+department	bbc learning	1
+department	bbc children's	1
+scheme	bb eighty-four 	1
+designer	bb dakota	6
+designer	bb simon	3
+award	bbb integrity award honorable mention	1
+award	bbc jazz award for best band	1
+award	bbc's in the city''	1
+award	bbc wildlife photographer of the year	1
+need	bbq burger	1
+restaurant	bb's	2
+restaurant	bbq restaurant	1
+article	bbc's	1
+magazine	bbc good food magazine	3
+magazine	bbc history	2
+magazine	bbc good food	2
+magazine	bbc wildlife	2
+magazine	bbc's good food'', waitrose's food illustrated''	1
+magazine	bbc gardeners world for occasional money-off vouchers for gardens around britain	1
+provider	bbn	1
+top quality inn	bb la corte	1
+asset	bbc worldwide's international asset	1
+color	bb red	1
+report	bbc article	1
+party	bbq & blues	1
+party	bbb	1
+offer	bbq set related offer	1
+offer	bbq grill related offer	1
+offer	bbq charcoal related offer	1
+offer	bbq tool related offer	1
+machine	bbc-b computer	1
+machine	bbc micro	1
+guest	bbc's mihir bose	1
+occasion	bbc radio broadcasts	1
+competitor	bbc	2
+competitor	bbc world	1
+gift	bbq product	1
+performer	bb king	4
+performer	bbc national orchestra of wales	1
+good	bbq sauce	2
+good	bbc hoodies	1
+good	bbq pock	1
+brand name	bb dakota	1
+addition	bbcode	1
+addition	bbq pork	1
+legend	bb king	7
+corporation	bbc	3
+corporation	bbva	1
+corporation	bbn	1
+weapon	bb gun	5
+weapon	bb-guns	1
+local tourist attraction	bbd bagh	1
+festival	bbc proms	10
+festival	bbc proms in london	1
+festival	bbc prom concerts	1
+great	bb king	6
+flavor	bbq	5
+flavor	bbq honey	1
+flavor	bbq fetus	1
+flavor	bbq chicken	1
+line	bb dakota	1
+package	bbs software package	1
+package	bbq catering	1
+channel	bbc	35
+channel	bbc news	9
+channel	bbc one 	8
+channel	bbc world	7
+channel	bbc three 	6
+channel	bbc hd	5
+channel	bbc four	4
+channel	bbc three	4
+channel	bbc entertainment	3
+channel	bbc knowledge	3
+channel	bbc four 	3
+channel	bbc news  twenty-four 	3
+channel	bbc persian	3
+channel	bbs	2
+channel	bbc lifestyle	2
+channel	bbc worldwide channel	1
+channel	bbc one  scotland 	1
+channel	bbc's	1
+channel	bbc  three 	1
+channel	bbc's cbbc	1
+channel	bbc other channel	1
+channel	bbc  two 	1
+channel	bb one 	1
+channel	bbc digital channel	1
+channel	bbc seven 	1
+channel	bbc two 	1
+luminary	bb king	2
+luminary	bbc's steve lamacq	1
+luminary	bbc philharmonic orchestra	1
+series	bbc's monitor	1
+series	bbc tv's under the sun	1
+series	bbc mystery series	1
+series	bbc natural history series	1
+utility	bbmd tool	1
+recipe	bbq chicken	1
+recipe	bbq beef cakes	1
+recipe	bbq wings with green curry	1
+sport	bball	7
+offering	bbq sandwich	1
+everything	bbm	1
+service provider	bbc digital teletext service	1
+protocol	bb eighty-four 	1
+error	bb buhl	1
+bank	bb	22
+bank	bbva	17
+bank	bbva of spain	3
+bank	bbt	1
+bank	bbva compass	1
+bank	bbva bancomer	1
+bank	bbl singapore	1
+bank	bbva banco continental	1
+employer	bbc	11
+employer	bba non woven	1
+specialty	bbq diggity dogs	1
+specialty	bbq nachos	1
+modification	bbs wheel	1
+user	bbc	4
+committee	bbc west regional advisory council	1
+molecule	bbd peptides	1
+association	bbb	1
+association	bbc at broadcasting house	1
+operator	bb excite	1
+result	bbc service	1
+network	bbc	25
+network	bbc npr	1
+network	bbc from the uk	1
+network	bbc iplayer	1
+network	bbs	1
+station	bbc	14
+station	bbc world service	6
+station	bbc london  ninety-four . nine 	3
+station	bbc local radio	1
+station	bbc digital station	1
+station	bbc radio cymru	1
+station	bbc radio one xtra 	1
+station	bbc news	1
+station	bbc  one xtra 	1
+station	bbc  seven 	1
+station	bbc along with little known broadcasting stations from the farthest corners of egypt	1
+station	bbc radio  four  extra 	1
+station	bbc radio  four 	1
+upgrade	bbk long tube header	1
+medium	bbc	15
+medium	bbm	1
+apps	bbm	9
+apps	bbc iplayer	2
+apps	bbedit	1
+apps	bb chat	1
+apps	bbm  five . zero 	1
+apps	bbc news mobile	1
+apps	bb map	1
+personality	bb king	1
+authority	bbb	1
+authority	bbc's new controller of drama commissioning	1
+stock	bbl	1
+objective	bbbee	1
+large company	bbc	5
+prize	bbc wildlife photographer of the year	2
+prize	bbq utensil	1
+sponsor	bb	2
+competition	bbc national short story award	1
+competition	bbc countryfile photographer of the year	1
+competition	bbc new comedy award	1
+factor	bba	2
+issue	bbc radio player	1
+issue	bbbee	1
+issue	bbc's strategy review	1
+forum	bbc's	1
+forum	bbc's website	1
+forum	bbc's web site	1
+scenario	bb device	1
+enhancement	bbtb	1
+icon	bb king	3
+dimension	bb width	1
+dimension	bb drop	1
+page	bbq guys coupon	1
+rival	bbv	1
+web site	bbc	3
+web site	bbs	1
+web site	bbc's myweb myway	1
+web site	bbc's cbeebies	1
+community event	bbq's	1
+community event	bbq night	1
+community event	bbq at the end of july	1
+traditional method	bbq sale	1
+commentator	bbc's robert peston	1
+commentator	bbc correspondent caroline hawley	1
+commentator	bbc top gear presenter jeremy clarkson	1
+commentator	bbc newsnight presenter emily maitlis	1
+suspect	bbci player	1
+suspect	bbc	1
+suspect	bbq chashu	1
+food item	bbq sauce	1
+outlet	bbc	10
+outlet	bbc persian television	1
+outlet	bbc & univision	1
+outlet	bb outlet	1
+outlet	bbc out of england	1
+professional organization	bbc trust in london	2
+professional organization	bbb	1
+enterprise	bbc	1
+container	bbox radio's	1
+programme	bbc two 's newsnight 	2
+programme	bbc panorama	1
+programme	bbc's fat nation	1
+programme	bbc one 's question time 	1
+programme	bbc's young musician of the year	1
+programme	bbc's linda green	1
+programme	bbc's newsround	1
+third party	bbb	1
+issue	bbc's role	1
+snack	bbq snack bites	2
+snack	bbq	1
+outdoor activity	bbq dinner	1
+contemporary	bbc's fiona bruce	1
+household name	bbc	4
+household name	bbc worldwide	1
+specialty item	bbq sauce	1
+TV show	bbc news	2
+TV show	bbc's murder in mind series	2
+TV show	bbc s murder in mind series	1
+TV show	bbc's the apprentice	1
+TV show	bbc's wheels''	1
+TV show	bbc's robin hood	1
+TV show	bbc's grow-your-own campaign dig in	1
+TV show	bbc's good food live	1
+TV show	bbc soap opera eastenders	1
+TV show	bbc	1
+TV show	bbc one 's bargain hunt 	1
+TV show	bbc's top gear	1
+social event	bbqs	5
+social event	bbq's	3
+social event	bbq gathering	1
+social event	bbq party in the park	1
+social event	bbq on the beach	1
+stuff	bb's	1
+response	bb king's	1
+family	bbcsalsothose internal chemical functional family	1
+international organization	bbyo	1
+necessity	bbq area	1
+fun activity	bbq session	1
+fun activity	bbq at the end of the summer season	1
+appetizer	bbq pork	1
+appetizer	bbq pork sandwich	1
+appetizer	bbq shrimp	1
+appetizer	bbq nachos	1
+appetizer	bbq chicken pizza	1
+design element	bbb logo	1
+hobby	bboying	1
+staple	bbq ed pork	1
+decoration	bbq on large grill	1
+inhibitor	bb ninety-four 	1
+polymer	bbl	1
+career	bbr builders	1
+production	bbc two  series attachments 	6
+production	bbc shakespeare plays	1
+production	bbc drama production	1
+production	bbc's off the menu	1
+tenant	bbva compass	1
+household item	bbq grill	1
+selection	bbblt sandwich	1
+large item	bbq grill	1
+entertainer	bb king	1
+item	bb gun	8
+item	bb-guns	7
+item	bbq grill	7
+item	bbq sauce	5
+item	bbq chicken	3
+item	bbq pork	2
+item	bbq sandwich	2
+item	bbq pits	2
+item	bbq item	2
+item	bbq beef	2
+item	bbqs	2
+publisher	bbc worldwide	1
+publisher	bbc education	1
+financial institution	bb	4
+financial institution	bbva bancomer	1
+link	bbc id login	2
+link	bb code	1
+luxury	bbq	2
+luxury	bbq facility	1
+staff	bbc vision employee	1
+great artist	bb king	2
+great artist	bbking charlie parker larmstrong coltrane	1
+recreational activity	bbq gathering	1
+recommendation	bbq	1
+entree	bbq meat	1
+virus	bbwv	2
+key feature	bbm	1
+online service	bbc iplayer	2
+online service	bbc's iplayer tv catchup service	1
+meal	bbq chicken quesadilla	1
+big company	bbc	1
+social activity	bbq session	1
+social activity	bbq's with friend	1
+social activity	bbq at a state park at birmingham	1
+social activity	bbq with indonesian	1
+software program	bbs software program	1
+topping	bbq pork	2
+topping	bbq shrimp	1
+topping	bbq sauce	1
+community activity	bbq	1
+online resource	bbc languages program	1
+online resource	bbc welsh language new	1
+campaign	bbc webwise	1
+campaign	bbc raw	1
+software package	bbs software package	1
+television show	bbc's murder in mind series	5
+television show	bbc s murder in mind series	3
+television show	bbc s top of the pops	3
+television show	bbc's top of the pops	2
+television show	bbc two 's blood ties 	1
+television show	bbcs murder in mind series	1
+television show	bbc's the house detectives	1
+television show	bbc's the house detectives''	1
+television show	bbc's spooks	1
+television show	bbc's primeval & robin hood	1
+proposal	bbc developing partnerships with commercial broadcaster	3
+proposal	bbc's other iptv proposal	1
+menu item	bbq chicken	1
+menu item	bbq chicken pizza	1
+menu item	bbq pulled pork	1
+menu item	bbq rib	1
+large organization	bbc	17
+large organization	bbc birmingham	1
+large organization	bbn	1
+large organization	bbc in the uk	1
+dog	bbasset hound	1
+large corporation	bbc	7
+large corporation	bbc using wordpress	1
+guest speaker	bbc's rory cellan-jones	1
+guest speaker	bbva compass bank president joseph bray	1
+international company	bbva	1
+famous artist	bb king	2
+famous brand	bbe	1
+avenue	bbb	1
+item	bbq stick	1
+item	bbq spareribs	1
+item	bbq teriyaki pork ribs from vintry	1
+item	bbq set	1
+item	bb simon dog collar	1
+item	bbq ham	1
+item	bbq pork buns	1
+item	bbq ribs	1
+lender	bb	2
+lender	bbva	1
+medium outlet	bbc	57
+medium outlet	bbc news	3
+medium outlet	bbc promoting podcasts	3
+medium outlet	bbc world service	2
+medium outlet	bbc world	1
+medium outlet	bbc-tv	1
+djs	bbc radio djs	1
+meat	bbq chicken	3
+meat	bbq rib	1
+meat	bbq pork	1
+phone	bb storm	1
+stream	bbc sport stream	1
+orchestra	bbc symphony	11
+orchestra	bbc national orchestra of wales	5
+orchestra	bbc symphony orchestra	3
+orchestra	bbc concert orchestra	2
+orchestra	bbc orchestra	1
+orchestra	bbc scottish symphony orchestra	1
+orchestra	bbc symphony orchestra at the proms	1
+orchestra	bbc philharmonic under famous conductors like pletniev	1
+orchestra	bbc symphony ochestra	1
+legislation	bbbee act	1
+heavyweight	bbc	2
+heavyweight	bbc's gilles peterson	1
+heavyweight	bb king	1
+dance	bboying	1
+dance	bboy	1
+set	bbq set	1
+public service	bbc	1
+well-known artist	bbmak	2
+private company	bbn	1
+ship	bb bismarck	3
+quality brand	bbc	1
+quality brand	bb	1
+national act	bb king	1
+educational program	bbc's play school	2
+educational program	bbc	1
+connection	bb modem	1
+small object	bb	1
+big player	bbc	1
+big player	bbc dominating the market	1
+big player	bbc iplayer	1
+motif	bb one 	1
+winner	bbdo	1
+stage	bb kings	1
+side	bbq baked bean	1
+side	bbq bean	1
+latest technology	bbc cymru wales post production	1
+latest technology	bbc iplayer	1
+radio station	bbc	20
+radio station	bbc world service	4
+radio station	bbc  one xtra 	2
+radio station	bbc radio  one xtra 	2
+radio station	bbc radio  four 	1
+radio station	bbc overseas services	1
+radio station	bbc london	1
+radio station	bbc norfolk	1
+radio station	bbc five live	1
+radio station	bbc  seven 	1
+radio station	bbc talkback	1
+radio station	bbc radio ulster	1
+radio station	bbc  six  music 	1
+side dish	bbq side dish	1
+background	bbc music magazine	1
+accent	bbc english	3
+common name	bbloves, srishawt, ilovgd	1
+ensemble	bbc singers	4
+ensemble	bbc orchestra of wales	3
+ensemble	bbc symphony orchestra	1
+starter	bbq rib	1
+comedian	bbob hope	1
+comedian	bbboys opie & anthony	1
+nickname	bbt	1
+nickname	bby doll	1
+preference	bbbj	1
+degree	bba	2
+training program	bb queen's badge	1
+big brand	bbc	2
+business service	bbb	1
+television program	bbc's coast	2
+television program	bbc one 's animal hospital 	1
+television program	bbc television program	1
+television program	bbc coast	1
+television program	bbc	1
+television program	bbc fox news live	1
+television program	bbc gardeners world	1
+television program	bbc's checkpoint	1
+computer program	bbc's bamzooki	1
+luxury item	bbq's	1
+treasure	bbc flight of the condor	1
+new	bbc	4
+new	bbc news	2
+argument	bb	1
+local agency	bbb	1
+editor	bbedit	4
+multinational company	bbc worldwide	1
+multinational company	bbc	1
+advertiser	bbc world	1
+local favorite	bbq from the optimist	1
+local favorite	bbq hash	1
+leading company	bbl worknet	1
+mega event	bb king happening throughout the year	1
+sauce	bbq sauce	11
+sauce	bbq	1
+fundraiser	bbq plate dinner	1
+condiment	bbq sauce	13
+condiment	bbq sauce on the bun	1
+condiment	bbq sauce from scratch with no salt	1
+neighbor	bb olive	1
+studio	bbc world studios in singapore	1
+scent	bbw iced pineapple	1
+merchant page	bbc.co.uk cbbc childrens television	5
+merchant page	bbc.com cbeebies.co.uk	3
+merchant page	bbbc.co.uk cbbc	3
+merchant page	bbc.co.uk cbeebies.com cd album	2
+merchant page	bb clothing store	1
+local resource	bbb	1
+honor	bbc's lifetime achievement award	1
+honor	bbc s lifetime achievement award	1
+honor	bbc africa service award for radio drama	1
+external source	bbc history	1
+item	bbq pork burrito	1
+item	bbq pork nacho	1
+item	bbc pen	1
+item	bbc pictorial feature	1
+item	bbq short rib	1
+item	bbq chicken pineapple	1
+item	bbq apron	1
+item	bbq grill with hot dog rollers	1
+item	bbq pork sandwich	1
+item	bbq pork slider	1
+item	bbq island	1
+item	bbq accessory	1
+item	bb cream	1
+item	bbchs pool	1
+item	bbblt sandwich	1
+TV series	bbc's great british menu	1
+TV series	bbc's bafta award winning charles ii	1
+TV series	bbc's wonders of the universe	1
+TV series	bbt	1
+gun	bb gun	1
+distributor	bbr	1
+standard item	bbq bun	1
+computer	bbc computer	6
+computer	bbc micro	6
+computer	bbc microcomputer	1
+computer	bbn butterfly	1
+computer	bbc micro for external connection	1
+global company	bbc	1
+public institution	bbc	2
+public institution	bb	1
+niche	bbw	1
+leisure activity	bbq in autumn	1
+leisure activity	bbq in the school's garden	1
+presenter	bbc news anchor george alagiah	2
+presenter	bbc new presenter	1
+presenter	bbc hire presenter	1
+presenter	bbc's top presenter	1
+presenter	bbc radio presenter	1
+button	bbc news	1
+filling	bbq pork	2
+file format	bbeb file	1
+jazz great	bb king	2
+unusual item	bb gun	1
+great amenity	bbq area	3
+speciality	bbq chicken	1
+fun event	bbqs movie night	1
+local service	bbc radio leicester	1
+local service	bbc radio nottingham	1
+popular artist	bb king	1
+community facility	bbq area	1
+market leader	bbc worldwide	6
+large firm	bbdo new york	1
+seasonal item	bbq grill	2
+reputable company	bbc blast	1
+sandwich	bbq chicken	2
+sandwich	bbq pork	1
+contender	bbc breakfast	1
+television series	bbc's casualty	1
+drama	bbc four's the chatterley affair	1
+drama	bbc's flagship drama	1
+regulator	bbfc	2
+TV program	bbc	2
+TV program	bbc's rick stein's spain	1
+TV program	bbc's gardener's world	1
+TV program	bbcs see hear	1
+TV program	bbc proms in the park	1
+TV program	bbc news	1
+TV program	bbc daytime show	1
+TV program	bbc young musician of the year award	1
+TV program	bbc two 's award-winning behind the beat 	1
+TV program	bbc's dragons den	1
+TV program	bbc's cowboy builders	1
+tv program	bbc tv program	1
+TV program	bbc's live at the apollo	1
+TV program	bbc one 's animal rescue 	1
+TV program	bbc's food	1
+TV program	bbc through there i player	1
+top company	bbc	3
+internet site	bbc bitesize	2
+internet site	bb four  . in.com 	1
+internet site	bbc languages page	1
+attractive feature	bbcode	1
+internet service	bbc	2
+internet service	bbc iplayer	2
+internet service	bbc npr	1
+internet service	bbc news	1
+profile	bb nine hundred 	2
+profile	bbm	1
+arena	bball	1
+seasoning	bbq sauce	2
+seasoning	bbq	1
+outside source	bbb	1
+popular site	bbb	1
+popular site	bbc iplayer	1
+guitarist	bb king	7
+common household item	bbq grill	1
+powerhouse	bbc	1
+template	bbpp bppbp	1
+family event	bboy event	1
+high profile client	bbc	2
+high profile client	bbc pensioners association	1
+abbreviation	bbf	1
+abbreviation	bbdo in the reference	1
+gathering	bbq picnic	1
+menu	bbq menu	1
+menu	bbq style menu	1
+broadcaster	bbc	77
+broadcaster	bbc world	1
+portal	bbc . co. uk	1
+innovator	bb king	1
+bug	bbq hygiene bug	1
+cultural institution	bbc	1
+outing	bbq	1
+popular name	bb king	1
+international agency	bbc	2
+international agency	bbdo	1
+large-scale project	bbc's white city redevelopment	1
+area	bbsb forest	1
+area	bbq area	1
+daily special	bbq meats	1
+global player	bbva	1
+implementation	bbc	1
+standby	bbq spareribs	1
+reporter	bbc star reporter	1
+reporter	bbc correspondent based in peshawar	1
+reporter	bbc environment reporter	1
+technological advancement	bbm	2
+range	bb gun shooting range	1
+shopping mall	bb plaza	4
+trade association	bbpa	1
+trade association	bbb	1
+seasonal event	bbc saving planet earth	1
+top brand name	bb dakota	1
+amazing feature	bbm	1
+amazing feature	bbq facility	1
+shopping centre	bb plaza & sungei wang	1
+shopping centre	bb plaza	1
+medium company	bbc	13
+top artist	bb king	3
+complex	bb park	3
+content provider	bbc	13
+content provider	bbc's iplayer	1
+content provider	bbc iplayer	1
+large institution	bbc	1
+online source	bbc	1
+prestigious venue	bbc proms in the albert hall	1
+prestigious venue	bb kings at universal studios	1
+value-added product	bbq sauce	1
+musical artist	bb king	3
+communication method	bbs groups	1
+corporate giant	bbc	1
+fan favorite	bbq chicken	1
+documentary	bbc's springwatch	2
+documentary	bbc's walking with dinosaurs	1
+secondary character	bb's singer ex-girlfriend	1
+idol	bb king	1
+possession	bb photo	1
+handy feature	bbc iplayer	1
+local celebrity	bbc radio manchester presenter jimmy wagg	1
+common facility	bbq area	1
+outdoor event	bbqs	2
+reliable source	bbc website	2
+reliable source	bbc	1
+crystal	bbo	2
+key partner	bbc	1
+academic program	bba	1
+non-profit group	bbcs	1
+established company	bbp inc.	1
+established company	bbn	1
+funders	bbsrc	2
+small appliance	bbq grill	1
+small appliance	bbq on the patio	1
+high profile event	bbc sports personality of the year	2
+plug-ins	bbci player	2
+common application	bbedit	1
+internet application	bbs	1
+medium source	bbc	6
+medium source	bbc report on famine	1
+degree program	bba	1
+degree program	bbm	1
+social networking site	bbc iplayer	2
+media	bbc world	1
+media	bbc	1
+public amenity	bbq pits	1
+traditional source	bbc	1
+policy change	bba reduction	1
+big name brand	bbc	1
+ammenities	bbq pit	1
+medium player	bbc	1
+community amenity	bbq area	1
+big corporation	bbc	1
+coverage	bbc's  sport coverage	1
+free activity	bb gun shooting	1
+key project	bbc tv licensing	1
+key project	bbc information service	1
+license	bbc's	2
+seasonal activity	bbq	1
+not-for-profit organization	bbc	2
+global organization	bbc	2
+social function	bbqs	2
+social function	bbq s	1
+common object	bb's	1
+blend	bbq spice blend	1
+corporates	bbc	2
+delicious dish	bbq chicken	1
+delicious dish	bbq back ribs	1
+natural method	bbt charting	1
+video format	bbc iplayer	2
+multimedia feature	bbc iplayer	2
+popular dish	bbq half chicken	1
+practical feature	bbq point	1
+established player	bbn technologies	1
+letter	bbbj	1
+letter	bb &	1
+prestigious company	bbc	2
+service	bbc iplayer	29
+service	bbc	10
+service	bbb	9
+service	bbc's iplayer	8
+service	bbm	7
+service	bbq area	3
+service	bbc i player	3
+service	bbc  six  music 	3
+independent organization	bbb	1
+TV channel	bbc	10
+TV channel	bbc midlands	3
+TV channel	bbc london	1
+TV channel	bbc three 	1
+aftermarket part	bbk cold air intake, seventy  throtle body 	1
+priority area	bbeeff for health promotion	14
+high-profile client	bbc	2
+high-profile client	bbva panama	1
+theme night	bbq night	1
+affiliate	bbc	1
+comfort food	bbq chicken	1
+meat dish	bbq pork	1
+hot item	bbq's on the picnic table	1
+research organization	bbn	1
+music legend	bb king	1
+formal event	bbq's garden parties	1
+production company	bbc	5
+dangerous item	bb gun	2
+prestigious client	bbc	2
+web browser	bb native browser	1
+excellent facility	bbq area	1
+high profile company	bbc	2
+historical document	bbc news report	1
+online community	bbs	1
+online community	bbs group	1
+global giant	bbc	1
+big boy	bbc	1
+news outlet	bbc	17
+news outlet	bbc news	5
+news outlet	bbc for conducting a panorama on lord michael ashcoft's holdings in the turks & caicos	1
+news outlet	bbc news  twenty-four 	1
+news outlet	bbc's website	1
+news outlet	bbc arabic	1
+international festival	bbc proms	3
+text editor	bbedit	30
+text editor	bbedit on mac	1
+medium organization	bbc	32
+rating	bbb	1
+big business	bbc	1
+great facility	bbq facility	1
+news source	bbc	21
+news source	bbc hindi	2
+news source	bbc persian service	1
+news source	bbc web site	1
+news source	bbc news online	1
+contestant	bb seven  s nicky grahame 	1
+international client	bbc	1
+wonderful feature	bbq area	1
+wonderful feature	bbq & picnic area	1
+menu option	bbq spaghetti	1
+dictator	bb of ppp	1
+news organization	bbc	61
+news organization	bbc news	1
+news organization	bbd	1
+firearm	bb gun	1
+great service	bbc iplayer	2
+great service	bbc	1
+musical great	bb king	3
+moisturizer	bb cream	1
+pundit	bbc's big name pundit	1
+animal model	bb rat	1
+interactive service	bbc iplayer	1
+interactive service	bbc's wimbledon coverage	1
+monitor	bbalert passive	2
+commercial bank	bbva	2
+commercial bank	bb	1
+factor	bb type	1
+service	bbc two scotland	2
+service	bbb online reliability program	1
+service	bbv screening	1
+service	bbva's compass	1
+service	bbq tops	1
+service	bbc four 	1
+service	bbc's on-demand service	1
+large-scale event	bbc sports personality of the year	1
+online activity	bbc bitesize	1
+prestigious event	bbc sports personality of the year	1
+commercial enterprise	bbc	1
+prestigious organization	bbc natural history unit	1
+prestigious organization	bbc	1
+blue artist	bb king	6
+large site	bbc news	1
+large site	bbc	1
+local food	bbq ribs	2
+professional company	bbc	1
+adopter	bbc	3
+key organization	bbc	1
+popular website	bbc.co.uk	2
+popular website	bbc	1
+side item	bbq bean	1
+day activity	bb's	1
+house specialty	bbq shrimp	5
+house specialty	bbq chicken	1
+web page	bbc.co.uk	2
+music great	bb king	1
+private function	bbq dinner	1
+reputable source	bbc	5
+reputable source	bbc r	1
+resident species	bbs research small-bodied resident species	1
+communal facility	bbq area	1
+poster	bbbs	1
+dance form	bboying	1
+specialty food	bbq sauce	1
+dinner	bbq sandwich	1
+large bank	bb	1
+large bank	bb&t	1
+evening event	bbq with traditional music	1
+public sector organization	bbc	5
+regional bank	bb	5
+regional bank	bbt	2
+cultural organization	bbc	2
+local community organization	bbbs	1
+password	bbbb two thousand two hundred and twenty-two 	1
+service	bbq grill	1
+service	bbq gardens los angeles	1
+service	bbb online	1
+service	bban new world service	1
+service	bbc four	1
+service	bbc iplayer in the uk	1
+service	bbc  seven 	1
+service	bbc's project canvas	1
+service	bbc's digital service	1
+service	bbq poolside dining	1
+service	bbci's enhanced wimbledon coverage	1
+service	bbc radio online	1
+fund-raising event	bbq lunch	1
+fund-raising event	bbc's comic relief night	1
+online website	bbc bitesize	1
+radio program	bbc radio  four  extra 	1
+radio program	bbc international	1
+radio program	bbc world service's	1
+big bank	bbva	1
+authoritative source	bbc	1
+international partner	bbc	1
+marquee name	bbc	1
+legendary musician	bb king	2
+wonderful amenity	bbq gas grill	2
+wonderful amenity	bbq grill	1
+wonderful amenity	bbq cooking grill	1
+advertising agency	bbdo	5
+advertising agency	bbdo ny	1
+advertising agency	bbdo new york	1
+big organization	bbc	1
+blue-chip company	bbc	1
+high-profile company	bbc	1
+small organization	bbn	1
+international program	bbc	2
+reputable organization	bbb wise giving alliance	1
+flammable liquid	bbq lighter fluid	1
+medium service	bbc news	1
+rs	bbc	1
+wheel	bbs	3
+wheel	bbs lm	1
+rich food	bbq rib	1
+specialty pizza	bbq chicken	6
+specialty pizza	bbq chicken pizza	1
+specialty pizza	bbq chicken bacon	1
+sire	bba galant	1
+television network	bbc	6
+cable channel	bbc world	1
+nice option	bbq center	1
+archive	bbc	3
+free site	bbc from the cloud web page	1
+porn star	bbw porn star	1
+editing program	bbedit	1
+minor modification	bbk throttle body	1
+minor modification	bbk header	1
+guitar player	bb king	2
+page element	bbb logo	1
+professional course	bba	4
+publishing company	bbc publications	1
+television station	bbc	1
+television station	bbc world service	1
+exciting project	bbc creative archive	1
+signature item	bbqed oyster	1
+clothing line	bb dakota	1
+radio show	bbc  one xtra's d&b m one x 	2
+radio show	bbc  one xtra s d&b m one x 	1
+online forum	bbs	1
+television channel	bbc	3
+television channel	bbc world	2
+television channel	bbc two 	1
+television channel	bbc one 	1
+television channel	bbc hd	1
+international bank	bbva	1
+monthly activity	bbq's	1
+digital service	bbc's digital service	1
+traditional flavor	bbq	1
+well-known designer	bb dakota	1
+news site	bbc	18
+news site	bbc news	3
+news site	bbc.co.uk	3
+news site	bbc persian	1
+news site	bbc's	1
+news site	bbc offer multilingual live	1
+news site	bbc online	1
+news site	bbc's farsi service	1
+news site	bbc sports	1
+news site	bbc.com	1
+news site	bbc's persian service	1
+news site	bbc into french	1
+service	bbc's digital television service	1
+service	bbc.co.uk	1
+service	bbc world service	1
+service	bbc choice	1
+key attraction	bbnpa visitors centre	1
+corrective measure	bbb	1
+famous band	bb king	1
+good practice	bbsrc's industrial partnerships award	1
+pizza	bbq chicken with onion	1
+american favorite	bbq chicken	1
+american favorite	bbq rib plate	1
+medium channel	bbc	1
+national recording artist	bb king	1
+interesting event	bbq party	1
+international publication	bbc	1
+undergraduate course	bba honors	1
+undergraduate course	bbe honors	1
+on-site activity	bbq's	1
+comedy show	bbt	1
+comedy show	bbc mock the week	1
+comedy show	bbc's comedy show	1
+comedy show	bbc three  comedy show 	1
+entertainment activity	bbc prom	1
+hot dish	bbq shortribs	1
+modern service	bbc iplayer	1
+choir	bbc singers	5
+choir	bbc welsh chorus	1
+credible source	bbb	4
+independent source	bbc	2
+UK company	bbc worldwide	1
+food vendor	bbq on a stick by the cologne dom	1
+chinese dish	bbq'd meat	1
+chinese dish	bbq dish	1
+medium giant	bbc	3
+video service	bbc iplayer	4
+management program	bba	1
+fire	bbq grill	1
+great tool	bbedit	1
+international competition	bbc cardiff singer of the world	1
+reputed organization	bbc world service trust	1
+mountainous region	bbv	1
+stunt	bbbj	1
+entertainment program	bbc sound	2
+hit show	bbc one s friday night with jonathan ross 	1
+hit show	bbc one 's friday night with jonathan ross 	1
+hit show	bbc one s friday night with jonathon ross 	1
+main	bbq lamb with black pepper sauce	1
+british company	bbc	1
+compound exercise	bb squat	1
+great gift idea	bbq tools sets	1
+park facility	bbq area	1
+vocational program	bba	1
+watchdog group	bbb wise giving alliance	4
+correspondent	bbc's john simpson	1
+female	bb miss  sixty-one y 	1
+topic	bbqing	1
+landmark building	bbc television centre	1
+interactive program	bbc ke saath	1
+international donor	bbc world service trust	1
+best quality product	bbq smoker	67
+cookbook	bbq collection	1
+introduction	bb eighty-four 	1
+on-site facility	bbq area	1
+TV station	bbc	5
+blue legend	bb king	1
+multinational organization	bbc	1
+reputable site	bbc	1
+social medium platform	bbm	1
+bus company	bbl trans-system	1
+free amenity	bbq area	2
+compound movement	bb bench press	1
+compound movement	bb row	1
+musical guest	bb king	1
+taxpayer	bbc	1
+TV network	bbc	5
+blue great	bb king	3
+level course	bba	1
+music event	bbc-wide pop music event	1
+regional program	bbc regional program	1
+network provider	bbc	1
+best seller	bbc good homes magazine	1
+business LED sign	bbq led sign	1
+run	bbc's upcoming sport relief	1
+video site	bbc iplayer	2
+full facility	bbq pit	1
+full facility	bbq area	1
+medium group	bbc	6
+onsite facility	bbq area	1
+resort facility	bbq area	3
+hot surface	bbq grill	1
+music video	bbq song	1
+concrete material	bbase- ten  block 	2
+notable organization	bbc	1
+age-appropriate activity	bb gun	1
+topic	bbw sex movie	1
+full-access bonus site	bbw zine	1
+HTML editor	bbedit	4
+HTML editor	bbedit for the mac	1
+summer event	bbq bash	1
+mainstream company	bbc	1
+outdoor amenity	bbq area	1
+high profile organization	bbc news	1
+high profile organization	bbc	1
+large network	bbc	1
+news agency	bbc	18
+news agency	bbc world	1
+recreational item	bbq grill	1
+classic flavor	bbq	1
+regional favorite	bbq sandwich	1
+respected organization	bbc	1
+key industry player	bbc	1
+influential organization	bbc film network	1
+influential organization	bbc	1
+broadcast	bbc	4
+broadcast	bbc-belfast radio	3
+clinical test	bbs	1
+gourmet item	bbq sauce	1
+simple component	bbs	1
+open flame	bbq grill	1
+affiliation	bbb of northern california	1
+affiliation	bbb	1
+club team	bbc	1
+notable venue	bb kings	2
+web portal	bbc	1
+TV	bbc iplayer	1
+delectable dish	bbq chicken drumstick	1
+free online game	bbc mystery games	1
+weekly special	bbq chicken wednesdays	1
+weekly special	bbq sandwich	1
+HD channel	bbc hd	2
+HD channel	bbc on ch. one hundred and eighty-seven 	1
+HD channel	bbc	1
+italian specialty	bbq mixed seafood	1
+international network	bbc	2
+common mistake	bbba church	1
+commercial food	bbq sauce	1
+news service	bbc	13
+news service	bbc arab service	1
+news service	bbc news	1
+seasonal special	bbqs sizzling on the terrace	1
+medium site	bbm	1
+communication platform	bbs	1
+news program	bbc	3
+news program	bbc news	1
+news program	bbc breakfast	1
+popular apps	bbc news live stream	1
+regular social event	bbqs	1
+clinical tool	bbs	1
+outdoor feature	bbqs	1
+traditional organization	bbc	1
+financial entity	bbva	1
+legendary venue	bb king's	1
+digital channel	bbc three 	4
+digital channel	bbc news  twenty-four 	2
+digital channel	bbc three	1
+digital channel	bbc digital channel	1
+enterprise customer	bbc	1
+great dish	bbq squid	1
+grilled meat	bbq steak	1
+jean	bbc jean	1
+public corporation	bbc	2
+red food	bbq potato chip	1
+smartphone	bb	1
+critical dimension	bbl diameter	1
+graduate course	bbm	1
+international dish	bbq tempeh	1
+renowned orchestra	bbc scottish symphony orchestra	1
+renowned orchestra	bbc concert orchestra	1
+delicious entree	bbq duck	1
+famous jazz musician	bb king	1
+watchdog	bbb wise giving alliance	1
+good site	bbc	1
+hospitality service	bbq amenity	37
+hospitality service	bbq facility	31
+international performer	bb king	1
+content owner	bbc	1
+european bank	bbva	2
+news channel	bbc	20
+news channel	bbc world	7
+news channel	bbc news	2
+news channel	bbc news  twenty-four 	2
+periodic event	bbq picnic	1
+national medium outlet	bbc	2
+social networking feature	bbm	1
+traditional lender	bb	1
+undergraduate program	bba business studies	1
+complementary item	bbq's	1
+complementary item	bbqs	1
+medium program	bbc world business report speaking on issues ranging from the eu	1
+medium program	bbc news	1
+national player	bbc in the uk	1
+news website	bbc	14
+news website	bbc online	1
+satisfied customer	bbc	1
+company	bbc	108
+company	bb	6
+company	bbdo	5
+company	bbn technologies	4
+company	bbk	3
+company	bbb	3
+company	bbn	3
+company	bbva	3
+company	bbb online	1
+company	bbc  three 	1
+company	bbva of spain	1
+company	bbg	1
+company	bbt	1
+company	bbtelsys	1
+good amenity	bbq area	1
+monthly magazine	bbc countryfile	1
+monthly magazine	bbc good food	1
+popular social networking site	bbc communities	1
+simple recipe	bbq rib	1
+advertising company	bbdo	2
+big-name client	bbc	2
+blue	bb king	1
+large publisher	bbc	1
+onsite amenity	bbq area	1
+onsite amenity	bbq facility	1
+web-based resource	bbc bitesize	1
+local radio station	bbc coventry & warwickshire	2
+local radio station	bbc radio nottingham	2
+local radio station	bbc radio leeds	1
+local radio station	bbc radio norfolk	1
+local radio station	bbc radio berkshire	1
+on-demand service	bbc iplayer	4
+on-demand service	bbc's on-demand service	1
+standard favorite	bbq pork sandwich	1
+watchdog organization	bbb wise giving alliance	1
+comprehensive facility	bbq pit	1
+nightly special	bbq rib	1
+popular television program	bbc's coast	2
+popular television program	bbc two 's meet the ancestors 	1
+street food	bbq	1
+medium brand	bbc	5
+ROMs	bbuchacher	1
+satisfied client	bbc	1
+big-name star	bbc breakfast host sian lloyd	1
+family outing	bbq lunch	1
+public service organization	bbc	1
+undergraduate degree	bba	1
+blue chip organization	bbc	1
+food donation	bbq supply	1
+imprint	bbc books	1
+PAHs	bbf	1
+pellet	bbq rs delight	1
+western dish	bbq pork ribs	1
+applied discipline	bba	1
+broadcast network	bbc	2
+international newspaper	bbc	1
+traditional medium outlet	bbc	3
+ad agency	bbh	1
+ad agency	bbdo	1
+great appetizer	bbq pork	1
+great appetizer	bbq rib	1
+online brand	bbc worldwide online brand	1
+top bank	bbva	1
+wire service	bbc	1
+company	bbc.com falling under the remit of bbcww	1
+company	bbi classic limos	1
+company	bbdo worldwide advertising agency	1
+company	bbl	1
+company	bbc worldwide	1
+corporate brand	bbc	1
+creative business	bbc	1
+fun food	bbq beef sandwiches	1
+mexican favorite	bbq spare ribs	1
+news publication	bbc	1
+traditional side	bbq baked beans	1
+webpages	bbc news	1
+international broadcaster	bbc	17
+international broadcaster	bbc world service	12
+mainstream medium outlet	bbc	3
+mainstream medium outlet	bbc world	1
+open site	bbc	1
+social medium network	bbm	1
+audio visual aid	bbc's film the blue planet''	1
+content partner	bbc	1
+content partner	bbc worldwide in the world	1
+high-profile individual	bbc's declan curry	1
+large website	bbc.co.uk	1
+television company	bbc	2
+classical musician	bbc singers	1
+closed area	bb gun range	2
+research agency	bbsrc	1
+holistic method	bbm	1
+largest bank	bbva	1
+mainstream medium	bbc news	1
+mainstream medium	bbc	1
+medium house	bbc	4
+prominent journalist	bbc world affairs editor john simpson	2
+prominent journalist	bbc s world affairs correspondent john simpson	1
+prominent journalist	bbc s caroline hawley	1
+prominent journalist	bbc's world affairs correspondent john simpson	1
+prominent journalist	bbc's caroline hawley	1
+public sector company	bbc	1
+big lender	bb	2
+brand shoe	bbc hoodie	4
+electronics store	bb	1
+local bar	bbc in falmouth	1
+medium conglomerate	bbc	1
+competitive program	bba	1
+convenient tool	bbs	1
+menu offering	bbbj	1
+namebrands	bbk	1
+nice restaurant	bbq place in amarillo	1
+top agency	bbdo	1
+3rd party apps	bbweather	1
+baseball star	bbf book baseball star	1
+fan site	bbi	1
+food offering	bbq corn on the cob	1
+international service	bbc cable tv in the united states	2
+native application	bbm	1
+top organization	bbc	1
+wedding vendor	bbj linen	1
+bigwig	bbva	1
+count	bbs	1
+company	bb riverboats	1
+management course	bba	2
+medium corporation	bbc	5
+multinational client	bbdo	1
+political analyst	bbc's nick robinson	1
+high-profile brand	bbc	1
+italian company	bbr	1
+oil-based stain	bbq fat	3
+phthalates	bbzp	3
+phthalates	bbp	1
+third party source	bbv treatment unit	1
+brand clothes	bbc jean	4
+brand clothes	bbc hoodies	4
+fantastic event	bbc concert in buckingham palace	1
+high-profile organization	bbc	3
+information site	bbc's country profile of drc	1
+music source	bbc's across the line	1
+nightspot	bb's jazz blues & soups	1
+small protein	bbl	2
+top-ranked manufacturer	bba reman	1
+U.S. bank	bb & t corp.	2
+wonderful dish	bbq duck	1
+wonderful dish	bbq pork	1
+bluesmen	bb king	1
+digital application	bbci service	1
+first-class facility	bbq pit	1
+medium entity	bbc	2
+world renowned company	bbva	1
+medium network	bbc	1
+news media	bbc	1
+satellite channel	bbc persian	1
+satellite channel	bbc world service	1
+BBC program	bbc springwatch	1
+BBC program	bbc food	1
+european festival	bbc proms	1
+international channel	bbc	6
+international channel	bbc world	2
+international channel	bbc lifestyle	1
+international channel	bbc knowledge	1
+news magazine	bbc focus on africa	1
+popular online service	bbc iplayer	1
+summer food	bbq chicken	1
+web editor	bb edit	1
+world-class event	bbc sports personality of the year	1
+baked food	bbq bun	1
+british institution	bbc	1
+buffet	bbq buffet	1
+internet player	bbc	1
+large source	bbc	1
+prestigious orchestra	bbc national orchestra of wales	1
+respected source	bbc	1
+activity	bb gun	9
+activity	bbq's	4
+activity	bbq	3
+activity	bb rifle	1
+commercial event	bbc peer-to-peer service	1
+content producer	bbc	1
+global network	bbc	1
+hot food item	bbq beef sandwich	1
+medium owner	bbc world	1
+medium provider	bbc	2
+medium provider	bbc news from england	1
+news network	bbc	15
+news station	bbc	2
+news station	bbc world	1
+popular medium	bbc	2
+repeat	bbc one 's the gruffalo on christmas day 	2
+shooting sport	bb gun	1
+summertime activity	bbqing	1
+background application	bbc iplayer	1
+complex facility	bbq facility	1
+established manufacturer	bbs	1
+fool	bbc fund fool	1
+interesting combination	bbq chicken pizza	1
+language tool	bbc language	1
+outdoor living area	bbq island	1
+coveted brand	bb dakota	1
+feed source	bbc	1
+medium firm	bbc	1
+regular store	bb	1
+bachelor's degree	bba in project management	2
+entertainment site	bbc iplayer	1
+good application	bbc	1
+grill item	bbq	1
+high-end manufacturer	bbs	1
+medium institution	bbc	2
+modern great	bb king	1
+renowned ensemble	bbc scottish symphony orchestra	1
+specialist magazine	bbc wildlife magazine	1
+specialist magazine	bbc history magazine	1
+traditional medium company	bbc	4
+black entertainer	bb king	1
+broadcasting company	bbc	2
+broadcasting company	bbc online	1
+cooking equipment	bbq grills	2
+cyclical company	bba	1
+exemplar	bbc springwatch	2
+mobile phone brand	bbk	1
+one-day event	bbq's	1
+outdoor appliance	bbq grill	1
+public broadcaster	bbc	9
+public broadcaster	bbc trust	1
+public broadcaster	bbc in the uk	1
+public broadcaster	bbc world service	1
+public broadcaster	bb c	1
+reputable place	bbc	1
+sister company	bbc film	1
+sister company	bbc radio  one extra 	1
+spanish company	bbva	2
+spectacular amenity	bbq area	1
+full condo facility	bbq pit	3
+home computer	bbc micro	1
+international medium outlet	bbc	5
+plain text editor	bbedit	1
+activity	bbq's throughout the season	1
+activity	bbq in the countryside	1
+activity	bbq cookout at the homestead	1
+activity	bbq's camping	1
+activity	bbq party on the coast	1
+activity	bbq lunch	1
+activity	bb shoot	1
+activity	bb shooting	1
+radio service	bbc	1
+well-known source	bbc	2
+headgear	bbh	1
+internet brand	bbc	1
+large international bank	bbva	5
+large medium company	bbc	2
+news company	bbc	3
+news medium	bbc	5
+news tv channel	bbc news	1
+signature product	bbq pork combo dish	1
+strong partner	bbc	1
+full feature	bb mail	1
+hospitality facility	bbq amenity	30
+hospitality facility	bbq facility	28
+legitimate source	bbc	1
+virtual space	bbm group s for art ists	1
+blackberry feature	bbm	2
+blackberry feature	bb messenger	1
+broadcast station	bbc	1
+cooking surface	bbq top	1
+delectable item	bbq back rib	1
+delicious selection	bbq chicken lasagna	1
+external attribute	bbq point	1
+extruder	bb gun extruder	1
+featuring legend	bb king	1
+fellowship opportunity	bbq's	1
+innovative organization	bbc	1
+large collection	bbc archive	1
+large-scale survey	bbs	2
+masonry feature	bbq island	1
+medium website	bbc	1
+news provider	bbc	2
+senior member	bbs s goer	1
+big network	bbc london	1
+established service	bbc's iplayer	3
+food magazine	bbc good food	2
+food magazine	bbc good food magazine	1
+international new organization	bbc	3
+international new organization	bbc news	1
+large medium outlet	bbc	2
+resort style facility	bbq area	1
+scroll	bbi	1
+straw	bb peanut	1
+tasty selection	bbq chicken & fried shrimp	1
+world-famous name	bb king	1
+accessible facility	bbq pits	1
+amazing dish	bbq braised short ribs	1
+american official	bbg's norman pattiz	1
+dim sum dish	bbq pork bun	1
+intermediate institution	bbc	1
+international medium	bbc	7
+international medium	bbc world television channel	1
+international medium	bbc news	1
+international medium	bbc news world edition on the internet	1
+international orchestra	bbc symphony orchestra	3
+musical celebrity	bb king	1
+national and local company	bb	1
+authority site	bbc	1
+boxed item	bbq's	1
+co-sponsors	bbc	1
+countless brand	bbritax car seat	1
+distinguished company	bbc	3
+ebook format	bbeb	1
+english channel	bbc	3
+english channel	bbc  one 	1
+english channel	bbc world	1
+famous orchestra	bbc symphony orchestra	2
+international medium organization	bbc	4
+international TV channel	bbc world	2
+international TV channel	bbc lifestyle	1
+international TV channel	bbc	1
+kid's activity	bb gun shooting range	1
+messaging	bbm	1
+united kingdom tv channel	bbc daily politics	2
+united kingdom tv channel	bbc cbeebies	2
+united kingdom tv channel	bbc wildlife channel	2
+united kingdom tv channel	bbc news	1
+united kingdom tv channel	bbc two live	1
+well-known website	bbc's voices	1
+client event	bbq's	1
+congeners	bb- two 	1
+consumer program	bbc's watchdog	1
+consumer program	bbc's watchdog program	1
+cool activity	bbq party	1
+entertainment legend	bb king	1
+established publication	bbc	1
+international website	bbc	1
+mainstream outlet	bbc	1
+national lender	bb	2
+overseas act	bb king	2
+preloaded application	bbm	1
+prominent bank	bbt	1
+rich meat	bbq rib	1
+Tastemakers	bbc's gilles peterson	1
+trusted name	bbs	1
+TV documentary	bbc's history of christianity	1
+unofficial source	bbc	10
+weighting material	bb shot pellet	1
+3rd party app	bbsmart alarms pro	1
+branded jean	bbc jeans	5
+broadcasting system	bbc	1
+condominium facility	bbq	1
+content company	bbc	2
+cooking facility	bbq grill	1
+delicious sandwich	bbq chicken sandwich	1
+free channel	bbc	4
+free channel	bbc one 	2
+free channel	bbc two 	1
+huge multinational	bbc	1
+international major	bbc worldwide	2
+international outlet	bbc	2
+medium report	bbc's inside out program	1
+MMP inhibitor	bb ninety-four 	1
+prominent website	bbc	1
+racquet	bb melbourne	1
+rating organization	bbb wise giving alliance	1
+rating organization	bbfc	1
+top facility	bbc post	1
+affair program	bbc's panorama	3
+affair program	bbc s panorama	1
+blackberry service	bbm	5
+brand shoes&clothing	bbc jean	2
+brand shoes&clothing	bbc shirt	2
+brand shoes&clothing	bbc hoodie	2
+broadcast client	bbc	1
+costume drama	bbc one's pride	1
+dinner selection	bbq rib	1
+factual program	bbc news	1
+free sample	bb cream	1
+international new service	bbc world service	3
+international new service	bbc	1
+large web site	bbcs world service	1
+leftover meat	bbq chicken	1
+monitoring agency	bbb	1
+reputable new source	bbc	1
+streaming application	bbc iplayer	1
+style brand new jean	bbc	1
+top jazz musician	bbc award winning jazz vocalist ian shaw	1
+traditional cuisine	bbq rib	1
+brand name jean	bbc	1
+broadcasting network	bbc	1
+broadcasting network	bbc & france twenty-four 	1
+broadcasting organization	bbc	8
+equipped facility	bbq pit	1
+kitchen necessity	bbq accessory	1
+online guide	bbc family history website	1
+professional degree program	bba	1
+world-leading brand	bbc	1
+amusing name	bbq rapid	1
+assurance service	bbb	1
+BlackBerry apps	bbm	2
+complex institution	bb	1
+effect processor	bbe sonic maximiser	1
+effect processor	bbs audio	1
+indie label	bb dakota	1
+international new agency	bbc	4
+international new agency	bbc's chinese-language service	1
+investigative program	bbc panorama	1
+leading orchestra	bbc national orchestra	1
+mystery series	bbc mystery series	1
+national broadcaster	bbc	2
+national broadcaster	bbc of the mid- twenty th century 	1
+outdoor furnishings	bbq & fire pit	1
+research funders	bbsrc	1
+solid state imaging device	bbd imagers	1
+talking head	bbc's nick robinson	2
+traditional cooking method	bbq smoker	1
+TV broadcaster	bbc	3
+broadcasting station	bbc	3
+information	bbcode usage	1
+information	bbb code of advertising	1
+information	bbs population trend	1
+community-minded business	bb	1
+creative agency	bbh	1
+finger foods	bbq rib	1
+high-profile business	bbc	1
+international medium group	bbc	4
+international new outlet	bbc	6
+international new outlet	bbc arabic shed light on the incident	1
+international station	bbc	3
+international station	bbc world	1
+news apps	bbc	3
+news apps	bbc news	1
+novel program	bba	4
+public medium	bbc	3
+spanish bank	bbva	7
+standard laboratory test	bbwi	1
+technology channel	bbm	1
+toy gun	bb gun	3
+toy gun	bb	1
+western medium outlet	bbc	3
+workforce program	bbb's annual integrity awards program	1
+24-hour service	bbc world service	1
+24-hour service	bbc mundo	1
+award-winning producer	bbc	1
+broadcast company	bbc	1
+cold option	bbq option	1
+consumer protection agency	bbb	3
+consumer protection agency	bbb for complaint	1
+consumer website	bbb before hiring a carrier	1
+educational website	bbc	1
+english language channel	bbc world	1
+hospitality amenity	bbq amenity	27
+hospitality amenity	bbq facility	23
+household stain	bbq sauce	2
+internet TV service	bbc's iplayer	3
+internet TV service	bbc s iplayer	1
+knee-jerk reaction	bbc staff demonstration	1
+korean cosmetic	bb creams	1
+mid-tier company	bbo seidman	1
+online review site	bbb	1
+radio broadcast	bbc	1
+top channel	bbc three	1
+top network	bbc	1
+traditional lighting	bb down light	1
+worthy contender	bbc's news player	1
+basic kitchen utensil	bbq utensil	1
+best musician	bb king	1
+big room	bb kings in nyc	1
+commercial radio station	bbc  one xtra 	1
+commercial radio station	bbc radio one 	1
+complex amenity	bbq area	1
+full condominium facility	bbq pit	1
+great side dish	bbq beans	1
+high quality tool	bb flashback	1
+interactive TV application	bbc red button content	1
+international option	bbq grille	1
+liberal medium	bbc	1
+mainstream website	bbc	2
+medium content provider	bbc	1
+medium outfit	bbc	1
+network channel	bbc	1
+nonlinear crystal	bbo	1
+event	bbqs	13
+event	bbq's	3
+event	bbc sports personality of the year	2
+event	bbq fundraiser	2
+event	bbq s	2
+event	bbc proms	2
+event	bbq outing	2
+prime time TV show	bbc blue peter	1
+satellite station	bbc	1
+subscription channel	bbc	1
+african-american musician	bb king	1
+commercial kit	bbl crystal	1
+DSPs	bbe	1
+FTA channel	bbc	2
+FTA channel	bbc world	1
+global medium outlet	bbc	3
+helped client	bbc	1
+high-traffic website	bbc.co.uk	8
+large internet service provider	bbn	1
+legendary influence	bb king	3
+mobile site	bbc	1
+nature program	bbc nature program	1
+ongoing class	bbx kids	1
+projectile toy	bb gun	2
+radio channel	bbc	2
+research council	bbsrc	1
+resort-like amenity	bbq	1
+spreader	bb- five 	1
+television broadcasting company	bbc	2
+terrestrial broadcaster	bbc one 	1
+terrestrial broadcaster	bbc	1
+top comic	bbc program john bishop's britain	1
+traditional broadcaster	bbc	5
+traditional shop	bbdo north america	1
+B&M store	bb	1
+B&M store	bby & cc	1
+cable new channel	bbc news	4
+camping store	bbq's galore	1
+charge transfer device	bbd	1
+charge transfer device	bb	1
+charge transfer device	bbd shift register	1
+charge transfer device	bbd in the horizontal scanning circuit	1
+community social event	bbqs	1
+consumer title	bbc good food	1
+cool service	bbc iplayer	1
+door game	bbs ``door game''	1
+european source	bbc	1
+flagship account	bbc	1
+home party	bbq party	1
+home program	bbc	1
+international new channel	bbc	11
+international new channel	bbc cnn	1
+international new channel	bbc world	1
+international new source	bbc	1
+large medium organization	bbc	2
+large medium organization	bbc world service trust	1
+largest site	bbc	1
+leading broadcaster	bbc	1
+leading broadcaster	bbc sports	1
+mainstream medium organization	bbc	1
+michigan product	bbq sauce from traverse bay farms	1
+news broadcast	bbc	2
+news broadcast	bbc news	1
+news broadcast	bbc persian	1
+pan-european channel	bbc	1
+pan-european channel	bbc world	1
+event	bbq at the local acton sobeys	1
+event	bbq & raffle at a local bowling club competition	1
+event	bbq common	1
+event	bbq party	1
+event	bbq on the water	1
+event	bbq plate sale	1
+event	bbq gathering	1
+event	bbq every week	1
+event	bbcs children in need	1
+event	bbq ride	1
+event	bboy	1
+event	bbc good food show	1
+event	bbc's good food show	1
+event	bbc children in need	1
+event	bbc's millennium night coverage	1
+event	bbq's at bunnings	1
+event	bbq rallies	1
+event	bbc good food show in birmingham	1
+event	bb-gun turkey shoot	1
+event	bbq & night golf event	1
+regular club event	bbq s	1
+simple website	bbc	1
+text editing application	bbedit	1
+TV new channel	bbc world	1
+TV new channel	bbc	1
+yummy dish	bbq chicken quesadilla	1
+alternate cooking source	bbq grill	2
+bank branch	bbva bancomer	1
+bbq favorite	bbq corn nuts	2
+bbq favorite	bbq cashews	2
+big commercial bank	bbva	1
+biological barrier	bbb	1
+british orchestra	bbc concert orchestra	2
+british orchestra	bbc philharmonic orchestra	1
+classic look	bbs rs-gt	1
+corporate jet	bbj-boeing business jet	1
+famous guitar player	bb king	1
+famous london sight	bbc television centre	1
+free-to-air channel	bbc	2
+high-profile visitor	bbc symphony under sargent	1
+industry watchdog	bbc trust	1
+large medium group	bbc	1
+legal agency	bbb	1
+lifestyle facility	bbq area	1
+lighter	bbq lighter	1
+live channel	bbc	1
+live channel	bbc world	1
+mainstream new	bbc	1
+mainstream new organization	bbc	1
+markup	bbcode	1
+medium apps	bbc iplayer	1
+NLO crystal	bbo in an ultra-thin	2
+NLO crystal	bbo	1
+prominent voice	bbc's george alegiah	1
+real heavyweight	bbc	2
+regular monthly event	bbqs	1
+regular social function	bbqs & dinner	1
+tasty steak recipe	bbq steak recipes	1
+television broadcaster	bbc	2
+television programming	bbc's cash in the attic''	2
+thailand tv channel	bbtv movies	1
+time-sensitive document	bbc news article	1
+web publishing tool	bbedit	1
+world's most renowned orchestra	bbc symphony orchestra	1
+advertising icon	bbd	1
+air channel	bbc	1
+air channel	bbc choice channel four boomerang	1
+bandwidth service	bbc iplayer	1
+bandwidth-hungry service	bbc iplayer catch-up tv platform	2
+big-name musician	bb king	1
+catch-up service	bbc's iplayer	2
+catch-up service	bbc iplayer	1
+conventional broadcaster	bbc	1
+corporate venue	bbc cub northamotin	1
+credible new source	bbc	1
+default program	bb browser	1
+delectable appetizer	bbq ribs	1
+event	bbattle of argonne forest	1
+event	bbqs designed for general attendance	1
+event	bbqs for scooterists	1
+event	bbq's grand opening	1
+program	bbc	7
+program	bbedit	4
+program	bbc iplayer	3
+free HD channel	bbc hd	3
+free HD channel	bbc one  hd 	1
+free HD channel	bbc one 	1
+interactive television service	bbc red button	1
+international new	bbc	3
+international radio station	bbc	9
+IPTV service	bbc iplayer	2
+IPTV service	bbc's iplayer	1
+LA club	bb king's blues club	1
+light foundation	bb cream	1
+mainstream medium source	bbc	1
+mainstream new source	bbc	2
+obscure character	bb three 	1
+open-source software package	bbs software	1
+petro-chemical company	bba	1
+prominent medium outlet	bbc radio york	1
+public station	bbc two 	1
+standard channel	bbc one 	1
+standard channel	bbc two 	1
+stubborn spot stain	bbq sauce	1
+video-on-demand service	bbc iplayer	1
+weekly social event	bbq's	1
+western medium	bbc	5
+wonderful entree	bbq ribs	1
+affordable, independent and well-known brand	bb dakota	1
+app developer	bbc worldwide with top gear	1
+bandwidth-heavy service	bbc iplayer place a heavy load on isp network	1
+barbeque supply	bbq thermometer	1
+barbeque supply	bbq cover	1
+BBC channel	bbc four	3
+BBC channel	bbc three	3
+BBC channel	bbc news	3
+BBC channel	bbc three 	2
+BBC channel	bbc four 	2
+BBQ accessory	bbq cover	1
+biotic index	bbi	1
+british channel	bbc two 	2
+british channel	bbc one 	2
+british channel	bbc	1
+broadcast organization	bbc	2
+classical event	bbc proms	1
+club social event	bbq's in the summer	1
+clyde's favorite	bbq beef brisket	2
+country's most prestigious project	bbc television studio	1
+delicious bbq recipe	bbq shrimp	1
+delicious bbq recipe	bbq beef recipe	1
+delicious bbq recipe	bbq chicken recipe	1
+delicious bbq recipe	bbq pork recipe	1
+delicious bbq recipe	bbq brisket recipe	1
+delicious bbq recipe	bbq sauce recipe	1
+delicious bbq recipe	bbq rub recipe	1
+delicious bbq recipe	bbq ribs recipe	1
+english language publication	bbc	1
+famous TV team	bbc	5
+FTA program	bbc	1
+full club house facility	bbq area	1
+gluten free snack	bbq chicken pizza	1
+good text editor	bbedit lite	1
+good text editor	bbedit	1
+hottest designer	bb dakota	1
+internet abbreviation	bbbg	1
+large new organization	bbc	2
+lifestyle article	bbc vegetarian & good food	1
+monthly	bbc's olive	2
+name brand jean	bbc	2
+namebrand performance part	bbk	1
+national research agency	bbsrc in the united kingdom	1
+national television network	bbc	2
+news medium source	bbc	1
+program	bbb online reliability	2
+program	bb gun	2
+program	bbc's great railway journeys of the world	2
+program	bbc's dragons' den	2
+program	bbc's sportscene	1
+program	bbc's women's hour in the uk	1
+program	bbc sony bmg music entertainment	1
+program	bbc 's the world's strictest parents	1
+program	bbc world service	1
+program	bbc young musician of the year	1
+program	bbc's casualty	1
+program	bbc one 's question time 	1
+program	bbc's ground force	1
+program	bbc world	1
+program	bbc look north	1
+program	bbc tv series	1
+program	bbc tv program	1
+program	bbc's national lottery show	1
+program	bbp nc	1
+program	bbc drama night in an emergency	1
+program	bbc  three 	1
+program	bbc's britain's missing top model	1
+program	bbc four 's the voice 	1
+program	bbc world channel	1
+program	bbc world service news	1
+program	bbc s excellent i love the seventies	1
+program	bbc nature program	1
+program	bbc news	1
+program	bbs software program	1
+program	bb alerts	1
+program	bbc regional program	1
+program	bbbs	1
+program	bbc current affair program	1
+program	bbc cymru wale program	1
+organizational partner	bbyo	2
+picnic supply	bbq tool set	1
+public service broadcaster	bbc	3
+satellite TV channel	bbc	1
+standby application	bbm	2
+television service provider	bbc	1
+third party channel	bbc	2
+top medium brand	bbc	1
+TV project	bbc ni's inside out series	1
+vairous BBQ accessory	bbq tool set	1
+western source	bbc	1
+white house correspondent	bbc-tv's stephen evans	1
+work client	bb	1
+world's broadcaster	bbc	1
+aftermarket wheel	bbs	1
+annual survey	bbs	1
+big broadcaster	bbc	1
+big retail bank	bbva	1
+blackberry function	bbm	2
+broadcasting group	bbc	1
+BT service	bb talk	1
+casual meal	bbq chicken	1
+catch-up TV service	bbc iplayer	4
+catch-up TV service	bbcs iplayer	1
+catch-up TV service	bbc's iplayer	1
+classic american item	bbq pork loin	1
+core site	bbc news home page look messy	1
+counting stat	bb	1
+device name	bbx device name	1
+drama production	bbc drama production	1
+entry popular web site	bbc	1
+famous channel	bbc	1
+famous subject	bb king	1
+global channel	bbc	1
+global new agency	bbc	1
+great blue musician	bb king	1
+humber army vehicle	bbc recording vans	1
+illustrious organization	bbc	1
+key terrestrial channel	bbc	1
+labor intensive item	bbq beef on a bun	1
+large multinational organization	bbc	1
+large regional bank	bb	1
+mainstream entity	bbc	1
+major-league player	bbva bancomer	1
+national and international new outlet	bbc	1
+non-powder firearm	bb gun	1
+program	bbs	1
+program	bbedit off of morpheus	1
+program	bbc's troubleshooter series	1
+program	bbc's documentary series rough justice	1
+program	bbc drama program	1
+program	bbc television program	1
+program	bbc radio program	1
+program	bbc persian	1
+pizza option	bbq chicken	2
+popular editor	bbedit	1
+prominent station	bbc & cnn	1
+property show	bbc's popular	1
+real new	bbc	3
+revision website	bbc bitesize	2
+revision website	bbc bite-size	1
+seasoned spicy food	bbq sauce	1
+serving entree	bbq baby back ribs	1
+shifter	bbr	1
+social medium agent	bbm	1
+web engine	bbc	2
+world new channel	bbc	2
+ammeneties	bbq grill	1
+amnemities	bbq area	1
+barbeque item	bbq hand towel	1
+barbeque item	bbq made easy recipe book	1
+boasting exclusive resort style facility	bbq pavilion	1
+client big name	bbc	1
+credible new organization	bbc	1
+digital station	bbc digital station	1
+drama program	bbc drama program	1
+electric player	bb king	1
+eminent journalist	bbc's world affairs correspondent john simpson	1
+eminent journalist	bbc s world affairs correspondent john simpson	1
+english new channel	bbc	3
+famous branded medical product	bbraun	1
+famous great	bb king	1
+fdm's prestigious client	bbc	3
+good condo facility	bbq area	1
+gorgeous amenity	bbq pit with bbq	1
+great lake mead diving gift	bbq apron	1
+iconic device	bb	1
+international banking group	bbva	1
+international new site	bbc	4
+international television network	bbc	5
+internationally renowned symphony	bbc symphony orchestra	1
+internationally renowned symphony	bbc symphony	1
+internet site station	bbc	1
+jamaica's great	bb seaton	1
+key network	bbc in britain	1
+large new corporation	bbc	1
+leading local company	bbva from the energy cluster	1
+local bike shop	bb cycles in osborne park	1
+mainstream english medium outlet	bbc	1
+mainstream medium new outlet	bbc	1
+medium broadcast	bbc	1
+medium headline	bbc's	1
+medium headline	bbc's vitamins do not cut cancer risk'''	1
+national radio station	bbc station	1
+news broadcaster	bbc news	1
+non linear optical material	bbo	1
+non-news program	bbc one 's  nine hundred and ninety-nine 	2
+non-steak item	bbq chicken	1
+non-traditional and profession oriented course	bba	1
+online medium site	bbc.co.uk	1
+online new service	bbc news online	1
+public key scheme	bb eighty-four 	3
+renowned global satellite broadcaster	bbc worldwide channels	1
+reputable medium outlet	bbc	2
+satellite TV station	bbc	2
+seal program	bbb online	1
+serving brand	bbc	1
+signature salad	bbc bay shrimp	1
+small electric household appliance	bbq grill	1
+soulful act	bb&q	1
+speciality station	bbc uk	1
+spicy meat	bbq rib	1
+stock symbol	bbb into the data field	1
+text editor application	bbedit	1
+traditional southern item	bbq sauce	1
+typically large company	bbc	1
+unsightly stain	bbq stain	4
+web site station	bbc	1
+website station	bbc	1
+western new outlet	bbc	3
+amazing recording artist	bb king	2
+BBQ side dish	bbq bean	1
+beach snack	bbq chicken wing	1
+best known artist	bb king	2
+big medium organization	bbc	1
+big name commercial client	bbc	1
+canning	bbq sauce	1
+cartridge feature	bb cap	1
+chef's innovative specialty	bbq tuna	1
+club only event	bbq's	2
+conventional toy gun	bb gun	1
+creditable site	bbb	1
+critical prepared ready-to-eat food	bbq	1
+community	bbses	1
+devotional commentary	bbc	1
+digital-only station	bbc  seven 	1
+digital-only station	bbc digital-only station	1
+distinguished international ensemble	bbc symphony orchestra london	1
+diversified bank	bbl	1
+educational television program	bbc's the face of tutankhamun'',	1
+endogenous protein	bbi	1
+enterprise firm	bbv	1
+excellent employer	bbc	1
+famous T.V. team	bbc	2
+favourite site	bbc	1
+flattering term	bbw	1
+free online TV site	bbc iplayer	1
+get-together event	bbqs	1
+global and local broadcaster	bbc	1
+gluten-free, all-natural product	bbq sauces	1
+great and timeless blue artist	bb king	1
+great vegetarian option	bbq tempeh wrap	1
+high molecular weight PAHs	bbf	1
+high profile medium house	bbc	1
+hot sub	bbq chicken	1
+HTML text editor	bbedit	3
+international broadcast	bbc news	1
+international content provider	bbc	2
+international medium channel	bbc	1
+international press agency	bbc	1
+international TV network	bbc	1
+internet broadcasting medium institution	bbc	1
+jade pot's mouth watering dish	bbq pork pastry	1
+jade pot's mouth wathering dish	bbq pork pastry	2
+key gate community amenity	bbq area	1
+language channel	bbc parliament	1
+language channel	bbc news	1
+language learning program	bbc's free learning website	1
+large broadcaster	bbc	2
+large communi-cations conglomerate	bbc	2
+large international brand	bbc	1
+left-leaning medium outlet	bbc	1
+liberal TV new	bbc	1
+long established boat builder	bbg berlin	1
+mac tool	bbedit	1
+mainstream press	bbc	1
+marvelous guest	bb king	1
+meat recipe	bbq beef	1
+medium monopoly	bbc	1
+model brand	bbr	1
+modern instrument organization	bbc national orchestra of wales	2
+namebrand part	bbk	1
+national and international medium outlet	bbc	2
+national and international TV new	bbc international new	1
+news bureau	bbc	1
+nonpowder firearm	bb gun	1
+nonpowder firearm	bb	1
+non-powder gun	bb gun	1
+online new agency	bbc	1
+oriental favorite	bbq pork	2
+others paper	bbc	1
+outside food source	bbq grill	1
+photo library	bbc hulton picture library	1
+picnic lunch	bbq chicken sandwich	1
+pizza combination	bbq chicken	1
+powerhouse station	bbc	1
+reference apps	bbc	1
+regular chinese dish	bbq pork bun	1
+reputed channel	bbc	1
+semi-public organization	bbc	1
+organization	bbc	87
+organization	bbb	13
+organization	bbc world service trust	4
+organization	bbsrc	2
+organization	bbpa	2
+organization	bbyo	2
+organization	bbb online	2
+organization	bbc world service	2
+standard stuff	bbq pork	1
+subjective event	bbq contest	1
+sweet taste	bbq chicken	1
+terrestrial network	bbc	1
+top international medium brand	bbc	1
+top offshore bank	bbva	1
+top worldwide agency	bbdo	1
+traditional BBQ side	bbq bean	1
+traditional bicep exercise	bb curl	1
+traditional medium giant	bbc	1
+truth teller	bbc's gavyn davies	2
+TV new source	bbc	1
+UK broadcaster	bbc	2
+UK station	bbc	2
+Unicode text editor	bbedit	1
+VIP	bbbj	1
+weekly special evening	bbq night	1
+western medium platform	bbc	1
+world broadcaster	bbc	3
+world class site	bbc	1
+world famous high profile event	bbc radio one's essential party at club space in ibiza	1
+3rd party channel	bbc	2
+after-dive program	bbq on the beach	1
+anchorman	bbc's top anchorman	1
+anti-israel organization	bbc	1
+august institution	bbc	2
+authentic guamanian dish	bbq ribs	1
+big medium	bbc	1
+big medium network	bbc	1
+big new organization	bbc	2
+biggest ad agency	bbdo	1
+boasting resort style facility	bbq area	1
+bocadito special	bbq pork sopes	1
+burmese service radio station	bbc	1
+business television station	bbc	1
+charcoal product	bbq charcoal	1
+chinese and international media	bbc	1
+commendable effort	bbb online	1
+communal feature	bbq area	1
+condiment sauce	bbq sauce	2
+content delivery service	bbc iplayer	1
+corporation's channel	bbc entertainment	1
+corporation's channel	bbc lifestyle	1
+corporation's channel	bbc hd	1
+corporation's channel	bbc knowledge	1
+creative pizza idea	bbq chicken pizza	1
+credible new agency	bbc	1
+digital television service	bbc's digital television service	1
+disposable aluminum foil product	bbq oven	2
+EBAA & sub orgs	bbga	1
+e-learning service	bbc bitesize for gcse ict	1
+enjoy channel	bbc three 	2
+organization	bbbsa	1
+organization	bbc news	1
+organization	bbc wales	1
+organization	bbf	1
+organization	bbbs	1
+organization	bbb of texas	1
+organization	bbp regeneration	1
+organization	bbva bank	1
+exciter	bbe sonic stomp	2
+exciter	bbe sonic stomp shown in fig	1
+expensive phone	bb	1
+fact most new site	bbc . co. uk	1
+featuring recreational facility	bbq pavilion	1
+free and library-paid site	bbc	1
+freeview channel	bbc hd	2
+freeview channel	bbc three 	1
+freeview channel	bb four 	1
+frozen chicken part	bb bl	2
+global TV network	bbc	1
+good and well-maintained condo facility	bbq pit area	1
+great blue player	bb king	1
+high profile broadcasting company	bbc	2
+high quality recipe site	bbc good food	1
+hosting legendary artist	bb king	1
+imo stat	bb	1
+intellectual property-centric client	bbc worldwide	1
+interesting specialty pizza	bbq chicken	1
+international and blue chip organization	bbc	1
+international and continental giant	bbc	1
+international medium corporation	bbc	2
+international new station	bbc	1
+internet new	bbc	1
+internet new	bbc.com	1
+islamic trust fund	bbmb dana putra	1
+islamic trust fund s	bbmb dana putra	1
+job-oriented course	bba	1
+large multi-national bank	bbva	1
+large new service	bbc	1
+learning channel	bbc	1
+light variety	bbreds	1
+local and foreign medium station	bbc	1
+locally-based information	bbrp two b's new 	1
+lot free Blackberry App	bbm	1
+mainland food	bbq rib	1
+mainstream news	bbc	2
+mouth watering dinner	bbq steak	1
+multi national advertising agency	bbdo	1
+national press organization	bbc	1
+net site	bbc.com	1
+non-french item	bbq salad	1
+nonlinear optical crystal	bbo	1
+nonpowder gun	bb gun	2
+non-seafood selection	bbq spare rib	1
+normal station	bbc	1
+occasional social function	bbqs	3
+one-dimensional image sensor	bbd	1
+outside catering	bbq's with salads	1
+organization	bbva	1
+organization	bbc worldwide	1
+organization	bb jazz	1
+organization	bbs	1
+pre-installed social networking apps	bbm	1
+private communication network	bbm	1
+public service channel	bbc	3
+quadrant	bbk	2
+radio djs	bbc radio djs	1
+road development project	bbmp's road widening scheme using tdr	1
+salad selection	bbq salad	1
+sample woodstock's signature classic combo	bbq bird	1
+satellite broadcasting channel	bbc	1
+savory or sweet option	bbq beef	1
+scratch side dish	bbq baked bean	1
+serving BBQ favorite	bbq pulled pork	1
+serving BBQ favorite	bbq chicken	1
+shooting toy	bb gun	1
+simon's favorite	bbq bacon burger with homemade barbecue sauce	1
+small side dish	bbq corn	1
+speciality burger	bbq sirloin	1
+standard dim sum item	bbq bun	1
+state-funded international new broadcaster	bbc world service	1
+suitable text editor	bbedit	1
+third party broadcaster	bbc	1
+top presenter	bbc's top presenter	1
+top-notch TMT client	bbc	1
+transitional phthalates	bbp	3
+TV new	bbc worldwide new	1
+typical American fare	bbq baby back ribs	1
+UK channel	bbc news  twenty-four 	1
+UK channel	bbc	1
+web authoring application	bbedit	1
+well-renowned internet new site	bbc	1
+wildlife program	bbcs big cat diaries	1
+wildlife program	bbc	1
+world medium outlet	bbc	2
+8-bit home computer	bbc micro on the computers page	1
+activity specialist position	bb range instructor	1
+administrative server	bbl	2
+advertising brand	bbdo worldwide	1
+aerial terrestrial channel	bbc	1
+air gun accessory	bb's	1
+amazing website	bbc	1
+American Presbyterians	bb warfield	1
+anti-naveen leader	bb harichandan	1
+technique	bbm	1
+BBC facility	bbc two 	1
+BBC facility	bbc  three 	1
+bbc's commercial activity	bbc commercial channel	1
+best new android apps	bbc news android app	1
+bicycle frame part	bb shells bicycle frame part	1
+big broadcast brand	bbc	2
+big international network	bbc	1
+big league new website	bbc	1
+big medium name	bbc	1
+big medium player	bbc	1
+big name idol	bb &	1
+big new site	bbc	1
+big new source	bbc	1
+big online new outlet	bbc	1
+big switchgear manufacturer	bbc	1
+big TV channel	bbc	1
+broadcast corporation	bbc	1
+cable TV	bbc	1
+calfinder's concrete contractor	bbc construction in san francisco	1
+canadian and british source	bbc	1
+cantonese cuisine offering	bbq roast platter	1
+classical concert	bbc national orchestra of wales	1
+Coggno's apps	bb flashback	1
+conventional pizza	bbq chicken	1
+Coordinate multi-channels	bbs	1
+credible medium source	bbc	1
+decent text editor	bbedit	1
+digital Interim Tools	bbs	1
+digital spin-off service	bbc three 	1
+digital-only service	bbc  six  music 	1
+dirtiest, grimiest job	bbq grills	1
+disruptive, over-the-top TV provider	bbc iplayer	1
+effective persian new service	bbc persian	4
+effective persian new service	bbc persian service	2
+electric blue	bb king	1
+EMEA broadcaster	bbc	1
+english-speaking channel	bbc	1
+entrance VOD service	bbc iplayer	1
+established new source	bbc	1
+established pan-arab, government-funded satellite channel	bbg's alhurra	1
+established pan-arab, government-funded satellite channel	bbc arabic	1
+european and american medium outlet	bbc	2
+european new website	bbc	1
+example international broadcasting station	bbc	2
+example many condiment	bbq sauce	2
+external new source	bbc	1
+F1 new source	bbc	1
+factual broadcaster	bbc	1
+Fake guns	bb gun	1
+financial holding company	bb	1
+flagship channel	bbc one 	1
+flamed-grilled dish	bbq chicken	1
+food website	bbc's	1
+frequently american food	bbq chicken	1
+global broadcaster	bbc	2
+good presenter	bbc's andrew marr	1
+gourmet condiment	bbq sauce	2
+government broadcaster	bbc	1
+great new channel	bbc international	1
+grill selection	bbq chicken	3
+heavyweight fan	bb king & eric clapton	1
+high availability part	bbwc module	1
+high definition channel	bbc hd	1
+high profile service	bbc iplayer	1
+highly-recognised international brand	bbc	1
+hired lobby organization	bbc	1
+host broadcaster	bbc	2
+illustrious client	bbc	1
+impeccable source	bbc	1
+industry sector-specific ETFs	bbh	1
+international broadcasting organization	bbc	3
+international cable network	bbc	1
+international medium house	bbc	2
+international new network	bbc	2
+international satellite television channel	bbc	2
+international television channel	bbc	1
+international television channel	bbc world	1
+international venture	bbc hindi tv news in delhi	1
+international venture	bbc arabic tv news	1
+international, reputable new source	bbc	1
+internet domain	bbc.co.uk	1
+key international mass medium organization	bbc	1
+korean-fusion item	bbq wrap with bulgogi	1
+large advertising agency	bbdo	1
+large financial group	bbva	1
+large new company	bbc	1
+largest spanish bank	bbva	3
+limited course	bba	1
+local roman dish	bbacchio alla scottadito	1
+local uruguayan food	bbq meat	1
+lot more AAW ship	bbg	1
+lot more english language channel	bbc	1
+mainstream overseas station	bbc	1
+market pig	bbq pig	1
+medium new site	bbc	2
+medium service provider	bbc	1
+metalloproteinase inhibitor	bb ninety-four 	1
+mixed alphanumeric name	bbc  two 	1
+national broadcasting company	bbc	1
+national internet forum	bbq brethren	2
+national internet forum	bbq central	2
+news site homepage	bbc news	1
+newsroom	bbc london's	1
+application	bbc iplayer	6
+application	bbm	4
+application	bbs	2
+application	bbc news	2
+application	bbedit	2
+application	bbc iplayer desktop	1
+application	bbm platform	1
+application	bbc iplayer becoming	1
+nuisance tax	bbc license fee	1
+online new publisher	bbc	1
+online television service	bbc's iplayer	1
+overseas commentator	bbc	1
+overseas website	bbc iplayer	1
+party channel	bbc	1
+political new site	bbc online	1
+popular european computer format	bbc micro	1
+popular investigative television show	bbc	1
+premier music TV channel	bbc	1
+preset channel	bbc london	1
+principal turbine manufacturer	bbc	1
+private group function	bbq dinner	3
+professional video content provider	bbc iplayer	1
+programmer's editor	bbedit lite	1
+prominent new agency	bbc	1
+prominent new source	bbc	1
+proper credential	bbb award	1
+public broadcast station	bbc in the united kingdom	1
+public service broadcasters portfolio channel	bbc three	1
+public service station	bbc	1
+publicly-funded broadcaster	bbc	1
+pure text editor	bbedit	1
+regular editor	bbedit	1
+reputable internet new site	bbc	1
+reputable new site	bbc	1
+required additional form	bbq variance form	1
+respected foreign medium organization	bbc	1
+revision site	bbc bitesize	1
+right-wing medium	bbc along with the politician	1
+RIM related service	bbm	1
+royal item	bbc dramas bertie	1
+Russian radio	bbc	1
+sanctuary event	bbqs	1
+sa-specific project	bb bee report	1
+secure logo	bbbonline	1
+service book blackberry function	bbm	1
+shared memory machine	bbn butterfly	1
+short wave broadcaster	bbc	1
+short-sleeved item	bbq apron	1
+shortwave broadcaster	bbc	3
+shortwave international broadcaster	bbc	1
+skewer related offer	bbq set	1
+so-called bulk non-linear crystal	bbo	1
+SP campout activity	bb gun	1
+spain's big bank	bbva	1
+special-interest channel	bbc news  twenty-four 	1
+staple russian dish	bbq meat	1
+state-owned medium company	bbc	1
+stomach-turning food	bbq worm crisps	1
+straight play	bbc versions with laurence olivier	1
+tasty lunch idea	bbq turkey sloppy joes	1
+terrestrial TV provider	bbc	1
+third-party channel	bbc	1
+thirdparty icon	bbb online	1
+third-party icon	bbb online	1
+tiki favorite	bbq guava glazed ribs	2
+time blue legend	bb king	1
+top class client	bbc	1
+top international bboy battle	bboy masters pro am	1
+traditional American cuisine	bbq rib	1
+traditional new channel	bbc	1
+trust seal	bbb	1
+trust symbol	bbb	1
+TV client	bbc	2
+TV new broadcaster	bbc	1
+type beauty product	bb cream	1
+UK television service	bbc	1
+uk's most prestigious event	bbc national lottery awards	1
+undergrad program	bba	1
+unusual and absurd entrant	bbq & hibachi marching grill team	6
+un-vented appliance	bbq grills in enclosed space	1
+vanilla scent	bbw warm vanilla sugar	1
+web-based content	bbc iplayer	1
+well-known foreign medium organization	bbc	1
+well-known mainstream medium outlet	bbc	4
+well-known traditional medium	bbc	1
+western broadcaster	bbc	1
+western channel	bbc	1
+western network	bbc	1
+wheel manufacturer	bbs	1
+world-class bank	bbva	2
+worldwide new organization	bbc	1
+worldwide outlet	bbc	1
+3G model	bb bold	1
+70s	bbc's sessions	1
+7-fold tie	bb golden fleece	1
+ACOUSTIC PRIVACY active recreation facility	bbq area	1
+adobe customer	bbc	1
+adult entertaining time	bbq	1
+affordable code editor	bb edit	1
+air broadcaster	bbc	1
+alternate shell	bblean	1
+american medium organization	bbc	1
+amusing activity	bbq bonfire	2
+analog broadcaster	bbc	1
+apprentice-style program's	bbc's design trainee scheme	1
+bachelor degree course	bba	1
+bandwidth-intensive video service	bbc iplayer	1
+basic content page	bbc news	2
+BB apps	bb maps	2
+BB apps	bb messenger	2
+bbapps	bbm	1
+BBB service	bbb chat rooms	1
+BBB service	bbb groups	1
+BBC digital channel	bbc four 	1
+BBC digital channel	bbc three 	1
+BBC local station	bbc cornwall	1
+BBC programme-branded title	bbc wildlife	3
+bbc-branded title	bbc wildlife	1
+BBQ appetizer	bbq bites	1
+BBQ discussion forum	bbq brethren	1
+BBQ related offer	bbq tool	1
+BBQ related offer	bbq grill	1
+BBQ utensil	bbq brush	2
+big budget website	bbc	1
+big madison avenue ad agency	bbd	1
+big spanish lender	bbva	1
+biggest new source	bbc	1
+blackberry datum feature	bbm	1
+blue guitar player	bb king	1
+british medium	bbc	1
+british new channel	bbc news  twenty-four 	2
+broadcast heavyweight	bbc	1
+broadcasters sport department	bbc sport	1
+broadcasting giant	bbc	2
+browsing large website	bbc	1
+business study program	bbm	2
+business study program	bba	2
+name	bbva	7
+name	bb king	4
+name	bbc	3
+name	bbs	3
+catchup service	bbc iplayer	1
+catchup TV service	bbc iplayer	1
+CDMA PDA phone	bb s	1
+certification seal	bbb	1
+charcoal related offer	bbq set	1
+Classic super bowl food	bbq rib	1
+complete-meal-in-soup-form soup	bbq seasoned beef	1
+consumer driven website	bbb	1
+conventional press outlet	bbc	1
+corporate financier	bbl	1
+country major international radio network	bbc	2
+craving sauce	bbq sauce	1
+cultural and creative industry business	bbc	1
+cursive creator outdoor living area	bbq island	1
+cyberspace community	bbs	1
+Decades-old chatcronyms	bbl	1
+dedicated new channel	bbc news	1
+dependable new channel	bbc	1
+discussion system	bbs	1
+distinct regional food	bbq of texas	1
+drama adaptation	bbc's adaptation of pride	1
+electric grill related offer	bbq grill	1
+eminently sensible person	bbc broadcaster jenni murray	1
+english language new channel	bbc	3
+english TV channel	bbc	1
+english TV channel	bbc world	1
+english-language station	bbc	1
+english-speaking european TV channel	bbc	1
+european overseas broadcaster	bbc world service	1
+european station	bbc	1
+external apps	bbm	1
+external press company	bbc	1
+external station	bbc	2
+fact many organization	bbc	1
+name	bb hensley	1
+name	bbc iplayer	1
+name	bbc breakfast sports presenter chris simmons	1
+name	bbc haymarket	1
+name	bbh new york	1
+name	bbh	1
+name	bbx device name	1
+name	bbc radio wm's phil upton	1
+fetish niche	bbw	1
+financial institution holding company	bb	1
+first developed online communication medium	bbs forum	1
+flavorful, fire baked pizza	bbq chicken	1
+fortunate group	bbmak	1
+free new application	bbc	1
+free-to-view service	bbc iplayer	1
+freeview broadcast TV channel	bbc	1
+free-view tv service	bbc iplayer	1
+french and international music star	bb brunes	1
+frequent popular new site	bbc	1
+FTA UK channel	bbc four 	1
+FTA UK channel	bbc three 	1
+funding council	bbsrc	1
+generally reputable new outlet	bbc	1
+globally competitive organization	bbc	1
+good difference editor	bbedit on the mac	1
+good electric blue artist	bb king	1
+graduation course	bba	2
+graduation course	bbm	1
+grant-awarding organization	bbc children in need	1
+great exclusive-to-digital station	bbc seven 	1
+great exclusive-to-digital station	bbc six 	1
+great interactive website	bbc	1
+great interactive website	bbc iplayer	1
+hard-coded BBE presets	bbe headphone	1
+hard-coded BBE presets	bbe viva	1
+HD tv program	bbchd	1
+heinz product	bbq sauce	1
+high definiton channel	bbc hd	1
+high quality british TV venture	bbc's acclaimed seven-part drama	1
+high time civic authority	bbmp	1
+high-quality british TV venture	bbc's acclaimed seven-part drama	1
+high-reputation new organization	bbc	1
+homegrown drama	bbc's poppy shakespeare	1
+home-study resource	bbc active languages	1
+household entity	bbc	1
+hydroxamate-based inhibitor	bb ninety-four 	1
+independent third party enforcement organization	bbb online	1
+indpendent clean boost pedal	bbe bosta grande	1
+informal bonding activity	bbq saturdays	1
+instance numerous british microcomputer	bbc model b	1
+International bboys	bboy casper	1
+international broadcast station	bbc world service	1
+international broadcasting network	bbc arabic radio channel	1
+international electronic new broadcaster	bbc	1
+international medium giant	bbc	1
+international medium network	bbc	1
+international new company	bbc	1
+international new outfit	bbc	1
+international radio outlet	bbc world service	1
+international satellite channel	bbc	1
+international short wave radio station	bbc	1
+international TV station	bbc world	1
+international TV station	bbc arabic	1
+international type new channel	bbc	1
+internationally channel	bbc	1
+internet TV provider	bbc	1
+internet video on demand site	bbc iplayer	1
+IPTV	bbc iplayer	1
+jane austen work	bbc's pride & prejudice	1
+key broadcast player	bbc	1
+key international medium outlet	bbc world	1
+large government broadcaster	bbc	1
+large international lender	bbva	1
+large spanish bank	bbva	1
+large television company	bbc wales	1
+large television company	bbc	1
+large utility site	bbc	1
+leading international site	bbc	1
+learning site	bbc schools	1
+lebanese and european channel	bbc	1
+legendary blue musician	bb king	1
+legendary USA musician	bb cunningham	1
+less-traditional item	bbq taco	1
+case	bbedit	1
+local language web site	bbc hindi	1
+local language website	bbc hindi	1
+local myrtle beach civic organization	bbb	1
+mainstream broadcaster	bbc two 	1
+mainstream respected press source	bbc	1
+mainstream television channel	bbc	1
+mainstream western medium outlet	bbc	1
+market alloy wheel	bbs	1
+mighty broadcaster	bbc	1
+minimum public ancillary service	bbq facility	1
+minor public figure	bbc america's punk professor'' vivien goldman	1
+modern european medium organization	bbc	1
+molecular weight phthalates	bbp	2
+motoring new organization	bbc	1
+multinational new corporation	bbc	1
+national appeal	bbc children in need	1
+national television	bbc breakfast	1
+national TV new station	bbc	1
+native medium agency	bbc	1
+navigating website	bbc's iplayer	1
+news related web site	bbc news	1
+news title	bbc	1
+nice plug-ins	bbe sonic maximizer	1
+non-american new source	bbc	1
+non-commercial channel	bbc	1
+Non-guns	bb gun	1
+non-indigenous TV channel	bbc	1
+non-sky channel	bbc	1
+nonstandard source	bbc disc	1
+non-technical, creative endeavor	bbs story	2
+non-touch screen device	bb curve	1
+non-traditional combination	bbq chicken	1
+nonunifonn memory access multiprocessor	bbn butterfly	1
+official government site	bbb	2
+on-demand player	bbc iplayer	2
+online catch-up service	bbc's iplayer	1
+online language course	bbc language	2
+on-line medium	bbc news	2
+online, on-demand TV service	bbc iplayer	2
+orchestral and contemporary classical ensemble	bbc concert orchestra	1
+organised club event	bbq s	1
+othyer pipe	bbk	1
+out-of-state bank	bb	1
+overseas new outlet	bbc	1
+participation television	bbc	1
+part-time channel	bbc four 	1
+part-time channel	bbc three 	1
+PBS corporation	bbc	1
+performance eprom chip	bbr starchip	1
+performance-based test	bbs	1
+pioneering website	bbc online	1
+popular medium company	bbc news	1
+popular text editor	bbedit	1
+potential placement provider	bbc in birmingham	1
+press source	bbc	1
+private regulatory agency	bbb	1
+professional desktop editor	bbedit	1
+prominent devotee	bbt trustee bhima dasa	1
+public broadcasting service	bbc	1
+public service broadcasting organization	bbc	2
+publicly-funded service	bbc iplayer in the uk	1
+QKD protocol	bb eighty-four 	2
+quantum cryptographic protocol	bb eighty-four 	3
+radio site	bbc's radio site	1
+rating bard	bbfc	1
+real blue guy	bb king	1
+reasonably good vietnamese staple	bbq pork with broken rice	1
+receptor-mediated trancytosis system	bbb transferrin receptor	1
+reconstituted institution	bbc trust	1
+regional BBC studio	bbc northern ireland	1
+regional BBC studio	bbc north in manchester	1
+regular menu favorite	bbq quail on sticky rice	1
+remarkable performer	bb king	1
+research-intensive organization	bbn corporation	1
+resourceful web site	bbc news	1
+responsible broadcaster	bbc	2
+restricted outlet	bbc	1
+revue-style show	bb drifters review	1
+safe shooting range	bb gun range	1
+serious new site	bbc	1
+short line carrier	bbr	1
+shortwave radio program	bbc world service	1
+shortwave station	bbc	1
+simple theme idea	bbq beach party	1
+smart TV service	bbc iplayer	1
+solid spherical element	bb s hot	1
+solid spherical element	bb shot	1
+somali radio	bbc	1
+sophisticated editor	bbedit	1
+south carolina chartered bank	bb	1
+spain's big listed bank	bbva	2
+spain's top bank	bbva	1
+spain's top national bank	bbva	1
+spanish financial institution	bbva	1
+specialty pizza selection	bbq chicken	1
+specialty thin crust pizza	bbq chicken pizza	3
+spoked wheel	bbs	1
+spontaneously diabetic animal	bb rat	1
+standard plate lunch specialty	bbq beef	1
+state's largest bank	bb	1
+station channel	bbc one 	1
+strategic national and local document	bbnpa's management plan	1
+strong spanish bank	bbva	1
+strong super-regional bank	bb	1
+option	bbq	3
+option	bbq lunch	1
+option	bbcode	1
+take-out poultry dish	bbq chicken	1
+tape-based HD camera	bbc-approved panasonic hdx nine hundred 	1
+television feature film	bbc s nature boy	1
+television program provider	bbc	1
+texteditor	bbedit	1
+today station	bbc	1
+top UK orchestra	bbc orchestras	1
+traditional chinese bakery item	bbq pork bun	1
+traditional sport medium site	bbc	1
+triple letter rating	bbb	1
+TV catch-up service	bbc iplayer	1
+two-dimensional solid-state image pick-up element	bbd	1
+UK food site	bbc good food	1
+uk's largest broadcaster	bbc	1
+unauthorized logo	bbb	1
+unconsidered source	bbc	1
+unexpected site	bbc	1
+upmarket men's lifestyle title	bbc focus	1
+VOD content provider	bbc iplayer	1
+wardrobe brand	bb dakota	1
+week free activity	bbq at the student house	1
+well-known and reputable source	bbc	1
+well-known established institution	bb	1
+western broadcast	bbc	1
+western countries follower radio station	bbc	1
+western new agency	bbc	2
+western new channel	bbc	2
+western new network	bbc	1
+western new service	bbc persian	1
+western new site	bbc news	1
+widely-read source	bbc	1
+wildlife magazine	bbc wildlife magazine	1
+wonder heavyweight	bb king	1
+word-of-mouth source	bbs	1
+wordpress extension	bbpress	1
+world channel	bbc	1
+world medium agency	bbc	1
+world new	bbc	1
+worldclass artist	bb king	1
+world-class celebrity	bbk company	1
+world-famous medium group	bbc	1
+world's most prestigious festival	bbc proms	1
+world-wide channel	bbc	1
+worldwide new service	bbc	1
+year automotive technology program	bba	1
+year round annual	bbetroot	1
+youth gun	bb	1
+zionist network	bbc	1
+acclaimed doc	bbc one 's wounded 	1
+actual channel	bbc one 	1
+additionally catchup service	bbc iplayer	1
+AFAIK channel	bbc one 	1
+ally medium part	bbc	1
+All-you-can-eat fare	bbq rib	1
+american public medium	bbc	1
+anti-israeli medium	bbc	1
+anti-social toy	bb gun	1
+appropiate agency	bbb	1
+april international new outlet	bbc news	1
+ascii-based communication	bbses	1
+audio commentary	bbc	1
+authentic new site	bbc	1
+authoritative medium	bbc	1
+avian population count	bbs	1
+award-winning sitcom	bbc's the office	1
+barbeque grill related offer	bbq grill	1
+Bass Preamp	bbe bmax	1
+BB service	bbm	1
+BBC digital service	bbc  six  music 	1
+BBC s digital-only channel	bb c four 	1
+BBC TV channel	bbc one 	1
+bbc's digital radio channel	bbc radio  one xtra 	1
+bbc's in-house application	bbc preview	1
+bbc's most iconic channel	bbc news	1
+BBW Online Dating site	bbw dating club	1
+beaten new	bbc	1
+bed bug monitor	bbalert passive	1
+bespoke BBC concert hall	bbc hoddinott hall in cardiff	1
+big league broadcaster	bbc	1
+big new group	bbc	1
+big radio organization	bbc in the uk	1
+birmingham-based radio station	bbc radio wm	1
+blue guitar master	bb king	5
+british home computer	bbc micro	1
+british medium organization	bbc	1
+british network	bbc	1
+british television channel	bbc	1
+British TV	bbc	1
+broadcaster-owned on-demand service	bbc iplayer	1
+broadcaster-owned service	bbc iplayer	1
+broadcasters service	bbc iplayer	2
+cable new service	bbc	1
+camera person	bbc for the derek redmond situation	1
+canadian comfort food	bbq pork slider	1
+catch-up facility	bbc iplayer	1
+catch-up TV	bbc iplayer	1
+CD-ROM book	bbc domesday project	1
+charitble event	bbmf	1
+charity TV show	bbc annual comic relief	1
+children's new program	bbc's program newsround	1
+chinese domestic electronics brand	bbk	1
+cinema tic wildlife documentary	bbc's life	1
+cinematic wildlife documentary	bbc's life	1
+classic MHs	bb wanderlodges	1
+classic rim	bbs rs	1
+classroom management feature	bb classroom management feature	1
+commercial acoustic sniper detection system	bbn's bullet ears	1
+completely new powertrain	bb chevy	1
+complexion-refining procedure	bbl photorejuvenation	1
+conservative charge allocation scheme	bbf	1
+conservative new channel	bbc	1
+contained cooking device	bbq grill	1
+countless legend	bb king	2
+country cuisine	bbq rib	2
+Country-Recognized broadcasting	bbc	1
+creative pot roast	bbq pot roast	1
+currently net domain	bbc.co.uk	2
+Custom Fieldstone work	bbq grill	1
+DAB system	bbc's	1
+debateor discussion-oriented format	bbc's question time	1
+decade new nonlinear material	bbo	1
+dedicated mobile internet site	bbc	1
+dedicated tweeter	bbc's laura kuenssberg	1
+degenerate GAG binding sequence	bb x b	1
+DEGW client	bbc	1
+detroit-based agency client	bbdo	1
+dickens adaptation	bbc s bleak house	1
+digital text new service	bbc interactive	1
+drama series visit website	bbc	1
+group	bbc	3
+group	bbb wise giving alliance	2
+group	bbfc	1
+group	bbc watch	1
+group	bbn	1
+english language competitor	bbc world	1
+english speaking production	bbc mini-series	1
+enrichment broth	bbl enriched thioglycollate medium	1
+established new organization	bbc	1
+established online new site	bbc online	1
+european archive	bbc	1
+european medium outlet	bbc	1
+european new	bbc	1
+excellent literacy site	bbc online education	1
+expansive business park	bb centrum	1
+experience minority sport	bb	1
+external credibility indicator	bbb online	1
+fact open file	bbedit worksheet	1
+fairly soft poly	bb flouro	1
+famous broadcasting station	bbc	1
+famous new	bbc	1
+farouk's delicious original recipe	bbq chicken sandwich dripping with a sauce	1
+fashionable sport apparel	bbs fist shirt	2
+feminist-dominated medium	bbc	1
+fire bowl related offer	bbq grill	1
+fire pit related offer	bbq grill	1
+first, persian language radio station	bbc	1
+flash-video-based site	bbc iplayer	1
+flexural test	bbr test	1
+football institution	bbc	1
+format new programming	bbc's newsnight	1
+formation ofmore group	bbi	1
+fourth-blackberry internet service	bbm	1
+free catch-up TV service	bbc iplayer	1
+free-to-air television	bbc in the uk	2
+full-featured text editor	bbedit	1
+functional family	bbcsalsothose internal chemical functional family	1
+fun-filled festivity	bbq rehearsal dinner preceding the nuptial	1
+generalist current affair program	bbc's panorama	1
+generally well-known brand new site	bbc	1
+genre radio	bbc's asian network	1
+genuinely popular local program	bbc ni's off the beaten track	1
+german option	bbq chicken	1
+global medium major	bbc	1
+global new outlet	bbc	1
+good DSP	bbe	1
+good international new	bbc world	1
+good new station	bbc	1
+good online new resource	bbc	1
+good souvenir gift	bbq sauce	1
+gourmet boxed lunch	bbq glazed salmon	1
+government reporting agency	bbb	1
+government-funded outlet	bbc in the uk	1
+habitat association traditional monitoring program	bbs	1
+handmade food item	bbq sauce	1
+haymarket account	bbc good food show live	1
+hi-def channel	bbc hd	2
+high bitrate channel	bbc four 	1
+high-gain highbandwidth crystal	bbo	1
+hindi radio station	bbc hindi	1
+hiphop style	bboying	1
+hobby world extra service	bbbj	1
+holdrs fund	bbh	1
+home affair analyst	bbc's mark easton	1
+home-makeover TV program	bbc's changing rooms	1
+huge new website	bbc	1
+hugely influential music mediums	bbc	1
+humble machine	bbc micro	1
+i.e. copyright owner	bbc	1
+indirect grilling project	bbq chicken	1
+inexpensive bed bug monitoring system	bb alert	1
+group	bbc symphony orchestra	1
+group	bbc national orchestra of wales	1
+inimitable blue man	bb king	1
+inspirational mind	bbc presenter dan cruickshank	1
+institutionally stupid organization	bbc	1
+international audio station	bbc world service	1
+international battle	bboy summit	1
+international broadcasting outlet	bbc	1
+international multi-cultural medium organization	bbc	1
+international new group	bbc	1
+international new house	bbc	1
+international public broadcaster	bbc	1
+internationally-known organization	bbc	1
+internet's business bureau	bbb online	1
+interrnet TV	bbc iplayer	1
+Justice ministry	bbq with the homeless	1
+key advertising agency	bbh	1
+key UK broadcaster	bbc	1
+large broadcast archive	bbc	1
+large digital network	bbc	1
+large hardware store group	bbc	1
+Large international mediums	bbc	1
+large mainstream new organization	bbc	2
+large media	bbc	1
+large new agency	bbc news	1
+large public service website	bbc	1
+large web organization	bbc	1
+large, geographically diversified lender	bbva	1
+large-scale shared-memory multiprocessor	bbn butterfly	2
+leg barrier	bb secure ring	1
+lengthy skewer	bbq skewer	1
+Linux style interface	bblean	1
+local and global radio channel	bbc	1
+local and international medium	bbc	1
+local BBC office	bbc look east in ipswich	1
+local club venue	bb king's	1
+local medium program	bbc's question time	1
+long-term model	bbn model	2
+low pressure propane appliance	bbq grills	1
+low-noise component	bb two thousand eight hundred and four  operational amplifiers in the amplification section 	2
+low-powered rifle	bb gun	2
+LT's	bbk	1
+m store	bb	1
+macintosh text editor	bbedit	1
+made-to-measure drama	bbc's behind closed doors	1
+mainstream new article	bbc	1
+mainstream newsgroup	bbc	1
+mainstream radio production powerhouse	bbc	1
+mainstream tech medium	bbc	1
+mainstream UK broadcaster	bbc	1
+manymainstream new channel	bbc	1
+marxist source	bbc	1
+massive mainstream organization	bbc	1
+massively parallel machine	bbn tc two ooo 	1
+matrix-based multigrid method	bbmg	1
+medium BTU output outdoor appliance	bbq grills	1
+medium customer	bbc	1
+microarchitecture independent feature	bbv in simpoint	1
+MNA western broadcasting station	bbc	1
+mobile-based site	bbc version	1
+motion short film	bboy joker	1
+mountain venue	bbq's by the pool	1
+mover's thru reputable site	bbb	1
+movie-to-television transition	bbc's sherlock holmes	1
+multi-genre public service broadcaster	bbc	1
+multimedia database	bbc's program	2
+multi-platform broadcaster	bbc	1
+mysap.com component	bbp catalogue	1
+national broadcasting authority	bbc	1
+national broadcasting institution	bbc	1
+national DAB station	bbc	1
+national SFNs	bbc's	1
+national, international and local station	bbc radio four	1
+nations broadcaster	bbc	1
+netherlands international gas pipeline	bbl pipeline	1
+news network program	bbc news	2
+news org website	bbc news	1
+news outfit	bbc	1
+news-rich site	bbc site	1
+niche factual program	bbc two 's current offering jimmy's farming heroes 	1
+non-american new article	bbc	1
+non-mainstream service	bbc news  twenty-four 	1
+method	bbt charting	2
+non-us channel	bbc	1
+normal blackberry application	bbm	1
+normal Blackberry Apps	bbm	1
+north carolina chartered bank	bb	1
+not-for-profit medium	bbc	1
+nother application	bbedit	1
+obligatory public channel	bbc	1
+occasional social outing	bbq lunch in a local park	1
+offial medium	bbc	1
+one-off medium project	bbc radio  four  program on alfred wallis the wreck of the alba by art historian 	1
+online catch-up TV service	bbc iplayer	2
+online television facility	bbc's i-player	1
+online TV catch-up service	bbc's iplayer	1
+Online TV content	bbc iplayer	1
+online watchdog group	bbb wise giving alliance	1
+onsite document	bbb report	1
+outside broadcasting company	bbc resources	1
+overseas new provider	bbc	1
+overseas new source	bbc	1
+over-sized utensil	bbq tool	1
+owder firearm	bb	1
+P2X7R antagonist	bbg	1
+pavement investigation datum	bbd measurement	1
+piece OEM wheel	bbs r ninety 	1
+player's sound enhancement feature	bbe	1
+point performing with artist	bb king	1
+political TV channel	bbc parliament	1
+popular medium organization	bbc	1
+popular UK TV channel	bbc one 	1
+preceding, international station	bbc world	2
+premium ship	bb one 	1
+prepare-and-measure scheme	bb eighty-four 	1
+pre-school title	bbc video's postman pat	1
+presnt mixed schedule channel	bbc one 	1
+prestigious and reputed new institution	bbc	1
+prestigious new agency	bbc	1
+privileged medium organization	bbc	1
+professional choral ensemble	bbc singers	1
+prominent interactive TV leader	bbc	1
+prominent international broadcaster	bbc persian service	1
+proprietary editor	bbedit	1
+protective paint	bbq paint	1
+public international broadcaster	bbc	1
+public medium system	bbc	1
+public model	bbc	1
+public wireless LAN area	bb mobilepoint	1
+pub-lickeyschemes	bb eighty-four 	1
+quantum key distribution scheme	bb eighty-four 	1
+quark asymmetry	bborttforward-backward asymmetry	1
+radio major	bbc	1
+rate tranches	bbb mezzanine	1
+readable documentation file	bbs signature	1
+reassurance logo	bbb	1
+referencing site	bbc	2
+regional new program	bbc points west	1
+regional sport award	bbc south female team of the year	1
+regular chinese style sauce	bbq	1
+reknown medium network	bbc	1
+reknown medium organization	bbc	1
+reliable channel	bbc one 	1
+reliable new agency	bbc news	1
+reporters at war,	bbc's kate adie	1
+reproduction firearm	bb gun	1
+reputable medium syndicate	bbc online	1
+resident function	bbqs by the pool	1
+respectable medium entity	bbc	1
+respectable medium firm	bbc	1
+respectable medium organization	bbc	1
+respectable sources	bbc	1
+road light such item	bbq point	1
+rotten public institution	bbc	1
+RSS provider	bbc	1
+scien-tificanimation film	bbc documentary walking with dinosaurs	1
+screwdriver antenna	bb three 	1
+second-generation multi-faceted programming technology	bbn technology's qoskets	1
+method	bbm	1
+method	bbb scoring	1
+method	bbt	1
+semi-scam service	bbb accreditation program	1
+Serving BBQ seafood	bbq sambal stingray	1
+signature show	bbc's hardtalk in the past	1
+simple power function model	bbc model	1
+sister show	bbbm	1
+sizable investor	bb biotech	1
+skimming new site	bbc.com for global news regarding africa	1
+sober, normally impartial broadcaster	bbc	1
+social or cultural activity	bbq in the park	2
+someoptimizati -on	bbr	1
+sophisticated text editor	bbedit	2
+sort pizza	bbq chicken by using a bbq sauce with the least amount of added thing	1
+sound medium entity	bbc	1
+spanish listed bank	bbva	1
+specialist text editor	bbedit	1
+specialty great pizza	bbq chicken pizza	1
+speed scroll	bbi	1
+standard new site	bbc	1
+standard pronunciation	bbc english	1
+standard quantum key distribution scheme	bb eighty-four 	1
+state-funded medium	bbc	1
+steamed application	bbq pork noodle roll	1
+stream online source	bbc iplayer	1
+stream responsive mode funding	bbsrc's biomolecular sciences	1
+subjective tastemaker poll	bbc's sound of  two thousand and ten '' 	1
+summer appliance	bbq grill	1
+superb online project	bbc's people's war website	1
+supposedly impartial respected new agency	bbc	1
+supposedly liberal medium	bbc	1
+supposedly scientific TV show	bbc's brainiac	1
+SW broadcaster	bbc world service	2
+sweet savoury dish	bbq pork	1
+swiss helicopter company	bb heli	1
+system administration process	bbl	2
+technical library	bbc research department library	1
+television interview	bbc's hardtalk	1
+text-based website editor	bbedit	1
+third party alarm application	bbsmart alarms pro	1
+third-party regulatory institution	bbb online	1
+three-in-ten visit foreign new website	bbc	1
+three-part television drama	bbc's casanova	1
+time many english version website	bbc	1
+time many mainstream broadcaster	bbc	1
+time-delayed format	bbc iplayer	1
+top international medium	bbc	1
+traditional advertising agency	bbdo	1
+traditional european international radio network	bbc world service	1
+traditional new corporation	bbc	1
+traditional new website	bbc's	1
+travel web page	bbc's travel news	1
+true, yet new website	bbc	1
+trustworthy symbol	bbb	1
+TV catch-up site	bbc iplayer	1
+TV catch-up website	bbc iplayer	5
+TV food program	bbc two 's eating with the enemy 	1
+two-letter B rating	bb	1
+UK heavy hitter	bbc  one xtra's charlie sloth & dj target 	2
+UK journalist	bbc's robert peston	1
+UK quality channel	bbc	1
+UK television channel	bbc	1
+UK TV broadcasters website	bbc iplayer	1
+UK TV satellite channel	bbc	1
+uk-based production house	bbc	1
+ultra-busy site	bbc's	1
+unaccountable incumbent and establishment institution	bbc	1
+unblocked english language site	bbc	1
+unencumbered free software codecs	bbc's wavelet-based dirac	1
+urrent affair program	bbc's panorama	1
+viable new outlet	bbc	1
+tool	bbc iplayer	1
+tool	bb thread chaser	1
+tool	bb tool	1
+tool	bbedit	1
+visual survey source	bbs	1
+weak channel	bbc three 	1
+website-based service	bbc news on-line	1
+well-capitalized out-of-state bank	bb	1
+well-known medium website	bbc	1
+wellknown source	bbc	1
+well-meaning program	bbc's autumnwatch	1
+west midland radio station	bbc radio west midlands	1
+western station	bbc	1
+wewillbeableto hold community event	bbq sin the park	1
+white station	bbc	1
+widescreen channel	bbc one 	1
+world media	bbc	1
+world weather site	bbc	1
+world's major new gathering agency	bbc	2
+world's medium	bbc	1
+worldwide new source	bbc	1
+year TV station	bbc in england	1
+tool	bbs	1
+product	bb cream	4
+product	bbq furniture	4
+project	bb sharity gift box	2
+project	bb cares	2
+project	bbc two  dance education program for school 	1
+project	bbc casualty	1
+project	bbc arabic	1
+project	bbc creative archive	1
+project	bbb senior solutions	1
+project	bbc climate experiment	1
+project	bbc iplayer	1
+project	bbc radio four	1
+project	bbc's wonders of the universe	1
+project	bbc's involvement in broadband in hull	1
+project	bbc's blue planet' series	1
+artist	bb king	24
+artist	bb craig	1
+artist	bbc concert orchestra	1
+artist	bbmak	1
+material	bbo	2
+material	bbc becoming webwise	1
+place	bbc	4
+place	bbq restaurant	3
+place	bbb	1
+place	bb kings hollywood	1
+place	bb kings	1
+place	bb.com	1
+place	bbc's generation game	1
+place	bbc t.v. show life on mars	1
+place	bbc worldwide	1
+player	bbc	3
+player	bb king	2
+player	bbva	1
+player	bbn planet	1
+technology	bbc iplayer	1
+product	bbq stove	3
+product	bbq grills	3
+product	bbq	3
+product	bbq aprons	2
+product	bbq tool	2
+product	bbq thermometer related product	1
+product	bbq tool set related product	1
+term	bbw	1
+term	bbl	1
+term	bbc english	1
+parameter	bb credit	5
+system	bbs	2
+system	bbc micro	2
+system	bb five  systems 	1
+species	bbs research small-bodied resident species	1
+element	bbb certification logo	1
+element	bbb.org badge	1
+element	bbq grill	1
+element	bb code effect	1
+product	bbq related product	1
+product	bbq apron related product	1
+product	bbq bun	1
+product	bbq cookware set	1
+product	bbq grille related product	1
+variable	bb's	1
+function	bbm	1
+brand	bbc	21
+brand	bb dakota	7
+brand	bb	7
+brand	bbk performance	5
+brand	bb confort	1
+brand	bbh	1
+brand	bb couture nail polishes	1
+brand	bbc lifestyle	1
+brand	bbc entertainment	1
+brand	bbk	1
+brand	bbc worldwide online brand	1
+brand	bbc world	1
+brand	bbc knowledge	1
+brand	bbc hd	1
+brand	bbe	1
+component	bbs	3
+site	bbc	56
+site	bbc news	12
+site	bbc iplayer	10
+site	bbc.co.uk	5
+site	bbc news online	3
+site	bbc sport	2
+site	bbc's website	1
+site	bb app world	1
+site	bbc bitesize	1
+site	bbc's good news portal supply current new	1
+site	bbc's classic episode guide	1
+site	bbw sexyads	1
+site	bbw tangowire	1
+site	bbc food	1
+site	bbc's youth-related site	1
+site	bbs	1
+site	bbw hunter	1
+site	bbw personals plus	1
+related product	bbq grille related product	1
+related product	bbq apron related product	1
+related product	bbq related product	1
+related product	bbq tool set related product	1
+related product	bbq thermometer related product	1
+related product	bbr dirt bike related product	1
+related product	bbq pan related product	1
+related product	bbc jacket related product	1
+related product	bbq fire pit related product	1
+related product	bbq oven related product	1

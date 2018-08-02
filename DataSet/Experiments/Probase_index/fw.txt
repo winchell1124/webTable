@@ -1,0 +1,161 @@
+datum	fwr factor	1
+institution	fwwb	1
+feature	fwd	62
+form	fwd	1
+agency	fws	4
+agency	fwp	1
+field	fweek	1
+development	fwa licensing	1
+type	fw  fifty-eight  weihe 	1
+unit	fw one hundred and ninety 	1
+entity	fws	2
+entity	fwp	1
+phenomenon	fwm	1
+vendor	fwd performance	1
+customer	fw homestores	1
+vehicle	fwd gm vehicle	1
+award	fwa site of the day	2
+award	fwa	1
+module	fwsms	1
+variation	fwm	1
+control	fwd	1
+car	fwd `sporty' car	1
+car	fwd gm ten  chassis car 	1
+text	fwd	1
+everything	fwy  four hundred and five 	3
+everything	fwy  one hundred and seventy 	1
+committee	fwg	1
+stock	fwlt	2
+NGOs	fwcc	1
+government agency	fws	1
+index	fwi	1
+aircraft	fw  one hundred and ninety d 	5
+aircraft	fw  one hundred and ninety 	1
+aircraft	fw nineteen 	1
+aircraft	fw one hundred and ninety 	1
+aircraft	fw  one hundred and ninety a- three  used by tte gonzalo hevia alvarez de quinones 	1
+code	fwf code	2
+publisher	fww	1
+software program	fwb software's softwindows	1
+software package	fwknop	1
+variant	fw  one hundred and ninety  d- nine 	1
+state agency	fwp	1
+relationship	fwb	1
+spell	fw	1
+well-known company	fw medical	1
+federal agency	fws	2
+regulatory agency	fws	3
+regulatory agency	fws in conducting a jeopardy evaluation	1
+explanatory variable	fwi code	1
+civil society organization	fwcc	1
+acronym	fwiw	1
+natural supplement	fwe natural remedy	1
+area	fwg	1
+antennas	fwd occ antenna	1
+mini game	fwg pursuit	1
+airplane	fw  one hundred and ninety 	1
+firewall	fwsm	1
+army	fw ia army	1
+nonlinear effect	fwm	2
+military aircraft	fw  one hundred and ninety 	1
+trustee	fwp	1
+roller	fw- one hundred and ninety 	1
+CSOs	fwrm since  two thousand and two 	1
+nonlinear process	fwm	2
+financial aid program	fws	1
+company	fwp matthews	1
+company	fwg	1
+nonlinear phenomenon	fwm	1
+gm vehicle	fwd gm vehicle	1
+land management agency	fws	1
+non-destructive method	fwd	1
+service module	fwsm	1
+non-destructive testing method	fwd	1
+defense organization	fwo	1
+sporty car	fwd `sporty' car	1
+research funders	fwo	1
+information	fwa name	1
+event	fwc amnesty day	1
+bipolar power device	fwds	1
+standard library function	fwrite	2
+fighter-bombers	fw  one hundred and ninety 	1
+mini-series	fwrc	1
+mini-series	fwc alms	1
+World War II aircraft	fw  one hundred and ninety d 	1
+program	fwb hard disk toolkit pe	1
+filter name	fw-allow incoming http	1
+popular spell	fw	1
+typical peripheral	fw external hard drives	1
+DOI agency	fws	1
+tactical aircraft	fw  one hundred and ninety 	1
+campus-based aid program	fws	1
+dry fractionation process	fws process	1
+organization	fwbo	1
+european airgun manufacturer	fwb	1
+organization	fwag	1
+deficient environment	fw wetland	1
+evaluation nonlinear effect	fwm	1
+federal environmental agency	fws	1
+filesystem function	fwrite	1
+friend reference publication	fwcc of the americas handbook of meetings	1
+modern piston-engine warplane	fw  one hundred and ninety  d- nine 	1
+NDT device	fwd	1
+origin C function	fwhm	1
+standard C function	fwrite	3
+basic php text file function	fwrite	1
+conventional multiple testing adjustment method	fwer	1
+co-ordinated project	fwagmeinlandwise project	1
+drive command	fw reloading command	1
+elite level event	fwrl	1
+european and american manufacturer	fw murphy usa	1
+fiber anomaly	fwm	1
+formalized cooperative process	fws joint ventures	1
+grammar blog	fwj's grammar guide	1
+HABITAT PROTECTION federal environmental agency	fws	1
+higher-pressure source	fwko	1
+impulse load device	fwd	2
+juicy variety	fwang tung	1
+map annotation	fw for foot of wall	1
+murphy end device	fw murphy end device	1
+Optical fiber nonlinearities	fwm	1
+purpose package	fwb's hard disk toolkit	1
+stdio.h file function	fwrite	1
+teacher federation	fwtao	1
+young female	fwly big time	1
+1400mm FMS model	fw one hundred and ninety 	1
+Acrylic ink	fw acrylic artist ink	1
+alike white	fw de klerk	1
+axis fighter	fw  one hundred and ninety 	2
+beaten-down garbagio	fwlt pwer tex	1
+biweekly-paid employee	fws student employee	1
+dragon's wwii-era model	fw- one hundred and ninety  series 	1
+option	fwa	1
+eduard kit	fw- one hundred and ninety 	1
+emit state	fwd state	1
+etter identifier	fws	1
+fiber nonlinear effect	fwm	1
+geschwader's hack	fw  fifty-eight  at left 	1
+impressive past release	fw  two hundred  condor 	1
+group	fws	1
+interfield deinterlacing method	fwf  nineteen 	1
+minor poll	fwaa	1
+moving agency	fws	2
+nonlinear optical method	fwm	1
+method	fwd	1
+method	fwer	1
+optical signature	fwhm	1
+polemical writing	fwbo	1
+real law	fwc's definition of spearfishing	1
+recoilless spring-piston air gun	fwb  three hundred s 	1
+Recoilless spring-piston airguns	fwb  three hundred s 	4
+secondary view	fwd left	1
+SMS acronym	fwiw	2
+statistical-based model	fwha model	1
+third-party drive utility	fwb's hard disk toolkit	1
+threeletter identifier	fws	1
+project	fws storm recovery assessment fund	1
+technology	fwsm	1
+parameter	fwhm	1
+product	fwt related product	1
+product	fwa	1
+function	fwrite	2

@@ -1,0 +1,577 @@
+product	jd lamp related product	1
+initiative	jdoudna village in batroun	1
+accessory	jdm integra performance accessory	1
+resource	jdbc provider	7
+resource	jd powers	1
+resource	jdbc datasource	1
+property	jdbc standard transient property	1
+benefit	jd's benefit	1
+exception	jd	1
+product	jd weld	1
+character	jd	1
+model	jdm	1
+model	jdcs model	1
+model	jd twelve 	1
+model	jd one thousand three hundred and twenty-five 	1
+model	jd three thousand and thirty 	1
+model	jd six thousand and ninety 	1
+model	jd-m twenty-five 	1
+model	jd-r model of occupational stress	1
+word	jdbc executeupdate method	1
+institution	jda	1
+institution	jdrf	1
+client	jd wetherspoon	3
+client	jd williams	1
+client	jd	1
+client	jdk	1
+author	jd robb	2
+person	jd	1
+idea	jd's key club	1
+alternative	jdom	1
+agency	jd powers initial car survey	1
+agency	jdl	1
+object	jdbc driver	1
+object	jdownloader	1
+location	jdai sites in chicago	1
+writer	jd salinger	2
+business	jds uniphase	1
+procedure	jdo class enhancement	1
+band	jd crowe	1
+band	jd natasha	1
+practice	jd tantric practice	1
+firm	jdsu	2
+firm	jds uniphase	1
+manufacturer	jds industries	1
+instrument	jdls rules	1
+man	jd rockefeller	1
+website	jdate	1
+website	jd power	1
+figure	jd stewart	1
+style	jdm black	1
+Organisations	jdrf	1
+big name	jdsu	1
+big name	jdm allstars	1
+standard	jdf	2
+standard	jdom	1
+classic	jd salinger's the catcher in the rye	1
+vendor	jd edwards	3
+vendor	jda	2
+vendor	jde	1
+vendor	jds uniphase	1
+vendor	jdsu	1
+vendor	jds	1
+store	jd sports	3
+market	jd edwards	2
+market	jdv hotel target niche market	1
+customer	jd group	1
+feature	jd power rating	1
+environment	jdeveloper	1
+designer	jd seven  couture 	1
+software	jdbc gateway	1
+software	jdownloader	1
+retailer	jd sports	1
+party	jd	4
+professional	jd	2
+guest	jd blair	1
+competitor	jds uniphase	2
+competitor	jd sport	1
+competitor	jdsu	1
+package	jdt	1
+package	jdk timer	1
+package	jdk work without complaint	1
+series	jd  one hundred and eleven 	1
+text	jdt  eleven 	1
+service provider	jdc	1
+modification	jdm tail light	1
+interest	jdrama	1
+shop	jd sport	1
+stock	jds uniphase	2
+stock	jdsu	1
+charity	jda	2
+industry leader	jds uniphase	3
+industry leader	jdsu	1
+suspect	jd sports	1
+issue	jdm motor	1
+giant	jda	1
+goodie	jdm rainguards	1
+scene	jdbc package	1
+household name	jd wetherspoon	3
+candidate	jd hayworth in arizona	1
+code	jdk class	1
+notable exception	jdh	1
+face	jd wood	1
+tenant	jds uniphase	1
+framework	jdo	2
+art	jdk	1
+big company	jds	1
+library	jdom	1
+interface	jdbc	1
+online resource	jd power & associates	1
+software package	jdownloader	1
+manager	jdownloader	3
+local artist	jd era	1
+survey	jd powers	2
+heavyweight	jda	1
+artiste	jdot	1
+funding source	jdrf	1
+release	jdk  one . one 	1
+champion	jdj intimidator  eighty k 	2
+convention	jdoe	1
+well-known name	jd wetherspoon	1
+video	jdm insider	1
+merchant	jd jewel of the beach	1
+degree	jd	1
+degree	jd law degree	1
+designation	jd	1
+horse	jd junior	1
+local agency	jdk	1
+builder	jd group	1
+table	jd power for year	1
+industry giant	jds uniphase	1
+success story	jds uniphase	1
+distributor	jdh healthcare	1
+industry standard	jdf	1
+witness	jd	1
+performance accessory	jdm integra performance accessory	1
+shortcoming	jdoql imperfect	1
+market leader	jds uniphase	2
+business application	jd edwards	1
+connector	jdbc data sources	2
+connector	jdbc connector	1
+niche market	jdv hotel target niche market	1
+kit	jd jet kit	1
+online retailer	jd williams	1
+online store	jd sport	1
+service company	jdsu	1
+area	jdf preflighting	1
+implementation	jdk on solaris	1
+research tool	jd power quality survey	1
+computer system	jd edwards	1
+software company	jd edwards	1
+standard service	jdbc connection pool	1
+statistical datum	jd power	1
+funders	jdrf	1
+open standard	jdf	4
+software solution	jde	1
+industry heavyweight	jds uniphase	1
+big name brand	jd sports	1
+record label	jdub records	2
+APIs	jdbc	1
+APIs	jdo	1
+machinery	jd sixty-nine dlc trackhoe 	1
+corporates	jda	1
+shared resource	jdbc connection pool	2
+private group	jdf	1
+local leader	jd salinas	1
+weapon system	jdam into the aircraft	1
+funding agency	jdrf	1
+global corporation	jd group	1
+software system	jd edwards	1
+rare disease	jdm	1
+enterprise application	jd edwards enterpriseone	1
+service	jdbc driver	2
+recognizable name	jd samson	1
+forest	jdsf	1
+leading player	jds uniphase	1
+restaurant chain	jd wetherspoon	1
+proven technology	jdo	1
+top rider	jd webb	1
+application service	jdk	2
+classic author	jd salinger	1
+high-profile company	jd williams	1
+development environment	jdeveloper	1
+large store	jd sport	1
+top prospect	jd durbin	1
+popular company	jds uniphase	1
+professional designation	jd	2
+solution provider	jda	1
+online shop	jd sports	1
+good friend	jd roof	1
+adapter	jdbc adapter	1
+adapter	jdbc using the database adapter	1
+addons	jde	1
+advanced degree	jd	4
+breeder	jd smith	1
+jewish organization	jdc	2
+disk	jd jba	1
+resource information	jd mccarty center located in okc	1
+technology leader	jds uniphase	2
+equipment maker	jds uniphase corp.	1
+independent company	jd power	2
+configuration datum	jdbc resource name	1
+jewish group	jdl	2
+standard interface	jdf	1
+professional degree	jd	5
+well-known client	jd wetherspoon	1
+rating agency	jd power	1
+standard technology	jdf	1
+UI element	jdialog component	2
+area company	jdsu	1
+enterprise system	jd edwards world	1
+european firm	jds	1
+romania tv channel	jdxkmv tv	1
+well-known corporation	jdsu	1
+advanced weapon	jdams using the global positioning system	1
+graduate degree	jd	1
+graduate degree	jds	1
+brand company	jdsu	1
+ERP system	jd edwards	4
+ERP system	jd edwards oneworld	2
+ERP system	jde	2
+ERP system	jd edwards world	1
+ERP system	jd edwards world system	1
+ERP system	jd ewards	1
+input format	jdbc record	1
+company	jds uniphase	8
+company	jdsu	5
+company	jd wetherspoon	4
+company	jd edwards	3
+company	jd sports	3
+company	jdc lighting	2
+company	jda software	2
+company	jda software group inc.	2
+company	jda software group inc. a global provider of supply	1
+company	jds uniphase corp.	1
+munition	jdam bomb	1
+tier	jdbc driver	1
+ERP vendor	jd edwards	1
+tech stock	jds uniphase	1
+company	jdr cable systems limited based in the district	1
+company	jdr cables from hartlepool	1
+company	jdsu corp. in milpitas	1
+company	jdsu uniphase corporation of san jose	1
+american organization	jdc	1
+in	jd drew	1
+java feature	jdbc used in distributed application	1
+database technology	jdo	1
+database tool	jdbc compliant database tool	1
+global resource	jdbc	1
+professional credential	jd	2
+detailed requirement	jdk certification	1
+company	jd smith	1
+company	jd group	1
+company	jds uniphase soaring in price	1
+industry standard technology	jdf	1
+metadata standard	jdf	1
+local person	jd andersen	1
+UI component	jdialog	1
+welfare organization	jdc	1
+potential employer	jd power	1
+mainstream retailer	jd group	1
+popular software package	jde	1
+team owner	jd stacy	1
+connection information	jdbc driver class name	1
+established retailer	jd sports	1
+specialty site	jdate	1
+giant retailer	jd group	1
+niche site	jdate	1
+professional doctorate	jd	4
+professional doctorate	jd's	1
+standards-based technology	jdf	1
+academic credential	jd	2
+oracle tool	jdeveloper	1
+activity	jda working group	1
+sport shop	jd sports	4
+best quality brand	jdn	1
+ecommerce site	jd sports	1
+niche business	jdm autocare	1
+hard liquor	jd on the rock	1
+open industry standard	jdf	1
+advanced professional degree	jds	2
+advanced professional degree	jd s	1
+debugger	jdb command line debugger	1
+best-of-breed vendor	jda software	1
+furniture retailer	jd group	2
+statistical algorithm	jdl	2
+information	jdeveloper	3
+popular bar	jd's	1
+bellwether company	jds uniphase corp	1
+fast-growing company	jds uniphase	1
+housing developer	jd pierce	1
+ISOs	jdi solutions	2
+large, well-known company	jd sport	1
+ORM tool	jdo	1
+pub chain	jd wetherspoon	2
+application program interface	jdb odbc api	1
+information	jdk version	1
+precision weapon	jdam bomb	3
+public financial institution	jdb	1
+tech product	jdeveloper	1
+world-reputed brand	jd	1
+application development environment	jdeveloper	1
+halogen lamp	jdr	1
+halogen lamp	jdd	1
+halogen lamp	jde	1
+prestigious employer	jds uniphase	1
+safety property	jdbcresultset property	1
+enterprise resource planning system	jd edwards	2
+enterprise software application	jd edwards	1
+independent report	jd powers	1
+joint degree	jd mph	1
+joint degree	jd mpa	1
+joint degree	jd mpp	1
+joint degree	jd ma	1
+joint degree	jd mba	1
+murder mystery	jd robb	1
+chain establishment	jd wetherspoon	1
+datum access technology	jdo	1
+narration	jd's usual narration in scrubs	1
+program	jd edwards oneworld	1
+ORM framework	jdo	1
+prominent technology company	jdedwardsand national instruments	1
+retail workforce management software vendor	jda software	1
+songsmiths	jd souther	1
+standard accounting package	jd edwards	1
+standard Java APIs	jdbc	3
+test equipment manufacturer	jds uniphase corporation	1
+client various product	jdm acura	1
+client various product	jdm nissan	1
+client various product	jdm honda	1
+client various product	jdm lexus	1
+client various product	jdm mazda	1
+client various product	jdm subaru	1
+client various product	jdm toyota	1
+component company	jds uniphase	1
+high-flying stock	jds uniphase corp	1
+high-flying stock	jds uniphase	1
+insurance company site	jd power	1
+large fruited variety	jd's special c-tex	1
+latest available technology	jdbc referential database	1
+oracle development tool	jdeveloper	1
+program	jdownloader	1
+program	jd edwards	1
+program	jda	1
+program	jde	1
+3rd party plug-ins	jdt	1
+independent research organization	jd power	3
+java compiler	jdk javac comp iler	1
+library class	jdk	1
+massive retailer	jd group	1
+professional practice degree	jd	1
+professional wakeboarders	jd webb	1
+accountancy package	jd edwards accountancy package	1
+autoimmune rheumatic disease	jdm	1
+cisco's competitor	jds uniphase	2
+consumer report	jd power	1
+high profile free agent	jd drew	1
+IBM middleware product	jdbc driver	1
+practitioner doctoral degree	jd	1
+private health organization	jdf the ada	1
+organization	jdl	5
+organization	jdrf	3
+organization	jda software	2
+organization	jdc	2
+transactional resource	jdbc connections acquired	1
+advanced educational degree	jd	1
+complimentary module	jd slideshow	6
+complimentary module	jd tab	6
+customer satisfaction survey	jd power's	1
+customer satisfaction survey	jd power & associates	1
+datum source database property	jdbc url	2
+datum source object	jdbc data source	1
+enterprise grade ERP web solution	jd edwards	1
+enterprise resource planning solution	jd edwards	1
+enterprise system service	jd edwards enterpriseone & world	1
+organization	jds	1
+organization	jd wilkins	1
+organization	jd power	1
+organization	jdetips university	1
+growth retailer	jd group	1
+inventory software	jda	1
+JEE technology	jdbc	1
+mega-suite vendor	jd edwards	1
+object relational mapping tool	jdo	1
+organization	jd breast cancer foundation	1
+private, market-based agency	jd power	1
+pub group	jd wetherspoon	1
+pub operator	jd wetherspoon	1
+pure striker	jds	1
+relationship site	jdate	1
+scope resource	jdbc driver	1
+session object	jdo persistencemanager	1
+social justice party	jd	1
+south african retailer	jd group	1
+strong regional party	jdu	1
+tier-1 software package	jd edwards	3
+transient property	jdbc standard transient property	1
+accelerator software	jdownloader	1
+business rating	jd power	1
+communication equipment maker	jds uniphase corp	1
+complementary degree	jd	1
+congress social event	jd hudgins  one hundred th anniversary party 	1
+database API	jdo	1
+depository receipt	jdr	2
+fiber-optic company	jds uniphase corp	1
+hate organization	jdl	1
+JAXP also related technology	jdo	1
+large ERP package	jd edwards	1
+law-related site	jd supra	1
+application	jd edwards	3
+application	jda	2
+application	jd edwards enterpriseone application	1
+application	jd armstrong for billing	1
+application	jd edwards erp	1
+outstanding retailer	jd group	1
+public sector investment project	jdip road improvement program	1
+top holding new economy stock	jds uniphase corp.	1
+traditional supply chain planning vendor	jda software	1
+accounting software vendor	jd edwards	1
+american degree	jd	1
+arbor	jd four hundred and sixty-seven  english arbor 	1
+basic hardware configuration	jdk	1
+borland enterprise server component	jdatastore	1
+brand color	jd green	1
+business-critical ERP application	jd edwards enterpriseone	1
+convenient DOM-like APIs	jdom	1
+database related attribute	jdbc connection	1
+day many right-wing jewish group	jdl	2
+effective quality process	jd power drive audit	2
+enterprise-wide software company	jda	1
+first professional doctorate	jd	1
+high street sportswear retailer	jd sports	1
+household name store	jd sports	1
+industry ERP system	jd edwards	1
+jaguar club	jdc	1
+Java EE development tool	jdeveloper	1
+JDSU product	jdsu da- three thousand four hundred 	1
+kjv-only extremist	jds	1
+large car side graphic	jdm stripe	1
+large enterprise application provider	jda software	5
+large, voluntary nonprofit organization	jdrf	1
+leading furniture retailer	jd group	1
+lightning specialist	jdm engineering	1
+managed operator	jd wetherspoon	3
+method purely statistical algorithm	jdl	1
+mfg qulity rating	jdp vds	1
+native ERP output capability ERP	jde	1
+oganization	jdw	1
+oracle internet developer suite tool	jdeveloper	1
+outlasting company	jd imaging services north texas	1
+popular matchmaking site	jdate	1
+case	jds uniphase corp.	1
+case	jd edwards	1
+case	jdbgmgr.exe hoax	1
+print industry specifi cation	jdf	1
+property management system	jd edwards	1
+regional and national account	jd power	1
+regional vendor	jd's off road	1
+religion-oriented online matchmaking site	jdate	1
+rightist party	jdp	1
+supply-chain software maker	jda software	1
+option	jdbc service	1
+TDMA digital cellular standard	jdc	1
+top field journal	jde	1
+top flange hanger	jds	1
+transparent persistence APIs	jdo	1
+tree-based API	jdom	1
+XML rich coding tool	jdom deng	1
+alternate storage system	jdatastore by setting the storagedataset object's store property	1
+architectural studio	jds architects	1
+option	jdk compliance level	1
+blogic server apisand facility	jdbc connection pool	1
+branded pub chain	jd wetherspoon	1
+civil law degree	jd	1
+configuration stuff	jdbc properties using xml	1
+conjunction witha XML manipulation tool	jdom	1
+consumer ranking source	jd power	1
+conventional tubing bender	jd two  bender 	1
+countless unofficial Java APIs	jdom	1
+creative message	jd power award	1
+dark energy space mission	jdem	2
+database connection string	jdbc connection-url	1
+database driver implementation	jdbc class implementation	1
+datadomain method purely statistical algorithm	jdl	1
+diabetes charity organization	jdrf	1
+Dynamic national startups	jdub records	1
+easy-to-use DOM-like APIs	jdom api	1
+erpsoftware company	jd edwards	1
+expensive tractor	jd's	1
+farm equipment brand	jd	1
+fiber component manufacturer	jds fitel	1
+financial reporting tool	jde	1
+high-street sport retailer	jd sports	1
+INDPENDENT source	jd power	1
+group	jdrf	1
+influential partner	jdrf	1
+installation challenge	jdk	2
+issue concern website	jd supra	1
+Java exception	jdbc error	1
+JD edwards enterpriseone system	jd edwards enterpriseone inventory management system	1
+JDBC context	jdbc sql server connection	1
+jewish music label	jdub	1
+Job Control specification	jdf	1
+latest file technology	jdf	1
+like-minded studio	jds	1
+lower-level APIs	jdom	1
+managed pub group	jd wetherspoon	1
+market-leading software	jda portfolio	1
+non-astrological component	jdsu entering the sp five hundred  wednesday 	1
+objective, respected rating site	jd power & associates	1
+partly native driver	jdbc-odbc bridge	1
+partly-native driver	jdbc-odbc bridge	1
+Persistence plug-ins	jdbc for rdbmss	1
+planned NIR satellite mission	jdem	1
+politically conscious performer	jd samson of letigre	1
+pool parameter	jdbc pool parameter	1
+popular controller	jds	1
+popular scooter	jd bug	1
+Powerful fiber analysis software	jdsu fibercable software	2
+precision cutter	jdc sample cutter	1
+product description format	jdf product intent nodes	4
+quality Cmoys	jds labs cmoy	1
+quantitative report	jd powers	1
+reliabilty survey	jd power customer satisfaction survey	1
+RS downloader	jdownloader	1
+method	jdqz method	1
+serious championship	jdm	1
+single WebLogic application module	jdbc module	1
+size specialist	jd williams	1
+Software implementation JVM	jdk	2
+space-based experiment	jdem	1
+student-run external case competition	jdc	1
+subtle yet effective accent	jdm rear foglight	1
+super cheap programmer	jdm	1
+technology achievement	jdm api	1
+trade leader	jd wetherspoon chief tim martin	1
+unmentioned item	jdm d fifteen b  three -stage vtec 	1
+unrelated business medium brand	jd power	1
+utilized computerized system	jd edwards	1
+tool	jdeveloper	4
+tool	jdsu smartclass adsl tester	1
+tool	jd edwards enterpriseone package assembly director	1
+tool	jdeveloper's application development framework business components	1
+tool	jdi event	1
+tool	jdb	1
+tool	jdsu fiber tool	1
+vigilant jewish organization	jdc	1
+vintage postcard	jd mccarthy	1
+XA resource	jdbc driver	1
+xDT plugins	jdt	1
+tool	jdeveloper sapplication development framework business components	1
+tool	jd edwards world editor	1
+tool	jdom	1
+project	jdem	2
+project	jddk architects greenriver office building near durham	1
+artist	jd natasha	1
+artist	jd era	1
+artist	jd miller	1
+artist	jd challenger	1
+place	jdm engine importer	1
+player	jd group	2
+player	jd edwards	1
+player	jd blair on drum	1
+technology	jdbc	2
+technology	jdbc in java	1
+product	jdeveloper	1
+technology	jdo	1
+parameter	jdbc pool parameter	1
+system	jd edwards	2
+brand	jd sports	2
+brand	jd	2
+brand	jd bug scooter	1
+component	jdk	1
+site	jdate	6
+site	jd alexander center in lake wales	1
+site	jdmland	1
+site	jd supra	1
+related product	jd lamp related product	1

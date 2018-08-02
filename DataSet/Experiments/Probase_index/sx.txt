@@ -1,0 +1,146 @@
+exception	sxga	1
+model	sx four 	6
+model	sx four  sedan 	1
+model	sx four hundred and fourty 	1
+feature	sxt appearance group	1
+feature	sxt package	1
+operation	sx-ew copper operation	1
+feature	sx four  lineup 	1
+venue	sxsw	1
+instrument	sxt	1
+act	sxsw veteran chico mann	1
+feature	sxt	1
+feature	sxt plus group	1
+partner	sxephil	1
+incentive	sxsw interactive ticket	1
+award	sxsw web awards	1
+provider	sxc health solutions	1
+festival	sxsw	25
+festival	sxsw music festival	3
+festival	sxsw in austin	1
+festival	sxsw in texas	1
+festival	sxsw in the usa	1
+car	sx four 	1
+domain	sxip motifs in clasps	2
+association	sxe	2
+stock	sxc	1
+route	sxf	1
+route	sxl	1
+airport	sxm	2
+conference	sxsw	11
+conference	sxsw interactive	2
+conference	sxsw interactive in austin	1
+performance	sxsw	4
+camera	sx one 	1
+instruction	sxt	1
+music festival	sxsw	4
+abbreviation	sx for symptom	2
+international conference	sxsw	1
+industry event	sxsw interactive	1
+resolution	sxga	4
+film festival	sxsw	1
+annual festival	sxsw	1
+business event	sxsw	1
+programming tool	sx key ring	1
+programming tool	sx proto board	1
+programming tool	sx key	1
+programming tool	sx tech board	1
+programming tool	sx blitz	1
+expensive model	sx- sixty-four 	2
+nuclear receptor	sxr	1
+processing technology	sx-ew for copper	1
+large festival	sxsw south by southwest	3
+local gay paper	sx news	1
+microcontrollers	sx	1
+finalist	sxsw interactive finalist	1
+company	sxf studios	1
+genetic element	sxt element	2
+independent brand	sx	1
+motorbike	sx fifty 	1
+musical festival	sxsw	1
+youtubers	sxephil	1
+event	sxsw	16
+american event	sxsw	1
+event	sxsw music festival	1
+event	sxsw music festival in texas	1
+event	sxsw & next big nashville	1
+regular venue	sxsw	1
+in-person event	sxsw for networking opportunity	1
+suzuki model	sx four  sport 	1
+suzuki model	sx four  crossover 	1
+stock photography site	sxc.hu	1
+cutting-edge function	sxga resolution	4
+tourist car	sx four 	1
+world-renowned festival	sxsw	1
+maruti model	sx four 	1
+picture quality	sxga	1
+world's premier festival	sxsw	1
+PDC client	sxsw music festival	2
+picture signal	sxga	1
+single-chip solution	sxt fpgas	1
+decent JHP	sxt	1
+expensive festival	sxsw	1
+free stock photo site	sxc.hu	1
+instant camera	sx- seventy 	1
+japanese and korean vehicle	sx four 	1
+local film festival	sxsw	1
+notable festival	sxsw	2
+odorless compound	sxt	1
+password service	sxipper	1
+performance package	sx brake conversion package	1
+photographic camera	sx- seventy  camera 	1
+well-known showcase	sx-tex-mex awards	1
+Barrel racing mares	sx frenchmans vanila	1
+dreadnought guitar	sx dg- thirty 	2
+great interactive medium conference	sxswi	1
+hallicrafters radio	sx- one hundred and seventeen 	1
+hip event	sxsw	1
+integral film camera	sx- seventy 	3
+integrative and conjugative element	sxt mo ten  from v. cholerae o one hundred and thirty-nine 	1
+integrative and conjugative element	sxt et	1
+large bridge camera	sx- ten 	1
+model machine tool	sx two  mini mill 	1
+music television show	sxsw music showcase	1
+onlyafewdocumentty pes	sxw	1
+PC graphic resolution	sxga	1
+Polaroids	sx- seventy 	1
+case	sxga resolution	1
+professional memory card	sxs	2
+Splicing repressors	sxl	1
+sub-forum	sx forum	1
+Up-and-coming PBMs	sxc	1
+aforementioned, event	sxsw	1
+alu element	sx subfamily member	1
+contemporary self-developing photographic system	sx- seventy 	1
+conventional video processor chip	sxt two  chip from silicon optix 	2
+end resolution	sxga	1
+FPGAtechnologies	sx-sfamilyfrom actel corporation	1
+free stock photography website	sxc.hu	2
+free stock website	sxc	1
+freeride bike	sxt	1
+good video series	sxephil	1
+HDTV technology	sxrd	1
+highly-automated self-developing camera	sx- seventy 	1
+non-SLRs	sx one 	1
+PC resolution	sxga	1
+polaroid camera	sx- seventy 	1
+popular bloggers video	sxephil	1
+regular stock site	sxc.hu	1
+siemens handset	sx one 	1
+Space-born coronal imagers	sxt	1
+Spallation neutron single-crystal diffractometers	sxd at the isis pulsed neutron & muon source in chilton	1
+USB device server	sx- two thousand  u two  from silex 	1
+value-packed offering	sx four 	1
+web design conference	sxsw	1
+YouTubbers	sxephil	1
+tool	sx-key	1
+product	sx	1
+product	sx-e new-type lubricant	1
+technology	sxrd	1
+system	sx system	1
+product	sx four 	1
+product	sx-abf-l liquid fluorescent whitening agent	1
+product	sx-r pump cone	1
+device	sxvf-h nine  camera 	1
+brand	sx	1
+site	sxc.hu for royalty-free stock	1

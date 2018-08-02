@@ -1,0 +1,438 @@
+factor	wbc count	4
+factor	wbc	3
+source	wbgo	2
+exception	wbcn in boston	1
+exception	wbcn wbcn wide band communications network in boston	1
+product	wbi adapters	1
+model	wbnm	1
+characteristic	wbs element	1
+situation	wbv treatment	1
+institution	wb	6
+institution	wbg	1
+client	wb	2
+client	wba	1
+client	wbff	1
+author	wb yeats	1
+feature	wbs scheduling	5
+person	wbc	1
+approach	wbe	1
+agency	wb	2
+writer	wb yeats	2
+solution	wbretro for optical scanning on measuring machine	1
+business	wben	1
+field	wbs element	1
+title	wbf	1
+type	wbarb	1
+disease	wbd	1
+venue	wbl hippodrome	1
+test	wbc count	2
+setting	wbg	1
+website	wb shop	1
+figure	wbmx	1
+leader	wbeb	1
+team	wba & birmingham	1
+team	wba	1
+entity	wb	1
+country	wbg	1
+Organisations	wb	1
+partner	wb	2
+partner	wbi	1
+standard	wban	1
+standard	wbem	1
+show	wb toons like batman tas	1
+club	wba	1
+vehicle	wb- fourty  truck 	1
+risk factor	wbc count at diagnosis	1
+asset	wbm road	1
+guest	wbc heavyweight champion lennox lewis	1
+corporation	wb entertainment	1
+channel	wb network	3
+association	wbcsd	1
+result	wba	1
+result	wbc	1
+network	wb	22
+station	wbur	3
+station	wbz	2
+station	wbez	2
+station	wbz-am	2
+station	wbz in boston	1
+station	wbre in scranton	1
+station	wbdx	1
+station	wbkb	1
+station	wbnx	1
+station	wbbm in chicago	1
+station	wbes-tv in buffalo	1
+station	wbhj birmingham	1
+station	wbai	1
+station	wbcn	1
+station	wbgo in newarks	1
+medium	wbnr radio	1
+shop	wbw	2
+account	wbbm-tv	1
+input	wbs	1
+issue	wbg competitiveness	1
+NGOs	wbcsd	1
+forum	wbok radio	1
+content	wbgt level	2
+cell	wbc	3
+suspect	wbt	1
+TV show	wb's surreal life	1
+TV show	wb network's reba''	1
+international organization	wb	18
+framework	wbi	1
+campaign	wbw	1
+television show	wb television network's smart guy	2
+television show	wb's charmed	2
+television show	wb television network s smart guy	2
+circuit	wbl	1
+electronics	wbo two  device 	1
+certification	wbe	1
+medium outlet	wbai radio station in new york	1
+donor	wb	6
+training	wbt webbased training	1
+radio station	wbai	1
+radio station	wbcn	1
+radio station	wben	1
+radio station	wber	1
+radio station	wbns-am	1
+radio station	wbzu	1
+radio station	wbzx	1
+radio station	wbap	1
+radio station	wbbm	1
+radio station	wbhm	1
+radio station	wbos	1
+radio station	wbru	1
+radio station	wbza	1
+radio station	wbz in boston	1
+radio station	wbuf	1
+radio station	wbns-fm	1
+radio station	wbhk	1
+radio station	wbht	1
+radio station	wbez	1
+radio station	wbee	1
+radio station	wbbg	1
+radio station	wbbr	1
+radio station	wbal	1
+intermediary	wbi	2
+television program	wb show	1
+industry group	wbcsd	1
+studio	wb	4
+comment	wbsywl watch movies online lhyvyju on a daily basis	1
+industry standard	wbem	1
+laboratory test	wbc	4
+laboratory test	wbc count	1
+statement	wbc elevated	1
+prognostic factor	wbc count	1
+continuous variable	wbc	1
+continuous variable	wbc count	1
+standard technique	wbtb	1
+exchange	wbx	1
+broker	wbi message broker	1
+cultural institution	wbgo	1
+international agency	wb	2
+security service	wbrs	1
+ring	wb ring in kms	1
+key partner	wb	1
+international institution	wb	4
+external stakeholder	wb	1
+management function	wbm	1
+APIs	wbxml	2
+biochemical parameter	wbc	1
+small country	wbg	1
+application program	wbem-based management application program	1
+lab test	wbc count	1
+service	wbla	1
+climatic condition	wbt	1
+stop	wbbm	1
+radio program	wbai	1
+international partner	wb	1
+visual tool	wbi modeler	1
+key initiative	wbenc rebranding	1
+fight	wbc mandatory title defense against no.  one -ranked yungkil chung 	1
+development partner	wb	2
+television station	wbir	1
+television station	wbz-tv boston	1
+primer	wb primer	4
+worthy cause	wbt penny pitch	1
+voluntary program	wbla	1
+inflammatory marker	wbc count	3
+inflammatory marker	wbc	1
+development agency	wb	1
+multilateral organization	wb	1
+national and international organization	wb	1
+multilateral institution	wb	1
+international financial institution	wb	2
+aid agency	wb	1
+international donor	wb	5
+TV station	wbz	2
+TV station	wbre in wilkes-barre pa	1
+camera setting	wb	2
+intergovernmental organization	wb	1
+TV network	wb	2
+objective measurement	wbsf	1
+member organization	wbe-certified member organization	1
+management application	wbem-based management application	1
+Protestants	wb yeats	3
+local station	wbab	2
+local station	wbgn	1
+local station	wblg	1
+local station	wbsd in burlington	1
+multilateral agency	wb	2
+blood component	wbc	1
+medium partner	wbls	1
+established firm	wbt	1
+established risk factor	wbc count	1
+national television show	wb eleven  news 	1
+patients characteristic	wbc count	2
+company	wb	2
+laboratory value	wbc	1
+local radio station	wbz	1
+joint initiative	wbc officers in burglary hotspot	1
+medical term	wbc along with rbc count	1
+local medium outlet	wbtv news	1
+film company	wb	1
+broadcast network	wb	1
+flop	wbf	1
+niche service	wbt	1
+movie studio	wb	1
+world organization	wbf	1
+external provider	wbl provider	1
+international entity	wb	1
+irish writer	wb yeats	1
+local parameter	wb	2
+blood cell	wbc	1
+company	wb mason	1
+company	wb television network	1
+company	wbcn	1
+international aid agency	wb	1
+product parameter	wbc content	2
+development bank	wb	1
+esteemed organization	wbseb	1
+large international organization	wb	1
+comedy series	wb's the steve harvey show	3
+supranational organization	wb	1
+western institution	wb	1
+International Organisations	wb	1
+multilateral donor	wb	1
+welfare scheme	wbm road	1
+haematological parameter	wbc count	1
+haematological parameter	wbc	1
+T.V show	wb gilmore girls	1
+international development partner	wb	1
+international financial organization	wb	1
+planning function	wbs preparation	1
+simple laboratory test	wbc count	1
+community radio station	wbis	1
+inflammation marker	wbc count	1
+objective finding	wbc count	1
+sporting star	wba world heavyweight champion	1
+cable television channel	wb	3
+nucleated cell	wbc	1
+blood marker	wbc	1
+traditional medium source	wbz-tv	1
+cable television network	wb network	1
+management standard	wbem	1
+local television station	wbz	2
+local television station	wbko	1
+global index	wb's wgi	1
+multilateral development bank	wb	2
+popular graphic format	wbz	1
+information	wban number	1
+standard laboratory test	wbc	1
+call letter	wbz in boston	1
+body composition parameter	wb-fat mass	1
+patients vital sign	wbc	2
+rival organization	wbo	1
+international economic institution	wb	1
+local new outlet	wbz-tv	1
+local TV station	wbns	2
+music station	wbap	1
+standard form contract	wba contract	1
+donor institution	wb	1
+initial feature	wbc index	1
+initial feature	wbc	1
+event	wbca pink zone	1
+bilateral donor agency	wb	1
+blood study	wbc with differential	1
+international organism	wb	2
+IOs	wb	1
+powerful international organization	wb	1
+top boxer	wbf world champion zolani tete	1
+event	wbz debate	1
+event	wbf	1
+event	wbtv s season launch party	1
+indirect marker	wbaa	1
+subordinate object	wbs element	1
+hematological index	wbc count	1
+state level exam	wb jee	1
+multilateral lender	wb	1
+program	wbfi	1
+radio interview	wbgo	1
+abnormal laboratory result	wbc	1
+in-camera setting	wb	1
+international datum source	wb	1
+large blood component	wbc	1
+local new station	wbre	1
+program	wbem-based management application program	1
+program	wbfs manager	1
+program	wb's the parent hood	1
+multilateral partner	wb	1
+process mapping tool	wbi	1
+program's breakdown structure	wbs	1
+trust fund resource	wbi carbon finance assist program	1
+activity feature	wbi thematic sponsor	1
+air broadcast	wb	1
+alphabet group	wbu	1
+analog station	wbz	1
+area radio station	wbru	1
+CSF finding	wbc count	1
+factor	wbc count at diagnosis	1
+government certification	wbe	1
+Impaired waterbodies	wbid  one thousand eight hundred and ninety-six 	1
+irish character	wb yeats	1
+key sport	wbb	1
+local FM station	wbap	1
+long-term datum set	wbphs datum	1
+premiership team	wba	1
+organization	wb	7
+organization	wbcsd	4
+sister station	wbbm	3
+sister station	wbbm & wcbs	1
+well-established prognostic factor	wbc count	1
+world bank explicit knowledge repository	wb thesaurus	1
+world bank explicit knowledge repository	wb directory	1
+abnormal blood cell count	wbc	1
+organization	wb andbilateral donor	1
+organization	wbu	1
+organization	wbenc for providing powerful networking forums for women in today's business world	1
+latest audiophile solder	wbt	1
+nonspecific blood test	wbc	2
+objective index	wbc count	1
+popular extractor	wb hi tech headers	1
+organization	wbff	1
+organization	wbenc.org bbb unitedway upic corporate alliance	1
+organization	wbe-certified member organization	1
+pretherapeutic characteristic	wbc count	1
+pre-transplant variable	wbc at diagnosis	1
+pre-war poet	wb yeats	1
+regular laboratory test	wbc	1
+water accounting method	wbcsd's global water tool	1
+acute host response parameter	wbc	1
+all-news station	wbbm in chicago	1
+technique	wba	2
+technique	wbtb	1
+big movie studio	wb	1
+budget support donor	wb	1
+cable receiver channel	wb	1
+conclusion designation	wbe	1
+DSSS signal	wb signal encoded in dsss	1
+heritage rocker	wbcn boston	1
+infectious parameter	wbc	1
+introduction stakeholder	wb	1
+regional belt	wbc international super bantamweight belt	1
+self-study option	wbt	1
+application	wban	1
+Transition metal borides	wb two 	1
+WAP document	wbmp bitmap image	1
+7s	wby	1
+abnormal blood count	wbc	1
+basic planning coding	wbs	1
+brilliant irish citizen	wb yeats	1
+application	wbsn	1
+application	wbem-based management application	1
+context large organization	wb	1
+contextual learning cte-driven initiative	wbl	1
+Continuouscovariates	wbc	1
+corporate membership organization	wbcsd exchange information	1
+eclectic adult contemporary station	wbbm-fm	1
+name	wb two lua- one   three 	1
+name	wb two lua- nine   three 	1
+First, continuous covariates	wbc	1
+high quality solder	wbt	1
+increased certain hemogram parameter	wbc	1
+international financial and development institution	wb	1
+internet broadcasting site	wbaltv.com in baltimore	1
+irish global player	wbt systems	1
+local laredo event	wbca parade	1
+local talk radio station	wbal	1
+NBC station	wbal	1
+occasion larger truck	wb- sixty-seven  truck 	1
+occasion larger truck	wb- fifty  truck 	1
+original and respected boxing organization	wba	1
+original and respected boxing organization	wbc	1
+picture quality adjustment	wb readjustment	1
+case	wb	1
+case	wbc	1
+regarded title	wbu	1
+regarded title	wbf	1
+relationshipswith organization	wbcsd	1
+secured allocation fund club	wbrs	1
+sensitive and specific serological assay	wb for rapid detection of m. genitalium infection	1
+strong station	wbgo	1
+case	wbgs	1
+title organization	wbc	1
+title organization	wba	1
+UHF channel	wb	1
+atorytests	wb	1
+option	wb option	1
+bacterium very small particle	wbc fragment	1
+clinical or biologic factor	wbccountsorc-reactive protein	1
+computation ofother item	wbm	1
+critical hematology mean value	wbc	1
+cylinder type	wb cylinder	1
+decade business organization	wbcsd	1
+dedicated control management tool	wbcr in ibm's product suite	1
+default kit	wba	1
+difficult datum	wbcd datum	1
+dooshes	wbg	1
+group	wbdc	1
+equipment leasing company	wb financial in california	1
+framework condition business group	wbcsd	1
+global civil society actor	wbcsd	1
+Global initia tives	wbcsd water project	1
+governance assessment	wbi	1
+huge new	wb delaying potter for no good reason	1
+hyper-local outlet	wbjb fm	1
+iconic and unique special rule	wbb	1
+imperialist financial institution	wb	1
+international and regional monetary institution	wb	1
+in-the-field station	wbny	1
+MS project field	wbs codes	1
+objective and real new outlet	wbz	1
+poor manufacture curse station	wbet	1
+popular elearning technology	wbt	1
+powerful international financial organization	wb	1
+pre-packaged learning material	wbi	1
+professional front organization	wbnf inba	1
+project donor	wb	1
+radio station team	wbls sureshots	1
+method	wbtf orderings	1
+simple notation	wbc elevated	1
+surviving class D FM station	wbrs	1
+system management standard	wbem with open source implementations like openwbem	1
+team member work information	wbs dictionary executing the communication management plan	1
+tungsten-boron compound	wb	1
+tungston-boron compound	wb	1
+typical new york information service	wbai	1
+upper class cultural revivalist	wb yeats in london	1
+tool	wbi	1
+tool	wbi adapters	1
+WB measuring device	wb card	1
+well-known conventional inflammatory index	wbc count	1
+white balance function	wb correction	1
+wmi-based management application	wbem cim studio	3
+tool	wbs for close-out	1
+tool	wbcs	1
+tool	wbcsd development impact framework	1
+tool	wbi interchange server	1
+parameter	wbc	5
+parameter	wbc count	2
+system	wbt	1
+variable	wbc count at diagnosis	1
+product	wbi message broker	1
+product	wbp plywood related product	1
+component	wbc	1
+site	wb online	1
+site	wbls radio station with the girl	1
+task	wbs development	1
+related product	wbp plywood related product	1

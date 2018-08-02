@@ -1,0 +1,521 @@
+factor	r-value	3
+initiative	r- one  district open space requirement 	1
+initiative	r- two thousand   home standard 	1
+datum	r-values	1
+property	r-value	1
+game	r-type	6
+game	r-rated video game	1
+game	r-type command	1
+game	r-type delta	1
+game	r-type final	1
+product	r- two  toast 	1
+exception	r- three 	1
+model	r-	1
+model	r- five hundred and thirty ew offer greater flexibility 	1
+approach	r-tree	1
+star	r-truth	1
+structure	r-tree	1
+structure	r-tree family	1
+film	r-point	1
+procedure	r-matrix model	1
+title	r-type	1
+ingredient	r-lipoic acid	1
+ingredient	r-lipoic acid powder from a gel cap	1
+operation	r-wave detection	1
+feature	r- thirteen  insulation 	1
+type	r- eleven 	1
+criterion	r-factor	1
+test	r-value test	1
+test	r-value	1
+act	r- fifteen 	3
+compound	r-enantiomers of verapamil	1
+compound	r-diortrihalo-substituted acyl derivative	1
+compound	r- twelve 	1
+class	r- five 	1
+leader	r-blue ridge	1
+movie	r-rated action movie	1
+mean	r- eight  stage 	1
+phenomenon	r-insertion at boundaries in english	1
+standard	r- two thousand  	1
+classic	r-type	1
+advanced feature	r- four hundred and ten a refrigerant 	1
+critic	r-new port richey	1
+critic	r-g editorial page	1
+vehicle	r-gator	1
+feature	r- fourty-nine  attic insulation 	1
+feature	r-net expandable control	1
+scheme	r-apdrp for urban area	1
+scheme	r-tree index	1
+chemical	r- twelve 	1
+district	r- three 	1
+district	r- ten 	1
+district	r- thirty 	1
+district	r- six 	1
+weapon	r- seventy-seven 	2
+weapon	r- seventy-three  aams 	1
+rule	r-controlled vowel	1
+statistic	r-squared	3
+statistic	r-factor	2
+statistic	r-square	1
+card	r- rightous justice	1
+domain	r-and-d sandbox	1
+guy	r-truth	1
+sponsor	r-ormond beach	1
+issue	r-covered foliations	1
+resort	r-wild horse ranch in nearby platina	1
+politician	r- macon	1
+politician	r-las vegas	1
+veteran	r-truth	1
+veteran	r-las vegas	1
+substrate	r-plane sapphire substrate	1
+substrate	r-alkoxy carbonyl derivative	1
+contaminant	r- one hundred and thirty-four  refrigerant 	1
+filter	r-c filter	2
+issue	r- two  zoning 	1
+candidate	r-new port richey	1
+enzyme	r-aminoadipate reductase	1
+number	r- eleven 	1
+gas	r- twelve 	1
+official	r- thirteen 	1
+official	r-the woodlands	1
+engine	r- two thousand eight hundred 	1
+engine	r- three thousand three hundred and fifty 	1
+engine	r- three thousand three hundred and fifty  turbo-compound 	1
+engine	r-r piston engine	1
+engine	r- two thousand  -d five  with no high speed blower 	1
+superstar	r-truth	1
+fluid	r-  one hundred and thirty-four a 	1
+fluid	r- twenty-two 	1
+combination	r- two thousand eight hundred  in the dc six 	1
+process parameter	r-factor	1
+version	r- sixty-one 	1
+supporter	r-crystal lake	1
+variant	r-tree	1
+variant	r- tree	1
+output	r-squared statistic	1
+video game	r-rated video game	1
+champion	r-truth	1
+modern technology	r-dna technology	1
+republican	r-west chester twp.	1
+software tool	r-studio from reading the data on the drive	1
+optional accessory	r-design emblems for the steering wheel	1
+antioxidant	r-lipoic acid	1
+conservative	r-green township	1
+wrestler	r-truth	1
+zone	r- thirty-six 	1
+parasite	r-strategist plant parasite	1
+fault	r-f arcing	3
+advocate	r-clark lake	1
+comedy	r-rated teen comedy	1
+rapper	r-truth	1
+mechanical property	r-curve behavior	1
+popular game	r-type	1
+receiver	r- three hundred and ninety a 	1
+spec	r-value	4
+limit	r-rated movie	1
+senator	r-cape girardeau	2
+senator	r-crystal river	1
+proponent	r-wayne township	2
+proponent	r-bradford woods	1
+entertainment	r-rated film	1
+performance -metric	r-squared	1
+surfactants	r- eleven 	1
+metabolite	r- eight 	1
+metabolite	r- ten 	1
+lawmaker	r-grand blanc	1
+lawmaker	r-san angelo	1
+lawmaker	r-winter park	1
+lawmaker	r- longwood	1
+lawmaker	r-hayden lake	1
+lawmaker	r-lee's summit	1
+lawmaker	r-new mexico	1
+powerful tool	r- x diagram	1
+datum structure	r-b tree	1
+datum structure	r-tree	1
+soil property	r-value	3
+residue	r-gly  three hundred and fifty-seven 	1
+residue	r-gly  three hundred and fifty-six 	1
+quantitative measure	r-square	1
+external resource	r-s associates	1
+external component	r-c network	1
+innovative solution	r- seventy-eight  switching regulator 	1
+lamp	r-type flood lamp	1
+technical term	r-value of insulation	1
+blend	r- four hundred and seven c 	1
+blend	r- four hundred and ten a 	1
+blend	r- four hundred and four a 	1
+legislator	r-north pole	1
+legislator	r-severna park	1
+match	r- truth	1
+match	r-truth-mysterio battle	1
+talented artist	r-style	2
+simulator	r-soft lasermod available from rsoft design group of ossining	2
+complicated issue	r-curve behavior	1
+action movie	r-rated action movie	1
+big retailer	r-mall	1
+elected official	r-oklahoma city	2
+optimization method	r-tree spatial index	1
+committee member	r-arkansas city	1
+committee member	r- ohio	1
+anti-oxidants	r-alpha lipoic acid	2
+missile	r- one hundred and seventy-two 	2
+missile	r- sixty 	1
+missile	r- twenty-seven 	1
+missile	r- thirty-seven 	1
+refrigerant	r- twenty-two 	23
+refrigerant	r- twelve 	23
+refrigerant	r- eleven 	14
+refrigerant	r- one hundred and thirty-four a 	13
+refrigerant	r- four hundred and ten a 	4
+refrigerant	r- four hundred and nine a 	3
+refrigerant	r- one hundred and fourteen 	1
+refrigerant	r- one hundred and thirty-four 	1
+refrigerant	r- four hundred and ten a without certification 	1
+refrigerant	r-  one hundred and thirty-four a 	1
+replacement	r- one hundred and thirty-four a in chiller 	1
+local politician	r-east setauket	1
+detractor	r-grand ledge	1
+insulation	r- nineteen 	1
+insulation	r-value rigid insulation	1
+access method	r-tree	1
+helicopter	r- twenty-two 	1
+amenties	r- fourty-nine  attic insulation 	1
+occupancy	r- one 	1
+republican leader	r-west bend	1
+propellant	r- eleven 	1
+box	r-tree	1
+republican senator	r-lowry city	1
+well	r- six 	1
+well	r- seven 	1
+transformer	r-core transformer	1
+standard measurement	r-r	1
+volatile liquid	r- eleven 	1
+pilot program	r-toc pilot program	1
+expected feature	r-wave shape	2
+hoses	r- two  clear 	1
+traditional costume	r-payjamas kurta	1
+remake	r-type	1
+energy-efficient feature	r- fifty  ceiling insulation 	1
+WWE superstar	r-truth	1
+multivariate statistical method	r-mode factor analysis	1
+energy issue	r-values	1
+pure substance	r- eleven 	1
+company	r-tec corp.	1
+farm group	r-calf usa	1
+statistical software	r-project	1
+statistical software	r- software	1
+working fluid	r- one hundred and thirty-four a 	2
+working fluid	r- twelve 	2
+model selection criterion	r-square	2
+blockbuster game	r-type leo	1
+senate leader	r-cape coral	1
+b	r-kelly	1
+retro game	r-type	1
+web source	r-calf usa	1
+anti-inflammatory supplement	r-lipoic acid	1
+legislative leader	r-winter park	1
+work visa	r- one  visa 	1
+diagnostic statistic	r-square adjusted	1
+airship	r- one hundred and one 	1
+green program	r- two thousand  	1
+heavy gas	r- one hundred and thirty-four a 	1
+house member	r-willow hill	1
+specialty film	r- fifteen  grey 	1
+natural refrigerant	r- seven hundred and seventeen 	1
+state legislator	r-the woodlands	1
+state legislator	r-c-blooming grove	1
+advanced software feature	r-gsm band	1
+buzz-words	r-value	1
+indexing method	r-tree indexing method	1
+plant parasite	r-strategist plant parasite	1
+refrigerant gas	r- twenty-two 	1
+refrigerant gas	r- twelve 	1
+chlorofluorocarbon	r- twelve 	3
+chlorofluorocarbon	r- eleven 	3
+ozone-depleting substance	r- twenty-two 	1
+information	r-square	1
+external circuit	r-c reset circuit	1
+questionable activity	r-rated	1
+ballistic missile	r- seven 	1
+intentional radiator	r- two  re-radiator gps antennas 	1
+Polynucleotides	r-rna	1
+company's model	r-class	1
+disk imaging software	r-drive image	1
+goodness-of-fit measure	r-square	1
+grass-roots group	r-calf usa	1
+HCFCs	r- twenty-two 	4
+HCFCs	r- one hundred and twenty-four 	1
+HCFCs	r- one hundred and twenty-three 	1
+HFCs	r- one hundred and thirty-four a 	7
+HFCs	r- one hundred and twenty-five 	4
+HFCs	r- four hundred and ten a 	3
+HFCs	r- thirty-two 	1
+spatial datum structure	r-tree	2
+spatial index	r-tree	1
+HFC refrigerant	r- one hundred and thirty-four a 	3
+HFC refrigerant	r- four hundred and ten a 	2
+mercedes-benz collection	r-class	1
+liquid refrigerant	r- twelve 	1
+liquid refrigerant	r- one hundred and thirty-four a 	1
+monochrome image	r-band fluorescence image	1
+account number	r- seven 	1
+building specification	r-values	2
+indexing scheme	r-tree	1
+chainsaw	r- sixteen 	1
+density area	r- three  zoning 	1
+Hydrochlorofluorocarbons	r- twenty-two 	2
+physiologic signal	r-wave of the ecg	1
+program	r-toc pilot program	1
+cadherins	r- cadherin	1
+conventional refrigerant	r- twelve 	2
+conventional refrigerant	r- twenty-two 	2
+conventional refrigerant	r- one hundred and thirty-four a 	1
+detailed call statistic	r-factor & mos score	1
+discontinuous signal	r-r intervals extracted from the continuous ecg signal	1
+freon	r- twenty-two 	1
+low surface tension liquid	r- one hundred and twenty-three 	1
+rigid insulation	r-value rigid insulation	1
+salvage regimen	r-dhap	2
+today's african-american wrestler	r-truth	1
+CFC refrigerant	r- twelve 	2
+CFC refrigerant	r- one hundred and fourteen 	1
+CFC refrigerant	r- eleven 	1
+chlorofluorocarbon refrigerant	r- twelve  for car 	2
+chlorofluorocarbon refrigerant	r- twelve 	1
+chlorofluorocarbon refrigerant	r- twenty-two 	1
+common refrigerant	r- twelve 	1
+common refrigerant	r-  four hundred and four a 	1
+Freons	r- one hundred and thirty-four a 	1
+industry-standard -metric	r-factor	1
+piston engine	r-r piston engine	1
+professional datum recovery software	r-stido	2
+residential zone	r- fifteen 	1
+teen comedy	r-rated teen comedy	1
+well-known datum structure	r-tree	1
+banding pattern	r-banding	1
+basic index structure	r-tree	1
+building element property	r-values	2
+chemotherapy option	r-chop	1
+everyday statistic	r-squared	1
+fluorocarbon refrigerant	r- twelve 	2
+fluorocarbon refrigerant	r- one hundred and fourteen 	1
+fluorocarbon solvent	r- two hundred and twenty-seven ea 	1
+fluorocarbon solvent	r- one hundred and thirty-four a 	1
+HCFC refrigerant	r- twenty-two 	4
+HCFC refrigerant	r- one hundred and twenty-three 	1
+insulation property	r-value	1
+law's supporter	r-new city	1
+lecture concept	r-c circuit	1
+organization	r-calf usa	1
+PSSs	r-pss for gan	1
+radial engine	r- two thousand six hundred 	1
+radial engine	r- one thousand eight hundred and thirty 	1
+radial engine	r- two thousand eight hundred 	1
+refrigerant fluid	r- twenty-two 	1
+spatial access method	r-tree	4
+superior energy saving feature	r- thirty-eight  ceiling insulation 	2
+superior energy saving feature	r- nineteen  insulation 	1
+typical refrigerant	r- one hundred and thirty-four a 	1
+typical refrigerant	r- twenty-two 	1
+automotive paint company	r-m	1
+building specifi cation	r-values	1
+energy efficiency building	r- two thousand  	5
+F-gases	r- one hundred and thirty-four a 	1
+technique	r-tree	1
+technique	r-tree based data access structure	1
+hydrofluorocarbon refrigerant	r- four hundred and ten a 	1
+hydrofluorocarbon refrigerant	r- one hundred and thirty-four a 	1
+hydrofluoro-carbons	r- one hundred and thirty-four a 	1
+hydrofluoro-carbons	r- one hundred and twenty-five 	1
+hydrofluoro-carbons	r- thirty-two 	1
+hydrosoluble pigment	r-phycoerythrin from porphyra tenera	2
+inappropriate gift	r-rated dvds	1
+Introduction Aryl ketones	r-hydroxy ketones	1
+Introduction Aryl ketones	r-amino ketones	1
+legendary racket	r- twenty-two 	1
+application	r-line logo	1
+pre-built report	r- thirty 	1
+pressure refrigerant	r- one hundred and thirty-four a 	1
+referendum supporter	r-gig harbor	1
+repartitioning agent	r-alpha lipoic acid	1
+russian missile	r- seventy-seven  medium-range aam 	1
+russian missile	r- seventy-three  short-range aam 	1
+smcdk inhibitor	r- roscovitine	1
+smcdk inhibitor	r-roscovitine	1
+application	r-tree indexing	1
+traditional index structure	r-tree	1
+alternate contour	r- three  highland 	1
+alternate contour	r- two  lowland & top 	1
+arbor	r- eight 	1
+average-based measure	r-square	1
+name	r-marble hill	2
+cardiac interval	r-r interval	1
+collets	r- eight 	1
+convention vacuum degassing process	r-h process	1
+countless wrestler	r-truth	1
+directedtoward preserving refrigerant	r- twenty-two 	1
+directedtoward preserving refrigerant	r- twelve 	1
+efficient refrigerant	r- twelve 	1
+entirely new vehicle	r-class	2
+exsiting indexing technique	r-tree	1
+famous amp model	r-fire	1
+hcfc-based refrigerant	r- twenty-two 	1
+HFC type refrigerant	r- one hundred and thirty-four a 	3
+high global warming refrigerant	r- twenty-two 	3
+high global warming refrigerant	r- one hundred and thirty-four a in car 	1
+high-pressure refrigerant	r- thirteen 	1
+high-pressure refrigerant	r- twenty-three 	1
+high-temperature refrigerant	r- twenty-two 	1
+high-temperature refrigerant	r- twelve 	1
+hydraulic-based instream flow method	r- two  cross 	1
+hydrochlorofluorocarbon compound	r- one hundred and twenty-three 	1
+hydrochlorofluorocarbon compound	r- twenty-two 	1
+hydrochlorofluorocarbon refrigerant	r- twenty-two 	2
+influential shooter	r-type	1
+INTRODUCTION multidimensional access method	r- tree	1
+name	r- eight 	1
+name	r- nine 	1
+long distance cruiser	r- nine b three  sleipnir 	1
+long distance cruiser	r- nine b strider 	1
+low boiling point material	r- one hundred and thirty-four 	1
+medium-range air-to-air missile	r- twenty-seven 	1
+medium-range air-to-air missile	r- seventy-seven 	1
+mid-card or lower superstar	r-truth	1
+mid-carders	r-truth	1
+non-hcfc refrigerant	r- one hundred and thirty-four a 	1
+pan india project	r-apdrp in the power sector	1
+phase-zero short circuit	r- zero 	1
+popular refrigerant	r- twenty-two 	1
+progressive regime	r-factor	1
+quantum method	r-matrix method	1
+quick-reaction point defense missile	r- seventy-seven 	1
+reader item	r- ten 	1
+refrigerant type	r- twelve 	1
+responsible republican	r-richland center	1
+R-value	r- thirty 	2
+R-value	r- thirty-six 	1
+series refrigerant gas	r- four hundred and ten a 	1
+single component refrigerant	r- one hundred and thirty-four a 	1
+smart nutrients	r-lipoic acid	1
+soviet communication system	r- one hundred and seventy-three 	1
+STAFF WRITER energy-efficient feature	r- fifty  ceiling insulation 	1
+standard refrigerant	r- twenty-two 	1
+standard refrigerant	r- one hundred and thirty-four a 	1
+star tribune energy-efficient feature	r- fifty  ceiling insulation 	1
+subway model	r- seventeen 	1
+subway model	r- twenty-one 	1
+traditional high-dimensional indexing tree	r- tree	1
+traditional shooter	r-type	1
+well-known multidimensional access method	r-tree	1
+2D shoot- em-ups	r-type	1
+A2A missile	r- twenty-seven t one 	1
+anti-oxidant compound	r-lipoic acid	1
+average PF	r-phase	1
+brand new GM compressor	r- four 	1
+british aviation activity	r- thirty-four 	1
+cattle-producer organization	r-calf usa	1
+CFC replacement product	r- one hundred and thirty-four a 	1
+chlorinated refrigerant	r- twenty-two 	1
+chlorofluorocarbon product	r- eleven 	1
+chloroflurocarbon compound	r- eleven 	1
+class II hydrochlorofluorocarbon refrigerant	r- twenty-two 	1
+classical spatial index	r-tree	1
+color difference signal	r-y	1
+congressional seat	r-solana beach	1
+conventional indexing method	r-tree	1
+conventional spatial indexing method	r-tree	1
+disk-cloning software	r-drive image	1
+eco-friendly refrigerant	r- four hundred and ten a 	1
+epa-accepted blend	r- twenty-two 	1
+flood lamp	r-type flood lamp	1
+fluorine-based refrigerant	r- one hundred and thirty-four a 	1
+happy later game	r-type	1
+HFC blend	r-  four hundred and seven c 	1
+hierarchical index	r-tree	1
+high density batts	r- twenty-one  wall batt 	1
+high temperature direct expansion refrigerant	r- one hundred and thirty-four a 	2
+high-dimensional indexing structure	r-tree	1
+Hydrochlorofluoro-carbons	r- twenty-two 	1
+hydrochlorofluorocarbons refrigerant	r- twenty-two 	1
+hydrofluorocarbon solvent	r-  one hundred and thirty-four a 	1
+hydrogen-substituted carbon refrigerant	r- twenty-two 	1
+hyrdochloroflo urocarbons	r- twenty-two 	1
+Hyrdochloroflourocarbons	r- twenty-two 	1
+ifa 2-dimensional index	r-tree	1
+imensional subspace-based method	r-d unitary esprit	1
+group	r-sh compound	1
+landmark jaguar	r-coupe shown at frankfurt a week after the centenary of founder sir william lyons birth	1
+lighter-duty spindle	r- eight 	1
+linear polymer precursor	r-alkoxyamine-terminated polystyrene	1
+low pressure refrigerant	r- eleven 	1
+low-density district	r- sixty 	1
+multi-dimensional access method	r-tree	1
+multi-dimensional index structure	r-tree	1
+Multi-dimensional Indexing A multi-dimensional index	r-tree	1
+multidimensional spatial access method	r- tree	1
+multi-dimensional subspace-based method	r-d unitary esprit	1
+multi-functioning antioxidant	r-lipoic acid	1
+non-chlorine-containing fluorocarbon	r- one hundred and thirty-four a 	1
+non-tgt enemy	r- one hundred and one 	1
+group	r-calf usa	1
+normal flushing material	r- eleven 	1
+nutriceutical supplement	r-lipoic acid	2
+object-based method	r-tree	1
+original chlorofluorocarbon refrig-erants	r- twelve 	1
+ozone-safe refrigerant	r-  four hundred and ten a 	1
+popular datum base manager	r-base  five thousand  	1
+prescriptive insulation standard	r- thirty  for attic insulation 	1
+rare earth metal-based permanent magnet	r-fe-b based permanent magnet	1
+r-dimensional subspace-based method	r-d unitary esprit	1
+recom's solution	r- seventy-eight  switching regulator 	1
+recon craft	r- nine e midnight eye 	1
+refinement statistic	r-factor	1
+refrigerant blend	r- four hundred and ten a 	1
+refrigerant compound	r- twelve 	1
+refrigerant substitute	r- four hundred and ten a 	1
+repartiitioning agent	r-alpha lipoic acid	1
+replacement refrigerant	r- four hundred and ten a 	1
+residential zoning district	r-  two f 	1
+retro-themed level	r-type level	1
+reverse transcript	r-u five  dna 	1
+R-values	r- eleven 	1
+method	r-wave identification	1
+method	r-tree indexing method	1
+shared region index	r-tree	1
+sirna form	r-	1
+sparse datum structure	r-tree	1
+spatial index method	r-tree	1
+spatial index structure	r-tree	1
+spatio-temporal indexing scheme	r-tree	1
+standard non-hodgkin lymphoma therapy	r-chop	1
+standard spatial access method	r-tree	1
+statistical testing criterion	r-square	1
+struc-turesinthenative space	r-tree	1
+syntactically valid alphabetic string	r-a-t-e-n-t from actual valid word	1
+tomorrow's HFC refrigerant	r- one hundred and thirty-four a 	1
+traditional spatial index	r-tree	1
+transmission quality rating	r-value	1
+tree datum structure	r- tree	1
+two-phase substance	r- one hundred and thirty-four a 	1
+UOP fixed-bed platforming catalyst	r- fifty-six 	1
+virgin CFC refrigerant	r- twelve 	3
+voltage division technique	r- two r ladder 	1
+year older refrigerant	r- twenty-two 	1
+zeotropic mixture	r- four hundred and ten a 	2
+project	r-apdrp in the power sector	1
+material	r- one hundred and thirty-four a 	2
+material	r- twelve 	1
+material	r-control panel	1
+place	r-rated movie	1
+technology	r- two thousand  	1
+term	r- twenty-two 	1
+term	r-value	1
+parameter	r-r interval sequence	1
+system	r- two thousand  	1
+measure	r-squared	2
+measure	r-factor improvement	1
+element	r-das	1
+brand	r- fifty  tdr two 	1
+concept	r-parity	1
+component	r-c timing component	1
+component	r-wave amplifier	1

@@ -1,0 +1,459 @@
+accessory	q two  hose clamp 	1
+accessory	q seven  performance accessory 	1
+accessory	q fourty-five  performance accessory 	1
+datum	q four  retail sale 	1
+facility	q center	1
+property	q value	1
+game	q three 	4
+game	q three a 	1
+ophthalmologist	q melgarejo	1
+product	q seven 	1
+character	q from star trek	1
+work	q three 	1
+model	q five 	5
+model	q five  hybrid quattro 	5
+model	q seven 	2
+model	q six 	2
+model	q fourty-five  standard 	1
+model	q two hundred 	1
+model	q thirty-five  standard 	1
+model	q thirty-five e deluxe 	1
+model	q fifty 	1
+model	q fourty-five 	1
+characteristic	q value	1
+word	q two id v five  keygen 	1
+product	q three hundred and sixty  for cleaning pool 	1
+alternative	q one  labs qradar 	1
+ingredient	q ten 	3
+agent	q fever	1
+feature	q one 	1
+development	q one 	1
+development	q two  technological development 	1
+celebrity	q parker	1
+disease	q fever	5
+disease	q fever infection	1
+consideration	q factor of the transducer	1
+indicator	q of the signal	1
+movie	q the winged serpent	1
+substance	q ten 	1
+purpose	q backtesting	1
+partner	q music	1
+big name	q one  labs 	1
+vendor	q shack	1
+vehicle	q seven 	3
+vehicle	q seven s 	1
+value	q between  four 	1
+designer	q carlsson	1
+award	q award	1
+article	q beam light	1
+magazine	q for examples of real media magazine advert	1
+asset	q thirty-seven  radar 	1
+asset	q thirty-six  radar 	1
+protein	q thirty-eight 	1
+machine	q twelve y series swing beam shear 	1
+point	q on the q curve	1
+quality	q two  blue tooth headset 	1
+language	q basic	1
+line	q twelve 	1
+line	q twenty-four 	1
+line	q eighteen  q nineteen  q twenty-nine  q thirty-three  q fourty-seven  q fourty-nine  q sixty-nine 	1
+producer	q tip	1
+car	q seven 	2
+statistic	q  two 	1
+offering	q seven 's third row seating 	1
+symbol	q for charge	1
+top brand	q logic	1
+top brand	q acoustics	1
+modification	q one thousand and sixty-seven r point mutation 	1
+space	q yes q no attic	1
+support service	q groups	1
+supplement	q ten 	1
+database	q pat	2
+forum	q & a program	1
+signal	q  one  of fig 	1
+signal	q one  of fig 	1
+prop	q series	1
+web site	q graduates	1
+infection	q fever	3
+command	q two 	1
+code	q six 	1
+developer	q entertainment	1
+number	q twenty-four thousand six hundred and eighty  for question id 	2
+number	q ratio	1
+race	q continuum	1
+invention	q three  technology 	1
+tenant	q lube	1
+pathogen	q fever	4
+art	q switch	1
+route	q fifty-three 	2
+route	q thirty-nine 	1
+route	q four  mayport station 	1
+local event	q one hundred and fifty 	1
+combination	q drench	1
+cue	q master	1
+donor	q two  search 	1
+performance measure	q two  score 	2
+output	q  one 	1
+output	q six 	1
+active ingredient	q ten  & vitamin e 	2
+physical parameter	q s of saturn	1
+microorganism	q twenty-five when pathogenic microorganism 	1
+radio station	q one hundred and four . three 	2
+radio station	q one hundred and two 	1
+radio station	q one hundred and seven 	1
+antioxidant	q ten 	1
+infectious disease	q fever	2
+syndrome	q fever in pregnancy	2
+multinational company	q mobile	1
+bar	q lounge	1
+tournament	q the western open	1
+subsystem	q u a l i t y r a t i o	1
+item	q tips	1
+item	q two  bistro 	1
+particular	q eighty-eight 	1
+technological development	q two  technological development 	1
+performance accessory	q fourty-five  performance accessory 	1
+performance accessory	q seven  performance accessory 	1
+online game	q three a 	1
+software product	q programmer	1
+educational material	q & a's	2
+plane	q four hundred 	3
+nutritional supplement	q ten 	1
+switch	q six 	1
+clinic	q fever	1
+residue	q twenty-eight 	1
+residue	q sixty-six 	1
+train	q one hundred and twelve 	1
+commercial project	q house	1
+startups	q one  labs inc 	1
+startups	q one  labs inc. 	1
+oil company	q eight 	1
+reading	q ratio	1
+hand	q j	2
+quality parameter	q value	1
+attendee	q parker	1
+optical property	q factor	1
+ratio	q of urgot	1
+letter	q for p in word	2
+biological agent	q fever	2
+volunteer activity	q uantum house	1
+active device	q two 	1
+verse	q  fifty-nine 	1
+factor	q wave	1
+building product	q grating safety flooring	1
+bus	q four 	1
+bus	q eighty-five 	1
+health product	q ten  for preventative care 	1
+natural extract	q ten 	1
+top celebrity	q from  one hundred and twelve 	1
+array	q twenty thousand   series 	1
+common resource	q drive	1
+query	q two 	2
+query	q seven 	1
+query	q sixteen 	1
+key part	q switch	1
+beneficial ingredient	q ten 	2
+transistor	q  one 	1
+transistor	q one 	1
+transistor	q twelve  of fig 	1
+qualitative research method	q sort	5
+topic	q one 	2
+topic	q three 	2
+bulk property	q ec value	1
+FPS game	q three 	1
+zoonotic disease	q fever	2
+qualitative approach	q methodology	1
+topic	q eight 	1
+topic	q six 	1
+topic	q six  andq eight 	1
+lineage	q lineage	1
+minor reaction	q paresthesias	1
+pathogenic microorganism	q twenty-five when pathogenic microorganism 	1
+simulation result	q factor	1
+good quality product	q eight 	1
+machine learning algorithm	q learning	1
+fabric company	q collection	1
+flow characteristic	q  fifty 	1
+inorganic fiber	q glass	1
+company	q collection	2
+guest appearance	q from  one hundred and twelve 	1
+power component	q two 	1
+flagship project	q one 	1
+zoonoses	q fever	2
+bus line	q twenty-eight 	1
+bus line	q sixteen 	1
+local gay paper	q salt lake gay	2
+grassroots effort	q & a's with talent	1
+beverage company	q tonic	1
+company	q flooring	1
+modeling agency	q models	1
+infectious illness	q fever	3
+interior designer	q collection	1
+water hazard	q meet pool	1
+classic arcade game	q bert	1
+pickle	q of the cucumber	1
+massive project	q bridge reconstruction	1
+company	q services	1
+company	q lawns	1
+company	q logic	1
+large capital project	q theatre	1
+serious infectious disease	q fever	1
+prestige project	q eight  oil 	1
+hangout	q bar	1
+loss mechanism	q mat	1
+emerging infectious disease	q fever	1
+qualitative methodology	q methodology	1
+access protocol	q signaling	1
+corporate material	q &a's	1
+high end vehicle	q seven 	1
+high end vehicle	q five 	1
+elementary function	q function	1
+long-term customer	q aviation	1
+high-end vehicle	q five 	2
+dielectric property	q value	1
+activity	q & a game	1
+power transistor	q  one 	1
+queue	q one  in fig 	1
+audi model	q seven 	1
+audi model	q five 	1
+quality tenant	q one  hair 	1
+component parameter	q factor	1
+polar residue	q twenty-nine 	1
+rickettsial disease	q fever	2
+shelf product	q four thousand  	2
+anatomical difference	q angle	1
+bus route	q four 	1
+bus route	q six 	1
+zoonotic infection	q fever	1
+biological weapon	q fever	1
+cytogenetic method	q banding	1
+live element	q & a call	1
+box set	q collection	1
+empirical approach	q system	1
+nightlife venue	q bar	1
+simple query	q two 	1
+simple query	q one 	1
+simple query	q three  andq ten 	1
+rare infection	q fever	2
+electropositive element	q seventeen  electropositive element 	1
+timeframes	q four 	1
+turboprop	q four hundred 	1
+countless publication	q vest	1
+driver parameter	q of driver	1
+event	q & a sessions accompanying screening	1
+best nightclub	q zurich	1
+program	q auction	1
+PLCs	q series	1
+static line	q power line	1
+tick-borne illness	q fever	2
+tree-lined street	q avenue	1
+automatic pool cleaner	q three hundred and sixty tm in-floor cleaning system 	1
+high-profile, multi-million dollar project	q one 	3
+MOSFETs	q one hundred and one 	1
+official structure	q stores	1
+program	q two  formalized program 	1
+program	q for quest	1
+propagation factor	q absorption	1
+quad core	q nine thousand five hundred and fifty 	1
+quad core	q eight thousand three hundred  with  four gb ddr  two  ram 	1
+quad core	q six thousand six hundred 	1
+sporadic event	q patient request	2
+Chronic sequelae	q fever endocarditis	1
+incapacitating agent	q fever caused by coxiella burnetii	1
+inspirational icon	q tip	1
+internet music provider	q trax	1
+program	q emulator	1
+RBF parameter	q c in the sensitivity analysis of creatinine kinetics	1
+biological disease	q fever	2
+complicated query	q three 	1
+complicated query	q two 	1
+factor	q of the oscillator	1
+natural cholesterol lowering supplement	q ten 	1
+premium luxury model	q seven 	2
+standard chip	q six thousand seven hundred 	1
+standard chip	q six thousand six hundred 	1
+arrival real estate condo project	q club	1
+characteristic NBD motif	q loop	3
+classic kitchen design element	q stone benchtops in pure white	1
+complex order	q sixteen h 	1
+gold coast location	q one 	1
+great, stylish phone	q fifty-five 	1
+invasive and vaccine preventable condition	q fever	1
+memorable episode	q episode	1
+portuguese and european research project	q three m 	1
+quad-core processor	q nine thousand four hundred 	1
+TP query	q seven 	1
+TP query	q two 	1
+TP query	q three 	1
+TP query	q eight 	1
+advanced firm	q japan	1
+technique	q mod	1
+technique	q fifteen  representation 	1
+CPU's	q six thousand six hundred 	1
+crash test dummy	q series dummy	1
+dual infection	q fever	1
+equalizer basic concept	q value	3
+intrinsic thermal oxide property	q bd	1
+legit, top tier agency	q model management	1
+leve l information	q factor	1
+macro information	q factor	1
+middle lower price range watch	q n q	1
+non-viral infection	q fever	2
+Occupational zoonoses	q fever	1
+PAZ residue	q  two hundred and seventy-six 	1
+phage sequence	q gene	2
+robust measure	q  three 	1
+sequential approach	q lodscore	1
+small format	q six 	1
+small query	q two 	1
+small query	q one 	1
+sydney's CBD pub	q bar	1
+uroflowmetric parameter	q max	1
+uroflowmetry uroflowmetric parameter	q max	1
+alphabetic sub-lists	q for quail	1
+bcl's single hit	q tak mau sendiri	1
+blueant device	q two 	1
+blueant device	q one 	1
+bulk equivalent parameter	q factor	1
+collectable set	q set	1
+cs5-compatible markzware release	q two id v five  for windows 	1
+cs5-compatible markzware release	q two id v five  for mac 	1
+name	q brand	1
+name	q twelve 	1
+great mixer	q tonic	1
+high end race fuel	q sixteen 	1
+inductor's characteristic	q factor	1
+ion guide	q zero 	1
+letter sound	q in afan oromo	1
+odd additional class	q for novae	1
+P-channel MOSFETs	q six 	1
+PING shaft	q fifty-one 	1
+case	q  nine 	1
+case	q  three 	1
+case	q fifteen 	1
+case	q  fourteen 	1
+case	q three 	1
+pre-party place	q bar	1
+prime hot rolled steel coil	q two hundred and thirty-five 	1
+QWERTY handset	q sixty-six 	1
+Reactivity testing	q test	1
+reserved pin	q thirty-seven 	1
+reward car	q seven 	1
+salsa venue	q bar	1
+security-conscious firm	q nine  networks 	1
+sentiment antiaging ingredient	q ten 	1
+series connected switching MOSFETs	q eight 	1
+SIEM	q one  labs 	2
+small headset	q one 	1
+spectral-tuning characteristic	q fourteen 	1
+stylish bar	q bar	1
+case	q nine 	1
+case	q fourteen 	1
+case	q  fifteen 	1
+tabular Reinforcement Learning algorithm	q learning	1
+tap offering	q falls	1
+TIFF catcher	q two  spooler 	1
+transistor pair	q nine 	1
+user interface parameter	q of the iir filter change	1
+12MB cache Penryn	q nine thousand five hundred and fifty 	1
+65nm quad	q six thousand six hundred 	1
+AQ learningprograms	q  fifteen c 	1
+area few query	q seven 	1
+bipolar junction transistor	q one 	1
+blueant headset	q one 	1
+chronic and severe infection	q fever endocarditis	1
+circumstance antioxidant	q ten 	1
+city bus line	q six 	1
+common emitter driver	q four 	2
+conroe quad	q six thousand six hundred 	1
+conventional value-based RL method	q learning	1
+crusty, out-dated competitor	q ninety-five 	1
+device OFF	q one 	1
+duration query	q two 	1
+element mean	q thirteen 	1
+fighter building ship	q tanker	1
+flip-flop pair	q nine 	1
+fluorosilicone gel	q three - six thousand six hundred and seventy-nine  dielectric gel 	1
+generation radar	q fourty-seven 	1
+good modern game	q three 	1
+good multiple diode laser system	q laser system	1
+good ultrasonic cleaning machine	q three hundred and sixty h quantrax ultra 	1
+great bangkok business	q bar	1
+heavily textured map	q three dm nine  used in the quaver benchmark 	1
+hosting club	q club	1
+HP provider	q card	1
+industries high traffic point	q four  for retail 	1
+Intel quad-core CPU	q six thousand six hundred 	1
+join-intensive query	q four 	1
+letter-number configuration	q zero 	1
+merit pay initiative	q comp	1
+MSV's	q four thousand  	1
+mulivariate result	q statistic	1
+narrowband parameter	q factors of microwave cavity	1
+path length	q comprising lines  ninety-one 	2
+penryn yorkfield quad core processor	q nine thousand four hundred and fifty 	1
+pointless letter	q in the middle row	1
+potential bioweapons	q fever	2
+quad core intels	q nine thousand five hundred and fifty   nine thousand four hundred 	1
+Quad-Core chip	q nine thousand four hundred 	1
+quad-core system	q six thousand six hundred 	1
+quick C rutitime library function	q sort	1
+qumran cave	q four 	1
+reliable processor	q six thousand six hundred 	1
+rock classification method	q system suggested by barton	1
+method	q a testing	1
+method	q system	1
+series vehicle	q five 	1
+silicon site	q four 	1
+similar-sized turboprop aircraft	q four hundred s used by qantaslink 	1
+slide-by-tuple window query	q three 	1
+statistical stream characteristic	q fifty 	1
+STORAGE chipsets	q thirty-five  express chipset 	1
+strong top pair	q sixty-five  with a flush draw with kq 	1
+suboptimal decoder implementation	q four . two  sum-product implementation 	1
+subscriber-based channel	q television network	1
+superwetting agent	q two - five thousand two hundred and eleven  from dow corning 	1
+today's racing specialty oil	q racing come in a variety of viscosity grade	1
+transcription anti-terminator protein	q protein in lambda phage	1
+TRIAC U1	q four hundred and eight l four  triac 	1
+tuple-based window query	q four 	1
+up-to-date beauty care product	q ten  sexy mild skin care & brown rice skin care 	1
+tool	q sort	2
+zero-cross point	q  one 	2
+tool	q methodology	1
+factor	q of the boost	1
+project	q one 	2
+artist	q corvette	1
+artist	q tip	1
+material	q  two hundred and thirty-five 	1
+player	q eight  petroleum 	1
+technology	q series thermal analysis instrument	1
+parameter	q max	3
+parameter	q value	3
+parameter	q three 	2
+parameter	q one 	2
+parameter	q  three 	1
+parameter	q  four 	1
+parameter	q factor of thesvs	1
+parameter	q factor	1
+parameter	q channel	1
+parameter	q  two 	1
+system	q u a n t i t y of gas	1
+condition	q fever	1
+element	q seventeen  electropositive element 	1
+element	q switch	1
+element	q three 	1
+product	q acoustics q-av home theatre system	1
+variable	q fourty-three 	1
+variable	q diverging	1
+variable	q four 	1
+device	q seven thousand seven hundred and fifty a zone manager 	1
+brand	q collection junior	1
+brand	q acoustics	1
+brand	q connect	1
+brand	q eight 	1
+brand	q mark	1
+brand	q lamb	1
+component	q two  transistor 	1
+component	q two 	1
+component	q one 	1

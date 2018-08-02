@@ -1,0 +1,674 @@
+datum	vhp male	1
+resource	vhf protocols	1
+resource	vhs tape	1
+source	vhs	6
+source	vh- one 	1
+source	vh one  classic 	1
+benefit	vhf	1
+subject	vhf	1
+product	vhs	1
+exception	vhf aircraft	1
+reason	vhd	1
+characteristic	vhr	1
+skill	vhf	2
+category	vhs	1
+institution	vhp of america	2
+client	vh one 	6
+client	vha	1
+client	vha inc. of irving	1
+client	vha inc.	1
+approach	vhf utilization	1
+alternative	vhda	1
+object	vhs tape	3
+object	vhs	1
+course	vhdl	1
+feature	vhs vcr	3
+feature	vhf radio	3
+band	vhf	2
+band	vhf air band	1
+part	vhoddlem guirim	1
+circumstance	vhfs	1
+feature	vh one  game feature 	1
+type	vhf	1
+firm	vhayu technologies	1
+firm	vhi	1
+instrument	vhfand a uhf radar	1
+website	vho	1
+equipment	vhs	1
+equipment	vhs video cassette recorder	1
+equipment	vhs player	1
+unit	vhs video	1
+mean	vhf transceiver	1
+format	vhs	32
+format	vhs tape	2
+format	vhdl	1
+format	vhd	1
+format	vhsc	1
+standard	vhdl	1
+standard	vhs	1
+show	vh one 's i love the  seventy s 	2
+show	vh one 's rock of love 	1
+show	vh one 's celebrity fit club 	1
+show	vh one  brittany spears documentary 	1
+show	vh one 's best week ever 	1
+effort	vhsic	1
+obstacle	vhf antenna	1
+provider	vha	1
+protein	vhl	2
+protein	vhs domain protein	1
+machine	vhs player	1
+corporation	vh one 	2
+language	vhdl	15
+language	vhdl-ams	2
+channel	vh one 	11
+channel	vh one  country 	1
+channel	vh one  focus on different types of race 	1
+channel	vh one  spike 	1
+channel	vhi	1
+channel	vhf	1
+series	vh series	1
+file	vhd	1
+platform	vhdl programming	1
+association	vhpa with  six thousand   member 	1
+network	vh one 	23
+station	vh- one 	1
+medium	vhs video	6
+medium	vhs	1
+medium	vhs tape	1
+stock	vhg	1
+large company	vh one 	1
+local organization	vhda	1
+gene	vhl	3
+keyword	vhs	1
+perk	vhf	1
+electronic device	vhs player	2
+electronic device	vhf marine radio	1
+electronic device	vhf radio	1
+command	vhdl use	2
+mediums	vhs tape	2
+TV show	vh one 's soup 	1
+TV show	vh one  diva's live 	1
+TV show	vh one 's the female rapper show 	1
+family	vh two 	1
+health issue	vhs virus in pacific sardine	1
+datum source	vha electronic datum	1
+reference	vhs recording	1
+qualification	vhf radio	1
+item	vhs tape	10
+item	vhs	5
+item	vhf radio	4
+item	vhf set	2
+item	vhs cassette	2
+item	vhs movies	2
+kind	vhs-c	1
+link	vhaln	1
+infrastructure	vhf repeater tower	1
+software program	vha	1
+large corporation	vh one  networks 	1
+communication	vhf radio	1
+version	vhs home video version	1
+basic function	vhdl entry	1
+basic function	vhdl-ams entry icon bar	1
+electronics	vhf	4
+electronics	vhf radio	2
+electronics	vhs player	1
+item	vhf	1
+item	vhs tapes of black cinema	1
+medium outlet	vh one 	1
+security measure	vhf radio	1
+latest technology	vhs resolution video	4
+communication system	vhf	1
+modern convenience	vhf radio for ranch-to-ranch communication	1
+video	vhs-c	1
+insurance company	vhi	1
+outfit	vhp	2
+syndrome	vhl	1
+federal agency	vha	1
+basic tool	vhf equipment	1
+everyday object	vhs tape	1
+clinical feature	vhl disease status	1
+item	vhs unit	1
+item	vhf radio gauges	1
+facet	vhs	2
+insurer	vhi	2
+listing	vhs movie	1
+federal program	vha	1
+disease state	vhd	1
+corporate client	vhi	2
+critical component	vhsic	1
+prognostic factor	vh mutational status	1
+communication device	vhf radio	2
+communication device	vhf	2
+custom feature	vhf radio	1
+small job	vhs to dvd	1
+supplemental material	vhss	1
+high profile client	vhi	1
+high profile client	vh one 's tool academy 	1
+high profile client	vh- one 	1
+broadcaster	vh one 	1
+traditional measure	vht	1
+cultural institution	vhs	1
+development tool	vhdl compiler	1
+bulb	vho	1
+medium company	vhf radios	1
+local celebrity	vh one 's erin newberg 	1
+safety item	vhf radio	1
+high profile event	vh one  sos haiti telethon before hitting store shelf 	1
+Supplemental information	vhf radio channel	2
+objective criterion	vha supply's customer	1
+medium player	vhs tape player	1
+rare item	vhs cassette	1
+transition	vhs to dvd	2
+video format	vhs	5
+video format	vhs tape	1
+frequency	vhf	6
+service	vhs to dvd transfer	3
+service	vhs to dvd conversion	3
+internet resource	vhs	1
+simple project	vhs to dvd transfer	1
+clinical characteristic	vhl status	1
+custom option	vhs	1
+tape	vhs movie	2
+tape	vhs	1
+tape	vhb brand produced by  three m 	1
+popular show	vh one 's glam god 	1
+terrorist organization	vhp	2
+medium format	vhs	1
+antennas	vhf antenna	1
+service	vhs to dvd	1
+mutation	vhl  five hundred and five t r c mutation 	1
+benign tumor	vhl tumors of the brain	2
+cultural organization	vhp	2
+heater	vh two 	1
+notation	vhdl for hardware design	1
+cultural icon	vhs cassette	2
+video source	vhs camcorder	1
+television network	vh one 	4
+cable channel	vh one 	4
+television station	vh one 	4
+television station	vh- one 	1
+cable network	vh one 	1
+television channel	vh- one 	1
+television channel	vh one 	1
+audio source	vhf comms	1
+common format	vhs	1
+international designer	vh- one  glamgod winner indashio 	1
+service	vhs	1
+business facility	vhs recorder	1
+great show	vh one  ultraviolet machine 	1
+design change	vhdl source code	1
+video service	vhs conversion to fully authored dvd s	1
+analog device	vhs	13
+analog device	vhs videotape	1
+reputed organization	vhai	1
+big client	vh one 	1
+scientific instrument	vhf tag	2
+topic	vhf	2
+library resource	vhs tape	1
+TV station	vh one 	2
+removable medium	vhs tape	1
+popular channel	vh one 	1
+communication standard	vhs	1
+disruptive technology	vhs	1
+game feature	vh one  game feature 	1
+reality TV show	vh one 's breaking bonaduce 	1
+analytic tool	vha pricelynx	1
+topic	vhf radio	1
+medium item	vhs video	1
+medium item	vhs tape	1
+medium item	vhs	1
+medium item	vhs cassette	1
+entertainment item	vhs a half-inch	1
+audio-visual material	vhs	1
+communication medium	vhs tape	1
+sophisticated equipment	vhf communications equipment	1
+safety gear	vhf radio	1
+oncogene	vhl	1
+description language	vhdl	1
+medium partner	vh one 	1
+cellular protein	vhl	1
+medium material	vhs tape	1
+free information	vhs tape	1
+high-level language	vhdl	1
+tumor suppressor gene	vhl	1
+video device	vhs recorder	3
+company	vh one 	3
+physical medium	vhs tape	1
+prognostic marker	vh gene status	2
+prognostic marker	vh gene mutation	1
+private insurer	vhi	1
+effective intervention	vhp program	2
+analog source	vhs	4
+analog source	vhs a half-inch	1
+analog source	vhs a good	1
+well-known case	vhs vs. beta technology	1
+modern communication tool	vhf	1
+audiovisual material	vhs tape	3
+music tv channel	vh one 	1
+popular package	vhdl	1
+company	vh group of companies	1
+television company	vh- one 	1
+separate section	vhf radio	1
+company	vha	1
+company	vhayu	1
+plastic packaging product	vhb tape	1
+high level language	vhdl	1
+capsule	vh essentials bv treatment	1
+front organization	vhp	1
+high-tech solution	vhf radio system	1
+video technology	vhs	1
+advertising client	vh one 	1
+computer-based tool	vhdl in the design	1
+magnetic medium	vhs	1
+hardware description language	vhdl	72
+hardware description language	vhdl-ams	2
+international channel	vh one 	3
+music channel	vh- one 	1
+music channel	vh one 	1
+music channel	vhi	1
+music channel	vh one  classics 	1
+musical organization	vh one  save the music foundation 	1
+non-book item	vhs tape	1
+objective evidence	vhf traffic recording	1
+featured game	vhs	1
+sister company	vh one 	1
+video component	vhs player	1
+analog format	vhs tape	2
+analog format	vhs videotape	2
+analog format	vhs	1
+medium venue	vhs	1
+cable station	vh one 	1
+corporate powerhouse	vh one 	1
+national television program	vh one 's rock & roll record breakers 	1
+hindu organization	vhp	4
+family support program	vhl family alliance	1
+red carpet event	vh one  divas 	1
+analog medium	vhs	1
+filipino artist	vhong navarro	1
+high-level programming language	vhdl	1
+modeling software	vhdl	1
+movie format	vhs	2
+information	vhf call sign	6
+cable television channel	vh one 	1
+mainstream show	vh one 's supergroup 	1
+project file	vhdl file	1
+tape format	vhs	1
+traditional communication	vhf	1
+annual show	vh- one  divas 	4
+copyright material	vhs movie	1
+marine electronics	vhf radios	1
+standard-setting organization	vha	1
+magnetic recording device	vhs	1
+national cable network	vh one 	1
+spiritual organization	vhp	1
+information	vhf channel information	1
+broadcast client	vh one 	1
+hindu group	vhp	1
+implementation technology	vhdl	1
+independent system	vhf radio	1
+navigational device	vhf radio	1
+buying group	vha inc.	1
+notifiable disease	vhs	2
+software method	vhdl	1
+information	vhf channel	1
+mega-companies	vh- one 	3
+SD channel	vh one 	1
+server setting	vhd	1
+tumor suppressor	vhl	1
+cable TV channel	vh one 	2
+english language channel	vh one 	4
+wideband signal	vhf	1
+audiovisual resource	vhs	1
+design language	vhdl	1
+kapamilya star	vhong navarro	1
+low current device	vhf charger	1
+event	vhf call	3
+premium movie channel	vh one 	1
+private health insurer	vhi	1
+radio navigation system	vhf omnidirectional ranging	1
+RF signal	vhf	1
+advanced scenario	vhd	1
+analog equipment	vhs	1
+analog equipment	vhs recorder	1
+cable series	vh one 's flavor of love 	3
+currently available system	vhs	1
+DSL technology	vhdsl	1
+legacy format	vhs	1
+music station	vh one 	2
+proper safety gear	vhf radio	1
+cable programmer	vh one 	1
+ground-based system	vhf omnidirectional radio range	1
+product standard	vhs standard for video cassette tape	1
+public health approach	vha's universal screening program	1
+analog video device	vhs deck	1
+analogue device	vhs player	4
+cancer syndrome	vhl	1
+entertainment network	vh one 	1
+headlight	vhr manufacture vintage automobile headlight	1
+technical instrument	vhf radio	2
+atari game	vhs	1
+basic channel	vh one 	1
+boat electronics	vhf radio	1
+classic channel	vh one 	1
+magnetic tape	vhs	3
+power amp	vht  two 	1
+premier medium outlet	vh one .com 	1
+renowned street artist	vhils	1
+RTL language	vhdl	1
+specialty network	vh one 	1
+access popular family network	vh one 	1
+analog video source	vhs	1
+backup communication system	vhf	1
+channel source	vhs	1
+composite video source	vhs	1
+Furuno electronics	vhf radio	1
+program	vhs	2
+program	vh- one 	1
+obsolete format	vhs	1
+quality source	vhs tape	1
+radio & TV show	vh one 	1
+television studio	vh- one 	1
+big gig	vh one  fashion awards 	1
+camcorder format	vhs	1
+distribution format	vhs	1
+modern capability	vhf & uhf	1
+news venue	vh one 	1
+program	vh one  rock docs 	1
+program	vh one 's famed save the music foundation 	1
+program	vh- seventy-one  presidential helicopter program 	1
+program	vhsic	1
+program	vh one  hip hop honors show 	1
+program	vha program	1
+program	vhw program	1
+adaptation technology	vhf radio	1
+allied group	vhp	1
+consumer-electronic product	vhs	1
+flat, rectilinear-packaged product	vhs tape	1
+fluorescent bulb	vho	3
+hardware design language	vhdl	9
+HDLs	vhdl	11
+modern electronic aid	vhs radio	1
+non-digital medium	vhs tape	2
+party network	vh one 	1
+recombinant antibody fragment	vhh fragment	1
+analog video format	vhs	2
+directshow filter	vh screen capture	1
+hindu extremist organization	vhp	1
+magnetic tape player	vhs player	1
+music television channel	vh one 	2
+radio application	vhf data radio utilized by commercial airliner	1
+rental condo	vhs	1
+organization	vhp	9
+organization	vhp america	4
+organization	vhp affiliated with the ruling bjp	3
+side piece house medium component	vhs player	1
+traditional delivery capability	vhs	1
+traditional storage method	vhs tape	2
+analog video	vhs	2
+anti muslim hindu terrorist group	vhp	1
+backup communication	vhf	1
+C. electronic instrument	vhf radio	1
+cable TV station	vh one 	1
+common camcorder format	vhs	1
+differnt source	vhs input	1
+organization	vhi's save the music foundation	1
+gatekeeper tumor suppressor gene	vhl in kidney	1
+generation IV reactor	vhtr	1
+HDL language	vhdl	4
+HDL language	vhsic	1
+hindu communal organization	vhp	1
+integrated health care system	vha	1
+intense lighting	vho	1
+kapamilya male performer	vhong navarro	1
+onboard electronics	vhf	1
+popular television network	vh one 	2
+organization	vha hospital organization	1
+rudimentary method	vhf radio	1
+standard technical equipment	vhs	1
+starship trooper video online game	vhs	1
+traditional physical medium	vhs	1
+analog camcorder	vhs-c	2
+analog videotape format	vhs	1
+audio datum digital format	vhs	1
+australian station	vh one 	1
+band television signal	vhf	1
+common tape format	vhs	1
+conventional tape cassette	vhs video cassette	1
+day specialist course	vhf radio	1
+digital broadcast signal	vhf	1
+technique	vhf technology	1
+hand-crafted porcelain good	vh figurine	1
+hardware language	vhdl andverilog	1
+hardware language	vhdl	1
+HDL	vhdl	6
+high-level design tool	vhdl	1
+hindu fascist right-wing group	vhp	1
+hindu terrorist group	vhp	1
+hyper-v virtual machine file	vhd file	2
+insightful program	vh one 's rockumentary series 	1
+key safety item	vhf radioes	1
+low frequency band	vhf	1
+magnetic recording	vhs	1
+mandatory training requirement	vha privacy policy training	2
+movie & film related item	vhs tape	1
+musical outlet	vh one 	1
+netlist format	vhdl	1
+application	vhs video	3
+obsolete mediums	vhs	1
+preamplifier	vhf stage shown in fig	1
+racist channel	vh one 	1
+radio space	vhf radio	1
+rechargeable electronic device	vhf portable radio	1
+regular garage-sale item	vhs player	1
+standard war	vhs	2
+standard-definition video source	vhs player	1
+unacceptable format	vhs	1
+ahardwarede-scription language	vhdl	1
+air traffic control product	vhf	1
+analog composite video	vhs	8
+analog tuner television device	vhs	1
+analog videotape	vhs	1
+analogue technology	vhs video	1
+analogue video source	vhs tape	1
+basic cable staple	vh one  on the list 	1
+behavioural hardware description language	vhdl	1
+better-known language	vhdl	1
+Bit-level hardware description language	vhdl	1
+cable operation	vh- one  bet 	1
+application	vhf radar	1
+cassette type	vhs-c	1
+classic techology battle	vhs	1
+classical hardware description language	vhdl	1
+clear paint	vht engine paint	1
+community health volunteer	vhsg member	1
+compact format	vhs-c	1
+complex, syntax-heavy design file format	vhdl	1
+consideration additional component	vhs	1
+consortium program	vhs	1
+conventional logic programming method	vhdl	1
+CRL substrate receptor	vhl of cul two  complex 	2
+department-level initiative	vha initiative	1
+Digital HDLs	vhdl	1
+downstream software processing tool	vhdl	1
+fabulous and famous konkani number	vhoda shez mojhe	1
+force identifiers	vh	1
+format war	vhs	1
+FPGA design language	vhdl	1
+hard wa redescription language	vhdl	1
+hardware description language simulation tool	vhdl	2
+hardware descriptive language	vhdl	1
+hardware development language	vhdl	1
+hardware simulation language	vhdl	1
+head commentary program	vh one 's best week ever 	2
+high-level hardware description language	vhdl	1
+high-level hardware-design language	vhdl	1
+high-level synthesis design language	vhdl	1
+hindu fundamentalist organization	vhp	1
+input stimulus format	vhsic hardware description language	2
+langu age	vhdl	1
+large healthcare system	vha	1
+longer-running video tape	vhs	1
+low lighting	vho	1
+lower-resolution source	vhs tape	1
+low-level hardware description language	vhdl	1
+mature cable network	vh one 	1
+medium transfer service	vhs-c	1
+mindless show	vh one 's flavor of love 	1
+modern hardware description language	vhdl	1
+modest mod	vh pipe	1
+music video centered channel	vh one  falling into the reality show loop 	1
+Nanobody	vhh	3
+non-coherent signal	vhs	1
+non-encrypted channel	vh one 	2
+obsolete medium format	vhs tape	1
+online educational institution	vhs	1
+popular design language	vhdl	1
+popular hardware description language	vhdl	1
+case	vhs	1
+radical religious extremist outfit	vhp	2
+right-wing hindu group	vhp	1
+sample porn site	vho.com	1
+silly show	vh one 's the life of the rich 	1
+standard hardware description language	vhdl	4
+standardized mixed-signal hardware description language	vhdl-ams	2
+case	vhs vs. beta in videocassette recorder	1
+television music channel	vh one 	1
+todierent programming language	vhdl	1
+traditional hardware description language	vhdl	4
+traditional radio frequency	vhf	1
+traditional recording device	vhs tape	1
+traditional video format	vhs	2
+trend-setting network	vh one 	1
+usinga hardware description language	vhdl	1
+VHS player	vhs camcorder	1
+video collection	vhs tape	1
+aircraft radio system	vhf navigation receiver	1
+amateur application	vhf repeater linking system	1
+ams-hardware description language	vhdl-ams	1
+analog file	vhs video	1
+analog video tape	vhs	1
+analogue source	vhs	1
+automobile headlight	vhr manufacture vintage automobile headlight	1
+option	vhs	1
+option	vhf mobile telephone	1
+option	vhf	1
+circuit description language	vhdl	3
+classic tumor suppressor	vhl	1
+commercial CAD tool	vhdl synthesis	1
+covert video equipment	vhs case camera	1
+cruise pack extra	vhf radio	1
+currently hardware description language	vhdl	1
+dangerous viral fish disease	vhs	1
+dark bold K-cups	vh eclipse	1
+datum driven system	vha	1
+digital-analog simulator	vhdl-ams	1
+group	vhp	6
+EDA standard	vhdl	1
+em material	vhs	1
+end analog format	vhs	1
+Explicit timing	vhdl after clause	1
+expressive modeling language	vhdl-ams	1
+extreme rightist fundamentalist group	vhp	1
+extremist hindu group	vhp	4
+extremist hindu organization	vhp	1
+GMDSS equipment	vhf dsc radio	1
+hardware definition language	vhdl	2
+hardware programming language	vhdl	2
+hardware-based language	vhdl	1
+hardware-description language	vhdl	2
+high level behavioural language	vhdl	1
+high-level construct language	vhdl	1
+high-level hardware des cription language	vhdl	1
+hindu radical organization	vhp	1
+home video system	vhs	1
+home VTR system	vhs	1
+inferior format	vhs tape	1
+instrument navigation checkpoint marking	vhf omni range	3
+INTRODUCTION text-based language	vhdl	1
+IP synthesis file	vhd	1
+large integrated health care system	vha	1
+legacy source component	vhs	1
+lens paint	vht nightshades	1
+linear video medium	vhs tape	2
+logic synthesis separate design tool	vhdl	1
+low-res source	vhs	1
+machine description language	vhdl	1
+medium conversion service	vhs to dvd	1
+medium transfer	vhs to dvd	2
+modern formal language	vhdl	1
+multihospital health care system	vha	1
+music video cable channel	vh- one 	1
+music-oriented cable network	vh one 	1
+non-broadcast video format	vhs	1
+non-digital storage format	vhs for the station's film	1
+non-proprietary hardware description language	vhdl	1
+non-standard video signal	vhs	1
+non-timecoded source	vhs	1
+obsolete video format	vhs	1
+path ora file extension	vhd	1
+payment health insurance company	vhi	1
+performed medium conversion	vhs to dvd	1
+pin electronics function	vhh	1
+precision frequency meter	vhdl source code	2
+pretty decent epoxy paint	vht	1
+purpose event driven logic simulator	vhdl system simulator from synopsis	1
+radio frequency datum communication channel	vhf	1
+rec-ognitionofsome cancer predisposition syndrome	vhl	1
+register transfer level language	vhdl	1
+registertransfer level language	vhdl	1
+register-transfer level language	vhdl	1
+regular HDL	vhdl	1
+RelatedWork Industrial HDLs	vhdl	1
+sangh organization	vhp	1
+shortest path	vhf into the nearest location with a working telephone	1
+show synopsis hardware description language	vhdl	1
+sister network	vh one 	1
+small gene	vhl	1
+standard definition material	vhs recording	2
+standard video connection	vhs vcr	1
+standardized HDLs	vhdl	1
+tape recording	vhs	1
+traction product	vht trackbite	1
+TV recording device	vhs recorder	1
+typical hardware description language	vhdl	3
+typically hardware description language	vhdl	4
+Tyrosine phsphatases	vhr	1
+unloved medium format	vhs	1
+tool	vhd mounter	2
+tool	vhdl	2
+tool	vha pricelynx	1
+tool	vhdl simulator	1
+video source material	vhs tape	1
+video splitting driver	vh multi camera studio	1
+video tape format	vhs	1
+video transfer project	vhs to dvd	1
+VM file type	vhd	1
+Whereasa hierarchical organization	vha	1
+tool	vhdl-ams	1
+project	vh one 's daisy of love 	1
+material	vhs screener cassette	2
+material	vhs video	1
+material	vhs tape	1
+material	vhs	1
+material	vhs ribbon	1
+technology	vhdl	2
+technology	vhs	2
+technology	vhsep membrane system	1
+product	vhs case	2
+technology	vhs tape	1
+technology	vhsic technology	1
+technology	vhs cassette	1
+term	vhf	2
+system	vhs	1
+system	vhf data link	1
+product	vhs player	1
+product	vhf wideband antennas	1
+device	vhs player	2
+device	vhs	2
+brand	vh one 	4
+brand	vha	1
+brand	vh sauces	1
+concept	vhdl modeling	1
+component	vhs player	1
+site	vho zundel	1
+task	vhanging diaper	1

@@ -1,0 +1,1485 @@
+resource	zhuang medicine resource	1
+facility	zhengzhou international conference	2
+process	zhejiang circulating fluidized bed process	2
+product	zhen de shou	1
+product	zhongshan suit related product	1
+product	zhujiang light treasure qingshenjianfei film	1
+exception	zhukov	1
+character	zhang fei	2
+character	zhukov	1
+character	zhou dien	1
+character	zhong ping	1
+character	zhang jun	1
+character	zhou cang	1
+work	zhou classic	2
+work	zhao liang's petition '', wang libo's burial '' on the tangshan earthquake	1
+work	zhang taiyan's on establishing religion''	1
+work	zhu yingtai	1
+work	zhu shijie's jade mirror of the four unk nowns	1
+work	zhang qian	1
+work	zhang xiao mei	1
+word	zhena	1
+attraction	zhou memorial pavilion	1
+attraction	zhongshan mausoleum	1
+attraction	zhong shan park	1
+attraction	zhongshan park	1
+attraction	zhaojun tomb	1
+attraction	zhuhai's signature attraction	1
+institution	zhonghua secondary school	1
+institution	zhongshan university	1
+client	zhejiang zhongli project co.	1
+author	zhang	4
+author	zhou	1
+author	zhu	1
+author	zhang et al	1
+author	zhang jingyue	1
+author	zhao tingyang	1
+author	zhao xi	1
+author	zhdanov e.g.	1
+author	zhang jie	1
+author	zhang er	1
+author	zhang et al.	1
+product	zhengzhou watermelon	1
+form	zhan zhuang	1
+form	zhongwen	1
+person	zhang lingsheng	1
+person	zhuo yang	1
+person	zhou fang	1
+person	zhu	1
+approach	zhouand kang	1
+idea	zhu ran	1
+course	zhong yuan qigong practice	1
+location	zhengzhou in the medical sector	2
+writer	zhou zuoren	2
+writer	zheng wenguang	1
+writer	zhu wen	1
+writer	zhang ailing	1
+writer	zhang jie	1
+solution	zhou et als key management system	1
+book	zhuan falun	4
+book	zhang jing-yue's awesome jing yue quan shu	1
+star	zhang jingchu	1
+star	zhang zhongwen	1
+star	zhu zheqin	1
+film	zhang nuanxin's famous sacrificed youth	1
+film	zhivago	1
+field	zhuge liang in the lung	1
+part	zhuo yong fu section	1
+school	zhonghua primary school	5
+school	zhonghua secondary school	5
+school	zheng hua secondary	1
+school	zhongshan university	1
+title	zhang xinxin's lesser known orchid madness	1
+title	zhivago	1
+ingredient	zhi	1
+scholar	zhang shuguang	2
+scholar	zhang	2
+scholar	zhang baoxi	1
+scholar	zhang wenmu of china's institute of contemporary international relations	1
+scholar	zhaomengzhao	1
+scholar	zheng et al.	1
+scholar	zhuang tingfu	1
+scholar	zhong-yan fan	1
+scholar	zhou wangsheng	1
+scholar	zhu guang-qian	1
+scholar	zheng shexun	1
+scholar	zhou chun	1
+scholar	zhang wenmu	1
+scholar	zhu suli	1
+scholar	zhu xueqin	1
+city	zhuhai	18
+city	zhengzhou	14
+city	zhongshan	7
+city	zhangjiagang	3
+city	zhenjiang	2
+city	zhijiang	1
+city	zhaoqing	1
+city	zhuzhou	1
+city	zhou tong li zhuang	1
+city	zhejiang's larger city	1
+city	zhouzhuang	1
+city	zhoushan	1
+city	zhangtai in fujian province	1
+city	zhengzhou in henan province	1
+city	zhenjiang in jiangsu	1
+city	zhengzhou in china's	1
+celebrity	zhang ziyi	3
+celebrity	zhang yuqi	3
+celebrity	zhou xun	1
+celebrity	zhang zi yi	1
+celebrity	zhao wei	1
+celebrity	zhu kezhen	1
+celebrity	zhou xuan	1
+drug	zhejiang fritillaria	1
+drug	zhi kuan dong hua	1
+favorite	zhang yibo	1
+favorite	zhujiajiao	1
+favorite	zhao yun	1
+manufacturer	zhongshan jungang electronic co.	2
+manufacturer	zhuhai shengmei electronic	1
+manufacturer	zhongxing automobile co.	1
+instrument	zhonghu	1
+instrument	zhongyuan	1
+instrument	zheng	1
+man	zhong xing	2
+man	zhao yun	1
+man	zhang fei	1
+publication	zhejiang province	1
+study	zhang	4
+study	zhu	2
+study	zhang et al.	2
+study	zhou et al.	1
+study	zhou & ruland	1
+position	zheng gui ren benefactor star	1
+position	zheng cai wealth star	1
+figure	zhang shanlei	2
+figure	zhuangzi	1
+figure	zhu xi	1
+figure	zhang jian	1
+figure	zhanibek batyr	1
+leader	zhou enlai	8
+leader	zhang dejiang	2
+leader	zhang boli	1
+leader	zhu-di yu	1
+leader	zhu kaixuan	1
+leader	zhang lianzhen	1
+leader	zhang chunqiao	1
+musician	zhongxi wu	1
+movie	zhang yimou's hero	1
+substance	zhen zhu	3
+substance	zhi shi	1
+entity	zhujiang piano	1
+building	zhuojin building	1
+style	zhaobao tai chi	1
+style	zhejiang province	1
+expert	zhu quan	4
+expert	zhao huasheng	1
+researcher	zhang	4
+researcher	zhang et al.	2
+researcher	zhou	2
+researcher	zhong et al	1
+researcher	zhan	1
+researcher	zhu	1
+researcher	zhaohuo cheng	1
+region	zhejiang	8
+region	zhaoqing	1
+region	zhejiang provinces in east china	1
+region	zhe jiang	1
+variety	zhu persimmon	1
+variety	zhongyouza no. one 	1
+Organisations	zhejiang hongchen irrigation equipment co.	1
+partner	zhenyuan group	1
+animal	zhu grooming	2
+animal	zhu zhu grooming	1
+big name	zhang yaqin	2
+big name	zhou chunya	1
+big name	zhang zhizhong	1
+big name	zheng jie	1
+big name	zhao baogang	1
+big name	zhuge liang	1
+classic	zhuangzi	1
+role	zhuge liang	1
+critic	zhu zi-qing	1
+market	zhejiang	1
+actor	zhang ziyi	2
+designer	zhang da	2
+designer	zhang da-li	1
+designer	zhou peng	1
+award	zhejiang provincial recommended product	2
+article	zhou lishang's interview of li lian about the yang style applications form	1
+student	zhao wei	1
+student	zhao shiguang	1
+woman	zhang tun	1
+exercise	zhan zhuang	1
+destination	zhuhai	1
+party	zhang zhong-jing soup	1
+district	zhari	4
+district	zhemgang	1
+corporation	zhongxing telecom	1
+journal	zhong guo gong ye jin li yan jiu	1
+journal	zhong guo gong ye jin li yanjiu	1
+variation	zhu ge nu	1
+local tourist attraction	zhenhai tower	2
+local tourist attraction	zhabei	1
+local tourist attraction	zhan qiao	1
+local tourist attraction	zhongnanhai	1
+language	zhuang	4
+language	zhou's native tongue	2
+herb	zhi ke	5
+herb	zhi zi	5
+herb	zhi mu	2
+herb	zhishi	2
+herb	zhonglou	1
+herb	zhu ru	1
+herb	zhe chong	1
+herb	zhi mu rhizoma anemarrhenae asphodeloidis	1
+package	zhp	1
+producer	zhongshan ren hing paper	1
+producer	zhongshun paper	1
+producer	zhang shankun	1
+producer	zhangjiangang posco stainless steel	1
+channel	zhujiang	1
+hotel	zhengyang ge hotel	1
+hotel	zhonghui wenhua hotel	1
+hotel	zhaolong hotel	1
+luminary	zhang xing shen	1
+algorithm	zhu-takaoka	2
+algorithm	zhang-shasha algorithm	1
+medicine	zhuang yao dan jianshen pills	1
+university	zhejiang university	5
+university	zhongshan university	1
+friend	zhang guo li	1
+friend	zhixin chen	1
+text	zhuangzi	5
+tourist attraction	zhouzhuang	1
+tourist attraction	zhaozhou bridge	1
+tourist attraction	zhijin cave	1
+supplier	zhejiang zhongda group linova co.	1
+supplier	zhejiang yueli electrical co.	1
+composer	zhou long	4
+key issue	zhada land use designation	1
+scientist	zhu et al.	1
+sight	zhuhai square	2
+sight	zhongyi hall	1
+station	zhongshan	2
+singer	zhou bichang	1
+singer	zhao shu-hai	1
+teacher	zhang guangyu	1
+teacher	zhou linyan	1
+toy	zhu zhu pet	1
+toy	zhu zhu hamster	1
+toy	zhu zhu accessory toy	1
+authority	zhao jiaxiang	1
+theorist	zhao & frank	1
+large company	zhuang ji	1
+paper	zhao kuo	1
+park	zhongshan park	1
+park	zhangjiagang park	1
+modalities	zheng gu tui na	2
+director	zhang yimou	4
+director	zhang meng's the piano in a factory''	1
+director	zhang yang	1
+talent	zhang shankun	1
+talent	zhuge liang	1
+talent	zhou yu	1
+politician	zhang wentian	1
+politician	zhang bojun	1
+time	zhengde era	1
+breed	zhoushan	1
+poet	zhai yongming	1
+poet	zhong ming	1
+industry leader	zhongde group	1
+commentator	zhao qi	1
+road	zhongshan road	1
+county	zhongxian	1
+maker	zhejiang xiongtai vehicle co.	1
+enterprise	zhongheyize industry co	2
+enterprise	zhejiang maximal	1
+enterprise	zhejiang shengbo electronic co.	1
+enterprise	zhong kai electronic co.	1
+river	zhujiang river	2
+river	zhob	1
+river	zhoushui river	1
+center	zhengzhou	2
+spot	zhejiang ancient ceramic collection hall	1
+methodology	zhr	1
+newspaper	zhongguo luyou	1
+thinker	zhuangzi	2
+thinker	zhou hao	1
+thinker	zhu xi	1
+thinker	zheng bijan	1
+household name	zhuge liang	1
+photographer	zhang xiao	1
+pioneer	zhou zuoren	1
+candidate	zhou xun	1
+analyst	zhang at guotai junan	3
+key player	zheng zhi	1
+key player	zhu fangyu	1
+worker	zhang shanguang	1
+notable exception	zhao	1
+face	zhou ying	1
+face	zhang zhen huan	1
+street	zhongshan lane	1
+master	zhou ganzhi	2
+heroes	zhao yun	2
+heroes	zhang fei	2
+reference	zhu	1
+entertainer	zhang ziyi	1
+item	zhonya's hourglass	2
+port	zhanjiang	1
+port	zhangjiagang	1
+opponent	zhao bandi	1
+staff	zhu-ko liang	1
+staff	zhou yu	1
+analysis	zhu	1
+historical site	zhenwu hall	1
+famous artist	zheng xulan	1
+ethnic group	zhuang	7
+youngster	zhu lin	1
+famous brand	zhuojue	1
+famous brand	zhang sheng's	1
+practitioner	zhang lianan	1
+historical figure	zhuxi	1
+historical figure	zheng zhenduo	1
+local artist	zhang zhaohui	2
+local artist	zhang zhaohai	1
+province	zhejiang	35
+province	zhili	1
+historic site	zhaoyin temple	1
+activist	zhang mintian	3
+large city	zhuhai	1
+large city	zhengzhou city in henan province	1
+heavyweight	zhang wei	1
+artiste	zhang yaodong	2
+popular attraction	zhonglou	1
+actress	zhang yuqi	1
+actress	zhang ziyi	1
+educational institution	zhengzhou university	1
+educational institution	zhenghua secondary	1
+officer	zhao yun	1
+officer	zhu zhi	1
+officer	zhang fei	1
+officer	zhou yu	1
+well-known name	zhang huan	1
+winner	zhang jie	1
+locality	zhengzhou	1
+filmmaker	zhang yimou	3
+well-known company	zhengzhou sanquan	1
+doctor	zhang zhongjing	2
+academic	zhang huixin	1
+view	zhen simple good girl cheap canada goose chilliwack parka	1
+contemporary artist	zhang huan	1
+big brand	zhejiang hisun	1
+democrat	zhang bojun	1
+journalist	zheng yichun	1
+dignitary	zhou enlai	1
+government	zhuhai environment protection bureau	1
+entrepreneur	zhu at webex	1
+entrepreneur	zhao weiguo	1
+advocate	zheng yu	1
+advocate	zhu sheng	1
+child	zhang ting	1
+top name	zhang chenglong	1
+industry giant	zhejiang jianglong	1
+industry giant	zhejiang jinwu	1
+big city	zhengzhou	1
+big city	zhuhai	1
+item	zhu-rong v four hundred and eighteen  chinese pistol 	1
+item	zhu zhu pet	1
+item	zhonya's for ap	1
+item	zha-jiang noodle	1
+TV series	zhivago	2
+interesting place	zhang jia jie	1
+comedy	zhara	2
+intellectual	zhang weiying	1
+intellectual	zhang dongsun	1
+intellectual	zhang junmai	1
+intellectual	zhou dou	1
+intellectual	zhu zi-qing	1
+professor	zhang yalun	1
+professor	zhao jiawen	1
+minister	zhang tang	1
+dealer	zhouping guo	1
+voice	zhao bandi	1
+executive	zhu fushou	2
+minority	zhuang	6
+musical instrument	zheng	2
+musical instrument	zhonghu	1
+subsidiary	zhengzhou brand factory	1
+drama	zhao family orphan	2
+coastal region	zhejiang	2
+coastal region	zhejiang province	1
+local product	zhang's painted clay figurines	1
+local government	zhejiang province	2
+local government	zhengzhou	2
+area	zhejiang	12
+area	zhejiang province	5
+reformer	zhao ziyang	2
+reformer	zhu xi	1
+reformer	zhou xiaochuan	1
+formula	zhi bai di huang wan	1
+formula	zhi shi li zhong tang	1
+coastal area	zhejiang	6
+coastal area	zhejiang province in coastal areas of mainland china	1
+factory	zhoushan industrial co	1
+audience	zhu xiaoyu	1
+minority group	zhuang	2
+denomination	zhong gong	1
+popular area	zhongguancun area	1
+case study	zhou's detailed study of chinatown inn ew y orkcity	1
+lawyer	zheng enchong	1
+industry player	zhengzhou coal mining machinery group co.	1
+political figure	zhang lan	2
+popular title	zhang ping's choice	1
+movie star	zhang ziyi	3
+investigator	zhu et al.	1
+investigator	zhang	1
+area	zhongshan city of canton	1
+area	zhou wg	1
+area	zhuozi	1
+area	zhari dasht	1
+area	zhejiang yuyao	1
+area	zhang nie	1
+area	zhenjiang city in jiangsu province	1
+area	zhongguancun science park	1
+young star	zhou yan toi for the dipai	1
+young star	zhao fu india	1
+young star	zhang chao	1
+fashion designer	zhang da	1
+custom	zhanjing customs	1
+scenic spot	zhu de's stele pavilion	2
+scenic spot	zhongnan mountain	1
+scenic spot	zhuozhou movie city for cctv	1
+scenic spot	zhizi cave	1
+scenic spot	zhujiajiao town	1
+local school	zhonghua primary school	1
+sect	zhang xueliang's northeastern army	1
+hub	zhejiang	1
+predecessor	zhou chuanying	1
+ruler	zhang zhidong	1
+farm	zhong shan farm in hammonton	1
+peak	zhuoaoyou peak	2
+prominent artist	zhang guangyu	1
+exotic material	zhongmai  one 	2
+area	zhejiang sub-province of ningbo	1
+popular tourist attraction	zhong shan road	1
+top star	zhou xuan	1
+blockbuster	zhang yimou's the flowers of war''	1
+historical building	zhi-shi building	1
+metal product	zhengzhou new asia	1
+nationality	zhuang	4
+popular place	zhonglian square	2
+branded product	zhu zhu hamster	1
+relic	zhao kingdom city site of the warring period	1
+key project	zhongneng polysilicon	1
+established name	zhang huan	1
+established name	zhan wang	1
+famous writer	zhou zuoren	1
+radical	zhang bojun	1
+chinese company	zhongyuan engineering group	2
+chinese company	zhengzhou nissan corp	1
+chinese company	zhao yang	1
+chinese company	zhejiang	1
+ethnic minority	zhuang	7
+general	zhao yun	1
+general	zhang xutuo	1
+general	zhu de	1
+local act	zhi wang	1
+shopping area	zhongshan road	1
+mill	zhaodongfang paper	1
+famous figure	zhou enlai	1
+geographic area	zhejiang	1
+beautiful place	zhangye	1
+local leader	zhao ziyang	1
+building block	zhengs patch	2
+production company	zhejiang yongning pharmaceutical	1
+single	zhing zhong	1
+famous star	zhang ziyi	1
+legendary player	zhu chen	1
+stereotype	zhid	2
+empirical study	zhang	3
+empirical study	zhu	2
+nominee	zhou xun	1
+adviser	zhou yu	1
+community college	zhongzheng community college	3
+modern artist	zhang daqian	1
+developed area	zhejiang province	3
+developed area	zhejiang	1
+interesting character	zhou yu	1
+mathematician	zhang heng	1
+local retailer	zhengzhou hualian department store	1
+commander	zhou yu	1
+commander	zhukov	1
+percussion instrument	zhong	1
+neighboring city	zhuhai	3
+great thinker	zhu xi	1
+established star	zheng zhi	1
+dynasty	zhou dynasty	2
+dynasty	zhou	1
+supermarket chain	zhong bai group	1
+good school	zhonghua secondary school	6
+good school	zhongua secondary school	1
+monastery	zhihua monastery in beijing	1
+national leader	zhu rongji	2
+recognizable name	zhang xiaogang	1
+well-known writer	zhoulibo	1
+classic film	zhang yimou's career-launching red sorghum	1
+follower	zhuang zi	1
+world champion	zhu ling	1
+commercial area	zhao nan dai	1
+day activity	zhineng qigong	2
+popular movie	zhang yimou's hero''	1
+young artist	zhang guangyu	2
+historical character	zhu di	1
+historical character	zhu yunwen	1
+senior leader	zhu rongji	1
+moderate	zhao out of favor	1
+crowd favorite	zhm by mustard pimp	1
+well-known technique	zhang-suen thinning algorithm	1
+local festival	zhenfeng june  six th song festival 	1
+party leader	zhu de	2
+disciple	zhang lianan	1
+companys	zhongshan fulin garment coporation	1
+magician	zhao yuying	1
+military leader	zhukov	1
+dissident	zhang jin	1
+heritage site	zhongkhar dzong	1
+industrial city	zhuhai	1
+industrial city	zhongshan	1
+local expert	zheng chunmiao	1
+cartoonist	zhang guangyu	1
+cartoonist	zhang ding	1
+starlet	zhang yaokun	1
+gate	zhengyangmen	1
+rite	zhaojun house	1
+famous scientist	zhao yuanren	1
+nurse	zhanna	1
+revolutionary	zhang binglin	1
+revolutionary	zhang taiyan	1
+billionaire	zhejiang private entrepreneur	1
+great scholar	zhu xi	1
+great scholar	zhang zai	1
+hit film	zhang yimou's hero	1
+elite school	zhonghua secondary school	4
+elite school	zhonghua secondary	1
+plot	zhou yu	1
+female	zhu rong	1
+female	zhen ji	1
+authentic dish	zha-jiang mien	1
+corporate leader	zhong yuwei	1
+leading figure	zhu de	1
+TV station	zhejiang tv station	1
+reputable school	zhonghua secondary school	3
+reputable school	zhonghua primary school	1
+domestic brand	zhejiang province-based nice	1
+industrial project	zhongshi zhongke laser display	1
+international	zheng xiaojun	1
+international	zhang yuanyuan	1
+country star	zhou xun	1
+famous athlete	zhou jiawei	1
+mountain area	zhangjiajie	1
+ethnic minority group	zhuang	1
+famous scholar	zhou beiyuan	1
+famous scholar	zhou shujia	1
+famous scholar	zhu kezhen	1
+young actor	zhang jun	1
+ancient building	zhenwu palace	1
+harbor	zhongshan port	1
+international city	zhuhai	1
+modern building	zhongxin plaza	1
+medium-sized city	zhongshan	1
+medium-sized city	zhuhai	1
+pipeline	zhong-wu pipeline	1
+apple variety	zhu guang	1
+large operation	zhuhai shengmei electronic co.	1
+local manufacturer	zhiguang electric co.	1
+key customer	zhejiang geely automobile	1
+famous temple	zhongyue temple	1
+railway	zhiliu railway	1
+noodle	zhajiang mian	2
+beautiful park	zhongshan park	1
+civilisation	zhodani consulate	1
+female star	zhang ziyi	1
+talented actor	zhang ziyi of crouching tiger fame	1
+developed region	zhejiang	2
+minority language	zhuang	1
+sightseeing spot	zhazang monastery	1
+government leader	zhu chen	1
+scenic attraction	zhanshan temple	1
+scenic attraction	zhongshan park	1
+classmate	zhao sui gen	1
+famous leader	zhou enlai	1
+popular sight	zhongsan park	1
+powerful group	zhentarim	2
+strategic area	zhejiang	1
+renowned director	zhang yimou	20
+cultural relic	zhezhuangba research office for hezang memorial hall fight relic	1
+cultural relic	zhezhuangba fight relic	1
+cultural relic	zhezhuangba culture industry fight relic	1
+cultural relic	zhenwu pavilion	1
+cultural relic	zhezhuangba history of chinese  seventy-three  the long march of the  three hundred  culture industry fight relic 	1
+famous director	zhang yimou	4
+state leader	zhu rongji	1
+state leader	zhou enlai	1
+renowned scholar	zhou de-wei	1
+renowned scholar	zhou yutong	1
+established school	zhonghua secondary school	1
+subcomponents	zhujiaxin channel	1
+beauty spot	zhujiazhuang	1
+famous historical figure	zhou dunyi	1
+contemporary thinker	zhang taiyan	1
+minority ethnic group	zhuang	1
+traditional festival	zhong yuan jie	1
+quarry	zhangpu rust stone quarry	2
+southern region	zhejiang	1
+communist leader	zhou enlai	2
+distinguished scholar	zhang xingang	1
+distinguished scholar	zhang shenfu	1
+monk	zhu shixing in the three kingdoms	1
+renowned writer	zhou rui	1
+chinese scholar	zhao jinfu	2
+chinese scholar	zhao fusan	1
+chinese scholar	zhang dai-nian	1
+chinese scholar	zhang changren	1
+chinese scholar	zhang liwen	1
+chinese scholar	zhang fengan	1
+chinese scholar	zhao chun-guang	1
+chinese scholar	zhu h	1
+chinese scholar	zhu liqun	1
+chinese scholar	zhang yongyan	1
+scenery	zhangjiajie	1
+chinese city	zhuhai	1
+chinese city	zhengzhou in china's	1
+chinese city	zhongshan in southern guangdong	1
+warlord	zhang xun	1
+company	zhejiang yongnong	3
+company	zhengzhou baiwen co.	2
+well-known scholar	zhou zuoren	1
+chinese manufacturer	zhejiang giant	1
+famous actress	zhang ziyi	1
+local artiste	zhang zheng huan	1
+parametric model	zhang et al.	1
+gymnast	zheng li	1
+performance artist	zhuang huan	2
+performance artist	zhang huan	2
+strategist	zhuge liang	1
+traditional brand	zhou taisheng	1
+well-known university	zhejiang university	1
+well-known university	zhejiang construction institute	1
+chinese artist	zhang huan	2
+chinese artist	zhang xiaogang	1
+folk instrument	zhuiqin	1
+southern province	zhejiang	1
+expressway	zhapu-jiaxing-suzhou expressway	1
+expressway	zhapu-jaxing-suzhou expressway	1
+great painter	zhang xuan	1
+lord	zhang xiu	1
+lord	zhang lu	1
+precinct	zhong jie	1
+senior minister	zhuge zhan	1
+aromatic ingredient	zhang nao	1
+company	zhongshan xiaoya air conditioners ltd	1
+company	zhuhai weichuang	1
+company	zhongxing	1
+company	zhoushan alpha	1
+company	zhongguancun youku	1
+company	zhone technologies	1
+famous university	zhejiang university	2
+overseas company	zhuhai cellulose fibers co ltd	1
+revolutionary leader	zhou enlai	1
+traditional specialty	zhuyeqing wine	1
+chinese enterprise	zhong ke san huan	1
+neighbouring town	zhouzhuang	1
+rich area	zhejiang	1
+chinese leader	zhou enlai	7
+chinese leader	zhu rongji	7
+chinese leader	zhang shenfu	1
+chinese leader	zhao shiyan	1
+elite university	zhejiang university	1
+villager	zhang guohua	1
+large shopping mall	zhenhua apartment store	1
+train station	zhongxiao xinsheng mrt station	1
+famous product	zheng tan wan pill	1
+famous product	zhuang gu guan jie wan pill	1
+well-known classic	zhuangzi	2
+chinese automaker	zhongxing automobile from hebei province	3
+honorable title	zhejiang province	1
+political analyst	zhao gancheng of the shanghai institute of international studies	1
+indian food	zha pa ti	1
+outlying district	zhari	1
+youth	zhang xianliang	3
+iconic star	zhang ziyi	1
+young performer	zhi f	1
+academician	zhu zuoyan	2
+calibration method	zhang's multi-plane method	1
+hilly area	zhenjiang province	1
+well-known director	zhang yimou	1
+gold stock	zhaojin mining	1
+influential person	zhu yi of the shangwu	1
+popular gift	zhu zhu pet	2
+wonderful sight	zhiben hot spring	1
+coastal province	zhejiang	12
+grandmasters	zhang zhong shan	1
+NPC	zhang bao	1
+thespian	zhu yawen	1
+thespian	zhao liang	1
+common surname	zhou	1
+common surname	zhang	1
+defensive item	zhonya's hourglass	1
+famous movie star	zhang ziyi	1
+language program	zhao benshan's skit	1
+economic zone	zhuhai national hi-tech industrial development district	1
+mountain village	zhu qi	1
+tourism area	zhuangshan lake	1
+developed province	zhejiang	4
+nuclear protein	zhx one 	2
+talented man	zhang fei	2
+talented man	zhao yun	2
+talented man	zhou yu	1
+talented man	zhang zhao	1
+domestic automaker	zhejiang gonow auto	1
+famous historical site	zhang fei temple	1
+refinery	zhenhai refining & chemical co ltd	1
+system company	zhongxing telecom equipment corp.	1
+ancient town	zhouzhuang	2
+bass instrument	zhongruan	1
+opera singer	zhaoyan xia	1
+prosperous city	zhuhai	3
+well-known researcher	zhao fusan	1
+well-known researcher	zhuo xinping	1
+well-known researcher	zheng jianye	1
+beijing attraction	zhongguancun	1
+contemporary master	zhang daqian	1
+eastern province	zhejiang	2
+european intellectual	zhang junmai's teacher	1
+famous professor	zhu ziqing	1
+famous professor	zhao songting	1
+famous professor	zhang huanting	1
+famous professor	zhang weiliang	1
+honorary title	zhejiang excellent self-support export production enterprise	1
+modern painter	zhang daqian	1
+modern painter	zhang on iraq strength dr ribbon style of chinese calligraphy	1
+subordinate	zhang liang	1
+SOEs	zhangjiang group	1
+big shop	zhou xing xing	1
+talented director	zhang che	1
+eminent professor	zhang zhirang	1
+eminent professor	zhang tiesheng	1
+invitee	zhang zuhua	1
+popular pet game	zhu zhu pets	1
+pronoun	zhe	1
+regional university	zhejiang university	1
+regional university	zhongshan university	1
+radical leader	zhou enlai	2
+tourist region	zhongwei	1
+tourist region	zhangye	1
+cultural anthropologist	zhuang kongshao	1
+activity	zhoushan sand sculpture show	1
+famous doctor	zheng kuishan	1
+home appliance manufacturer	zhigao	1
+industrial zone	zhangjiang high-tech park in pudong new area	1
+well-known expert	zhang minghua	1
+well-known expert	zhan antai	1
+young starlet	zhang yao dong	1
+chinese star	zhang ziyi	2
+chinese star	zhang jike	1
+first-tier city	zhuhai	1
+hong kong celebrity	zhang yu	1
+minority nationality	zhuang	4
+modern celebrity	zheng ying	1
+famous general	zhang yichao	1
+Literati	zhao yi	1
+municipal leader	zhang jianguo	1
+online job site	zhuobo recruitment net	1
+strategic city	zhitomir	1
+amusement item	zhongxiang garden	1
+beautiful scenery	zhaohe pavilion	1
+chicken breed	zhangmu chicken	1
+economic hub	zhejiang	1
+mediacorp artiste	zhang yaodong	1
+oblasts	zhambyl	2
+oblasts	zhitomir	1
+oblasts	zhytomir	1
+chinese official	zhou jiugeng	1
+cultural celebrity	zhu ziqing	1
+large industrial city	zhoushan	1
+liniment	zheng gu shui	1
+pilot city	zhenjiang	1
+asian player	zhang yining	1
+chinese instrument	zhongruan	2
+famous landscape	zhangjiajie	1
+larger city	zhejiang's larger city	1
+sacred mountain	zhongnan shan	1
+chinese music luminary	zhu feng bo	1
+chinese music luminary	zheng xu lan	1
+chinese music luminary	zhu chang yao	1
+chinese music luminary	zhao song ting	1
+historical study	zhukov at the oder	1
+asian actor	zhang ziyi	1
+chinese university	zhejiang university	1
+cool site	zhangzhou	1
+ethnic language	zhuang	1
+large province	zhejiang	1
+provincial leader	zhou qiang	1
+chinese input method	zhuyin	6
+famous local artist	zhang xiaogang	1
+future exchange	zhengzhou commodity exchange in central china's henan province	2
+high-tech enterprise	zhongguancun science	1
+retired well-known professor	zhong hui	1
+retired well-known professor	zhao pingguo	1
+retired well-known professor	zhu dun	1
+top stallion	zhivago	1
+warrant	zhonghua cwb one 	1
+big and medium-sized city	zhengzhou	1
+developed urban area	zhejiang	1
+distinctive artist	zhang zhizhong	1
+domestic scholar	zheng-zhong li	1
+historical play	zhuo wenjun	1
+outstanding zhuang child	zhengxian fu	1
+taoism relic	zhongxian tomb	1
+ancient celebrity	zheng xuan	1
+best university	zhang zhou university	1
+chinese international table tennis player	zhang yining	2
+chinese philosopher	zhu	1
+consultancy project	zhuhai	1
+experienced athlete	zhang xiaohuan	1
+key university	zhejiang university	1
+liberal intellectual	zhou zuoren	1
+oilfields	zhongyuan	2
+provincial capital city	zhengzhou	1
+pterosaurs	zhejiangopterus	1
+scientific research institution	zhejiang university	2
+university leader	zhang jie	1
+beachfront city	zhoushan	1
+best fast game	zhu zhu pets	1
+campanies	zhongyi	1
+CFs	zhasela cf at lhuentse	1
+epic heroes	zhang fei	1
+evil organization	zhentarim	2
+famous domestic company	zhaoyi	1
+gold	zhang yining in table tennis	1
+gold	zhang guozheng in the men's weightlifting	1
+good local and international school	zhonghua secondary school	1
+grandchild	zhu bing	1
+grandchild	zhu li	1
+jewish city	zhitomir	1
+reformist leader	zhao ziyang	1
+wealthy province	zhejiang	1
+beautiful temple	zhongyong's tomb	1
+best and latest pet game	zhu zhu pets	1
+best pet game	zhu zhu pets	1
+chinese actor	zhang ziyi	1
+classical chinese text	zhiwu mingshi tukao-changbian	1
+company mainly sale FARM tractor	zhongguochangfa	4
+corrupt official	zhu xiaohua	1
+corrupt official	zhang enzhao	1
+famous historical event	zhuge liang's crossing the lu river in may''	1
+flotation aid	zhik	1
+hi-tech enterprise	zhongguancun science	1
+indie rock group	zhang chu & band	2
+key local leader	zhang rong	2
+key local leader	zhang huanxiang	1
+key local leader	zhang huangxiang	1
+Master Luthiers	zhu	1
+outspoken leader	zhao ziyang	1
+philosophical position	zhentong	1
+plucked instrument	zheng	2
+song artist	zhang zeduan	1
+weight-loss supplement	zhen de shou	1
+young filmmaker	zhang yuan	1
+young teacher	zhang qiang	1
+young teacher	zhang hongyan	1
+busy commercial area	zhongguancun area	1
+century-old shop	zhangxiaoquan scissors	1
+century-old shop	zhang yiyuan teashop	1
+chinese dynasty	zhou	1
+chinese sport star	zhang yining	1
+city commercial bank	zhuzhou city commercial bank	1
+commercial port	zhoushan	1
+first-generation team member	zhang hong mei	1
+first-generation team member	zhou jing ping	1
+first-generation team member	zhang guifeng	1
+forbes-listed chinese billionaire	zhou zhengyi	1
+homestyle dish	zha cai rou tsi	1
+internationally famous pianist	zhou guangren	1
+jiang zemin's accomplice	zhao zhifei	1
+large job site	zhaopin	1
+modern or contemporary celebrity	zheng xiaoxu	1
+monumental figure	zhao dan	1
+open city	zhuhai	2
+prominent educator	zhu qingshi	1
+public transport operator	zhuhai city public transport company	1
+well-known foreign and chinese musician	zhang guoyong	1
+allied general	zhukov	1
+chinese state leader	zhu rongji	1
+densely populated province	zhejiang province	1
+embroidery style	zhejiang province	1
+famous geologist	zhai yusheng	1
+figure skater	zhenya plushenko	1
+giant mall	zhongyou department store	2
+historical master	zhao jiu feng	2
+leading reformer	zheng guanying	1
+mediacorp female artiste	zhou ying	1
+pro-democracy activist	zhang boli	1
+shopping circle	zhengda square	1
+shopping circle	zhongshan park	1
+world-famous director	zhang yimou	1
+ancient and contemporary chinese dictionary	zhonghua da zidian	2
+asian male face	zhang liang	1
+asian male face	zheng yuguang	1
+china's coastal region	zhejiang	1
+chinese filmmaker	zhang yimou	1
+chinese woman	zheng jie	3
+chinese woman	zhang yuejiao	1
+conservative reformer	zhang zhidong	1
+CSU leader	zhu xuehong	1
+developed coastal area	zhejiang province	2
+domestic and international corporation	zhongbiao software	1
+dzongkhags	zhemgang	3
+elegant and comfortable suite	zhongxiao suites	1
+excellent actress	zhang ziyi	1
+famous ancient physician	zhang zhongjing	2
+famous ancient physician	zhang jie-bin	1
+famous cultural learner	zhang hai	1
+famous cultural learner	zhang han	1
+famous cultural learner	zhou youguang	1
+Famous Daoists	zhong liquan	1
+figure painting artist	zhou sicong	1
+key mainland city	zhengzhou	1
+large cement company	zhong lian group	1
+local carmakers	zhejiang geely holding group co.	1
+online recruitment site	zhuobo recruitment net	1
+prestigious director	zhang yaimou	1
+private academy	zhu xi's white deer academy	1
+prosperous province	zhejiang	1
+qin politician	zhang yi	1
+red army leader	zhu de	2
+red army leader	zhou enlai	1
+renovated historical relic	zhongzhou road	1
+second-tier coastal province	zhejiang	1
+senior chinese leader	zhou enlai	1
+south china region	zhejiang	1
+superhero title	zhp	1
+tea production region	zhejiang	1
+4th author	zhang ailing	1
+aboriginal minority	zhuang	1
+bamboo handicraft	zhu xiang	1
+beautiful project	zhanjiawo new town in tianjin	2
+capable officer	zhang liao	1
+china's southeastern coastal area	zhejiang	1
+chinese coastal province	zhejiang	1
+chinese coastal region	zhejiang	1
+chinese director	zhang yimou	7
+chinese director	zhang yuan	3
+chinese ethnic minority	zhuang	1
+coast area	zhejiang	1
+communist revolutionary	zhou enlai	1
+contemporary chinese artist	zhang xiaogang	2
+contemporary chinese artist	zhu wei	1
+costal developed area	zhejiang	1
+Daoists	zhang shanfeng	1
+Daoists	zhuang zi	1
+documented similar case	zheng enchong	1
+eastern coastal region	zhejiang	1
+economic advanced region	zhejiang	1
+economically prosperous area	zhejiang	1
+erotic film	zhang yimou's red sorghum	1
+excellent river port	zhenjiang	1
+extraordinary task	zhang fei at the same time	1
+famous calligrapher	zhao mengfu	2
+famous film director	zhang yimou	1
+fast-growing coastal province	zhejiang	1
+Governor-Generals	zhang zhidong	1
+hardcore fan	zhao yufeng	2
+hong kong director	zhang che	2
+long-distance destination	zhanjiang	2
+mainland actor	zhao wei	2
+mainland actor	zhou xun	2
+mainland enterprise	zhejiang huafu	1
+national backbone railway project	zhe-gan railway	1
+original village	zhongluoyu village	1
+P2P infringement case	zhengdong record v. shijiyueb	1
+protestant pastor	zhang mingxuan	1
+renowned modern master	zhang daqian	1
+scenery spot	zhangshiyan national geopark	1
+song dynasty artist	zhang zeduan	5
+south China	zhe jiang	1
+southeastern province	zhejiang	1
+strong selling artist	zhang xiaogang	1
+talented pianist	zhang haochen	1
+tang sculpture	zhang xian qiao	1
+tianjin old name	zhou gongci street	1
+tianjin old name	zhang gongci front street	1
+weaving	zhongshan city	1
+well-educated intellectual	zhang zhongdong	1
+well-know academician	zhu zhaoliang	1
+well-known tumor expert	zhou rongyao	1
+affair discussion program	zhanghai international reports	1
+assistant envoy	zhang qun	1
+atuo maker	zhongtong passenger's vehicle	1
+big women's tennis name	zheng jie	1
+capable nationalist commander	zheng dongguo	3
+china famous scenic spot	zhangjiajie national park in the south	1
+china's coastal province	zhejiang	1
+chinese local pop musician	zhang chu	1
+chinese local pop musician	zheng jun	1
+chinese local pop musician	zhang xuan	1
+chinese revolutionary	zhou enlai	1
+civilian scholar	zhang ruizhuangof nankai university	1
+civilian scholar	zhang ruizhuang of nankai university	1
+coastal port city	zhuhai	2
+coastal port city	zhoushan in zhejiang province in the east of the country	2
+eastern european leader	zhivkov	1
+energy efficiency company	zhejiang yankon group	1
+organization	zhirinovsky's falcons	1
+organization	zhejiang library	1
+famous confucian scholar	zhu xi	1
+famous extant mausoleum	zhao mausoleum	1
+famous monk	zhuhong in  one thousand six hundred and fifteen 	2
+field expert	zhang songlin	1
+first case	zhang tong	1
+first philosopher	zhou dunyi	3
+game&amusement enterprise	zhile	1
+generation director	zhang yimou	1
+giant and supergiant field	zhanazhol	1
+han minority language	zhuang transport in china rail	1
+kung fu master	zhu chengde	2
+large christian province	zhejiang	1
+long term internationally famous customer	zhenghua port machinery company	1
+maybelline new york's a-list celebrity	zhang ziyi	1
+national scenic area	zhijin cave	1
+Neo-Confucians	zhou dunyi	1
+Neo-Confucians	zhu xi	1
+new-generation major Ping opera perfomers	zhang wenpeng	1
+non-percussive instrument	zheng	1
+others owner	zhou chuming	1
+outstanding young party member	zhang haidi	1
+peking university scholar	zhao jiaxiang	1
+populous ethnic group	zhuang	2
+preconfigured chinese application	zhcon	1
+pre-qin book	zhuanzhuan	2
+sixth generation director	zhang yuang	1
+small diode	zhcs four hundred  from zetex 	3
+small diode	zhcs four hundred  zhcs four hundred  from zetex 	1
+small-ticket attraction	zhiyuan temple	1
+strong pitching staff	zhou yin	1
+taiwan's well-known enterprise	zhicheng	1
+top student	zhang chang-xin	1
+top student	zhao dao-xin	1
+water town	zhouzhuang	2
+wealthy coastal province	zhejiang	1
+well-known domestic and overseas university	zhejiang university	1
+well-known domestic enterprise	zhejiang southeast space frame co.	1
+world famous director	zhang yimou	1
+world-renowned chinese artist	zhang shuping	1
+wushu champion	zhang hongmei	1
+zinc producer	zhuzhou smelter	3
+abdominal acupuncture point	zhongwan	1
+accessory toy	zhu zhu accessory toy	1
+acclaimed international filmmaker	zhang yimou	1
+affluent coastal area	zhejiang	1
+affluent coastal province	zhejiang	1
+amazing actress	zhang ziyi	1
+ancestral hall	zheng ancestral hall	1
+ancient historical document	zhanguoce	1
+asian actress	zhang ziyi	1
+technique	zhuo	1
+capable emperor	zhu yujian	1
+changyoulaunched various game	zhong hua ying xiong	1
+china s modern thinker	zhang taiyan	1
+china's export-reliant area	zhejiang	1
+china's main market	zhejiang	1
+china's mainland city	zhang jiagang	2
+chinese athlete	zhang fei	1
+chinese history classic	zhizhi tongjiang	1
+chinese peer	zhongxing telecom	1
+chinese peer	zhongxing telecom co.	1
+chinese scientist	zhang heng	1
+classic kinetic model	zhuravlev model	1
+co-cooperate factory	zhoushan industrial co.	2
+common chinese surname	zhang	1
+Confucianists	zhang yi	2
+countless natural cave	zhijin cave	1
+cute and affordable toy	zhu zhu pet	1
+decent general	zhou tai	1
+domestic and international magnate	zhongbiao software	1
+domestic appliance brand	zhi gao	1
+domestic court	zhongshan hot spring	1
+domestic economist	zhou qi ren	1
+domestic equipment manufacturer	zhongxing telecom equipment	1
+domestic pesticide enterprise	zhejiang qianjiang biochemical co.	1
+domistic game giant	zhu jun	1
+eastern restaurant famous dish	zhajiang mian	1
+economically advanced area	zhejiang province	1
+economically fairly developed area	zhejiang	1
+energy base	zhangbei	1
+ensemble's member	zhu mingying	1
+ESP practitioner	zhou qingli from chongqing university	1
+famous chinese leader	zhou enlai	1
+famous EELIN model	zhang jia yu	1
+famous EELIN model	zhang an qi	1
+famous elder master	zhang wenguang	1
+famous old beijing shop	zhang yiyuan tea shop	1
+famous visual artist	zhan ziqian	2
+gold maker	zhongjin gold	1
+great agrarian civilization	zhou dynasty china	1
+great children's item	zhu zhu pets	1
+great china university many professor	zhang shao-wei	1
+green tea production province	zhejiang	1
+high class taxi brand	zhonghua	1
+hi-grade compound	zhixin lidu garden	1
+incapable individual	zhang cong	2
+incredible touristic area	zheti oguz	1
+infamous emperor	zhou youwang	1
+key city official	zhang baisen	1
+key comprehensive university	zhejiang university	1
+large and medium-size city	zhuhai	2
+leading chinese university	zhejiang university in hangzhou	1
+literature theorist	zhong rong	1
+medium-scale city	zhangjiakou	1
+minority nationality group	zhuang	1
+national historical and cultural city	zhengzhou	1
+national level enterprise	zhongcui	1
+national-level craftsman	zhu bingren	3
+neo-confucian scholar	zhu xi	1
+ooze	zhu sha	1
+oriental type celebrity	zhang zi-yi	1
+others kind	zhp fifty-three 	1
+others kind	zhp eighty-two 	1
+others kind	zhp fifty-five 	1
+overseas and local artiste	zhou hua jian	1
+personal care company	zhejiang-based nice	1
+personal care producer	zhejiang-based nice	1
+pioneering county	zhucheng of shandong	1
+PRC company	zhuhai zhenrong corporation	2
+prestigious academic partner	zhejiang university	2
+pronunciation tool	zhuyin fuhao	1
+qing dynasty scholar	zhao yi	1
+ranked last city	zhanjiang	1
+ranking chinese officer	zhou xihan	2
+returnee scholar	zhou qiren	1
+rice-growing area	zhejiang province	1
+sinister power	zhentarim	1
+southern and eastern coastal province	zhejiang	1
+southern minority	zhuangs	1
+soviet commander	zhukov	1
+special-interest tour program	zhaoling tang culture tour	1
+starring a-list star	zhang hanyu	1
+starring a-list star	zhou xun	1
+state capitalist company	zhongxing	1
+subsidiary firm	zhejiang hongfa printing & dyeingco.	1
+subsidiary firm	zhejiang zhuji hongjuan textile co.	1
+taichi school	zheng school	1
+taiwans well-known enterprise	zhicheng	1
+top chinese central leader	zhu rongji	1
+tourist special train	zhang jiajie	1
+traditional economic system	zhum cultivation	1
+traditional yao people's village	zhongliu village	1
+voluminous work	zhonghua bencao	1
+well-known chinese artist	zhu jinshe	1
+yiwu cosmetic enterprise	zhongyimei cosmetic	1
+advanced province	zhejiang	2
+agricultural processing enterprise	zhonglu fruit juice	1
+a-listed star	zhang ziyi	1
+ancient elite	zhang yi	1
+aritists	zhang yadong	1
+Arthur Young	zheng guanying	1
+asian idol artiste	zheng yuan chang	1
+attractive toy	zhu zhu pet	1
+beijing opera artist	zhou xinfang	1
+best local independent musician	zhang chu	1
+best-seller writer	zhou guoping	1
+better-off area	zhejiang	1
+big-name calligraphy artist	zhu xi in ming dynasty	1
+BT industry base	zhangjiang of pudong	1
+name	zhang xiaogang	2
+name	zhang dali	1
+name	zhu	1
+name	zhor el kamch	1
+name	zhao c	1
+capable official	zhang jianzhi	1
+capital's busiest area	zhongguancun	2
+china s coastal province	zhejiang	1
+china's ancient famous doctor	zhang zhongjing	1
+china's contemporary art superstar	zhang xiao-gang	1
+china's fifth generation director	zhang yimou	1
+china's most avant-garde director	zhang yuan	2
+china's most developed region	zhejiang province	1
+china's top film actress	zhang ziyi	1
+china-watching magazine	zhengming	1
+chinese contemporary artist	zhu weibing	1
+chinese domestic enterprise	zhong xing telecommunication equipment company limited	1
+chinese mathematician	zhu shijie	1
+choleric warrior	zhang fei	1
+clever and skilled advisor	zhang jian zhi	1
+coastal SEZs	zhuhai in guangdong province	1
+commemorative edition	zhuge liang	1
+Da San Yuan Feng Shui	zhen shen	1
+daoist text	zhuangzi	2
+developed coastal province	zhejiang	5
+developed coastal region	zhejiang province	1
+disgraced former senior party official	zhang guotao	1
+dong scholar	zhang yong	1
+eastern, richer province	zhejiang	1
+electricity thirsty area	zhejiang	1
+established cinema	zhovten	1
+excellent cross talk actor	zhang wenshun	1
+excellent private enterprise	zhejiang universal	1
+export-oriented province	zhejiang	1
+famed ancient folk musician	zhang yetang	1
+familial motto guide	zhu family mottos	1
+familial motto guide	zhu family mottos by zhu xi the neo-confucian of song dynasty	1
+famous beijing landmark	zhongnanhai	1
+famous cartoon artist	zhu deyong	1
+famous chinese doctor	zhang ru xin	1
+famous chinese painter	zhang daqian	1
+famous eastern actress	zhang ziyi	1
+famous modern painter	zhang daqian	1
+famous obstetrical expert	zhu kecheng	1
+famous Taoist	zhang sanfeng	1
+name	zhen de shou	1
+name	zhou chunya	1
+name	zhang tao	1
+name	zhan wang	1
+name	zhongyuan festival	1
+flamboyant main conductor's role	zhubin mehta of the new york philharmonic	1
+Galenicals	zhibao sanbian wan	2
+great compendium	zhenjiu daquan	1
+great compendium	zhenjiu dacheng	1
+great folk musician	zhao yue	2
+historical celebrities epigraph	zhouying	1
+honest activist	zhao jing	1
+iconic chinese actor	zhou xuan	1
+independent college brand	zhejiang university city college	1
+industrial injury	zhili fire	1
+jailed dissident	zhang zhixin	2
+known-well cigarette brand	zhonghua	1
+large throughput	zhenhai	1
+large wholesale mart	zhengzhou food city	1
+legal activist	zhou litai	1
+case	zhejiang	1
+case	zhang donglin	1
+literati convert	zhang xingyao	1
+mainstream thinker	zhang heng	3
+maksimov student	zhan jianjun	1
+master strategist	zhuge liang	1
+material position	zhaojin mining indust	1
+middle province	zhejiang	1
+middle-aged and young excellent acrobat	zhou deping	1
+modern chinese painter	zhu dequn	1
+modern intellectual	zhu guangqian	1
+net bar	zhi ye net bar	1
+neutral pronoun	zhe	1
+noisy, crowded, over-developed watertowns	zhouzhuang	1
+noisy, crowded, over-developed watertowns	zhujiajiao	1
+odd subsidiary	zhuzhou huatian	1
+officers of the ROC	zhang xueliang	1
+old-style chain tea store	zhang yiyuan	1
+overseas yard	zhejiang shipbuilding	1
+overseas-based scholar	zhao yiheng	1
+overseas-based scholar	zhang longxi	1
+pingju play	zhonggen assassinated yitengbowen	1
+case	zhengzhou	1
+positive heroes	zhivago	1
+potential dictator	zhirinovsky	1
+proved word	zhou ya qianbian man	1
+rabbit farming area	zhejiang	1
+renowned martial art film director	zhang che	1
+river canal village	zhou zhuang	1
+russian development	zhuk ae	1
+sage house ruin	zhuge liang	1
+shanghai resident	zhao lichen	1
+sinicized ethnic group	zhuang	1
+song agency scientist	zhu xi	1
+state-level ancient structure	zhengyang gate on tian an men square	1
+subsitiutes	zhirkov	1
+successful tourist destination	zhenyuan	1
+TCM researcher	zhong wang	1
+textile magnate	zhejiang huafu	1
+threatened structure	zhang fei temple	1
+time ethnic minority	zhuang	1
+top chinese celebrity	zhang hanyu	1
+top glyphosate technical producer	zhejiang wynca	1
+torch-bearing celebrity	zhang ziyi	1
+traditional brand name	zhengxingde tea shop	1
+traditional chinese brand	zhang koizumi scissors	1
+traditional special market	zhanxi shoes city	1
+visually stunning film	zhang yimou's hero	1
+volatile kandahar province district	zhari	1
+well-known chinese wushu star	zhao wenzhuo	1
+well-known constitutional scholar	zhang ping	1
+well-known military leader	zhukov	1
+well-respected director	zhang yimou	1
+wen's predecessor	zhu rongji	1
+world class penhold student	zhang deying	1
+world-famous district	zhonghuan in hong kong	1
+wushu star	zhao wenzhuo	1
+yangzi river water town	zhouzhuang	2
+yao's disciple	zhong zhenshan	1
+yao's disciple	zhai weichuan	1
+young film director	zhang yuan	1
+accomplished oil painter	zhan jianjun	1
+ancient chinese thinker	zhuangzi	1
+ancient musical instrument	zheng	1
+bamboo research institution	zhejiang forestry college	1
+beijing's attraction	zhongguancun	1
+beloved chinese leader	zhou enlai	1
+best general	zhukov	1
+booming textile industry region	zhongshan cities	1
+china's hotel architect	zhu pei	1
+china's own strategic expert	zhu majie	1
+chinese communist	zhu de	2
+chinese domain name	zhong guo si mian wang.cn	1
+chinese instructor	zhou xihan	1
+chinese literary master	zhuang zi	1
+chinese marathon star	zhou chunxiu	1
+Chinese music educationalists	zhou xiaoyan	1
+chinese reformer	zhu rhongji	1
+chinese revolutionary woodblock artist	zhao yannian	1
+chinese volleyball player	zhang yongfeng	1
+chinese warlord	zhao erfeng	1
+classic sichuan street snack	zhong shui jiao	1
+confucian reformer	zhu xi	2
+confusion scholar	zhu	1
+delightful pet hamster toy	zhu zhu pets hamster chunk	1
+diuretic formula	zhu ling tang	1
+eastern and southeastern province	zhejiang	2
+group	zhuang	9
+group	zhong gong	1
+economically-developed province	zhejiang	1
+Erdaofanzi	zhengyun ming	1
+established mainland filmmaker	zhang yimou	1
+expected hit	zhu zhu pets	1
+experienced soviet military leader	zhukov	5
+family ornament	zhou dasheng  eighteen k white gold diamond nvjie 	1
+famous chinese director	zhang yimou	1
+Famous Hakkas	zhang bi shi	1
+famous local company	zhejiang zhizunhongyan pearl.	1
+fly-by-night mickey mouse agency	zhanyun talents	1
+free volunteer organization	zh in the mouth	1
+fresh or brackish region	zhujiang estuary	1
+gastrointestineal herb	zhi shi	1
+great army leader	zhukov	1
+hardware manufacturing base	zhejiang jinhua & hebei huanghua	1
+high end industrial functional area	zhongguancun science park	1
+hot spice combination	zhug	1
+in-house medium	zhongguo huanjing bao	1
+injury-affected player	zhao ruirui	1
+intellectual protestant Christians	zhao zichen	1
+internet phone client software	zhang xun tong	1
+jinshan farmer	zhu xi	1
+key industrial province	zhejiang	1
+key protected cultural relic	zhang liang's temple	1
+language specification	zh-hant	1
+large and medium size city	zhuhai	1
+large biotech center	zhangjiang hi-tech park in shanghai	1
+large energy investment project	zhuhai	1
+large-scale water conservancy project	zheng channel	1
+literatus-publisher	zhang chao	1
+Local ex-actresses	zheng wanling	2
+local indie label	zhulu hefeng	1
+long fist practionners	zhou baofu	1
+mainland filmmaker	zhang yimou	4
+mainland software enterprise	zhongwang co.	1
+male literary critic	zhu dake	1
+male ming poet	zhong xing	1
+millenary doctrine	zhang jue's	2
+moment china's strategic analyst	zheng bijian	1
+national and provincial project	zhengzhou logistics port of national arterial highway	1
+national labor model	zhang qiuxiang	1
+natural prostate health supplement	zhong hua niu bian	1
+newspaper leader	zhang jiankun	1
+northeastern comedic actor	zhao benshan	1
+opera glass	zhumell covent  three x twenty-five  opera binoculars glasses 	1
+organized chinese religious movement	zhengyi	1
+outspoken russian nationalist	zhirinovsky	1
+painted feature	zhang fei	1
+phoneme code	zhuyin	1
+PLA elder	zhang aiping	1
+Placesof cultural interest	zhenzishan rock painting	1
+pointed outby many researcher	zhang et al. andzhao&yedlin	1
+powerful enterprise	zhejiang energy group	1
+precious historic and cultural site	zhenguo temple	1
+prominent chinese mathematician	zhu shijie	1
+qing official	zhang zhidong	1
+qing ruler	zhu zun	1
+question veteran	zhamnov	1
+radical student	zhang guotao	2
+real constituent	zhejiang shichuang petroleum & chemical co.	1
+recreational flying club	zhuhai apollo aero club	1
+renowned chinese architect	zhang jingqiu	1
+revolutionary story	zhu de's shoulder pole	1
+ring road's ground road	zhenbei road	2
+RNG leader	zhou fohai	1
+romaji	zh	1
+rookie U.S. aircraft company	zhejiang	1
+rough and forthright character	zhang fei	1
+scencry spot	zhuzi stone	1
+sinopec refinery	zhenhai	1
+skilled local player	zhao yingliang	1
+SM entertainment's artist	zhang liyin	2
+small-profile three-hui bread wheat wind	zhong wei	1
+socially ambitious friend	zhang daofan	1
+sorority's international program	zhope through mind	2
+sport liniment	zheng gu shui	1
+static power	zhan zhuang	1
+stupid weapon	zhen ji's flute	1
+taiwan buddhist leader	zhengyan	1
+tang buddhist tradition	zhenyanand tiantai	1
+taoist philosopher	zhuangzi in the  four th century bc 	6
+TCM manufacturer	zhangzhou pientzehuang pharmaceutical co.	1
+team businesses standards CSR expert	zhou weidong	1
+test airfield	zhukovski	1
+theoretically central character	zhivago's wife tonya	1
+thoughtful youth publication	zhongguo qingnian	1
+time famous dynasty	zhou	1
+true action star	zhang ziyi	1
+truth gathering site	zh	1
+unofficial index	zhong fang index	1
+unregistered group leader	zhang hongbao of the zhong gong	1
+Wang Fu-chih	zhu xi	1
+water village	zhujiajiao	1
+wealthiest province	zhejiang	3
+west Hunan	zhangjiajie	1
+White-Haired Girl outside	zhao shuli's xiao erhei marriage' of the liberated area	1
+world class tourist spot	zhangjiajie	1
+world natural heritage	zhangjiajie	1
+Xie	zhi-feng li	1
+young internet entrepreneur	zhang chaoyang	1
+Yuan Xie made like	zhang ji xiu-spears	1
+Zaxis startup code	zhom	1
+project	zhengzhou greenland plaza	1
+project	zhenhai power plant	1
+project	zhuhai longfeng precise copper tube	1
+project	zhuhai yueyufeng iron & steel	1
+project	zhongheng solar cell	1
+artist	zhang xiaogang	7
+artist	zhang huan	3
+artist	zhang xiao gang	1
+artist	zhang daqian	1
+artist	zhou chunya	1
+artist	zhang peili	1
+artist	zhao kailin	1
+artist	zhang hui	1
+artist	zhu xinjian	1
+artist	zheng xie	1
+artist	zhang yu	1
+artist	zhuang huan	1
+artist	zhang xiaotao	1
+artist	zhao mengfu	1
+artist	zhi-vago	1
+material	zhuan falun	1
+place	zhejiang	5
+place	zhongguancun	3
+place	zhitomir	2
+place	zhengzhou in henan province	2
+place	zhengzhou	2
+place	zhenhai china kaiyuan city resort	1
+place	zhongguancun building	1
+place	zhuhai in guangdong province	1
+place	zhejiang yiwu	1
+place	zhongshan park with the tall tv tower	1
+place	zhejiang province	1
+place	zhongdian	1
+place	zhang jiajie	1
+place	zhuhai	1
+player	zhirkov	3
+player	zherdev	2
+player	zhejiang dahua technology co.	1
+player	zhi cheng	1
+player	zhou mi	1
+player	zheng zhi	1
+player	zhang yining	1
+technology	zhone networks multi-shdsl link bonding for colo	1
+system	zhan zhuang system of qi gong	1
+brand	zhuzhu pets	1
+brand	zhou taisheng	1
+site	zhenhai tower	2
+site	zhongyidian village	1
+site	zh	1
+site	zhang fei temple in yunyang county	1
+site	zhoushan archipelago	1
+site	zhoukoudian in china	1
+site	zhang fei well	1
+site	zhaojun house	1
+site	zhang fei temple	1

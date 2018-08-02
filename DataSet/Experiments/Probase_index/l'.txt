@@ -1,0 +1,432 @@
+initiative	l'arche for focusing on people's ability	1
+facility	l'arche harbor house	2
+game	l'albero della cuccagna	1
+game	l'empereur	1
+product	l'oreal paris healthy look hair color	1
+work	l'art de faire	1
+work	l'espagnole by matisse	1
+work	l'oeil rechargeable	1
+work	l'africaine	1
+model	l'equip omni	1
+model	l'productive of  one thousand eight hundred and seventy-six 	1
+client	l'oreal group	1
+client	l'oreal paris usa	1
+client	l'oreal	1
+client	l'oreal usa	1
+form	l'uovo vs. il walkman	1
+approach	l'hopital sruleandpower series	1
+alternative	l'oreal hip's cream shadow	1
+agency	l'institut de promotion del la prevention secondaire en addictologie paris	1
+theme	l's childhood	2
+symptom	l'hermitte's sign	1
+book	l'occitane's home spa	1
+book	l'architettura moderna in giappone	1
+film	l'amant de cinq jours	1
+film	l'avventura	1
+business	l'oreal usa inc.	1
+band	l'enfance rouge	1
+band	l'arc en ciel	1
+band	l'ame immortelle	1
+school	l'universite de montreal	1
+school	l'ecole du ski francais	1
+school	l'anse creuse high school in harrison township	1
+amenity	l'ecrivain	1
+circumstance	l'hospital's rule	1
+city	l'hospitalet	1
+city	l'ile rousse	1
+city	l'viv	1
+celebrity	l'il kim	1
+firm	l'alcova in pisa	1
+favorite	l'escargot	1
+feature	l'amore breve	1
+publication	l'officiel hommes	3
+publication	l'uomo vogue	1
+publication	l'officiel	1
+publication	l'echo	1
+publication	l'economiste	1
+movie	l'or dans la montagne	1
+movie	l'immortelle	1
+song	l'encre de tes yeux	2
+song	l'aio de rotso	1
+song	l'cha dodi	1
+song	l'internationale	1
+variety	l'il darling	1
+big name	l'oreal paris	1
+show	l'homme du  twenty eme siecle 	1
+show	l'ecuyer	1
+store	l'attitude boston boutique	1
+customer	l'oreal	1
+customer	l'aquila	1
+environment	l'atalante basin	1
+award	l'ordre national du m&eacuterite	1
+restaurant	l'espalier	1
+restaurant	l'atelier de joel robuchon	1
+restaurant	l'enclume restaurant with rooms in cumbria	1
+restaurant	l'ortolan in reading	1
+restaurant	l'abroisie in the place des vosges	1
+restaurant	l'ortolan in berkshire	1
+restaurant	l'ilot vache	1
+restaurant	l'enclume restaurant with rooms in grange-over-sands	1
+restaurant	l'auberge in kettering	1
+magazine	l'officiel	4
+magazine	l'uomo vogue	2
+magazine	l'express	1
+magazine	l'officiel russe	1
+woman	l'wren scott	1
+top quality inn	l'acadie inn	1
+top quality inn	l'etoile bed	1
+top quality inn	l'ombre du fort	1
+top quality inn	l'antico borgo bed with breakfast	1
+top quality inn	l'antico borgo	1
+top quality inn	l'antico pozzo	1
+competitor	l'oreal	1
+possibility	l'oreal true match liquid	1
+possibility	l'oreal infallible	1
+festival	l'orient	1
+great	l'escargot	1
+line	l'oreal paris	1
+hotel	l'ermitage	1
+tourist attraction	l'arc de triomphe	1
+sight	l'arc de triomphe	1
+result	l'hopital's rule for indeterminate form	1
+station	l'enfant plaza	1
+paper	l'union	2
+competition	l'oreal colour trophy	1
+resort	l'escala	1
+resort	l'auberge in del mar	1
+resort	l'estartit	1
+popular brand	l'oreal	1
+industry leader	l'oreal professional	1
+suspect	l'oreal	1
+suspect	l'atelier joel robuchon	1
+investment	l's various investment	1
+newspaper	l'equipe	1
+newspaper	l'echo gabonais	1
+wine	l'evangile	1
+advanced technique	l'hospital 's rule	1
+play	l'oiseau de ces dame	1
+play	l'enfant prodigue	1
+lake	l'etang du chef de ville	1
+convenience	l'acqua viva hotel	1
+big company	l'oreal	1
+large project	l'auberge baton rouge casino under construction on river road	1
+vessel	l'astrolabe	1
+famous brand	l'oreal indonesia	1
+orchestra	l'orchestre national de l'opera de paris	1
+orchestra	l'orchestre national de france	1
+orchestra	l'orchestre national de lille in france	1
+dance	l'argent	1
+international brand	l'oreal paris	2
+quality brand	l'artisan du chocolat	1
+quality product	l'oreal professional	1
+quality product	l'oreal	1
+periodical	l'artiste	1
+big brand	l'oreal	2
+horse	l'escargot	1
+new	l'affaire hecht	1
+column	l'eagle eye by jeff stickle	1
+theater	l'opera de marseille	1
+winery	l'aventure	1
+regular	l'eggs	1
+nice touch	l'occitane toiletry	1
+nice touch	l'occtane bath product	1
+fragrance	l'eau par kenzo perfume on sale	1
+cream	l'oreal paris wrinkle de-crease	1
+exhibition	l'art en belgique in the museum d'art moderne in paris	1
+feature film	l'imperatore di capri	1
+famous landmark	l'arc de triomphe	2
+kit	l'oreal paris refinish chest	1
+research project	l'architecture vernaculaire de l'archipel saint-pierre et miquelon with the french cnrs	1
+city's attraction	l'olympia	1
+city's attraction	l'isola di murano	1
+city's attraction	l'isola di burano	1
+top brand name	l'eggs	1
+casino	l'auberge du lac	2
+casino	l'auberge du lac in lake charles	1
+international player	l'oreal china	2
+cocktail	l'ete a paris	1
+good brand	l'oreal	1
+famous company	l'oreal	1
+detergent	l'amour lingerie wash	1
+equipment manufacturer	l'equip with a new series of juicer	1
+european company	l'occitane en provence	1
+hair product	l'oreal artec texture line styling & finishing products	1
+hair product	l'oreal indistructuble	1
+hair product	l'oreal artec texture line shampoo & conditioner	1
+brand product	l'oreal at discount price	1
+opera	l'aiglon	2
+opera	l'elisire d'amore y la figlia del lieggimento	1
+opera	l'abandon d'ariane	1
+production company	l'oreal paris professionnel	2
+trade publication	l'hebdo	1
+moisturizer	l'oreal collagen moisture filler	1
+disc	l'elisir d'amore	1
+prayer	l'cha dodi	1
+web tool	l'oreal's healthy look shade matcher	1
+primate	l'hoest's monkey	1
+ski area	l'espace killy	1
+dance company	l'acadco-a united caribbean dance force	1
+exotic name	l'huile de venus	1
+small village	l'aigle	1
+small village	l'agile	1
+prominent name	l'occitane	1
+primer	l'oreal studio secrets primer	1
+international publication	l'uomo vogue	1
+day spa	l'ultimate salon	1
+top musician	l'vovo derrango	1
+perfume	l'herbe rouge	1
+topic	l'hopital's rule	4
+launch	l'oreal couleur experte	1
+best quality product	l'oreal professionnel hair color	1
+good store	l'occitane	2
+musical event	l'ora del concerto	1
+commercial brand	l'oreal	1
+spiritual activity	l'arche training	1
+mainstream company	l'oreal	2
+mainstream company	l'occitane en provence jumping on the organic makeup bandwagon	1
+weekly	l'express	1
+thoughtful amenity	l'occitane toiletry	1
+cosmetic company	l'oreal in the late  one thousand nine hundred and seventy s 	1
+cosmetic company	l'oreal sa	1
+cosmetic company	l'oreal	1
+world famous attraction	l'arc de triomphe	1
+muslim organization	l'union des organizations islamiques de france	1
+magazine cover	l'officiel	2
+longtime favorite	l'osteria del forno	1
+corporate office	l'oreal canada	1
+hair color	l'oreal preference	1
+company	l'oreal	2
+styling tool	l'anza re balance mega gel	1
+boasting client	l'oreal paris	1
+excellent restaurant	l'eouf mayo	1
+local district	l'anse creuse	1
+company	l'oreal usa	1
+company	l'oreal paris professionnel	1
+luxurious hotel	l'hotel	1
+successful title	l'incal	1
+branded good	l'oreal	2
+brand-name product	l'oreal professionnel	1
+earliest work	l'errore amoroso	1
+specialty oil	l'huile de noix	1
+botanist	l'obel	1
+french restaurant	l'endroit in cheshire	1
+company	l'oreal professionnel	1
+company	l'oreal paris	1
+daily paper	l'osservatore romano	1
+upscale hotel	l'ermitage	1
+well-known magazine	l'uomo vogue ponystep	1
+news magazine	l'express	1
+online newspaper	l'altra voce	1
+drugstore brand	l'oreal	3
+world known brand	l'oreal	1
+moisturiser	l'oreal men expert hydra energetic spf fifteen 	1
+top brand product	l'occitane cosmetic	1
+analogy	l'oreal comparison	1
+beautiful community	l'anse aux meadows	1
+mascara	l'oreal's full 'n soft	1
+misspelling	l'ftoile for l'etoile	1
+quality product line	l'oreal professionnel	1
+quality product line	l'oreal professional	1
+refrigeration product	l'unite hermetique compressors	1
+western region	l'viv	1
+melodrama	l'enf ant martyre	1
+drugstore product	l'oreal	1
+gentle product	l'oreal plenitude hydrafresh cleansing gel	1
+wine producer	l'aventure	1
+liberal newspaper	l'ere nouvelle	1
+eye cream	l'oreal's eye cream	1
+world-known brand	l'oreal	1
+brand name cosmetic	l'oreal	1
+brand cosmetic	l'oreal	1
+on-hit effect	l'etranger refilling cloak	1
+gentle shampoo	l'anza re balance deep cleansing shampoo	1
+orchestral piece	l'apre midi d'un faun	1
+city plan	l'enfant's washington	1
+medium-sized town	l'isle-sur-la-sorgue	1
+comic opera	l'elisir d'amore	1
+nail polish	l'oreal paris	1
+guest entertainer	l's up entertainment	1
+provocative work	l'oeil cacodylate	1
+blockbuster brand	l'oreal sa	1
+combo amp	l'il rock	1
+event	l'arche bbq	1
+specialist tour operator	l'tur tourismus ag	1
+top make-up brand	l'oreal paris	1
+top-rated restaurant	l'espalier	2
+challenging work	l'amour de loin	1
+famous tune	l'encre de tes yeux	1
+frags	l'occitane vetiver	1
+keune brand	l'oreal	1
+protected name	l'equip	2
+spokesmodels	l'oreal paris spokesmodels	1
+film inclusion	l'avventura	1
+large-scale employer	l'oreal manufacturing	2
+program	l'oreal usa fellowships for women in science	1
+constant reminder	l's last name	1
+italian pipe	l'anatra	1
+jewish newspaper	l'aurore	1
+lay ecclesial movement	l'arche	1
+community	l'arche	1
+popular hair brand	l'oreal	1
+traditional designer	l'atellier du vin	1
+trendy shop	l'absinthe	1
+continued innovation	l'eggs	1
+community	l'anguille township	1
+community	l'anse village	1
+community	l'anse township	1
+European B-movies	l'ultimo harem	3
+hair color product	l'oreal europe	2
+renowned baroque orchestra	l'arpa festante munich	1
+short poem	l'allegro	1
+specialty hair service	l'oreal powerdose treatment	1
+art periodical	l'artiste	1
+organization	l'agence nationale et internationale du manitoba	1
+glossy, weekly newsmagazines	l'express	1
+industry competition	l'oreal color trophy	1
+industry's top color company	l'oreal professionnel	1
+organization	l'arche saskatoon	1
+organization	l'association de la presse francophone	1
+self tanner	l'oreal sublime bronze self-tanning lotion	1
+sheer foundation	l'oreal paris true match super-blendable makeup	1
+source common highstreet brand	l'oreal	1
+tinted moisturisers	l'oreal sun shimmer	1
+alpine summit	l'eveque	1
+drugstore mascara	l'oreal voluminous waterproof	1
+drugstore option	l'oreal paris' diy color range	1
+face primer	l'oreal paris studio secrets professional magic perfecting base	1
+falsehood	l'anse aux meadows being leif's vinland	1
+fashionable eatery	l'ermitage	1
+french publisher	l'ecole des loisirs	1
+french web site	l'equipe	1
+good waterproof mascara	l'oreal's telescopic	1
+high-end cosmetic firm	l'oreal sa	1
+legendary perfume	l'air du temps by nina ricci	1
+lovely medieval town	l'aquila	1
+lux brand	l'occitane en provence	1
+magazine editorial	l'officiel hommes	1
+montreal-based publication	l'ordre	1
+mosr famous cover magazine	l'officiel	1
+pore minimizer	l'oreal skin genesis pore minimizer	1
+pore refining cleanser	l'oreal skin genesis pore minimizing gel cleanser.es	1
+pore refining cleanser	l'oreal skin genesis pore minimizing gel cleanser	1
+top quality international brand	l'oreal	1
+99-pointers	l'atelier de jol robuchon	1
+all-premium carrier	l'avion	1
+archaic system	l'ady roman law	1
+biblical piece	l'histoire de jonas	1
+big-name los angeles restaurant	l'ermitage	1
+blonde hair	l'oreal recital preference lightest ash blonde	1
+brown pencil liner	l'oreal kohl smoothing defining eyeliner	1
+name	l'oreal	1
+common drug store brand	l'oreal	1
+name	l'autre bord	1
+name	l'excelsior guanti of italy	1
+foundation powder	l'oreal's true match mineral foundation with a brush	1
+french periodical	l'express	1
+Grandes Ecoles	l'ecole polytechnique	1
+hair color remover	l'oreal effasol	1
+intermediate basin	l'aquila	1
+international cosmetic giant	l'oreal of france	1
+leading publishing house	l'ecole des loisirs	1
+local recruitment agency	l'aine services	2
+lovely little personal touch	l'occitane toiletry	1
+moisture treatment	l'oreal mega moisture	1
+monteverdi's earliest opera	l'incoronazione di poppea	1
+mothballed rarity	l'oca del cairo	1
+national and specialty store	l'eggs hanes bali	1
+natural pink blush	l'oreal's blush delice in strawberry tart	1
+off-shelf popular western brand	l'oreal	1
+perennial hot spot	l'atelier by joel robuchon	1
+personal great film	l'avventura	1
+peterborough community chaplaincy highlighting project	l'arche	1
+philosophical novel	l'etranger	1
+popular baby wash	l'oreal kids extra gentle  two -in- one  shampoo 	1
+pore refining pierreuse	l'oreal skin genesis pore minimization gel cleanser	1
+prestigious hairstyling school	l'oreal paris	1
+proffessional product	l'oreal	1
+purple shampoo	l'oreal professionnel serie expert shine blonde	1
+semipermanent tint	l'oreal color spa	1
+thickening shampoo	l'oreal thicken shampoo	1
+world class luxury brand	l'occitane	1
+advanced education class	l'oreal inoa hair color	1
+affordable eye shadow base	l'oreal de-crease eye shadow base	1
+all-business-class airline	l'avion	1
+cantabrian classic	l'escala anchovy	1
+color correction product	l'oreal's color zap	1
+colored paper cut-outs	l'escargot	1
+cyclotourist event	l'etape du tour	6
+del mar hotel	l'auberge del mar resort	1
+option	l'ardoise	1
+group	l'vovo	1
+group	l'action francaise	1
+group	l'artisan du liban	1
+enema-themed erotic novel	l'instrument des apothicaires by claude de saint-hieble	1
+famous vacation landmark	l'augberge hotel	1
+festival partner	l'officiel magazine	1
+fiber putty	l'oreal paris studio out of bed fiber putty	1
+fig scent	l'artisan's premier figuier	1
+french-language paper	l'economiste	1
+fridays band	l'il al's combo	1
+geneva's underground venue	l'usine	1
+global cosmetic company	l'oreal	1
+gold eyeliner	l'oreal hip color chrome eyeliner in gold charge	1
+gradual self tanner lotion	l'oreal sublime bronze	1
+high-end eatery	l'escargot	1
+group	l'arpeggiata	1
+investor association	l'association des actionnaires minoritaires	1
+kinshasa newspaper	l'avenir	1
+liquid-to-powder foundation	l'oreal cashmire foundation	1
+multi-tasking lip balm	l'occitane pure shea butter apricot flower	1
+new-style vegetarian restaurant	l'arbre de provence	1
+Nova Scotia wine	l'acadie with dinner	1
+oil-free foundation	l'oreal's true match liquid foundation	1
+permanant drugstore brand	l'oreal preference	1
+policy declaration	l'aquila joint statement on global food security	1
+popular commerical brand	l'oreal	1
+pure, simple product	l'occitane  one hundred % shea butter moisturiser 	1
+radical private and social housing	l'immeuble qui pousse	1
+rare experiment	l'herbier's l'homme du large	1
+selective professional product	l'oreal professionel nature	1
+semipermanent product	l'oreal gray chic	1
+so-so primer	l'oreal decrease	1
+specialised voluntary association	l'amicale du nid	1
+specialist shampoo	l'oreal professionnel serie expert silver shampoo	1
+stories	l'altra euridice	1
+top quality supreme product	l'oreal	1
+transcendent french restaurant	l'express	1
+two-stage production function	l'zawa's generalized ces	1
+two-way model critic	l'etang	1
+utilising top hair brand	l'oreal professional	1
+waist pantyhose	l'eggs sheer energy	1
+week major french magazine	l'express	1
+artist	l'ham de foc	1
+place	l'arc de triomphe	1
+place	l'auberge in uptown sedona	1
+product	l'oreal	3
+product	l'anza	1
+system	l'oreal intense repair	1
+species	l'hoest's monkey	1
+brand	l'oreal	15
+brand	l'occitane	4
+brand	l'oreal paris	4
+brand	l'oreal professional	2
+brand	l'oreal professionnel	2
+brand	l'oreal feria	1
+brand	l'oreal india pvt. ltd	1
+brand	l'oreal's feria for men	1
+brand	l'oreal ad diesel	1
+brand	l'occtaine	1
+brand	l'artisan parfumeur	1
+brand	l'eggs sheer energy	1
+brand	l'bel beauty	1
+brand	l'homme invisible	1
+brand	l'oreal plenitude	1
+brand	l'oreal skin derma genesis	1
+brand	l'oreal true match	1
+brand	l'oreal eye shadow	1
+brand	l'oreal vive	1
+brand	l'oreal hair coloring	1
+brand	l'oreal hip	1
+concept	l'hopital's rule	1
+concept	l'homme	1
+site	l'oreal paris	1

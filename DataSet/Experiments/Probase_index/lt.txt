@@ -1,0 +1,1056 @@
+factor	ltv	4
+initiative	lte readiness	1
+resource	ltap	1
+resource	ltc information letters	1
+resource	ltc insurance	1
+facility	ltc	1
+process	ltd. low pressure process	1
+benefit	ltc	8
+benefit	lta	1
+product	ltc insurance	1
+character	lt. duran	1
+character	lt. stone	1
+character	lt. hiro	1
+character	lt. karrin murphy	1
+character	lt. vorik	1
+character	lt. michael ayala	1
+character	lt. surge	1
+character	lt. gordon	1
+character	lt. jimmy patterson	1
+character	lt. kennedy	1
+character	lt. joe carey	1
+character	lt. joe leaphorn	1
+character	lt. walker	1
+model	ltz	1
+model	lt	1
+model	lt the middle option	1
+model	lt- one  engine 	1
+word	ltd.	2
+category	lt - ii commercial	1
+institution	ltd.	1
+client	ltd.	2
+client	lta with the wimbledon tennis championship	1
+client	lta	1
+document	lto registration	1
+author	lt. colonel karen kwiatkowski	1
+feature	lt package	4
+strategy	ltm	1
+person	lta licensed coaches	1
+person	ltte terrorists	1
+person	lt ripley	1
+person	lt	1
+approach	lte cell data network	1
+approach	ltree	1
+matter	ltips	1
+alternative	ltk	1
+effect	lt. dan's amputated leg	1
+agency	lta	1
+solution	lte-ready backhaul	1
+solution	lto three  tape drives for archiving 	1
+solution	lte	1
+procedure	ltk	1
+band	ltj	1
+part	lt jordan gross	1
+part	lt. dan's missing leg	1
+school	lti	1
+school	lt wing chun	1
+title	lt.	2
+agent	ltb four 	1
+agent	lt modiers	1
+agent	ltg	1
+circumstance	ltcm	1
+cost	ltta staff	1
+type	ltr	1
+criterion	ltv	2
+industry	ltc insurance	1
+industry	ltd.	1
+requirement	lto	1
+drug	ltg	1
+drug	lthough glucocorticoid drug	1
+indicator	ltp two  area-wide traffic 	1
+manufacturer	ltd.	2
+manufacturer	ltx	1
+man	lt-col shefik	1
+man	ltg chesty puller	1
+man	lt. james r. akins of haskell	1
+man	lt. miller	1
+man	lt. robert combe vc	1
+man	lt. colonels debrah	1
+man	lt. col dugald lumsden three 	1
+setting	ltc	3
+position	lt. col	1
+individual	ltg mark hertling	1
+individual	lt kaylor's father	1
+individual	lt. choi	1
+individual	lt. miller	1
+figure	lt. falcon	1
+basic	ltl transport basic	1
+leader	ltc fred johnson	1
+leader	ltte's more sinister leader	1
+leader	lt gen lookout masuku	1
+leader	lt. governor maldonando	1
+leader	ltc doug crissman	1
+leader	ltc erik kurilla	1
+expense	lt. service	1
+innovation	ltb	1
+country	ltc-definition indifferent country	1
+expert	ltd. in wellington	1
+expert	lt. colonel eric farquarson	1
+feature	lt package equipment	1
+feature	ltz equipment group	1
+feature	lt equipment group  one sc 	1
+feature	lte sim slot by using the thunderbolt	1
+feature	lt decor package	1
+phenomenon	ltp	2
+format	lto	1
+Organisations	ltsa	1
+Organisations	lta	1
+partner	ltd.	1
+partner	ltc outreach teams	1
+standard	lte	7
+standard	lte advanced	2
+customer	ltd.	3
+customer	lt. wade callender	1
+scheme	ltc insurance in germany	1
+restaurant	ltk	2
+obstacle	ltte's intention	1
+capability	lte	2
+module	ltc	1
+woman	lt celeste hayes	1
+woman	lt col eileen collins	1
+color	lt blue	1
+color	lt purple	1
+report	lter  twenty -yr review 	1
+guest	lt gen flowers	2
+guest	lt gen hanlon	1
+guest	ltj bukem	1
+issue	ltermatching accuracy	1
+issue	ltci	1
+addition	ltd.	1
+decision	ltholleh recent supreme court decision	1
+state	lthough key arab state	1
+difference	lt differences between nrd- twelve 	1
+channel	lt codeovernoisy channel	1
+luminary	lt. kurt wolf	1
+algorithm	ltsa	1
+series	lt one hundred and thirty-three 	1
+car	lt one  camaros 	1
+friend	ltd. producing good water-based adhesive paste box product	1
+friend	lt. william	1
+friend	ltd. producing good water based adhesive paste box product	1
+artifact	lt. dixon's gold dollar	1
+movement	ltte	1
+everything	ltv	1
+supplier	ltd.	4
+protocol	lte	1
+bank	ltsb	1
+employer	ltd.	1
+employer	ltv steel	1
+domain	ltd.uk	1
+restriction	ltv limit	1
+arrangement	lternative office arrangement	1
+committee	lto regulations preparatory committee	1
+molecule	ltb	1
+operator	lt	2
+operator	lte for datefields	1
+network	lte	4
+network	lter	3
+network	lte network having relay node	1
+network	lter network	1
+mode	lte	2
+authority	lta	1
+support service	ltg software issue	1
+large company	ltd toyama plant	1
+fund	ltv steel	1
+ngos	ltte use ngo's	1
+veteran	lt chad clifton	1
+veteran	lt. jack alderson	1
+government agency	lta	3
+government agency	lt. governor's office on aging	1
+enhancement	lt twenty-six hve feature audio enhancement 	1
+enhancement	lt twenty-seven hvx feature audio enhancement 	1
+enhancement	lt thirty-two hvm feature audio enhancement 	1
+enhancement	lt twenty-six hvx feature audio enhancement 	1
+carrier	ltcc substrate	1
+industry leader	ltv corporation	1
+specification	lte	2
+substrate	ltcc	1
+enterprise	ltd.	4
+command	ltrace	1
+photographer	lt. ghanshyam joshi	1
+employee	ltc alfred grein	1
+code	lt one 	2
+code	ltr	2
+code	lt	1
+code	lt-codes	1
+advanced technology	ltcc	1
+advanced technology	lte	1
+datum source	lter network	1
+hospital	lt. tidang memorial hospital in kayapa town	1
+heroes	lt. darin pontell	1
+qualification	ltcl diploma tesol	1
+airline	ltu	6
+advance	lto four 	2
+national organization	lts cotland	1
+national organization	lt scotland	1
+office	lt. governor	1
+interface	lte radio access interface	1
+airport	ltn	1
+key factor	ltv ratio multiplier	1
+camera	ltl acorn	1
+tax	ltte levy illegal tax	1
+server	ltsp	1
+consumer product	lt	1
+item	lta	1
+local artist	lt smooth	1
+contributor	lt edward ashe	1
+contributor	lt frederick baddeley	1
+activist	lt. eric adams	1
+interesting feature	ltrace integration	1
+commercial product	ltd.	3
+officer	lt. james muhic	3
+officer	lt col stuart tootal	1
+officer	lt colonel mansoor ul haq malik	1
+officer	lt. colonel mansoorul haq malik	1
+officer	lt. ron waldrop	1
+officer	lt gen michael short	1
+emerging technology	lte	4
+crisis	ltcm	1
+financial service	ltc	1
+latest technology	lte	1
+communication system	lte	3
+communication system	lte communication system	2
+communication system	lte system	2
+well-known company	ltd.	1
+tour	ltc luxury tour packages	2
+tour	ltc tours packages	2
+tour	ltc tours services	1
+insurance company	ltd.	1
+description	lt	1
+colleague	lt. jesko hagee from electrical engineering	1
+mod	lt header	1
+dignitary	lt. governor casey cagle	1
+fungus	lternaria cassiae	1
+hot topic	lte	1
+private organization	ltd.	1
+innovative technology	lte	2
+comment	ltjniy watch movies online jyrwgwu day-to-day	1
+table	lt	1
+merchant page	ltsb bank account uk	1
+loan	ltv home equity loan	1
+subsystem	ltp software	1
+session	lte-advanced	1
+statement	ltc vanderveld's	1
+traditional material	ltcc	1
+best practice	ltl service	1
+large firm	ltd.	1
+partnership	lte in rural america program	2
+inorganic material	ltcc	1
+service industry	ltd.	1
+political leader	lt. governor andre bauer	1
+area	ltc	2
+soft material	ltcc	4
+modifier	lt	1
+profile	lt seven 	2
+profile	ltsa	1
+search criterion	ltv	1
+search term	ltd.	1
+outside source	ltapstaff for suggestion	1
+fringe benefit	ltc	2
+communication technology	lte	1
+open space	lt. dean spinney	1
+key technology	lte	1
+abbreviation	ltd.	4
+abbreviation	lt for light	4
+antagonist	lt one  cysteinyl leukotriene-receptor antagonist 	1
+allowance	ltc	3
+indian company	ltd.	1
+key variable	ltv	1
+powerful tool	ltc decode	1
+leadership position	lt. governor of the key club	1
+marketer	ltd.	1
+mediator	ltb four 	1
+mediator	ltc four 	1
+employee benefit	ltc insurance	1
+adult	lt. schrank	1
+rookie	lt chris hairston	1
+medium type	lto four 	1
+medium type	lto three 	1
+area	lte technology	1
+acronym	ltttc	1
+conglomerate	ltv	2
+setback	ltcm	1
+established company	ltd.	3
+vector	lthough potential vector	1
+high profile event	ltcm bailout	1
+modern tool	lthough modern tool	1
+wireless technology	lte	5
+famous company	ltd.	1
+communication network	lte	1
+war	lt. general odom	1
+coverage	ltc	1
+Smartphones	lte galaxy s	1
+benchmark	lte evm for the comparison	1
+electrical equipment	lt bus duct	1
+electrical equipment	lt panel	1
+terrorist group	ltte	4
+buffer	lt one thousand and ten  inside the feedback loop 	1
+address	lt wright	1
+equipment manufacturer	ltd.	2
+life	lt. irving cohen of council bluffs	1
+state-of-the-art technology	lte	1
+blocker	lt jonathan martin	1
+soldier	lt-colonel john mccrae	1
+soldier	lt. daniel choi	1
+soldier	lt. john atom kpera	1
+soldier	lt. calley	1
+soldier	lt. alexandra chase	1
+soldier	lt. worcester of the tigers	1
+general	lt. general newbold	1
+general	lt gen hardev sigh lidder from the elite  nine th battalion of the para 	1
+well-known manufacturer	ltd.	1
+wireless communication system	lte system	2
+wireless communication system	lte	1
+affiliate	ltd.	1
+global event	ltcm	1
+manufacturing company	ltd.	1
+japanese company	ltd.	1
+graduate	lt. ben tucker	1
+service sector	lta	1
+tape	lto	1
+engineer	ltk	2
+terrorist organization	ltte	2
+harsh environment	lte mobile backhaul network	1
+typical feature	ltc rider	1
+external party	lta for modification	1
+light color	lt. taupe	1
+commander	ltte's former senior commander	1
+legendary figure	lt. basil dunbar	1
+trademark	ltb by littlebig	1
+service	lte	2
+service	ltd coverage	2
+service	lt cable installation service	1
+service	ltl agency	1
+service	ltl service	1
+service	lts help desk	1
+service	lta matter	1
+local employer	ltd financial services	1
+specialty drink	lt. dan's pomegranate punch	1
+advanced system	lte	2
+high profile project	ltbs	1
+commercially available product	ltd.	2
+calamity	ltcm	1
+telecommunication company	ltd.	1
+inflammatory mediator	ltb four 	2
+engine part	lt water pump with pump cover module	1
+engine part	lt thermostatic valve with the lube oil module	1
+open system	lte for outside the building	2
+senior leader	ltgen victor h. krulak	1
+service	ltl consolidation	1
+service	ltl coverage like expediting	1
+high-profile project	ltbs	1
+panelist	lt foods	1
+anti-inflammatory agent	lt synthesis inhibitor	1
+domestic company	ltd.	1
+private college	ltu	1
+public servant	lt. cacciatore	1
+publicly available information	lti plan regulation	1
+military leader	lt. james fitzgibbon	1
+military leader	lt-gen hamid gul	1
+wireless system	lte	5
+wireless system	lte orlte-advanced	1
+wireless system	lte system	1
+domain name	ltd.uk	1
+rank	lt.	1
+motivator	lternate potential target state motivator	1
+well-known character	lt airey neave	2
+well-known character	lt-colonel david stirling	1
+complex phenomenon	ltp	1
+VIPs	lt. governor of washington	1
+central location	ltfu clinic	1
+mobile communication system	lte	2
+mobile communication system	lte system	2
+tour company	ltu	1
+alarm	lt coolant temperature	1
+small unit	lt. marcos's  four -man team in action in mt. natib during world war ii 	1
+formalism	ltag	1
+supreme court decision	ltholleh recent supreme court decision	1
+central concept	ltpa	1
+funding option	ltc funding option	1
+national project	ltsn benchmarking project	1
+collaborative effort	lter program	1
+technological breakthrough	ltb	2
+home builder	lts in an improved position with price	1
+key leader	ltg almond	1
+hardware solution	lte	1
+proprietary system	lte	1
+court decision	ltholleh recent supreme court decision	1
+generation technology	lte	2
+local government agency	lto	1
+local manufacturer	ltd.	1
+international DJs	ltj bukem & mc conrad	1
+shipping service	ltl service	1
+form factor	ltx	1
+original character	lt. kyle	1
+technology development	lte	1
+art institution	ltd.	1
+standard benefit	lta	1
+famous leader	lt col newman	1
+famous leader	lt col lord lovat	1
+technology platform	ltcc	1
+technology platform	ltcc andmcm-d	1
+wireless standard	lte	6
+control panel	lt electrical panels	1
+deployment	ltc sivaraman	1
+state leader	lt. governor jari askins	1
+campus program	ltc alexandria	1
+famous enterprise	ltd.	1
+perquisite	ltc	1
+cellular system	lte	5
+cellular system	lte rel- eight 	1
+digital communication system	lte	1
+code name	ltr	1
+peripheral unit	ltg	2
+subsidiary company	ltd.	1
+domestic manufacturer	ltd.	1
+arab state	lthough key arab state	1
+rebel group	ltte	1
+high bandwidth application	lte	1
+company	ltd.	28
+company	ltv	4
+company	ltu	1
+residential facility	ltc facility	1
+modern communication technology	lte	1
+liberal thinker	lt hobhouse	1
+steel company	ltv corp.	1
+steel company	ltv	1
+academic award	lt gen r s hoon award	1
+cellular network	lte	3
+steel producer	ltv steel	5
+minor role	lt. coleby hawkins	1
+patented technology	lts litetouch tip ejection	1
+RF component	ltcc filter	1
+international manufacturer	ltd.	1
+electrical work	lt panel	1
+emerging standard	lte	4
+wireless communication network	lte	2
+industrial group	ltd.	1
+well-known enterprise	ltd.	1
+nationalist group	ltte	4
+practical system	lte	1
+next-generation technology	lte	1
+black musician	ltj bukem	1
+financial crisis	ltcm debacle	1
+top DJ	ltj bukem	1
+detective	lt. andy anderson of the boone county sheriff's department	1
+secular organization	ltte	1
+boutique firm	ltd.	1
+collaborative initiative	lte in rural america program	2
+militant organization	ltte	1
+wireless solution	lte in the mobile telephony sector	1
+company	ltv steel company inc.	1
+company	lt foods	1
+company	lta	1
+company	ltd commodities	1
+company	ltd. of san jose	1
+company	ltl operation of old dominion	1
+company	ltv steel	1
+government sector	lta	1
+reference site	lter site	1
+mobile datum service	lte	1
+stocking label	ltb	1
+front organization	ltte activist	1
+strong character	lt josh rushing	1
+android tablet	lte the samsung galaxy tab	1
+high temperature process	ltcc	2
+linear system	lte	2
+secular group	ltte	1
+speculator	lt. governor wells	1
+transport technology	lte	1
+large-scale enterprise	ltd.	3
+AEDs	ltg	2
+GM model	ltx	1
+quantitative characteristic	ltv ratio	2
+radio technology	lte	2
+string function	ltrim	1
+client product	ltc	1
+acute phase protein	ltf	1
+firefighter	lt. rick feinberg	1
+letter word	lt for healthy	1
+feature set	lterbank energy	1
+ground service	ltl freight service	1
+industry term	ltm	2
+national manufacturer	ltd. for large-scale wind turbine	2
+paper size	ltr	3
+diploma	ltcl	1
+linux application	lte	1
+freight company	ltl carrier	1
+freight company	ltl freight	1
+premium model	lt two 	1
+activity	ltte's covert activity	1
+cellular technology	lte	1
+high ranking officer	lt.general hallman	1
+independent firm	ltg	1
+online facility	lts website	1
+big shot	ltj bukem	1
+loan characteristic	ltv	4
+non-banking financial institution	ltd.	1
+state-of-the-art topic	lte	1
+steel mill	ltv steel	1
+microbial component	lta	1
+tape drive	lto	2
+tape drive	lto four 	1
+tape format	lto	2
+telecom equipment manufacturer	ltd.	2
+notable pilot	lt. everett alvarez	1
+senior product	ltc	1
+advertising firm	ltc j. walter thomson advertising	1
+encoding scheme	lt codes	1
+large IT project	ltd.	1
+material manufacturer	ltd.	1
+variability	ltp in the hydrological cycle	1
+4G technology	lte	15
+4G technology	lte from verizcn wireless	1
+4G technology	lte from verizon wireless	1
+channel code	lt codes	2
+CUMMINS model	lta ten 	1
+daily medication	lt receptor antagonist	1
+food blogs	lth forum	1
+risk characteristic	ltv	1
+sensor network	lta's expressway monitoring	1
+weekly promotion	ltd bus pas	1
+advanced new technology	lte	1
+third party payment	ltc insurance	5
+U.S. citizen	lt. ehren watada	1
+army officer	lt. neal	1
+covert activity	ltte's covert activity	1
+heavyweight artist	ltj bukem	1
+international talent	ltj bukem	1
+OFDM system	lte	2
+overseas customer	ltd.	2
+professional manufacturer	ltd.	1
+army leader	ltg jacoby	1
+army leader	ltg austin	1
+compensation element	ltips	1
+ferry company	ltd.	1
+generation service	lte	1
+modern engine	lt one 	1
+structurally related compound	ltb four 	1
+traditional substrate	ltcc	1
+air interface	lte	1
+audio enhancement	lt twenty-six hvx feature audio enhancement 	1
+audio enhancement	lt twenty-seven hvx feature audio enhancement 	1
+audio enhancement	lt thirty-two hvm feature audio enhancement 	1
+audio enhancement	lt twenty-six hve feature audio enhancement 	1
+content management service	ltering	1
+large-scale manufacturer	ltd.	2
+second level domain	ltd.uk	1
+sponsor organization	lta	1
+traditional scheme	ltip	1
+branch company	ltd.	1
+electrical control panel	lt panel	2
+mobile broadband technology	lte	2
+event	lt dan weekend	1
+event	lti career fair	1
+Prominent Canadians	lt. general romeo dallaire	1
+shipping carrier	ltl freight	1
+sleuth	lt. frank drebin	2
+transistor technology	ltps	2
+A-list DJ	ltj bukem	1
+german airline	ltu	1
+LCD	ltn one hundred and fifty-four x three -l seven 	1
+mighty company	ltv	1
+salary component	lta	1
+senior commander	ltte's former senior commander	1
+basic bolt -on	lt header	1
+broadband datum service	lte	1
+domain type	ltd.uk	1
+dynamic analysis tool	ltt	1
+Eicosanoids	ltb four 	2
+Eicosanoids	ltc four 	1
+event	ltcm meltdown	1
+event	ltcm	1
+large steel company	ltd.	1
+low cost quote	ltsb quote	1
+military personnel	ltc lakin	1
+OFDMA system	lte	1
+oxide single crystal	lt single crystal	1
+senior insurance product	ltc & annuities	1
+senior military official	lt-gen tin aye	1
+senior military official	lt-gen ko ko	1
+well-established manufacturer	ltd. of japan	1
+access node	lte bss	1
+air interface technology	lte	1
+error-correction code	lt code	1
+famous national and international company	ltd.	1
+mobile broadband service	lte	2
+neuropsychological function	ltm	1
+program	lts	2
+pharmacy setting	ltc	1
+salary benefit	ltc	2
+second-generation AEDs	ltg	2
+strong constitutive promoter	ltr of roussarcoma virus	1
+bass artist	ltj bukem	1
+global macro strategy fund	ltcm	1
+home equity loan	ltv home equity loan	1
+independent operation	lteringor transformation	1
+key arab state	lthough key arab state	1
+Leukotrienes	ltc four 	1
+Leukotrienes	ltd four 	1
+meaningless name	ltr retrotransposons	1
+non-enzyme-inducing AEDs	ltg	1
+program	ltd.	1
+program	ltap	1
+program	ltc jumonville memorial	1
+prestigious footwear manufacturer	ltd.	1
+subordinate enterprise	ltd.	1
+subordinate institution	ltd.	1
+advanced communication protocol	lte	1
+consolidated subsidiary	ltd.	1
+datum medium	lto data tape	1
+electrical switch board	lt switch board	1
+generation wireless technology	lte	1
+glucocorticoid drug	lthough glucocorticoid drug	1
+health-care institution	ltcf	1
+japanese blank CD manufacturer	ltd.	1
+large chinese and foreign company	ltd.	1
+leveraged fund	ltcm	2
+online travel provider	ltu	1
+pakistani official	lt. general hameed gul	1
+pool characteristic	ltv ratio	1
+pre-4g technology	lte	1
+senior general	lt gen khalid kidwai	1
+solar module manufacturing company	ltd.	2
+state dignitary	lt. governor	1
+advanced wireless communication system	lte	4
+biosynthetic intermediate	lta four  from alox five 	1
+business entity company	ltd.	1
+china-listed company	ltd.	1
+civilian clone	lt general aliyu gusau	1
+digestive health vitamin	ltimate colon care formula	2
+established phone card provider	lt one 	1
+generation mobile network	lte	2
+generation wireless network	lte	1
+healthy function	ltc filter	2
+high-technology equipment	lto- four  tape player 	1
+land trust organization	lta	1
+large and medium-sized enterprise	ltd.	1
+large, national producer	ltd.	1
+LTs	ltb four 	2
+measured function	ltm	1
+mortgage loan characteristic	ltv ratio	1
+personality rack	ltd. of tokyo	3
+retired officer	lt col oliver north	1
+salary statutory benefit	lta	1
+organization	ltte	5
+organization	lta	4
+organization	ltd.	2
+successful private corporation	ltd.	4
+trace tool	ltt	1
+additionalinformation	ltv fico in future presentation	1
+advanced wireless system	lte	1
+attractive perquisite	ltc	2
+broacast format	lto	1
+business abbreviation	ltd.	2
+business suffix	ltd.	1
+career service company	ltd.	2
+cold slushy liquid	ltalian ice	1
+decision support function	lt	1
+domestically well-known communication company	ltd.	1
+downstream supplier	ltd.	1
+established electronics company	ltd.	1
+feature audio enhancement	lt twenty-six hve feature audio enhancement 	1
+feature audio enhancement	lt twenty-six hvx feature audio enhancement 	1
+feature audio enhancement	lt twenty-seven hvx feature audio enhancement 	1
+feature audio enhancement	lt thirty-two hvm feature audio enhancement 	1
+final meter access technology	lte mobile	1
+fire official	lt. paul stewart of central kitsap fire	1
+global famous manufacturer	ltd.	1
+high visibility group	ltw	1
+high-dollar western brand	ltd. www.plunkettresearch.com tommy hilfiger	1
+large-scale factory	ltd.	1
+mainstream CDMA2000 terminal maker	ltd.	1
+mobile broadband technologies	lte	1
+mobile broadband wireless communication application	lte	1
+mobile mail-order corporation	ltd.	1
+Multi-channel equipment	ltbm technology	1
+nextgeneration technology	lte out into africa	1
+non-specific chemo-attractant compound	ltb four 	1
+office arrangement	lternative office arrangement	1
+optical metrology method	ltp	1
+organization	ltpr	1
+organization	ltf	1
+organization	ltte in sri lanka	1
+prominent research organization	lter	1
+screen character	lt. danny roman	1
+semiconductor business company	ltd.	1
+subordinate company	ltd.	1
+TDD signal	lte	1
+texas leader	lt. governor david dewhurst	1
+tuning enhancement	ltft control sensitivity	1
+well-known domestic enterprise	ltd.	1
+4G network	lte	5
+5-lox metabolite	ltb four 	2
+access interface	lte radio access interface	1
+acute-phase response acute phase protein	ltf	1
+add-on term	ltd.	2
+advanced mobile technology	lte	1
+B3G network	lte	2
+beloved literary role	lt. william bligh	1
+boutique consulting firm	ltd.	1
+broadband wireless network	lte	1
+BWA technology	lte	1
+chevrolet cobalt model	lt coupe	1
+chevrolet cobalt model	lt sedan	1
+co-cooperate factory	ltd.	1
+committed group	ltte	1
+composite rank	lt. jg	1
+composite rank	lt. commander	1
+composite rank	lt. colonel	1
+domestic large restaurant group	ltd.	1
+domestic pesticide enterprise	ltd.	1
+emerging 4G standard	lte	1
+emerging cellular network	lte	1
+excluded hospital	ltch	1
+export house	lt karle	1
+famous transnational corporation	ltd.	1
+fedex operating company	ltl freight	1
+freight shipping company term	ltl tl common carrier	1
+hospitality designer	ltw	1
+in-depth publication	ltc focus	1
+informational anatomic modifier	lt	1
+lag indicator	ltis	1
+laser gun	lti truspeed	1
+leading chip company	ltd.	1
+livestock firm	ltd.	1
+local mobile communication terminal maker	ltd.	1
+local star enterprise	ltd.	2
+mainstream airline	ltu	1
+mid-cap and small-cap company	lt foods	2
+mobile communication standard	lte	1
+mobile wireless standard	lte	1
+application	lte encoder	3
+notable automotive supplier	ltv steel	1
+popular D&B label	ltj bukem s good looking records	2
+popular drum & bass label	ltj bukem's good looking records	1
+proinflammatory chemoattractants	ltb four 	1
+PV module manufacturing company	ltd.	1
+rateless code	lt	1
+research-based chinese company	ltd.	1
+robust tape drive solution	lto	1
+self-reported variable	ltpa	1
+separatist-nationalist movement	ltte	1
+service commander	ltgen esperon	1
+settled R & D institution	ltd.	1
+statewide election	lt. gov.	1
+subsidiary firm	ltd.	1
+Synaptic plasticity	ltp	3
+application	ltps tft lcd	1
+application	ltrnnshavefound many application	1
+application	lt one  camaros 	1
+tebuconazole technical producer	ltd.	1
+techy acronym	ltr	1
+UK domain	ltd.uk	1
+wideband communication standard	lte	1
+4G access technology	lte	1
+4G air interface	lte	1
+4G mobile communication system	lte	1
+4G solution	lte	1
+4G standard	lte	2
+academic reward	lta award for the top student in civil engineering construction	1
+advanced cellular technology	lte	1
+advanced wireless network	lte	1
+advanced wireless standard	lte	2
+aggressive surgical approach	ltx in combination with whipple operation	1
+anatomic modifier	lt	1
+apparel specialty firm	ltd.	1
+archive device	lto four  archive system from cache-a 	1
+attribute argument	lty	1
+broadband wireless system	lte	1
+name	ltr retrotransposons	2
+catalyst organization	lti	1
+cellular broadband service	lte services being rolled out by at&t	2
+cellular broadband service	lte services being rolled out by att	1
+cellular network protocol	lte	1
+CNC manufacturer	ltd.	1
+commercial wireless broadband technology	lte	1
+Commercially available DMI	ltd.	2
+company suffix	ltd.	1
+Conventional multilayer technology	ltcc	1
+credit-related variable	ltv	1
+Cysteinyl leukotrienes	ltd four 	2
+defensive driving instructor	lt. mark bodanza of the new hampshire police standards	1
+dehydrins	lti thirty  from arabidopsis 	1
+domestic and international tool manufacturer	ltd.	1
+eosinophil-derived agent	ltc four 	2
+Fake Americans	lt. daniel choi	1
+fallen veteran	lt. jacob fritz	1
+name	ltj bukem	1
+name	lt	1
+name	ltp trade	1
+name	ltte boot licker	1
+name	lt ooi	1
+forum variable	ltv	1
+fourth generation protocol	lte	1
+generation mobile technology	lte	1
+generation wireless broadband system	lte	2
+georgia leader	lt. governor casey cagle	1
+global industry theme	lte for communication	1
+good, dedicated man	lt. john moore	1
+higher-end package	ltz	1
+imaging device-related enterprise	ltd.	1
+immediate-onset, trans cription-independent phenomenon	ltp	1
+impor-tant standard	lte	1
+indifferent country	ltc-definition indifferent country	1
+injury rate	ltif	1
+innovation implementation process	ltrc's scale for project evaluation	1
+iron regulatory gene	ltf	1
+israel's homegrown industry	ltd.	1
+kind dignitary	lt. governor	1
+land mobile communication system	lte	1
+langasite crystal	ltg	1
+latter-day trading company	ltd.	1
+legal abbreviation	ltd.	2
+leukotriene-receptor antagonist	lt one  cysteinyl leukotriene-receptor antagonist 	1
+factor	ltv ratio	1
+factor	ltc	1
+linear tape format	lto	2
+linear technology	lto	1
+local soldier	lt. richard klinker	1
+long-range wireless standard	lte	1
+LSO's	lt. andrew mclean of vx- twenty-three 	1
+LSO's	lt. geoffrey mcalwee of vx- twenty 	1
+magnetic tape drive	lto	1
+mandatory maintenance instruction	ltas	1
+militarised group	ltte	1
+military chief	lt general peter leahy	1
+military psychologist	lt. colonel kathy platoni	1
+mobile and wireless technology	lte	1
+modern cellular packet-switched communication system	lte	2
+modern mobile technology	lte	1
+modern wideband modulation scheme	lte	1
+next-generation mobile communication network	lte	1
+next-generation wireless network	lte	1
+NGA technology	lte	1
+non-consolidated subsidiary	ltd.	1
+non-muslim threat group	ltte	2
+novel photoconductive device	lt-ingaas emitter for the monocycle waveforms	1
+NTRODUCTION current cellular system	lte	1
+OICs	lt. guy cline	1
+Peptide leukotrienes	ltc four 	1
+Peptide leukotrienes	ltd four 	1
+physical network technology	lte	1
+plasticity change	ltp in the cell-body region of the mesolimbic dopamine system	1
+platoon leader	lt. anthony woods	2
+case	ltd.  fifty-six 	1
+postsynaptic mechanism	ltp	1
+postsynaptic mechanism	ltf in invertebrate neuron	1
+prominent marine officer	lt general kko ali sadikin	1
+promising new wireless technology	lte	1
+radio access system	lte	1
+regulated and controlled environment	ltc facility	1
+satellite-navigation datum	lto information	1
+second, cell wall degradation product	lta released upon autolysis	1
+secul ar separatist organization	ltte	1
+so-called 4G network	lte	1
+standard fountain code	lt	1
+state-of-the-art mass spectrometer	ltq-orbitrap velos etd	1
+state-of-the-art mass spectrometer	ltq orbitrapxl etd	1
+case	ltr retrotransposons gypsy	1
+case	ltcm	1
+case	lte cell	1
+case	lt. ehren watada	1
+case	lta balloon freak-out	1
+case	ltte in sri lanka	1
+option	ltc funding option	1
+technology transfer program	ltap	1
+terror movement	ltte	1
+visiting kiwanian dignitary	lt. governors	1
+well-known domestic and overseas enterprise	ltd.	1
+wireless incoming technology	lte	1
+wireless multiple access system	lte	1
+ZIPRA cadre	lt general	1
+3GPP standard	lte	1
+4G mobile technology	lte	1
+4G system	lte	2
+4th generation network	lte	1
+access standard	lte	1
+achive device	lt four  archive system from cache-a 	1
+activity-dependent hippocampal synaptic plasticity	ltp	1
+advanced case study	ltcm hedge fund case	1
+aggregate company	ltm	1
+all-ip wireless technology	lte	1
+art format	lto	1
+atemporal logic	ltl inor ct lin	1
+option	lt board	1
+option	ltl freight	1
+blood thirsty group	ltte	1
+business-type TMS vendor	ltc's agile	1
+capacity solution	lte	1
+collaborative biological project	lter study	1
+commercial mortgage product	ltd company purchases whether for own use	1
+common state-of-the-art standard	lte	1
+compaigns	ltcs	1
+concerning tape library	lto three  library 	1
+control system toolbox feature	lti viewer	1
+control system toolbox software feature	lti viewer	1
+conventional LCD panel	ltps	1
+conventional tape drive technology	lto	2
+criminal and terrorist group	ltte	1
+crucial 4G network	lte	1
+delco unit	lt one  starter 	1
+detail IBM tape solution	lto	1
+device group	lto device group	1
+digital computer datum tape	lto four 	1
+discipline-based network	ltsn psychology	1
+distinguished gay man	lt. dan choi	2
+drive format	lto four 	1
+group	ltte	3
+group	ltte in sri lanka	2
+emergent businessman	lt. col lionel dyke	1
+encryption capable drive	lto four 	1
+enforceable plan	ltcp	1
+eosinophilic mediator	ltc four 	1
+fanatical and fascist military group	ltte	1
+FBC member	lt. tim schroeder	1
+flag level training audience member	lt gen stoltz	1
+flow reduction initiative	ltf	1
+forzeolite structure	lta	1
+fountain code	lt code	1
+fourth-generation cellular system	lte	1
+frequency reuse-1 system	lte	3
+game commission employee	lt. nicholas ruha	2
+generation communication system	lte-advanced system	1
+german charter airline	ltu	1
+high capacity mobile technology	lte	1
+high-profile political entrepreneur	lt. daniel choi	1
+high-q packaging technology	ltcc	1
+history many army leader	ltc herman koehler	1
+hot conglomerate	ltv	1
+incage structure	lta	1
+indomitable planter	lt-col bryde	1
+INEEL program	lts	2
+group	lter network	1
+inland transportation provider	ltl carrier	1
+innovative wireless communication system	lte	2
+inrernational donor	ltrf wf	1
+intense duty	lt. lillian kamphuis	1
+iraqi armament engineer	lt. general amer rashid	1
+ireless network	lte advanced	1
+labor intensive entity	ltc home	1
+large conglomerate firm	ltv	1
+laser speed tool	lti	1
+latest control plane protocol	lte positioning protocol	1
+LTC4S gene product	ltc four s polypeptide 	1
+member enterprise	ltd.	1
+metro-wide technology	lte	1
+Mid range tape	lto	1
+model soldier	lt. choi	1
+modern hybrid circuit technology	ltcc-substrate hybrid	1
+modern multilayer substrate	ltcc	1
+modern spectrally-efficient, digitally-modulated signal	lte	1
+modern tape	lto	2
+multilayer ceramic process	ltcc	1
+multi-layer circuit	ltcc circuit	1
+multiple-access system	lte	1
+multi-user oriented system	lte	1
+natural PPAR aligands	ltb four 	1
+next-generation mobile broadband technology	lte	2
+next-generation network	lte	2
+ofdm-based technology	lte	1
+ofdm-based wideband system	lte	1
+open tape format	lto	1
+orthogonal protocol	ltw protocol	2
+over-the-wire and on-tape timecode signal	ltc	1
+pelt option	lt gray with darker gray stripe	1
+production mill	lt fourty  series 	1
+purchase generic brand lamp	lti	3
+radio access scheme	lte	1
+realist internationalist	lt. general william odom	1
+red army officer	lt. general popov	1
+regional steel company	ltv	1
+rem option	ltr	1
+representative multilayer substrate	ltcc ceramic substrate	1
+retroviral promoter	ltrs from mlv	1
+saluda county officer	lt. donovan shealy	1
+secular separatist organization	ltte	1
+method	ltm	1
+short tube runner intake	lt one 	1
+simpli-fieddesigntools	lt method	1
+single fourth-generation technology	lte	1
+small and medium zeolite structure	lta	1
+snapper lawn tractor	lt one hundred and thirty  aws 	1
+so-called 4G technology	lte	1
+social care policy	ltci	1
+sophisticated and competent terrorist group	ltte	2
+spectrally efficient 4G technology	lte	1
+state-funded california partnership academy	lti	1
+strictly theological trea-tises	lt six er adversus dogma fdicis 	1
+suitable SPICE simulator	lt spice	1
+synaptic plasticity mechanism	ltp	2
+template sequence	ltrs of retrotransposons	1
+timecode signal	ltc	1
+traditional underwriting measure	ltv ratio	2
+true oath keeper	ltcol lakin	1
+trunking controller	ltr	2
+typical OFDM system	lte system	2
+ultra-wideband communication technology	lte	3
+unprincipled terrorist organization	ltte	1
+unsupervised spike-based learning method	ltp	1
+upstreams	lttng	1
+veteran trooper	lt. lawrence e. faries	1
+tool	ltrace	2
+watt fixture	ltm pepper	1
+white light-based passive microrheology technique	ltm	2
+wide-band development	lte	1
+wideband high-datarate system	lte	1
+wily philosopher	ltk	1
+wireless standard protocol	lte	2
+woman fighter pilot	lt. kara hultgreen	1
+wrong metric	ltv per customer	1
+tool	ltv	1
+tool	lthough modern tool	1
+product	lt  three mp mobile phones 	3
+project	lter	2
+project	ltd.	2
+project	lts group project	1
+artist	ltj bukem	5
+material	ltcc	3
+material	lto	2
+place	ltg	1
+player	lt overseas	1
+technology	lte	55
+technology	ltcc	6
+technology	lte present new opportunity	3
+technology	lto	3
+product	ltb four 	1
+product	ltc	1
+product	ltd. . su of shanghai	1
+product	lte vehicular antennas	1
+product	lt	1
+product	ltt leather cleaning	1
+product	ltd commodities	1
+product	ltb tyre related product	1
+technology	lt security feature	1
+term	ltd.	7
+term	ltd.  nine 	1
+term	ltl shipper	1
+parameter	lty	1
+system	lte	16
+system	ltp model	1
+system	ltr	1
+variable	ltv	4
+variable	lt	1
+variable	ltv ratio	1
+variable	lto -odd	1
+variable	lto weight rank	1
+function	lt	1
+device	lt panels	1
+device	ltps	1
+device	lto	1
+brand	ltb by little big	1
+brand	ltb jeans	1
+brand	ltb	1
+concept	ltccps use concept	1
+component	lte four 	1
+component	lt one thousand one hundred and sixty-seven  for the input 	1

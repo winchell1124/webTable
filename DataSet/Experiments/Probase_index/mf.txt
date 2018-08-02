@@ -1,0 +1,508 @@
+initiative	mfb racing	1
+initiative	mfp	1
+datum	mfp	1
+datum	mft subject indicator result	1
+resource	mfs format	1
+source	mfa funding source	1
+property	mfi	2
+character	mfundo the tsotsi	1
+model	mf-ub screw	1
+institution	mfs investment management	1
+client	mfs	2
+client	mfi	2
+client	mfc dialog application	1
+document	mfg plan	2
+feature	mfcc	5
+approach	mfm	1
+agency	mfat	1
+course	mfds	2
+course	mfo	1
+mechanism	mfr	1
+feature	mft defrag	2
+structure	mfi	3
+structure	mft	1
+business	mfi	1
+cost	mfip director's salary	1
+firm	mf global	4
+firm	mfs	1
+manufacturer	mf digital	1
+manufacturer	mfg e	1
+instrument	mfds  one hundred and fourty-one 	2
+act	mf doom	1
+class	mfc gui class	1
+entity	mfs	1
+feature	mfj-mfs comparison	1
+feature	mft	1
+feature	mfcc vector	1
+Organisations	mfi	1
+sector	mfg	1
+customer	mfi	1
+scheme	mfm	1
+student	mfa actor robin gordon	1
+magazine	mfn	1
+provider	mf global	1
+asset	mf global uk's stake in the london metal exchange	1
+asset	mfh	1
+retailer	mfi	4
+color	mf red	1
+issue	mfi regulation	1
+issue	mf implementation	1
+issue	mfn for china	1
+stakeholder	mfpa	1
+possibility	mfc class	1
+producer	mf doom	1
+luminary	mf husain	1
+principle	mfn	1
+text	mfn corpus	1
+file	mfc fourty  . dll 	1
+file	mfc fourty-two  . dll 	1
+file	mft	1
+file	mfc dlls	1
+service provider	mfs	2
+symbol	mfc private implementation function	1
+bank	mfb	1
+provision	mfn clause	1
+provision	mfn	1
+chain	mfi	2
+mode	mfsk sixteen 	5
+mode	mfsk	4
+shop	mfi	1
+apps	mflash player	1
+stock	mfa financials	1
+account	mfs	1
+basic information	mfa policy	1
+museum	mfa	2
+museum	mfa boston	1
+museum	mfa in boston	1
+annual event	mfh spring picnic	1
+ngos	mfangavo hiv policy tanzania ngos	1
+time	mfc thread	1
+segment	mf paper	1
+industry leader	mfs	1
+key area	mft	1
+detailed information	mfeprimer report	2
+filter	mfj	1
+command	mformat	1
+island	mfangano ringiti	1
+household name	mfi	2
+code	mf three 	2
+participant	mfi representative	1
+number	mfc  seven thousand eight hundred and fourty w 	1
+population	mfis specifically targeted conflict-affected population	1
+contributing factor	mff flying	1
+qualification	mfl	1
+framework	mfc	4
+painter	mf husain	1
+library	mfc	9
+interface	mfj	1
+interface	mfc class library with appwizard	1
+entry	mf one 	1
+assessment	mfbsojoh tangible assessment	1
+proposal	mftp	1
+ride	mf	1
+item	mfa	1
+info	mfg. year	1
+non-governmental organization	mfs belgium	1
+apparatus	mfp	1
+funding source	mfa funding source	1
+commercial product	mf one 	1
+view	mft entry	3
+system component	mf decoder	1
+degree	mfa in performing art	1
+physical feature	mfcc	1
+obligation	mfn status	1
+peripheral device	mfp	1
+comment	mfzalv watch movies online ttlhygc on a regular basis	1
+comment	mfwsmm watch movies online qvgdjcv day-to-day	1
+merchant page	mfi sofas & beds	1
+merchant page	mfi office furniture	1
+success story	mfi in the sudan	1
+rapper	mf doom	3
+voice	mfe	1
+boat	mfv roisin bairbre	1
+reputable company	mfi	1
+area	mfuleni	3
+area	mfl	2
+episode	mfecane	1
+contentious issue	mfn clause	3
+regional organization	mfo headquarters in rome	1
+industry organization	mfa	2
+large employer	mfi	2
+apparatuses	mfp	1
+printer	mfc  seven thousand four hundred and fourty n 	1
+abbreviation	mfg	1
+basic principle	mfn treatment	1
+adjuvants	mf fifty-nine 	9
+broker	mf global	1
+development tool	mfc	1
+musical	mfl	1
+income	mf cap gain	1
+governmental agency	mfa	1
+common service	mf four  receiver 	1
+international institution	mff	1
+vector	mfg	1
+plug-ins	mfrecordpro	1
+plug-ins	mfserverutils	1
+imaging device	mfp	1
+complementary therapy	mfr	1
+membrane	mf one 	1
+prestigious company	mfs communications	1
+talented artist	mf doom	1
+giveaway	mfg	1
+prestigious client	mfi	1
+nightclub	mf boudoir	1
+factor	mfg reliability	1
+factor	mfi's geographic location	1
+service	mf distribution	2
+key organization	mfis	1
+theoretical approach	mfold program	1
+corporate entity	mf global	1
+modulation scheme	mfm	1
+rap artist	mf doom	1
+outcome variable	mff error score	1
+therapist	mfccs	1
+therapist	mft	1
+therapist	mfts	1
+web resource	mfa homepage	1
+programming tool	mfc	1
+variable datum	mfg date	2
+investment company	mfs investment management	1
+successful artist	mf doom	2
+microsoft technology	mfc	1
+australian company	mfs in financial difficulty	1
+big game	mfl final	1
+electronic instrument	mfd	1
+advanced degree	mfa in graphic design	1
+analytical parameter	mfh supply	1
+fashion label	mf girbaud in paris	1
+collaborative project	mfl	1
+big club	mfm yaba	1
+independent company	mfd	1
+cap	mfs	2
+specialty material	mfa	1
+notable client	mf global	1
+non-bank financial institution	mf global	1
+notable organization	mfc	1
+topic	mfo enzyme system	1
+topic	mfc	1
+leading artist	mf hussain	1
+MCs	mf grimm	1
+inspection service	mfl pipescan	1
+audio feature	mfcc	1
+local museum	mfa	1
+modulation method	mfm	1
+regional network	mfc	1
+system file	mft	3
+contemporary musician	mf doom	1
+wonderful organization	mfa	1
+topic	mfi legal status	1
+topic	mfn	1
+high-profile name	mfi	1
+manual technique	mfr	1
+candidate gene	mfrp	1
+social medium outlet	mfi connect	1
+graduate degree	mfa	2
+cigar	mf puff n stuff	1
+great museum	mfa	1
+regular client	mfi	1
+company	mfa	2
+company	mfs	2
+company	mf global	2
+mice	mf one 	1
+image processing apparatus	mfp equipped with a browser having a function of uploading a file onto a server	2
+self-regulatory organization	mfda ipc	1
+home-grown company	mfs	1
+company	mfs communications	1
+company	mformation	1
+company	mformation technologies inc. of edison	1
+company	mfg.com	1
+refugee	mfengu	1
+hydrocarbon gas	mfg	1
+brokerage house	mf global	1
+image processing device	mfp	2
+membrane process	mf	1
+acoustic feature	mfcc	2
+company	mfs technologies	1
+company	mfc	1
+joint event	mfa trip	1
+pretreatment process	mf	1
+transformation method	mfa	2
+furniture company	mfi	1
+horizontal issue	mfn exemption	2
+master's degree	mfa	1
+digital mode	mfsk sixteen 	1
+digital mode	mfsk	1
+application framework	mfc	1
+activity	mfi staff training	2
+activity	mfdr awareness conditions for project success being building	1
+development framework	mfc	1
+spectral feature	mfcc	1
+complimentary technique	mfm	1
+ego	mf black	1
+external dependency	mfc dlls	2
+food writer	mfk fisher	1
+risk investment	mfs in  two thousand and eleven 	1
+class library	mfc	3
+software library	mfc	2
+pig	mfl	1
+simple combination	mf-h lld r one hundred and fourty-five rf 	1
+advanced treatment technology	mf	1
+crystal structure	mfi	1
+terminal degree	mfa	4
+terminal degree	mfa in creative writing	1
+competent person	mfd safety officer	1
+others artist	mf doom	1
+user agency	mfish	1
+information	mfps fax number	1
+information	mfp's fax number	1
+information	mfg date	1
+american label	mfsl	1
+DLLs	mfc extension dlls	1
+image reading device	mfp system	2
+animal protection group	mfa	1
+refined oil product	mfo	1
+relationship expert	mft	1
+year manufacturer	mfj	1
+LCD screen	mfd	1
+urban planning tool	mfe urban design protocol	1
+conventional vector	mfg	1
+event	mfg.com sourcing fairs	1
+independent initiative	mfl resources	1
+investment angle industry	mfg. of chemical products	1
+investment angle industry	mfg. of wearing apparel dressing	1
+investment angle industry	mfg. of rubber	1
+investment angle industry	mfg. of food products	1
+investment angle industry	mfg. of machinery	1
+italian magazine	mffashion magazine	2
+so-called competitive local exchange carrier	mfs communications	1
+competitive provider	mfs	1
+dacs	mfg's use different dacs	1
+regular necessity	mf towel	1
+soft-tissue tumor	mfh	1
+station accessory	mfj enterprises inc	1
+synapse	mf synapse	1
+GUI toolkits	mfc	1
+investment business	mf financial	1
+keyers	mfj grandmaster	1
+membrane filtration technology	mf	2
+program	mfa homeownership assistance program	1
+program	mfc	1
+potential attraction	mfangisale	1
+gary vig	mfc  one 	0
+basic TA indicator	mfi	1
+concrete method	mfcc parameterisation	1
+conventional welding process	mfdc	1
+introduced concept	mfc pricing	1
+invisible object	mfc runtime	1
+advanced programming tool	mfc	1
+digital communication mode	mfsk	2
+DLL error	mfc seventy-one .dll error 	1
+land-use regulation	mfpa	1
+market strength indicator	mfi	2
+MDM vendor	mformation	1
+popular fund	mfs emerging growth fund	1
+retroviral vector	mfg	1
+AC modulation technique	mfm	1
+competitive access provider	mfs datanet	1
+device id	mfp  one hundred a 	2
+device id	mfp  one hundred b 	2
+organization	mf global	1
+organization	mfaa	1
+good tractor	mf gc two thousand four hundred 	1
+gui class	mfc gui class	1
+international up-and-coming brand	mfp maria francesca pepe	1
+mandatory attribute value	mfg. part no.	1
+metadata file	mft	1
+Novel adjuvants	mf fifty-nine 	1
+peripheral image product	mfp	1
+technique	mfm	3
+practical imaging technique	mfm	1
+second catalyst	mfi catalyst	1
+tip fund	mfs global equity	1
+user interface framework	mfc	1
+young technology	mfm	1
+absence vulnerability	mfe using the techniques presented in fang's dissertation	1
+technique	mfr	1
+bin manufacturer	mfs york	1
+britain's biggest high-street name	mfi	1
+brother color multifunction centre	mfc  four hundred and sixty-five cn 	1
+classic win32-based UI technology	mfc	1
+cockpit control	mfds	1
+conflict-affected population	mfis specifically targeted conflict-affected population	1
+constraint-based method	mfa	1
+development library	mfc	1
+established retail chain	mfi	1
+first class school	mfantsipim	1
+technique	mfa	1
+HF digital mode	mfsk sixteen 	3
+hybrid mREITs	mfa financial	1
+leverage well-established technique	mfccs feature set	1
+Modern adjuvants	mf fifty-nine 	1
+modern GUI toolkits	mfc	1
+NXP chip	mf rc five hundred and thirty-one 	1
+oracle service bus project artifact	mfl	1
+quality piping product	mflex	1
+RNA structural prediction software package	mfoldby zuker et al.	1
+stock market technical indicator	mfi	1
+system innovation	mfr	1
+antenna analyzer	mfj	2
+area-wide indicator	mfd	4
+batch date	mfg date	1
+big brand store	mfi	1
+biggest polish festival	mft malta in poznan	1
+application	mfc	1
+name	mfi	1
+canon's product	mfp	2
+CFD provider	mf global	1
+commercially available oxygen sensor unit	mfpf  one hundred  from tautheta instruments 	2
+counterpart apparatus	mfp	1
+emerging digital service	mflow	1
+facsimile apparatus	mfp	1
+ferrite based loop	mfj	1
+GATS obligation	mfn	1
+good enzyme cleaner	mfsl	1
+good tuner	mfj tuner	1
+great anglo-american writer	mfk fisher	1
+group portfolio report	mf portfolio summary	1
+high-profile, well-established name	mfi	1
+intelligent conscious, talented rapper	mf doom	1
+investment liberalisation provision	mfn	1
+level GUI library	mfc on windows	1
+levelpacks	mf olympics	1
+licensed adjuvants	mf fifty-nine 	1
+name	mf doom	1
+case	mf global	1
+market access provider	mf global	1
+MDM technology developer	mformation	1
+Medium pore zeolites	mfi	1
+morphological rearrangement	mf spreading	1
+MSIs	mfa forum	1
+net ACH net-to-vendor deduction	mfcu	1
+Oil-in-water emulsion adjuvants	mf fifty-nine 	1
+parlour-type game	mforma's monopoly tycoon	1
+Pentasil zeolites	mfi	4
+piezoelectric composite device	mfc	1
+post-gradua te creative writing program	mfas offered by colombia university	1
+prestigious great-producer-okay-rappers	mf doom	1
+proprietary oil-in-water emulsion system	mf fifty-nine 	1
+quantitative local magnetic characterization method	mfm induced by a strong inhomogeneous probe tip field	1
+questionable performance measure	mflops	2
+rate-based protocol	mfdp	1
+sarcoma subtypes	mfh	1
+short-term feature	mfcc	1
+sophisticated testing equipment	mfi tester	1
+sound card mode	mfsk	1
+sr22's popular feature	mfd	1
+surface-threat, self-defense radar	mfr	1
+case	mfp	1
+taxable subsidiary	mfca funding	1
+Usinga material	mfa	1
+win32 technology	mfc	1
+actual sale site	mf	1
+AR Muni bond fund	mfs arkansas municipal bond	1
+attribute hyperlink	mfg name	1
+option	mfs	1
+option	mfc timer	1
+broad-based fisher's organization	mfu	1
+brother multifunction centre	mfc  two hundred and thirty-five c 	1
+cartridge alignment tool	mfsl geodisc	1
+cepstral-based feature	mfcc	1
+childhood curriculum	mflm into pa primer	1
+civil right worker	mfdp leader robert moses	1
+contactless smart card module	mfcc one  module 	2
+core institutional donor	mfa dk	1
+digital recording method	mfm	1
+DIY synthesizer	mfos soundlab & wsg	1
+option	mfactory gear	1
+option	mfa switch	1
+group	mfs	2
+erm mission	mfo-sinai mission	1
+established programming framework	mfc	1
+external class library	mfc	1
+external low voltage supply	mfj- one thousand three hundred and fifteen  ac adapter 	1
+facilities-based cap	mfs	2
+future commission merchant	mf global	4
+generic utility mutual fund	mfs utilities	1
+Good source material	mf transparency	1
+great food writer	mfk fischer	1
+horizon search radar	mfr	1
+horizontal wire antennas	mf communications antennas	1
+imageCLASS MFPs	mf six thousand five hundred and sixty cx through retail channel 	1
+group	mfg	1
+group	mfa	1
+group	mfsb	1
+intamin ride	mf	1
+large high street store	mfi going into administration	1
+low pressure membrane pretreatment	mf used at ocwd	1
+lymphangioleiomyomas	mfh	1
+manga aggregators	mf for the manga	1
+mass shopping company	mfi	1
+mass-market MDM player	mformation	1
+modern digital transmission mode	mfsk	1
+multilateralising provision	mfn clause	1
+national land-use control	mfpa	1
+nice antenna analyzer	mfj	1
+niche application specific solution	mfi devices for plastics production	1
+non-operating life insurance company	mfc	1
+non-preferential and preferential clause	mfn	1
+non-SFV rate design methodology	mfv method	1
+NTFS system file	mft	2
+operator-supplied external antenna	mfj  one thousand eight hundred 	1
+os-specific library	mfc class for ms-windows	1
+outbred mice	mf one 	1
+permanent multinational formation	mfo in the sinai	1
+popular speech recognition feature	mfcc	2
+powerful adjuvants	mf fifty-nine 	1
+proclaimed artist	mf hussain	1
+programming lan-guageswith specialized niche	mforscientific applications inmatlab r	1
+quantity condition	mf	3
+quarter frame setup	mft	1
+reit-diversified company	mfa financial inc.	1
+secondary structure folding algorithm	mfold algorithm	2
+sectoral adviser	mfa health adviser	1
+method	mfl	1
+method	mfp	1
+sensitive bioassay	mfo in cell line	1
+short-term response indicator	mfo enzyme	1
+silica zeolites	mfi	1
+somewhat-classy spammers	mft	1
+sophisticated non-contact device	mf series	1
+Standard speech feature	mfcc	1
+STS type	mfh	1
+superior-class component	mfcap capacitor	2
+switched-capacitor filter	mf six  sixth-order butterworth lowpass filter from national semiconductor 	1
+TNC2 hardware compatible clone	mfj tnc's	1
+troublesome window dlls	mfc dlls	1
+tube dac	mf tri-vista	1
+underground hip-hop producer	mf doom	2
+volume print service	mfd usage	1
+WAN connectivity	mfr t one 's 	1
+WTO fundamental principle	mfn	2
+tool	mfcmapi	1
+tool	mfc appwizard	1
+factor	mfis age	1
+factor	mfis age s	1
+project	mfs	1
+artist	mf doom	15
+material	mfa	3
+player	mfi	1
+technology	mfc	2
+technology	mfm	1
+term	mfa	1
+system	mfcs	1
+measure	mfrc's reckless lending rule	1
+measure	mflops	1
+condition	mf	2
+element	mfn performance requirement	1
+variable	mfi	2
+product	mf motor range	1
+variable	mfgr	1
+function	mfp	1
+device	mfc receiver	2
+device	mfds	2
+device	mf eight  fourth-orderbandpass filter 	1
+device	mfm floppy disk controller	1
+device	mfis	1
+brand	mfj	1
+concept	mfg. cell	1
+site	mf	1

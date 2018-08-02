@@ -1,0 +1,946 @@
+initiative	nma national initiative	1
+datum	nmr shift	2
+datum	nmr t two  distribution 	1
+resource	nmhrab grant program	1
+resource	nma	1
+resource	nmp	1
+process	nmr	2
+source	nme	2
+property	nmr characteristic	1
+property	nmr spectrum	1
+property	nmr	1
+work	nmr study	1
+skill	nmr	1
+institution	nm mithibai college	1
+client	nms communications	2
+document	nms	1
+product	nm-sio two 	1
+product	nm-zno	1
+product	nmr spectrometer	1
+product	nm-caco three 	1
+product	nm-al two o three 	1
+product	nm-up	1
+approach	nmr	2
+approach	nmr spectroscopy	2
+approach	nms	1
+approach	nmda iontophoresis	1
+alternative	nmr spectroscopy	1
+agency	nmfs	4
+agency	nmma	1
+course	nmims exec pgdm	1
+course	nmb's inland course	1
+location	nmc archives	1
+location	nmcp	1
+mechanism	nmr scanner	1
+mechanism	nmda receptor activation	1
+book	nmap guide	1
+film	nm thick metal film	1
+field	nmr	1
+procedure	nmr spectroscopy	1
+procedure	nmr	1
+band	nme darlings test-icicles	1
+school	nm cattle growers short course	1
+school	nmbec in croydon	1
+school	nmh	1
+food	nmany healthy food	1
+title	nmd for natural medical doctor	1
+operation	nmi	1
+agent	nmda antagonist agent	1
+agent	nmethyl-d-aspartate antagonist	1
+agent	nmda receptor antagonist	1
+development	nmda antagonist cur-rentlyin  development	1
+city	nmany western canadian city	1
+venue	nmb bank recital room	1
+criterion	nml	1
+firm	nmdc	1
+drug	nmda antagonist drug	1
+drug	nmda	1
+drug	nmda associated glycine receptor antagonist	1
+test	nmr	1
+test	nmp- twenty-two  bladder cancer marker 	1
+treatment	nmda inhibitor	1
+instrument	nmr	2
+instrument	nmr spectrometer	1
+act	nm territorial act	1
+feature	nm flash hider	1
+publication	nme	11
+study	nmr	3
+study	nmr relaxation experiment	2
+study	nmmaps project	1
+study	nmr experiment	1
+individual	nme radio's james theaker	2
+equipment	nmr	1
+unit	nm	1
+leader	nmeiry in sudan	1
+mean	nmr	1
+instance	nmidc in milwaukee	1
+policy	nms	1
+substance	nmda receptor antagonist	1
+entity	nmsu department of health	1
+building	nm adobe churches	1
+expert	nme editor skinz robertson	1
+medication	nmda receptor agonists	1
+medication	nmda receptor antagonist	1
+Organisations	nmk	1
+partner	nmd	1
+big name	nmims	1
+standard	nmed specification	1
+standard	nmt	1
+club	nmfc	1
+vendor	nmost antivirus vendor	1
+vendor	nms communications	1
+intervention	nmt bridge	1
+label	nmc	1
+department	nmdot	1
+behavior	nmedically significant behavior	1
+environment	nmt	1
+environment	nm db	1
+award	nmcc president's award	1
+award	nmra best engine	1
+student	nmu	1
+magazine	nme	33
+party	nmsp	1
+protein	nmda receptor-associated protein	1
+competitor	nmb	2
+decision	nmd-tmd deployment	1
+state	nm with a large number of sparsely-populated county	1
+channel	nme tv	1
+rule	nms	1
+utility	nm	1
+file	nmake file	1
+platform	nms	1
+bank	nm rothschild	3
+bank	nmb bank	1
+modification	nmda receptor-dependent synaptic modification	1
+molecule	nmp	3
+problem	nmanydata analysis problem	1
+sensor	nmea- two thousand   gps receiver 	1
+sensor	nmr fluid sensor	1
+upgrade	nm piston	1
+stock	nmdc	1
+modalities	nmr	2
+modalities	nmes	1
+museum	nmai in dc	1
+NGOs	nm sadguru foundation	1
+government agency	nmfs	2
+government agency	nm occupational health	1
+gene	nme two 	2
+gene	nm twenty-three 	2
+gene	nme one 	1
+gene	nmb	1
+traditional method	nmr analysis	1
+traditional method	nmr	1
+community organization	nm highlands university	1
+cell	nm cell	1
+index	nmse	1
+regulation	nmsp	1
+enterprise	nmf	1
+layer	nm thick metal layer	1
+layer	nm thick intermediate layer	1
+detailed information	nmed event number	1
+methodology	nmr	2
+command	nmon	1
+issue	nmduvoptical lithography issue	1
+issue	nmr spectral complexity	1
+issue	nmr metabolite profiling	1
+issue	nmsp matter	1
+goodie	nme magazine	1
+solvent	nmp	15
+expression	nmd	1
+finish	nmultiple high end finish	1
+hospital	nmc	1
+ministry	nmsu campus ministry	1
+framework	nmock	1
+national organization	nmfc	3
+financial institution	nm rothschild	1
+route	nm  three hundred and thirteen 	1
+analysis	nmr spectrum analysis	3
+analysis	nmr analysis	1
+construct	nmp variable	1
+volunteer	nmlc intern	1
+conference	nmhc technology	1
+diagnosis	nmdar encephalitis	1
+proposal	nmd	1
+guest speaker	nmsu regent laura conniff	1
+avenue	nmc	1
+electronics	nmea  two thousand  -compatible electronics 	1
+certification	nmsdoc	1
+imaging technique	nmr	1
+item	nmr system	1
+base	nmm	1
+medium outlet	nme	1
+variant	nmf	1
+legislation	nmsa	1
+key stakeholder	nmc	2
+testing	nmr	1
+quality brand	nme	1
+experiment	nmr spectroscopy	1
+traditional technique	nmr imaging	1
+software application	nmap	1
+software tool	nmap	1
+outfit	nmra	2
+conventional technique	nmr	2
+federal agency	nmfs	1
+analytical technique	nmr	15
+analytical technique	nmr spectroscopy	3
+analytical technique	nmr sedimentation	1
+statute	nm public employee bargaining act	1
+item	nmm	1
+item	nm property tax	1
+basic facility	nmr facility at iicb	1
+diagnostic tool	nmk	1
+modern technique	nmr	1
+semiconductor device	nmos transistor	1
+healthy food	nmany healthy food	1
+receptor	nmda	5
+political party	nmdp	1
+organic solvent	nmethyl pyrrolidone	1
+analytical tool	nmr	2
+imaging modalities	nmr	1
+internet site	nm	1
+clinical factor	nmscs located on the lip	1
+regulatory agency	nmfs	1
+sophisticated technique	nmr	2
+traditional approach	nmr	1
+audience	nmc-represented composer border different audience	1
+experimental technique	nmr	8
+analytical method	nmr	12
+analytical method	nmr spectroscopy	1
+control system	nmp recovery system	1
+free tool	nmon	1
+abbreviation	nmi	2
+agonists	nmdar glycine site agonists	1
+agonists	nmda receptor glycine site agonists	1
+development tool	nm	1
+switch	nmos transistor	2
+powerful tool	nmap	1
+advanced application	nmr	1
+national publication	nme	1
+translation	nm king james	1
+medical application	nmes study	1
+physical method	nmr	3
+government entity	nm commissioner of land	1
+area	nmr	1
+area	nmr observation	1
+processing technique	nm zero  correction 	1
+government institution	nmk	1
+standard tool	nm	1
+analysis method	nmr	1
+wireless technology	nmt	1
+imaging study	nmr	1
+big name brand	nme	1
+sophisticated method	nmr	3
+harmful chemical	nmda	1
+physicochemical property	nmr	1
+routine procedure	nmr spectroscopy	1
+corporates	nmpt	1
+blocker	nmda channel blocker	1
+blocker	nmda receptor ``open channel blocker''	1
+blocker	nmdar channel blocker	1
+brand product	nmb in japan	1
+scanner	nmap	5
+analgesic	nmixed opioid agonist-antagonist analgesic	1
+monitoring tool	nmon	1
+policy document	nms	1
+research organization	nm biopark society	1
+medical equipment	nmr	1
+news outlet	nme	1
+polar solvent	nmp	2
+characterization technique	nmr	5
+experimental method	nmr	13
+experimental method	nmr spectroscopy	6
+experimental method	nmr measurement	1
+circuit element	nmos transistor	1
+circuit element	nmr probe	1
+common method	nmr	1
+monitor	nmon	1
+recipient	nmmi	1
+classical method	nmr spectroscopy	1
+classical method	nmr	1
+commercial bank	nmb	1
+commenters	nmted	1
+registry	nmdp	1
+laboratory technique	nmr	2
+loan program	nmtc	1
+security tool	nmap	2
+spectroscopic technique	nmr	10
+spectroscopic technique	nmr dipolar coupling	1
+active element	nmos transistor	1
+non-invasive technique	nmr spectroscopy for performing biochemical analyses in intact cell suspension	1
+automated tool	nmap	2
+automated tool	nmock	1
+broad area	nmr spectroscopy	1
+open source tool	nmock	1
+clinical application	nmr tomography	5
+experimental approach	nmr	3
+non-invasive method	nmr	1
+noninvasive technique	nmr	1
+pin	nmi	1
+experimental datum	nmr	1
+complementary technique	nmr	2
+infield	nmr	1
+switching device	nmos	1
+nucleus	nmr active nucleus	1
+powerful technique	nmr spectroscopy	1
+oxidizer	nmo	1
+transistor	nmos transistor	1
+spectroscopic method	nmr	17
+spectroscopic method	nmr spectroscopy	1
+advanced imaging technique	nmr	1
+physical technique	nmr	2
+medical instrument	nmr	1
+molecular property	nmr shielding constant	1
+topic	nmr	2
+administrative agency	nmb	1
+international magazine	nme	5
+compiler	nmake	1
+research university	nmsu	1
+magnetic property	nmr shielding	2
+established method	nms binding	1
+metal layer	nm thick metal layer	1
+default setting	nmfc	1
+mobile unit	nmcb	1
+user setting	nmea	1
+analytical instrument	nmr	2
+real application	nmr magnet	1
+topic	nmr structural determination	1
+mag	nme	1
+security software	nmap	1
+characterization method	nmr	2
+characterization method	nmr spectroscopy	1
+MFIs	nmb	1
+government authority	nmmc	2
+outlet store	nm last call	1
+aprotic solvent	nmp	2
+instrumental technique	nmr	1
+autoantibodies	nmo immunoglobulin g	2
+banking institution	nmb	1
+car dealer	nmg cars	1
+open source software	nmap	1
+topic	nmr techniques	1
+topic	nmr nuclear magnetic resonance	1
+intermediate layer	nm thick intermediate layer	1
+mobile system	nmt	1
+physical tool	nmr spectrometry	1
+geographical location	nmu alumni society of southeast michigan	2
+community space	nmc campus	1
+community space	nmc conference center	1
+large instrument	nmr spectrometer	1
+metal film	nm thick metal film	1
+metal film	nm-thick metal film	1
+car club	nmra	1
+simple equipment	nmr spectrometer	1
+experimental procedure	nmr experiment	1
+federal legislation	nmfs	1
+advanced instrument	nmr	2
+biophysical technique	nmr	9
+biophysical technique	nmr spectroscopy	1
+company	nmdc	6
+company	nmc	2
+instrumental method	nmr	1
+memory technology	nmt	1
+sensor technology	nmr	1
+canadian city	nmany western canadian city	1
+medical group	nmg	1
+simulation method	nmr-diffusion simulation method	1
+biophysical method	nmr	5
+biophysical method	nmr spectroscopy	3
+entertainment application	nmc player	1
+physicochemical method	nmr spectroscopy	1
+channel blocker	nmdar channel blocker	1
+channel blocker	nmda receptor ``open channel blocker''	1
+channel blocker	nmda channel blocker	1
+transition country	nms	1
+equivalent	nmd four pandits metazoan equivalent 	1
+solution technique	nmr	1
+company	nm life	1
+company	nmb	1
+company	nmk schultz	1
+company	nms communications	1
+company	nmt medical	1
+company	nm rothschild	1
+analog system	nmt	3
+analog system	nmt from scandanavia	1
+analytical test	nmr	2
+area college	nmsu	1
+mac	nmac	1
+skin cancer	nmsc	1
+high end finish	nmultiple high end finish	1
+public sector company	nmdc	1
+accreditation organization	nmsa	1
+conventional solvent	nmp	3
+essential technique	nmr	1
+global development	nmd development	2
+humanitarian group	nmd	1
+logic device	nmos	1
+music magazine	nme	4
+nondestructive method	nmr	1
+host device	nmx-bus host device	1
+precise method	nmr	1
+company	nmc america	1
+slow process	nmr	1
+structural technique	nmr	2
+industry tool	nmap	1
+PSUs	nmdc	1
+ion channel	nmda tunnels described in the program	1
+land management agency	nmdgf	1
+polar aprotic solvent	nmp	1
+characterisation technique	nmr	1
+magnetic field sensor	nmr sensor	2
+modern analytical technique	nmr	4
+modern analytical technique	nmr spectroscopy	1
+mining stock	nmdc	1
+national system	nmds	1
+aprotic polar solvent	nmp	3
+semiconductor technology	nmos	1
+cellular communication system	nmt	1
+spectrum	nmr spectrum	1
+structural method	nmr	2
+structural method	nmr spectroscopy	1
+analog technology	nmt	1
+industry bigwig	nme photojournalist guy eppel	1
+spectroscopy technique	nmr	1
+hydrophilic solvent	nmp	1
+music website	nme.com	1
+advanced analytical method	nmr	2
+chamber orchestra	nms lubomir pipkov orchestra	1
+high-resolution technique	nmr	1
+measuring technique	nmr measurement	1
+physico-chemical technique	nmr spectrometry	1
+structural approach	nmr	1
+bodywork technique	nmt	1
+polymerization technique	nmp	1
+commodity company	nmdc	1
+high resolution technique	nmr	2
+demyelinating disease	nmo	1
+modern analytical method	nmr	3
+molecular imaging technique	nmr spectroscopy	1
+nomenclature	nmdp nomenclature	1
+resolution technique	nmr	1
+subspace method	nmf	1
+typical organic solvent	nmp	1
+analytical equipment	nmr	1
+four-year college	nmsu	1
+spectral datum	nmr	5
+spectral technique	nmr	1
+imaging scan	nm study	1
+numerical measure	nmse	1
+symposium	nm in  two thousand and seven 	1
+analytical methodology	nmr	1
+approved drug	nmda receptor antagonist memantine	1
+campus ministry	nmsu campus ministry	1
+excitatory amino acid	nmda	1
+observational method	nmt	1
+scanning tool	nmap	8
+system integration service	nms platform	1
+circuit technology	nmos	1
+longtime customer	nmbs	1
+merchant bank	nm rothschild	1
+music publication	nme	3
+reputed institute	nmims through distance education program	1
+traditional analysis	nmr	1
+antivirus vendor	nmost antivirus vendor	1
+processing algorithm	nmo	2
+british publication	nme	2
+british magazine	nme	1
+ceasefire group	nmsp	2
+interface protocol	nmea  one hundred and eighty-three 	1
+modern spectroscopic technique	nmr spectrometry	1
+modern spectroscopic technique	nmr	1
+spectroscopic property	nmr	1
+traditional experimental method	nmr	1
+air pollution control system	nmp recovery system	1
+biophysical approach	nmr	2
+cellular radio system	nmt	1
+glutamate receptor	nmda receptor	3
+glutamate receptor	nmdar	1
+HEIs	nmmu	1
+instrumental analysis	nmr	3
+mobile radio system	nmt	1
+modern imaging method	nmrt picture	1
+standard datum format	nmea	1
+switch device	nmos transistor	1
+analog cellular system	nmt- four hundred and fifty 	3
+analog cellular system	nmt- nine hundred 	2
+event	nmi	1
+event	nmca muscle car nationals	1
+event	nmsu-sponsored event	1
+event	nmsdc's annual conference	1
+public sector firm	nmdc	1
+agency partner	nm state parks	1
+biophysical tool	nmr	2
+off-line method	nmr	1
+port scanner	nmap	10
+port scanner	nmap from a nearby windows	1
+port scanner	nmap for linux	1
+top prep school	nmh	1
+two-dimensional application	nmr	1
+advanced characterization technique	nmr	1
+advanced laboratory technique	nmr	1
+amide solvent	nmp	1
+attack tool	nmap	1
+backends	nmm	1
+CMOS device	nmos	5
+CMOS device	nmos switches employed in fig	1
+event	nms	1
+event	nme music award	1
+program	nmap	5
+first generation system	nmt	3
+information-gathering tool	nmap	1
+ionotropic glutamate receptor	nmda	1
+linux utility	nm	1
+presynaptic protein	nmda receptor subunits	1
+quality control mechanism	nmd	1
+standard cable	nm-b	1
+unaddressed issue	nmf normalization	1
+unaddressed issue	nmf algoritm convergence rate	1
+common testing tool	nmap	1
+exempt solvent	nmp	1
+gnu utility	nm	1
+informative method	nmr spectroscopy	1
+iron ore miner	nmdc	1
+key molecule	nmdareceptor subunit nr two b 	1
+large insurance broker	nmg	2
+large miner	nmdc	1
+lipophilic medication	nm blocker	1
+program	nmake	2
+program	nmap with stealth mode by script kiddie	1
+non-optical method	nmr	1
+structural biology technique	nmr	1
+structural characterization technique	nmr	1
+synapse	nmj	1
+bearer service	nm subsystem	1
+biophysical measurement	nmr	1
+common analytical method	nmr	1
+compliant system	nmra dcc compliant system	1
+compliant system	nmra compliant system	1
+convenient unit	nm	1
+experimental application	nmr spectroscopy	1
+first system	nmt	1
+government-run company	nmdc	1
+Integrating modalities	nmt trigger point	1
+program	nmfs species of concern program	1
+program	nmd radar	1
+program	nm	1
+quaternary ammonium hydroxide	nmd- three  tetramethylammonium hydroxide 	1
+radio standard	nmt	1
+sophisticated analytical instrument	nmr spectrometer	1
+spectroscopic study	nmr	1
+standardized entrance exam	nmat	1
+adverse drug event	nms	1
+cellular protocol	nmp ten 	1
+high-resolution method	nmr	3
+image registration method	nmi	1
+large iron ore mining company	nmdc	1
+metastasis-related gene	nme one 	1
+mobile content platform company	nms communications	1
+modern synthetic technique	nmp	1
+network scanner	nmap	7
+neuroprotective drug	nmda antagonist neramexane	1
+neurotransmitter receptor	nmda receptor	1
+noticeable free tool	nmap	2
+physical inorganic method	nmr	1
+standard interface protocol	nmea  one hundred and eighty-three 	1
+street identifiers	nm five hundred and twenty-eight 	1
+western canadian city	nmany western canadian city	1
+big medium organization	nmg	1
+CAUTION device	nmos	1
+complex sample design	nmcues household sample design	1
+conventional analytic testing technique	nmr end absorption spectroscopy	1
+conventional analytic testing technique	nmr	1
+discussion method	nmr	1
+hosted act	nme tour	1
+inland course	nmb's inland course	1
+investment banking boutique	nm rothschild	2
+ionotropic neurotransmitter receptor	nmda receptor	4
+local probe	nmr	1
+molecule spectroscopic characterization technique	nmr	1
+morphological transformation	nmj	1
+NMLS service	nmls call center	3
+open channel blocker	nmda receptor ``open channel blocker''	1
+pollution control equipment & system	nmp recovery system	1
+polymer material characterization technique	nmr	1
+regional development project	nm pipeline project	1
+organization	nma	2
+solution-based technique	nmr	1
+spectroscopic approach	nmr	1
+structure determination method	nmr	2
+structure determination method	nmr orx-ray crystallography	1
+synaptic molecule	nmda receptor	3
+testing modalities	nmr spectroscopy	1
+tradi-tionalprotein characterization method	nmr	1
+utilized security vulnerability scanning tool	nmap	1
+vulnerability assessment tool	nmap	1
+advanced instrumental technique	nmr	1
+air pollution gas	nmhc	1
+analog cellular telephone system	nmt- nine hundred 	1
+analog cellular telephone system	nmt- four hundred and fifty 	1
+analog standard	nmt- four hundred and fifty 	1
+analogue cellular system	nmt- four hundred and fifty 	1
+capstone document	nms	3
+complementary spectroscopic technique	nmr	2
+conventional biophysical technique	nmr	1
+conventional biophysical technique	nmr spectroscopy	1
+conventional process velocity	nmo velocity	1
+depolarizing amino acid	nmda	1
+electronic design technology	nmos	1
+organization	nml	1
+organization	nmra	1
+organization	nmu hockey team	1
+organization	nmbp offer online instructor certification	1
+organization	nmit	1
+integral transformation	nm zero  velocity stacking 	1
+international standard group	nmf	1
+ionotropic receptor	nmda	1
+low-throughput method	nmr	1
+metastasis-suppressing protein	nm twenty-three 	1
+mock framework	nmock	1
+modern analytical spectroscopic tool	nmr	1
+NMS user-related feature	nms user registration	1
+physicochemical analytical technique	nmr spectroscopy	1
+organization	nmc	1
+organization	nmfs	1
+organization	nmha	1
+organization	nmsa	1
+technique	nmr	58
+technique	nmr spectroscopy	18
+technique	nmt	5
+PPM	nms starting	1
+scanning program	nmap	2
+specifi c technique	nmr spectroscopy	1
+spectroscopic characterization technique	nmr	1
+static petrophysical property	nmr relaxation	1
+structure-based technique	nmr	1
+UK national laboratory organization	nmo	1
+VW product	nms	1
+1G system	nmt	1
+aproticsolvents	nmp	1
+atmospheric base contaminant	nmp	2
+basic pen testing tool	nmap	1
+technique	nmap	2
+technique	nmm	1
+technique	nmr spectrometry	1
+bioanalytical and biophysical method	nmr	1
+cell-protecting drug	nmda antagonist	1
+conventional analytictesting technique	nmr	1
+conventional characterization method	nmr spectroscopy	1
+conventional high-resolution imaging technique	nmr	1
+copper building wire product	nm-b	2
+easily accessible tool	nmap	1
+federal environmental agency	nmfs	1
+financial counter	nmb holdings ltd	1
+technique	nmr relaxation time	1
+technique	nmf	1
+technique	nmr spin trapping	1
+glutamate agonists	nmda	1
+Glutamate receptor agonists	nmda	1
+glutamatergic drug	nmda	1
+high polar, aprotic solvent	nmp	1
+incorporated association	nmra	1
+international and UK consumer brand	nme	1
+introduction deterministic latent variable model	nmf	1
+invasive tumor marker	nmp twenty-two 	1
+lipoprotein testing	nmr lipoprofile	1
+metabolic profiling technique	nmr	1
+metabolomic tool	nmr	2
+metastasis-suppressing gene	nm twenty-three 	2
+mobile phone standard	nmt	1
+modern experiment	nmr	1
+modern structural biology method	nmr	1
+music paper	nme	1
+NMSU program	nmsu nigms marc program	1
+application	nmr	4
+application	nmap	3
+application	nms	2
+application	nmr ineor	1
+application	nmr sec	1
+application	nmr imaging	1
+application	nmr core analysis	1
+application	nmr well logging	1
+observer program	nmfs southeast fisheries science center	1
+optional connection	nmea	1
+physicochemical analysis	nmr	1
+portscanners	nmap	1
+public vocational training provider	nmit	4
+rapid, sensitive technique	nmr spectroscopy	1
+real-time database	nmdb	2
+samba tool	nmblookup	1
+scanner technology	nmr	1
+second order property	nmr spin-spin coupling constant	1
+security scanning tool	nmap	1
+spectroscopic and hyphenated technique	nmr	1
+spectroscopic mean	nmr	2
+spectroscopy application	nmr	1
+standard networking tool	nmap	1
+subtype-specific eukaryotic iGluR agonists	nmda	1
+suitable type switch	nmos transistor	1
+traditional chemical characterization tool	nmr	1
+vocational training provider	nmit	3
+active scanner	nmap	3
+advanced analytical equipment	nmr	1
+advanced characterization facilitates	nmr	1
+alternatively biophysical method	nmr	1
+analysis problem	nmanydata analysis problem	1
+analytical spectrophotometric technique	nmr spectroscopy	1
+anhydrous dipolar aprotic solvent	nmp	1
+antiglutamamatergic agent	nmda antagonist	1
+architecture mapping tool	nmap	1
+attacker tool	nmap	1
+auto-location technology	nmea-compliant gps device	1
+biggest PSUs	nmdc ltd	1
+black physician	nma founders robert f. boyd	1
+bladder tumor marker	nmp twenty-two 	1
+british music publication	nme	1
+application	nmr experimentation	1
+application	nmsc malaysia flagship application	1
+Chromolithographs	nmows go home bay	1
+classical metabolomic technique	nmr	1
+classi-calmetabolomic technique	nmr	1
+common spectroscopic technique	nmr spectroscopy	1
+compiler tool	nm	1
+computing apparatus	nma  one hundred and two 	1
+conclusion atmospheric base contaminant	nmp	2
+conventional high-reso lution imaging technique	nmr	1
+conventional monitoring tool	nmr carbon-oxygen	1
+cylinder pressure parameter	nmep	1
+dipolar aprotic amide solvent	nmp	2
+easily distinguishable thru method	nmr	1
+emerging functionally tolerant polymerization technique	nmp	1
+established medium channel	nmg's ntv	1
+eukaryotic PIN domain protein	nmd four p from yeast 	1
+FE measurement	nmr	1
+first mobile telephony system	nmt	1
+first-generation analog system	nmt	1
+generic analysis tool	nmap	1
+generic security tool	nmap	1
+Glutamatergic agonists	nmda	1
+gov site	nmfs	1
+GPS message format	nmea	2
+ground-state datum	nmr chemical shift	1
+HABITAT PROTECTION federal environmental agency	nmfs	1
+heavy team	nmsu	1
+high resolution structural technique	nmr	1
+incisive technique	nmr	1
+initiated comprehensive training activity	nma course	1
+lab test kit	nmp twenty-two  lab test kit 	1
+large music new source	nme	1
+large PSUs	nmdc	1
+leasing bank	nmac	1
+case	nmda receptor	2
+linux network tool	nmap	1
+living radical polymerization system	nmp	1
+low volatility solvent	nmp	1
+management entrance test	nmims	1
+matrix factorization process	nmf	1
+microscopic measurement	nmr	1
+modern nonmetallic sheathed cable	nmc	1
+Modi-fications	nmp solvate	1
+molecular weight nitrosamines	nmea	1
+muscle energy technique	nmt	1
+national marine retailer	nmma boat certification program	1
+neural insult	nmda-dependent excitotoxicity	1
+neurotransmitter-gated channel	nmda receptor	1
+NMC student publication	nmc magazine	1
+nociceptive chemical	nmda	1
+noisy and loud powerful fan	nmb  one hundred and twenty mm 	1
+non-ethernet application	nmp on the supervisor engine	1
+nonseparation-based technique	nmr	1
+oligomeric receptor	nmdar	1
+online silver dealer	nmt mint bullion	1
+organic and analytical technique	nmr	1
+PASK protein binding assay	nmr-based assay	1
+permanent ground station	nmsu	1
+physicochemical methodology	nmr	1
+physico-chemical methodology	nmr	1
+polar cosolvent	nmp	1
+popular research tool	nmda antagonist d-ap five 	2
+case	nmo-corrected gathers in figure  twelve c 	1
+case	nmb	1
+port-scanning tool	nmap	1
+postsynaptic element	nmda receptor	1
+predetermined semiconductor device	nmos transistor	1
+pure spin probe	nmr	1
+revised area	nmr spectroscopy	1
+solubility test insolvent	nmp	1
+spectroscopic analytic method	nmr	1
+spectroscopic and analytical method	nmr	1
+standalone security tool	nmap	2
+static qubit device	nmr system	1
+thecurrent parkinson's disease treatment	nmda inhibitor	1
+thick metal layer	nm thick metal layer	1
+tomographic and metabolic imaging technique	nmri	1
+traditional analytical chemistry technique	nmr	1
+traditional investment technique	nmd	1
+tribal consortium	nm indian tourism association	1
+urgent care consultant	nmn consultants	1
+acknowledged magazine	nme	1
+active fingerprinting tool	nmap	2
+active testing tool port scanner	nmap	1
+administrative law enforcement agency	nma	1
+advanced and powerful technique	nmr spectroscopy	1
+advantageous touse experimental method	nmrorir absorbance	1
+air-transportable, task-organized seabee unit	nmcb	1
+alliance zerg guild	nmm	1
+antiexcitotoxic agent	nmda receptor antagonist	2
+antihyperalgesic drug	nmda antagonist	1
+aspatiyl radical	nmethyld aspartyl radical	1
+awesome mod	nmc's texture mod	1
+option	nms-based configuration	1
+biophysical and biochemical method	nmr	1
+biophysical fragment screening approach	nmr	1
+biophysical research method	nmr	1
+bn-like receptor	nmb	1
+bodyboarding brand	nmd	2
+brand new insurance policy	nma worldwide financial institutions professional indemnity policy	1
+british music paper	nme	7
+calculated spectroscopic property	nmr	1
+case regulator	nmc	1
+cellular quality control pathway	nmd	1
+cellular quality-control mechanism	nmd	1
+characterization many spectroscopic method	nmr	1
+chemistry instrument	nmr	1
+chemistry method	nmr	1
+cognitive-social person variable	nmr expectancy	1
+common spectroscopic method	nmr	3
+Computer telephony hardware	nms's fusion card	1
+consequence different or new technology	nmr	1
+Conventional NMR diagnostic apparatus	nmr computerized tomographic apparatus	1
+conventional seismic method	nmo velocity analysis	1
+custom output message	nmea over rs two hundred and thirty-two 	1
+cutting-edge characterisation technique	nmr	1
+density VLI technology	nms technology	1
+digitally-evolved title	nme.com	1
+entofnewandnon invasive technique	nmr	1
+environmentally friendly polymerization method	nmp in emulsion medium	1
+erimentsfrom various technique	nmr	1
+experimental 3D structure determination method	nmr spectroscopy	1
+exploratory or open analytical method	nmr-based metabolomics	1
+extract phase	nmp extract phase of a lube oil	1
+Glutamate and glutamatergic ionotropic agonists	nmda	1
+great open source tool	nmap	1
+high boiling polar solvent	nmp	1
+high resolution probe	nmr	1
+high resolution structural analysis technique	nmr	2
+high-resolution structural method	nmr	1
+high-resolution structural study	nmr imaging	1
+holistic community detection method	nmf	2
+honest museum	nmai	1
+hydrogen-bond breaking reagent	nmethylmorpholine n-oxide	1
+hydrophilic carcinogen	nmu	1
+incompatible analog cellular standard	nmt	1
+in-licensed product	nmp twenty-two  bladderchek 	1
+interim iraqi government institution	nmd	1
+ionophoric receptor	nmda	2
+JSPS product	nms	2
+key PSD component	nmda receptor	1
+land grant system	nmsu	1
+large-bore Nuclear Magnetic Resonance instrument	nmr imager	1
+largest russian metallurgical enterprise	nmlk ojsc	2
+ligand-operated ion channel	nmda receptor	1
+lithography issue	nmduvoptical lithography issue	1
+MABOS	nmea	1
+metazoan equivalent	nmd four pandits metazoan equivalent 	1
+mid-major	nmsu	1
+mocking tool	nmock	1
+modern DAE modeling language	nmf	1
+moisturizing effect unique conditioning ingredient	nmf	1
+myc target gene	nme one 	1
+netmapping and vulnerability-scanning tool	nmap	1
+network port scanner	nmap	1
+non-targeted analytical technique	nmr	2
+group	nmma	1
+method	nmr	32
+method	nmr spectroscopy	8
+method	nmr spectrometry	1
+method	nmr technique	1
+method	nmr-diffusion simulation method	1
+method	nml	1
+notable software tool	nmap	1
+notional capability	nmd	1
+NRI device	nml	1
+paid-for brand	nme	1
+parkinson's disease treatment	nmda inhibitor	2
+peripheral ionotropic glutamate receptor	nmda receptor	2
+peripherally localized glutamate receptor	nmda	1
+physical-chemical analysis	nmr	1
+point-of-care test device	nmp twenty-two  bladderchek device 	1
+pore-scale simulator	nmr property simulator	1
+port scanning audit tool	nmap	2
+port scanning tool	nmap	1
+precompiled tool	nmap	1
+processing artefact	nmo stretch associated with the nmo correction	1
+publicly available scanner	nmap	1
+receptor channel	nmda receptor	1
+scale-free globally supersymmetric theory	nmssm with a scale-invariant superpotential	1
+second, conventional processing flow	nmo	1
+method	nmt	1
+method	nmf	1
+sensitive biophysical technique	nmr	1
+simple and free port scanner	nmap	1
+simple ASCII datum format	nmea	1
+slow conductance	nmda receptor-mediated epscs	1
+small-molecule-detection modalities	nmr	1
+SNMP information application	nms	2
+soccer school	nmmu-fck soccer school of excellence	1
+solution-phase technique	nmr spectroscopy	1
+sophisticated port scanner	nmap	2
+sparingly soluble contrast medium	nmr contrast medium	1
+standalone mining company	nmdc	1
+state-of-the-art test method	nmr	1
+statewide assessment result	nmhsce	1
+structural and analytical technique	nmr	2
+successful TAFE course	nmit good futures project	1
+suitable NMR application	nmr detection involving a flowing sample material	1
+suitable transistor	nmos transistor	1
+SUSY higgs model	nmssm	1
+technological clinical tool	nmr	1
+third political force	nmd	1
+today scanner	nmap	1
+tool freeware tool	nmap	1
+traditional end group identification technique	nmr	1
+transistor T	nmos transistor	4
+transport layer sequence prediction tool	nmap	1
+trend-setting music mag	nme	1
+typical port scanner	nmap	1
+typical rock music magazine	nme	1
+UK music publication	nme	2
+unadd ressed issue	nmf normalization	1
+tool	nmap	55
+tool	nm	4
+tool	nmon	2
+Well-established equipment	nmr	1
+tool	nmf for pattern recognition	1
+tool	nmr spectroscopy	1
+tool	nmake	1
+tool	nmc-rx application	1
+tool	nm on unix	1
+tool	nmr spect roscopy	1
+tool	nmr	1
+project	nmt	1
+material	nmp	2
+place	nm state parks	1
+player	nmk	1
+technology	nmr	6
+technology	nmos	4
+technology	nmr spectroscopy	3
+technology	nmr instrumentation	1
+technology	nmr relaxation analysis	1
+parameter	nmi	2
+parameter	nmf einval a parameter	1
+system	nmra dcc compliant system	1
+system	nmodern datacommunication system	1
+system	nmp	1
+system	nmra compliant system	1
+product	nm-fe three o four 	1
+product	nmp recovery system	1
+product	nm-tio two 	1
+device	nmos	4
+device	nmea repeater	3
+device	nmos transistor	3
+device	nmos s	2
+device	nm eight hundred and fifty ig usb phone parent 	1
+device	nmx-bus host device	1
+brand	nmd	1
+component	nmc outcome	1
+site	nme for further promotion	1
+site	nmbt	1

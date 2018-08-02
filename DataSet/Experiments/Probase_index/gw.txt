@@ -1,0 +1,961 @@
+datum	gw well flow datum	1
+facility	gwinnett medical center in atlanta	2
+facility	gwynne lea cottage	1
+facility	gwinnett county judicial	1
+property	gwinnett place	1
+game	gw two 	1
+ophthalmologist	gwen sterns	1
+ophthalmologist	gwen liang	1
+exception	gwen moore	1
+exception	gwinnett county	1
+character	gwen stacy	4
+character	gwendolen	3
+character	gwonam a.k.a squadala man	1
+character	gwydion	1
+character	gwylm the ugly	1
+character	gwyn	1
+work	gwtw	1
+model	gwen loos	1
+model	gwendolyn devoe	1
+model	gws tiger moth	1
+model	gw micros note taker	1
+word	gwine	1
+attraction	gwinnett braves game	2
+attraction	gwr steam railway	1
+client	gwyneth paltrow	4
+client	gwen moore children of china fund	1
+client	gwatney chevrolet	1
+client	gwar	1
+client	gwathmey siegel	1
+client	gwl realty advisors	1
+client	gwyneth	1
+author	gwendoline riley	16
+author	gwynne dyer	4
+author	gwendolyn brooks	2
+author	gwynneth foster	1
+author	gwyn thomas	1
+author	gwendoline riley, one hundred and thirty-eight  tom robbins 	1
+author	gw micro	1
+person	gwilym ab loan	1
+person	gwyneth paltrow	1
+approach	gwa	1
+idea	gw returning	1
+alternative	gwr	1
+effect	gwahir the eagle	1
+agency	gwinnett county sheriff's office	1
+agency	gwen bolden youth foundation	1
+location	gwb ceiling	1
+writer	gwendolyn brooks	7
+writer	gwen harwood	1
+writer	gwendolyn aubrey foster	1
+book	gwen bailey's	1
+book	gwyn jones a history of the vikings	1
+star	gwyneth paltrow	50
+star	gwen stefani	36
+star	gwenyth paltrow	6
+star	gweneth paltrow	2
+star	gwyneth pal trow	1
+star	gwen stephanie	1
+star	gwen stteffani	1
+structure	gw bridge	1
+film	gwtw	1
+band	gwar	5
+band	gwen stefani	1
+band	gwen stacy	1
+band	gwenith squires	1
+part	gwent	1
+school	gw	5
+school	gwu	2
+scholar	gwendolyn mink	2
+scholar	gwynn mcpeek	1
+feature	gwibber	1
+feature	gwt's editor framework	1
+development	gwinnett's newer development	1
+city	gwalior	5
+city	gwangju	4
+city	gweru	2
+celebrity	gwyneth paltrow	182
+celebrity	gwen stefani	90
+celebrity	gwenyth paltrow	6
+celebrity	gweneth paltrow	5
+celebrity	gwyneth palthrow	2
+celebrity	gwen stephani	2
+celebrity	gwyneth mulberry	1
+celebrity	gwyneth paltrow & demi moore	1
+celebrity	gwent patron	1
+celebrity	gwen ifill	1
+town	gwelo	1
+firm	gwinnett sprinkler	1
+indicator	gwh of electricity generated	1
+favorite	gwen gioia	1
+manufacturer	gw	1
+manufacturer	gw laboratories	1
+act	gwen stefani	3
+man	gwynn	1
+position	gwinnett county board of commissioners	1
+individual	gwen stefani	1
+individual	gwendolen harleth	1
+website	gwydir	1
+figure	gwydion	2
+figure	gw stuff	1
+musician	gwen stefani	8
+innovation	gwas	1
+instance	gweedore bay	1
+song	gwen stefani	1
+song	gwahoddiad	1
+song	gwen stefani's rich girl''	1
+team	gw's baseball team	1
+expert	gwen boyer bjorkman	1
+expert	gwen huff of the state department of water resources	1
+region	gwangju	1
+partner	gwich in tribal council	1
+partner	gwu	1
+partner	gwp	1
+big name	gwyneth paltrow	4
+big name	gwu	1
+big name	gwen stefani	1
+club	gweedore	1
+club	gwiazda bydgoszcz	1
+vendor	gwenni's trini	1
+vendor	gwen mcclure	1
+influence	gwen mcrae	3
+influence	gwen stefani	2
+store	gwinnett international farmer's market	1
+critic	gwyneth dunwoody	1
+critic	gwen m. vickery	1
+actor	gwyneth paltrow	4
+department	gwinnett	1
+designer	gwen stefani for l.a.m.b.	1
+student	gwen grayson	1
+woman	gwyneth paltrow	2
+woman	gwen stefani	1
+woman	gwendolyn	1
+woman	gwendolyn bennett	1
+woman	gwendolyn brooks	1
+woman	gwen wright	1
+woman	gwen petersen	1
+top quality inn	gwb cultural b&b	1
+top quality inn	gwin's lodge	1
+color	gwe in the same manner	1
+guest	gwyneth paltrow	2
+guest	gwen stefani	2
+guest	gwenda morgan from newport	1
+guest	gwyneth	1
+guest	gwyneth doland	1
+competitor	gw bush	1
+competitor	gw micro	1
+competitor	gw	1
+district	gwinnett county	2
+district	gwynedd	1
+district	gwanda	1
+district	gwinnett county public schools	1
+performer	gwen stefani	3
+legend	gwar	1
+state	gwalior	1
+key item	gwenford economic	1
+key item	gwinner economic	1
+great	gw bush	1
+package	gwinganna detox	1
+luminary	gwyneth paltrow	2
+luminary	gwendolyn brooks	2
+luminary	gwenyth paltrow	1
+luminary	gwen ifil of washington week on pbs	1
+suggestion	gwb institute of failure	1
+friend	gwyneth paltrow	2
+friend	gwb's terrorist friend	1
+issue	gwp	1
+track	gwen stefani's hollaback girl''	1
+service provider	gw net-working	1
+village	gwernymynydd	1
+historian	gwyn harries-jenkins	1
+modification	gwendolyn's car & tattoo	1
+chain	gwr	1
+singer	gwen stefani	4
+singer	gwen stephani	1
+singer	gwyn hughes jones	1
+singer	gwen stefabni	1
+teacher	gwen welliver	1
+force	gwent	2
+shop	gwynn ha du	3
+apps	gwibber	1
+personality	gwyneth paltrow	3
+personality	gwendolyn brooks	2
+personality	gwen stefani	1
+authority	gwynedd	1
+prize	gwc merchandise	1
+park	gwaii haanas national park reserve	1
+park	gwaii haanas	1
+competition	gw two 	1
+issue	gwi of biddeford	1
+college	gwinnett technical college	1
+college	gwinnett university	1
+politician	gwb	1
+prop	gws  three  blade prop 	1
+icon	gwen stefani	2
+carrier	gw life	1
+rival	gwen torrence	1
+poet	gwendolyn brooks	12
+poet	gwen harwood	1
+poet	gwee li sui	1
+centre	gweru	1
+commentator	gwynne dyer	1
+road	gwydir highway	1
+road	gwargo-panjgur road in balochistan	1
+county	gwinnett	22
+county	gwynedd	2
+notable	gwendolyn brooks	1
+local business	gwynne price coaches	1
+local business	gwili pottery	1
+investor	gw fund	1
+pioneer	gwen duncan	1
+response	gwen sarsfield's become	1
+municipality	gweru	1
+economist	gwyn prins	7
+famous name	gwyneth paltrow	2
+famous name	gwen steffany	1
+hospital	gwinnett medical center	1
+lake	gwendolen	1
+superstar	gwen stefani	1
+superstar	gwyneth patrol	1
+superstar	gwyneth paltrow	1
+resident	gwen cannon	1
+entertainer	gwen stefani	2
+framework	gwt	5
+Celebs	gwyneth paltrow	22
+Celebs	gwen stefani	8
+Celebs	gweneth paltrow	2
+Celebs	gwyneth	2
+Celebs	gwen stefani with l.a.m.b.	1
+Celebs	gwen steffani	1
+Celebs	gwynneth paltrow	1
+jurisdiction	gwinnett	1
+route	gwendolen buttress	1
+great artist	gwen stefani	1
+house	gwydion	1
+airport	gwangju int'l airport	1
+volunteer	gwen lawin	1
+conference	gwoc	1
+guest speaker	gwynne dyer	1
+guest speaker	gwen iffil	1
+vessel	gwendoline	3
+international company	gwynedd fire services	1
+ride	gwazi	2
+ethnic group	gwari	2
+practitioner	gwydion	2
+practitioner	gwyneth lewis	1
+item	gwalas	1
+variant	gwyddbwyll	1
+orchestra	gwacheon youth orchestra	1
+funding source	gwaii trust	1
+actress	gwyneth paltrow	14
+release	gw two 	1
+release	gwr horsebox	1
+school district	gwinnett	1
+well-known artist	gwen fox	1
+national act	gwen sebastian	1
+well-known name	gwyneth paltrow	1
+ritual	gwendolyn's demand for a formal proposal	2
+republican	gw bush overspent	1
+republican	gwb	1
+chapter	gwangju ubf	1
+international artist	gwen stefani	1
+settlement	gwoza	1
+charitable organization	gwinnett hospital's brighter smiles program	1
+public place	gwanghwamun	1
+nickname	gwen	1
+contemporary artist	gwen stefani	1
+conservative	gw bush	1
+local authority	gwynedd	2
+tourist destination	gwalior	1
+fan	gwyneth paltrow	2
+fan	gwen stefani	2
+infrastructure project	gwadar deep sea port	1
+post	gwb did this	1
+government	gwinnett county	1
+owner	gwinnett business owner	1
+entrepreneur	gwyn	2
+top name	gwen stefani	1
+item	gwynneville property tax	1
+item	gwenford property tax	1
+success story	gwen daglow of richmond	1
+professor	gwendolyn mikell	1
+small area	gwent	1
+role model	gwyneth paltrow	1
+presenter	gwyneth paltrow	1
+CDs	gwen stefani cds	1
+contact	gwen mcrae	1
+recording artist	gwen stefani	2
+international star	gwyneth paltrow	1
+development project	gwadar-jewani road	1
+girl	gwendoline	1
+liberal	gw bush	1
+hollywood star	gwyneth paltrow	8
+hollywood star	gwen stefani	1
+widgets	gwt's tree	1
+partnership	gwich in helicopters	1
+interesting topic	gwt custom control	1
+coastal region	gwynedd for homes for sale near beach	1
+area	gwinnett county	3
+area	gwent	3
+area	gwinnett	2
+plane	gws beaver & estarter	1
+plane	gws p- fifty-one d mustang 	1
+heavy hitter	gwen stacy	1
+musical influence	gwen stefani	1
+trainer	gwenda markwell	1
+kit	gwr bulldog	1
+model parameter	gwce parameter	1
+local charity	gwinnett children's shelter	1
+discovery	gwydion	1
+high profile client	gwyneth paltrow	1
+formulation	gw in many-body physic	1
+president	gw in the white house	1
+alumnus	gwendolyn jones	1
+movie star	gwyneth paltrow	4
+area	gwent in wales	1
+area	gwent levels historic landscape	1
+area	gwendraeth valley	1
+area	gwynedd	1
+area	gwembe	1
+area	gwadar	1
+area	gwanda in matabeleland south	1
+area	gwandalan	1
+area	gwydir river	1
+chronic illness	gwi	1
+world leader	gw bush	1
+cast member	gwyneth paltrow	1
+research method	gwas	1
+famous celebrity	gwyneth paltrow	3
+top artist	gwen stefani	2
+top artist	gwyneth paltrow	1
+farmer	gwyn williams from brecon	1
+high school	gwinnett's maxwell high school of technology	1
+train	gwalior-agra passenger	1
+local newspaper	gwinnett daily post	1
+great leader	gwb	1
+famous personality	gwyneth paltrow	4
+coastal town	gweek	1
+hollywood celebrity	gwen stefani	2
+public entity	gwd	1
+public entity	gwtf	1
+wetland	gwydir wetland	1
+business owner	gwinnett business owner	1
+funders	gwaii trust	1
+popular tourist destination	gwangalli beach	1
+war	gwot	1
+populated area	gwanghwamun	1
+trust	gwent	1
+a-list celebrity	gwyneth	1
+a-list celebrity	gwen stefani	1
+a-list celebrity	gwyneth paltrow	1
+web technology	gwt	1
+hitter	gwynn	1
+healthcare provider	gwinnett medical center	5
+area	gweru	1
+area	gwanda	1
+area	gwangju	1
+famous figure	gwyneth paltrow	1
+deck	gw trap	1
+high-profile client	gwyneth paltrow	3
+famous star	gwyneth paltrow	1
+skater	gwen miller	1
+great actor	gwenyth paltrow	1
+graduate	gwenda rodda	1
+modern artist	gwen stefani	1
+pop star	gwen stefani	2
+pop star	gwen steffani	1
+historical monument	gwalior fort	1
+building project	gwen ramsay tennis clubhouse	1
+illustrator	gwenda turner	1
+private university	gwu	1
+celebrity client	gwyneth	2
+celebrity client	gwyneth paltrow	1
+famous face	gwyneth paltrow	1
+legendary figure	gwendolyn brooks	1
+international celebrity	gwen stefani	11
+international celebrity	gwyneth paltrow	1
+beautiful beach	gwithian	1
+clan	gwi	1
+school system	gwinnett county	2
+school system	gwinnett	1
+adopter	gwent healthcare nhs trust	1
+adopter	gwent nhs healthcare trust	1
+campus organization	gw university police department	1
+commenters	gwen moore	1
+dress	gwyneth paltrow's cinnamon-colored	1
+regional centre	gwangju	1
+private foundation	gwendolyn sexton foundation	1
+young artist	gwendolyn knight	1
+hall	gw residence hall	1
+fashion icon	gwyneth paltrow	1
+A-listers	gwen stefani	3
+A-listers	gwyneth paltrow	2
+A-listers	gwen stefan	1
+service	gworld kiosk	1
+service	gwenna moss centre for teaching effectiveness	1
+club event	gws club event	1
+mega project	gwadar deep-sea port	2
+mega project	gwadar port	2
+mega project	gwadar seaport	1
+huge name	gwyneth paltrow	1
+hip hop artist	gwen estefani	1
+disciple	gwon geun	2
+mother	gwen eaton	1
+iconic figure	gwen stefani	1
+prefix	gwa -	1
+annual festival	gwynn's island festival	1
+celebrity fan	gwyneth paltrow	4
+established act	gwar	1
+starlet	gweneth paltrow	1
+indigenous group	gwich in council international	1
+female artist	gwen john	2
+hill	gwagwa hills	2
+modern author	gwyneth lewis	2
+professional artist	gwen verdon	1
+successful artist	gwen stefani	1
+third-party program	gwextranet by messaging architects	1
+high profile celebrity	gwyneth paltrow	1
+metropolitan city	gwangju	1
+local college	gwynedd-mercy college	1
+podcasts	gwaddtag on itunes	1
+prestigious name	gw bowersock	1
+sophisticated system	gws- twenty-five  seawolf 	1
+toolkits	gwt	1
+well-known star	gwyneth paltrow	1
+nature reserve	gwent wetlands	1
+prominent personality	gwyneth paltrow	1
+modern game	gw	1
+high-profile figure	gwyneth paltrow	1
+correspondent	gwyneth dunwoody	1
+topic	gwt	3
+old-timers	gwen kahn	1
+female singer	gwen stefani	1
+key role	gwendolyn	1
+a-list star	gwyneth paltrow	1
+a-list star	gwen stefani	1
+tourist sight	gwanghamun square	1
+well-known celebrity	gwyneth paltrow	1
+potter	gwyn hanssen pigott	1
+potter	gwyn hanssen-piggott	1
+common error	gwneth paltrow	1
+common error	gwyneth paltrw	1
+common error	gwynth paltrow	1
+convention center	gwinnett center in duluth	1
+sparsely populated area	gwynedd	1
+gospel great	gwen morton	2
+american composer	gwyneth walker	1
+art institution	gwangju biennale foundation in south korea	1
+celebrity parent	gwyneth paltrow	2
+celebrity parent	gwen stefani	1
+celebrity parent	gwenyth paltrow	1
+trailblazer	gwen sawyer cherry	1
+regional network	gwp regional technigal advisory committee	1
+catchment	gwydir in north-west nsw	1
+countless celebrity	gwyneth paltrow	2
+default	gwibber for social networking	1
+fashionistas	gwyneth paltrow	1
+others	gw pardon others	1
+MMOs	gw two 	1
+accurate method	gw method	1
+news program	gwen iffel reporting	1
+dance group	gwu tango club	1
+american star	gwyneth paltrow	1
+large district	gwinnett county public schools	1
+epidemiological factor	gwss control treatments in vineyard	2
+epidemiological factor	gwss population size	2
+celebrity mom	gwyneth paltrow	4
+celebrity mom	gwen stefani	1
+established author	gwyneth jones	1
+manual therapy	gwasha	1
+window manager	gwm	1
+high profile figure	gwen stefani	1
+inspection technique	gwut	1
+product manufacturer	gws	1
+celebrity name	gwyeneth paltrow	1
+celebrity name	gwynneth paltrow	1
+local author	gwendolyne graham	1
+company	gws events	3
+company	gw pharmaceuticals plc	3
+company	gw	3
+company	gw micro	3
+company	gwr	2
+company	gwl realty	2
+company	gwent theater	1
+company	gw pharmaceuticals	1
+famous actress	gwyneth paltrow	1
+javascript framework	gwt	1
+celebrity follower	gwyneth paltrow	4
+large school district	gwinnett county in the atlanta area	1
+large school district	gwinnett	1
+trendsetters	gwen stefani	4
+Hollywood A-listers	gwyneth paltrow	1
+war criminal	gwb	1
+company	gw plastics	1
+famous soloist	gwyn hughes jones	1
+oscar winner	gwyneth paltrow	7
+clothing manufacturer	gwg	1
+suburban county	gwinnett	5
+a-list actor	gwyneth paltrow	1
+rescue group	gwent swan rescue	1
+famous customer	gwyneth paltrow	1
+hollywood actress	gwen stefani	1
+native group	gwich'in steering committee	1
+young celebrity	gwyneth paltrow	3
+celebraties	gwyneth paltrow	1
+american celebrity	gwen stefani	1
+company	gwi	1
+Neocons	gwb	1
+operational challenge	gwot	1
+rookie card	gwynn	3
+outstanding speaker	gwen simmons from north carolina	1
+satellite city	gwangmyung	1
+rainfed crop	gwar	2
+citing artist	gwen stefani	3
+Hollywood celebs	gwyneth paltrow	1
+librarian	gwendolyn hall	1
+american actor	gwyneth paltrow	1
+big name celebrity	gwyneth paltrow	1
+javascript library	gwt	1
+commercial station	gwn	1
+relative unknown	gwilym simcock	1
+screen reader	gw micro's window-eyes	1
+a-list client	gwyneth paltrow	4
+extrinsic motivator	gwd pay	1
+indigenous person	gwich'in indians	1
+celebrity customer	gwyneth paltrow	1
+local and regional organization	gwitchya gwitchin ginkhye	1
+recording star	gwen stefani	1
+soprano	gwynneth jones	1
+investigational drug	gw one thousand five hundred and sixteen 	1
+popular pet game	gwen the magic nanny	1
+residence hall	gw residence hall	1
+trend setter	gwen stefani	2
+celeb mom	gwyneth paltrow	1
+hollywood superstar	gwen stefani	1
+princely state	gwalior	1
+urban village	gwersyllt	1
+celebrity mum	gwyneth paltrow	1
+hit songwriter	gwen stefani	1
+esoteric issue	gw	1
+modern star	gwyneth paltrow	1
+celebrity mother	gwyneth paltrow	3
+conservation agency	gwent wildlife trust	1
+great literary figure	gwendolyn brooks	1
+3rd party product	gwarchive by the messaging architects	2
+canadian author	gwendolyn macewen	1
+great kingdom	gwynedd	1
+image compression algorithm	gw image coding method based on the sparse geometric representation	1
+well-known actress	gwyneth paltrow	1
+information	gwrra member number	1
+black woman writer	gwendolyn brooks	1
+residential location	gwagwalada	1
+restuarants	gwynedd hotel	1
+featured performer	gwen verdon	1
+minor league team	gwinnett braves	1
+minor league team	gwinnett gladiators	1
+conservatives	gw bush	1
+published author	gwendolyn zepeda	1
+view technology	gwt	2
+information	gw treatment for genital wart	1
+commercial artist	gwen stefani	1
+energy management system	gwiz	2
+eyesore	gwinnett station	1
+KDE application	gwenview	2
+pregnant celebrity	gwen stefani	2
+alumna	gwyneth walker	1
+leading lady	gwyneth paltrow	1
+rustic area	gwydyr forest	1
+hollywood parent	gwen stefani	1
+notable jazz musician	gwilym simcock	1
+information	gwrra number	1
+event	gw summer carnival	1
+event	gwd	1
+today's biggest star	gwen stefani	1
+animal rescue group	gw exotic animal memorial park in wynnewood	1
+guest author	gwyn dyer	1
+local choir	gwinnett county community choir	1
+ajax framework	gwt	1
+community service initiative	gwinnett great days of service	1
+lead vocalist	gwen stefani	2
+mini-game	gwd	1
+event	gwanwyn festival	1
+pop superstar	gwen stefani	1
+super-stars	gwyneth paltrow	1
+top korean star	gwon sang-woo	3
+top korean star	gwon sang-wo o	1
+valley area	gwembe	2
+againsed team	gwent	1
+better-known author	gwendolyn brooks	1
+county leader	gwinnett county commission chairman charles bannister	1
+famous vegetarian	gwyneth paltrow	1
+fashionable celebrity	gwen stefani	1
+google technology	gwt	1
+hollywood diva	gwen stefani	1
+project developer	gwb immobilien	1
+world's biggest superstar	gwen stefani	1
+20th century woman poet	gwendolyn brooks	2
+awesome title	gw two 	1
+biggest wine company	gws	2
+event	gws awards banquet	1
+fashion-forward celebrity	gwen stefani	2
+guest clinician	gwyneth walker	1
+inner-city school	gw	1
+notable identity	gwen noblett	1
+provincial newspaper	gweru times	1
+radio group	gwr	2
+small country town	gwabegar	1
+today's popular artist	gwen stefani	1
+celebrity devotee	gwyneth paltrow	1
+chippings	gweebarra granite	1
+dress trendsetters	gwen stefani	1
+east coast team	gwu	1
+famous mum	gwyneth paltrow	6
+famous mum	gwen stefani	1
+great new character	gwystyl	1
+GW model	gwflorid	1
+GW model	gwperi	1
+higher-order method	gw approximation	1
+large forest	gwydyr within close proximity	1
+side recording artist	gwen stefani	1
+twentieth century celebrity	gwyneth paltrow	1
+Aidas	gwyneth jones	1
+beloved poet	gwendolyn brooks	2
+COG member	gwen hartican	1
+core partner	gwendolyn	1
+elite celebrity client	gwen stefani	1
+environmental category	gwp	1
+lead-footed lady	gwen kirk	1
+modern framework	gwt	1
+program	gwibber	1
+socially conscious celebrity	gwyneth paltrow	9
+stream valley	gwynns falls	1
+style-setters	gwen stefani	1
+a-list entertainer	gwyneth paltrow	3
+avid fan	gwyneth paltrow	1
+beautiful person	gwyneth paltrow	1
+Celebreties	gweneth paltrow	2
+celebrity sufferer	gwyneth paltrow	1
+directive approach	gwas	1
+establishment type	gw bush	1
+famous starlet	gwyneth paltrow	1
+fashion-forward star	gwen stefani	1
+literary artist	gwendolyn brooks	1
+local school system	gwinnett county public schools	1
+community	gwinnett county	6
+community	gwaltneys township	1
+lyrical great	gwendolyn brooks	1
+mainstream pop artist	gwen stefani	1
+manager program	gwget	1
+Modern celebs	gwen stefani	1
+native population	gwich'in indians	1
+pet issue	gwot	1
+pretty big star	gwen stefani	1
+public square	gwanghwamun square	1
+second tier locomotive	gwr castles	1
+svelte celebs	gwyneth paltrow	1
+welsh artist	gwen john	1
+wonder celebs	gwyneth paltrow	1
+wonder star	gwyneth paltrow	1
+world's greatest recording artist	gwen guthrie	1
+acclaimed star	gweneth paltrow	1
+black female writer	gwendolyn brooks	1
+celeb mama	gwen stefani	2
+celeb mommie	gwenyth paltrow	1
+Celebrity A-listers	gwyneth paltrow	1
+Celebrity trendsetters	gwen stefani	2
+contemporary black poet	gwendolyn brooks	1
+correlated method	gwa	1
+factor	gwi	1
+community	gwinn cdp	1
+community	gwinner city	1
+community	gwinnett	1
+famous fashion icon	gwen stefani	1
+fav celebrity	gwen stefani	1
+feature local luminary	gwendolyn	1
+floodplain wetland	gwydir wetland	1
+flow datum	gw well flow datum	1
+hair style icon	gwen stefani	1
+howard artist	gwn	1
+influential african american poet	gwendolyn brooks	1
+International celeb	gwen stefani	1
+local catholic university	gwynedd mercy	1
+mart blonde	gwyneth paltrow	1
+non-stationary signal	gw signal	2
+open source java technology	gwt	2
+RS game	gwd	2
+senior ANC leader	gwede mantashe	1
+sewage treatment project	gwangyang sewage	1
+organization	gwu	2
+thepublic union	gwu	1
+Uber-celebs	gwen stefani	1
+web-frameworks	gwt	1
+acid rain facility	gwf tracy	1
+back-baring celebrity	gwyneth paltrow	1
+BASIC compiler	gwbasic for pc	1
+BDSM adult site	gwen media	4
+beautiful tourist course	gwangan bridge	1
+beautiful tourist course	gwangandaegyo bridge	1
+celebrated hollywood star	gwyneth paltrow	1
+classic american poet	gwendolyn brooks	1
+eminent national figure	gwyn hanssen pigott	1
+organization	gwac foundation	1
+organization	gwinnett county	1
+organization	gwinnett gladiators	1
+organization	gwm	1
+famous, smart blonde	gwyneth paltrow	1
+game update	gw weekend events	1
+influential fashion icon	gwen stefani	1
+international art exhibition	gwang ju biennale	1
+JavaScript toolkits	gwt	1
+organization	gwp	1
+rest area	gwanggyo park	1
+ria-like technology	gwt	1
+server-integrated toolkits	gwt	2
+track luminary	gwen torrence	1
+traditional hit	gwindingwi off the  eighty 's lp shumba 	1
+traditional welsh song	gwahoddiad	1
+TV pundit	gwyn jones	1
+urban constituency	gwanda central	1
+urbanised catchment	gwydir	1
+welsh agency	gwynedd council	1
+west orange luminary	gwen franklin	1
+western pop star	gwen stefani	1
+african american female author	gwendolyn brooks	1
+a-list celeb mom	gwyneth paltrow	1
+ass woman	gwen stefani	1
+beloved golden-age favorite	gwen verdon	1
+black politico	gwen grant	1
+celebrity pal	gwyneth paltrow	1
+CH2M HILL expert	gwen buchholz	1
+currently celebrity	gwen stefani	1
+expectant celebrity	gwen stefani	1
+exquisite celebrity	gwen stefani	1
+technique	gwr	1
+GOP president	gwb	1
+great collector item	gwen raverat woodcut	1
+GW dance group	gw ballroom	1
+GW dance group	gw bhangra	1
+gwent music band	gwent youth brass band	1
+hatchet reporter GW dance group	gw ballroom	1
+hatchet reporter GW dance group	gw bhangra	1
+hypothesis-free approach	gwas	1
+java web-based technology	gwt	2
+jax framework	gwt	1
+key district	gwydir river in northern nsw	1
+lesser-known serial killer	gwendolyn graham	1
+metro atlanta district	gwinnett	1
+metro atlanta school system	gwinnett county	1
+modest re-clockers	gw labs	1
+natural blonde	gwyneth paltrow	1
+application	gwenview image viewer	4
+application	gwibber	2
+application	gwenview	1
+overview engineering requirement	gw monitoring	1
+popular american pop music artist	gwen stefani	1
+popular movie actress	gwyneth paltrow	1
+popular music video	gwen stefani's if i was a rich girl''	1
+radio owner	gwr executive chairman ralph bernard	1
+regional korean airport	gwangju	1
+regulation running track	gwen cherry park	1
+romanization system	gwoyeu romatzyh	1
+sellout international and british star	gwilym simcock	1
+serious star	gwen stefani	1
+server-integrated tool kit	gwt	1
+settled claim area	gwichin	1
+successful open source technology	gwt	1
+application	gwava retain	1
+today's hot young star	gwen stefani	2
+well-known Megastars	gwyneth paltrow	2
+welsh classic	gwahoddiad	1
+administrative name	gwynedd	1
+asymmetric conflict	gwot	1
+awesome photographer	gw burns	1
+big label artist	gwen stefani	1
+British competition	gwr	1
+name	gwendolyn brooks	2
+name	gwyneth paltrow	1
+cheap power unit	gws  one hundred and fifty  geared 	1
+Chickenhawks	gw bush	1
+countless independent journalist	gwynne dyer	1
+dark reddish brown color	gw dark flesh with a drop of black	1
+entertainment-related toy	gwen stefani doll	1
+Environmentally conscious celebs	gwyneth	1
+excellent closed inhaler	gwathmey	1
+famous cultural property	gwaneumam rock	1
+name	gw bush	1
+name	gwilym david	1
+name	gwen stefani's kingston	1
+name	gwendolyn	1
+name	gwen stefani	1
+name	gwop boi	1
+name	gwynedd	1
+name	gwen	1
+name	gwendolyn bennet	1
+female winner	gwyneth paltrow	1
+global impact category	gwp	1
+great fief	gwadabawa in sokoto	1
+GWT library	gwt ext	1
+heavily minority county	gwinnett	1
+high profile LET player	gwladys nocera	1
+high-profile devotee	gwyneth paltrow	2
+hoover school	gwin elementary	1
+large and important floodplain wetland	gwydir	1
+latest RIA technology	gwt	1
+local trust	gwent wildlife trust	1
+lovely vintage name	gwen	1
+medium-sized car-free development	gwl terrein in amsterdam	1
+nationally famous case	gwen araujo	1
+naturally welsh-speaking area	gwynedd	1
+non-jewish author	gwethalyn graham	1
+numerical groundwater flow model code	gwsim model code	1
+case	gwynedd	1
+case	gwaii haanas park	1
+post-chicago renaissance writer	gwendolyn brooks	1
+prominent music-patronizing state	gwalior	1
+radio chief	gwr's ralph bernard	1
+remarkable locomotive name plate	gwr star class prince john	1
+self assessment instrument	gwa	1
+skilled and respected musician	gwen klassen	1
+Slebs	gwen steni	1
+small boobed woman	gwen stefani	1
+socially conscious superstar	gwyneth paltrow	1
+sophisticated calculation	gw approximation	1
+source tool kit	gwt	1
+stella mccartney celebrity fan	gwyneth paltrow	2
+stroller-pushing mom	gwyneth paltrow	1
+suburban daily	gwinnett daily post	4
+summer designer	gwen stefani	1
+option	gwava archiving mail	1
+top american celebrity	gwyneth paltrow	1
+traditional cultural space	gwanghwamun square	1
+transgender individual	gwen araujo	1
+welsh character	gwyn	1
+welsh writer	gwyn thomas	1
+western personality	gwen stefani	1
+white-water river	gwydir in northern nsw	1
+WIDE coach	gwr centenary coach	1
+WIDE coach	gwr autocoach with side step	1
+wonder celebrity A-Listers	gwen stefani	1
+40-year-old star	gwen stefani	1
+acrylic varnish	gw ard coat	1
+adaptive manufacturer	gw micro	1
+alist client	gwyneth paltrow	1
+american joke	gwb	1
+assymetric conflict	gwot	1
+big hollywood artist	gwyneth paltrow	1
+century kingdom	gwynedd	5
+coniferous area	gwydir forest near betws-y-coed	1
+contact type hitter	gwynn	1
+contemporary black star	gwendolyn bradley	1
+cool blonde	gwyneth paltrow	2
+culturally rich school	gw	1
+disease association study	gwas	1
+distributed cache	gwa	1
+district-based program	gwinnett county public schools	1
+group	gwu for richardson	1
+group	gwinnett ballet theatre	1
+Emulating A-listers	gwyneth paltrow	2
+famous shoe conscious celebs	gwyneth paltrow	1
+foam kit	gws type kit	1
+front end toolkits	gwt	1
+full-sized elf	gwin	1
+gen X star	gwyneth paltrow	1
+generous celebrity	gwen stefani	1
+great micro-businesses	gwaun valley brewery	1
+GW student performance group	gw raas	1
+harlem renaissance artist	gwendolyn bennett	1
+high-profile mum	gwen stefani	1
+hollywood's most refined celebrity	gwyneth paltrow	1
+home school organization	gwinnett barons	1
+hottest celebrity mom	gwyneth paltrow	2
+group	gwari	1
+group	gw students for giuliani	1
+group	gwr	1
+group	gwinnett chamber of commerce	1
+large floodplain wetland	gwydir wetlands	1
+LIAR-in-chief	gw bush	1
+local free software client	gwibber	1
+long-standing, effective and successful force	gwent	1
+magnificent park	gweru antelope park in zimbabwe	1
+mainstream pop-star	gwen stefani	1
+Manny-hiring celebs	gwyneth paltrow	1
+Medium-length hair	gwyneth paltrow's	1
+milestone Deliverable	gw ras	1
+modern rookie	gwynn	1
+molecular epidemiology study	gwas	1
+MVP framework	gwtp	1
+method	gw method	1
+northern land use plan	gwich in land use plan	1
+northern metro system	gwinnett county	1
+pop-leaning artist	gwen stefani	1
+pre-conquest princess	gwenllian of wales	4
+pretty soon celebrity	gwyneth paltrow	1
+project town	gweru	1
+proper watermark	gw logo	1
+pure AJAX framework	gwt	1
+pure spatial model	gwr	1
+recusants	gwilym puw	3
+red-lipped diva	gwen stefani	1
+seemingly really good effort	gw two 	1
+self-energy correction method	gw approach	1
+method	gw for obtaining many-body correction	1
+method	gw method in materials science	1
+serious charachter	gwen stacy	1
+sexually-focused female performance	gwyn's acting	1
+small nigerian village	gwari	1
+Theserituals	gwendolyn's demand for a formal proposal	2
+thinly-populated district	gwanda	1
+time global star	gwen stefani	1
+tough solar model	gw- nine thousand   mudman 	1
+trendsetting star	gwyneth paltrow	1
+U.S church related university setting	gwu	1
+ultracool singer	gwen stefani	1
+unmarried celebrity	gwyneth paltrow	1
+welsh government minister	gwenda	1
+wind item	gwtw doll	1
+workflow trace	gwf	1
+world's hottest celebrity	gwyneth paltrow	1
+zimbabwe city	gweru	1
+project	gwadar deep sea port	2
+project	gwinganna in austrailia	1
+project	gwynt y mor being announced in wales	1
+project	gwader port	1
+project	gwayi-shangani dam	1
+project	gwt	1
+project	gwadar-turbat-khuzdar road	1
+artist	gwen stefani	36
+artist	gwen stephani	2
+artist	gwyneth jones	2
+artist	gwyneth paltrow	2
+artist	gwen guthrie	2
+artist	gwar	2
+artist	gwen john	2
+artist	gwen raverat	1
+artist	gwen stephany	1
+artist	gwen stafani	1
+artist	gwen verdon	1
+artist	gwyn hughes-jones	1
+artist	gwendolyn grant	1
+place	gwalior	6
+place	gwytherin	2
+place	gwd	1
+place	gwangju international center in south jeolla province	1
+place	gwandu road	1
+place	gw next year	1
+place	gwinett county	1
+place	gw	1
+player	gwr	1
+player	gwen jones	1
+player	gwynn	1
+technology	gwt	3
+technology	gwt coming of age	1
+term	gweilo	1
+system	gwinnett county	1
+element	gwen stacey	1
+brand	gw instek	2
+brand	gw	1
+brand	gws	1
+site	gwinnett county veterans war memorial museum	1
+site	gwembe in zambia	1
+site	gwrych castle	1
+site	gwel an mor	1

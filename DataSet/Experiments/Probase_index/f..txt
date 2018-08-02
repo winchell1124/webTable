@@ -1,0 +1,491 @@
+facility	f.s.p.	2
+facility	f. stormwater management facility	1
+process	f. regenerative process	1
+game	f.e.a.r	19
+game	f.e.a.r.	11
+reason	f.e. lack of parents love	1
+work	f. hadland davis's myths	3
+work	f. o. pickard-cambridge	1
+work	f. r. leavis the great tradition	1
+work	f. lee bailey's the defense never rests	1
+model	f.c.c in the u.s.	1
+document	f.i.r.	1
+author	f. scott fitzgerald	29
+author	f. hausdorff	1
+author	f. c. t. van der helm	1
+author	f. d'agostino	1
+author	f. marton	1
+author	f. g. peake	1
+author	f. parra luna	1
+author	f. m. l. thompson	1
+agency	f.b.i.	3
+writer	f. scott fitzgerald	30
+writer	f. paul wilson	2
+writer	f. a. hayek	2
+writer	f. kraupl taylor	1
+writer	f. lagard smith	1
+writer	f. carolyn graglia	1
+writer	f. hahn	1
+writer	f. c. delius	1
+writer	f. b. meyer	1
+book	f. scott fitzgerald's the crack-up	2
+book	f. scott fitzgerald's great gatsby	1
+structure	f.i. block copolymers	1
+film	f.i.s.t.	3
+business	f. local business	1
+business	f. & m. shaeffer brewing company	1
+band	f.t island	1
+practice	f. water management practice	1
+title	f.e.a.r	3
+title	f.e.a.r.	1
+plant	f. angustifolia	1
+agent	f. topical agent	1
+scholar	f. f. bruce	4
+scholar	f. b. meyer	1
+scholar	f. b. tarbell	1
+scholar	f.max muller	1
+scholar	f. max mueller	1
+scholar	f. cairns	1
+scholar	f. braudel	1
+scholar	f. a. hayek	1
+scholar	f. a. von hayek	1
+scholar	f. c. burkitt	1
+scholar	f. landa jocano	1
+venue	f. scott fitzgerald theatre	1
+venue	f.a.r.x. in potters bar	1
+firm	f.& c. osler	1
+job	f.b.i agent	1
+job	f.	1
+manufacturer	f. ball & co	1
+manufacturer	f. ball	1
+man	f. b. gilman	2
+man	f. o. stanley	1
+man	f. a. quesnel	1
+man	f. w. boreham	1
+man	f. m. jenifer	1
+man	f. w. corkill	1
+publication	f. langford-smith's the radiotron designer's handbook	1
+individual	f. lee bailey	1
+figure	f. de vittoria	1
+figure	f. r. leavis	1
+figure	f. scott fitzgerald	1
+equipment	f. mechanical equipment	1
+leader	f. a. sorge	1
+leader	f. c. tseng	1
+leader	f.w de klerk	1
+leader	f.w. de klerk	1
+musician	f. corti	1
+researcher	f. markgraf	1
+researcher	f. nopcza	1
+classic	f. scott fitzgerald's the great gatsby''	2
+show	f.i.r.	1
+store	f. w. woolworth company	1
+store	f. w. woolworth	1
+critic	f. o. matthiessen	1
+critic	f. a. hayek	1
+critic	f. ann payne	1
+critic	f. r. hart	1
+critic	f. r. leavis	1
+section	f.a.q.	1
+actor	f. murray abraham	2
+designer	f. earle christie	1
+disorder	f. human genetic disorder	1
+top quality inn	f. m. hall house	1
+machine	f.f.s center sealing	1
+machine	f.f.s with auger filler machine	1
+guest	f. scott fitzgerald	2
+brand name	f. hinds	2
+corporation	f.f.	1
+great	f. scott fitzgerald	2
+pattern	f. schumacher & co. s tree of life	1
+luminary	f. scott fitzgerald	3
+series	f.r.i.e.n.d.s	1
+tree	f. benghalensis	1
+composer	f. b. moore	1
+composer	f. list	1
+composer	f. j. haydn	1
+composer	f. mendelssohn-bartholdy	1
+scientist	f. a. lindemann	1
+scientist	f. t. cloak	1
+card	f. robinson	1
+historian	f. m. l. thompson	1
+molecule	f. garnier other conjugated molecule	1
+teacher	f. murry abraham	1
+shop	f. w. woolworth	1
+authority	f. max mueller	3
+authority	f. j. e. raby	1
+theorist	f. w. bateson	2
+issue	f.a.s.	1
+director	f. nathaniel pops gatlin	1
+director	f. gary gray	1
+keyword	f. scott fitzgerald	1
+poet	f. r. higgins	1
+cell	f. the islamic terrorist cell	1
+maker	f. denker	1
+notable	f. scott fitzgerald	1
+specialist	f. gouin	1
+local business	f. local business	1
+thinker	f. a. hayek	2
+thinker	f. r. leavis	1
+giant	f. scott fitzgerald	1
+giant	f.d.r.	1
+establishment	f.illi ponte	1
+contemporary	f. scott fitzgerald	3
+contemporary	f. e. smith	1
+photographer	f. holland day	1
+worker	f.allen hibbert	1
+economist	f. a. hayek	1
+opponent	f. d. maurice	1
+grass	f. rupicola	1
+conductor	f. biondi	1
+office	f. other office	1
+lesion	f.b. aspiration chronic irreversible lesion	1
+small town	f.	1
+architect	f. stewart williams	1
+observer	f. william engdahl of global research	2
+famous artist	f. agus	1
+management practice	f. water management practice	1
+item	f. o. stanley's slide projector	1
+historical figure	f. scott fitzgerald	1
+historical figure	f.d.r.	1
+variant	f. hastata robins	1
+coating	f.r.p.	3
+heavyweight	f. murray abraham	1
+well-known brand	f. dick	1
+video game	f.e.a.r.	1
+winner	f. murray abraham	1
+filmmaker	f. gary gray	2
+filmmaker	f. w. murnau	1
+foundation	f. b. heron foundation	2
+foundation	f. b. heron	1
+Invasive species	f. japonica	1
+federal agency	f.b.i	1
+mark	f.b. of francois borgel	1
+theologian	f.i	1
+theologian	f. e. d. schleiermacher	1
+top player	f. champ	1
+TV series	f.b.i	1
+witness	f. anstey	1
+liberal	f. w. farrar	1
+hollywood star	f. murray abraham	1
+key figure	f. r. leavis	1
+area	f.ex france	1
+area	f.c. road	1
+common element	f. create common element	1
+novelist	f. scott fitzgerald	3
+reader	f. homes dudden	1
+mentor	f. b. meyer	1
+league	f.a cup	1
+playwright	f. j. hartland	1
+abbreviation	f.d.r.	1
+lawyer	f. m. aldridge	1
+lawyer	f. n. judson	1
+president	f. d. roosevelt	1
+strain	f. babinda	1
+acquisition	f. sieboldiana blume	1
+predecessor	f. b. meyer	1
+faculty member	f. m. staley	1
+assistive device	f.m. system	1
+home	f. f. tomek house	3
+american artist	f. childe hassam	1
+pharmaceutical company	f. hoffman-la roche	1
+crystal	f.c.c. metal	1
+conservation measure	f. conservation measure	1
+soloist	f. gerard errante	1
+Introduced species	f. rubra	1
+law enforcement agency	f.b.i.	1
+incentive program	f. edward hebert armed forces health professions scholarship program	1
+genetic disorder	f. human genetic disorder	1
+renowned company	f.g.c bakery biscuit technology	1
+great writer	f. scott fitzgerald	1
+board member	f. d. washington	2
+literary figure	f. scott fitzgerald	1
+seabird	f. o lmos atlantic seabird	1
+famous writer	f. scott fitzgerald	1
+inspiration	f. h. bradley	1
+topical agent	f. topical agent	1
+great teacher	f. f. bruce	1
+physicist	f. david peat	1
+social scientist	f. y. edgeworth	1
+sculptor	f. c. hibbard	2
+sculptor	f. w. sievers	2
+sculptor	f. w. pomeroy	1
+popular show	f.r.i.e.n.d.s	1
+relative	f. s. malcolm	1
+great singer	f. cossotto	1
+modern writer	f. b. meyer	1
+american writer	f. scott fitzgerald	2
+linguist	f. de saussure	1
+great speaker	f.d.r.	1
+local firm	f. sturm	1
+trail	f.i.s.	1
+service	f. other service	1
+government office	f.b.i.	1
+american author	f. scott fitzgerald	3
+great title	f.e.a.r	1
+attorney & legal service	f. eugene welper jr.	1
+Europeans	f. enzio busche	1
+large store	f. l. carney's	1
+great author	f. scott fitzgerald	1
+modulation technique	f.m.	3
+modern author	f. scott fitzgerald	1
+mechanical equipment	f. mechanical equipment	1
+memorial	f.d.r.	1
+exciting game	f.	1
+famous guest	f. scott fitzgerald	2
+sport organization	f. a. premier football league	1
+modernist	f. scott fitzgerald	1
+notable author	f. scott fitzgerald	1
+reactive gas	f. sub . two 	1
+cap	f. metal cap	1
+literary great	f. scott fitzgerald	1
+libertarian	f. a. hayek	1
+literary giant	f. scott fitzgerald	2
+fiction writer	f. scott fitzgerald	1
+big title	f.e.a.r.	1
+accomplished artist	f. leo hunter	1
+trading company	f. w. woolworth company	1
+successful entrepreneur	f. w. woolworth	1
+modern thinker	f. w. schelling	1
+first person shooter	f.e.a.r	1
+law enforcement officer	f.b.i.	1
+learning institution	f.i.t.	1
+renowned writer	f. scott fitzgerald	2
+english writer	f. s. flint	1
+classical liberal	f. a. hayek	1
+intelligence agency	f.b.i.	1
+notable scholar	f. a. hayek	1
+conservative method	f.e.d method	1
+company	f. b. price coffee co.	1
+company	f. a. davis company	1
+company	f. lansdowne	1
+influential writer	f. scott fitzgerald	1
+notable director	f. w. murnau	3
+botanist	f. w. pennell	1
+independent store	f.a.o schwarz	1
+Nuisance species	f. alnus	1
+real-life character	f. scott	1
+company	f.fountain's pen	1
+company	f. hoffmann-la roche ltd	1
+company	f. hoffmann-la roche ltd.	1
+company	f. schumacher	1
+company	f. hoffman-la roche ltd.	1
+churchman	f. w. farrar	2
+conservative scholar	f. f. bruce	1
+sarcoma	f. malandrinou et al sarcoma	1
+top scientist	f. collins	1
+graphic intensive game	f.e.a.r	1
+antibody fragment	f.sub. two  fragment 	3
+active member	f. i. kravchenko	1
+church historian	f. w. farrar	1
+baroque composer	f. couperin	1
+celebrated writer	f. scott fitzgerald	2
+modernist writer	f. scott fitzgerald	1
+official agency	f.b.l for help	1
+police unit	f.b.i.	1
+activity	f. art & craft exhibition	1
+activity	f.r.o.g time	1
+conservation method	f. use conservation method	1
+idol group	f.t island	1
+rare book	f. r. stack's views in the province of auckland	1
+small label	f.m.	1
+South Africans	f.w. de klerk	1
+comparative study	f. ellen weaver-laporte's la contre-rt	1
+merchandiser	f. w. woolworth	2
+water management practice	f. water management practice	1
+ferry	f.'s first car ferry	1
+stormwater management facility	f. stormwater management facility	1
+training concept	f.i. multimedia	1
+generation game	f.e.a.r	2
+testament scholar	f. f. bruce	2
+census	f. other census	1
+great american writer	f. scott fitzgerald	1
+music video director	f. gary gray	1
+year scholar	f. rahman	1
+fig	f. superba	1
+fig	f. macrophylla	1
+federal case	f.c.c	1
+hybridizers	f. d. mossman	1
+human genetic disorder	f. human genetic disorder	1
+lumber company	f. h. stoltze land company	1
+radical preacher	f. graham	1
+literary friend	f. scott fitzgerald	1
+european filmmaker	f. w. murnau	5
+literary notable	f. scott fitzgerald	1
+socialist writer	f. fanon	1
+unknown actor	f. murray abraham	1
+young author	f. werfel	1
+american novelist	f. scott fitzgerald	1
+delivery condition	f.o.b.	1
+advanced version	f. print music	1
+energy dissipaters	f. install energy dissipaters	1
+graphically intense game	f.e.a.r	1
+lattice model	f.c.c. vibrational system	1
+program	f.i.r.s.t robotics	2
+boston band	f.u. s	1
+consignment sale	f.f.a. sale	1
+eminent minister	f. c. cook	1
+great pioneer	f. e. clements	1
+haoqiu brand series electronic product	f.b.t	1
+high profile agency	f.b.i	1
+metal cap	f. metal cap	1
+oscar-winning actor	f. murray abraham	1
+professional ecologist	f. fraser darling	1
+regenerative process	f. regenerative process	1
+scholarly writer	f. f. bruce	1
+western academic	f. fukuyama	1
+alliance leader	f. f. bosworth	2
+antibody portion	f.sub. two  fragment 	3
+antigen-binding fragment	f.sub. two  fragment 	1
+artistic and literary heroes	f. scott fitzgerald	1
+british idealist	f. h. bradley	1
+fig tree	f. benjamina l.	1
+halophytic plant	f. laevis	1
+Hegelians	f. h. bradley	1
+libertarian scholar	f. a. hayek	2
+program	f.e. business intelligence application	1
+pneumatic element	f. r. l combination	1
+spanish contemporary philosophy author	f. jameson	1
+eminent linguist	f. saussure	2
+F.R.P product	f.r.p ac cover	1
+F.R.P product	f.r.p dice	1
+F.R.P product	f.r.p central strengthen member	1
+F.R.P product	f.r.p litter bin	1
+F.R.P product	f.r.p window	1
+famous depressed writer	f. scott fitzgerald	1
+high profile political figure	f.w. de klerk	1
+indi-vidual artist	f. s. king	1
+organization	f.b.i.	3
+time actor	f. freisler	1
+belimo product	f.s. damper actuator	1
+organization	f.i.s.t	1
+famed novelist	f. scott fitzgerald	1
+first person shooter title	f.e.a.r	1
+hemingway's contemporary	f. scott fitzgerald	1
+overtly political poet	f. r. scott	1
+organization	f.f.a. in high school	1
+organization	f.i.f.a.	1
+prominent classical liberal	f. a. hayek	1
+SB song	f.u.n.	1
+active American com-posers	f. s. converse	1
+american-born author	f. scott fitzgerald	1
+apogee scientist	f. crick	1
+basic gene information	f. gene description	1
+cameo player	f. murray abraham	1
+classic and contemporary author	f. scott fitzgerald	1
+conjugated molecule	f. garnier other conjugated molecule	1
+conservative christian scholar	f. f. bruce	1
+conservative-minded southern democratic chair	f. edward hkbert of armed services	1
+everything author	f. scott fitzgerald	1
+federal government business	f.b.i	1
+federal police force	f.b.i	1
+fuchsia	f. microphylla	1
+fuchsia	f. magellanica	1
+latest PC game	f.e.a.r.	1
+modern expositor	f. f. bruce	1
+pioneer geologist	f. v. hayden	1
+pioneer geologist	f. b. meek	1
+prescott's long-standing opponent	f. c. gilbert	1
+application	f. special application	1
+twentieth century critic	f. c. burkitt	1
+upper class department store	f.a.o schwarz	1
+attenuated live vaccine	f. tularensis lvs	3
+best russian singer	f. i. chaliapin	1
+bushy type	f. deltoidea with narrow	1
+name	f. reed andrew	2
+character-focused first-person narrative	f. scott fitzgerald's the great gatsby	1
+currentgeneration title	f.e.a.r.	1
+dissipaters	f. install energy dissipaters	1
+economic and demographic historian	f. braudel	1
+entnames	f. scott	1
+name	f.a.s.t cool suit	1
+name	f. n. calvin	1
+name	f. e. reed glass	1
+federally subsidized artist	f. townsend morgan	1
+financial pioneer	f. chow chan of los angeles	1
+game 3D game	f.e.a.r	1
+gas laser device	f.sub. two  laser device 	1
+good general book	f. f. bruce's the spreading flame	2
+high-profile lawyer	f. lee bailey	1
+name	f. scott	1
+name	f. pieper	1
+midwestern writer	f. scott fitzgerald	1
+modern arminian scholar	f. leroy forlines	1
+newest video game	f.e.a.r	1
+notable marine painter	f. l. t. francia	1
+nps project	f. current nps project	1
+perpetual trophy	f. o. blackwell cup	1
+plant ecologist	f.h.a. von humboldt	1
+prolific and respected writer	f. scott fitzgerald	1
+sli-optimised title	f.e.a.r	1
+timber cooling tower	f.r.p. cooling tower	1
+UNM grad	f. chris garcia	1
+visiting ceramist	f. carlton ball	1
+wealthy pastoralists	f. h. dutton at anlaby	1
+wisconsin march-in-lockstep GOP type	f. james sensenbrenner	1
+world Pinot Grigio	f. lurton from argentina	1
+Althoughpiscivores	f. rostratus	1
+american pictorialist photographer	f. holland day	1
+aucthors	f. d'agostino	1
+author-illustrator association	f. o. c. darly	1
+climate specialist	f.w.i weather agency	1
+DFI stand alone ECUs	f.a.s.t. along with diesel chips	1
+Dispatch term	f.o.r. destination	1
+distinctly new form	f. corallina	1
+established towage company	f.t everard of greenhithe	1
+flooring adhesive manufacturer	f. ball	1
+Fusarium species	f. dlamini	1
+Geographic dictionari es	f. j. monkhouse's a dictionary of geograp hy	1
+german social democrat	f. lassalle	1
+governmental first responder organization	f.b.i.	1
+hall effect current sensor	f. w. bell sm- fifteen 	3
+hardy fuchsia	f. magellanica	2
+hegelian logician	f. h. bradley	1
+horror FPS title	f.e.a.r	1
+influential american writer	f. scott fitzgerald	1
+intermediate hybrid	f. malatiatus gehlen	1
+intro course cover topic	f.a.s.t. exam	1
+irish parliamentarian	f. h. o'donnell	1
+latest gaming title	f.e.a.r.	1
+late-starting creative	f. murray abraham	1
+manyhegelian logician	f. h. bradley	1
+modern embryologist	f. m. balfour	1
+mrs. white's later defender	f. m. wilcox	1
+north carolina republican leader	f. o. carver	1
+NorthAmerican pollen taxa	f. nigra	1
+Omnivorous ciliates	f. leucas	2
+period various new textbook	f. a. moss's comparative psychology	1
+personal friend fellow member	f. r. chapman	1
+philippines-based author	f. sionil jose	1
+Polygonum species	f. convolvulus	1
+polygraph advocate	f. lee bailey	1
+powerful oppor-tunists	f. o. j. smith	1
+Radical paleoconservatives	f. carolyn garglia	1
+sagat's frame trap	f. lk to cr . lp	1
+method	f. use conservation method	1
+subaltern	f. s. young	1
+trading executive	f. james claire at first capital group	1
+tool	f.a.s.t screening tool	1
+project	f. current nps project	1
+project	f. shoreland protection project	1
+artist	f. gregory brown	3
+artist	f. earle christie	1
+artist	f.l.y.	1
+material	f. inst	1
+material	f. modular material	1
+parameter	f. o. b canadian	1
+species	f. pumila	2
+species	f. macrophylla	2
+species	f. rufibarbis wheeler	2
+species	f. fulva	1
+species	f. breve	1
+species	f. odoratum	1
+species	f. benjamina	1
+species	f. danai	1
+species	f. branchialis	1
+species	f. periodontium	1
+species	f. rubra	1
+species	f. pratensis	1
+measure	f. conservation measure	1
+element	f. create common element	1
+element	f. other element	1

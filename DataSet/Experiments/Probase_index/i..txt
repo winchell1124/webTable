@@ -1,0 +1,593 @@
+factor	i.q.	3
+factor	i.e.	2
+accessory	i.d. panel	1
+resource	i. edward kiev judaic collection	1
+resource	i. edward kiev judaica collection	1
+facility	i.q.f. freezing	1
+facility	i.d. fan	1
+facility	i.c.u.	1
+facility	i.e. a coffee maker	1
+source	i. introduction modern light source	1
+property	i.e. share	1
+subject	i.c.t.	1
+subject	i.t	1
+product	i.d band	1
+product	i.r.	1
+reason	i.e. purchased	1
+reason	i.e recreational drug	1
+character	i. child's favorite fairy-tale character	1
+work	i. a fine thing	1
+work	i. asimov	1
+model	i. introduction though fixed-price model	1
+characteristic	i.e.	2
+characteristic	i.q.	1
+institution	i.r.s.	1
+document	i.i.r.	1
+document	i. trial document trial document	1
+author	i. read author	1
+author	i. morgensternand k. binder	1
+author	i. geoffroy st. hilaire	1
+person	i.	1
+object	i.v. pole	1
+symptom	i.clinical evaluation a.obstructive symptom	1
+course	i.t in education	2
+course	i.t at sutton college	1
+writer	i. ludo	1
+book	i. w. w. in theory	1
+star	i.u. s eric gordon	1
+film	i.q	1
+film	i.o.u.s.a	1
+field	i.t.	1
+field	i.t	1
+band	i.q	1
+title	i.o.n	1
+title	i.o.u.s.a.	1
+title	i.o.u.s.a	1
+ingredient	i.a. plasticizers	2
+agent	i.v. anesthetic agent	1
+circumstance	i.q.	1
+circumstance	i.e. severe weather	1
+scholar	i. j. gelb	2
+scholar	i. a. newby	2
+scholar	i. b. horner	1
+scholar	i. f. stone	1
+scholar	i. howard marshall	1
+scholar	i. m. lewis	1
+feature	i.s. power over ethernet	1
+feature	i.sound unit for multimedia enhancement	1
+feature	i.e. the kyocera dual mode adapter sd- sixty-six k 	1
+city	i. e. bodrum	1
+disease	i.e. malignant gliomas	3
+disease	i. introduction life-threatening human disease	1
+criterion	i.e. decentralization from ministry	1
+criterion	i.e. the costs of establishing the national park	1
+firm	i.g.farben	3
+firm	i. g. farben	2
+firm	i. & r. morley	1
+industry	i.t	2
+industry	i.t.	1
+challenge	i.e. end-user	1
+job	i.e industrial job	1
+job	i.t.t.	1
+test	i. other corrosion test	1
+test	i.q.	1
+man	i. for after the latest task of aulus	1
+attribute	i.e. laminin	1
+publication	i.d.	6
+figure	i. howard marshall	1
+figure	i. f. stone	1
+equipment	i.v. stand	2
+equipment	i.v. bag	1
+basic	i. between inmates awaiting pretrial hearings at a rikers island jail	1
+leader	i. willis cole	1
+instance	i.e. denitions of new elements of the category vp sg	1
+policy	i.d. card	2
+policy	i. introduction incentive-based environmental policy	1
+team	i.t.	1
+substance	i.v. lipid emulsion	1
+entity	i.r.s.	1
+country	i.e. tourism from neighboring country	1
+country	i. r. iran in spite of comprehensive legislation	1
+feature	i.d. pit	1
+researcher	i. auer	1
+medication	i.v. sedation medication	1
+variety	i. chinensis	1
+variety	i.x.l.	1
+animal	i.e. sheep	1
+animal	i. large animal	1
+standard	i.e. inflation adjusted income per person	1
+classic	i. bergman	1
+advanced feature	i.e. the representation of packet payload through alist of disjoint memory block	1
+vendor	i.s.i.	1
+influence	i.e. computer-aided design	1
+critic	i. a. richards	4
+environmental factor	i.e. ascorbate	1
+department	i.s.	1
+supply	i.v. set	1
+designer	i.n.c international concepts	1
+additive	i.e.	2
+additive	i.a. plasticizers	1
+chemical	i.e. copper sulfate	1
+chemical	i.p.c.	1
+magazine	i.d.	2
+provider	i. other provider	1
+trait	i.e. dedicated	1
+speaker	i. m. haldeman	1
+barrier	i.p. protection	2
+risk	i.e. foetal death	1
+good	i.e. gold	1
+therapy	i.v. methylprednisolone	1
+limitation	i.e. having less sensors than source	1
+limitation	i.e. periodontal ligament	1
+story	i. robot	1
+theory	i. introduction statistical theory	1
+everything	i.e. mildew	1
+platform	i.e. engine behind front axle	1
+fee	i.d. stamp	4
+error	i.e. omission	1
+scientist	i. s. shklovskii	4
+organism	i.e. human	2
+request	i.e. washing machine	1
+support service	i.v. nursing	1
+basic information	i.p. address	1
+small item	i.d.	1
+target	i.e. a flying eagle	1
+forum	i.d.	2
+signal	i.e. departure signal	1
+poet	i. s. anna liddiard	1
+food item	i.e. cake	1
+substrate	i.e. glass	1
+injury	i. introduction ergonomic injury	1
+pioneer	i. f. anderson	1
+economist	i. fisher	1
+reward	i.e. baseball card	1
+famous name	i. m. pei	1
+polymer	i.e. polysaccharides	1
+item	i.e.	2
+acid	i.e. citrates	1
+route	i.v.	1
+great artist	i. c. dahl	1
+indirect cost	i.e. salaries of asno staff	1
+fuel	i. background low rank fuel	1
+extreme case	i.d. theft	1
+circuit	i.sup. two  l logic circuit 	1
+architect	i. m. pei	1
+treatment option	i.v. immunoglobulin	1
+consumable	i.e. bulb	1
+item	i.v. tubing	1
+light source	i. introduction modern light source	1
+instruction	i.d. card information	2
+private company	i. g. farben	2
+experiment	i. motivation neutrino oscillation experiment	1
+tree species	i. chinensis	1
+psychological factor	i.e. attribution	1
+product category	i.e. sports car	1
+stage	i.sup.th stage	1
+preventative measure	i.v. infusion therapy	1
+common item	i.e. the psalms of david	1
+item	i.e. ipods	1
+item	i.e. personal transportation	1
+item	i.d. tag	1
+phase	i.e. clay mineral	1
+organ	i.e. vestigial organ	1
+sensitive area	i.e. wetland	1
+sensitive area	i.c.t room	1
+derivative	i. introduction multi-name credit derivative	1
+secondary source	i.e. annual report	1
+external device	i.link device	1
+claim	i.e. compensation in respect of the removal	1
+federal agency	i.r.s.	1
+obligation	i. ong-term obligation	1
+lubricant	i.e. oils without the addition of water	1
+owner	i.e. copyright owner	1
+column	i.e. no airplane single-engine land	1
+studio	i.m.p.	1
+multinational	i.b.m.	1
+biological factor	i.q.	1
+browser	i.e	1
+item	i.v. bag	1
+optional item	i.e. cupboard	1
+specialty area	i.c.u	1
+local service	i.e. taxi	1
+medical service	i. treatment	1
+alloy	i.e. the so-called sendust alloy	1
+coastal region	i.e. the black sea	1
+area	i.e. true world tour	3
+area	i.t.	2
+novelist	i. allan sealy	1
+student group	i.e. the european students forum	1
+industry sector	i.t.	1
+tea	i.e. ginger	1
+management system	i. introduction traffic management system	1
+personal expense	i.d. card	1
+boundary	i.e. with low r	1
+structural component	i.e.	1
+official document	i.d. card	3
+subdivision	i.t	1
+abbreviation	i.e.	12
+abbreviation	i.b.m unless specified in the authority record	1
+wireless device	i.e other wireless device	1
+corporate event	i. introduction corporate event	1
+traditional measure	i.e. the number of completed jobs per unit of time	1
+area	i.t	1
+implementation	i.sup. two c bus 	1
+big ticket item	i.e. two professional engineer	1
+community member	i.e. pediatrician	1
+conductive material	i.e. aluminum	1
+boutique	i.t	1
+pharmaceutical company	i. braun medical supplies	1
+large animal	i. large animal	1
+area	i.t training	1
+transferable skill	i.t.	1
+soloist	i. oistrakh	1
+key skill	i.t.	1
+alias	i.b.m.	1
+runner	i.	1
+contextual information	i.e. national park	4
+infraction	i.d. fraud	1
+string	i.d. code	1
+find	i.b.m.	1
+human disease	i. introduction life-threatening human disease	1
+standardized test	i.q.	1
+rifle	i. assault rifle	1
+office function	i.t.	2
+service	i.d. card	3
+biological agent	i.e. anthrax	1
+environmental consideration	i.e. rain	1
+physical item	i.e. apple	1
+medical equipment	i.v. tubing	1
+medical equipment	i.v. pole	1
+large manufacturer	i. g. farben of germany	1
+collectible item	i.e. gold	1
+therapeutic approach	i.v. high-dose ig	1
+business solution	i.t repair	1
+oxidant	i.e. oxygen	2
+computer skill	i.e. using word	1
+habitat type	i.e. pool	1
+factor	i.e. sand	1
+factor	i.e. the particular parental genotype	1
+factor	i.e. condo	1
+factor	i.e. different donor	1
+factor	i.e. latitude	1
+soft tissue	i.e. bone	1
+statesman	i. c. bratianu	1
+identification	i.d. card	1
+identification	i.e. single number	1
+well-known musician	i. gitlis at international festival	1
+commercial area	i. i. chundrigar road	1
+standard accessory	i. anti static hygienic mattress with pull strap	1
+appurtenance	i. architectural appurtenance	1
+service	i.t	1
+service	i.e. dealing with non-core function	1
+service	i.t risk management	1
+service	i.t.v. room	1
+spectroscopic technique	i.r. spectroscopy	1
+famous composer	i. stravinsky	1
+project component	i.e.	1
+operational function	i.t.	1
+german company	i. g. farben	1
+complex trait	i.q	1
+non-invasive method	i.e. cortisol	1
+natural polymer	i.e. collagen	1
+evangelical	i. howard marshall	1
+famous architect	i. m. pei	1
+patriot	i. i. golubtsov	1
+plant part	i.e. root	3
+plant part	i. e. root	1
+terrestrial species	i. o. obesulus	1
+moniker	i.l.l breed	1
+security company	i.t. security company	1
+personal computer	i.b.m.	1
+welding parameter	i.	1
+suffix	i.	1
+travel document	i.d. proves	1
+high risk activity	i.e. painting	2
+topic	i.t.	1
+routine expense	i.e shampoo	1
+local anesthetic	i.v. lidocaine	1
+square	i. p. pavlova	1
+commentary	i. howard marshall's luke	1
+scholarly work	i. f. stone's the trial of socrates	1
+anesthetic agent	i.v. anesthetic agent	1
+environmental policy	i. introduction incentive-based environmental policy	1
+company	i.b.m.	3
+company	i.t. security company	1
+company	i.t.c.	1
+dilemma	i. well	1
+great architect	i. m. pei	1
+hardy species	i. decora	1
+well-known business	i.	2
+crucial parameter	i.e. interface broadening	1
+neoconservative	i. lewis libby	1
+eminent person	i.a.s officer	1
+company	i.t.t.	1
+company	i.e. dish network	1
+modern browser	i.e	1
+school document	i.d. card	1
+serial interface	i. sup . two  c interface 	1
+tick	i. ricinus	1
+assault rifle	i. assault rifle	1
+combustion device	i. c. engine	1
+wonderful teacher	i. key	1
+yeast species	i. orientalis	2
+static item	i.e. link urls	1
+well-known architect	i. m. pei	1
+experimental therapy	i.v. immunoglobulins	1
+Egyptologists	i. e. s. edwards	1
+hospital equipment	i.v. stand	1
+financial parameter	i.a.	1
+network interface	i.lon  one hundred  internet server 	1
+network interface	i.lon  ten  internet server 	1
+local charitable organization	i.m sulzbacher homeless shelter	1
+copyright owner	i.e. copyright owner	1
+equivalent qualification	i.b.	1
+legume plant	i. truxillensis h.b.k.	1
+legume plant	i. suffruticosa millsp.	1
+fool	i. w & m bill trader	1
+picture identification	i.d. card issued by a government agency	1
+infectious pathogen	i. belli	1
+vision system	i.ahumanvisual saliency biological vision system	1
+factor	i.e. frontal	1
+factor	i.e. an abusive childhood	1
+econometric method	i. introduction many econometric method	1
+nineteenth-century writer	i. f. mosel	1
+valid identification	i.d. card	1
+aggressive approach	i.v dmps	1
+bile salt	i.e. cholate	4
+mineral makeup	i.d. bare mineral	1
+long-term loan	i.d.b.i.	1
+representative figure	i. b. singer	1
+disturbance variable	i.e. the failure of specific system component	1
+information	i.p. address	4
+world-renowned architect	i. m. pei	1
+latin term	i.e.	2
+supportive care measure	i.v. fluid	1
+legacy datum	i.e. drawing	1
+silly name	i. emma ghost	1
+video slot	i.r.i.s  three thousand  	1
+information	i.d. card	1
+information	i.e. workers age	1
+credit derivative	i. introduction multi-name credit derivative	1
+detox program	i.v. chelation	1
+biodiversity feature	i.e. creek	1
+intermediate result	i.e. personal cost	1
+nitrovasodilators	i.v. endothelium-independent nitrovasodilators	1
+nuisance factor	i.e. extra reward for holding risky investment	1
+information	i.e diabetic	1
+information	i.e.	1
+music device	i. pod	1
+disposable device	i.v. catheter	1
+increased security measure	i.d. badge	1
+fairy-tale character	i. child's favorite fairy-tale character	1
+leading architect	i. m. pei	1
+event	i.d.p fundraiser	1
+vestigial organ	i.e. vestigial organ	1
+great magazine	i.d magazine	1
+star architect	i. m. pei	1
+traffic management system	i. introduction traffic management system	1
+trial document	i. trial document trial document	1
+ergonomic injury	i. introduction ergonomic injury	1
+external team	i.t	1
+latin abbreviation	i.e.	2
+tropical variety	i. cornuta	1
+concrete outcome	i.e. patent	1
+corrosion test	i. other corrosion test	1
+disposable medical device	i.v. solution container	2
+excellent para-medical service	i.c.u.	1
+non-functional factor	i. e. quality-of-service of software component	1
+ornament symbol	i.h.s.	1
+patient care supply	i.v. tubing	1
+relaxation option	i.v. sedation	1
+wine tasting accessory	i.s.o tasting glass	2
+architectural appurtenance	i. architectural appurtenance	1
+geologic resource	i.e. crushed stone	1
+identification paper	i.d. card	1
+award event	i.c.e. award	1
+celebrity architect	i. m. pei	1
+matrix characteristic	i.e. the third phase effect	1
+predator urine	i. executive summary predator urine	1
+video connection	i.link	1
+application project	i.t. application project	1
+non core activity	i.t	1
+opioid administration technique	i.v. infusion	1
+program	i.b. program	1
+program	i.d.	1
+program	i.e. virtual monitor	1
+Secondary stressors	i.e. acidosis	1
+critical connection	i.e. the bolt	1
+design consultant	i.m pei	1
+east coast architect	i. m. pei	1
+Monoisocyanates	i.e. stearyl	1
+saturated organic compound	i.e. diethyl ether	1
+urine	i. executive summary predator urine	1
+anti-tack agent	i.e. zinc	1
+depending factor	i. e. dimension	1
+factor variable	i.groupin expression	1
+historical tale	i. timofeev's chronicle	1
+premium, healthy snack food	i. r. sassy salsa	1
+scholar activist	i. t. a wallace johnson	1
+organization	i.b.m.	2
+birth control technique	i.u.d. s cause a long list of serious heath problem	1
+christian magazine	i.f.m.a news	1
+chronic dis-ease condition	i.b.s.	1
+combinatorial concept	i.a.	1
+combustion additive	i.e.	1
+fixed-price model	i. introduction though fixed-price model	1
+forest frog species	i. parvus	1
+forest species frog	i. parvus	1
+Inappropriate jewelry	i.d. bracelet	2
+local legal requirement	i.d. card	1
+low rank fuel	i. background low rank fuel	1
+medical and food application	i.v. bag	1
+ordinary original	i.e. black	1
+Perishable evidence	i.e. blood alcohol content	1
+plenty	i.t	1
+technique	i.e. communal tagging	3
+prescription eyewear brand	i.a. eyeworks	1
+publishedin forum	i.d.	1
+selfing species	i. capensis	1
+asian american architect	i. m. pei	1
+technique	i.e. the eskimo roll	1
+technique	i.e. the direct exploration of aquifer	1
+basic, longstanding measure	i.e. removing step	1
+carbon arrow	i.c.s. by beaman	1
+clear serum	i.c fantasia	1
+deciduous holly	i. decidua	1
+technique	i. howard fine	1
+historic resource setting	i. historic resource setting	1
+incentive-based environmental policy	i. introduction incentive-based environmental policy	1
+innovative security solution	i.p. monitoring system	1
+native and foreign scientist	i. n. kuznetsov	1
+Native strand species	i. pes-caprae	1
+neutrino oscillation experiment	i. motivation neutrino oscillation experiment	1
+non-explainable phenomenon	i.e. blindness	1
+application	i.d. work	1
+plant-based cookbook	i. moskowitz	1
+popular correlation-based analytical channel model	i.i.d model	1
+private banker	i. m. borjes & co.	1
+project's participant	i. lewis scooter libby	1
+silicon reduction process	i.g. process	1
+small connection	i.e. a metal bridge link	1
+so-called off balance product	i.e. swap	1
+soviet scholar	i. ia	1
+state-of-the-art silicon logic device	i.sup. two  l device 	1
+static channel	i.e. a channel without fading	1
+success-ful health care program	i. reference works	1
+suitable halides	i.e. phosphorus chloride	1
+application	i.e.	1
+therapeutic function	i.v.	1
+video connector	i.link	2
+western architect	i. m. pei	1
+academic physician	i. craig henderson	1
+acidic breaker	i.e. benzoic acid	1
+Acidicbreakers	i.e. benzoic acid	1
+associationistic theorist	i. pavlov	2
+AV input	i.link for camcorder	1
+basic delivery information	i.e. email	1
+bill review company	i.m.s.	1
+byzantine attack	i.e. injection of corrupt packets in the network	1
+common latin abbreviation	i.e.	1
+common latin term	i.e.	1
+custom corporate product	i.d tag necklace	1
+developmentalist theorist	i. i. schmalhausen	1
+employee relation's superintendent	i. b. lawton	1
+european-bred horse	i.e. the selle francais	1
+name	i. howard marshall	1
+name	i. m. pei	1
+name	i.link	1
+Film frame indicia	i.e. bar	1
+genus Indigofera	i. tinctoria	1
+identity verification document	i.d book	1
+interesting cuban artifact	i.d. card from havana university	1
+intermediation function	i.e. a share recommendation	1
+Internet viewer	i.e	1
+introduction incentive-based environmental policy	i. introduction incentive-based environmental policy	1
+journalism stalwart	i. f. stone	2
+laminated document	i.d. card	1
+large fraternal order	i.o.o.f.	1
+liberal or radical periodical	i. akssakov's the day	1
+factor	i.e. lack of skilled care at birth	1
+factor	i.e. of surface sample	1
+factor	i.e. quantity of chips per unit area of drying surface	1
+factor	i.e. the degree of branching	1
+multi standing pole	i.v. pole	1
+parental meeting	i.e.p.	1
+pharmaceutical part	i.v. bag reseal	1
+case	i.e. for adultery	1
+portrait print	i.e. lighthouse	1
+presently available marker	i.e. defects in certain gene	1
+private sector funding source	i. lease purchase option	1
+prominent Chinese Americans	i. m. pei	1
+rank fuel	i. background low rank fuel	1
+regular bond series character	i.q.	1
+Renowned orientalists	i. guide	1
+semantic representation	i.e. the meaning associated with a phonological underlying form in the lexicon	1
+silly saying	i.emma ghost	1
+silly saying	i. emma ghost	1
+simulated performance result	i.sub.d sat value	1
+standard stabilizer material	i.e. phenol	2
+case	i.e. outside the plate	1
+case	i. community development element	1
+option	i.e. senior citizen residence	1
+synchronous solution	i.sup. two  c bus by phillips 	1
+three-deck austrian-built vessel	i. repin	1
+trial document trial document	i. trial document trial document	1
+valid governmental picture I.D.	i.d. issued by a state department of public safety	1
+workplace assessment	i.e. an assessment of the ohs risks of a task	1
+aggressive bark beetle	i. zhang	1
+agressive approach	i.v glutathione	1
+ag-specific approach	i.v. injection of soluble thyroglobulin before a subsequent immunization with tg	1
+ancient Atlantologists	i. donnelly	1
+bi-fuel conversion technique	i.e. fumigation	1
+blood-filled needle	i.v. catheter stylets	1
+centre resource	i.t	1
+Cost Effective Integrated POS Hardware	i. touch screen	1
+elsewhere left-wing group	i.w.w. in america	1
+excellent music group	i.m.t smile	1
+EXCITED ABOUT THIS OPPORTUNITY treatment	i.v. suturing	1
+forest frog	i. parvus	1
+heavy duty underlayment	i.k.o. s cool grey	1
+introduction corporate event	i. introduction corporate event	1
+large capitalist publishing enterprise	i. d. sytin publishing house	1
+latin-based abbreviation	i.e.	1
+ong-term obligation	i. ong-term obligation	1
+others important human-ware parameter	i.e. team formation	1
+physical site security mechanism	i.d. badge	1
+pop piano fan	i. perfect army	1
+progressive worker	i. v. babushkin	1
+radical labor group	i. w. w.	1
+ridge pattern	i.e. minutia	1
+road verge environment	i.e. non-linear grassland patches surrounded by road	1
+method	i.e. black hole	1
+method	i. introduction many econometric method	1
+serial bus architecture	i.sup. two  c bus architecture 	1
+strategy layout	i.e charts	1
+supravital method	i.e. the assays of plasma membrane integrity incompatible with subsequent processing	1
+tier-1 roman numeral	i. iv into plain number	1
+traditional gift card	i.o.u gift tag	1
+triggerable bipolar flip-flop	i.sup. two  l flip-flop 	1
+Webmath fraction	i. san luis obispo	1
+project	i.t. application project	1
+project	i.c.i. copper project	1
+project	i. facility design	1
+project	i.e.	1
+artist	i.g culture	2
+artist	i. sors	1
+material	i.e. refractory cement	2
+player	i. j. jang	1
+product	i.e.	2
+product	i.lon into decision management systems	1
+product	i.q.f oyster	1
+technology	i.e. solar	1
+technology	i.e. an electrically driven nose gear	1
+parameter	i.e. asynchronous	1
+parameter	i.e. sampling density	1
+system	i.e. the high heel truss	1
+system	i. introduction projection electron-beam system	1
+system	i. introduction traffic management system	1
+system	i.e. water	1
+system	i.ahumanvisual saliency biological vision system	1
+species	i. purpurea	1
+species	i. glandulifera	1
+species	i. calligraphus	1
+species	i. orientalis	1
+condition	i.e. macrophages	2
+condition	i.b.s.	1
+variable	i.q.	1
+variable	i.c. manifold pressure	1
+function	i.e. speaker mute	1
+function	i.e. corrosion protection	1
+function	i.t.	1
+function	i.e. the control of the software development activity	1
+device	i.e. refrigerator	5
+device	i.e other wireless device	1
+device	i.e. the so-called pre-filled device	1
+device	i.lon  one hundred 	1
+brand	i.p. telephony market brand	1
+brand	i.k.y.k	1
+concept	i.e. producing beneficial growth factor	1
+component	i. sub . three 	1
+component	i.c.	1
+aspect	i.e. economics	1
+task	i.e. cleanup	1
+task	i.m. injection	1

@@ -1,0 +1,1118 @@
+product	qingkailing soft capsule	1
+datum	qia expense	1
+resource	qi leader	2
+resource	qios	1
+facility	qiball house other facility	1
+source	qiyas	2
+game	qingo bingo	1
+game	qix	1
+game	qix adventure	1
+subject	qigong	1
+exception	qingdao	1
+character	qianlong emperor	1
+model	qi qi	1
+model	qip	1
+word	qi	4
+word	qiraa'ah	1
+attraction	qiao's compound	1
+skill	qinna	1
+institution	qinghua university	1
+document	qi report	1
+product	qiaowei raincoats	1
+product	qipao related product	1
+form	qigong	4
+form	qi du	1
+person	qi	1
+alternative	qigong	1
+course	qi gong	1
+location	qianshan	1
+location	qingdao	1
+writer	qinghai tibetan writer mei zhuo	1
+book	qi jing ba mai kao	1
+star	qi host stephen fry	1
+school	qian-jia school	1
+practice	qigong	22
+practice	qi gong	19
+practice	qi chong	1
+operation	qintex	1
+scholar	qiu guifen	1
+scholar	qiu jun	1
+scholar	qian xuantong	1
+scholar	qiang zhai	1
+scholar	qing board of punishments case	1
+development	qipp agenda	1
+city	qingdao	31
+city	qidong city in jiangsu province	1
+city	qiqihar	1
+city	qinhuangdao	1
+celebrity	qinghua	1
+town	qingxi	1
+town	qibao	1
+firm	qingjian group	1
+dish	qi guo	1
+indicator	qi  two . one  learners experience 	2
+treatment	qigong	4
+treatment	qi gong	2
+treatment	qigong therapy	1
+manufacturer	qirui motor	1
+instrument	qin	3
+instrument	qiasymphony sp from qiagen	1
+instrument	qifteli mentioned in the article	1
+attribute	qinq	1
+class	qigong	1
+class	qi gong	1
+study	qiu	1
+individual	qiao shi	1
+individual	qing amban at xining	1
+equipment	qinetiq diver reconnaissance system	1
+leader	qin shi huang di	1
+leader	qiu jing	1
+leader	qian yang	1
+musician	qiu xia on pipa	1
+musician	qiu xia	1
+cause	qi weakness of lung	1
+cause	qi	1
+entity	qios	1
+building	qianshang liuye ancestral hall	1
+building	qibao old street	1
+researcher	qiu et al	2
+researcher	qian	1
+region	qingdao	2
+region	qinghai	2
+region	qianjiang in the jianghan plain	1
+variety	qihong tea	1
+variety	qing ding	1
+variety	qiantang	1
+Organisations	qibla	1
+partner	qingdao yanshan group	1
+partner	qinetiq	1
+partner	qingdao mesnac co.	1
+big name	qin hailu	1
+standard	qi  four 	1
+classic	qix	1
+vendor	qinetiq ltd	1
+critic	qinghua university's senior architect	1
+intervention	qi gong	2
+scheme	qinetiq site	1
+designer	qiu hao	1
+student	qiaolin huang	1
+magazine	qiushi	1
+exercise	qigong	19
+exercise	qi gong	18
+destination	qiandao lake	1
+competitor	qimonda	2
+district	qinhuaihe in nanjing	1
+point	qixing wuguan in yantai	1
+discipline	qi gong	5
+discipline	qigong	3
+discipline	qi gung	2
+discipline	qigong andtai chi	1
+law	qisas	2
+law	qisas-o-diyat	1
+local tourist attraction	qingping market	1
+festival	qingming festival	2
+festival	qingdao beach cultural festival	1
+festival	qingdao ocean festival	1
+festival	qixi	1
+language	qiang	1
+herb	qing pi	2
+herb	qing fi	1
+herb	qian cao	1
+herb	qing dai	1
+herb	qiang huo	1
+herb	qinghuo	1
+producer	qimonda	1
+luminary	qi baishi	1
+therapy	qi gong	6
+therapy	qigong	6
+therapy	qihong therapy with body awareness	1
+principle	qim	1
+series	qin's moon	1
+university	qinghua university	1
+university	qing hua	1
+university	qinghua	1
+text	qing crime report	1
+tourist attraction	qingdao aquarium	1
+tourist attraction	qinghui garden	1
+movement	qigong	1
+movement	qi gong	1
+theory	qi	1
+supplier	qiagen	1
+composer	qigang chen	3
+bank	qib	1
+network	qiniq	1
+teacher	qi deju	1
+apps	qik	1
+apps	qipit white	1
+theorist	qiu jun	1
+large company	qinetiq	1
+fund	qia	1
+modalities	qi gong	4
+modalities	qigong	2
+modalities	qi gung healing	1
+modalities	qi gong healing	1
+society	qing	1
+evidence	qin	1
+evidence	qin terracotta warrior	1
+crime	qibya	1
+road	qiandong road	1
+attachment	qing	1
+enterprise	qingdao tire	1
+enterprise	qingjiang petrochemical group	1
+river	qingshui river	2
+key area	qingdao	1
+injury	qin hadside	1
+thinker	qin yaqing	1
+snack	qiaomian hele	1
+aircraft	qinetiq zephyr	6
+key player	qiagen	2
+developer	qingjian realty	1
+street	qingzhou's zhaode ancient street	1
+municipality	qingdao in north-eastern shandong province	2
+hobby	qi gong	1
+master	qingyuan	1
+master	qi gong master	1
+race	qipco champion stakes	2
+tenant	qinetiq north america	1
+tenant	qi mantra	1
+key concept	qi	1
+painter	qi haiping	1
+port	qingdao	2
+port	qinzhou	1
+art	qi gong	1
+art	qi-moving martial art	1
+route	qip	1
+performance	qi pao fashion show	1
+performance	qi gong	1
+large project	qingdao bay bridge	1
+large project	qingdao digital center	1
+historical site	qing dynasty city wall	1
+historical site	qingyang palace	1
+international company	qinetiq	1
+ethnic group	qidan	4
+ethnic group	qiang	3
+ethnic group	qiang person	1
+item	qipao	1
+province	qinghai	21
+province	qing hai	1
+province	qinhai	1
+historic site	qidie stone	1
+large city	qingdao	1
+well-known artist	qiang huang	1
+fiber	qiviut	1
+educational program	qigong	1
+preventative measure	qigong treatment	1
+court	qingdao maritime court	1
+branch	qing river	1
+intermediary	qios	1
+doctor	qiao	1
+construction	qingyuan hall	1
+outfit	qiagen	1
+tourist destination	qingdao	3
+industry group	qikiqtaaluk corporation	1
+holiday	qing ming in the spring	1
+holiday	qing ming jie	1
+holiday	qing ming	1
+holiday	qing ming festival	1
+column	qiaquick nucleotide removal kit	1
+comment	qikojl watch movies online zhsdgce common	1
+comment	qimcfy watch movies online yqpbyjj day after day	1
+comment	qifdlv watch movies online rzxaoij on a daily basis	1
+gem	qix	1
+buyer	qinetiq	1
+big city	qingdao	1
+poem	qing dynasty poem	1
+period	qing dynasties	1
+fundamental concept	qi	2
+remote area	qinghai	2
+remote area	qinghai province in china	1
+deal	qinitiq group's acquisition of dominion technology resources	2
+souvenir	qin embroidery	1
+sport activity	qi gong	1
+abstract concept	qi	1
+treatment modalities	qigong	2
+treatment modalities	qi gong	1
+market leader	qiagen	1
+subsidiary	qinhuangdao shouqin metal material co.	2
+local government	qianlong in beijing	1
+local government	qingdao	1
+area	qinghai	3
+area	qinghai province	3
+mountain	qinling mountain	1
+formula	qing ying tang	2
+formula	qi li san	1
+coastal area	qinzhou	1
+traditional event	qing ming	1
+relaxation technique	qi gong	4
+relaxation technique	qigong	4
+traditional product	qingxu mature vinegar	1
+subgroup	qiangic	1
+deposit	qingchengzi pb-zn deposit	1
+industry player	qian jiang water resources development	3
+large-scale project	qingtongxia	1
+martial art	qi gong	6
+martial art	qigong	4
+martial art	qi-moving martial art	1
+eatery	qian xi farrer park	1
+star hotel	qi bao shan hotel shenyang	1
+predecessor	qinmu gong	1
+traditional practice	qigong	1
+coastal city	qingdao	8
+coastal city	qinzhou	1
+small company	qian dian qian a shop	1
+local delicacy	qiyou tea	1
+local celebrity	qi yu wu	1
+ring	qi ring	1
+area	qinghai endemia in western china	1
+area	qinghai-tibet plateau	1
+area	qingchuan	1
+highway	qinzhou-dongxing	1
+natural fiber	qiviut	1
+path	qigong	1
+quantitative method	qif	1
+renowned company	qiagen	1
+analysis method	qiangreviewed numerical analysis method	1
+reservoir	qiyeshi	1
+relic	qiuci coin	1
+key project	qinghai-tibet railway	1
+commission	qisas	1
+complementary therapy	qi gong	2
+basic term	qi	1
+ethnic minority	qiang	1
+area	qing province	1
+area	qiandongnan in guizhou	1
+area	qianlong garden	1
+area	qingdao	1
+service	qi gong	3
+aerobic exercise	qigong	1
+mine	qit madagascar minerals	1
+beautiful place	qingcheng mountain	1
+healing modalities	qi gong	3
+therapeutic modalities	qigong	1
+common technique	qi gong	1
+research institute	qinetiq in the uk	1
+collaborator	qiao jianqun	1
+famous tourist attraction	qinghai lake	1
+famous tourist attraction	qilian mountain	1
+famous tourist attraction	qianmen pedestrian street	1
+fundamental principle	qi	1
+great character	qiao sister	1
+dynasty	qing	4
+dynasty	qin	2
+dynasty	qing dynasty	1
+high profile project	qingdao haiquanwan holiday resort	1
+spiritual practice	qi gong	6
+spiritual practice	qigong	2
+traditional form	qi gong	1
+national leader	qian qichen	1
+national leader	qiao shi	1
+large player	qinetiq	1
+natural therapy	qi gong	7
+apple	qinguan apple	2
+ETFs	qid	2
+cartridge	qix	1
+subsidy	qingdao office	1
+port city	qingdao	1
+web-based application	qiuckbooks online edition	1
+hall	qingguang hall	1
+survivor	qiana crump	1
+historical attraction	qiblatain mosque	1
+traditional sport	qigong	1
+moderate	qiao shi	1
+service	qigong	1
+prestigious university	qingdao ocean university	1
+light exercise	qigong	1
+fitness class	qi qong	1
+decorative piece	qing hua ci urn	1
+adjunctive therapy	qi gong	2
+car maker	qingling motors	1
+dissident	qin yongmin	1
+traditional therapy	qi gong	1
+exercise program	qi gong	1
+social site	qix	1
+top university	qinghua university	1
+arid region	qila saifullah	1
+public university	qinghua	1
+traditional discipline	qigong	1
+palace	qingwei palace	2
+historic place	qiblatain mosque	1
+popular method	qi gong	1
+emperor	qianlong	1
+official source	qiandongnan dilizhi	1
+spiritual discipline	qi qong	1
+sport program	qi gong	1
+wellness program	qi gong	1
+successful business	qi yun sheng multiple pharmaceutical stores	1
+famous scientist	qian xuesen	1
+famous scientist	qian sanqiang	1
+religious movement	qigong	1
+topic	qiyas	2
+low-impact activity	qigong	2
+corporate leader	qin xiaohong	1
+travel site	qingchengshan	1
+healing technique	qi gong	3
+international magazine	qi journal	1
+remote region	qinghai	1
+famous museum	qin shi huang terracotta warriors	1
+Moderate exercise	qi gong	1
+automobile company	qilin	1
+famous scholar	qian xuesen	2
+famous scholar	qian sanqiang	1
+famous scholar	qian zhongshu	1
+famous scholar	qianzhi zhu	1
+geographic region	qidong	3
+harbor	qingdao	1
+meditation technique	qigong	1
+meditation technique	qi gong	1
+exercise class	qigong	1
+exercise class	qi gong	1
+topic	qijia	1
+relaxation exercise	qi gong	1
+relaxation exercise	qigong	1
+holistic approach	qigong	1
+local fruit	qi dong chufa	2
+local fruit	qi dong persimmon	2
+adjunct therapy	qi gong	1
+body exercise	qigong	2
+gentle exercise	qi gong	3
+gentle exercise	qigong	3
+gentle exercise	qi gung	2
+established writer	qiong yao	1
+relaxation method	qi gong	1
+arid area	qinhai	1
+traditional attraction	qingcheng mountain	1
+facilitator	qios	1
+scenic attraction	qingdao arboretum	1
+scenic attraction	qipan mountain	1
+chinese brand	qian xiangyi	1
+chinese brand	qingqi	1
+complementary treatment	qi gong	1
+secondary city	qingdao	1
+cultural relic	qixinguan fight relic	4
+cultural relic	qing dynasties	1
+health practice	qigong	1
+university facility	qinghua university indoor stadium	1
+adult program	qi gong	1
+second-tier city	qingdao	2
+small instrument	qinqin	1
+ancient practice	qigong	7
+ancient practice	qi gong	3
+eastern city	qingdao	2
+famous scenic spot	qianwang temple	2
+famous scenic spot	qikong ancient bridge	1
+famous scenic spot	qiandao lake	1
+energetic activity	qi gong	1
+console game	qix	1
+noodle dish	qing palace cold noodle	1
+renowned writer	qin wenjun	1
+warship	qiao chuan	1
+valuable property	qiaocheng garden	1
+chinese city	qingdao	6
+company	qinetiq	10
+company	qiagen	5
+company	qingqi	3
+company	qingdao degussa chemical co.	3
+company	qingtao new redstar food	2
+cultural landmark	qian men da jie	1
+stress-reduction technique	qi gong	2
+stress-reduction technique	qigong	1
+tonic	qi tonic	1
+traditional medicine	qiang medicine	1
+healing art	qi cung	1
+healing art	qi gong	1
+healing art	qi healing	1
+successful firm	qiagen	1
+mind-body technique	qi gong	3
+mind-body technique	qigong	3
+mind-body technique	qigong exercise	1
+renowned university	qinghua university	1
+martyr	qiu jin	1
+traditional breed	qimmiq	1
+complementary and alternative therapy	qi gong	2
+complementary and alternative therapy	qigong	1
+traditional holiday	qing ming	1
+national heroes	qi jiguang	1
+cheap hotel	qingdao overseas chinese hotel	1
+chinese artist	qiu zhijie	1
+integrative therapy	qi gong	2
+company	qingdao beer	1
+company	qibang industry trade	1
+company	qi cashmere	1
+big producer	qisda	1
+elite institution	qinghua	1
+traditional specialty	qingxu vinegar	1
+common abbreviation	qid	1
+poor area	qingxi county in guangxi province	1
+beach city	qingdao in shandong province	1
+energy therapy	qigong	3
+energy therapy	qi gong	1
+relaxation therapy	qigong	1
+chinese leader	qiao shi	1
+classic arcade game	qix	1
+diver	qin kai	1
+elite university	qinghua	2
+holistic practice	qi gong	1
+holistic practice	qigong	1
+quality management tool	qit	1
+wellness activity	qi gong	2
+wellness activity	qigong	1
+add-on component	qi analyst	1
+contemplative practice	qigong	1
+industrial park	qingshuihe international automobile logistics industrial park	1
+powerful state	qing	1
+spiritual tool	qi gong	1
+company	qimonda	1
+company	qinhuangdao aoruite	1
+company	qic	1
+outlying district	qianjiang	1
+veteran artist	qin yi	1
+meditative practice	qigong	1
+meditative practice	qi gong	1
+poor region	qinghai	1
+influential scholar	qian daxin	2
+meditation practice	qi gong	1
+poetic technique	qinah meter	1
+trainee	qios	1
+inland region	qinghai	1
+internet player	qihoo  three hundred and sixty  technology 	1
+long-term client	qingdao beer	1
+mental technique	qigong	1
+others activity	qi bao cricket	1
+star performer	qingdao haier co.	1
+activity	qi gong	14
+activity	qigong	12
+activity	qirat competition	2
+activity	qigong exercise	1
+activity	qi dao	1
+effective therapy	qi gong	1
+great client	qiagen	1
+stretching exercise	qigong	2
+stretching exercise	qi gong	1
+mainland city	qingdao	1
+developed province	qinghai	1
+massacre	qibya	1
+chinese martial art	qi gong	1
+western province	qinghai	5
+physical practice	qi gong	1
+tourism resource	qilin bridge	1
+beijing attraction	qianmen	4
+chinese festival	qing ming	1
+classical book	qin shi	1
+classical book	qinshi bu	1
+energy healing technique	qi gong	1
+exotic fiber	qiviut	4
+military man	qiao	1
+modern painter	qi baishi	1
+commercial street	qianmen street	1
+active technique	qi gong	1
+mind-body practice	qi gong	2
+street market	qingping market	1
+western region	qinghai	1
+great apps	qik	1
+imperialist country	qing empire	1
+clothing style	qipao	1
+currently organization	qic	1
+meditative technique	qigong meditative technique	1
+movement therapy	qigong	4
+stress reducer	qigong	1
+neighboring province	qinghai	1
+therapeutic exercise	qi gong	1
+ancient method	qigong	2
+ebook format	qioo mobile	1
+historical drama	qin wang li shimin by yan haiping	1
+mindfulness practice	qigong	1
+preloaded apps	qik video	1
+software upgrade	qiasoft plus upgrade	1
+successful state	qing	1
+container port	qingdao	1
+mind-body exercise	qi gong	4
+stress-reducing technique	qigong	1
+worst-hit area	qingchuan	1
+eastern tradition	qi gong	1
+energy method	qigong	1
+meditative exercise	qi gong	1
+meditative exercise	qigong	1
+beautiful scenery	qingfen pavilion	1
+energetic therapy	qi gong	1
+relaxation practice	qigong	1
+sex product	qingtian zhu	1
+chinese official	qinghai vice-governor	1
+chinese stock	qiao xing universal telephone	1
+eastern practice	qi gong	6
+eastern practice	qigong	1
+movement art	qigong	1
+movement practice	qigong	2
+therap ies	qi gong	1
+year scholar	qiang zhai	1
+ancient item	qillas	1
+bodyweight movement	qigong	1
+Eastern modalities	qigong	1
+esoteric practice	qigong	1
+label mate	qilla fang	1
+mindfulness exercise	qigong-style moving meditation	1
+mindfulness exercise	qigong	1
+poor province	qinghai	2
+bash VIPs	qi wilson	1
+information	qibla direction	1
+famous garden	qiuzhi island	1
+infrastructure construction project	qinghai-tibet railway	1
+sunny region	qinghai	1
+ancient discipline	qi gong	2
+energetic healing modalities	qigong	1
+famous historic site	qianwang temple	1
+fitness service	qigong	1
+healing tradition	qi gong	1
+martial art form	qigong	1
+traditional chinese festival	qingming festival	3
+affluent province	qinghai	1
+chinese practice	qi gong	2
+conference hall	qingyun hall	1
+energy healing method	qigong	1
+energy medicine	qi gong	1
+energy practice	qigong	2
+inbred line	qi  three hundred and ninety-nine 	1
+key theory	qi	1
+natural exercise	qi gong	1
+poorest province	qinghai	1
+soft art	qigong	1
+weekly yoga class	qigong	1
+asian martial art	qigong	1
+awareness practice	qigong	1
+backward region	qinghai	1
+body art	qi gong	1
+commercially available kit	qiagen rneasy mini kit	1
+energy exercise	qi gong	2
+exercise system	qi gong	1
+fresh apple	qinguan apple	1
+key enterprise	qingdao magtech	1
+lifestyle therapy	qigong	1
+mindful practice	qi gong	2
+prediction technique	qi dong jia men	1
+remote province	qinghai	4
+speciality class	qi gong	1
+spy movie	qiu xi	1
+unknown name	qisheng leather corporation	1
+unknown name	qingdao taifa group	1
+ancient celebrity	qiu changchun	1
+chinese craft	qin terra-cotta warriors and horses	1
+chinese international table tennis player	qiao hong	2
+deep breathing exercise	qi gong	1
+effective stress-reduction technique	qigong	1
+key university	qinghua university	1
+quasi-government organization	qianxi women's law center in hebei	1
+workout class	qi gong	1
+young officer	qi jun	1
+backbone enterprise	qingdao magtech	1
+beachfront city	qingdao	1
+chinese producer	qingdao beer factory	1
+classic discipline	qi gong	1
+eastern concept	qi	1
+literary celebrity	qian	1
+mind-body skill	qi kung	1
+pop sensation	qi qin	2
+well-defined strategy	qi gong	1
+ancient modalities	qi gong	1
+ancient remedy	qigong	3
+arm company	qinetiq	2
+chinese traditional festival	qing-ming festival	2
+chinese traditional festival	qingming festival	1
+deep relaxation skill	qigong	1
+domestic IT giant	qinghua tongfang	1
+eastern martial art	qing gong	5
+famous emperor	qin si huang	1
+large chinese enterprise	qingdao haier	1
+national key project	qinghai-tibet railway	1
+physical training activity	qi gong	4
+sport movement	qi gong	1
+sub-companies	qingdao saidun luyang lightweight shaped steel	1
+TCMs	qinghuozhimai pian	1
+wellness class	qigong	2
+woman painter	qiu ti	1
+chinese dynasty	qin	1
+energy healer	qiqong practitioners	1
+enterprise group	qingdao haier group	2
+enterprise group	qingdao haixin group	1
+forbes-listed chinese billionaire	qiao jinling	1
+program	qigong	2
+program	qip	1
+nutrient substance	qi	1
+public festival	qingming festival	1
+regional bureau	qingdao's fourth bureau	1
+sovereign fund	qia	1
+stress-reduction method	qigong	1
+TCM therapy	qigong	1
+textile craft	qing jiangnan district	1
+upbeat track	qiao qiao men	1
+best effort	qing ming shanghe tu	1
+complementary medicine approach	qi gong	1
+famous chinese brand	qingdao jifa group	1
+marble tile	qing cream	1
+political project	qingzang railway	1
+subordinate institution	qingdao office	1
+successful discipline	qi gong	1
+climate modeler	qinbin li at the university of california	1
+domestic main motorcycle	qingqi suzuki	1
+eastern healing tradition	qigong	1
+eastern health practice	qigong	1
+elegant and comfortable suite	qingfang suites	1
+empirical research	qian	1
+famous cultural learner	qiu xigui	1
+historic weapon	qing dynasty era cannon	1
+improvement approach	qip	1
+large telecom provider	qiaoxing group co.	1
+low-income region	qinghai	1
+low-level exercise program	qi gong	1
+program	qi gong	1
+community	qikiqtarjuaq	2
+party elder	qiao shi	1
+princelings	qiao zonghuai	1
+region-states	qingdao	1
+relaxation class	qi gong	2
+reserved area	qingcaosha area	1
+romantic holiday	qixi	1
+shi'ite sectarian	qizilbashi	2
+Teahouses	qiantang	1
+big marketplace	qianmen commercial street	1
+classical collection	qin shi	3
+classical collection	qinshi bu	3
+commercial DNA extraction kit	qiaamp stool mini kit	1
+commercial DNA extraction kit	qiaamp  sixty  stool mini kit 	1
+commercial DNA extraction kit	qiaamp stool minikit	1
+complementary and alternative medicine practice	qigong	1
+complimentary and alternative practice	qigong	1
+costal city	qinhuangdao	1
+community	qiryat sefer	1
+community	qibei	1
+DNA purification kit	qiagen micro	1
+domestic famous motorcycle enterprise	qianjiang group	1
+downtown central commercial area	qianmen	1
+dragon-like creature	qilin	1
+eastern and western technique	qi gong	1
+ecological travel site	qianfoshan mountain	1
+energy clearing technique	qi gong	1
+energy healing course	qi gong	1
+esoteric exercise	qigong	1
+experienced senior international	qiu li	1
+famous city site	qiblatain mosque	2
+focused practice	qi gong	1
+guangdong city	qingyuan	1
+health oriented service	qigong	1
+karst cave	qianlong cave in baoting county	1
+movement-based therapy	qigong	1
+national backbone railway project	qinghai-tibet railway	1
+northwestern province	qinghai	1
+NPPs	qinshan i	1
+poor county	qingyuan	1
+promising star	qing pang	1
+relaxing practice	qigong	1
+Ribonucleases	qip	1
+organization	qinetiq	2
+singapore s successful company	qian hu corporation limited	1
+singapore's successful company	qian hu corporation limited	1
+small and medium brand	qionglai	1
+spiritual healing practice	qi gong	1
+sunnah prayer	qiyaam al-layl	8
+therapeutic and diagnostic theory	qi	1
+traditional and complementary service	qi gong	1
+traditional chinese landscape structure	qiuxia garden	2
+well-educated intellectual	qinghua university professor zhang guangdou	1
+well-know academician	qian yitai	1
+amenity city	qingdao	1
+ancient architectural site	qilichbek madrassahs	1
+assistant envoy	qin dan	1
+Beam line staff	qing ma	1
+biofield therapy	qi gong	5
+central and western province	qinghai	1
+chinese ancient dynasty	qing	1
+chinese exercise	qigong	2
+chinese exercise	qi gong	2
+ching discipline	qigong	1
+clapper opera star	qing fengyun	1
+coastal second-tier city	qingdao	1
+eastern art	qigong	1
+Energetic healing	qi gong	1
+energy movement exercise	qi gong	1
+energy movement exercise	qigong	1
+energy-building practice	qigong	2
+excellent native breed	qinchuan cattle	1
+exercise practice	qigong	1
+external therapy	qi gong	1
+famous buddhist college	qinghai buddhist college	1
+famous extant mausoleum	qianling tomb	1
+famous male composer	qin yongcheng	1
+famous pine	qilin pine	1
+famous taoist mountain	qingcheng mountain	2
+Famous xia s	qiu jin	1
+fundamental body substance	qi	1
+gentle movement program	qi gong	1
+group division	qiao sheng	1
+heat clearing herb	qing dai	1
+heavy wind erosion area	qinghai	1
+intangible cultural heritage item	qianshan bamboo rooster dance	1
+Islamic travel-related information	qiblah direction	1
+large, well-established university	qinghua	1
+light excercise	qigong	1
+low level exercise program	qi gong	1
+mind body practice	qi gong	1
+mindful movement practice	qi gong	1
+MTS carrier ethernet feature	qinq	1
+official newspaper	qilu evening news	1
+oligonucleotide array	qiagen array-ready oligo set for the pig genome	1
+oriental exercise	qi gong	1
+phosphoregulators	qik	1
+organization	qia	1
+organization	qibla	1
+technique	qigong	9
+technique	qi gong	4
+preloaded T-Mobile's apps	qik video chat	2
+prestigious higher-learning institution	qinghua university	1
+professional commercial site	qin jia yuan	1
+QI project	qi workshop	2
+qing emperor	qianlong	2
+scenic and historical site	qinhuai river	1
+self improvement activity	qigong exercises for health	1
+staff use technique	qi gong	1
+standard agency	qic	1
+stress-reducing mind-body discipline	qigong	1
+TCM concept	qi	1
+TCM concept	qi yin	1
+teaching prize	qian zhiguang prize	1
+therapeutic qi gong practice	qi gong for eye	1
+traditional chinese concept	qi	1
+traditional chinese exercise	qigong	2
+traditional chinese exercise	qi gong	1
+traditional chinese martial art	qigong	1
+traditional eastern art	qi gong	1
+traditional eastern method	qi gong	1
+traditional religious element	qibla wall	2
+traditional, internal chinese martial art	qigong	1
+true western region	qinghai	1
+3D study	qing-yuan et al.	1
+abdominal acupuncture point	qihai	1
+abundant historical and cultural site	qixia temple	1
+active exercise technique	qi gong	1
+all-over body exercise	qigong	1
+ancient hands-on technique	qi gong	1
+body-mind practice	qigong	1
+china's western and northern region	qinghai-tibet plateau	1
+chinese mainstream medium outlet	qingdao tv station	1
+chinese olympic champion	qian hong	1
+chinese style baby cotton clothes	qing dynasty prince wadded matching set	1
+commercial and fishing port	qisha port	1
+complimentary healing method	qi gong	1
+courtesy name	qingyuan taoist priest	1
+cultivation art form	qi gong	2
+cultivation artform	qi gong	1
+domestically famous manufacturer	qingdao beer	1
+downstream distro's	qimo	1
+earliest shooter	qiongzhuea tumidissinoda	1
+Eastern healing modalities	qigong	1
+eastern movement therapy	qigong	6
+embodied meditative practice	qi gong	1
+energy building exercise	qi gong	1
+energy building exercise	qi gung	1
+energy-healing course	qi gong	2
+enlan badminton equipment	qiaofali trainer	1
+famous chinese medical doctor	qi bo	1
+famous specialist	qian yun-qiu	1
+far-eastern exercise	qi gong	1
+technique	qigong meditative technique	1
+technique	qigong massage	1
+technique	qi collaborative	1
+technique	qin-na technique	1
+gentle breathing exercise	qi gong	1
+gentle exercise technique	qigong	2
+grand enterprise	qianjiang motor	1
+healing intent ion therapy	qigong	1
+healing intention therapy	qigong	2
+imperial dynasty	qing	1
+impressive gate	qianmen gate	2
+information role	qi analyst	1
+intraplate range	qinling	1
+iron ore import terminal	qingdao	1
+key strategic and technology partner	qinetiq	2
+likewise great empire	qin	1
+metaphysical art	qi gong	1
+Mindful movement	qi gong	1
+newly-opened tourist region	qingchui peak forest garden	1
+non native settler	qian guangxiu	1
+non-arab sedentary farmer	qimr	1
+non-han chinese ethnic group	qiang	1
+northern ethic minority	qiang	1
+olympic venue city	qingdao	1
+oriental healing art	qi gong	1
+party journal	qiushi	2
+physician notation	qid	1
+poposauroids	qianosuchus mixtus	1
+poverty monitoring survey	qinba mountain area poverty monitoring survey	1
+productive province	qinghai	1
+qing dynasty scholar	qian daxin	1
+Quesadillas	qinky hawaiian	1
+regular health exercise	qi gong	3
+remedial or preventive exercise	qi gong	1
+security broker	qilu securities	1
+seemingly outlandish word	qi	1
+shandong coastal city	qingdao	1
+simple and effective practice	qigong	2
+so-called eastern exercise	qi gong	1
+soft exercise technique	qigong	1
+tame lighter, lower-moisture animal fiber	qiviut	1
+thematic culture & tourism activity	qionglong hill sunzi military science culture & tourism festival	1
+tibetan industrial product	qingke barley wine	1
+today such term	qi	2
+traditional asian technique	qigong	1
+traditional ethnic village	qingman miao village	1
+traditional taoist life art	qi gong	1
+U.K. company	qinetiq	1
+unknown county name	qingchuan	1
+upcoming city	qingdao	2
+vinegar cleaning method	qingpi	1
+west China	qinghai	1
+west chinese province	qinghai	1
+XMPP compatible client	qip infium	1
+yali student	qiu xun	1
+yellow sea port	qingdao	1
+adequate low-level exercise program	qi gong	1
+analogical source	qiyas	1
+ancient Chinese	qing zeng fan	1
+ancient eastern technique	qi gong	1
+ancient spiritual healing tradition	qigong	1
+asian movement art	qi gong	1
+asian-based therapy	qigong	1
+big empire	qing	1
+body mind practice	qi gong	2
+body-building exercise	qigong	1
+body-mind exercise	qigong	1
+breathing class	qi gong	1
+buddhist esoteric practice	qigong	1
+application	qik video connect	1
+name	qi	3
+cave wonder	qingshe cave	1
+chi exercise	qigong	1
+china's coastal city	qingdao	1
+china's traditional sport	qigong	1
+chinese famous painter	qi baishi	1
+chinese medicine practice	qi gong	1
+chinese ruler	qianlong	1
+coastal industrial city	qingdao	1
+co-host city	qingdao	1
+commercially available method	qiaquick pcr purification kit	1
+domestic chinese school	qingdao oxford international college	1
+domestic excellent manufacturer	qianjiang motorcycle group	1
+effective mind-body technique	qigong	1
+energy exercise technique	qigong	1
+ethernet extension	qinq	1
+famous kunqu opera artist	qian jinfang	1
+famous local tea	qimen black tea	1
+famous Taoist	qiu chuji	1
+name	qi baishi	1
+feature morning exercise street	qianmen street	1
+featured souvenir	qimen black tea	1
+gentle energy building exercise	qi gong	3
+government-led engineering project	qinghai-tibet railway	1
+Gubei's new development	qiang sheng	1
+healing power	qi emitting	1
+healing touch technique	qigong	3
+health-related class	qigong	1
+historic cultural relic	qixiu tower of ming dynasty	1
+historical female figure	qiu jin	1
+industry IP address management system	qip	1
+insulation blanket	qif	1
+interstellar colony	qinshui	1
+kung fu practice	qi gong	1
+Leveraged short sector-specific ETFs	qid for technology	1
+name	qingdao pulp & paper	1
+case	qingdao zone	3
+case	qianmen	2
+literary study	qira'a fi adab at yemen	1
+literature translator	qian zhongshu	1
+local indigenous community	qiang	1
+medical center resource	qi leader	3
+mind & body exercise	qigong	2
+multifaceted physical activity	qigong	1
+muslim anti-apartheid movement	qibla	1
+nationwide paper	qiao bao	1
+net bar	qiang ming net bar	1
+oil transit terminal	qingdao	1
+oil transit terminal	qinghuangdao	1
+patient practice various energy exercise	qi gong	1
+physical and spiritual practice method	qigong	1
+case	qimonda bankruptcy case	1
+case	qia	1
+case	qi gong	1
+case	qin dynasty	1
+powerful mind-body exercise	qi gong	1
+private pension fund	qinetiq group pension fund	1
+prose collection	qisas shamiyeh	1
+relaxing martial art	qigong	1
+remote and undeveloped province	qinghai	1
+remote ethnic minority area	qinghai province	2
+seaward river	qiantang river	1
+second-tier maker	qisda	1
+self-cultivation practice	qigong	1
+shandong peninsula's major port	qingdao	1
+sichuan cuisine restaurant	qiao chuan guo restaurant	1
+signal-amplified hybridization assay	qiagen digene hc two  high-risk hpv dna test 	1
+Simple and applicable TCM modalities	qigong meditation	1
+soft movement exercise	qi gong	1
+sparsely populated province	qinghai	1
+standard accounting format	qif	1
+standard state system application	qi report	1
+stylized exercise	qigong	1
+systematic muscle-relaxation technique	qigong	2
+today many historical garment	qipao dress	1
+traditional chinese costume	qipao	1
+traditional chinese relaxation exercise	qi gong	1
+traditionally transmitted practice	qi gong	1
+unassisted energy field enhancement practice	qigong	1
+vacuum manifold	qiavac  twenty-four  plus 	1
+vacuum manifold	qiavac  twenty-four  plus with vacconnectors 	1
+well-known chinese scholar	qian jiaju	1
+woman study	qian	1
+yogic deep breathing technique	qigong	2
+ailing power	qing dynasty china	1
+ancient chinese practice	qi gong	1
+Ancient exercise	qigong	1
+a-share listed tire company	qingdao doublestar	1
+asian exercise form	qigong	1
+authentic islamic practice	qiyas	1
+option	qing palace chinese restaurant	1
+bearish instrument	qid	1
+biggest chinese mausoleum	qianling	2
+body-mind class	qigong	1
+Bohris	qiyam	1
+centralized monarchy	qin shi huang	1
+china's gold mine	qinghai-tibet plateau	1
+china's most prestigious university	qinghua university	1
+chinese method	qigong	1
+chinese numerology	qimen dunjia	1
+circular economy theorist	qian yi	1
+city center stop	qianmen	1
+commercial nucleic acid purification kit	qiamp  ninety-six  virus biorobot kit 	3
+commercial PCR kit	qiagen stool kit	1
+common liturgical element	qibla wall	1
+complementary medicine practice	qi gong	1
+countless motorways	qinghai-tibet highway	1
+daoist health practice	qigong	1
+daoyin exercise	qi gong	1
+DNA extraction kit	qiamp tissue kit	1
+downy fiber	qiviut	1
+dynastic collapse	qing	1
+east lie various small town	qingshui	1
+eastern and western practice	qigong	1
+eastern-based exercise	qi gong	1
+group	qios	2
+group	qiang	2
+evil country	qing	1
+expensive incense	qi nan	1
+famous traditional chinese medical doctor	qin bowei	1
+foreign-owned electronics firm	qimonda	1
+german medical technology company	qiagen	1
+golden commercial street	qianmen	1
+high-ranking scientific and political figure	qian xuesen	1
+improvement framew ork	qip	1
+indigenous healing approach	qi gong	2
+inexpensive PC tape drive	qic type drive	1
+group	qikiqtani inuit association	1
+inherently discriminatory law	qisas	1
+jun poem	qiu lu	1
+large and medium enterprise	qinghai potassic fertilizer plant	1
+low output share province	qinghai	1
+MBAC method	qiu mbac method	2
+meditative and martial technique	qi gong	1
+meditative relaxation technique	qigong	1
+mysterious chinese treasure	qingcheng mountain	1
+non-han tribe	qiang	1
+group	qibla	1
+method	qigong	6
+non-yoga related class	qi gong	1
+organisational SPI model	qip	1
+peroxide substance	qinghaosu	1
+physical exercise program	qi gong	1
+point tip	qian zhongshu	1
+prentices	qiu chuji	1
+proper exercise method	qigong	1
+pure play DRAM maker	qimonda	1
+qinetiq's core venture business	qinetiq airport technologies	1
+quality improvement professional	qios	1
+regional birthright corporation	qikiqtaaluk	1
+regular headline show	qingdao music festival	1
+regular movement practice	qigong	1
+retired high-ranking official	qiao shi	1
+RNase-free DNase	qiagen rnase-free dnase set	1
+rural western province	qinghai	1
+SDRAM chip	qimonda hyb eighteen m five hundred and twelve thousand one hundred and sixty af six 	1
+self-rated depression scale	qids-sr the ham-d	1
+method	qim	1
+method	qiangreviewed numerical analysis method	1
+method	qi gong	1
+method	qigong training club	1
+method	qi gong therapy	1
+method	qi gong exercise	1
+senior chinese political leader	qian qichen	1
+senior Yahoo search staff	qi lu	1
+Sima phase	qin zither	1
+single locality	qixia	1
+so-called bare noun	qian	1
+so-called ordinary circumstance	qing liu bianzi	1
+solar-powered HALE UAS	qinetiq's zephyr	1
+South-western and middle China	qinghai	2
+suitable commercially available kit	qiaamp dna stool mini kit	1
+suitable physical activity	qigong	1
+suspiciously strong onesomes	qing shi huandi	1
+taoist chi practice	qigong	1
+tape device class	qic	1
+tape system	qic tape system	1
+Third party DHCP service	qip	1
+traditional chinese exercise discipline	qi gung	1
+traditional chinese medical treatment	qi gong joint	1
+traditional confucian concept	qi	1
+traditional preventative and self-healing technique	qigong	1
+UK defense research organization	qinetiq	1
+ultgoesagainst previous ndings	qianand strahan	1
+unaware, certain application	qik video chat	2
+venerated holiday	qingming festival	5
+vibrational energy medicine technique	qigong	1
+tool	qi gong	3
+vital energy	qi of dantian	1
+voluminous historical material	qing dynasty	1
+year approach	qigong exercise	2
+Yuan dynastyartists	qian xuan	1
+tool	qik	1
+project	qinghai-tibet railway	2
+project	qingdao	1
+artist	qing dynasty artist	1
+artist	qi zhi long	1
+artist	qiu xiaofei	1
+artist	qiu zhijie	1
+artist	qi baishi	1
+artist	qin qi	1
+place	qingdao	5
+place	qinghai	3
+place	qila mubarak	1
+place	qingdao lake of zhejiang province	1
+place	qionghai	1
+place	qincheng hou shan	1
+player	qic group	1
+technology	qic	2
+technology	qinq trunking between the service provider network	1
+term	qi	3
+term	qiyas	1
+system	qigong	2
+condition	qiong assessment period	1
+condition	qi	1
+element	qi tonic	1
+product	qinguan apple related product	1
+function	qi regulating	1
+device	qigong energy simulator	2
+brand	qiaofei	3
+brand	qian li xiu	1
+brand	qingmao	1
+brand	qingdao beer	1
+concept	qi	12
+concept	qi gong	1
+site	qing dynasty	1
+site	qishlaq qaravol	1
+site	qi xing tan	1
+related product	qinguan apple related product	1
+related product	qipao related product	1

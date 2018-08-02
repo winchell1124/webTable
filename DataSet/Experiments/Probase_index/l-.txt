@@ -1,0 +1,881 @@
+initiative	l-tool sm	1
+source	l-arabinose	1
+product	l-glutamine	1
+product	l-glutathione reduced	1
+product	l-glutamate	1
+product	l-theanine related product	1
+product	l-tryptophan	1
+product	l-lysine related product	1
+model	l- five 	1
+model	l- thirty-nine 	1
+model	l- fifty-nine 	1
+word	l-o-v-e	1
+word	l-rd	1
+category	l- one 	1
+client	l- three  unidyne 	1
+approach	l-systems	1
+alternative	l-theanine	1
+object	l-shaped keepout	1
+mechanism	l-arginine deficiency	1
+solution	l-shape bending block	1
+structure	l-shaped home	1
+structure	l-shaped structure	1
+ingredient	l-arginine	31
+ingredient	l-carnitine	17
+ingredient	l-tyrosine	8
+ingredient	l-glutamine	7
+ingredient	l-valine	4
+ingredient	l-lysine	4
+ingredient	l-lactic acid	3
+ingredient	l-taurine	3
+ingredient	l-cysteine	2
+ingredient	l-methioine	1
+ingredient	l-leucine	1
+ingredient	l-canitnine	1
+ingredient	l-trysine	1
+ingredient	l-theanine	1
+ingredient	l-isoleucine	1
+ingredient	l-ascorbic acid	1
+ingredient	l-dopa help in increasing the dopamine levels in the brain	1
+ingredient	l-tryptophan	1
+ingredient	l-methionine	1
+ingredient	l-glutemine	1
+ingredient	l-carinitine	1
+ingredient	l-ornithine	1
+ingredient	l-arginine monohydrate	1
+ingredient	l-arginine aids in metabolic increase	1
+agent	l-arginine	5
+agent	l-cysteine	4
+agent	l-ascorbic acid	1
+feature	l-shape leather settee	1
+feature	l-shaped couch	1
+feature	l-shaped plug	1
+firm	l- three  communications holdings inc. 	2
+firm	l- three  communications 	1
+requirement	l-box test	1
+drug	l-asparaginase	6
+drug	l-carnitine	6
+drug	l-dopa	2
+drug	l-tryptophan	1
+drug	l-cysteine	1
+treatment	l-arginine	3
+treatment	l-cysteine	1
+compound	l-sorbose	7
+compound	l-glutamate	5
+compound	l-cysteine	3
+compound	l-carnitine	3
+compound	l-glutamic acid	2
+compound	l-methyl lactate	2
+compound	l-ornithine	2
+compound	l-deprenyl	1
+compound	l-lysine	1
+compound	l-lactic acid	1
+compound	l- three , four -dihydroxvpherlylalanine 	1
+compound	l-carnosine	1
+compound	l-arginine	1
+compound	l- thirty-nine 	1
+compound	l- three , four -dihydroxyphenylalanine 	1
+compound	l-amino acid	1
+compound	l-metazocine  six 	1
+compound	l-proline	1
+mean	l-shaped bracket	1
+instance	l-tryptophan ems outbreak	1
+substance	l-carnitine	6
+substance	l-glutamine	2
+substance	l-methionine	1
+substance	l- three , four -dihydroxyphenylalanine 	1
+substance	l-cysteine gluthathione disulfide	1
+feature	l-series glass	1
+medication	l-tryptophan	2
+medication	l-deprenyl	1
+medication	l-asparaginase	1
+format	l-bar unit	1
+partner	l- three  communications display system 	1
+design	l-shaped	1
+customer	l- three  communications 	2
+environment	l-shaped counter	1
+additive	l-carnitine l-tartate	1
+additive	l-cystine hydrochloride	1
+chemical	l-methionine	1
+exercise	l-sits	1
+speaker	l- three hundred 	1
+speaker	l- two hundred 	1
+speaker	l- one hundred 	1
+protein	l-selectin	1
+protein	l-type calcium channel	1
+protein	l-glutamine	1
+machine	l-bar sealer	1
+competitor	l- three  communications holdings 	1
+corporation	l- three  communications 	2
+corporation	l- three  security & detection systems 	1
+herb	l-arginine	4
+herb	l-theanine	2
+therapy	l-arginine	2
+therapy	l-acetyl cysteine	1
+algorithm	l-systems	3
+algorithm	l-system s	1
+algorithm	l-shaped butterfly	1
+algorithm	l-bfgs	1
+medicine	l-dopa preparation	1
+error	l-p siding	1
+employer	l- three  communications 	1
+organism	l-forms	4
+plan	l-shaped	1
+medium	l- fifteen 	1
+account	l- three 	1
+large company	l- three  driving simulators 	1
+large company	l- three  communications 	1
+supplement	l-carnitine	18
+supplement	l-glutamine	18
+supplement	l-arginine	8
+supplement	l-tryptophan	3
+supplement	l-tyrosine	3
+supplement	l-theanine	2
+supplement	l-cysteine	2
+supplement	l-amino acid	1
+supplement	l-taurine	1
+supplement	l-proline	1
+supplement	l-glutathione easily available	1
+supplement	l-carnosine	1
+shape	l-bar	1
+shape	l-shaped section	1
+shape	l-character in a plan view	1
+shape	l-shaped	1
+oil	l-menthol from mint oil	2
+cell	l- six  myoblasts 	3
+advanced topic	l-systems	1
+suspect	l-tyrosine	1
+substrate	l-arginine	3
+substrate	l-glutamine	2
+substrate	l-lactate	1
+natural ingredient	l-arginine	18
+natural ingredient	l-tyrosine	6
+natural ingredient	l-glutamine	4
+natural ingredient	l-valine	4
+natural ingredient	l-carnitine	1
+natural ingredient	l-carnitnine	1
+filter	l-c filter	2
+filter	l- one  other interpolation filter 	1
+aircraft	l- one thousand and eleven 	3
+TV show	l-word	1
+mineral	l-arginine	1
+church	l-shaped bayview methodist church in skagit county	1
+enzyme	l-amino acid oxidase	3
+enzyme	l-lactate dehydrogenase	2
+enzyme	l-alanine dehydrogenase	1
+population	l-atively  homogeneous population	1
+inhibitor	l-nmma	1
+inhibitor	l-nna	1
+engine	l- eighty-eight  s 	1
+engine	l-series	1
+natural product	l-theanine	1
+natural product	l-tyrosine	1
+configuration	l-shaped form	1
+acid	l-phenylalanine, other amino acid	1
+acid	l-group  amino acid	1
+nice feature	l-shaped living room with dining area	1
+reagent	l-aspartic acid	1
+reagent	l-buthionine sulfoximine	1
+television show	l-word	2
+nutrient	l-glutamine	14
+nutrient	l-carnitine	10
+nutrient	l-arginine	10
+nutrient	l-ornithine	2
+nutrient	l-glutamine and herbal nutrient	1
+nutrient	l-tyrosine	1
+nutrient	l-carnatine	1
+item	l-wrenches thrown in with the vehicle	1
+item	l-wrenches thrown in with a schumacher vehicle	1
+donor	l-arginine	1
+private company	l- three 	1
+private company	l- three  communication 	1
+active ingredient	l-arginine	1
+active ingredient	l-ascorbic acid	1
+natural remedy	l-tyrosine	2
+natural remedy	l-tryptophan	1
+natural remedy	l-arginine	1
+well-known company	l- three  communications 	1
+antioxidant	l-carnitine	2
+antioxidant	l-cysteine ormercaptoethanol	1
+antioxidant	l-ascorbic acid	1
+derivative	l-ascorbic acid  three -omethylether 	1
+derivative	l-azetidine- two -carboxylic acid 	1
+zone	l- three 	1
+respect	l-carnitine	1
+item	l-shaped desk	1
+item	l-shaped	1
+ligands	l-proline	1
+stimulant	l-tyrosine	1
+furnishings	l-shape couch	1
+herbal remedy	l-arginine	1
+receptor	l-selectin	1
+good feature	l-shaped plug	1
+small molecule	l-rhamnose	1
+trainer	l- thirty-nine 	1
+nutritional supplement	l-carnitine	9
+nutritional supplement	l-arginine	3
+dietary supplement	l-arginine	4
+dietary supplement	l-carnitine	2
+biomarkers	l-citrulline	1
+cell line	l- nine hundred and twenty-nine  mouse fibroblasts 	1
+metabolite	l-amino acid	4
+key ingredient	l-arginine	6
+key ingredient	l-carnitine	2
+key ingredient	l-ascorbic acid	1
+key ingredient	l-sodium hyaluronate	1
+key ingredient	l-arginine caffeine	1
+key ingredient	l-glutamine	1
+agonists	l-ap four 	1
+industry expert	l- three  communication sonoma eo 	1
+vitamin	l-cysteine	2
+vitamin	l-arginine	1
+vitamin	l-ascorbic acid	1
+herbal supplement	l-arginine	1
+herbal supplement	l-tyrosine	1
+amino acid	l-arginine	30
+amino acid	l-glutamine	19
+amino acid	l-carnitine	12
+amino acid	l-alanine	10
+amino acid	l-tryptophan	7
+amino acid	l-cysteine	6
+amino acid	l-proline	6
+amino acid	l-glutamic acid	5
+amino acid	l-methionine	4
+amino acid	l-ornithine	3
+amino acid	l-cystine	3
+amino acid	l-lysine	3
+amino acid	l-glutamate	2
+amino acid	l-histidine	2
+amino acid	l-taurine	2
+amino acid	l-valine	2
+amino acid	l-phenylalanine	1
+amino acid	l-phenylalanine, other amino acid	1
+amino acid	l-glysine	1
+amino acid	l-glutamine l-serine	1
+amino acid	l-acetyl carnitine	1
+amino acid	l-cysteine hcl mono	1
+amino acid	l-cysteine free base	1
+amino acid	l-aspartic acid	1
+amino acid	l-aspartate	1
+amino acid	l-tyrosine	1
+amino acid	l-group  amino acid	1
+amino acid	l-tyrosine alanaine	1
+amino acid	l-cysteine hcl anhy	1
+protein source	l-carnitine	1
+protein source	l-arginine	1
+sugar	l-arabinose	4
+oral medication	l-deprenyl	1
+herbal ingredient	l-arginine	1
+herbal ingredient	l-arginine hcl	1
+herbal ingredient	l-tyrosine	1
+secondary factor	l-carnitine	1
+acronym	l-something	1
+quality ingredient	l-arginine	1
+food additive	l-malic	1
+sweetener	l-aspartic acid derived sweetener	1
+analytes	l-lactate	1
+analytes	l-glutamate	1
+conventional material	l-ascorbic acid	1
+natural supplement	l-tryptophan	1
+natural supplement	l-tyrosine	1
+natural supplement	l-lysine	1
+blocker	l-type  channel blocker	1
+blocker	l-type channel blocker	1
+blocker	l-type voltage-gated calcium channel blocker	1
+optimization	l-bfgs	1
+chemotherapeutic agent	l-asparaginase	2
+precursor	l-methylmalonyl-coa	1
+precursor	l-cysteine	1
+precursor	l-dopa for dopamine	1
+precursor	l-arginine	1
+clothing brand	l-r-g	2
+wonderful feature	l-shaped pool	1
+natural compound	l-arginine	1
+technical innovation	l-shaped taillights with horizontal light-conduction rod	1
+antennas	l-shaped probe fed thick patch	1
+furniture item	l-shaped desk	1
+service	l-drying sample preparation provided by nbrc	1
+guitar	l- one 	2
+local employer	l- three  communications 	1
+volatile compound	l-lactic acid	2
+airplane	l- seventeen  navion 	1
+airplane	l- one hundred and twenty-six  cessna  one hundred and ninety-five 	1
+commenters	l-m municipals	1
+natural therapy	l-theanine	1
+natural therapy	l-carnitine	1
+carbon source	l-arabinose	1
+micronutrients	l-carnitine	1
+micronutrients	l-acteyl carnitine	1
+lipid	l-a-dioleoyl phosphatidyl ethanolamine	1
+lipid	l-a-dioleoyl phosphatidyl choline	1
+nutritional factor	l-carnitine	1
+high quality ingredient	l-carnosine	1
+drug therapy	l-asparaginase	1
+active agent	l-histidine	1
+good idea	l-shaped grab bar	1
+jet	l- thirty-nine 	1
+adhesion molecule	l-selectin	2
+chemotherapy drug	l-asparaginase	1
+dietary component	l-lysine	1
+dietary component	l-carnitine	1
+array	l-shaped	1
+feed additive	l-threonine	1
+feed additive	l-carnitine	1
+vitamin supplement	l-carnitine	2
+primer	l- thirteen 	1
+nitrogen source	l-histidine	1
+visa	l- one 	6
+visa	l- one  visa 	2
+visa	l- one  visa for intra-company transferees 	1
+visa	l- one  visa for intracompany transferees 	1
+neurotransmitter	l-aspartate	3
+neurotransmitter	l-glutamate	3
+neurotransmitter	l-dopa	1
+volatile substance	l-lactic acid	1
+health supplement	l-glutamine	2
+natural component	l-arginine	1
+defense contractor	l- three  communications 	3
+defense contractor	l- three 	1
+novel agent	l-deprenyl	3
+security company	l- three  communications holdings inc. of new york 	2
+food component	l-arginine	1
+therapeutic strategy	l-arginine	1
+advanced subject	l-systems	2
+world class company	l- three  communication 	1
+organic component	l-carnitine	2
+technology firm	l- three  link 	1
+powerful ingredient	l-arginine	2
+system integrators	l- three  communications 	1
+hash function	l-bit  hash function	1
+distance measure	l- one  norm 	1
+bioactive compound	l-arginine	2
+bioactive compound	l-carnitine	1
+chemotherapy agent	l-asparaginase	2
+national	l- one a managers 	1
+semiconductor element	l-igbt transistor	1
+ligand	l-proline	1
+cell adhesion molecule	l-selectin	2
+lead	l- one 	1
+retrovirus	l-cell virus	1
+surface molecule	l-selectin	1
+aircraft type	l- one thousand and eleven 	1
+calcium channel blocker	l-type voltage-gated calcium channel blocker	1
+adjunctive treatment	l-tryptophan	1
+attachment mechanism	l-shaped bracket	1
+fat burner	l-carnitine	1
+company	l- three  communications 	7
+company	l- three 	5
+company	l- three  communications holdings inc. 	2
+company	l- three  avionics systems 	2
+company	l- three  communications holdings inc 	2
+biologically active compound	l-ascorbic acid	1
+stabilizing agent	l-proline	1
+cross-sectional shape	l-shaped configuration shown in fig	1
+free radical scavenger	l-carnosine	1
+transmembrane protein	l-selectin	2
+channel blocker	l-type  channel blocker	1
+channel blocker	l-type channel blocker	1
+channel blocker	l-type voltage-gated calcium channel blocker	1
+amphetamine	l-amphetamine	1
+cross section	l-shaped	1
+company	l- one 	1
+company	l- one  identity solutions 	1
+caterer	l-eat on site	1
+government contractor	l- three  communications 	1
+natural approach	l-theanine	1
+british film	l-shaped room	2
+Immunomodulators	l-carnosine	7
+potent antioxidant	l-ergothioneine	3
+potent ingredient	l-arginine hcl	1
+sulfur-containing compound	l-n acetylcysteine	1
+emulsion	l- six thousand nine hundred and eighty-four  comprising low concentrations of pfoh 	1
+leading product	l-valine	1
+Monosaccharides	l-arabinose	2
+Monosaccharides	l-sorbose	2
+Monosaccharides	l-rhamnose	1
+synthetic antioxidant	l-ascorbic acid	3
+visa category	l- two 	3
+visa category	l- one  status 	1
+visa category	l- one  intracompany transferees 	1
+digital filter	l-point running average	2
+Dopamine agonists	l-dopa	2
+company	l-soft	1
+antinutritional factor	l-dopa	2
+bracket	l-shaped bracket	2
+feed supplement	l-carnitine	1
+tubing	l- eighty 	1
+modelling approach	l-systems	1
+defense company	l- three  communications 	1
+essential amino acid	l-arginine	2
+essential amino acid	l-glutamine	1
+essential amino acid	l-carnatine	1
+non-immigrant visa	l- one 	1
+non-immigrant visa	l- one a intra-company transfer visa 	1
+adhesion protein	l-selectin	2
+automated method	l-curve criterion	1
+suitable structure	l-shaped bracket	1
+numerical approach	l-bfgs	1
+typical structure	l-shaped power plane	1
+thiol compound	l-cysteine	5
+endogenous antioxidant	l-arginine	1
+endogenous antioxidant	l-carnitine	1
+Thiols	l-cysteine	3
+transport protein	l-and i-fatty acid binding protein	1
+anti-viral medication	l-lysine	1
+armed force	l- three 	1
+common design element	l-series mortise case	1
+free amino acid	l-tryptophan reported in high amount throughout the ripening process of dry-cured meat product	1
+anti-nutritional factor	l-dopa	1
+electronics supplier	l- three  communications company 	1
+work visa	l- one 	1
+discrete model	l-systems	1
+mercaptans	l-cysteine	1
+silica	l- ninety 	1
+Catecholamines	l-dopa	1
+industrial stock	l- three  communications 	1
+defense firm	l- three  communications holdings inc. 	1
+healthy component	l-carnitine	1
+chemical name	l-tyrosine	1
+chemical name	l-phenylalanine	1
+chemical name	l-glutamine	1
+effective compound	l-aminooxyphenylpropionic acid through additional screening	1
+effective compound	l-amino-oxyphenylpropionic acid through additional screening	1
+nonimmigrant visa	l- one 	1
+oxidases	l-amino acid oxidase	1
+natural vitamin	l-carnitine	1
+neutral amino acid	l-citrulline	1
+neutral amino acid	l-tryptophan	1
+bodybuilding supplement	l-glutamine	1
+temporary visa	l- one 	1
+amino acid supplement	l-tryptophan	1
+amino acid supplement	l-glutamine	1
+bulk drug	l-cystine	1
+mucolytic agent	l-cysteine ethyl ester	1
+visa holder	l- two 	1
+visa holder	l- one 	1
+aerospace contractor	l- three  communications 	1
+excitatory amino acid	l-glutamic acid	2
+excitatory amino acid	l-glutamate	2
+excitatory amino acid	l-aspartate	2
+excitatory neurotransmitter	l-aspartate	1
+excitatory neurotransmitter	l-glutamate	1
+numbering system	l-number system	1
+wide-body aircraft	l- one thousand and eleven 	1
+complementary remedy	l-glutamine	1
+domestic feature	l-shaped room	1
+Excitotoxins	l-cystine	1
+stereoisomers	l-glyceraldehyde	1
+synthetic additive	l-monosodium glutamate	1
+atypical pathogen	l-form bacterium	1
+famous aircraft	l- twenty-nine  delfin jet trainer 	1
+famous aircraft	l- thirteen  blanik glider 	1
+full agonists	l-glutamate	2
+jetliner	l- one thousand and eleven  tristar 	1
+synergy	l-arginine on the salty taste of nacl	1
+anti aging supplement	l-carnitine	2
+potential supplier	l- three 	1
+CCBs	l-type ccb	1
+hexoses	l-galactose	2
+high grade ingredient	l-arginine l-carnitine l-tyrosine	1
+key antioxidant	l-cysteine	1
+l-amino acid	l-arginine	1
+l-amino acid	l-proline	1
+l-amino acid	l-glutamic acid	1
+l-amino acid	l-glutamine	1
+lipogenic enzyme	l-type pyruvate kinase	1
+muscle building supplement	l-arginine	1
+sulfhydryl-containing compound	l-cysteine	2
+defense industry	l- three  communications 	1
+homogeneous population	l-atively  homogeneous population	1
+non-essential amino acid	l-arginine	1
+non-essential amino acid	l-glutamine	1
+non-essential amino acid	l-glutamic acid	1
+non-essential amino acid	l-alanine	1
+safe and clinically proven ingredient	l-arginine	1
+safe and clinically proven ingredient	l-glutamine	1
+safe and clinically proven ingredient	l-tyrosine	1
+temporary visa holder	l- one b 	1
+temporary visa holder	l- one a 	1
+visa option	l- one  company transferee visa 	1
+antiparkinsonian drug	l-dopa	1
+key amino acid	l-tryptophan	1
+natural amino acid	l-carnitine	1
+natural amino acid	l-arginine	1
+natural digestive aid	l-glutamic acid	1
+nutritional approach	l-arginine	2
+event	l-man of the year	1
+quality supplement	l-glutamine	1
+structural limitation	l-shaped room	1
+thiol-containing compound	l-cysteine	3
+aminos	l-arginine	1
+DA agonists	l-dopa	1
+medical food	l-methylfolate	1
+multifunctional acrylates	l- nine thousand three hundred and sixty-seven  from the  three m company 	1
+nonimmigrant category	l- one 	1
+quasi-newton method	l-bfgs	1
+sulfhydryl compound	l-cysteine	3
+sulfhydryl compound	l-methionine	2
+temporary work visa	l- one  visa 	1
+temporary work visa	l- one 	1
+event	l-bank business forum	1
+generative technique	l-systems	1
+glutathione precursor	l-cysteine	1
+glutathione precursor	l-glutamate	1
+simple aircraft	l- nineteen  towplanes 	1
+stringent test	l-dopa	1
+symbiotic nutrient	l-carnitine	2
+symbiotic nutrient	l-taurine	1
+synthetic derivative	l-carnitine	1
+MAO-B inhibitor	l-deprenyl	1
+nonimmigrant status	l- one  intracompany transferees 	1
+optically active compound	l-tyrosine	1
+optically active compound	l-dopa	1
+sulfur-containing amino acid	l-cysteine	2
+sulfur-containing amino acid	l-methionine	1
+toxic peptides	l-asparaginase	1
+workability assessment method	l-box test	1
+candidate substance	l-dopa	2
+computer simulation method	l-systems	1
+insufficient vital metabolic nutrient	l-carnitine	1
+ion-exchangeable support	l-type zeolite	1
+largest global air defense company	l- three  communications 	1
+lipotropic factor	l-carnitine	1
+moulded product	l-stone pavers	1
+oxidant scavenger	l-histidine	1
+Pentoses	l-arabinose	1
+small organic acid	l-lactate	1
+acidic amino acid	l-glutamate	1
+aliphatic amino acid	l-valine	1
+amino acid series	l-glutamine	1
+amino acid series	l-methionine	1
+amino acid series	l-cysteine hcl anhydrous	1
+amino acid series	l-cysteine hcl monohydrate	1
+amino acid series	l-sodium aspartic	1
+band pass filter	l-c filters	1
+biometrics company	l- one  identity solutions inc. 	1
+cardioprotective agent	l-carnitine	1
+conventional cytotoxic agent	l-asparaginase	1
+C-type lectins	l-sign	2
+metabolic supplement	l-carnitine	1
+preventive agent	l-arginine	1
+rule-based method	l-systems	1
+serotonin modulator	l-tryptophan	1
+single amino acid	l-cysteine	2
+single amino acid	l-alanine	2
+synergistic nutrient	l-carnitine	1
+traditional housekeeping protein	l-lactate dehydrogenase	1
+Trending information	l-l resistance	1
+vitamin C product	l-ascorbic acid	1
+AFIS provider	l- one  identity solutions 	1
+all-natural and high-quality ingredient	l-arginine	1
+biochemical reagent	l-valine	2
+factor	l- five 	1
+dipeptides	l-carnosine	4
+exhibition prop	l-stands	1
+holistic alternative	l-theanine	1
+low-molecular-weight additive	l-arginine	2
+nutraceutical supplement	l-carnitine	1
+nutritional feature	l-carnitine	2
+Selectins	l-selectin expressed on neutrophils	2
+serotonin-enhancing drug	l-tryptophan-serotonin  one a-receptor agonist 	1
+SH agent	l-cysteine	1
+so-called nutraceuticals	l-carnitine	1
+stemulite ingredient	l-carnitine	2
+support ingredient	l-ascorbic acid	1
+synthetic amino acid	l-histidine	1
+texas company	l- three 	1
+traditional anti-impotence remedy	l-arginine	1
+U.S. visa	l- one  visa 	1
+amino acid product	l-asparagine monohydrate	1
+amino acid product	l-glutamic acid	1
+artful element	l-shaped porch	2
+cell receptor	l-sign	2
+cellular adhesion marker	l-selectin	1
+chiral acid	l-malic acid	1
+chiral acid	l-tartaric acid	1
+classic anti-impotence remedy	l-arginine	2
+Combining phyto-nutrrients	l-tyrosine	2
+countless feng shui issue	l-shaped home	1
+dedicated language	l-systems	1
+deoxysugars	l-xylulose	1
+deoxysugars	l-rhamnose	1
+deoxysugars	l-ribulose	1
+deoxysugars	l-fructose	1
+diesel generator manufacturer	l- three 	1
+employment-based visa category	l- one 	1
+essential fat burning ingredient	l-tyrosine	1
+food supplement powder	l-glutamine	1
+high quality special protein	l-carnitine	1
+multi-type joint	l-shape joint	1
+nature-derived ingredient	l-theanine	1
+non-immigrant option	l- one 	1
+nonstandard amino acid	l-citrulline	1
+nonstandard amino acid	l-ornithine	1
+Optically pure amino-alcohols	l-phenyl-glycinol	2
+organization	l- three  communications 	1
+organization	l-p community cheerleaders	1
+proven safe ingredient	l-arginine	1
+selective MAO-B inhibitor	l-deprenyl	1
+simple shaped pool	l-shaped pool	1
+sulfur amino acid	l-cysteine	1
+sulfur amino acid	l-methionine	1
+valuable amin o acid compound	l-carnitine	1
+worker visa program	l- one 	1
+adequate neurotransmitter precursor	l-glutamine	1
+alpha.-amino acid	l-alanine	1
+antinu-tritional factor	l-dopa	1
+atypical form	l-forms	1
+technique	l-systems	1
+technique	l-band two-way time transfer	1
+biochemical and biological activity	l-amino acid oxidase	1
+body scanner maker	l- three  communications 	1
+bolt material	l- nineteen 	1
+clear precedent	l-asparaginase for childhood acute leukemia	1
+common so-called estuary english feature	l-vocalisation	5
+competitive sugar	l-arabinose	1
+constituent sugar	l-arabinose	1
+employment authorization document	l- one  visa 	1
+employment visa	l- one  visa for intra-company transferees 	1
+enzymatic test	l-methionine arylamidase activity	1
+enzymatic test	l-alanine arylamidase	1
+executive furnishings	l-shaped	1
+exogenous osmoprotectants	l-proline	1
+function enzyme	l-gamma-glutamyl transpeptidase	3
+generative design system	l-systems	1
+herbal nutrient	l-glutamine and herbal nutrient	1
+interesting plant chemical	l-dopamine	1
+key muscle building ingredient	l-carnitine	1
+key muscle building ingredient	l-glutamine	1
+kokumi compound	l-histidine	2
+l-group amino acid	l-valine	2
+l-group amino acid	l-arginine	1
+meat-based bioactive compound	l-carnitine	1
+mitochondrial supplement	l-carnitine	1
+modular kitchen cabinet	l-shaped kitchen cabinet	2
+natural metabolic substance	l-tryptophan	2
+natural metabolic substance	l-arginine	1
+natural mood-calming supplement	l-theanine	1
+non-scientifically proven treatment	l-arginine amino acid ream	1
+application	l- one thousand and eleven  door corner doubler design 	1
+ongoing CERP project	l- eight  basin restoration 	1
+petition-based visa category	l- one 	1
+point process characteristic	l-function	1
+presynaptic mechanism	l-glutamate content of vesicle	1
+proven beneficial natural ingredient	l-carnitine	1
+proven mind ingredient	l-theanine	2
+root finding technique	l-g surface	1
+serotonin enhancing agent	l-tryptophan	2
+simplistic application	l- two 	2
+skin-loving vitamin	l-ascorbic acid	2
+small monomeric molecule	l-amino acid	1
+starch deep processing product	l-lactic acid	1
+static ab exercise	l-sits	1
+supercharged amino acid	l-carnitine	1
+supercharged amino acid	l-glutamine	1
+thiol-reducing compound	l-cystine	1
+toyota engine	l-series diesel	1
+vasodilator NO donor	l-arginine	1
+2-hydroxy acid	l-phenyllactic acid	1
+amino-acid supplement	l-tryptophan	1
+amino-acid supplement	l-tyrosine	1
+ammonia lowering agent	l-ornithine	1
+anti-anxiety preparation	l-theanine	1
+anti-parkinsonian agent	l-dopa	2
+antispastic medication	l-dopa	1
+business immigration service	l- one 	1
+Calcium-dependent lectins	l-sign	1
+cardio medication	l-carnitine	1
+chiral catalyst	l-cystine	1
+CLRs	l-sign	1
+dibenzopyran CB2 agonists	l- seven hundred and fifty-nine , six hundred and fifty-six 	2
+difunctional amino acid ester	l-cystine dimethyl ester dihydrochloride	1
+effective natural herb	l-arginine	1
+employer-specific nonimmigrant visa	l- one 	1
+equine horse joint supplement	l-lysine pure	1
+E-selectin ligands	l-selectin	1
+famous engine	l- eighty-eight 	1
+fascinating technique	l-band electron spin resonance with nitroxyl probe	1
+fast, first-order gradient descent algorithm	l-bfgs	1
+Full Text Available.C-type lectins	l-sign	1
+generative grammar	l-systems	1
+glucose-responsive gene	l-type pyruvate kinase	1
+glutamate receptor antagonist	l-ap- four 	2
+glycogenic amino acid	l-alanine	1
+glycogenic amino acid	l-glutamine	1
+good high temperature alloy	l- six 	1
+healthy amino acid	l-ornithine	1
+healthy amino acid	l-arginine	1
+high grade tool steel	l- six 	1
+immunoregulatory nutrient	l-arginine	2
+incredible cognitive factor	l-tyrosine	1
+inert sugar	l-rhamnose	1
+INTRODUCTION regional frequency analysis	l-moments statistics developed by hosking	1
+lifting supplement	l-arginine	1
+case	l-arabinose operon	1
+loan-related issue	l-t-v ratio	1
+low-carbon steel	l- eighty 	1
+metabolic precursor	l-tryptophan	1
+molecular player	l-selectin	1
+natural chelating compound	l-methionine	1
+nitric oxide-promoting factor	l-arginine	1
+nitric oxide-promoting factor	l-citrulline	1
+non-essential nutrient	l-arginine	2
+non-essential nutrient	l-glutamine	1
+nonnatural amino acid	l-and agr-aminobutyric acid	1
+nonspecific no inhibitor	l-nmma	1
+nutritive therapy	l-arginine	1
+orange county brand	l-r-g clothing co	1
+organic sulfate precursor	l-cysteine	1
+ostensibly commercial gallery	l- thirteen  light industrial workshop 	1
+pleomorphic phase	l-form	1
+polycationic peptides	l-arginine	4
+case	l-shaped	1
+potent hypnotic	l-tryptophan	1
+powerful antiviral ingredient	l-lysine	2
+prize-based incentive	l-prize for lighting advancement	1
+proline derivative	l-azetidine- two -carboxylic acid 	1
+proven and effective drug	l-dopa	1
+recovery agent	l-glutamine & taurine	1
+refolding additive	l-arginine	1
+regional frequency analysis	l-moments statistics developed by hosking	1
+rewriting system	l-systems	1
+rule-based approach	l-systems	1
+so-called wide-body jet	l- one thousand and eleven 	1
+specificsynthetic amino acid	l-histidine	1
+stemulite's ingredient	l-carnitine	1
+strong amino acid	l-arginine	2
+strong amino acid	l-glutamine	2
+case	l-rhamnose operon	1
+synthetic thyroid preparation	l-thyroxine	1
+taguchi 3-level orthogonal array	l- eighteen 	1
+taguchi 3-level orthogonal array	l- nine 	1
+taiwan-produced film	l-o-v-e	1
+u.s.-based corporation	l- three  communications corporation 	1
+unknown pathogen	l-forms	1
+uptake ofgrowth-critical amino acid	l-glutamine	1
+uptake ofgrowth-critical amino acid	l-leucine in neoplastic cell	1
+abstract low molecular size additive	l-arginine	1
+acetylated 6-deoxy sugar	l-rhamnose	1
+advance active ingredient	l-ascorbic acid	1
+alternate summary characteristic	l-moments	1
+amino acid monolayers	l-cysteine	1
+amino acid transport system	l-type transport system	1
+amino-acid crystal	l-alanine	1
+aminomethyl oxooxazolidinyl aza cycloalkylbenzene derivative	l-n-acetam ide	1
+aminomethyl oxooxazolidinyl azacycloalkylbenzene derivative	l-n-acetam ide	1
+aminomethyl oxooxazolidinyl cycloalkylbenzene derivative	l-n-acetam ide	1
+aminooxy-containing amino acid	l- two -amino- four -butyric acid 	1
+ammonia lowering therapy	l-ornithine l-arginine	1
+antidepressant amino-acids	l-tryptophan	1
+anti-stress enzyme	l-tyrosine	1
+anti-viral product	l-lysine	1
+appropriatecyclorotation model	l- two 	1
+arginine analog	l-nmma	3
+automated parameter-choice method	l-curve approach	1
+basic male enhancement herb	l-arginine	1
+bold, simple form	l-shaped terrace	1
+bovine leukocyte adhesion molecule	l-selectin	2
+bovine PMN adhesion molecule	l-selectin	1
+cadillac standard	l-head v- eight 	1
+cardiovascular nutrient	l-arginine	4
+Carnitines	l-carnitine	4
+chiral amino acid	l-glutamic acid	1
+civil aircraft cutaway	l- one thousand and eleven 	1
+complex and subtle genetic representation	l-systems	1
+componens	l-valine	1
+cyclo-rotation model	l- two 	1
+cysteines	l-cysteine	1
+dopamine enhancers	l-dopa used in treating parkinson's patient	1
+dopamine replacement anti-parkinson drug	l- three , four -dihydroxyphenylalanine 	1
+dopamine replacement therapy	l-dopa	1
+dough relaxer	l-cysteine	1
+dough relaxing agent	l-cysteine	1
+early-maturing, high-yielding, disease-resistant variety	l- four hundred and two 	1
+electronics-oriented CAD tool	l-edit mems from tanner research	1
+elemental and semi-elemental formula	l-elemental by hormel	1
+ELT-DF unit	l-tronics la-series	1
+fan beam system	l- three s mvt 	1
+friction-reducing support structure	l-shaped wear shoe	1
+galactose derivative	l-galactonic acid ester	1
+GH enhancer	l-dopa	1
+global obstruction	l-function condition	1
+glut athione precursor	l-cysteine	1
+gradient based method	l-bfgs	1
+growth based algorithm	l-systems	2
+histamine derivative	l-histidine	1
+Histidine-containing natural dipeptides	l-carnosine	1
+human growth hormone component	l-group amino acid	1
+Immunomodualtors	l-carnosine	1
+injectible amino acid	l-arginine	1
+iterative optimisation method	l-bfgs	1
+key shape	l-shaped	1
+l-amino acid ester	l-leucine methyl ester	1
+l-amino acid methyl ester	l-leucine methyl ester	1
+L-Ketohexoses	l-fructose	1
+low molecular size additive	l-arginine	1
+metabolic drug	l-carnitine	1
+methionine source	l-methionine	2
+natural amino-acids	l-glutamine	1
+natural drug alternative	l-arginine	2
+natural supplement alternative	l-lysine	1
+non selective no inhibitor	l-nmma	1
+non-essential three-carbon amino acid	l-alanine	1
+non-thiol NO donor	l-arginine	1
+novel configurational analog	l-aspartyl-d-alanine benzyl ester	1
+odd-shaped space	l-shaped hallway	1
+oscillator arrangement	l-c network	1
+panic attack remedy	l-tryptophan	1
+pharmaceutical sector	l-dihydroxyphenylalanine	1
+polymeric succinic anhydrides	l- four 	1
+presently available fixture	l- eight hundred and fifty-two  taxiway centerline fixture 	2
+prominent leukocyte surface antigen	l-selectin	1
+proper concentration	l-arginine	1
+robotic assistant	l-ron	1
+robust and resistant approach	l-moments	1
+safe and efficient fat burner	l-carnitine	1
+salt complex	l-ornithine phenyl acetate	1
+school fat-burning ingredient	l-carnitine	1
+method	l-curve algorithm	1
+method	l-index	1
+method	l-algorithm	1
+serotonin precursors	l-tryptophan	1
+silicon surfactants	l- five thousand four hundred and twenty-one  available from union carbide 	1
+skilled worker visa	l- one 	2
+skin permeationEnhancers	l-arginine hcl	1
+small, thiol-containing molecule	l-cysteine	1
+Spacestations	l- five 	1
+standard FPV patch antennas	l-com  eight dbi  nine hundred mhz 	1
+standard solution method	l-shaped method	1
+standard stochastic programming approach	l-shaped algorithm	1
+stimilator	l-arginine akg	1
+student-centered classroom	l-shaped room	1
+supplementary amino acid	l-methionine used in soy-based formula	1
+synthetase inhibitor	l-nmma	2
+temporary-worker permit	l- one 	1
+thiol-related compound	l-cystine	1
+traditional nitric oxide precursor	l-arginine	1
+transport monocarboxylates	l-lactate	1
+unbonded amino acid	l-ornithine	1
+unusually shaped room	l-shaped room	1
+wartime regulation	l- eighty-five 	1
+tool	l-adic cohomology	1
+material	l-amino acid	1
+material	l-glutamine	1
+place	l-ray in the west village in new york city	1
+player	l- one  identity solutions 	1
+technology	l- two  um rule semiconductor device 	1
+product	l-ascorbic acid whitening series	1
+technology	l-lactic acid production	1
+term	l-values and r-values	2
+term	l-hour	1
+parameter	l-value	1
+function	l-bit  hash function	1
+function	l-c-r resonance function	1
+device	l-shaped rod	1
+brand	l-r-g	1
+component	l-lysine	5
+component	l-glutamine	2
+component	l-band radio	1
+component	l-proline	1
+related product	l-lysine related product	1
+related product	l-theanine related product	1

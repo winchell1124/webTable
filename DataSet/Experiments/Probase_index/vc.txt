@@ -1,0 +1,1067 @@
+initiative	vc bootcamps	2
+initiative	vce dual recognition program	1
+accessory	vcr	1
+accessory	vcrs in the back seat	1
+accessory	vcds	1
+accessory	vcr recorder	1
+resource	vcrs	4
+resource	vccs student information system	2
+resource	vcin criminal background check	2
+resource	vcop pyramids in the classroom	1
+resource	vccc information	1
+resource	vcsrepo	1
+facility	vcr	25
+facility	vcr for the entertainment of the entire family	2
+facility	vca west  eighty-six th street animal hospital 	1
+source	vcr	17
+source	vcr camcorder	1
+source	vcrs & tvs	1
+source	vcr connected via a composite	1
+source	vcr in the video input of the sony tv	1
+subject	vce english	1
+subject	vce maths methods	1
+subject	vce chemistry	1
+product	vc net related product	1
+product	vcd fm related product	1
+product	vcenter site recovery manager	1
+product	vcr plus	1
+product	vcenter server heartbeat	1
+product	vcr tape sleeve	1
+product	vcd part	1
+product	vcd remote control related product	1
+product	vcd tv dvd related product	1
+exception	vcrs preprogrammed on timer	1
+work	vcu	1
+document	vcloud sdk for php introduction	1
+author	vc andrews	1
+strategy	vcop	1
+alternative	vcla score	1
+effect	vcrsaddedmore special effect	1
+agency	vccp	2
+object	vcr	2
+course	vce	1
+mechanism	vc connection manager	1
+solution	vcard portfolio	1
+feature	vcast videos	2
+feature	vcr	2
+feature	vcast song id	2
+structure	vcsel structure	2
+school	vcu	6
+school	vcu & butler	1
+school	vca	1
+amenity	vcr	27
+amenity	vcr player	1
+amenity	vcrs complete with a movie library	1
+amenity	vcr's	1
+amenity	vcrs with video collection	1
+operation	vcr type operation	1
+feature	vcr-like timer	1
+feature	vcast music	1
+feature	vco tuning	1
+type	vcd	1
+disease	vcjd in human	1
+requirement	vcxo	1
+test	vcug	2
+setting	vct center	1
+compound	vcl four 	4
+compound	vc	2
+study	vce	1
+study	vcug	1
+website	vcat	2
+equipment	vcr	20
+equipment	vcr or dvd player	4
+equipment	vcr or dvd	1
+equipment	vcr for the library	1
+unit	vcr	2
+unit	vcr & dvd player with great picture quality	1
+innovation	vcr	1
+team	vcu	10
+expert	vc security services	1
+feature	vcp migration	1
+feature	vca	1
+format	vcd	4
+format	vcard	4
+format	vc- one 	2
+format	vc format	1
+format	vc game format	1
+format	vcalendar	1
+format	vcf	1
+partner	vcsel vendor	2
+standard	vc- one 	3
+standard	vcard	2
+standard	vcat	1
+standard	vcci class b ite	1
+standard	vcs procedure	1
+standard	vcs afolu	1
+standard	vc- nine 	1
+standard	vcalendar for exporting	1
+advanced feature	vcenter server	1
+sector	vc target sector	1
+intervention	vct	4
+label	vcf	1
+department	vcu libraries	1
+feature	vcp images storage in gafs	1
+feature	vcr plus compatibility	1
+feature	vcs version control	1
+scheme	vc six 	1
+scheme	vco with a frequency divider	1
+supply	vcr	1
+additive	vc	1
+capability	vcr-like control capability	1
+party	vcd maker	1
+party	vcm service provider	1
+gift	vcr	1
+issue	vct	1
+good	vcrs	2
+good	vcd	1
+corporation	vca antech	1
+variation	vcr game	1
+difference	vca track	1
+language	vc	2
+package	vcs	1
+functionality	vc queuing	1
+university	vcu concerning the participation of students within the glass art community	1
+file	vcard	1
+file	vc game	1
+offering	vcu summer workshop series	2
+issue	vce age group	1
+everything	vcenter	1
+protocol	vcard	1
+bank	vcb	1
+molecule	vcam- one 	4
+molecule	vcam	2
+medium	vcr tapes	1
+mode	vcr trick mode	1
+input	vcr	2
+input	vcr on the remote	1
+competition	vccl junior country weeks	2
+factor	vcam	1
+factor	vc-su co-evolution	1
+issue	vc meeting	1
+college	vcu	1
+database	vc locator	1
+raw material	vcm	1
+great feature	vcast	1
+great feature	vcast music	1
+web site	vcat	2
+appliance	vcrs	24
+appliance	vcd player	3
+personal information	vcucard number	1
+enterprise	vc-backed high-tech enterprise	1
+electronic device	vcrs	23
+electronic device	vcr's	1
+commodity	vcrs	2
+marker	vcam	1
+programme	vct	2
+programme	vcca	1
+item	vcrs	53
+aircraft	vc- ten 	1
+datum source	vct datum	1
+qualification	vce	1
+qualification	vce a-levels	1
+invention	vcrs	2
+household item	vcrs	2
+selection	vcr	1
+advance	vcrs	1
+item	vcr's	6
+item	vcr stand	2
+item	vcd player	1
+configuration	vc- four  configuration 	1
+convenience	vcr	3
+convenience	vcr & dvd	1
+room	vc poker	1
+technological advance	vcr	1
+technological advance	vcr along with government regulation	1
+gadget	vcr clock	1
+luxury	vcr	2
+nice feature	vcd player for rear passenger	1
+library	vcl	2
+local company	vc corp	1
+combination	vcv	1
+conference	vce maths	1
+campaign	vc memorial	2
+circuit	vco	2
+peripheral	vcrs	5
+adjustment	vcp playback	1
+consumer product	vcrs	4
+electronics	vcrs	44
+electronics	vcr's	3
+electronics	vcr's & dvd player	1
+certification	vcp	5
+item	vcsa	1
+phone	vco phone	1
+light source	vcsel	3
+apparatus	vcr apparatus	1
+funding source	vc's	1
+modern amenity	vcrs	5
+modern amenity	vcr?s	1
+commercial product	vct	1
+connection	vcc connection	1
+communication tool	vcrs	2
+modern technology	vcrs	1
+modern convenience	vcr	3
+modern convenience	vcr with classic video	1
+ensemble	vcu opera	1
+ensemble	vcu symphony	1
+item	vcr s	1
+visual aid	vcrs	1
+specialty product	vct	1
+business service	vcd player	1
+business service	vcr	1
+management tool	vcenter server	2
+valuable	vcrs	2
+external device	vcr	14
+external device	vcr's	1
+modern facility	vcr	1
+innovative product	vcrs	1
+everyday object	vcrs	1
+peripheral device	vcr	2
+input device	vcr	13
+input device	vcr av input device	1
+input device	vcr s dvd players video game consoles satellite receivers	1
+input device	vcr's	1
+recycled material	vct floor tile	1
+electronic product	vcd	3
+electronic product	vcrs	2
+external source	vcr	4
+external source	vcr deck	1
+item	vcr tape	1
+basic facility	vcr	1
+diagnostic tool	vce	1
+sequence	vcv	1
+technological development	vcrs	1
+semiconductor device	vcsel	1
+electrical device	vcr	2
+button	vcr control key	1
+hard surface	vct flooring	1
+hard surface	vct resilient vinyl	1
+hard surface	vct	1
+optional item	vcrs	1
+political party	vck	1
+cytokines	vcam	2
+odd job	vcr repair man	1
+basic supply	vcr tape	1
+area	vct	3
+imaging modalities	vcug	2
+optional service	vcast music & mobile email	2
+optional service	vcast music	1
+electrical appliance	vcr	4
+electrical appliance	vcr's	2
+electrical appliance	vcr player	1
+electrical appliance	vcr aerial cable	1
+reference material	vcr jacket	1
+printer	vclw duplex printer in the vcc machine room	1
+consumer electronics	vcrs	5
+consumer electronics	vcr's	1
+consumer electronics	vcd player	1
+consumer electronics	vcd	1
+biomarkers	vcam- one 	1
+campus	vcu	1
+exchange	vcx	1
+industry expert	vc manager	1
+area	vc- one 	1
+traditional topic	vcrs	1
+operational parameter	vcm power	2
+basic topic	vctc issue	1
+prestigious award	vca's fred williams award	1
+health care provider	vct counsellor	1
+physical object	vcr tape	1
+big ticket item	vcrs	1
+teaching aid	vcrs	3
+teaching aid	vcrs in the classroom	1
+teaching aid	vcd player	1
+home appliance	vcr	3
+electrical item	vcrs	1
+electronic item	vcrs	5
+potential application	vcnetalsohasmany other potential application	1
+creature comfort	vcr	3
+metal item	vcrs	1
+collector	vcenter	1
+technical area	vct training	1
+laser	vcsel	1
+cargo	vcm	1
+area	vcsels	1
+auxiliary device	vcr	4
+smooth surface	vct	1
+standard function	vcf input	3
+standard function	vcf input function	2
+training aid	vcrs	2
+food additive	vc	1
+small appliance	vcrs	2
+small appliance	vcr's	1
+electronic equipment	vcr	2
+external component	vcr	9
+external component	vcxo	1
+popular place	vc bet	1
+management function	vcenter server operation	1
+collaboration tool	vcl	1
+collaboration tool	vcr	1
+personal effect	vcr	1
+codecs	vc- one 	3
+complex topic	vcl delphi library	3
+electrical equipment	vcr	1
+textbook	vch	1
+technological change	vcrs	2
+video format	vcd	7
+video format	vc one 	1
+video format	vcd to flash video	1
+practical feature	vcr	1
+service	vct	12
+investment product	vcts	1
+building block	vco	2
+building block	vcos through complete radio subsystems	1
+building block	vcos through complete system in package solution	1
+imaging technology	vc	2
+complimentary service	vcrs	1
+electrical product	vcrs	1
+consumer group	vccc	1
+public organization	vcaa	1
+electric appliance	vcr player	2
+monitor	vcenter	1
+entertainment facility	vcr	4
+service	vcr	1
+service	vct floor maintenance	1
+simple system	vcr controller	1
+simulator	vcs	1
+electronic gadget	vcrs	1
+inflammatory mediator	vcam- one 	2
+intermediate	vc	1
+recording device	vcr	9
+prevention program	vct	1
+complex device	vcs used in atm network	1
+durable good	vcd player	1
+tribunal	vcat	2
+multimedia device	vcrs	17
+video source	vcr	24
+video source	vcp	1
+video source	vcr player	1
+electronic appliance	vcrs	1
+external system	vcr	1
+entertainment feature	vcast mobile tv	1
+program component	vca	1
+diagnostic study	vcug	2
+flag	vc commodore	1
+adhesion molecule	vcam- one 	24
+adhesion molecule	vcam	2
+adhesion molecule	vcam one 	1
+interior	vcpd	1
+floor	vct	1
+floor	vct tile	1
+consumer electronic product	vcr's	1
+consumer electronic product	vcp	1
+popular format	vcalendar	1
+popular format	vcard	1
+recyclable item	vcr's	1
+audio source	vcr	2
+technology product	vcrs	1
+service	vct centres referral	1
+service	vco	1
+service	vcct	1
+theoretical issue	vc dimension	1
+business facility	vcr	1
+state university	vcu	1
+memorial	vc corner	1
+financial intermediary	vc firm	1
+video application	vcrs	4
+electronic good	vcrs	5
+electronic good	vcr s dvd s tv s	1
+analog device	vcrs	6
+analog device	vcr's	2
+floor covering	vct	12
+state school	vcu	2
+optoelectronic device	vcsel	3
+optoelectronic device	vcsel device	1
+large appliance	vcr's	2
+academic course	vce studio arts	1
+connected device	vcr	1
+electronics product	vcrs	1
+consumer electronics product	vcrs	1
+optional equipment	vcr	1
+industry certification	vcp	5
+modern invention	vcrs	1
+popular video format	vcd	2
+clock	vco	1
+medium product	vcd	1
+presentation tool	vcr	1
+video player	vcr	1
+analog signal	vcr	1
+analog signal	vcr tape	1
+auxiliary unit	vcrs	1
+domestic appliance	vcrs	1
+domestic appliance	vcds	1
+topic	vc funding	1
+medium item	vcr's	1
+error condition	vcq buffer overflow	1
+small electronics	vcrs	4
+small electronics	vcr's	1
+consumer -durable	vcrs	2
+legal expert	vc lawyer barry levenfeld of yigal arnon	1
+audio-visual material	vcds film	1
+learning aid	vcr's	1
+seasonal service	vct floor refinishing	1
+peripheral equipment	vcr	2
+traditional device	vcr	2
+entertainment device	vcr	2
+transformer	vct vt- five hundred  transformer 	1
+separate item	vcr's	1
+corporate account	vcb	1
+gene product	vcam- one 	1
+input source	vcr	4
+topic	vc theory	1
+school staff	vce coordinator	1
+adequate resource	vces	1
+barrier method	vcf	1
+cell adhesion molecule	vcam- one 	4
+vocabulary	vcard	1
+home electronics	vcrs	3
+standard requirement	vca certification	1
+compression standard	vc- one 	1
+sub-components	vcm	1
+video device	vcr	12
+company	vca pictures in chatsworth	2
+basic measurement	vc	1
+common household appliance	vcrs	3
+prevention service	vct	1
+local personality	vcnn newscasters tracy lehr	1
+audiovisual aid	vcrs	1
+audiovisual aid	vcrs for older video recording	1
+video signal	vcr	1
+management software	vcenter server	3
+analog source	vcr	3
+business amenity	vcr	1
+multimedia format	vcd	1
+local district	vc parks & rec	1
+photonic device	vcsel	1
+floor surface	vct	1
+simple resource	vcr	1
+company	vc funded company	1
+company	vcx	1
+generic tool	vcds	1
+drive system	vcm	1
+audio visual aid	vcr's	1
+audio visual aid	vcr s	1
+medium vehicle	vcrs	2
+recording apparatus	vcr	1
+deluxe amenity	vcr	1
+high end company	vci	1
+E-waste	vcrs	5
+small household appliance	vcrs	1
+intelligent function	vca at the edge of an ip network	3
+basic comfort	vcr	2
+educational setting	vce	1
+video coding standard	vc one 	1
+dorm	vc cuties	1
+established tool	vcrs	1
+long range weapon	vc thirty-two  sniper rifle 	1
+chlorinated compound	vc	2
+company	vcon	1
+company	vca	1
+company	vcampus	1
+company	vci solutions	1
+sensitive electronics	vcrs	1
+video codecs	vc- one 	2
+home system	vcrs	1
+playback device	vcr	2
+video system	vcr	1
+consumer appliance	vcrs	1
+control protocol	vccp	1
+image source	vcr	1
+microwave component	vco	1
+standard abbreviation	vclt	1
+video technology	vcrs	2
+adhesion protein	vcam	2
+burning program	vcd burning program	1
+neurodevelopmental disorder	vcfs	1
+control message	vccv messages for initiating	1
+finished surface	vct	1
+voluntary standard	vcs	1
+activity	vc gathering	2
+equivalent qualification	vce	1
+everyday appliance	vcrs	3
+video standard	vc- one 	2
+video equipment	vcr	3
+institutional user	vcu	1
+key stock	vcg	1
+key stock	vcb	1
+monitoring equipment	vcr	1
+intermediary device	vcr during the initial installation process	1
+intermediary device	vcr	1
+semiconductor laser	vcsels  three hundred and two 	1
+technical certification	vcp	1
+video component	vcr	4
+hard surface floor	vct	1
+multimedia system	vcd player	1
+multimedia system	vcr player	1
+source device	vcr	2
+invasive study	vcug	1
+transistor parameter	vceo	1
+authoring program	vcd authoring program	1
+multimedia source	vcd player	1
+video capture device	vcr	1
+analog input	vcr	1
+analog medium	vcr	1
+audio-visual equipment	vcr	1
+AV device	vcr recorder	2
+commercial cleaning service	vct tile cleaning	1
+movie format	vcd	7
+movie format	vcd to wav	1
+safety agency	vcci in japan	1
+active optical device	vcsels	1
+certification standard	vcs	1
+electrical gadget	vcr	1
+generally item	vcrs	1
+helpful function	vcard sharing	1
+traditional surface	vct	1
+classroom technology	vcrs	1
+disc format	vc- one 	1
+audio video format	vcd to wav	8
+standardized format	vcard for contact	1
+technology-based solution	vchip	1
+information	vcard	2
+reliable material	vcp- five hundred and eleven  from testking prep guide online 	1
+sensitive appliance	vcrs	11
+sensitive appliance	vcr's	1
+adhesive protein	vcam- one 	1
+cell-surface receptor	vcam- one  on the surface of endothelial cell 	1
+corrosion protection product	vci film	1
+corrosion protection product	vci foam	1
+corrosion protection product	vci emitter	1
+corrosion protection product	vci oil	1
+corrosion protection product	vci paper	1
+corrosion protection product	vci powder	1
+vmware product	vcloud director	1
+boot manager	vcom system commander	1
+high frequency circuit	vco	5
+remote control application	vcds	2
+RF source	vco-based system	1
+tech blogs	vc	1
+traditional floor covering	vct tile	1
+traditional floor covering	vct	1
+video signal source	vcr	2
+video signal source	vcrs having special recording system	1
+accessory tool	vcr	1
+information	vcr status	1
+information	vcard detail	1
+information	vc id	1
+information	vc information	1
+information	vc type	1
+development language	vc	1
+famous aircraft	vc ten 	1
+military aspect	vc incident pattern	1
+video function	vcr control	1
+video input	vcr	1
+brown good	vcrs	1
+feedstock material	vcm	1
+soluble adhesion molecule	vcam- one 	1
+support aircraft	vc ten  air-to-air refueling aircraft 	1
+support aircraft	vc ten  air-to-air refuelling aircraft 	1
+audio video component	vcr	1
+AV component	vcr	2
+critical circuit	vco	1
+high-tech enterprise	vc-backed high-tech enterprise	1
+lung function test	vc	1
+analog equipment	vcr	3
+electrolyte additive	vc	2
+intermediate file	vcd-type file	1
+movie player	vcr	1
+sensitive electronic appliance	vcrs	2
+unwanted household electronics	vcrs	1
+advanced management feature	vcenter server heartbeat	2
+home theater device	vcr	1
+mobile video device	vcr	1
+event	vce	1
+Plug home electronics	vcrs	1
+suitable cement	vc- one 	1
+bank share	vcb	3
+domestic machine	vcrs	2
+entertainment amenity	vcr	1
+HIV service	vct	1
+home electronic device	vcr's	1
+level certification	vcp	1
+optional S-Video device	vcr	25
+popular software tool	vcs of synopsys of mountain view	1
+quality content	vc- one 	1
+sensitive circuit	vco in a pll	1
+synthesizer component	vco	2
+synthesizer component	vca	2
+advanced codecs	vc one 	1
+american invention	vcr	3
+berlin club	vcf	2
+common electronic product	vcr's	1
+consumer's product	vcd	1
+control capability	vcr-like control capability	1
+diagnostic intervention	vcug	1
+electronic convenience	vcrs	1
+event	vca	1
+event	vct day	1
+home theater component	vcr	1
+obsolete product	vcrs	1
+ptcs	vcbux	1
+raw and calculated parameter	vco two 	1
+remote unit	vcr s	1
+analog video source	vcr	3
+audio and video component	vcr	2
+cellular adhesion molecule	vcam- one 	1
+circuit block	vco	1
+college-wide event	vccs student leadership conference	1
+compact disc	vcd s	1
+complicated event	vce	1
+composite video signal	vcr	1
+composite video source	vcr's	2
+dynamic imaging	vcug	1
+east coast team	vcu	1
+mark valuable	vcr's	1
+program	vcs	2
+program	vcu	2
+program	vcd authoring program	1
+program	vc one-on-one	1
+program	vcl	1
+remote control unit	vcr's	1
+sensitive analog component	vco	1
+skylight	vce skylight	2
+source equipment	vcr	1
+suitable floor covering	vct	3
+surprising number ofproducts	vcr	1
+S-Video device	vcr	4
+ventilation mode	vcv	1
+visual instrument	vcr	2
+AMs	vcam- one 	1
+audio & video product	vcr . satellite receiver	1
+cheap technology	vcrs	1
+entertainment good	vcrs	1
+finished floor covering	vct	1
+home entertainment system	vcrs	2
+leukocyte adhesion molecule	vcam- one 	2
+lung function parameter	vc	3
+magnetic recording apparatus	vcr	1
+program	vcu compact	1
+program	vcu life sciences	1
+program	vc roundtable	1
+program	vcd burning program	1
+program	vct	1
+program	vcs diamond	1
+program	vcast	1
+program	vcd playing program	1
+proinflammatory gene	vcam	1
+required standardized test	vcat	1
+well-known RDF vocabulary	vcard	1
+analog technique	vcxo	1
+audio and visual classroom need	vcrs	1
+av input device	vcr av input device	1
+basic technological tool	vcrs	1
+cell surface adhesion molecule	vcam- one 	1
+digital consumer application	vcd player	1
+electrical or electronic item	vcr's	1
+endothelial cell adhesion molecule	vcam- one 	1
+everyday electrical appliance	vcrs	1
+fundamental circuit element	vcc symbol	1
+home entertainment component	vcr	1
+local domain name	vc for saint vincent	1
+modern teaching technology	vcrs	1
+plug appliance	vcrs	1
+popular audio product	vcd player	1
+power supply voltage	vcc	2
+required exam	vcat	1
+television component	vcr	1
+availing all-round service	vct	1
+DVD type	vcd	1
+EC marker	vcam one 	1
+elctronics	vcd	1
+Industry wide certification	vcp	1
+long-standing participant	vcu massey cancer center	1
+long-standing participant	vcu-carver community partnership	1
+nonproprietary standard product	vcrs	1
+playing program	vcd playing program	1
+popular input device	vcr's	1
+public-sector service	vcct center	1
+second symbol	vcc	1
+organization	vcf	3
+organization	vcci	2
+spa accessory item	vcr's	1
+speed producing factor	vcg	1
+sperm motion parameter	vcl	1
+trick mode	vcr trick mode	1
+verizon application	vcast music with rhapsody for song download	1
+vert video format	vcd	1
+video source device	vcr	1
+aggregation tool	vcard	1
+analog content	vcr to a digital contents into a hdd inside through av-in	1
+analog video system	vcr	1
+AV instrument	vcr	1
+AV source	vcr	1
+AVN420 Webcastertoany analog source	vcr	1
+communication invention	vcr	1
+component video source	vcr	2
+composite video device	vcr	1
+connectedtoany AV device	vcr recorder	1
+electronics collection item	vcrs	1
+organization	vcat	1
+organization	vct centre	1
+HD codecs	vc one 	1
+high-end video equipment	vcr	1
+house type appliance	vcr's	1
+impact technological advance	vcr	1
+IR AV device	vcr	1
+local weekly	vc reporter in the west end	1
+mainstream pornography distributor	vca platinum pictures	1
+non-computer technology	vcrs	1
+nonhazardous electronics	vcrs	1
+non-scripting language	vc	1
+shocker	vcu crushing kansas	1
+sound signal regenerative apparatuses	vcr	1
+sperm motility parameter	vcl	1
+S-VIDEO signal source	vcr	1
+system clock	vc two 	1
+system clock	vc one 	1
+technology-related item	vcr programming	2
+today's appliance	vcrs	1
+top global university	vcu	1
+traditionally floor covering	vct tile	1
+TV test function	vchip	1
+type message	vcard	1
+VCI packaging supply	vci paper	1
+VCI packaging supply	vci poly	1
+VCI packaging supply	vci sheet	1
+VCI packaging supply	vci bag	1
+video appliance	vcrs	1
+video codec standard	vc- one 	2
+vmware solution	vcloud director	1
+addressee	vcsa	2
+adult home-video company	vca	1
+ambitious medical man	vc at leeds	1
+Antifoulants	vc offshore	1
+atari video game system	vcs	2
+audio video source	vcr	1
+audio visual supply	vcr	1
+basic household electrical item	vcrs	1
+broadcasting device	vcr	1
+cabin feature amenity	vcr	1
+china's most corn product	vc	1
+cinderella team	vcu	1
+clinic delivershiv-related service	vct	1
+clock control setting	vco range	1
+commercial simulator	vcs	1
+constraint layer	vc boundary	1
+consumer machine	vcrs	1
+core vcloud component	vcenter chargeback server	1
+core vcloud component	vcloud director	1
+corresponding material s	vcd	1
+datacenter connectivity option	vcsel-based multimode fiber transceiver	1
+datacenter connectivity option	vcsel-based multi-mode fiber transceiver	1
+effective whitening ingredient	vc	3
+external video input device	vcr	1
+externally-provided power supply voltage	vccint  two hundred and thirty 	1
+externally-provided power supply voltage	vcco  two hundred and thirty-five 	1
+externally-provided power supply voltage	vccaux  two hundred and twenty-five 	1
+famous adult company	vca pictures	1
+good mechanism	vcg mechanism	1
+high security risk item	vcr's	1
+high-performance flow product	vcr gasket	3
+high-tech part	vcr recording head	1
+ICAMs	vcam- one 	1
+image compression technique standard	vc- one 	1
+individual-level intervention	vct	1
+inducible adhesion molecule	vcam- one 	1
+industry standard video codecs	vc- one 	1
+inflammatory maker	vcam- one 	2
+latest codecs	vc- one 	1
+latest video compression standard	vc- one 	1
+leaky external component	vco	1
+leukocyte-endothelial cell adhesion molecule	vcam- one 	2
+mid-major conference team	vcu	1
+miniature motor	vcr capstan motor	1
+mitsubishi product	vcrs	1
+mobile multimedia product	vcrs	1
+multi-ingredients	vc	3
+non-hd compatible device	vcr	1
+non-progressive or digital source	vcr	2
+nonprogressive-scan source	vcr	1
+non-standard video source	vcr	2
+application	vcrs	2
+application	vcr system control	1
+off-the-shelf recording device	vcr	1
+old-fashion tool	vcrs	1
+plastic device	vcr	1
+pre-veterinary exam	vcat	1
+Prions	vcjd	1
+purely parametric model	vcv	1
+radical or discontinuous innovation	vcr	1
+required modem configuration	vc mux	1
+SCART equipped device	vcr	2
+side agency	vccp digital	1
+small home electronic equipment	vcr	1
+standalone unit	vcr	1
+standard floor covering	vct	1
+state level gun right organization	vcdl in virginia	1
+suitable recording device	vcr	3
+synopsys EDA tool	vcs mx	1
+application	vcr sound track	1
+application	vct	1
+application	vcd player	1
+system related packet	vcms	1
+toxic intermediate by-products	vc	1
+unstable source	vcr	4
+upper layer technique	vc-related techniques in atm	1
+upper layer technique	vc related techniques in atm	1
+vascular adhesion molecule	vcam- one 	1
+VC reputation measure	vc age	1
+VC reputation measure	vc total investment	1
+VC reputation measure	vc capital	1
+VCD player	vcd cutter	1
+vc-specific factor	vc's prior experience in the venture's industry	1
+verilog simulator	vcs	2
+verizon wireless service	vcast music	1
+video unit	vcrs	1
+zirconium-containing lewis acid	vcl  four 	1
+75ohm device	vcr	1
+adult film production company	vca	2
+advanced video codec	vc- one 	1
+advanced video codecs	vc- one  with dvb-s two 	1
+analog recorder	vcrs	1
+analog signal component	vcr	10
+audiovisual source	vcr	5
+british support asset	vc ten 	2
+application	vcnetalsohasmany other potential application	1
+name	vc winner	2
+name	vcall	2
+centrifugal fan model	vc one 	1
+civilian marketplace product	vcrs	1
+cleanable floor material	vct	1
+codger	vcu's shaka smart	1
+common analog system	vcr's vcrs	1
+consumer-level electronics	vcrs for the home	1
+domestic electronic gadget	vcrs	1
+EAW's role supporting aircraft	vc ten 	1
+ECAMs	vcam- one 	2
+electronic home device	vcr	1
+ethernet-over-sdh technology	vcat	1
+facility based clinic	vch	1
+function block design	vc timegen clock	1
+function block design	vc timegen oscillator	1
+generation codecs	vc one 	1
+high frequency external clock	vco	1
+high-quality certification standard	vcs	1
+hiv-related service	vct	1
+host Verilog simulator	vcs	1
+houston area team	vck	1
+infared device	vcr remote	1
+infrared controller	vcr remote controllers during play	1
+javascript package	vcxmlrpc library	1
+key classroom component	vce unit timelines	2
+klf5-responsive promoter	vcam- one 	1
+name	vc undertaker	1
+limitation entertainment device	vcr's	1
+low current modulation laser device	vcsel	2
+modern compression codecs	vc- one 	1
+modern medium invention	vcrs	1
+modern training aid	vcr equipment	1
+modulator signal	vcr	1
+moisture control solution	vci laminate	1
+non computer medium player	vcrs	1
+non HD source	vcr	1
+non-kernel package	vcs package	1
+nonstandard video signal	vcr in fast-forward	2
+nonstandard video signal	vcr in trick mode	1
+off-air source	vcr	1
+orange-colored extended life coolant	vc- two 	1
+ordinary video	vcr	1
+P2V tool	vcenter converter standalone	1
+physical medium player	vcrs	1
+picture image device	vcr	1
+picture reception system	vcr	1
+popular black market item	vcrs	1
+case	vcm	1
+power-supply voltage	vcc	1
+pre-packaged, standardised unit	vce vblock	1
+pre-packaged, standardized unit	vce vblock	2
+prepared library	vcl	2
+programming dsp-based camera	vc thirty-eight  camera 	1
+remotely controllable device	vcr's	1
+required risk factor information	vcv matrix	2
+resident's larger valuable	vcrs	1
+RH specific service	vct	1
+RK printcoat system	vcm	1
+SD resolution component	vcr	1
+seasonal rout	vce	1
+secondary video source	vcr	1
+semiconductor array	vcsel array	1
+separate audiovisual signal source	vcr	1
+signal pin	vcde delay control select	2
+signal pin	vco control	2
+standard definition video source	vcr	7
+standard pulmonary function test	vc	1
+standard recording device	vcr	1
+standard video device	vcr	1
+stimulus source	vcr	1
+subscriber's consumer electronic equipment	vcr	1
+surface emitter	vcsel	1
+case	vcat kracke decision	1
+case	vcr	1
+option	vcr	2
+TV input device	vcr	1
+urinary molecule	vcam- one 	2
+utilising premium brand	vcm suite	1
+VA school	vcu	1
+VCD profile	vcd pal	1
+VCD profile	vcd ntsc	1
+VCOs	vco  one hundred a 	1
+verizon apps	vcast video	1
+verizon premium service	vcast	1
+VHS player	vcr	1
+vm-50ycistypically used fors-video source	vcr's	1
+voltage tap symbol	vcc	1
+war zone danger	vc terrorism	1
+well-known proatherogenic factor	vcam- one 	1
+X10 system	vcr commander	1
+year many video system	vcrs	1
+advanced synthesis capability	vca panning	1
+analog recording medium	vcr tape	1
+auxiliary playback device	vcr	1
+AUXIVIDEO	vcr	1
+option	vct strip	1
+bravery award	vc	1
+cast iron coal stove	vc vigalent	1
+cloud APIs	vcloud from vmware	1
+competing laser	vcsel	1
+compiled-code simulator	vcs available from synopsys	1
+complex cavity	vcsel cavity	1
+constraint thatacertain auction mechanism	vcg mechanism	1
+conventional magnetic tape video system	vcrs	1
+data-savvy capability	vcat	1
+dirty source	vcr	1
+dynamic code generation system	vc ode	1
+earth system science pathfinder mission	vcl	1
+group	vcdl lobbying for the issue	1
+EC adhesion molecule	vcam- one 	1
+effective whiteing ingredient	vc	1
+external video equipment	vcr	2
+frequency critical component	vco	1
+frequently today many device	vcr's	1
+halogenated intermediate	vc	2
+hard non-biocides	vc performance epoxy	1
+head recorder	vcrs	1
+high-risk good	vcrs	1
+image quality improvement	vcom tuning function	1
+image sequence display unit	vcr	1
+image-based device	vcr	1
+group	vca	1
+infrastructure machine	vcenter	1
+key HIV service	vct	1
+key prevention service	vct	2
+latest popular format	vc one 	1
+legal blog	vc	1
+light duty human interface application	vcr control	1
+local datum collection	vcga community patterns of gambling surveys	1
+LOX-1 target gene	vcam- one 	1
+mechatronics consumer product	vcrs	1
+monolithic technique	vco tracking notch filter	1
+motion picture medium	vcr & dvd	1
+multimedia collaborative system	vcs	1
+navy squadron	vc- twenty-one  based on marcus island 	1
+noisy analog video source	vcr	1
+non-hd component	vcr	1
+method	vct	3
+office technology platform	vcg	1
+optional electronic device	vcr	1
+Organiaztions	vcci	1
+oxidant-responsive gene	vcam- one 	1
+package medium	vcr	1
+peripheral recording device	vcr	2
+portable audio-visual equipment	vcr monitor	1
+potential pilot activity	vct	1
+prestigious Australian drama school	vca	1
+PSI document	vct capacity statement	1
+RAF transport	vc- ten 	1
+recordable playback device	vcr	1
+resonant cavity emitter	vcsel	2
+ring oscillator circuit	vco	1
+second generation HA package	vcs	1
+second-generation HA package	vcs	1
+selected successful emitter	vci  one hundred and five 	1
+method	vcr	1
+semiconductor laser array	vcsel array	1
+service delivery activity	vct	1
+sometimes investor	vc firm	1
+standard assigned VCI value	vci value  five 	1
+state-based, multidisciplinary school	vca	1
+stiff environment	vcr with a hard lava hangingwall	1
+subscriber video equipment	vcr	1
+target sector	vc target sector	1
+toxic intermediate byproduct	vc	1
+turn HIV service	vct	1
+university source	vcsa	1
+upper case letter	vce	1
+utility squadron	vc- seven 	2
+VCD ripper program	vcd ripper	1
+VCM actuator system parameter	vcm torque constant	1
+vertical cavity resonant device	vcsel	2
+tool	vc- one  pep 	2
+tool	vcds from ross-tech	1
+tool	vcm	1
+tool	vcds by ross tech	1
+tool	vcrs	1
+video cassette apparatus	vcr	1
+vinyl antifouling paint	vc offshore	1
+virginia-based virtual learning scholar	vcu's jon becker	2
+vmware private cloud product	vcloud director	1
+voluntary project standard	vcs	1
+well-recognized voluntary carbon standard	vcs	1
+well-respected voluntary standard	vcs	1
+wildcard school	vcu	1
+year TV complimentary good	vcrs	1
+tool	vca	1
+tool	vcloud director	1
+tool	vct training manual	1
+factor	vcam- one 	1
+factor	vco gain	1
+product	vcrs	26
+product	vcd player	5
+material	vcrs	3
+material	vct	2
+player	vcl media player	1
+technology	vcrs	11
+technology	vcsel transmitter	2
+technology	vcsel transmitter s	1
+parameter	vc	3
+parameter	vcf	2
+system	vcrs for video viewing	1
+measure	vcug	1
+measure	vc dimension	1
+condition	vcjd in human	1
+condition	vc open	1
+element	vca	2
+element	vco	1
+variable	vcr mode	2
+product	vcd portable player related product	1
+product	vcs online	1
+product	vct	1
+product	vc one hundred and seventy-five  mould stop 	1
+product	vcd case related product	1
+product	vcd disc related product	1
+product	vcd dvd player related product	1
+product	vcd panel related product	1
+variable	vcr availability	1
+function	vcf input	2
+function	vcmanager component	1
+function	vcrs	1
+function	vc	1
+function	vcr type function	1
+device	vcr	114
+device	vcs medianet	2
+device	vcr's home theater	1
+device	vcr-type control panel	1
+device	vcr's	1
+device	vcr av input device	1
+component	vcr	21
+component	vcrs for the move	3
+component	vco	2
+component	vcm	2
+component	vcenter server	1
+site	vc poker	2
+site	vcdquality for release information	1
+related product	vcd case related product	1
+related product	vcd panel related product	1
+related product	vcd remote control related product	1
+related product	vcd tv dvd related product	1
+related product	vc net related product	1
+related product	vcd fm related product	1

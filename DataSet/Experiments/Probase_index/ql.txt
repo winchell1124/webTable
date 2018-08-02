@@ -1,0 +1,110 @@
+source	qld science teachers	1
+model	qlogic san	1
+attraction	qld performing arts centre	1
+client	qld reds	2
+client	qld health	1
+agency	qlcc	1
+practice	qliance in seattle	2
+manufacturer	qlogic	1
+attribute	qlcs tornado attribute	1
+leader	qliktech	1
+Organisations	qlimax crew	1
+partner	qlogic	2
+vendor	qlogic	3
+vendor	qliktech	2
+vendor	qlikview offering free personal use	1
+vendor	qlik tech	1
+vendor	qlogic corp.	1
+customer	qlogic	1
+effort	qlobal modeling effort	1
+effort	qli project	1
+competitor	qlogic	1
+state	qld	1
+driver	qla two xxx 	1
+statistic	qlr	1
+supplier	qlogic	1
+operator	qld infrastructure operator	1
+competition	qlcc's writing competition	1
+industry leader	qlogic	2
+disaster	qld flood	1
+jurisdiction	qld	1
+library	qld library	1
+consumer product	qlink pendant	1
+contribution	qla balogun	1
+muscle	ql	1
+home	qld itch remedy	1
+acronym	qld university	1
+specialty class	qld challenge sash	1
+prestigious project	qld.performing arts centre	1
+service	qld rooms	1
+news event	qld floods	1
+feedback mechanism	qlc survey	1
+magnetic device	qlink pendant	1
+company	qlogic	4
+disaster situation	qld flood	1
+company	qliktech	1
+BI vendor	qliktech	2
+software supplier	qliktech	1
+shuttle service	qls	1
+pure-play vendor	qliktech	1
+peak organization	qld police	1
+continuous improvement initiative	qlp	1
+specialty vendor	qliktech	1
+event	qlimax	1
+specialist vendor	qliktech	1
+australian client	qld gov departments	1
+competitive solution	qlogic adapter	1
+mid-size player	qliktech international ab	1
+SQL server database	qls	1
+companes	qld government	1
+companes	qld railway	1
+newest qlink golf pendant	qlink srt three  pebble gold pendant 	1
+newest qlink golf pendant	qlink srt three  pebble silver pendant 	1
+newest qlink golf pendant	qlink srt three  black pendant 	1
+newest qlink golf pendant	qlink srt three  titanium pendant 	1
+newest qlink golf pendant	qlink srt three  white pendant 	1
+storage industry leader	qlogic	1
+contact support group	qld cancer fund	1
+coordination service	qls	1
+F&B counter	ql	1
+HBA vendor	qlogic	1
+installed library	ql voices of passion	1
+municipality-level datum	qli	1
+philips technology	qlab quantification software	1
+server host bus adapter supplier	qlogic	2
+specialty visualization vendor	qliktech	1
+adapter company	qlogic	1
+advanced philips technology	qlab quantification software	2
+BI supplier	qliktech	1
+datum discovery vendor	qliktech	1
+dimension-four operator	ql yd drc	1
+dimension-four operator	ql yu yu yd drc	1
+FC host bus adapter vendor	qlogic corp.	1
+high-flying technology company	qlogic corp	1
+high-quality public transport service	qliner  three hundred and fifteen 	1
+iscsi HBA vendor	qlogic corp.	1
+large dance event	qlimax	1
+name	qld sharks	1
+operating-system software component	qlogic hba driver	1
+self-help item	ql two 's solar powered refrigerator 	1
+server horde train adapter supplier	qlogic	1
+cisco technology partner	qlogic	1
+Discussion A hardware-based iSCSI HBA	qlogic hba	1
+Dual-sided, double-layer DVDs	ql s four 	1
+EMF protection device	qlink pendant	1
+flood relief appeal	qld flood appeal	1
+hardware iscsi initiator	qlogic qla four thousand and fifty  iscsi host bus adapter 	1
+Independent HBAs	qlogic qle four hundred and six xc 	1
+left-hand magickal tradition	qliphothic qabalah	1
+midsize and smaller vendor	qliktech	1
+QT UI idea	qlauncer for launching application	1
+sub-tropical climate area	qld	1
+virtual sound module	ql storm drum	1
+waterwise native plant	qld	1
+tool	qlik view by qlik tech	1
+factor	qleali ty assurance	1
+place	qld	1
+player	qlogic	1
+system	qlm for updating status of retail requisition	1
+brand	qlink	3
+site	qldstandby	1

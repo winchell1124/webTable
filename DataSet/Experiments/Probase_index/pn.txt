@@ -1,0 +1,3014 @@
+product	pnp dog eye wash	1
+product	pneumatic drive	1
+product	pneumatic gate valve related product	1
+product	pneumatic level switch	1
+product	pneumatic valve seal	1
+product	pneumatic marker related product	1
+product	pneumatic screw gun	1
+product	pneumatic system related product	1
+product	pneumatic-powered component	1
+product	pneumococcal conjugate vaccine	1
+product	pneumatic screwdriver related product	1
+product	pneumatic remote shutdown system kit	1
+product	pneumatic level control	1
+product	pneumatic lubricator related product	1
+accessory	pneumatic shear	1
+accessory	pneumatic gripper	1
+datum	png file	1
+datum	pneumatic gas supply pressure	1
+resource	png resource information system	1
+facility	pneumatic tube system	1
+process	pneumatic conveying	2
+process	pneumococcal vaccination	1
+process	pneumothorax	1
+source	pnas	1
+source	pneumatic green bean handling system	1
+source	pneumatic pump	1
+benefit	pnc point	1
+subject	pneumatology	1
+exception	pneumonia	1
+product	pneumatic spanner related product	1
+product	pneumatic regulator related product	1
+product	pneumatic riveting machine	1
+product	pneumatic press	1
+product	pneumatic diaphragm valve related product	1
+product	pneumatic hoist	1
+product	pneumatic butterfly valve related product	1
+product	pneumatic clamping arm system	1
+product	pneumatic accessory	1
+product	pnb credit card	1
+product	pneumatic tools part	1
+product	pneumatic wheel related product	1
+product	pneumatics products	1
+reason	pneumonia	1
+model	pnp based one	1
+word	pneumatic tube	1
+attraction	pneumatic scooting	1
+situation	png	1
+situation	pneumonectomy for aspergilloma	1
+skill	pnuematics	1
+category	pnps offer category	1
+institution	pnc	2
+institution	pnc financial services group inc.	1
+institution	pntl	1
+institution	png forest research institute	1
+change	pnned taskbar item	1
+client	pnc bank	3
+client	pnc funds	1
+client	pnc bank arts center	1
+client	pnb	1
+product	pneumatic ball valve related product	1
+product	pneumatic coil nailer related product	1
+product	pneumatic products	1
+product	pneumatic tire related product	1
+product	pneumatic tool accessory related product	1
+product	pneumatic tool kit related product	1
+product	pneumatic tool related product	1
+form	pneumonia	4
+form	pneumothorax	1
+person	pneumonia	2
+approach	pneumatic plethysmography	1
+idea	pneumatic tire	1
+alternative	pneumatic test	1
+alternative	pneumatic	1
+effect	pneumonitis	1
+effect	pns	1
+agency	pntl	1
+agency	pnoc	1
+agency	png forest industries association	1
+agency	png government agency	1
+agency	pns	1
+symptom	pneumonia	15
+symptom	pneumaturia	1
+symptom	pneumonitis	1
+symptom	pneumonia in the blocked part of the lung	1
+mechanism	pneumatic	6
+mechanism	pneumatic cylinder	4
+mechanism	pneumatically driven mechanism	2
+mechanism	pneumatic actuator	2
+mechanism	pneumatic motor	2
+mechanism	pneumatic cylinder arrangement	1
+mechanism	png enhanced cooperation program	1
+mechanism	pneumatic system	1
+mechanism	pneumatic piston	1
+mechanism	pneumatically pressurizing a tank holding the fluid	1
+mechanism	pneumatic shooter	1
+mechanism	pneumatic piston assembly	1
+mechanism	png small	1
+solution	pnp dog eye wash	1
+feature	pneumatic height adjustment	3
+feature	pneumostatic valve	2
+feature	pneumatically controlled z-axis	2
+feature	pneumatically balanced second-stage for superior performance	2
+structure	pneumatic	1
+structure	pn junction	1
+structure	pnc bank building	1
+business	pnc bank	2
+field	pneumatic	3
+procedure	pneumatic otoscopy	1
+procedure	pneumonectomy through empyema	1
+procedure	pneumonectomy	1
+procedure	pneumococcal vaccination	1
+procedure	pneumatic retinopexy	1
+procedure	pneumatic retinopexy for repair of retinal detachment	1
+part	pneumatic part	2
+part	pneumatic cylinder	1
+operation	pns mehran	2
+operation	pneumonectomy for pulmonarytuberculbsis	1
+operation	pneumonectomy for pulmonary tuberculosis	1
+circumstance	png development on pfra community pasture	1
+feature	pneumatophores	1
+feature	pneumatic core	1
+feature	pneumatic bumper	1
+feature	pnp regulator feature	1
+development	pneumatic tyre	2
+type	png	5
+type	pn-type cold cathode element	1
+type	pneumatic hosing	1
+type	pneumatic hybrid	1
+type	pneumatic piston cylinder	1
+type	pneumatic fender	1
+disease	pneumonia	308
+disease	pneumococcal pneumonia	7
+disease	pneumococcal disease	7
+disease	pneumonitis	4
+disease	pneumococcal meningitis	3
+disease	pneumoconiosis	3
+disease	pneumoconiosis throe	3
+disease	pneumococcus	2
+disease	pneumocystis carinii pneumonia	2
+disease	pneumoconioses	2
+disease	pneumoccal disease	2
+disease	pnuemonia	1
+disease	pneumothorax	1
+disease	pneumocystis infection	1
+disease	pneumococci cause invasive pneumococcal disease	1
+disease	pneumococcal	1
+disease	png many infectious disease	1
+disease	pneumocystis	1
+disease	pnd	1
+venue	pne colliseum	1
+venue	pnc park	1
+venue	pnc bank arts center main stage	1
+firm	pnc bank	2
+industry	pneumatic	3
+industry	pneumatic tooling	1
+industry	pnm	1
+industry	pneumatic system & tools	1
+industry	pneumatic machine	1
+industry	pneumatic suppliers	1
+industry	pneumatics	1
+requirement	pneumatic cylinder operation	2
+drug	pneumoncoccal vaccine	1
+test	pneumatic test	4
+indicator	png's main social indicator	1
+treatment	pneumatic compression	2
+treatment	pneumonectomy	1
+treatment	pneumonia immunisations	1
+manufacturer	pny	3
+instrument	pneumatic piston	1
+feature	pneumatic cleaning	1
+feature	pneumatically actuated diaphragm valve	1
+feature	pneumatic thread cutting	1
+feature	pnr splitting	1
+complication	pneumonia	357
+complication	pneumothorax	124
+complication	pneumomediastinum	11
+complication	pneumonitis	8
+complication	pneumopericardium	4
+complication	pneumoperitoneum	4
+complication	pnuemonia	2
+complication	pneumatocele formation	2
+complication	pneumocephalus	1
+complication	pneumococcal pneumonia	1
+complication	pneumococcal native valve endocarditis	1
+complication	pneumococcal arthritis	1
+complication	pneumocystis carinii pneumonia	1
+publication	png coffee journal	1
+publication	pnas	1
+setting	pns	1
+setting	pnr	1
+class	pneumatology	1
+position	pndc coordinating secretary	1
+equipment	pneumatic pressure boosting system	2
+equipment	pneumatic press	1
+equipment	pneumatic hammer	1
+equipment	pneumatic controls on machinery	1
+equipment	pneumatically operated monkers	1
+equipment	pneumatic	1
+equipment	pneumatic jack	1
+unit	pnp national support unit	1
+innovation	pneumatic tyre	2
+innovation	pneumatic drill	1
+innovation	pneumatic tire	1
+cause	pneumonia	22
+cause	pneumothorax	2
+cause	pneumococcus	1
+mean	pneumatic	7
+mean	pneumatic cylinder	3
+mean	pneumatic actuator	3
+mean	pneumatic piston	3
+mean	pneumatic conveyance	2
+mean	pneumatic mean	2
+mean	pneumatically operated piston	1
+mean	pneumatic latching mechanism	1
+mean	pneumatically controlled ram	1
+mean	pneumatic tube conveyor	1
+mean	pneumatic motor	1
+mean	pneumatic bladder	1
+instance	pneumocystis carinii pneumonia	2
+instance	pneumothorax	1
+substance	pnoc	1
+entity	png waterboard	1
+entity	png post	1
+entity	pnnl	1
+entity	png power	1
+entity	pntl	1
+entity	png ports corporation	1
+country	png	69
+feature	pneumatic tire	1
+feature	pneumatic swing-phase control	1
+feature	pneumatic nozzle bank	1
+feature	pneumatic screenwasher	1
+feature	pneumatic wheel	1
+concern	pneumatic	1
+concern	pneumonia	1
+format	png	119
+partner	pnc bank	2
+standard	png	2
+standard	pnm	1
+standard	pnp-x proposed by microsoft corporation	1
+club	pnw leisure hiking group	1
+vendor	pny	1
+vehicle	pneumatic tired vehicle	1
+side effect	pneumonia	10
+side effect	pneumothorax	2
+side effect	pneumonia in lung	1
+feature	pneumatic impression	1
+feature	pneumatic film brake	1
+feature	pneumatic lifts for height adjustment	1
+issue	pneumonia	3
+scheme	pnb gold	1
+scheme	pnb platinum	1
+scheme	pnb diamond	1
+scheme	pnb silver	1
+step	pnvatization of state-owned industry	1
+article	pneumatic tire	1
+disorder	pneumonia	11
+disorder	pneumothorax	1
+module	pneumatic	1
+woman	pneumatic mae west	1
+sign	pneumonia	1
+party	pnu	2
+party	pnv	1
+offer	pneumatic rubber wheel related offer	1
+offer	pneumatic component related offer	1
+offer	pneumatic cylinder related offer	1
+protein	pneumococcal surface protein c	1
+protein	pneumolysin	1
+machine	pneumatic machine	3
+machine	pneumatic	1
+issue	pnd	1
+brand name	pny	1
+addition	pneumatic pressure system	1
+addition	pneumatic slab-blocking bar	1
+discipline	pneumatology	4
+corporation	pnc bank	1
+corporation	pnoc	1
+key item	pnc economic	1
+possibility	pneumonia	4
+possibility	pneumothorax	1
+journal	pnas	16
+journal	pneuma	1
+variation	pneumatized superior turbinate	1
+control	pneumatic	2
+image	png	8
+image	png image	2
+image	pngs	1
+line	pneumatic air hoses	1
+line	pneumatic	1
+landmark	pnc park	2
+therapy	pnf	1
+medicine	pneumococcal	1
+principle	pneumatic pushing	1
+series	pn code series	1
+utility	pneumatic	3
+utility	pnm gas	2
+utility	pneumatic air	1
+utility	pneumatic piping	1
+driver	pneumatic	1
+driver	pneumatic impact driver	1
+driver	pneumatic cylinder with a camming plate	1
+driver	pneumatic cylinder	1
+text	pnakotic manuscripts	1
+file	png	9
+file	png graphic file	2
+file	pnt	1
+measurement	pna	1
+supplier	pny	1
+protocol	pnni	4
+outcome	pneumonia	2
+bank	pnc	20
+bank	pnb	15
+bank	pnc bank	10
+bank	pnc financial	4
+bank	pnc financial services group inc.	2
+bank	pnc financial services	2
+bank	pnb paribas	1
+bank	pnb & boi	1
+bank	pnc mortgage	1
+bank	pnc bancorp	1
+key issue	png's changing culture	1
+employer	pnc financial services	1
+specialty	pneumatic power	1
+specialty	pneumology	1
+hazard	pneumatic	3
+committee	pnt	1
+molecule	pna	2
+molecule	pna-binding glycoproteins	1
+organism	pneumococcus	10
+organism	pneumococci	6
+organism	pneumocystis carinii	2
+organism	pneumocystis	1
+medical condition	pneumonia	21
+medical condition	pneumothorax	2
+medical condition	pneumocystis carinii pneumonia	1
+operator	pneumatic actuator	1
+authority	png nfa	1
+stock	pnb	2
+stock	pnb gilts	1
+account	pnpm mandiri	1
+account	pnb gaurav	1
+park	pnc park	1
+sponsor	pny	1
+sponsor	pnc bank	1
+sponsor	pnb	1
+factor	pneumoperitoneum	2
+scenario	png assisting papua province in indonesia with iuu fishing issue	1
+illness	pneumonia	140
+illness	pneumoconiosis	4
+illness	pneumonitis	2
+illness	pneumococcal pneumonia	1
+signal	pn signal	1
+government agency	png government agency	1
+difficulty	pneumonia	1
+rival	pnc	2
+industry leader	pnc financial services group	1
+infection	pneumonia	247
+infection	pneumocystis carinii pneumonia	5
+infection	pneumococcal pneumonia	2
+infection	pneumocystis carinii pneumoniae	1
+infection	pneumocystis carinii	1
+infection	pneumocystis	1
+infection	pneumocystis jiroveci pneumonia	1
+infection	pneumocysis pneumonia	1
+infection	pnemonia	1
+infection	pneumocystis pneumonia	1
+cell	pneumocytes	1
+attachment	pneumatic coiled tubing	2
+aid	pneumatic fluidising bottom	1
+key area	pn demobilization	1
+electronic device	pneumatic and electronic device	1
+local business	pna insurance services	1
+local business	pnc bank	1
+injury	pneumothorax	7
+practical issue	pn code synchronization	3
+goodie	pnut butter cup	1
+name brand	pny	1
+reaction	pneumonitis	1
+abnormality	pneumothorax	2
+abnormality	pneumonia	2
+response	pnr	1
+international organization	pnud	1
+enzyme	pnkp	2
+notable exception	pneumococcal vaccine	1
+notable exception	pnyx rod tripod	1
+advanced technique	pnf	1
+health issue	pneumonia	2
+finding	pneumothorax	7
+finding	pneumonia	2
+finding	pneumocephalus	1
+ailment	pneumonia	22
+tenant	pnk ultra lounge	1
+adverse effect	pneumothorax	6
+adverse effect	pneumonitis	2
+surgical procedure	pneumatic retinopexy	3
+surgical procedure	pneumonectomy	1
+framework	pn	1
+stressors	pneumonia	1
+financial institution	pnc	5
+financial institution	pnc bank	3
+financial institution	pnb paribas	1
+financial institution	pnc financial services group	1
+fluid	pneumatic gas	2
+pathogen	pneumocystis carinii	8
+pathogen	pneumocystis jiroveci	5
+pathogen	pneumococcus	4
+pathogen	pneumococcal serotype  nine v 	4
+pathogen	pneumocystis jirovecii	1
+pathogen	pneumococci	1
+consequence	pneumothorax	1
+preventive measure	pneumococcal	2
+preventive measure	pneumonia vaccine	1
+preventive measure	pneumococcal vaccine	1
+preventive measure	pneumococcal vaccination	1
+virus	pnemonia	1
+lesion	pneumonia	4
+lesion	pneumonitis	1
+lesion	pneumo sinus dilantans	1
+diagnosis	pneumonia	12
+diagnosis	pneumothorax	5
+diagnosis	pnd	1
+diagnosis	pneumonitis	1
+diagnosis	pneumoconiosis	1
+diagnosis	pneumonia in adult	1
+serious complication	pneumonia	71
+serious complication	pneumothorax	11
+serious complication	pneumonitis	3
+serious complication	pneumomediastinum	2
+serious complication	pneumocystis carinii pneumonia	2
+serious complication	pneumcystis carinii pneumonia	1
+serious complication	pnemonia	1
+serious complication	pnuemonia	1
+optional feature	pneumatic purge & cleaning fixture	1
+optional feature	pneumatic purge	1
+item	pneumatic damper	1
+item	pneumatic controller	1
+item	pneumatic hoses	1
+lender	pnc	4
+lender	pnc bank	2
+health condition	pneumonia	6
+adverse event	pneumothorax	3
+surgery	pneumonectomy	1
+surgery	pneumatic retinopexy	1
+serious side effect	pneumonia	1
+blogs	pneumonia white	1
+apparatus	pneumatic	1
+tumor	pnet	2
+energy source	pneumatic system	1
+key stakeholder	png government	1
+product line	pnp choice	1
+quality brand	pny	1
+connection	pneumatic line	1
+extension	png	1
+chronic condition	pneumonia	1
+microorganism	pneumocystis carinii	2
+microorganism	pneu mococcus	1
+economy	png	2
+modern technology	pneumatic winepress	1
+modern technology	pneumatic chisel	1
+modern technology	pneumatic press	1
+radio station	pnc radio	1
+preventative measure	pneumococcal vaccination	1
+item	pneumatic tool	1
+guide	pnyxtr's scanning guide	1
+serious condition	pneumonia	16
+system component	pneumatic cylinder	1
+optional accessory	pneumatic cylinder	1
+optional accessory	pneumatic lifting actuator	1
+chronic disease	pneumonia	6
+mechanical device	pneumatic compression device	1
+infectious disease	pneumonia	78
+infectious disease	pneumococcal pneumonia	1
+infectious disease	png many infectious disease	1
+external device	pneumatic valve operator solenoid	1
+claim	pnj	1
+syndrome	pneumonia	2
+spare part	pneumatic component	1
+electronic component	pn junction	1
+fungus	pneumocystis	2
+fungus	pneumocystis carinii	1
+lubricant	pneumatic tool oil	2
+pathological condition	pneumonia	3
+innovative product	pneumatic total artificial heart	1
+innovative product	pneumatic disc brake	1
+parasite	pneumocystis	1
+pathology	pneumonia	5
+pathology	pneumothorax	1
+pathology	pneumocystis carnii	1
+pathology	pneumoconiosis	1
+big event	pnw	1
+hand tool	pneumatic tool	3
+hand tool	pneumatic drill	1
+hand tool	pneumatic and electric hand tool	1
+hand tool	pneumatic wrench	1
+bacterium	pneumococcus	12
+bacterium	pneumococci	3
+private organization	pnc	1
+invasive procedure	pneumoencephalography	2
+invasive procedure	pneumatic retinopexy	1
+input device	pnp output	1
+manifestation	pneumonitis	5
+manifestation	pneumonia	4
+item	pnc bank property tax	1
+item	pneumatic cylinder	1
+item	pnet	1
+common condition	pneumonia	3
+standard item	pneumatic	1
+advanced function	pneumatic articulation system	1
+listing	pneumatic	2
+listing	pneumatic controller	1
+local condition	pneumonia	1
+semiconductor device	pnp bipolar transistor	2
+semiconductor device	pn diode rectifier	1
+semiconductor device	pn-junction diode	1
+semiconductor device	pnpn semiconductor device	1
+semiconductor device	pnp transistor	1
+industrial product	pneumatic equipment	1
+optional extra	pneumatic paddle agitato for certain application	1
+medical issue	pneumonia	3
+clinical sign	pneumonia	1
+file format	png	44
+file format	png image	1
+severe complication	pneumonia	26
+severe complication	pneumothorax	3
+severe complication	pneumonitis	1
+disease state	pneumonia	2
+disease state	pnh	1
+disease state	pneumothorax	1
+executive	pnc's top executive	1
+corporate client	pnc	1
+critical component	pneumatic system	1
+limit	pneumatic storage	1
+health concern	pneumonia	1
+regulator	pneumatic & electric operated control valve	1
+fastener	pneumatically driven fastener	1
+power source	pneumatic power	4
+power source	pneumatic	4
+power source	pneumatic cylinder	1
+area	pneumatic tube station	2
+area	png	2
+top company	pnc financial services group	1
+imaging modalities	pneumoencephalography	1
+prognostic factor	pni	2
+prognostic factor	pnor symptom status	1
+trouble	pneumonia	2
+gear	pneumatic gun	1
+valve	pneumatic valve	3
+valve	pneumatic solenoid valve	1
+valve	pneumatic	1
+underlying condition	pneumonia	1
+arena	pnc bank art center	2
+suitable mean	pneumatic pressure	2
+suitable mean	pneumatic	1
+suitable mean	pneumatic cylinder	1
+systemic disease	pneumonia	4
+severe side effect	pneumothorax	1
+severe side effect	pneumonitis	1
+local	pnau	1
+serious disease	pneumonia	17
+serious disease	pneumoconiosis of coal miner	1
+clinical condition	pneumonia	5
+clinical condition	pneumothorax	1
+national chain	pnc bank	1
+power tool	pneumatic wrench	4
+power tool	pneumatic nail	3
+power tool	pneumatically powered tool	2
+power tool	pneumatic jackhammer	1
+power tool	pneumatic nail gun	1
+power tool	pneumatic chisel	1
+power tool	pneumatic hammer drill	1
+power tool	pneumatic scaling hammer	1
+common disease	pneumonia	8
+common disease	pneumonia in the cold dry season	1
+common disease	pneumocystis	1
+controller	pnni svc controller	3
+controller	pnni ses controller on a bpx node	1
+postoperative complication	pneumonia	9
+postoperative complication	pneumothorax	5
+file type	png	9
+file type	png image	1
+control device	pneumatic solenoid	7
+control device	pneumatic solenoid s	1
+key technology	pn code tracking	2
+key technology	pn code detection	2
+clinical datum	pn stage	1
+control system	pneumatic	2
+severe symptom	pneumonia	3
+conventional mean	pneumatic	2
+conventional mean	pneumatic deflector	1
+abbreviation	pn for joplin	1
+vaccine	pneumococcal	8
+vaccine	pneumococcal vaccine	8
+vaccine	pneumovax	6
+vaccine	pneumococcal conjugate vaccine	4
+vaccine	pneumococcus	2
+vaccine	pneumococcal conjugate	2
+vaccine	pneumococcal conjugated vaccine	1
+vaccine	pneumococcal disease	1
+vaccine	pneumonoccocal vaccine	1
+vaccine	pneumcoccal	1
+vaccine	pneumonia	1
+advanced tool	pneumatic wrench	1
+strain	pnp	2
+secondary effect	pneumothorax	1
+international agency	pnud	1
+script	pnr basics	1
+health risk	pneumonia	3
+rare exception	pneumonia	1
+motor	pneumatic	3
+motor	pneumatically powered motor	1
+motor	pneumatic cylinder	1
+serious case	pneumonia	1
+minor complication	pneumothorax	2
+minor complication	pneumonia	2
+pump	pneumatic pump	2
+pump	pneumatic ejector	1
+viral infection	pneumonia	1
+engineering service	pneumatic conveying	1
+clinic	pneumonia clinic	1
+bacterial infection	pneumonia	70
+bacterial infection	pneumococcal pneumonia	2
+bacterial infection	pneumococcus	1
+bacterial infection	pneumonitis	1
+serious illness	pneumonia	37
+inflammatory condition	pneumoconioses	1
+inflammatory condition	pneumonia	1
+antigen	pneumococcal candidate antigen	1
+antigen	pneumococcal cell surface antigen	1
+civil society organization	pnrc	1
+severe condition	pneumonia	2
+severe condition	pneumothorax	1
+diagnostic technique	pneumococcal serology	1
+adaptation	pneumatophores	1
+common ailment	pneumonia	2
+indirect method	pneumatic otoscopy	1
+physical method	pneumatic compression	2
+area	pneumology	1
+area	png and new caledonia	1
+area	pneumatic cylinder	1
+actuator	pneumatic	23
+actuator	pneumatic cylinder	19
+actuator	pneumatic actuator	5
+actuator	pneumatic valve actuator	2
+actuator	pneumatic-hydraulic cylinder	1
+actuator	pneumatic drive	1
+actuator	pneumatic drive cylinder	1
+actuator	pneumatic ram	1
+actuator	pneumatically driven air piston	1
+actuator	pneumatic control actuator	1
+auxiliary device	pneumatic damper	2
+mechanical system	pneumatic control	1
+severe case	pneumonia	2
+setback	pneumonia	3
+standard product	pneumatic clamp	1
+preventive service	pneumococcal pneumonia	1
+infectious agent	pneumococci	1
+etiology	pneumothorax	2
+etiology	pneumonia	1
+pathologic condition	pneumonia	1
+energy	pneumatic	1
+modern tool	pneumatic air hammer	1
+disease process	pneumonia	5
+malady	pneumonia	3
+open standard	png	2
+mechanical mean	pneumatic	2
+mechanical mean	pneumatic device	1
+health effect	pneumoconiosis	1
+health effect	pneumonitis	1
+archaeological site	pnna shell mound	1
+clinical manifestation	pneumonia with empyema	1
+clinical manifestation	pneumonia myocarditis	1
+codecs	png	1
+serious consequence	pneumonia	2
+serious symptom	pneumonia	4
+state institution	png banking corporation	1
+killer	pneumonia	2
+machinery	pneumatic drill	2
+affliction	pneumonia	4
+corporates	pnc	2
+application program	pnfs	1
+inflammatory disease	pneumonia	1
+acute condition	pneumonia	9
+social indicator	png's main social indicator	1
+mechanical part	pneumatic drive	1
+seal	pneumatic seal	3
+service	pneumonia immunization	3
+physical ailment	pneumonia	2
+benign condition	pneumonia	1
+clinical finding	pneumoperitoneum	1
+clinical finding	pneumobilia	1
+national institution	png defense force	1
+microbe	pneumococci	3
+microbe	pneumococcus	2
+rubber product	pneumatic tire	2
+identifier	pn	1
+medical information	pneumonia	1
+viral disease	pneumonia	6
+automated system	pneumatic tube system	1
+critical item	pneumatic tubing	1
+psychiatric disorder	pnd	1
+disease condition	pneumonia	2
+impressive feature	pneumatic seat height adjustment	1
+fungal disease	pneumocystis carinii pneumonia	2
+standard component	pneumatic equipment	1
+historical monument	pnyx	1
+commercial client	pnc bank	1
+health indicator	pneumonia	1
+life-threatening condition	pneumonia	3
+life-threatening condition	pneumonitis	1
+therapeutic modalities	pneumatic compression	1
+common disorder	pneumonia	1
+medium format	png picture	1
+molecular marker	pna binding molecules for precartilage condensation	1
+rare condition	pneumothorax	1
+rare condition	pneumomediastinum	1
+rare disease	pneumocystis carinii pneumonia	1
+rare disease	pneumocystis pneumonia	1
+serious adverse event	pneumothorax	4
+serious adverse event	pneumonia	3
+medical disorder	pneumonia	2
+communicable disease	pneumonia	13
+medical complication	pneumonia	5
+serious infection	pneumonia	100
+serious infection	pneumocystis pneumonia	2
+serious infection	pneumococcal meningitis	1
+tire	pneumatic radial tire	2
+tire	pneumatic tire	1
+factor	pneumothorax	1
+factor	pnuemonia	1
+factor	pneumomediastinum	1
+service	pneumonia shot	2
+common concern	pneumonia	1
+natural cause	pneumonia	3
+surgical option	pneumonectomy	2
+dependency	png libraries built in a previous guide	1
+local employer	pnc	1
+management option	pneumonectomy	1
+life-threatening complication	pneumonia	8
+life-threatening complication	pneumoperitoneum	2
+life-threatening complication	pneumothorax	1
+Micro-organisms	pneumococcus	1
+prevention measure	pneumococcal	3
+prevention measure	pneumococcal conjugate vaccine	2
+prevention measure	pneumococcal vaccine	1
+single item	pn bag	1
+potential complication	pneumonia	1
+potential complication	pneumothorax	1
+serious adverse effect	pneumothorax	1
+treatment technique	pnf	1
+underlying disease	pneumonia	1
+Comorbidities	pneumonia	4
+web page	pnls wiki	1
+chronic infection	pneumonia	3
+fungal infection	pneumonia	1
+synthetic polymer	pnipam-based polymer	1
+virulence factor	pneumococcal virulence factor	1
+bacterial species	pneumococci	1
+opportunistic infection	pneumonia	24
+opportunistic infection	pneumocystis carinii pneumonia	8
+opportunistic infection	pneumocystis pneumonia	6
+opportunistic infection	pneumocytiis carinii pneumonia	3
+opportunistic infection	pneumocystis carinii	3
+opportunistic infection	pneumocystis jiroveci pneumonia	2
+opportunistic infection	pneumocystis	2
+opportunistic infection	pneumocystic carinii pneumonia	1
+opportunistic infection	pneumocystis carnii pneumonia	1
+opportunistic infection	pneumocystis jerovici	1
+opportunistic infection	pneumonia caused by pnemocystis carinii	1
+opportunistic infection	pneumocistis carnii pneumonia	1
+opportunistic infection	pneumocystis carinii infection	1
+opportunistic infection	pneumocystitis pneumonia	1
+physical system	pneumatic	1
+athletic event	pnc basketball game	1
+Polysaccharides	pneumococcal polysaccharide	1
+auxiliary system	pneumatic system	1
+auxiliary system	pneumatic feed	1
+large bank	pnc financial	2
+large bank	pnc	1
+large bank	pnc bank	1
+large bank	pnc financial services	1
+regional bank	pnc	6
+regional bank	pnc financial services	2
+regional bank	pnc bank	2
+macromolecules	pna	1
+morbidity	pneumocystis carinii pneumonia	1
+morbidity	pneumonia	1
+epidemic	pneumonia	4
+short course	pn one hundred and thirteen  working in an embassy 	1
+invasive method	pneumoencephalography	2
+common illness	pneumonia	6
+local bank	pnb	5
+local bank	pnc bank	1
+pathological process	pneumonia	1
+secondary complication	pneumonia	14
+secondary complication	pneumonia over the course of the flu	1
+surgical complication	pneumonia	2
+surgical complication	pneumothorax	2
+respiratory disease	pneumonia	45
+respiratory disease	pneumoconiosis	3
+respiratory disease	pneumonitis	1
+toxicity	pneumothorax	1
+big bank	pnc financial	2
+commodity item	pnp kit	1
+bacterial pathogen	pneumococci	1
+lung disease	pneumonia	48
+lung disease	pneumoconiosis	3
+lung disease	pneumothorax	1
+serious disorder	pneumonia	1
+utility service	pneumatic	1
+image datum	png	1
+in-house service	pneumatic nailing equipment repair	1
+output format	png	5
+deadly disease	pneumonia	2
+private college	pn college khurda	1
+rare complication	pneumonia	1
+sickness	pneumonia	12
+differential diagnosis	pneumonia	4
+differential diagnosis	pneumatocele	1
+differential diagnosis	pneumothorax	1
+medical emergency	pneumonia	1
+oddity	pneumatic powertools	1
+traumatic injury	pneumothorax	1
+physical illness	pneumonia	1
+serious event	pneumothorax	3
+serious event	pneumonia	1
+therapeutic technique	pnf stretching	1
+serious effect	pneumonia	1
+contagious disease	pneumonia	3
+temporary condition	pneumonia	1
+severe disease	pneumonia	6
+image format	png	80
+image format	pnm	1
+DVDs	pn-xx central region across the top	1
+insult	pneumonia	1
+regional player	pnc financial services group	1
+international bank	pnc bank	1
+international bank	pnc	1
+machine part	pneumatic assembly	2
+popular format	png	3
+secondary symptom	pneumonia	1
+bacterial disease	pneumonia	6
+bacterial disease	pneumococcal pneumonia	1
+bacterial disease	pneumococcal disease from outbreak	1
+common format	png	3
+habitat characteristic	pneumatophore density	2
+field activity	pnvironmental sanitation	1
+service	pneumatic & hydraulic field service	1
+service	pneumonia vaccine	1
+handy tool	pneumatic floor jack made of tractor-trailer suspension airbag	1
+parasitic disease	pneumocystis carinii pneumonia	1
+serious health condition	pneumonia	2
+side issue	pneumonia	1
+study aid	pneumonic device	1
+respiratory symptom	pneumonitis	1
+respiratory symptom	pneumonia	1
+physical complaint	pneumonia	1
+human pathogen	pneumocystis carinii	1
+serious cause	pneumonia	2
+adjunct	pneumatic splint	1
+heart condition	pneumothorax	1
+mechanical equipment	pneumatic demolition hammer	1
+systemic illness	pneumonia	1
+secondary outcome	pneumonia	1
+common infection	pneumonia	9
+common infection	pneumococcus	1
+website tool	pnc bank	2
+fatal disease	pneumonia	4
+sophisticated system	pneumatic	1
+analog device	pneumatic controller	1
+childhood disease	pneumonia	3
+digital format	png	1
+outreach event	pna-sponsored outreach event	1
+serious reaction	pneumonitis	1
+transistor	pnp transistor	2
+acute illness	pneumonia	21
+popular name brand	pny	1
+experimental factor	pna annealing temperature	1
+systemic side effect	pneumonitis	2
+secondary condition	pneumonia	1
+vaccination	pneumonia	1
+vaccination	pneumococcal	1
+vaccination	pneumococcal vaccination	1
+vaccination	pneumonia shot	1
+vaccination	pneumococcus vaccination	1
+systemic manifestation	pneumonitis	1
+systemic manifestation	pneumonia	1
+technical course	pn anatomy	1
+common complication	pneumothorax	2
+common complication	pneumonia	2
+standard format	png	3
+acute disease	pneumonia	11
+medical illness	pneumonia	2
+inflammatory process	pneumonitis	1
+inflammatory process	pneumonia	1
+post-operative complication	pneumonia	4
+post-operative complication	pneumothorax	1
+binary file	png	1
+mortgage lender	pnc	1
+topic	pneumonia	3
+respiratory condition	pneumonia	22
+respiratory condition	pneumothorax	1
+lifting device	pneumatic cylinder	1
+reputable manufacturer	pny	1
+preventable disease	pneumonia	12
+pathogenic organism	pneumococci	2
+pathogenic organism	pneumocystis carinii	1
+respiratory infection	pneumonia	77
+respiratory infection	pneumonitis	1
+adverse outcome	pneumothorax	1
+adverse outcome	pneumonia	1
+repair service	pneumatic	1
+acute effect	pneumonia	1
+compression algorithm	png	1
+health challenge	pneumonia	1
+temperature sensor	pn-junction thermocouple	2
+germ	pneumococcus	1
+inflammation	pneumonia	1
+construction equipment	pneumatic drill	1
+developed nation	png	1
+systemic complication	pneumonia	1
+low-income country	png	1
+common medical condition	pneumonia	1
+research study	pn tomography of the uppermost mantle	1
+embedded device	pnd	1
+machine component	pneumatic system part	1
+public-private partnership	pngv	1
+scientific journal	pnas	1
+engineering discipline	pneumatic	1
+parasitic infection	pneumocystis	2
+sequelae	pneumonia	1
+severe infection	pneumonia	34
+severe infection	pneumocystis pneumonia	1
+severe infection	pneumococcal meningitis	1
+transport system	pneumatic fuel conveyor	1
+intracellular pathogen	pneumocystis carinii	2
+life-threatening disease	pneumonia	5
+secondary infection	pneumonia	41
+secondary infection	pneumocystis pneumonia	1
+secondary infection	pneumococcal bacteremia	1
+conveyor	pneumatic conveyors	2
+dangerous side effect	pneumonia	1
+fungal pathogen	pneumocystis carinii	1
+fungal pathogen	pneumonia pathogen pneumocystis carinii	1
+large island	png	1
+severe illness	pneumonia	14
+severe illness	pneumonia with fatal outcome	1
+field device	pneumatic value	1
+mobile electronic device	pnd	1
+passive element	pneumatic restrictors	1
+technical product	pneumatic belt	1
+topic	pneumatics	1
+topic	pneumatology	1
+topic	pneumonia symptoms	1
+topic	pneumonia treatment	1
+topic	pneumatic net of consciousness	1
+topic	pneumatic conveying	1
+required course	pneumatic aircraft system	1
+disease entity	pneumonia	2
+image file	png	12
+image file	png file	1
+local complication	pneumothorax	1
+local complication	pneumonia	1
+energy storage device	pneumatic	1
+childhood illness	pneumonia	2
+medical disease	pneumonia	2
+output option	png	1
+prestigious journal	pnas	2
+gastrointestinal disease	pneumonia	1
+histologic feature	pneumocyte hyperplasia	1
+industrial equipment	pneumatic	1
+power system	pneumatic	1
+optional device	pneumatic ejectors for printing	1
+multimedia content	png	1
+sophisticated equipment	pneumatic gun	1
+ancillary system	pneumatic	1
+congenital disease	pneumonia	1
+diode	pn diode	2
+art system	pneumatic bumper	1
+infectious condition	pneumonia	4
+respiratory illness	pneumonia	19
+respiratory illness	pneumococcal	1
+analyzer	pna	1
+consumer product company	pnc bank	1
+functional disorder	pneumothorax	1
+urgent situation	pneumonia	1
+classification technique	pnn	1
+clinical syndrome	pneumonitis	1
+famous model	pnina rosenblum	1
+suitable device	pneumatic cylinder	2
+clinical event	pneumonia	1
+life threatening disease	pneumonia	1
+binary datum	png file	2
+opportunistic pathogen	pneumocystis carinii	3
+opportunistic pathogen	pneumocystis jiroveci	1
+preparation method	pneumatic spray	1
+prime mover	pneumatic	1
+high-performance application	pneumatic airbrake tubing	3
+infectious cause	pneumonia	3
+proprietary technology	pneumatic fracturing	2
+topic	pneumothorax	1
+topic	png s history	1
+topic	pneumonia bacterial	1
+topic	pneumonia viral	1
+topic	png s history nature	1
+industrial tool	pneumatic	1
+industrial tool	pneumatic grinding tool	1
+industrial tool	pneumatic cut-off wheel tool	1
+nucleic acid	pna	1
+global variable	pnet name	1
+resilient member	pneumatic spring	1
+theological issue	pneumatology	1
+coalition member	pnc bank	1
+critical condition	pneumonia	1
+procedure-related complication	pneumothorax	4
+procedure-related complication	pneumomediastinum	2
+procedure-related complication	pneumoperitoneum	1
+serious risk	pneumonia	1
+top executive	pnc's top executive	1
+acute infection	pneumonia	7
+regional country	png	1
+affection	pneumonia	2
+extensive procedure	pneumonectomy	1
+immunization	pneumonia shot	2
+immunization	pneumococcal vaccine	1
+immunization	pneumonia	1
+immunization	pneumovax	1
+immunization	pneumococcal	1
+clinical presentation	pneumonia	1
+debilitating condition	pneumonia	1
+drive mechanism	pneumatically driven piston	1
+life-threatening situation	pneumonia of the remaining lung	1
+destructive method	pneumatic hammer	2
+festival favorite	pnc american flag balloon	1
+systemic infection	pneumonia	1
+systemic infection	pneumonitis	1
+web feature	png- eight  transparency 	1
+financials	pnc financial	1
+external driver	pneumatic	1
+motherboard	pn one  sli two 	1
+neural network	pnn	1
+air tool	pneumatic drill	1
+perioperative complication	pneumomediastinum	1
+perioperative complication	pneumothorax	1
+standard file format	png	6
+standard file format	png file	1
+end use	pneumatic tool	2
+hand-held power tool	pneumatic motor	1
+lectins	pna	3
+life-threatening event	pneumonia	1
+pandemic	pneumonia	1
+proprietary item	pneumatic cylinder	1
+pulmonary complication	pneumonia	26
+pulmonary complication	pneumothorax	9
+pulmonary complication	pneumonitis	1
+pulmonary complication	pneumomediastinum	1
+respiratory disorder	pneumonia	5
+chronic issue	pneumonia	1
+input format	png	1
+organic disease	pneumonia	1
+respiratory complication	pneumonia	21
+respiratory complication	pneumothorax	6
+respiratory complication	pneumomediastinum	1
+serious health complication	pneumonia	1
+company	pnc bank	6
+company	pny	6
+company	pnc	5
+company	pnc financial	3
+company	pny technologies	2
+large tool	pneumatic tool	2
+life-threatening illness	pneumonia	2
+preventive intervention	pneumococcal	1
+secondary event	pneumothorax	1
+common file format	png	9
+communication parameter	pn code sequence	1
+hand-held tool	pneumatically powered grinder	1
+pneumatic tool	pneumatic breakers	7
+pneumatic tool	pneumatic screwdriver	1
+pneumatic tool	pneumatic tapping machine	1
+pneumatic tool	pneumatic hammer	1
+pneumatic tool	pneumatic drill	1
+pneumatic tool	pneumatic grinder	1
+pneumatic tool	pneumatic miter saw	1
+pneumatic tool	pneumatic sander	1
+pneumatic tool	pneumatic saw	1
+financial organization	pnc bank	1
+occupational disease	pneumoconiosis	2
+respiratory ailment	pneumonia	7
+simple option	png static icon	1
+source country	png	1
+automated device	pneumatic	1
+great sight	pnc park	1
+underlying illness	pneumonia	1
+basic building block	pnp transistor	1
+electric equipment	pneumatic electric equipment	1
+industry application	pneumatic air pipe	1
+graphic file	png	2
+scourge	pneumonia	1
+severe issue	pneumococcal pneumonia	1
+concomitant disease	pneumonia	1
+grassroots effort	pnhp	1
+industrial valve	pneumatic valve	1
+multimedia format	png	1
+physician group	pnhp	1
+touristic place	pnyx	1
+traditional format	png	1
+electric tool	pneumatic and electric tool	1
+fatal complication	pneumonia	3
+fatal complication	pneumonitis	1
+fatal complication	pneumothorax	1
+grip	pneumatic grip	1
+infectious complication	pneumonia	9
+infectious process	pneumonia	2
+manual therapy technique	pnf	1
+pulmonary disease	pneumonia	10
+top journal	pnas	1
+acute case	pneumonia	2
+industry product	pneu-dart pistol	1
+microelectronic device	pneumatic sensor switch	1
+small file	png images of equation	1
+company	pnd engineers	1
+company	pnm resources	1
+company	png coffee growers federation ltd	1
+company	png coffee exports	1
+banking stock	pnb	1
+communication line	pneumatic communication line	1
+cylinder	pneumatic cylinder	3
+overseas country	png	1
+severe event	pneumonia	1
+acute event	pneumonia	2
+analytical procedure	pnb procedure	1
+bacterial agent	pneumococcus	1
+bank stock	pnc bank corp.	1
+mechanical complication	pneumothorax	4
+mechanical complication	pneumopericardium	1
+raster image	png	2
+accountability mechanism	pntl professional ethics office	1
+infectious illness	pneumonia	6
+medical diagnosis	pneumonia	1
+operative complication	pneumonia	1
+operative complication	pneumocephalus	1
+sublethal effect	pneumatophore damage	1
+chronic lung disease	pneumoconiosis	4
+chronic lung disease	pneumonia	3
+graphic format	png	5
+graphic format	pnm format	2
+launcher	pneumatic projectile launcher	1
+lung condition	pneumonia	4
+popular file format	png	3
+removal technique	pneumatic hammer	1
+dental instrument	pneumatically driven drill	1
+lethal disease	pneumonia	1
+physical intervention	pneumatic compression	1
+preventable condition	pneumonia	1
+routing protocol	pnni	1
+atypical presentation	pneumonitis	2
+benign disease	pneumonia	1
+coexisting condition	pneumonia	1
+construction tool	pneumatic nail gun	1
+CT finding	pneumobilia	4
+inflammatory lesion	pneumonia	2
+life threatening complication	pneumonia	2
+life threatening illness	pnuemonia	1
+secondary disease	pneumonitis	1
+well-known vendor	pnc bank	1
+deformable material	pneumatic material	1
+linear actuator	pneumatic cylinder	5
+linear actuator	pneumatic	1
+privacy issue	pnr	1
+resilient mean	pneumatic cylinder	1
+severe manifestation	pneumonia	1
+adjunctive measure	pneumatic compression device	1
+common file type	png	1
+severe adverse reaction	pneumonitis	1
+world class event	pnb paribas tennis tournament	1
+automatic device	pneumatic	1
+device structure	pn junctions for light emitting device	1
+expensive system	pneumatic	1
+company	pni	1
+company	pnc financial services	1
+company	pnb	1
+livestock disease	pneumonia	1
+minor adverse event	pneumonia	1
+music format	png	1
+Neocons	pnac's bill kristol	1
+priority project	pnp physical assets management	1
+respiratory tract infection	pneumonia	21
+respiratory tract infection	pneumonitis	1
+serious infectious disease	pneumococcal disease	1
+serious infectious disease	pneumocystis pneumonia	1
+serious infectious disease	pneumonia	1
+eco-friendly feature	pneumatic waste disposal system	3
+life-threatening infection	pneumonia	4
+commodity exporter	png	2
+conventional element	pneumatic piston	1
+fragile state	png non-military sources of insecurity	1
+power unit	pneumatic motor	1
+pressurized fluid	pneumatic	3
+U.S. bank	pnc bank	1
+critical case	pneumonia	1
+equipment option	pneumaticejection piston	1
+invasive therapy	pneumatic balloon dilation	1
+junction	pn junction	1
+nail	pneumatically-driven nail	1
+prediction model	pneumonia severity index	1
+procedural complication	pneumoperitoneum	2
+procedural complication	pneumothorax	1
+pulmonary condition	pneumonia	2
+pulmonary condition	pneumothorax	1
+pulmonary disorder	pneumonia	3
+pulmonary disorder	pneumonitis	1
+pulmonary disorder	pneumothorax	1
+tropical place	png	1
+area retailer	pnc bank	1
+hammer	pneumatic hammer	2
+hammer	pneumatic chipping hammer	1
+installation material	pneumatic tubing	1
+installation material	pneumatic fitting	1
+localized infection	pneumonia	2
+maternal disease	pneumonia	1
+systemic adverse event	pneumonitis	1
+automatic system	pneumatic tube station	1
+cell wall component	pneumococcal cell wall component	1
+common file	png	1
+complicat ion	pneumatocele formation	1
+complicat ion	pneumothorax	1
+disease-causing organism	pneumocystis jirovecii	1
+local infection	pneumonia	1
+mechanical injury	pneumothorax	2
+medical event	pneumonia	1
+sarcoma	pnet	1
+secondary sign	pneumosinus dilatans	1
+treatable disease	pneumonia	1
+common entity	pneumonia	1
+fastidious organism	pneumococci	4
+image type	png	2
+image type	png file	1
+upper respiratory infection	pneumonia	10
+delayed effect	pneumoconiosis	1
+effective therapy	pneumatic dilation	1
+invasive infection	pneumonia	8
+lossless format	png	7
+lung disorder	pneumonia	6
+medical discipline	pneumology	1
+noisy equipment	pneumatic drill	1
+open format	png	2
+public sector bank	pnb	1
+acute disorder	pneumonia	1
+bitmap image	png	3
+bitmap image	png file	1
+childhood infection	pneumonia	2
+clinical end point	pneumonia	1
+orthopedic device	pneumatic bed	1
+pacific country	png	2
+remediation technology	pneumatic fracturing	1
+respiratory effect	pneumoconiosis	1
+separate tool	pneumatic jack	2
+XML technology	pnml	1
+alternate format	png	1
+basic health issue	pneumonia	1
+breathing disorder	pneumonia	1
+concurrent condition	pneumonia	1
+dryer	pneumatic dryer	1
+image file format	png	24
+injection technique	pneumatic pressure	1
+opportunistic organism	pneumocystis carinii	2
+opportunistic organism	pneumocystis	1
+quality test	pneumatic test	1
+suitable mechanism	pneumatic cylinder	2
+disease s	pneumoccal disease	1
+disease s	pneumonia	1
+fatal illness	pneumonia	1
+focal infection	pneumonia	5
+nondestructive test	pneumatic test	1
+required accessory	pneumatic solenoid valve	2
+sometimes disease	pneumonia	1
+devastating complication	pneumonia	1
+plant structure	pneumatophores	1
+pneumatic device	pneumatic motor	1
+popular image format	png	17
+product accessory	pneumatic hose	1
+serious manifestation	pneumonia	2
+substratum	pneumatophores	2
+surface antigen	pneumococcal cell surface antigen	1
+vaccine-preventable disease	pneumonia	2
+vaccine-preventable disease	pneumococcus	1
+ventilation device	pneumatic ventilator	1
+well-known disease	pneumonia	1
+concurrent illness	pneumonia	2
+electronic switch	pnp bipolar transistor	1
+frequent complication	pneumonia	1
+long-term health effect	pneumoconiosis	1
+maternal infection	pneumonia	1
+power hand tool	pneumatic grinder	2
+power hand tool	pneumatic hammer	1
+pressure source	pneumatic pressure source	2
+factor	pneumothorax size	1
+resistance device	pneumatic plunger	1
+secondary bacterial infection	pneumonia	12
+sometimes complication	pneumonia	4
+sometimes complication	pneumothorax	1
+surface protein	pneumolysin released during lysis	1
+acute infectious disease	pneumonia	2
+chronic respiratory disease	pneumoconiosis	3
+chronic respiratory disease	pneumonia	1
+common clinical condition	pneumonia	1
+european disease	pneumonia	3
+imaging finding	pneumobilia	1
+neonatal complication	pneumothorax	2
+serious bacterial infection	pneumonia	5
+common pathogen	pneumococcus	1
+recurrent infection	pneumonia	1
+valve type	pneumatic valve	1
+viral or bacterial infection	pneumonia	1
+bacterial virulence factor	pneumolysin secreted by s. pneumoniae	1
+common database	pnc	1
+febrile disease	pneumonia	1
+infectious etiology	pneumonia	2
+lifting mechanism	pneumatic cylinder actuator	2
+lifting mechanism	pneumatic	1
+lung infection	pneumonia	35
+lung infection	pnemonia	1
+lung infection	pneumonitis jiroveci pneumonia	1
+machinery part	pneumatic assembly	1
+nosocomial infection	pneumonia	12
+nosocomial infection	pneumoniaor bronchial infection	1
+operating device	pneumatic cylinder assembly	1
+preventative health service	pneumococcal vaccination	1
+respiratory issue	pneumonia	1
+small airport	pnq	1
+abdominal condition	pneumatosis intestinalis	1
+delayed complication	pneumonia	1
+drive device	pneumatic drive ratchet	1
+excitation source	pneumatic source	1
+intercurrent illness	pneumonia	2
+intracellular organism	pneumocystis	4
+nationalist party	pnv	1
+pneumatic product	pneumatic fitting	1
+pneumatic product	pneumatic cylinders & actuator	1
+pneumatic product	pneumatic cylinder	1
+pneumatic product	pneumatics cylinder	1
+pneumatic product	pneumatic caliper disc brake	1
+pressurized system	pneumatic system	1
+preventable cause	pneumonia	3
+rubber article	pneumatic tire	4
+rubber article	pneumatic tyre	2
+supplementary method	pneumatic pressure	1
+unusual infection	pneumocystis carinii pneumonia	1
+viral and bacterial infection	pneumonia	2
+air source	pneumatic control air	1
+bacterial and viral infection	pneumocystis pneumonia	1
+concomitant illness	pneumonia	1
+curable disease	pneumonia	3
+drive unit	pneumatic	1
+emergent condition	pneumothorax	1
+ENGOs	pnec	1
+fabrication	pneumatic molding	1
+hazardous fluid	pneumatic	1
+infirmity	pneumonia	1
+lethal complication	pneumonia	1
+post operative complication	pneumonia	1
+rubber good	pneumatic tire	1
+tissue injury	pneumonia	1
+traditional bank	pnc bank	1
+auxiliary power source	pneumatic system	2
+dynamic load	pneumatic motor	2
+human illness	pneumonia	1
+key design feature	pneumatic pump-up tyre	1
+preventable illness	pneumonia	2
+Serious sequelae	pneumonia	1
+actuation mechanism	pneumatic	1
+bacterial vaccine	pneumococcal	1
+bacterial vaccine	pneumovax ii	1
+photo format	png	5
+pressure device	pneumatic positioners	1
+prominent bank	pnb	1
+serious medical illness	pneumonia	2
+unicellular eukaryotes	pneumocystis carinii	1
+cell surface antigen	pneumococcal cell surface antigen	1
+clinical indication	pneumonia	2
+common framework	pn	1
+common image format	png	9
+conventional mechanism	pneumatic actuator	1
+critical step	pneumatic air-flow coating of a thin photo-resist layer	1
+frequent infection	pneumonia	1
+inspection activity	pneumatic test	1
+invasive disease	pneumonia	1
+pneumatic component	pneumatic actuator	3
+radiologic finding	pneumothorax	1
+suitable detector	pneumatic	1
+acute respiratory infection	pneumonia	14
+bipolar device	pnp transistor	1
+elongated object	pneumatic line	1
+lethal infection	pneumonia	1
+machine type	pneumatic tool	1
+microbial agent	pneumonia	1
+neglected disease	pneumonia	1
+PSU bank	pnb	2
+public bank	pnb	1
+reliable system	pneumatic-controlled pulp-discharging and load control	1
+reliable system	pneumatic controlled pulp discharging and load controlling system	1
+reliable system	pneumatic controlled pulp-discharging and load control	1
+septic complication	pneumonia	1
+standard library	pneumatics	1
+actuation method	pneumatic	1
+airborne disease	pneumonia	2
+common respiratory disease	pneumonia	1
+corporate headquarters	pnc bank	1
+life-threatening injury	pneumothorax	2
+radical procedure	pneumonectomy	1
+resection	pneumonectomy	1
+respiratory tract disease	pneumonia	5
+respiratory tract disease	pneumonia bronchitis	1
+acute or chronic condition	pneumonia	1
+airway	pneumonia	1
+conventional actuator	pneumatic motor	2
+conventional actuator	pneumatic actuator	1
+conventional actuator	pneumatic cylinder	1
+extracellular pathogen	pneumococci	1
+fastening tool	pneumatic fastening tool	1
+force field	pneumatic force	1
+gram-positive coccus	pneumococci	2
+memory card manufacturer	pny	1
+opportunistic disease	pneumonia	20
+opportunistic disease	pneumocystis carinii pneumonia	1
+picture format	png	10
+popular graphic format	png	5
+seasonal illness	pneumonia	1
+semiconductor application	pn diode	1
+sudden illness	pneumonia	1
+suitable drive mean	pneumatic motor	3
+suitable drive mean	pneumatic actuator	1
+vehicle subsystem	pneumatic system	1
+bacterial or viral infection	pneumonia	2
+chronic inflammatory lung disease	pneumoconiosis	1
+chronic obstructive pulmonary disease	pneumonia	1
+information	pnr	1
+information	pneumatic	1
+conditional cash transfer program	pnpm mandiri	1
+dangerous illness	pneumonia	1
+experimental equipment	pneumatic transport device for sample irradiation	1
+hospital-acquired infection	pneumonia	4
+inflammatory complication	pneumonia	1
+linear motor	pneumatic cylinder	1
+pacific island country	png	1
+potential adverse event	pneumonitis	1
+pressure system	pneumatic suspension systems on bicycle fork	1
+rubber seal	pneumatic rubber seal	1
+solenoid valve	pneumatic solenoid valve	1
+suitable valve	pneumatic	1
+surgical risk	pneumonia	1
+complicated form	pneumothorax	1
+dangerous infection	pneumonia	2
+harvester	pneumatic-type stripper	1
+impact device	pneumatic impactor	1
+infectious fever	pneumonia	1
+intraoperative and postoperative complication	pneumothorax	1
+minor criterion	pneumothorax	1
+preventable and treatable condition	pneumonia	1
+project option	pneumatic device replacement	1
+serious infectious complication	pneumonia	4
+treatable illness	pneumonia	3
+underlying infection	pneumonia	2
+untreated medical condition	pneumonia	1
+actuating mean	pneumatic	3
+actuation mean	pneumatic	1
+assessment system	pneumonia severity assessment system	1
+avoidable cause	pneumonia	1
+bacterial illness	pneumonia	1
+bread-and-butter topic	pneumonia	1
+chronic inflammatory state	pneumocystis infection	1
+common acute illness	pneumonia	1
+common affliction	pneumonia	1
+common bacterial infection	pneumonia	1
+common image	png	6
+common sickness	pneumonia	1
+community-acquired infection	pneumococcal pneumonia	1
+community-acquired infection	pneumonia	1
+curable condition	pneumonia	1
+easily preventable disease	pneumonia	1
+electromechanical actuator	pnuematic actuator	1
+electromechanical actuator	pneumatic actuator	1
+flow control valve	pneumatic valve	1
+graphical file	png file	1
+graphical file	png	1
+inflammatory lung disease	pneumonia	1
+key disease	pneumonia	1
+lung complication	pneumonia	6
+lung complication	pneumothorax	1
+motion device	pneumatic cylinder	3
+normal cause	pneumonia	1
+novel molecule	pna	1
+information	pnr inquiry	1
+event	pneumothorax	2
+physical health concern	pneumonia	1
+picture file format	png	3
+postoperative infection	pneumonia	1
+preventable and treatable disease	pneumonia	8
+prokaryotic cell	pneumococcus	1
+raster graphic	png	1
+rotary actuator	pneumatic motor	1
+routine vaccination	pneumonia vaccine	1
+secondary illness	pneumonia	5
+severe bacterial infection	pneumonia	4
+standard image format	png	6
+uncompressed format	png	1
+Utilizing modalities	pnf stretching	1
+well-known element	pneumatic sensor	2
+acute bacterial infection	pneumonia	1
+air compressor accessory	pneumatic air tool	1
+air pollution control system	pneumatic conveying system	1
+bacterium species	pneumococci	1
+bipolar transistor	pnp transistor	2
+bitmap file	png	2
+bovine disease	pneumonia	1
+cardiopulmonary complication	pneumonia	1
+deep infection	pneumonia	1
+fictional text	pnakotic manuscripts	2
+fluid pump	pneumatic pump	1
+formal diagnosis	pnd	1
+handheld tool	pneumatic handheld tool	1
+image file type	png	5
+image file type	png image	1
+intercurrent infection	pneumonia	7
+lossless file format	png	2
+lung illness	pneumonia	2
+mechanical drive	pneumatic drive	1
+non-cardiac cause	pneumonia	1
+non-chronic condition	pneumonia	1
+output file format	png	1
+picture file	png	2
+pneumatic system	pneumatic systems of motor vehicle	2
+pulmonary manifestation	pneumonitis	4
+raster format	png	10
+raster format	png jpeg	1
+routine vaccine	pneumovax	1
+serious invasive infection	pneumococcal septicemia	1
+severe systemic disease	pneumonia	2
+severe toxic effect	pneumonitis	1
+systemic fungal infection	pneumonia	1
+tissue infection	pneumonia	1
+traditional imaging method	pneumoencephalography	1
+adjustment mean	pneumatic	1
+back-end database	pnc	1
+bitmaps	png	1
+chest injury	pneumothorax	1
+conventional control technique	pneumatic	1
+familial disease	pneumonia	1
+flow component	pneumatic system	1
+image sequence	png	2
+infective condition	pneumonia	1
+interconnection technology	pn diode interconnection technology	1
+large national bank	pnc	2
+lications	pneumonia	1
+life threatening infection	pneumonia	1
+magnesium product	pneumatic tool component	1
+natural enzyme	pnb esterase	1
+neonatal infection	pneumonia	4
+non-life threatening emergency	pneumonia	1
+ordinary disease	pneumonia	1
+parasitic wasp	pnigalio flavipes	1
+photodiode	pn diode	1
+private lending institution	pnc financial services	1
+raster file	png	1
+result disease	pneumonia	1
+science journal	pnas	2
+separation mechanism	pneumatic bolt	2
+severe health complication	pneumonia	1
+static load	pneumatically operable valve	1
+suitable actuator	pneumatic	3
+suitable actuator	pneumatic cylinder	1
+threatening condition	pneumonia	1
+torque tool	pneumatic torque tool	1
+underlying health disorder	pneumonia	2
+underlying lung disease	pneumonia	5
+active disease	pneumonia	1
+acute fever	pneumonia	2
+acute inflammatory condition	pneumonia	1
+airway obstruction	pneumonia	1
+bacterial complication	pneumonia	3
+binary file format	png	1
+bitmap format	png	3
+blue pigment	pnissian blue	1
+case serious complication	pneumonia	1
+chest infection	pneumonia	14
+chief complaint	pneumonia	1
+clinical process	pneumonitis	1
+common communicable disease	pneumonia	1
+deadly complication	pneumonia	2
+driving tool	pneumatically actuated fastener-driving tool	1
+driving tool	pneumatic screw driver	1
+high-impact journal	pnas	1
+high-wear part	pneumatic cylinder	1
+hiv-related illness	pneumocystis carinii pneumonia	1
+inaccessible location	png	1
+large-scale effort	pneumococcal accelerated development	1
+lung abnormality	pneumothorax	1
+pneumonia	pneumococcal pneumonia	1
+post-rfa complication	pneumothorax	1
+recommended vaccination	pneumonia shot	1
+remediation service	pneumatic free product removal system	1
+serious respiratory disease	pneumonia	1
+standard image extension	png	1
+tectonically active area	png	1
+thoracic injury	pneumothorax	5
+today many company	pny	1
+travel vaccine	pneumococcal	3
+uncommon infection	pneumonia	1
+upper respiratory condition	pneumonia	1
+acute febrile disease	pneumonia	2
+adjusting device	pneumatic	1
+air shaft	pneumatic multi-bladder centering shaft	2
+ambulatory care-sensitive condition	pneumonia	1
+bitmap graphic	png	1
+chronic threat	pneumonia	1
+common name brand	pny	1
+compatible format	png	1
+competing event	pneumonia	1
+deep-seated infection	pneumonia	2
+drainage technique	pneumatic compression	1
+event	pneumatic duct rupture	1
+fastener device	pneumatically driven device	3
+fastener device	pneumatic	2
+finished component	pneumatic	1
+immunodeficiency disease	pneumonia	1
+medical name	pneumoconiosis	1
+monochrome image file	png	1
+non-fatal serious complication	pneumothorax	2
+opportunistic fungal infection	pneumocystosis	1
+opportunistic illness	pneumocystis jirovecii pneumonia	2
+opportunistic illness	pneumocystis pneumonia	1
+opportunistic illness	pneumocystis carinii pneumonia	1
+percussion tool	pneumatic hammer	1
+perturbation technique	pneumatic	1
+pneumococcal infection	pneumonia	5
+pulmonary infection	pneumonia	1
+reputed bank	pnb	2
+rubber wheel	pneumatice rubber wheel	2
+serious staphylococcal infection	pneumonia	3
+severity score	pneumonia severity index	1
+south pacific country	png	1
+symptomatologies	pneumonitis	2
+upper respiratory illness	pneumonia	1
+adaptation method	pnn	1
+aids-defining disease	pneumonia	1
+allowed file type	png	1
+asbestos fiber-containing article	pneumatic tire	1
+bitmapped image	png	1
+candidate antigen	pneumococcal candidate antigen	1
+chest illness	pneumonia	1
+chest illness	pneumoconiosis	1
+childhood killer	pneumonia	1
+clinical illness	pneumonitis	3
+common datum format	png	1
+common vaccination	pneumovax	1
+community-acquired respiratory tract infection	pneumonia	1
+complica-tions	pneumonia	1
+contagion	pneumonia	1
+critical complication	pneumothorax	1
+digital picture format	png	1
+disseminated infection	pneumonia	1
+electric hand tool	pneumatic and electric hand tool	1
+idiosynchratic or dose-related effect	pneumonitis	1
+indian railway service	pnr status	1
+light construction equipment	pneumatic hammer	1
+mangy field	pneumatic product	1
+memory module maker	pny optima	1
+mortality indicator	pneumonia	2
+nation's largest bank	pnc financial services group	2
+program	pnrc	1
+program	pngv	1
+occupational lung disease	pneumoconiosis	1
+physiological therapeutic technique	pneumatic massage	4
+pneumatic equipment	pneumatic actuator	1
+pressure medium	pneumatic control gas at an appropriate pressure	1
+pulmonary pathology	pneumonia	2
+pulmonary process	pneumonia	2
+pulmonary process	pneumothorax	1
+pulmonary process	pneumonitis	1
+reactive complication	pneumothorax	2
+rubber fender	pneumatic fender	2
+serious implication	pneumonia	1
+serious viral disease	pneumonia	2
+standard graphic format	png	1
+stretching technique	pnf	1
+tubular article	pneumatic tire	2
+acute and chronic lung disease	pneumonia	2
+acute episode	pneumonia	1
+anaesthesia machine	pneumatical anaesthesia machine	1
+anesthetic complication	pneumonia	4
+bacterial and viral disease	pneumonia	1
+basic illness	pneumonia	2
+basic surgical technique	pneumatic retinopexy	1
+chronic coughcauses	pneumonia	1
+chronic respiratory illness	pneumonia	2
+clamping device	pneumatic cylinder	1
+common bacterial disease	pneumonia	1
+common image type	png	1
+common lung disease	pneumonia	2
+common picture file type	png	2
+common respiratory pathogen	pneumococcus	1
+cooked fruit	pnme puree	1
+dangerous cause	pneumonia	2
+detection mean	pneumatic	1
+disease abnormality	pneumonia	1
+distant infection	pneumonia	1
+easily treatable condition	pneumonia	1
+elastomeric product	pneumatic tire	1
+experimental infection	pneumocystis carinii	1
+extended procedure	pneumonectomy	1
+fungal and parasitic infection	pneumocystic carinii pneumonia	1
+gen-eral disease	pneumonia	1
+gram-positive and gram-negative organism	pneumococci	1
+health maintenance practice	pneumonia vaccine	1
+hybrid architecture	pnn truncated by nearest neighbor	1
+illustrious monument	pnyx	1
+impact wrench	pneumatic impact wrench	1
+infec-tious disease	pneumonia	1
+inflatable model	pneumatic boat	2
+large regional bank	pnc financial services group inc.	1
+latent effect	pneumonia	1
+life-threatening medical condition	pneumonia	1
+lung injury	pneumonia	3
+lung injury	pneumothorax	1
+multilingual society	png	1
+nfections	pneumonia	1
+nucleic acid analog	pna	2
+pathogenic disease	pneumonia	1
+patrilineal society	png	1
+photo file format	png	2
+program	pnc grow up great	1
+pneumatic instrument	pneumatic actuator	1
+popular file	png	1
+post-operative pulmonary complication	pneumonia	2
+predisposedto bacterial infection	pneumonia	1
+pre-existing infection	pnuemonia	1
+pressure mechanism	pneumatic cylinder	3
+prolonged illness	pneumonia	1
+promised feature	png support	1
+rapid detection method	pna-lna clump	1
+raster image format	png	3
+repeated infection	pneumonia	3
+respiratory system disease	pneumonia	1
+screw driver	pneumatic screw driver	1
+secondary health condition	pneumonia	1
+serious and often fatal disease	pneumonia	1
+serious or life-threatening complication	pneumonia	1
+service delivery agency	png waterboard operations	1
+service line product	pneumatic control	4
+severe clinical consequence	pneumonia	2
+severe pathological condition	pneumocystis carinii pneumonia	1
+sophisticated radiographic technique	pneumoencephalography	1
+standard complication	pneumonia	1
+protein nitrogen unit	pnu	0
+well-identified illness	pneumonitis	2
+winter ailment	pneumonia	1
+actuator device	pneumatic system	1
+acute pathology	pneumonia	1
+acute upper respiratory tract infection	pneumonia	1
+advanced detection instrument	pneumatic measuring instrument	1
+bacterial outer membrane protein	pneumolysin	5
+bacterial outer membrane protein	pneumococcal adhesin protein	5
+bees-related band	pnu riff	1
+blood pump	pneumatic pulsatile pump	1
+case complication	pneumonia	1
+chest pathology	pneumothorax	1
+childhood infectious disease	pneumonia	1
+commom graphic format	png	1
+common graphic format	png	3
+curable ailment	pneumonia	1
+developed complication	pneumonia	2
+dust extraction system	pneumatic conveying system	1
+extreme complication	pneumonia	1
+extreme illness	pneumonia	1
+fluid actuator	pneumatic cylinder	1
+fluid actuator	pneumatic piston	1
+good quality electronic component	pnp bipolar transistor	1
+grave disorder	pneumonia	1
+handling component	pneumatic gripper	1
+high status individual	pniese	1
+high volcanic island	png	1
+intercurrent complication	pneumonia	2
+leatherback nesting area	png	1
+life threatening clinical condition	pneumonia	1
+Lossless video codecs	png	1
+lung symptom	pneumonia	1
+medical and surgical condition	pneumonia	1
+Medical cond itions	pneumonia	1
+motion system	pneumatic	1
+motive force	pneumatic	1
+motive force	pneumatic fluid force	1
+notable complication	pneumothorax	3
+open heart surgery pulmonary complication	pneumothorax	1
+piglet disease	pneumonia	3
+pittsburgh attraction	pnc park	1
+pneumatic element	pneumatic valve	1
+pneumatic tire	pneumatic tire for agricultural	1
+popular image file format	png	2
+post-op complication	pneumonia	1
+power mean	pneumatic	1
+preventable or easily curable disease	pneumonia	1
+pulmonary change	pneumonitis	1
+recurrent pyogenic infection	pneumonia	1
+recurring infection	pneumonia	1
+refrigeration part related offer	pneumatic control valve	1
+rotary airlock valve	pneumatic rotary airlock valve	1
+serious clinical condition	pneumonia	1
+serious health illness	pneumonia	1
+serious respiratory illness	pneumonia	1
+serious respiratory illness	pneumonia caused by food	1
+severe invasive infection	pneumonia	1
+severe lung infection	pneumonia	5
+sic device	pn junction diode	1
+spring balancers	pneumatic spring balancers	1
+standard and custom product	pneumatic cylinder	1
+state-of-the-art solution	pneumatic interrogation system pa three 	1
+suitable linear actuator	pneumatic	2
+suitable motor	pneumatic	1
+thoracic surgery	pneumonectomy	1
+urological symptom	pneumaturia	1
+web control equipment	pneumatic & electronic type & accessory	2
+workholding device	pneumatic	1
+air-borne disease	pneumonia	1
+airway symptom	pneumonia	1
+auto garage equipment	pneumatic tool	1
+automatic mean	pneumatic cylinder	1
+Bacterial infection s	pneumonia	1
+building related illness	pneumonitis	1
+butler foundation partner	pnc financial	2
+common post-op complication	pneumonia	1
+complex aircraft system	pneumatic	1
+controllable valve	pneumatic	1
+conventional drive type	pneumatic actuator	1
+countless common patient condition	pneumonia	1
+critical and sensitive component	pneumatic hoses	1
+currently available datum collection system	pneumatic tube	2
+drive option	pneumatic	1
+exhausting disease	pneumonia	1
+fatal bacterial disease	pneumonia	2
+file format option	png	1
+fluid control valve	pneumatic valve	2
+fourth, thoracic lesion	pneumothorax	1
+grease pump	pneumatic grease pump	1
+hand-operated tool	pneumatic pump	2
+hydraulic and pneumatic cylinder	pneumatic tube	1
+illustrated actuation device	pneumatic	1
+invasive H. influenzae infection	pneumonia in child	1
+large size bank	pnb	1
+latest component	pneumatic muscle	1
+linear motion system	pneumatic item	1
+lung resection	pneumonectomy	1
+nasty infection	pneumocystis carinii toxoplasmosis	1
+national agreement	pnr	1
+neurosurgical complication	pneumocephalus	1
+non-neoplastic benign disease	pneumothorax	1
+ordinary infection	pneumonia	1
+organ-specific reaction	pneumonia	1
+parenchymal lung disease	pneumonia	2
+Pneumatic Nailers	pneumatic coil nailers	1
+pneumococcal disease	pneumonia	7
+pneumococcal disease	pneumococci cause invasive pneumococcal disease	1
+polysaccharide vaccine	pneumococcal vaccine	1
+polysaccharide vaccine	pneumovax	1
+popular graphic file	png	1
+positive force	pneumatic	1
+postprocedure complication	pneumothorax	2
+potential serious complication	pneumonia	1
+powered tool	pneumatic	1
+powersource	pneumatic	1
+prenatal insult	pneumonia	1
+pressure mean	pneumatic device	2
+pressure measurement device	pneumoplethysmographic device	1
+PTO application	pneumatic blower	1
+raster mat	png	1
+recommended vaccine	pneumococcal	1
+respiratory case	pneumonia	1
+respiratory infectious disease	pneumonia	2
+roof service	pneumatic ballasting	1
+rubber bladder	pneumatic rubber bladder	1
+serious and life-threatening bacterial infection	pneumonia	1
+serious and life-threatening complication	pneumonia	1
+serious and sometimes fatal infection	pneumonia	2
+serious comp lications	pneumomediastinum  five , six 	1
+serious extra-genital infection	pneumonia	2
+serious MRSA infection	pneumonia	3
+serious opportunistic infection	pneumonia	1
+serious respiratory condition	pneumonia	1
+severe organ manifestation	pneumonia	1
+severe respiratory disease	pneumonia	1
+severe, life-threatening complication	pneumonia	1
+organization	pnc bank	2
+organization	png women's association	2
+organization	pnc financial	2
+suitable drive mechanism	pneumatic cylinder	1
+thrombotic disorder	pnh	1
+TI-2 antigen	pneumococcal capsular pss	1
+top storage device brand	pny	1
+traditional actuation technology	pneumatic	1
+traditional epidemic disease	pneumonia	1
+treatable complication	pneumonia	2
+tropical and infectious disease	pneumonia	2
+ubiquitous fungus	pneumocystis	1
+upper and lower respiratory ailment	pneumonia	1
+user's guide special feature	pnp support	1
+valuable short course	pneumatics	1
+well-known file format	png	1
+world-class talent	pnuma trio	1
+actual surgical procedure	pneumonectomy	1
+actuation technique	pneumatic actuation	1
+acute lower respiratory infection	pneumonia	7
+acute respiratory event	pneumonia	1
+aluminum alloy casting	pneumatic aluminum alloy casting	1
+bacterial or yeast infection	pneumonia	1
+barring complication	pneumonia	1
+basic pediatric condition	pneumonia	1
+cardiac and respiratory condition	pneumonia	1
+causative pathological state	pneumonia	1
+chest condition	pneumonia	1
+Chest trauma	pneumothorax	1
+chronic and concurrent medical condition	pneumonia	1
+chronic respiratory ailment	pneumonia	1
+Clinical illness es	pneumonitis	1
+clonal hematologic disorder	pnh	1
+commercially available connector	pn type	1
+common cardiopulmonary disease	pneumonia	1
+common cold-related disease	pneumonia	1
+common file-format	png	1
+common image extension	png	1
+common photo format	png	1
+comorbidmedical condition	pneumonia	1
+Concom-itantinfections	pneumonia	1
+constant infection	pneumonia	1
+conventional lifting mechanism	pneumatic	2
+conventional pneumatic tool	pneumatic staple gun	2
+conventional pneumatic tool	pneumatic wrench	2
+deferred side effect	pneumonia	1
+delayed postoperative complication	pneumonitis	2
+digital image format	png	1
+eminently treatable and preventable condition	pneumonia	2
+energy accumulation device	pneumatic system	1
+energy accumulation device	pneumatic line	1
+environmental infection	pneumonia	2
+organization	pngwiagdf with the ability	1
+organization	png power	1
+organization	pno	1
+equivalent mechanism	pneumatic cylinder	1
+exposure injury	pneumonia	1
+fastener driving tool	pneumatic nail gun	1
+fastener driving tool	pneumatic tool	1
+fastener-driving tool	pneumatically actuated staple-driving tool	1
+fastener-driving tool	pneumatically actuated nail-driving tool	1
+fluid cylinder	pneumatic cylinder	1
+gas flow	pneumatic air flow	2
+generally general document format	png	1
+high-speed machine	pneumatic drill	1
+hiv-related infection	pneumonia	1
+ICU complication	pneumonia	1
+image form ats	png	1
+incurable contagious disease	pneumonia	1
+infectious condit ion	pneumonia	1
+infectious respiratory disease	pneumonia	1
+inflation	pneumonia	1
+inhalation-related symptom	pneumonia	1
+innocuous medical device	pneumatic compression device	2
+invasive and vaccine preventable condition	pneumococcal disease	1
+invasive bacterial disease	pneumonia	1
+invasive CA-MRSA infection	pneumonia	1
+invasive MRSA infection	pneumonia	2
+lossless image format	png	1
+lung complaint	pneumonia	1
+manual adjustment system	pneumatically operated brake	1
+manufacturing filter regulator	pneumatic filter regulator	1
+measles complication	pneumonia	2
+minor complication event	pneumonia	1
+minor respiratory pathogen	pneumonia virus of mice	1
+montage mountain attraction	pnc field	1
+native file type	png	1
+Neonatal infection s	pneumonia	1
+non life-threatening diagnosis	pneumonia	1
+nonbronchial cystic pulmonary lesion	pneumocystis carinii pneumonia	1
+non-cardiac event	pneumonitis	1
+non-digital game	pnp rpg	1
+non-lossy file format	png	1
+non-lossy format	png	4
+non-malignant cause	pneumonia	2
+obstructive airway disease	pneumonia	1
+once-fatal disease	pneumonia	1
+optional hardware accessory	pneumatically expandable microphone stand	2
+patient's postoperative event	pneumocephalus	1
+photo file	png	1
+physiotherapeutic measure	pneumatic compression	1
+pneumococcal protein	pneumolysin	1
+popular format file	png	1
+popular internet format	png	2
+organization	pna ministry of detainees	1
+organization	pnais	1
+organization	pndc	1
+technique	pnf	10
+technique	pnf stretching	5
+postoperative pulmonary complication	pneumonia	5
+powder handling operation	pneumatic conveying	2
+preventable or easily treatable disease	pneumonia	1
+preventable or treatable disease	pneumonia	3
+pulmonary affection	pneumonia	1
+pulmonary cause	pneumothorax	1
+rare, non-cutaneous manifestation	pneumonitis	1
+rarely tumor	pnet	1
+recurrent sinopulmonary infection	pneumonia	2
+recurring illness	pneumonia	1
+remote and challenging environment	png highlands	1
+respiratory and air-borne disease	pneumonia	1
+respiratory and cardiopulmonary disorder	pneumonia	1
+respiratory system disorder	pneumonia	1
+serious lung infection	pneumonia	2
+serious respiratory infection	pneumonia	2
+serious staph infection	pneumonia	1
+servo mechanism	pneumatic motor	1
+severe fatal complication	pneumonia	1
+severe general disease	pneumonia	1
+Severe lung infection s	pneumonia	1
+severe opportunistic infection	pneumocystis pneumonia	1
+severe pulmonary toxicity	pneumonitis	1
+severe respiratory infection	pneumonia	1
+short-term infection	pneumonia	2
+single action method	pneumatic	1
+single-function consumer device	pnd	1
+sinus infection	pneumonia gonorrhea	1
+socially acceptable disease	pneumonia	1
+sometimes infection	pneumonia	1
+sometimes serious infection	pneumonia	1
+specialty gun	pneumatic grease gun	1
+standard image file type	png	1
+static image file format	png	1
+stroke complication	pneumonia	1
+superior bolting solution product	pneumatic torque wrenches	1
+swing actuator	pneumatic	1
+systemic maternal infection	pneumonia	2
+thin sensor	pneumatic transducer	1
+thoracic manifestation	pneumonitis	1
+thoracic manifestation	pneumothorax	1
+thoracic surgical procedure	pneumonectomy	1
+top philippine bank	pnb	1
+traditional prognostic variable	pn	1
+universal image format	png	1
+upper-respiratory infection	pneumonia	1
+variable pleural disease	pneumothorax	1
+vehicle tire	pneumatic tires for passenger car	1
+vehicle tire	pneumatic vehicle tire	1
+web-friendly format	png for the logo	1
+access-related complication	pneumothorax	1
+active or passive actuator	pneumatic	1
+active valve	pneumatic valve	1
+acute and infectious disease	pneumonia	1
+acute infecti-ous disease	pneumonia	1
+acute katrina-induced issue	pneumonia	1
+acute lethal infection	pneumonia	1
+acute pulmonary affection	pneumonia	1
+acute pulmonary condition	pneumonia	1
+acute pulmonary event	pneumothorax	1
+acute respiratory disease	pneumonia	1
+acute, subacute and chronic inflammation	pneumonia	1
+aid related disease	pneumonia	1
+aids-defining illness	pneumocystis jirovecii pneumonia	2
+aids-related illness	pneumonia	2
+air blow gun related offer	pneumatic tool	1
+air blow gun related offer	pneumatic component	1
+air duster related offer	pneumatic tool	1
+air gun system component	pneumatic control	1
+air impact wrench related offer	pneumatic tool	1
+air impact wrench related offer	pneumatic component	1
+air-driven device	pneumatic actuator	1
+alpha	png	2
+avoidable perioperative complication	pneumonia	1
+bacteremia focal infection	pneumonia	1
+bacterium many serious illness	pneumonia	1
+technique	pneumatic spraying	1
+big listed bank	pnb	1
+bitmap standard	png	1
+body fight illness	pneumonia	1
+bronze fitting related offer	pneumatic fitting	1
+cell mitogens	pneumococcal polysaccharide siii	1
+chronic, long-term ailment	pneumonia	1
+classic aids-defining illness	pneumocystis jirovecii pneumonia	2
+cleco material removal tool	pneumatic drill	2
+clinically significant perioperative complication	pneumothorax	1
+commercially available optical connector	pn type	1
+common endemic disease	pneumonia	1
+common fast signaling protocol	pnni	1
+common respiratory condition	pneumonia	1
+common scourge	pneumonia	1
+common traditional infection	pneumonia	1
+commonly image format	png	1
+compaction machine	pneumatic roller	2
+complimentary line	pneumatic transport	1
+concurrent hib infection	pneumonia	1
+conventional control mean	pneumatic piston	1
+conventional lung surgery	pneumonectomy	1
+cool disease	pneumonia	1
+corollary technology	pneumatic fracturing	1
+correct format	png	1
+critical indication	pneumonia	1
+cserious illness	pneumonia	1
+curable illness	pneumonia	1
+cylinder cover related offer	pneumatic cylinder	1
+cytosolic pneumococcal protein	pneumolysin	3
+digital picture file	png format	1
+distinct inflammatory side effect	pneumonitis	2
+doe lab	pnnl	1
+domestica bank	pnb	2
+donor-site complication	pneumothorax	1
+donut-shaped RNA binding protein structure	pnpase	1
+dreaded affliction	pneumonia	1
+easily-treated illness	pneumonia	1
+flu complication	pneumonia	5
+fluid driven motor	pneumatic motor	3
+flu-related complication	pneumonia	3
+format-specific graphic import component	png	1
+frequent respiratory infection	pneumonia	3
+frequent respiratory system infection	pneumonia	2
+fujifilm photo format	png	1
+technique	pneumatic expulsion system	1
+technique	pna probe	1
+technique	pn unfolding	1
+technique	pneumoencephalography	1
+technique	pneumatically driven pin	1
+gas cylinder related offer	pneumatic cylinder	1
+generally tissue infection	pneumonia	1
+gram-positive pathogen group	pneumococci	2
+hand riveter	pneumatic riveter	1
+hcmv-associated disease	pneumonitis	1
+high-noise construction tool	pneumatic tool	1
+high-speed function	pn synchronization	1
+HNP service	pnc	1
+hospital-related complication	pneumonia	1
+infectious and allergic disease	pneumonia	1
+in-hospital factor	pns	1
+inkscape import format	png	1
+inpatient medical condition	pneumonia	1
+inter-current infection	pneumonia	1
+intercurrent pulmonary affection	pneumonia	1
+international famous journal	pnas	1
+invasive pneumococcal infection	pneumonia	1
+labor saving product	pneumatic telescoping cylinder	1
+large pittsburgh construction job	pnc park	1
+lateral device	pnp transistor	1
+low volume system	pneumatic release line	1
+manufactured splint	pneumatic splint	1
+maternal systemic infection	pneumonia	1
+mat-specific graphic import component	png	1
+mature image compression format	png	1
+medical mortality indicator	pneumonia	1
+microorganism infection	pneumonia	1
+modern file format	png	1
+non force technique	pnf	1
+non-battlerelated malady	pneumonia	1
+non-battle-related malady	pneumonia	1
+non-flexlink component	pneumatic equipment	2
+nonintestinal infection	pneumonia	1
+nonlossy format	png	2
+non-pdf file	png	1
+application	pneumatic	4
+application	pneumatic conveying	3
+application	pneumatically-controlled cylinder	1
+application	pneumatic cylinder	1
+non-uterine infection	pneumonia	1
+open loser	pnra	1
+ore serious infection	pneumonia	1
+output file type	png	1
+overwhelming infection	pneumonia	1
+parenchymal complication	pneumonia	1
+Plant low specificity lectin	pna	2
+Plant low specificity lectins	pna	2
+pleural complication	pneumothorax	1
+pneumatic screwdriver	pneumatic impact screw driver	1
+pneumococcal protein vaccine candidate	pneumococcal surface protein	1
+pneumococcal protein vaccine candidate	pneumococcal surface adhesin	1
+pneumonccocal disease	pneumonia	1
+populare image format	png	1
+portable pneumatic tool	pneumatic fastening tool	2
+post-anaesthetic complication	pneumonia due tohypoventilation	2
+potential surgical complication	pneumonia	1
+pressure testing	pneumatic testing	1
+production type	pneumatic production	1
+protein-protein interacting domain	pnt domain	1
+public equipment	pneumatic pick	3
+pulmonary and respiratory disease	pneumonia	1
+pulmonary complicat ion	pneumonia	1
+radiologic and clinical finding	pneumonia	2
+real life sytems	pneumatics	1
+real-life emergency situation	pneumonia with septic shock	1
+recognition ofclinically life-threatening condition	pneumothorax	1
+rectification element	pn junction	1
+recurrent respiratory tract infection	pneumonia	1
+regulator feature	pnp regulator feature	1
+resistance mean	pneumatic cylinder	1
+respiratory and circulatory disease	pneumonia	2
+respiratory diagnosis	pneumonia	1
+Respiratory pathology	pneumonia	3
+respitory illness	pnemonia	1
+rest associated complication	pneumonia	1
+resurgent infectious disease	pneumococcus	1
+reversible format	png	1
+rexroth component	pneumatic gripper	1
+second infection	pneumonia	1
+semiconductor pump	pneumatic drive pump	4
+serious and possibly fatal condition	pneumonia	1
+serious hib infection	pneumonia	2
+serious life threatening infection	pneumonia	1
+serious nosocomial infection	pneumonia	1
+serious secondary infection	pneumonia	3
+serious, life-threatening complication	pneumonia	1
+serious, potentially life threatening illness	pneumonia	1
+seri-ousproblems	pneumonia	1
+service commander	pn vadm mayuga	1
+severe community-acquired infection	pneumonia	2
+severe upper respiratory infection	pneumonia	1
+severe, life threatening childhood disease	pneumonia	1
+single actuator	pneumatic drive cylinder	1
+sometimes additional sign	pneumonia	1
+sometimes flu complication	pneumonia	1
+sophisticated firm	pnc equity	1
+standard color image format	png	1
+standard detection solution	pneumatic tube	1
+standard ergonomic feature	pneumatic height adjustment	1
+standard pneumatic clamp	pneumatic reactor clamp	1
+standard pneumatic clamp	pneumatic hold-down clamp	1
+standard RC plane term	pnp	1
+stressful illness	pneumonia	1
+suitable two-way actuator	pneumatic cylinder	1
+superimposed pulmonary complication	pneumonia	1
+application	pneumatic braking systems in truck	1
+application	pneumatic tool	1
+temporary or episodic illness	pneumonia	1
+tool changer module	pneumatic & fluid module	1
+tool driver	pneumatic power driver	1
+top U.S. financial institution	pnc	1
+trade-exposed pic	png	1
+traditional occupational disease	pneumoconiosis	1
+traditional single page image	png	1
+transparent image	png	4
+traumatic complication	pneumothorax	1
+typical aid infection	pneumocystis carinii pneumonitis	2
+typical compression algorithm	png	1
+typical file format	png	1
+ubiquitous infection	pneumococcal pneumonia	1
+ubiquitous pathogen	pneumococcus	1
+ultrasonic source	pneumatic drill	1
+uncommon systemic side effect	pneumonitis	1
+unnecessary request	png's	1
+vector network analyzer	pna	1
+vertical semiconductor device	pn junction diode	1
+vicious disease	pneumonia	1
+VSI controller	pnni controller by using the addshelf command with the vsi option	2
+VSI controller	pnni controller	2
+130-decibel sound	pneumatic drill	1
+abstract infectious respiratory disease	pneumonia	1
+actuator cylinder	pneumatic cylinder	1
+acute and chronic pulmonary infection	pneumonia	1
+acute lung injury	pneumonia	1
+adhesive application peripheral device	pneumatic gun solenoid	1
+advancement mechanism	pneumatic hydraulic	1
+aids-defining condition	pneumocystis jiroveci pneumonia	1
+aids-related opportunistic illness	pneumonia	1
+air handling pump	pneumatic pump	1
+air space disease	pneumonia	1
+air spray gun related offer	pneumatic tool	1
+air supply need	pneumatic power	1
+air-borne respiratory disease	pneumonia	2
+air-driven component	pneumatic actuator	1
+air-driven equipment	pneumatic actuator	1
+air-pollution-related ailment	pneumonia	1
+airspace disease	pneumonia	2
+alpha channel-compliant file	png	1
+alternate motive power method	pneumatic	1
+anatomic resection	pneumonectomy	1
+animal pathogenic microorganism	pneumocystis carinii	1
+animal-pathogenic ascomycetes	pneumocystis jirovecii	1
+announcement company	pnc financial services group	1
+antibod-iestoother pneumococcal component	pneumolysin	1
+aspiration-related complication	pneumonitis	2
+backbone-modified oligonucleotide analog	pna	1
+bacterial based illness	pneumonia	1
+balance valve related offer	pneumatic valve	1
+bicontinuous cubic phase	pn three m 	1
+bladder actuator	pneumatic actuator	1
+brad nailer related offer	pneumatic tool	1
+burst setting	pn sequence order	1
+application	pneumatic control	1
+application	pneumatic control valve case	1
+application	pneumatic hoses	1
+application	pneumatic automation	1
+cased hole log	pnl	1
+catalase negative organism	pneumococci	1
+catheter-related immediate-onset complication	pneumothorax	1
+CBC infectious illness	pneumonia	1
+cell-independent vaccine	pneumococcal	1
+chest pain condition	pneumothorax	1
+CHEST problem pulmonary complication	pneumonia	1
+children's risk oflower respiratory infection	pneumonia	1
+chronic pulmonary lesion	pneumoconioses	1
+civilized communication technology	pneumatic network	1
+classifiableextraintestinal disease entity	pneumonia	1
+clinical prediction rule	pneumonia severity index	4
+clinical pulmonary toxicity	pneumonitis	1
+commercially available vaccine	pneumococcal -conjugate	1
+common and important disease	pneumonic pasteurellosis	1
+common bitmapped image format	png	1
+common RAM brand	pny	1
+common related disease	pneumonia	1
+common urgent radiologic finding	pneumoperitoneum	1
+common urgent radiologic finding	pneumothorax	1
+commonly chronic respiratory disease	pneumoconiosis	1
+complementary transistor type	pnp bipolar type	1
+complex GSX & PSX topic	pns board	1
+complicated disease state	pneumonia	1
+complication pulmonary air leak	pneumothorax	1
+complication pulmonary air leak	pneumopericardium	1
+concurrent thoracic injury	pneumothorax	1
+contributory reversible factor	pneumonia	1
+conventional diagnosis	pneumonia	1
+conventional grinder	pneumatic grinder	1
+conventional motor type	pneumatic motor	1
+Conventional photo-detectors	pn junction photodiodes	1
+conventional power-driven impact tool	pneumatic hammer	2
+correctable lesion	pneumonia	1
+cost-effective vaccine	pneumococcal conjugate vaccine	1
+currently available diagnostic method	pneumatic otoscopy	3
+cylinder assembly	pneumatic cylinder assembly	1
+cylinder mechanism	pneumatic cylinder mechanism	1
+D. infectious disease	pneumonia	1
+dangerous and complicated disease	pneumonia	1
+debilitating diving injury	pneumothorax	1
+diaphragm piezometers	pneumatic types in current use	1
+discovery infection	pneumonia	1
+displacement element	pneumatic cylinder	2
+Distance Remote tooling	pneumatic gripper	1
+dotco material removal tool	pneumatic sander	1
+double diaphragm pump	pneumatic double diaphragm pump	1
+droplet precaution pathogen	pneumonia	1
+embedded datum	png file	1
+epidemic warm febrile disease	pneumonia	1
+expansion cylinder	pneumatic cylinder	1
+experienced scholar	pnina abir-am	1
+experimental formfinding method	pneumatically created shape	1
+external power requirement	pneumatic supply	1
+name	pnm resources	1
+fast@track company	pnc	1
+fatal secondary infection	pneumonia	1
+firing mechanism	pneumatic actuator	2
+fit everyday accessory	pneumatic grip	1
+fluid cylinder device	pneumatic cylinder device	1
+format-specific graphic exporter	png	1
+fundamental pneumatic component	pneumatic actuator	2
+gas-solid flow application	pneumatic conveying	1
+graphical analysis tool	pnl profile	1
+grave lung disorder	pneumonia	3
+handy component	pneumatic lifting door	1
+Heavy compaction equipment	pneumatic	1
+heavy graphic format	png	1
+hematological malignancy cryptococcus neoformans infection	pneumonia	1
+high fever	pneumonia	1
+high quality pneumatic sealing element	pneumatic rod sealing elements	1
+high quality pneumatic sealing element	pneumatic piston sealing elements	1
+high rate ofinfectious disease	pneumonia	1
+hose fitting related offer	pneumatic fitting	1
+hospital infection	pneumonia	1
+illness common infection	pneumonia	1
+image file extension	png	1
+inflammatory and degenerative lesion	pneumonia	1
+inherent complication	pneumothorax	1
+intensive condition	pneumonia	1
+intermediate driver	pnp function driver	1
+intermediate driver	pnp filter driver	1
+international broadcasting service	pnn	1
+intra-thoracic complication	pneumonia	2
+intrathoracic injury	pneumothorax	1
+Invasive bac-terialdisease	pneumonia	1
+joint operating entity	pngc power	2
+lethal invasive infection	pneumonia	1
+life-threatening pulmonary complication	pneumothorax	1
+factor	pneumococcal virulence factor	1
+factor	pneumococcal surface protein c	1
+name	pnc financial services	1
+case	pneumonia	3
+case	pneumatic conveying	2
+case	png	2
+case	pneumothorax	2
+local special unit	pnp saf	2
+lossless, non-propriety format	png	1
+low density country	png	2
+lower-respiratory complication	pneumonia	1
+lung probl em	pneumonia	1
+lung-related illness	pneumonia	1
+manufactured rubber equipment	pneumatic rubber	1
+marine pa	pn coiba	1
+marine pa	pn isla de bastimentos	1
+maternal, nonobstetrical infection	pneumonia	1
+maternal, non-obstetrical infection	pneumonia	1
+melanesian society	png	1
+miners occupational disease	pneumoconiosis	1
+mixed alveolar and interstitial process	pneumocystis carinii pneumonia	1
+modernized machine	pneumatic tool	1
+mortal illness	pneumonia	1
+multi-cultural pacific country	png	1
+murine experimental infection	pneumococcal meningitis	1
+muscle energy technique	pnf	1
+nailing machine	pneumatic nailing machine	1
+neonatal ailment	pneumonia	1
+neutral analog	pna	1
+noise-generating unit	pneumatic conveyor	1
+noncancerous lung condition	pneumonia	1
+non-combination vaccine	pneumococcus	1
+nonneuromuscular clinical presentation	pneumonia	1
+non-pregnancy related infection	pneumonia	1
+nonspecific entity	pneumonia	1
+northwest tradition	pnb's nutcracker ballet	1
+nosoco-mialinfections	pneumonia	1
+occasional significant finding	pneumothorax	1
+occupational respiratory disease	pneumoconioses	2
+occupational respiratory disease	pneumoconiosis	1
+online money management tool	pnc virtual wallet	2
+opportunistic infections	pneumocystis carinii pneumonia	1
+opportunistic or serious infection	pneumonia	1
+optional shock suppression device	pneumatic shock absorbers	1
+otherclassifi cation technique	pnn	1
+otherpainful condition	pneumonia	1
+paediatric illness	pneumonia	1
+parasitic or infectious agent	pneumonia	2
+particularly vulnerable to disease	pneumonia	1
+passage different device	pneumatic pump	1
+peptide nucleic acid	pna telomere fish probe	1
+peptide nucleic acid	pna probes for globin reduction	1
+persisting infectious disease	pneumonia	1
+personalized banking solution	pnc's virtual wallet	1
+pleasant typeset output	png image file	1
+pleural process	pneumothorax	1
+pneumatic stapler	pneumatic carton stapler	1
+pneumonia severity assessment tool	pneumonia severity index	2
+polyvalent antigen	pneumococcal polysaccharides	1
+case	pneumocystis pneumonia in a patient with aids	1
+case	pnpm in indonesia	1
+case	pneumonia care	1
+case	pneumonitis in transplant recipient	1
+potential GHG emission source	pneumatic pump	1
+power-operated unit	pneumatic	1
+power-tools	pneumatic wrench	1
+pressure test	pneumatic testing under water	1
+pressure-assisted delivery device	pneumatic	1
+pressurized cylinder	pneumatic cylinder	1
+preventable and curable disease	pneumococcal pneumonia	1
+preventative immunization	pneumonia	1
+progressive, debilitating disease	pneumonia	1
+rare case complication	pneumonia	1
+rare secondary complication	pneumonia	1
+raster map format	png	1
+recommended adult vaccination	pneumococcal	1
+recurrent lung ailment	pneumonia	1
+recurrent lung infection	pneumonia	1
+regular impact noise	pneumatic drill	1
+reoccurring illness	pneumonia	1
+repeated bronchial infection	pneumonia	1
+repeated respiratory infection	pneumonia	9
+respiratory disease process	pneumonia	1
+respiratory tract illness	pneumonia	1
+resporatory issue	pnemonia	1
+restrictive disorder	pneumonia	1
+restrictive lung condition	pneumonia	1
+rotary apparatus	pneumatic motor	1
+routine maintenance work online	pneumatic	1
+rsv-associated lower respiratory condition	pneumonia	2
+savvy new competitor	pnc bank	1
+second, acute respiratory condition	pneumonia	1
+secondary bacterial and viral infection	pneumonia	1
+selectively actuatable linear motor	pneumatic cylinder	1
+separate drive	pneumatic	1
+serious and recurrent bacterial infection	pneumonia	1
+serious flu complication	pneumonia	2
+serious infectious illness	pneumonia	1
+serious invasive strep A infection	pneumonia	1
+serious localized infection	pneumonia	1
+serious lower respiratory disease	pneumonia	4
+serious lower respiratory tract infection	pneumonia	1
+serious or deep tissue infection	pneumonia	1
+serious or invasive pneumococcal infection	pneumonia	1
+serious perioperative complication	pneumonia	1
+serious procedural complication	pneumothorax	1
+serious secondary illness	pneumonia	1
+serious systemic bact erial infection	pneumonia	1
+serious upper respiratory condition	pneumonia	1
+serious, invasive disease	pneumonia	1
+severe and sometimes deadly complication	pneumonia	1
+severe case complication	pneumonia	1
+severe feverish disease	pneumonia	2
+severe hemolytic disease	pnh	2
+severe or recurrent respiratory infection	pneumonia	2
+severe postoperative infection	pneumonia	1
+severe, predominantly respiratory complication	pneumonia	1
+shaped elastomeric object	pneumatic tire for a vehicle	1
+short-term respiratory infection	pneumonia	1
+simple fluid actuator	pneumatic ram	1
+soft actuator	pneumatic actuator	1
+standard image type	png	1
+standard web graphic	png	2
+STL Today A physical ailment	pneumonia	1
+STREPTOCOCCUS PNEUMONIAE pneumococcal infection	pneumonia	1
+successful competitive renewal	pnash center	1
+sudden respiratory illness	pneumonia	1
+suitable activation device	pneumatic	1
+suitable actuating mechanism	pneumatic	1
+suitable actuation device	pneumatic screw	1
+suitable automated driving tool	pneumatic	1
+suitable conventional subsystem	pneumatic	1
+suitable force mechanism	pneumatic actuator	1
+suitable image format	png	1
+suitable motion actuator	pneumatic	1
+supplying pneumatic actuated valve	pneumatic actuated butterfly valve	1
+supplying pneumatic actuated valve	pneumatic actuated ball valve	1
+case	pnc firstside center in pittsburgh	1
+option	pnp os	2
+symptomatic and potentially episodic diagnosis	pneumonia	1
+TB related complication	pneumonia	1
+TE source	pn contaminant	1
+technological rubber article	pneumatic tyre	1
+telomeric marker	pna telomericprobes	1
+temporary serious illness	pneumonia	2
+thermo-sensitive polymer	pnipaamandtheir copolymers	1
+thumbnail format	png	1
+top childhood disease	pneumonia	1
+traditional handling device	pneumatic manipulator	1
+transient nosocomial infection	pneumonia	3
+transit case	pneumonia	1
+translational drive	pneumatic	1
+type pneumococcal disease	pneumococcal pneumonia	1
+type pneumococcal disease	pneumococcal meningitis	1
+typical transplant side effect	pneumonia	1
+uncompressed picture format	png	1
+underlying acute illness	pneumonia	1
+underlying infectious disease	pneumonia	2
+unusual clinical manifestation	pneumonia with empyema	2
+vaccine preventable infection	pneumococcus	1
+vibrating hand-held power tool	pneumatic jack hammer	1
+viscous element	pneumatic dampening element	1
+visio output format	png	2
+web controller option	pneumo hydraulic web edge controller	1
+well-recognized vaccine	pneumovax	1
+well-trained and capable woman	png union mission's child ministries director	1
+wide-gap bipolar semiconductor device	pn-junction diode	1
+winter-related illness	pneumonia	1
+workholding system	pneumatic chuck	1
+world-renowned family hot spot	pnc park	1
+accumulation conveyor	pneumatically actuated accumulation conveyor	1
+acute air leak	pneumothorax	1
+acute inflammatory or infectious condition	pneumonia	1
+acute inflammatoryconditions	pneumonia	1
+acute lower respiratory tract infection	pneumonia	1
+Acute severe infection	pneumonia	7
+advanced HIV disease opportunistic infection	pneumocystis	1
+adverse pathological factor	pni	1
+aids-defi ning condition	pneumocystis jirovecii pneumonia	1
+air use	pneumatic pump	1
+alternate lifting mechanism	pneumatic cylinder	1
+alternate molecule	pna	2
+antibiotic therapy acute disease	pneumonia	1
+anticipated complicat ion	pneumothorax	1
+anticipated complication	pneumothorax	1
+atomiser method	pneumatic	1
+automatic stapler	pneumatic stapler	1
+auto-nailer	pneumatic nailer with adjustable depth control	1
+auxiliary non-monitored safety device	pneumatic sensing edge	1
+aware, bank	pnb	1
+option	pneumatic siren	1
+option	pneumatic drop	1
+option	pneumatic caster	1
+option	pneumatic	1
+BACKGROUND Solid state heterojunctions	pn junction between p-type	1
+bacterial cytolysin protein	pneumolysin	2
+Barotrauma	pneumothorax	1
+basic semiconductor element	pn junction diode	1
+big delinquent account	pnoc's tax liability	1
+biological control parasitic wasp	pnigalio flavipes	1
+bitmap datum file	png	2
+bootstrap entry vector device	pnp isa ethernet controller	1
+botswana preventable disease	pneumonia	1
+Bovine Respiratory Disease	pneumonia	1
+bus subsystem	pneumatic system for door opening	1
+calf health challenge	pneumonia	1
+capsulated organism	pneumococcus	1
+century acute illness	pneumonia	1
+cerebrovascular adverse reaction	pneumonia	1
+chlamydia-associated infection	pneumonitis	1
+chronic hemoglobinuria	pnh	1
+chronic medical condition complication	pneumonia	1
+classic CT sign	pneumatosis of the bowel wall	1
+clearly reversible process	pneumonia	1
+Clinical prediction rule s	pneumonia severity index	1
+closely related MNA analog	pna	1
+cold-related disease	pneumonia	2
+cold-related illness	pneumonia	1
+common image display format	png	1
+common killer	pneumonia	1
+common opportunistic organism	pneumocystis carinii	1
+common radiographic pathology	pneumothorax	1
+community-acquired organism	pneumococci	1
+complementary active device	pnp bipolar transistor	1
+conclusion operative method	pneumonectomy	1
+concomitant pulmonary disease process	pneumonia	1
+contemporary scientific technique	pnf stretching	1
+control system method	pneumatic	1
+conventional fastener driving device	pneumatic nailers	1
+conventional operating mechanism	pneumatic	2
+corporate underwriter	pnc bank	1
+corrosion resistant valve	pneumatic pulp valve	1
+crowd favorite electronic-based band	pnuma trio	1
+cylinder drive	pneumatic	1
+deadly affliction	pneumonia	1
+delicate bacterium	pneumococcus	1
+demolition operation	pneumatic hammering	1
+detailed computational tool	pns solution	1
+differential measurement mechanism	pneumatic	1
+discussion bacterial disease	pneumococcal pneumonia	1
+donor-acceptor type molecule	pna	1
+dreaded infection	pneumonia	1
+drought related disease	pneumonia	1
+dry product tank	pneumatic tank	1
+Dumpers	pneumatic card dumpers	1
+duty unit	pneumatic cylinder	1
+option	pneumatic system	1
+option	pneumatic tire	1
+option	pneumatic tailwheel	1
+option	pneumatic load shelf	1
+group	pnvd	1
+group	pneumococci	1
+efficient lossless codec	png	1
+elderly, typical respiratory pathogen	pneumococci	1
+e-learning application	pnpa cd-rom kit	1
+embodiment external source	pneumatic	2
+empty conduit	pneumatic tube	1
+essential hospital-based prevention strategy	pneumococcal vaccine	2
+exotic and very remote destination	png	1
+expandable plug	pneumatic plug	1
+Extensive pulmonary resection	pneumonectomy	1
+external respiratory signal	pneumatic bellow placed around the chest wall	1
+extra-abdominal condition	pneumonia	4
+extracellular microbial pathogen	pneumocystis carinii	2
+extremely acute respiratory infection	pneumonia	1
+fast-responding flow control valve	pneumatic valve	1
+fatal opportunistic infection	pneumocystis carinii pneumonia	2
+file image file	png	1
+flu related complication	pneumonia	1
+fluid amplifier	pneumatic amplifier	1
+fluid power valve	pneumatic valve	1
+fluid spring	pneumatic	1
+fluid-actuated cylinder	pneumatic cylinder	1
+force-applying device	pneumatic cylinder	1
+frequent chest infection	pneumonia	2
+frequent respiratory disease	pneumonia	1
+FS website	pnw website	1
+gas-solid system	pneumatic conveying	1
+glamorous innovation	pneumatic tyre	1
+government-prodded fuel economy stretch program	pngv	1
+health mining-related disease	pneumoconiosis	1
+heavy mechanical aid	pneumatic drill	1
+hen obvious pathology	pneumonia	1
+high excitation object	pne	1
+high power density actuator	pneumatic muscle actuator	1
+high-temperature superconductor material	pnictide family of iron-arsenic-based compound	1
+hydraulic transducer	pneumatic-hydraulic transducer	1
+hypothermia respiratory cause	pneumonia	1
+Ifa doehasanother illness	pneumonia	1
+impact driver	pneumatic impact driver	1
+impact mean	pneumatic impact hammer	1
+independence great writer	pn oak	1
+indirect damage event	pneumatic duct rupture	1
+industrial tire	pneumatic & solid forklift tire	1
+Infectious complic ations	pneumonia	1
+Infectious illnesse s	pneumonia	1
+inflammatory affection	pneumonia	1
+inflam-matory complication	pneumonia	1
+group	png revival church	1
+group	pnud in honduras	1
+group	pneumatomachians of the fourth century	1
+inherently directional material	pnp junction	1
+inline power tool	pneumatic	1
+integrated manufactured product	pneumatic grain drill	1
+INTRODUCTION respiratory infection	pneumonia	1
+intrusive measurement probe	pneumatic probe	1
+invasive pneumococcal disease	pneumococci cause invasive pneumococcal disease	1
+ious complication	pneumonia	1
+Large medical equipment	pneumonic drill set used in surgery	1
+large, regional player	pnc financial services group	2
+LCST type stimulus sensitive gel	pnipaam gel	1
+leading childhood killer	pneumonia	1
+letter identifiers	pn	1
+life-threatening nosocomial infection	pneumonia	1
+light duty unit	pneumatic spring	1
+Linear drive device	pneumatic cylinder	2
+loss-less format	png	1
+loss-less image format	png	1
+lossless medium file format	png	1
+Lossless optimizers	pngcrush	1
+lossless output image format	png	1
+lot more infection	pneumonia	1
+lower-grade pathogen	pneumocystis carinii pneumonia	1
+lowest-level driver	pnp hardware bus driver	2
+lung affliction	pneumonia	1
+manner serious complication	pneumothorax	1
+mechanical sampling device	pneumatic system	1
+mechanical timer	pneumatic timer	1
+mining disease	pneumoconiosis	1
+monochrome file	png	1
+more-serious infection	pneumonia	1
+nail gun	pneumatic nail gun	1
+national law enforcer	pnp-maritime group	1
+native parasitic wasp	pnigalio	1
+Nocomplica-tions	pneumothorax	2
+non-electrical signal detector	pneumatic	1
+non-fire method	pneumatic	1
+non-lossy image file	png	1
+non-meningeal syndrome	pneumonia with bacteremia	1
+method	pneumatic	5
+method	pneumatic press	2
+method	pneumatic stowing	1
+normal every-day infection	pneumonia	1
+Nosocomial iinfection	pneumonia	1
+nota specific disease	pneumococcal pneumonia	1
+nucleic acid analog probe	pna probe	2
+observed field datum	pnc log	1
+ontario respiratory disease	pneumonia	1
+open group respiratory complication	pneumonia	1
+opportunistic and deadly bacterial infection	pneumonia	1
+optional supporting arm	pneumatic arm	1
+origin coffee	png dark	1
+overt infection	pneumonitis	1
+packet-based communication	pnt	1
+painful respiratory disease	pneumonia	2
+paren-chymallung disease	pneumonia	1
+passenger related enquiry service	pnr status	1
+passive vibration isolation system	pneumatic vibration isolation table	1
+patient-related infection	pneumonia	1
+penicillin now cure disease	pneumonia	1
+percutaneous electrical therapy system	pnt system	1
+peripheral compartment	pns	1
+permanent flow aid	pneumatic vibrator with timed impact	1
+PFIs	png banking corporation	1
+photoshop format	png	1
+piston cylinder assembly	pneumatic spring	1
+plain PS vaccine	pneumovax	1
+pleural injury	pneumothorax	1
+pleural or pulmonary disorder	pneumothorax	1
+pleuropulmonary complication	pneumothorax	1
+pneumatic component related offer	pneumatic fitting	1
+pneumatic dredge	pneuma pump	1
+pneumatic machine	pneumatic doublehead machine	1
+pneumatic working system	pneumatically operated valve	1
+pneumatically-driven actuator	pneumatic cylinder	1
+pneumococcal component	pneumolysin	1
+pneumococcal lesion	pneumonia	1
+pneumonia severity assessment system	pneumonia severity index	1
+pn-junction	pn-junction j three  in fig 	1
+PNPLA family protein	pnpla two 	2
+positive or active elevation device	pneumatic	1
+postoperative respiratory complication	pneumonia	1
+power driven ratchet wrench	pneumatic wrench made by universal tool of  eighteen thousand one hundred and twenty-five  ammi trail 	1
+power line operator	pnm resources	1
+powered ratchet	pneumatic ratchet	1
+pressurized-medium-driven actuator	pneumatic	2
+preventable communicable infection	pneumonia	1
+priest skill	pneuma	1
+proven and available intervention	pneumococcal vaccine	1
+public spending program	pnpm rural program	1
+pulmonary or pleural disease	pneumonia	1
+pulmonary-related condition	pneumonia	1
+pure technological advance	pngv	1
+purpose electric control	pneumatic timer	1
+radially-based network	pnn	2
+rare occasion serious infection	pneumonia	1
+rare, respiratory complication	pneumomediastinum	1
+rare, serious secondary infection	pneumonia	1
+regional or community bank	pnc	1
+regular respiratory infection	pneumonia	1
+repeated lung infection	pneumonia	1
+repertory infection	pneumonia	1
+required ancillary equipment	pneumatic solenoid valve	1
+resilient spacer mean	pneumatic rubber tire	1
+Respiratory complic ations	pneumonia	1
+RSV-related LRIs	pneumonia	1
+rubber tire	pneumatic tire	4
+science related journal	pnas	1
+sealed pneumatic swivel fitting	pneumatic fittings  fourty-eight a 	1
+second yarn twist air device	pneumatic self-twist duo-directional vortex jet	1
+secondary non-monitored protection device	pneumatic sensing edge	2
+secondary pulmonary air leak	pneumothorax	1
+second-rate infection	pneumocystis pneumonia	1
+method	pneumatic pusher	1
+method	pneumatic fracturing	1
+method	pnf stretching	1
+method	pneumonectomy	1
+separate diagnosis	pneumothorax	1
+serious and debilitating complication	pneumonia	1
+serious flu-related complication	pneumonia	2
+serious industrial disease	pneumoconiosis	1
+serious insertion related complication	pneumothorax	1
+serious lung bacterial infection	pneumocystis jiroveci pneumonia	1
+serious stap infection	pneumonia	2
+serious viral illness	pneumonia	1
+serious, potentially life-threatening infection	pneumonia	1
+severe chest disease	pneumonia	1
+severe influenza complication	pneumonia	3
+severe MRSA infection	pneumonia	1
+severe respiratory reaction	pneumonia	1
+severe secondary effect	pneumonia	1
+Severe, extensive lung disease	pneumonia	2
+Severe, recurrent infection	pneumonia	1
+shaped annular rubber article	pneumatic type tire	1
+shelter related disease	pneumonia	1
+sifting device	pneumatic air separator	1
+single-payer advocate	pnhp	1
+site-specific complication	pneumothorax	1
+Sliding mediums	pneumatic membrane	2
+slow diode	pn type diode	2
+small minority complication	pneumonia	1
+SMNH practice	pnc check-up	1
+Solid state heterojunctions	pn junction between p-type	1
+somatic medicine	pneumology	1
+south jersey financial institution	pnc bank	1
+space-occupying condition	pneumothorax	1
+special-purpose optimization program	pngout	1
+standard bacterium	pneumococcus	1
+standard exclusionary rule	pneumocephalus	1
+standard junction semiconductor	pn diode	1
+steroid responsive gene	pnmt	1
+strictly rectilinear device	pneumatic	1
+study benign lesion	pneumonia	1
+sudden severe infection	pneumonia	1
+suitable broadcasting mean	pneumatic gun	1
+super tough species	png black bass	1
+superimposed respiratory infection	pneumonia	1
+superior compression format	png	1
+swine flu related infection	pneumonia	1
+symptomatic fever	pneumonia	1
+t-cell independent vaccine	pneumovax	1
+teacher's forum	pnet forum	1
+third pillar proposal	pnr	1
+third, iatrogenic complication	pneumothorax	1
+thoracic trauma	pneumothorax	1
+tightness test procedure	pneumatic test	6
+today's automated transport solution	pneumatic tube system	1
+trade invention	pneumatic nailguns	1
+transatlantic agreement	pnr	1
+transparent background image	png	1
+triplex-forming molecule	pna	1
+tsunami-related injury	pneumonia	2
+tunneling machine	pneumatic power shovel	1
+uncomfortable experience	pneumoencephalography	1
+ung infection	pneumonia	1
+unrecognized adverse effect	pneumonia	1
+user line	pneumatic	1
+user-unique code	pn code	1
+vaccine-preventable malady	pneumococcal disease	1
+venous access cation	pneumothorax	1
+vertical adjustment mean	pneumatic actuator	1
+vertically disposed translation device	pneumatic cylinder	1
+vibration isolation product	pneumatic	1
+tool	pneumatic tool	9
+tool	pneumatic drill	6
+tool	pneumatic nail gun	4
+tool	pneumatic	3
+tool	pneumatic nail-guns	2
+tool	pneumatic hammer	2
+tool	pneumatic gun	1
+tool	pneumatic and electric hand tool	1
+viral or bacterial illness	pneumonia	1
+weakly distorted datum	png dataset	1
+web file format	png	1
+weighty image file	png	1
+wellness vaccine	pneumonia vaccine	1
+well-studied pneumococcal protein	pneumolysin	1
+WWI illness	pneumonia	1
+tool	pngout	1
+tool	pneumonia severity index	1
+tool	pneumatic chisel	1
+tool	pneumatic grinding tool	1
+tool	pneumatic nailer	1
+tool	pneumatic crimping tools	1
+tool	pneumatic cut-off wheel tool	1
+tool	pneumatic and electric tool	1
+tool	pneumatic nailers for joist hanger	1
+tool	pneumonia patient outcomes research team severity index	1
+tool	pneumatic denailers	1
+tool	pneumatic handheld tool	1
+tool	pneumatic trough	1
+product	pneumatic actuator	9
+product	pneumatic tool	7
+product	pneumatic fitting	7
+product	pneumatic valve	6
+product	pneumatic conveying system	5
+project	png	2
+project	pneumococcal vaccine project	1
+project	pnc operations center	1
+project	pnc park	1
+project	pnt network conversion	1
+artist	pnina salzman	2
+place	pnyx	1
+place	pnw	1
+place	pnc field	1
+technology	pneumatic	3
+technology	pn agent	1
+product	pneumatic cylinder	3
+product	pneupac compressed air dryer	2
+product	pneumatic supplies	2
+product	pneumatic	2
+technology	pneumatic fracturing	1
+technology	pneumoencephalography	1
+technology	pneumatic system	1
+technology	pneumatic removal	1
+technology	pn diode interconnection technology	1
+term	pneumopathy	2
+term	pneuma	1
+term	pneumatology	1
+term	pneumatic refuse collection system	1
+term	pnf	1
+parameter	pn code length n c	2
+parameter	pn pressure	1
+parameter	pn offset	1
+parameter	pneumatic system	1
+system	pneumatic	6
+system	pneumatic and hydraulic system	1
+system	pneumatic pile	1
+system	pneumonia severity index	1
+system	pneumatic positioning system	1
+system	pneumatic seat ejection system	1
+system	pneumatic train line	1
+system	pneumatic unit	1
+system	pneumonia severity assessment system	1
+measure	pneumococcal vaccination	2
+measure	pneumonia care	1
+measure	pneumococcal vaccine	1
+condition	pneumonia	150
+condition	pneumothorax	13
+condition	pneumonitis	3
+condition	pneumoconiosis	2
+condition	pneumocystic pneumonia	1
+condition	pneumopericardium	1
+element	pn junction capacitance	2
+element	pnpn thyristors	2
+element	pneumatic	2
+element	pn diode	2
+element	pneumatic universal fasteners	1
+element	pneumatic dampening element	1
+variable	pn	1
+product	pneumatic drill units & lead screw tapping unit	1
+product	pneumatic equipment	1
+product	pneumatic filter related product	1
+product	pneumatic nailer related product	1
+product	pneumatic air cylinder related product	1
+product	pneumatic coupler related product	1
+product	pneumatic crimping tool	1
+product	pnbc five hundred and twenty   three a grass trimmer 	1
+product	pnd gps related product	1
+variable	pni	1
+variable	pneumococcal-vaccination status	1
+variable	pna	1
+function	png layering for a complex canvas with real depth	1
+function	pneumatic binding	1
+function	pneumatic creasing	1
+function	pneumatic valve control	1
+function	pneumatic pressing	1
+device	pneumatic	9
+device	pneumatic cylinder	3
+device	pneumatic pump	1
+device	pneumatic and electronic device	1
+device	png	1
+device	pneumatically-operated projectile launching device	1
+device	pnp transistor	1
+device	pnpn semiconductor device	1
+device	pneumatic solenoid valve	1
+device	pneumatic strut	1
+device	pneumatic vacuum pump	1
+device	pneumatic system	1
+device	pneumatic piston	1
+device	pneumatic machine	1
+device	pnpn switch	1
+device	pneumatic compression boot	1
+device	pneumatic cushion	1
+brand	pny	2
+concept	pneuma	3
+concept	pns	1
+concept	pneuna	1
+component	pneumatic cylinder	4
+component	pneumatic device	3
+component	pneumatic	2
+component	pneumatic operator	1
+component	pneumatic and mechanic component	1
+component	pneumatic control	1
+component	pneumatic dampener	1
+component	pneumatic package	1
+component	pn - junction diodes transistor	1
+component	pneumatic gripper	1
+component	pneumococcal cell wall component	1
+component	pn-junction diode	1
+component	pnp transistor	1
+related product	pneumatic screwdriver related product	1
+related product	pneumatic gate valve related product	1
+related product	pneumatic nailer related product	1
+related product	pneumatic filter related product	1
+related product	pneumatic coupler related product	1
+related product	pnd gps related product	1
+related product	pneumatic ball valve related product	1
+related product	pneumatic coil nailer related product	1
+related product	pneumatic tool kit related product	1
+related product	pneumatic tire related product	1
+related product	pneumatic tool related product	1
+related product	pneumatic regulator related product	1
+related product	pneumatic butterfly valve related product	1
+related product	pneumatic wheel related product	1

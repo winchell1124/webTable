@@ -1,0 +1,210 @@
+product	qcon	1
+initiative	qc	1
+model	qcr	1
+skill	qc	1
+category	qc inspector	1
+document	qc test reports for batch release	1
+approach	qcd sum rule	1
+idea	qcd factorization	1
+agency	qca	1
+procedure	qcisd	1
+cost	qc	1
+development	qclng lng facility	1
+firm	qc data	1
+requirement	qc	2
+publication	qcwa journal	1
+publication	qcs corrections news	1
+position	qc engineer	1
+concern	qc issue	1
+section	qcm	2
+department	qc	6
+department	qc department	5
+report	qc reports	2
+machine	qc testing machine	1
+language	qcm	1
+record	qc	1
+landmark	qc memorial circle	1
+theory	qcd	3
+service provider	qc inspector	2
+association	qca	1
+plan	qcp	2
+stock	qcom	1
+cell	qc cell	1
+outlet	qcc catering equipment	1
+item	qc sample result	2
+value-added service	qc checklist	1
+framework	qcde committee structure	1
+link	qc library	1
+filler	qcells	1
+lender	qc holdings	2
+physical parameter	qct	1
+support group	qc	1
+management technique	qc	1
+frame	qcif	1
+management system	qc eighty thousand  	1
+file type	qcp ringer	1
+key service	qc assays media control culture	1
+valuable skill	qc process	1
+advanced method	qcd sum rule	1
+video format	qcif	3
+service	qc inspection	3
+electronic part	qcp	1
+transducer	qcm	1
+resolution	qcif	2
+dynamic information	qc control limit	1
+international partner	qcom group	1
+notation	qcf	1
+image format	qcif	1
+service	qc checklist	1
+management position	qc inspector	1
+reform measure	qcc	1
+topic	qc standard	1
+small group activity	qc circle	1
+vocational qualification	qcf	1
+company	qcells	2
+company	qct resources	1
+company	qc holdings	1
+auditor	qcs	1
+specialty organization	qcwa	1
+logic device	qca logic device	1
+quality management tool	qcc	1
+detailed business information	qc location	1
+national and international award	qci national awards	1
+CAD system	qcad	10
+small image	qcif	1
+assay parameter	qc range	1
+potential employer	qchem	1
+testing machine	qc testing machine	1
+equivalent qualification	qcf btec extended diploma	1
+Noninvasive imaging modalities	qct	1
+quality activity	qcc	1
+activity	qc	1
+activity	qcc	1
+improvement activity	qcc	1
+vocoders	qcelp  thirteen k 	1
+qos mechanism	qci	1
+activity	qc circle	1
+improvement measure	qc method	2
+quality improvement program	qcc	1
+acoustic wave device	qcm	1
+formal test	qca optional tests applied in controlled condition	1
+interesting technology	qca	1
+information	qc batch id	2
+PHP framework	qcodo	1
+system value	qcmnrcylmt	1
+system value	qchrid	1
+vitro technique	qcm	1
+cross-functional group	qc	1
+healthcare solution	qc pathfinder hai detection software for hospital	1
+information	qc sampling	1
+front-end process	qc material production	1
+japanese concept	qc circle	1
+customers special requirement	qc	1
+quantum chemistry package	qchem	1
+event	qc music series	1
+event	qcc convention at regional	1
+gauge theory	qcd	1
+task group	qc circle	1
+written test	qca's optional interim test	1
+routine responsibility	qc inventory control	1
+feeder line	qc container	1
+MOSFETs	qc twenty-one 	2
+qualification type	qcf qualification	1
+asymmetric system	qcl	1
+manufacturing related course	qcc	1
+CAD-like apps	qcad	1
+certified product integration	qc eapprove	1
+certified product integration	qc workflow accelerator	1
+local secondary program	qc merit employment council	1
+local secondary program	qc scholars	1
+non-abelian gauge theory	qcd	5
+nonperturbative method	qcd sum rule	1
+QC information	qc chart	4
+quantum field theory	qcd	1
+bone mineral density test	qct	1
+GMP document	qc record	1
+LIS function	qc management	2
+operator request	qc calibration	1
+perishable or temperature sensitive product	qc organism	1
+population-based cancer registry	qcr	1
+post-marketing surveillance function	qc testing	2
+technique	qct	3
+quality related document	qcp	1
+regular lab related work	qc related job	1
+traditional quality method	qc circles	1
+cantilever sensor	qcm cantilever sensor	5
+CDMA coder	qcelp  eight k 	1
+CDMA coder	qcelp  thirteen k 	1
+chinese character input method	qcode input method	1
+technique	qc	1
+nonperturbative technique	qcd sum rule	1
+prominent international lawyer	qc phillipe sands	1
+quality control position	qc manager	1
+quality control position	qc compliance officer	1
+quality control position	qc inspector	1
+stock trading application	qcharts	1
+training cause	qcc	1
+administrative engineering method	qc work	1
+brew-specific sound format	qcelp	1
+CELPvariants	qcelp	1
+certificate system	qcm	1
+high-level method	qcisd	1
+in-house available commercial biosensor tool	qcm	1
+interacting relativistic quantum field theory	qcd	1
+label-free protein detection system	qcm	1
+non-perturbative tool	qcd sum rule	1
+parallel theory	qcd	1
+process participant	qc company	1
+product integration	qc mobile	1
+product integration	qc eapprove	1
+QC activity	qc week	1
+relativistic quantum field theory	qcd	1
+routine QC responsibility	qc inventory control	1
+structural and chemical property	qcm	1
+sub-contractor datum	qc services provided against contractual requirement	1
+third-party testing tool	qc by onyx	1
+accurate scheme	qcisd	1
+Acoustic wave biosensors	qcm	1
+asymptotically free theory	qcd	1
+CELP variant	qcelp	1
+celp-based voice coder	qcelp	2
+commercial quinolines	qcr	1
+court partner	qcs	1
+daily quality control tracking tool	qc task tracker sheet	1
+dedicated datum file	qc file	1
+first, many physical system	qcd	1
+format size	qcif	1
+funding hardware	qcdoc	1
+gauge-fermion system	qcd	1
+good cloth pad	qck	1
+HP testing & monitoring tool	qc	1
+japanese production management technique	qc activity	1
+label-free biosensors	qcm biosensors	1
+massless theory	qcd at high energy	1
+modern quantum field theory	qcd	1
+non-transistor technology	qca	1
+method	qcd sum rule	1
+method	qcd sum-rules	1
+novel proteomic technology	qconcat for the analysis of antibiotic resistance determinants in p. aeruginosa	1
+production improvement team	qcc	1
+quality picture standard	qcif	1
+quantum cascade source	qc laser	1
+quantum theory	qcd	1
+query coordinator	qc on server instance  one hundred and two a 	2
+realistic gauge theory	qcd	1
+method	qc pcr	1
+shear-acoustic technique	qcm	1
+single port AWD	qcm	2
+strong resellers	qcs	1
+tampa form remediation expert	qci inc.	1
+unipolar injection laser	qc laser	1
+vector gauge theory	qcd	1
+tool	qc	2
+tool	qc story	1
+material	qc manuals	1
+technology	qct	2
+technology	qcox-gnd -via	1
+system	qcdoc	1
+system	qc-pcr method	1
+measure	qc	1
+device	qca logic device	1

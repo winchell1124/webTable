@@ -1,0 +1,577 @@
+initiative	w.o.w wall	1
+facility	w.p. scott geriatric day hospital	1
+facility	w. c ? s	1
+source	w. e. vine's expository dictionary	1
+ophthalmologist	w. david larson	1
+exception	w. b. yeats	2
+work	w. e. stephens	1
+work	w. b. yeats's play the king's threshold	1
+work	w. c. handy's st. louis blues	1
+work	w. e. h. lecky	1
+work	w. w. rostow's the stages of economic growth	1
+institution	w. va.	2
+client	w.l.gore & associates	1
+author	w. h. auden	2
+author	w. d. gann	2
+author	w. e. b. du bois	2
+author	w. somerset maugham	2
+author	w. arthur lewis	1
+author	w. rhys jones	1
+author	w. g. spady jr.	1
+author	w. h. ainsworth	1
+author	w. adam mendelbaum	1
+author	w. whewell	1
+product	w.c. related product	1
+author	w. franklin	1
+author	w. pauli	1
+form	w.i.p. tag reconciliation	1
+person	w.e.b dubois	1
+person	w. robins	1
+person	w. e. b. dubois	1
+writer	w. h. auden	9
+writer	w. g. sebald	4
+writer	w. b. yeats	4
+writer	w.e.b griffin	3
+writer	w. w. otey	2
+writer	w. h. hudson	1
+writer	w. c. williams	1
+writer	w. w. meissner	1
+writer	w. s. merwin	1
+writer	w. somerset maugham	1
+writer	w. r. burnett	1
+writer	w. burroughs	1
+writer	w. christ	1
+writer	w.g sebald	1
+writer	w.h auden	1
+writer	w. morris	1
+writer	w. hocking	1
+writer	w. j. cameron	1
+writer	w. l. morton	1
+writer	w. somerset maughm	1
+writer	w. d. ross	1
+writer	w. a. cole	1
+book	w. w. newcomb's the indians of texas	1
+film	w.	2
+business	w.s amusements	1
+band	w.a.s.p	2
+band	w.a.s.p.	2
+scholar	w. f. albright	3
+scholar	w. e. b. du bois	2
+scholar	w. credner	1
+scholar	w. h. r. rivers	1
+scholar	w. k. frazier tyler	1
+scholar	w. e. h. stanner	1
+scholar	w. page keeton	1
+scholar	w. montgomery watt	1
+scholar	w. f. arndt	1
+scholar	w. d. davies	1
+scholar	w. braune	1
+scholar	w. barthold	1
+scholar	w. richard scott	1
+scholar	w. r. ward	1
+scholar	w. jeffrey bolster	1
+scholar	w.e.b dubois	1
+scholar	w.e.b du bois	1
+city	w. va.	3
+firm	w. h. smith	1
+favorite	w. b. yeats	1
+manufacturer	w. & c. scott & sons	1
+manufacturer	w. h. mullins of salem	1
+man	w. t. coleman	1
+man	w. michael mathes	1
+man	w. w. phelps	1
+man	w. v. grant	1
+man	w. a. alcott	1
+man	w. j. ashley	1
+man	w. b. lewis	1
+man	w. sinkler darby	1
+man	w. w. cahill	1
+study	w.w.greg's important pastoral poetry	1
+study	w. sasser	1
+individual	w.e.b dubois	1
+figure	w. b. yeats	5
+figure	w. eugene smith	1
+figure	w. somerset maugham	1
+figure	w. m. branham	1
+figure	w. e. b. du bois	1
+figure	w. d. howells	1
+figure	w. buffet	1
+figure	w. edwards deming	1
+figure	w. h. auden	1
+leader	w. e. b. du bois	2
+leader	w. w. prescott	2
+leader	w. e. b dubois	1
+leader	w. stuart symington	1
+musician	w. axl rose	1
+musician	w. lee hogans	1
+movie	w.	2
+country	w. politically stable country	1
+expert	w. ford doolittle	1
+expert	w. david colby	1
+expert	w. edwards deming	1
+researcher	w. donner denckla of the usa	1
+researcher	w. chan kim	1
+researcher	w. wundt	1
+researcher	w. s. jeter	1
+researcher	w. steve albrecht	1
+researcher	w. r. scott	1
+researcher	w. james	1
+researcher	w. d. strong	1
+variety	w. r. smith	1
+show	w.i.t.c.h.	1
+vendor	w. alton jones campus	1
+store	w. a. zwicker	1
+critic	w. r. johnson	1
+critic	w. edwards deming	1
+critic	w.e.b dubois	1
+critic	w. b. yates	1
+article	w. s. small's introduction of the white rat into psychological research	1
+article	w.c. disposable article	1
+student	w. brown patterson	1
+magazine	w.i.t.c.h	1
+destination	w.  fifty-eight th street town home 	1
+speaker	w. h. hosking	1
+competitor	w. gomez	1
+district	w.  thirty-eight  th 	1
+district	w. colfax	1
+performer	w. c. fields	2
+performer	w. kamau bell	1
+performer	w. earl brown	1
+state	w. bengal	1
+line	w. schillig	1
+luminary	w. c. fields	1
+luminary	w. somerset maugham	1
+luminary	w. b. yeats	1
+theory	w. edwards deming's chain reaction	1
+scientist	w. gray walter	1
+scientist	w. g. hamilton	1
+historian	w. e. b. du bois	1
+historian	w. jansen	1
+historian	w. m. rollo	1
+historian	w. jeffrey bolster	1
+historian	w. k. jordan	1
+teacher	w. pearson	1
+shop	w. h. smith's	1
+personality	w.e.b dubois	1
+authority	w. edwards deming	1
+theorist	w. v. o. quine	1
+large company	w. l. gore	1
+government agency	w.i.c. program	1
+poet	w. h. auden	8
+poet	w. b. yeats	1
+poet	w. s. merwin	1
+poet	w.b. yates longfellow	1
+poet	w. b. yeats in greater depth	1
+poet	w. d. snodgrass	1
+poet	w. h. audenand robert lowell	1
+community organization	w. gray	1
+commentator	w. hays park	2
+commentator	w. k. marshall	1
+road	w. snoqualmie valley	1
+maker	w. osgaard & co.	1
+newspaper	w.i extra news paper	1
+investor	w. r. grace	1
+contemporary	w.e.b du bois	1
+contemporary	w. b. yeats	1
+contemporary	w. h. auden	1
+photographer	w. eugene smith	4
+pioneer	w. d. gann	1
+candidate	w. w. w. awori	1
+philosopher	w. v. quine	2
+philosopher	w. quine	2
+philosopher	w. v. o. quine	1
+philosopher	w. alston	1
+key player	w. rooney	1
+street	w. warren	1
+economist	w. wagner	1
+economist	w. b. reddaway	1
+economist	w. nordhaus	1
+master	w. eugene smith	1
+famous name	w. h. auden	1
+reference	w. chan	1
+reference	w.	1
+route	w.  one hundred and sixty-seven th street 	1
+conductor	w. sawallisch	1
+volunteer	w.v.s.	1
+architect	w. v. morrison	1
+youngster	w. hoy	1
+historical figure	w. e. b. du bois	1
+local artist	w. p. weston	1
+contributor	w. robertson smith	1
+renowned artist	w. leslie bowles	1
+radio station	w.	1
+foundation	w. k. kellogg	2
+foundation	w. k. kellogg foundation	1
+foundation	w. alton jones	1
+well-known company	w. t. coggins pty.	1
+colleague	w. h. lockwood	1
+editor	w. calvin chase	1
+journalist	w. n. ewer	1
+advocate	w. edwards deming	1
+private school	w. cold spring lane's own baltimore jr.	1
+child	w.w.	1
+trip	w.e.b du bois centre	1
+theologian	w. edward glenny of central seminary	1
+item	w. eugene smith s photograph of children in a wood	1
+physician	w. montague cobb	1
+professor	w. t. edwards	1
+music	w.a.s.p.heavy metal music	1
+dealer	w. stokes kirk	1
+executive	w. w. sebald	1
+prominent figure	w. e. b. du bois	3
+area	w. townshend	2
+area	w. wardsboro	2
+area	w. dover	2
+Americans	w. e. b. du bois	1
+plane	w.w.i fighter plane	1
+educator	w. frank swift	1
+senator	w. stuart symington	1
+social group	w.i. a luncheon club	1
+reader	w. j. bate	1
+mentor	w. clement stone	1
+lawyer	w. r. barksdale	1
+street name	w. chestnut	1
+movie star	w. c. fields	1
+voluntary organization	w.r.v.s.	1
+farmer	w. b. gibson	1
+sociologist	w. lloyd warner	1
+well-known figure	w. e. b. du bois	2
+great man	w.e.b du bois	1
+good player	w. h. stacey	1
+funders	w. k. kellogg foundation	1
+contemporary writer	w. macqueen pope	1
+literary figure	w. s. merwin	1
+literary figure	w. d. snodgrass	1
+great teacher	w. e. vine	1
+columnist	w. bruce cameron	1
+guru	w. edwards deming	2
+large chain	w.h smiths	1
+importer	w. & j. sloane	1
+modern artist	w.b yeats	1
+missionary	w. abbot	1
+black leader	w. e. b. du bois	6
+black leader	w.e.b dubois	1
+black leader	w.e.b du bois	1
+history	w. h. smith	1
+blue artist	w. c. clark	3
+numerical technique	w. o. saxton in optik	1
+adventure sport	w.w. kayaking	1
+arm	w. miller	1
+private foundation	w. t. grant	1
+CEOs	w. james mcnerney jr. at  three m co. 	1
+priest	w. l. murray	1
+biologist	w. dwight davis	3
+biologist	w. d. hamilton	2
+publishing house	w. w. norton	2
+bookstore	w. h. smith	1
+bookstore	w.h.smith	1
+prominent writer	w. somerset maugham	1
+settler	w. snowball	1
+professional artist	w. che cartafalsa	1
+compilation	w.k.i.s head twister	1
+progressive	w. wilson	1
+developed market	w. europe	1
+African Americans	w. e. b. du bois	1
+African Americans	w.e.b du bois	1
+local resident	w. h. baldwin	1
+great scholar	w. f. albright	1
+eminent scholar	w. edwards deming	1
+leading figure	w. a. criswell	1
+blue legend	w.c handy	1
+contemporary scholar	w. byron groves	1
+internationally acclaimed artist	w. eddie	1
+literary giant	w. somerset maugham	2
+great classic	w. shakespeare	2
+evangelist	w. s. ingraham	1
+eminent scientist	w. a. jacques	1
+labor leader	w. h. andrews	1
+british writer	w. somer setmaughamand d. h. lawrence	1
+british writer	w. somerset maugham	1
+prominent economist	w. arthur lewis	2
+benefactor	w. j. young	2
+hollywood legend	w. c. fields	1
+contemporary philosopher	w. von leyden	1
+muslim scholar	w. n. arafat	3
+established firm	w. r. grace	1
+notable actor	w.c fields	1
+biographer	w. w. greg	1
+payment service	w.u money transfer	1
+established author	w. h. auden	2
+renowned writer	w. somerset maugham	1
+company	w. l. gore	5
+company	w. t. grant company	2
+notable performer	w.e.b du bois	1
+heavy metal band	w.a.s.p	1
+leading institution	w. holding	1
+leading institution	w. holding company	1
+classical economist	w.a lewis	1
+high profile speaker	w. dave dowrich	1
+modern poet	w. h. auden	2
+company	w.p hilts	1
+company	w. kruk	1
+company	w. l. gore & associates	1
+company	w. r. grace	1
+company	w.l.gore & associates	1
+botanist	w. r. maxon	1
+european writer	w. g. sebald	4
+national foundation	w. k. kellogg foundation	1
+detective	w. collins's sergeant cuff	1
+english poet	w. h. auden	2
+Reinsurers	w. r. berkeley group	1
+prominent member	w. y. fullerton	1
+U.S. manufacturer	w. r. grace	1
+prolific writer	w.e.b dubois	1
+stable country	w. politically stable country	1
+eminent figure	w. b. yeats	1
+local builder	w. w. kimball	1
+tax form	w.c.b. report	1
+Tories	w. churchill	1
+famous teacher	w. pater	1
+large foundation	w. sood n.	1
+reformed theologian	w. g. t. shedd	1
+african american leader	w. e. b. du bois	3
+black writer	w. e. b. dubois	1
+statistician	w. duane evans	1
+proprietor	w. frank hall	1
+african-american writer	w. e. b. du bois	1
+talented newcomer	w. s. gilbert	1
+medical researcher	w. monroe keyserling	1
+others researcher	w. lloyd warner	1
+central character	w.i.t.c.h.-girls	1
+eminent professor	w. norris clarke	1
+greek scholar	w. e. vines	1
+Orientalists	w. irving	1
+commercial gallery	w. scott & sons	1
+natural scientist	w. panofsky	1
+well-known journalist	w. eugene smith	1
+disposable article	w.c. disposable article	1
+activity	w.	1
+black intellectual	w. e. b. du bois	2
+lay leader	w. a. mcgillivray	1
+private owner	w. lindsay everard	1
+popular comic	w. c. fields	3
+street sign	w. emerson	1
+twentieth-century poet	w. b. yeats	1
+inspector	w. t. b. williams of hampton institute	1
+medical historian	w. montague cobb	1
+american great	w. s. merwin	1
+german historian	w. ensslin	1
+inland port	w.va.	2
+tailor	w.w chan	1
+medium pundit	w. buckley	2
+medium pundit	w. safire	2
+quality guru	w. edwards deming	5
+anglo-irish writer	w. b. yeats	1
+free-market economist	w. h. hutt	1
+notable photographer	w. eugene smith	1
+wealthy patron	w. parker	1
+asymptotic method	w.k.b. method for linear recurrence equation	1
+experienced musician	w. a. mathieu	2
+great 80s metal band	w.a.s.p.	1
+hair metal band	w.a.s.p.	2
+hair metal band	w.a.s.p	1
+african american intellectual	w. e. b. du bois	1
+confessional poet	w. d. snodgrass	3
+good study Bible	w. kaiser & d. garrett	1
+modernization theorist	w. w. rostow	1
+music critic	w. wright roberts	1
+quality expert	w. edwards deming	2
+management pioneer	w. edwards deming	1
+parma director	w. herzog	1
+protestant missionary	w.a.p martin	1
+industrial supplier	w. w. grainger	1
+politically stable country	w. politically stable country	1
+classic photographer	w. eugene smith	1
+development theorist	w. arthur lewis	2
+family firm	w. l. gore	1
+Intuitionists	w. d. ross	1
+notable contributor	w. edwards deming	2
+staunch conservative	w. beach thomas	1
+transitional figure	w.c.handy	1
+transitional figure	w. c. handy	1
+white leader	w. d. fard	1
+black architect	w. sidney pittman	1
+great irish writer	w. b. yeats	1
+jazz classic	w. c. handy's famous st. louis blues	1
+mainstream american writer	w. c. heinz	1
+Philosopher s	w. v. quine	2
+prominent black	w.e.b dubois	1
+renowned serious poet	w. h. auden	1
+yorkie breeder	w. j. lucas	1
+academic acquaintance	w. philips davison	1
+business theorist	w. edward deming	1
+careful observer	w. corliss	1
+cricket icon	w.g.grace	1
+first, foreign investment fund	w. l. & ross	1
+holiness preacher	w. b. godbey	1
+large-scale low-cost chain	w. t. grant	1
+legendary trader	w. d. gann	1
+neanderthal man	w. cleon skousen	1
+pioneering intellectual	w. e. b. du bois	1
+porcelain material	w.c. wash basin	1
+real-life element	w.b yeat's poem the stolen child	1
+support service group	w. s. atkins	1
+well-known Americans	w. e. deming	1
+coal operator	w. barker brooks	1
+critical commentator	w. holladay	1
+depression-era journalist	w. j. cash	1
+east-west connection	w. san carlos blvd	1
+electroless process	w. reidel	1
+evangelical name	w. grudem	1
+famous documentary photographer	w. eugene smith	1
+good organic fertilizer	w.o.w plus	1
+graphic novel series	w.i.t.c.h	1
+great foundation	w. k. kellogg	1
+hard-core band	w.a.s.p.	1
+leading evangelist	w. v. grant	2
+left wing writer	w. h. auden	1
+notable theoretician	w. morris	1
+renowned philosopher	w. v. o. quine	1
+organization	w. l. gore	2
+so-called faith healer	w. v. grant	1
+union veteran	w. w. haworth	1
+vaudeville performer	w. c. fields	1
+best executive	w. james mcnerney jr. at  three m 	1
+critically-minded scholar	w. a. camps	1
+experienced evangelist	w. v. grant	1
+great motivational and inspirational speaker	w. clement stone	1
+Jounalists	w. matthews	1
+michigan entrepreneur	w. c. durant	1
+organization	w. i's	1
+practicioners	w. r. burnett	1
+assessment related record	w.t.	1
+cast iron collectible	w. c. davis	1
+conservative-minded southern democratic chair	w. r. poage of agriculture	1
+family life education course	w.a.i.t. workshop for teen	1
+folkloristically-oriented classicist	w. r. halliday	1
+international quality leader	w. edwards deming while at cadillac	1
+intrepid writer	w. h. auden	2
+large american enterprise	w. r. grace	1
+large distribution company	w. w. granger	1
+legendary documentary photographer	w. eugene smith	1
+legendry investor	w. d gann	1
+modern intuitionists	w. d. ross	1
+nationally prominent physician	w. barry wood	1
+negro intellectual	w. e. b du bois	1
+opposite major retailer	w. h. smith	1
+pioneer orchestra teacher	w. otto miessner	2
+present-day bourgeois economist	w. rostow	1
+Prominent stockmen	w. w. hollister	1
+radical Tractarians	w. g. ward	1
+twentieth century critic	w. c. allen	1
+YMCA leader	w. d. weatherford	1
+A.W.U. figure	w. g. spence	1
+africa freedom fighter	w. e. dubois	1
+amateur grower	w. marriott	1
+american consultant	w. edwards deming	1
+befriending famous author	w.b yeats	1
+bourgeois sociologist	w. whyte	1
+brick sidewalk	w. canton	1
+name	w. averill harriman	1
+collectable author	w.e johns	1
+consistent run-getters	w. mcrae	1
+controversial black leader	w. e. b. du bois	1
+curriculum reformer	w. w. charters	1
+Degenerationists	w. cooke taylor	1
+emancipatory medium theorist	w. benjamin	2
+name	w. richards	1
+name	w. h auden	1
+name	w. m. l. de wette	1
+forensic pioneer	w. jerry chisum	1
+gray-headed man	w. r. hill	1
+high-quality department store	w. j. sloane in new york	2
+industry geologist	w. rehrig in the  one thousand nine hundred and seventy 's 	1
+intelligible, individual person	w. h. smith	1
+keen-eyed observer	w. s. burnham	1
+key management expert	w. edwards deming	1
+large consultancy company	w. s. atkins	1
+name	w. b. yeats	1
+name	w. c. handy	1
+name	w. e. b. griffith	1
+name	w. h. auden	1
+case	w. t. grant co	1
+local WCU leader	w. l. bill benefield	1
+male geomorphologists	w. m. davis	1
+maverick religious writer	w. g. t. shedd	1
+metal music	w.a.s.p.heavy metal music	1
+photo luminary	w. eugene smith	2
+product distributor	w.w.grainger for double-digit market share increase	1
+Prominent Pan-Africanists	w. e. b. dubois from the united states	1
+provocative radio broadcaster	w. k. old man henderson	1
+quality management expert	w. edward deming	1
+regular high-street name	w.h.smith	1
+renowned western author	w. l. smith	1
+speculative builder	w. j. payne	1
+today social scientist	w. bradford wilcox of the university of viirginia	1
+today social scientist	w. bradford wilcox of the university of virginia	1
+transformational leadership theorist	w. edwards deming	1
+trinitarian scholar	w. e. vine	1
+Well-known Assyriologists	w. g. lambert	1
+welsh backbencher	w. h. mainwaring	1
+word expert	w. baumgartner	1
+world's most respected photographer	w.eugene smith	1
+19th century popular painter	w. p. frith	1
+african american historian	w. e. b. du bois	1
+african-american figure	w.e.b du bois	1
+allegorical interpretation	w. m. rossetti s of the mental traveller	1
+american language scholar	w. d. whitney	1
+appreciative philosopher	w. k. c. guthrie	1
+bassoonist	w. winstead	1
+black elite	w.e.b dubois	1
+britain post-war archaeologist	w. f. grimes	3
+business history	w. mark fruin	1
+capable P. Ms.	w. bro	1
+contemporary business philosopher	w. edwards deming	1
+curious intersection	w.  four th 	1
+dive retailer	w. w. diving co.	1
+eminent predecessor	w. eugene smith	1
+gap theorist	w. mullinger higgins	2
+gentile scholar	w. d. davies	1
+gentleman writer	w. somerset maugham	1
+good, modern text-book	w. e. lunt's history of england	2
+helen's child	w. b chapman	2
+holiness writer	w. b. godbey	1
+independent gas station owner	w. maxwell	1
+influential british scientist	w. c. mcintosh	1
+irish male poet	w.b.yeats	1
+kidnapping statute	w. va.	1
+largest campus activity	w.i.l.d.	1
+local premium tobacconist	w. curtis draper	3
+marketing-only company	w. b. pellew-harvey & co.	2
+modern european furniture brand	w. schillig	1
+mouth-watering title	w. s. friend's  one thousand eight hundred and eighty-six  pattern book of english hardware 	1
+narrow base	w.o. model	1
+NATIONAL FOOTBALL LEAGUE jersey	w. authentic aaron rodgers jersey l. raji jacket	1
+neo-aristotelian thinker	w. galston	1
+nineteenth-century army observer	w. p. clark	1
+Non-absolutist deontologists	w. d. ross	2
+non-disputed case	w. baptists	1
+oklahoma airway keeper	w. a. rambo	1
+polish folk collection	w. s. kuniczak's the glass mountain	1
+popular seminar speaker	w. gothard	1
+post-war development economist	w. arthur lewis	1
+prairie photographer	w. hanson boorne of calgary	1
+pre decessors	w. l. morton	1
+prominent numismatist	w. elliot woodward	1
+Pushy Americans	w. w. campbell	1
+quaker historian	w. c. braithwaite	1
+quality-management advocate	w. edwards deming	1
+RC scholar	w. schmidt	1
+representative local manufacturer	w. birch	1
+Scholar-critics	w. p. ker	1
+shaft nmounted rocker	w. the mel	1
+socio-political intelligentsia	w.e.b dubois	1
+theoretical literature review economist	w. arthur lewis	1
+time american illustrator	w. t. smedley	1
+time CEOs	w. alton jones	1
+Unificationists	w. farley jones	2
+valid secondary source	w. h. bartsch	1
+victorian-era scholar	w. p. upham	2
+year black intellectual	w.e.b dubois	1
+artist	w. c. handy	1
+artist	w.c.handy	1
+artist	w. h. johnson	1
+artist	w.c handy	1
+material	w.e.s.t system epoxy	1
+place	w. c. reid center	1
+site	w. w. grainger	1

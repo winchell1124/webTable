@@ -1,0 +1,2156 @@
+factor	dc arcing	5
+product	dc generator related product	1
+product	dc electric motor related product	1
+product	dc diaphragm pump related product	1
+product	dc distribution bay	1
+product	dc arc welder related product	1
+product	dc brushless motor related product	1
+product	dc car adapter related product	1
+product	dc charger related product	1
+product	dc ac inverter related product	1
+product	dc air pump related product	1
+product	dc brushless fan related product	1
+product	dc capacitor related product	1
+initiative	dcsf young persons board	1
+initiative	dcdb	1
+initiative	dcu ryan academy	1
+accessory	dc-ac inverters	1
+accessory	dc-dc converter	1
+accessory	dc-in  nine v charger 	1
+accessory	dc twelve  car charger 	1
+accessory	dc gun	1
+accessory	dc rumble	1
+accessory	dc cable charger	1
+accessory	dc joypads	1
+accessory	dc sports exhaust	1
+accessory	dc input	1
+datum	dc component	2
+datum	dct coefficient	2
+datum	dct coefficient conveying dc	1
+datum	dcdb	1
+datum	dc dct coefficient	1
+datum	dc bias of a power supply	1
+resource	dct training	1
+process	dccaffcinadon of coffee	1
+process	dc magnetron sputtering	1
+source	dc comic	1
+source	dc error source	1
+source	dc motor	1
+property	dc conductivity	2
+property	dc share common property	1
+property	dc gain	1
+benefit	dca	1
+game	dc universe online	8
+game	dcuo	5
+reason	dc short	1
+character	dci kim reid	1
+character	dc's superman	1
+character	dci hunt	1
+character	dci jack meadows	1
+work	dc jack repair	1
+model	dcx two thousand four hundred and ninety-six 	1
+model	dc twenty-three  motor head 	1
+model	dcs	1
+model	dcf model	1
+model	dc twenty-three  animal 	1
+model	dcor	1
+model	dcr historic curatorship program for renovation possibility	1
+word	dcs a  ten c keygen 	1
+word	dc unlocker client keygen	1
+word	dcs black shark keygen	1
+situation	dc green building act	1
+institution	dcu	2
+institution	dc.	1
+institution	dc area institution	1
+change	dc power component	1
+client	dcx	1
+client	dc comics	1
+client	dc sports commission	1
+client	dc shoes	1
+client	dch	1
+document	dcerp fact sheet	2
+document	dcsf circular	1
+document	dcfs report	1
+product	dcp related product	1
+product	dcs appliance related product	1
+product	dc shoes	1
+product	dc servo system	1
+product	dc pump related product	1
+product	dc switch related product	1
+product	dcb substrate	1
+product	dcc equipment	1
+product	dc motor gear related product	1
+product	dc pension fund	1
+product	dc power supply	1
+product	dc cord related product	1
+product	dc drive motor related product	1
+product	dc power jack related product	1
+feature	dc-dc converter module	8
+feature	dcc	6
+author	dc wilson	1
+strategy	dca	1
+form	dcp	1
+form	dc  one thousand five hundred and eighty-six  hallyfaxe 	1
+person	dcfs investigator	2
+person	dcru colin	1
+person	dca	1
+person	dc of lockoff records	1
+alternative	dc power supply	1
+alternative	dc voltage	1
+alternative	dc drive retrofit	1
+alternative	dc tie	1
+effect	dc resistance	2
+agency	dca	3
+agency	dcfs	3
+agency	dcr	1
+agency	dc health department	1
+agency	dc department of housing	1
+agency	dced	1
+agency	dcells	1
+agency	dc cooperative extension	1
+object	dce security principal	1
+object	dcom application	1
+symptom	dcb overlay	1
+location	dc glassworks	1
+location	dc armory	1
+location	dc	1
+writer	dc star writer	1
+writer	dc's geoff johns	1
+mechanism	dce	1
+solution	dcom	1
+solution	dcs	1
+feature	dc failure protection	2
+business	dcfs	1
+band	dc talk	7
+band	dc-area latin band	1
+part	dc battery	5
+part	dc motor	4
+part	dc meter	1
+part	dc power jack	1
+part	dc breaker	1
+amenity	dc player	1
+title	dc comics presents	2
+title	dcuo	1
+title	dc vs. mortal kombat	1
+operation	dc motor	1
+agent	dcc	4
+agent	dc one hundred and one 	1
+agent	dcca	1
+circumstance	dcf analysis	1
+cost	dc cabling	1
+feature	dc filter	1
+feature	dc current	1
+feature	dc voltage	1
+development	dc ranch	1
+type	dc motor	2
+type	dca	1
+type	dc-ac	1
+type	dc ten 	1
+city	dc	3
+city	dc area	1
+celebrity	dc's own mayor adrian fenty	1
+celebrity	dc talk	1
+venue	dc armory	1
+venue	dc salsa congress	1
+venue	dcu center	1
+venue	dc tavares	1
+venue	dc improv	1
+criterion	dc nominal power	1
+firm	dc's howrey & simon	1
+firm	dch scotland	1
+firm	dcm data products	1
+job	dcfs caseworker	1
+test	dc hipot	2
+test	dc standby current	1
+manufacturer	dc sports	1
+feature	dc auxiliary power	1
+attribute	dcb	1
+publication	dc's local gbltq newspaper the washington blade	1
+publication	dc website	1
+publication	dc magazine	1
+compound	dcm	3
+compound	dca	2
+compound	dce	1
+compound	dcp	1
+position	dcp coordinator	1
+individual	dcu's joker	1
+individual	dcita	1
+website	dc curbed	1
+website	dc theatre scene in washington dc	1
+figure	dc direct's despero	1
+figure	dc direct action figure	1
+unit	dcu	1
+unit	dc brick	1
+unit	dc operations	1
+unit	dcl polyester	1
+unit	dcs	1
+basic	dc converter	1
+musician	dc talk	2
+innovation	dcom	1
+innovation	dc arc technology	1
+mean	dc motor	1
+instance	dc area	1
+team	dc united	6
+team	dc arsenal	1
+entity	dc public schools	1
+entity	dc public libraries	1
+style	dc	1
+expert	dcf regional resource group	1
+feature	dct coefficient	1
+feature	dcom ninety-eight 	1
+feature	dc power jacks for a small additional fee	1
+feature	dc nulling servo	1
+feature	dc circuit breaker	1
+feature	dc switch	1
+feature	dc voltage filaments on the preamp tubes for low-noise operation	1
+phenomenon	dc drift	1
+region	dcb	1
+concern	dc voltage drop	3
+partner	dcgs	1
+partner	dca	1
+standard	dct-based digital video coding standard	1
+standard	dc-lib  eighty-three 	1
+standard	dce	1
+advanced feature	dcs digital code squelch	1
+club	dc road runners club	2
+club	dc front runners	1
+club	dc st. gallen	1
+vendor	dcs component vendor	1
+design	dc-coupled differential amplifier design	1
+store	dc shoe	2
+customer	dc staff	1
+customer	dcx-chol enterprises	1
+vehicle	dc three 	2
+effort	dc animation effort	1
+label	dc recordings	1
+department	dcri	2
+department	dcal	1
+department	dcms	1
+issue	dc power consumption	2
+scheme	dcms-funded creative partnerships program	1
+supply	dc wall adapter power supply	1
+restaurant	dc coast	1
+chemical	dcpa benefin	1
+report	dcr	3
+party	dc energy	1
+offer	dc micro motor related offer	1
+offer	dc welder related offer	1
+offer	dc adaptor related offer	1
+offer	dc contactor related offer	1
+offer	dc pump related offer	1
+machine	dc brushless electromagnetic rotary machine	1
+machine	dc generator	1
+competitor	dc comics	1
+competitor	dcs	1
+stakeholder	dcaa	1
+issue	dc isolation	1
+issue	dcaa	1
+brand name	dc shoe	6
+corporation	dc comics	1
+law	dc ordinance	1
+law	dc's consumer protection statute	1
+variation	dcba for desi confused by america	1
+difference	dc cab control system	1
+control	dcsops validation of requirements for additional land	1
+neighborhood	dc's dense neighborhood	1
+line	dc origins	1
+line	dc universe classics	1
+line	dcl	1
+producer	dc project	1
+algorithm	dcop search algorithm	1
+series	dc copycat series	1
+series	dc's crisis on infinite earths	1
+car	dcm-daewoo cielo	1
+car	dc ambroid	1
+car	dc five 	1
+rule	dcr pt  thirty-nine a 	1
+rule	dc for the different types of drink	1
+measurement	dc level	1
+issue	dcom component issue	1
+everything	dc appliance	1
+protocol	dcom	5
+protocol	dccp	3
+protocol	dcom & iiop	1
+protocol	dcon	1
+protocol	dce rpc	1
+protocol	dc lin	1
+protocol	dce	1
+protocol	dcn	1
+bank	dcb	1
+card	dci promotional card	1
+employer	dc leisure	1
+top brand	dc shoes	2
+arrangement	dc	1
+molecule	dc-sign	1
+molecule	dc-expressed surface molecule	1
+molecule	dc maturation-related molecule	1
+molecule	dc cell-surface molecule	1
+operator	dc leisure	1
+medium	dcc	1
+toy	dc direct	1
+shop	dcc supplies	1
+account	dc lottery	1
+account	dc shoe	1
+standard feature	dct  two thousand   comfort control 	1
+paper	dcf record	1
+basic information	dchhs telephone directory	1
+factor	dc high voltage redundancy	1
+factor	dc maturational status	1
+factor	dc side filter	1
+local organization	dc chapter of girls inc.	1
+NGOs	dc-cam	1
+NGOs	dc-based international food policy research institute	1
+forum	dcc meeting	2
+forum	dcurbanmom in paris	1
+talent	dc talk	1
+signal	dc current	2
+signal	dc signal	1
+signal	dc power	1
+signal	dcd	1
+signal	dc level	1
+government agency	dcaa	4
+government agency	dc public schools	1
+government agency	dc public library	1
+government agency	dcnr	1
+government agency	dclg	1
+government agency	dcma	1
+gene	dcc	2
+gene	dcx	2
+page	dc comic page	1
+great feature	dc two 	1
+web site	dc resource	1
+appliance	dc television	1
+appliance	dc electronic appliance	1
+safety feature	dc overloads	2
+safety feature	dc over voltage	1
+safety feature	dc input reverse	1
+safety feature	dc under voltage	1
+community organization	dc tenant advocacy coalition	1
+community organization	dc office of the tenant advocate	1
+specification	dc performance specification	1
+specification	dc resistance	1
+specification	dc concern	1
+specification	dc-gain	1
+professional organization	dca in the region	1
+contaminant	dce	2
+electronic device	dc player	1
+marker	dc activation marker	1
+methodology	dcf	1
+command	dcl command set	1
+third party	dcg	1
+issue	dc security issue	1
+city attraction	dc shopping mall	1
+design feature	dc distribution	1
+add-ons	dc power source	1
+aircraft	dc- ten 	12
+aircraft	dc- nine 	8
+aircraft	dc ten 	6
+aircraft	dc- three 	6
+aircraft	dc nine 	4
+aircraft	dc- eight 	4
+aircraft	dc three 	3
+aircraft	dc eight 	2
+aircraft	dc two 	1
+aircraft	dc- ten f 	1
+aircraft	dc six 	1
+aircraft	dc- six 	1
+aircraft	dc- three s in the photos below use long wire antennas for the radio compass 	1
+establishment	dcae cosford	1
+contemporary	dc talk	1
+quantity	dc voltage	2
+quantity	dc current	1
+solvent	dcm	8
+heroes	dc's cool ``b grade'' heroes	1
+inhibitor	dcmu	1
+race	dc mackay stakes	1
+race	dc marathon	1
+publisher	dc comics	6
+publisher	dc entertainment	1
+publisher	dc subsidiary vertigo	1
+national organization	dcsf	1
+Celebs	dc don juan	1
+board	dc-power board	1
+board	dccomics board	1
+board	dc chamber of commerce	1
+folks	dc medium folks	1
+infrastructure	dcom	1
+tissue	dc canbefoundinmanynonlymphoid tissue	1
+non-profit organization	dca	1
+load	dc power supply	2
+load	dc motor	1
+big company	dc comics	1
+trade	dc's batwoman elegy	1
+local group	dc celiacs	1
+assumption	dcf variable assumption	1
+performance	dc caribbean carnival pan jam	1
+reagent	dcc	8
+software package	dcal	1
+circuit	dcc circuit	2
+circuit	dc black pride	2
+circuit	dc voltage protection	1
+circuit	dc-dc converter	1
+circuit	dc rectifier circuit	1
+circuit	dc electrical circuit	1
+industrial application	dcs system	1
+large corporation	dca limited	1
+version	dc- ten  twin 	1
+server	dchp server	1
+supporter	dcu professor brian mccraith	1
+famous brand	dcuk	2
+practical consideration	dc biasing	1
+optional feature	dc power supply	2
+item	dc main	1
+item	dc motor	1
+item	dcon sdram	1
+item	dc battery charger	1
+item	dcfwi calendar	1
+item	dc motor driver	1
+item	dc power	1
+donor	dci	1
+state agency	dca	2
+state agency	dcca	2
+state agency	dcnr	1
+state agency	dcr	1
+state agency	dcal	1
+artiste	dc talk	1
+great product	dc motor	1
+school activity	dcra shooting team	1
+blogs	dcist	3
+well-known brand	dc sports	1
+apparatus	dc-dc converter	1
+apparatus	dc magnetron sputtering apparatus	1
+innovative feature	dc drive technology	1
+energy source	dc arc	2
+small business	dc-based temps & co.	1
+school district	dcps	1
+map	dc two 	1
+quality brand	dc shoes & reef	1
+valuable information	dc voltage	1
+simple tool	dc meter	1
+design parameter	dc phase shift	1
+traditional technique	dct method	1
+latest technology	dc transmission	1
+communication system	dcs  one thousand eight hundred  system 	1
+communication system	dcs one thousand eight hundred  system 	1
+essential service	dcs essential service	1
+toxin	dcvc metabolite	1
+item	dcrc hoodies	1
+item	dcu	1
+item	dc auto fan	1
+item	dc issue	1
+tour	dc party shuttle	1
+key component	dc photocathode gun	1
+software tool	dc synthesis compiler	1
+embodiment	dc power	1
+system component	dc connector	1
+optional accessory	dc input	3
+big brand	dc accessories	1
+big brand	dc comics	1
+wrestler	dc drake	1
+identifiers	dce uuid	1
+identifiers	dce uuid in a non-hl seven  context 	1
+external device	dc lighting	1
+system parameter	dc master signal	2
+tournament	dce nations	1
+tournament	dc classic	1
+leading company	dcm	1
+practical application	dc-dc converter	1
+parasite	dcide privacy companion	1
+owner	dc comics with batman	1
+entrepreneur	dc fawcett	1
+fault	dc type fault	1
+support group	dcmc	1
+advocate	dc's center for science in the public interest	2
+top name	dc sports	1
+clothes	dc shades jacket	2
+union	dc  thirty-seven 	1
+detector	dc insensitive detector	1
+electronic product	dc	2
+subsystem	dc-to-ac inverter	2
+government department	dcms	3
+government department	dcsf	1
+consumer	dc student	1
+modern technique	dcr sensing	1
+architecture	dcom	1
+performance parameter	dc accuracy	1
+electrical device	dc motor	1
+electrical component	dc motor	2
+operating parameter	dcp operating parameter	1
+operating parameter	dc restorer clamp speed	1
+comic	dc's batman	1
+comic	dc comics	1
+comic	dc marvel even anime	1
+comic	dc's superman	1
+comic	dc curry at pepper belly's	1
+support system	dc  twenty  see also the discussion in section  three . three  advantages and disadvantages with house load operation capability  sixty-five  power 	1
+support system	dc power	1
+receptor	dc-sign	1
+receptor	dc endocytic receptor	1
+receptor	dc express pattern recognition receptor	1
+receptor	dc ag receptor	1
+folder	dcim	1
+corporate client	dc comics	2
+cytokines	dc's secrete different cytokines	1
+outside agency	dcp	1
+outside agency	dcf	1
+power source	dc battery	4
+power source	dc power supply	3
+power source	dc generator	2
+power source	dc-dc converter	2
+power source	dc battery power	1
+power source	dc voltage battery	1
+power source	dc sources of a variety of frequency	1
+power source	dc electric motor	1
+power source	dc current source	1
+power source	dc voltage	1
+power source	dc source	1
+area	dc metro area	2
+area	dc area	1
+lens	dc auto iris lens	1
+design consideration	dc gain	1
+network service	dcs	1
+connector	dc power socket	1
+plane	dc- nine 	4
+plane	dc- three 	3
+plane	dc- ten 	2
+plane	dc ten 	1
+plane	dc nine 	1
+analysis technique	dc circuit analysis technique	1
+communication device	dc twenty-eight  digicom 	1
+profile	dcc	1
+music festival	dcode festival in madrid	1
+advanced concept	dc mismatch	1
+industry organization	dc-based food marketing institute	1
+pesticide	dcpa	1
+apparatuses	dc sputtering	1
+printer	dcp series by dis	1
+public agency	dcms	3
+power tool	dc tool	1
+controller	dc's green lantern	1
+league	dcl	1
+non-profits	dc reads	1
+non-profits	dc learns	1
+american company	dcs	1
+template	dcsecurity.inf template	1
+control system	dcs	5
+control system	dcs through a gateway	1
+security issue	dc security issue	1
+adjuvants	dc tag	1
+best brand	dcs	3
+broker	dcom	1
+acquisition	dc- nine 	1
+world	dc earth	1
+indian company	dcm shriram	1
+area	dc va area	1
+assembly	dc bridges	1
+peptides	dcstreatedwith intestinal peptides	1
+outreach program	dc-cam's living documents project	1
+motor	dc motor	16
+motor	dc brushless motor	3
+motor	dc servo motor	2
+motor	dc drive	1
+motor	dc voltage electric motor	1
+motor	dc brush motor	1
+motor	dc servo	1
+motor	dc motor with appropriate gearing	1
+motor	dc electric motor	1
+pump	dc centrifugal & submersible pump	1
+outstanding feature	dc drive	3
+protective device	dc fusesorcircuit breaker	1
+antigen	dc-specific membrane antigen	1
+exam	dch	1
+train	dc metro	1
+external agency	dcells	1
+governmental agency	dcma	1
+governmental agency	dcaa	1
+farm	dcaf	1
+herbicide	dcpa	2
+herbicide	dcmu	2
+security system	dcds	1
+judge	dc circuit judge	1
+optional component	dc agent	2
+area	dc	1
+area	dc power distribution	1
+actuator	dc motor	5
+actuator	dc contactors	1
+actuator	dc servo motor	1
+acronym	dcam	1
+desirable feature	dc current measurement	1
+desirable feature	dc-dc down-conversion	1
+path	dc bias line	1
+truck	dc empanadas	1
+high profile event	dc ten  in ibiza 	2
+mechanical component	dc engine	1
+business organization	dc chamber of commerce	1
+external component	dcm	1
+process condition	dc-bias voltage	1
+process condition	dc power	1
+established brand	dc comics	1
+medical product	dcs plate	1
+attendee	dc-based lanmark technology ceo lani hay	1
+policy change	dco transforming the process of delivering dental care	1
+control function	dc-bus voltage	1
+infrastructure service	dchp	1
+electrical equipment	dc motor	1
+functional element	dcaa	1
+terminal	dc input resulting in effective connectivity	1
+critical service	dcs power	1
+critical system	dcs	1
+letter	dc	1
+service	dchp	3
+service	dce directory service	3
+well-known manufacturer	dc sports	1
+industry publication	dc velocity	1
+densely populated area	dc to boston	1
+measurement technique	dc conductivity	1
+Plasticizers	dchp	1
+communication protocol	dcom	1
+logo	dc	1
+production company	dc bandits	1
+storage service	dc wasington record storage service	1
+great city	dc	1
+electrical product	dc drive	1
+escort service	dc escort employment jobs	1
+electronic part	dc convertor	1
+polar solvent	dce	1
+rating	dc voltage rating	1
+network element	dc device	1
+christian group	dc talk	2
+service	dchp server	2
+service	dc field testing	1
+service	dcf	1
+service	dcc	1
+service	dc-based company friendswap	1
+service	dcs essential service	1
+service	dc wasington record storage service	1
+service	dce host service	1
+service	dcedirectory service	1
+service	dcl	1
+service	dcu bill payer	1
+Party Equipment Rental s	dc foam machine rental	1
+internet technology	dcom	2
+simulator	dcs a- ten 	1
+simulation	dc sweep	1
+airplane	dc- six 	1
+airplane	dc nine 	1
+airplane	dc- seven 	1
+commenters	dci consulting	1
+technical advance	dc drive technology	1
+intermediate	dce isomer	1
+deposition technique	dc plasma	1
+local firm	dch scotland	1
+large component	dc-to-dc converter	1
+electrical property	dc resistivity	2
+subscription service	dc universe online	1
+quality component	dc three  chip 	1
+footballer	dcu blue chip footballer	1
+economic measure	dcfror	1
+power supply	dc-dc converter	3
+power supply	dc source	1
+power supply	dc power supply for pvd	1
+power supply	dc power supply	1
+power supply	dc wall adapter power supply	1
+network protocol	dccp	1
+network protocol	dce	1
+network protocol	dcom	1
+power device	dc-dc converter	1
+power device	dc-to-dc regulator	1
+celebrated artist	dcs	1
+city department	dcd	2
+city department	dcpd	1
+city department	dcfd	1
+collaboration	dcms with daewoo	2
+service	dcom	1
+christian artist	dc talk	1
+modern system	dcs	1
+electronic appliance	dc electronic appliance	1
+system characteristic	dc gain	1
+passive component	dc bus capacitor	3
+passive component	dc-block capacitor	1
+security application	dcat	1
+social service agency	dcf	1
+converter	dc-dc converter	1
+converter	dc to dc converter	1
+electrical parameter	dc electrical parameter	1
+error source	dc error source	1
+key agency	dclg	1
+ents	dc power distribution	1
+vulnerability	dce rpc dcom	2
+design requirement	dc power requirement	1
+well-known character	dc heroes	1
+voltage	dc voltage	4
+voltage	dc  one hundred and ten  volt 	1
+alternate method	dc resistivity	1
+ancillary component	dc power supply	2
+independent agency	dc public library	1
+advanced setting	dc component precision	1
+electrical characteristic	dc resistance	1
+key part	dc electric motor	1
+regulatory authority	dcma	1
+service	dc jack repair	1
+digital system	dcs	1
+regional group	dc divas	2
+adapter	dc to dc converter	2
+characteristic parameter	dc-bias trend	1
+research facility	dcri	2
+credit union	dcu	1
+intermediate product	dce	1
+lighting product	dc esl	1
+retail company	dc shoes	1
+transport	dccp	1
+compensation	dc compensation voltage vcomp	1
+electronic instrument	dc isolating amplifier	1
+construction company	dc paul	1
+header information	dcp name	1
+private bank	dcb	1
+wave	dc direct wave	1
+alarm	dcc termination alarm	1
+proven technique	dcd donors throughout the country	1
+coupling agent	dcc	4
+deposition method	dc magnetron sputtering	1
+digital format	dcc	1
+input signal	dc current	1
+input signal	dc voltage	1
+memory aid	dcapp-bls	1
+residential development	dc ranch	1
+inductive load	dc motor	3
+great site	dconstruct  two thousand and ten 	1
+quantitative technique	dce in the latter situation	1
+traditional solution	dcom	1
+critical part	dc power supply	1
+capacitor	dc blocking capacitor	1
+search algorithm	dcop search algorithm	1
+transport protocol	dccp	3
+residence	dco house	1
+city agency	dcp	1
+city agency	dc department of mental health	1
+external part	dc powerjack	1
+fleet	dc- ten 	1
+joint venture	dck-ecc pacific guam consruction llc	1
+joint venture	dc elcot	1
+simple instrument	dc voltmeter	1
+communication mechanism	dcom support	1
+digital medium	dcc	1
+misc item	dc-dc converter	1
+repair service	dc power jack repair	2
+camera setting	dc voltage	1
+coating process	dc magnetron sputtering	1
+great organization	dc metro cloth diaper co-operative	1
+test equipment	dc power supply	1
+test equipment	dc voltage regulator	1
+ordinary material	dcg	1
+geophysical method	dc resistivity tomography	1
+oscillator	dco	1
+protection feature	dc over-voltage	1
+state entity	dcam	1
+convention center	dcu center in worcester	1
+legacy system	dcs	1
+sanctuary	dc other illegal alien sanctuary	1
+ambassador	dc on heels correspondent	1
+venture capital firm	dcm	1
+electronic circuit	dc to dc converter between the electrical system	1
+transport mechanism	dccp-like reliable feedback	1
+topic	dc-dc converter	1
+topic	dcon	1
+wikis	dc comics db	1
+electric motor	dc motor	5
+electric motor	dc shunt motor used in the hybrid drive system	1
+electric motor	dc brushless motor	1
+novel feature	dc characteristic	1
+industry standard tool	dc - compiler	1
+instrumentation	dc hipot	1
+military aircraft	dc two 	1
+original character	dc's arak son of thunder	1
+wide application	dc motor	2
+action figure	dc direct action figure	1
+action figure	dc super heroes	1
+financing source	dca sbalancedhousing program	1
+compression method	dct-based compression method	1
+manufacturing method	dc sputtering	1
+comic book	dc comics jimminy & the magic book	1
+aprotic solvent	dce	2
+staff position	dcgs	1
+analyzer	dc power analyzer	2
+enterprise solution	dcom	1
+Co-solvents	dcm	3
+Modern aircraft	dc eight , nine , ten 	1
+modern classic	dc- eight 	1
+stock brand	dc shoe company	1
+internet protocol	dccp	1
+valuation technique	dcf	1
+art technique	dcom	1
+large-scale application	dc system	1
+prime mover	dcplanetary gear motor	2
+prime mover	dc planetary gear motor	1
+real-time system	dcme	1
+U.S. government agency	dcaa	1
+wireless standard	dcs- one thousand eight hundred 	1
+multivariate method	dca	1
+lobbying group	dc lobbying group	1
+topic	dcf method	1
+topic	dc circuit	1
+common parameter	dcv	1
+large aircraft	dc  ten s 	1
+large aircraft	dc- three 	1
+large aircraft	dc- ten 	1
+large aircraft	dc- nine 	1
+traditional power	dc assault	1
+sedimentary rock	dcareous bedrock	1
+fault condition	dc offset at the output	1
+MMOs	dc universe online	2
+MMOs	dc universe	1
+MMOs	dcuo	1
+component technology	dcom	4
+security standard	dce	1
+soluble compound	dcp	1
+surface molecule	dc-expressed surface molecule	1
+aircraft type	dc- ten 	1
+commercial account	dcs collection services	1
+computing technology	dcom	2
+debt collector	dcm services llc of golden valley	1
+eastern city	dc	1
+circuit parameter	dc capacitance	1
+middleware	dcom	3
+middleware	dce	1
+venture capitalist	dcm-doll capital management	1
+mechanical test	dcb	2
+government source	dcsf	1
+magnetic device	dc link	1
+messenger	dc second messenger	1
+standard -metric	dcie	1
+tumor suppressor gene	dcc gene	1
+tumor suppressor gene	dcc	1
+chlorinated solvent	dcm	1
+genetic defect	dcx	1
+power application	dc-dc converter	1
+second-order effect	dc losses in the external power mosfets	1
+news website	dc examiner	1
+company	dc shoes	17
+company	dc comics	7
+company	dc direct	3
+company	dcc	3
+company	dcs	2
+company	dc sound labs	2
+cost area	dc	1
+delivery model	dcgpa diabetes care	1
+computing environment	dcom	1
+power component	dc-dc converter	1
+output variable	dc content	1
+sims	dcs black shark	1
+factor s	dc arcing	1
+intelligence agency	dcri	1
+modern approach	dcf	1
+built-in safety feature	dc under voltage	1
+built-in safety feature	dc input reverse	1
+built-in safety feature	dc over voltage	1
+electric equipment	dc player	2
+high profile customer	dc shoes	1
+top band	dc fontana	2
+toy company	dc direct	1
+world-famous company	dck concessions	1
+electrical machine	dc motor	4
+local magazine	dc style	1
+peripheral circuit	dc-dc converter	1
+big publisher	dc thomson	1
+big publisher	dc comics	1
+malignant lesion	dcis	1
+modelling tool	dcat for simulating different channel configuration	1
+retirement benefit	dcrg	1
+company	dc chemical	1
+company	dcs group ltd	1
+company	dch academy honda	1
+application protocol	dcom	1
+drive system	dc drive	1
+municipal building	dc armory	1
+workout routine	dc training	1
+cell surface receptor	dc-specific c-type lectin on dendritic cell	1
+clinical study	dcct study	2
+coefficient	dct coefficient	2
+sometimes item	dc current transformer	1
+survival factor	dc-produced survival factor	1
+added-value service	dcc	1
+dense area	dc area	1
+middleware technology	dcom	2
+upscale community	dc ranch	2
+hydraulic system	dc or hydraulic system	1
+key design parameter	dc current consumption	1
+national foundation	dc commission on the arts & humanities for financial support	1
+clean fuel	dch	1
+corporate house	dcm hariyali	1
+dynamoelectric machine	dc generator	1
+airliner	dc- ten 	3
+airliner	dc- three 	1
+database function	dcount	1
+electrical circuit	dc electrical circuit	1
+investment program	dca program	5
+water-based product	dci water-based sealer	1
+chlorinated compound	dce	1
+christian band	dc talk	1
+component system	dcom	2
+date information	dcv file creation date	1
+company	dcs australia	1
+company	dcn	1
+company	dcm shriram consolidated	1
+company	dcp midstream partners	1
+company	dcs infoway	1
+company	dcl shriram group	1
+company	dcm data systems	1
+company	dcm shriram consolidated ltd.	1
+company	dcl	1
+postgraduate qualification	dch	1
+independent entity	dc water	2
+independent entity	dc housing authority	2
+established parallel importer	dch foton auto pte ltd	1
+pre-emergent herbicide	dcpa	3
+protective service	dcs	1
+activation marker	dc activation marker	1
+congress leader	dcc chief sukhjinder randhawa	1
+critical load	dc motors driving a water pump	1
+supporting system	dc power	1
+consumable component	dc capacitor	1
+control message	dcd	1
+low voltage system	dcs system	1
+measured quantity	dc voltage	1
+VC firm	dcm	4
+application s	dc motor drive	1
+irish company	dcc	1
+signal type	dcii	1
+activity	dcsnet	1
+coding standard	dct-based digital video coding standard	1
+elite program	dc assault	1
+sony product	dc	1
+financial planner	dc's alexandra armstrong	1
+higher-level protocol	dccp	1
+external connection	dc power	1
+pattern recognition receptor	dc express pattern recognition receptor	1
+performance specification	dc performance specification	1
+power transmission product	dc motors	1
+global brand name	dcf trek	1
+basic specification	dc accuracy	3
+measurement type	dcvg	1
+outside actor	dcp	1
+popular image format	dcx	1
+proprietary feature	dcdi	1
+bolt -on	dc sport exhaust	1
+injector	dc's stealth injector	1
+power system component	dc capacitor	1
+power system component	dc distribution	1
+factor	dc maturation stage	1
+beautiful community	dc ranch	1
+custom program	dco	1
+generation aircraft	dc- nine 	2
+rotary machine	dc brushless electromagnetic rotary machine	1
+external authority	dca	1
+licensors	dc comics	1
+pa	dc power source pa	1
+pizza place	dc's pizza	1
+selective medium	dca agar	1
+bile acid	dca	1
+controlled vocabulary	dc  one . one  dublin core 	1
+transport layer protocol	dccp	2
+transport layer protocol	dcc	1
+voltage regulator	dc programmable voltage regulator made by linear technology	3
+DC source	dc battery	2
+DC source	dc power supply from an electronics store	1
+extensive test	dc hi-pot	1
+object system	dcom	3
+power converter	dc-to-dc voltage converter	1
+power converter	dc-dc power converter	1
+power converter	dc-to-ac power inverters	1
+set-top boxes	dct- two thousand   produced by motorola of schaumburg 	1
+subfolders	dcm requests	1
+authentication service	dce	1
+coupling reagent	dcc	5
+partnership project	dc court capital projects	1
+sensitive electronic device	dcs system	1
+top ranking company	dcl	1
+christian rock band	dc talk	2
+electric property	dc conductivity	5
+famous nick name	dcu	1
+investment class	dc pension	1
+large chemical company	dc chemical	1
+passenger airline	dc- nine 	1
+service bureau	dca services	1
+anhydrous solvent	dcm	4
+area institution	dc area institution	1
+computing technique	dcom	2
+distribution technology	dcom	1
+driving mechanism	dc motor	2
+inductive device	dc motor	1
+leukemia	dc chronic leukemia	1
+motor type	dc motor	1
+ordination technique	dca	1
+production program	dc- nine 	1
+production program	dc- ten 	1
+basic mod	dc headers	1
+drive parameter	dc voltage bias level	1
+electrical system component	dc motor	1
+high voltage application	dc transmission	1
+middleware platform	dcom	4
+middleware system	dcom	2
+noteworthy project	dc mtn lab series	1
+information	dc value	3
+information	dc electric motor hp	1
+component vendor	dcs component vendor	1
+computing model	dcom	1
+large building project	dcp midstream lucerne gas plant	1
+level sensor	dcu one thousand six hundred and two  from sti 	1
+machine type	dc	1
+object model	dcom	2
+popular community	dc ranch	1
+analog application	dc precision amplifier	2
+apolar solvent	dcm	1
+component framework	dcom	1
+famous shopping mall	dc shopping mall	1
+film-forming technique	dc sputtering	1
+food truck	dc empanadas	1
+mmo	dcuo	1
+private nonprofit organization	dc central kitchen	1
+public information source	dcps website	2
+system technology	dcom	1
+wide-body aircraft	dc ten 	1
+wide-body aircraft	dc- ten 	1
+comic book publisher	dc comics	6
+commercial airliner	dc- ten 	1
+conventional actuator	dc motor	6
+departmental event	dcs open house	1
+Greenways	dc's rock creek park	1
+inverters	dc to ac inverters	1
+inverters	dc to dc inverter	1
+manufacturer name	dc electronics	1
+medium filter	dc sand filters	1
+preemergent herbicide	dcpa	1
+vintage toy	dc direct	3
+asian artist	dcs	1
+information	dcp encrypt ion	1
+information	dct type	1
+information	dc signal	1
+depository	dcv	1
+external power	dc battery	1
+GPS accessory	dc car adapters	1
+jetliner	dc- ten 	3
+jetliner	dc- nine 	3
+jetliner	dc- eight 	3
+large empire	dcp	1
+popular christian artist	dc talk	1
+radio function	dc offset cancellation	1
+soil-applied herbicide	dcpa	1
+switching circuit	dc-dc converter	2
+club venue	dc ten 	1
+collectible toy	dc direct toy	3
+drive motor	dc motor	1
+drive motor	dc drive motor	1
+electric actuator	dc brush motor	1
+failure condition	dc voltage of a second	1
+french firm	dcns	2
+research aircraft	dc- eight 	2
+signalling system	dcs	1
+baseline study	dcml kapb	1
+breakthrough artist	dc talk	1
+disc brake	dc disc brake	1
+fmcg brand	dch's fmcg brand	1
+industrial control system	dcs	4
+rotary actuator	dc motor	2
+backpack	dc pack	1
+cellular radio system	dct one thousand eight hundred 	1
+control value	dcf-cutoff-frequency control value	1
+DC device	dc drive	1
+electric source	dc-biased rf	1
+established publisher	dc books	3
+established publisher	dc comics	1
+low voltage product	dc plug	1
+output circuit	dc-dc converter	1
+related event	dc related event	1
+surge protection device	dc decoupling device	1
+user department	dcd	1
+variable speed drive	dc electric motor	1
+big industrial house	dcm shriram	1
+cable connector	dc power	1
+classic aircraft	dc- three 	1
+cooperating agency	dcr	2
+digital mobile communication system	dcs	2
+digital mobile communication system	dcs system	1
+discharge source	dc glow discharge	1
+electrical variable	dc voltage	1
+electrical variable	dc current	1
+electron acceptor	dcpip into the culture medium	1
+hydrophobic bile acid	dca	2
+local community paper	dc examiner	1
+magnetic item	dc cables near the antenna	1
+opposition force	dck	1
+outcome measurement	dcp completion rate	1
+event	dc pride	1
+event	dc science policy trip	1
+event	dcm @ havana	1
+powerful empire	dcp	1
+public commission	dc.	1
+radiographic test	dcg	1
+silicon valley firm	dcm	2
+stringer	dcu thrird stringer	1
+video accessory	dc lead for video camera	1
+antiangiogenic drug	dc one hundred and one 	1
+comic company	dc comics	3
+comic company	dc with wonder woman	1
+dense neighborhood	dc's dense neighborhood	1
+education reformer	dc schools chancellor michelle rhee	1
+exclusive design	dc universe	1
+medium folks	dc medium folks	1
+object technology	dcom	2
+rebuilt part	dc motor	1
+servo motor	dc brush	2
+servo motor	dc servo motor	1
+small cap stock	dct industrial	1
+area airport	dca	1
+CCM artist	dc talk	5
+comic publisher	dc comics	1
+component-based framework	dcom	1
+DC load	dc lamp	1
+deaf club	dcara deaf club	1
+distributed object technology	dcom	1
+electrical specification	dc resistance	1
+engine aircraft	dc ten 	1
+event	dcu's crisis storylines	1
+event	dc maturation	1
+event	dc national cherry blossom festival	1
+event	dcsra monthly meetings	1
+program	dcp	3
+heavy aircraft	dc- ten 	1
+higher-ticket item	dc direct	1
+legendary airplane	dc- six 	1
+pathological parameter	dcis histological type	1
+power conversion device	dc-dc converter	1
+rectifier circuit	dc rectifier circuit	1
+traditional valuation method	dcf	2
+vapor phase method	dc sputtering	1
+world renowned product	dcp ups system	1
+amplifier characteristic	dc gain	1
+bulk measurement	dc magnetic susceptibility	1
+circuit analysis technique	dc circuit analysis technique	1
+common used tool	dc power supply	2
+conformal coating process	dc magnetron sputtering	3
+cost-effective product	dc power supply	1
+distributed object system	dcom	5
+domain function	dcount	1
+electric control	dc motor	1
+endocytic receptor	dc endocytic receptor	1
+flat soled shoe	dc skate shoes	1
+hfi's & bank	dcb	1
+inspection datum	dcvg	1
+internationally well-known company	dcm	1
+manufacturing disc brake	dc disc brakes	1
+minor bolt -on	dc header	1
+program	dc-based best friends	1
+program	dc bond	1
+program	dc boys choir	1
+power supply circuit	dc-dc converter	1
+Propeller aircraft	dc- six 	1
+telecom network	dcn	1
+test report	dcr	1
+adapter information	dce rpc principal information	1
+aging aircraft	dc- eight 	1
+analog meter	dc ammeter	1
+analog meter	dc voltmeter	1
+balance-of-plant component	dc-dc converter	1
+best-of-breed tool	dcg	1
+candidate tumor suppressor gene	dcc	2
+car air-conditioning part	dc motors	6
+car air-conditioning part	dc motor s	1
+comic book company	dc comics	2
+complex architecture	dcabacd	1
+high-tech energy saving motor	dcbl	1
+installed option	dc good	1
+large-scale clinical trial	dcct study	2
+MLS team	dc united	1
+program	dceo's solar thermal grant program	1
+program	dcaa quickbooks	1
+program	dca	1
+program	dc-hope project	1
+program	dc youth orchestra	1
+program	dcoe real warriors	1
+program	dcsf's young activists	1
+program	dcoder from ocean systems	1
+propeller plane	dc- four 	1
+separate game	dc vs. marvel	1
+standard coating technique	dc diode	1
+analog line-card function	dc feeding	1
+avionic subcomponents	dc motor	1
+big jet	dc- ten 	1
+big jet	dc eight 	1
+Block coding	dct coding	1
+cellular telephone system	dcs cellular system	1
+cheap new era hat	dc hat	2
+chronic leukemia	dc chronic leukemia	1
+collectable toy	dc direct toy	1
+command system	dcs	4
+C-type lectins	dc-sign	10
+drive performance parameter	dc link voltage	1
+drive technique	dc motor	1
+fertiliser company	dcm sriram	1
+financial analysis technique	dcf	1
+ion plating method	dc method	1
+leading consultant	dcpl	1
+loudspeaker parameter	dc resistance	2
+low-power terrestrial solar power application	dc fluorescent lamp	1
+program	dcs youth development centers	1
+program	dcr clean lakes grants	1
+program	dcr greenways small grants program	1
+community	dc ranch	3
+maturation marker	dc-sign	1
+mobile compound	dce	1
+navy system	dcs	1
+paging format	dcs	1
+popular grill brand	dcs	1
+population measure	dcc activity	1
+power conversion product	dc-dc converter	2
+relay function	dc monitor function	1
+silicon precursor	dcs	1
+surface geophysical method	dc re- sistivityandelectromagnetics	1
+Twin-engined aircraft	dc- two  for commercial passenger service 	1
+aluminium aircraft	dc ten 	1
+andymark actuator	dc motor	1
+annunciation	dc supply fail	2
+business route	dca	1
+capital addition	dcpp	1
+communication middleware system	dcom	3
+contemperary christian band	dc talk	1
+converter device	dc-ac converter	1
+converter device	dc-dc converter	1
+DC application	dc motor	1
+DCs	dcs  four hundred and four a 	1
+factor	dc-produced survival factor	1
+digital panel meter	dc voltage meter	2
+digital panel meter	dc current meter	2
+directly measurable quantity	dc bias voltage	1
+electric vehicle accessory	dc-dc converters	1
+energy storage unit	dc capacitor	1
+family franchise	dc's atom	1
+famous brands supplier	dck	1
+fractional horse power motor	dc pump	1
+gas grill manufacturer	dcs	1
+high-demand brand	dc shoes	1
+improved component	dc frequency-converting compressors from japan's hitachi	1
+jet airliner	dc- eight 	1
+large relief organization	dca	1
+laser dye	dcm	1
+leading scottish magazine publisher	dc thomson	1
+likeminded band	dc talk	1
+manufacturing rear disc brake	dc disc brake	1
+MLS side	dc united	1
+motor control center	dcs motor control center	1
+nonprofit research institution	dcb	1
+ODM product	dc-dc converter	2
+parametric measurement	dc resistance	1
+popular open source library	dcmtk for dicom compatibility	2
+power control product	dc-dc converter	1
+real-time datum source	dcs system	1
+scifi luminary	dc fontana	1
+secondary bile acid	dca	1
+organization	dca	3
+organization	dco	2
+organization	dcm	2
+skate style shoe brand	dc shoes	1
+suitable voltage	dc voltage	2
+techniq ues	dcreactive magnetron sputtering	1
+well-known tumor suppressor gene	dcc	1
+accurate external timing reference	dcf- seventy-seven 	1
+american independent company	dc comics	1
+amide coupling reagent	dcc	1
+animal ghost	dc the ghost cat in the white house	1
+annual audit	dcaa audit	1
+big high yield market	dca	1
+cell receptor	dc-sign	2
+cell-surface molecule	dc cell-surface molecule	1
+city union	dc  thirty-seven 	1
+commercially many corporate client	dc comics	1
+common baseline datasets	dcw coastline	1
+consultative group	dcs forum	1
+controllable motor	dc motor	1
+cool cities	dc metro	1
+date column	dc date	1
+DC motor type	dc brush motor	1
+DC power mode segment type	dc	1
+design-basis accident	dcss tipover	1
+digital storage medium	dcc	1
+digital telephony technology	dcs	1
+distribution protocol	dce	1
+organization	dcsf	1
+organization	dc blues society	1
+ethnic and secular organization	dc coalition against domestic violence in washington	1
+exciter machine	dc machine	2
+field testing method	dcp	1
+freemium game	dc universe online	2
+gauge product	dcc decoder	1
+industrial disc brake	dc disc brake	1
+industrial power tool	dc electric screwdriver	1
+industry-specific template	dcf valuations for investment manager	1
+in-house development	dc supply	1
+innovative industry-leading product	dc gate operators	1
+low-priced exhaust manifold brand	dc sports	1
+micro tool	dcvg	1
+minority heroes	dc's cyborg	1
+non-invasive cancer	dcis	1
+object request broker	dcom	1
+object-based system	dcom	1
+open, standardized technology	dcom	1
+phase non-linear load	dc drive	1
+piston airliner	dc- six 	1
+piston airliner	dc- seven 	1
+popular wheel line	dcenti wheels	1
+organization	dc assault	1
+organization	dc-based industrial research institute	1
+organization	dccca family preservation	1
+organization	dc central kitchen	1
+organization	dc principles group in the united states	1
+organization	dc public charter school board	1
+organization	dci	1
+organization	dc rape crisis hotline	1
+organization	dc preservation league	1
+organization	dc trans coalition	1
+organization	dc music for relief	1
+technique	dcc	7
+power system characteristic	dc decrement	1
+prime business route	dca	1
+receiving system	dcs	1
+remote procedure call technology	dce rpc	1
+signal connection	dc power supply	1
+standard IRC feature	dcc	1
+steady-state characteristic	dc transfer function	1
+swing style	dc hand dancing	1
+switching power supply	dc-dc converter	2
+system stakeholder	dcf area office directors	1
+taxi service provider	dc baltimore limo services	1
+technical detail transport layer protocol	dccp	1
+third type	dc ten 	1
+top grill brand	dcs	1
+traditional allocation method	dcf	1
+traditional financial tool	dcf	1
+traditional grill company	dcs	1
+traditional middleware	dcom	1
+Traditional RPC-style middleware	dcom	1
+wide-body plane	dc three 	1
+wonderful university	dcu	1
+aborted program	dc-x	1
+administrative model	dco	1
+amide bond coupling reagent	dcc	1
+anti-meta card	dck	1
+athletic fundraiser	dc aids bike ride	1
+automobile air-conditioning system product	dc motor	1
+basic delamination fracture experiment	dcb	1
+technique	dcom	2
+technique	dc braking	2
+technique	dc circuit analysis technique	1
+technique	dcnn sand neural abstraction pyramid net	1
+technique	dcf analysis	1
+technique	dc pulsed amperometry	1
+batch converter	dcraw	1
+beam instrument	dcct	1
+bias error	dc offset	1
+board-sport brand	dc shoes	1
+bone plate	dcs plate	1
+brother color multifunction centre	dcp  three hundred and fifty c 	1
+brother color multifunction centre	dcp  five hundred and sixty cn 	1
+brushless hub motor related offer	dc motor	1
+busy college	dcu	1
+capital budgeting method	dcf	1
+career development alumnus program	dc day	1
+catch sleepless music artist	dc project	1
+cogeneration sugar mill company	dcm shriram	1
+collaborative site	dc metro moms	1
+component integration standard	dcom	1
+computing structure	dcom	1
+conventional electric motor	dc brushless motor	1
+DC appliance	dc light	1
+DC cell-surface molecule	dc-sign	1
+DC control code	dc one 	1
+DC control code	dc three 	1
+DC control code	dc two 	1
+dense compound	dce	1
+digit code	dc for washington	1
+digital video coding standard	dct-based digital video coding standard	1
+distributed type registry	dcc representation information registries	1
+distributed-object-oriented platform	dcom	1
+electric machine related offer	dc welding machine	1
+electronic power component product	dc-dc converter	1
+electronically controlled system	dc drilling motor drive	1
+emerging component technology	dcom	1
+execution unit	dcu	1
+experienced contractor	dci construction	1
+externally programmable feature	dc bus voltage level	1
+film distribution agency	dcg plus	1
+fixation nail system	dcs	1
+fixed-angle device	dcs	1
+technique	dcf	1
+technique	dc sputtering	1
+technique	dc-arc optical emission spectrography	1
+technique	dcp	1
+gate operator product	dc gate operator	1
+GCSE topic	dc electricity	1
+genetically heterogeneous disease	dcm	1
+ground survey	dcvg	1
+high excursion driver	dc's	1
+hp's measurement instrument	dc high resistance meter	1
+inductive and resistive load	dc motor	1
+inter-process communication standard	dce	1
+inter-process communication standard	dcom	1
+introduction middleware platform	dcom	1
+Introduction Objectmiddleware	dcom	1
+key acquisition specifi cation	dc accuracy	3
+key middleware technology	dcom	1
+legacy GE drive	dc three hundred 	1
+leve l information	dc gain	1
+level network protocol	dcom	1
+linear ion trap parameter	dc voltage amplitude	1
+low demand item	dc clock	1
+low voltage motor control product	dc drives	1
+low-speed machine	dc motor	1
+management message	dcd	2
+market-based model	dcf model	1
+maturemiddleware technology	dcom	1
+messaging framework	dcom	1
+Method-oriented middleware	dce	1
+miniature-geared DC motor	dc thirty-three gb two p 	1
+modern heavy hitter	dcs puccini	1
+molecular tumor marker	dcc	1
+network construction algorithm	dcn	1
+non-tactical aircraft	dc- six 	1
+application	dc power system	4
+application	dc cable	4
+application	dc power converter	2
+application	dc motor	2
+application	dc-dc converter	2
+application	dc application	2
+application	dcme on long-distance international link	1
+application	dct domain superresolution application	1
+application	dct for jpeg compression	1
+application	dc-to-ac converter	1
+application	dc-dc convertor	1
+application	dc power connection	1
+object environment	dcom	1
+Object RequestBrokers	dcom	1
+object-model-specific protocol	dcom	1
+odd fleet type	dc- nine 	1
+open source datum analysis software	dchip	1
+others oddball	dc six 	1
+others oddball	dc four 	1
+others oddball	dc three 	1
+overload relay	dc overload relays	1
+party committee	dccc	1
+pipeline survey	dcvg	1
+popular panel	dc universe	1
+popular panel	dc nation	1
+power conditioning element	dc-dc converter	1
+power management ICs	dc-dc converter	1
+promotional card	dci foil	1
+protection network	dc protection	2
+public art funders	dcms	1
+pulse motor	dc motor	1
+PWM device	dc drive	1
+QD application	dc current standard turnstile	1
+rear-engine aircraft	dc- nine  s 	1
+recognition receptor	dc-sign	1
+rectifier specification	dc output voltage	1
+reference potential	dc reference potential	1
+resistance measuring method	dc discharge method	1
+reversible motor	dc motor	1
+reversible motor	dc torque motor	1
+RPC-oriented middleware	dcom	1
+separate interest group	dc for obama	1
+service provision organization	dc department of health	1
+simple, time-saving assembly built-in component	dc bus capacitor	1
+small Mesa combo amp	dc three 	1
+small unknown company	dc comics	1
+softwareprograms	dcas	1
+standard audio product	dc joint	1
+stan-dardmeasurement method	dc measurement	1
+successful launch	dc fifteen 	1
+application	dct domainsuperresolution application	1
+application	dc-operated drill machine	1
+application	dc-dc power supply	1
+application	dc-drives	1
+application	dc motor control	1
+application	dc motor drive	1
+application	dc lines on pcbs	1
+application	dc uninterruptible power supply	1
+temporary power source	dc welding machine	1
+trade power supply module	dc-ac inverter	1
+trade power supply module	dc-dc converter	1
+Traditional RPC-basedmiddleware	dcom	1
+traditional, physical asset	dcs systems	2
+type input	dc current	1
+universal input	dc voltage	2
+universal input	dc current	1
+unpolar solvent	dcm	1
+user's date information	dcv document creation date	1
+Vintage warbirds	dc- three 	1
+War Seer use abrev	dccw	1
+weighted averaging method	dca	1
+well-known aircraft type	dc- three 	1
+young population	dcct cohort	1
+03.06design-basis accident	dcss tipover	1
+actual remote method invocation technology	dcom	1
+aluminum alloy processing technology	dc casting	1
+application-development platform	dcom	1
+arizona-based wine	dc red from dos cabezas wineworks in sonoita	1
+auto power inverter related offer	dc ac inverter	1
+auto scanner related offer	dc ac inverter	1
+auto scanner related offer	dc inverter	1
+big comic publisher	dc thomson	1
+binary protocol	dcom	1
+blue chip irish company	dcc	1
+budget-friendly lexus GX470 brand	dc sports	1
+Calcium-dependent lectins	dc-sign	1
+camera power setting	dc voltage	1
+name	dc-based pages	1
+capacity aircraft	dc- three 	1
+car conversion kit	dc kit	1
+case software architecture	dcom	1
+cides	dcpa	1
+circuit pad characteristic	dc characteristic	1
+classy plane	dc- three 	1
+CLRs	dc-sign	5
+collection description format	dcmi collection description application profile	1
+collection description format	dcmi collection application profile	1
+comic villain	dc's eclipso	1
+common rail engine	dci engine from renault	1
+company valuation technique	dcf	1
+company's past effort	dc special	1
+component framework current ORB technology	dcom	1
+computing domain	dce domain	1
+considerable internal and external driver	dco people plan	1
+constrained code	dc-free code	1
+conventional resonant switching converter	dc-to-dc converter	1
+converter circuit	dc-to-dc converter	1
+corrosion current	dc leakage current	1
+cosmepharmaceutical company	dcl	1
+credible brand	dc shoes	1
+cupcake-related television show	dc cupcakes	1
+curbside operator	dc two ny bus 	1
+dc adaptor related offer	dc adapter	1
+DC machine	dc homopolar motor using the magnetic field generated by a superconductive coil	1
+DC power source device	dc-dc converters for overvoltage protection	1
+DC power supply module	dc-dc converter	1
+DC restaurant	dc coast	1
+deaf culture immersion camp	dci camp in wisconsin	1
+design datum communication technique	dcom	1
+differentiation gene	dcn	1
+dipolar organic dye	dcm	1
+distributed application technology	dcom	1
+distributed computing platform	dcom	1
+distributed object approach	dcom	1
+distributed object computing technology	dcom	1
+distributed object environment	dcom	3
+distributed object protocol	dcom	3
+eames's plywood chair	dcw	1
+electric contact device	dc contactors	1
+electric power switching apparatus	dc-ac inverter	1
+electric power switching apparatus	dc-dc converter	1
+electromagnetic motor	dc motor	1
+electronic cigarette related offer	dc ac inverter	1
+electronic profile	dcra rural alaska project identification	1
+electron-transfer dye	dcpip	2
+emergency operation voltage source	dc voltage source like an accumulator	2
+emulsion-polymerization technology	dc coaxial electrospray	2
+energy consuming component	dc power supply	1
+established biochemical assay	dcf fluorescence	1
+established radio-based service	dcs	1
+european circuit	dcuk	1
+excellent comic book story	dc's epic crisis on infinite earth	1
+famous haikou shopping mall	dc shopping mall	1
+FCC family technology	dcc	1
+financial modelling tool	dcf model	1
+fluoroscopic examination	dcbe	1
+folding current effort	dced's information on grant	1
+formal post bacc program	dcom s where there is a gaurenteed interview with above a  three . zero 	1
+French frms	dcns	1
+FTP game	dcuo	1
+full complete testing equipment	dc five hundred v insulation resistometer 	5
+Full Text Available.C-type lectins	dc-sign	1
+gear motor related offer	dc gear motor	1
+general-purpose motor	dc motor	3
+gouging electrode	dc copperclad flat electrode	1
+gouging electrode	dc plain pointed electrode	1
+haloacetic acid	dca	1
+hard cover graphic novel	dc archives	1
+high current demand device	dc hair dryer	1
+high inrush current device	dc motor	1
+High performance middleware	dcom	2
+high-noise airplane	dc eight 	1
+horror comic line	dc's house of mystery	1
+ICE field office	dc office	1
+inch scale figure	dcu	1
+input voltage	dc voltage	1
+intra-district agency	dc department of health	2
+intra-district agency	dc state education office	2
+irc-based function	dcc sending	1
+jet transport aircraft	dc- nine 	2
+jib	dcl	1
+jumbo	dc- ten 	1
+KDE feature	dcop cross process scripting	1
+key element set	dcmi metadata terms	1
+key national survey	dcms taking part	1
+landlocked airport	dca	1
+Large pressurized propeller aircraft	dc- six 	1
+large-scale complex process	dcu	2
+factor	dcf rate of return	1
+factor	dcgs based on outpatient care	1
+factor	dc distortion	1
+factor	dc line	1
+factor	dc motor	1
+factor	dc to ac derate factor	1
+factor	dc-sign	1
+name	dcs	1
+name	dc tosh lines	1
+case	dc comics	2
+long chain nitrite	dcn	1
+mainstream component model	dcom	2
+medium range aircrafts	dc nine 	1
+mirovideo product	dc thirty 	1
+mirovideo product	dc twenty 	1
+modified device	dc power supply	1
+module-type product	dc-dc converter	1
+multipage source file	dcx	1
+Multiple-engine aircraft	dc- three 	1
+n-class product	dcc decoder	1
+network authentication service	dce	1
+object computing environment	dcom	1
+object computing middle-ware framework	dcom	1
+object protocol	dcom	1
+occassional MP-only title	dc universe online	1
+ofthe built-in function	dc-rms measurement	1
+OLE technology	dcom	1
+ongoing, related initiative	dcrt intranet pilot	1
+ORB standard	dcom	1
+parallel different power source	dc source	1
+PCE biodegradation product	dce	1
+perfumey scented lotion	dc hot mess	1
+picture component	dc component	1
+plasma technology	dc discharge plasma	1
+plasma-generation method	dc discharge	2
+PMA control	dc gain	1
+PMD functional requirement	dc restoration	1
+popular component model	dcom	1
+popular distributed-object architecture	dcom	1
+popular object oriented solution	dcom	1
+case	dcis	1
+case	dc hipot	1
+case	dc's captain atom	1
+case	dc area sniper	1
+case	dc children & youth investment trust	1
+positionally controllable motor	dc servo	1
+potomac valley club	dc heat	1
+power electronic application	dc-dc power converter	2
+power processing circuit	dc-dc converter	1
+power supply scheme	dc power	1
+powerful directory service	dce directory service	1
+precision device	dcx	1
+prestigious AAU squad	dc assault	1
+Procedure-oriented middleware	dce	1
+Product functionality	dc voltage	1
+pro-style model	dcs	2
+quadrupole magnet system	dc power	1
+remote invocation protocol	dcom	1
+replacement power cord	dc power supply cord	1
+restricted network	dcsnet wireless	1
+resurfacing kit	dc clinic	1
+reversible drive motor	dc torque motor	1
+rework station related offer	dc mma welder	1
+rotary drive	dc motor	1
+rotor-and-stator generator	dc dynamo	2
+RPC product	dce rpc platform	1
+rpc-based server	dce server	1
+rpc-style protocol	dcom	2
+S&HLGA constituent council	dc yankalilla	1
+second circuit	dc to dc converter	1
+silver contact related offer	dc contactor	1
+single phase motor related offer	dc motor	1
+SLA battery related offer	dc adapter	1
+small, land-locked city	dc	1
+so-called wide-body jet	dc- ten 	1
+solvency monitoring system	dcat method of the canadian institute of actuaries	1
+sputter method	dc magnetron sputtering	1
+SSPs	dce ssp	1
+standalone XO	dcx	1
+standard coati ng technique	dc diode	1
+state-of-the-art middleware technology	dcom	1
+successful conservation project	dcnr's conservation landscape initiative	1
+successful irish company	dcc	2
+suitable conventional actuator	dc motor	1
+option	dc braking	2
+option	dc power input	2
+thyristor bridge application	dc drives	1
+traditional actuator	dc motor	2
+traditional magnetic application	dc motor	1
+traditional RPC system	dce	1
+transparent identification agent	dc agent	1
+tumour-suppressor gene	dcc	1
+typically geophysical method	dc resistivity	1
+U.S. comic publisher	dc comics	1
+U2741A offer feature	dc current	1
+U2741A offer feature	dc voltage	1
+unneeded and exploitable service	dcom service	1
+uptake receptor	dc-sign	1
+USB compliant power supply	dc adapter	1
+value-based management analytical tool	dcf valuation	1
+vintage airliner	dc- three 	1
+Visiting aircraft	dc three 	1
+waveform s	dc volt-age ramp	1
+Websense transparent identification agent	dc agent for windows-based directory service	1
+wide-gamut encoding system	dci p three  rgb 	1
+ypes	dc- six 	1
+ypes	dc- eight 	1
+absolute valuation method	dcf	1
+AC contactor related offer	dc contactor	1
+active shoe	dc shoe	1
+affordable style boot	dc boots	1
+ag	dc hallmark surface ag	1
+amp power supply	dcc specialties magna force	1
+ancillary array loss	dc cabling loss	1
+antiquated aircraft	dc- three 	1
+application interchange protocol	dcom	1
+architectural perspective component-based system	dcom	1
+Asilicon precursor	dcs	1
+option	dc-series commercial grade	1
+option	dcdl	1
+option	dc power supply	1
+option	dcim	1
+option	dc pulse	1
+option	dc over ac power	1
+option	dc cctv power supply	1
+option	dc-dc converter	1
+binary communication protocol	dcom	1
+black terror attack	dc sniper	1
+board application	dc external cladding	1
+boot disc	dc-x	1
+breast cancer related topic	dcis	1
+brushless motor related offer	dc gear motor	1
+cache installation instruction	dcbz in powerpc	1
+campus stakeholder	dcpd	1
+canister model	dc twenty-three  turbine head canister 	1
+cartographic database	dcw	1
+Cash-flow information	dcf model	1
+central asian platform member	dcca	1
+civil service commission	dcas	1
+classic actuator solution	dc motor	1
+classic airliner	dc- ten 	1
+clear thatmutliword atomic update	dcas	1
+closed or authorized P2P network	dcia member altnet	1
+collaborative spam identification system	dcc	1
+col-registries lection description format	dcmi collection application profile	1
+comic book supervillains	dc's darkseid	1
+comic book universe	dc universe	1
+command syst em	dcs	1
+commercial type aircraft	dc- nine 	1
+common interface-based framework	dcom	1
+compact, inexpensive electronic actuator	dc motor	1
+connected communication model	dcom	1
+constant power load device	dc-dc converter	1
+continuous or periodic investment plan	dca program	1
+continuous power deposition process	dc magnetron sputtering	1
+controllable supply voltage	dc to dc converter	1
+conventional capital budgeting technique	dcf model	1
+corporate deadbeat	dcl medical laboratories	1
+corrective service department	dcs in nsw	1
+crimefighters	dc comic crimefighters	1
+critical capacitor property	dc leakage	1
+cute fill	dcon	1
+daughter product	dce	2
+DC basis technology	dcvg	1
+DCC generator	dcc application associated with the source mep for generating the ethernet oam frames having a dcc opcode value	1
+DCPD alkenoates	dcpd furmarate	1
+DCPS computer system	dcps learning village	1
+deep philosophical topic	dc comic	1
+dendritic cell C-type lectins	dc-sign	2
+diageo's previous guise	dcl	1
+different cytokines	dc's secrete different cytokines	1
+differential blackbody	dcn  one thousand  n two 	1
+dihydroxy bile acid	dca	1
+distributed component system	dcom	1
+distributed object communication technology	dcom	2
+distributed transaction monitor	dce-based encina from transarc	1
+district-area site	dc urban moms	1
+DNA synthesis-associated gene	dck one  gene 	2
+DoD audit agency	dcaa	1
+domain independent source	dc metadata	1
+dom-based interface	dcci	1
+Double Chocolate Fountain	dcf- sixteen 	1
+driven two-phase power converter	dc-to-ac inverter	1
+dublin core metadata	dc . title	1
+dynamo-electric device	dc motor for ning at a desired operating speed	1
+dysfunctional board	dcss boe	1
+electric power motor	dc gear motor	1
+electrical current source	dc current generator	1
+emergency medical service consent form	dcf cfs- nine hundred and ninety-seven  form 	1
+entirex component	dcom wrapper	1
+ertheworst condition	dc bias	1
+event-service	dcom	1
+exceptional local program	dc special olympics	1
+extended frequency option	dc- twenty-six . five  ghz 	1
+eye-catching first-class postage	dc comics super hero design	1
+first circuit	dc to dc converter	1
+freeware photo enhancement tool	dce autoenhance	1
+frequency converter	dc link inverters	1
+GAO audit federal agency	dcaa	1
+gate motor	dc blue	1
+gate oxide reliability analysis technique	dciv	1
+generalpurpose module	dcmp	1
+genetically heterogeneous Mendelian disease	dcm	1
+great community-based forum	dc urban moms forum	1
+GSM system	dcs  one thousand eight hundred 	1
+high frequent market	dca	1
+high subsonic transport aircraft	dc- nine 	1
+ideal component	dc feed	1
+ideal MHD stability code	dcon	1
+Immune lectins	dc-sign	1
+Inayoung population	dcct cohort	1
+increasingly research conference	dc  two thousand and nine 	1
+indirect ordination technique	dca	1
+group	dc metro corporate fraud working group	1
+group	dc talk	1
+group	dcm	1
+interesting new addition	dc universe online entering the chart	1
+Intermittence load	dc motor	1
+internet datum center	dcci fu zhihua	1
+interoperable format registry	dcc regrep	1
+irc-related protocol	dccp	1
+japanese website	dc watch	1
+key players	dcms	1
+large comic book publisher	dc comics	1
+large Trijets	dc- ten 	3
+latest generation model	dcs- five thousand three hundred  family 	1
+loadable authentication module	dce module	1
+local parenting forum	dc urban mom	1
+logic software	dc proof	1
+marketing outreach effort	dc business connections	1
+mechanistic test	dcp	1
+membrane antigen	dc-specific membrane antigen	1
+microminiature power converter	dc-dc converter	1
+MLS ticket	dc united ticket	1
+modem-control line	dcd	1
+mono-immunotherapeutic protocol	dc-based tumor vaccine	1
+monster machine	dc- ten 	1
+municipal development charge	dcl	1
+NAC's early piston-engined aircraft	dc three 	1
+network element type	dco	1
+newest motorola digital video recorder	dct six thousand four hundred and twelve  being distributed by comcast 	1
+NJC job	dcw	2
+non-Adobe freely-available source code	dcraw	1
+nonlinear converter	dc-dc converter	1
+group	dcad film club	1
+group	dcadents improv group	1
+group	dci	1
+group	dc universe	1
+group	dc lobbying group	1
+method	dc magnetron sputtering	3
+method	dc sputtering	2
+method	dcp	2
+method	dcom	2
+north scottsdale community	dc ranch	1
+OAI-Rights	dcmi	1
+object computingmiddleware	dcom	1
+object infrastructure	dcom	1
+object paradigm	dcom	1
+object-based approach	dcom	1
+object-oriented communication technology	dcom	1
+offset error	dc drift	1
+operation status	dc power failure	1
+organosiloxane surfactant	dc  one hundred and ninety-eight 	2
+orthogonal matrix	dct matrix	1
+pathogen binding molecule	dc-sign	2
+pentagon business office	dcas regional headquarters	1
+photosynthetic inhibitor	dcmu	1
+physic equipment	dc power regulated supply	1
+polyphase load	dc brushless motor	1
+popular bipolar termination	dc parallel termination	1
+portable solar system	dc solar lighting system	1
+power detection method	dc current sensing	1
+power source apparatuses	dc-dc converter	3
+power supply apparatuses	dc-dc converter	1
+power-converter	dcdc converter	1
+power-friendly innovation	dc power	2
+prime mover technology	dc motor	1
+propliners	dc- six 	1
+prospective randomised clinical trial	dcct  ninety-four 	1
+pro-style gas model	dcs	1
+publishing segment's competitor	dc comics	3
+Pure DCT domainimplementations	dct pyramid	1
+raster-based file format	dcs	1
+read head	dc-biased read head	1
+rear-engine plane	dc- nine 	1
+refined experimental system	dc-specific conditional knockout mice of the various notch ligands	1
+relaxation characteristic	dc conductivity	1
+representative lighting method	dc lighting	1
+result usingantiangiogenic drug	dc one hundred and one 	1
+RS232 control line	dcd	1
+scottsdale community	dc ranch	1
+screen DC	dc of the desktop window	1
+second, noncompetitive antagonist	dck	1
+secondary testing method	dcp	1
+secure supply	dc battery	1
+self-propelled unit	dc-ac tandem submerged-arc welder shown in fig	1
+method	dcf	1
+method	dccdi	1
+method	dc resistivity	1
+method	dct-based compression method	1
+sensed modem signal	dcd	1
+servo motor type	dc brush	1
+shallow, unfinished, theme park game	dcuo	1
+silicone copolyol wax	dc  two thousand five hundred and one 	1
+simulation based game	dcs a- ten c 	1
+single channel unit	dc driver t-cube	2
+single-phase motor	dc brush	1
+slow phenomenon	dc amplifier drift	1
+small intimate intense venue	dc ten 	1
+small narrow body aircraft	dc nine 	1
+soe's game	dc universe online	1
+Somccountries	dcpositedthenationaj currencyequivajcnt of the payment in an account	1
+specialised motor	dc brushless motor	1
+stimulatory assay	dc-htlp assay	1
+strength-based test	dcp	1
+Successful commercial aircraft	dc- three 	1
+suitable bias source	dc bias	1
+suitable fan	dc fan	2
+suitable robotic internet web camera	dcs- five thousand three hundred g audio webcam 	1
+summary balance model	dc model	1
+surrogate record	dc record	1
+switching power supply unit	dc-dc converter	1
+terminal-emulation card	dca's irma card	1
+third party control device	dcs	1
+time advanced lesion	dcis	1
+top comic book publisher	dc comics	1
+traditional appraisal approach	dcf	1
+traditional remote object model	dcom	1
+traditional rpc-style protocol	dcom	1
+transform-based compression	dct-based compression	1
+trauma training prog ram	dcmt	1
+trek writer	dc fontana	1
+turbofan power many commercial airliner	dc- ten 	1
+twin engine model	dc- three 	1
+tyle campaign	dc imago	1
+typical SBD application	dc-dc converter s	1
+typical wireless standard	dcs- one thousand eight hundred 	1
+undoubtedly demon-stratedthat multivariate analysis technique	dca	1
+uniform filter bank	dct used in jpeg	1
+universal compression technique	dct	1
+untyped paradigm	dcom	1
+unwanted, low frequency signal component	dc voltages caused by non-linearities	1
+urea-based compound	dcu	2
+utility filter	dc reject	1
+vertical lander	dc-y	1
+tool	dce threads	3
+tool	dce remote procedure call	2
+tool	dc eight hundred and twenty  impact wrench 	1
+tool	dcs drill collar slip	1
+viral docking protein	dc-sign	1
+virus attachment factor	dc-sign	1
+vitro-generated DC	dc generated from peripheral blood monocytes	1
+voltage-controlled actuator	dc motor	1
+VTOL vehicle	dc-xa	1
+Vybrant bots	dc  three hundred  lorebot 	1
+weakly consistent replication	dce cds	1
+weighty subsystem	dc-dc converter being placed at the rear of the electric focus	1
+Wide-body tri-jets	dc- ten 	1
+Women's T-shirts	dc delicious	2
+wye-connected load	dc brushless motor	1
+xilinx primitive component	dcm	1
+tool	dce rpc	1
+tool	dcd seven hundred and twenty  dcd nine hundred and sixty  drill 	1
+tool	dc two hundred and thirteen  rotary hammer drill 	1
+tool	dcdiag	1
+tool	dce service	1
+tool	dcf	1
+tool	dc tool	1
+tool	dc meter	1
+tool	dc eight hundred and twenty-seven  impact driver 	1
+tool	dcd nine hundred and seventy  hammer drill 	1
+tool	dcp	1
+tool	dc three hundred and thirty  jigsaw 	1
+tool	dc four hundred and eleven  angle grinder 	1
+tool	dca analyzer	1
+tool	dcpa	1
+product	dc motor	6
+product	dc power system	3
+product	dc tool	3
+project	dcs conversion	1
+project	dc three 	1
+project	dc motor	1
+project	dc-x	1
+artist	dc talk	9
+artist	dc the guy	1
+artist	dc breaks	1
+material	dc p d compound	1
+material	dcpd compound	1
+place	dc	2
+place	dca	1
+place	dcf seventy-seven  in germany 	1
+place	dccd dial wheel	1
+technology	dcom	22
+technology	dce	4
+technology	dc capacitive	4
+technology	dcs	2
+product	dc dc converter	2
+product	dc transformer related product	1
+product	dc travel option	1
+product	dc-ac power inverter related product	1
+product	dc-to-dc regulator	1
+product	dcf  four  filter 	1
+product	dc-dc power module	1
+product	dci products tm smartvent	1
+product	dc power jack	1
+product	dc rectifier system	1
+product	dc servo related product	1
+product	dc short related product	1
+product	dc voltage related product	1
+product	dc water pump related product	1
+product	dc system related product	1
+product	dc tachometer	1
+product	dc electric tool related product	1
+product	dc fan related product	1
+product	dc micro motor related product	1
+product	dc adaptor related product	1
+product	dc air conditioner related product	1
+product	dc adapter related product	1
+product	dc tig welder related product	1
+product	dc inverter related product	1
+product	dc cooling fan related product	1
+product	dc circuit breaker related product	1
+product	dc motor drive	1
+product	dc power inverter related product	1
+product	dc voltmeter related product	1
+product	dc welder related product	1
+technology	dc gas-insulated switchgear	1
+technology	dc power	1
+technology	dcom on unix	1
+technology	dc inverter	1
+technology	dc motor	1
+term	dcc friendly	1
+term	dc- twenty  autodialer 	1
+term	dcap	1
+term	dc comics cartoons like batman the animated series	1
+term	dcc compatible	1
+term	dchp server	1
+parameter	dc resistance	4
+parameter	dc voltage	3
+parameter	dc current	1
+parameter	dc-link inductance	1
+parameter	dc electrical parameter	1
+parameter	dc gain	1
+parameter	dc input voltage	1
+parameter	dcf inter-frame space	1
+parameter	dc link voltage	1
+parameter	dc drain current	1
+parameter	dcp operating parameter	1
+parameter	dct coefficient	1
+parameter	dc phase shift	1
+parameter	dc anodization voltage	1
+parameter	dc bias	1
+parameter	dc-voltage bias	1
+system	dce	6
+system	dcs	3
+system	dcom	2
+system	dcm system in the supreme court	1
+system	dcm	1
+system	dc power circuit	1
+system	dc or hydraulic system	1
+system	dcwasa	1
+system	dcwpl	1
+system	dc motor	1
+system	dc-motor control	1
+system	dcms	1
+system	dce distributed file system	1
+system	dcc	1
+system	dcdb	1
+system	dc's metro	1
+system	dc-sign	1
+condition	dcis	1
+element	dc language	1
+element	dc inventory-capacity	1
+product	dcp message	1
+product	dc  twelve v fan 	1
+product	dc blower related product	1
+product	dc brush type motor	1
+product	dc brushless motor	1
+product	dc converter related product	1
+variable	dc link current	1
+function	dc amp	1
+function	dc latching relay	1
+function	dc type function	1
+function	dc-to-dc conversion	1
+function	dc volt	1
+function	dc loop control	1
+function	dco	1
+function	dc balancing	1
+device	dc motor	4
+device	dc-dc converter	3
+device	dc source	1
+device	dc drive	1
+device	dc bridge	1
+device	dc-to-dc converter	1
+brand	dc shoes	14
+brand	dcs	9
+brand	dc comics	3
+brand	dc sports	2
+brand	dcs accessories	2
+brand	dch's fmcg brand	1
+brand	dc ethics	1
+brand	dc shoe co.	1
+brand	dcma clothing	1
+brand	dc accessory	1
+brand	dc & burton	1
+brand	dc lifestyle	1
+brand	dcma collective	1
+component	dc motor	7
+component	dc power supply	2
+component	dc circuit	2
+component	dc block	1
+component	dc-ac power inverter	1
+component	dc field connection	1
+component	dc disconnects	1
+component	dc servomotor	1
+component	dc transmission line	1
+component	dc-motor control	1
+component	dc break	1
+component	dc-link capacitor	1
+component	dc pin	1
+component	dc contact	1
+component	dc controller	1
+component	dc bus capacitor	1
+component	dc & ac power supply system	1
+component	dc motor controller for the platen elevator	1
+component	dc- three hundred  power amplifier 	1
+component	dcm	1
+component	dct coding stage	1
+aspect	dc-balance	1
+site	dc cares	1
+site	dc cupcakes	1
+site	dc comics	1
+related product	dc blower related product	1
+related product	dc converter related product	1
+related product	dc transformer related product	1
+related product	dc welder related product	1
+related product	dc cooling fan related product	1
+related product	dc inverter related product	1
+related product	dc power inverter related product	1
+related product	dc adapter related product	1
+related product	dc adaptor related product	1
+related product	dc air conditioner related product	1
+related product	dc voltage related product	1
+related product	dc system related product	1
+related product	dc water pump related product	1
+related product	dc fan related product	1
+related product	dc power jack related product	1
+related product	dc motor gear related product	1
+related product	dc drive motor related product	1
+related product	dc pump related product	1
+related product	dc switch related product	1
+related product	dcs appliance related product	1
+related product	dcp related product	1
+related product	dc cord related product	1
+related product	dc capacitor related product	1
+related product	dc brushless fan related product	1
+related product	dc ac inverter related product	1
+related product	dc air pump related product	1
+related product	dc car adapter related product	1
+related product	dc charger related product	1
+related product	dc diaphragm pump related product	1
+related product	dc generator related product	1
+related product	dc electric motor related product	1

@@ -1,0 +1,418 @@
+datum	rrc signaling information	1
+resource	rrac	1
+facility	rr's family friendly facility	1
+property	rrsp	3
+benefit	rrsp matching	1
+exception	rrsp account	1
+model	rrm rain-runoff model	2
+characteristic	rrna gene sequence	3
+institution	rr museum of pa	1
+institution	rrl	1
+client	rreef	1
+client	rreef funds management firm	1
+client	rr donnelley & sons	1
+document	rrb--word   processing document	1
+document	rrwsl board meeting minute	1
+person	rrb	1
+matter	rrsp	1
+object	rr telescopii star	1
+object	rr lyrae	1
+location	rr's primary residence	1
+writer	rring lardner	1
+solution	rrs	1
+feature	rrs	2
+star	rr lyraes	1
+star	rr lyrae	1
+part	rrb--front  end part	1
+title	rrd	1
+operation	rri	1
+agent	rrp-specific small molecule	1
+venue	rrazz room	1
+firm	rr donnelley	1
+favorite	rrsp optimizer	1
+instrument	rrsps	2
+attribute	rrr	1
+class	rr- one 	1
+website	rr	1
+partner	rrg group	1
+role	rrbac role	1
+influence	rr fierce	1
+store	rrl on bleaker street	1
+vehicle	rrif	1
+label	rrr	2
+feature	rrnas	1
+feature	rr interval	1
+supply	rr track	1
+restaurant	rrr roadhouse	1
+capability	rr-prod size	1
+asset	rrsp	3
+asset	rrsp s	1
+asset	rrif	1
+asset	rrsp investment	1
+issue	rrsp	2
+corporation	rr donnelley	1
+pattern	rrr lll rrr lll or rr lll rrr ll r l r lll rrr ll rr	1
+sport	rrounder balla	1
+issue	rrod	1
+issue	rrp	1
+track	rrose selavy's valise	1
+protocol	rrc	1
+protocol	rrlp	1
+domain	rrm one 	1
+committee	rrc	1
+plan	rrsp	3
+plan	rrif	1
+plan	rrrc rail study	1
+network	rrsat global network	1
+account	rrsp	2
+account	rrif	2
+account	rr donnelley	1
+basic information	rrna count	5
+sponsor	rre	1
+forum	rras	1
+signal	rri interval	1
+gene	rrm one 	2
+gene	rrna gene	1
+gene	rrm two 	1
+perk	rrsp matching program	1
+web site	rre	1
+centre	rrma three  regional centre 	1
+industry leader	rr donnelly	1
+layer	rrc	1
+marker	rrm one 	1
+local business	rr donnelley & sons company	1
+methodology	rra	1
+investment	rrsp's	1
+investment	rrsp	1
+specific	rrp	1
+code	rrbd	2
+advanced technology	rru tower installation	1
+participant	rrt	1
+engine	rr merlin	1
+selection	rro	1
+item	rrsp contribution	2
+publisher	rrb--various   large publisher	1
+board	rrt	1
+local company	rr donnelley	1
+manager	rreef	1
+release	rr sport	1
+complex system	rreducibly complex system	1
+radio station	rri	1
+flaw	rrod	1
+key component	rrm	1
+designation	rrs	1
+biological process	rrna expression	1
+item	rr tracks	1
+innovative program	rribbitt on holidays promotion	1
+sequence	rrrrr in roulette	2
+deduction	rrsp contribution	1
+storage device	rram	1
+occurrence	rricane katrina	1
+regulatory agency	rrc	1
+promoter	rrnb p two 	1
+printer	rr donnely	1
+printer	rr donnelly	1
+boundary	rr track	1
+abbreviation	rrr for residual resistance ratio	1
+training course	rrca	1
+bright color	rrnnca blue	1
+popular feature	rrsp home buyer's plan	1
+physiological parameter	rr	1
+constant	rr in fig	3
+area	rrd	1
+area	rrg	1
+recyclable material	rrt	1
+letter	rr	1
+probe	rrna probe	3
+probe	rrnaprobesandthe cox one  exon probe used in the middle panel of fig 	1
+service	rras	3
+high-profile client	rreef funds	1
+research organization	rrl	1
+score	rrb--standardized   test score	1
+molecular method	rrna sequencing	1
+cognitive process	rrmandthe admission control	1
+molecular marker	rrm one 	1
+commander	rrustem mustafa in pristina	1
+factor	rrna gene copy number	1
+service	rr	1
+regional centre	rrma three  regional centre 	1
+SUVs	rrc	1
+large molecule	rrna subunits	1
+tumor marker	rrm one 	1
+open source tool	rrdtool	1
+investment company	rreef	1
+molecular biology technique	rrna sequencing	1
+service	rrm	1
+landlord	rreef	2
+landlord	rreef funds	1
+human	rr army	1
+latest technique	rrt	1
+bullet	rrlp	1
+molecular tool	rrna gene sequencing	1
+molecular tool	rrna probe	1
+investment strategy	rrsp's	3
+investment strategy	rrsps	2
+investment strategy	rrsp mortgage	1
+control feature	rrna probe	1
+clone	rrii  one hundred and five 	1
+bus company	rrcg transport system	1
+retirement account	rrsp	3
+retirement account	rrif	1
+private operator	rrm	1
+tweak	rr seventy-seven 	1
+senior executive	rr dash	2
+topic	rrr lack of male pattern baldness	1
+GIS datum	rrgis datum	1
+company	rr donnelley	5
+company	rra	2
+company	rr donnelly	2
+memory technology	rram	1
+large publisher	rrb--various   large publisher	1
+mosquito-borne disease	rrv infection	1
+mosquito-borne disease	rrv disease	1
+test score	rrb--standardized   test score	1
+dairy	rruvwhsgholyhu major dairy	1
+irritating substance	rroton oil	1
+militia	rrf	1
+technology improvement	rrds	1
+company	rreef	1
+mechanical structure	rr dry stone masonry	1
+repetitive element	rrna operons	1
+permanent damage	rrod	1
+washer	rrn	1
+company	rr	1
+company	rro	1
+risk assessment	rrmafs	1
+essential cellular process	rrna maturation	1
+server function	rras	1
+traditional publication	rrlc newsletter	1
+non profit	rrc	1
+client product	rrsps	1
+tax deduction	rrsp contribution	3
+printing company	rr donnelley & sons	1
+repetitive sequence	rrna gene	1
+exempt asset	rrsp	1
+high profile politician	rr patil	1
+limiter	rrc holdings	1
+san francisco venue	rrazz room	1
+molecular characteristic	rrna relatedness	1
+molecular characteristic	rrna sequencing	1
+heavy industrial use	rr yard	1
+jet engine	rr nene	1
+nourishing herb	rrl	1
+upper layer	rrc	2
+IPPs	rri energy	1
+information	rrb--request  certain information	1
+information	rro	1
+information	rru database	1
+information	rra	1
+militant atheist	rrs	2
+research laboratory	rrl	1
+separate account	rrsp	1
+simple retrovirus	rre	1
+acceleration method	rre	1
+failing	rrr	1
+radio signal	rrc connection setup message	5
+signal feature	rr interval	1
+client account	rrsp	1
+community station	rrr	1
+notable business	rr donnelley publishing	1
+Alphaviruses	rrv	1
+institutional player	rreef	1
+overseas program	rri's overseas program	1
+web characteristic	rrp	1
+central initiative	rrp	1
+turboprop	rr dart	1
+debt product	rrsp loan	1
+document processor	rr donnelley & sons co.	1
+government incentive program	rrsp homebuyers plan	1
+gun company	rra	1
+retirement saving account	rrif account	3
+raw and calculated parameter	rr	1
+server-based service	rras	1
+standard mod	rrages screw mod	1
+variable star	rr lyrae star	3
+variable star	rr lyrae	1
+electrocardiographic parameter	rr interval	1
+program	rrsp home buyers plan	2
+program	rrif	1
+connection feature	rrtcon	3
+key social medium platform	rrs	1
+program	rri's overseas program	1
+program	rrha family self-sufficiency program	1
+program	rr	1
+prospective user	rr donnelley & sons	1
+dedicated conference	rrfm	1
+DNA target	rrna gene	1
+family friendly facility	rr's family friendly facility	1
+not-for-profit hospital	rrmc	1
+prominent venture capital firm	rre ventures	1
+reputable auction firm	rr auctions	1
+resistant clone	rrim  nine hundred and three 	1
+resistant clone	rrim  nine hundred and fifteen 	1
+resistant clone	rrim  seven hundred and twelve 	1
+resistant clone	rrim  nine hundred and two 	1
+resistant clone	rrim  nine hundred and four 	1
+resistant clone	rrim  nine hundred and thirty-seven 	1
+sophisticated theory	rri	1
+top quality worldwide brand	rrd	1
+mass object	rr lyrae	3
+nonvolatile memory technology	rram	1
+roundup ready crop	rr corn	2
+routing message flooding attack	rreq flooding	3
+top respiratory professional	rrt	1
+widely-used technology	rrdtool for data storage	1
+benchmark value	rrr on equity	1
+double letter	rr	3
+global property fund manager	rreef	1
+intrinsically variable star	rr lyrae	1
+land rover vehicle	rr sport	1
+large printer	rr donnelley	1
+multicopy gene	rrna gene	2
+original external information	rrna in ncbi nucleotide database	1
+physic issue	rr discrimination	1
+proffesional college	rrsiet amethi	1
+registered account	rrsp	1
+registered asset	rrsp	1
+RRSPs	rrsps with a life insurance component	1
+safety training need	rrp	1
+unofficial site	rr	1
+venture capitalist firm	rre ventures	1
+bucks	rrd war fire	1
+capital letter	rr	1
+complicated configuration	rr piping configuration	1
+financial statement printer	rr donnelley	1
+technique	rra	1
+technique	rr	1
+technique	rras	1
+heat parameter	rr	1
+institutional and regional owner	rreef	1
+institutional investment advisor	rreef	1
+light industrial business	rr donnelly	1
+LPO company	rr donnelley	1
+reconfiguration message	rrc connection setup	1
+registered plan account	rrsps	2
+registered retirement plan account	rrsps	2
+registered retirement plan account	rrifs	2
+remote access server	rras	1
+respected real estate firm	rreef	1
+yummy rice dish	rriyani cam ayam	1
+arca swiss style quick release	rrs	1
+name	rroma	1
+capital assistance	rrap loan	1
+classical ncRNAs	rrna	2
+ECG signal processing technique	rr histogram analysis	1
+electric adapter	rrv eubiq adapter	1
+family medicine organization	rrc	1
+german fund	rreef	1
+name	rra	1
+case	rrt	3
+non family asset	rrsp's	1
+pulsating variable star	rr lyrae star	1
+registered trading account	rrsp self-directed trading account	1
+rejection message	rrj	1
+case	rri	1
+Turbo-props	rr dart on viscounts	1
+useless connection release trial	rrcconnection release signaling trial	1
+useless connection release trial	rrc connection release signaling trial	1
+xbox fault	rrod	1
+agricultural extension facilitation methodology	rra	1
+application type plugins	rre	1
+art technology center	rrc	1
+option	rra's lar- three hundred and eight  predator hp 	1
+option	rrs plate	1
+option	rrsp loan	1
+option	rrif	1
+option	rr % age	1
+option	rrsp life long learning plan	1
+balinese radio station	rri	1
+best-in-class technology company	rr donnelley	1
+bulk uxesontheIIBside	rr  three -form uxes 	1
+chassis change	rr spring change	1
+common rna-binding domain	rrm	1
+dedicated Army facility	rrs	1
+Dedicated RIs	rrim	1
+discontinuous rRNA	rrna sequence found in the mitochondria of chlamydomonas	1
+discontinuousrRNA	rrnasequence found in the mitochondria of chlamydomonas	1
+ECG test	rr interval	1
+electrochemical analysis method	rrde	1
+evolutionary marker molecule	rrna gene	1
+financial record company	rr donnelley	1
+firing rule model	rr r r	1
+focal company	rrc	1
+four-pulse sequence	rrrr	1
+full size ballhead	rrs bh- fifty-five 	1
+government regulatory commisions	rrc	1
+I. INTRODUCTION statistical theory	rrkm theory	1
+incremental search method	rr algorithm	1
+group	rroma	1
+institutional equity investor	rreef	1
+latest clone	rrislc  two hundred and five 	1
+mega-printers	rr donnelley	1
+mirnasofclosely related virus	rrv	1
+mobile treatment system	rrs	1
+modern liability coverage method	rrg	1
+mul-tigene family	rrna gene	1
+group	rrmr  three rd graders 	1
+nucleotide pattern	rrna transcription termination box	1
+ONCLUSION incremental sampling-based motion planner	rrt	1
+outwith experiment	rrp	1
+parametrized model	rre	1
+popular participation technique	rra	1
+prescribed plan	rrsp	2
+private saving model	rrsp system	2
+processing document	rrb--word   processing document	1
+radio protocol	rrc protocol	1
+random motion planning method	rrt	1
+RCC message	rrc connection request message	1
+RNA decoy	rre decoy	3
+RRC message	rrc connection request message	6
+rrn promoter	rrna p one 	1
+sample-based algorithm	rrt	1
+self-managed personal saving plan	rrsp	1
+method	rrediction strength	1
+Servo correction information	rro cancellation value	1
+shrinking portfolio	rrif	1
+single-query single-tree algorithm	rrt	1
+slow-rising river	rrn	1
+solution-response team team	rrt	1
+solving forum specific chain	rrr chain	1
+susceptible clone	rric  one hundred and three 	1
+SX Phoenicis variable	rr lyraes	1
+sync point co-ordinator	rrs	1
+tax free account	rrsp	1
+thesis different pulse-shaping filter	rrc filter	1
+traditional sampling-based motion planning algorithm	rrt	1
+transcription terminators	rrnb t one 	1
+transgenic seed	rr soybean	1
+two-stage trigger	rra match trigger	1
+upper-layer protocol entity	rrc entity	1
+tool	rrdtool	2
+win2k feature	rras	1
+XBox repair	rrod	1
+tool	rrt	1
+tool	rras	1
+project	rrdtool	1
+project	rrr	1
+place	rr tracks in san antonio	1
+technology	rrdtool for data storage	8
+technology	rrdtoolfordata storage	3
+product	rrs	2
+technology	rrd tool for data storage	1
+term	rrm	1
+parameter	rr	2
+parameter	rri	1
+system	rr telescopii	1
+system	rreducibly complex system	1
+species	rrs lesser antillean tanager	1
+condition	rrr project	2
+variable	rr variation	2
+product	rrsp	1
+variable	rrsp contribution	1
+device	rrim flow	1
+device	rrlotionless mixer	1
+brand	rrd	2
+brand	rrl	1
+component	rre	1
+site	rra	1
+task	rrr	1

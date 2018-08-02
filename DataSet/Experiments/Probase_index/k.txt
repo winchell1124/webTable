@@ -1,0 +1,11 @@
+variation	k	1
+physical parameter	k	4
+technique	k	1
+cotton filter	k	1
+high performance air filter	k	1
+aftermarket air filter	k	1
+freer-flowing air filter	k	1
+gauze filter	k	1
+high flow conical filter	k	1
+high flow filter	k	1
+variable	k	1

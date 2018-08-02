@@ -1,0 +1,1393 @@
+product	db two  related software product 	1
+product	db two  udb 	1
+product	db  twenty-five  male 	1
+initiative	db	1
+accessory	db seven  performance accessory 	1
+datum	db	2
+resource	dbsnp	4
+resource	db two  table 	3
+resource	db two  instance resource 	1
+resource	dbpedia	1
+resource	db two  rrs jdbc provider 	1
+resource	db wiki	1
+process	dbwr	1
+process	dbcc	1
+process	dbsrv	1
+process	dbcc dbreindex	1
+process	dbcc showcontig	1
+source	dblp	1
+source	dbase-compatible database file	1
+property	db name	1
+benefit	db pension plan	1
+benefit	dbol	1
+game	dbz game	2
+exception	dbrs	1
+exception	dba	1
+reason	dbms independence	1
+work	db row	1
+model	db nine 	1
+characteristic	dbh	1
+characteristic	db sensitivity	1
+category	db basics	1
+institution	dbsa	3
+institution	db ag	1
+client	dbe consulting	1
+document	dblp	2
+author	db buffa	1
+form	dbc- four 	1
+form	dbf file	1
+approach	dbt	4
+approach	dbscan	2
+approach	dbt excercises	1
+alternative	db row	1
+agency	dbl multi-media group	1
+object	db plan	1
+object	db two  table name 	1
+action	dbcc repair	1
+mechanism	dbms-level archival mechanism	1
+solution	db four o 	2
+solution	db mirroring	1
+feature	dbm	2
+feature	db two  high availability 	1
+star	dbsk	1
+structure	dbr laser structure	1
+film	dbef-d tv	1
+business	db	1
+field	dba resource	1
+band	db's	3
+part	dba brake rotor	1
+part	db- nine  connector 	1
+part	db- four a upgrade 	1
+operation	dbs factors	1
+operation	db two  data base utility 	1
+operation	dbs finance being integrated with p&s	1
+operation	dbms ``utility'' operation	1
+operation	db two  new 	1
+agent	dbcp	1
+cost	dba license	1
+development	dbpedia spotlight	3
+type	dbfo concession	1
+type	db two 	1
+venue	dbs auditorium a singapore	1
+consideration	dbms availability	1
+criterion	dbh	1
+criterion	db	1
+firm	dbs	1
+firm	db corp.	1
+firm	dbs vickers	1
+industry	db breweries	1
+favorite	dbby's ekg	1
+manufacturer	dbtel	1
+manufacturer	db technologies	1
+instrument	db piccolo	1
+instrument	db meter	1
+feature	db sound plastic pedals with chromoly axle	1
+feature	db two 's simple response file installation 	1
+attribute	dbh	1
+compound	dbcp	4
+class	db connection	1
+class	dbs	1
+position	db management	1
+unit	dbx  one hundred and fifty 	1
+basic	dbms system s minimum requirement	2
+musician	db hackett	2
+expense	db racing	1
+entity	db	1
+entity	dbsa	1
+entity	db two  instance 	1
+building	dbi-designed ultra	1
+feature	dbbs	1
+format	dbase	2
+format	db two 	1
+format	dbase dbf	1
+partner	dbs	1
+show	dbz	2
+advanced feature	dbms server multiplexing	1
+role	dba	4
+role	dba junior	1
+role	db administrator	1
+vendor	db two 	1
+customer	dbt group	1
+intervention	dbt	2
+effort	dbpedia	1
+scheme	dbs chola midcap	1
+environment	dbcs language environment	1
+environment	db two 	1
+designer	dbn poyzn	1
+award	db prize for offices of the future	1
+need	db	1
+chemical	dbcp andnitrofen	1
+chemical	dbp	1
+chemical	dbcp	1
+software	dbx	1
+software	dbpoweramp	1
+software	dbase	1
+module	dbi	2
+module	db nine  socket 	1
+provider	dbs satellite service provider	1
+exercise	dbq	1
+exercise	db chest press	1
+exercise	db bicep curl	1
+exercise	db fly	1
+exercise	db bench	1
+exercise	db major pentatonic	1
+exercise	db shoulder press	1
+exercise	db flat bench press	1
+exercise	db flys	1
+protein	dbl family protein	1
+competitor	dbs	1
+issue	dbcs code page	1
+issue	dbcp	1
+stakeholder	dbhs staff member	1
+local tourist attraction	dbkl city theatre	1
+language	dbase	1
+line	dba brake	2
+line	db drive	1
+package	db two  everyplace 	1
+therapy	dbt	3
+algorithm	dbscan	3
+series	dboys	1
+series	dbz	1
+car	db nine 	2
+car	db four 	1
+car	db nine  available for hire from scr supercar hire 	1
+car	dbs focus on performance first	1
+car	db markii	1
+rule	dbms specific rule	1
+utility	dban	3
+utility	dbpoweramp music converter	1
+utility	db editor	1
+utility	db two  import 	1
+file	dbf recovery fix memo file	1
+issue	db funding	1
+issue	dbms bug	1
+platform	dbfx	1
+platform	db two  client platform 	1
+service provider	db	1
+service provider	dbs satellite service provider	1
+error	db two  deadlock 	1
+error	db two  crash 	1
+bank	dbs	19
+bank	dbs bank	6
+user	dba	2
+user	dba in austin	1
+user	db two  administrator 	1
+operator	dbs system operator	1
+plan	db	1
+athlete	db eric berry	1
+stock	dbsk secret code latest poster	1
+stock	db realty	1
+basic information	db name	1
+prize	dba army	1
+sponsor	db si	1
+issue	dbms specific security issue	1
+database	db two 	92
+database	dbase	3
+database	dbsnp	3
+database	dbase iii	2
+database	db one 	1
+database	dbf	1
+forum	dbs talk	1
+keyword	db two  apis 	2
+keyword	dba	1
+carrier	db schenker	1
+web site	dbpedia	1
+advanced topic	dbms transaction	1
+suspect	dbe	1
+specialist	dba communication	1
+filter	db two  wavelet 	1
+command	dbr	2
+command	dbcc	1
+command	dbcc freesystemcache	1
+household name	dbs bank	1
+household name	dbs group holdings	1
+economist	dbs irvin seah	2
+economist	dbs bank's irvin seah	2
+famous name	dbsk	1
+datum source	db two 	3
+inhibitor	dbpc	2
+coach	db coach	1
+airline	dba	1
+division	db research	1
+tenant	dbs bank	1
+configuration	db fifteen  connector 	1
+configuration	db nine 	1
+configuration	db connection string	1
+framework	dbms postgresql	1
+financial institution	dbs	2
+financial institution	dbs bank	1
+staff	db analyst	1
+house	dbs securities	1
+pollutant	dbcp	1
+professional service	dbg  three hundred and sixty  accreditation package 	1
+interface	dbi	1
+priority	dbox  seven 	1
+software package	db two 	2
+software package	dbms	1
+catalyst	dbu	2
+catalyst	dbtdl for use in pu	1
+version	db two  for linux 	1
+server	db two 	2
+server	db two  universal database 	1
+treatment option	dbs in cluster headache	1
+certification	dbia	1
+lender	db mortgages	1
+base	dbu	10
+base	dbn	1
+confounding factor	dbp	1
+variant	dbo strategy used in the state	1
+instruction	db	1
+artiste	dbsk	2
+apparatus	dbr	1
+output	db	1
+commercial product	db two 	1
+extension	dbms access	2
+mistake	dbra winger	1
+modern technology	dbase	1
+flaw	db four  in the april  two thousand and eight  critical patch update 	1
+organic compound	dbcp	1
+item	db two 's native auditing functionality 	1
+software tool	db two 	1
+software tool	dbms	1
+system component	db two 	1
+system component	dbms	1
+degree	dba	5
+business service	dba registration	1
+computer program	dbase	1
+management tool	db two  warehouse manager 	1
+technological innovation	dbs pcr test	1
+background information	dbpedia	1
+leading company	dbb	1
+support group	dba	1
+table	dbtxds	1
+subsystem	db two 	11
+item	dbf pins	1
+diagnostic tool	dbe	1
+government department	dberr	1
+government department	dbh	1
+assessment tool	dbq	1
+technological development	dbs	1
+performance accessory	db seven  performance accessory 	1
+statement	dbcc showcontig	1
+statement	dbcc statement	1
+architecture	dbns	1
+independent variable	dbh	1
+file format	dbase	2
+treatment modalities	dbt	1
+popular artist	dbsk	2
+basic datum	dbh	1
+corporate client	dbsa	2
+software product	db two 	3
+software product	db two  performance modeling tool from bgs systems 	1
+software product	dbms kernel	1
+software product	db two  related software product 	1
+connector	db twenty-five 	2
+connector	db nine 	1
+pesticide	dbcp	1
+file type	dbase file	1
+security issue	dbms specific security issue	1
+national program	dbt	2
+implementation	db two 	1
+toxic chemical	dbcp	1
+lure	db smelts	2
+user group	db two  idug 	1
+programming language	dbase	1
+top artist	dbsg	1
+top artist	dbsk	1
+interactive tool	db two  command line processor 	2
+idol	dbsk	1
+laser	dbr laser	1
+public entity	dbsa	1
+constant	dblogons	3
+key partner	dbsa	1
+advancement	dbc jean	1
+alias	dbw	1
+alias	dbeardw	1
+established company	dbs bank	1
+research topic	db research topic	1
+big name brand	db drive	2
+product feature	dbv realm	1
+product feature	dbv command rule	1
+personnel	dba	1
+harsh chemical	dbp	2
+string	dbclass.cs.somewhere.edu from the tnsnames.ora file	1
+anime	dbz	2
+extreme situation	db failure on the primary db	1
+inspiration	dbz uncensored	1
+datasets	dbpedia	1
+sophisticated tool	dba use sophisticated tool	1
+service	dbpedia	3
+system resource	db two  table 	1
+system resource	db two 	1
+Plasticizers	dbp	2
+Plasticizers	dbbp	1
+language feature	dbcs	2
+ad	db heaven advertising db draught	1
+funding agency	dbsa	2
+funding agency	dbt	1
+prominent company	db schenker	1
+advertisement	db rottweiler tv ad	1
+edition	dbz ultimate	1
+surgical intervention	dbs of the ventralis intermedius	1
+development program	dbsa's development fund	1
+digital technology	dbs	1
+international client	db real estate	1
+national agency	dbt	1
+enterprise application	db two 	1
+traditional risk factor	dbp	1
+desktop application	dbmanager professional	1
+paperwork	dba certificate	1
+dependency	dbx data type	1
+system function	db date	1
+datum format	dbase	2
+datum format	dbm file	1
+directive	db	3
+young artist	dbsk	1
+blue chip	dbs bank	1
+blue chip	dbs	1
+blue chip	dbs group holdings	1
+animes	dbz	3
+free software	dban	1
+service	dbs television	1
+service	dba service	1
+service	dbt	1
+service	db two 	1
+application server	db two 	1
+application server	dbserver runs for long periods of time between reboots	1
+local bank	dbs	1
+multi-national company	db corp	1
+program component	dbe component of the civil rights program	1
+sophisticated application	db tools for oracle	1
+harmful ingredient	dbp	1
+professional course	dba	1
+treatment approach	dbt	1
+essential tool	db meter	1
+microprocessor	dbss	1
+database system	db two 	12
+database system	dbase	3
+database system	db two  udb 	1
+database system	dbase iv	1
+built-in function	db two  built-in function 	1
+modulation technique	dbpsk	1
+server application	db two 	1
+server application	dbms	1
+adapter	dbms sample adapter	1
+addons	dbm	2
+advanced degree	dba	1
+shipping option	db schenker	1
+conventional component	dbms	1
+reporting tool	db two  query management facility 	1
+defense contractor	dba systems inc.	1
+continuous datum	dbp	1
+database application	db two 	3
+database application	dbase	2
+popular singer	dbsk	3
+clustering algorithm	dbscan	2
+binary file	dbase	1
+topic	dbms	3
+topic	db two 	2
+topic	db research topic	1
+common program	dbpoweramp for pcs	1
+effective treatment	dbt	1
+hemodynamic parameter	dbp	1
+third party program	dban	1
+workload	db two  database serving 	1
+satellite system	dbs	1
+organic base	dbu	11
+organic base	dbn	2
+financier	dbs bank	1
+tertiary amines	dbu	1
+legacy system	dbase	1
+popular group	dbsk	2
+topic	db security	1
+topic	dba	1
+authorized user	dba	1
+famous restaurant	db modern	1
+railway	db	1
+psychosocial intervention	dbt	1
+MCs	dbpsk	1
+weak base	dbu	1
+enterprise solution	db two 	1
+standard measurement	dbh	1
+trustee	dbe	1
+control panel	db's	1
+database program	dbase	4
+database program	db two 	2
+database program	dbase v	1
+plasticizer	dbp	1
+topic	db	1
+relational database	db two 	19
+relational database	db two  udb 	2
+relational database	dbase	1
+office building	dbs bank	1
+sophisticated product	dbs currency linked investment	1
+database management system	db two 	28
+database management system	db two  v nine  by international business machines corporation of armonk 	1
+database management system	db two  udb j product 	1
+database management system	db two  universal database 	1
+database management system	dbase iii	1
+large database	db two 	1
+compromise	db's with greater awareness	1
+metric	dbe	1
+crossover	dbx driverack px	1
+financials	dbs	1
+supercars	dbs	1
+statutory authority	dbsi	1
+tumor suppressor gene	dbc two 	1
+equipment brand	dbx	1
+company	dbs	3
+company	dbb	2
+company	dba	2
+company	db realty	2
+company	dbs bank	2
+basic catalyst	dbu	2
+industry best practice	dbi	1
+property company	dbs land in singapore	1
+global bank	dbs singapore	1
+datum management service	dbs	1
+key performance -metric	db access time	1
+debugging tool	dbx	1
+tree characteristic	dbh	2
+access	db two  connect 	2
+commercial database	db two 	4
+security technique	db security technique	1
+oversight agency	dbm	1
+high volume application	dbs receiver	1
+simple resource	db two  table 	1
+company	dbs in pune	1
+company	dbt australia pty limited	1
+company	db schenker rail polska	1
+public database	dbsnp	4
+administration tool	db two  control center 	2
+bank stock	dbs group holdings	1
+eminent name	db realty	1
+GUI tool	db two  development center 	1
+IPOs	db realty	1
+live datum	db two 	1
+tabular datum	dbase files of city street tree inventory	1
+tabular datum	dbase file	1
+credit rating agency	dbrs	2
+datum resource	dbpedia	1
+sulfur-containing compound	dbt	1
+alternate technology	dbs	2
+database technology	db two 	2
+doctoral degree	dba	1
+therapeutic tool	dbt	1
+external database	db two 	2
+maintenance job	dbcc	1
+PBX feature	dbn	1
+common file type	dbase	1
+database function	db two  luw's hadr 	1
+database server	db two 	8
+real estate investment trust	db rreef trust	1
+top name manufacturer	dbi	1
+company	db netz	1
+company	db products	1
+company	db corp	1
+company	dbx	1
+company	db sound	1
+company	db schenker rail deutschland	1
+company	db kenney fisheries	1
+company	dbh transportation	1
+company	dbtel	1
+hemodynamic variable	dbp	1
+knowledge base	dbpedia	2
+popular database	db two 	6
+popular database	db two  udb 	1
+popular database	dbase	1
+ETF	db x-trackers msci india	1
+literary luminary	dbc pierre	1
+phthalates	dbp	11
+infrastructure area	dba	2
+laser source	dbr	1
+vegetation parameter	dbh	1
+high-volume application	dbs cellular telephone	1
+invasive therapy	dbs	1
+meaningful name	dbdsgrp name	1
+strong institution	dbs	1
+tertiary amine	dbn	3
+tertiary amine	dbu	3
+skilled person	db two  system administrator 	1
+solid company	dbs group holdings	1
+common file	db access function	1
+open source component	dbm library	1
+database platform	db two 	5
+IBM product	db two 	4
+IBM product	db two  document manager 	1
+IBM product	db two  content manager 	1
+IBM product	db two  intelligent miner 	1
+on-line store	dbkaraoke dot com	1
+activity	db backup	1
+database product	db two 	4
+database product	dbase iv	2
+external product	db two 	1
+private collection	dbs bank	1
+application platform	db two 	1
+database software	db two 	1
+worksheet	dbr worksheet	1
+analytical function	db two 's analytical function 	1
+base class	dbcommand	1
+base class	dbconnection	1
+debuggers	dbx	5
+formal source	dbb	1
+middleware product	db two 	1
+model compound	dbt sulphone	1
+post processing	db two nodes.cfg hostname change 	1
+professional doctorate	dba	2
+semiconductor laser	dbr	1
+signal processor	dbx	1
+database file	db two 	2
+large service provider	db systems	1
+plasmids	dbd-bait plasmid	1
+system operator	dbs system operator	1
+component property	dbgrid column title	1
+database type	db two 	2
+export format	dbase	1
+therapeutic practice	dbt	1
+treatment practice	dbt	1
+development finance institution	dbsa	3
+idol group	dbsk	4
+up-and-coming artist	db harris	1
+database vendor	db two 	2
+external authority	dbkl	1
+nasty chemical	dbp	1
+DBMS	db two 	5
+jack	db- twenty-five  jack 	2
+jack	db- nine 	2
+overseas bank	dbs bank	1
+resource manager	db two 	6
+brand handbag	db dooney & bourke	1
+global provider	db schenker	2
+DBMSs	db two 	8
+DBMSs	db two  relational dbms from ibm corp. 	1
+DBMSs	db two  universal database 	1
+forest parameter	dbh	1
+generation tool	db two  control center 	1
+industry-standard technology	db two 	1
+relational database management system	db two 	8
+sound feature	dbb	1
+skill training	dbt emotional regulation skill	1
+common unit	dbm	1
+debugger	dbx	4
+industrial estate	dbb-nha industrial park	1
+relational database system	db two  udb rdbms 	1
+relational database system	db two  product sold by ibm corporation 	1
+relational database system	db two 	1
+research degree	dba	1
+SQL database	db two 	1
+standard database	db two 	1
+top-name brand	db roth tripod	1
+vendor product	db two 	1
+amine base	dbu	1
+amine base	dbn	1
+Cyclic amines	dbu	1
+heavy task	db heavy task	1
+rating organization	dbrs ltd.	3
+RDBMS	db two 	5
+reading technique	dbr	1
+side factor	db connection management	1
+information	dba	2
+information	db b	1
+information	dba record	1
+information	dba paper	1
+information	dbase format	1
+government funding agency	dbt	1
+phthalate ester	dbp	2
+doctorate	dba	1
+implementers	db netz	1
+cardiac parameter	dbp	1
+effect processor	dbx	1
+idol star	dbsk	1
+Japanese anime	dbz	1
+local database	dbase	2
+nice tool	dban	1
+pharmacodynamic parameter	dbp	1
+talking therapy	dbt	1
+utility operation	dbms ``utility'' operation	1
+aston martin model	dbs volante	4
+aston martin model	db nine  volante 	1
+aston martin model	db nine  coupe 	1
+aston martin model	dbs coupe	1
+information	dbsnp id	1
+information	db user name	1
+information	db two  edition 	1
+client platform	db two  client platform 	1
+cutting-edge therapy	dbt	1
+kpop artist	dbsk	1
+nitrogenous base	dbu	1
+nitrogenous base	dbn	1
+spatial database	db two  spatial 	2
+application specific information	db connection string	1
+asian bank	dbs	3
+commercial database system	db two 	1
+commercial database system	dbase	1
+national operator	db schenker	1
+non-microsoft application	db two 	1
+payment service provider	dbs	2
+proprietary file format	dbase file format	1
+alternate program	dban	1
+boy group	dbsk	1
+custom action	db connection string	1
+database property	dbms product	1
+national guideline	db nine thousand eight hundred and one   two 	1
+standalone tool	dban	1
+androgenic steroid	dbol	1
+connected system	db two 	1
+database package	db two 	1
+government financial institution	dbp	3
+others system	dbs receiver	1
+program product	db two 	1
+research prototype	dbxplorer	1
+satellite service provider	dbs satellite service provider	1
+SM entertainment artist	dbsk	1
+tertiary amine base	dbu	1
+traditional database	db two 	2
+anti spyware program	dbase	1
+back-end database	db two 	2
+FIIs	db international	2
+realty stock	db realty	1
+second instrument	dbs probe	2
+standard software program	dbase	1
+well-known datum base system	db two 	1
+wrestling promotion	dbw	1
+XML database	dblp	1
+carbon black property	dbp value	3
+carbon black property	dbp absorption value	2
+category brand leader	dbs	1
+DBMS product	db two 	1
+DFIs	dbsa	2
+enterprise database	db two 	2
+generic format	dbase	2
+local studio	db in lusaka	1
+modern database	db two 	1
+module type	db two  ddl statement 	1
+tree attribute	dbh	1
+brake upgrade	dba brake	1
+desktop database	dbase	4
+digital model	dbx pro vocal	1
+event	db drags	1
+program	dbase	5
+program	dbms	4
+file-based datum source	dbase	1
+IBM tool	db two  test database generator 	1
+IBM tool	db two  audit management expert 	1
+k-pop group	dbsk	1
+popular clustering algorithm	dbscan	1
+private domain	db's	1
+production-ready service	dba managed services	2
+RDBMSs	db two 	2
+software course	dbms	1
+table option	dbms name option	1
+today top quality brand	db drive	1
+tree variable	dbh	1
+volatile pesticide	dbcp	1
+BSE realty index constituent	db realty	1
+commercial and open source database	db two 	1
+configurable component	dbms mapping component	1
+datum server	db two 	1
+deep diving lure	db three 	1
+external processor	dbsp for oracle database access	1
+GEFs	dbl	5
+GEFs	dbland vav	1
+generic account	dba password	3
+Microbicides	dbnpa	3
+program	dbase iv	2
+program	dban	2
+program	dban for sparc system	2
+program	db power amp	2
+ODBC compliant database	db two 	8
+online utility	dbaccess	1
+server database	db two 	1
+traditional clustering algorithm	dbscan	1
+traditional information system	dbms	1
+unilateral movement	db bench press	1
+variety database	db two 	1
+vibrant, quality independent merchant	dbm wines	1
+back-end application	dbs	1
+Commercial DBMSs	db two 	1
+control accessory	db resistor	1
+credit-rating firm	dbrs inc	1
+DB2 library	db two  reslibs 	3
+DBMS system	db two 	1
+default account	dbsnmp	1
+newest medium technique	dbs using future tv technique	1
+north carolina artist	db's	2
+oncogene product	dbl	1
+program	dbase iii	1
+program	dbms copy	1
+powerful database	db two 	1
+powerplants	db  nine - sixty sl 	1
+powerplants	db  nine - six hundred and fourteen 	1
+standard APIs	dbi	1
+circuit substrate	dbc substrate	3
+client-server database	db two 	1
+complicated scenario	dbi inationrequirespecication of an extra free function	1
+database client	db two  database client 	1
+file family	dbase table	6
+fundamentalist institution	dbts	1
+GEPs	dbl	2
+inventive product	dbx for oracle	1
+leading broker	dbs vickers securities	1
+memory size	db cache size	2
+ODBC compatible database	db two 	1
+organic tertiary amine base	dbn	1
+organic tertiary amine base	dbu	1
+popular da tabases	db two 	1
+popular database program	dbase iv	1
+relational DBMS	db two 	1
+singapore bank	dbs bank	1
+singapore bank	dbs group	1
+splendid sport car	dbs	1
+SQL server database	db two 	1
+stand-alone server	db two 	1
+state-of-the-art technical skill	db two 	1
+strategic base IBM middleware product	db two 	1
+value-added outsourcing software development service	dbms development	1
+video distribution system	dbs	1
+analytical and reporting tool	dbi	1
+autosound feature	dbx hi-fi stereo sound	1
+auxiliary catalyst	dbu	1
+cable competitor	dbs	1
+connection pool	dbcp in tomcat	1
+database file format	dbase	1
+DB product	dbase iv	2
+factor	dbh	1
+factor	dbms	1
+domestic foreign bank	dbs	1
+enterprise database system	db two 	4
+excerises	db flys	1
+exeptions	dbm - grid - pp	1
+FIA car	dbr nine 	1
+great anime show	dbz	1
+great contemporary feature	dbl pane window	1
+high availability technique	db mirroring & database snapshot	1
+IBM middleware product	db two  universal database 	1
+initial study datum	dbp	1
+large connector	db- nine 	1
+large connector	db- twenty-five 	1
+mainframe technology	db two 	1
+MPE utility	dbutil	1
+Nowadays many commercial DBMS	db two 	1
+popular database application	dbase iv	1
+popular database system	db two 	1
+popular RDBMS	db two 	2
+purpose object	db connection	1
+query capability	db inquiry	1
+real life competition	db competition	1
+secondary lift	db row	1
+secondary lift	db shoulder press	1
+secondary lift	db bench	1
+server-based database	db two 	1
+server-based database system	db two 	1
+organization	dbs	3
+SQL engine	db two 	1
+subminiature connector	db twenty-five 	1
+testing database	db two 	1
+third-party plugins	db&w's exrtrader	1
+top local school	dbs	1
+top-level component	db connection pool	1
+well-known database system	db two 	1
+alternate movement	db press	1
+alternate movement	db bent row	1
+american senator	db harry reid	1
+application specific tool	dbsecure's sql auditor	1
+basic DBCC command	dbcc freeproccache	2
+basic DBCC command	dbcc sqlperf	1
+basic DBCC command	dbcc dropcleanbuffers	1
+basic DBCC command	dbcc freesystemcache	1
+basic health check	dbcc checkalloc	2
+boring head	dbl boring head	1
+bulky ligands	dbpf	1
+commercial GIS program	db two 	1
+commercial or industrial chemical	dbcp	1
+common database server	db two 	1
+database agent	db two 	1
+database management language	dbase iii	1
+database management package	dbase	1
+datum base management system	db two 	2
+DB2 tool	db two look command 	2
+desktop database management system	dbase	1
+desktop database system	dbase	1
+development finance agency	dbsa	1
+disk-optimized relational database	db two 	3
+doctorate level degree	dba	2
+end user development system	dbase two 	1
+engine requirement	db engine requirement	1
+organization	dbs bank	1
+evidence-based psychotherapy	dbt	1
+evidenced based practice	dbt	1
+external computer cable	db twenty-five  serial cable 	1
+external computer cable	db nine  serial cable 	1
+external relational database	db two 	1
+famous DBMSs	db two 	1
+government financing institution	dbp	1
+great anime series	dbz	1
+grid control	dbgrid in delphi	1
+guy group	dbsk	1
+highest risk commodity	dbb	1
+income scheme	dbs chola mip	1
+leading software product	dbase	1
+logistical parameter	dbr rate	1
+male idol group	dbsk	1
+middleware software	db two  datajoiner 	1
+modern database management system	db two 	1
+modern RDBMSs	db two 	1
+modern relational database server	db two 	1
+multimedia communication signal	dbs signal	1
+native pc-type database	dbase	1
+noise reduction system	dbx	1
+organocatalysts	dbu	1
+parallel database management system	db two 	1
+popular desktop database	dbase	1
+popular relational database	db two 	2
+organization	dbsa	1
+relational source	db two 	1
+renowned tenant	db schenker	1
+sevral modulation scheme	dbpsk	1
+software subsystem	db two 	1
+SQL maintenance command	dbcc checkalloc	1
+SQL maintenance command	dbcc checkdb	1
+SQL maintenance command	dbcc updateusage	1
+SQL maintenance command	dbcc checkcatalog	1
+technology specialist	dbas	1
+transitional phthalates	dbp	6
+TV output	db- fifteen  vga 	1
+web database application	db two 	1
+64-bit value	dbl control	1
+american alternative band	db's	1
+amidines	dbu	1
+amidines	dbn	1
+architecture related issue	db schema	1
+audio video source	dbs satellite receiver	1
+basic information security monitoring function	db audit	1
+technique	dbt	2
+technique	dbe	1
+bibliography service	dblp	2
+blue-chip institution	dbs	1
+bridge bwteeen database engine	dbase	1
+cognitive and creative technique	dbt	1
+commercial DBMS	db two 	1
+commercial RDBMS product	db two 	1
+Commercial relational DBMS	db two 	1
+common oral steroid	dbol	1
+common scalable database	db two 	1
+commonly-used database format	db two 	1
+conclusion designation	dbe	1
+COnenction string information	db name	1
+conventional database management system	db two 	1
+countless method	dba	1
+database connection	db two  connect server 	2
+datum description	db link	3
+DBMS datum source	db two 	1
+dedicated clinical application	dbs	1
+density-based clustering algorithm	dbscan	2
+dialkyltin compound	dbt	1
+digital bibliographic service	dblp	2
+doctoral level degree	dba	4
+doctorate academic designation	dba	1
+enterprise-ready database	db two 	1
+established database engine	db two 	1
+everyone's favorite k-pop group	dbsk	1
+evidence-based mindfulness practice	dbt	1
+exchange factor	dbl	1
+extensive experience front-ending system	dbs	1
+external database user interface	db two  command center 	2
+facilitated psycho-educational group	dbt	1
+free format keyword	dbdesc	1
+technique	dba	1
+technique	db security technique	1
+IBM datum management system	db two 	1
+indexed table map type	dbm	1
+industry-standard relational database	db two 	1
+JCL parameter	db two  library 	1
+large knowledge base	dbpedia	5
+lowcost airline	dba	1
+mid-ranges	db  six hundred and ninety 	1
+modern DBMS	db two 	1
+modern digital television service system	dbs system	2
+noise-reduction system	dbx	1
+non-oracle system	db two 	1
+application	db two 	10
+application	dbms	2
+nowadays technical and sociological advance	dbs	1
+object database	db four o 	1
+object-relational DBMS	db two 	1
+OCX control	dbgrid	1
+others developer	db realty	1
+outdoor wedding venue	dbg	1
+pe-backed firm	db corp.	1
+played various role	dba	1
+polar column	db- five 	1
+popular SAP database	db two 	1
+powerful back-end processing application	dbms query engine	1
+PPP model	dbo	2
+PPP option	db	1
+product-specific fix pack	db two  query patroller 	2
+purpose commercial database system	db two 	1
+RDBMS software	db two  product sold by ibm corporation 	1
+Relational database software	db two 	1
+resource-intensive command	dbcc checkdb	2
+resource-intensive command	dbcc shrinkdatabase	1
+resource-intensive command	dbcc dbreindex	1
+Rho GEFs	dbl	1
+sample essay	dbq essay	1
+SAP operation database	db two 	1
+side medium producer	db five  art 	1
+simple organic nitrogen base	dbu	1
+singapore-based bank	dbs bank	1
+singapore's local bank	dbs	4
+SM star	dbsk	1
+SQL database system	db two 	1
+subsequently various parameter	dbh	1
+application	db two  extended enterprise edition 	1
+application	db two  control center 	1
+application	dbx	1
+application	dbpedia	1
+application	db- three hundred and three  by pulse code 	1
+application	dbase	1
+tertiary alkylamines	dbu	1
+theraputic approach	dbt for the treatment of ptsd symptom	1
+traditional desktop database	dbase	1
+traditional stand attribute	dbh	1
+trees growth parameter	dbh	1
+web-scale datum service	dbpedia	1
+well-known pigmeat company	dbc foodservice	1
+widely-used database	db two 	1
+advanced density-based clustering algorithm	dbscan	1
+application enabler	db two  udb for aix 	1
+archive-based application	dblpxml document	1
+automated auditing tool	dblog for log review	1
+bandwidth optimization method	dba	1
+bibliographic server	dblp	1
+bill veteran	dbs darnell brinkley	1
+brightness enhancing film	dbefs made of polarizers	1
+bulky donor	dbb	1
+business database program	db three 	1
+california native american company	db builders	1
+case relational database	db two 	1
+CCPs	dbg's eurex clearing	1
+character encoding scheme	dbcs	2
+circadian promoter element	dbp binding element	1
+classic compressor	dbx  one hundred and sixty 	1
+classic ISAM database	dbase	1
+commercial and open-source software	db two 	1
+compander system	dbx system	1
+comprehensive, relational database management system	dbase	1
+Conclusion Chiral aminoalcohols	dbne  two 	1
+conifer variable	dbh	1
+Conventional DBMSs	db two 	1
+core file debugging tool	dbx	2
+culms datum	dbh	1
+customizable reporting	db access	1
+danish shipping company	db norden	1
+database console command	dbcc checkfilegroup	2
+database console command	dbcc checkdb	2
+database management application	dbase	1
+database-management package	dbase	1
+day DBMS	db two 	1
+DB2 authentication information	db two  instance name 	1
+DB2 work	db two  stored procedures 	1
+DB2 work	db two  distributed work 	1
+dbl family protein	dbl	3
+decent concept	dbz tenkaichi style bleach game	1
+decent V12 GT	db nine 	1
+descriptive token name	dbmgtxx for dba token	1
+disjoint workload	db  two and open m ail 	1
+early-day giant	db five 	1
+early-day giant	db four 	1
+edge treatment technique	dbt	1
+Enterprise DBMSs	db two 	1
+enterprise-class DBMSs	db two 	1
+ETL product	db two  warehouse manager 	1
+european railway	db	1
+exciting new satellite service	dbs	1
+forest stand parameter	dbh	1
+free database software	db two  express-c 	1
+freight operating company	db schenker	1
+General-purpose database software	dbase from borland	1
+general-purpose datasets	dbpedia	1
+genomic annotation track	dbsnp	1
+genuine fuji electric optional device	db resistor	1
+good time table	db timetable	1
+government-sponsored financial institution	dbsa	1
+higher-end database	db two 	1
+high-performance database management system	db two 	1
+host system debuggers	dbx	2
+IBM i-specific functionality	dbi database	1
+IFA firm	dbs	1
+industryleaders	dbia	1
+industry-standard relation DBMS	db two 	1
+infrastructure team	dba	1
+initiated 10g new feature implementation	dbms scheduler	1
+Introduction A bibliographic Digital Library	dblp	1
+ISAM technology	dbase	1
+large, service-oriented organization	dbs bank	1
+largedatasets	dbpedia	2
+lawson utility command	dbload	1
+leading RDBMS product	db two 	1
+legacy database	dbase	1
+legacy resource manager	db two 	1
+leg-acy resource manager	db two 	1
+lifting-based wavelet filter	db four 	1
+lifting-based wavelet filter	db six 	1
+factor	dbs's competition with cable operator	1
+factor	db sensitivitiy	1
+case	dbs	2
+mainframe utility program	db two 	1
+mainstream database	dbaseand foxpro	1
+maintenance DBCC statement	dbcc checkdb	1
+maintenance DBCC statement	dbcc checkalloc	1
+mass-produced kiwi ale	db	1
+mature database	db two 	1
+microcomputer tool	dbase	1
+Mike's tv series	dby	1
+mumbai-based peer	db realty	1
+neuromodulation therapy	dbs for parkinsons's disease	1
+novel neurostimulation therapy	dbs	1
+object oriented database	db four o 	1
+object-relational DBMSs	db two 	1
+object-storage system	db four o project 	2
+object-storage system	db fourty  project 	1
+online bibliographic database	dblp in computer science	1
+outdoor antennas	db eight  multidirectional hd antenna available at www.antennadirect.com 	1
+outside bubble-pop anime	dbz	1
+outside rating agency	dbrs	1
+PC type datum source	dbase	1
+PC-based product	dbase iv	2
+personal computer package	dbase	1
+phthalic ester	dbp	1
+physical-chemical material datum	dbp number	1
+case	db traffic using dscp of af thirty-one 	1
+case	db connectivity error	1
+case	db applications without document support	1
+postgraduate and professional course	dba	1
+postgraduate student	dba student	1
+power ratio	dbm	1
+powerful datum source	db two 	1
+program-specific cost	db contribution	1
+quality outboard processor	dbx compression	1
+refractory sulfur compound	dbt	1
+regular database maintenance task	dbcc dbreindex	1
+relational database manager	db two 	1
+relational database product	db two  from the international business machines corporation 	1
+relational datum source	db two 	1
+RhoGEFs	dbl	1
+setup daily maintenance job	dbcc	1
+shared predefined password	dba account	1
+single feature track	dbpit's silent night	2
+site-associated chemical	dbcp	1
+somedatasets	dbpedia	1
+sophisticated RDBMS package	db two 	1
+sound processor	dbx	1
+sporty GT car	db- nine 	1
+standard DB2 tool	db two  configuration assistant 	1
+standard DB2 tool	db two  command line 	1
+standout recruit	db david batts	1
+stream anime	dbz	1
+option	db two 	4
+option	db optimizer tracing	2
+option	dbase file	1
+option	db	1
+telecommunication broadband service	dbs	1
+third-party command line agent	db two 	1
+toc-based operation management technique	dbr	1
+Traditional on-disk RDBMSes	db two 	1
+travel related form	dbaf	1
+UK professional doctorate	dba	1
+vernacular newspaper	db corp	1
+video satellite application	dbs service	1
+voice-over work	dbza	1
+well artist	dbsk	1
+WLM tool	db two  governor 	1
+WLM tool	db two  query patroller 	1
+xml-enabled database	db two 	1
+active relational database system	db two 	1
+Additionalmiddleware software	db two  datajoiner 	1
+administrative utility	dbw	1
+advanced relational database	db two  from ibm 	1
+alargeback-ground knowledge base	dbpedia	1
+aliphatic dibasic ester	dbe- three  from dupont 	1
+art electrical connector	db- fifteen  connector 	1
+asset backed security fund	db zwirn & co	1
+option	dbb turbos	1
+option	dbpoweramp audio player	1
+Basically certain datatypes	db two  clob 	1
+best practice command	dbcc reindex	1
+bibliographic network	dblp	1
+Bicyclic amidines	dbu	1
+biguanides drug	dbi	1
+big-vendor scale-out offering	db two  purescale 	1
+bpd-specific therapy	dbt	1
+broadcast microwave system	dbs	1
+camp elevator	dbcamp	1
+camp-enhancing agent	dbcamp	1
+case-insensitive DBMS	db two 	1
+cognitive and behavioural-based therapy	dbt	1
+commercial coating	db one 	1
+commercialDBMS	db two 	1
+common database system	db two 	1
+competitive delivery service	dbs	1
+complex, frequency-selective, resonator	dbr	1
+comprehensive principle-driven treatment	dbt	1
+contemporary relational datum base system	db two 	1
+continental european exchange	dbag	1
+cross service resource	dba resource	1
+cult name	db nine 	1
+cutting-edge therapeutic approach	dbt	1
+database consistency check	dbcc checkalloc	1
+database export format	db two 's default ixf format 	1
+database framework	dbase ii	1
+database management file	dbase	1
+database role	db owner	1
+data-entry program	dbase	1
+datum comparison tool	db diff	1
+datum directive	db	1
+DB game	db phoenix	1
+DB manager	db two 	1
+DB system	db two 	1
+DB2 Client	db two  runtime client 	3
+DB2 connect server product	db two  connect enterprise edition 	2
+DB2 GUI tool	db two  control center 	1
+DB2 System	db two  system d 	1
+DB2 toolsrequire certain service	db two  control center 	1
+DB2 UDB service	db two  database administration server 	1
+db-relevant tcodes	db thirteen 	1
+DBS specific forum	dbs talk	1
+dedicated disk utility	dban	1
+dendrometric datum	dbh	1
+density-based algorithm	dbscan	3
+density-based method	dbscan	2
+description file	dbc database	1
+developer utility	db code generator	1
+DH domain-encoding transforming gene	dbl	1
+dibasicesters	dbe	1
+digital pay-tv system	dbs	2
+distributed calculation method	db loss	1
+dynamic optimization system	dbt system	1
+group	dbt	3
+group	dbsk	3
+EIS resource	db two 	1
+elasticized lanyard	dbi shockwave two  lanyard 	2
+ELATED W ORKS previous method	dbscan	1
+export utility	db two  data export 	1
+expressed sequence tag database	dbest at the national center for biotechnology information	2
+extended character set	dbcs	1
+extensive SQL programming task	db maintenance	1
+file-conversion program	dbpoweramp music converter	1
+filter's numerous larger public datasets	dbsnp	1
+fixit tool	dbfclean	1
+flexible input file	db two  table 	1
+folder file	dbx files in outlook express	1
+forum product	db two 	1
+full function DB2 Connect product	db two  connect personal edition 	1
+generic software development tool	dbms	1
+good symbolic debugger	dbx on bsd-derived system	1
+grade DBE	dbe	1
+Group coaching	dbt's run clinic	1
+high power satellite	dbs satellite	1
+high speed datum offering	dbs for dish	1
+innovative doctoral degree	dba in social impact management	1
+international brokerage firm	dbfx	1
+international rail company	db schenker	1
+international standard contract type	dbfm	1
+INTRODUCTION bibliographic digital library	dblp	2
+ISAM database engine	dbase	1
+isreali company	dbmotion	1
+large 64-bit application	db two 	1
+large datum type	db two  longvarchar 	1
+large transaction centric application	db two  universal database 	1
+leading relational database	db two 	1
+letter hebrew root	dbr	1
+loose form movement	db row	1
+mainframe database system	db two 	1
+mainframe product	db two 	1
+membrane permeable camp analog	dbcamp	1
+memorable literary technique	dbc pierre's use of the word stuss-tistically'' by the cop in vernon god little	1
+microcomputer database management package	dbase iv by ashton tate	1
+Microcomputer database management software	dbase iv	1
+minor relational database engine	dbase	1
+Mirroring datasets	dbpedia	1
+modern SQL database	db two 	1
+MVPD service provider	dbs operator	1
+nano item	db boot	1
+non-conventional DBDs	dbd of dax- one 	1
+nonequilibrium discharge	dbd	1
+non-federated database system	db two 	1
+non-intrusive ODBMS	db four o 	1
+non-linear scale	db	1
+non-polar column	db- five 	1
+nonpolar GC column	db- five 	1
+group	dbs	1
+method	dbscan	2
+method	db access	1
+method	dbt	1
+off-the-shelf database product	dbase iii	1
+optional datum source property	db two  sslconnection custom property 	1
+oracle's admin utility	dba studio	1
+ORDBMS product	db two 	1
+own-brand name	db direct mc	1
+P3s	dbfo of a hospital	1
+parallel database	db two  parallel edition 	1
+pay-television provider	dbs	2
+pediatric HIV activity	dbs collection	1
+PeopleSoft database type	db two 	1
+performing remedial lift	db external rotation elbow on knee	1
+phase sensitive application	dbf antenna	1
+PHP debugging software	dbg	1
+PHP library	db from pear	1
+Phthalate ester plasticizer	dbp	1
+polycyclic organic sulfur compound	dbt	1
+popular feat	db nine 	1
+precompiler option	db two 	1
+preferred embodiment base	dbu	1
+production grade database	db two 	1
+progrherewoulss	dbms copy erps	1
+project startup parameter	db databasename	1
+public domain SNP database	dbsnp	1
+push type exercise	db bench	1
+RDBMSes	db two 	1
+Realdatasets	dblp	1
+realty sector stock	db realty	1
+regular consistency check	dbcc check	1
+RELATE database program	dbase	1
+relational database management system software	db two  product sold by ibm corporation 	1
+Remote DB2 resource usage	db two -to-db two  on behalf of a requesting connection 	1
+replication source	db two  table 	1
+required keyword	dbd keyword	1
+RF power terminology rf-specific term	db	1
+rf-specific term	db	1
+rigid and controlling therapy program	dbt	2
+sample XML document	dblp	1
+schema analysis tool	dbe software s database examiner	3
+Self-registering DLLs	dbctrs perfmon plugin dll	1
+method	dbsacn	1
+sequential density-based clustering algorithm	dbscan	1
+Simple bicyclic amidines	dbn	1
+singaporean bank	dbs group	1
+sirt1-interacting protein	dbc one 	1
+SM entertainment group	dbsk	1
+small private sector bank	dbs	1
+software sub-domains	dbmss	1
+South African DFIs	dbsa	1
+SQL database manager	db two  universal database 	1
+sql-based database manager	db two 	1
+Stacked LNBs	dbs lnbs on a superdish	1
+standard debugger	dbx	1
+Summary A transaction system	db two 	1
+sun studio tool	dbx	1
+super-privileged user	dba	1
+table-valued function	dbo.split from string concatenation	2
+teradata's computer	dbc  one thousand and twelve 	1
+themore minor relational database engine	dbase	1
+thesedenitions	db-outlier given by knorrand ng	1
+third party structured datum	dblp ora phonebook	1
+third-party software use database	db two 	1
+transient discharge	dbd	1
+Typical debuggers	dbx	1
+undirected graph model	dbxplorerand discover	1
+undocumented trick	dbcc log	1
+vertical angle	dbe	1
+tool	dban	4
+tool	db two  performance monitor 	2
+tool	dbe vs. carbon number plot	2
+tool	db two  visual explain 	2
+tool	dbunit for managing test datum	2
+tool	dbt technique	1
+tool	db console	1
+tool	db s	1
+VLBI technique	dbbc	1
+well-known old name	db deodhar	2
+XS-based module	dbi	1
+tool	dbase	1
+tool	db two  datapropagator 	1
+tool	db two  performance monitor from the db two  control center 	1
+tool	dba use sophisticated tool	1
+tool	db two  warehouse manager 	1
+tool	db two  query monitor 	1
+tool	dbg	1
+tool	dbms	1
+tool	dbloadng from the csl	1
+tool	db two  spufi 	1
+tool	db two  control center 	1
+tool	dbx	1
+tool	db ghost	1
+product	db two 	8
+product	dbase	7
+project	dbis projectat maryland	1
+project	dbi	1
+project	dbpedia	1
+project	dbow ramp extension	1
+artist	dbsk	2
+artist	db's	1
+artist	dbsk's trio	1
+artist	dbr	1
+material	dbtools user manual	1
+place	db check	1
+place	dbc marine safety systems	1
+player	dbrs	1
+player	db troy pindell	1
+player	db joe valerio	1
+player	dbpoweramp audio player	1
+player	db james salcido	1
+technology	db two 	4
+technology	dbs becoming	1
+technology	db two e 	1
+product	db demolition bucket	1
+product	db- nine  rs- four hundred and eighty-five  termination offered by national instruments 	1
+product	dbase iv rel	1
+product	db two  by ibm 	1
+product	db two  connect from ibm 	1
+product	dbaseiv	1
+product	dbsign from gradkell systems	1
+technology	dbs service	1
+technology	dbw	1
+technology	db mappings	1
+technology	dbase	1
+term	db	14
+term	dbm	2
+term	dbfo	2
+term	dbuv	1
+parameter	db	2
+parameter	dbp formation	1
+parameter	dbp	1
+system	db two 	4
+system	dbms	2
+system	dbase iv from borland international	2
+system	dbcs	1
+system	dbx	1
+measure	db	1
+measure	dba	1
+variable	dbh	3
+variable	dbm	1
+variable	db two node 	1
+product	dbu	1
+variable	db two system system environment variable 	1
+variable	db two instance 	1
+variable	dbp	1
+variable	db two instdef general registry variable 	1
+function	db management	1
+function	db two 's analytical function 	1
+function	db two  built-in function 	1
+function	dbms package	1
+device	dbs receiver	3
+device	dbe	1
+brand	dbs	2
+brand	dboys	1
+brand	dbx	1
+brand	dbi sala	1
+brand	db shoes	1
+brand	db technologies	1
+concept	db-bpsk scrambling	1
+concept	db two  file access 	1
+concept	db schema design	1
+component	db two 	2
+component	db two  server 	1
+component	db writer	1
+component	dba studio	1
+component	db two  alphablox 	1
+component	dbx gear	1
+component	db two  connect 	1
+task	db two  service task 	2
+task	db two  udb 	1
+task	db heavy task	1
+task	dbem analysis	1

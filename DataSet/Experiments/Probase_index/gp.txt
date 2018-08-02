@@ -1,0 +1,3853 @@
+factor	gpa	2
+initiative	gp fundholding	2
+initiative	gps with special interest	1
+initiative	gp contract	1
+initiative	gps-equipped device	1
+initiative	gp communication award	1
+initiative	gp two gp record transfer 	1
+accessory	gps	26
+accessory	gps system	7
+accessory	gps device	3
+accessory	gprs router	2
+accessory	gpw performance accessory	1
+accessory	gps unit	1
+accessory	gps battery	1
+accessory	gps satellite positioning system	1
+accessory	gps system for self navigating new zealand at an added price	1
+accessory	gpu cooler	1
+accessory	gps navigation system	1
+accessory	gps navigation device	1
+accessory	gps eye piece	1
+accessory	gps navigation	1
+accessory	gps capability	1
+accessory	gps data logger	1
+accessory	gps equipment mount	1
+accessory	gps navigator	1
+accessory	gps locator	1
+datum	gps datum	4
+datum	gps	4
+datum	gps location	3
+datum	gps position	3
+datum	gps track	2
+datum	gpr	2
+datum	gps bearing to waypoint	1
+datum	gps also record datum	1
+datum	gps ephemeris datum	1
+datum	gp practice code validity	1
+datum	gpu clock	1
+datum	gps accuracy	1
+datum	gps satellite imaging	1
+datum	gps points	1
+datum	gps position information with a voice transmission	1
+datum	gpo name	1
+resource	gps	3
+resource	gps vehicle tracking device	2
+resource	gps navigation system	2
+resource	gpus	2
+resource	gps device	1
+resource	gpo access	1
+resource	gp essays from rjc	1
+resource	gps exploration sheet	1
+resource	gps monitoring	1
+facility	gp surgery	5
+process	gpu	1
+process	gppac	1
+process	gps navigation	1
+source	gp registration	1
+benefit	gp telephone consultation helpline	1
+benefit	gp telephone consultation	1
+game	gp four 	1
+game	gpu intensive game	1
+game	gpu reported about  one hundred and fifty f 	1
+subject	gps map reading	1
+exception	gpu	2
+exception	gppp client	1
+exception	gps navigation	1
+exception	gp partners in north brisbane	1
+exception	gp care	1
+product	gps vehicle tracker related product	1
+reason	gps failure	1
+work	gps program work	1
+model	gp anesthesia training program	1
+characteristic	gprs link characteristic	1
+characteristic	gpgpu support	1
+word	gp in the english language	1
+category	gps	3
+category	gps unit	1
+category	gpu	1
+category	gp priority provision	1
+institution	gpo	3
+change	gps capability	1
+change	gpc	1
+client	gp surgery	1
+client	gpt	1
+client	gpo	1
+document	gps point	1
+document	gps track record	1
+document	gp letter	1
+feature	gps	244
+feature	gps navigation	36
+feature	gprs	13
+feature	gps tracking	8
+feature	gps locator	4
+feature	gps receiver	4
+feature	gps location	4
+strategy	gp education	2
+strategy	gps device	1
+person	gp	2
+approach	gp one hundred and twenty -cd four  cross-linked immunogens 	2
+approach	gpms	1
+idea	gps	2
+idea	gps model of assessment	1
+matter	gpd guideline	1
+alternative	gps	4
+alternative	gps ankle bracelet	1
+alternative	gp service	1
+alternative	gps system	1
+effect	gps bias effect	1
+agency	gpo	3
+agency	gp practice	2
+agency	gp shared care scheme	1
+agency	gpdamh deal with the clients every day	1
+object	gps device	2
+course	gp update course	2
+course	gps line running	1
+location	gp surgery	1
+location	gp practice	1
+mechanism	gp reception staff	1
+solution	gps	6
+solution	gps surveying	1
+solution	gps tracking	1
+solution	gps system	1
+solution	gprs terminal	1
+solution	gpsone configurations setting	1
+solution	gps trailer tracking	1
+feature	gps driven hsi	3
+feature	gps system	3
+feature	gps navigation system	3
+feature	gps capability	3
+feature	gps support	3
+feature	gps functionality	2
+feature	gps waypoints	2
+feature	gprs while roaming	2
+feature	gps-enabled fleet	2
+book	gpu gems	1
+book	gps waypoints	1
+structure	gp consortium	1
+field	gps	2
+field	gps technology integration	1
+field	gpstimestamp	1
+field	gp treatment	1
+procedure	gpc	1
+part	gps antenna	2
+part	gp style	1
+part	gpib address of the ena	1
+part	gpu's	1
+school	gp composite high school	1
+amenity	gps system	2
+amenity	gp's	1
+practice	gps simple practice	1
+title	gp vts	1
+ingredient	gpc brain food	1
+operation	gpu code compilation	1
+agent	gpr one hundred and nineteen  agonists 	1
+agent	gp iib-iiia inhibitor	1
+circumstance	gprs signal strength	1
+cost	gps rental charge	1
+development	gps	8
+development	gps surgery	1
+venue	gps navigation device	1
+consideration	gps ankle restrictions with home confinment	1
+consideration	gps units on the miner	1
+criterion	gpa	3
+firm	gps tours canada in banff	2
+firm	gpu gasnet	1
+industry	gps navigation industry	1
+requirement	gps	2
+requirement	gpa requirement	1
+requirement	gpa	1
+requirement	gpa performance	1
+requirement	gpas	1
+job	gp	2
+drug	gpiibiiia platelet inhibitor	1
+drug	gpcr gtp-binding protein-coupled receptor drug	1
+test	gpu loading	1
+test	gps order diagnostic imaging test	1
+indicator	gp referral	2
+indicator	gps observational quality indicator	1
+manufacturer	gps unit manufacturer	1
+manufacturer	gps receiver manufacturer	1
+manufacturer	gps other manufacturer	1
+manufacturer	gps watch manufacturer	1
+instrument	gps	9
+instrument	gp fourty  gradient pump 	3
+instrument	gps system	2
+instrument	gps receiver	2
+instrument	gps unit	1
+instrument	gps device	1
+feature	gps-based navigation	1
+feature	gpu acceleration	1
+attribute	gprs	2
+attribute	gps location	1
+setting	gp surgery	6
+setting	gp practice	1
+setting	gpib address	1
+class	gp fourteen 	2
+individual	gps nurses	1
+website	gpt infinity	1
+equipment	gps	13
+equipment	gps receiver	4
+equipment	gps navigation device	2
+equipment	gps navigator	2
+equipment	gps unit	1
+unit	gps-enabled escort passport  nine thousand five hundred ix 	2
+unit	gps receiver  eighteen 	1
+unit	gps map  seventy-six csx 	1
+basic	gp visit	3
+basic	gps satellite	1
+basic	gps support	1
+basic	gps point	1
+expense	gps tracking	1
+expense	gp consultation	1
+innovation	gps	6
+innovation	gps system	2
+innovation	gps device	1
+innovation	gps auto-guide tm	1
+innovation	gps global positioning system	1
+innovation	gp fundholding	1
+innovation	gprs data service	1
+mean	gps device	1
+building	gpo	2
+style	gp one hundred  type 	1
+feature	gpu	1
+feature	gpv's amphibious capability with no special preparation	1
+feature	gps facility	1
+feature	gps integration	1
+feature	gpio controlled smbus	1
+feature	gpio functionality	1
+feature	gprs connectivity	1
+feature	gps device propoundment comparable feature	1
+feature	gps antenna	1
+feature	gprs feature	1
+feature	gpib interface for ate integration	1
+feature	gps location mapping	1
+feature	gprs facility with private protection	1
+feature	gpgpu support	1
+feature	gpi support	1
+feature	gps-xrf file translation utility	1
+feature	gps positioning	1
+feature	gps fit system	1
+feature	gps application	1
+feature	gps availability	1
+feature	gprs capability	1
+feature	gprs class  twelve 	1
+feature	gprm access	1
+feature	gps indicator	1
+feature	gps interface	1
+feature	gps mapping	1
+feature	gps navigation tool	1
+feature	gps navigator	1
+feature	gps tracker	1
+feature	gps software	1
+feature	gpu acceleragon	1
+improvement	gps ambulance tracking	2
+improvement	gpp organizational improvement	1
+improvement	gps offering extended opening hour	1
+purpose	gps system	1
+purpose	gps	1
+variety	gpbd  four 	1
+format	gp master series in the uk	1
+format	gps message format	1
+format	gps file format	1
+format	gpx	1
+format	gpx file format	1
+Organisations	gpt	1
+Organisations	gp superclinics	1
+Organisations	gpmu branch	1
+partner	gp practice	1
+standard	gps	5
+standard	gprs standard	2
+piece	gps	1
+advanced feature	gps	6
+advanced feature	gps navigation application	3
+advanced feature	gps steering	3
+advanced feature	gps navigation	2
+advanced feature	gps's	1
+advanced feature	gps with a-gps feature	1
+advanced feature	gps tracking	1
+advanced feature	gps fencing	1
+advanced feature	gps mapping	1
+advanced feature	gps location	1
+advanced feature	gps integration	1
+advanced feature	gps monitoring	1
+role	gps with a special interest in health improvement	2
+club	gpaa	2
+club	gpo hotel	1
+vendor	gps device vendor	1
+vendor	gps chipset vendor	1
+market	gps production	1
+customer	gp surgery	1
+intervention	gpp non trauma-focussed intervention	1
+section	gp cpd	2
+section	gps feature	1
+effort	gpss event	1
+incentive	gp asthma sip	1
+department	gpu	2
+department	gp surgery	1
+scheme	gps fair scheduling scheme	1
+scheme	gp fundholding	1
+step	gps tracking plan	1
+step	gps monitoring of vehicle	1
+environment	gpu cluster	1
+environment	gp surgery	1
+supply	gps	2
+supply	gps device	1
+software	gphoto	1
+software	gpg	1
+software	gparted	1
+software	gps compatible software	1
+software	gps utility	1
+software	gps gate	1
+capability	gps	10
+capability	gps navigation	2
+capability	gps directions within building	1
+capability	gps receiver	1
+capability	gpib trigger	1
+capability	gprs & edge	1
+module	gps	6
+module	gps unit	1
+provider	gp practice	1
+asset	gps navigation system	3
+asset	gps satellite	1
+exercise	gppd mornings	1
+party	gp practices	1
+professional	gp	11
+professional	gp's	3
+professional	gp s	1
+offer	gps tracking system related offer	1
+offer	gprs related offer	1
+offer	gps active antenna related offer	1
+protein	gpi-anchored protein	2
+protein	gpx	2
+protein	gpi-anchored placental alkaline phosphatase	2
+protein	gp ninety-six 	1
+protein	gpd of phage lambda	1
+machine	gpu	1
+machine	gps system	1
+guest	gp	3
+trend	gps systems for grade work	1
+stakeholder	gps	2
+issue	gp commissioning	2
+issue	gpu resource utilization	2
+issue	gp address issue	1
+issue	gps system testing	1
+issue	gp consortium	1
+issue	gpa outstanding issue	1
+issue	gpa requirement	1
+issue	gp remuneration	1
+issue	gpm	1
+issue	gp extended hour	1
+issue	gpc	1
+issue	gps satellite orbit element correction	1
+issue	gps connection	1
+stakeholder	gpmu	1
+stakeholder	gp consortium	1
+point	gpu	1
+good	gps system	1
+brand name	gps manufacturing brand name	1
+brand name	gpr	1
+addition	gps	7
+addition	gps strength indicator	1
+experience	gps in the cart	1
+discipline	gp	2
+weapon	gpmg	1
+language	gpss	5
+language	gpu programming language	1
+package	gparted from jaunty cd after installing the base system	1
+functionality	gps	4
+functionality	gprs mobile data connection	1
+functionality	gps location	1
+touch	gps-equipped power cart	1
+algorithm	gpca	2
+algorithm	gps integration	1
+algorithm	gpsbased scheduling algorithm	1
+algorithm	gps-based scheduling algorithm	1
+utility	gpart	2
+utility	gpsbabel for converting between track logs format	1
+utility	gpsbabel	1
+utility	gparted	1
+utility	gpg	1
+statistic	gp value	1
+statistic	gprs stats per mobile handset-model	1
+file	gpf	1
+file	gpx file	1
+file	gpsd	1
+artifact	gpas at different gate	1
+measurement	gprs latency characteristic kpi measurement	1
+everything	gps	1
+service provider	gp practice	2
+essential	gps	1
+essential	gps navigation	1
+protocol	gpsr for routing packet	2
+protocol	gprs	1
+protocol	gpon	1
+responsibility	gp trainer duty	1
+employer	gp clinic	1
+restriction	gps tracking	1
+modification	gpi anchor formation	2
+user	gpp	2
+committee	gpss executive committee	1
+molecule	gpi-anchored protein	2
+molecule	gpr eighty-three 	1
+plan	gprs used for accessing internet through mobile	1
+plan	gps gap plans , tutoring	1
+result	gpr  three d result 	1
+result	gps datum	1
+sensor	gps	57
+sensor	gps receiver	3
+sensor	gps locator	1
+network	gprs network	3
+network	gpon	2
+network	gppac	1
+network	gprs technology for gsm wireless network	1
+station	gpb	1
+upgrade	gpu	1
+interest	gp special interest	1
+toy	gps system in good working order	1
+ability	gps tracking	1
+apps	gps	2
+apps	gps utility apps	1
+apps	gps centric stuff	1
+apps	gps navigator	1
+apps	gps tuner	1
+apps	gps app	1
+apps	gps ability	1
+apps	gps-enabled apps	1
+request	gps	3
+authority	gps	1
+support service	gp advisors	1
+large company	gps garmin	1
+standard feature	gps	12
+standard feature	gpib	2
+standard feature	gps system	1
+standard feature	gps-linked solar-sensing dual-zone climate control	1
+standard feature	gps navigation	1
+standard feature	gps-based search	1
+fund	gpp	1
+basic information	gpu technology	1
+basic information	gps location	1
+basic information	gpu clock	1
+transaction	gpf transfer	2
+input	gps	2
+prize	gps unit	1
+small item	gps unit	2
+small item	gps device	2
+small item	gps	2
+sponsor	gps devices maker	1
+database	gprd	1
+database	gprd in the u.k.	1
+signal	gps signal	3
+signal	gps	1
+signal	gpio signal	1
+government agency	gpcb	1
+notion	gp patient registration	1
+gene	gpr sixty-four 	2
+gene	gpc three 	1
+gene	gpd	1
+gene	gpnmb	1
+society	gpms	1
+evidence	gps suction cup marks from the vehicle's windshield	2
+evidence	gps track log	1
+great feature	gps	4
+great feature	gps built-in	2
+great feature	gps location service	1
+great feature	gprs browsing	1
+web site	gp two x wiki 	1
+appliance	gps receiver	1
+safety feature	gps system	2
+safety feature	gpws	1
+advanced topic	gpu programming	1
+suspect	gpsfix	1
+index	gpi	1
+maker	gps unit maker	1
+maker	gps system maker	1
+maker	gps gear maker	1
+professional organization	gp colleges	1
+personal information	gpa via phone	1
+aid	gps unit	5
+aid	gps	3
+aid	gpo access	1
+layer	gps point	1
+profession	gp's	1
+electronic device	gps	9
+electronic device	gps unit	8
+electronic device	gps system	6
+electronic device	gps receiver	5
+electronic device	gps navigation system	3
+electronic device	gps device	3
+electronic device	gps devices in order	1
+electronic device	gps navigator	1
+electronic device	gps locator	1
+electronic device	gps units cell phone	1
+electronic device	gps units in doubled plastic bag	1
+electronic device	gpu	1
+spot	gpx	1
+marker	gp ninety-six 	2
+marker	gpc three 	1
+methodology	gpo-based software delivery	1
+command	gps related command	1
+personal item	gps unit	3
+personal item	gps device	2
+personal item	gps system	2
+personal item	gps navigator	1
+issue	gpu res ource utilization	1
+item	gps	58
+item	gps unit	49
+item	gps device	20
+item	gps system	18
+specific	gps file	1
+outdoor activity	gps-oriented game	1
+mediums	gp leaflet	1
+add-ons	gps	2
+add-ons	gps receiver	2
+add-ons	gps feature	1
+add-ons	gps navigation	1
+goodie	gps	3
+goodie	gps system	1
+establishment	gpk	1
+specialty item	gps & electronics	1
+distraction	gps unit	1
+distraction	gps system	1
+fun activity	gps navigation	1
+advanced technique	gps	3
+assignment	gps mapping	1
+advanced technology	gps	22
+advanced technology	gps system	2
+advanced technology	gprs	1
+advanced technology	gps coupled navigation system	1
+advanced technology	gps receiver	1
+advanced technology	gprs for mobile communication of mixed	1
+advanced technology	gps tracking	1
+level	gps-derived information	1
+datum source	gps unit	1
+datum source	gps manhole point	1
+datum source	gps datum	1
+qualification	gp referral	2
+race	gp plouay	1
+functionalities	gprs	2
+functionalities	gps feature	1
+functionalities	gps positioning	1
+functionalities	gps navigation	1
+functionalities	gps integration	1
+invention	gps	4
+invention	gps tracking system	1
+security feature	gps	3
+security feature	gps alert signal	1
+advance	gps	2
+advance	gps navigation system	1
+item	gps navigation system	4
+item	gps navigation device	3
+item	gps's	2
+item	gps navigator	2
+item	gps navigation	2
+item	gps receiver	2
+value-added service	gprs	1
+framework	gpsg	1
+technological advance	gps	9
+technological advance	gps satellite telemetry	1
+technological advance	gps navigation	1
+technological advance	gps collar	1
+technological advance	gps on golf cart	1
+technological advance	gps system	1
+technological advance	gps unit	1
+gadget	gps system	7
+gadget	gps	5
+gadget	gps unit	2
+gadget	gps tracker	1
+gadget	gps device	1
+gadget	gps navigation system	1
+gadget	gps instrument	1
+gadget	gps navigation device	1
+gadget	gps navigation	1
+gadget	gpc tracking system	1
+luxury	gps	1
+staff	gpf	2
+infrastructure	gps receivers mounted on vehicle	1
+preventive measure	gps collar tracking device	1
+message	gps time-of-day message	2
+message	gps location	2
+virus	gphone	1
+nice feature	gps	3
+key feature	gps navigation	1
+key feature	gps tracking	1
+online service	gprs internet	1
+interface	gpib	1
+interface	gpu programming interface	1
+software program	gparted	1
+mission	gpm	3
+priority	gps tracking	1
+basic feature	gps	3
+basic feature	gps navigation	1
+basic feature	gps tracking	1
+basic feature	gps using the destinator sdk	1
+circuit	gps wireless circuit	1
+industrial application	gps speed zoning	1
+dog	gpl	1
+peripheral	gps	4
+peripheral	gpio	3
+peripheral	gps antennas	2
+peripheral	gps module	1
+peripheral	gps receiver	1
+tax	gpt in the betting & gaming industry	1
+communication	gps emergency beacon	1
+consumer product	gps system	1
+electronics	gps	28
+electronics	gps system	9
+electronics	gps unit	9
+electronics	gps device	6
+electronics	gps navigation system	3
+electronics	gps tracker	2
+electronics	gps tracking system	1
+electronics	gps navigation tool	1
+electronics	gps & radio	1
+electronics	gps car navigation unit	1
+electronics	gps receiver	1
+electronics	gps navigation systesm	1
+electronics	gps's on the hunter ski	1
+certification	gphr for human resources	1
+practitioner	gp	1
+optional feature	gps navigation	1
+item	gp visit	1
+item	gps element	1
+item	gpo policy item	1
+item	gps locator	1
+info	gps speed	1
+sensitive information	gps positions of rare species	1
+update	gps chip update	1
+update	gps quuick fix	1
+interesting feature	gps	5
+interesting feature	gps tracing	1
+security measure	gps monitoring system	1
+hardware	gps	6
+hardware	gpu	3
+innovative feature	gps receiver	1
+innovative feature	gps receiver being designed for quick installation in the radio slot	1
+innovative feature	gps navigator	1
+public service	gp surgery	1
+key stakeholder	gps	1
+community service	gp practice	1
+observation	gps baseline	1
+international brand	gp & j baker	1
+purchase	gps unit	1
+simple tool	gpa calculator	1
+emerging technology	gpu computing	1
+emerging technology	gps device	1
+fitting	gprs module	1
+latest technology	gps	7
+latest technology	gprs	2
+latest technology	gprs for establishing internet connectivity	1
+latest technology	gps excavation	1
+latest technology	gps positioning	1
+latest technology	gprs technology	1
+latest technology	gps tracking	1
+contractor	gp practice	1
+modern technology	gps	13
+modern technology	gpss	1
+modern technology	gps device	1
+modern technology	gps tracking system	1
+communication system	gps tracking	1
+preventative measure	gps tracking technology	1
+contract	gp contract	1
+expensive item	gps unit	2
+expensive item	gps	1
+modern convenience	gps unit	1
+technical aspect	gpi configuration	1
+tag	gps related	1
+public place	gp's surgeries with stocks of consultation summary	2
+public place	gps surgery	1
+software application	gpms	1
+intermediary	gp practice	1
+doctor	gp	2
+doctor	gps in the uk	2
+doctor	gp on home visit	1
+software tool	gpo's software tool	1
+system component	gps receivers for synchronizing dab transmitters within a single-frequency network	1
+system component	gpu	1
+optional accessory	gp-e one  gps receiver 	2
+optional accessory	gps receiver	1
+optional accessory	gps	1
+optional accessory	gps tracking device	1
+insurance company	gpi	1
+physical feature	gps	1
+valuable	gps unit	20
+valuable	gps device	9
+valuable	gps	6
+valuable	gps system	4
+valuable	gps units in plain view	1
+valuable	gps devices from vehicle	1
+valuable	gps gadget	1
+valuable	gps systems in plain view	1
+valuable	gps devices in plain view	1
+valuable	gps's	1
+technological innovation	gps	4
+external device	gps	2
+external device	gps receiver	2
+external device	gpi-compatible cd player	1
+modern facility	gps in buggy	1
+new	gp commissioning	1
+common feature	gps	4
+popular item	gps	1
+electronic component	gps receiver	1
+electronic component	gps system	1
+electronic component	gps patch	1
+powerful feature	gps navigation	3
+powerful feature	gps	2
+powerful feature	gps tracking	1
+mobile device	gps	3
+mobile device	gps system	3
+mobile device	gps navigation system	2
+mobile device	gps-enabled window mobile device	1
+mobile device	gps guiding system	1
+mobile device	gps-enabled camera	1
+analytical technique	gpc	1
+practical application	gps	1
+cool feature	gps	7
+specialist service	gp out-of-hours	1
+commercial application	gps	2
+valuable item	gps unit	11
+valuable item	gps system	2
+valuable item	gps device	2
+valuable item	gps	1
+valuable item	gps in the car	1
+minor issue	gps tracker having a low battery	1
+innovative technology	gps	2
+innovative technology	gpr	1
+innovative technology	gps soil	1
+respect	gp commissioning	1
+peripheral device	gps device	1
+peripheral device	gps receiver	1
+peripheral device	gps	1
+statute	gpra	2
+note	gps location	1
+biological process	gpcr signaling	1
+demographic information	gpa of the respondent	1
+electronic product	gps navigation system	14
+electronic product	gps	9
+electronic product	gps car navigation systems	2
+electronic product	gps tracking system	2
+electronic product	gps navigator	1
+electronic product	gps pet tracker	1
+electronic product	gps navigation	1
+electronic product	gps & navigation	1
+electronic product	gps navigation product	1
+electronic product	gps navigatiob systems	1
+electronic product	gps device	1
+electronic product	gps pet tracking	1
+safety measure	gps tracking	1
+external source	gps	1
+distributor	gps world tracking of columbus	1
+advanced function	gps	2
+advanced function	gps integration	1
+industry standard	gpib	1
+key indicator	gp	1
+ligands	gpiibiiiatoits other ligands	1
+modern technique	gps	4
+technological development	gps	6
+technological development	gps tracking	1
+public building	gpo	1
+performance accessory	gpw performance accessory	1
+architecture	gpus	4
+optional extra	gps	3
+optional extra	gps navigation	2
+metadata	gps tags & iptc tag	1
+metadata	gps information	1
+electrical device	gps	1
+electrical device	gps automobile tracking system	1
+electrical device	gps system	1
+electrical device	gps unit	1
+leisure activity	gps navigation	1
+electrical component	gps	1
+design issue	gps receiver clock	1
+design issue	gps receiver clock drift	1
+contact	gp	1
+file format	gps file format	1
+file format	gpx file format	1
+popular product	gps	2
+datum set	gps	1
+window	gps	3
+portable device	gps	4
+portable device	gps system	3
+portable device	gps navigator	3
+portable device	gps device	2
+portable device	gps navigation system	2
+portable device	gphone	2
+portable device	gps mp three 	1
+portable device	gps receiver	1
+portable device	gps unit	1
+community program	gp office	1
+optional item	gps device	1
+local service	gp surgery	1
+receiver	gpsmap  two hundred and thirty 	1
+receiver	gps receiver	1
+community facility	gp surgery	4
+medical service	gp visit	1
+receptor	gpi-anchored protein	2
+spec	gps	3
+spec	gpu	1
+critical component	gps receiver	2
+subsidiary	gp roadway solutions	1
+good feature	gps	1
+outside agency	gp practice	1
+area	gps	5
+area	gp provision	3
+software product	gps photo link	1
+technical information	gps strength signal	1
+external event	gpio interrupt	1
+network service	gprs & edge accompanied with bluetooth	1
+network service	gprs	1
+modern feature	gps	1
+excellent feature	gps	1
+communication device	gps device	1
+sensitive datum	gpg password	1
+custom feature	gps	1
+government policy	gp super clinic	1
+tab	gp manufacturing	1
+rare case	gpe	1
+health service	gp practice	1
+health service	gps  sixteen  surgery 	1
+regular feature	gps	1
+sophisticated technique	gps	1
+supporting material	gp education	1
+contact information	gps	1
+experimental technique	gpc	1
+fringe benefit	gpf	1
+personal expense	gps unit	1
+bike	gp rsr	1
+communication technology	gps system	1
+plugins	gpg	1
+consumer electronics	gps	5
+consumer electronics	gps system	2
+consumer electronics	gps device	1
+consumer electronics	gps navigation system	1
+advanced service	gps	1
+advanced service	gps fleet tracking	1
+biomarkers	gpc three 	1
+built-in feature	gps	3
+clinical datum	gp	1
+control system	gps-based air traffic control system	1
+menu	gps	1
+wireless device	gps unit	3
+wireless device	gps device	1
+wireless device	gps system	1
+wireless device	gps	1
+wireless device	gps-type device	1
+advanced tool	gps system	1
+bug	gps bug on cm in the old edition	1
+bug	gps chip	1
+institutional investor	gpf	1
+local amenity	gp surgery	4
+local amenity	gp's surgery	1
+traditional measure	gpa	1
+antibody	gp fourty-one 	1
+premium feature	gps	2
+area	gpu benchmark	1
+research tool	gps-satellite collar	1
+health professional	gp	9
+health professional	gp's	1
+advanced option	gps	1
+technological advancement	gps	2
+technological advancement	gps navigation system	1
+technological advancement	gps for trucker	1
+health care provider	gp	3
+health care provider	gpswithpractice budget	1
+health care provider	gps with practice budget	1
+loose item	gps unit	1
+system information	gps fuel quantity	2
+system information	gps	1
+big ticket item	gps	1
+advanced application	gps	3
+advanced application	gps-based location service	1
+advanced application	gproms	1
+clinic	gp surgery	1
+amazing feature	gps	2
+home appliance	gps	1
+information system	gps navigation system	1
+information system	gps receiver	1
+community member	gp	1
+programming language	gpu programming language	1
+electrical item	gps	1
+valuable resource	gps navigation system	4
+key service	gp surgery	1
+key service	gp access	1
+electronic item	gps unit	9
+electronic item	gps system	3
+electronic item	gps units with a disinfectant cloth	1
+electronic item	gps device	1
+electronic item	gps	1
+electronic item	gps & navigation	1
+treaty	gpw	1
+portable electronic device	gps system	2
+portable electronic device	gps device	1
+portable electronic device	gps	1
+representative	gp	1
+technology tool	gps device	1
+common function	gps	1
+common function	gprs connectivity	1
+common function	gprs	1
+datum service	gps	1
+high-end feature	gps	1
+app	gps test	2
+app	gplayer lite	1
+app	gps golf	1
+app	gps status from the market	1
+creature comfort	gps	2
+premium service	gps navigation	1
+security device	gps tracking device	1
+hardware device	gps device	1
+electronic system	gps	4
+security system	gps-guided onstar	1
+luxury feature	gps system	1
+premise	gp practice waiting room	1
+outdoor event	gps treasure hunt	1
+exciting feature	gps	1
+mobile application	gps	2
+mobile application	gps navigation	1
+mobile application	gps system	1
+key partner	gp electronics	1
+area	gp superclinics	1
+area	gp practice	1
+area	gps positions for a variety of customer	1
+area	gps navigation system	1
+area	gp fund-holding practice	1
+area	gp locum program	1
+area	gp referral rate	1
+area	gpa	1
+area	gp involvement	1
+area	gp service	1
+area	gprs	1
+area	gps satellite system	1
+USB device	gps	3
+USB device	gps bug	1
+auxiliary device	gps	1
+secondary datum	gps track	1
+digital product	gps	3
+digital product	gps navigation	1
+standard function	gps-based search	1
+essential feature	gps with at&t navigator	1
+advanced method	gps	1
+desirable feature	gps	1
+advanced capability	gps-based vehicle tracking	1
+water activity	gprs bluetooth usb	1
+exclusive feature	gps facility	1
+quality parameter	gps quality parameter	1
+modern tool	gps	4
+modern tool	gps tracking of service vehicle	1
+modern tool	gps satellite	1
+modern tool	gps system	1
+chip	gpus	2
+electronic equipment	gps system	1
+open standard	gpx	1
+wireless technology	gps	5
+wireless technology	gprs	2
+external component	gps	1
+hardware component	gps receiver	2
+hardware component	gpu processing	1
+hardware component	gpu	1
+hardware component	gps encryptionor decryption key	1
+policy change	gp commissioning	1
+health care professional	gp	3
+conservation practice	gps soil grid sampling	1
+benchmark	gps radio occultation	1
+key datum	gps	1
+license	gpl over the apache software license	1
+license	gpl three 	1
+license	gpl	1
+trust	gpt	1
+buffer	gpu frame buffer	1
+hardware item	gps receiver	1
+enhanced feature	gps for location-based service	1
+multimedia feature	gps	1
+state-of-the-art technology	gps	3
+state-of-the-art technology	gps system	1
+state-of-the-art technology	gps tracking	1
+handheld device	gps unit	3
+handheld device	gps device	1
+handheld device	gps guiding devices like the gps ranger	1
+handheld device	gps	1
+datasets	gpx	1
+practical feature	gps navigation system	1
+sophisticated feature	gps	4
+sophisticated feature	gps tracking	1
+optimization	gpu optimization	1
+technological tool	gps	3
+technological tool	gps unit	1
+technological tool	gps speed tracking	1
+technological tool	gps device	1
+ancillary product	gps	1
+local club	gpo	1
+sophisticated tool	gps	1
+objective factor	gpa	1
+probe	gps receivers mounted on vehicle	1
+car accessory	gps navigator	1
+car accessory	gps	1
+car accessory	gps device	1
+service	gps	30
+service	gp surgery	11
+service	gprs	9
+service	gp practice	6
+service	gprs mobile datum	5
+service	gps tracking system	4
+service	gps service	4
+service	gps surveying	3
+safety product	gps tracker	1
+advanced course	gps navigation	1
+local facility	gp surgery	1
+third party application	gps information	1
+safety system	gpws	1
+datum file	gps data file	1
+satellite	gps navstar	1
+latest feature	gps turn by turn driving direction	1
+latest feature	gps	1
+communication protocol	gpios	1
+communication protocol	gprs	1
+digital device	gps	10
+digital device	gps system	1
+digital device	gps unit	1
+school supply	gps	1
+health care service	gp surgery	1
+health care service	gp plus clinic	1
+health care service	gp visit	1
+static information	gpo setting	1
+custom product	gps safety camera radar detector	1
+custom product	gps vehicle alarm	1
+frill	gps	2
+impressive feature	gps	1
+modern method	gps	1
+modern method	gps reference	1
+ongoing program	gps	1
+third-party application	gps navigation	1
+third-party application	gps tuner	1
+third-party application	gps navigation software	1
+electrical product	gps	2
+car part	gps & accessories	1
+electronic resource	gpa calculator	1
+electronic resource	gpo access	1
+file system	gpfs	1
+business solution	gps	1
+electronic part	gps	2
+organizational issue	gpra infrastructure	1
+computing device	gps	1
+computing device	gps navigation system	1
+active device	gps	1
+characterization technique	gpc	1
+digital technology	gps	3
+digital technology	gps navigation	1
+high end feature	gps	1
+high end feature	gprs	1
+performance feature	gpu integration	2
+wonderful feature	gps	2
+auxiliary service	gps navigation	1
+small device	gps tracking device	1
+mobile service	gprs internet access	1
+notable feature	gps	2
+notable feature	gps navigation	2
+novelty	gps alarm clock	1
+monitoring device	gps tracking key pro	1
+monitoring device	gps tracking key	1
+technical innovation	gps	2
+accelerator	gpus	12
+accelerator	gpgpu	2
+service	gps tracking device	2
+service	gps mapping	2
+service	gps system	2
+service	gps-based technology	2
+service	gpio monitoring	2
+service	gps field data collection	2
+service	gp's	1
+service	gps navigational download	1
+service	gps tracking for the police	1
+service	gps navigation	1
+service	gp access	1
+service	gp clinic	1
+service	gps service included in msrds	1
+service	gprs on gsm network	1
+service	gps breakthrough dating app	1
+service	gps device	1
+service	gps location service	1
+service	gp s	1
+service	gp out of hours service	1
+service	gps position	1
+service	gps rental	1
+service	gps augmentation service	1
+service	gprs data service	1
+service	gps tracking	1
+service	gps soil sampling	1
+service	gps solution	1
+sophisticated technology	gps	1
+sophisticated technology	gps trackers for car	1
+expensive material	gps	1
+physical device	gps	2
+fun feature	gps geotagging	1
+modern device	gps	5
+modern device	gps collar	1
+modern device	gps tracking system	1
+bus	gpib	2
+third-party tool	gpexpert group policy health cmdlet	1
+electronic gadget	gps	2
+electronic gadget	gps navigation system	1
+electronic gadget	gps navigation	1
+electronic gadget	gps navigator	1
+telecommunication company	gpt	1
+airplane	gp decathlon	1
+datum format	gpx	1
+outstanding issue	gpa outstanding issue	1
+technical advance	gps	3
+technical advance	gps unit	1
+reference source	gps	1
+address issue	gp address issue	1
+directive	gpra	1
+computer software	gpsd	1
+connectivity option	gps	9
+connectivity option	gprs	4
+connectivity option	gprs class  ten 	2
+novel technology	gps	1
+telecommunication service	gprs	1
+consumer device	gps system	1
+professional feature	gps support	1
+outpatient service	gp visit	1
+auxiliary system	gps locator beacon	1
+awesome feature	gps	1
+traditional technology	gps	2
+healthcare professional	gp	6
+innovative project	gps system for student formula  one  car race 	1
+mobile technology	gps	1
+technology advance	gps tracking system	1
+technology advance	gps	1
+clinical setting	gp training	1
+computer peripheral	gps	2
+rental	gps unit	1
+security mechanism	gps tracker	1
+smart feature	gps	1
+external datum	gps	1
+electronic tool	gps	1
+electronic tool	gps receiver	1
+access point	gp out-of-hours service	1
+dynamic information	gps	2
+outdoor application	gps navigation	1
+datum collection method	gps	1
+sensitive item	gps	1
+technological improvement	gps tracking system	2
+application service	gps	1
+third party tool	gparted	2
+third party tool	gpexpert backup manager	1
+nifty feature	gprs support	1
+enabling technology	gps satellite navigation system	3
+input variable	gps satellite acquisition delay	1
+technological solution	gps	1
+conventional approach	gps	1
+key group	gp consortium	1
+solar product	gps locator	1
+modern system	gps receiver	1
+construction technique	gps record drawings of new	1
+external system	gps system	4
+Ancillary information	gps datum	1
+conventional technology	gps	1
+entertainment feature	gps	1
+negative event	gps breakage	1
+online program	gps visualizer	1
+practical factor	gp availability	1
+production line	gps	1
+local stakeholder	gp tasmania	1
+quality item	gps	1
+computer component	gpu	1
+fancy feature	gps	2
+fancy feature	gps support	1
+membrane protein	gpcr pro teins	1
+membrane protein	gp one hundred and sixty 	1
+membrane protein	gpcr protein	1
+membrane protein	gpcrsand ion channelsremain the holy grail of structural biology	1
+wireless system	gps	3
+error source	gps satellite phase wind-up	1
+community institution	gp surgery	1
+modern equipment	gps	1
+modern equipment	gps satellite navigation	1
+modern equipment	gps device	1
+modern equipment	gps equipped feed truck	1
+passive device	gps	1
+technical tool	gps	1
+external application	gps	1
+consumer electronic product	gps	3
+consumer electronic product	gps accessory	2
+consumer electronic product	gps navigation system	1
+consumer electronic product	gps receiver	1
+consumer electronic product	gps tracking	1
+wireless communication device	gps unit	1
+high-tech feature	gps	1
+high-tech feature	gps system	1
+advance feature	gps system for determining exact location	1
+advance feature	gps with a-gps feature	1
+high-tech industry	gps	1
+medium device	gps	1
+specialty application	gps system	1
+heuristic	gp eight 	1
+technology product	gps	1
+handy tool	gps locator	2
+google service	gps	1
+quality indicator	gps observational quality indicator	1
+optional module	gps module	2
+integrated feature	gps	1
+latest technique	gps	1
+real-time datum	gps datum	1
+sensitive application	gps	1
+powerful technique	gpr	1
+simple practice	gps simple practice	1
+embedded application	gps	1
+field datum	gps location	3
+phone feature	gps	2
+phone feature	gps navigation	1
+third party software	gps splitter	1
+viral protein	gp one hundred and twenty 	6
+viral protein	gp one hundred and twenty  of hiv 	1
+viral protein	gp one hundred and twenty-four  protein for hiv 	1
+measurement system	gps receiver	1
+small product	gps	1
+log	gptext.txt log	1
+power plant	gpu's at oyster creek in forked river	1
+electronic good	gps unit	1
+mobile communication device	gps unit	2
+REITs	gpt group	1
+technological device	gps navigation	1
+toolkits	gpgpu programming toolkits	1
+accessory product	gps receiver	1
+electrical accessory	gps system	1
+hand-held device	gps unit	1
+personal electronic device	gps	2
+technical development	gps	3
+telecommunication system	gps	1
+fantastic feature	gps	1
+fantastic feature	gps navigation	1
+socio-demographic factor	gp age	2
+health facility	gp surgery	2
+valuable asset	gps navigation system	2
+camera feature	gps photo	1
+outside vendor	gp vars	1
+outside vendor	gp consultant	1
+hardware feature	gps	2
+hardware feature	gps chip	1
+health care facility	gp practice	1
+best feature	gps navigation system	1
+passive system	gps	1
+basic option	gps	1
+bluetooth device	gps receiver	6
+bluetooth device	gps	4
+enhanced service	gps	1
+topic	gps	3
+location information	gps	2
+location information	gps information	1
+location information	gps datum	1
+external information	gps measurement	2
+joint venture	gpec	1
+clone	gpl-licensed java clone	1
+employment service	gps	1
+good program	gparted for partition work	1
+opposition leader	gpdp's henry gomez	2
+sensor datum	gps position	1
+sensor datum	gps	1
+electronics product	gps	2
+measuring tool	gps mapping system	1
+consumer electronics product	gps system	1
+location-based service	gps	4
+location-based service	gps-like navigation	1
+location-based service	gps application	1
+modern instrument	gps	1
+optional equipment	gps	1
+satellite system	gps	7
+device information	gps availability	1
+healthcare service	gp surgery	1
+complimentary item	gps	1
+incredible feature	gps	2
+incredible feature	gps navigation tool	1
+interior item	gps navigation	1
+interior item	gps device	1
+modern invention	gps	1
+technology application	gps	1
+commercial purpose	gps tracking	1
+professional development activity	gps	1
+technical device	gps	1
+popular video format	gp to avi	1
+auxiliary information	gps reading	1
+basic equipment	gps plotter	1
+clock	gps speed & distance	1
+embedded device	gps unit	1
+embedded device	gps system	1
+embedded device	gps receiver	1
+independent contractor	gp practice	1
+aftermarket accessory	gps	1
+communication standard	gprs	1
+communication standard	gps	1
+communication standard	gpib connetion	1
+functional module	gps receiver	1
+tangible element	gps	1
+connectivity feature	gps	6
+connectivity feature	gprs	2
+engineering plastic	gpps	3
+routine item	gp consultation	1
+communication facility	gps tracking	1
+disruptive technology	gpus	2
+disruptive technology	gps	1
+local professional	gp service	1
+rich feature	gps tracking	1
+technology option	gps	1
+game feature	gps teleportation	1
+ICT tool	gps	1
+medical practitioner	gp	1
+suitable technique	gpc	1
+program feature	gpib address change	1
+baseline datum	gps location	1
+community setting	gp's surgery	4
+community setting	gp surgery	1
+community setting	gp practice	1
+technological application	gps	1
+training event	gps training	1
+field device	gps-equipped truck	1
+mobile electronic device	gps	1
+beneficial feature	gps	1
+topic	gps dl approach	1
+topic	gps location service	1
+topic	gps installed on bike	1
+topic	gps survey style	1
+topic	gps system	1
+topic	gp mechanic	1
+topic	gps navigation	1
+topic	gps operation	1
+topic	gpo design	1
+topic	gpb	1
+topic	gps accuracy	1
+topic	gps geodesy	1
+topic	gps signal fundamental	1
+topic	gpu acceleration	1
+topic	gpt site	1
+navigation tool	gps	3
+navigation tool	gps system	1
+system application	gps	1
+eligibility criterion	gpa	1
+fabulous feature	gps	1
+portable appliance	gps	1
+practical function	gprs	1
+external object	gps satellite	3
+golf accessory	gps on-course range finder	1
+golf accessory	gps	1
+high-tech tool	gps unit	2
+high-tech tool	gps information	1
+high-tech tool	gps device	1
+high-tech tool	gps tracking unit	1
+secondary feature	gps tracking	1
+small electronic device	gps unit	1
+structural protein	gp fourty-one 	1
+structural protein	gp one hundred and twenty 	1
+survey method	gps	1
+small electronics	gps device	4
+small electronics	gps	4
+small electronics	gps unit	2
+complementary technology	gps	2
+complementary technology	gps monitoring	1
+characterization method	gpc	1
+key facility	gps system	1
+technology development	gps phone	1
+control option	gpib	3
+hardware platform	gpib	1
+navigational aid	gps	7
+navigational aid	gps system	1
+serial device	gps	2
+sophisticated equipment	gps device	1
+aide	gps unit	1
+image property	gps	1
+modeling language	gprolog	1
+secondary component	gps	1
+art system	gps	1
+geophysical technique	gpr	2
+global information	gps	2
+preventative service	gp support	1
+small application	gps	1
+big market	gps	1
+datum collection technique	gps tracking	1
+common technology	gps	1
+electronic datum	gps location information	1
+on-going activity	gps accuracy test	1
+polypeptides	gp one hundred and sixty 	1
+required component	gps-inertial system	1
+today's technology	gps	1
+routine function	gps mapping	1
+convenient location	gp surgery	1
+wireless standard	gps	1
+electronic technology	gps	1
+gene product	gp one hundred and twenty 	1
+input source	gps	1
+medical doctor	gp	1
+portable electronics	gps device	3
+portable electronics	gps	1
+portable electronics	gps unit	1
+position sensor	gps	1
+distribution company	gps receiver distribution company	1
+handgun	gp one hundred 	1
+navigation system	gps	6
+navigation system	gps system	4
+navigation system	gps with selective access	1
+proprietary technology	gps	1
+safety accessory	gps navigation	1
+tracking device	gps	2
+tracking device	gps device	1
+tracking device	gpsit fs one 	1
+wireless product	gps	2
+computer device	gps navigator ora mobile phone	1
+error message	gpg	1
+text field	gps position mode	1
+electronic accessory	gps	2
+electronics device	gps chartplotter	1
+health worker	gp	1
+integrated function	gps display	1
+navigation aid	gps	2
+sophisticated instrument	gps	1
+3rd party tool	gparted	2
+cool accessory	gps system	1
+home electronics	gps tracking system	1
+home electronics	gps navigation system	1
+mobile system	gps receiver	1
+portable computing device	gps unit	1
+technological aid	gps	1
+upscale feature	gps navigation	1
+cellular system	gps-synchronized cellular system	1
+intensive program	gps software	1
+large database	gprd	1
+navigation feature	gps	1
+technology component	gps	2
+leading-edge technology	gps	1
+optional function	gps	2
+performance index	gpi	2
+professional setting	gp surgery	1
+local datum	gp list	1
+meta-data	gps-reported location	2
+national service	gp registration	2
+peripheral unit	gpib transceiver	1
+antenna	gps antenna	2
+charger	gps charger	1
+datum network	gprs network	1
+emergent technology	gps	1
+external sensor	gps	2
+external sensor	gps unit	1
+expensive service	gps	1
+minor part	gpu	1
+secondary weapon	gpmg	1
+small equipment	gps	1
+aircraft system	gpws	3
+applied science	gps for golf	1
+radio system	gps	2
+add-on module	gps location	1
+observational datum	gps tec measurement	1
+user feature	gps mapping	1
+antiplatelet agent	gpiibiiia receptor	1
+company	gpt group	3
+company	gpi	2
+connection option	gps	3
+navigational tool	gps	1
+scheduling algorithm	gps-based scheduling algorithm	1
+scheduling algorithm	gpsbased scheduling algorithm	1
+sensor technology	gps	1
+tracking system	gps	2
+tracking system	gps tracking key pro	1
+tracking system	gps tracking key	1
+modern communication system	gps	2
+property company	gpt	1
+sensor device	gps device	1
+driver assistance system	gps	1
+expensive technology	gps	1
+handheld electronic device	gps-enabled wireless communications device with an embedded camera	2
+hardware option	gps	1
+hospital department	gp out of hours service	1
+unnecessary service	gps	1
+high tech feature	gps geo-tagging	1
+high tech feature	gprs	1
+identification datum	gp	1
+mainstream service	gp surgery	1
+non-parametric method	gpr	1
+telecommunication network	gprs network	1
+cellular network	gprs	2
+cellular network	gprs network	1
+high technology	gps	2
+potential cost	gp visit	1
+third party apps	gps	1
+tracking method	gps	1
+campus-wide event	gps lifeplan workshop	3
+geometric factor	gps orbit accuracy	1
+referral service	gp practice	1
+ent	gps unit	1
+GPS device	gps locator map	1
+innovative function	gps location tool	1
+innovative function	gprs wireless network	1
+sensory input	gps position	1
+engineering task	gps survey	2
+mobile equipment	gprs device	1
+transactional service	gp booking	1
+day-to-day expense	gp & dentist visit	1
+elegant feature	gps	1
+expansion card	gpus	1
+geographic datum	gps waypoints	1
+low power device	gps unit	1
+low power device	gps	1
+maintenance program	gps location of key system feature	1
+modern communication tool	gps tracking system	1
+advanced component	gps system	2
+market driver	gps	1
+precision component	gps	1
+referral	gp	1
+referral agency	gp s	1
+retirement benefit	gpf	1
+sensor type	gps	1
+communication line	gp-ib	1
+detection technology	gps	1
+extraordinary feature	gprs	1
+flight information	gps position error	1
+personal equipment	gps	1
+revolutionary feature	gps	1
+analytical test	gpc	1
+community health service	gp surgery	1
+education material	gps unit	1
+gene family	gpcr	1
+GUI tool	gparted	1
+latest gadget	gps	1
+locomotive	gp thirty 	1
+locomotive	gp thirty-eight ac 	1
+locomotive	gp thirty-five 	1
+locomotive	gp nine 	1
+survey technique	gpr	1
+wireless communication technology	gps	1
+accountability mechanism	gpra	1
+commercial technology	gps	1
+common language	gpss	1
+hardware element	gps	1
+mobile feature	gps	2
+optional product	gps unit	2
+added-value service	gps	1
+chaperone	gp ninety-six 	2
+measurement datum	gps position datum	1
+small function	gps	1
+technical item	gps	1
+vision aid	gps unit	1
+antioxidant compound	gpx	1
+high-end service	gps	1
+space application	gps	1
+entrance exam	gpat	1
+essential technique	gpc	1
+exciting new technology	gpsmobile based system	1
+health agency	gp	1
+military system	gps	3
+optional add-ons	gps	1
+phone function	gps software on the device	1
+ssris	gp's overprescribe ssri's	1
+tempting item	gps system	3
+tempting item	gps device	1
+complicated feature	gps	1
+high-tech gadget	gps	1
+high-tech gadget	gps tracking device	1
+popular portable device	gphone	1
+secondary system	gps	1
+sophisticated measure	gps location	1
+conservation technique	gps	1
+detailed requirement	gpa	1
+integration tool	gp integration manager with the options of data translation	1
+native application	gps	1
+real estate investment trust	gpt	2
+real estate investment trust	gpt group	1
+USB peripheral	gps	2
+brilliant feature	gps	1
+brilliant feature	gprs	1
+company	gps maker garmin	1
+company	gpt	1
+company	gpit solutions	1
+company	gps sonomax	1
+company	gpu	1
+company	gpw	1
+company	gps receiver distribution company	1
+fundamental variable	gpp	1
+multi-functions	gps navigation	1
+RF device	gps navigation equipment	1
+add-on accessory	gps	1
+aftermarket item	gps unit	1
+average	gpas of different major	1
+heuristic approach	gp	1
+third-party system	gps	1
+datum collection device	gps	1
+field technique	gps	1
+hand-held electronic device	gps system	1
+high tech device	gps system	1
+medium project	gps	1
+modern gadget	gps	1
+others feature	gps navigation	1
+packer	gp packer	1
+passive sensor	gps	1
+Brits	gp taylor	1
+global navigation satellite system	gps	22
+global navigation satellite system	gps system	1
+global navigation satellite system	gps of the u.s.	1
+global navigation satellite system	gps of the usa	1
+high-tech solution	gps-enabled tracking device	1
+high-volume application	gps	1
+investigation technique	gpr	1
+prediction model	gps broadcast ionosphere model	1
+small electronic item	gps unit	1
+standard abbreviation	gpa for gigapascals	1
+antiplatelet drug	gpiib-iiia blocker	1
+attached device	gps device	1
+device application	gps information	1
+device attribute	gps system	1
+end feature	gps	1
+external interface	gp-ib	1
+granule	gp two 	1
+have	gps	1
+interface standard	gp-ib	1
+rural service	gp practice	1
+application package	gps	1
+civil application	gps receiver	1
+electronic aid	gps	3
+financial investor	gp investimentos	1
+imaging test	gps order diagnostic imaging test	1
+location service	gps	3
+mapping tool	gps receiver	1
+medical setting	gp surgery	1
+survey tool	gps	1
+tracking technology	gps	4
+conventional function	gps	1
+cost saving	gp consultation	1
+device feature	gps	2
+healthcare setting	gp surgery	7
+healthcare setting	gps surgery	1
+high-tech equipment	gps	2
+mobile communication terminal	gps	4
+standard package	gps	1
+activity	gps scavenger hunt	2
+activity	gps system	1
+activity	gps plant mapping	1
+everyday technology	gps satellite	1
+generic brand	gpx	1
+geographic tool	gps	2
+high-end option	gps navigation	1
+positioning system	gps	5
+profiling tool	gprof	5
+sensor information	gps	2
+awesome prize	gps unit	1
+geospatial technology	gps	5
+high-tech field	gps	1
+integrated application	gps	1
+military program	gps	1
+mobile solution	gps tracking	1
+application platform	gphone	1
+datum characteristic	gprs	1
+emerging concept	gpcr oligomerization	1
+entertaining feature	gps navigation with map	1
+feature set	gps	1
+feature set	gps module	1
+ground service	gps tracking system	1
+Modern electronics	gps	2
+netherland tv channel	gptv	2
+software utility	gprof	3
+technological gadget	gps device	1
+window mobile device	gps-enabled window mobile device	1
+advance technology	gps	1
+distribution network	gpon	1
+great standard feature	gps	2
+integral membrane protein	gpcr	1
+integral membrane protein	gpi-anchored protein	1
+listening device	gps	1
+military technology	gps	1
+model number	gp eight 	1
+model number	gp ten 	1
+smartphone feature	gps	2
+supplementary feature	gps navigation	1
+web-enabled device	gps system	1
+camping item	gps	2
+driver distraction	gps device	2
+health care	gp service	1
+high-level communication application	gps	1
+live CD	gparted	1
+mobile electronics	gps accessory	1
+mobile electronics	gps	1
+motorsports	gp two 	1
+network solution	gprs roaming solution	1
+unnecessary feature	gps	2
+upcoming technology	gps	1
+wireless option	gps	1
+communication information	gpib address	1
+interface option	gpib	1
+navigation datum	gps navigation datum	2
+professional caregiver	gp	2
+stand-alone device	gps navigator	1
+wireless accessory	gps navigation kit	4
+automated function	gps-switch auto boom shut-off	1
+compliance activity	gpis one 	1
+compressible fluid	gp condensate	1
+cool gadget	gps tracker	1
+GPS system	gps tracking key	1
+incoming datum	gps time	1
+non-destructive testing method	gpr	1
+standard consideration	gps accuracy	1
+surveillance technology	gps	1
+technology enhancement	gps in police vehicle	1
+ubiquitous technology	gps	1
+battery manufacturer	gp	2
+citation	gpo style manual citation	1
+expensive measure	gps	1
+external hardware	gps	1
+intensive game	gpu intensive game	1
+military equipment	gp-medium tent	1
+optical network	gpon	1
+public access point	gp surgery	1
+sensory datum	gps readings into activity language	1
+well-known technology	gps	1
+wireless network technology	gprs	1
+car electronics	gps system	2
+car electronics	gps navigation	1
+car electronics	gps navigation system	1
+complementary tool	gpr	1
+core part	gpu	1
+external reference	gps	2
+external standard	gps	1
+extraneous expense	gps system	1
+generation feature	gps intruder locating	1
+health-related datum	gp catchment area	1
+local public service	gp surgery hour	1
+mapping program	gps route	1
+medical establishment	gp surgeries	1
+modern aid	gps unit	1
+navigation device	gps receiver	1
+navigation device	gps based receiver	1
+portable wireless device	gps receiver	2
+protein-coupled receptor	gpr fourty-four 	2
+protein-coupled receptor	gpr eighty-one 	2
+protein-coupled receptor	gpr thirty-four 	1
+sophisticated electronic device	gps	1
+USB peripheral device	gps receiver	2
+watch manufacturer	gps watch manufacturer	1
+automotive technology	gps	1
+automotive technology	gps system	1
+complete function	gps	1
+computerized tool	gps	1
+diagnostic imaging test	gps order diagnostic imaging test	1
+global system	gps	2
+location-based application	gpsnavigation system	1
+satellite navigation system	gps	13
+space system	gps	1
+standard peripheral	gps receiver	1
+boat accessory	gps	1
+cigarette brand	gpc	1
+digital electronics	gps navigation	4
+information	gps	13
+information	gps location	11
+information	gps position	5
+information	gpa	5
+heat shock protein	gp ninety-six 	1
+heat shock protein	gp ninety-six  isolated from tumor 	1
+IP network	gprs	2
+killer feature	gprs	1
+latest electronic device	gps receiver	1
+membrane receptor	gpcr receptor	1
+Peroxidases	gpx one 	3
+sensory device	gps	1
+small airline	gp express of grand island	1
+header field	gps	1
+premium amenity	gps navigation	1
+regular user	gp surgery	1
+smart phone feature	gps	2
+sophisticated sensor	gps receiver	1
+space program	gps iii	1
+cpu-intensive application	gps navigator	1
+datum collection system	gps	1
+encryption tool	gpg	1
+fundamental technology	gps	1
+high-end technology	gprs	1
+location technology	gps	12
+location technology	gps system	1
+marine electronics	gps unit	2
+marine electronics	gps	2
+marine electronics	gps navigation	1
+marine equipment	gps	1
+modern distraction	gps device	1
+NDT technique	gpr measurement	1
+PDA accessory	gps receiver	2
+peptide	gp one hundred and twenty  polypeptide 	1
+portable gadget	gps device	1
+synchronization mechanism	gps	1
+technological convenience	gps device	1
+work location	gp surgery	1
+advance topic	gps positioning	1
+anti-platelet agent	gpiibiiia receptor	1
+blackberry accessory	gps navigator	1
+digital instrument	gps	2
+high tech gadget	gps device	1
+mapping technology	gps device	3
+mapping technology	gps	2
+optional peripheral	gps	3
+outdoor class	gps	1
+record datum	gps also record datum	1
+rule-based system	gps	1
+saving scheme	gpf	1
+simulation language	gpss	7
+space-based technology	gps	1
+spy gadget	gps tracker	1
+spy gadget	gps tracking system s	1
+unsecured item	gps device	1
+agency effort	gpra initiative	3
+information	gps-located facebook post	2
+information	gps annunciation	2
+information	gpib address	2
+information	gps activity	2
+information	gps datum	2
+communication setting	gps setting	1
+cynic	gp based in north london	1
+datum transmission	gps datum	1
+datum transmission	gps	1
+detailed topic	gpa calculation	1
+efficient product	gps	1
+intrinsic feature	gpu	1
+localization technique	gps	2
+message format	gps message format	1
+modern electronic system	gps	1
+navigational device	gps	3
+parallel architecture	gpus	5
+security accessory	gps navigation	1
+small convenience	gps	1
+spatial technology	gps	3
+standard library	gpg	1
+telematics service	gps-enabled navigation	1
+XML format	gpx	1
+3G technology	gprs technology	1
+4-H project area	gps	1
+costly equipment	gps receiver	1
+cultural and historical attraction	gpo	1
+great application	gps receiver compatible with the maps application	1
+high performance system	gpfs	1
+latest mobile technology	gprs service	1
+latest mobile technology	gps	1
+partition manager	gparted from a bootable cd	1
+portable consumer electronic device	gps receiver	2
+programming interface	gpu programming interface	1
+purpose language	gpss	2
+wireless feature	gps	2
+wireless telecommunication system	gprs networks providing a packet radio service	1
+antioxidative enzyme	gpx	1
+device capability	gps	2
+device capability	gps for location-based service	1
+exact location	gps coords.	1
+gear maker	gps gear maker	1
+graphical program	gphoto	1
+GUI program	gparted	1
+guidance system	gps	1
+high end user	gp surgery	1
+intelligent transport system	gps	1
+latest function	gprs	1
+latest technology feature	gps	1
+NHS organization	gp surgery	1
+online map	gps systems	2
+optional safety feature	gps for eyes-on-the road navigation	1
+personal protection product	gps solutions for self defense	1
+selenoproteins	gpx	1
+academic criterion	gpa in secondary school	2
+information	gps review	1
+information	gps position datum	1
+information	gps location datum	1
+information	gpg fingerprint	1
+information	gpo name	1
+information	gps approach	1
+information	gps dataandphotos	1
+information	gps signal information	1
+information	gps tracking datum	1
+information	gps data easier	1
+information	gps antennalocation	1
+information	gps catch location	1
+information	gps position on a map	1
+information	gps points	1
+information	gpas	1
+information	gpib setup	1
+information	gp name	1
+information	gp detail	1
+information	gps accuracy information	1
+information	gp morbidity database	1
+information	gps capability	1
+information	gps info	1
+information	gps waypoints	1
+information	gps with an edmap	1
+information	gps position of the hydrant	1
+information	gps status item	1
+information	gpu temperature	1
+information	gps evaluation	1
+datum collection methodology	gps	1
+derived product	gpp	1
+dichotomous outcome	gpe	1
+functional entity	gprs gateway support node	1
+GPS accessory	gps antenna	1
+hardware standard	gpib	1
+incoming document	gp letter	1
+monetary indicator	gpi	1
+multi-core processor	gpus	1
+navigation technology	gps	5
+navigational system	gps	5
+navigational system	gps-iii system	1
+ongoing research project	gps	1
+parallel file system	gpfs	7
+positioning technology	gps	2
+satellite network	gps	1
+usable feature	gps	1
+wireless equipment	gps system	1
+advanced electronic product	gps navigation system	2
+civilian facility	gps	1
+connectivity tool	gps	1
+featured character	gp the guinea pig	1
+graphical option	gpucpu sync	1
+hand-held communication device	gps	1
+ipod feature	gps navigation	1
+open source license	gpl	1
+progressive feature	gps	1
+RS232 serial device	gps receiver	2
+satellite communication system	gps receiver	1
+satellite communication system	gps	1
+sensing technology	gps	1
+spy device	gps tracking system	1
+standard smartphone feature	gps	2
+standoff weapon	gps-guided weapon	1
+tracking application	gps-powered automotive tracking application	1
+tracking technique	gps	1
+wireless gadget	gps navigation kit	1
+acoustic system	gp soundboard speaker	2
+commercially available technology	gps	1
+compatible software	gps compatible software	1
+computer architecture	gpus	2
+distracting device	gps	1
+external software	gps configurator	3
+high quality facility	gp surgeries throughout west lothian	1
+high-precision application	gps receiver	1
+HIV-1 protein	gp one hundred and twenty 	6
+hybrid device	gps pdas	1
+industry platform	gpib	1
+interface protocol	gprs mobility management	1
+in-vehicle device	gps	1
+navigation equipment	gps	4
+navigation equipment	gps chartplotter	2
+navigation equipment	gps system	1
+navigational instrument	gps	2
+preset option	gps	1
+quality improvement initiative	gp practice mortality project	1
+radio navigation system	gps	1
+service & product	gps tracking	1
+telematics system	gps service from hcss	1
+urgent care service	gp out-of-hours	2
+advanced communication system	gps	1
+aftermarket device	gps system	1
+antitheft device	gps tracker	1
+antitheft device	gps	1
+common portable player	gphone	1
+day technology	gps system	1
+desktop component	gpu	1
+electromagnetic signal	gps	1
+electronic monitoring device	gps monitoring	1
+embedded product	gps receiver	1
+great raffle prize	gps system	1
+hand-held item	gps	1
+hardware accelerator	gpus	2
+hardware capability	gps	1
+hardware module	gpio	1
+health setting	gp's clinic	3
+high-end customer	gprs based customer	1
+high-tech technique	gps	1
+HIV protein	gp one hundred and twenty 	8
+HIV protein	gp one hundred and twenty  andgp fourty-one 	1
+large service organization	gp surgery	1
+large-scale manufacturer	gp	1
+parallel computer	gpgpu	1
+phone option	gps	1
+polypeptide	gp one hundred and sixty 	1
+pretty good feature	gps	1
+redox enzyme	gpx in mammal	2
+relationship characteristic	gp-gc solidarity	1
+satellite constellation	gps	2
+saving instrument	gpf	1
+signal sequence	gp  sixty-seven  signal sequence 	1
+space asset	gps satellite	2
+space asset	gps	1
+space capability	gps	1
+time reference	gps	1
+wireless communication product	gps smart phone	1
+wireless function	gps	3
+accessible service	gp surgery	2
+advanced image-enhancing option	gprs	1
+application-specific device	gps into separate	1
+automotive feature	gps	1
+costly good	gps car navigation module	1
+detail area	gps	1
+device resource	gps	1
+GNSS system	gps	3
+high-tech function	gps	1
+Isoprenoids	gpp	1
+locator	gps camera locator	1
+mammalian protein	gprotein-coupled receptor rhodopsin	1
+mature program	gps	1
+modern technological innovation	gps	1
+navigation instrument	gps	3
+navigation sensor	gps receiver	3
+navigation sensor	gps	2
+non-functional feature	gps on the  five it 	1
+option feature	gps	1
+performance analysis tool	gprof	1
+sectoral application	gps navigation	1
+space-based system	gps	1
+spread spectrum system	gps	1
+technology gift	gps unit	1
+today's power hungry 5v gadget	gps systems	3
+top quality item	gps navigation device	1
+3rd party option	gps unit	1
+cellular device	gps-enabled device	2
+central service agency	gpo	1
+copyleft license	gpl used for the linux kernel	2
+copyleft license	gpl at hand	1
+device load	gps	1
+device-specific feature	gps	1
+driver's aid	gps unit fitted on the vehicle	2
+expensive hardware	gps receiver	1
+geographic information technology	gps	3
+heparan sulfate proteoglycans	gpi-linked proteoglycans	1
+high tech service	gps mapping	1
+High-end electronics	gps	1
+in-built application	gps	1
+linux live cd	gparted live cd	1
+linux tool	gpt fdisk	1
+liveCD	gparted	2
+location-based technology	gps service	1
+military innovation	gps	1
+mobile communication product	gps	1
+novel architecture	gpus	2
+observation system	gps	1
+ordinary feature	gprs	1
+orphan receptor	gpr twenty-one 	3
+orphan receptor	gpr fifty-two 	2
+others technology	gpr	1
+p53 target gene	gpx one 	1
+personal communication system	gps	1
+popular mobile device	gps	1
+profiler	gprof	2
+satellite program	gps iiia	1
+satellite technology	gps	6
+satellite-based system	gps	1
+screen device	gps device	1
+software functionality	gps	1
+standard UNIX utility	gprof	1
+surface geophysical technique	gpr	1
+viral glycoproteins	gp one hundred and twenty  in human immunodeficiency virus 	1
+viral product	gp one hundred and twenty 	1
+year new technology	gps	1
+advanced automotive technology	gps	1
+analysis module	gpsnet node single point position	1
+analysis module	gps receiver clock	1
+bluetooth peripheral	gps receiver	1
+bluetooth peripheral	gps device	1
+boat electronics	gps	1
+car audio system	gps navigation system	1
+commercially available application	gps	1
+community correction program	gps electronic monitoring	1
+company sell consumer electronic product	gps	1
+datum connectivity option	gprs	1
+dedicated hardware	gps	1
+distance measuring device	gps	1
+distance measuring device	gps device	1
+electromagnetic method	gpr	1
+electronic navigation aid	gps	3
+event	gp trials	1
+event	gp kart marsters	1
+event	gps position	1
+external module	gps	1
+featured function	gps	1
+fixed infrastructure	gps	1
+functional difference	gps	1
+global application	gps	1
+great connectivity option	gprs	3
+ground application	gps surveying	1
+handheld electronics device	gps	1
+heavy-tailed distribution	gpd	1
+hot-ticket item	gps unit	1
+Hsps	gp ninety-six 	2
+large-scale organization	gp cooperative	1
+linux utility	gparted	1
+lipid-modified protein	gpi-linked protein	1
+lipid-modified protein	gpi-anchored proteins on the extracellular side	1
+Local Organisations	gp surgery	1
+location technique	gps	1
+location-aware technology	gps	3
+location-aware technology	gps chip	1
+location-based information	gps tracking information	1
+mobile communication method	gprs	1
+navigation application	gps	1
+navigation service	gps	2
+novel effect	gpu-based water simulation for dynamic puddle rendering	1
+ol	gprs	1
+outdoor system	gps	1
+popular consumer electronics	gps device	1
+popular consumer electronics	gps	1
+quality electronics	gps	1
+rangefinders	gps receiver	1
+satellite communication product	gps pet tracking device	1
+satellite communication product	gps anti-theft instrument positioning system	1
+satellite communication product	gps personal navigation system	1
+satellite communication product	gps positioning systems for the elderly	1
+satellite communication product	gps car navigation system	1
+service discipline	gps	2
+simple asset	gps	1
+space geodetic technique	gps	5
+threat vector	gps	1
+year class	gp fourteen 	1
+age technology	gps	1
+auto electronical equipment	gps bluetooth	2
+auxiliary technique	gps pseudolite	2
+basic field datum	gps location	1
+car datum	gps position	1
+conventional portable electronic device	gps	2
+core network component	gprs gateway	1
+electronic and tactical product	gps device	1
+external processor	gpus	1
+fancy option	gps	1
+Furuno electronics	gps	1
+golfing item	gps unit	1
+GPS parameter	gps speed on dashdyno	1
+GPS tracking device	gps mini tracker	1
+handheld electronics	gps receiver	1
+handy program	gps	1
+high-performance technology	gpgpu computing by cuda	1
+location device	gps receiver	1
+location device	gps	1
+Mission critical information	gps	1
+mobile capability	gps	1
+mobile consumer device	gps-based mobile computing peripheral	2
+mobility management function	gprs attach	1
+modern mean	gps	1
+modern-day feature	gps	1
+navigation method	gps	2
+NMEA compatible navigation equipment	gps navigator see	1
+NMEA compatible navigation equipment	gps navigator	1
+program	gpc	2
+program	gpe	2
+non-directory information	gpa	1
+non-directory information	gpa information	1
+online test	gpi in recruitment projects for senior staff	1
+organisational setting	gp practice	1
+PC interface	gpib	2
+professional carer	gp	2
+quantitative instrument	gpra	1
+quick reference information	gps location	1
+regular use gadget	gps	1
+RF communication system	gps device	1
+Satellite Positioning System	gps	10
+shikatronics product	gps navigation	1
+signaling receptor	gprotein-coupled receptor	1
+small, handheld, portable device	gps unit	1
+software add-ons	gps receiver	1
+special interest	gp special interest	1
+spy equipment	gps	1
+status parameter	gps position	1
+stock icon	gps	1
+unneeded service	gps	1
+valuable device	gps system	1
+vehicle tracking device	gps tracking key	1
+vehicle tracking device	gps tracking key pro	1
+vehicle tracking device	gps satellite tracking system	1
+water treatment facility	gpts	2
+well-known scheduling algorithm	gps	1
+accurate and relevant information	gps co-ordinates	1
+air traffic control system	gps-based air traffic control system	1
+auxilliary device	gps	1
+capacitive touch screen	gphone	1
+common infrastructure	gps	1
+community practitioner	gp	1
+computationally intensive algorithm	gps correlators	1
+connectivity attribute	gps	1
+datum acquisition technology	gps	1
+electronic development	gps device	1
+electronic export product	gps	2
+everyday health service	gp's surgery	1
+everyday health service	gps surgery	1
+external interrupt event	gpio change interrupt	2
+external interrupt event	gp port change interrupt	1
+Famous brand electronics	gps	1
+federal government official	gpcp approving official	1
+golf cart accessory	gps unit	1
+GPS product	gps modems	1
+health reform	gp commissioning	1
+hourly silent auction item	gps system	1
+HSP fusion protein	gp ninety-six  fusion protein 	1
+human-made system	gps	2
+information cue	gps location	1
+intelligent transportation system component	gps	1
+latest digital product	gps tracker	2
+lot essential feature	gps	1
+low-level signal	gps	1
+message datum	gps latitude	2
+mobile device capability	gps	1
+mobile innovation	gps	1
+mobile phone's feature	gps	1
+program	gpsbabel	1
+program	gp reach	1
+program	gpac	1
+program	gparted live cd	1
+program	gps map manager	1
+program	gparted	1
+program	gp affiliate plan or gp partnership plan	1
+program	gps-based freight vehicle fee	1
+program	gpsn schwartz first wave scholarship	1
+program	gpu folding@home client	1
+program	gps tuner	1
+program	gpps strategic plan	1
+program	gp seven thousand two hundred 	1
+positioning technique	gps	1
+power handheld device	gps tracker	1
+power larger device	gps unit	1
+private training organization	gps defense aka mcmillan sniper school	1
+rechargeable USB device	gps device	1
+recommendation part	gps unit	1
+required technology	gps	1
+smart phone apps	gps	1
+spatial information technology	gps	2
+window phone feature	gps	1
+wireless instrument	gps device	1
+3D graphic application	gpu programing	1
+adaptation technology	gps	1
+auto electronics	gps navigation system	1
+car audio electronics	gps navigation system	1
+cargo molecule	gpi-anchored protein	1
+chipset vendor	gps chipset vendor	1
+delicate accessory	gps	1
+digital information system	gps	1
+dual use technology	gps	1
+electronic gear	gps	1
+estrogen antagonist	gp clomiphene	1
+external clock	gps	1
+fiber optic technology	gpon	1
+forestry tool	gps unit	1
+full face helmet	gpone  two hundred and one  flash helmet 	1
+full face helmet	gpone  two hundred and one  plain helmet 	1
+geological, geotechnical & exploration need	gps	1
+geospatial technique	gps for the spatial-based yield estimation of different crop	1
+hardware difference	gps	1
+high-end card	gpus	1
+IGS product	gps orbit	1
+key golfing product	gps unit	1
+latest multi-media feature	gps	1
+mobile datum network	gprs	2
+mobile datum network	gprs network	1
+mobile IT device	gps system	1
+mobile network standard	gprs	1
+modern electronic aid	gps	4
+modern electronic aid	gps locator	1
+navigational skill	gps navigation	1
+non-imaging information	gps	1
+non-visual sensor	gps	1
+polymorphic gene	gp sixty  gene 	1
+powerfull feature	gps	1
+precipitation product	gpcp monthly precipitation analysis	1
+processor resource	gpp	2
+ronic device	gps locator	1
+shelf part	gps unit	1
+signal input source	gp-ib	1
+simulator game	gpl	1
+technological possibility	gps	1
+technology aid	gps	2
+wireless radio	gps	1
+wireless receiver	gps receiver	1
+3-D system	gps system	1
+advanced connectivity feature	gps for easy navigation	2
+advanced user feature	gps mapping	1
+affordable extra	gps navigation	2
+basic sensor	gps	1
+Battery-operated equipment	gps receiver	1
+battery-powered product	gps device	1
+built-in sensor	gps	1
+campuswide event	gps lifeplan workshop	1
+chemical corrosion-resistant material	gpps	1
+commercial today highlight feature	gps	1
+common connectivity option	gprs	1
+complete and available function	gps navigation	1
+content-delivery technology	gps	1
+core health service	gp visit	1
+cracking competitive exam	gpat	1
+currently available datum collection system	gps	1
+day certain advanced feature	gprs	1
+electronic navigation device	gps	4
+electronic navigation device	gps for positioning	1
+environment sensor	gps	1
+exceed feature	gps	2
+excellent connectivity feature	gps	1
+exciting new innovation	gps	2
+expansion board	gpib board	2
+expansion board	gps	1
+external clock source	gps	1
+external time source	gps	2
+external time source	gps module	1
+fascinating attribute	gps	1
+free and commercial tool	gparted livecd	1
+garmin unit	gpsmap sixty-two x 	1
+geodetic observation	gps	1
+geophysical exploration method	gpr	1
+global navigational satellite system	gps	2
+GPS function	gps status showing gps-position speed fix	1
+GPS tracker	gps tracking key	2
+hand-held gadget	gps navigators	2
+hemopoietin receptor	gp  one hundred and thirty 	1
+hemopoietin receptor	gp one hundred and thirty 	1
+hemopoietinreceptors	gp one hundred and thirty 	1
+hemopoietinreceptors	gp  one hundred and thirty 	1
+heritage component	gps	1
+high speed technology	gprs class  ten 	1
+HIV antigen	gp one hundred and twenty  sequences for a multitude of hiv- one 	6
+HIV antigen	gp fourty-one 	1
+HIV antigen	gpl twenty  sequences for a multitude of hiv-i 	1
+improved application technique	gps-controlled aerial application	1
+indoor and specialized environment	gps	3
+key public place	gp surgery	1
+l1-only receiver	gps-enabled mobile phone	2
+leverage native device functionality	gps	1
+long-chain class-I helical cytokines	gp one hundred and thirty  cytokines 	1
+long-range communicator device	gps	2
+medicare item	gp management plan	1
+mobile datum	gps	2
+mobile display	gps device	1
+motivational application	gps positioning	1
+navigation satellite	gps	1
+navigation satellite	gps satellite	1
+navigational equipment	gps	3
+non-print based resource	gps device	1
+optional interface	gpib	2
+optional system component	gps-mapping software	1
+OSS license	gpl for linux	1
+outdoor challenge	gps treasure hunts	1
+p53-regulated gene	gpx one 	1
+physical activity sensor	gps	1
+podcatcher	gpodder	1
+policy item	gpo policy item	1
+PON system	gpon	1
+postcodes	gpo boxes	1
+precision technology	gps	1
+regular multimedia device	gps	1
+satellite observation	gps	1
+semiparametric method	gph method	1
+seventh, timing issue	gp visit timing	1
+organization	gp practice	4
+organization	gpl-violations.org	2
+State-of-the-art electronics	gps satellite navigation	1
+superior connective	gps	1
+tenant organization	gpc biotech	1
+time control	gps time control	1
+typically term	gprs	1
+valuable electronics	gps receiver	1
+vehicle safety item	gps system	1
+vehicle tracking system	gps tracking key pro	1
+viral fusion protein	gp fourty-one  of hiv 	1
+wonderful connectivity tool	gprs	1
+accurate external timing reference	gps	1
+advanced and user friendly feature	gps	1
+advanced control technology	gps	3
+advanced mapping technology	gps	1
+advanced warning system	gpws	1
+auto theft prevention device	gps tracking device	1
+basic survey instrument	gps unit	1
+blackberry's hallmark feature	gps	1
+branch wise monthly report	gpf statement	1
+built-in communication feature	gps	1
+car security system	gps tracking device	1
+charge electronics	gps	3
+chassis brand	gp racing	1
+cockpit technology	gps	1
+community-based professional	gps trained in paediatrics	1
+complementary payload element	gps receiver	1
+computer graphic technology	gpu development for personal computer	1
+connectivity item	gps	1
+connectivity requirement	gprs for internet	1
+consideration option	gps	1
+contemporary grammar formalism	gpsg	1
+contex-tualinformation	gps datum	2
+covert technology	gps	1
+crucial mission electronics	gps receiver	1
+datum clearing service	gprs support	1
+digital and electronic gadget	gps tracker	1
+discounted electronics	gps	1
+effective function	gps system	1
+electronic and digital device	gps gadget	1
+electronic navigational aid	gps	2
+elegant old building	gpo	1
+end function	gps	1
+enhanced supervision option	gps	1
+essential outdoor feature	gpx compatibility	1
+extensive triggering feature	gpib	1
+external guidance system	gps	1
+extremely reliable source	gps satellite timing receiver	1
+federal government information system	gpo access system	2
+geneza pharmaceutical product	gp test enanthate	2
+geneza pharmaceutical product	gp sust	2
+geneza pharmaceutical product	gp turan	2
+geneza pharmaceutical product	gp test propionate	2
+geophysical investigation	gpr	1
+geo-spatial information	gps location	1
+geotechnologies	gps	4
+global navigation system	gps	3
+global positioning system device	gps receiver	1
+GPS tracking application	gps navigation	1
+GPS tracking system	gps tracking key	3
+GPS tracking system	gps tracking key pro	1
+GPS-using apps	gps dashboard	1
+great many essential medical cost	gp visit	1
+ground instrument	gps total electron content measurement	1
+ground-based measurement system	gps meteorology	1
+ground-based technique	gps	1
+guidance aid	gps	1
+handy built-in tool	gps	1
+heavy-duty feature	gps	1
+helpful technology	gps device	1
+high performance wireless system	gps system	1
+high tecnology product	gps	1
+high-end mobile video product	gps navigation	1
+high-theft item	gps unit	1
+HIV-1 viral protein	gp one hundred and twenty 	1
+HTC service	gps mapping service	1
+includin g extra	gps	1
+independent device	gpib device	1
+interesting multimedia feature	gps navigational facility	1
+introduction global navigation satellite system	gps	1
+in-vehicle consumer device	gps system	1
+large dataset	gprd	1
+latest connectivity feature	gps	1
+latest wireless technology	gps	1
+licenced radio	gp three hundred 	1
+licenced radio	gp three hundred and fourty 	1
+lifestyle application	gps-based maps for outdoor activity	1
+li-only receiver	gps-enabled mobile phone	1
+location aware device	gps	2
+location aware device	gps-enabled device	1
+location collection technology	gps	1
+mainstream community location	gps surgery	1
+marine navigational equipment	gps	1
+mobile and state-of-the-art technology	gps tracking	1
+mobile device specific feature	gps location finding	1
+modern navigation aid	gps	1
+modern recording method	gps	1
+navigation satellite system	gps	1
+neighbourhood facility	gp surgery	1
+nifty, practical iphone application	gps service	1
+non-critical care area	gpo contracts hallway	1
+non-invasive biological survey method	gps	1
+non-traditional evidence source	gps device	2
+onboard technology	gps	1
+outdoor electronics	gps	1
+partition software	gparted live cd	1
+phone's wireless connection	gps	1
+phone-specific feature	gps	1
+plentiful wireless connection	gps	1
+popular open source license	gpl within a large directory of source code	1
+position detection system	gps	2
+organization	gp surgery	1
+organization	gp co-operatives	1
+organization	gp commissioning consortium	1
+technique	gps	17
+technique	gpc	4
+precise location datum	gps data indicating the longitude	1
+product system	gps	2
+public key cryptography	gpg	1
+reception element	gps receiver	1
+RF survey tool	gps garmin  seventy-two h 	1
+rich sensor	gps	1
+RS-232 serial device	gps receiver	1
+satellite-based navigation system	gps	1
+satellite-based positioning system	gps	1
+satellite-based technology	gps	1
+scheduling discipline	gps	1
+secondary outcome -metric	gp visit	1
+security space-based system	gps	1
+self-help approach	gp prescriber model	1
+semi-parametric method	gph method	2
+small portable electronics	gps device	1
+smartphone's native ability	gps	1
+sometimes delicate instrument	gps	1
+special-purpose processor	gpus	3
+standard spy phone feature	gps tracking	1
+system performance setting	gpu speed	1
+tall unit	gps  seventy-six csx 	1
+tecbnological ratchet technological advance	gps	1
+technological and scientific advance	gps	1
+technology integration device	gps receiver	1
+technology-intense industry	gps	1
+technology-oriented discipline	gps system	3
+telematic technology	gps	1
+third-party software tool	gps photo link	1
+timber yacht	gp fourteen 's 	1
+Tourney series	gpl	1
+tremendous connectivity option	gps	1
+typical connectivity feature	gps	1
+unnecessary extra	gps	1
+USB A device	gps receiver	2
+user's log	gps log	1
+vehicle GPS unit	gps receiver palm	1
+Virotoxins	gp one hundred and twenty 	3
+wide bandwidth system	gps	1
+wireless connectivity	gprs for two-way connected content service	1
+above-mentioned function	gps	1
+academic agreement	gpc manual	1
+active beacon system	gps	1
+active connection	gps	1
+add-on SW product	gps	1
+affordable, operational technology	gps	1
+algo-rithms	gps-based scheduling algo-rithms	1
+alternate travel aid	gps	1
+amazing connectivity option	gps	1
+amoi mobile phone	gps phone	1
+apple-approved third-party application	gps navigation	1
+area detector system	gps	2
+arguably single function electronic device	gps unit	1
+artificial measuring device	gps	1
+auto security product	gps & gsm vehicle tracking system	3
+blackberry device feature	gps	1
+blackberry s device feature	gps	1
+blackberrys device feature	gps	1
+blackberry's device feature	gps	6
+Bluetooth adaptor ready electronics	gps navigation system	1
+brand album	gp albums	2
+Bridge electronics	gps	1
+built-in phone feature	gps	1
+car racing helmet	gp five k 	1
+car system product	gps navigations	1
+chip architecture	gpus	1
+classic town country luxury feature	gps navigation	1
+clever technology	gps	2
+cluster filesystem	gpfs	1
+common locomotive	gp thirty-eight - two 	1
+common quality assurance system	gpm	1
+common setting option	gps	1
+common smart phone utility	gps	1
+commonplace apps	gps	1
+company import radio electronic system	gps	1
+Competitive series	gp two 	1
+computationally intensive technique	gps	1
+conclusion spatial technology	gps	1
+consumerelectronics	gps navigation	1
+consumer-oriented system	gps	1
+contemporary technological method	gps	1
+convenient system integration function	gpio	1
+Conventional signal processing	gps signal processing	2
+conventional wireless technique	gps	1
+cross-hole technology	gpr	1
+csr's low cost GPS solution	gps	1
+data-rich service	gps-enabled application	1
+datum connectivity function	gprs	1
+datum gathering technology	gps	1
+decentralized purchasing method	gpc	1
+Deep earth investigation	gpr	1
+device state	gpu state	1
+device's various component	gps	1
+digital player extra feature	gps	1
+displacement-sensitive instrument	gps	1
+distracting technology	gps navigation system	1
+domain-specific parallel processor	gpus	1
+driving accessory	gps navigator	2
+DSSS signal	gps satellite signal	1
+easily removable electronic device	gps system	2
+elective accessory	gps antennas	1
+electronic marine component	gps receiver	1
+electronic navigation system	gps	2
+endurance feature	gpu guard	1
+eographic tool	gps	1
+ER chaperone	gp ninety-six 	1
+error infield-based measurement technique	gpr	1
+event structure	gps	1
+expensive high-end feature	gps	1
+external electronic equipment	gps systems	1
+external position sensor	gps	1
+fancy multimedia feature	gps navigation system	1
+feature element	gps system	1
+federal legal resource	gpo decision	1
+first-class mobile phone	gps phone	1
+fitting aid	gp lens management guide	1
+free, open-source software	gparted	1
+freight locomotive	gp- nine 	1
+technique	gps-device combined with electronic map	1
+technique	gps-gsm telemetry	1
+technique	gps measurement	1
+technique	gpr	1
+technique	gps positioning system	1
+technique	gpu fft	1
+application	gps	33
+geodetic method	gps	3
+Geolocation apps	gps	1
+geo-location information	gps datum	2
+geo-location technique	gps	1
+geolocation technology	gps	3
+gilli banta & select dive	gps point	1
+GNSS constellation	gps	1
+GPS forum	gps underground	1
+GPS forum	gps discussion	1
+GPS forum	gps passion	1
+GPS monitoring device	gps tracking key	2
+GPS monitoring device	gps tracking key pro	1
+GPS utility	gpstest	1
+GPS utility	gpstuner	1
+gps-based consumer product	gps-enabled pdas	1
+GSM based display	gprs based traffic signal display	2
+high-precision, geodetic technique	gps	1
+high-speed nondestructive testing datum	gpr	2
+hi-tech method	gps	1
+home browse optional service	gps	1
+humanitarian technology	gps location	1
+in-circuit rechargeable battery application	gps receiver	1
+information system related component	gps navigation system	1
+infotainment product	gps navigation system	1
+initial hardware configuration	gpio port	1
+innovative field technique	gps bison tracking	1
+integrated datum application	gps	1
+integrated datum application	gps-based location tracking	1
+integrated, soldier-wearable technology	gps navigation	1
+intraprocess performance tool	gproffacility on bsd unix	1
+INTRODUCTION various technology	gps	1
+iphone's advanced feature	gps	1
+iphone's unique capability	gps interface	1
+kpi measurement	gprs latency characteristic kpi measurement	1
+latest technological gadget	gps	1
+localisation technology	gps	1
+localization technology	gps	1
+location detection source	gps	1
+location sensor	gps	1
+long speech	gpuffa puffs rice speech	1
+LPTs	gpt group	1
+luxury component	gps navigation system	1
+M500 series peripheral	gps receiver	1
+mac forensic tool	gpart	1
+mobile communication network related feature	gprs in moving	1
+mobile device peripheral	gps	1
+modern datum collection method	gps	1
+modern electronic technology	gps	1
+modern navigational equipment	gps	1
+modern navigational tool	gps	1
+modern navigational tool	gps device	1
+modern simulation language	gpss	1
+Motorcycle electronics	gps's	1
+network-generated signal	gps clock signal	3
+new-fangled technology	gps	1
+next-generation computational accelerator	gpus	2
+NMEA output sentence	gprmc	1
+nmea2000 network share information	gps signal	1
+noise-sensitive system	gps navigation	1
+non-cellular access component	gps	1
+non-cellular technology	gps	3
+application	gps navigation	11
+application	gps navigation system	4
+application	gps application	4
+application	gps receiver	3
+application	gparted	3
+application	gps system	2
+application	gps-based location tracking	1
+novel g-protein coupled receptor	gpr thirty  for estradiol 	1
+novel g-protein coupled receptor	gpr fourty  for free fatty acid 	1
+OBJECTIVE new technology	gps unit	1
+often-requested topic	gps current active nanus	1
+on-board electronics	gps	1
+Optional and built-in functionality	gps	1
+organizational improvement	gpp organizational improvement	1
+passive GPS tracker	gps tracking key	2
+payment processing system	gps	1
+payment system leverage technology	gprs communication	1
+PDA peripheral	gps	1
+personalised system	gps navigation system	1
+planar inverted-F antennas	gps	1
+popular and hot category	gps navigation	1
+popular hardware training device	gps unit	1
+popular open wheel series	gp two 	1
+portable essential device	gps	1
+portable interior component	gps system	3
+position determination system	gps	1
+position determining device	gps unit	1
+power common device	gps	1
+pre and post processor tool	gpp	1
+precise geodetic measurement	gps	1
+precision farming tool	gps system	1
+protein group	gpi-linked protein	1
+purpose-specific system	gps	1
+range technology	gps	1
+real world coordinate system	gps	1
+rechargeable electronic device	gps	1
+replaceable unit	gps receiver	1
+retractable carabineers item	gpa unit	1
+RNSS system	gps	1
+roadway it application	gps tracking	1
+ruger .357 mag DA revolver	gp one hundred 	1
+scheduler discipline	gps	1
+sex offender law	gps montioring	1
+single-seater driver	gp two  champion pantano 	1
+small cable	gps antenna cable	1
+small form-factor device	gps device	1
+small, portable electronic product	gps unit	1
+software conversion program	gps babel	1
+sophisticated landscape-scale planning tool	gps unit	1
+space-based positioning system	gps	2
+space-geodetic technique	gps	1
+sport related feature	gps tracker	1
+spy phone feature	gps tracking	1
+standard android feature	gps	1
+standard mod con	gps & sounders	1
+standard openpgp encryption program	gpg	1
+state government resource	gpo access service	1
+state-sponsored initiative	gps roll-out	1
+suitable real time source module	gps	1
+surface deformation-based reservoir monitoring technology	gps	1
+surveillance feature	gps tracking	1
+SV information	gps time with clock correction term	1
+application	gps monitor	1
+application	gps tracker	1
+application	gps device	1
+application	gprs	1
+application	gpusbcheck	1
+application	gp three 	1
+application	gpon	1
+application	gps reading	1
+application	gps service	1
+application	gps-powered automotive tracking application	1
+team experienced product	gps system	1
+telematics device	gps-powered telematics device	1
+telemetry device	gps	1
+telephony encoding standard	gprs	1
+testable indicator	gpi	1
+toother portable wireless device	gps receiver	1
+UC series	gp one 	1
+unsophisticated and inexpensive sensor	gps	1
+vehicle sound	gps voice	1
+VGA application	gps	1
+vulnerable onboard electronics	gps	1
+web mapping system	gps device	1
+WMR localization sys-tembasedon perpetual sensor	gps	1
+above-described various element	gpu  sixty-two 	1
+accurate time source	gps	1
+add-on electronic device	gps	1
+adjoining feature	gps	1
+advanced electronic equipment	gps	1
+advanced loss model	gpl model of brigoetal	1
+advanced loss model	gpl model of brigo et al.	1
+after-market security system	gps monitoring device	1
+AIM CAN module	gps	1
+air force space system	gps	1
+american locomotive	gp thirty-eight 	1
+application specific item	gps	1
+arbitration decision address technology	gps	2
+area-wide technology	gps	1
+attaching modern F-16C system	gps	1
+automated datum collection technology	gps	1
+automated sample preparation technique	gpc	1
+automated trip recording technology	gps receiver	1
+automatic recording technology	gps tracking	1
+automotive electrical accessory	gps navigation unit	1
+automotive safety device	gps	1
+bacteriophage SSB protein	gp thirty-two  of phage t four 	2
+bacteriophage SSB protein	gp two . five  of phage t seven 	2
+basic electronic device	gps	1
+basic navegation element	gps system	1
+basic wireless datum service	gprs connectivity	1
+battery reducing measure	gps	1
+binary qt package	gpl packages for windows	1
+board sensor	gps	1
+boasting connectivity function	gprs for quick wap browsing	1
+boosting high-end feature	gps	1
+broken small consumer electronics	gps	1
+name	gps test	3
+car GPS navigation related offer	gps navigation	1
+CCTV surveillance system latest technology	gps	1
+celebrated flagship machine	gpz nine hundred r along with state-of-the-art superbikes like the zz-r one thousand one hundred 	1
+citizen-driven technology	gps	1
+classic mechanism	gp thirty-five 	1
+clearly non-aromatizing androgen	gp halotest	1
+Clever electronics	gps navigation system	1
+collocated space geodetic system	gps	1
+common HTC android feature	gps	1
+common systemic factor	gpa system	1
+community-supported learning opportunity	gpnw weekend	1
+compact array	gps anti-jam array	1
+compatible electronic device	gps unit	1
+competent practitioner	gp	1
+complementing today's localization technology	gps	1
+complex datum gathering requirement	gps location	1
+complex on-board computer	gps for self driven car	1
+computational accelerator	gpus	1
+CONCLUDING remark space geodetic technique	gps	1
+conclusion facility	gp	1
+concurrent signal	gps	1
+container tracking technology	gps	1
+contemporary and useful feature	gps	1
+contemporary map interpretation tool	gps	2
+conventional GNSS system	gps	2
+conventional navigation instrument	gps receiver	1
+core GNSS component	gps	1
+cost apparatus	gpu with a limited amount of memory	3
+critical acoustic space	gp hall	1
+CSI wireless diversified solution	gps	1
+cultural and fun activity	gps city game	1
+currently available geospatial technology	gps	1
+currently different satellite navigation system	gps	1
+custom driver interface library	gp-ib	1
+custom GIS solution	gps surveying	1
+datum connectivity feature	gprs	1
+decade new information technology	gps	2
+decidedly more high-tech gadget	gps	1
+digital map datum	gps datum	1
+diversified trust	gpt	1
+divisional planning activity	gp education	1
+drm-associated protein	gpi-anchored protein	1
+dublin's major attraction	gpo	1
+E3 ligases	gp seventy-eight  for cyp three a four 	1
+effective use ofinteragency system	gp-gp record transfer	1
+elctronics item	gps unit	1
+electronic mapping device	gps	1
+electronic type gadget	gps	1
+elektronic tool	gps	1
+embedix SDK component	gpl compliance checker	1
+Emergency vehicle electronics	gps	1
+encrypted signal	gps p signal	1
+end accessory	gps unit	1
+end user application function	gps	1
+end user field application function	gps	5
+end-user field application function	gps	1
+energy consuming function	gps	1
+EO datum source	gpm	1
+equipment development	gps	1
+established radio-based service	gps	1
+expensive breakout board	gps	1
+external energy-hungry equipment	gps	1
+external energy-hungry equipment	gps receiver	1
+external input terminal	gps	1
+famous emulator	gpsp for the game boy advance	1
+feature addition	gps	1
+free partition utility	gparted	1
+freeance software application	gps collector	1
+fuel saving initiative	gps route optimization	1
+full rack system	gps primary reference sources	1
+garmin device	gpsmap  two hundred and ninety-six 	1
+garmin sounder unit	gpsmap  one hundred and sixty-eight 	1
+garmin sounder unit	gpsmap  one hundred and seventy-eight 	1
+garmin's aviation GPS navigation device	gpsmap series	1
+gecko enhancement	gpu-based hardware acceleration	1
+generic raft-associated molecule	gpi-anchored protein	1
+geodetic device	gps unit	1
+geodetic measuring technique	gps	1
+geodetic observation technique	gps	1
+geodetic technology	gps	1
+geographical and proximity signal	gps	1
+geo-referencing sensor	gps locator	1
+geo-referencing sensor	gps receiver	1
+geo-spatial information system	gps	1
+global navigation satellite system receiver	gps receiver	1
+global reference system	gps	1
+global satellite navigation system	gps	1
+global satellite system	gps	2
+GNSS component	gps	2
+GNSS technology GNSS system	gps	1
+golfing aid	gps system	2
+golfing gadget	gps device	1
+good & essential feature	gprs internet	1
+good few club	gpo	1
+gpcr-fluorescent protein fusion product	gpcr-green fluorescent protein	2
+gpcr-fluorescent protein fusion product	gpcr aquelorin product	2
+GPGPU task	gpu-accelerated video encoding	1
+GPS locator	gps angel	1
+GPS position technique	gps carrier phase vector	1
+GPS tracking system related offer	gps antenna	1
+GPS tracking system related offer	gps navigation	1
+graduate school admission factor	gpa	1
+gravity field information	gps-levelling datum	1
+great spec	gps	1
+ground-based technology	gps	1
+GUI apps	gprename in the repos	1
+handheld GPSR's	gps iii	1
+handheld GPSR's	gps v from garmin	1
+hardline Malay NGOs	gpms	1
+healthcare site	gp surgeries	1
+heavyweight feature	gps	1
+high stability external timing source	gps receiver	1
+high tech accessory	gps receiver	1
+high tech navigation equipment	gps	1
+high-end addition	gps	1
+high-orbiting satellite	gps	2
+high-tech communication device	gps receiver	1
+HIV-proteins	gp one hundred and twenty 	2
+homophilic adhesion	gpi-linked protein lachesin	1
+hot gadget	gps device	2
+HTC legend phone feature	gps antenna	1
+in-car digital product	gps program	1
+in-car electronic item	gps system	1
+increasingly powerful feature	gps	1
+independent multi-gene superfamilies	gpcr	1
+industry benchmark service	gps tracking	1
+inspire patch	gps lock fix	1
+installing electronic accessory	gps	1
+instrumentation-based profilers	gprof	3
+interior gadget	gps	1
+interreg IIIA project	gp out of hour's provision	1
+INTRODUCTION surface deformation-based reservoir-monitoring technology	gps	1
+iphone extra	gps	1
+iphone's built-in radio	gps	1
+key low-rate variable	gps altitude	1
+key traceability datum	gps location	1
+kid-friendly technology tool	gps receiver	1
+land surveying service	gps	1
+large multi-cellular function	gps	1
+large-scale GPU application	gpu computing	1
+latest computer	gpgpu	1
+lex formalism	gpsg	1
+lightweight chip	gpus	1
+factor	gps position error	1
+factor	gpa in science course	1
+factor	gps satellite operational maintenance	1
+factor	gpu clock speed	1
+factor	gpa in determining eligibility for admission	1
+factor	gp threshold	1
+factor	gpa trend	1
+factor	gps offsets	1
+name	gps time receivers	1
+name	gp-utility	1
+name	gpo	1
+name	gput	1
+name	gpx	1
+name	gps manufacturing brand name	1
+live disc	gparted from a ubuntu live disc	1
+local wireless peripheral	gps	1
+location detection technology	gps reporting	1
+location tracking device	gps receiver	1
+location-aware mobile device	gps	1
+location-detection technology	gps	1
+long-range application	gps application	1
+LR-TP-2004-137 external component	gps	1
+Luxury electronics	gps system	1
+macbook component	gpu	1
+marine electronics device	gps receiver	1
+marine navigation technology	gps	1
+medium earth orbit constellation	gps	1
+mid-earth orbit satellite	gps	1
+mobile and ubiquitous device	gps	1
+mobile resource management technology	gps	1
+modern accessory option	gps navigation	1
+modern capture technology	gps	1
+modern computer hardware architecture	gpus	1
+modern electronic navigation system	gps	1
+modern fishing gadget	gps	1
+modern GNSS signal	gps l five 	1
+modern investigation technique	gps	1
+modern navigation instrument	gps receiver	1
+modern navigational aid	gps	2
+modern parallel file system	gpfs	1
+modern survey apparatuses	gps apparatuses	1
+modern survey technique	gps	1
+modern survey technology	gps	1
+national breakfast	gp's breakfast	1
+native mobile feature	gps	1
+navigation accessory	gps	2
+navigation receiver	gps	1
+navigational accessory	gps	2
+nifty module	gps	1
+Night navigation equipment	gps	1
+non-authorised seller	gps-r-us	1
+non-mainstream processing technology	gpus	1
+non-rdf vehicle tracking system	gps-based systems sold by tracking products	1
+north american -loco	gp seven 	1
+OEM mobile phone	gps mobile	1
+on-device sensor	gps receiver	1
+on-line mapping technique	gps synchronization	1
+operationally-required test	gpws test	1
+optional extra feature	gps	1
+original divisional planning activity	gp education	1
+Overview Portable consumer electronics	gps	1
+passive observation tool	gps	1
+passive tracking system	gps tracking key	1
+person car accessory	gps navigation system	1
+phone sport built-in motion sensor	gps receiver	1
+phone's high end feature	gps	1
+pilot aid	gpws	2
+pixel script	gpix pixel ad script	1
+platelet membrane receptor	gp ia	1
+platelet membrane receptor	gpia	1
+player gaming option	gps	1
+popular communication system	gps	1
+portable navigation system	gps system	1
+position determining system	gps	2
+position location datum interface	gps in fig	1
+position measuring sensor	gps	1
+positioning sensor	gps receiver	1
+position-sensitive sensor	gps	1
+potential corporate stakeholder	gps manufacturer	1
+precise system	gps	1
+precision strike weapon	gps-guided joint direct attack munition	1
+premium connectivity option	gps	2
+prenyl pyrophosphates	gpp	1
+problem-domain-specific language	gproms from process systems enterprise	1
+professional measuring device	gps navigation system	1
+PSP peripheral	gps receiver	1
+PU application	gps	1
+public educational initiative	gp education workshop	1
+public sector location	gp surgeries	1
+purpose simulation language	gpss	2
+quickie chair	gpv	1
+range-based localization system	gps	1
+reason aftermarket accessory	gps system	2
+redox-regulating protein	gpx one 	2
+regional and local unit	gp practices	2
+regional small business resource	gpa edc's business advisory centre	1
+regular healthcare provider	gp	2
+regular medical facility	gp	1
+related command	gps related command	1
+release assay	gpl assay	1
+remote monitoring solution system	gps device	1
+reputable setting	gp practice	1
+respected witness	gp jenny watson	2
+revised datum source	gps point file	1
+ruggedized device	gps device	1
+Running carpc apps	gps navigation	1
+satellite navigation device	gps	1
+satellite navigation technology	gps	1
+satellite-based location determination system	gps	2
+satellite-based navigational system	gps	3
+satellite-based position receiver	gps	1
+satellite-only navigation system	gps	1
+saving brand	gpc	1
+scientific and commercial opportunity	gps around the moon	1
+scientifically meritorious project	gpb	1
+second, standard profiling tool	gprof	1
+sensitive band	gps band	1
+sensor noise	gps multipath error	1
+separated protein	gp one hundred and twenty 	1
+separated protein	gp fourty-one 	1
+shared care environment	gp surgery	1
+shared file-system	gpfs	1
+shared medium access protocol	gpon	2
+short-chain prenyl diphosphate intermediate	gpp	2
+simple GPS utility	gps test	1
+simple GPS utility	gps diags	1
+smart-grid feature	gps	1
+smartphone goodie	gps	1
+soft core	gpp	1
+sophisticated guidance system	gps	1
+space geodesy technology	gps	1
+space system observation	gps	1
+spaceborne radar	gpm dpr in the future	1
+spatial information acquisition technology	gps	1
+spatial sensor	gps unit	1
+speciality solar product	gps device	1
+spectral system-specific feature	gps	1
+sporty function	gps	1
+spread spectrum CDMA system	gps receiver	1
+standard autopilot feature	gps vector navigation	2
+standard based solution	gps	1
+standard IP connection	gprs modem	1
+standard receiver	gps	4
+state-of-the-art computer interface	gpib	1
+station datum	gps receiver performance	1
+steady quality -logistic technology	gps	1
+stereo system	gpsvision tm system offered by lambda tech international	1
+stream filter	gps stream filter	1
+support race	gp two  asia series 	1
+case	gps id	1
+case	gps tracking	1
+case	gps	1
+case	gpb	1
+option	gps	18
+option	gp walk-in-centres	2
+option	gps system	2
+option	gps receiver	2
+suspected rebel	gpjg van zyl	1
+technolo gy	gps radio collar	1
+technology-oriented solution	gps vehicle tracking device	1
+telematics integration tool	gps locator	1
+terrestrial based topographic survey method	gps	1
+today's technology advancement	gps unit	1
+top quality gadget	gps navigator	1
+top-end smartphone essential	gps	1
+tracking function	gps	1
+traditional analytical test	gpc	1
+traditional predictive controller	gpc	1
+traditional primary care service	gp practice	2
+traditionalgis datum	gps	1
+transportation protective service	gps tracking system	1
+trimble GPS field application	gps controller	1
+uniform soil	gp	1
+universal standard time source	gps time signal	1
+usb-based peripheral device	gps receiver	1
+utilitarian passenger amenity	gps	1
+valuable electronic item	gps unit	1
+vehicle location device	gps	1
+vehicle location identifier device	gps	1
+vehicle location sensor	gps	2
+vehicle output	gps-based vehicle position	1
+vehicle security device	gps	1
+vehicle tracking technology	gps	1
+viral envelope protein	gp fourty-one  of hiv 	3
+viral neurotoxic protein	gp fourty-one 	1
+viral-encoded protein	gp one hundred and twenty 	1
+visable item	gps	1
+Waterproof electronics	gps system	1
+well feature	gps	1
+wireless and mobile technology	gps	1
+wireless connectivity technology	gps	1
+ZL33LP binding protein	gpcr	2
+21st century technology	gps navigation	1
+3rd party input	gps	5
+absolute location information system	gps	1
+absolute measurement signal	gps	1
+absolute positioning system	gps	1
+abundant connectivity feature	gps	1
+accurate instrument	gps	1
+advanced portable product	gps navigation device	1
+advice standard	gps	1
+aerial image additional sensor	gps receiver	1
+affordable location tracking system	gps	1
+Ageo-referencing sensor	gps receiver	1
+airborne measurement system	gps	1
+approved vehicle security system	gps tracking	1
+automated route planning method	gps	1
+automatic capture datum type	gps	1
+automatic, ubiquitous system	gps	1
+auxiliary datum collection system	gps	1
+auxiliary datum connection	gpib interface	1
+avionics instrument	gps	1
+AVL technology	gps	1
+option	gps unit	1
+option	gps heading receiver	1
+option	gp-prescribed sa	1
+option	gps time synch	1
+option	gps service	1
+option	gps support technology	1
+option	gp referral	1
+option	gps navigation	1
+option	gps tracking devices for vehicle	1
+option	gps for an additional charge	1
+option	gprs	1
+option	gprs & edge technology	1
+option	gps device	1
+option	gpu	1
+bachman locomotive	gp thirty 	1
+backpacking-friendly feature	gps	1
+basis innovative manufacturer	gps pe pipe systems	1
+beacon architecture	gps	1
+beneficial asset	gps navigation system	1
+biggest german biotechnology company	gpc biotech	2
+blackline product	gps snitch	1
+bluetooth adaptor ready mobile device	gps navigation system	1
+bootable partitioning program	gparted	1
+branded connected product	gps unit	1
+burst-mode system	gpon	1
+capable guidance method	gps	1
+car electron product	gps receiver	2
+car electronic product	gps	1
+case easily accessible item	gps unit	1
+case electronics	gps unit	1
+catednavigation infrastructure	gps in outdoor envi - ronmentsand markers in warehouse	1
+CCR5-preferring gp120s	gp one hundred and twenty  sf one hundred and sixty-two 	1
+chipworkx module signal	gpio	2
+coded signal	gps pseudo-range message	1
+commercial parallel file system	gpfs	1
+commercial physic accelerator	gpus	1
+commercial PRP system	gps	2
+commercially available architecture	gpus	1
+commercially available position system	gps	1
+common ancillary instrument	gps	3
+common localisation technology	gps	1
+Complementary geospatial technology	gps	1
+complicated hardware equipment	gps	1
+comprehensive location-sensing technology	gps	1
+computer graphics-related topic	gpu-based shape from silhouette	1
+contemporary navigation device	gps	1
+context-free-equivalent theory	gpsg	1
+continuing education new technology	gps	1
+conventional automotive accessory	gps	1
+Conventional profilers	gprof	1
+conventional spread-spectrum communication system	gps system	1
+conventional spread-spectrum receiver	gps receiver	2
+conventional terrain alert warning system	gpws	1
+cool new golf gadget	gps gear	1
+co-polymerized polyester flame retardant technology	gp- seven  flame retardant industrialized popularization 	1
+countering adversary system	gps jammers	1
+datalink datum capability	gps	1
+datum capture technique	gps collar	1
+detailed sudiesof specific application	gps	1
+device location sensor	gps	1
+device model feature	gps	1
+device native resource	gps	1
+digital signal application	gpio	1
+digital system information	gps	1
+discrete graphic chip	gpus provided by nvidia	2
+dive point	gps point	1
+Dlpanditsmore closely related gly-picans	gpc six 	1
+document electronic device	gps	1
+double acronym reference	gps system	2
+driver viewable device	gps	1
+Earth-fixed information	gps positioning	1
+group	gp forum	2
+echnological development	gps	1
+electronic addition	gps navigation system	1
+electronic location system	gps	1
+electronic navigation method	gps	1
+emerging accelerating architecture	gpus	1
+emerging ubiquitous technology	gps	1
+EMX module signal	gpio	4
+Endogenous HSPs	gp ninety-six 	1
+entirely trust electronic device	gps	1
+envelope vaccine	gp one hundred and twenty and gp one hundred and sixty 	1
+equipment maintenance technology	gps-based system	1
+ericsson phone	gprs phone r five hundred and twenty 	1
+EVT method	gpd method	1
+exchangeable hardware module	gps	1
+exciting new role	gps with a special interest in emergency medicine	1
+expensive whiz-bang feature	gps in the radio	1
+external nav receiver	gps	1
+external navigation reference	gps	1
+family friendly health serv ice	gps with extended hour	1
+fast graphic computation hardware	gpu	1
+fast moving field	gps	1
+feed-through panel	gp four 	1
+FIA support series	gp two  series 	1
+field-scale technique	gpr	1
+first generation GNSS	gps	1
+first generation GNSS architecture	gps	1
+first, current system	gps	1
+fishing necessity	gps chartplotter	1
+forum highly parallel machine	gpu	1
+forward background documentation	gp record	1
+frame buffer	gpu frame buffer	1
+free file converter software program	gps visualizer	1
+gadget gift	gps-enabled personal trainer	1
+gadget timepiece	gps running watch	1
+gadgety function	gps	2
+Geeps	gp fourty ph- two 	1
+gen-erallocalization technology	gps	1
+generation stuff	gpz six hundred  kawasaki 	1
+GEO satellite	gps	1
+geocoding website	gps visualizer	1
+geodetic datum	gps	1
+geographical location system	gps	1
+geographical navigation device	gps system	1
+geographical positioning device	gps receiver	1
+geographical positioning system	gps garmin	2
+geographical tracking technology	gps	1
+geolocalization system	gps	1
+geomatic tool	gps	1
+geomatics technology	gps	1
+geospatial capture infrastructure	gps	1
+get-paid-to website	gpt infinity	1
+gigabit-capable passive optical network system	gpon	1
+gizmondo feature	gps	1
+global clock	gps	2
+global navigation satellite service	gps	1
+global navigation satellite-based system	gps	1
+Global Positioning System equipment	gps locator map	1
+global radio navigation system	gps system	1
+global time reference	gps	1
+GNSS satellite navigation system	gps	1
+golf technological accessory	gps	1
+good double action revolver	gp- one hundred 	1
+good driving school	gp driving	1
+good emulator	gpsp	1
+government satellite	gps	1
+GPS code	gps l one c-d 	1
+GPS format	gpx	1
+GPS monitoring system	gps tracking watch	1
+GPS red light camera detector	gps angel	1
+GPS utility apps	gps test	1
+GPU monitoring widget	gpu monitor	1
+great new door prize	gps system	1
+ground-based geodetic method	gps	1
+group policy editor	gpmc	1
+group policy solution	gpo reporting pak	1
+growing technology	gps	1
+growth optical networking technology	gpon	1
+guanosine triphosphate nucleotide analog	gppnhp	2
+hard wire accessory	gps unit	1
+hardware dependent daemon	gpm	1
+hardware-based clock	gps	1
+heavy-hitting tool	gpu profilers & debuggers	1
+high dollar electronic equipment	gps unit	1
+high spec feature	gps	1
+high vertical resolution instrument	gps ro	1
+high-accuracy positioning	gps positioning	1
+high-end espionage tool	gps tracking device	1
+higher-level automated aid	gpws	1
+highest-tech navigation device	gps receiver	1
+high-performance test platform	gpib	1
+hiv-encoded protein	gp one hundred and twenty 	2
+HIV-related neurotoxins	gp one hundred and twenty 	1
+host side user-mode implementation	gphoto two 	1
+human tracking device	gps	1
+hydraulic system specification	gpm	1
+idevice's built-in location-tracking mechanism	gps	1
+immunosuppressive viral protein	gp one hundred and twenty 	1
+imprecise event	gpib command	1
+Improved primary care	gp service	1
+inadequate local amenity	gp surgery	1
+in-car tool	gps	1
+incredible internet connectivity option	gprs edge  three g 	1
+inexpensive sensor	gps	1
+group	gpwa	1
+group	gpbasic	1
+group	gpa houston	1
+group	gps with less overt interest in musculoskeletal problem	1
+initial complex	gp one hundred and twenty -cd four  bonds formed during tas 	1
+inlingua program	gpp	1
+inmost real application	gps	1
+installed navigation system	gps	1
+instrumented datum	gps	1
+Integrated avionics	gps navigation	1
+international GPS publication	gps world	1
+intriguing new technology	gps-like tracking system	1
+introduction space geodetic technique	gps	1
+in-vehicular electronics	gps	1
+IPMA member association	gpm	1
+ITAM receptor	gpvi	1
+jitter-intolerant application	gps	1
+juice-sucking radio	gps	1
+key coalition reform	gp-based commissioning	1
+key global utility	gps	7
+landairsea monitoring device	gps tracking key	1
+landing system	gps landing system	1
+landmarksin compatible application	gps datum	1
+large turbojet engine	gp seven thousand  	1
+large well-validated health-care database	gprd	2
+latest aid traffic equipment	gps system	1
+latest datum gathering method	gps	1
+latest tech tool	gps	1
+less-common sensor	gps turn radius	1
+LFE system	gps system	1
+liaison staff	gp liaison officer	1
+libparted-based tool	gparted	2
+live CD tool	gparted	2
+location datum receiver	gps receiver	1
+location determination device	gps receiver	1
+Location hardware	gps	1
+location identification device	gps device	1
+location product	gps receiver	2
+location receiver	gps receiver	1
+location tracking system	gps	2
+locational device	gps locator	1
+location-aware technique	gps	1
+location-determination system	gps	2
+location-sensing system	gps	1
+locative technology	gps	1
+long range direct fire weapon	gpmg	1
+longtime domestic player	gp investimentos	1
+low earth satellite	gps	1
+low-complexity device	gps receiver	1
+low-costmul-ticoreparallel computing technique	gpu technique	1
+mainstream design	gp www.tc	1
+manual, visual and electronic device	gps	1
+manycore processor	gpus	1
+membrane binding motive	gpi anchor	1
+Metro North freight equipment	gp thirty-five 	1
+mid-sized revolver	gp- one hundred 	1
+mobile application technology	gps	1
+mobile communication module	gprs module	1
+mobile creature comfort	gps	1
+mobile land-based positioning system	gps	1
+mobile location-based technology	gps service	1
+mobile wine agent uti-lizesmobilephone feature	gps	1
+modem communication technology	gps	1
+Modern day navigation equipment	gps	1
+modern electronic navigational aid	gps	1
+modern engineering product	gps	1
+modern geodetic method	gps	1
+modern geodetic space technique	gps	1
+modern navigation tool	gps report speed over ground	1
+modern navigational device	gps	1
+modern satellite method	gps	1
+modern space-based geodetic measurement	gps	1
+modern statistical tool	gps	1
+modern survey method	gps	1
+modern, high efficiency technology	gps satellite	1
+month non-human object	gps device	1
+motion tracking system	gps	1
+multi-frequency application	gps	1
+multi-satellite program	gps	1
+narrow bandwidth application	gps system	1
+national contract organizational innovation	gp network	1
+navigation aid system	gps	1
+navigational satellite system	gps	1
+navigational signal	gps signals provided from gps satellite	1
+navigational source	gps satellite	1
+navigational unit	gps device	1
+newest bada smartphone feature	gps	1
+newly accessible technology	gps	1
+NHS alliance's various program	gp commissioning connect	1
+NMEA compatible device	gps reading ppu s	1
+NMEA device	gps receiver	1
+noisy time-indexed datum	gps location track	1
+nonconventional observational datum type	gps moisture profile	1
+non-derivational syntactic theory	gpsg	1
+nondestructive pavement testing method	gpr	1
+non-dtn scheme	gpcr	1
+non-FG nups	gp two hundred and ten  in mammalian cell 	1
+non-school facility	gpss central office building	1
+nonspecific antibody	gp fourty-one 	1
+method	gps	13
+method	gpc	4
+method	gps trajectory survey	3
+method	gps tracking	2
+on-board option	gps module	2
+open source GPS program	gpx editor	1
+optical TDM access network	gpon	1
+optional equipment rental	gps unit	1
+optional PMC module	gpib module	1
+Optional support equipment	gps system	1
+outdoor location system	gps	1
+outdoor scenario application	gps	1
+out-of-hospital medical service	gp care	1
+outside triangulation device	gps	1
+oxidation system component	gp ninety-one -phox cytochrome heavy chain 	1
+packet datum connection	gprs over gsm	1
+packet datum system	gprs system	1
+packet radio overlay mode	gprs for gsm with high throughput	1
+packet-based mobile cellular network	gprs network	2
+packet-switched datum transmission connection	gprs in the case of a gsm network	1
+palmerston health precinct service	gp super clinic	1
+parallel computational hardware	gpu	2
+partition rebuilder tool	gpart	1
+path datum	gps	1
+PE process	gpe	1
+performed GIS related task	gps locating of sewer manholes	1
+personal fitness solution	gps device	1
+person-specific sensor	gps	1
+pH cleaner	gp forward	1
+pharmacological concept	gpcr oligomerization	1
+phone book information	gps access point	1
+phone goodie	gps navigation	1
+pilot-friendly feature	gps	1
+plan core service	gp service	1
+playlist event	gpi event	1
+POI converter	gpsbabel	1
+point-to-multipoint FTTH network	gpon	1
+portable mapping device	gps	2
+portal protein	gp six  in phage spp one 	1
+position datum r froma device	gps	1
+position location receiver	gps receiver	1
+position signal	gps signal	1
+position source	gps	1
+positioning receiver	gps receiver	1
+positioning scheme	gps	1
+posi-tioningsensors	gps	1
+position-only sensor	gps	1
+position-sensing technology	gps	1
+Postprocessing software	gps pathfinder office software	1
+potential learning tool	gps	1
+potential new health-specific facility	gp surgery	1
+potential purchas-ers	gp fundholders	1
+power supply need	gps	1
+powerful connectivity feature	gps	1
+powerful newer capability	gps navigation	1
+power-sucking system	gps	1
+precise ground survey datum	gps	1
+precise positioning technique	gps	1
+predictive controller	gpc	1
+privacy-infringing technology	gps	1
+promotional and health related initiative	gp referral scheme	1
+property fund manager	gpt group	1
+protein-coupled receptor inhibitor	gpr one hundred and twenty 	2
+public sector operation	gp surgery	1
+radio clock	gps receiver	1
+radio positioning technique	gps	1
+radiofrequency receiver application	gps receiver	1
+radiolocation system	gps	1
+radiometric system	gps	1
+radionavigation satellite system	gps l five 	1
+radio-navigation service	gps	1
+radionavigation system	gps	1
+raw navigation datum	gps observation	1
+RC logger device	gps add-on module	1
+real-time monitoring technology	gps	1
+reimbursed smoking cessation service	gp intervention	1
+reliable external NTP source	gps receiver	1
+reliable local nist-derived clock	gps receiver	1
+remote control method	gpi	1
+remote infrastructure	gps	1
+remote timing device	gps	2
+replacement bulb	gp thunders	1
+research UK database	gprd	1
+resourceful device	gps	4
+resourceful scheme	gps	1
+result performance budgeting	gpra	1
+ridiculous group	gp basic	1
+RNAV system	gps	1
+RTR -loco	gp thirty-five 	1
+rugers double action revolver	gp- one hundred 	1
+satellite geodetic technique	gps	1
+satellite navigation solution	gps	1
+satellite navigation system SNS receiver	gps receiver	1
+Satellite nav-igationsystems	gps	1
+satellite signal receiver	gps receiver	1
+satellite spoofer system	gps satellite spoofers	1
+satellite system receiver	gps	1
+satellite-based geodetic technique	gps	2
+satellite-based guidance system	gps-based guidance system	2
+satellite-based localization method	gps	1
+satellite-based location system	gps	2
+satellite-based tracking approach	gps	1
+satellite-to-satellite radio communication	gps-leo occultations	1
+secondary hydroxyl group	gp- three thousand   polyether with the prescribed mixing ratio 	1
+Secreted Hsps	gp ninety-six 	1
+method	gpv	1
+method	gpr	1
+method	gparted	1
+method	gp practice	1
+method	gpo software installation	1
+method	gps data collected in the project area	1
+sensor-based meta datum	gps	1
+separate frequency	gpu  nine hundred and fifty mhz 	1
+sequential simulation language	gpss	1
+serial connected device driver	gps	1
+sexual offender special condition	gps monitoring	1
+shared parallel file system	gpfs	1
+shelf equipment	gps-disciplined clock	1
+simple threshold method	gpi	1
+simple, basic energy performance -metric	gpm per kilowatt	1
+simulation programming language	gpss	1
+simultaneous channel switching	gps-synchronized fixed timeslots	1
+situation-specific solution	gps	1
+small operational unit	gp surgery	1
+small sleeve-bearing fan	gpu fan	2
+Smartphoes functionalities	gps	1
+smartphone model feature	gps	1
+soluble viral product	gp one hundred and twenty 	1
+Somesignals	gps signals from satellite	1
+sophistacated method	gps tracking equipment	1
+sophisticated navigation system	gps	1
+sophisticated tracking technology	gps	1
+space geodetic technology	gps	1
+space-based measurement system	gps	1
+space-based technique	gps	1
+spacecraft SAR application independent system	gps	1
+specialist architecture	gpus	1
+spread-spectrum code	gps l five 	1
+SPS receiver	gps receiver	2
+stalwart class	gp fourteen 	1
+standalone cd-based tool	gparted	1
+stand-alone race	gp two  aussie v eight s 	1
+standard and optional electronic component	gps tracking	2
+standard and op-tional electronic component	gps tracking	1
+standard cryptographic cipher	gpg	1
+standard positioning system	gps	1
+stealth operation	gps tracking	1
+step-by-step instruction technology	gps	2
+stinglocation determination system	gps	1
+streaming architecture	gpus	1
+substation component	gps time clock	1
+suitable on-board GNSS receiver	gps	1
+surface geodetic observation	gps	1
+suunto watch accessory	gps pod	2
+system-level accelerator	gpus	1
+sys-temsmakeuseof absolute information	gps	1
+technical surveillance device	gps tracker	1
+technological synchronization device	gps	1
+thing numerous application	gps	1
+Third party cluster filesystem	gpfs	1
+timekeeping technology	gps satellite	4
+timing product	gps accessory	1
+tiny electronic device	gps unit	1
+today's location-based service device	gps-enabled mobile phone	2
+Today's sophisticated navigational technology	gps	1
+top foamie designer	gpw	1
+touse reference information	gps measurement	1
+traditional EI system	gphin	1
+traditional epidemic intelligence system	gphin	1
+trainline locomotive	gp nine m s didnt come with a light board 	1
+transaminase reaction	gpt reaction	1
+transition state intermediate	gp fourty-one 's pre-hairpin intermediate 	1
+trimble application	gps controller	3
+TRUTH receiver	gps	1
+TSPI system	gps aided inertial navigation reference	1
+typical development series	gp three 	1
+typical timing receiver system	gps one 	1
+UK community facility	gp surgery	1
+unification formalism	gpsg	1
+up-to-date communication system	gps	1
+useage	gps for an hour	1
+user configurable setting	gprs setting	1
+UTC productivity tool	gps on service vehicle	1
+vehicle location system	gps	1
+vehicle unattended, place valuable item	gps	1
+versatile and multi tasking technology	gps van tracking	1
+vessel's onboard electronics	gps	1
+vibrant high technology industry	gps device	2
+vibrant technology-based industry	gps device	1
+tool	gps	40
+tool	gparted	8
+tool	gprof	4
+tool	gpmc	3
+tool	gps unit	2
+tool	gps system	2
+tool	gps device	2
+tool	gprs	2
+tool	gpi	2
+tool	gphoto	2
+tool	gps tracking	2
+tool	gps mapping	2
+vital PNT system	gps	1
+wavelength signal	gps signal	1
+web-based function	gpa calculator	1
+well-known unification-based grammar formalism	gpsg	1
+wireless navigational system	gps	1
+wireless network andprotocols	gps for determining the patient's location	1
+wireless positioning technology	gps	3
+wireless radio receiver	gps receiver	1
+wonderful new technology	gps	2
+year very few small instrument	gps receiver	1
+tool	gpg	1
+tool	gpo shelflist	1
+tool	gp gatekeeper	1
+tool	gprof for the gnu development environm ent	1
+tool	gprof for the gnu development environment	1
+tool	gpro until electronic data exchange between the acos	1
+tool	gpr system	1
+tool	gpolmig.exe from the win two k server resource kit 	1
+tool	gpo's software tool	1
+tool	gpt fdisk	1
+tool	gpu tracing system	1
+tool	gpsbabel	1
+product	gps	22
+product	gps device	6
+product	gps tracker	6
+product	gps plug-in accessories for pcs	4
+product	gps navigation	4
+product	gps unit	3
+product	gps navigator	3
+product	gps receiver	3
+project	gps tracker	1
+project	gps software	1
+project	gps based avl	1
+project	gps navigation system	1
+project	gps applications in hydrography	1
+project	gps	1
+project	gps system on bus	1
+project	gphin	1
+project	gp referral	1
+project	gphoto	1
+material	gps unit	3
+material	gpps	1
+material	gpr	1
+material	gps device	1
+place	gp surgery	4
+place	gps surgery	1
+player	gpt	1
+technology	gps	258
+technology	gprs	9
+technology	gps system	9
+technology	gps navigation	9
+technology	gps tracking	8
+technology	gps device	7
+technology	gps location	3
+technology	gps-enabled smartphones	3
+technology	gpus	2
+technology	gpon	2
+technology	gps navigation system	2
+technology	gps receiver	2
+technology	gps satellite	2
+technology	gps mapping	2
+technology	gps locator	2
+technology	gps-based earthmoving system	1
+product	gps tracking software	2
+product	gps rtk system	2
+product	gps smartphones	2
+product	gps tracking hardware	1
+product	gps system tracking related product	1
+product	gps sd card related product	1
+product	gps tracker navigation gps	1
+product	gps tracker series	1
+product	gps tracking	1
+product	gps tracking system	1
+product	gps travel recorder	1
+product	gps navigation antenna related product	1
+product	gps positioning tracker related product	1
+product	gps receiver module related product	1
+product	gps holder related product	1
+product	gps locator	1
+product	gps locator personal related product	1
+product	gprs messaging	1
+product	gprs modem related product	1
+product	gprs related product	1
+product	gprs vehicle tracker	1
+product	gprs wireless modem related product	1
+product	gps car tracker	1
+product	gps cradle related product	1
+product	gps garmin related product	1
+product	gps voice related product	1
+product	gps wifi related product	1
+product	gps software related product	1
+product	gps tracking system related product	1
+product	gps tracking watch	1
+product	gps gsm antenna related product	1
+product	gps internal antenna related product	1
+product	gps navigation device related product	1
+product	gprs data logger	1
+product	gprs tracker related product	1
+product	gprs tracking related product	1
+product	gps  twelve xl waterproof 	1
+product	gps car tracking related product	1
+product	gps car-mounted satellite navigation	1
+product	gps tracking equipment	1
+product	gps utility location	1
+product	gpsmap unit	1
+product	gps radar related product	1
+product	gps navigation device	1
+product	gps navigation map related product	1
+product	gps gprs related product	1
+product	gps jammer related product	1
+product	gps marine antenna related product	1
+product	gps mp four  related product 	1
+product	gp panels	1
+product	gps & navigation	1
+product	gps blue tooth related product	1
+product	gpcp output	1
+product	gprs edge related product	1
+product	gps active related product	1
+product	gps antenna related product	1
+product	gps boxes	1
+product	gps case related product	1
+product	gps gsm tracker related product	1
+product	gps module related product	1
+product	gps navigation receiver related product	1
+product	gps tracker related product	1
+product	gps personal tracker related product	1
+product	gps navigator system related product	1
+technology	gps navigational aid	1
+technology	gps satellite network	1
+technology	gprs wap	1
+technology	gps positioning	1
+technology	gps location device	1
+technology	gps monitoring	1
+technology	gpws	1
+technology	gpu parallel processing	1
+technology	gps-based simulator	1
+technology	gps-enabled watch	1
+technology	gps-enabled device	1
+technology	gps-enabled machine control	1
+technology	gps unit	1
+term	gpa	2
+term	gp fund holding	1
+term	gps master clock	1
+parameter	gpu speed	1
+parameter	gps positional information in latitude	1
+parameter	gps accuracy parameter	1
+parameter	gpu clock	1
+parameter	gpi timing	1
+parameter	gpr one hundred and nine a polymorphic primer length 	1
+parameter	gps position	1
+parameter	gps quality parameter	1
+parameter	gps gain	1
+system	gps	59
+system	gps tracking system	5
+system	gpws	3
+system	gps system	3
+system	gps tracking	2
+system	gps satellite	2
+system	gps-synchronized cellular system	1
+system	gps device	1
+system	gps landing system	1
+system	gprs for umts	1
+system	gprs a bit slow	1
+system	gprs in gsm	1
+system	gps-based air traffic control system	1
+system	gps network	1
+system	gp two x 	1
+system	gps receiver	1
+system	gps for golf	1
+system	gpfs	1
+system	gp scompliance tracking system	1
+system	gps-based navigation system	1
+measure	gps monitoring	2
+measure	gps for navigation	1
+condition	gps location	1
+condition	gps monitoring	1
+element	gps	2
+element	gps location	2
+element	gps receiver  two hundred and fourteen 	2
+element	gps locator	1
+element	gps timeout	1
+element	gpu	1
+element	gp service	1
+element	gps antenna	1
+variable	gpa	3
+variable	gp questionnaire	1
+variable	gpa at graduation	1
+variable	gps error	1
+variable	gps satellite reception	1
+function	gps	40
+function	gps navigation	10
+function	gps phone	1
+function	gps tracking system	1
+function	gpi	1
+function	gps signal	1
+device	gps	52
+device	gps unit	26
+device	gps receiver	20
+device	gps device	14
+device	gps system	8
+device	gps navigator	6
+device	gpu	5
+device	gp thirty-two 	2
+device	gpio port	2
+device	gprs gateway	2
+device	gps-based locators for pet	1
+device	gps-enabled window mobile device	1
+device	gpsgate	1
+device	gpuscannotaccess data in host memory	1
+device	gps gyroscope	1
+device	gps-powered telematics device	1
+device	gps plotter	1
+device	gp two x 	1
+device	gphone	1
+device	gpio pin	1
+device	gps antenna	1
+device	gps module	1
+device	gps navigation system	1
+device	gp dexterity business logic	1
+device	gps navigation equipment	1
+device	gps locator	1
+device	gps tracking	1
+device	gps-based navigation system	1
+brand	gp	3
+brand	gp tech	1
+brand	gpx	1
+concept	gpm testbed	1
+component	gpu	13
+component	gps	8
+component	gps receiver	3
+component	gpu block	2
+component	gps system	2
+aspect	gps navigation	1
+site	gpo building	1
+site	gpa calculator	1
+task	gpl new version	1
+related product	gprs modem related product	1
+related product	gprs wireless modem related product	1
+related product	gprs related product	1
+related product	gps locator personal related product	1
+related product	gps garmin related product	1
+related product	gps holder related product	1
+related product	gps navigation antenna related product	1
+related product	gps system tracking related product	1
+related product	gps tracking system related product	1
+related product	gps software related product	1
+related product	gps internal antenna related product	1
+related product	gps navigation device related product	1
+related product	gprs tracker related product	1
+related product	gprs tracking related product	1
+related product	gps voice related product	1
+related product	gps radar related product	1
+related product	gps blue tooth related product	1
+related product	gps marine antenna related product	1
+related product	gps jammer related product	1
+related product	gps gprs related product	1
+related product	gps navigation map related product	1
+related product	gprs edge related product	1
+related product	gps module related product	1
+related product	gps navigation receiver related product	1
+related product	gps case related product	1
+related product	gps active related product	1
+related product	gps navigator system related product	1
+related product	gps tracker related product	1
+related product	gps vehicle tracker related product	1

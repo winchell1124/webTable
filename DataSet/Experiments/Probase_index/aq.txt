@@ -1,0 +1,4705 @@
+factor	aquifer transmissivity	5
+factor	aquifer property	4
+factor	aquifer	3
+factor	aquarium's size	3
+factor	aquatic plant overgrowth	2
+product	aquatic sail	1
+product	aquatic sport product related product	1
+product	aquarium pharmaceutical product	1
+product	aquarium products quick cure safe for cent	1
+product	aquaseal at home depot	1
+product	aqueous coating	1
+product	aquarium design related product	1
+product	aquarium equipment	1
+product	aquarium filter related product	1
+product	aquarium heater related product	1
+product	aquapure traveller bottle	1
+product	aqua-pure water purifier product	1
+product	aquarium lighting related product	1
+product	aquarium light	1
+product	aquaculture fish	1
+product	aquaculture supply related product	1
+product	aquamed ma bed bath	1
+product	aquafresh toothpaste	1
+product	aqualogic pep	1
+product	aqua rite	1
+product	aquaclear ae	1
+product	aqua water system related product	1
+product	aquaculture sea cage	1
+product	aquaculture systems bubble bead filters	1
+product	aqua protection gelee	1
+product	aquarium safe peat	1
+product	aquarium filtration related product	1
+product	aquamix grout colorant	1
+product	aquapel	1
+product	aquarium bowl related product	1
+initiative	aquaculture moratorium	1
+initiative	aqip advising initiative	1
+initiative	aquaculture programming	1
+accessory	aquarium filter	2
+accessory	aquarium wavemakers	1
+accessory	aqua pack	1
+accessory	aqua garden grass	1
+accessory	aquarium ballast	1
+accessory	aquarium lid	1
+accessory	aquarium gravel	1
+accessory	aquabrush	1
+accessory	aquarium thermostat	1
+datum	aquatic plant species composition	2
+datum	aquatic toxicology	1
+datum	aquifer location	1
+datum	aquifer storage capacity	1
+datum	aquifer water volume	1
+datum	aquatic environmental datum	1
+resource	aquifer	7
+resource	aquaculture	2
+resource	aquatic plant	2
+resource	aquaculture center	1
+facility	aquatic center	7
+facility	aquatic centre	4
+facility	aquarium	4
+facility	aquarium of the americas in new orleans	1
+facility	aquarium on the mountain	1
+facility	aqua theater	1
+facility	aquatic center facility	1
+facility	aqueduct	1
+facility	aquatics stadium	1
+facility	aquaculture structure	1
+facility	aquatic leisure centre	1
+facility	aquatic recreation facility	1
+facility	aquatic movable area	1
+facility	aquadome leisure center	1
+facility	aquatic center in coming year	1
+process	aqueous cleaning	4
+process	aqueous chemistry	2
+process	aquatic photolysis	2
+process	aqueous alkaline cleaning	1
+process	aqueous finish	1
+source	aquatic food source	1
+source	aqua ammonia	1
+source	aqueous fire fighting foam	1
+source	aquarian gospel narration	1
+source	aquarian gospel of jesus the christ	1
+source	aquatic plant decay	1
+source	aquifer storage	1
+source	aquifer	1
+property	aquinas college	2
+property	aqueous solubility	2
+property	aquifer property	1
+property	aquifer property aquifer property	1
+property	aqua hotels	1
+property	aqueous solution property	1
+benefit	aquifer recharge	1
+game	aqua grabber	1
+game	aquaria	1
+game	aqua aerobics	1
+game	aquanaut's holiday	1
+subject	aquaculture	2
+subject	aquifer	1
+subject	aquatic life	1
+subject	aqua culture	1
+product	aqueous solution	1
+exception	aqueous solutions without suspended particle	1
+exception	aqp one  expression in erythrocyte 	1
+reason	aqueous stability	1
+character	aquaman	6
+character	aqua man	1
+work	aquatic	1
+work	aqua flow paving	1
+work	aquamarine	1
+model	aquiline	1
+characteristic	aqueous solubility	2
+characteristic	aquifer characteristic aquifer characteristic	1
+word	aqua	1
+attraction	aquarium	66
+attraction	aquarium of the pacific	6
+attraction	aquinnah clay cliffs	3
+attraction	aquarium of the americas	2
+attraction	aqualandia	2
+attraction	aquarium of genoa	1
+attraction	aquarium of the bay	1
+attraction	aquarium of niagara	1
+attraction	aquatic tourist attraction	1
+attraction	aquaria klcc	1
+attraction	aquarena center	1
+attraction	aqua tri-cycles	1
+attraction	aqua city	1
+attraction	aquatica	1
+attraction	aquatic recreation	1
+attraction	aqua city lagoon	1
+attraction	aquapolis water park	1
+attraction	aquapark	1
+attraction	aquarium of the america's	1
+attraction	aquarium of western australia	1
+attraction	aquarium pyramid	1
+attraction	aquasplash waterpark	1
+attraction	aqualand a large water park	1
+attraction	aquatopia oceanarium	1
+attraction	aquaworld aquarium hersonissos crete	1
+attraction	aqua park	1
+category	aquatic toxicity	2
+category	aquatic	1
+category	aquaculture	1
+category	aquatic vegetation category	1
+institution	aquarium	9
+institution	aquinas college	2
+change	aqua-style form widgets in webpages	1
+client	aquafresh	2
+client	aqua	1
+document	aquatic sops	1
+document	aqis import permit	1
+author	aquinas	7
+feature	aquarium	5
+feature	aquifer	5
+strategy	aquaculture	1
+form	aqueous solution	7
+form	aqueous alcoholic solution	1
+form	aquaculture-agriculture system	1
+form	aqueous-based formulation	1
+form	aqueous product	1
+person	aqua isle nest resort	1
+person	aquino	1
+person	aquarius person	1
+person	aqsa parvez's father	1
+approach	aqua	4
+approach	aquifer health approach	1
+idea	aquaculture	1
+idea	aquarium	1
+idea	aquaponics	1
+matter	aquatic weed	1
+matter	aqa baccalaureate	1
+alternative	aquaculture	3
+alternative	aquafit class	1
+alternative	aquarium side-hanging lamp	1
+alternative	aquifer	1
+alternative	aqueous system	1
+alternative	aquifer storage	1
+alternative	aqueous based product	1
+alternative	aqua conditioning	1
+alternative	aqueous	1
+effect	aquatic wildlife effect	1
+effect	aqua	1
+effect	aqua effect	1
+effect	aquatic toxicity	1
+agency	aqsiq	2
+agency	aquent	1
+agency	aquaculture without frontiers	1
+agency	aqis	1
+object	aquarium	3
+object	aquarius	1
+object	aquatic vegetation	1
+theme	aquarium	2
+theme	aqua raiders	1
+theme	aquatic plant	1
+theme	aqua world	1
+theme	aquatic	1
+theme	aquarium of color	1
+theme	aquarian	1
+course	aqua aerobics	2
+course	aquaculture	2
+course	aquatic ecotoxicology	1
+location	aquarium	7
+location	aqua theater	1
+location	aqaba	1
+location	aqualandia water park	1
+location	aquarium of the americas	1
+writer	aquinas	5
+action	aquatic weed management	2
+mechanism	aquarium trade	2
+mechanism	aqueous fluid advection	1
+mechanism	aquatic macrophyte abundance	1
+solution	aqueous solution	3
+solution	aqua regia	2
+solution	aqueousacetic acid salt solution	1
+solution	aqueous basic solution	1
+solution	aqueous solution of hydrogen peroxide	1
+solution	aqueous antiseptic solution	1
+solution	aqueous silicate solution	1
+solution	aqueous or alcohol solution	1
+solution	aqueous sweetener solution	1
+solution	aqueous-organic   two-phase solution	1
+solution	aqueous solution of mild detergent	1
+solution	aqueous solution of ozone	1
+solution	aqueous acetic acid salt solution	1
+solution	aqueous acidic plating solution	1
+solution	aqueous nitrogeneous base solution	1
+solution	aqueous physiological solution	1
+solution	aquasphere pro from bioverse	1
+solution	aqueous solution of potassium chloride	1
+solution	aqueous solution of potassium hydroxide	1
+solution	aqueous solutions of triethanolamine	1
+solution	aqueous inorganic alkali solution	1
+book	aquatic life of the world	2
+feature	aquatic vegetation	2
+book	aquarian conspiracy by marylin ferguson	1
+structure	aqueduct	4
+structure	aquarium	2
+structure	aquatic centre	1
+film	aquazet seif	1
+business	aquaculture	2
+business	aquarium supply store	1
+business	aqua trek marine services	1
+business	aquaculture facility	1
+business	aquarium in bangkok	1
+business	aqua life	1
+field	aquaculture	9
+field	aquatic products industry	2
+field	aquatic plant	1
+field	aquatic	1
+field	aqua farming	1
+field	aquatic product processing	1
+procedure	aquifer fracturing	1
+band	aquabats	9
+band	aqualung	7
+band	aquarium rescue unit	1
+band	aquizim band	1
+part	aquarium filter	1
+part	aquapor	1
+part	aqua altar bowl	1
+part	aquired appropiate detail part	1
+school	aquanaut scuba	1
+amenity	aquatic center	3
+amenity	aqua park	1
+amenity	aquae sulis spa	1
+amenity	aqua sport	1
+practice	aquiculture	1
+practice	aquicide application	1
+practice	aquaculture	1
+food	aquarian tropical flakes	1
+food	aquatic insect	1
+title	aquaria	1
+title	aquatic toxicology	1
+ingredient	aquamin from marigot	1
+ingredient	aqualene	1
+ingredient	aqua cacteen	1
+plant	aquilegia	2
+plant	aquilaria agallocha roxb.	2
+plant	aquatic native plant	1
+plant	aquatic plant	1
+plant	aquatic and terrestrial invasive plant	1
+plant	aquatic and semiaquatic plant	1
+plant	aquatic and semi-aquatic plant	1
+plant	aquatic vegetation	1
+plant	aquatic plants anacharis	1
+plant	aquatic or marsh plant	1
+plant	aquatic nuisance plant	1
+plant	aquatic item	1
+plant	aquatic invasive plant	1
+plant	aquatic alga	1
+plant	aquatic biomass potential aquatic plant	1
+plant	aquatic and marginal plant	1
+plant	aquatic submerged plant	1
+plant	aquatic mint	1
+agent	aqua regia	3
+agent	aqueous ammonia	2
+agent	aqua grow	1
+agent	aqueous solution ofcross-linking agent	1
+agent	aqueous citric	1
+agent	aqueous hydrogen peroxide solution	1
+agent	aquinoloneanda cheap injectable agent	1
+agent	aqueous hydrobromic acid	1
+agent	aquaphor	1
+agent	aqueous solution of boric acid	1
+agent	aqueous urea solution	1
+agent	aqueous dichromate	1
+circumstance	aquaponic facility design	1
+cost	aquarium supply	1
+scholar	aquinas	5
+feature	aquaducts	1
+feature	aquatronic system	1
+feature	aqueduct	1
+development	aquaria klcc	1
+development	aquaculture	1
+development	aquatic and swimming development	1
+development	aquifer storage	1
+type	aquilaria chinesis	1
+type	aqueous film forming foam	1
+type	aquatic vegetation	1
+type	aquilaria grandfolia	1
+city	aqaba	2
+city	aquae sulis	1
+city	aquileia	1
+disease	aquagenic urticaria	1
+venue	aquarium	6
+venue	aquatic centre	1
+venue	aqua bar	1
+venue	aquarium old st	1
+venue	aquinas college	1
+venue	aqua lounge	1
+venue	aquatics center	1
+consideration	aquatic toxicity	1
+criterion	aqua park	6
+criterion	aquatic habitat	1
+criterion	aquifer size	1
+criterion	aquifer height	1
+firm	aqr	1
+firm	aqua floe inc.	1
+industry	aquaculture	42
+industry	aquatic product processing	3
+industry	aquatic product breeding	3
+industry	aquariums	2
+industry	aquarium trade	1
+industry	aquaculture operation	1
+industry	aqua therapy	1
+industry	aqua tec	1
+industry	aquatic product	1
+industry	aquacul ture	1
+industry	aquarium trades being undertaken along the coral coast	1
+challenge	aqueduct over the infant river mersey	1
+requirement	aquiring a basic qualifications in grownup medical surgical procedure	1
+job	aqua-vitae maker	1
+test	aqueous flare	1
+indicator	aquatic ecosystem health	1
+indicator	aquatic faunal population	1
+advantage	aquatic product	1
+advantage	aquaculture development	1
+treatment	aqua therapy	4
+treatment	aquatic therapy treatment	1
+treatment	aqua marine salt glow	1
+treatment	aqua aerobics	1
+favorite	aq staff favorite	1
+favorite	aqua	1
+manufacturer	aquafina	1
+manufacturer	aqua eden	1
+manufacturer	aqua jogger	1
+manufacturer	aqua marine	1
+manufacturer	aquarium lighting supply	1
+instrument	aqualab model cx- two 	1
+man	aquinas	4
+feature	aqua stop system	1
+feature	aqua tronic wash system	1
+feature	aquamarine	1
+complication	aqueous misdirection	1
+attribute	aquifer type	2
+attribute	aquatic vegetation in the mouth	1
+attribute	aquatic ecosystem attribute	1
+publication	aqua magazine	2
+publication	aquarius	1
+setting	aquarium	4
+setting	aqua	2
+setting	aquaculture	1
+setting	aqua aerobics	1
+setting	aquatronic wash system	1
+compound	aquatic algicides copper-based compound	1
+compound	aquatic herbicide	1
+compound	aquamid	1
+class	aqua aerobics	9
+class	aqua fitness	3
+class	aqua fit	3
+class	aqua karate	3
+class	aqua boot camp	3
+class	aqua bootcamp	2
+class	aqua fit in the pool	1
+class	aqualogix power sculpting	1
+class	aquatic sport	1
+class	aquasize in the pool	1
+class	aquificae	1
+class	aquatic schedule class	1
+class	aqualogix cardio	1
+class	aquarobics	1
+class	aquatic adventures	1
+class	aqua cycle	1
+class	aqua natal	1
+study	aqeg nitrogen dioxide in the united kingdom report	1
+study	aquaculture	1
+position	aquatic ecologist	1
+position	aquaculture engineer	1
+position	aquatic office assistant	1
+position	aquarists	1
+individual	aquatic fitness instructor	2
+individual	aquatic therapists with information	2
+individual	aquinas	1
+figure	aquinas	5
+figure	aquaman in the past	1
+figure	aquaman	1
+equipment	aquafier	1
+equipment	aqua block	1
+equipment	aqualuma australia	1
+equipment	aquarium sump	1
+equipment	aquatic glove	1
+equipment	aqc boiler	1
+equipment	aquatic net	1
+unit	aqs rack	2
+unit	aquatic rescue	2
+unit	aqua detox	2
+unit	aquarium light	1
+innovation	aquaculture development	3
+innovation	aqueduct	1
+innovation	aquajet cutting	1
+innovation	aquacool aquarium cooling fan	1
+cause	aquaplaning	1
+policy	aqf	2
+song	aquas barbie girl	1
+team	aquatic	1
+substance	aquatic herbicide	2
+substance	aquatic plant product	1
+substance	aqueous film forming foam	1
+substance	aqua regia	1
+substance	aqueous solution substance	1
+building	aquarium	4
+building	aqueduct	3
+building	aquatics center	2
+building	aquatics centre	1
+building	aquatic or marine building	1
+style	aquarelle	2
+style	aquarium supply	1
+improvement	aqueduct	2
+region	aquileia	2
+region	aquitaine	2
+concern	aquatic invasive species	1
+purpose	aquaculture	2
+medication	aqueous suspension	1
+variety	aquamarine	1
+variety	aquatic for-get-me nots	1
+animal	aquatic insect	2
+animal	aquatic beetle	2
+animal	aquatic mammal	2
+animal	aquatic snail	1
+animal	aquatic worm	1
+animal	aquarium fish	1
+animal	aquatic pest animal	1
+animal	aquatic and semi-aquatic animal	1
+animal	aquarium-ridden turtle	1
+classic	aqua teen hunger force	1
+piece	aquarelle	2
+piece	aqua-lacquered bar	1
+piece	aquarius	1
+show	aqua teen hunger force	12
+show	aquarion	1
+show	aquilla	1
+show	aqua teens	1
+advanced feature	aqua stop	5
+club	aquatic	1
+club	aqua fuego	1
+design	aquatic plant life	1
+design	aquarius	1
+sector	aquaculture	28
+sector	aqua culture	1
+store	aquila shoes	1
+market	aquaculture	1
+market	aqueous-based ink office	1
+customer	aqva from norway	2
+vehicle	aqueous solution	1
+vehicle	aqueous liquid	1
+opportunity	aqa baccalaureate	1
+intervention	aquatic therapy	1
+section	aquarium	1
+incentive	aqua jogging	1
+label	aquascutum	2
+label	aqua di lara	1
+department	aquatic environment	2
+department	aqua culture	1
+department	aquatics	1
+department	aquitaine	1
+department	aqis	1
+department	aquaculture	1
+value	aquatic product	1
+issue	aquaculture	7
+issue	aquatic invasive species	3
+scheme	aquaculture industrial zone	1
+environment	aquifer	1
+supply	aquatabs	1
+supply	aquarium pet supply	1
+supply	aquarium test kit	1
+supply	aquarium filtration system	1
+supply	aquatic net	1
+designer	aquascutum	3
+award	aqa certificate	1
+restaurant	aqua restaurant in san francisco	1
+restaurant	aqua grill	1
+additive	aqueous polymer	5
+additive	aquafinesse pool water care tablets	1
+additive	aqueous shellac	1
+additive	aqueous ammonia	1
+chemical	aqueous solutions of potassium nitrate	1
+chemical	aqueous alkali solution	1
+chemical	aqueous ammonia	1
+chemical	aqua kern	1
+bird	aquatic warbler	2
+bird	aquaculture wading bird	1
+article	aqueous soap	1
+magazine	aqua magazine	1
+magazine	aquarium fish international	1
+magazine	aquarium trade magazine	1
+magazine	aquarian times	1
+exercise	aquatic therapy	2
+exercise	aqua aerobics	1
+exercise	aqua jogging	1
+exercise	aquatic or water exercise	1
+exercise	aquatic exercise	1
+sign	aquarius	7
+sign	aquarians	1
+retailer	aqua pool & spa in manteca	1
+destination	aquarium @ pine knoll shores	1
+destination	aquamarine alpine lake	1
+destination	aqp	1
+destination	aqaba	1
+color	aqua	65
+color	aquamarine	25
+color	aqua blue	8
+color	aquamarine on blue	1
+color	aqua fizz	1
+color	aqua pearl	1
+color	aquamarine blue	1
+offer	aqua mouse related offer	1
+protein	aqueous insoluble protein	1
+protein	aquaporins	1
+machine	aquavac	1
+machine	aqueous epson	1
+barrier	aquatic plant	1
+barrier	aquaphor ointment on the skin	1
+guest	aquatic lab	3
+guest	aquabats	1
+occasion	aquarium's halloween masquerade	1
+competitor	aqua minerale	1
+district	aqcha at the bottom end of the irrigation system	1
+issue	aquatic resource	1
+issue	aquatic center in montreal	1
+issue	aquifer analysis	1
+brand name	aquafresh	4
+brand name	aquafina	1
+brand name	aquascape	1
+addition	aqueous varnish	2
+addition	aquaculture curriculum	1
+experience	aqua meditation room	1
+discipline	aquathlon	3
+discipline	aqua fitness	1
+discipline	aquatic ecology	1
+corporation	aquent	1
+key item	aquinnah economic	1
+journal	aquatic ecology	1
+variation	aquatic	1
+variation	aqua zumba	1
+variation	aquamedic pool	1
+local tourist attraction	aquatica	3
+local tourist attraction	aqualandia water park	1
+local tourist attraction	aqaba fort	1
+control	aquatic sedimentation control	1
+festival	aqua festival	1
+herb	aquilaria agollocha	2
+line	aqua beads	1
+package	aquatics informatics	1
+producer	aquatic plant	2
+landmark	aquarium on the bay	1
+channel	aquaporin water channel	1
+hotel	aqua motor lodge in ozone park	1
+hotel	aquarium hotel	1
+hotel	aqua hotel promenade	1
+therapy	aqua detox	1
+therapy	aquatic therapy	1
+therapy	aqua therapy	1
+surface	aquatic plant	2
+surface	aquifer	1
+touch	aqua bar menu	1
+algorithm	aqm technique	1
+principle	aquaponics	1
+series	aqua teen hunger force	1
+suggestion	aquarium	1
+limitation	aqueous carrier solvent	1
+friend	aquaman	1
+sport	aquatic	6
+sport	aqua aerobics	2
+sport	aqua fit	1
+sport	aqua jogging	1
+sport	aquatic and board sport	1
+sport	aquatic recreational sport	1
+tourist attraction	aquarium	7
+tourist attraction	aquariums market	3
+tourist attraction	aqualandia	1
+tourist attraction	aquatic adventures	1
+tourist attraction	aquatica water park	1
+tourist attraction	aquatic tourist attraction	1
+tourist attraction	aquaria klcc	1
+tourist attraction	aqualandia water park at benidorm	1
+tree	aquilaria sinensis	1
+issue	aquifer protection	1
+issue	aquatic audience	1
+issue	aquatic center	1
+issue	aquatics park	1
+track	aqueduct	1
+track	aquarius sabotage	1
+track	aquatic ambiance	1
+everything	aquaculture	1
+fish	aquatic mammal	1
+local attraction	aquarium	12
+local attraction	aqua family park	2
+local attraction	aqualand	1
+local attraction	aquarium of the bay	1
+local attraction	aquapolis waterpark	1
+local attraction	aquapark	1
+local attraction	aquarium san sebastian	1
+local attraction	aqua world marina	1
+key issue	aquifer characterization	1
+card	aqua card	1
+card	aq	1
+employer	aqua environmental container	1
+specialty	aquatics	1
+specialty	aquaculture	1
+top brand	aqualisa for shower valve	1
+top brand	aqua-flo pump	1
+top brand	aqua sphere	1
+top brand	aquaguard pool fence	1
+top brand	aquatic whirlpools	1
+top brand	aquage	1
+hazard	aquaplaning	1
+modification	aquatic plant	2
+user	aquatic resource user	1
+user	aqua jet user	1
+molecule	aqp eight 	1
+organism	aquatic insect	3
+organism	aquatic photosynthetic organism	1
+organism	aquatic turtle	1
+organism	aquatic anaerobic organism	1
+organism	aquatic plant	1
+organism	aquificales	1
+organism	aquatic snail	1
+organism	aquatic invertebrate	1
+organism	aquatic worm	1
+crop	aquaculture of alga	1
+crop	aquaculture product	1
+association	aqr	1
+association	aqha	1
+operator	aquatic park manager	1
+sight	aquarium	4
+teacher	aqa muhammad baqir bihbahani	1
+medium	aqueous based acoustic gel	1
+medium	aqueous suspension medium	1
+space	aquarium	2
+mode	aqua	2
+personality	aq leadership personality	1
+stock	aquantive	1
+support service	aquifer information service	1
+large company	aqua sphere	2
+large company	aquafresh	1
+large company	aquaflow bionomic	1
+fund	aqr diversified arbitrage	1
+fund	aqr managed futures	1
+fund	aqr global equity	1
+park	aquaman sportfishing charters for a dui case	2
+park	aquapark in costa teguise	1
+sponsor	aqua skinz	1
+sponsor	aqha	1
+factor	aquatic vegetation	2
+factor	aquifer characteristic	2
+issue	aquatic weed control	1
+issue	aquaculture zoning	1
+issue	aqsiq scheme	1
+issue	aquaculture products for livestock	1
+college	aquinas college	1
+modalities	aquatic therapy	3
+museum	aquarium of americas	1
+museum	aquatic animal museum	1
+resort	aquarius beach	1
+scenario	aquarium tank set-ups	1
+government agency	aqis	1
+government agency	aquatic resources	1
+notion	aquaculture	1
+gene	aquaporin  four 	1
+gene	aquaporins	1
+breed	aqha	2
+carrier	aqueous solution	1
+charity	aqua for life	1
+creature	aquatic life water creature	1
+popular brand	aquafina	2
+popular brand	aquatec bali board	1
+popular brand	aqua blu	1
+oil	aqueous cream	1
+rival	aqr capital management	1
+segment	aquarium fish food	1
+safety feature	aquasafe water safety system	2
+safety feature	aquastop leak protection	1
+safety feature	aquadetect sensor	1
+traditional method	aquifer test	1
+index	aquatic life use	1
+attachment	aqua log	1
+attachment	aqua launch	1
+substrate	aquarium pebble	3
+substrate	aqueous salt solution	1
+substrate	aqua soil	1
+human activity	aquaculture	10
+human activity	aquarium dumping	1
+enterprise	aquaculture	3
+contaminant	aquatic toxin	1
+aid	aqueous solute-in-oil surfactant	1
+aid	aquatic release conservation de-hooker	1
+flower	aquilegia	1
+flower	aquilegia hybrid	1
+spot	aquarium	2
+commodity	aquaculture	2
+commodity	aquatic product	1
+marker	aquaporins	1
+local business	aqua massage in san luis obispo	1
+local business	aqui nob hill	1
+remedy	aqua therapy	1
+remedy	aqua thera py	1
+container	aquarium for a fish	1
+container	aquarium with a lid	1
+programme	aquaculture	1
+programme	aqua aerobics spouse football	1
+filter	aquaclear	2
+filter	aquarium systems	1
+filter	aqueon	1
+filter	aquifer filtration system by kohler	1
+filter	aquaclear power filters for the emperors	1
+island	aquidneck island	1
+insect	aquatic and forest insect	1
+insect	aquatic diving beetle	1
+insect	aquatic hemiptera	1
+thinker	aquinas	12
+issue	aquisition of lease	1
+issue	aquifer recharge	1
+issue	aquatic eco-toxicity	1
+issue	aquatic invasive mussel	1
+issue	aquatic nuisance species	1
+thinker	aquinas in the classical just-war tradition	1
+city attraction	aquapark sopot	1
+city attraction	aquarium of niagara falls	1
+city attraction	aqua land	1
+drink	aquavit	1
+drink	aqua perfecta	1
+outdoor activity	aquatic	3
+mediums	aqueous sulfuric acid	1
+design feature	aquatic vegetation	1
+scene	aquarium	2
+scene	aquila's death	1
+reaction	aqueous system chemical reaction	1
+impact	aquaculture	1
+stuff	aquarolls	1
+solvent	aqueous ethanol	2
+solvent	aqueous methanol	2
+solvent	aqueous solution	1
+solvent	aqueous or non-aqueous solvent	1
+solvent	aqueous thf	1
+solvent	aqueous aprotic polar solvent	1
+solvent	aqueous organic solvent	1
+solvent	aqueous hydrochloric acid	1
+solvent	aqueous acetone	1
+solvent	aqueous or low-molecular weight solvent	1
+solvent	aqueous or organic solvent	1
+solvent	aqueous solvent	1
+solvent	aqueous dioxane	1
+family	aquifoliaceae	1
+family	aquatic waterbird family	1
+family	aquiedens	1
+family	aquatic beetle family	1
+employee	aqua moss employee	1
+philosopher	aquinas	37
+notable exception	aqualina on the azamara journey	1
+critical issue	aquatic invasive species	1
+advanced technology	aquifer storage	3
+environmental issue	aquatic invasive species	3
+environmental issue	aquatic toxicity	2
+physical property	aqueous dissolution rate	1
+hobby	aquarium keeping	1
+habitat	aquatic grassland of the okavango delta	1
+habitat	aquatic nearshore habitat	1
+habitat	aquatic and marine habitat	1
+habitat	aquatic environment	1
+decoration	aquatic plant	1
+mammal	aquatic air-breathing mammal	1
+mammal	aquatic mammal	1
+mammal	aquatic and terrestrial mammal	1
+heroes	aquaman	5
+qualification	aqua trainer	1
+race	aquathon	1
+division	aquaculture	1
+division	aqd	1
+functionalities	aquatic biomass	1
+liquid	aqueous liquid	1
+liquid	aqueous amine solution	1
+liquid	aqueous solution	1
+liquid	aqueous solutions with varying total dissolved solids content	1
+liquid	aqueous solutions containing calcium chloride	1
+liquid	aqueous salt solution	1
+liquid	aqueous dextrose	1
+liquid	aqueous-based solution	1
+liquid	aqueous	1
+liquid	aqueous buffer	1
+liquid	aqueous based solution	1
+album	aquemini	1
+invention	aqueduct	1
+household item	aquarium tubing	1
+move	aqua tail	2
+move	aqua jet	2
+move	aqua ring	1
+move	aqua tail on tyranitar	1
+item	aquarium	10
+predator	aquatic insect	1
+predator	aquatic invertebrate	1
+interest group	aquarium association	1
+interest group	aquaculture farmer	1
+weed	aquatic weed aquatic weed	1
+weed	aquatic noxious weed	1
+acid	aqua regia	3
+acid	aq hydrochloric	1
+acid	aqueousstrong inorganic acid	1
+acid	aqueous inorganic acid	1
+acid	aqueous strong inorganic acid	1
+acid	aqueous ptsoh	1
+acid	aqueous hcl	1
+acid	aqueous hydrochloric	1
+room	aquatic pool with locker room	1
+fluid	aqueous liquid	2
+fluid	aqueous industrial functional fluid	1
+fluid	aqueous urea reagent	1
+fluid	aqueous fluid	1
+technological advance	aquasnap condenserless liquid chiller	1
+particle	aquatic animal	1
+board	aqa	2
+area attraction	aqueduct race track	1
+gadget	aqua globes	1
+exhibit	aquarium	3
+exhibit	aquarium medical center	1
+exhibit	aquarium's interactive exhibit	1
+recreational activity	aquatic activity	1
+recreational activity	aqua aerobics	1
+recreational activity	aquatic recreational activity	1
+recreational activity	aquatic basketball	1
+recreational activity	aquatic volleyball	1
+key feature	aquatic zone	1
+organic material	aquatic macrophytes	1
+waste	aqueous liquid waste	1
+plant species	aquatic invasive plant species	1
+plant species	aquatic plant species	1
+plant species	aquatic nuisance plant species	1
+trade	aquaculture	2
+meeting	aquarian tarot deck business meeting	1
+meeting	aquarian age business meeting	1
+impurity	aquicultural chemical	1
+combination	aqua	1
+pest	aquatic snail	1
+installation	aquatic centre	1
+fuel	aqueous fossil fuel	1
+reagent	aqueous hf	1
+reagent	aqueous alkaline reagent	1
+obstruction	aquarium stand's bracing	1
+physical factor	aquatic environment physical factor	1
+television show	aqui y ahora dominated by the hispanic community	1
+bird species	aquila heliaca	2
+extreme case	aquifer storage reservoir	1
+proposal	aquatic center	1
+proposal	aquaculture development	1
+daily activity	aqua aerobics	2
+daily activity	aquatic aerobics	1
+industrial application	aqueous solution	1
+salt	aqueous soluble carbonate salt	1
+salt	aqueous preparation salt	1
+salt	aqueous bromide salt	1
+disturbance	aquatic vegetation removal	1
+serious complication	aqueous leakage	2
+serious complication	aqueous misdirection	1
+consumer product	aquafresh	1
+avenue	aquaculture	1
+native species	aquatic reptile	2
+native species	aquatic garter snake	1
+practitioner	aquatic ecologist	1
+constituent	aqueous phase constituent	1
+item	aquatic toy	1
+item	aquatic life charm pendant	1
+item	aquatic & wellness multiplex	1
+item	aquarium filter	1
+item	aqua phone case	1
+item	aqua shoes	1
+item	aqua mira water filter	1
+item	aqua	1
+historical figure	aquinas	1
+base	aqueous ammonia	5
+base	aqueous solutions of alkali metal hydroxide	1
+base	aqueous inorganic base	1
+base	aqueous sodium hydroxide solution	1
+base	aqueous ammonia solution	1
+DJs	aquarius heaven	1
+DJs	aquasky	1
+historic site	aquarius roman baths	1
+contribution	aquila's iroquois restoration	1
+critical area	aquifer recharge area	2
+coating	aqueous	11
+legislation	aquarian reforms act	1
+natural feature	aquifer	1
+perennial	aquilegia	10
+composition	aqueous solution	5
+composition	aqueous oral composition	1
+composition	aqueous composition	1
+composition	aqueous latex coating composition	1
+composition	aqueous liquid	1
+composition	aqueous and nonaqueous composition	1
+natural resource	aquifer	5
+natural resource	aquatic resource	1
+blogs	aquarium drunkard	1
+recreational facility	aquatic	1
+beverage	aquavit	1
+debris	aquatic plant	1
+funding source	aquatic lands enhancement act grant	2
+modern amenity	aquatic	2
+commercial product	aqua detox foot spa	1
+map	aquatic map	1
+observation	aquaculture site	1
+ship	aquitania	1
+international brand	aqua	1
+major	aquatic & fisheries sciences	1
+major	aquaculture	1
+physical activity	aqua exercise	1
+national act	aqua from denmark	1
+specialty service	aqua detox foot bath	1
+educational program	aquatic life identification	1
+complex system	aquatic environment	2
+complex system	aqueduct	1
+quality product	aqua buff	1
+small object	aquarium	1
+big player	aqua america	1
+valuable information	aquatic life	1
+traditional technique	aquatint	1
+key topic	aquatic weed management	1
+special	aquarium's friday afternoon pay-what-you-wish'' program	1
+modern technology	aqua liquidator system	1
+modern technology	aqua enforcer	1
+preparation	aqueous cream	4
+branch	aqua culture with fish processing	1
+texture	aqua	1
+accent	aquatic plant	1
+date	aq's birthday	1
+community resource	aquarium	2
+item	aquifer-influence function	1
+item	aquinnah property tax	1
+item	aqueous detergent	1
+item	aquatic plant	1
+external influence	aqi	1
+phase	aqueous solutions of different	2
+subject area	aquatic	1
+place name	aqualta vale	1
+student organization	aquin	1
+pressure	aquaculture	1
+Invasive species	aquatic invader	2
+Invasive species	aquatic weed	1
+Invasive species	aquatic plant elodea nu ttallii	1
+invasive species	aquatic hitchhiker invasive species	1
+Invasive species	aquatic plant elodea nuttallii	1
+invasive species	aquatic alien invasive species	1
+invasive species	aquatic and terrestrial invasive species	1
+sensitive area	aquifer recharge	1
+sensitive area	aquifer	1
+sensitive area	aquatic product development	1
+degree	aquatic	1
+degree	aquaculture	1
+training program	aquatic boot camp	1
+big brand	aquafina	1
+television program	aqui todos ganan	5
+by-products	aqueous condensate	1
+shade	aqua	4
+shade	aqua blue	1
+shade	aqua mid	1
+shade	aquamarine	1
+shade	aqua chiffon	1
+wood	aquadistri driftwood	1
+antibiotic	aqueous penicillin	1
+natural element	aquarium	2
+construction	aquarium	1
+physical feature	aquatic vegetation	1
+designation	aquatic life	1
+host	aquatic bird	1
+tune	aquarian dream's phoenix''	1
+tourist destination	aquaria klcc	1
+tourist destination	aquarium	1
+infrastructure project	aqueduct	1
+public facility	aquarium	1
+noise	aquarium	1
+exotic species	aquatic exotic species	1
+exotic species	aquarium fish	1
+exotic species	aquatic invasive exotic species	1
+exotic species	aquatic	1
+editor	aquamacs	2
+zone	aquatic ruin	1
+zone	aquatic base	1
+zone	aquatic zone	1
+popular item	aquarium fish	1
+native plant	aquatic native plant	1
+fungus	aquatic hyphomycetes	1
+fish species	aquatic fish species	1
+lubricant	aqueous based formulations of mineral oil	1
+parasite	aquarium	2
+bacterium	aquifex aeolicus	2
+substitute	aqueous cream	1
+neighbor	aquilla crosby	1
+stones	aquamarine	31
+stones	aquamarine bead	3
+stones	aqua marine	1
+respect	aquisition of athletic skill	1
+waste material	aquatic weed	1
+scent	aquatic jasmine	1
+soil	aquents-urban land complex	1
+soil	aquatic plant soil	1
+mark	aquiline nose	1
+architectural element	aqueduct at the main entrance	1
+wild animal	aquarium fish	1
+gem	aquamarine	23
+venture	aqua culture	1
+venture	aquaculture	1
+trip	aqualand	1
+local resource	aquarium	1
+theologian	aquinas	16
+community partner	aquatics center	1
+winery	aquitania	1
+item	aqueduct tape	1
+item	aqueous film	1
+item	aqua-rockets	1
+item	aquarium chiller	1
+item	aquage finishing spray	1
+item	aquaplast splinting kit	1
+item	aquaculture	1
+item	aqua literz	1
+research area	aquatic species cryopreservation	2
+witness	aquilla clemons	1
+session	aqua aerobics	1
+ion	aqueous solution of fission product waste	1
+construction project	aquatic in-stream work	2
+family activity	aqualand	1
+agricultural product	aquaculture	1
+industrial process	aqueous solution	1
+gallery	aquavella galleries	1
+public building	aqueduct	1
+listing	aquarium	1
+instructor	aqa mirza mahmood eftekharol-ulama	1
+instructor	aqa abbas araki	1
+instructor	aqa sheykh ali mohammad boroojerdi	1
+fragrance	aqua motu	1
+fragrance	aqua essence	1
+industrial product	aqueous coating material	1
+public space	aquarium	1
+ecosystem	aquarium	3
+ecosystem	aquatic ecosystem	1
+ecosystem	aquatic systems in arid region	1
+costume	aqua teen character	1
+niche	aquarium	2
+niche	aquatic	1
+green	aquatic plant	3
+green	aqua	1
+camp	aquatic exploration camp	1
+invertebrate	aquatic insect	5
+invertebrate	aquatic snail	3
+invertebrate	aquatic larva	3
+invertebrate	aquarium housing delicate invertebrate	1
+invertebrate	aquatic insect larva	1
+invertebrate	aquatic invertebrate large aquatic invertebrate	1
+dealer	aqua lung	1
+tourist spot	aquarium of the bay	1
+famous attraction	aquarium of veracruz	1
+global brand	aquafresh	2
+global brand	aquafresh npd project	1
+rock	aquamarine	1
+writing	aquinas summa theologica	2
+food source	aquatic plant	9
+food source	aquatic insect	1
+food source	aquatic food source	1
+formation	aquifer	1
+government initiative	aquaculture development	1
+government initiative	aquaculture	1
+contact	aquaculture center	1
+specimen	aquatic plant	1
+environmental group	aquifer guardians in urban areas	1
+critical application	aquarium	1
+consideration factor	aquatic vegetation	1
+accessory item	aquatic plant	1
+sport activity	aquatic sport	1
+sport activity	aqua aerobics	1
+sport activity	aqua fitness	1
+experimental condition	aqueous acidity	1
+cream	aqueous cream	6
+cream	aquaphor	2
+cream	aqueous	1
+cream	aqueous cream bp	1
+cream	aqua de parma	1
+boat	aqua camper	2
+boat	aquila	1
+specialty area	aquatic exercise	1
+specialty area	aquatic therapy	1
+bag	aquapac	1
+community facility	aquatic centre	2
+reptile	aquatic turtle	1
+reputable company	aqua signal	1
+receptor	aquatic invertebrate	1
+key figure	aquinas	1
+corporate client	aquila	1
+ornament	aquarium	1
+memorabilia	aquino pin	1
+bulky item	aquarium	1
+basic supply	aquarium	1
+market segment	aquaculture	1
+organic solvent	aqueous organic solvent	1
+organic solvent	aqueous or organic solvent	1
+area	aquaculture	10
+area	aquatic	4
+area	aquatic ecology	2
+area	aquifer protection area	2
+area	aquas	2
+area	aquatic invertebrate	2
+pet	aquarium fish	1
+small animal	aquatic insect	1
+medical treatment	aqua therapy	1
+binder	aqueous binder	1
+alcohol	aqueous alcohol	1
+connector	aq suited	1
+staff member	aquino	1
+quality material	aquamet  twenty-two 	1
+environmental change	aquifer change	1
+national brand	aqua uv	1
+popular program	aquatic	1
+water sport	aqua aerobics	5
+water sport	aqua fit	1
+water sport	aqua marine diving	1
+water sport	aqua bike	1
+water sport	aqua running workout	1
+attractive feature	aquarium	1
+contentious issue	aquaculture waste	1
+natural factor	aquifer property	2
+natural factor	aquatic vegetation	1
+natural factor	aquifer geologic composition	1
+battery	aqueous solution battery	1
+battery	aqueous-solution-based secondary battery	1
+battery	aqueous solution type battery	1
+battery	aqueous solution type secondary battery	1
+regular activity	aqua arobics	1
+search term	aqualina	1
+industry sector	aquaculture	2
+excursion	aqua park	1
+trainer	aq world	1
+flowering plant	aquilegia	1
+kit	aquarium systems	1
+cartoon	aqua teen	1
+cartoon	aqua teen hunger force	1
+cartoon	aquateens hunger force	1
+treatment method	aquatic therapy	1
+animal species	aquatic animal species	1
+water source	aqueous solution	2
+water source	aquashicola creek	1
+water source	aquarium	1
+water source	aquifer	1
+input datum	aquifer parameter	1
+pathway	aquaculture	1
+foodstuff	aquatic product	1
+sport event	aquathlon	1
+stabilizer	aqua film topping	1
+postoperative complication	aqueous turbid	1
+top designer	aqua di lara	1
+control device	aquastats	1
+model parameter	aquifer hydraulic conductivity distribution	1
+local charity	aquatic adventures	1
+key technology	aquaponics	1
+key technology	aquaculture	1
+plant material	aquatic plant	1
+luxury brand	aquascutum	1
+economic activity	aquaculture	3
+formulation	aqueous solution	2
+formulation	aqueous or solvent formulation	1
+formulation	aqua neat	1
+formulation	aqueous	1
+formulation	aqueous suspension	1
+abbreviation	aq	1
+capital project	aquatic center	2
+case study	aquaculture	1
+science	aquatic biology	1
+endpoint	aquatic toxicity	1
+president	aquino	1
+city's attraction	aquopolis aquapark	1
+international standard	aqis	1
+rock band	aquarium	1
+local amenity	aqua dome	2
+best brand	aquabot	1
+national program	aquatic wild	1
+outing	aquarium	1
+international agency	aquatic resources management	1
+non-native species	aquatic non-native species	1
+team member	aqualad	1
+area	aquarius rna on the clearwater nf	1
+area	aquarium	1
+area	aquarium cleaning	1
+area	aqueduct	1
+area	aquascope water theater	1
+area	aquatic animal	1
+area	aquifer	1
+area	aquifer recharge zone	1
+area	aquitaine basins	1
+area	aquitaine	1
+area	aquatic reserve	1
+area	aquatic science	1
+bulb	aqualine  ten k 	1
+specialization	aquaculture	2
+commercial service	aquatic consultancy	1
+commercial activity	aquaculture	1
+Christians	aquinas	2
+key variable	aquifer geometry	1
+key variable	aquifer storativity	1
+sport facility	aqua aerobics	2
+famous site	aqua zoo	1
+famous site	aquatics centre	1
+presentation	aqua vitae	1
+user group	aqua jogger	1
+medical supply	aqua relief system	1
+pump	aqua lifters	1
+bright color	aqua	12
+bright color	aqua blue	2
+mixture	aqueous solution	1
+residue	aqueous solution amino acid residue	1
+ecosystem service	aquifer recharge	2
+invasive plant	aquatic invasive plant	1
+invasive plant	aquatic and terrestrial invasive plant	1
+threatened species	aquila pomarina	1
+star hotel	aquamarina beach	1
+theme park	aqualand	4
+theme park	aqualandia	2
+theme park	aquatica	1
+theme park	aquatica water park	1
+exotic animal	aquatic animal	1
+optional activity	aquasize class	1
+cultural attraction	aquatics center	1
+colour	aqua	8
+colour	aqua source	1
+colour	aqua blue	1
+colour	aquamarine	1
+indoor activity	aquarium	2
+ruler	aqa mohammad khan	1
+adaptation	aqua zumba	2
+potential application	aquaculture	1
+aquatic plant	aquatic biomass potential aquatic plant	1
+aquatic plant	aquatic moss	1
+aquatic plant	aquatic grass	1
+aquatic plant	aquatic fern pilularia novae-zelamdiae	1
+indirect method	aquifer storage	1
+herbicide	aqua kleen	1
+absorbent material	aquatint filter paper	1
+leisure facility	aquatic centre	1
+medium type	aquifer material	1
+ring	aquamarine ring	1
+poison	aquatic weed herbicide spraying	1
+land use	aquaculture	1
+crystal	aquamarine	2
+herbivore	aquatic bird	1
+anthropogenic activity	aquaculture	2
+holding	aquaculture holding	1
+environmental impact	aquatic system	1
+wetland	aquaculture pond	1
+custom item	aquarium	1
+large animal	aquatic bird	1
+large structure	aqueduct	1
+large structure	aquarium	1
+area	aquifer analysis	1
+area	aquatic sciences & fisheries abstract	1
+area	aquatic area	1
+area	aquatic analysis area	1
+area	aquatic facility	1
+area	aquatic garden	1
+popular tourist attraction	aquarium on the map	1
+secondary factor	aquaculture potential	1
+extreme circumstance	aquaplaning	1
+organic acid	aqueous acetic	3
+mechanical system	aquatic operation	1
+agricultural activity	aquaculture	3
+local specialty	aqua sale	1
+acronym	aq for anxiety quotient	1
+program area	aquatic	1
+hand	aq	3
+amines	aqueous monoethanolamine	2
+natural predator	aquatic beetle	1
+fly	aquatic snipe fly	1
+vector	aquarium trade	1
+water activity	aquatic therapy	1
+water activity	aqua exercise	1
+water activity	aqua gym	1
+water activity	aqua aerobics	1
+water activity	aqua fit	1
+water activity	aquamoves inflatable	1
+fertilizer	aquarium water	1
+small appliance	aquarium pump	1
+outside organization	aqha	1
+enclosure	aquarium	1
+good brand	aquafresh	1
+standard amenity	aquatic center	1
+water feature	aquarium	13
+water feature	aquarium with bright	2
+water feature	aquarium table	1
+water feature	aquatic garden	1
+raptors	aquatic bird raptors	1
+public amenity	aqueduct	1
+public amenity	aquarium stocked with native fish	1
+excipients	aqueous saline	1
+recreational opportunity	aquatic activity	1
+one	aquatic and predaceous one	1
+famous company	aquila	1
+medical product	aqua cure	1
+classic favorite	aquarium fish candy	1
+recreation facility	aquatic recreation facility	1
+recreation facility	aquatic sport	1
+jewelry	aquamarine ring	1
+charity event	aquatic therapy's annual charity curling event	1
+community amenity	aquatic center	1
+physicochemical property	aqueous solubility	6
+ancillary item	aquadrives	1
+gemstone	aquamarine	36
+hue	aqua blue	2
+hue	aqua	2
+herbaceous plant	aquatic vegetation	1
+herbaceous plant	aquilegia	1
+herbaceous plant	aquatic plant	1
+seasonal activity	aquatic center	3
+sphere	aqua sphere	1
+cluster	aquaculture	1
+terrorist group	aqap	2
+terrorist group	aqi	1
+renowned brand	aqua mix	1
+sensitive species	aquatic moss	1
+complementary therapy	aquatic therapy	1
+top quality brand	aqualung	1
+core issue	aquatic safety	1
+physical resource	aquatic feature	1
+aquatic species	aquatic invertebrate	1
+preacher	aquilla	1
+endemic species	aquatic frog	1
+life	aquatic microscopic plant life	1
+shared resource	aquifer	1
+educational resource	aquatic rescue handbook	1
+spirit	aquavit	2
+specialty class	aqua aerobics	1
+complex process	aqueous dispersed system	1
+neutral color	aqua	1
+area	aqajan kalay	1
+area	aquitaine in south west france	1
+area	aquatic center	1
+area	aqua theater completed	1
+service	aqueduct	3
+rodent	aquatic rodent coypu of france  twenty-nine 	1
+great teacher	aquinas	1
+local name	aqua mala	1
+chemical reaction	aqueous system chemical reaction	1
+enrichment program	aquarium on wheels	3
+entertainment venue	aquarium	1
+vibrant color	aqua	2
+vibrant color	aqua blue	1
+vibrant color	aquamarine blue	1
+deck	aquarian	1
+deck	aquarian tarot	1
+satellite	aqua satellite	1
+habitat feature	aquatic area	1
+city service	aquatic center upkeep	1
+mining company	aquarius platinum	2
+sightseeing attraction	aquarium	1
+great act	aquarium rescue unit	1
+boss	aquamentis	1
+critical element	aqueduct	4
+environmental service	aquifer recharge	1
+man-made structure	aquaculture equipment	2
+summer program	aquatics services	1
+door prize	aqua massage	1
+designer name	aquascutum	2
+designer name	aquascutum & burberry	1
+topical medication	aquaphor	1
+wildlife	aquatic bird life	1
+electrolyte	aqueous alkaline electrolyte	1
+electrolyte	aqueous solutions of chromic	1
+electrolyte	aqueous salt solution	1
+electrolyte	aqueous potassium hydroxide solution	1
+electrolyte	aqueous solutions of sodium chloride	1
+feat	aqueduct	1
+organized activity	aquatic	1
+organized activity	aqua aerobics	1
+corridor	aquidneck island	1
+famous author	aquinas	1
+large facility	aquatics center	2
+luxurious amenity	aquatic center	2
+pop artist	aqua in a manic metal mash-up	1
+environmentally sensitive area	aquifer	4
+environmentally sensitive area	aquifer recharge area	1
+petroleum product	aquaphor	1
+amphibian	aquatic and semiaquatic amphibian	1
+amphibian	aquatic turtle	1
+local industry	aquaculture	2
+national initiative	aquaculture reform	1
+perennial plant	aquilegia	2
+discussion	aquarium fish discussion	1
+fashion house	aquascutum	2
+specialty program	aqua aerobics	1
+natural color	aqua	1
+natural color	aqua's green	1
+popular style	aqua & apple	1
+exclusive brand	aqua di lara	1
+business opportunity	aquaculture	2
+polar solvent	aqueous solvent	1
+polar solvent	aqueous aprotic polar solvent	1
+polar solvent	aqueous solution	1
+clothing brand	aquascutum	1
+great facility	aquatic centre	1
+pharmaceutical product	aquarium pharmaceutical product	1
+pharmaceutical product	aqua ammonia	1
+public work	aqueduct	2
+scavenger	aquatic snail	4
+scavenger	aquatic snail s	1
+scavenger	aquila rapax	1
+rare condition	aqueous misdirection	1
+permit	aquatic resource alterat ion permit	1
+permit	aquatic resource alteration permit	1
+permit	aquatic resource alteration	1
+hazardous chemical	aqua ammonia	2
+light color	aqua	3
+moisturizer	aquaphor	7
+moisturizer	aquaphor ointment	2
+moisturizer	aqueous cream	1
+moisturizer	aqua glycolic	1
+recreation activity	aquatic recreation activity	1
+amusement park	aquarium	1
+animal model	aqp four  knockout mice 	2
+family attraction	aqualandia	3
+family attraction	aquarium	1
+habitat type	aquatic vegetation	1
+factor	aquifer type	1
+factor	aquinas catholic college	1
+factor	aquifer heterogeneity	1
+factor	aquifer recharge	1
+factor	aqueous solubility	1
+factor	aqueous solubility of the dosage	1
+factor	aquifer transmissivity in the vicinity of the borehole	1
+factor	aquatic weed growth	1
+factor	aquarium size	1
+factor	aquatic vegetation distribution	1
+factor	aquatic environment physical factor	1
+factor	aquarium ph	1
+service	aquatic massage	2
+service	aquatic instruction	2
+service	aqueous parts washing	2
+service	aquifer recharge	2
+service	aquatic	2
+service	aquarium maintenance	2
+service	aquarium system design	2
+service	aquatics center	2
+service	aquatic therapy	2
+service	aqua tread therapy	1
+service	aquatic risk consultancy	1
+service	aquatic physical therapy utilizing the state of the art swimex	1
+service	aquatic chemical application	1
+service	aquarobics	1
+service	aquarium removal	1
+spa treatment	aquatic massage	1
+crustacean	aquatic sowbugs	2
+crustacean	aquatic insect	1
+descriptive word	aquamarine	1
+expensive material	aquaprem edpm pond liner	1
+great thinker	aquinas	1
+structural measure	aquatic filter barrier	1
+biological parameter	aquatic plant	1
+commercial tool	aqueduct appscope tm	1
+biological activity	aquatic life	1
+huge company	aquafina	1
+brush	aqua-teal & white mix synthetic brush	1
+cheap high quality UGGs	aqua erin baby sheepskin ugg	1
+environmental datum	aquifer	1
+environmental datum	aquatic environmental datum	1
+great attraction	aquarium	5
+large site	aquincum	2
+local source	aquaculture extension specialist	1
+ink	aqueous	1
+ink	aqueous ink	1
+program element	aquarium	1
+bead	aquamarine bead	1
+decorative touch	aquatic plant	1
+linear feature	aqueduct	1
+linear feature	aqueduct under a canal	1
+natural system	aquifer below the campus	1
+natural system	aquifer	1
+treatment technique	aquatic therapy	1
+ointment	aquaphor	7
+ointment	aquafore of vaseline	1
+open system	aquarium	1
+open system	aquifer	1
+cultural resource	aquarium	1
+small container	aquarium	1
+cleanser	aqua-gel foaming cleanser	1
+schedule	aquatic weed treatments	1
+church father	aquinas	2
+mobile species	aquatic salamander	1
+specialty crop	aquaculture	2
+standard accessory	aqua view finder	1
+high end brand	aquascutum	1
+bold color	aqua blue	3
+cleaning agent	aqueous agent	1
+coating material	aqueous emulsion	1
+coating material	aqueous polymer solution	1
+coating material	aqueous surfacers	1
+decorative accessory	aquarium gravel	1
+mask	aqua sphere's  one hundred and eighty -degree sphera mask 	1
+separation technique	aqueous alkali	2
+top attraction	aquarium	2
+top attraction	aqualand	1
+prey	aquatic invertebrate	1
+attractive place	aquarium	1
+mineral resource	aquamarine	1
+registry	aqha	1
+fringe player	aquilani	1
+green technology	aquaculture	1
+traditional market	aquaculture feed	1
+ancillary activity	aqua feed preparation	1
+controlled environment	aquarium	1
+farm product	aquatic product	1
+invader	aquatic plant invader	1
+service	aquarium relocation	1
+service	aquarium setup	1
+service	aquarium rejuvenation	1
+service	aquarium delivery	1
+service	aquarium buffering	1
+service	aqua pel windshield treatment	1
+service	aquariums los angeles	1
+service	aquatic center for free	1
+service	aquatic life support	1
+service	aqueous coating	1
+service	aquarium discovery center	1
+service	aquarium maint enance	1
+subsectors	aquaculture	1
+light exercise	aqua natal exercise	1
+secondary process	aqueous alteration	1
+stop	aquarium of the bay	1
+corporate entity	aquaculture farm	1
+field trip	aquarium	1
+field trip	aquatic center	1
+noxious weed	aquatic noxious weed	1
+enclosed space	aquarium	1
+recreation	aquatic sport	1
+cosmetic treatment	aqua-dermabrasion	1
+semi-precious stones	aquamarine	19
+exotic name	aquaduct	1
+rich color	aqua	1
+Ancillary information	aquifer name	1
+Ancillary information	aquifer code	1
+aquatic animal	aquatic invertebrate	1
+fitness class	aqua	2
+fitness class	aqua aerobics	2
+fitness class	aqua training	1
+support tool	aqm decision support tool	1
+cardiovascular exercise	aquatic	1
+lotion	aquamarine body lotion	2
+lotion	aquaphor	1
+emollient	aqueous cream	11
+emollient	aquaphor	1
+emollient	aqueous cream bp	1
+precious stones	aquamarine	6
+precious stones	aqua stone	1
+precious stones	aquamarine stones	1
+common brand	aquafina	1
+beach activity	aqua bike	1
+beach activity	aquabike	1
+Shellfish	aquatic snail	4
+alcoholic beverage	aquavit	1
+counter product	aquaphor	1
+natural stones	aquamarine	1
+regional event	aquatank travelling fishing show	2
+trade magazine	aquarium trade magazine	1
+quality tool	aql acceptance sampling plan	1
+congenital anomaly	aqueductal stenosis	1
+body fluid	aqueous humor	1
+living organism	aquatic plant	1
+living organism	aquatic snail	1
+outdoor item	aquatic craft	1
+exercise program	aqua fitness	1
+engineering project	aqueduct	1
+infrastructure element	aqueduct	1
+network parameter	aqm policy	1
+quest	aquiring special material	1
+key brand	aquarian drumheads	1
+pad	aqua burnishing pad	1
+congenital abnormality	aqueductal stenosis	1
+phobia	aqua phobia	1
+water resource	aquifer	2
+emulsifier	aqueous film forming foam	1
+solid color	aqua	1
+color combination	aqua	1
+generic name	aqueous waste	1
+pet supply	aquarium product	1
+pet supply	aquarium pet supply	1
+pet supply	aquarium decor	1
+pet supply	aquarium	1
+pet supply	aquarium supply	1
+daytime activity	aqua aerobics	1
+liner	aquitania	1
+coolant	aqueous solution of ethylene glycol	1
+service	aquatic control project	1
+remains	aqueduct in kavala	1
+strong acid	aqua regia	5
+strong acid	aqueous hydrobromic acid	2
+strong acid	aqueous hydrochloric acid	2
+professional field	aqueous chemistry	1
+food group	aquatic mammal	1
+food group	aquatic product	1
+natural environment	aquatic sediment	1
+research group	aqwtec on campus	1
+invasive plant species	aquatic invasive plant species	1
+production system	aquasilvicultural system	1
+production system	aquaculture	1
+production system	aquaponics	1
+adapter	aq adapter	1
+biggest name	aquila	1
+closed system	aquarium	3
+meaty food	aquatic insect	1
+meaty food	aquatic crustations	1
+income generating activity	aquaculture	1
+small industry	aquaculture	1
+small seed	aquilegias	1
+treatment technology	aquifix system	1
+Watersports	aqua bike	1
+focus area	aquatic	2
+coating technique	aqueous film	1
+biological datum	aquatic macroinvertebrate population	1
+commercial operation	aquaculture	1
+sport program	aquatic	1
+effective ingredient	aqua	2
+natural habitat	aquatic environment	1
+sophisticated system	aqus from watersaver technologies	1
+sophisticated system	aquathin by the pure h twenty  company 	1
+wading bird	aquaculture wading bird	1
+weight-bearing exercise	aquatic exercise	3
+aquatic organism	aquatic invertebrate	1
+aquatic organism	aquatic plant	1
+aquatic organism	aquatic plant life	1
+aquatic organism	aquatic insect	1
+fitness activity	aqua jogging	1
+local species	aquatic snake	1
+soft color	aqua	1
+turtle	aquatic soft-shelled turtle	1
+party theme	aqua thing	1
+public location	aquarium	1
+small invertebrate	aquatic insect	1
+pastel color	aquamarine	2
+pastel color	aqua	2
+punk band	aquabats	1
+british company	aquamarine power	6
+developmental activity	aquaculture in paddy field	1
+developmental activity	aquaculture	1
+printing process	aquatint	2
+resistance exercise	aqua exercise	1
+recreational sport	aquatic activity	1
+recreational sport	aquatic recreational sport	1
+bedding	aquamax	1
+bedding	aquamax located in gloucestershire	1
+established program	aquaculture working capital loan guarantee initiative	1
+molecular property	aqueous solubility	2
+terrestrial species	aquatic and terrestrial species	1
+topic	aquaculture	5
+topic	aquatic	4
+topic	aquatic ecology	2
+topic	aquatic organism morphology	2
+topic	aquatic plant	2
+topic	aquatic habitat	2
+topic	aqeedah	2
+topic	aquifer protection	1
+topic	aquatic organism passage	1
+topic	aquatic toxicology	1
+large container	aquarium with glass side	1
+light activity	aqua aerobics	1
+low-impact activity	aqua jogging	2
+low-impact activity	aquatic exercise	1
+typical activity	aquatic sport	1
+organic element	aquatic plant	1
+physical measurement	aquifer performance test	1
+anything outdoors	aquaculture	1
+cytotoxic agent	aqueous chlorhexidine	1
+exciting attraction	aquarium de quebec	2
+flight	aq's california flight	1
+animal food	aquatic products in the eel	2
+fossil fuel	aqueous fossil fuel	1
+topical cream	aqueous cream with menthol	1
+decision support tool	aqm decision support tool	1
+Diluents	aqueous saline	6
+personal device	aquarium	1
+public work project	aqueduct	1
+superhero	aquaman	1
+fitness program	aquatic aerobics	1
+modern instrument	aquamax kf	2
+peripheral item	aquatic plant coloring book	1
+traditional use	aquaculture	1
+dynamic environment	aquarium containing fish	1
+mainstream product	aquafresh	1
+notebook	aquamind notetaker on the mac	1
+snail	aquatic pest snail	1
+snail	aquatic pulmonate snail	1
+team activity	aquatic team activity	1
+water sport activity	aqua scooter	1
+water sport activity	aqua bike riding	1
+fun color	aqua	1
+household brand	aquafresh	1
+musical guest	aquabats	1
+commercial purpose	aquaculture	1
+fish product	aqua cultured fish product	1
+fish product	aqua safe	1
+natural agent	aqua therapy	2
+accent color	aqua	2
+basic compound	aqueous ammonia solution	1
+closed environment	aquarium	1
+large construction project	aqueduct	1
+downtown attraction	aquarium	2
+seafood product	aqueous solution from oyster	1
+water-soluble polymer	aqueous polyester	1
+art mediums	aquatint	1
+business LED sign	aquarium led sign	1
+anthropogenic source	aquaculture	1
+inorganic acid	aqueous inorganic acid	1
+inorganic acid	aqueousstrong inorganic acid	1
+inorganic acid	aqueous strong inorganic acid	1
+inorganic acid	aqueous hcl	1
+popular line	aqua illuminations	1
+scientific organization	aquarium	1
+civil engineering project	aqueduct	1
+dining outlet	aquaduck safaris	1
+low-impact exercise	aquatic exercise	1
+site activity	aquatic center	1
+constellation	aquarius	11
+full facility	aqua gym	1
+management method	aquatic dye	1
+midfielders	aquilani	1
+strength exercise	aquatic resistance training	1
+suitable technique	aqueous chemical oxidation	1
+tall plant	aquilegia olympica	1
+recreation opportunity	aquatic	1
+driving force	aquatic pollution	1
+flotation device	aqua-jogger belt	1
+rehabilitation service	aquatic	1
+simple remedy	aqueous cream	1
+white noise	aquarium pump	1
+congenital condition	aqueductal stenosis	1
+exercise class	aqua lite	1
+exercise class	aqua aerobics	1
+geological formation	aquifer	1
+phosphate	aqueous solutions of ammonium	2
+taxonomic group	aquatic insect	1
+topic	aqua lymphatics	1
+topic	aquatic insect	1
+topic	aquatic resource	1
+topic	aquatic ecosystem	1
+topic	aqueous medium	1
+topic	aquiculture	1
+topic	aquifer storage	1
+topic	aquifer anisotropy	1
+topic	aquifer contamination	1
+topic	aquatic entomology	1
+topic	aquatic biology	1
+glass container	aquarium	1
+organised activity	aqua aerobics	1
+organised activity	aqua gym	1
+pastel	aqua	1
+agricultural operation	aquaculture	1
+commercial setting	aquarium	1
+conservative therapy	aquatic therapy	1
+innovative activity	aquaculture	1
+land-based activity	aquaculture	1
+hardware manufacturer	aqua communications	1
+organic substrate	aquatic moss	1
+production activity	aquaculture	1
+habitat variable	aquatic vegetation	1
+neighborhood amenity	aquatic center	1
+gentle exercise	aquanatal exercise	1
+liquid waste	aqueous liquid waste	1
+liquid waste	aqueous tank sludge	1
+unusual color	aquamarine	1
+complicated structure	aqueduct	1
+sightseeing spot	aqua museum	1
+sightseeing spot	aquarium	1
+benthic organism	aquatic worm	2
+government authority	aqsiq	1
+management application	aqua data studio	1
+anime series	aquarion	1
+hydrophobic material	aqueous solution of potassium methyl siliconate	1
+leadership program	aquatic emergency care	1
+natural fertilizer	aquarium water	1
+seed company	aqip company	1
+classic name	aquascutum	1
+herbaceous perennial	aquilegia	2
+mineral acid	aqueous hydrochloric	1
+mineral acid	aqueous hydrochloric acid	1
+Physical modalities	aquatic therapy	1
+technical expert	aquatic ecologist	1
+exclusive product	aqua bimini anti-aging water	1
+sealer	aqua mix sealers choice gold	1
+specialisations	aquatic biology	1
+wellness service	aquatic program	1
+applied field	aquaculture	2
+classical writer	aquinas	1
+contrasting color	aqua	1
+cultural facility	aquarium	1
+low impact activity	aquatic	1
+low impact activity	aqua	1
+strengthening exercise	aquatic exercise	1
+aquatic invertebrate	aquatic worm	1
+aquatic invertebrate	aquatic invertebrate large aquatic invertebrate	1
+green plant	aquatic macrophytes	3
+lube	aquaglide anal lubricant	1
+private operator	aqua express	1
+theoretician	aquinas	1
+viscous fluid	aqueous oleaginous emulsion	1
+viscous fluid	aqueous solution	1
+aqueous solution	aqueous solution of silver nitrate	1
+aqueous solution	aqueous sodium hydrosulfite	1
+business field	aqua feed	3
+classic writer	aquinas	3
+inorganic base	aqueous inorganic base	1
+modern thinker	aquinas	1
+Physical therapy modalities	aquatic	2
+convenient function	aquos link	1
+expensive method	aquifer testing	1
+great philosopher	aquinas	2
+liquid material	aqueous solutions of amine	1
+liquid material	aqueous solutions of amines	1
+outfitter	aqua safari	1
+petroleum-based product	aquaphor	1
+private industry	aquaculture	1
+topic	aquarium cabinetry	1
+topic	aquatic invasive species	1
+chromatographic method	aqueous biphasic extraction chromatography	1
+family friendly activity	aqua toy	1
+magical item	aqua scepter	1
+university facility	aquatic center	1
+adult program	aqua aerobics	1
+bodily fluid	aqueous humor	1
+fall color	aqua	1
+great location	aquitaine	1
+industrial service	aqueous	1
+odd item	aqauariums & whitewall tire	1
+water-based lubricant	aqua lube	2
+world famous attraction	aquarium	1
+bath	aqueous solution containing nickel borofluoride	1
+bath	aqueous solution containing nickel sulfamate	1
+kind item	aquarium decoration	1
+local board	aquidneck land trust	1
+mythical figure	aquilo	1
+aquatic insect	aquatic beetle	2
+best and latest arcade game	aquabble avalanche	1
+biological resource	aquatic habitat	1
+biological resource	aquatic ecosystem	1
+biological resource	aquatic macroinvertebrates	1
+legal mechanism	aquaculture management areas	1
+mineral product	aquarium stone	1
+national resource	aquaculture	1
+traffic generator	aqueduct racetrack	1
+dance group	aqua	1
+development initiative	aquaculture	1
+emergent plant	aquatic irises	1
+in-house facility	aqua park	1
+measured value	aquaplaning	1
+T.V. show	aqua teen hunger force	1
+T.V. show	aqua team hunger force	1
+hydraulic structure	aqueduct	2
+recreation program	aquatic	1
+small-scale project	aquaculture	1
+resource issue	aquatic habitat restoration	1
+acidic material	aqueous hydrochloric acid	2
+basic condition	aqueous naoh	1
+biological indicator	aquatic plant	2
+biological indicator	aquatic macroinvertebrates	1
+cutter	aquatic vegetation cutter	1
+Dispersants	aquaquest  two thousand one hundred and twenty 	1
+Macrophytes	aquatic fern azolla	1
+sensitive habitat	aquatic	1
+water issue	aquatic habitat	1
+watercraft	aquaplane	2
+productive asset	aquaculture equipment	1
+semi precious stones	aquamarine	2
+submerged plant	aquatic submerged plant	1
+low impact exercise	aquatic exercise	1
+low impact exercise	aqua exercise	1
+low-growing plant	aquilegia canadensis	1
+moist environment	aquarium	1
+national partner	aqua sphere	3
+subtle color	aquamarine	1
+aquatic weed	aquatic weed aquatic weed	1
+aquifer	aquia	3
+great museum	aquarium	1
+latest game	aqua jet	2
+popular class	aqua explosion	1
+fashion company	aquascutum	1
+interesting object	aquarium	1
+national laboratory	aquaculture science	1
+real-world object	aquarium	1
+city facility	aquatic center	1
+city facility	aquatic complex	1
+filtration system	aquamira frontier pro	1
+liquid ingredient	aqueous solution	2
+company	aquafina	5
+company	aqualytics in warren	4
+company	aquaterra energy	3
+company	aquila	3
+company	aqua	2
+company	aquapac	2
+company	aquamarine	2
+company	aqualung	2
+company	aquascutum	2
+company	aquaporin	2
+company	aquarius platinum	1
+company	aqua america	1
+company	aqua eagle	1
+company	aquatic energy	1
+company	aquafresh	1
+company	aqm solutions	1
+company	aquarius systems	1
+world-class brand	aquafina	1
+active game	aquatics	2
+agricultural sector	aqua culture	4
+agricultural sector	aqua cultu re	1
+basic catalyst	aqueous naoh	1
+basic catalyst	aqueous ammonia	1
+christian thinker	aquinas	5
+cleaning chemical	aqueous cleaner	2
+congenital malformation	aqueductal stenosis	1
+ground cover plant	aquilegias	1
+monitoring	aquatic habitat	1
+real system	aqueous solution	1
+terrestrial mammal	aquatic and terrestrial mammal	1
+basic technology	aquaduct	1
+blue	aquamarine	2
+complementary color	aqua	1
+large open space	aquatic center	1
+local farm	aquidneck farms	1
+onsite amenity	aquatic center	1
+popular hotel	aquarium resort	1
+color name	aqua	2
+entertainment area	aquapark	1
+environmental application	aqueous parts washer	1
+lichen	aquatic and semi-aquatic lichen	1
+alien plant	aquatic weed	1
+beneficial use	aquatic life	3
+famous club	aquarius	3
+marginal plant	aquatic and marginal plant	1
+marginal plant	aquatic iris	1
+anthropogenic influence	aquaculture	2
+closed space	aquarium	1
+livelihood	aquaculture	2
+police station	aquin	1
+secondary battery	aqueous solution type secondary battery	1
+secondary battery	aqueous-solution-based secondary battery	1
+geological factor	aquifer	1
+nonlinear process	aqueous chemistry	1
+paint color	aquamarine	1
+small flower	aquilegia	1
+sub-brands	aquazone fitness	1
+toner	aqua spritz plus	1
+water park	aquatica	1
+water park	aqualand	1
+water park	aquaboggan near old orchard beach in maine	1
+water park	aquatica water park	1
+aquatic activity	aqua aerobics	1
+common property resource	aquifer	1
+marine activity	aqualung diving canoeing deep sea sportfishing swimming snorkelling	1
+pastel shade	aquamarine	1
+renovation project	aquarium station	1
+transmembrane protein	aquaporins	2
+Baseline information	aquatic vegetation	1
+underwater structure	aquaculture equipment	1
+ecologically sensitive area	aquifer recharge zone	1
+great person	aquibi davis	1
+life process	aquatic nature	1
+marine habitat	aquatic and marine habitat	1
+non-native animal	aquarium fish	1
+phylum	aquificae	1
+popular tourist site	aquarium	1
+regional facility	aquatics center	1
+regional facility	aquatic	1
+regular customer	aquarium express	1
+regular customer	aquatics international	1
+suitable container	aquarium	1
+cooling fluid	aqueous solution with a depressed freezing point	1
+drugstore	aqua velva	1
+great painter	aqa mirak	1
+interactive exhibit	aquarium's interactive exhibit	1
+invasive exotic species	aquatic invasive exotic species	1
+investor-owned utility	aquila	2
+niche service	aquatic	1
+productive sector	aquaculture	2
+rare stones	aquamarine	1
+rationalist	aquinas	1
+salt solution	aqueousacetic acid salt solution	1
+salt solution	aqueous acetic acid salt solution	1
+technical process	aquatint	1
+company	aqwise for cleaning municipal sewage using bacterium	1
+company	aquila energy marketing	1
+company	aquaflow bionomic	1
+company	aqua tots	1
+company	aquarius holdings ltd in england	1
+company	aquapure ventures inc.	1
+company	aquemini	1
+company	aquatic landscapes	1
+company	aqua park	1
+company	aquamarine power based in edinburgh	1
+company	aquacell water	1
+company	aqua signal	1
+company	aqua sun international	1
+company	aqua power	1
+company	aqua rush	1
+company	aqua american	1
+common color	aqua	1
+complimentary activity	aqua gym class	1
+exotic color	aquamarine	1
+key environmental issue	aquifer mining	1
+moss	aquatic and semi-aquatic moss	1
+organic pesticide	aquatin	1
+potential market	aquarium trade	1
+shade loving plant	aquilegias	1
+shade loving plant	aquatic forget-me-not	1
+binding material	aqueous solutions of potassium hydroxide	1
+coastal resource	aquaculture	1
+modern structure	aqua vale in park street	1
+sand	aquarium sand	2
+water quality indicator	aquatic fauna	1
+good brand name	aquarium science	1
+marginal area	aqua blue	1
+Minor species	aquatic animal	1
+modern color	aqua	1
+plant group	aquatic plant	2
+amphibian species	aquatic reptile	1
+analytical service	aqueous	1
+great class	aqua cycling	1
+small vertebrate	aquatic insect	1
+world-class attraction	aquarium of the pacific	1
+ancient philosopher	aquinas	1
+binder material	aqueous bitumen emulsion	1
+Gem stones	aquamarine	3
+regular report	aqip annual updates	1
+unusual sport	aqua kickboxing	1
+alkaline agent	aqueous ammonia	2
+artificial habitat	aquatic	1
+artificial habitat	aquarium	1
+best and latest game	aqua slider	1
+best and latest game	aquacade	1
+community-based activity	aquatic exercise	1
+core brand	aqua doodle	2
+farming method	aqua culture	2
+fund family	aquinas funds	1
+moisture source	aquarium	1
+semiprecious stones	aquamarine	1
+water company	aqua north carolina	1
+water company	aquarion water co.	1
+aquatic resource	aquatic invertebrate	2
+Colored stones	aquamarine	1
+floatation device	aqua noodle	2
+marsh plant	aquatic or marsh plant	1
+religious thinker	aquinas	1
+super heroes	aquaman	2
+suppressant	aqueous flow suppressant	1
+vibrant shade	aqua	1
+water use	aquatic life	1
+well-known leader	aquilla	1
+wellness activity	aquatic	1
+alkaline solution	aqueous potassium hydroxide	2
+alkaline solution	aqueous ethylenediamine solution	1
+alkaline solution	aqueous sodium hydroxide	1
+alkaline solution	aqueous potassium hydroxide solution	1
+glassware	aqua-blue water glass	1
+Macroinvertebrates	aquatic worm	1
+Macroinvertebrates	aquatic insect	1
+protozoans	aquatic system protozoans	1
+semi-precious gemstone	aquamarine	2
+visible project	aqaba special economic zone	1
+water element	aquarium	4
+water-based product	aquaphor	1
+antibiotic ointment	aquaphor	1
+aquatic environment	aquarium	2
+artificial system	aqueduct	2
+etchants	aqueous hf	1
+farm operation	aquaculture	1
+company	aqua energy group	1
+company	aquidisplay	1
+company	aquatic technology	1
+activity	aquaculture	49
+fresh color	aqua	2
+key thinker	aquinas	1
+salmonids	aquatic-based habitat anadromous salmonids	1
+signature element	aquarium	1
+solvent system	aqueous system	2
+solvent system	aqueous buffers with neutral	1
+solvent system	aqueous solvent system	1
+specialty garden	aquatic garden	1
+amino acid residue	aqueous solution amino acid residue	1
+aquarium	aquarium of the bay	2
+aquarium	aquarium of ordinary construction illustrated in fig	1
+aquarium	aquarium of the americas in new orleans	1
+community infrastructure	aqueduct	1
+cool tone	aqua	1
+Decomposers	aquatic hyphomycetes	1
+great color	aqua sky	1
+high demand item	aquaillumination led module	1
+higher-end brand	aquascutum	1
+liquid carrier	aqueous solvent	1
+liquid fertilizer	aqueous urea	1
+liquid fertilizer	aqueous ammonia	1
+photosynthetic organism	aquatic plant	1
+photosynthetic organism	aquatic photosynthetic organism	1
+value-added activity	aquaculture	1
+vigorous variety	aquilegia vulgaris	1
+biological organism	aquatic insect	2
+cheap brand	aqua nova	1
+classical text	aquinas	2
+complementary facility	aquarium	1
+county facility	aquatic center	6
+humid environment	aquarium with moist substrate	1
+liquid form	aqueous solution	4
+non-traditional area	aquaculture	1
+popular finish	aqueous coating	1
+product form	aqueous solution	1
+bibliographic database	aquatic sciences & fisheries abstracts	2
+educational site	aquitaine	1
+food business	aquaculture	1
+geometrical property	aquifer volume	1
+latest development tool	aqualogic service bus	1
+specialist publication	aquaculture update	1
+aqueous system	aqueous paint suspension	1
+conspicuous species	aquatic insect	1
+daily activites	aqua gym	1
+dining restaurant	aquavina	1
+Floating debris	aquatic plant	1
+hardy variety	aquadulce claudia	1
+non-motorized water sport	aqua aerobics	1
+premier attraction	aqualand	1
+program offering	aqua aerobics	1
+rhythmic movement	aqua jogging	2
+rich jewel tone	aqua	1
+suitable lubricant	aquaeous cream	1
+therapy service	aquatic	2
+art city	aquileia	1
+christian figure	aquinas	1
+coating composition	aqueous latex coating composition	1
+coating system	aqueous coating system	1
+equally important issue	aquifer overdraft	1
+impact activity	aquatic exercise	1
+marine environment	aquarium	1
+natural debris	aquatic plant	1
+plain color	aquamarine	1
+protective film	aqueous coating	1
+protective film	aqueous	1
+semi-precious gem	aquamarine	2
+top-selling brand	aquafina	1
+anaerobic organism	aquatic anaerobic organism	1
+basic model	aquabot storm	1
+basic model	aquabot turbo	1
+basic model	aquabot tempo	1
+common asset	aquatic pond	1
+expensive operation	aquatic center	2
+good moisturizer	aquaphor ointment	3
+ionic species	aqueous silver nitrate	1
+leisure product	aqua city at ocean park	1
+loss mechanism	aqueous hydrolysis	1
+natural philosopher	aquinas	1
+physical therapy technique	aquatic therapy	1
+toothpaste	aquafresh	1
+business idea	aquarium maintenance	3
+activity	aqua aerobics	19
+activity	aquatic	18
+activity	aqua gym	6
+activity	aquarium	3
+activity	aqua fit	2
+activity	aqua fitness	2
+activity	aqua park	2
+activity	aqua sports	2
+activity	aquagym	2
+activity	aqua gymnastics	1
+activity	aqua cycling	1
+activity	aquatic sports like swimming	1
+activity	aquatic team activity	1
+activity	aquatic sightseeing	1
+activity	aquatic recreational activity	1
+activity	aquatic exercise	1
+eye-catching color	aquamarine blue	1
+family oriented activity	aquarium	1
+group exercise	aqua aerobics	1
+printmaking technique	aquatint	1
+spring-blooming perennial	aquilegia	1
+water provider	aqua america	1
+artificial environment	aquarium	5
+etching technique	aquatint	1
+free accessory	aqualeader test kit	1
+free accessory	aquarclear power filter	1
+indigenous tree species	aquilaria species	1
+institutional project	aquarium	1
+local nonprofit organization	aquatic discoveries	1
+non-aqueous solvent	aqueous or non-aqueous solvent	1
+small-scale industry	aquaculture	1
+soft substrate	aquatic vegetation	1
+aprotic polar solvent	aqueous aprotic polar solvent	1
+aquarium supply	aquarium air pump	2
+aquarium supply	aquarium heater	1
+aquarium supply	aquarium fish tank	1
+basic solution	aqueous sodium hydroxide	2
+basic solution	aqueous ammonia	1
+basic solution	aqueous sodium carbonate solution	1
+basic solution	aqueous basic solution	1
+basic solution	aqueous naoh	1
+bright shade	aqua blue	1
+bright shade	aqua	1
+brights	aqua jade tone	2
+commercial situation	aquarium hiring	1
+fashionable color	aqua blue	1
+human pressure	aquaculture on the coastal ecosystems with particular focus on the benthic system	1
+local law	aquifer protection district	1
+official site	aqa	1
+pharmaceutical composition	aqueous base emulsion	2
+semi precious gemstone	aquamarine	2
+water creature	aquatic life water creature	1
+coastal activity	aquaculture	1
+colored gemstone	aquamarine	6
+hydrologic factor	aquifer storage capacity	1
+large attraction	aquarium	1
+low-income area	aqueduct apartment	1
+non-carbonated drink	aquafina	1
+rehabilitation technique	aquatic therapy	1
+team information	aquatics center	1
+well-known Djs	aqua bassino	1
+anaerobic environment	aquatic sediment	2
+bottled water	aquafina	2
+catholic theologian	aquinas	1
+christian philosopher	aquinas	2
+commercial cleaner	aqua mix	2
+exotic stones	aquamarine	1
+family-friendly attraction	aquarium	1
+invertebrate predator	aquatic insect	3
+moisturiser	aqueous cream	2
+oral composition	aqueous oral composition	1
+substratum	aquatic macrophytes	1
+test method	aquatic test method	1
+transport protein	aquaporins	1
+village facility	aquatic facility	1
+aquifer characteristic	aquifer flow	1
+aquifer characteristic	aquifer characteristic aquifer characteristic	1
+aquifer characteristic	aquifer water quality	1
+common-pool resource	aquifer	1
+contact option	aquifer augmentation	1
+conveyance system	aqueduct	1
+Denaturants	aqueous tfe	1
+inert additive	aqueous solutions of salts of metal	1
+merchandise category	aqua sandals	1
+activity	aqua bike rental	1
+activity	aqua culture	1
+activity	aqua exercise	1
+activity	aquaculture expo	1
+activity	aquapark	1
+activity	aqua-aerobics	1
+activity	aquarobics	1
+activity	aquatic center	1
+activity	aquatic recreation activity	1
+activity	aquatic-themed restaurant	1
+activity	aqua bike	1
+activity	aquarium of the pacific	1
+activity	aqua pilates	1
+activity	aqua sana treatments	1
+activity	aqua running	1
+activity	aquatic animal processing activity	1
+activity	aqua arobics	1
+activity	aqua ball	1
+activity	aqua hiking	1
+activity	aqua jogging	1
+activity	aquarium-ornamental trade farming	1
+activity	aquatic centre fitness program	1
+activity	aquatic class	1
+activity	aquatic breeding	1
+activity	aquatic activity	1
+activity	aquarium trade	1
+activity	aquatic sport	1
+activity	aquatic plant harvesting	1
+activity	aquatic plant removal	1
+strong alkalis	aqueous sodium hydroxide solution	2
+strong alkalis	aqueous sodium hydroxide	1
+visual barrier	aquatic plant	1
+water-soluble resin	aqueous acryl resin	1
+water-soluble resin	aqueous urethane resin	1
+antiseptic solution	aqueous antiseptic solution	1
+best animal game	aquacade	2
+best animal game	aquitania	1
+blanket	aqueous solution blanket	2
+great theologian	aquinas	2
+high-tech sector	aquaculture	1
+jewel color	aquamarine	1
+municipal function	aqueduct	1
+production sector	aquaculture	1
+protein family	aquaporin superfamily	1
+protic solvent	aqueous alcohol	1
+site specific datum	aquifer thickness	1
+site-specific parameter	aquifer transmissivity	1
+specialty ink	aqueous	1
+suitable substrate	aquatic plant	1
+bright hue	aqua	1
+buffer system	aqueous buffer system	1
+calming color	aqua	1
+chromium compound	aqueous solution of chromium acetate	1
+college publication	aqip governance meeting minute	1
+ether solvent	aqueous tetrahydrofuran	2
+ether solvent	aqueous  one , four -dioxane 	2
+Habitat information	aquatic substrate	1
+hydrological feature	aquifer recharge zone	1
+indoor attraction	aquarium	1
+key objective	aquatic conservation strategy objectives	1
+leisure opportunity	aquatic park	1
+medium system	aqueous two-phase polymer system	1
+medium system	aqueous organic two-phase system	1
+offshore activity	aquaculture	4
+pale shade	aqua	1
+permanent venue	aquatic center	1
+soft hue	aqua blue	1
+water event	aqua mystica	1
+alkali metal hydroxide	aqueous naoh	1
+aqueous fluid	aqueous humor	1
+aqueous fluid	aqueous solution	1
+etchant	aqueous ferric chloride solution	1
+flavored water	aquafina flavored water	1
+flavored water	aquafina flavor splash	1
+flavored water	aquafina flavorsplash	1
+franchise operation	aq in iraq	1
+heritage structure	aqueduct	1
+high fashion designer	aqua di lara	1
+hydrophilic molecule	aqueous salt	2
+instructional class	aquatic	1
+liquid preparation	aqueous	2
+man-made system	aquarium biofilm system	1
+morphological structure	aquiferous system canal	1
+physical therapy service	aquatic	1
+plant life	aquatic microscopic plant life	1
+short event	aqiqah	1
+unusual venue	aquarium	3
+watercolor	aqua	1
+aquarium accessory	aquarium thermostat	2
+aquarium accessory	aquarium leds	1
+aquarium accessory	aquarium lid	1
+aquarium accessory	aquarium sump	1
+aquarium accessory	aquarium top	1
+aquarium accessory	aquarium ballast	1
+aquarium accessory	aquarium glue	1
+aquarium accessory	aquarium hood	1
+aquarium decoration	aquarium plant	1
+bright, bold color	aqua	1
+consumptive use	aquaculture	1
+environmental property	aqueous solubility	6
+eye color	aqua	1
+highest quality component	aqua-flo pump	1
+impressive amenity	aqueduct	1
+industry executive	aquila inc. s robert green	1
+low temperature application	aquiculture	3
+low temperature application	aquaculture	2
+name-brand product	aqua glass	1
+natural variable	aquifer geology	2
+non-farm activity	aquaculture	1
+renowned sight	aquarium	1
+tourism organization	aquatic theme park	2
+touristy site	aquarium	1
+water structure	aquatic plant	1
+alkaline reagent	aqueous ammonia	1
+alkaline reagent	aqueous alkaline reagent	1
+bold hue	aqua	1
+deep water species	aquatic deep water species	1
+activity	aquatic farming	1
+activity	aquatic recovery	1
+activity	aquatic plant treatment	1
+activity	aquatic ski	1
+fuel crop	aquaculture of alga	1
+geologic structure	aquifer	1
+industry journal	aquaculture news	1
+industry journal	aquaculture outlook	1
+low viscosity liquid	aqueous solution	1
+quality organization	aqf	1
+sample preparation method	aqueous two-phase system	3
+strong inorganic acid	aqueous strong inorganic acid	1
+subjective outcome	aqlq score	1
+tropical color	aquamarine	1
+water conditioner	aqua plus	2
+water conditioner	aquarium pharmaceuticals stress coat	1
+water conditioner	aqualife complete	1
+water exercise	aqua aerobics	5
+water exercise	aquatic aerobics	2
+water exercise	aquarobics	2
+water exercise	aqua exercise	1
+water exercise	aquatic or water exercise	1
+alkanolamines	aqueous mea	1
+artificial wetland	aquacultural pond	1
+artificial wetland	aquaculture pond	1
+big tourist attraction	aquarium	1
+ecological resource	aquatic biology	1
+forest pest	aquatic pathogen	1
+non-carbonated beverage	aquafina water	4
+open container	aquarium	1
+precious loose stones	aquamarine	1
+small aquatic animal	aquatic insect	1
+superheros	aquaman	1
+visitor activity	aqua	1
+alkaline cleaner	aqueous solutions of alkali metal salts of silicate	1
+charming place	aquarium of the americas	1
+children's attraction	aqua show	1
+DC character	aquaman	1
+facility type	aquatic complex	1
+flocculating agent	aqueous polyacrylamide solution	6
+gentle activity	aquatic exercise	1
+hydrotherapy & spa	aquus spa located in essex	1
+moisturisers	aqueous cream	1
+non-linear process	aqueous chemistry	1
+non-target organism	aquatic invertebrate	1
+non-target organism	aquatic organism	1
+ocular tissue	aqueous humor	1
+odd color	aquamarine	1
+specialty facility	aquatic	1
+swimming pool	aquafit in waldmunchen	1
+tarot deck	aquarian tarot	1
+topical formulation	aqueous	1
+touristic area	aqaba	1
+traditional printmaking technique	aquatint	1
+UK BAP species	aquatic warbler	1
+award-winning product	aquapod drip watering system	1
+biological community	aquatic insect	1
+cross-training	aqua running	1
+environmental determinant	aquifer type	1
+famous heroes	aquaman	1
+famous track	aqueduct	1
+functional fluid	aqueous industrial functional fluid	1
+hydraulic property	aquifer hydraulic conductivity	1
+injectable agent	aquinoloneanda cheap injectable agent	1
+marquee brand	aqr capital	1
+mobile phone service	aqa	2
+nuisance plant	aquatic nuisance plant	1
+offshore operation	aquaculture	1
+popular consumer product	aquafresh	1
+information	aquifer	2
+information	aquatic life use attainment	1
+information	aquifer characteristic	1
+information	aquifer thickness	1
+information	aquifer depth	1
+environmental amenity	aquatic life	1
+geological parameter	aquifer's composition	1
+high dielectric material	aqueous solution	1
+hydrogeological parameter	aquifer parameter	1
+medieval philosopher	aquinas	2
+out-of-classroom activity	aquatics class	1
+permanent filler	aquamid	1
+physico-chemical datum	aqueous solubility	1
+protected environment	aquarium	1
+regional business	aquaculture	3
+rodeo	aqua aces rodeo	1
+smooth flat surface	aquarium glass	1
+specialty bulb	aquarium bulb	1
+summer attraction	aquarium	1
+advanced organism	aquatic annelid	1
+advertising firm	aquantive	1
+animal industry	aquaculture	1
+aquatic program	aquafit for adult	1
+beautiful gem	aquamarine	1
+board sport	aquatic and board sport	1
+boat manufacturer	aquasport	1
+catholic scholar	aquinas	1
+caustic solution	aqueous naoh	1
+concentrated acid	aqueous chromic acid	1
+concentrated acid	aqua regia	1
+environmental need	aquatic ecosystem health	1
+heavy moisturizer	aquaphor	1
+high quality shoe	aqua shoe	2
+marine system	aquaculture	1
+oasis	aqsu	1
+philosophical thinker	aquinas	1
+regular attraction	aquarium	1
+stock breed	aqha	2
+sustainable design element	aquifer thermal energy storage	1
+waterparks	aqualand	3
+wipe	aquamed antibacterial bed bath	1
+adult cartoon	aqua teen hunger force	2
+alkali solution	aqueous solutions of sodium carbonate	2
+allied activity	aquaculture	1
+aqueous environment	aquifer	1
+aquifer property	aquifer property aquifer property	1
+aquifer property	aquifer transmissivity	1
+classical realist	aquinas	1
+decorative water feature	aquarium table	1
+economic unit	aquifer	3
+environment-friendly product	aquascape pond	1
+famed attraction	aquaria klcc	1
+family friendly attraction	aquarium of the americas	1
+freshwater system	aquifer	1
+generally stock color	aqua	1
+growing industry	aquaculture	1
+impressive venue	aquarium	1
+liquid system	aqueous dispersions of cell	1
+livefood	aquatic insect	2
+medieval thinker	aquinas	2
+non-motorised water sport	aqua aerobics	1
+non-weight bearing exercise	aquatic therapy	1
+non-weight bearing exercise	aquatic class	1
+notable sight	aquarium	1
+open water area	aquarium	1
+physiological solution	aqueous physiological solution	1
+sensitive environmental area	aquifer	1
+slurry	aqueous slurry	1
+sustainability effort	aquaphonics	1
+sustainability effort	aquaculture	1
+underground resource	aquifers in sand	1
+windowing system	aqua	1
+youth class	aquatic	1
+advert	aqua di gio	1
+antibacterial ointment	aquaphore healing ointment before covering the wound with a small bandage	1
+Aquatic macroinvertebrates	aquatic insect	1
+aquatic taxa	aquatic plant	1
+aquifer parameter	aquifer lower boundary surface	1
+bright, cheerful color	aquamarine	2
+information	aquarium size	1
+information	aquarium age	1
+information	aquatic life presence	1
+computerized program	aqua software	1
+conventional purification technique	aqueous workup	1
+creative agency	aquent	1
+fish supply	aquarium vacuum	5
+fish supply	aquarium substrate	4
+fish supply	aquarium glass scrubber	4
+fish supply	aquarium lighting	1
+freshwater resource	aquifer	1
+freshwater resource	aquifer s	1
+gem & MINARALS product	aquamarine	2
+gemstone & MINARALS product	aquamarine	1
+government regulator	aqis	1
+heritage variety	aquadulce claudia broad bean	1
+inorganic source	aqua ammonia	1
+leading american company	aquarium pharmaceuticals	2
+living entity	aquatic	1
+magnificent attraction	aquarium	1
+male figure	aquaman	1
+mass brand	aqua label	1
+municipal work	aqueduct	2
+on-site system	aqua privy	1
+physical therapy treatment	aquatic therapy	2
+popular exhibit	aquarium	1
+popular match game	aqua bubble	1
+resource-based activity	aquaculture	1
+swelling agent	aqueous lithium iodide	1
+whitening treatment	aquafresh whitening trays	1
+year-round program	aquatic training course	1
+year-round program	aquatic fitness class	1
+aquaculture activity	aquaculture management plan	1
+aquarium product	aquarium filter	1
+aqueous base	aqueous naoh	1
+aqueous base	aqueous inorganic base e.g. a carbonate	1
+aqueous base	aqueous potassium hydroxide	1
+aqueous base	aqueous sodium carbonate	1
+area destination	aquarium of the pacific	1
+artificial food	aquaculture pellet	1
+Benthic macroinvertebrates	aquatic insect	2
+birthstone	aquamarine	2
+blue gemstone	aquamarine	5
+bold, bright color	aqua	1
+bottled water product	aquafina	1
+brooklyn attraction	aquarium	4
+coastal industry	aquaculture	2
+conventional isolation technique	aqueous extraction	2
+conventional isolation technique	aqueous organic extraction	1
+famous gemstone	aquamarine	2
+freshwater source	aquifer	1
+gravel	aquarium gravel	1
+herps	aquatic turtle	1
+high-valued item	aquarium fish	1
+html color	aqua	1
+immiscible liquid	aqueous liquid	1
+leisure park	aqualand	1
+local entertainment	aquarium	1
+mals	aquatic air-breathing mam mals	1
+medieval writer	aquinas	1
+molecular weight material	aqueous dispersion of bovine albumin dyed with solatine pink.rtm	1
+natural resource-based activity	aquaculture in the rural areas through non-regulatory	1
+natural resource-based activity	aquaculture in the rural areas through regulatory mean	1
+natural resource-based activity	aquaculture in the rural areas through non-regulatory mean	1
+non-weight-bearing activity	aqua aerobics	3
+non-weight-bearing activity	aqua jogging in the deep end of a pool	1
+pretty color	aqua	1
+print process	aquatint	1
+small water animal	aquatic insect larva	2
+tertiary color	aquamarine	1
+top hand	aq	1
+town employee	aquatics director	1
+treatment activity	aquatic exercise	1
+watershed variable	aquatic insect	2
+aquatic form	aquatic shrew	1
+aquatic salamander	aquatic salamandrids	1
+archaeological structure	aqueduct	1
+artificial site	aquaculture pond	1
+breed registry	aqha	1
+clear, bright color	aqua	1
+corrosive fluid	aqueous alkaline solution	1
+eminent philosopher	aquinas	2
+examination board	aqa	3
+gem mineral	aquamarine	1
+good light	aqua signal	1
+human land use	aquaculture	1
+hydraulic datum	aquifer permcability	1
+hydrogeologic datum	aquifer thickness	1
+hydrogeologic datum	aquifer porosity	1
+indoor exhibit	aquarium	2
+man-made water system	aqueduct	1
+medieval author	aquinas	1
+metallic accent	aqua colored eye shadow	1
+news article	aqha new	1
+Non-motorized watersports	aqua cycle	1
+information	aquifer level	1
+information	aquifer pump capacity	1
+information	aquifer location	1
+event	aquatic	5
+event	aquathlon	3
+polar fluid	aqueous solutions of acid	1
+polar fluid	aqueous solution	1
+water-based lube	aqua lube	1
+water-dependent use	aquaculture	1
+wildlife habitat area	aquatic environment	1
+zodiac sign	aquarius	4
+activity space	aquatic center	1
+anisotropic etchant	aqueous potassium hydroxide	1
+aqueous acid	aqueous hydrochloric acid	2
+barrier product	aquaphor	1
+biodiversity index	aquatic community classification	1
+blue accessory	aquamarine jewellery	1
+clear glass container	aquarium	1
+clear spirit	aquavit	1
+close competitor	aqua fresh	1
+condominium development	aqua on queens quay	1
+groundwater parameter	aquifer thickness	1
+habitat specialist	aquatic black warrior waterdog	1
+liquid dosage form	aqueousor nonaqueous solution	1
+long structure	aqueduct	1
+marine course	aquaculture	2
+medieval theologian	aquinas	3
+perennial seed	aquilegia	1
+physical workout	aqua aerobics	1
+physical workout	aquatic sport	1
+pond characteristic	aquatic weed growth	1
+refreshing color	aquatic blue	1
+small substrate	aquarium gravel	1
+specialty attraction	aquarium	1
+specialty industry	aquaculture system	1
+specialty structure	aquarium	1
+surface water system	aquifer	1
+user-groups	aquaculturalists	1
+base solution	aqueous nitrogeneous base solution	1
+basic environmental parameter	aquatic vegetation	1
+Blue stones	aquamarine	2
+california attraction	aquarium if the pacific	1
+caucasian feature	aquiline nose	1
+classic scent	aqua de gio by armani	1
+cleaning condition	aqueous solution temperature	1
+common move	aqua jet	1
+cottage garden favorite	aquilegias	2
+ecotourism	aquatic sport	1
+ethical philosopher	aquinas	2
+fabric color	aqua	1
+fluid composition	aqueous rinse solution	1
+fluid composition	aqueous composition	1
+good filter	aquathin range	1
+lodging chain	aqua hotels & resorts	1
+midfield player	aquilani	1
+noncarbonated drink	aquafina	1
+on-shore activity	aquaculture	1
+orissa's colored gemstone	aquamarine	1
+event	aquaintance breakfast	1
+event	aqua follies	1
+event	aqua disco	1
+event	aquaponics day	1
+event	aqha world show	1
+event	aquatennial style show	1
+event	aquinas roundtable series	1
+event	aquathlons & team events	1
+physical energy	aquatic force	1
+process modification	aqueous cleaning	1
+resource-based sector	aquaculture	1
+semi-aquatic animal	aquatic and semi-aquatic animal	1
+small attraction	aquarium	1
+southerly region	aquitaine	1
+spring perennial	aquilegia canadensis	1
+time-sensitive industry	aquaculture	1
+vivid shade	aqua blue	1
+water program	aqua aerobics	1
+winter resort	aqaba	1
+anadromous salmonids	aquatic-based habitat anadromous salmonids	1
+archeological structure	aqueduct	2
+attraction site	aquarium of americas	1
+basic reagent	aqueous alkali carbonate	1
+beautiful mosque	aqmar mosque	1
+best equipment manufacturer	aqualung	2
+biota	aquatic and riparian biota	1
+clear color	aqua blue	1
+common wildflower	aquilegia	1
+Earthly stones	aquamarine	1
+enclosed container	aquarium	1
+established british name	aquascutum	1
+flamboyant color	aqua	1
+gemstone name	aquamarine	1
+inferior or unsafe material	aquarium gravel	2
+injectable preparation	aqueous	5
+latest lifestyle brand	aquascutum	1
+Low-intensity aerobic exercise	aquatic-based training	3
+membrane-associated protein	aquaporin	1
+mutant protein	aqp two  water channel 	1
+natural theologian	aquinas	1
+permanent sequelae	aqueductal stenosis	3
+popular gem	aquamarine	1
+process module	aqueous-phase chemistry module	1
+public attraction	aquarium	1
+radical species	aqueous electron	1
+raw organic material	aquatic plant	1
+scene setting	aquarium	1
+sea-based activity	aquaculture	1
+self-improvement class	aqua dynamic	1
+successful industry	aquaculture	1
+toilet seat	aquarium seat	1
+vertical concrete surface	aquarium tank	1
+washing condition	aqueous ammonium acetate	1
+water-based animal	aquatic crustacean	1
+water-soluble lubricant	aqua lube	1
+agriculture sector	aqua culture	1
+alien invasive species	aquatic alien invasive species	1
+amazing theme park	aqualandia	1
+animal food source	aquatic invertebrate	1
+aqueous solvent	aqueous ammonia	1
+aqueous solvent	aqueous solutions of quaternary ammonium hydroxide	1
+automatic	aquina v three 	1
+best available technology	aquifer recharge	1
+breed organization	aqha	2
+bromide salt	aqueous bromide salt	1
+color gem stones	aquamarine	1
+dive operator	aqua safari	1
+dive operator	aqua-trek beqa	1
+emollient cream	aqueous cream	3
+emollient cream	aqueous	1
+emollient cream	aqueous cream bp	1
+event	aquatic plant day	1
+event	aqua lounge in beverly hills	1
+program	aquatic	15
+program	aquatics program	3
+essential natural resource	aquifer	1
+exercise regimen	aquatic therapy	1
+hydroxylic solvent	aqueous ethanol	1
+hydroxylic solvent	aqueous methanol	1
+informal recreation activity	aqua class	1
+insoluble protein	aqueous insoluble protein	1
+in-stream use	aquatic life	1
+intense hue	aquamarine blue	2
+live object	aquarium	1
+long-gone watering hole	aquatic arms	1
+marine unit	aquia	1
+monitored activity	aqua fit	1
+native area	aquatic & riparian area	1
+ocean industry	aquaculture	3
+placement agency	aquent	1
+pond animal	aquatic insect	2
+quality attraction	aquarium	1
+resource management strategy	aquaculture	1
+small invertebrate animal	aquatic insect	1
+stock horse breed	aqha	1
+strategy document	aquaculture strategy	1
+successful community event	aquatennial tennis tournament	1
+television ad	aquaguard	1
+tooth paste	aquafresh	1
+trendy shade	aqua	1
+water skill	aquatic breathing	1
+water sport amenity	aqua bike	1
+Waterworks	aqueduct	1
+young defensive player	aquib talib	1
+activity park	aquapark	4
+alkali hydroxide	aqueous ammonia	2
+alkaline composition	aqueous solution of ammonium hydroxide	1
+alkaline electrolyte	aqueous potassium hydroxide	3
+alkaline electrolyte	aqueous alkaline electrolyte	1
+animal collection	aqua pals	3
+aquatic and semi-aquatic species population	aquatic insect	1
+aqueous alkaline solution	aqueous naoh solution	1
+auspicious animal	aquatic makara	1
+blue color	aqua blue	1
+camp skill	aquatic sports	1
+clarifier	aqua's super clarifier	1
+day-time activity	aqua fitness	1
+dc direct figure	aquaman	1
+diversification activity	aquaculture activity	1
+faceted stones	aquamarine	1
+fresh tone	aqua	1
+high quality semiprecious stones	aquamarine	1
+historic region	aquitaine	1
+historical and archaeological site	aqaba	3
+hygroscopic liquid	aqueous solutions of libr	1
+industry's top selling brand	aquafina	1
+informal learning environment	aquarium	1
+innovative new industry	aquaculture	1
+intellectual figure	aquinas	2
+IPO stock	aqua logistics	2
+latest procedure	aquatic therapy exercise	1
+low-impact cardiovascular activity	aquatic exercise class	1
+medicated ointment	aquaphor	1
+metamorphic gem	aquamarine	1
+naples attraction	aquedotto romano	2
+natural lawyer	aquinas	4
+program	aquatic education	2
+program	aqua aerobics	2
+program	aquatic biology	2
+program	aquatic restoration project	1
+program	aquifer recharge	1
+program	aquifer protection overlay zone	1
+program	aquatic education program	1
+program	aquarius	1
+program	aquaculture initiative program	1
+program	aquaculture	1
+program	aquaculture cooperative	1
+program	aqua running	1
+program	aqua babies for child	1
+normal phase solvent	aqueous buffer	1
+noxious component	aqueous, gaseous noxious component	1
+Pollution-tolerant species	aquatic worm	1
+pre-Crisis Earth-Two heroes	aquaman	2
+prime sydney attraction	aquarium	1
+professional effect	aqua button	1
+public assembly facility	aquarium	1
+quality lubricant	aquaglide anal lubricant for easier penetration	1
+regional utility	aquila inc.	1
+rink	aquarius in la mesa	1
+rotary project	aqua box	1
+rough gem	aquamarine	1
+seaside area	aqaba	1
+skimmer	aquac ev	2
+thermostat	aquazone  fifty qe nine hundred - two hundred and fifty fs 	1
+traditional philosopher	aquinas	2
+unexpected combination	aqua	2
+unscented lotion	aquaphor	1
+utility owner	aquila inc. of kansas city	1
+vegetation species	aquatic nuisance vegetation species	1
+actual creative date	aquarium	1
+affluent school	aquinas college	1
+ala carte service	aquatic tenders	1
+big association	aqha	1
+bland moisturizer	aqueous cream	1
+bright pastel	aquamarine	1
+carbonate salt	aqueous soluble carbonate salt	1
+colorful semi-precious gem	aquamarine	1
+colour scheme	aquamarine	2
+communication stones	aquamarine	1
+communication stones	aquamarine stones	1
+DC heroes	aquaman	1
+delicious color	aqua	1
+digital agency	aquent	1
+environmental compartment	aquatic	2
+exotic piece	aquamarine	1
+extremely helpful mode	aquarium	1
+fine-dining restaurant	aqua	1
+flavor spirit	aquavit	1
+galvanic cell	aqueous alkaline cell	1
+gemstone rough and mineral specimen	aquamarine	1
+Gentle daily exercise	aqua aerobics	1
+gorgeous new gemstone	aquamarine	1
+granulation method	aqueous toner granulation method	1
+hard gemstone	aquamarine	2
+inexpensive hotel	aqua hotel	1
+informal science institution	aquarium	2
+intaglio print	aquatints	1
+islamic holy site	aqsa mosque	5
+ISP's	aquiss	1
+LA venue	aqua lounge	1
+large complex organization	aqis	1
+light blue	aqua	2
+local habitat variable	aquatic vegetation cover	1
+londons top nightclub	aquarium	1
+long beach attraction	aquarium of the pacific	1
+low-voc product	aqueous coating	1
+luscious stones	aquamarine	1
+mainstream sponsor	aquafina	1
+mini-beasts	aquatic invertebrate	2
+natural unit	aquifer system	2
+nearshore habitat	aquatic nearshore habitat	1
+pale, soft color	aqua	1
+program	aquatic resources	1
+program	aquatic therapy	1
+program	aqua aroebics	1
+program	aqua data studio	1
+program	aqua yoga	1
+program	aqua therapy	1
+program	aqua trails kayak nature tours	1
+program	aquatic aerobics	1
+program	aquaculture project	1
+program	aquatic lymphedema exercise class	1
+Pre Crisis Earth-Two heroes	aquaman	1
+prom dress color	aqua	1
+proticsolvents	aqueous methanol	1
+public or private recreational facility	aquatic center	1
+regional entertainment attraction	aquarium	1
+semi-precious and precious crystal	aquamarine	1
+Servant-leaders	aquilla	1
+short-lived plant	aquilegia	1
+subsurface environment	aquifer	1
+sub-variations	aquatic	3
+water repellent	aquapel	1
+water-based exercise	aqua aerobics	1
+water-based exercise	aquatic	1
+WPP agency	aqua in south africa	1
+Adorable gem stones	aquamarine	1
+allied course	aquatic entomology	1
+aquatic application	aquarium	1
+aquatic food organism	aqutic oligochaetes	1
+aquatic food organism	aqutic vascular plant	1
+aqueous phase	aqueous nahco three 	1
+aqueous treatment	aqueous consolidation	1
+aqueous treatment	aqueous deacidification	1
+best and smallest breakout game	aquaball	1
+bland ointment	aquaphor	2
+bottled water company	aquafina	1
+bright blue	aqua	1
+bright or bold color	aqua	1
+captive environment	aquarium	3
+child-friendly attraction	aquatic centers in the bahamas	1
+church thinker	aquinas	1
+classic shop	aquascutum	1
+classic, romantic paint color	aqua	1
+coastal area pressure	aquaculture	1
+colored jewel	aquamarine	1
+coloured gemstone	aquamarine	1
+commercial brand toothpaste	aqua fresh	1
+community recreation facility	aquatic center	2
+complimentary class	aqua cardio fusion	2
+complimentary class	aqua fitness	1
+cosmological argument	aquinas hierarchical causal argument	1
+critical environmental area	aquifer	1
+datum base system	aquaculture mis	1
+dependent system	aquarium aerator	2
+designated use	aquatic life use	1
+disparate subject	aquarium fish	1
+dispersion system	aqueous pigment ink	1
+draft area	aquifer recharge area	1
+extreme life form	aquatic moss	1
+family venue	aquarium	1
+fishery project	aqua-culture development project	1
+forest insect	aquatic and forest insect	1
+forests watershed protection service	aquatic habitat	1
+formal and informal recreational opportunity	aquatics program	1
+fun spot	aquarium	1
+genuine semi-precious gem	aquamarine	1
+good liquid test kit	aquarium pharmaceuticals kit	1
+great education centre	aquarium	1
+groundwater characteristic	aquifer recharge area	1
+group's main product	aquafina purified water	1
+hair spray	aqua net	1
+high-end collector specimen	aquamarine	1
+house gem	aquamarine	1
+household-name product	aquafresh	1
+hydrologic system	aquifer	1
+injection preparation	aqueous	3
+injection preparation	aqueous suspension	1
+insane product	aquadoodle	1
+integral protein	aquaporin	1
+jewelry semi-precious stones	aquamarine	1
+labor-intensive agricultural product	aquatic product	1
+licensed activity	aquaculture	1
+liquid deactivator	aqueous ammonia	1
+liquid mediums	aqueous mediums	1
+liquid oral dosage form	aqueous syrup	1
+low impact routine	aquatic walking	1
+low or no-impact exercise	aquatic	1
+community	aquia district	1
+community	aquinnah town	1
+community	aquilla village	1
+community	aquilla city	1
+marine exhibit	aquarium	1
+marine industry	aquaculture	2
+minor creature	aqua drone	1
+minor creature	aqua pirates	1
+non-iodized salt	aquarium salt	1
+nonmarket good	aquatic habitat	2
+orlando's top destination area	aquatica	1
+overtone	aqua	1
+permeable structure	aquifer	1
+popular promotional coaster	aqua coasters	1
+priority move	aqua jet	2
+processing activity	aquatic animal processing activity	1
+quality premium brand	aqua brass	1
+quiet sport	aqua aerobics	1
+safe water sport	aqua-glide	1
+safe water sport	aqua-cycle	1
+scholastic theologian	aquinas	1
+seattle club	aquarius	1
+secondary coolant	aqueous solutions of alcohol	1
+secondary coolant	aqueous solutions of propylene	1
+secular public building	aqueduct	1
+sedimentary environment	aquatic sediment	1
+sedimentary environment	aquifer	1
+semi-precious flagstone	aquamarine	1
+small stones	aquarium gravel	1
+soap substitute	aqueous cream	14
+soap substitute	aqueous cream bp	2
+soluble fluoride compound	aqueous solution	1
+suitable disinfectant	aqueous solution of stable clo.sub. two 	1
+thermal spray	aquage working spray	1
+thick ointment	aquaphor healing ointment	1
+traditional extraction method	aqueous alkaline extraction	1
+travel connections great partner	aqua hotels	1
+underground source	aquifer	1
+underlying discipline	aquatic ecology	1
+underwater character	aquaman	1
+valuable journal	aquatic toxicology	2
+vertical concrete curfaces	aquarium tank	1
+water channel	aqp one  in thymocytes 	2
+water channel	aquaporin water channel	1
+water channel	aqp two 	1
+well fluid	aqueous solutions of sodium chloride	1
+well-known household brand	aquafresh	1
+woman teacher	aquila	1
+world famous restaurant	aquavit	1
+25-themed garden	aquatic collection	1
+26-themed garden	aquatic collection	1
+acidic electrolyte	aqueous nano.sub. three 	1
+ad-serving company	aquantive's atlas	1
+aerobic conditioning exercise	aquatic aerobics	1
+agricultural intelligent applied system	aquatic product	1
+agriculturally acceptable form	aqueous suspension	1
+alkaline aqueous solution	aqueous solutions of ammonia	3
+alkaline aqueous solution	aqueous solution of tetramethylammonium hydroxide	1
+alkaline aqueous solution	aqueous solution of sodium hydroxide	1
+ample bench ointment	aquaphor	1
+AQPs	aqp two 	1
+AQPs	aqp one 	1
+basis shade	aqua blue	1
+beautiful natural stone bead	aquamarine	1
+best block game	aquabble quest	1
+biennial and perennial seed	aquilegia	3
+bottom organism	aquatic insect larva	1
+bottom organism	aquatic worm	1
+chemical coating	aquapel	2
+cloud process	aqueous-phase chemistry	1
+coin-operated game	aqua blasta	1
+colored crystal	aquamarine	1
+common ligand name	aqua	1
+common root word	aqua	1
+consumer healthcare product	aquafresh	1
+daily poolside activity	aqua aerobics	1
+daily social activity	aqua aerobics	1
+dechlorinator	aquasafe	1
+dentifrice	aquafresh c	1
+designated unreserved fund balance	aquatic activities	2
+factor	aquabike if necessary	1
+factor	aquifer lithology	1
+factor	aquifer residence time	1
+factor	aquifer size	1
+factor	aquatic predator	1
+community	aquebogue cdp	1
+community	aquaforteand fermeuseonthe southern shore	1
+community	aqua dulce	1
+community	aquia harbour cdp	1
+community	aquinnah	1
+diaper cream	aquaphor	1
+dive manufacturer	aqualung	1
+environmentally relevant information	aquatic toxicity	1
+equally delightful color	aquamarine	1
+extractive or damaging activity	aquaculture	1
+fitness opportunity	aquafit program	1
+fossil aquifer	aquifer under saudi arabia	1
+fragile gemstone	aquamarine	1
+fragrant material	aquilaria	1
+free-choice learning environment	aquarium	1
+fresh new color	aqua	2
+gay pride event	aqua girl miami	1
+gentle attraction	aquarium	1
+geologic and hydrogeologic characteristic	aquifer structure	1
+good water conditioner	aquaplus	3
+good water conditioner	aqua safe	1
+groovy girl mermaid	aqualina mermaid	1
+hard clear stones	aquamarine	1
+high end bead	aquamarine	1
+high polar fluid	aqueous solutions of acid	1
+historic waterway structure	aqueduct	1
+hydrogeological feature	aquifer geometry	1
+in-country activity	aqis	1
+indoor animal exhibit	aquarium	1
+industrial and commercial field	aquatic food & meat product processing	2
+informal education center	aquarium	1
+informal education facility	aquarium	1
+injectable composition	aqueous suspension	1
+interior theme	aquatic	1
+IPPCA supporter	aquatic logic	1
+IPPCA supporter	aqua control	1
+Jewish Christians	aquila	1
+junior-senior level class	aquatic leadership	1
+key policy-program priority	aquaculture framework	1
+likewise protein	aquaporins	1
+linear site	aquarium	1
+low impact class	aqua classes	1
+low or no-impact activity	aqua jogging	1
+man-made ecosystem	aquarium	1
+manoeuvrable species	aquila eagle	2
+mild cream	aqueous cream	1
+modern clean color	aqua	1
+modern water management technology	aquaculture	1
+NASA satellite	aqua	2
+nice advanced feature	aquarium shooting mode	1
+non food product	aquaculture product	1
+non toxic product	aqua brand paints & texture	1
+non-functional item	aquatic glassel glass	1
+pagan organization	aquarian tabernacle church	1
+Pet fish	aquarium fish whether tropical fish	1
+popular costa del sol attraction	aqualand	1
+popular DC comic character	aqualad	2
+popular DC comic character	aqua man	1
+precious or semi-precious gemstone	aquamarine	1
+private water source	aquifer	1
+recreative facility	aquatic sport	1
+research reagent	aqua peptides	1
+second-banana character	aquaman	1
+sedimentation control	aquatic sedimentation control	1
+semiaquatic plant	aquatic and semiaquatic plant	1
+sentient race	aqir	1
+organization	aquarium	10
+organization	aqha	3
+shocking color	aqua	1
+simulated gem stones	aqua marine	1
+skin-tolerated vehicle	aqueous liquid	1
+sonar	aqs- twenty-two  airborne low frequency sonar 	1
+special product	aqueous cream	1
+spray feature	aqua dome	1
+strong accent color	aqua	1
+Sufficient alkaline material	aqueous nh.sub. three 	4
+Sufficient alkaline material	aqueous koh	3
+Sufficient alkaline material	aqueous nh.sub. four  oh 	1
+super attraction	aquatic visitor attraction the living coasts	1
+super heroe skin	aquaman	1
+superhero friend	aquaman	1
+third eye stones	aqua aura quartz	1
+top diamond watch brand	aqua master	1
+top presidential contender	aquino	1
+translucent stone	aquamarine	1
+type non-weight bearing activity	aqua aerobics	1
+unbelievable attraction	aquarium	1
+urethane	aquathane  six thousand  	1
+water exercise equipment	aqua bike	1
+water exercise equipment	aqua ellipse	1
+water exercise equipment	aqua recline	1
+water requirement	aquatic plant's individual water requirement	1
+water theme park	aquapark	1
+water-based treatment	aqua mix	1
+western theologian	aquinas	1
+3D art	aquascaping	1
+abundantly diverse and varied resource	aquatic fauna	1
+active trap	aquatic bladderworts	1
+advertised activity	aquatic	1
+aftershave	aqua velva	1
+agricultural point source	aquaculture farm	1
+agricultural processing activity	aquaculture	1
+air-breathing mammal	aquatic air-breathing mammal	1
+alga consumer	aquatic snail	1
+ammonia solution	aqueous ammonia	1
+ammonia solution	aqua ammonia	1
+ammonia-based fertilizer	aqua ammonia	2
+anaerobic habitat	aquatic sediment	1
+aquaculture condition	aquaculture related stressors	1
+aquarium service	aquarium maintenance	2
+aquatic ecosystem organism	aquatic bug	1
+aquatic recreation project	aquatic bicycle	1
+aqueduct	aqua anio novus	3
+aqueduct	aqua anio vetus	1
+Aqueous alkanols	aqueous propanol	1
+Aqueous alkanols	aqueous methanol	1
+Aqueous alkanols	aqueous ethanol	1
+artificial gemstone	aquamarine	1
+artistic toy	aquadoodle	1
+basic habitat feature	aquatic plant	2
+beautiful accent gemstone	aquamarine	1
+beryl	aquamarine	2
+best and latest bubble game	aquabble avalanche	1
+best and smallest family game	aqua bubble	1
+best breakout game	aquaball	1
+best bubble game	aqua bubble	1
+best mystery game	aqua slider	1
+blue ring civic destination	aquarium	1
+bright and beautiful shade	aqua	1
+bright, uplifting color	aqua	2
+bright, vibrant hue	aqua blue	1
+brute draw card	aqua hulcus	1
+cartoon network animated series shoe	aqua teen hunger force	1
+china's labor-intensive product	aquatic product	1
+chromium metal compound	aqueous chromate ion	2
+class A amenity	aqua park	1
+code profiler	aq time	1
+collected specimen	aquatic insect	1
+colorful flowering plant	aquilegias	1
+common birthstone gem	aquamarine	1
+common implant	aqueous shunt	1
+common public building	aqueduct	1
+comparatively new serial publication	aquatic toxicology	1
+contributory or causal factor	aqueous deficiency	1
+cooling aftershaves	aqua velva	1
+copper-based compound	aquatic algicides copper-based compound	1
+daily fitness class	aqua fitness	1
+dallas interesting sight	aquarium	1
+Decaying organic material	aquatic plant	3
+Desi DJs	aqueel	1
+destination attraction	aquarium	1
+diversification effort	aquaculture	1
+economically important activity	aquaculture	1
+educational and cultural venue	aquarium	1
+elite stones	aquamarine	1
+enlightenment christian writer	aquinas	1
+organization	aquila	1
+organization	aquatic conservation unlimited	1
+organization	aquarian tabernacle church	1
+organization	aquarium association	1
+organization	aquaculture science	1
+organization	aqp	1
+organization	aqua foundation for women	1
+organization	aqis	1
+organization	aqalliat vikas front	1
+established economic sector	aquaculture	1
+established regent street name	aquascutum	1
+euro-pop influence	aqualung	3
+extensive building project	aqueduct	1
+extractive yield system	aquaculture	2
+extremist element	aqap	1
+family tourist attraction	aquarium	1
+fixed sign	aquarius	1
+fluoride toothpaste	aquafresh complete care	1
+fort worth's best club	aqua lounge	1
+freely available organic material	aquatic plant	1
+gem quality stones	aquamarine	1
+gigantic public work	aqueduct	1
+girls room color	aquatic blue	1
+global marine biology issue	aquaculture	1
+good Blue tube	aquascience blue	1
+greasy moisturizer	aquaphor	1
+great fun daytime activity	aqua aerobics	1
+great public-works	aqueduct	1
+ground sulfur product	aqua ammonia	1
+heritage british brand	aquascutum	1
+high-quality printing material	aqua transfer film	1
+IEPA impairment index	aquatic life use	2
+indoor field trip	aquarium	1
+infrastructure component project	aquaculture complex	1
+inorganic solution	aqueous solution of wbr	1
+interesting construction	aqueduct	1
+islamic subject course	aqeedah	1
+lake concern	aquatic invasive species	1
+local hydrogeological condition	aquifer boundary	2
+lookalike	aquatic ruin zone	1
+loud color combination	aqua blue	1
+lunch bag	aqua clear lunch bag	1
+luxury candle	aquiesse candle	1
+lyrical name	aquamarine	1
+marine system activity	aquaculture	1
+medium hand	aq	1
+moisturizer lotion	aquafor	1
+museum & attraction	aquarium of the bay	1
+natural resource application	aquatic habitat	1
+natural shoreline feature	aquatic vegetation	2
+non-performing business	aquaculture	1
+nonprofit, non-academic organization	aquarium	1
+northland's key industry	aquaculture	1
+ocean related economic activity	aquaculture	2
+old-fashioned cottage garden flower	aquilegia	1
+olympic project	aquatic center	1
+ophthalmic vehicle	aqueous gel	6
+opportunistic native plant	aquatica	1
+pale gem	aquamarine	1
+pembroke's important natural resource	aquifer	1
+pepsi product	aquafina	1
+petroleum based ointment	aquaphor	1
+pond scavenger	aquatic snail	1
+popular bubble game	aqua pearls	1
+organization	aquatic exercise association	1
+organization	aquaculture stewardship council & globalgap	1
+organization	aquaculture without frontiers	1
+organization	aquaculture facility	1
+organization	aquaculture certification council	1
+organization	aqaba special economic zone authority	1
+technique	aquatint	10
+precious and real stones	aquamarine	1
+precious and semi-precious rough gemstone	aquamarine	1
+pre-enlightenment christian writer	aquinas	1
+prime city attraction	aqua fantasy land	1
+protein channel	aquaporins	1
+quality sealer	aqua mix sealers choice gold	1
+reactive nucleophiles	aqueous hydroxide	1
+recreational water facility	aqua spray	1
+regional affiliate	aqap in yemen	1
+research framework	aquaint program	1
+rich tropical tone	aqua	1
+san francisco excellent restaurant	aqua	1
+show mostly adult comedy cartoon	aqua teen hunger force	1
+single-purpose site	aquatic center	3
+softly pastel-tinted summer tone	aquamarine	1
+solid, liquid or gaseous waste	aqueous waste	1
+solubilizing group	aqueous solubilizing group	1
+soluble humic substance	aquatic animal	1
+soothing feature	aquarium	1
+stimulating exercise	aqua aerobics	1
+stream organism	aquatic insect	1
+stream-bottom organism	aquatic snail	1
+stream-bottom organism	aquatic worm	1
+submerged substrate	aquatic macrophytes	1
+sub-plots	aquisition of a book of vampire history	1
+tank system	aquarium	1
+terrestrial invasive plant	aquatic and terrestrial invasive plant	1
+themed area	aquitaine	1
+thick cream	aquaphor	1
+tone selection	aqua green blue	1
+traditional islamic practice	aqeeqah for newborns	1
+traditional marine resource	aquaculture	1
+traditional resource-based activity	aquaculture	3
+Traditional techniques	aquatint	1
+transparent gem	aquamarine	1
+tyre performance characteristic	aquaplaning critical speed	1
+urban ecosystem service	aquifer recharge	1
+venezuelan musician	aquiles baez	1
+vibrant solid color	aqua	1
+vintage ad	aqua velva	1
+virtual reality attraction	aqua nova	1
+water park equipment	aqualoop slide	1
+water quality application	aquaculture	6
+water sign	aquarius	2
+abrasive slurry	aqueous slurry of silica particle	4
+acceptable answer	aquiclude	1
+acceptable answer	aquitard	1
+advanced quality technique	aqp	1
+AF system	aquaculture in mangrove area	1
+air sign	aquarius	14
+alcohol solution	aqueous or alcohol solution	1
+alkali metal hydroxide solution	aqueous solution of sodium hydroxide	1
+aloe vera related offer	aquarium tank	1
+al-qaeda franchise	aqim	1
+alternate fitness activity	aquatic	1
+ambiguous label	aqueous waste	1
+animal related science	aqua-culture	2
+annual minneapolis event	aquatennial	1
+anoxic system	aquatic sediment	2
+application sphere	aquiculture	1
+aqua blue add-ons	aqua pendant	1
+aqua blue add-ons	aqua green necklace	1
+aquatherapy product	aqua runners	1
+aquatherapy product	aquatic treadmill	1
+aquatic recovery activity	aqua aerobics	1
+aquatic use	aquatic habitat	1
+aqueous alkanol	aqueous methanol	1
+Assembling choice stones	aquamarine	1
+automatic pool cleaner brand	aquabot	1
+bands	aqua	1
+technique	aquarelle	2
+technique	aqua regia	1
+technique	aquifer test	1
+beautiful gemstone bead	aquamarine beads between the pearl	1
+benthic aquatic organism	aquatic insect	1
+best and smallest mystery game	aqua slider	1
+binational issue	aquatic weed	1
+biodegradable scintillation cocktail	aqua-sol	1
+birthstone gemstone	aquamarine commanding prices in line with ruby	1
+black, white and pastel	aqua	1
+bland cream	aqueous cream	1
+blick communication product	aquarius paging systems	1
+blue colored stone	aquamarine	1
+Blue jewelry stones	aquamarine	1
+Blue-greens	aqua	2
+Bold lustrous stones	aquamarine	1
+bright and fresh-looking color	aqua	1
+bright continental color	aquamarine	1
+british stalwart brand	aquascutum	1
+business unit tool	aqt	1
+calcium solution	aqueous calcium hydroxide	1
+calcium solution	aqueous calcium chloride	1
+ceramic fabrication method	aqueous-based tape casting	1
+checkoff-funded program	aquaculture demonstration	1
+city's popular hotspot	aqaba castel	1
+classic british label	aquascutum	1
+classical theist	aquinas	1
+colorful brazilian gemstone	aquamarine	1
+commercially available coupling agent	aqueous thixotropic gel	2
+company's core wildlife theme	aquatic	1
+conclusion informal education institution	aquarium	1
+conjuring influence	aqualung	2
+consequently theologian	aquinas	1
+conventional water management option	aquifer recharge	2
+cover coating	aqueous coating	1
+cylindrical tube	aquaflow collagen glaucoma drainage device	2
+cyprus hotel chain	aquasol hotel	1
+D. accessory	aquarium gravel	1
+D. special permit	aquatic resources	2
+D-1 only ordinary domestic animal	aquarium fish	1
+dangerous spell	aqua breath	1
+dave's aquarium accessory	aquarium glue	1
+dave's aquarium accessory	aquarium sump	1
+dave's aquarium accessory	aquarium lid	1
+DC superhero	aquaman	1
+de-chlorinator	aqua safe	1
+delicate and refined tone	aqua	1
+designated breed registry incentive fund	aqha incentive fund	1
+dilapidated canal related structure	aqueduct	1
+distinctively coastal enterprise	aquaculture	1
+DLWC officer	aquatic planner	1
+downtown facility	aquatic center	1
+dr. hielscher gmbh special application	aqueous cleaning of wire	1
+earth-observing satellite	aqua satellite	2
+economic operation	aquaculture	1
+economical semi-precious gemstone	aquamarine	1
+educational outing	aquarium	1
+elastomeric device	aquarelle	1
+elevation parameter	aquifer boundary	1
+enclosed ecosystem	aquarium	1
+enterprise facility	aquatic center	1
+exhibitors facility	aquarium	1
+exotic gem	aquamarine	1
+expansion set	aquilla's alliance	1
+expensive designer label	aquascutum	1
+extensive user industry	aquaculture	1
+eye-appealing color	aqua	1
+family's activity	aquaculture	1
+fascilities	aquapark	1
+featuring elite label	aqua di lara	1
+federal species	aquatic species	1
+fitness water	aquafina alive wellness water	1
+floating vascular plant	aquatic macrophyte	1
+flow process	aqueous-phase diffusion of dissolved species	1
+fluid-based vehicle	aqueous solution	1
+freestyle class	aqua dance	1
+freshwater aquarium supply	aquatic plant care	1
+fundamental etching technique	aquatint	1
+fundamental karst process	aquifer evolution	1
+technique	aquatic therapy	1
+technique	aqm	1
+technique	aquatic planting	1
+technique	aqueous treatment	1
+furbearer species	aquatic furbearer species	1
+geographically specific area	aquatic a one  subwatersheds 	1
+geographically specific area	aquatic a two  subwatersheds 	1
+global environmental agency	aquacultural certification council	1
+good moisturising cream	aqueous cream	1
+good water filter	aqua pure water filter	1
+great cell phone game	aquarium pets	1
+great christian thinker	aquinas	1
+great Qajars	aqa khan	1
+great scholastic thinker	aquinas	2
+green or brown container	aquarium	1
+hands-on technical or professional job	aquaculture technician	1
+high-end filter	aquaclear brand	1
+higher-performing sector	aquaculture	1
+horse registry	aqha	1
+human-use feature	aquaculture site	1
+hybrid board	aqua board	1
+hydrogeologic unit	aquifer	1
+hydrologic, geological and hydrogeological unit	aquifer	1
+injectable formulation	aqueous solution	1
+innovative farming technique	aquaculture in action	1
+inorganic salt solution	aqueous solutions of potassium iodide	1
+intaglio process	aquatint	1
+interactive engaging activity	aquariums with various fish	1
+intermediary animal	aquatic worm	1
+jewel-cut stones	aquamarine	1
+j-rock	aqua timez	1
+Justice League heroes	aquaman	1
+kid friendly attraction	aquarium	1
+lake enhancement program	aquatic plant	1
+lake enhancement program	aquatic plant management	1
+land-intensive system	aquaculture	1
+large local attraction	aquatica	1
+latest kid brand	aqua kids	1
+Leading international OEM	aqua engineering	1
+legendary philosopher	aquinas	1
+lens care product	aquify long-lasting comfort drop	1
+lens care product	aquify multi-purpose solution	1
+liquid fertilizer solution	aqua ammonia	1
+local antenatal class	aqua aerobics	1
+london's top nightclub	aquarium	1
+long list mainstream attraction	aquarium	1
+long tunnel	aqueduct	1
+loss crop	aquaculture	2
+low vegetated area	aquatic vegetation	1
+low-cost farming technology	aquaculture	1
+lydian structure	aqueduct	1
+made-up name	aquanetta	1
+magnificent architecture	aqueduct of segovia	1
+main-stay area	aquatic biology	1
+manufactrurers	aqua glass	1
+marine biological resource	aquatic vegetation	1
+masculine sign	aquarius	1
+massive blue water related infrastructure	aqueduct	1
+massive concrete project	aqueduct	1
+medieval christian theologian	aquinas	1
+membrane transport protein	aquaporins	1
+mighty ship	aquitania	1
+mild, soap-free, fragrance-free soap substitute	aquaphor gentle wash for baby	1
+military quarter	aquin	1
+mini aquarium related offer	aquarium fish	1
+modern machining method	aqua jet machining	1
+moisture cream	aquaphor	1
+motor trike accessory	aqua shields	2
+multi-purpose solution	aquify multi-purpose solution	1
+municipal amenity	aquatic center	1
+native maine gemstone	aquamarine	1
+nature aquarium equipment	aquarium tank	1
+needle wheel protein skimmer	aqua medic turboflotor	6
+non-traditional operation	aquaculture	1
+application	aquarium	3
+application	aqueous gel cosmetic	2
+application	aquarium chilling	2
+application	aquatic hs application	1
+application	aqueous food emulsion	1
+application	aquaculture farming	1
+application	aquarium life	1
+application	aquatic habitat mapping	1
+application	aquatic ecosystem study	1
+application	aquaplaning testing	1
+nuisance plant species	aquatic nuisance plant species	1
+nutrient rich soil	aquasoil from ada	1
+obscure super heroes	aquaman	1
+ocean awareness activity	aquarium visit	1
+official field trip destination	aquarium	1
+off-shore use	aquaculture	1
+oil-based cream	aqueous cream	1
+oriental color	aqua	1
+ounce bottle	aquafina	3
+Over-the-counter antiseptic eardrops	aqua ear	4
+oxygen consumer	aquatic insect	1
+painted bright color	aqua	1
+partial valuable bead	aquamarine	1
+partially importan bead	aquamarine	1
+plating solution	aqueous acidic plating solution	1
+polycarboxylic acid antiscale dispersants	aqueous dispersants	1
+popular children's attraction	aquarium of western australia	1
+popular cover coating	aqueous	1
+powerful and recognizable character	aquaman	1
+precipitating agent	aqueous solutions of potassium ferrocyanide	1
+premium grade methanol derivative	aqueous urea formaldehyde	1
+premium grade methanol derivative	aqueous & urea formaldehyde	1
+protective liquid finish	aqueous coating	1
+protein skimmer	aqua c remora	4
+purely fluid vehicle	aqueous solution	2
+quant hedge fund	aqr	1
+quantitative hedge fund	aqr	1
+rectangular or square container	aquarium	1
+Red Canyon species	aquilegia scopulorum	1
+relaxing spa facility	aqua-spa on celebrity ship	1
+remarkable shopping building	aqua city	1
+RenderMan compliant renderer	aqsis	1
+renowned new orleans attraction	aquarium of americas	1
+restaurant feature	aquatic scene	1
+restaurant feature	aquarium	1
+riparian-dependent species	aquatic and riparian-dependent species	1
+robotic unit	aquabot turbo t-jet	1
+rocaille motif	aquatic plant	1
+scarce and protected bird	aquatic warbler	1
+scholastic thinker	aquinas	1
+second step	aqueous hf etch	4
+self-sustaining element	aquatic plant	1
+semi-aquatic plant	aquatic and semi-aquatic plant	1
+senior-trained person	aquatics director	1
+site-specific hydrogeologic characteristic	aquifer transmissivity	1
+small-body animal	aquatic invertebrate	1
+so-called amateur blogs	aquarium drunkard	1
+Sparkling precious stones	aquamarine	1
+specialist emollient	aquaphor	1
+specialty modalities	aquatic	1
+stocking big name	aqua di lara	1
+strange and surreal location	aquarium	1
+stream inhabitant	aquatic insect	1
+stream's use	aquatic life	1
+stupid program	aqua teen hunger force with inuyasha	1
+style liner	aquitania	1
+subjunction color	aqua	1
+Suitable alkalis	aqueous ammonia	1
+suitable neutralizing agent	aqueous sodium hydroxide	2
+suitable pharmaceutical form	aqueous suspension	1
+application	aqf	1
+application	aquaculture aeration	1
+application	aqueous degreasing	1
+application	aqueous emulsion paint	1
+application	aquatic center	1
+application	aquatic hyperspectral application	1
+third-party profilers	aqtime	1
+time independent datum	aquifer permeability	1
+toothpaste company	aquafresh	1
+traditional one-time-use water bottle	aquafina	1
+truncation-specific reagent	aqua peptides	1
+turquoise accessory	aqua diamond necklace	1
+turtle green	aquatic plant	1
+U.S. utility	aqua america inc.	1
+underwater man-made structure	aquaculture equipment	1
+underwater viewing system	aqua-vu dt	1
+unflavored spirit	aquavit	1
+unisex pop group	aqua	1
+upbeat activity	aquatherapy at local swimming pool	1
+user interface enhancement	aqua style examples available in the web menu	1
+vanilla raid	aq fourty 	1
+venezuelan angler	aquiles garcia	1
+Venue s	aquarium s	1
+vibrant block color	aqua	1
+visitor-populated area	aquarium	1
+vital ecological benefi ts	aquifer recharge zone	1
+voltage SPST controller	aquastat	1
+vulnerability index	aquifer vulnerability index	1
+wall-mounted unit	aqium  one l 	1
+war thinker	aquinas	1
+WARNING Never place item	aquarium	2
+water name	aquafina	1
+water quality feature	aquatic bench	1
+waterbased ink	aqua color	1
+water-based moisturiser	aqueous cream	1
+water-intensive productive sector	aquaculture	1
+western electric plastic pastel color	aqua	3
+wild exotic pet	aquarium fish	1
+wine alternative	aqua libra	1
+year multiple large-scale attraction facility	aquarium	1
+yoga hybrid	aqua yoga	4
+adult swim cartoon	aqua teen hunger force	2
+advanced primary firefighting agent	aqueous film forming foam	1
+aerial zodiac sign	aquarius	1
+Agarwood species	aquilaria agallocha	1
+Agarwood species	aquilaria cassiana	1
+agrifood sector	aquaculture	1
+air quality information	aqi forecast	1
+airy zodiac sign	aquarius	1
+alcoholic fuel	aqueous methanol	1
+algarve shopping center theme park	aquashow	1
+amenity interest	aquatic plant	1
+animal area	aquatic & reptile center	1
+anisms	aquatic lichen hydothyria venosa	1
+anti-chafing and blister product	aquaphor	1
+aqua blue shade	aqua source	1
+aqua fiber cable	aqua trunks with mtp elite connectors for om three 	1
+aqua fiber cable	aqua fanouts	1
+aquaculture career	aquaculture farming	1
+aquatic consumer group	aquatic invertebrate	1
+aquatic producer	aquatic plant	1
+aquatic topic	aquaculture	1
+aqueous acetic acid salt solution	aqueous ammonium acetate	1
+aqueous ammonia solution	aqueous ammonium carbonate	1
+aqueous coating system	aqueous dispersions of cellulosic enteric polymer	1
+arched structure	aqueduct	1
+area publication	aquarian calendar	1
+authorized training organization	aquent graphics institute	1
+autochthonous material	aquatic macrophytes	1
+award-winning new product	aquapod drip watering system	1
+awesome impossible-to-hate melody	aquarium park	1
+bar less cage	aquarium	1
+barless cage	aquarium	1
+base cream	aqueous cream	1
+bay program activity	aquatic reef restoration	1
+bay-related modern industry	aquaculture	1
+beneficial class	aqua balance type class	1
+beryl-based mineral	aquamarine	1
+best and smallest quick game	aqua pop	1
+big sport complex	aqua cetosa in rome	1
+big-name bottled-water brand	aquafina	1
+bioregenerative technology	aquatic waste processing system	1
+bizarre description	aqua capital werewolf	1
+Bland moisturisers	aqueous cream	2
+bond decorative item	aquarium tree	1
+bottled flavored water	aquafina made by pepsico	1
+bottled spring water	aquafina	2
+boutique vendor	aquarius records in san francisco	1
+brand bottle water	aquafina	2
+bright ravishing color	aqua blue	1
+brightish shade	aqua	1
+brilliant jewel color	aqua	1
+broad family	aquans	1
+brute species	aquatic animal	2
+buoyancy device	aquatic jogger	1
+name	aqua fortis	2
+name	aquascutum	2
+name	aquarius blue	2
+name	aquila	1
+name	aquilius gallus	1
+name	aquilotti meaning young eagles	1
+captive wildlife facility	aquarium	1
+catchy classic	aquatic ruins zone	1
+cement board	aqua panel	1
+center project	aquarium	1
+century certain stones	aquamarine	10
+charming historic town	aquileia	1
+citing theologian	aquinas	1
+class II medical device	aqua detox	1
+classical religious writer	aquinas	1
+coastal-dependent industry	aquaculture	2
+columbine	aquilegia caerulea	2
+columbine	aquilegia longissima	1
+comestible liquid	aqueous extracts of coffee	1
+commercial forest product	aquiraria crasna	1
+commercial production system	aquaculture	1
+complex industrial medium	aqueous paint	1
+complicated construction work	aqueduct	1
+councilwide facility	aquatic base	1
+cruising-orientated boat	aquila	1
+CTI sealer	aquathane  six thousand  	1
+curriculum related trip	aquarium	1
+cut back early flowering perennial	aquilegia	2
+DA bureau	aquatic resources	1
+dc's character	aquaman	1
+dedicated exercise facility	aquatic center	1
+deep moisturizing ointment	aquaphor	1
+deep recharge system	aquifer-storage-and-recovery well	1
+defensive and offensive factor	aquaporin  four 	1
+dependency factor	aquifer transmissivity	1
+deterioration also concern poten-tial resource	aquaculture	1
+diflferences	aquuine noses of the jews	1
+disparate resource category	aquatic resource	1
+district's new facility	aquatic center	1
+downstream use	aquatic life	1
+dual lamp CF light fixture	aqualight double	2
+E. moisturizer	aquaphor ointment	1
+ecology-focused degree	aquatic biology	1
+edible craft	aquarium in a cup	1
+egg move	aqua jet	1
+emerging issues	aquatic invasive species	1
+equilibrium physical factor	aqueous solubility	1
+exceptional engineering structure	aquitaine suspension bridge in bordeaux	1
+extractive or damaging use	aquaculture	1
+faith-based fund	aquinas funds	1
+family-focused attraction	aquarium	1
+family-oriented venue	aquatic center	1
+name	aquarian valley	1
+name	aquanautic bara cuda	1
+name	aqua jammies	1
+name	aquatalia by marvin k	1
+name	aqueous liver	1
+name	aquino	1
+featuring NFL talent	aqib talib	1
+fee-supported program	aquatic	1
+field investigation activity	aquifer test	1
+filter absolute-age	aqua stains	1
+first time north alabama organization	aqua dome	1
+fish game	aqua & robotic fishy	1
+fish meal related offer	aquarium fish	1
+fishery sector	aquaculture	1
+foundational figure	aquinas	1
+fragrance free moisturizer	aquaphor	1
+free, good, RenderMan-compliant renderers	aqsis	1
+freedom-loving sign	aquarius	1
+free-flow sponge	aquaclear filter sponge	1
+fun outdoor attraction	aquarium	1
+fusion color	aqua	1
+gemstone product	aquamarinemamethyst	2
+glass enclosure	aquarium	1
+Glaucoma surgery	aqueous tube shunt surgery	1
+good quality resonant head	aquarian regulator	1
+good sealant	aquatic grade silicon	1
+greek version	aquila version	1
+gsk's core product	aquafresh fresh & minty	1
+hardy broad bean variety	aquadulce claudia	1
+harmful entity	aquatic animal	1
+healing spring	aqua sulis	1
+heavy sand	aquarium sand	1
+hero form	aquatic hero	1
+high quality lotion	aquaphor	1
+high quality PVS impression material	aquasil ultra from dentsply caulk	1
+high quality shower product	aqualisa shower	1
+high quality water purification tablet	aquamira military water purification tablet	1
+highest quality diamond watch	aqua master	1
+honey-based preparation	aqua mulsa	1
+hotel complex	aquablu resort in hurghada	1
+human eye tissue	aqueous humor	1
+hydrated form	aqueous solution	1
+hydrogeologic information	aquifer composition	1
+hydrogeologic uncertainty	aquifer geometry	1
+hydrologic area	aqueous chemistry	1
+hydrophilic filler	aquamid	1
+imines	aqueous condition stable imines	1
+immobile activity	aquaculture	1
+indy game	aquaria	1
+inertia suspended object	aquatic animal	2
+inexpensive suction side automatic cleaner	aqua bug	1
+inexpensive, high-capacity storage	aquifer	1
+initial separation method	aqueous two-phase separation	1
+injectible preparation	aqueous	1
+innovative british company	aquamarine power	1
+innovative green technology	aquaculture	1
+inpre-existing formation	aquifer	1
+intensive farming enterprise	aquaculture	1
+interesting ripley's attraction	aquarium	1
+intermediate-scale measurement	aquifer tests in zones isolated by straddle-packers	1
+international accreditation program	aquaculture certification council	1
+intricate and elaborate roman structure	aqueduct arch	1
+isolation throughconventional technique	aqueous extraction	1
+IU northwest document	aqip quality statement	1
+jamaica's best beach	aquaso theme park	1
+jersey publication	aquarian	1
+land-based impact	aquaculture effluent	1
+large club project	aquarium	1
+large specialised international supplier	aquaculture division of intervet international	1
+large-patch type	aquatic macrohabitats in river	2
+leading medieval scholar	aquinas	1
+leisure industry facility	aquarium	1
+lens protein	aquaporins	1
+factor	aqueous condition	1
+factor	aquifer boundary	1
+factor	aquifer geology	1
+factor	aquifer physical characteristic	1
+name	aqib talib	1
+case	aquifer testing requirement	2
+case	aqim	2
+case	aquitaine	1
+case	aquifers contaminated with gasoline from a leaking underground fuel tank	1
+case	aquifer recharge	1
+case	aqueous cu-formate composition	1
+case	aquatic plant	1
+likeother great medieval christian thinker	aquinas	1
+liquid or gaseous reducing agent	aqueous urea solution	1
+llalso need scavenger	aquatic snail	1
+local PC maker	aquarius in russia	1
+long beach tourist attraction	aquarium of the pacific	1
+longtime horseman	aqha professional horseman murray griggs	1
+low earth-orbiting satellite	aqua	2
+low impact exercise class	aquatics designed for pregnant woman	1
+low-impact, mild-to-moderate activity	aquatic exercise	1
+luxury sport motorbike	aquila st seven 	1
+luxury sport motorbike	aquila gv six hundred and fifty 	1
+macroscopically uniform composition	aqueous solution	1
+magaluf attraction	aqua land	1
+mainstream production related department	aquaculture	1
+manatee habitat datum	aquatic vegetation	1
+man-made water feature	aquarium	1
+massive activity	aquatic carnival of the city of san carlos	1
+MCGM IT system	aqua	1
+medieval church father	aquinas	1
+methanogenic ecosystem	aquatic sediment	1
+mineral treatment	aqua's cop out	1
+minoan crete various fundamental technology	aqueduct	1
+modelling subsurface system	aquifer	1
+moderate realist	aquinas	1
+moisturiing lotion	aquaphor	1
+multisport discipline	aquabike	1
+muted fl oral color	aqua	1
+naia-led project	aquatic invasive species initiative	2
+Natural features	aquatic grass	1
+natural ocean color	aqua blue	1
+newfoundland community	aquaforte	1
+non absorbent product	aquarium pebble	1
+non-chromatographic purification method	aqueous two-phase partitioning	1
+noncoalescing liquid	aqueous solutions of salt	1
+non-perfumed skin cream	aqueous cream bp	3
+non-perfumed skin cream	aqueous cream	1
+non-renewable water source	aquifer	1
+non-toxic solvent	aqueous sulfuric acid	2
+nontraumatic exercise	aquatic exercise	1
+novel medium engineering method	aqueous two-phase system	1
+nucleus pulposus replacement device	aquarelle	1
+occasional contributor	aquin	1
+oceanic color	aqua	1
+ochthonous material	aquatic macrophytes	1
+ophthalmologically acceptable vehicle	aqueous vehicle	1
+opportunistic border filler	aquilegias	1
+opthalmologically acceptable vehicle	aqueous vehicle	1
+organic P species	aqueous phosphate	1
+organic solvent system	aqueous or organic solvent system	1
+overarching framework	aqtf in australia	2
+overarching framework	aqf	2
+palma nova attraction	aqua land	1
+pastel gemstone s	aquamarine	1
+pastel paint color	aquarius blue	1
+petrolatum product	aquaphor	1
+photosynthetic primary producer	aquatic plant	1
+physiotherapy option	aqua jogging	1
+plastic enclosure	aquarium	1
+polyurethaneurea composition	aqueous dispersion	1
+pond skimmer	aquascape	1
+pool alarm	aquaguard pool alarm	1
+popular aquarium	aqueon aquarium	1
+popular aquascape centric forum	aquascaping world	1
+popular herbaceous plant	aquilegia	1
+case	aqsiq sector	1
+case	aquarium	1
+case	aquaculture development	1
+post print product	aqueous coating	1
+postbiblical theologian	aquinas	1
+post-rehabilitation or specialized group program	aquatics for osteoarthritis	1
+pre-made container	aquarium	1
+present-day adhesive	aqueous acrylic	1
+pretty blue	aqua	1
+priority control device	aquastat	1
+progressive therapy	aquapheresis	1
+protection category	aquatic life natural reserve	1
+public exhibit	aquarium	1
+purchase aquarium drop	aquasafe	1
+quality-of-life amenity	aquatic	1
+radical intellectual	aqa khan kermani	1
+real granular porous medium	aquifer solid matrix	1
+receptor fluid	aqueous buffer	1
+recruiting agent	aquent	1
+regular stationery	aqueous marker	1
+regular stationery	aqueous pen	1
+renderman compatible renderers	aqsis	1
+retail shop stock brand	aqua sphere	1
+ripley's attraction	aquarium	1
+roman achievement	aqueduct	1
+roman aqueduct	aqueduct of segovia	1
+roman aqueduct	aqua claudia	1
+roman public work	aqueduct	1
+roman technical innovation	aqueduct	1
+romantic, atmospheric color	aqua	1
+rotary's own box scheme	aquabox	1
+router-based mechanism	aqm	1
+Russian stones	aquamarine	1
+scholastic author	aquinas	1
+self-healing attack	aqua ring	1
+seve ral gem mineral	aquamarine	1
+shade loving marginal plant	aquatic forget-me-not	1
+simple self watering system	aquapod watering system	1
+single regional jihadist association	aqim	1
+single regional jihadist association	aqap	1
+site assessment datum	aquifer property	1
+site-specific hydrogeologic factor	aquifer transm issivity	1
+skipissatan player	aquilani	1
+soap alternative	aqueous cream	1
+solid core IC	aq king cobras	1
+soluble energy source	aqueous plant extract	1
+sometimes specific field	aquaculture	1
+south end spot	aquitaine	1
+soviet rock group	aquarium	1
+specialty feed	aquarium feed	1
+sport skill-specific course	aquatics course	1
+strong skin care product	aquaphor	2
+style activity theme park	aqualandia	1
+sub-continents	aqua road	1
+sub-prime card	aqua	1
+suitable developer	aqueous developer	1
+sulfide solution	aqueous ammonium sulfide	2
+summer pop color	aqua	1
+super-flirty shade	aqua paradise	1
+case	aqueous copper formate composition	1
+case	aqueous waste stream	1
+option	aquarium	3
+option	aquamarine	2
+option	aquifer recharging	2
+option	aqualung passport	1
+option	aqua pure water filter	1
+option	aquatic fitness	1
+option	aquatic residency	1
+option	aquaguard cabinet	1
+surprise farm park amenity	aquatic center	1
+surprising thatother detergent	aqueous detergent	1
+sustainable development alternative	aquaculture	1
+sustained alternative livelihood	aqua tourism	1
+swimming pool resort	aqua cainta	1
+swimming service	aqua aerobics on a monday evening	1
+swimming service	aquanatal on a wednesday for pregnant lady	1
+technical construction	aqueduct	1
+terrestrial compartment	aquatic	1
+terrestrial energy crop	aquaculture of microalgae	1
+thermophiles	aquifex	1
+tile board	aqua panel	1
+top military commander	aql hamiyyah	1
+top notch CB	aqib talib	1
+traditional ophthalmic formulation	aqueous solution	1
+transmission coated bead	aquamarine	1
+transparent variety	aquamarine	2
+transport related gene	aquaporin	1
+underwater cover	aquatic vegetation	1
+united state facility	aquaculture operation	1
+useftd municipal work	aqueduct	1
+utility spin-offs	aquila energy	1
+vaexjoe attraction	aquamera water park	1
+veterinary rehabilitation therapy treatment	aquatic therapy	1
+vibrant, cheerful color	aquamarine	1
+vivid, cheerful color	aquamarine	1
+water based size	aqua size	1
+water class	aqua arthritis	1
+water class	aqua aerobics	1
+water cooling kit	aquariusii liquid cooling system	1
+water element decorative item	aquarium	1
+water stones	aquamarine	1
+water workout	aqua aerobics	1
+water-based component	aqueous dispersions of high polymer processing aid	1
+water-based component	aqueous dispersions of high mw polymer processing aid	1
+water-based group class	aqua aerobics	2
+water-dwelling creature	aquatic elf	1
+water-soluble lube	aqua lube	1
+weak sample	aquarium water	1
+weather resistant case	aquapac handheld case	1
+weed removalequipment	aquatic weed eradicator	1
+western electric pastel color	aqua	1
+yavnean master	aqiba	1
+young sector	aquaculture	1
+zodiac constellation	aquarius	1
+22mm lug width watch	aquagraph deep diver series	1
+43conservation method	aquifer recovery	1
+absorbent towel	aquis hair towel	1
+abundant membrane protein	aquaporin	1
+Acidic pre-parations	aqueous solutions of acetic acid	1
+active server	aqua unicorn & wet seal	1
+adhesive dispersion	aqueous dispersion	1
+adult aquatic class	aqua tone	1
+adventurous, amusement park	aqualand	1
+adventurous, exciting ride	aquanaut voyage	1
+aeration agent	aqueous solutions of protein	1
+aerosol type spray	aqua net for the best result	1
+aged hydrophobic windshield treatment	aquapel	1
+agencies interest	aqis	1
+ALID many document	aqis import permit	1
+ALID V ALID many document	aqis import permit	1
+alkaline conditioner	aqueous alkaline surfactants	2
+al-qaida affiliate	aqim	1
+amazing club	aquarium	1
+ambient DVDs	aquarium dvd	1
+amine-based chemical solvent	aqueous mea	2
+ammonium ion source	aqueous ammonia	1
+apologetic theologian	aquinas	1
+AQ affiliate	aqim	1
+aqua accessory	aqua green bracelet	1
+aqua blue component	aqua diamond necklace	1
+Aqua Fitness clases	aqua zumba	1
+aqua green component	aqua green diamond necklace	1
+aquabot product	aquabot turbo	1
+aquarium forum	aquatic passion	2
+aquatic or marine building	aquarium	1
+aquatic tool	aquarium fish net	1
+aqueous alkali solution	aqueous sodium hydroxide solution	1
+aqueous alkaline reagent	aqueous sodium hydroxide	1
+aqueous halide ion solution	aqueous sodium chloride solution	1
+aqueous immiscible-fluid-discrete-volume-forming fluid	aqueous sample	3
+aqueous micellar solution	aqueous micellar surfactant solution	2
+aqueous mixture	aqueous acetone	1
+aqueous starch slurry	aqueous rice slurry	1
+aquifer test analysis program	aquifer win thirty-two 	1
+architectural and engineering feat	aqueduct	1
+army's earlier effort	aquila rpv	1
+aswell abundant attraction	aquarium	1
+atomising head	aqua chrome by dart valley systems	1
+automated inflation system	aqua lung's i three 	1
+option	aquatic plant	1
+option	aquatic plant pool	1
+option	aquatic reserve	1
+option	aquifer	1
+option	aquastat	1
+bailly-romainvilliers attraction	aquarium sea life val d'europe	1
+banner project	aquarium	1
+beautiful blue hue	aqua	1
+beautiful new community	aqua dulce in tegucigalpa	1
+Beryl stones	aquamarine	1
+best cape charles restaurant	aqua	1
+biodiffusion organism	aquatic annelid	1
+biological channel	aquaporins	1
+bioreserve program	aquatic management area	1
+bizarre show	aquatic show	1
+black and color	aqua	1
+blanket s	aqueous solution blanket	1
+blast mitigating material	aqueous foam	1
+board website	aqa	1
+bonding additive	aqueous epoxy emulsion	2
+bosch tool	aquatak high pressure equipment	1
+breathable hypoallergenic face lotion	aquaphor	1
+british exam board	aqa	1
+building musician club	aqt	1
+capsule filter	aquaprep  six hundred  capsules 	1
+captive habitat	aquarium	1
+catalytic chemical conversion	aquous phase reforming	1
+channel-containing protein	aquaporin	1
+channel-levee system	aqua	1
+chemically complex substance	aqueous extract of flesh from a prey organism	1
+chess graphical user interface	aquarium gui	1
+chest-entry suit	aquala's historical suit	1
+chinese agency	aqsiq	1
+cichlid supply	aquarium gravel	1
+clean glass container	aquarium	1
+closed, artificial system	aquaponics	1
+closed-in habitat	aquarium with a tight-fitting screen lid for ventilation	1
+colorful contemporary color	aqua	1
+commercial floral preservative	aqua plus	1
+commercial skimmer	aquac remora	1
+commercially available aqueous solution	aqueous monomethylamine	1
+common aqueous etchants	aqueous chromic acid	1
+common displacement fluid	aqueous polymer solution	1
+compound-specific property	aqueous diffusivities for transport of different solute	1
+contrast water-based fracturing fluid	aqueous solution of kcl	1
+controlled environment system	aquaponics	1
+controlled laboratory setting	aquarium	1
+conventional cleaning liquid	aqueous detergent solution	1
+conventional water-based pressure-sensitive adhesive	aqueous dispersion type natural	2
+cool hereditary move	aqua jet	1
+Corsican spring water	aqua corsa	1
+costly environmental consequence	aquifer contamination	1
+costly, pie-in-the-sky project	aquarium	1
+Coulometers	aquamax kf	1
+countless fun park	aquarium of cattolica	1
+cream plasticizer dispersion	aqueous cream	1
+credit award scheme	aqa units of accreditation	1
+crowded, stressful environment	aquaculture facility	1
+crystalline color	aqua	1
+dazzling gem exhibit	aquamarine specimen	1
+Deep-branching thermophiles	aquifex	1
+deeply rooted chemolithoautotrophs	aquifex	2
+deep-water workout	aqua jogging	2
+delicate process	aquatint	1
+detox bath	aqua detox	1
+disposable water bottle	aquafina	1
+dissolvable mandrel	aquapour by advanced ceramics manufacturing	1
+diversified ag sector	aquaculture	1
+dry good order	aquarium supply	1
+dynamic coastal activity	aquaculture	1
+option	aquatic biomass	1
+group	aquarium	3
+group	aquatic restoration working group	2
+group	aquificae	2
+group	aq-affilated asbat al-ansar	2
+group	aquatic python	2
+group	aquatic mammal	1
+group	aquatic macroinvertebrates	1
+group	aquatic invertebrate group	1
+group	aquatic bug	1
+group	aqua buddies	1
+group	aqap	1
+group	aq affiliate asbat al-ansar	1
+eco technique	aqua gel	1
+effective, water filtration product	aquamira frontier emergency water filter system	1
+electrical conductive coating	aquadag	1
+electrolyte system	aqueous solutions of acid	1
+emerging use	aquaculture	1
+emollient soap substitute	aqueous cream	1
+enclosed, artificial environment	aquarium	1
+encouraging scavenger	aquatic snail	1
+enterprise public authority	aquafin	1
+environmental impact program	aquarium of the pacific sustainable seafood forum	1
+environmentally friendly coating	aqueous	1
+ephemeral and homogeneous biological structure	aquatic vegetation bed	1
+established NFL product	aqib talib	1
+established water bottler	aqua fina	1
+esteemed classical theist	aquinas	1
+EU-backed research	aquaterra integrated project in the sixth framework programme	1
+eucerine product	aquaphor	2
+exam board website	aqa	1
+examboards	aqa	1
+excellent vendor	aquae sulis	1
+Excludes emergency waterpaks	aqua blox	1
+expensive heater	aqua medic	1
+expensive water	aquafina	1
+fast-evolving activity	aquaculture	1
+feature bodice-like closure	aqualung pearl i three 	1
+first family's personal favorite	aquavit's marcus samuelsson	1
+first-class organization	aqua solar	1
+fish forum	aquatic passion	2
+flat-screen TV	aquos  twenty-six -inch lcd tv by sharp at butterflyphoto 	1
+fluoride solution	aqueous hf	1
+form info	aq mail	1
+freezing plastic water bottle	aquafina	1
+fun expensive silk tie	aqua pink flamingo	1
+gaharu-producing tree	aquilaria malaccensis	1
+gardening company	aquascape garden pond kit	1
+gem essence	aqua aura	1
+generally wet material	aquatic food	1
+gentle exercise group	aqua aerobics	1
+gill-breathing organism	aquatic macroinvertebrates	1
+glass cage	aquarium	1
+glaucoma implant	aqueous shunt	2
+glycolic face wash	aqua glycolic	1
+GMO company	aquabounty technologies	1
+good aftershave balm	aqua velva blue ice balm	1
+good aquatic plant book	aquarium plants by christel kasselmann	1
+good flake food	aquarian	1
+good moisture cream	aquaphor	1
+good quality skimmer	aqua c	1
+good sequestering agent	aqua min-out	1
+Great family entertainment	aquarium	1
+green blue	aqua	1
+ground-breaking first	aquamatic sterndrive	1
+ground-level feature	aquarium	1
+groundwater aquifer characteristic	aquifer thickness	1
+groundwater sensitive area	aquifer recharge area	1
+heavy concrete work	aqueduct	1
+heavy-duty hairsprays	aqua net	1
+heavy-duty lotion	aquaphor original ointment	1
+hersonissos attraction	aquaworld aquarium	1
+high energy efficiency chiller	aquaciat power for heating	1
+high quality impression material	aquasil ultra	1
+high quality led lighting product	aqua-par thirty-eight  spotlights 	1
+high score berry	aquaberry	1
+highest-quality product	aquafin	1
+home-style touch	aqua night-stand lamp at the end of the bar	1
+hot tub cleaning accessory	aqua quik spa vacuum	1
+hydraulically dynamic ground-water system	aquifer at galena airport	1
+Hydrogen fluoride	aqueous hf in acetonitrile	1
+hypo-allergenic ointment	aquaphor	1
+illicit network	aq kahn	1
+Impressed Current Cathodic Protection system	aquamatic iii	1
+incompatible sign	aquarius	1
+individual physical therapy	aquatic therapy	1
+industrial stream	aqueous streams containing dispersed oil	1
+inexpensive underwater housing	aquapac	1
+inexpensive water resource augmentation option	aquifer recharge	1
+group	aqueous solubilizing group	1
+group	aquatic ecologist	1
+group	aquarian tabernacle offer teaching program	1
+group	aquaculture dialogues	1
+group	aqim	1
+group	aqi	1
+group	aqua gems swim team	1
+group	aquamarine colored ray	1
+group	aquatic insect	1
+group	aquatic plant group	1
+inherently inflexible component	aquatic area	1
+inline shower filter	aquasana shower filter aq- four thousand one hundred 	1
+innovative mall feature	aquarium	1
+innovative modalities	aquapheresis	1
+insurgent movement	aqi	1
+intaglio method	aquatint	1
+intellectual sign	aquarius	1
+ionic complex	aqua complex	2
+ionic transport medium	aqueous medium	2
+jacksonville aquarium accessory	aquarium lid	1
+JDBC client	aqua data studio	1
+key defensive loss	aqib talib	1
+khaki and luxurious shoe collection	aqua shoe	1
+large grant project	aquatic center	1
+large irrigation source	aquifer	2
+large open container	aquarium	1
+large roman public work	aqueduct	1
+large scale critical area	aquifer recharge	1
+large, glass container	aquarium	1
+latest helmet	aquincum	1
+Latin pugn pearly croc	aqueous predator deinosuchus	1
+latrobe leisure run program	aqua aerobics	1
+leisure center's fitness class	aqua aerobics	1
+level show	aqha congress	1
+level specifi cation	aqa b	1
+light blue crystal	aquamarine	1
+light floral fragrance	aqua lily	1
+Light moisturisers	aqueous cream	1
+lightweight bottle	aquafina	1
+limited space ecosystem	aquarium	1
+liquid bleach solution	aqueous solutions of hypochlorites	1
+liquid, heat-conductive material	aqueous gel	1
+liter water bottle	aquafina for the same thing	1
+local dive service	aquatic safaris	1
+local institutional control	aquifer use restriction	1
+local or use online	aquascape	1
+low viscosity carrier fluid	aqueous solution	1
+lower-priced and well-known line	aqua net hair spray	1
+magny-le-hongre attraction	aquarium sea life val d'europe	1
+manchester's former commonwealth game venue	aquatics centre	1
+man-made aquatic system	aquaculture rearing pen	2
+marine engineering operation	aquaculture	1
+marine grade fabric	aqua top	1
+marine species introduction vector	aquaculture of bivalve	1
+marine-based attraction	aquarium	1
+medieval and early modern thinker	aquinas	1
+Medieval Christians	aquinas	2
+medieval political philosopher	aquinas in summa theologica	1
+meeting restaurant	aqua terra bistro	1
+micro-aquatic habitat	aqueous j	1
+misguided mass murderer	aquarian anders breivik from norway	1
+MMORPG's	aqw	1
+mob larger raptors	aquila eagle	1
+modern attrations	aqua dome	1
+modern Seamasters	aqua terra	1
+molecular level process	aqueous complexation	3
+molecular-level process	aqueous complexation	2
+natural geologic condition	aquifers in marine sedimentary rock	1
+natural resource dependent industry	aquaculture	1
+natural underground storage option	aquifer	1
+neighborhood's destination restaurant	aquitaine	1
+new-to-me underwater video camera system	aqua-vu explorer	1
+nice dining	aqua rive	1
+non-bio wheel filter	aqua-clear line of filter	1
+nonchromatographic separation step	aqueous twophase partitioning system	1
+non-crowded place	aquarium	1
+non-edible resource	aquarium fish	2
+non-greasy moisturiser	aqueous cream	1
+non-impact class	aqua fit	1
+non-medicated cream	aqueous cream	1
+non-solvent cleaning technology	aqueous	1
+non-tourism alternative	aquaculture	1
+method	aqueous solution polymerization	2
+method	aquatint	1
+non-volatile organic solvent coating	aqueous coating	1
+Normal silicone sealer	aquarium sealer	1
+NOSB working group	aquaculture working group	1
+nutrient-limited ecosystem	aquatic environment	5
+ocean-based industry	aquaculture	3
+official operational reporting	aqi	1
+off-target impact	aquaculture	1
+oil-based lubricating cream	aquaphor healing ointment	5
+online aquarium store	aqua direct	1
+online screening test	aq test	1
+open pond	aquaflow bionomic's in new zealand	1
+osaka's tourist attraction	aquarium	1
+osmotic homeostasis-related gene	aquaporins	1
+Others amines	aqueous ammonia	1
+outboard leg unit	aquair uw	1
+overprint varnish	aqueous coating used for special effect	1
+paramagnetic liquid	aqueous salts of fe	1
+pelvic floor aid	aquaflex cone	1
+performance profiler tool	aqtime by automated qa	1
+personal care preparation	aqueous	1
+petrochemical based cream	aqueous cream	1
+pharmaceutical or biological formulation	aqueous dispersion of collagen	1
+Plain moisturisers	aqueous cream	1
+pocket pet project	aquarium	1
+polycrystalline system	aqueoustriblock copolymer solutions of similar block structure	1
+polyphosphate blend	aqua mag	1
+popular classic men's cologne	aqua di gio	1
+popular moisturizer	aquaphor	1
+popular, aperitif	aquavit	1
+potent crystal	aquamarine	1
+potential groundwater effect	aquifer contamination	1
+powerful professional alliance	aqi	1
+predacious invertebrate	aquatic beetle	1
+pre-enlightenment thinker	aquinas	2
+premium sealer	aqua mix	1
+press-applied coating	aqueous	1
+pre-thickened water	aqua care	1
+priceless medium file	aquino biography	1
+private discussion	aquila teaching apollos	1
+pro horse slaughter organization	aqha	1
+professional thermal spray	aquage working spray	1
+protected conservation area	aquila nature reserve	2
+protecting high-level nuclear scientist	aq khan	1
+public and environmental health effect	aquatic habitat destruction	1
+public or quasi-public facility	aquarium	1
+purified-water brand	aquafina	1
+quant fund manager	aqr capital	2
+rain repellent	aquapel	1
+random, bright color	aqua	1
+realm gazetteer	aquilonia	1
+renal AQPs	aqp two 	2
+reputable professional business	aquarius pool	1
+re-use scheme	aquifer storage	1
+robust, metal housing	aquatica	1
+Roman Christians	aquila	1
+roman engineering achievement	aqueduct	1
+Roman technology	aquaducts	1
+safe warm place	aquarium	1
+safe whitening product	aquafresh white trays	1
+salmon certification scheme	aquaculture stewardship council	1
+salt water pool system	aqua rite	1
+Saturated dialdehydes	aqueous solutions of glutaraldehyde	1
+scale document	aquatic habitat conservation plans	1
+scholarly speculation scholar	aquinas	1
+scholasticist theologian	aquinas	1
+scrubber solution	aqueous koh	1
+scuba equipment manufacturer	aqualung	1
+sealable glass container	aquarium	1
+sealer product	aqual seal	1
+method	aquaculture	1
+method	aquatic base flow	1
+method	aquatic plant removal	1
+method	aquatic test method	1
+method	aqueous two-phase partitioning	1
+method	aquatic plant modification	1
+method	aqueous toner granulation method	1
+shallow-water exercise	aqua-aerobics class	1
+shia element	aq & hezbollah	1
+showerhead	aquasana's shower filtration system	1
+silicate solution	aqueous silicate solution	1
+Silicone Dildos	aqua pearl	1
+simple emollient cream	aqueous cream	2
+simple high viscosity fluid	aqueous solution of hydrophilic polymer	1
+simple hydrogeologic setting	aquifers comprised of unconsolidated sediment	1
+Simple moisturisers	aqueous cream	1
+simply channel protein	aquaporins	1
+single liquid phase	aqueous solution	2
+single point water system	aqua fill	1
+sky blue	aquamarine	1
+slow plant	aquilegia	1
+small net	aquarium net	1
+small-sized gravel	aquarium gravel	1
+smooth full grain leather	aquapel	1
+soap free product	aqueous cream	1
+so-called enterprise activity	aquatic center	1
+soda company's bottled water	aquafina	1
+sodium	aqueous alkaline solutionof sodium	1
+soft and cool color	aqua	1
+solid cage	aquarium	1
+solid or liquid acid catalyst	aqueous sulfuric acid	1
+solvent cleaning system	aqueous cleaning solution	1
+solvent, acid solution	aqueous nitric acid solution	2
+SomemRNAs	aquaporin  four  andkv two . two 	1
+somewhat outlandish argument	aquatic ape theory	1
+source brand	aqua de colonia concentrada from spain	1
+specialty waterproof system	aqua tech	1
+sport rehabilitation program	aquatic therapy	1
+st. john's many restaurant	aqua bistro in coral bay	1
+standard class B foam	aqueous film forming foam	1
+standard water bottle	aquafina brand water bottle	1
+stannate solution	aqueous solution of sodium stannate	1
+starch mixture	aqua gel	1
+startup bank	aquesta bank	1
+still-emerging production activity	aquaculture	1
+strong double mineral acid	aqua regia	1
+strong magic	aqua breath	1
+stupid cartoon	aqua teen hunger force	1
+submerged exotic species	aquarium escapees egeria densa	1
+suitable underground gas storage	aquifer	1
+sundry astrological birth sign	aquarius	1
+supplementary swimming program	aqua aerobics	1
+surprising site	aquarium glass	1
+sustainable agriculture project	aquaponics	1
+talent-laden school	aquinas	1
+tasteful distraction	aquarium	1
+tattoo ointment	aquaphor	1
+terrestrial vector	aquatic bird	1
+therapeutic distraction	aquarium	1
+therapeutically effective amount ofthe extract	aqueous extract of blue-green algae enriched for a selectin ligand	1
+thick nourishing cream	aquaphor healing ointment	1
+thick, rich over-the-counter moisturizer	aquaphor	1
+today's advanced glass treatment	aquapel glass treatment from ppg industries	1
+trade-related, intensive production system	aquaculture	2
+treatment emollient	aqueous cream bp	1
+trendy blue tone	aqua	1
+triglyceride-containing biomass	aquatic biomass	2
+triglyceride-containmg biomass	aquatic biomass	1
+type secondary battery	aqueous solution type secondary battery	1
+UBC facility	aquatic centre	1
+uncommon developmental brain lesion	aqueduct stenosis	2
+uncommon raptors	aquila clanga	1
+underwater video camera type device	aqua-vu system	1
+unscented, lanolin-free cream	aquaphor	1
+unusual leisure activity	aqua aerobics	1
+upscale neighbor	aquitaine	1
+urban area method	aquifer storage	1
+utilitarian glazing	aquarium glass	2
+val schol ars	aqui nas	1
+variable speed motor controller	aquavar by goulds	1
+vaunted structure	aquarium	1
+tool	aqua boots for specific task	1
+tool	aqm decision support tool	1
+tool	aquas for testing	1
+volume booster	aqauge uplifting foam	1
+water aerobics class	aqua step	1
+water immersion application	aquarium	1
+water related class	aqua aerobics	1
+water testing method	aquachek tru-test system	1
+water transfer system	aqueduct	1
+water transport	aqp five 	1
+water-based bodywork therapy	aqua wellness	1
+water-based cosmetic composition	aqueous lotion	1
+water-based cream	aqueous cream	2
+water-based development	aquaculture	1
+waterbound dramatic feature	aquatic sci-fi flop the abyss	1
+water-filled tunnel	aqueduct	1
+water-related construction project	aqueduct	1
+water-retention tablet	aqua ban	1
+water-saving showerhead	aquiv eight  showerhead from challis 	1
+water-seal latrine system	aqua privy	1
+wave-power technology	aquaenergy's aquabuoys in makah bay off washington state's olympic peninsula	1
+well good	aquarium fish	1
+well-known tour operator	aquatic blue charters	1
+wellness center service	aquatic therapy	1
+wet resource	aquatic biomass	1
+wonder text-based service	aqa	1
+world renowned Cunarders	aquitania	1
+zumba option	aqua zumba	1
+tool	aqal map	1
+tool	aquatic reserve program	1
+project	aqueduct	3
+project	aquatic center	2
+product	aquafina	6
+product	aquaphor	4
+product	aquavit	3
+product	aquatabs water purification tablets	3
+project	aquarium	2
+project	aquaculture	2
+project	aqip advising project	1
+project	aqueducts built during the roman empire	1
+project	aqua midtown	1
+project	aquatics facility	1
+project	aquatic park	1
+project	aqaba coastal highway	1
+project	aquamarine park	1
+project	aquapark	1
+project	aquatic environment enhancement	1
+project	aquaponics	1
+project	aquaculture farm	1
+project	aquatic habitat project	1
+project	aquatics complex	1
+artist	aqualung	5
+artist	aqua	3
+artist	aquarius heaven	1
+artist	aqua velvets	1
+artist	aquasky	1
+material	aquarium rock	4
+material	aqueous solution	2
+material	aquifer solid	2
+material	aquifer	2
+material	aquatic plant	1
+material	aqueous protein solution	1
+material	aquarium kit	1
+material	aquatic plant product	1
+material	aquatic vegetation	1
+material	aqueous dispersions of gum arabic	1
+material	aqueous dye	1
+material	aqueous silk	1
+material	aquatic plant material	1
+material	aquamarine	1
+place	aquarium	9
+place	aqualate mere national nature reserve	2
+place	aquarium of niagara	1
+place	aquarium of the americans	1
+place	aqua africa	1
+place	aquarium of the pacific	1
+place	aq	1
+place	aquitaine	1
+place	aquila de osa	1
+place	aqaba	1
+place	aquavit	1
+player	aquilani	3
+player	aquaman	2
+player	aqib talib	1
+player	aqua logistics	1
+player	aquib talib	1
+player	aquinas	1
+technology	aquaponics	2
+technology	aquifer recharge	2
+technology	aquaculture	2
+technology	aquaculture enhancement	2
+technology	aqueduct	1
+product	aquaculture	3
+product	aqueous cream	3
+product	aquavee portable swim system	2
+product	aqua spikes	2
+product	aquatic food	2
+product	aqua cultured fish product	1
+product	aqua glove	1
+product	aquastop	1
+product	aquatec beluga bathlift	1
+product	aquatic therapy supply	1
+technology	aqueous	1
+term	aquatic centres	2
+term	aquatic supplies	2
+term	aquifer	2
+term	aquatic insect	1
+term	aqua destillata	1
+term	aquitard	1
+term	aqueous solution	1
+term	aquarius	1
+parameter	aqua regia concentration	2
+parameter	aqueous phase volume	2
+parameter	aquifer surface area intercepted by the cell	1
+parameter	aquifer geohydrologic parameter	1
+parameter	aquatic fauna	1
+parameter	aqueous state decolorization	1
+parameter	aqueous nitric acid concentration	1
+parameter	aquatic live	1
+parameter	aqueous-phase ph	1
+parameter	aquifer condition	1
+system	aquaculture pond	1
+system	aqueous ammonia system	1
+system	aquila mining system's dm monitoring	1
+system	aqueous or organic solvent system	1
+system	aqueous buffer system	1
+system	aqueous solvent system	1
+system	aqueous solutions of uranyl phosphate	1
+system	aqueous biphasic catalysis	1
+species	aquatic	5
+species	aquatic invertebrate	3
+species	aquarium fish	3
+species	aquatic nuisance vegetation species	1
+species	aquatic warbler	1
+species	aquaspirillum serpens	1
+species	aquatic exotic species	1
+species	aquatic and terrestrial species	1
+species	aquatic bladderwort	1
+species	aquatic karst species	1
+species	aquatic invertebrate species	1
+species	aquatic moss	1
+species	aquatic non-native species	1
+species	aquarium alga	1
+species	aquatic and terrestrial invasive species	1
+species	aquatic animal species	1
+species	aquatic alien invasive species	1
+species	aquatic and riparian-dependent species	1
+species	aquatic deep water species	1
+species	aquatic dependent species	1
+species	aquatic fern salvinia molesta	1
+species	aquatic fish species	1
+species	aquatic invasive exotic species	1
+species	aquatic invasive plant species	1
+species	aquatic macrophyte	1
+species	aquatic beetle	1
+species	aquatic turtle species	1
+species	aquatic-and  stream-associated species	1
+species	aquatic plant species	1
+species	aquilegia canadensis	1
+species	aquatic furbearer species	1
+species	aquatic hitchhiker invasive species	1
+species	aquatic nuisance plant species	1
+species	aquila nipalensis	1
+measure	aquatic ecology	1
+measure	aqip examiner survey	1
+measure	aquifer recharge augmentation practice	1
+measure	aquifer permeability	1
+condition	aquagenic pruritus	2
+condition	aquatic habitat	1
+condition	aqueous solution temperature	1
+condition	aquatic toxicity in the santa cruz near the niwtp outfall	1
+element	aquatic ecosystem element	1
+element	aquarium filter	1
+element	aquatic habitat element	1
+element	aquarium light	1
+element	aquarium water pump	1
+element	aquarium heater	1
+variable	aquifer characteristic	1
+product	aquatic product	1
+product	aquasoft softener	1
+product	aquastone in a raised embossed stencil	1
+product	aquarium t five  light 	1
+product	aquanova's nanotech antioxidant system for oil	1
+product	aquaponics	1
+product	aquarex v  two thousand one hundred and fifteen 	1
+product	aquarium decoration	1
+product	aquarium light t five 	1
+product	aqua safe	1
+product	aquabrowser library from medialab solutions	1
+product	aquachek pool	1
+product	aquaculture equipment related product	1
+product	aqua scooter related product	1
+product	aqua tex	1
+product	aquafor	1
+product	aqua dam	1
+product	aqua health pool shock	1
+product	aqua mix ultra solve	1
+product	aquamix enrich n seal	1
+product	aqualogic bpm suite	1
+function	aqua plus rinsing	1
+function	aqueduct	1
+function	aquatic wildlife	1
+device	aqua noodle	1
+device	aquarium net breeder	1
+device	aquality gold line leaf rake	1
+device	aquos lcd tv s	1
+device	aquos lcd tvs	1
+brand	aquafina	15
+brand	aquascutum	8
+brand	aquafresh	5
+brand	aqua lung	4
+brand	aqua sphere	3
+brand	aqueon	3
+brand	aqualung	3
+brand	aqua blu	2
+brand	aqua velva	2
+brand	aquapac	1
+brand	aquapex from uponor	1
+brand	aqua nova	1
+brand	aqua glass	1
+brand	aqua libre	1
+brand	aquage hair care	1
+brand	aquaone	1
+brand	aquatech	1
+brand	aqua kem	1
+brand	aqua panna	1
+brand	aquachek test strips	1
+brand	aqua mira	1
+brand	aquarian	1
+brand	aquascape	1
+brand	aquascape pond supply	1
+brand	aqua minerale water	1
+brand	aqua di parma	1
+brand	aquarella nail polish	1
+brand	aquabrass international	1
+brand	aqua systems	1
+brand	aqua products	1
+brand	aquilla	1
+concept	aquifer	4
+concept	aquarium	1
+concept	aquamarine at marina mandarin in range	1
+concept	aqueous geochemistry	1
+concept	aquatic adaptation	1
+concept	aquaculture in the arabian gulf	1
+component	aqueous buffer	3
+component	aqueous solutions of albumin	2
+component	aqueous humor	2
+component	aquarium air pump	1
+component	aquarium light	1
+component	aquarium heater	1
+component	aqueous, gaseous noxious component	1
+component	aquifer storage	1
+component	aquatic plant	1
+aspect	aquifer geometry	2
+aspect	aquatic ecology	1
+aspect	aquatic toxicity	1
+aspect	aqueous solubility	1
+aspect	aquifer development	1
+aspect	aquascaping	1
+aspect	aqaaid	1
+site	aquarium	4
+site	aqua zone	1
+site	aquatic center	1
+site	aquacultural facility	1
+related product	aquarium filter related product	1
+related product	aquarium design related product	1
+related product	aquatic sport product related product	1
+related product	aquarium filtration related product	1
+related product	aquarium bowl related product	1

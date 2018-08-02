@@ -1,0 +1,13 @@
+leader	jz	1
+retailer	jz rose in bellevue	1
+festival	jz music festival	1
+luminary	jz	1
+Celebs	jz	1
+folks	jz	1
+local manufacturer	jze co.	1
+mega star	jz	1
+accomplished ensemble	jz all-star big band	1
+polish statesman	jzef poniatowski	1
+famous modern channelers	jz knight	2
+flag testable jump instruction	jz	1
+artist	jz	1

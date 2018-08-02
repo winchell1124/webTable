@@ -1,0 +1,8 @@
+character	o	2
+road	o	1
+antigen	o	2
+letter	o	1
+fashion magazine	o	1
+legit publication	o	1
+information encoding specification	o	1
+element	o	1

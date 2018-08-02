@@ -1,0 +1,270 @@
+source	lfs	2
+source	lfo	1
+benefit	lfc	1
+product	lfd	1
+product	lfg's moneyguard reserve	1
+model	lf model	1
+client	lftp	1
+feature	lf	4
+effect	lfr extent	1
+mechanism	lf	1
+band	lfo	2
+feature	lf submarine communication	1
+feature	lfg	1
+consideration	lfe	1
+manufacturer	lf camera manufacturer	1
+instrument	lfra texture analyzer	1
+act	lfo	1
+feature	lfi	1
+setting	lfr	1
+setting	lfe level	1
+entity	lfc	1
+country	lf positive country	1
+big name	lfo	1
+standard	lfbg	1
+design	lftr	3
+design	lfsrs	1
+award	lfe goldie memorial award	1
+award	lfc life membership	1
+destination	lfpg	1
+machine	lftr by a simple	1
+addition	lf initiation	2
+experience	lfm internship	1
+corporation	lfc real estate marketing services	1
+corporation	lfc governmental clearinghouse	1
+language	lfn	1
+suggestion	lfd	1
+theory	lfg	3
+theory	lfg s lexical mapping theory	1
+committee	lfhc domestic violence task force committee	1
+molecule	lfa- one 	3
+sensor	lf encoder sensor	2
+stock	lfd	1
+shape	lf shane bonifay	1
+issue	lfo debate	1
+local organization	lfp streamkeepers	1
+local organization	lfp stewardship foundation	1
+talent	lfo	1
+abnormality	lft elevation	1
+level	lfe	1
+framework	lfg	3
+process parameter	lf	1
+version	lfr	1
+survey	lfs	8
+item	lf equipment	1
+distributor	lfasia	2
+directory	lf books	1
+representation	lfa	3
+receptor	lfa- one  integrin 	1
+profile	lfts	1
+heavy hitter	lff co-founder darrell white	1
+tab	lf pug	1
+lab	lft	1
+letter	lfk	1
+top act	lfo	1
+adhesion molecule	lfa- one 	9
+reactor	lftr with thorium	2
+established act	lfo	1
+innovative material	lfrt	2
+formalism	lfg	2
+national survey	lfs	1
+simple program	lftp	1
+business establishment	lfr pharmacy	1
+laboratory investigation	lft	1
+mass organization	lfnc	1
+surface molecule	lfa- one 	1
+file manager	lfm	1
+cam	lfa- one 	1
+filesystems	lfs	1
+technical study	lfas completed by the washington conservation commission	1
+corrosive chemical	lfuric acid	1
+diversified company	lfp	1
+advanced parameter	lfo rate modulation	1
+program parameter	lfo rate	1
+costimulatory molecule	lfa- one 	5
+costimulatory molecule	lfa- one  on tcells 	1
+costimulatory molecule	lfa- one  on t cell 	1
+sample survey	lfs	1
+football match	lfc	1
+host protein	lfa- one 	1
+rail	lf relentless rail	1
+grass root organization	lfmc	1
+effect parameter	lfo speed	1
+live CD	lfs livecd to boot ur system	1
+camera manufacturer	lf camera manufacturer	1
+small label	lft	1
+world class client	lfv group	1
+routine laboratory study	lft	1
+basic protein	lf	1
+replacement algorithm	lfu	1
+large survey	lfs	1
+search filter	lft	1
+nuclear plant	lftr	1
+grammar formalism	lfg	2
+whey protein	lf	1
+information	lfcu event	1
+low-fat product	lf salad dressing	1
+replacement policy	lfu	1
+linguistic theory	lfg	2
+information	lfe activity	1
+cross-sectional survey	lfs	1
+public channel	lfg	1
+modulation type	lfm	2
+event	lfs pub night	1
+national datasets	lfs	1
+national datum source	lfs	1
+popular industry standard op-erational amplifier	lf four hundred and eleven 	4
+popular industry standard op-erational amplifier	lf four hundred and fourty-one 	4
+popular industry standard op-erational amplifier	lf one hundred and fifty-six 	4
+popular industry standard op-erational amplifier	lf three hundred and fifty-one 	4
+popular industry standard op-erational amplifier	lf four hundred and fourty-one  lf four hundred and fourty-one 	3
+popular industry standard op-erational amplifier	lf one hundred and fifty-six  lf one hundred and fifty-six 	3
+popular industry standard op-erational amplifier	lf four hundred and eleven  lf four hundred and eleven 	3
+popular industry standard op-erational amplifier	lf three hundred and fifty-one  lf three hundred and fifty-one 	3
+paraclinical test	lft	1
+protocol standard	lf protocol	1
+integrins	lfa- one 	4
+lowfat dairy product	lf milk	1
+national household survey	lfs	1
+program	lfp	2
+syntactic theory	lfg	1
+cell-cell interaction	lfa- one 	1
+program	lftp	1
+game change	lfr	1
+modulation source	lfo	1
+nonprofit housing organization	lfs habitat for humanity	1
+popular industry standard operational amplifier	lf three hundred and fifty-one 	1
+popular industry standard operational amplifier	lf four hundred and eleven 	1
+popular industry standard operational amplifier	lf four hundred and fourty-one 	1
+popular industry standard operational amplifier	lf one hundred and fifty-six 	1
+qos tool	lfi	1
+well-known recent theory	lfg	1
+conventional film additive	lfv stabilizer	1
+evoked potential	lfps in animal	1
+grid-related operation	lfc data catalog access	1
+household-based survey	lfs	2
+organsiations	lfp	1
+veteran addition	lf moises alou	3
+contemporary grammar formalism	lfg	1
+cross-linking multiple adhesion molecule	lfa- one 	1
+organization	lfi	1
+organization	lfhe	1
+organization	lfl	1
+organization	lfd	1
+exemplary case	lfg analyses of n	1
+generation IV reactor	lftr	1
+large-scale government survey	lfs	1
+lmnopres useful feature	lf resonance control	1
+lmnopre's useful feature	lf resonance control	1
+LMOP tool	lfgcost model	1
+unification grammar	lfg	1
+technique	lfa	1
+Big Schools	lfi	1
+CD28 costimulatory molecule	lfa- one 	1
+Chinese IPOs	lft	1
+continuous survey	lfs	1
+dielectric low-pass filter component	lfl eighteen thousand nine hundred and twenty-four mtc one a fifty-two  by murata manufacturing co. 	1
+dielectric low-pass filter component	lfl eighteen thousand nine hundred and twenty-four mtc one a fifty-two  by murata mfg. co. 	1
+dielectric low-pass filter component	lfl eighteen thousand nine hundred and twenty-four mtc one a fifty-two  by murata manufacturing 	1
+logical framework	lf	3
+modern bonding theory	lft	2
+patch datum	lfo status	1
+quality report	lfbg	1
+silliness	lfl	1
+application	lfp	1
+typical costimulatory molecule	lfa- one 	1
+vatious equipment	lfull-automatic packaging machine	1
+name	lfi	1
+cell ligands	lfa- one 	2
+common routine test	lft	1
+conditional models-the log-linear framework formalism	lfg	1
+electro-techno group	lfo	1
+engaging property	lfw tv	1
+first, large adhesion molecule	lfa- one 	1
+gaseous biomass fuel	lfg	1
+independent component analysis representation	lfa	1
+integrin	lfa- one 	1
+introduction lexicalist linguistic theory	lfg	2
+lex formalism	lfg	1
+link efficiency mechanism	lfi	1
+Lymphocyte integrins	lfa- one 	2
+mind acronym	lfm	1
+molten salt reactor	lftr	1
+Nothing fancy	lf roll -off	1
+ofpopulation survey	lfs	1
+case	lfo	1
+case	lfa in the netherlands	1
+semi-structural material	lft	1
+simplistic demand-driven lot-sizing technique	lfl	1
+spiked QC sample	lfb	1
+structured quantitative survey	lfs	1
+Tcellcomponents	lfa- one 	1
+testing report	lfgb	1
+unification-based formalism	lfg	1
+adhesion molec ules	lfa- one 	1
+annual or bi-annual event	lfw	1
+Beta 2-integrins	lfa- one 	1
+case-factors	lfg availability	1
+cell surface distribution ofintegrins	lfa- one 	1
+clear aftermarket radiator	lfp	1
+closed nuclear cycle	lftr	1
+contemporary linguistic formalism	lfg	2
+dependently-typed framework	lf	1
+dual mr-optical contrast agent	lfb	1
+group	lfo	2
+EGEE component	lfc	1
+fathers group	lfaa	1
+floral meristem identity gene	lfy	1
+formalist goal	lfc	1
+forum logical framework	lf	1
+gf-based theory	lfg	1
+good LCG withanother generator	lfg	1
+internet-based competition	lfrs	1
+intrinsicly safe system	lftr	1
+jfet-input op amp	lf three hundred and fifty-three 's 	1
+large adhesion molecule	lfa- one 	1
+LCG withanother generator	lfg	1
+lead-free alternative alloy	lf eighty-eight  qualitek's own patented alloy 	1
+lexical grammar	lfg	1
+LF Client plug-ins	lf scanning	1
+local principal component representation	lfa	1
+molten-salt-fueled reactor	lftr	2
+peak power benchmark	lf in table	1
+physical predictor	lfc	1
+platelet surface marker	lfa- one 	1
+powerhouse distribution partner	lfp	1
+production company aka studio	lfp	1
+protein-based test	lfs test	1
+PSDs	lft	1
+pseudo random pattern generator	lfsr	1
+quality assurements	lfbg	1
+real-time processor	lf two thousand four hundred and seven  dsp controller 	1
+relative new database	lfw	1
+school color lizard	lft top dog lizard in black neon with chatreuse tail	1
+Secondary SPMs	lfm	1
+method	lfa	1
+sensible zionist group	lfi	1
+sexual orientation government survey	lfs	1
+slave modulation source	lfo rate	1
+sophisticated grammar formalism	lfg	1
+stingmethods	lfsr	1
+thorium breeder	lftr	1
+top-flight defense course	lfi's judicious use of deadly force	1
+unification-based framework	lfg	1
+unification-based theory	lfg	1
+viable alternate energy source	lftr	2
+tool	lfi web portal	1
+voip-related parameter	lfp	1
+project	lfg & flare installation	1
+artist	lfo	2
+place	lfw	1
+player	lf michael saunders	1
+technology	lf logicalframework	1
+technology	lftr	1
+parameter	lfc	3
+parameter	lfo	2
+parameter	lfo modulation	1
+parameter	lfo rate	1
+parameter	lfo speed of modulation-type effect	1
+parameter	lf	1
+element	lfe channel	1

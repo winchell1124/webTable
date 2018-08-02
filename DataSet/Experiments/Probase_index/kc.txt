@@ -1,0 +1,473 @@
+factor	kcl concentration	3
+initiative	kc good citizen scheme	1
+initiative	kcc citizen's panel	1
+initiative	kc animal health corridor	1
+source	kc joyner	1
+product	kcl	1
+exception	kcrw	1
+institution	kc mahindra	1
+client	kci medical	1
+client	kcp	1
+client	kcub	1
+client	kcrw	1
+client	kcs energy	1
+matter	kcbs bylaws	1
+agency	kci technologies	1
+agency	kcc trading standards	1
+agency	kcp	1
+solution	kcl	1
+agent	kcl	2
+agent	kclo three 	1
+city	kc	3
+city	kck	1
+city	kc blow away city	1
+celebrity	kc concepcion	1
+requirement	kc-x aerial tanker	1
+feature	kcm brake master cylinder	1
+publication	kc bullsheet	1
+publication	kc baby magazine	1
+publication	kc parent magazine	1
+compound	kcl	4
+figure	kcrw djs tom schnabel	1
+unit	kcal per measuring cup	1
+innovation	kc leather grips	1
+innovation	kc blanks	1
+innovation	kc flocked grips	1
+team	kc	5
+team	kcr	1
+team	kc x two 	1
+substance	kcl	1
+partner	kctcs	1
+club	kcac	1
+vendor	kci	1
+market	kctv in the kansas city area	1
+department	kcpd	1
+additive	kcl	3
+chemical	kcl	4
+provider	kcom	1
+provider	kca	1
+protein	kcnq four 	1
+protein	kcnk three 	1
+competitor	kc eusebio from the nra bianchi cup	1
+friend	kc olsen	1
+everything	kc	2
+platform	kc-x	1
+bank	kcb group	3
+bank	kcb in moshi	1
+bank	kcb	1
+historian	kc yadav	1
+molecule	kcn	1
+operator	kcr	1
+station	kcop in los angeles	1
+station	kcrw in santa monica	1
+station	kcnc	1
+station	kcfb	1
+station	kcfo in tulsa	1
+station	kcal	1
+station	kcts	1
+station	kcrw of los angeles	1
+station	kcpq	1
+station	kcrw	1
+station	kcxx	1
+station	kcbs	1
+station	kcbs in los angeles	1
+apps	kcrw internet radio & yelp	1
+personality	kc concepcion	1
+transaction	kcyf involving property of the sportsplex	1
+park	kca	1
+sponsor	kcoast surf shop	1
+college	kc college	1
+raw material	kcl	1
+resort	kc grande	1
+talent	kc bennett	1
+gene	kcnq five 	1
+gene	kcnj eleven 	1
+keyword	kc used car	1
+content	kcra  three  weather plus 	1
+cell	kc used in the aforementioned study	1
+outlet	kc das	2
+outlet	kcrw	1
+substrate	kcl	2
+local business	kcu	1
+aircraft	kc- ten 	3
+aircraft	kc- one hundred and thirty-five  tanker transport 	1
+solvent	kcq	1
+stimulus	kcl	1
+advance	kcls technological advance	1
+technological advance	kcls technological advance	1
+exhibit	kc rail experience	1
+local event	kc fair	1
+library	kconfig	1
+reagent	kcl	1
+reagent	kcn	1
+salt	kcl	63
+salt	kci	1
+supporter	kcpl	1
+medium outlet	kctv five 	1
+stage	kc stadium	1
+radio station	kcte	1
+radio station	kcep	1
+radio station	kcbs	1
+radio station	kcme	1
+radio station	kcxl	1
+radio station	kcoh	1
+radio station	kcmx	1
+international artist	kc willis	1
+ensemble	kcsa in sds micelles	1
+item	kc- thirty b 	1
+fan	kcrw	1
+argument	kca	1
+local agency	kcp	1
+mod	kcas	1
+dignitary	kcmo mayor mark funkhouser	1
+dignitary	kcmo chief of police james corwin	1
+owner	kc maritime	1
+sauce	kc masterpiece	1
+headliner	kc & the sunshine band	1
+regular	kc confectionary ltd.	1
+outside influence	kc	1
+bloggers	kc johnson	1
+community facility	kccsd park	4
+community facility	kccsd office	1
+market leader	kci	1
+notable artist	kc	1
+chemical agent	kcl	1
+chemical compound	kcn	1
+abbreviation	kcl for potassiu m chloride	1
+broadcaster	kcrw	1
+broadcaster	kcmp	1
+grouping	kcp	1
+large-scale project	kcr west rail	1
+acquisition	kcs payroll	1
+renewable resource	kcc sugar cane tableware	1
+area	kcynia	1
+commercial activity	kccl	1
+exam	kcse	1
+racer	kc garber	1
+key document	kcpd strategic plan	1
+private institution	kca	1
+review	kcp review	1
+industry heavyweight	kci technologies	1
+educational resource	kcse	1
+local musician	kc groves	1
+stadium	kc stadium	1
+conservative measure	kcl injection into the cervical pregnancy	1
+activist group	kcap	1
+mining company	kcgm	1
+policy document	kctcs rules of the senate	1
+auxiliary	kcou	1
+inorganic salt	kcl	4
+weapon system	kc-x	1
+weapon system	kc- one hundred and thirty-five  platform 	1
+electrolyte	kcl	10
+high profile company	kcb	1
+community college	kcc	1
+private firm	kcp	1
+mutation	kcne one 	1
+metal ion	kcl	1
+registry	kc	2
+stop	kcbs	1
+radio program	kcmo radio program	1
+big bank	kcb	1
+charity organization	kcc	1
+television network	kcal	1
+activator	kcnq channel activator	1
+television station	kcop	2
+annual activity	kcc walk-a-thon	1
+open source tool	kcachegrind visualisation frontend	1
+administrative datum	kcn server profile	1
+key informant	kcc official	1
+podcasts	kcrw.com's tune of the day	1
+oxidizer	kclo four 	1
+great talent	kc leyco	1
+chemokines	kc	4
+flight	kcn to padu flying an otter on float	1
+chemical reagent	kcl	1
+corporate company	kcb	1
+licensed product	kc masterpiece barbecue sauce	1
+halides	kcl	4
+troupe	kctc summerfest	1
+mineral salt	kcl	1
+aircrafts	kc one hundred and thirty  hercules 	1
+steak	kc strip	1
+urban district	kc	1
+truck accessory	kc light	1
+topic	kcc mission	1
+candidate gene	kcnj eleven 	2
+latin artist	kcho	1
+metal halides	kcl	2
+metallic salt	kcl	1
+corporate organization	kcb	1
+company	kc distance learning	1
+service unit	kch	1
+salt solution	kcl	2
+company	kci medical	1
+company	kca deutag	1
+company	kcb	1
+company	kcpl	1
+company	kca deutag drilling ltd.	1
+area event	kc irish festival	1
+subunits	kcne accessory subunits	1
+potassium salt	kcl	8
+local medium	kcbs	1
+regional competitor	kcg	1
+ion channel	kcsa potassium channel	1
+cationic compound	kcl	1
+ionic species	kcl	1
+alkali metal	kcl	2
+local website	kcra	1
+metabolic inhibitor	kcn	1
+inner city	kc	1
+application form	kcem	1
+simple salt	kcl	1
+community helper	kcrg's morning show	1
+chloride salt	kcl	4
+multi-national client	kca deutag	1
+potassium compound	kcl	2
+west coast artist	kc hailey	1
+Alkali metal halides	kcl	3
+collection agency	kcbi	1
+neuroprotective agent	kcl	1
+common salt	kcl	1
+lead actor	kc concepcion	1
+neutral salt	kcl	1
+halide compound	kcl	5
+expansion team	kc	1
+news medium outlet	kcal	1
+progressive institution	kcpl	1
+big time player	kc ross miller	1
+flight simulator	kc- one hundred and thirty j 	1
+ionic crystal	kcl	1
+tanker	kc- ten 	4
+wound dressing	kci vac	1
+optical crystal	kcl	2
+halide salt	kcl	1
+philippine legend	kc montero	1
+well-known international artist	kc willis	1
+call letter	kcbq in san diego	1
+call letter	kcmo	1
+breed registry	kc	1
+event	kc officeport's innovation thursday	1
+aircraft display	kc- one hundred and thirty-five  stratotanker 	1
+artits	kc da rookee	1
+auto auction house	kcaa	1
+cuban artist	kcho	1
+monovalent salt	kcl	2
+music station	kcrw	1
+potassium channel opener	kcnq potassium channel opener	1
+large plane	kc one hundred and thirty-five 	1
+event	kc play	1
+building program	kc camp	1
+chloride compound	kcl	1
+iconic development	kc stadium	1
+inflammatory chemokines	kc	2
+strong electrolyte	kci	1
+volume measurement	kcal per cup	1
+civil association	kcci	1
+great supplier	kc tools	5
+simple law	kcv	1
+ternary compound	kclo  three 	1
+ternary compound	kclo  four 	1
+artistic company	kcc live	1
+community coalition	kc care link	1
+cyanide	kcn	1
+local affiliate	kcet	1
+program	kc- seven hundred and sixty-seven  tanker 	1
+program	kc artist linc	1
+program	kcsa supplementary educational services tutoring program in a timely fashion	1
+program	kcdw	1
+program	kcmo radio program	1
+program	kc's athletics training program	1
+state level exam	kcet	1
+aging aircraft	kc- one hundred and thirty-five  tanker fleet 	1
+amateur skier	kc deane	1
+area establishment	kc's beach bar	2
+chloride source	kcl	1
+environmental association	kcea	1
+non-commercial station	kcrw	1
+program	kcbs	1
+program	kc- fourty-six  aerial refueling tanker 	1
+Air Force aircraft	kc- ten 	1
+brake caliper	kcnc	1
+halogen salt	kcl	1
+marketing message	kcma esp	2
+potential inhibitor	kcn	3
+reputable carpark operator	kc parksafe	1
+sought-after kapamilya singing star	kc concepcion	2
+strategic airlift asset	kc- ten 	1
+voltage-gated potassium channel	kcnq one 	2
+electrolyte salt	kcl	2
+halogen element salt	kcl	2
+kapamilya singing star	kc concepcion	1
+local FM station	kcpa	1
+local new agency	kcra	1
+need assessment information	kcct result	1
+NPR station	kclu	1
+public TV station	kcts	1
+organization	kcc	2
+brand new aircraft	kc- seven hundred and sixty-seven 	1
+engaging campaign	kcb's bankika campaign	1
+organization	kcr corporation	1
+organization	kck chamber of commerce	1
+organization	kcca	1
+organization	kcaa farmer	1
+organization	kcaa	1
+organization	kc studio magazine	1
+organization	kca	1
+heavies	kc ten  in the air force fleet 	1
+non-commercial radio station	kcrw	1
+osmotic stabilizer	kcl	1
+potential stabilizer	kcl	1
+regional listing	kcb group	1
+soluble chloride	kc one 	1
+state public utility commission	kcc	1
+top rival	kc boutiette	1
+Bioinhibitors	kcn	1
+bitter stimulus	kcl	1
+competing issue	kc's air quality	1
+container model	kco	1
+financial investigator	kcpd financial investigations section	1
+inflammatorychemokines	kc	1
+intercultural context	kcci	1
+interesting team	kc powergroup	1
+kcba's special event	kcba fun run	1
+Kchannel-and-subunits	kcnab one 	1
+Kchannel-and-subunits	kcna four 	1
+Kchannel-and-subunits	kcnk one 	1
+korea tv channel	kctv live tv	1
+korea tv channel	kctv ch	1
+Local pubcasters	kcrw	2
+OE tool	kcoe safety system	1
+prominent builder	kc homes	1
+receiver-poor team	kc	1
+salt component	kcl	1
+salting-out electrolyte	kcl	1
+small-market radio station	kccr in pierre	1
+Tanker aircraft	kc- ten 	1
+Tanker aircraft	kc- one hundred and thirty j 	1
+typical normal salt	kcl	2
+unfamiliar artist	kcb's jeff warschauer	1
+aftermarket ad-ons	kc lights	1
+aircraft static display	kc- one hundred and thirty-five  stratotanker 	1
+alkali-metal halide crystal	kcl	1
+AR service firm	kcg	1
+ARHI susceptibility gene	kcnq four 	1
+business control activity	kco reporting	1
+name	kc mcalpin	1
+ceramic or pottery supply co	kc metro ceramic supplies	1
+chemical industry plant	kcc	1
+chloride-containing chemical	kcl	1
+city's effort	kci-area development	2
+country's key Non Com	kcrw	1
+disease specific health status questionnaire	kccq	1
+dual-piloted aircraft	kc- one hundred and thirty 	1
+excellent radio station	kcrw-fm in santa monica	1
+full service valuation company	kc appraisers	1
+interchangeable, plug-and-play sensor subsystem	kcm camera sensor	1
+japanese noise music artist	kccc	1
+KC product	kc cares plan	1
+kv channel	kcna ten 	2
+large force-effectiveness assessment	kc- one hundred and thirty-five  recapitalization aoas 	1
+case	kc- one hundred and thirty-five fr in service with the french air force 	2
+case	kc- one hundred and thirty-five  stratotanker 	2
+case	kcn	1
+case	kcra's rating	1
+case	kc- ten 	1
+local, national and international business	kcp	1
+locally controlled bank	kcb	1
+military operational aircraft	kc- ten  extender 	1
+mono-valentand divalent salt	kcl	1
+national confederation	kctu	1
+notable state title contender	kck-sumner academy	1
+PBS affiliate	kcet in los angeles	1
+pod coffee maker	kcup maker	1
+case	kcbs	1
+rodriguez colleague	kc concepcion	1
+seattle vhf-hi channel	kcpq	1
+soluble cyanide	kcn	1
+soluble simple cyanide compound	kcn	1
+Thcorists	kcnncih waltz	2
+tonicity adjusting salt	kci	1
+type electrolyte	kcl	1
+work ofvisual artist	kcho	1
+airborne tanker	kc- one hundred and thirty-five e 	1
+option	kctc	1
+cardiac ion channel	kcnq one 	1
+channel-interacting protein	kcnip four 	2
+chlorate salt	kclo  three 	1
+clay control agent	kcl	1
+commercial aircraft design	kc- ten 	1
+community burger joint	kc's bar & grill	1
+conductivity additive	kcl	1
+cost package	kcdw	1
+cotransporters	kcc	1
+counter ion source	kclo  four 	1
+Cyanidine compound	kcn	1
+disease-specific health status questionnaire	kccq	1
+dual pivot brake	kcnc	1
+easily stream online music	kcrw	1
+group	kcp-military council	3
+group	kc pioneers	1
+group	kc metro gis consortium	1
+group	kci & jojo featuring paroul	1
+excellent methodology	kcit conservative price bias method	1
+excitation stimulus	kcl	1
+genetic mutant	kcnq two 	1
+haem protein inhibitor	kcn	1
+high-deck aircraft	kc- one hundred and thirty-five  stratotanker 	1
+high-profile procurement foul-ups	kc-x	1
+hrough program	kcac	1
+ICA technique	kcca	1
+independent org	kcma	1
+group	kc cave bears	1
+group	kcc	1
+influential radio program	kcrw's morning becomes eclectic	3
+inliners	kc boutiette	1
+KCNQ subunits	kcnq four 	1
+kenyan bank	kcb	1
+Local Toronto DJs	kc & the sunshine crew	1
+mainstream retail bank	kcb	1
+mechanic al system project	kc- ten  on-board loader 	1
+mid-air refuelers	kc- one hundred and thirty-five 	1
+Military tanker aircraft	kc- one hundred and thirty-five  stratotanker 	1
+Mineral monocrystals	kcl	1
+missouri electric company	kcp	1
+named brands	kc tools	1
+pathetic team	kc	1
+pharmaceutically-acceptable electrolyte	kcl	1
+potassium channel gene	kcne three 	1
+public broadcasting outlet	kcet in los angeles	1
+public mental health education activity	kch drama group	1
+reason salt crystal	kcl	11
+referral hospital	kcmc	2
+soluble, ionizable metal salt	kcl	1
+standard ARRI power cable	kc- twenty 	1
+star quest winner	kc presh	1
+station program director	kcal's virginia hunt	1
+store-bought marinade	kc masterpiece	1
+strategic-type aircraft	kc- one hundred and thirty-five s 	1
+sub-vented organization	kcrc	1
+thick BBQ sauce	kc masterpiece	1
+type NB cell	kcnr	1
+tool	kcura's relativity	1
+voltage-dependent potassium channel	kcnq channel	1
+windshield light	kc daylighters	1
+project	kci area	1
+artist	kc	3
+artist	kc & jojo	2
+artist	kcho	2
+artist	kc da rookie	1
+artist	kc groves	1
+material	kcl	2
+material	kca -formative	1
+material	kca operational assessment	1
+place	kcmo	2
+player	kc stadium	1
+product	kccc	2
+system	kc- ten 	1
+species	kcucl  two 	1
+brand	kc highlights	1
+brand	kc masterpiece	1
+component	kcl	2
+component	kc rope program reeving component	1
+site	kc bk	1

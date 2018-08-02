@@ -1,0 +1,951 @@
+product	j bends	1
+accessory	j channel	1
+datum	j one thousand nine hundred and thirty-nine 	2
+datum	j ava s cript debug variable	1
+resource	j two ee architects 	1
+facility	j cell	1
+facility	j one 	1
+source	j one 	1
+subject	j two ee application development 	1
+ophthalmologist	j schnell	1
+ophthalmologist	j charles	1
+ophthalmologist	j hummel	1
+ophthalmologist	j crawford	1
+ophthalmologist	j slight	1
+ophthalmologist	j r slight	1
+ophthalmologist	j rathbun jr	1
+ophthalmologist	j martinez	1
+ophthalmologist	j morillo	1
+ophthalmologist	j newel	1
+ophthalmologist	j mcnamara	1
+ophthalmologist	j smith	1
+ophthalmologist	j susi	1
+ophthalmologist	j brent oldenburg	1
+ophthalmologist	j coyle	1
+ophthalmologist	j crowell	1
+ophthalmologist	j donald gass	1
+ophthalmologist	j ernest	1
+ophthalmologist	j garvin	1
+ophthalmologist	j f riedel	1
+ophthalmologist	j m walcott	1
+ophthalmologist	j p bullock jr	1
+ophthalmologist	j pecora	1
+ophthalmologist	j stanley	1
+ophthalmologist	j roberts	1
+ophthalmologist	j rosenthal	1
+product	j two o fruit juice 	1
+exception	j dilla's the shining	1
+exception	j allard	1
+character	j jonah jameson	1
+model	j customs	1
+word	j - style ricer	1
+category	j one 	1
+change	j k r r marginal distribution shift	1
+client	j walter thompson	3
+client	j records	2
+client	j sainsbury	2
+client	j vineyards & winery	1
+client	j sainsbury's plc	1
+author	j k rowling	3
+author	j r miller	2
+author	j r tolkien	1
+author	j ohn k cooley	1
+author	j simon	1
+author	j krishnamurthy	1
+author	j c ryle	1
+person	j b	1
+person	j b marks	1
+approach	j two me for mobile 	1
+approach	j tube technology	1
+agency	j walter thompson	2
+course	j two ee 	1
+writer	j k rowling	1
+writer	j g ballard	1
+writer	j carson black	1
+writer	j??rgen habermas	1
+writer	j c ryle	1
+writer	j greene	1
+book	j r r tolkien's the lord of the rings	2
+book	j ust like jesus	1
+book	j feldman's transition tips	1
+book	j l king	1
+book	j thompson's england in the nineteenth century	1
+film	j badham's dracula	1
+procedure	j five  vaccination 	2
+band	j mascis	1
+title	j two  the son of the unstoppable juggernaut 	1
+scholar	j a t robinson	1
+scholar	j s. assemani	1
+type	j tube type	1
+type	j two m 	1
+city	j r mie	2
+city	j ekkara	1
+celebrity	j lo	5
+celebrity	j im jo nes	1
+celebrity	j ennifer hudson	1
+celebrity	j holiday	1
+firm	j sagar associates	1
+firm	j two  communications 	1
+requirement	j school's concerning ipods	1
+indicator	j  twenty-five  carbon 	1
+indicator	j j j  ten  j j silicon 	1
+manufacturer	j c wilkins	1
+act	j mascis	1
+act	j williams	1
+feature	j two a's new feature 	1
+feature	j two ee profiling 	1
+man	j t murphy	1
+complication	j curve	1
+publication	j of mems	1
+setting	j one thousand five hundred and eighty-seven  data buffers active 	1
+class	j twenty-four 	2
+class	j twenty-two 	1
+class	j class	1
+class	j eighty 	1
+class	j one 	1
+position	j two ee support engineer 	1
+individual	j walton newbold	1
+individual	j seymour	1
+figure	j m w turner	1
+unit	j two 	1
+leader	j wright	1
+leader	j?rg haider in austria	1
+leader	j h patel	1
+musician	j lia ribas	1
+musician	j dilla	1
+musician	j immy roberts	1
+innovation	j two 's pioneering use of solid state storage 	1
+song	j smith	1
+building	j residence	1
+style	j eight 	1
+style	j hook	1
+feature	j two ee integration feature 	1
+feature	j two me downloadable game 	1
+medication	j seven hundred and two  for celestone soluspan 	1
+format	j two k 	1
+Organisations	j sainsbury	1
+big name	j k rowling	2
+big name	j peterman	1
+big name	j two 	1
+big name	j crew	1
+standard	j two ee 	3
+standard	j two ee connector architecture 	3
+standard	j two ee application server 	1
+standard	j two ee  one . two 	1
+standard	j two me 	1
+advanced feature	j two ee interoperability 	1
+club	j rock	1
+club	j pauls	1
+club	j lounge grand melia hotel	1
+design	j eighty 	1
+influence	j dilla	3
+store	j crew	8
+store	j c penney	2
+customer	j t dove	2
+label	j records	2
+label	j brand in score	1
+environment	j two ee container 	1
+environment	j two me 	1
+environment	j two ee servlets 	1
+designer	j brand	2
+designer	j mendel	1
+software	j d edwards customer relationship management system	2
+software	j d edwards customer relat ionship management system	1
+magazine	j seventeen 	2
+retailer	j sainsbury	5
+retailer	j crew	3
+retailer	j sainsbury plc	2
+retailer	j c penney's	1
+color	j four  adn l fifteen 	1
+performer	j lo	1
+performer	j ross	1
+brand name	j crew	1
+legend	j dilla	1
+key item	j c penney economic	1
+journal	j exp med	2
+journal	j clin invest	2
+journal	j bio chem	1
+journal	j cell biol	1
+journal	j ournal of medical research	1
+journal	j ournal of political philosophy	1
+journal	j ournal of economics	1
+journal	j pharmacol exp ther	1
+journal	j pharmacol exp therapeut ics	1
+journal	j bone miner res	1
+great	j dilla	2
+pattern	j hook pattern	1
+line	j brand jeans	1
+line	j brand denim	1
+line	j brand	1
+producer	j dilla	10
+producer	j zone	2
+producer	j davey james brown	1
+channel	j sports in hd	1
+luminary	j five 	1
+luminary	j dilla	1
+driver	j r parker	2
+friend	j oel grey	1
+friend	j ackson pollock	1
+friend	j cole	1
+platform	j two me 	6
+platform	j twenty-eight 	1
+platform	j twenty-six 	1
+platform	j two me capable mobile phone 	1
+platform	j two se 	1
+platform	j twenty-seven 	1
+platform	j two me device 	1
+composer	j s bach	2
+protocol	j one thousand nine hundred and thirty-nine 	2
+protocol	j one thousand eight hundred and fifty  used by different manufacturer 	1
+protocol	j one thousand eight hundred and fifty  mux protocol 	1
+outcome	j ob satisfaction	1
+bank	j p morgan	2
+scientist	j c sarma	1
+scientist	j behari of the school of environmental sciences	1
+card	j ten 	1
+top brand	j brand	1
+domain	j two ee 	1
+historian	j david markham	1
+historian	j h round	1
+user	j w titus	1
+chain	j d wetherspoon	1
+mode	j  one 	1
+mode	j  three 	1
+mode	j  four 	1
+shop	j donuts	1
+shop	j crew	1
+theorist	j g frazer	2
+account	j b priestley's english journey	1
+large company	j d edwards	1
+director	j o hn huston	1
+scenario	j fifteen 	1
+veteran	j leman	1
+page	j ohn mccain time line	1
+popular brand	j brand	2
+popular brand	j p chenet	1
+rival	j sainsbury	4
+commentator	j pearson	1
+road	j c road	1
+specification	j two ee activity service 	2
+maker	j hall & co	1
+maker	j w benson	1
+marker	j two 	1
+container	j two ee container 	1
+thinker	j??rgen habermas	1
+drink	j twenty 	2
+drink	j two o 	1
+drink	j  two  o 	1
+establishment	j bar	1
+name brand	j brand	2
+name brand	j jill	1
+household name	j p morgan	2
+photographer	j stephen hicks	2
+photographer	j revealed	1
+pioneer	j n andrews	1
+fighter	j eight 	1
+fighter	j seven 	1
+philosopher	j r searle	1
+worker	j garrott allen	1
+developer	j two eesenior engineer sharma 	1
+support	j mascis	1
+face	j fader	1
+famous name	j & p coats	1
+reference	j one 	2
+engine	j eighteen 	1
+engine	j sixty-five 	1
+production	j b priestley's time	1
+tenant	j jill	1
+painter	j h lynch	1
+Celebs	j lo	1
+infrastructure	j two ee container 	1
+enemy	j six  fighter 	1
+architect	j duiker	1
+international company	j walter thompson	1
+version	j two se  one . four . two 	1
+server	j two eecompliant application server 	1
+server	j two ee-compliant open source application server 	1
+server	j two ee compliant application server 	1
+practitioner	j r cozens	1
+local artist	j casino	1
+phone	j seven hundred 	2
+heavyweight	j un aoki	1
+quality brand	j brand	1
+national act	j geils band	1
+extension	j two ee programming model extension 	1
+champion	j orge lorenzo	1
+locality	j p nagar	1
+cell type	j seven hundred and seventy-four  macrophages 	1
+modern technology	j two ee 	2
+offense	j walking	1
+similarity	j in jesus	1
+item	j two o 	1
+view	j two ee view 	1
+outfit	j boats	1
+builder	j & d builders	1
+headliner	j oan jett	1
+winery	j vineyards	1
+subsystem	j two -x engine 	1
+item	j c penney co property tax	1
+item	j fifty 	1
+distributor	j & l	1
+industry standard	j five hundred and seventeen 	1
+ion	j  six  j strontium 	1
+department store	j c penney	1
+rapper	j stalin	1
+technical skill	j two ee clustering 	1
+great name	j crew	1
+minister	j krishna palemar	1
+best practice	j two ee blueprints 	1
+designer brand	j crew	1
+chore	j short s t o r i	1
+liberal	j s mill	1
+hollywood star	j lo	1
+large firm	j a kemp & co	1
+premium brand	j brand	1
+sandwich	j & c club	1
+folder	j four 	1
+area	j jill	2
+national brand	j b fabric	1
+factory	j & g meakin	1
+factory	j h cope	1
+chemical compound	j acid	1
+league	j league	1
+american company	j & e seamons	1
+local restaurant	j sushi	1
+luxury brand	j brand	1
+supermarket	j sainsbury	3
+abbreviation	j for journal	1
+lawyer	j m nazareth	1
+lawyer	j ohn p. hannah	1
+popular name	j sainsbury	1
+development tool	j two ee support 	1
+martial art	j udo	1
+reality	j two me game 	1
+range	j by jasper conran	1
+medical supply	j f o'sullivan & co ltd located in co tipperary	1
+grade	j four 	2
+vice	j walker	1
+farmer	j im gerritsen	1
+great leader	j oan of arc	1
+large retailer	j crew	1
+key skill	j two me 	1
+hand	j nine 	2
+hand	j  four  unsuited 	1
+open standard	j two ee 	2
+open standard	j two me 	1
+wireless technology	j two me 	1
+academic journal	j ournal of retailing	1
+business partner	j bucks restaurant	1
+home improvement	j pena contacting home repair service	1
+established brand	j d williams	1
+record label	j records	1
+international act	j boog	1
+APIs	j two ee java naming 	1
+textbook	j three hundred and one 	2
+textbook	j five hundred and one 	2
+a-list celebrity	j lo	1
+hitter	j t riddle	1
+high-profile case	j arthur brown of fidentia	1
+blue chip company	j k technosoft	2
+industry publication	j ck	1
+drummer	j rgen reil	1
+cutting-edge technology	j two ee 	1
+manufacture	j & t windmills	2
+local industry	j & p coats	1
+edge technology	j two me 	1
+enterprise application	j two ee application server 	1
+musical great	j dilla	1
+antennas	j pole antenna	1
+service	j two ee run-time service 	1
+service	j date	1
+leading player	j k cement	3
+third-party tool	j query	1
+catalog	j crew	1
+professional journal	j ournal of marketing	1
+fund manager	j p morgan	1
+big retailer	j sainsbury	1
+hall	j two 	1
+retail giant	j crew	1
+strong brand	j crew	1
+measuring instrument	j six  transit 	1
+classifier	j fourty-eight 	1
+application server	j two ee compliant application server 	1
+application server	j two eecompliant application server 	1
+application server	j two ee-compliant open source application server 	1
+featured artist	j shep	1
+big bank	j p morgan	1
+domestic company	j jill group	1
+notation	j for the glottal voiceless fricative	1
+advertising agency	j walter thompson	2
+hip hop artist	j cole	1
+local shop	j & s accessories	1
+development environment	j two me 	2
+large store	j c pennys	1
+wireless communication device	j two me device 	1
+array	j four thousand five hundred  array 	1
+fruit juice	j twenty 	1
+banker	j onathan sorrell from goldman sachs	2
+racehorse trainer	j p located in co tipperary	1
+racehorse trainer	j g located in co down	1
+racehorse trainer	j p located in dorset	1
+racehorse trainer	j j located in county durham	1
+server application	j two ee application 	1
+visa	j one  exchange student visa 	1
+mobile platform	j two me 	3
+design pattern	j two ee composite entity 	1
+local eatery	j & l's country kitchen	1
+UK company	j sainsbury	1
+grocer	j sainsbury	2
+grocer	j sainsbury plc	1
+solo artist	j dash	1
+jewish organization	j street	2
+stud farm	j triangle c ranch located in colorado	1
+entertainment service	j two me game 	1
+bolt	j bolt	1
+large department store	j c penney	2
+british company	j sainsbury	1
+bedding	j d russell hay & straw inc located in ohio	1
+mature technology	j two ee connector architecture 	1
+leading figure	j m w turner	1
+record company	j records	2
+employment service	j o b matching	1
+group company	j upiter telecommunications co.	1
+jewish group	j street	2
+international	j period	1
+top designer brand	j lindeberg	1
+anchor store	j c penney	1
+commercial brand	j brand	1
+topic	j ob search techniques	1
+transmission	j p transmissions & repairs	1
+critical theorist	j rgen habermas	1
+industry-leading company	j m smucker company	1
+pope	j ulius ii	1
+big-name brand	j lindberg	1
+exclusive line	j brand denim	1
+exclusive line	j beverly hills	1
+difficult concept	j k maxton lbc repeal of a commonwealth law in reviving the information services	1
+web-based technology	j two se 	1
+great store	j crew	1
+food retailer	j sainsbury	2
+handgun	j frame snubbies	1
+topic	j two me 	1
+popular chain	j sainsbury	1
+machine learning algorithm	j fourty-eight 	3
+storyteller	j r r tolkien	1
+fashion store	j jill	1
+hottest brand	j lo sandal	1
+jean	j brand	2
+Mega-stars	j ack nicholson	1
+pairings	j geils band	1
+communist leader	j b marks	1
+independent retailer	j c rooks	3
+new feature	j two a's new feature 	1
+company	j two  global 	4
+company	j sainsbury	2
+company	j i case	2
+company	j k tyre	2
+company	j & r limo service	2
+company	j brand	2
+company	j & j limousine service	1
+company	j & j snacks	1
+company	j & r limousine of dallas near dfw airport in texas	1
+company	j d wetherspoon	1
+industry best practice	j two ee design pattern 	2
+actual datum	j character data page information	2
+high-quality brand	j jeans	1
+subset	j one thousand nine hundred and thirty-nine 	1
+global bank	j p morgan	1
+local medium outlet	j mag	1
+trading platform	j trader	1
+innovative new product	j twenty 	1
+sub-brands	j  two  o 	1
+dining establishment	j alexanders	1
+food store	j sainsbury	1
+medium figure	j r church	2
+revisionist historian	j r jones	1
+java technology	j two ee & j two me 	2
+java technology	j two me 	1
+renowned client	j k cements limited	1
+company	j & s extravagant limousine	1
+company	j & j snack foods	1
+company	j ames dixon & sons	1
+company	j r smith	1
+company	j b's limousine service	1
+brand store	j crew	1
+national chain store	j c penny	1
+third-party solution	j two me polish 	1
+small aircraft	j three  cubs 	1
+specialist function	j five  policy 	1
+specialist function	j five  engineer 	1
+specialist function	j five  cimic 	1
+specialist function	j five  legal 	1
+specialist function	j five  pa 	1
+top recording artist	j money	1
+shopping option	j c penny	4
+local singer	j anvil	1
+specialty company	j & w scientific	1
+denim brand	j brand	6
+local architect	j j clark	2
+american celebrity	j lo	1
+company	j k cements	1
+company	j l gray & son	1
+company	j howard fisk limousines	1
+company	j crew	1
+company	j & j's location in bridgewater	1
+company	j & o from brownsville	1
+company	j sainsbury distribution	1
+company	j c penny limited	1
+company	j & e stephens	1
+company	j & p coats dry goods & notions	1
+company	j & p cycles	1
+company	j & r limousine service	1
+company	j a brooks plastering ltd	1
+company	j b hunt	1
+company	j press	1
+company	j w longbottom of holmfirth	1
+hematopoietic cell	j seven hundred and seventy-four  cell 	1
+eminent writer	j ohn kenneth galbraith	1
+strong company	j two  global 	1
+hebrew name	j erusalem	1
+hebrew name	j esus	1
+hebrew name	j oshua	1
+software skill	j two me 	2
+british retailer	j sainsbury	1
+featuring label	j brand	1
+hip hop star	j boogie	1
+large investment bank	j p morgan	1
+wagon	j bly coal wagon	1
+popular route	j church	1
+woman celebrity	j k rowling	1
+integrated development environment	j two me wireless toolkit 	1
+lawn service	j boys lawn maintenance	1
+vintner	j lohr	1
+chief minister	j jayalalithaa	1
+functional domain	j domain	1
+genotypes	j two 	1
+jack	j four 	1
+SF author	j g ballard	1
+scribe	j  sixty  judaism ezra 	1
+great property	j w marriott cancun resort&spa hotel blvd.	1
+large supermarket chain	j sainsbury	1
+finance journal	j ournal of financial research	1
+input type	j one thousand nine hundred and thirty-nine 	1
+integration feature	j two ee integration feature 	1
+energy method	j contour integration	1
+essential piece	j brand's slim fit jean	1
+large and small company	j walter thompson	1
+private line	j & a brown line	1
+recording label	j records	1
+universal bank	j p morgan chase	1
+amazing wrestler	j three 	1
+century author	j simon	2
+classification approach	j fourty-eight 	1
+component framework	j two ee's enterprise javabeans 	2
+leading world expert	j jay park	1
+magic word	j fourty 	1
+nuclear medicine technique	j one x scintigraphy 	1
+side group	j street	1
+virtuoso artist	j rock	1
+cushion	j two  deep contour 	1
+heat protection spray	j life heat protection spray	1
+holly	j c van tol	1
+J2EE application server	j two ee  one . four  platform sdk 	1
+pro-israel group	j street	2
+british scientist	j b s haldane	1
+budget store	j crew	1
+contemporary commentator	j c dibdin	1
+high-end shop	j crew	1
+instrument company	j y horiba	1
+latest industry standard	j two ee  one . three 	1
+event	j four  in minnesota 	1
+supermarket giant	j sainsbury plc	1
+genuine samsung mobile model	j seven hundred 	1
+jockey agent	j w located in berkshire	1
+penetrating oil	j eighty-eight  corrosion cracker oil 	2
+photo collection	j w armstrong	1
+premium denim brand	j brand	2
+successful design	j thirty-three  powering the p eighty  shooting star 	1
+successful innovation	j two o 	2
+successful innovation	j  two  o 	1
+engine trade product	j eighty-five 	1
+headlining venue	j lounge	1
+international stalwart	j p duminy of south africa	1
+mobile application development service	j two me application development 	1
+order term	j four 	1
+premium drink	j two o 	1
+best author	j k rowling	1
+communication bus	j one thousand eight hundred and fifty  having multiple-access for interfacing with a plurality of electronics 	1
+Java development environment	j two se  one . four 	1
+real heavyweight	j marshall banks	1
+upmarket department store	j c penny in the united states	1
+videographers	j pearlman	1
+cell reference	j ten 	1
+commercial store	j crew	1
+contemporary british artist	j m w turner	1
+cult label	j brand	1
+java-based technology	j two me 	1
+keelboats	j twenty-four 	1
+keelboats	j twenty-two 	1
+keelboats	j eighty 	1
+mall staple	j crew	1
+popular night club	j b's night club	1
+Syxx Allstars	j rod	1
+volatility indicator	j wells wilder's average true range	2
+club leader	j c croly	1
+global biggie	j p morgan chase	1
+good department store	j c penney s	1
+hemodynamic index	j two 	1
+IPO stock	j kumar infraprojects	1
+large trucking company	j b hunt	2
+program	j rivers	1
+program	j rock	1
+environmental philosopher	j baird callicott	1
+International celebs	j lo	1
+nice action	j thirty-seven 	1
+north carolina artist	j cole	1
+program	j players	1
+program	j for seasonal worker	1
+popular mobile platform	j two me 	1
+quality shortlines	j & m wagons	1
+retailing name	j d wetherspoon	1
+run-time service	j two ee run-time service 	1
+standardized language	j sdl	1
+hmas  j5	j five 	0
+weekly and monthly magazine	j seventeen 	1
+application container	j two ee server 	1
+black leaders	j lowery	1
+classical liberal thinker	j s mill	1
+currently underused player	j cole	1
+debenhams brand	j by japer conran	1
+enterprise environment	j two ee application servers 	1
+geometrical variable	j volume	1
+grandfather clock	j h miller limited edition grandfather clock	1
+green truck patch	j cabbage	1
+indian and multinational institution	j p morgan	3
+indian seed company	j k seeds	1
+key beat figure	j a c k k e r o u a c a n d n e a l cassidy	1
+signature model	j five 	1
+software medium player	j river media center	1
+star hotel chain	j w marriott	1
+time-related event	j retention wire injury	1
+trend designer	j brand	1
+unusual make	j f rey	1
+anti-tithe author	j vernon mcgee	1
+big anchor store	j c penney	1
+branded fabric	j hampstead	1
+business process management tool	j bpm	1
+cointegration test	j cointegration test	1
+counter operation	j counter of fig	1
+factor	j ob satisfaction	1
+development role	j two ee server provider 	1
+english member	j roby s camilleri	1
+haplogroups	j two 	1
+java environment	j two ee container 	1
+pro MMA fighter	j osh barnett	1
+regular stall	j h jones of ledsham	1
+organization	j street	2
+solar cell parameter	j sc	1
+thermocouple	j with an infrared thermocouple	1
+top owner	j p mcmanus	1
+trust brand	j crew	1
+adult-focused food brand	j two o 	1
+australia's top choreographer	j ane beckett	1
+big customer experience company	j d powers	1
+biggest ad agency	j walter thompson	1
+bonus asian site	j schoolgirls	1
+chan-listed variety	j two - six 	1
+commercially available tester	j nine hundred and seventy-one  sold by teradyne 	1
+cornering technique	j turn	1
+country rock artist	j d souther	1
+designer & branded watch	j springs	2
+dive wreck	j three  sub off indented head 	1
+dovish group	j street	2
+organization	j street u	1
+evangelical luminary	j john	1
+mid-range shop	j crew	1
+modern kit	j ten 	1
+physical examination method	j sign	1
+organization	j p morgan chase	1
+organization	j & s corporation with bookkeeping	1
+relo company	j e kelleher	1
+renown producer	j remy	1
+side composer	j p robinson	1
+taiwan-based touch panel maker	j touch	1
+Texas Zydeco artisit	j paul jr	1
+top denim brand	j brand	1
+application server capability	j two ee connector architecture 	1
+classic womenswear retailer	j crew	1
+cross-compilation framework	j two me polish 	1
+demin brand	j brand	1
+english interactionist writer	j young	1
+historical exception	j sainsbury	1
+influential alternative hip hop producer	j dilla	2
+J2EE integration feature	j two ee connector architecture 	1
+j2eeintegration feature	j two eeconnector architecture 	1
+java platform	j two me 	5
+java platform	j two se 	2
+left-wing jewish group	j street	4
+liberal jewish group	j street	1
+limited service retailer	j c penney	1
+mechanical theft device	j bar	1
+microsoft game studio executive	j allard	1
+midline symptom	j neural transm. one hundred and three 	1
+mobile JVM	j nine 	1
+mobile operator network entity	j two me server 	1
+application	j river media center	2
+application	j two me 	1
+application	j two ee application 	1
+application	j two ee server 	1
+notable art collector	j paul getty	1
+overhead byte	j zero 	1
+overhead byte	j zero  byte 	1
+psychology title	j ournal of general psychology	1
+real estate private equity investor	j p morgan	1
+recognisable figure	j edgar hoover	1
+runtime application	j two se java runtime environment 	1
+Sativas	j one 	1
+serious, artisanal producer	j wine co.	1
+short term course service	j two ee course service 	1
+single arm sigma mixer	j h day	1
+successful new product development	j two o 	4
+sun microsystem technology	j two ee compact framework 	1
+application	j five  procedure book 	1
+top blend	j & b ultima	1
+women's jean brand	j brand	1
+3formation-keeping control disturbance	j  two 	1
+american cult brand	j brand	1
+area best drummer	j ack kuhn	1
+array model	j four thousand two hundred  array 	1
+avantgarde form	j ungian	1
+awesome international label	j brand jean	1
+big denim brand	j brand	3
+bulky matter	j arthur bower's organic garden compost	1
+name	j crew	2
+name	j kwon	1
+name	j lo	1
+commercial middleware	j two me 	1
+competent GM	j p ricciardi	1
+compliant application server	j two ee compliant application server 	1
+consumer wireless device platform	j two se 	10
+contemporary producer	j dilla	1
+contrast postmodernist fiction	j r	1
+co-op's competitor	j sainsbury	1
+countless local artist	j snipes	1
+demanding yacht	j class velsheda	1
+doubletons	j five 	2
+downstream regulator	j fourty-eight 	1
+drug code	j one thousand one hundred  for decadron 	1
+drug code	j six hundred and ninety-six  for rocephin 	1
+EAI integration technology	j two ee connector 	1
+entreprenueral preacher	j wright	1
+environmentally conscious corporation	j c penney's	1
+execution only SIPPs	j bell s e-sipp	1
+execution only SIPPs	j bell's e-sipp	1
+famous american car designer	j mays	2
+name	j four d uno c four e john smith 	1
+name	j krishnamurthy	1
+name	j frank dalton	1
+name	j abbott	1
+name	j anvil	1
+name	j b priestley	1
+name	j werich	1
+name	j by jasper conran	1
+name	j two se v one . four 	1
+formation-keeping control disturbance	j  two 	2
+framework environment	j two ee container 	1
+freight distribution company	j h bunn ltd	1
+Fresh concrete test s	j ring	1
+FSJ application	j twenty 	1
+great casual brand	j shoes	1
+great fiction writer	j b priestley	1
+Jayakumar's illustrious predec essors	j sivashamugam pillai	1
+johnny's related label	j storm	1
+JSP construct	j sp expression element	1
+JVM implementation	j nine 	1
+large corporate complex	j twenty-six 	1
+left-leaning jewish group	j street	3
+case	j fourty-eight 	1
+case	j ember	1
+localist writer	j m mcintosh	1
+long-standing industry leader	j sainsbury	1
+lower-profile premium brand	j crew	1
+metal epoxy	j b weld	1
+mohegan lake motor service	j & j auto sales	1
+non i-series printer	j three hundred and ten 	1
+non i-series printer	j four hundred and twenty 	1
+ODA consumer application	j two ee application 	1
+open source application server	j two ee-compliant open source application server 	1
+phr ase-indexed field	j ourn al name	1
+piano store	j b piano in san rafael	1
+podcast show	j et setter show	1
+premier denim brand	j brand	1
+progressive jewish group	j street	1
+pro-israel and jewish-identified organization	j street	1
+prominent homeopath	j h allen	1
+rectangular model	j five 	1
+rectangular model	j six 	1
+reformist administrator	j d storey in queensland	1
+renowned organic hair color system	j beverly hills	1
+responsible, left-wing group	j street	1
+revolutionary game mechanism	j oi n t winning o f r aw material	1
+second column	j seven 	1
+simply purchase gift certificate	j c penney	1
+SIPP specialist	j bell	1
+skilled free black	j ohn allines	1
+successful product development	j two o 	1
+option	j five  box 	1
+option	j brand's zipper skinny jeans in xray	1
+tanner	j geddes	1
+template-type tool	j eight hundred and twenty-six   two -d template 	1
+tender locomotive	j eleven 	1
+tender locomotive	j twenty-five 	1
+third party extension	j two me polish 	1
+top thai electronic artist	j monton	1
+transportation engineer	j b barry & partners	1
+US-producers	j dilla	1
+variable ray	j  one hundred and twenty-four 	1
+variable run	j  one hundred and twenty-four 	2
+Visionary driven person	j f kennedy	1
+weak link property	j cwv hpw	1
+action specific list	j eighteen 	1
+afterburning variant	j eighty-five -ge- twenty-one a on the malaysian tiger ii 	1
+aggressive K04 file	j thirty-one 	1
+audio reviewer	j peter montcrieff	1
+beautiful blue iris	j ane p hillips	1
+bell bottom jean	j brand's the doll	1
+big record label head honcho	j prince from rap a lot	1
+boldface letter	j denote bit string	1
+built-in interpreter	j two me virtual machine 	1
+carpet maker	j & g templeton	1
+classic, dark wash denim frombrands	j brand	1
+clothes manufacturer	j deb penny	1
+coli	j five 	1
+concealable double action sidearm	j frame s&w	1
+contemporary guidebook	j rathbun's comprehensive good spirits	1
+cool recent addition	j two  wooden roller coaster 	1
+Decision treeclassiers	j fourty-eight 	1
+developer framework	j two ee entity beans 	1
+dovish jewish group	j street	1
+group	j street	3
+group	j four j 	1
+eighty-year old assessment	j f c fuller's	1
+electric rc plane	j three  piper cub 	1
+eventually personality	j b basedow	1
+extraneous clutter	j rivers media centre	1
+famous practicing return preparers	j k harris	1
+fo reign bank	j p m o rgan chase	1
+foundation-building DJs	j da flex	1
+fsfl matrix-vector product	j  one 	1
+good hair moisturizer	j beverly hills	1
+high quality stainless steel	j two   four hundred and fourty c 	1
+honda team	j & b racing	1
+Houston haters	j let's go shopping	1
+inferior boules	j ~ o	1
+java book	j two ee design patters 	1
+JSAT OPIs	j five pa coord 	1
+large open event	j p morgan rti race	1
+lead junction	j lead	1
+lime stone slab	j yellow limestone polished slab	1
+local sailing school	j world for sailing lessons in the san diego area	1
+logical resource type	j two ee application server 	1
+mass protest event	j eighteen 	1
+memory-constrained environment	j two me 	1
+modern application development platform	j two se 	1
+modern democratic theorist	j rgen habermas	1
+music server package	j rivers media center	1
+natural stream channel design structure	j hook	1
+negative community response	j four 	1
+neolithic lineage	j two 	1
+non-b classification visa holder	j visa	1
+method	j fourty-eight 	1
+open mobile platform	j two me 	1
+popular blended scotch	j & b rare blended scotch whisky	1
+pro-hamas group	j street	1
+prominant political leader	j r jayawardenene	1
+prominent homoeopaths	j h allen	1
+proper N noun	j john s smith	1
+proprietary seed compost	j arthur bower's seed & cutting compost	1
+public protocol	j one thousand nine hundred and thirty-nine 	1
+public transport bus	j two 	1
+pulmonary unmyelinated irritant receptor	j receptor	1
+pure sativas	j one 	1
+real crappy hand	j three  off suit 	1
+rich merchant banker	j p morgan	1
+saber marionette J show	j to x	1
+Serial nos.	j two 	1
+simple text string	j two 	1
+skinny cargo	j brand houlihans	1
+small commercial vehicle	j five 	1
+smooth cabernet sauvignon	j lohr seven oaks cabernet sauvignon	1
+specialist buyer	j s wright & sons ltd	1
+stress-strain model	j two  flow theory 	1
+teen gossip magazine	j fourteen 	1
+third party UI library	j two me polish 	1
+top drop	j j prum wehlener sonnenuhr	1
+traditional middleware product	j two ee application server 	1
+trans theorist	j ack halberstam	1
+tool	j two me polish 	1
+tool	j two me 	1
+wedding series company	j crew	1
+western neolithic Y-DNA lineage	j two 	1
+wireless internet platform environment	j two me 	1
+wireless middleware	j two me 	1
+young, magazine	j seventeen 	1
+tool	j a r s ignefrom the  one . two  sdk 	1
+artist	j cole	7
+artist	j dilla	7
+artist	j moss	3
+artist	j stalin	2
+artist	j holiday	2
+artist	j michael verta	2
+artist	j wess	1
+artist	j spades	1
+artist	j anthony	1
+artist	j billz	1
+artist	j d crowe	1
+artist	j records	1
+artist	j mascis	1
+artist	j m whistler	1
+artist	j lo	1
+artist	j b arthur	1
+artist	j allen st john	1
+artist	j flow	1
+artist	j diggs	1
+artist	j rawls	1
+artist	j majik	1
+place	j west	1
+player	j altidore	1
+player	j k lakshmi cement	1
+player	j mccarron	1
+player	j lloyd samuel	1
+player	j p losman	1
+player	j zanetti	1
+technology	j two me 	8
+technology	j two ee platform 	2
+technology	j two ee connector architecture 	1
+technology	j two me cldc 	1
+product	j igs & fixtures	1
+product	j of beverly hills	1
+term	j  four 	1
+term	j  two 	1
+term	j source	1
+system	j two ee application servers like bea weblogic 	1
+element	j two ee applications 	1
+function	j ob analysis	1
+brand	j brand	16
+brand	j crew	5
+brand	j brand jeans	4
+brand	j lindeberg	2
+brand	j twenty 	2
+brand	j by jasper conran	2
+brand	j chisholm	2
+brand	j c penny	1
+brand	j brand houlihan	1
+brand	j jill	1
+brand	j obman workwear	1
+brand	j two o 	1
+component	j five -j nine 	1
+component	j two ee 	1
+component	j five -j seven 	1
+component	j two ee server 	1
+site	j c whitney	1

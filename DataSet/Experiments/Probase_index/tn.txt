@@ -1,0 +1,1077 @@
+factor	tnf-alpha	5
+product	tntmips	1
+product	tnc connector related product	1
+product	tnc	1
+product	tnferade	1
+initiative	tnp xplan	1
+initiative	tns	1
+initiative	tnp assist	1
+initiative	tnp academy	1
+initiative	tnp institute	1
+datum	tnsbuf	1
+datum	tnempc	1
+facility	tnai journals	1
+facility	tnp	1
+source	tnt magazine	1
+source	tnec	1
+source	tnt	1
+property	tnc	1
+game	tnn hardcore heat	1
+exception	tn	2
+exception	tnt barrel	1
+exception	tnt's the good old boys	1
+product	tnb	1
+product	tns	1
+model	tno	1
+model	tntp	1
+attraction	tn aquarium	1
+institution	tno	1
+client	tnt	5
+client	tns	1
+client	tnb	1
+client	tnt post	1
+approach	tntmips use of vector object	1
+agency	tns	2
+agency	tn care	1
+object	tnt	1
+course	tncc	3
+solution	tnr	1
+feature	tnsae's flickr page	1
+book	tnt diet	1
+book	tng companion	1
+school	tn	1
+agent	tnf-neutralizing antibody	3
+agent	tnf neutralizing antibody	1
+agent	tnf antagonist	1
+agent	tnf-antagonising biological agent	1
+feature	tn two thousand three hundred and twelve bp duplication 	1
+development	tne house of lords decision in cambridge water co	1
+city	tn	13
+venue	tn	5
+venue	tnn	1
+town	tn	2
+firm	tnt	2
+firm	tna	1
+industry	tnb research	2
+industry	tnuva dairy	1
+drug	tnf-alpha antibody	2
+drug	tnf inhibitor	2
+drug	tnf-alpha inhibitor	1
+drug	tnf antagonist	1
+drug	tnf blocker	1
+drug	tnf-a inhibitor	1
+drug	tnf-alpha blocking agent	1
+test	tnf-alpha	1
+compound	tnt	6
+compound	tnf alpha	1
+study	tns research survey's black diamond	1
+study	tnt study	1
+song	tnt's famous anthem get the ball''	1
+substance	tnf-alpha	1
+researcher	tns media intelligence	1
+medication	tnf blocker medication	1
+medication	tnf blocker	1
+medication	tnf inhibitor medication	1
+Organisations	tns research	1
+Organisations	tnt	1
+partner	tnc	3
+partner	tno	1
+animal	tne ostritch	1
+standard	tnc's if-map protocol	1
+show	tna impact	1
+show	tnt men of a certain age	1
+vendor	tns cymfony	2
+store	tna	2
+store	tnt fireworks supercenter in dania beach	1
+customer	tnt	2
+customer	tns mills	1
+customer	tnt special services	1
+customer	tno	1
+customer	tnpl	1
+section	tnc settings	1
+actor	tncs	1
+actor	tnp	1
+chemical	tnt	6
+provider	tns	3
+protein	tnfrig fusion protein	1
+competitor	tnt post	1
+stakeholder	tnz	1
+addition	tnt	1
+legend	tna victory road legend	1
+state	tn	24
+state	tn ky	1
+state	tn wc	1
+neighborhood	tn of nocatee	1
+package	tng geneology	1
+channel	tnt	16
+channel	tnt-hd	1
+channel	tnt hd	1
+channel	tnn	1
+utility	tnb	1
+everything	tna	1
+bank	tnb	1
+card	tnt two 	4
+card	tnt	3
+card	tnt two  card 	1
+molecule	tnf-alpha	2
+molecule	tnfaip six 	1
+molecule	tnfalpha	1
+molecule	tnf-a	1
+association	tn chamber	1
+operator	tnt post of the netherlands	1
+network	tnt	17
+network	tnn	1
+network	tnt & cw	1
+station	tnt	4
+guy	tnt tyler jackson	1
+basic information	tnt deadline	1
+target	tnf-a	1
+factor	tnm stage	2
+factor	tnf alpha	2
+factor	tnancing cost	1
+factor	tnm classification	1
+factor	tnf-a	1
+issue	tnb tariff	1
+talent	tna's chris sabin	1
+gene	tnxb	2
+gene	tnfsf thirteen b 	2
+gene	tnf-induced nf-b-regulated  gene	1
+gene	tns four 	1
+gene	tnf receptor	1
+gene	tnfaip six 	1
+gene	tnnt two 	1
+gene	tnfrsf four 	1
+carrier	tnt	7
+carrier	tnt post	1
+rival	tnt post uk	1
+county	tn	1
+outlet	tnk radio show	1
+command	tnit	1
+name brand	tna	1
+liqueur drink	tnt cocktail recipe	1
+analyst	tnt's charles barkley	1
+code	tnite six 	3
+code	tnitq four hundred and six 	3
+code	tnwin seven rtm 	3
+code	tnwin seven l 	3
+enzyme	tnf-a sup-presseslipogenic  enzyme	1
+number	tn- one 	1
+decoration	tnt bundle display	1
+stimulus	tnf-alpha	2
+stimulus	tnf on certain cell line	1
+stimulus	tnf-and cd fourty  ligation 	1
+stimulus	tnf alpha	1
+inhibitor	tnf-mrna  synthesis inhibitor	1
+sound	tnt & renegade	1
+non-profit organization	tnc	1
+television show	tnn	1
+large organization	tno	1
+large organization	tnc	1
+small town	tn	1
+member	tnf receptor superfamily member	1
+member	tnfr family member	1
+member	tnf-r family member	1
+member	tnf receptor family member	1
+member	tnf receptor member	1
+international company	tns	1
+international company	tnt headoffice in the netherlands	1
+version	tniv	3
+treatment option	tnf-alpha inhibitor	2
+certification	tncc	3
+item	tnsnames.ora file used for database access	1
+coating	tnemec series  sixty-six 	1
+display	tn liquid crystal display	1
+display	tn liquid crystal display device	1
+training	tncc	1
+output	tn three thousand two hundred and seventy 	1
+private company	tnt post	1
+international brand	tnt	1
+mistake	tny zale	1
+contractor	tnt post	1
+organic compound	tnt	1
+well-known company	tnt	1
+item	tnt block	1
+item	tnt	1
+item	tnt bomb	1
+chronic disease	tn requin	1
+institute	tno	1
+creation	tnt roll	1
+classification	tnm staging system	1
+classification	tn- one 	1
+multinational company	tnt	1
+local favorite	tnys~ry writer sara andrews	1
+leading company	tnuva	1
+leading company	tnt	1
+mega event	tna wrestling happening throughout the year	2
+private organization	tnc	1
+winery	tnt tolleys	2
+item	tn property tax	1
+prescription medication	tnf blockers like enbrel	1
+global company	tnt n.v.	1
+metropolitan area	tn	1
+bag	tnf darkstar	1
+large firm	tnt	1
+cytokines	tnf-alpha	79
+cytokines	tnf-a	28
+cytokines	tnf alpha	11
+cytokines	tnf-aand il- one  from resident cell 	3
+cytokines	tnf-aand ifn-g	1
+cytokines	tnf-aand il- one  b 	1
+cytokines	tnf-aandfibroblast growth factor	1
+cytokines	tnf	1
+cytokines	tnfa	1
+cytokines	tnf in human	1
+cytokines	tnf-aand gm-csf	1
+cytokines	tnf-and ifn-are major mediators of acute inflammation	1
+cytokines	tnf- two 	1
+cytokines	tnf-and il- six 	1
+small molecule	tnt	1
+area	tn	5
+prognostic factor	tnm stage	2
+prognostic factor	tnm staging	1
+prognostic factor	tnm classification	1
+meds	tnf blocker	1
+connector	tnc	3
+large group	tnt	1
+family member	tnf receptor family member	1
+family member	tnf-r family member	1
+family member	tnfr family member	1
+promoter	tnt motorsports	6
+chemical compound	tnt	2
+top designer	tng	1
+clinical datum	tnm	1
+basic principle	tness function	1
+broadcaster	tnt	1
+agonists	tnf-a	1
+area	tn miami	1
+global player	tnt express	1
+soil property	tn	1
+allergen	tncb	1
+cellular process	tnf-alpha signaling	1
+mediator	tnf-alpha	4
+mediator	tnf-a	2
+external agency	tns	1
+translation	tniv	5
+corporate giant	tnt	2
+clinical variable	tnm stage	1
+international player	tnt	1
+international player	tnk-bp	1
+organic substance	tnt	1
+datum item	tnm staging	1
+oil company	tnk-bp	1
+area	tnp	1
+bulk item	tnt	1
+funders	tnt motorsports	1
+renowned company	tns research international china	1
+public utility	tnb electricity	1
+fare	tnt sport fare	1
+biochemical parameter	tnf-a	1
+european company	tnt	1
+critical system	tnms	1
+inert material	tni	1
+delivery method	tnt	1
+International NGOs	tnc	3
+biological agent	tnf-antagonising biological agent	1
+biological agent	tnf inhibitor	1
+clinical characteristic	tnm staging	1
+topical medication	tnt nail treatment	1
+conservation organization	tnc	3
+news source	tnj.com's online news magazine	1
+research institute	tno	2
+explosive	tnt	38
+international project	tnc's photovoice project	1
+Party Equipment Rental s	tn foam machine rental	1
+international firm	tns mills	1
+professional company	tnt	1
+roll	tn	1
+roll	tnt roll	1
+prestigious brand	tnt	1
+leading player	tnpl	1
+inflammatory mediator	tnf-alpha	8
+inflammatory mediator	tnf-a	2
+inflammatory mediator	tnf alpha	1
+anti-inflammatory medication	tnf antagonist	1
+high end brand	tna	1
+research center	tno in aruba	1
+government building	tnhb towers	1
+emulator	tn five thousand two hundred and fifty j emulator 	1
+service	tns names server	1
+service	tnt parcel delivery	1
+anti-inflammatory agent	tnf antagonist	1
+charity organization	tnt	1
+international partner	tnt	1
+delivery service	tnt express	1
+fragment	tnf-binding antibody fragment	1
+prestigious project	tney nhs fastrack project	1
+cable channel	tnt	7
+cable channel	tnt in hd	1
+cable channel	tnn	1
+military leader	tni chief general endriartono sutarto	1
+cooperative	tnuva	1
+remote place	tn solitary and remote place	1
+multinational firm	tnt limited	1
+television station	tnt	1
+television station	tnn	1
+cable network	tnt	14
+television channel	tnt	1
+shipping company	tnt	2
+shell	tnrbinella	1
+service	tnag	1
+service	tns cymfony	1
+cable company	tnt	2
+donor agency	tnc	1
+inflammatory marker	tnf-a	2
+visa	tn visa	3
+visa	tn	1
+dangerous object	tnt	1
+diva	tna impact diva	1
+vital component	tnpp network cards	1
+international carrier	tnt	1
+introduction	tn one 	1
+programmer	tnt	1
+small market	tn vero beach	2
+complex element	tn  seven 	2
+tumor characteristic	tnm stage	1
+TV network	tnt	1
+popular channel	tnt	1
+protective layer	tnt	1
+research firm	tns media intelligence	1
+transportation company	tnt	1
+Proinflammatory cytokines	tnf-alpha	23
+Proinflammatory cytokines	tnf-a	11
+Proinflammatory cytokines	tnf alpha	3
+Proinflammatory cytokines	tnf-and il- six 	3
+Proinflammatory cytokines	tnf-and il- one 	2
+Proinflammatory cytokines	tnf-aand il- one  b 	1
+Proinflammatory cytokines	tnf-aand il- six 	1
+Proinflammatory cytokines	tnf-or il- six 	1
+antiviral agent	tnv	1
+biologic agent	tnf inhibitor	1
+biologic agent	tnf inhibitors etanercept	1
+large network	tnt	1
+susceptible variety	tn one 	1
+shipping method	tnt	4
+Inflammatory cytokines	tnf-alpha	18
+Inflammatory cytokines	tnf-a	12
+Inflammatory cytokines	tnf alpha	2
+Inflammatory cytokines	tnf	1
+banking institution	tn bank	1
+national network	tnt	1
+large carrier	tnt	1
+multimedia product	tnt receiver	1
+HD channel	tnt hd	2
+HD channel	tnthd	1
+HD channel	tnt	1
+topic	tn status	1
+inflammatory stimulus	tnf-alpha	3
+inflammatory stimulus	tnfr	1
+candidate gene	tnfrsf six b 	1
+research centre	tno	1
+Complementary information	tnm staging	1
+surface molecule	tnf receptors p fifty-five 	1
+statewide organization	tnc	1
+design standard	tnd code	1
+Pro-inflammatory cytokines	tnf-alpha	24
+Pro-inflammatory cytokines	tnf-a	10
+Pro-inflammatory cytokines	tnf alpha	1
+Pro-inflammatory cytokines	tnf-and il- one 	1
+Pro-inflammatory cytokines	tnf-aand il- one  b 	1
+structured program	tnt	1
+digital channel	tnt	1
+graphic card	tnt two 	1
+russian company	tnk-bp tnbpi.rts	1
+video card	tnt card	1
+global partner	tnk-bp	2
+ice	tn  nine hundred and sixteen 	1
+polity	tnps	1
+company	tnt	31
+company	tns	6
+company	tnr	4
+company	tnt express	3
+company	tnk-bp	3
+company	tnk	3
+company	tnuva	3
+company	tns global	2
+courier service	tnt	3
+illegal item	tnt	1
+explosive material	tnt	5
+explosive device	tnt	1
+ROMs	tnt lite	1
+extracellular stimulus	tnf-a	1
+outside company	tn	1
+ad agency	tn communication	1
+certification course	tncc	1
+prognostic indicator	tnm stage	1
+company	tns media intelligence	1
+company	tnt post	1
+company	tn dept of education	1
+company	tnn industries	1
+company	tnk bp	1
+company	tns latvia	1
+company	tnb	1
+company	tna	1
+company	tnl	1
+company	tns new zealand	1
+medium-sized company	tnt express of argentina	1
+research agency	tno	1
+courier company	tnt	6
+proinflammatory mediator	tnf-alpha	1
+visa category	tn	3
+extracellular matrix protein	tn-c	1
+inflammatory factor	tnf-alpha	1
+pro-inflammatory mediator	tnf-alpha	2
+pro-inflammatory mediator	tnf-a	2
+clinicopathological factor	tnm stage	2
+house brand	tna	1
+inflammatory agent	tnbs	1
+inflammatory agent	tnf	1
+innovative treatment	tnkase	1
+umbrella	tne	1
+delivery company	tnt	1
+mitogens	tnf-a	1
+private carrier	tnt	1
+company	tnuva romania dairies srl	1
+company	tnr entertainment	1
+company	tns sofre	1
+company	tnp	1
+company	tnn	1
+display mode	tn mode	1
+utility provider	tnb	8
+clinicopathological parameter	tnm system	2
+high explosive	tnt	20
+ongoing study	tnt	1
+weekly magazine	tnt	1
+costimulatory molecule	tnfr superfamily members like cd one hundred and thirty-seven 	1
+market entrant	tnt post	1
+medium agency	tn media	1
+biological compound	tnf inhibitor	1
+famous horse	tnt mr. marvelous	1
+fleet operator	tnt	1
+common font	tnr	1
+inflammatory biomarkers	tnf-alpha	1
+scoring system	tnm	1
+antibody fragment	tnf-binding antibody fragment	1
+mailing service	tnt	1
+biologic drug	tnf inhibitor	2
+clinicopathologic feature	tnm stage	2
+clinicopathologic factor	tnm stage	2
+effector molecule	tnf-related apoptosis-inducing ligand	1
+local theater company	tns	2
+mobile game	tna wrestling	1
+mobile genetic element	tn five thousand two hundred and fifty-two -like homologs 	1
+mobile genetic element	tn  one thousand seven hundred and twenty-one 	1
+reputable carrier	tnt securicor	1
+freight company	tnt	1
+immunomodulating agent	tnf-alpha antagonist	1
+factor	tnlf produced by macrophages	1
+cable station	tnt	3
+collaborative group	tnc	1
+market research company	tns	1
+rival firm	tnt	1
+rival firm	tnt in the netherlands	1
+work visa	tn	2
+work visa	tn visa	1
+explosive chemical	tnt	1
+government-owned company	tnb	1
+environmental management system	tns	1
+paper mill	tnpl	1
+Th1 cytokines	tnf-alpha	1
+transposable element	tn five thousand two hundred and seventy-one  encoding  four -chlorobeazoate metafmtism 	1
+transposable element	tn  five 	1
+clinicopathological feature	tnm stage	1
+display element	tn liquid crystal element	1
+cable television channel	tnt	1
+death receptor	tnfr	4
+death receptor	tnfr one 	4
+death receptor	tnf-related apoptosis-inducing ligand receptor	1
+death receptor	tnf receptor	1
+energetic material	tnt	2
+explosive compound	tnt	4
+nonimmigrant visa	tn	2
+pro-angiogenic factor	tnf-alpha	1
+biological drug	tnf-alpha inhibitor	1
+clinicopathologic variable	tnm stage	1
+rich state	tn	1
+target molecule	tnf-alpha cytokines	1
+apoptosis-related gene	tnfrsf twenty-one 	1
+cable outlet	tnt	1
+great special	tnt tuesday night tacos	1
+liquid crystal	tn type liquid crystal	1
+liquid crystal	tn liquid crystal	1
+liquid crystal	tn liquid crystal l	1
+reaction component	tnr	1
+cable television network	tnt	1
+international conservation organization	tnc	1
+large food manufacturer	tnuva	1
+transposons	tn ten 	4
+transposons	tn  ten 	3
+transposons	tn  three 	3
+transposons	tn  five 	1
+transposons	tn  nine 	1
+transposons	tn five hundred and fifty-two 	1
+transposons	tn  seven 	1
+transposons	tn three 	1
+visa holder	tn worker	1
+destination wedding	tn	1
+inflammatory gene	tnfsf ten 	1
+remote object	tnos	1
+well-known multinational company	tnt	1
+well-known multinational company	tns	1
+encrypted channel	tnt	1
+power utility	tnb	1
+small-cap stock	tnpl	1
+weekly show	tna impact	1
+immune mediator	tnf-alpha	3
+nitroaromatic compound	tnt	3
+parcel service	tnt	1
+physical team	tn	1
+SD channel	tnt	1
+southern democrat	tn sen. albert gore sr.	1
+energetic compound	tnt	1
+national operator	tnt	1
+satellite event	tnn country weekly music awards on wednesday	1
+basic cable channel	tnt	2
+common combination	tnp	1
+letter acronym	tno	1
+programming provider	tnt	2
+proportional font	tnr	1
+renowned research institution	tno quality of life	2
+cable TV network	tnt	1
+conventional explosive	tnt	6
+express company	tnt	1
+famous global company	tnf	1
+HDTV channel	tnt hd	1
+in-game object	tnt crate	1
+monokines	tnf-alpha	2
+nitro compound	tnt	1
+popular tennessee city	tn	1
+staging system	tnm	1
+throwing weapon	tnt	1
+boat dealer	tnt marine & storage in bartonville	1
+cannabis strain	tnr	1
+carrier company	tnt	1
+explosive charge	tnt	2
+global test	tno random dot stereograms	1
+HD national channel	tnt	1
+event	tna wrestling event	1
+event	tnt the server day	1
+popular station	tnt	1
+russian oil company	tnk	1
+russian oil company	tnk-bp	1
+superfamily member	tnf receptor superfamily member	1
+Th1-type cytokines	tnf-a	1
+biologic medication	tnf-alpha inhibitor	1
+biologic medication	tnf inhibitor	1
+company's client	tnt	2
+entertainment network	tnt	3
+Interfering species	tnt	4
+marketing research firm	tns india	1
+thailand tv channel	tnn tv	2
+american channel	tnt	1
+classic sound	tng hand phaser	1
+program	tnt	3
+high-profile initiative	tne	1
+postal operator	tnt	1
+pro-inflammatory gene	tnf-a	1
+proinflammatory marker	tnf-alpha	1
+proinflammatory stimulus	tnf-alpha	1
+proinflammatory stimulus	tnf-a	1
+Bonus power-ups	tnt bombs	1
+destructive item	tnt	1
+electricity provider	tnp enterprises firstchoice	1
+employee engagement program	tnt family day	1
+fact company	tnb	1
+free magazine	tnt	5
+International conservation NGOs	tnc	1
+Macrophage-derived cytokines	tnf-a	1
+Macrophage-derived cytokines	tnf-alpha	1
+mail service provider	tnt	1
+national certification program	tncc	1
+program	tnr	1
+program	tnc's erp project	1
+program	tne	1
+program	tnt mips	1
+program	tna ucf	1
+performance-related variable	tna growth	7
+proin-flammatory cytokines	tnf-a	1
+RF connector	tnc	2
+secondary explosive	tnt	3
+Adipocytokines	tnf-alpha	1
+common explosive	tnt	2
+competitor city	tn	1
+digital cable channel	tnt	3
+feature new weapon	tnt	1
+formal classification	tnm system	1
+immunomodulatory cytokines	tnf-alpha	1
+insertable cable network	tnt	1
+inspired acquired client	tnt	2
+interface stock standard connector	tnc	1
+monocyte function	tnf-alpha secretion	2
+non-profi t organization	tnc	1
+pathologic datum	tnm stage	1
+pay-tv network	tnt	1
+program	tnm	1
+popular dancer	tnt squad	3
+analog cable channel	tnt	1
+biggest oil company	tnk-bp	1
+content business	tnt	1
+high-order explosive	tnt	1
+human growth factor	tns from skin medica	1
+International and national NGOs	tnc	1
+internet site station	tnt	1
+community	tn	1
+paid tool	tns cymfony	1
+preoperative baseline demographic datum	tnm clinical staging	1
+proapoptotic gene	tnfrsf eleven a 	1
+recombination site	tnpi site	1
+recombination site	tnpl site	1
+reputable courier haulage company	tnt	2
+substitution model	tn ninety-three 	1
+Traditional folkdances	tnabar llaa	1
+U.S. movie channel	tnt	1
+web site station	tnt	1
+website station	tnt	1
+biological -therapeutic	tnf-alpha inhibitors for ra	1
+car carrier	tnt	1
+Circulating cytokines	tnfa	1
+Circulating cytokines	tnf-alpha	1
+Circulating cytokines	tnf aandtnf-related weak inducer ofapoptosis	1
+contemporary translation	tniv	1
+courier firm	tnt	3
+high explosive material	tnt	1
+hold-type display device	tn type color lcd	1
+Key specific cytokines	tnf-a	1
+Key specific cytokines	tnf-alpha	1
+national and local television network	tnn	1
+national and multinational organization	tnb power plant riphah islamic university	1
+national and state patriotic symbol	tn flag	1
+non-locals	tnt-hd	1
+opportunist group	tn-dv	2
+oracle file	tnsnames . ora	1
+popular cable entertainment channel	tnt	1
+private non-profit conservation organization	tnc	1
+public research institution	tnos	1
+reliable courier service	tnt	1
+russian oil producer	tnk-bp	1
+organization	tnc	4
+organization	tnt	3
+organization	tno	2
+organization	tns	1
+organization	tna wrestling	1
+organization	tn theatre company	1
+solid explosive	tnt	1
+suitable cell	tn liquid-crystal cell	3
+suitable explosive material	tnt	1
+synthesis inhibitor	tnf-mrna  synthesis inhibitor	1
+talented model	tnisha carter	1
+template molecule	tnt	1
+typical explosive	tnt	1
+Typical HEmaterials	tnt	1
+U.S. visa	tn	1
+Aclusterof cytokines	tnf-a	1
+Acute phase cytokines	tnf-alpha	1
+adipose-derived factor	tnf-alpha	1
+cable's top network	tnt	1
+conventional high explosive	tnt	3
+corporate bond issuer	tnk	1
+crystalline high explosive	tnt	1
+cytochines	tnf-alpha	1
+employment-based visa category	tn	1
+Endogenous cytokines	tnf-a	1
+organization	tnt express	1
+organization	tni europe	1
+expensive channel	tnt	1
+experimental result explosive	tnt	1
+indoor rowing championship	tn indoor rowing championships	1
+industry largest organization	tns global	1
+internatiional marketing research company	tns	1
+international courier operator	tnt	1
+international -logistic giant	tnt	1
+liquid crystal mode	tn mode	1
+medium size town	tn	1
+network file	tnsnames.ora using operating system utility	1
+non local channel	tnt	1
+popular HD channel	tnt	1
+popular programming service	tnt	1
+potential AMPK target	tnfsf fifteen 	1
+pretreatment clinical parameter	tnm classification	1
+proinflam-matorycytokines	tnf-alpha	1
+pyramid style company	tni	1
+reputable delivery company	tnt	1
+russian oil firm	tnk	2
+small magazine	tnr	1
+successive ET editor	tn ninan	1
+thing company	tnb card services	1
+town community	tn	1
+turner brand	tnt	1
+turner network	tnt	1
+unbelievable organization	tna wrestling	1
+video gaming device	tn games  three rd space vest 	1
+well-known ukrainian rock group	tnmk	1
+3PL service provider	tnt	1
+biggest cable channel	tnt	1
+bursting charge explosive	tnt	1
+cable tv's top network	tnt	1
+chemical explosive	tnt	4
+civilian and commercial explosive	tnt	1
+CMS COPCs	tnt	1
+comercial and military explosive	tnt	1
+commercial liquid crystal mode	tn	1
+common high explosive	tnt	1
+composite transposons	tn  ten 	3
+composite transposons	tn  nine 	2
+composite transposons	tn  five 	1
+compromise candidate	tni chief	1
+conservation plan	tnc's conservation area plans for the pascagoula river	1
+conventional mode	tn mode	2
+craptacular tourist place	tn	1
+domestic delivery service	tnt	1
+entertainment cable network	tnt	1
+expres-sionofseveralpro-inflammatory cytokines	tnf-a	1
+fleet management company	tnt	1
+technique	tnt-power formula	1
+handheld non-contact thermometer	tn three hundred and five lc infrared thermometers from radiant innovation inc. 	1
+handheld non-contact thermometer	tn four hundred and eight lc infrared thermometers from radiant innovation inc. 	1
+hierarchical container-like structure	tnt project file	1
+high-performance graphic card	tnt	1
+Host immune cytokines	tnf-alpha	1
+Immune response cytokines	tnf-a	1
+key quality standard	tni standard	1
+low vapor pressure material	tnt	1
+marqui client	tnt express	1
+mdustrial company	tne pusey & jones co.	1
+mirna component	tnrc six b 	1
+myod downstream target gene	tnnc two 	1
+myoddownstream target gene	tnnc two 	1
+non-public sector postal company	tnt mail ltd	1
+Otheradipokines	tnf-and il- one 	1
+paslthemore common explosive	tnt	1
+performance related variable	tna growth	1
+Pleiotropic proinflammatory cytokines	tnf-alpha	1
+popular cable network	tnt	1
+popular online TV channel	tnt	1
+popular TV online channel	tnt	1
+pre-treatment clinical parameter	tnm classification	2
+private express carrier	tnt	1
+pro-arteriogenic cytokines	tnf-alpha	1
+production ofproinflammatory cytokines	tnf-and il- one 	1
+Prototypical inflammatory cytokines	tnf-alpha	1
+realistic ionic model	tnnp model	1
+regular cable channel	tnt	1
+reputed international courier	tnt	1
+resolvase family member	tn three  resolvase 	2
+responsible political party	tna	2
+secondary high explosive	tnt	1
+soluble cytokine receptor	tnfr one 	1
+sour service material	tn  one hundred and ten ss 	1
+sour service material	tn  ninety-five ss 	1
+application	tntmips	1
+Th1-related cytokines	tnf-alpha	1
+Th1-related cytokines	tnf-a	1
+Theproinflammatory cytokines	tnf-a	1
+third-party -logistic service provider	tnt	2
+traditional explosive	tnt	1
+tumor necrosis factor	tnf-alpha	1
+tumor-secreted factor	tnf-aand ifn-g	1
+typical inflammatory cytokines	tnf-a	2
+upmarket outlet	tnf's store	1
+Vasoactive cytokines	tnf-alpha	1
+vocal and instrumental artist	tn seshagopalan	1
+well-known international -logistic company	tnt	1
+well-known transport company	tnt	1
+3D card	tnt two 	1
+AA partner	tn via papeete	1
+ABSTRACT explosive	tnt	1
+activa-tionofthetumor necrosis factor family receptor	tnfr one 	1
+advanced management course	tnt executive management program at the university of warwick	1
+already-established tumor prognostic attribute	tnm grade	1
+Analytesinthe'APCI group	tnt	1
+ansell brand	tnt	1
+anti-cytokine therapeutic agent	tnf-neutralizing antibody	1
+Apoptosisgenes	tnfrsf ten b 	1
+applied research institution	tno built & environment	1
+astable explosive	tnt	1
+audience cable outlet	tnt	1
+bacterial cut-and-paste transposons	tn  ten 	1
+bacterial cut-and-paste transposons	tn  five 	1
+bacterial transposons	tn  ten 	1
+bacterial transposons	tn  five 	1
+big claim	tn being endorsed	1
+cable music channel	tnn	1
+cable player	tnt	1
+name	tna wrestler jesse james in kiel	1
+name	tnt	1
+cardiac troponin gene	tnnc one 	1
+cardiac troponin gene	tnni three 	1
+cheesy cable channel	tnt	1
+commercial high explosive	tnt	1
+complex staging classification	tnm system	1
+conjugal element	tn  nine hundred and sixteen 	1
+conjugative transposons	tn  one thousand five hundred and fourty-five 	1
+conjugative transposons	tn  nine hundred and sixteen 	1
+critical explosive	tnt	2
+cut-and-paste transposons	tn  ten 	1
+cut-and-paste transposons	tn  five 	1
+cut-and-paste, transposons	tn  five 	1
+cut-and-paste, transposons	tn  ten 	1
+damaging cytokines	tnf-alpha	1
+death receptor-ligand system	tnf-tnf receptor	1
+digital terrestrial TV service	tnt	1
+earthing arrangement	tn-s	1
+earthing arrangement	tn-c-s	1
+efficient explosive	tnt	3
+established HD channel	tnt	1
+express operator	tnt	1
+express package firm	tnt	1
+external accredited company	tno in the netherlands	1
+family database	tng	1
+name	tnm	1
+fat-secreted factor	tnf-alpha	1
+floating zone	tnd	1
+gene encodingproinflammatory mediator	tnf-a	1
+great trek episode	tng's inner light	1
+great wrestling company	tna	1
+high energy explosive	tnt	1
+high explosive charge	tnt	1
+high-definition TV channel	tnt	1
+horizontal mode	tn mode	1
+human mono-cytesinfectedbyDENV-2 produceproinflammatory cytokines	tnf-aand il- six 	1
+hunting program	tnn	1
+infl ammatory cytokines	tnf-a	1
+institutional and industrial partner	tno	1
+intergral membrane protein	tnf receptor	1
+international shipping method	tnt	1
+IS4 family element	tn  ten 	2
+IS4 family element	tn  five 	2
+kinetic energy event	tnt blast	1
+case	tn  ten 	2
+case	tn adjudication	1
+case	tnk-bp's bolshekhetsky project located on the territory of krasnoyarsk region	1
+liquid-crystal driving method	tn method	1
+mad explosive	tnt	1
+metal casting plant	tn	1
+minor bit player	tng first season assistant chief engineer	1
+modern traditional translation	tniv	1
+Monocyte inflammatory cytokines	tnf alpha	1
+mucosal immune factor	tnf-alpha	1
+munition compound	tnt	1
+myd88-independent receptor	tnfr	1
+name HD channel	tnt	1
+narrow auriferous quartz vein	tn vein	1
+neutralizing proinflammatory mediator	tnf-alpha	1
+NF-kBisactivatedby cytokines	tnf-a	1
+nitrated compound	tnt	3
+nitroaromatic explosive	tnt	1
+non-dual intent visa	tn	1
+nonimmigrant work visa	tn	1
+non-volatile explosive	tnt	1
+numerousapoptotic signal	tnf-a	1
+optical modulation element	tn type	1
+ordnance compound	tnt	1
+otber agency	tne ministry of defense	1
+packet radio device	tnc	1
+paid channel	tnt	1
+case	tnc	1
+postcode	tn thirteen   one aa 	1
+Proinflammatory acute-phase cytokines	tnf-a	1
+Proinflammatory cytokiness	tnf-a	1
+pro-inXammatory cytokines	tnf	1
+Prokaryotic transposons	tn  three 	1
+Prokaryotic transposons	tn  seven 	1
+reputable courier company	tnt	1
+reputable gas station	tnk	1
+russian producer	tnk-bp	1
+sediment CMS COPCs	tnt	1
+sometimes organic pollutant	tnt	3
+step-grandfather's wonderful story	tn during wwii	1
+strange sea creature	tnt turtle	2
+suitable liquid-crystal cell	tn liquid-crystal cell	1
+SUMMARY company name	tnt	1
+systemic pro-inflammatory cytokines	tnf-a	1
+target chemical	tnt	1
+temporary nonimmigrant work visa category	tn	1
+Thelper 1-type cytokines	tnf-alpha	1
+THEORY explosive	tnt	1
+time warner cable network	tnt	1
+TNB's own IPPs	tnb janamanjung sdn bhd	2
+tnf-modulating treatment	tnf-neutralizing antibody	1
+TNFRs	tnfr one 	2
+top-tier cable station	tnt	1
+Transposases	tn ten  transposase in bacterium 	3
+Transposases	tn ten 	1
+true explosion	tnt	1
+ultratrace nitroaromatic compound	tnt	1
+well-established international courier company	tnt	1
+16MB card	tnt two 	1
+Abstract Background Cytokines	tnf-alpha	1
+abstract background explosive compound	tnt	1
+accurate load-sharing analysis method	tne a four ej program 	1
+activated death receptor	tnf-receptor superfamily	1
+Adminis-trationofpro-inflammatory cytokines	tnf-a andil- one 	1
+air-freight service	tnt	1
+Analyzed industry information	tns marx	1
+anonymizer	tnt proxy	1
+anti-addictive factor	tnf-a	1
+anti-tnf treatment strategy	tnf-receptor blockade	1
+applied scientific research organization	tno	1
+asteroid trend	tnos	1
+option	tns	1
+option	tnt	1
+BackgroundCytokines	tnf-alpha	3
+backgroundexplosive compound	tnt	1
+block explosive	tnt	1
+blocking catabolic factor	tnf-a	1
+booster charge	tnt	1
+cast explosive	tnt	1
+cell death receptor	tnf-r	1
+cerebral proinflammatory cytokines	tnf-alpha	1
+classic TV meter panel	tns am in spain	1
+classical transposons	tn  seven 	1
+commercial courier road service	tnt	1
+complex multivariate classification method	tne maximum likelihood method	1
+Complex transposons	tn  five 	1
+Composite DNA transposons	tn ten 	1
+contrast cytokines	tnf-alpha	1
+conventional individualized method	tnm classification	1
+cpg-dna and inflammatory stimulus	tnf alpha	1
+crash game object	tnt boxes	1
+Cut-and-paste transposases	tn ten 	1
+cutesy show	tnt's falling skies	1
+cylindrical geometry	tne inverse pinch geometry being studied	1
+cytotoxic aspect	tnf-alpha under control	1
+darling newspaper	tnp	1
+department's recent initiative	tnip program	1
+desktop commercial geospatial analysis product	tntmips	1
+dutch expert institute	tno delft	1
+group	tnc	3
+electronic copier	tn full color copier	1
+emergency nursing course	tncc	1
+enriched pathway	tnfr one 	2
+example aromatic nitro compound	tnt	1
+explosive solid material	tnt	1
+extracellular agent	tnf-a	1
+famous express company	tnt	1
+fast, brisant explosive	tnt	1
+feminist version	tniv	1
+fire lab	tno in the netherlands	1
+functional receptor	tnfr	1
+Germinal center kinases	tnik	1
+global market research company	tns	1
+gmvecswith inflammatory mediator	tnf-aor lps	1
+Gram-positive conjugative transposons	tn  nine hundred and sixteen 	2
+hazardous neutral chemical	tnt	1
+high-energy explosive	tnt	1
+High-explosive s	tnt	1
+high-velocity, brisant explosive	tnt	1
+hydrophilic sequence	tnac stalling sequence	1
+Immune media-tors	tnf-a	1
+immunomodulating cytokines	tnf-alpha	1
+inflammatory response co-stimulatory molecule	tnf-alpha	1
+inflammatory-associated gene	tnfaip six 	1
+group	tnk bp	1
+group	tns retail forward	1
+group	tn	1
+Innate immune cytokines	tnf-a	1
+interfering explosive	tnt	1
+intermediate pollutant	tn	1
+INTRODUCTION Proinflammatory cytokines	tnf-aand il- six 	1
+israeli local favorite	tnt	1
+large food concern	tnuva dairies	1
+lovely state	tn	1
+lps-inducible cytokine gene	tnf-a andil- one 	1
+M1 microgliaalso release pro-inflammatory cytokines	tnf-aand il- one  b 	1
+mathcore bands	tntlly	1
+mean value engine model	tno's dynamic engine model dynamo	1
+MLM's	tni	1
+mRNAexpres-sionofproinflammatory cytokines	tnf-a	1
+muscle specific protein	tnnt one 	1
+nematic liquid crystal display device	tn	1
+neon TV film various event	tnr wednesdays	1
+NF-BInducesHistone Acetylation Cytokines	tnf-and il- one 	1
+nitrate d compound	tnt	1
+nitroaromatic and nitramine explosive	tnt	2
+nitroaromatic energetic compound	tnt	1
+nitroaromatic species	tnt	1
+nitrogen content	tn	1
+Non-composite transposons	tn  three 	1
+nonenergy-based method	tnt	1
+method	tnbs	2
+method	tntermittent irrlgatlon r~ce-wm-fish culture	1
+normal chemistry	tnt oxidising	1
+north american plant	tn	1
+novel enemy	tnt wielding turtle	1
+OKT3-induced cytokines	tnf-alpha	1
+on-demand door-to-door express delivery product	tnt sameday	1
+one-hit-break block	tnt	1
+Organic nitro-compounds	tnt	1
+parameter designation	tn	2
+pathologic staging system	tnm classification	1
+potent and proven anti-inflammatory agent	tnf blocker	1
+private delivery business	tnt	1
+private postal operator	tnt	1
+pro-inflammatory inhibitor	tnf soluble receptor	1
+Pro-inlammatory cytokines	tnf-alpha	1
+proximal death signal	tnf-a	1
+purpose architecture	tnp	1
+quality skin product	tns	1
+raisedpreinflammatory cytokines	tnfaaremainly factors in pathogenesis of aosd	1
+receptor family member	tnf receptor family member	1
+reducing proinfiammatory mediator	tnf-a	1
+response cytokines	tnf-alpha	1
+RF microwave connector	tnc	1
+safety protection purpose	tn connection made	1
+screen protocol	tn three thousand two hundred and seventy  protocol 	1
+method	tnt equivalence method	1
+single-point earthed system	tn-s	1
+so-called politically correct translation	tniv	1
+soil nutrient content	tn	1
+sorbing compound	tnt	1
+tandem profile	tnm index for various cancer	1
+TFT-LCD array substrate	tn type tft-lcd array substrate	1
+TNF receptor superfamilies	tnfrsf eighteen 	1
+TNFR ligands	tnfa	2
+Top Quality T-Shirts	tnd	1
+transport partner	tnt	1
+trauma training course	tncc	1
+treaty visa	tn visa for canadians	1
+tumor matricellular component	tn-c	1
+turner channel	tnt	1
+UDP policy	tn two  integration of transportation 	1
+ukrainian and international company	tnk	1
+ultraviolet radiation change cytokines	tnf-alpha	1
+unspecific proinflammatory stimulus	tnf-alpha	1
+Variant t-PA	tnk t-pa	1
+verious team	tn team	1
+vertical electrical field mode	tn mode	1
+well-know international carrier	tnt	1
+well-known international courier company	tnt	1
+world-class carrier	tnt	1
+product	tnt	5
+material	tnemec  seventy-four 	1
+place	tn	2
+place	tn solitary and remote place	1
+player	tns	1
+player	tnt leaving the market	1
+player	tnt mail	1
+technology	tnt	2
+technology	tn conseil passive snow melting system	1
+parameter	tnt equivalency	1
+parameter	tnf by using elisa	1
+parameter	tnm stage	1
+system	tn-c	1
+system	tnkernel	1
+system	tns	1
+system	tntserver store image system	1
+condition	tn tailwater condition	1
+condition	tnf-a	1
+condition	tnf treatment	1
+element	tn  five hundred and fifty-four 	2
+element	tn  nine hundred and sixteen 	1
+element	tn  seven 	1
+element	tn  ten 	1
+variable	tncome discr~minate the coping strategy preferred by the respondent	1
+product	tns lip plump system	1
+variable	tnm status	1
+variable	tnm stage	1
+brand	tnt	8
+related product	tnc connector related product	1

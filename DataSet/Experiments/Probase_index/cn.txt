@@ -1,0 +1,3116 @@
+product	cnc machined engineering component	1
+product	cnc engraving related product	1
+product	cnc twin spindle chuckers	1
+product	cnc wire cut & edm	1
+product	cnc wire cut related product	1
+product	cng compressor related product	1
+product	cng conversion related product	1
+product	cng motorcycle related product	1
+product	cng pressure gauge related product	1
+product	cnc turning center	1
+product	cng bus related product	1
+product	cnps three thousand  -plus flower heatsink 	1
+product	cnp pro tect	1
+initiative	cni authentication project	1
+datum	cn three  configuration 	1
+datum	cn four  configuration 	1
+datum	cn fifty  configuration 	1
+resource	cnbc	1
+resource	cns combined with the clinical-administrative infrastructure at the hospital	1
+resource	cnc lathe	1
+facility	cnc machining	2
+facility	cnc machine	2
+process	cnc machining	5
+process	cnc bending	4
+process	cnc engraving	4
+process	cnc tube forming	2
+process	cnc milling	2
+process	cnc	1
+process	cnc laser machining	1
+process	cnc routing	1
+process	cnc turret punch	1
+process	cnc polishing	1
+process	cns inflammatory and infectious process	1
+process	cnt preparation	1
+process	cnc turning	1
+process	cnc turret press	1
+process	cns-related pathogenic process	1
+process	cns stroke	1
+process	cnc laser cutting	1
+source	cnn	25
+source	cnbc	4
+source	cnet	3
+source	cnet.com	3
+source	cnn money	2
+source	cnet's download.com	1
+source	cnn breaking new	1
+source	cnet download.com	1
+source	cnbc's david faber	1
+property	cn tower in toronto	2
+property	cn tower	1
+game	cnc generals	1
+game	cntc	1
+product	cng lpg related product	1
+product	cnc lathe machine related product	1
+product	cnc machine tool related product	1
+product	cnc machining service related product	1
+product	cnc milling part related product	1
+product	cnc precision machining	1
+product	cnc precision metal machined part	1
+product	cnc precision turning	1
+product	cnc press brake related product	1
+product	cnc turning machine	1
+product	cnc bending machine mold	1
+product	cnc bending machine related product	1
+exception	cns drug	1
+reason	cn railway going on strike	1
+character	cnauir urs skiotha	1
+model	cnc tube bender machine	1
+attraction	cn tower	13
+attraction	cnn center	2
+skill	cnc manufacturing	1
+skill	cnc equipment	1
+skill	cnc manufacturing of component	1
+category	cnc lathes	1
+category	cnc mills	1
+category	cnc grinders	1
+institution	cnam	1
+institution	cnb	1
+institution	cnio in madrid	1
+institution	cnpq	1
+institution	cnj	1
+change	cnl grammar adaptation	1
+client	cnn	16
+client	cnet networks	1
+client	cnooc	1
+client	cna	1
+client	cnbc	1
+client	cnn's sanjay gupta	1
+client	cnrl	1
+client	cne	1
+strategy	cns disease strategy	1
+person	cnbc's ron insana	1
+approach	cns-directed gene therapy	1
+alternative	cng	2
+alternative	cn- two hundred and thirty-five 	1
+alternative	cng for car	1
+alternative	cn	1
+effect	cns reaction neurotoxic effect	1
+effect	cnt degradation	1
+effect	cns	1
+effect	cns related side effect	1
+agency	cnb	1
+agency	cnpq	1
+agency	cnr	1
+symptom	cns depression	1
+symptom	cns symptom	1
+course	cnd	1
+course	cnc programming	1
+solution	cnet networks intelligent cross-sell	1
+structure	cn tower	4
+structure	cn tower in toronto	2
+structure	cns  seven thousand two hundred and fifty-nine x 	1
+structure	cns	1
+structure	cnl	1
+film	cna feature film	1
+film	cnt composite film	1
+business	cnn	2
+business	cny oil	1
+business	cnbc	1
+business	cnr	1
+field	cnt period	1
+part	cnc machined rudder	3
+part	cnc system	2
+title	cnx toonami revolution title	1
+title	cnbc european business	1
+ingredient	cnidium	3
+ingredient	cnidium monnier	1
+operation	cnc cutting	3
+operation	cnc machining	2
+operation	cnc milling	2
+operation	cnc punching	1
+operation	cnc turning	1
+plant	cnestis ferruginea	1
+agent	cnqx	1
+agent	cn-	1
+cost	cna instructor	2
+cost	cna teacher	2
+cost	cnc programming	1
+feature	cns depression	1
+feature	cntlin data set	1
+feature	cnc machined chainstay yoke	1
+feature	cnc control	1
+feature	cname	1
+development	cnc machinery	1
+celebrity	cnns soledad obrien	1
+celebrity	cnn's soledad o'brien	1
+celebrity	cnn anchor anderson cooper	1
+celebrity	cnn s soledad o brien	1
+celebrity	cnn television interviewer larry king	1
+celebrity	cnn's larry king	1
+disease	cns syphilis	1
+venue	cnn	3
+firm	cna	3
+firm	cns response	2
+firm	cnb finwiz	1
+firm	cnbc	1
+firm	cnl	1
+industry	cnc machine shops	2
+industry	cnc mac hine shops	1
+industry	cnc workshops	1
+challenge	cng pricing	1
+requirement	cnc routering richmond virginia	1
+job	cna	3
+job	cna certified nursing assistant jobs	1
+job	cnc machinist	1
+drug	cns depressor	1
+drug	cns stimulant	1
+advantage	cnc ram stroke motion control	1
+favorite	cnn hd	5
+favorite	cnn	3
+manufacturer	cnh	4
+manufacturer	cnh global	1
+instrument	cnh forward contract	1
+feature	cnc machined limb pockets	1
+complication	cns involvement	1
+complication	cnv	1
+complication	cnv membrane	1
+complication	cnvm	1
+complication	cns infection	1
+complication	cns neyrologicheskie complication	1
+attribute	cname	1
+publication	cnn	6
+publication	cnbc	5
+publication	cnnmoney.com	3
+publication	cnn's money magazine	2
+publication	cnn money	1
+publication	cnn travel now	1
+publication	cnn traveler	1
+publication	cnn traveller	1
+publication	cnnmoney	1
+publication	cnnfn	1
+publication	cnet on mobile marketing	1
+publication	cnn travel	1
+compound	cn gas	1
+class	cna in service	1
+class	cnc control-specific class	1
+study	cnes	1
+position	cna	2
+position	cnc operator	1
+individual	cnd general secretary	1
+website	cnn	36
+website	cnet	6
+website	cnn.com	4
+website	cnet downloads	2
+website	cnn money	2
+website	cnet.com	2
+website	cnnmoney	1
+website	cnet's news.com	1
+website	cnn.com for documentation	1
+website	cnbc	1
+website	cnet with no trouble	1
+website	cnet.com for honest reviews of cell phone	1
+equipment	cnc lathe	6
+equipment	cnc machine	2
+equipment	cn lathe	1
+equipment	cnc processing line	1
+equipment	cnc routers panel saw	1
+equipment	cnc	1
+leader	cnooc general manager fu chengyu	1
+leader	cnut	1
+cause	cnd by fund raising	1
+cause	cns dysfunction	1
+cause	cns vasculitis	1
+team	cnb	1
+entity	cna	2
+entity	cnn	2
+entity	cny rpdb energy management program	1
+country	cns-dcpscouldbeadministeredtocnssi nother country	1
+building	cnit building in paris in simple	2
+building	cnit	2
+building	cnit building in paris in image	1
+building	cnn center	1
+expert	cnet's rich brown	1
+expert	cnet's david carnoy	1
+medication	cns stimulant	2
+medication	cns depressant	1
+partner	cng technologies ltd	1
+animal	cnidarian	17
+animal	cnidaria	2
+animal	cnidarian s	2
+animal	cnideria	1
+big name	cnn	2
+standard	cns of the r.o.c.	2
+show	cnn	16
+show	cnn s american morning	2
+show	cnn live	1
+show	cnn's talk back live	1
+show	cnn's paula zahn show	1
+role	cns	1
+role	cno	1
+design	cnd symbol	1
+sector	cnc metal removal sector	1
+critic	cnn's bill press	2
+customer	cnn	3
+customer	cnn newsource	2
+customer	cnbc	1
+customer	cnh	1
+customer	cn railroad ore docks	1
+actor	cnrs staff member	1
+department	cnc operator	1
+department	cns	1
+side effect	cns disturbance	1
+side effect	cns related side effect	1
+side effect	cns effect	1
+environment	cno	1
+environment	cnc machining service	1
+risk factor	cns opportunistic infection	1
+risk factor	cns infection	1
+award	cny entrepreneur of the year	1
+article	cna exam	4
+article	cna class	1
+article	cna classes online	1
+disorder	cns autoimmune disorder	1
+disorder	cns trauma	1
+capability	cnc  five  axis laser cutting 	1
+capability	cnc turret punching	1
+capability	cnc turning	1
+capability	cnc machining	1
+module	cng installation module	1
+magazine	cnn money	1
+magazine	cnn traveller	1
+provider	cnm	1
+asset	cn tower in toronto	3
+sign	cnet's second life	1
+professional	cna's	1
+offer	cng bus related offer	1
+offer	cnc press brake related offer	1
+offer	cnc shearing machine related offer	1
+offer	cnc machine related offer	1
+protein	cnn two 	1
+machine	cnc router	14
+machine	cnc machine	7
+machine	cnc lathe	6
+machine	cnc	5
+machine	cnc milling	2
+machine	cnc milling machine	1
+machine	cnc plasma	1
+machine	cnc coil winding machines	1
+machine	cnc wire cutting machine	1
+machine	cnc milling lathe	1
+machine	cnc boring	1
+machine	cnc center	1
+machine	cnc filament winding machine	1
+machine	cnc drilling lathe	1
+machine	cnc vertical machine	1
+machine	cnc stoneworking center	1
+machine	cnc punch machine	1
+machine	cnc machining center	1
+machine	cnc edm	1
+machine	cnc engraving	1
+machine	cnc vertical lathes	1
+machine	cnc turning lathe	1
+machine	cnc turret punch press	1
+machine	cnc wire cutter	1
+machine	cnc wood machine	1
+guest	cnn's alina cho	1
+occasion	cnblue s birthdays  one hundred -day anniv 	1
+competitor	cnn	6
+competitor	cnbc	1
+risk	cns excitation	1
+addition	cnc lathes	1
+experience	cns adverse experience	1
+corporation	cnn	6
+corporation	cn rail	2
+corporation	cnn interactive	1
+local tourist attraction	cnn center	1
+festival	cny	1
+herb	cnidium	8
+herb	cnidium officinale	3
+herb	cnidium monnieri withania somnifera tribulus terrestris semen cuscutae dioscorea villosa passiflora incarnata curculigo orchioides cardamom	1
+herb	cnidium monnieri	1
+record	cname	2
+record	cname record	2
+landmark	cn tower	5
+landmark	cn tower in toronto	5
+channel	cnn	113
+channel	cnbc	16
+channel	cnbc awaz	2
+channel	cnai news channel from singapore	1
+channel	cnbc via astra	1
+channel	cnn-ibn	1
+channel	cnn hd	1
+luminary	cnn's wolf blitzer	1
+surface	cncrete slab	1
+algorithm	cn two 	1
+car	cng passenger car	1
+statistic	cnet's average editorial rating	1
+file	cnw recovery log file	1
+tourist attraction	cn tower	7
+movement	cnd march	1
+issue	cns penetration	1
+track	cnv track	1
+local attraction	cn tower	2
+domain	cn	1
+domain	cnn under certain user	1
+molecule	cn	1
+organism	cnidarian	3
+association	cncr representing agriculturalist	1
+problem	cns lid problem	1
+sight	cn tower	2
+network	cnn	89
+network	cnbc	10
+network	cnet	2
+network	cnnfn	2
+network	cnn money	2
+network	cnbc asia pacific	1
+network	cnn's airport channel	1
+station	cnn	33
+station	cnbc	5
+station	cnnfn	1
+medium	cnn	11
+medium	cnet japan	1
+shop	cnbc news	1
+apps	cnn	2
+apps	cnn money	1
+apps	cnn new	1
+apps	cnet news	1
+apps	cnet	1
+stock	cnr	1
+stock	cn rail	1
+stock	cnrl	1
+account	cna insurance	1
+support service	cnc machining	1
+large company	cnpc	1
+large company	cnh	1
+sponsor	cnw	2
+factor	cng engine thermal efficiency changes with loading	1
+factor	cns infection	1
+issue	cnib	1
+issue	cns plasticity	1
+issue	cns licence suspension	1
+local organization	cnl	2
+occupation	cna	4
+forum	cnc forum	2
+forum	cnet's forum	1
+signal	cng signal	1
+keyword	cnj	2
+carrier	cna	5
+charity	cncf	1
+page	cnn.com	2
+page	cnn	1
+rival	cnh global nv	1
+web site	cnn	12
+web site	cnet.com	4
+web site	cnn money	1
+web site	cnn change on an hourly basis	1
+web site	cnn.com	1
+web site	cnn aol google	1
+web site	cnn news	1
+segment	cnn programming segment	1
+centre	cnrm	1
+industry leader	cnbc	1
+content	cnn via news gathering	1
+commentator	cnn's lou dobbs for speaking out against latinos ad nauseam''	1
+commentator	cnn's lou dobbs	1
+infection	cns infection	1
+infection	cns malaria	1
+suspect	cnn	2
+road	cnj	1
+index	cn two 	1
+outlet	cnn	24
+outlet	cnbc	3
+outlet	cnet news.com	1
+outlet	cnnmoney.com	1
+outlet	cnn daily video	1
+outlet	cnnfn	1
+outlet	cns	1
+natural ingredient	cnidium	1
+natural ingredient	cnidium fruit	1
+command	cname	1
+island	cnmi	2
+issue	cng issue	1
+investor	cnbc's jim kramer	1
+mediums	cnn espanol	1
+giant	cnpc	1
+TV show	cnn	6
+TV show	cnn's on the menu with carolyn o'neill	1
+TV show	cnbc	1
+TV show	cnbc's squawk box	1
+church	cni	1
+necessity	cnps ten x series 	1
+code	cnli	2
+notable exception	cnbc's jim cramer	1
+advanced technology	cnc equipment	1
+community group	cnib	1
+gas	cn	4
+gas	cng	1
+tribe	cniga member tribe	1
+career	cnc programmers	2
+career	cnc operator	1
+natural product	cnsl	1
+adverse effect	cns side effect	2
+adverse effect	cns depression	1
+adverse effect	cns excitation	1
+adverse effect	cns toxicity	1
+value-added service	cnc routing	3
+predator	cnidarian	1
+publisher	cnn	3
+publisher	cnnmoney	1
+publisher	cnet referenced by the webtv pr spokesperson	1
+link	cntv sport	1
+link	cnet buzz out loud mp three 	1
+link	cnn	1
+technological advance	cnc milling	1
+technological advance	cnc machining	1
+technological advance	cnc machinery	1
+jurisdiction	cnmi	1
+explanation	cns-associated infection	1
+tissue	cns	2
+tissue	cns & eye	1
+big company	cnn	4
+social activity	cncc recognition reception	1
+conference	cnrt congress	1
+diagnosis	cns tumor	1
+diagnosis	cns opportunistic infection	1
+fuel	cng	58
+performance	cnr	2
+campaign	cnnbc viral video	1
+television show	cnn's-the situation room	1
+television show	cnn's burden of proof	1
+television show	cnbc's high net worth	1
+television show	cnbc's wake up call	1
+television show	cnn's lou dobbs tonight	1
+television show	cnn news	1
+industrial application	cnc controlled lathe	1
+industrial application	cnc machine	1
+large corporation	cno financial	1
+observer	cnet's david rosenberg	1
+communication	cnn	1
+international company	cnn	3
+sample	cnc program	1
+certification	cne	11
+certification	cna	5
+monument	cn tower	3
+item	cnc cables	1
+medium outlet	cnn	126
+medium outlet	cnbc	20
+medium outlet	cnn's lou dobbs tonight	2
+medium outlet	cnnfn	2
+medium outlet	cnnmoney	1
+medium outlet	cnn money	1
+medium outlet	cnet w	1
+taxa	cnidaria	1
+heavyweight	cnn	1
+serious side effect	cns effect	1
+blogs	cnet	1
+training	cna	1
+set	cnidarian gene set	1
+energy source	cng	2
+private company	cn rail	2
+active ingredient	cnidium	2
+major	cnm	1
+specialty service	cnd shellac manicure	1
+professional association	cna	1
+educational program	cnn	1
+educational program	cnr cohort for esl	1
+big player	cnn	1
+well-known name	cnn	2
+cell type	cns neuron	1
+latest technology	cnc-controlled hobbing machine	2
+latest technology	cnc machining centers	1
+modern technology	cnc machine	1
+modern technology	cnc lathe	1
+modern technology	cnc engraving	1
+online tool	cnn money debt reduction calculator	1
+well-known company	cnn	1
+well-known company	cna	1
+well-known company	cnh	1
+organ	cns	3
+big brand	cnn	1
+big brand	cnb	1
+insurance company	cna	2
+insurance company	cna insurance company	1
+television program	cnn	9
+television program	cnn's money	2
+television program	cnn news	1
+television program	cnn's toxics in america with sanjay gupta	1
+television program	cnbc	1
+television program	cnbc europe	1
+designation	cne	1
+designation	cns	1
+tourist destination	cnn center	1
+modern facility	cnc process center	1
+high quality product	cnd shellac	1
+high quality product	cng engine	1
+new	cnn	5
+new	cnbc	1
+claim	cnw marketing's	1
+journalist	cnn's christian armanpour	1
+journalist	cnn swolf blitzer	1
+resin	cnsl	2
+mod	cnc head	1
+conventional technique	cnc machining	1
+federal agency	cnpq	1
+celebration	cny	1
+council	cnpq in brazil	1
+advocacy group	cnib	1
+large event	cn anime	1
+holiday	cny	2
+support group	cnc programming	1
+prescription drug	cns depressant	1
+private organization	cnib	1
+substitute	cng	1
+multinational	cnn	1
+mark	cnca voluntary product certification mark	1
+community partner	cnib	1
+hydrocarbon	cng	1
+clinical feature	cns symptom	1
+clinical feature	cns lesion	1
+manifestation	cns disease	1
+manifestation	cns finding	1
+growth factor	cntf	3
+witness	cnn correspondent gary tuchman	1
+session	cnbc co-produced televised session	1
+ion	cn	1
+global company	cnn	1
+basic need	cng on low rate	1
+clinical parameter	cns involvement	1
+insurer	cna	6
+insurer	cna financial corp.	2
+insurer	cnp	1
+insurer	cna financial	1
+insurer	cna surety	1
+stimulant	cns depressant	1
+stimulant	cns stimulant cns stimulant	1
+invertebrate	cnidarian	3
+invertebrate	cnidarian nematostella vectensis	1
+famous attraction	cnn studios in atlanta	1
+famous attraction	cn tower	1
+button	cnn new	1
+popular product	cnd shellac	1
+specialty area	cns	2
+widgets	cnn mobile edition	2
+widgets	cnet personal tech	1
+widgets	cnn cell phone edition	1
+reptile	cnemaspis limi	1
+interesting topic	cnn news	1
+regulator	cnsc	1
+traditional service	cnn	1
+adventure	cne visit	1
+TV program	cnn	4
+TV program	cnn on nokia's tv streaming service web tv on demand	2
+TV program	cnn news	1
+area	cnmi	2
+area	cns	2
+top company	cnn	3
+feature film	cna feature film	1
+functional group	cn	3
+famous landmark	cn tower	2
+famous landmark	cn tower in toronto	2
+internet site	cnet.com	1
+internet site	cnet download.com	1
+internet service	cnbc	2
+internet service	cnnfn	1
+heavy hitter	cnn	1
+mountain	cnicht	2
+popular site	cnn	4
+popular site	cn tower	2
+popular site	cnn money	1
+systemic disease	cns vasculitis	1
+large employer	cnr intermodal terminal	1
+animal species	cnidarian	1
+national chain	cna	1
+adverse reaction	cns depression	1
+upcoming event	cnu transportation summit	1
+local institution	cnr laboratory	1
+controller	cnc controller	1
+nutritional supplement	cnidium monnier	1
+small group	cn	2
+control device	cnc unit shown in fig	1
+abbreviation	cnbl in mass record	1
+online site	cnn newsroom	1
+broadcaster	cnn	21
+broadcaster	cnbc	3
+broadcaster	cnn's sanjay gupta	1
+broadcaster	cns six 	1
+exchange	cnsx	1
+national program	cnn	1
+national program	cnn's crossfire	1
+international agency	cnn's inside africa	1
+acquisition	cnec in brazil	1
+indian company	cnc machine manufacturing company	1
+area	cnc woodworking engraver	1
+area	cns reorganization	1
+area	cnc advertising engraving machine	1
+area	cnc machine	1
+corporate sponsor	cna insurance	1
+business group	cni	1
+commercial service	cnn	4
+pharmaceutical	cns active agent	1
+reporter	cnn's dana bash	1
+prestigious award	cnbc emerging india	1
+engineering service	cnc flame cutting	1
+famous sight	cn tower	1
+medium company	cnn	8
+medium company	cnbc	2
+medium company	cnn interactive	1
+content provider	cnn	8
+large institution	cnrs	1
+online source	cnnmoney	1
+online source	cnn	1
+online source	cnmdb	1
+national publication	cnbc	1
+national publication	cnn	1
+tourist site	cn tower	1
+train	cnw	1
+train	cno	1
+small company	cni	1
+design factor	cnr level	1
+app	cnet	1
+international player	cnbc asia	1
+premium service	cnc machining	2
+idol	cn blue's yonghwa	1
+information service	cnn	1
+renewable energy source	cng	1
+basic parameter	cnr	1
+reliable source	cnn	2
+reliable source	cnet news	1
+oil company	cnpc	1
+area	cnc turning	1
+area	cnc operator	1
+popular tourist attraction	cn tower	1
+herbal ingredient	cnidium	2
+natural herb	cnidium	1
+acronym	cnwdi	1
+non-profit group	cnmi power	1
+biological material	cns tissue	4
+historical building	cni church	1
+physiological process	cns inflammation	1
+desirable feature	cnc machined rail system	1
+advanced capability	cnc machining	1
+research institution	cnrs	1
+research institution	cnrs in france	1
+manufacturing process	cnc machining	1
+medium source	cnn	9
+medium source	cnbc	2
+disease process	cns tumor	1
+review	cnet	3
+famous company	cnn money	1
+great company	cnn	5
+medium player	cnn	1
+predisposing factor	cns tumor	1
+successful company	cnn	1
+energy company	cnpc	1
+enhanced feature	cnbc-tv guest alerts	1
+historic landmark	cn tower	1
+machine tool	cnc lathe	10
+machine tool	cnc drilling machine	2
+machine tool	cnc machine center	2
+machine tool	cnc machines	2
+machine tool	cnc slot machine	2
+machine tool	cnc turret mill	2
+machine tool	cnc plasma cutting machine	1
+radical	cn	3
+chinese company	cnpc	1
+general	cnn's retired general	1
+prestigious company	cnn	1
+service	cnc machining	54
+service	cnc turning	25
+service	cnc milling	18
+service	cnc punching	11
+service	cnc bending	7
+industry publication	cnn money	2
+internet resource	cnet reports	1
+internet resource	cnet help channel	1
+TV channel	cnn	7
+TV channel	cnbc arabia	1
+TV channel	cnn-ibn	1
+TV channel	cnbc	1
+TV channel	cnn tv channel	1
+autoimmune disorder	cns autoimmune disorder	1
+anion	cn-	2
+building block	cnh n group	1
+herbal extract	cnidium monnier	1
+research organization	cnrs	1
+secondary operation	cnc machining	6
+secondary operation	cnc turning	1
+secondary operation	cnc milling	1
+physical element	cn rail line	1
+automated system	cnc machine	1
+pharmacologic agent	cns depressant	1
+prestigious client	cnn	1
+issuer	cnh capital america	1
+large manufacturer	cnh	1
+funding agency	cnpq	1
+disease condition	cns disease	1
+high profile company	cnn	1
+historical document	cn database release announcement	1
+marine animal	cnidarian	1
+popular favorite	cnbc real time	9
+global giant	cnn	1
+news outlet	cnn	82
+news outlet	cnbc	2
+news outlet	cnn's headline news	1
+medium organization	cnn	14
+medium organization	cnbc	3
+supplementary service	cni	1
+digital technology	cnc router	1
+news source	cnn	44
+news source	cnbc	2
+news source	cnnsi.com	1
+life-threatening condition	cns infection	2
+life-threatening condition	cns involvement	1
+national agency	cnrs	2
+neurological condition	cns neoplasm	1
+news organization	cnn	75
+news organization	cnbc	1
+research institute	cnrs	1
+strategy game	cnc series	1
+complementary product	cnsl production	1
+internet company	cnet networks	1
+famous tourist attraction	cn tower	1
+education course	cnc programming	2
+counter	cni research	1
+service	cnn	2
+service	cnc routing	2
+service	cnbc on msn money	2
+service	cnb	1
+client application	cnm	1
+simple system	cn molecule	1
+milk product	cn	1
+local employer	cna	1
+baseline characteristic	cns disease	1
+fuel source	cng	1
+large site	cnn	3
+large site	cnbc	1
+bus	cng	1
+key organization	cnwl	1
+popular website	cnn.com	2
+popular website	cnn	1
+airplane	cn- two hundred and thirty-five 	1
+automotive part	cng kit	1
+insurance policy	cna's net protect	1
+contraindication	cns depression	1
+ETFs	cnda	1
+reviewer	cnet's bonnie cha	2
+web page	cnn.com	2
+reputable source	cnn	2
+reputable source	cnet.com	1
+fabrication technique	cnc machining	1
+fabrication technique	cnc milling	1
+stall	cng conversion	1
+top attraction	cn tower	1
+good book	cnc programming handbook by peter smid	1
+automotive component	cnc turn part	1
+service	cnc milling service	1
+service	cnc multi-axis turning	1
+service	cnc cutting	1
+service	cnc multi-axis milling	1
+service	cnc turning with chucking & bar feed	1
+service	cnet's mysimon	1
+service	cnnfn	1
+service	cnc technology	1
+service	cnc edm	1
+service	cnc engraving	1
+service	cnc machining service	1
+service	cnc machining center	1
+neurological disease	cns tumor	1
+commercial organization	cnn	1
+nanomaterials	cnt	3
+fragment	cn	1
+brokerage	cnc transport	1
+international program	cnn	1
+international program	cnbc	1
+production line	cnc v-cut machine	1
+differential diagnosis	cns infection	1
+television network	cnn	19
+television network	cnbc	2
+cable channel	cnn	18
+cable channel	cnbc	4
+innovative strategy	cng vehicle	1
+membrane protein	cng channel	2
+sedative	cns depressant	1
+OEMs	cnh global	1
+top celebrity	cnn anchor don lemon	1
+modern equipment	cnc machining center	7
+modern equipment	cnc machine	2
+modern equipment	cnc machine center	1
+modern equipment	cnc maching center.edm machine	1
+premium material	cnc machined components made of aluminum	2
+multinational firm	cnn	1
+television station	cnn	6
+advanced equipment	cnc horizontal lathe	2
+advanced equipment	cnc machine center	2
+advanced equipment	cnc machine	1
+advanced equipment	cnc lathe	1
+advanced equipment	cnc-control tct grinding machine	1
+cable network	cnn	26
+cable network	cnbc	3
+cable network	cnnfn	1
+television channel	cnn	9
+television channel	cnbc	2
+well-known organization	cnsc	1
+world-class company	cnn	1
+chinese herb	cnidium seed	3
+insult	cns infection	1
+professional product	cnd shellac	1
+insurance carrier	cna	2
+technology product	cnc lathe machine	1
+news site	cnn	51
+news site	cnn.com	5
+news site	cnet's news.com	3
+news site	cnn.com . msnbc.com	1
+news site	cnbc	1
+auxiliary function	cnc compound slide	1
+service	cna training	1
+service	cnbc	1
+service	cnc cutting service	1
+service	cnc fabrication machine manufactuirng	1
+service	cnc manfacturability recommendation	1
+service	cnc waterjet cutting	1
+service	cnc precision machining	1
+service	cnc pressing machine manufacturing	1
+service	cni	1
+service	cnv analysis	1
+therapeutic area	cns	6
+therapeutic area	cns disorder	2
+systemic effect	cns	1
+hill	cnicht	1
+medium channel	cnn	3
+medium channel	cnbc	1
+medium channel	cnbc tv eighteen 	1
+production method	cnc milling	3
+international publication	cnn	1
+latest technique	cnc machine	1
+traditional medium	cnn	2
+commercial site	cnn.com	1
+exciting place	cn tower	1
+review site	cnet	1
+credible source	cnn	2
+fabrication method	cnc milling	1
+medium giant	cnn	8
+medium giant	cnbc	1
+automobile part	cnc machining wiper motor part	1
+calculator	cnnmoney.com	2
+successful business	cnn	2
+production technique	cnc cutting	1
+internet	cnn	1
+reputed organization	cnn-ibn	1
+opiate	cns stimulant	1
+neurologic disorder	cns tumor	1
+institutional client	cna insurance	2
+tower	cn tower	1
+complex material	cnt sample	1
+heavy duty application	cnc machining equipment	1
+advanced facility	cnc machining centers	1
+advanced facility	cnc electric discharge machines	1
+combustion engine	cng engine	1
+toxic gas	cncl	1
+vocational program	cna	1
+correspondent	cnn's baghdad bureau chief michael ware	1
+topic	cnidarian	1
+medium platform	cnn	1
+state-owned company	cnpc	1
+production facility	cnc machining center	1
+TV station	cnn	6
+business publication	cnbc squawk box	2
+business publication	cnbc fast money show	2
+business publication	cnnmoney.com	2
+fossil fuel	cng	1
+programmer	cnn	2
+reputable site	cnn	2
+reputable site	cnet	1
+reputable site	cnet.com	1
+electronic database	cnki chinese journal database	1
+fabrication process	cnc machining	1
+industry certification	cne	4
+receptor antagonist	cnqx	1
+small organism	cnidarian	1
+animal group	cnidarian	6
+construction equipment	cng	1
+iconic building	cn tower	1
+tall structure	cn tower	1
+famous location	cn tower in toronto	1
+TV network	cnn	9
+TV network	cnbc	1
+TV network	cnn india	1
+advanced machine	cnc machining center	3
+advanced machine	cnc lathe	2
+advanced machine	cnc machine	1
+advanced machine	cnc milling machine	1
+medium personality	cnn's larry king	4
+medium personality	cnn-ibn's showbiz editior	1
+popular channel	cnn	3
+popular channel	cnbc	1
+popular channel	cnn through on demand web tv	1
+downtown attraction	cnn center	4
+downtown attraction	cn tower	4
+downtown attraction	cnn studio tours	1
+downtown attraction	cne exhibition place	1
+organ system	cns	3
+video site	cnn	3
+popular group	cn blue	1
+medium group	cnn	2
+transportation company	cnr	1
+powerful ingredient	cnidium monnier extract	2
+taxonomic group	cnidarian	2
+popular publication	cnn	1
+key customer	cnet channel	1
+client device	cn two 	1
+common cancer	cns tumor	1
+extended service	cnc milling	1
+quality program	cnn's newsnight with aaron brown	1
+railway	cnr	1
+railway	cn rail	1
+conservative commentator	cnn's lou dobbs	1
+curved surface	cnt surface	1
+downstream process	cnc processing	1
+large network	cnn	3
+legal expert	cnn's jeffrey toobin	2
+news agency	cnn	16
+skilled trade	cnc machinist	1
+central nervous system effect	cns depression	1
+broadcast	cnn	2
+host country	cnmi	1
+popular web site	cnn	2
+fluorescent dye	cna thirty-five  for collagen 	1
+large equipment	cnc vertical lathe	2
+aquatic invertebrate	cnidarian	1
+iconic structure	cn tower	1
+national network	cnn	6
+national network	cnbc	1
+big site	cnn	6
+medium partner	cnn	2
+HD channel	cnn	1
+large machine	cnc milling machine	1
+large machine	cnc machine tool	1
+large machine	cnc gantry milling machine	1
+communication company	cnn	1
+topic	cnt	1
+topic	cnn effect	1
+high-profile name	cnn	2
+india tv channel	cnbc awaaz	2
+india tv channel	cnbc tv eighteen 	1
+bodily fluid	cns-derived bodily fluid	1
+mainstream organization	cnn	1
+news service	cnn	12
+news service	cnbc	1
+processing device	cnc machining center	1
+medium site	cnn	2
+processing technology	cnc processing	1
+news program	cnn	8
+news program	cnbc	2
+news program	cnnfn	1
+news program	cnn news	1
+financial professional	cnnmoney's fortune	2
+in-house facility	cnc vertical machining center	1
+in-house facility	cnc discharge machine	1
+in-house facility	cnc drilling & tapping centers	1
+in-house facility	cnc turning centre	1
+modern machine	cnc milling machine	6
+modern machine	cnc milling machi ne s	1
+modern machine	cnc lathe	1
+poll	cnn poll	1
+global enterprise	cnn	1
+third-parties	cnn	1
+complex organism	cnidarian	1
+multicellular organism	cnidarian	2
+production equipment	cnc	1
+big customer	cnac	1
+invertebrate animal	cnidarian	1
+domestic manufacturer	cnhtc	1
+national television show	cnbc's the big idea with donny deutsch	1
+neurotrophic factor	cntf	8
+state-of-the-art tool	cnc milling	1
+industry major	cnpc	1
+news channel	cnn	48
+news channel	cnbc	11
+news channel	cnn-ibn	2
+news channel	cnn-ibn nbc news eyewitness news pentagon channel	1
+influencers	cnn	2
+mass medium	cnn	1
+national medium outlet	cnn	11
+national medium outlet	cnbc	8
+national medium outlet	cnn headline news tech watch	1
+CNC machine	cnc lathe	6
+CNC machine	cnc router	6
+CNC machine	cnc drilling	4
+CNC machine	cnc engraving machine	3
+CNC machine	cnc horizontal milling&boring machine	3
+CNC machine	cnc laser cutting machine	2
+CNC machine	cnc vetical machine	2
+CNC machine	cnc machining center	2
+CNC machine	cnc laser beam cutting machine	2
+CNC machine	cnc swiss style lathe	1
+CNC machine	cnc planer-type milling machines	1
+CNC machine	cnc engraver machine	1
+CNC machine	cnc vertical lathe	1
+CNC machine	cnc cylindrical grinder	1
+CNC machine	cnc laser slicing machine	1
+CNC machine	cnc laser cutter	1
+CNC machine	cnc machining cener	1
+complex machine	cnc router	1
+medium program	cnn	1
+medium program	cnbc	1
+news website	cnn	14
+news website	cnn.com	2
+portal site	cnn	1
+company	cnn	45
+company	cna	12
+company	cnet networks	7
+company	cnpc	6
+company	cnh	5
+company	cnbm	4
+company	cna insurance	3
+company	cn	2
+company	cn tower	2
+company	cnx	2
+company	cnx gas	2
+company	cnbc	2
+company	cnh corp.	2
+company	cnri	1
+company	cnrl in the coming week	1
+top site	cnn	1
+high school course	cna	1
+large publisher	cnbc.com use quantcast	1
+alternate fuel	cng	4
+third-party site	cnet's bandwidth meter online speed test	1
+engineering work	cnc lathe machining	1
+fuel type	cng	1
+nanostructured material	cnt nanosponge	1
+processing equipment	cnc	1
+commercial website	cnn	1
+controversial matter	cntci agreement	1
+medium brand	cnn	1
+popular source	cnn money	1
+precision tool	cnmg unused corner milling cutter	1
+brain tumor	cns lymphoma	1
+independent institution	cnil in france	3
+modern british restaurant	cnapan in pembrokeshire	1
+paradoxical reaction	cns stimulation	2
+traditional outlet	cnn	1
+engineering task	cnc fixture design	1
+trophic factor	cntf	1
+adverse experience	cns adverse experience	1
+amazing attraction	cnn center	1
+broadcast network	cnn	2
+energy stock	cnooc	1
+home-grown company	cna marine	1
+infectious process	cns inflammatory and infectious process	1
+iPhone apps	cnn mobile	2
+phylum	cnidaria	2
+phylum	cnidarian	1
+target tissue	cns	1
+traditional medium outlet	cnn	3
+big publisher	cnn	1
+contemporary technology	cnc machine	1
+legitimate company	cnet	1
+national oil company	cnpc	3
+national oil company	cnpc of china	1
+precision component	cnc lathe part	1
+company	cnh global	1
+company	cna financial corp. in chicago	1
+company	cn rail	1
+company	cna financial corp	1
+company	cnc medical equipment	1
+company	cnpc north sale company	1
+company	cnr	1
+company	cnh global nv	1
+company	cni	1
+company	cnnc	1
+company	cnooc ses ltd	1
+corporate brand	cnn	2
+news publication	cnn	3
+news publication	cnbc	1
+nongovernment organization	cndh	1
+simple animal	cnidarian	6
+international broadcaster	cnn	2
+mainstream medium outlet	cnn	9
+mainstream medium outlet	cnbc	1
+price comparison site	cnet.com	1
+remote service	cnn newswire	1
+global landmark	cn tower in toronto	63
+global landmark	cn tower	1
+large website	cnn	1
+machining service	cnc turning	3
+machining service	cnc milling	3
+machining service	cnc machining	2
+machining service	cnc horizontal milling service	2
+machining service	cnc horizontal milling	1
+mechanical tool	cnc boring machine	1
+mechanical tool	cnc lathe	1
+television company	cnn	3
+toxic species	cn	1
+gaseous fuel	cng	4
+research agency	cnr	1
+mainstream medium	cnn	3
+medium house	cnmg	1
+medium house	cnn	1
+medium house	cnn-ibn	1
+medium house	cnbc africa	1
+passenger car	cng passenger car	1
+business network	cnbc	1
+central nervous system disease	cns syphilis	2
+fabrication service	cnc machining	1
+inflammatory factor	cns inflammation	1
+medium conglomerate	cnn	3
+specialty organization	cnpa	4
+top international brand	cnn	1
+clean fuel	cng	5
+forward-thinking company	cnn	1
+professional credential	cna	1
+Reinsurers	cna re with swiftfac	1
+sponsoring organization	cn	1
+top carrier	cna	1
+like-minded organization	cncf	1
+national source	cnn	1
+real estate investment trust	cnl	1
+civilian organization	cnrs	1
+financial program	cnbc's squawk box	1
+financial program	cnbc	1
+company	cnsgc	1
+company	cnn news	1
+company	cng united	1
+company	cnet	1
+company	cna financial corporation	1
+company	cna financial	1
+company	cn hospitality	1
+company	cnc machine tool company	1
+mainstream site	cnbc	1
+mainstream site	cnet	1
+medium corporation	cnn	2
+online publisher	cnn	1
+online publisher	cnet networks	1
+political commentator	cnn's lou dobbs	1
+satellite service	cnn	1
+clean energy source	cng	1
+electron-withdrawing group	cn	1
+ETF	cny	1
+sessile organism	cnidarian	1
+disease area	cns	1
+record type	cname	2
+record type	cname record	1
+space-occupying lesion	cns abscess	1
+crown corporation	cn rail	4
+crown corporation	cn railroad	1
+medium network	cnbc	1
+medium network	cnn	1
+molecular species	cn radical	1
+news media	cnn	1
+satellite channel	cnn	1
+skilled person	cna's	1
+sophisticated machine	cnc router	2
+sophisticated machine	cnc optical profile griders	1
+sophisticated machine	cnc jig grinder	1
+great club	cn marseille	1
+international channel	cnn	6
+international channel	cnbc	1
+legitimate site	cnn	1
+nanoscale material	cnts	1
+road name	cn	1
+sensitive equipment	cnc router	1
+campaigning organization	cnd in britain	1
+national TV show	cnn	4
+national TV show	cnn news	3
+neurotoxic effect	cns reaction neurotoxic effect	1
+secreted factor	cntf	1
+content producer	cnn	1
+language program	cnn	1
+medium provider	cnn	1
+news network	cnn	48
+news network	cnbc	5
+news station	cnn	28
+news station	cnbc	2
+news station	cnbc news	1
+popular network	cnn espanol	3
+television	cnn	1
+acute disorder	cns trauma	1
+national site	cnn	2
+community location	cne	1
+conventional machine	cnc milling	1
+manufacturing equipment	cnc digital lathe	2
+message type	cnl	1
+nursing organization	cna	1
+tourist trap	cn tower	1
+advanced manufacturing technology	cnc machine	1
+formal training	cna	1
+fuel option	cng vehicle	1
+global forum	cnet before buying	1
+hydrologic parameter	cn	1
+medium institution	cnn	1
+medium property	cnn	1
+news show	cnn	5
+prominent critic	cnn s lou dobbs	8
+access tool	cnx	1
+logical operation	cnot gate	1
+pipeline project	cnpc's pipeline project	1
+professional certificate	cne	1
+technical certification	cne	3
+technical certification	cnx	2
+cable service	cnbc	1
+cable service	cnn	1
+cardiac biomarkers	cnp	1
+engineering process	cnc machining	1
+financial site	cnn money	1
+fuel technology	cng	2
+international medium outlet	cnn	2
+latest machine	cnc machine	1
+mainstream source	cnn	2
+man-made attraction	cn tower in toronto	1
+medium venue	cnn	1
+multi-billion dollar company	cnn	1
+professional agency	cnib	1
+factor	cns recovery	1
+factor	cns problem	1
+activity	cns stimulation	1
+security certification	cna	1
+specialty machine	cnc controlled punch press	1
+top location	cnn center	1
+cable station	cnn	2
+cable station	cnn espn nbc abc lots of movie station	1
+large medium company	cnn	3
+national television program	cnn	1
+national television program	cnbc	1
+news company	cnn	7
+news medium	cnbc	1
+news medium	cnn	1
+online new site	cnn	4
+online new site	cnn interactive	1
+preservation group	cnhs	1
+railroad company	cn	1
+industry qualification	cne	1
+information service provider	cnn	1
+large national organization	cnrs	1
+legitimate source	cnn	1
+television appearance	cnn business unusual	1
+U.S. producer	cnh globaln.v.	1
+live broadcast	cnn heroes	1
+medium website	cnn news	1
+news provider	cnn	4
+not-for-profit group	cnib conference	1
+state-of-the-art machine	cnc lathe	1
+state-of-the-art machine	cnc turning machine	1
+state-of-the-art machine	cnc grinding machine	1
+third-party website	cnn	1
+atlanta attraction	cnn center	1
+big network	cnn	1
+conventional fabrication technique	cnc machining	1
+international landmark	cn tower in toronto	1
+international new organization	cnn	4
+korean brand	cnb	1
+large medium outlet	cnn	3
+newsgroup	cnn	1
+cns stimulant	cns stimulant cns stimulant	1
+external site	cnet	1
+international medium	cnn	5
+large outfit	cnn	1
+real estate designation	cns	1
+real estate designation	cne	1
+television special	cnn's planet in peril	1
+authority site	cnn	1
+cable television channel	cnbc	1
+cable television channel	cnn	1
+co-sponsors	cnn	1
+english channel	cnn	5
+english channel	cnbc	1
+high traffic site	cnn	1
+human-made feature	cn tower	1
+international medium organization	cnn	2
+international medium organization	cnbc	1
+international TV channel	cnn	4
+international TV channel	cnbc	1
+multicellular animal	cnidarian	1
+nonspecific term	cns effect	1
+online medium outlet	cnn	1
+popular page	cnn.com	1
+popular tourist place	cn tower	1
+prestigious tenant	cns corporation	1
+quality insurance company	cna	1
+TV brand	cnn	1
+dynamic site	cnn	1
+dynamic website	cnn	1
+financial website	cnn money	2
+international center	cnr in rome	1
+istanbul attraction	cnr expo center	1
+mainstream outlet	cnn	1
+mass medium channel	cnn	1
+member institution	cnca in burkina faso	1
+national medium	cnn	7
+nursing position	cna	1
+prominent business leader	cnn's former chief executive officer tom johnson	1
+raider	cns nashville	1
+raider	cns sumter	1
+traditional new source	cnn	2
+transport fuel	cng	1
+alternative fuel	cng	1
+complex lesion	cnv	1
+corporate and government client	cnrl	1
+interesting technology	cnt	1
+international outlet	cnn	3
+logic gate	cnot gate	1
+medium heavyweight	cnn	1
+medium report	cnn	1
+national cable network	cnn	3
+national outlet	cnn	3
+news medium outlet	cnn	3
+news medium outlet	cnbc's squawk box	1
+nursing journal	cno bulletin	1
+PDE5 inhibitor	cnidium monnier	1
+program provider	cnn	1
+prominent website	cnn	1
+rapid prototyping technique	cnc machining	1
+space agency	cnes	2
+top insurer	cna	1
+toronto attraction	cn tower	2
+information	cname	1
+broadcast client	cnn	1
+cable program	cnn	1
+cable program	cnbc	1
+cable television network	cnn	2
+complex tissue	cns	1
+high tech tool	cnc manufacturing equipment	1
+international new service	cnn	4
+international new service	cnn en espanol	1
+invertebrate phylum	cnidaria	1
+machine manufacturer	cnt motion	1
+preparation step	cnf growth on the stainless steel surface	1
+reputable new source	cnn	2
+serious competitor	cnn	1
+syndicate	cnt-fai	1
+world-class partner	cnbc	1
+broadcasting network	cnn	1
+broadcasting organization	cnn	1
+content publisher	cnn	1
+Electron-withdrawing substituents	cn	2
+healthcare job	cna	1
+myopathies	cnm	1
+Natriuretic peptides	cnp	2
+news group	cnn	3
+news portal	cnn	2
+office automation system	cnc control automation system	1
+popular medium outlet	cnn	1
+populist	cnn's lou dobbs	1
+press outlet	cnn	2
+press outlet	cnbc	1
+traditional new outlet	cnn	2
+BlackBerry apps	cnet news	1
+datum series	cnv	1
+encrypted channel	cnbc	2
+encrypted channel	cnni	1
+industry standard certification	cna	1
+international new agency	cnn	6
+machine fixture	cnc milling machine fixture	1
+national new outlet	cnn	5
+outside investor	cnfa	1
+publishing title	cnbc europe	1
+retired general	cnn's retired general	1
+short term program	cnc-programming	1
+sport network	cnn	1
+tech blogs	cnet	1
+TV broadcaster	cnn	1
+business channel	cnbc	3
+business channel	cnbc awaaz	1
+business website	cnbc	1
+financial web site	cnnmoney	1
+global platform	cnn	2
+international medium group	cnn	1
+international new outlet	cnn	3
+international station	cnn	2
+machinery product	cnc lathe machine	1
+medical variable	cns cancer diagnosis	1
+news apps	cnn app	1
+news apps	cnn	1
+news apps	cnn mobile	1
+news web site	cnn	4
+news web site	cnn site	1
+SD channel	cnn	3
+american site	cnn	1
+big-names	cnn	1
+broadcast outlet	cnn	5
+cable TV channel	cnn	2
+cable TV channel	cnbc	1
+english language channel	cnn	4
+greedy algorithm	cn two 	1
+job work	cnc job works	1
+milling machine	cnc machining center	1
+online review site	cnet for recommendation	1
+polypeptide growth factor	cntf	1
+tool holder	cnc tool holder	1
+top network	cnn	1
+trusted source	cnet	1
+basic cable channel	cnn	1
+basic cable channel	cnn from clearqam	1
+boy group	cn blue	1
+established website	cnet	1
+good equipment	cnc machine	1
+high pressure gas	cng	3
+high quality machine	cnc vertical	1
+high speed machine	cnc plasma cutter	1
+industrial practice	cnc milling	1
+liberal medium	cnn	1
+mainstream website	cnn	2
+network channel	cnn	1
+newscaster	cnn	2
+novel molecule	cni- one thousand four hundred and ninety-three 	1
+operates fabricating machine	cnc break press	1
+event	cny	2
+event	cnsm research symposium	1
+prey group	cnidarian	1
+satellite station	cnn	3
+severe risk	cns infection	1
+simple invertebrate	cnidarian	1
+advanced technology solution	cng	2
+american medium outlet	cnn	3
+a-rated carrier	cna	1
+competitor site	cnet uk	1
+endusers	cnc mill dept.	1
+FTA channel	cnn	1
+in-depth program	cnc machining	1
+insular area	cnmi	1
+online video	cnn news clip	1
+political site	cnn	1
+political talk show	cnn's crossfire	1
+streaming medium	cnn	1
+streaming medium	cnn's use of adobe flash in the recent brandon craig trial	1
+television talk show	cnn	1
+TV broadcasting company	cnn	1
+vegetal extract	cnidoscolos chayamansa	1
+atlanta landmark	cnn world center	1
+big medium outlet	cnn	1
+cable new channel	cnn	18
+cable new channel	cnbc	1
+core holding	cnp assurance	1
+international medium company	cnn	1
+international new channel	cnn	12
+international new channel	cnbc	1
+international new source	cnn	1
+liberal medium outlet	cnn	5
+mainstream medium organization	cnn	2
+news broadcast	cnn	1
+online new outlet	cnn	3
+online new source	cnn	1
+online new source	cns news	1
+pan-european channel	cnn	1
+event	cn tower stair climb for the united way	1
+event	cn tower climb	1
+event	cnn's election coverage	1
+popular station	cnn	2
+publishing group	cnhi	1
+respected new organization	cnn	2
+respected new organization	cnbc world	2
+second, organization	cnn	1
+television new channel	cnn	5
+television new program	cnn	2
+top name company	cnn	1
+TV new channel	cnn	2
+unsaturated group	cn	3
+anionic ligands	cn	1
+broadcast television network	cnbc	2
+busy site	cnn.com	4
+busy site	cnn	1
+CNS sign	cns depression	1
+company giant	cnn	1
+competitive antagonist	cnqx	1
+dense fuel	cng	1
+engineering feat	cn tower in toronto	1
+entertainment network	cnn	1
+fossil fuel source	cng	1
+free-to-air channel	cnn	1
+health clearance	cnm	1
+internet new site	cnn	1
+large medium group	cnn	1
+latest machinery	cnc vertical machining centre	1
+leading global player	cnn	3
+leading global player	cnbc	3
+live channel	cnn	2
+live channel	cnbc	1
+machining capability	cnc turning	2
+machining capability	cnc machining	2
+mainstream new	cnn	2
+mainstream new	cnn on-line	1
+mainstream new organization	cnn	1
+medium station	cnn	1
+multi-purpose tool	cnc lathe	1
+national broadcast	cnn	1
+national HD channel	cnn-hd	1
+national new program	cnbc's on the money'', geraldo at large'', comcast news	1
+news report	cnn	1
+pathogenic process	cns-related pathogenic process	1
+physiologic effect	cns depression in higher concentration	1
+plywood	cnc machine good quality plywood	1
+precision machining service	cnc milling	3
+precision machining service	cnc turning	1
+precision machining service	cnc machining	1
+propaganda outlet	cnn	1
+riot control agent	cn	1
+tiny island	cnn politcal ticker	1
+twitter account	cnn breaking new	1
+two-year college	cnm	1
+URL	cnn.com into the url field	1
+basic channel	cnn	1
+classic channel	cnbc	1
+classic channel	cnn	1
+CNS infection	cns tuberculosis	1
+confidant	cnbc host lawrence kudlow	3
+credible new source	cnn	2
+end-stage illness	cns lymphoma	3
+program	cnn	7
+program	cnbc	6
+program	cn three d 	4
+program	cna	3
+program	cns	3
+fabricating machine	cnc equipment	1
+fabrication tool	cnc milling	1
+functional filler	cnsl	1
+good quality machine	cnc lathes machine	1
+good quality machine	cnc milling machine	1
+great station	cnn	1
+international new	cnn	1
+international well-known enterprise	cnooc	1
+key channel	cnn	1
+large public enterprise	cnss	1
+lifestyle tv channel	cnbc market	3
+local and national medium outlet	cnn	2
+machine equipment	cnc digital control lathe	1
+mainstream medium site	cnn	1
+mainstream new outlet	cnn	4
+mainstream new source	cnn	2
+medium leader	cnn	1
+microvascular disease	cns ischemia	2
+network name	cnn	1
+regular channel	cnn	1
+stone processing machine	cnc waterjet machine	1
+traditional fabrication method	cnc milling	1
+transport alternative	cng	1
+U.S. network	cnn	1
+unincorporated territory	cnmi	1
+western medium	cnn	1
+access popular family network	cnn	1
+advanced machinery	cnc machine from hitachi	1
+advanced machinery	cnc machines	1
+animal phylum	cnidaria	1
+animal phylum	cnidarian	1
+cable new network	cnn	11
+cable new network	cnbc	1
+charged ion	cn	1
+common opioid side effect	cns depression	1
+complete equipment	cnc discharge machine	2
+complete equipment	cnc dis charge machine	1
+decision-maker	cnsc	2
+expensive machine	cnc machining center at acme	1
+external processor	cnsp for fast tcpip access	1
+high octane fuel	cng	1
+immune-privileged site	cns	1
+introduction institution	cnes	1
+large new organization	cnn	3
+low-emission vehicle	cng	1
+machine shop service	cnc machining	1
+metalworking machinery item	cnc lathe	1
+national new network	cnn	3
+national new network	cnn & abc	1
+national new organization	cnn	1
+national television network	cnn	2
+news resource	cnn	1
+program	cnnfn	2
+program	cnbc's squawk box	2
+program	cnbc's the money club	1
+program	cna program	1
+program	cnn sports tonight	1
+program	cnn headlines news	1
+program	cnn international's world sport	1
+program	cnn's wolf blitzer reports	1
+program	cnla hortprotect	1
+program	cnn fn	1
+program	cnn in english	1
+program	cns solve	1
+non-chemical option	cnc micro- milling machine	1
+option available online	cnn money's debt reduction planner	1
+popular cable channel	cnn	1
+popular new site	cnn	2
+popular TV channel	cnn	3
+precious traditional chinese medicine herb	cnidium	1
+quality testing equipment	cnc electro generator	1
+respected new source	cnn	1
+satellite TV channel	cnn	3
+sesquiterpene lactones	cnicin	3
+strategic relationship	cnnfn	1
+top medium brand	cnn	1
+workforce education program	cna	1
+world's broadcaster	cnn	1
+worldwide medium outlet	cnbc	3
+worldwide medium outlet	cnn	2
+yacht brand	cnb	1
+cable new show	cnn	1
+charge battery	cnb- one hundred and fifty-two 	1
+charge battery	cnb- two hundred and fourty-two 	1
+charge battery	cnb- one hundred and fifty-three 	1
+charge battery	cnb- one hundred and sixty-two 	1
+charge battery	cnb- one hundred and sixty-three 	1
+detrimental physiological disorder	cns disorder	1
+DNS record	cname record	1
+educational network	cnn	2
+engineering solution & service	cnc flame cutting	2
+english-language channel	cnbc	1
+english-language channel	cnn	1
+famous channel	cnn	1
+global channel	cnn	3
+global new agency	cnn	2
+industry-related and mainstream new source	cnn money	3
+insertable cable network	cnn	1
+international medium conglomerate	cnn	1
+investment site	cnn money	2
+large outlet	cnn	1
+mainstream entity	cnn	1
+mainstream network	cnn	1
+medium behemoth	cnn	1
+national and international new outlet	cnn	2
+national and local television program	cnn	1
+national research organization	cnrs	1
+network television program	cnn	1
+news operation	cnn	1
+news page	cnn	1
+news page	cnn site with ease	1
+news venue	cnn	1
+Non-traded REITs	cnl income properties	1
+online new website	cnn	1
+program	cnc machining	1
+program	cnap certification	1
+program	cna training program	1
+program	cnri gigabit testbeds	1
+popular downtown attraction	cn tower	2
+premium cable channel	cnn	1
+press agency	cnn	1
+regularly TV show	cnn	1
+regularly TV show	cnbc	1
+reliability facility	cnc flame cutting	1
+rich manufacturing machine	cnc milling	1
+rich manufacturing machine	cnc lathe	1
+rubber bellow	cng bellow	1
+spurious variable	cns disease	1
+world new channel	cnn	1
+24-hour new channel	cnn	2
+american network	cnn	1
+american new network	cnn	2
+analog cable channel	cnn	1
+big name site	cnn	1
+big new agency	cnn	1
+broadcast new organization	cnn	1
+cable new station	cnn	3
+cable new station	cnbc	1
+commercial press release distribution service	cnw group	3
+credible new organization	cnn	1
+dhl's largest account	cnn	1
+emerging market company	cnpc	1
+english new channel	cnn	2
+english new channel	cnbc	1
+format conversion	cnd	3
+fuel program	cng	1
+gelatinous animal	cnidarian	1
+Genomic variation	cnvs	1
+high-accuracy application	cnc machining	2
+high-profile reporting agency	cnn	1
+independent insurance carrier	cna	1
+in-house technology	cnc machining	1
+international new site	cnn	8
+international television network	cnn	1
+liquid and gaseous fuel	cng	2
+mainstream content provider	cnn	1
+mainstream english medium outlet	cnn	1
+mainstream medium new outlet	cnn	1
+medium broadcast	cnn	1
+medium placement	cnn	1
+medium titan	cnn	1
+metal related service	cnc plasma cutting	1
+national and international multimedia venue	cnn	4
+national broadcast outlet	cnn	1
+national financial broadcast	cnn	2
+national financial broadcast	cnbc	2
+national new source	cnbc	1
+nbc's cable network	cnbc	2
+news broadcaster	cnn	1
+news conglomerate	cnbc	1
+news conglomerate	cnn	1
+news reporter	cnn	2
+news syndication	cnn	1
+notable source	cnet reviews	1
+OEM service	cnc machined part	1
+oil & major company	cnr	1
+oilfield related service	cnc plasma cutting	1
+online medium site	cnn.com	1
+online new organization	cnn	2
+popular machining service	cnc milling	21
+popular machining service	cnc mill ing	1
+popular new program	cnn	1
+popular representation	cnf	2
+prepared herb	cnidium officinale	1
+prestigious landmark	cn tower in toronto	1
+protein growth factor	cntf	1
+reputable new outlet	cnn	4
+respected medium outlet	cnn	1
+satellite TV station	cnn	2
+second, group	cndp	1
+set machine	cnc machine	1
+set machine	cnc bending machine	1
+sheet metal related service	cnc punching	2
+soft new	cnn	1
+stream TV channel	cnbc	1
+stream TV channel	cnn news	1
+tech new site	cnet	1
+toronto tourist attraction	cn tower	1
+toronto's major attraction	cn tower	2
+traditional new organization	cnn	1
+TV source	cnn	3
+U.S. medium outlet	cnn	1
+well-known mediums	cnn	1
+western new outlet	cnn	3
+worldwide network	cnn	1
+american bellwether company	cnn	1
+american mainstream television medium	cnn	2
+american new channel	cnn	3
+american TV new organization	cnn	1
+automation process	cnc machine	1
+back-end processing	cnc processing	1
+basic network	cnn	1
+big business gun	cnn	1
+cable new outlet	cnn	5
+cable program service	cnn	4
+cable resource	cnn	1
+cable television station	cnn	1
+chanels	cnn	1
+CNS	cns in diabetes	1
+codings	cns	1
+competitive channel	cnbc	1
+competitive channel	cnn	1
+complex disease area	cns	1
+compressed gas fuel	cng	3
+custom fabrication service	cnc punching	1
+DNS issue	cnames	1
+domestic giant	cnpc	1
+easily channel	cnn	2
+executive-level position	cno	1
+famous land mark	cn tower	1
+famous traditional sightseeing spot	cnn	1
+fast switching signal	cnv	2
+financial network	cnn financial news	3
+financial network	cnbc	1
+foreign-language channel	cnn	1
+fraud prevention service	cnp fraud prevention	1
+fuel appliance	cng	1
+gas agent	cn	1
+genuine power-packed ingredient	cnidum monnier	1
+global and local broadcaster	cnn	1
+information technology certification	cne	1
+international medium channel	cnn	1
+international medium program	cnn	3
+international press agency	cnn	1
+international TV network	cnn	2
+language channel	cnn	1
+liberal TV new	cnn	1
+local and national television show	cnn	2
+magic letter	cne	1
+mainstream medium journalist	cnn's ben wedeman	1
+mainstream new site	cnn	2
+mainstream press	cnn	1
+marine phylum	cnidaria	1
+medical training	cna	1
+medium monopoly	cnn	1
+micromechanical mechanism	cnt pull-out	1
+mirror site	cnet's download.com	1
+MSM source	cnn	1
+nail industry top product	cnd shellac	1
+national and international broadcaster	cnn	1
+national and international service	cnn	1
+national and local television station	cnn	1
+national medium outl ets	cnn	1
+national medium program	cnn	1
+national medium source	cnnmoney	1
+news bureau	cnn in the nearest major city	1
+news bureau	cnn	1
+Notable press folks	cnn's brianna keliar	1
+political forum	cnn	1
+popular atlanta attraction	cnn center	2
+popular machining service s	cnc milling	4
+popular video content site	cnn	1
+precision electronic discharge machining service	cnc milling	2
+precision machining	cnc machining	1
+precision mechanical part	cnc cutting	1
+precision mechanical part	cnc lathe	1
+prominent new outlet	cnn	1
+radical source	cnn	1
+organization	cnn	30
+organization	cnib	6
+organization	cnbc	4
+organization	cna life	2
+organization	cnet news	2
+organization	cnla	1
+organization	cnm paralegal law center	1
+organization	cni	1
+organization	cnrs	1
+organization	cnu	1
+organization	cna nursing training program	1
+organization	cna	1
+organization	cn rail	1
+simply channel	cnn	1
+so-called mainstream media , outlet	cnn	5
+state-of-the-art production machine	cnc machine	1
+strong cable network	cnn	1
+telecommunication tower	cn tower	1
+television new organization	cnn	2
+television outlet	cnn	4
+television source	cnn	1
+television trademark	cnn	1
+today's most efficient process	cnc machining	2
+today's most efficient process	cnc lathe	1
+top review site	cnet	1
+traditional new service	cnn	1
+trendsetting key technology	cnc control	1
+turret punch press	cnc turret punch press	1
+TV site	cnn.com	1
+UK station	cnn	1
+unconventional project	cnt-based biological sensor	2
+western medium platform	cnn	2
+world renowned index	cnx nifty	1
+worldwide medium organization	cnn	1
+worldwide medium organization	cnbc	1
+Yetothernon-entertainment programchannels	cnbc	1
+24-hour new cable channel	cnn	1
+24-hour new network	cnn	1
+advanced CNC machine	cnc milling machine	1
+advanced CNC machine	cnc turning machine	1
+advanced CNC machine	cnc lathe	1
+advanced CNC machine	cnc machining center	1
+advanced practice nursing position	cnm	1
+advanced production facility	cnc mold working center	1
+advanced production facility	cnc machine	1
+american television new organization	cnn	3
+big medium	cnn	1
+big medium network	cnn	1
+big medium network	cnbc	1
+business television station	cnbc	1
+business television station	cnn	1
+cable TV station	cnbc	1
+case program	cnn	1
+cashew nut product	cnsl based liquid binder	1
+cashew nut product	cnsl resin	1
+certification class	cna class	1
+china's key company	cnooc	1
+chinese oil major	cnooc	1
+CJK encodings	cns	1
+clientel	cnn	1
+CNG product	cng cylinder	1
+CNG product	cng engines for motor	1
+CNG product	cng conversion kit s	1
+comcast channel	cnn	1
+commercial line insurer	cna	1
+commie liberal new medium outlet	cnn	1
+country-specific top-level domain	cn for china	1
+deletion	cnuts like sophie ellis-bextor	1
+energy related company	cnrl	1
+organization	cny works	1
+organization	cnib in canada	1
+organization	cnn in the united states	1
+organization	cns	1
+organization	cnodc petrochemical trading company	1
+organization	cnyc	1
+organization	cnf service company	1
+organization	cnfa	1
+organization	cnh	1
+organization	cnn television	1
+organization	cny irish cultural society	1
+organization	cnbc-tv eighteen 	1
+expanded basic channel	cnn	1
+expert agency	cng consulting gmbh	2
+fact most new site	cnn.com	1
+factory machine	cnc machine tool	2
+favourite DSTV station	cnn for new	1
+financial medium outlet	cnbc	4
+financial medium outlet	cnbc for trading idea	1
+financial new outlet	cnbc	3
+financial new outlet	cnn	2
+free and library-paid site	cnn	1
+fusion process	cno cycle	1
+global medium giant	cnn	1
+global medium group	cnn	1
+global TV network	cnn	2
+high profile broadcasting company	cnn	2
+horrible new station	cnn	1
+hour new network	cnn	2
+iconic international landmark	cn tower in toronto	1
+independent accountability mechanism	cndh citizen advisory council	1
+indispensable modern equipment	cnc machining center	2
+industrial electronic product	cnc console	1
+insurance partner	cnp	1
+international and continental giant	cnbc	1
+international and continental giant	cnn	1
+international medium corporation	cnn	2
+international new station	cnn	2
+international space agency	cnes	1
+internet new	cnn.com	1
+internet trading platform	cnet	1
+invasive biopsy procedure	cnb	1
+irish firm	cng travel	1
+large new service	cnn	1
+large therapeutic area	cns	1
+latest high precision machine	cnc wire-cut	1
+latest high precision machine	cnc edm	1
+latest manufacturing technology	cnc milling machine	2
+liberal source	cnn	1
+local and national TV show	cnn's showbiz tonight	3
+local and national TV show	cnn s showbiz tonight	1
+mainstream news	cnn	2
+meal replacement powder	cnp pro mr	1
+medium new outlet	cnn	1
+metasearch site	cnet's search.com	1
+mobile phone technique	cng for  three gpp 	1
+most-watched cable TV channel	cnn	1
+motion-control device	cnc cutting machine	1
+MSM outlet	cnn	1
+national and international broadcast program	cnn	1
+national cable new channel	cnbc	1
+national new show	cnn	1
+national new station	cnn	10
+nbc's channel	cnbc	1
+ndispensable modern equipment s	cnc machining center	1
+net work	cnn	1
+opinion station	cnn	1
+overseas web site	cnn	1
+patrol boat	cnv chancellor	1
+popular HD channel	cnn hd	1
+popular programming service	cnn	1
+organization	cnac in china	1
+precision metal fabrication service	cnc punching	1
+presumed initial insult	cns infection	1
+prominent account	cnm	1
+pure asian herb	cnidium monnier seed	1
+reliable new site	cnn	1
+reputable new organization	cnn ny time	1
+reputed site	cnet	1
+road fuel gas	cng	1
+satellite broadcasting channel	cnn	1
+satellite television network	cnn	1
+sheetmetal processing equipment	cnc shearing machine	1
+sheetmetal processing equipment	cnc bending machine	1
+sheetmetal processing equipment	cnc punching machine	1
+so-called clean fuel	cng	1
+sophisticated machinery	cnc machine	1
+stalwart new organization	cnn	1
+super-rich individual	cnn founder	1
+tomographic imaging performance	cnr	1
+tool & CNC component	cnc tooling & accessory	1
+top-notch new station	cnbc	1
+top-notch new station	cnn	1
+top-rated new station	cnn	2
+top-rated new station	cnbc	2
+toronto's biggest landmark	cn tower	1
+traditional and contemporary process	cnc milling	1
+traditional news-oriented website	cnn	2
+trusted new source	cnn	1
+turner brand	cnn	1
+turner network	cnn	1
+TV new	cnn	2
+TV outlet	cnn	1
+web site address	cnn.com	1
+website address	cnn.com	1
+western medium source	cnn	1
+world medium outlet	cnn	2
+acoelomate organism	cnidarians	1
+ad-supported cable channel	cnn	1
+advanced logit model	cnl	1
+advanced machine s	cnc machining center	1
+all-news station	cnn	1
+aluminium extrusion fabrication service	cnc machining	2
+american medium	cnn	2
+american medium site	cnn	1
+american new organization	cnn	1
+american programming service	cnn	1
+anti-american new network	cnn	1
+assistant job	cna	1
+auto security product	cnetral door locking system	1
+automated machinery	cnc drilling machine	1
+basic cable new network	cnn	1
+basic cable new network	cnbc	1
+technique	cnc machining	2
+benthic macro-invertebrate	cnidarians	1
+big corporate network	cnn	1
+big international network	cnn	1
+big league new website	cnn	1
+big medium name	cnbc	1
+big medium player	cnn	1
+big new site	cnn	1
+big new station	cnn	1
+big online new outlet	cnn	1
+big TV channel	cnn	1
+big-name medium company	cnn	1
+blended protein powder	cnp pro peptide	1
+bus based transportation system	cng	1
+business medium outlet	cnn	1
+business television new network	cnbc	1
+cable exclusive network	cnn	1
+cable franchise	cnn	1
+cable new	cnn	1
+cable new organization	cnbc in washington	1
+cable new organization	cnn	1
+cable TV	cnn	1
+cable tv's top network	cnn	1
+carnivorous invertebrate	cnidarian	1
+category-killer venue	cnn	1
+center entrance clolonial offer amenity	cntrl air	1
+chinese giant	cnpc	3
+class adverse event	cns effect	1
+classic cable channel	cnn	1
+classic cable channel	cnbc	1
+CNC device	cnc mill	1
+CNC machining process	cnc drilling	1
+CNS pathology	cns trauma	1
+collaborative institute	cnrs	1
+commercial race food	cnp energy bar	1
+commercial race food	cnp flapjack bar	1
+commercial race food	cnp gel	1
+common financial site	cnbc	1
+composite film	cnt composite film	1
+congenital or acquired etiology	cns infection	1
+corporate medium channel	cnn	1
+countless television program	cnbc talk live	1
+creation technology	cnc milling	2
+daughter fragment	cn	2
+dependable new name	cnn	2
+dependable new name	cnbc world	2
+detectable toxic nitrogenous substance	cn -	1
+diploblastic animal	cnidarian	2
+diploblastic animal	cnidaria	1
+DNS type	cname	1
+english language offering	cnn	2
+english service	cnn	1
+english station	cnn	1
+english-speaking channel	cnn	1
+english-speaking channel	cnbc	1
+established medium site	cnbc	1
+european and american medium outlet	cnn	2
+extralymphatic site	cns	1
+extremely notable structure	cn tower	1
+F. cable network channel	cnn	1
+famous scramble	cneifion arete	1
+financial new program	cnbc	4
+financial new program	cnn	1
+financial portal	cnbc	1
+financial show	cnbc	1
+free speed test site	cnet's online speed test	1
+frontline caregiver	cnas in the product-selection process	1
+general-news web site	cnn	1
+global broadcaster	cnn	1
+global symbolic landmark	cn tower in toronto	1
+great cow	cns sheeza dream	1
+great new channel	cnbc	1
+high accuracy processing equipment	cnc automatic slicer machine	1
+High precision equipment	cnc from gleason	1
+high-class bike part	cnc part	2
+high-definition free-to-guests premium channel	cnn	1
+highly-recognised international brand	cnn	1
+hot new upcomming artist	cnic	1
+hottest channel	cnn	1
+iconic global landmark	cn tower in toronto	2
+identical new station	cnn	1
+iman veteran	cnn's jeff greenfield	1
+industrial resin product	cnsl	1
+industrial-like fabrication technique	cnc machining	1
+industry medium	cnbc	1
+inflammatory CNS disease	cns sarcoid	1
+innovative global manufacturer	cnh	1
+international broadcasting organization	cnn	1
+international cable network	cnn	1
+international medium house	cnn	1
+international new network	cnn	1
+international satellite television channel	cnn	2
+international television channel	cnn	2
+international television program	cnn	1
+international, reputable new source	cnn	1
+internationally advanced facility	cnc wire-cutting machine	2
+internationally advanced facility	cnc drilling machine	1
+internationally advanced facility	cnc milling machine	1
+large new company	cnn	1
+large, established channel	cnn	1
+latest and advanced technology machine	cnc router	1
+latest automation technique	cnc punch press	1
+latest automation technique	cnc plasma cutting	1
+Launcher apps	cnn	1
+leading medium figure	cnn's rick sanchez	1
+leading TV channel	cnn	2
+leftist medium	cnn	1
+legitimate new network	cnn	1
+local and national new organization	cnn	1
+local and national new outlet	cnn	1
+local and national television outlet	cnn	3
+lot more english language channel	cnn	1
+machine capability	cnc milling	1
+machining machine	cnc die sinking edm	1
+mainstream media	cnn	1
+mainstream medium network	cnn	1
+mainstream new agency	cnn	2
+mainstream new portal	cnn	1
+male tonic	cnidium monnieri	1
+metazoan taxonomic group	cnidaria	2
+MSM station	cnn	1
+multinational broadcast company	cnn	1
+must-have cable network	cnn	1
+must-have cable network	cnbc	1
+national and international TV special	cnn	2
+national broadcasting company	cnn	1
+national business station	cnn	1
+national business station	cnbc	1
+national turnaround channel	cnn	1
+network new channel	cnn	1
+network18 brand	cnbc tv eighteen  forbes india 	2
+network18 brand	cnbc tv eighteen 	1
+neurotrophic and growth factor	cntf	1
+neurotrophicand growth factor	cntf	1
+news entity	cnn	1
+news medium program	cnbc's squawk box	1
+news name	cnn	6
+news name	cnbc world	6
+news site homepage	cnn	1
+non-nmda AMPA receptor antagonist	cnqx	1
+non-procedure-related risk	cns toxicity	1
+application	cnc machine	4
+application	cnc machining	2
+application	cnbc real-time	1
+application	cnn	1
+application	cnv analysis	1
+north american TV network	cnn	1
+northernmost island	cnmi	2
+nurse organization	cna	1
+objective image quality parameter	cnr	1
+online new publisher	cnn	1
+othernew material	cnbm's pvc floor	1
+others spindle	cnc turning spindles	1
+panel processing router	cnc with multifunction woktables router	1
+photography equipment award	cnet s reader s choice	1
+popular atlanta area attraction	cnn center	2
+popular mach ining service	cnc milling	1
+popular machining serv ice s	cnc milling	1
+popular new source	cnn	1
+popular new station	cnn	3
+popular T.V. program	cnn	1
+popular trader	cnbc's rick santelli	1
+Post-operations	cnc machining	1
+powerful new organization	cnn	1
+precision engineering process	cnc grinding	1
+pre-configured source	cnn	1
+premium quality automobile accessory	cng pressure reducer	1
+professional review	cnet	1
+prominent financial show	cnbc morning call	1
+prominent new agency	cnn	1
+provincial and national organization	cnib	1
+public new network	cnn	2
+public new network	cnbc	2
+rare potential anesthetic complication	cns lesion	1
+red chip	cnooc limited	1
+regenerable tissue	cns in lower vertebrate	1
+regular new site	cnet	1
+reliable new name	cnbc world	5
+reliable new name	cnn	5
+reputable new site	cnn	1
+respectable new station	cnn	1
+respected new mediums	cnn	1
+respected new name	cnbc world	4
+respected new name	cnn	4
+resposable medium	cnn	1
+right-wing political institution	cnp	1
+set large-scale equipment	cnc automatic welding machine	1
+set large-scale equipment	cnc bending presses machine	1
+severe or lifethreatening manifestation	cns manifestation	1
+simple web page	cnn.com	1
+so-called middle-of-the-road network	cnn	1
+soources	cnn	1
+sophisticated load	cnc machinery	2
+sophisticated production facility	cnc machining center	1
+sophisticated production facility	cnc sheet shearring machine	1
+stainless steel machining service	cnc machining	1
+standard cable channel	cnn	1
+stream new source	cnn	1
+Strong anionic ligands	cn	1
+successful new program	cnn	1
+successful voluntary organization	cnib	1
+suddenly company	cnn	1
+application	cns shunt	1
+application	cng measurement	1
+application	cnc lathe	1
+application	cnc milling	1
+application	cn eight -sw program 	1
+application	cnts films for sensor structure	1
+tech medium company	cnet networks	1
+television producer	cnn	1
+telly talk organization	cnn	1
+tool room service	cnc milling	1
+tool room service	cnc drilling	1
+traditional liberal medium outlet	cnbc	1
+true safety issue	cns effect	1
+trustworthy new name	cnn	4
+trustworthy new name	cnbc world	4
+TV new broadcaster	cnn	1
+TV new organization	cnn	1
+TV18 india ltd. group channel	cnbc awaaz	1
+TV18 india ltd. group channel	cnn-ibn	1
+TV18 india ltd. group channel	cnbc tv eighteen 	1
+type scientific research institute	cnrs in france	1
+typical trading world's word	cnf	1
+U.S. channel	cnbc	1
+unexpected adverse reaction	cns reaction	2
+uninhabitable tower	cn tower	1
+Web host review website	cnet reviews	1
+western medium organization	cnn	1
+western network	cnn	1
+widespread cable channel	cnn	1
+wood panel processing router	cnc with multifunction woktables router	1
+worldwide outlet	cnn	1
+worldwide TV network	cnn	2
+24-hour new station	cnn	2
+accessing conventional web site	cnn	1
+actively diff new channel	cnn	1
+advanced CNC machining equipment	cnc milling machine	1
+advanced CNC machining equipment	cnc turning machine	1
+agro-dealers	cnsa	1
+all-news channel	cnn	2
+american insurance company	cna life	1
+american medium organization	cnn	1
+american new program	cnn	1
+anarchosyndicalist union	cnt joaquin costa	1
+anatomically simple animal	cnidarian	3
+antagonistic new source	cnn	1
+basic machining tool	cnc milling machine	1
+bath-applied drug	cnqx	1
+best target area	cns	1
+beta-adrenergic blocker drug	cns depressant	1
+big medium website	cnn.com	1
+big name new agency	cnn	1
+big new website	cnn	1
+big popular site	cnn.com	1
+big time corporation	cnn	1
+biggest new source	cnn	1
+biological sampling soft-bodied animal	cnidaria	1
+blood vitalization herb	cnidium	1
+broadcast new	cnn	1
+broadcasting agency	cnn	1
+business broadcast	cnbc	2
+business TV network	cnbc	1
+business TV station	cnbc	1
+cable new program	cnn	1
+cable television finance station	cnbc	1
+cable television new channel	cnn	3
+cable TV new channel	cnn	1
+cable-only network	cnn	2
+canada's most recognisable landmark	cn tower	1
+name	cna	1
+name	cnf	1
+name	cnbc	1
+capital good producer	cnh	1
+channel television	cnn	1
+chemical self-defense spray	cn-	1
+Chinese NOCs	cnpc	1
+classical myelin protein	cnp	1
+CNC component	cnc cpu	1
+CNC machine s	cnc vetical machine	1
+CNC machine s	cnc horizontal milling&boring machine	1
+CNC precision testing equipment	cnc vertical & horizontal machining equipment of japan	1
+CNG station equipment	cn g cylinder	1
+CNT composition	cnt film	1
+CNT structured material	cnt corrugated cardboard	1
+coconut based product	cno	1
+complete in-house machine shop service	cnc milling	1
+computer-controlled tool	cnc milling machine	1
+conditional gate operation	cnot gate	1
+content apps	cnn	2
+content-drenched website	cnbc.com	1
+convenient gaseous alternative	cng	1
+conventional datum reduction method	cnn	1
+conventional medium form	cnn	1
+conventional neutron porosity tool	cnt tool	2
+country-code domain	cn for china	1
+Country-code specific TLDs	cn for china	1
+country-code top level domain	cn	1
+credible new outlet	cnn	1
+democratic party information source	cnn	1
+dependable new channel	cnn	1
+dependable new corporation	cnn	2
+dependable new corporation	cnbc world	2
+dependable new institution	cnbc world	2
+dependable new institution	cnn	2
+designated new channel	cnn	1
+digital fabrication tool	cnc router	1
+digital production technology	cnc manufacturing	1
+digital-only channel	cnn	1
+DNOs	cn east	1
+dns-related term	cname	1
+domestic consumer	cng bus fueling station at the path morley depot	1
+downtown tourist attraction	cnn	1
+drug tested brand	cnp professional	1
+english language new channel	cnn	3
+english speaking channel	cnn	1
+english-language station	cnbc	1
+entry-level training program	cna	1
+established cytosolic signaling mechanism	cnmp signaling	1
+european research organization	cnrs in france	1
+exact new provider	cnn	1
+experiment intelligent down-sampling method	cnn	1
+extensive manufacturing capability	cnc machining	1
+famous agency	cnn	1
+name	cnn	1
+name	cnpc	1
+fasttrac opportunity	cna	2
+fetal adverse effect	cns	1
+financial new medium outlet	cnbc	1
+financial new show	cnbc	2
+free cable service	cnn	2
+generally reputable new outlet	cnn	1
+gliogenic factor	cntf	1
+global medium network	cnn	2
+global new organization	cnn	1
+globally competitive organization	cnbc	1
+good heatsink	cnps nine thousand seven hundred cu in a tower configuration 	1
+google content network partner site	cnn.com	1
+government-controlled medium outlet	cnn	1
+headline source	cnn	1
+high profile journalist	cnn's anderson cooper	1
+high-density quantitative datum	cnv	1
+hour cable channel	cnn	1
+hour television new	cnn	1
+huge american TV channel	cnn	1
+huge online portal	cnnmoney	1
+huge online portal	cnnm oney	1
+hutu rebel movement	cndd-fdd	1
+immunoprivileged site	cns	1
+imported production equipment	cnc	1
+improved new network	cnn	1
+independently-initiated national agency activity	cnes risk mapping	1
+industrial engraving machine	cnc mini mill engraving machine	1
+industry IP address management system	cnr	1
+informational portal	cnn	1
+insidiously obscene channel	cnn	1
+installation module	cng installation module	1
+international and prestigious brand	cnn	1
+international electronic new broadcaster	cnn	1
+international medium giant	cnn	1
+international new company	cnn	1
+international new outfit	cnn	1
+international new television program	cnn	1
+international satellite channel	cnn	1
+international satellite TV channel	cnn	1
+internationally channel	cnn	1
+internet new outfit	cnn	1
+investing information service	cnn money	1
+joint quantum operation	cnot gate	1
+key medium outlet	cnn	1
+large chinese state-owned enterprise	cnpc	1
+large commercial content site	cnn	1
+large mainstream medium outlet	cnn	1
+large multi-line insurer	cna	1
+leading medium outlet	cnbc	1
+leading television new channel	cnn-ibn	1
+legitimate companies logo	cnn	1
+legitimate new source	cnn	1
+lg's exclusive cutting-edge technology	cnt thermal technology	1
+liberal main stream medium outlet	cnn	1
+case	cnc machine tool	2
+case	cns	2
+case	cnv at  sixteen p eleven 	1
+case	cns infection	1
+live HD broadcast	cnn	4
+long-established medium giant	cnn	1
+loved tourist attraction	cnn center	1
+low-emission option	cng vehicle	1
+mainline railway	cnr	1
+mainstream new station	cnn	1
+market information site	cnbc	1
+mass medium organization	cnn	1
+miracle manicure product	cnd's shellac	2
+mobile-optimized web page	cnn	1
+modern NOCs	cnpc	1
+modern personality	cn sharma	1
+multinational new corporation	cnn	1
+multi-use park	cnp	1
+nanoscopic device	cnt switch	1
+national cable channel	cnn	1
+national cable station	cnn	2
+national huge company	cnpc	1
+national medium broadcast	cnbc	1
+nation's top investigative reporter	cnn's brian barger	1
+NBC owned cable station	cnbc	1
+neighbouring organization	cnyc	1
+network TV	cnn	1
+neurotrophin receptor	cntfr	1
+newnanomaterials	cnt	1
+news caster	cnn	1
+news forum	cnn	1
+news oriented web server	cnn	1
+news related web site	cnn	1
+news source site	cnn	1
+news-gathering organization	cnn	1
+newsmagazine website	cnn	1
+nitrogen-containing radical	cn	1
+non-black outlet	cnn	1
+non-indigenous TV channel	cnn	1
+non-premium channel	cnn	1
+non-visual deep-sea group	cnidarian	1
+nuclear critic	cnd's kate hudson	1
+NWMs	cncw in cambodia	1
+off-campus page	cnn	1
+officially non-governmental think tank	cnas	1
+off-line content	cnn daily update	1
+online financial publication	cnnmoney	1
+online new	cnn.com	1
+optical link performance	cnr	1
+original cable service	cnn	1
+pay tv channel	cnn	1
+PBL support system	cnb	1
+pioneer taxa	cnestisand poaceae	1
+polymorphism	cnv	2
+popular basic channel	cnn	1
+popular new channel	cnn	1
+popular new show	cnn	1
+popular new web site	cnn	1
+popular new website	cnn	1
+popular specialty channel	cnn	2
+popular subscription channel	cnn	1
+popular TV network	cnn	1
+populist right-wing talk show host	cnn's lou dobbs	1
+case	cnpc's investments in costa rica	1
+post-processor program	cnc machining program	1
+powerful new broadcaster	cnn	1
+prestigious new portal	cnbc	1
+prestigous medium	cnn	1
+primitive metazoans	cnidaderian hydra	2
+print apps	cnn	1
+private medium corporation	cnn	1
+pro review	cnet	1
+professional organization membership	cnsa	2
+profile website	cnn	1
+prominent Indian Americans	cnn's dr sanjay gupta	1
+prominent new website	cnn	1
+pure content provider	cnn	2
+pure medium website	cnn.com	2
+quasi-autonomous non-governmental organization	cnp	1
+railway plant	cnr's pointe-st-charles shops in montreal	1
+real medium	cnn	1
+real new organization	cnn	2
+red tool	cnc mill	1
+reference circuit	cn- one hundred and ninety-one  from adi's circuits from the lab 	1
+regional and national new network	cnn	1
+reliable financial source	cnn	1
+reliable new institution	cnbc world	1
+reliable new institution	cnn	1
+reliable new network	cnn	1
+reliable new outlet	cnn	1
+remarkable enterprise	cnn	2
+renowned new channel	cnbc	1
+renowned new channel	cnn	1
+reputable new corporation	cnn	1
+reputable new corporation	cnbc world	1
+reputable new institution	cnbc world	1
+reputable new institution	cnn	1
+resource sub-lists	cnc machines	1
+resourceful web site	cnn	1
+respected business network	cnbc	1
+respected new corporation	cnbc world	1
+respected new corporation	cnn	1
+respected new institution	cnn	1
+respected new institution	cnbc world	1
+responsible broadcaster	cnn	1
+responsible mutation	cnga three 	1
+responsible mutation	cngb three 	1
+rival foreign new channel	cnbc	1
+rival foreign new channel	cnn	1
+roast stock market cheerleader	cnbc personality maria bartiromo	1
+round-the-clock new agency	cnn	2
+safe and trustworthy website	cnn	1
+Satellite television	cnn	1
+satellite TV program	cnn	2
+SDL customer	cnh	2
+simple metazoan	cnidarian	1
+simplest multicellular animal	cnidarian	2
+single website	cnn	1
+skilled trade area	cnc machining	1
+SNR related parameter	cnr	1
+so-called mainstream new outlet	cnn	1
+so-called serious new source	cnn	1
+softball forum	cnn	1
+somewhere in-between lie alternative fuel	cng	2
+sophisticated web site	cnbc purc h a s	1
+specialist business new channel	cnbc	1
+specialty type record	cname	1
+spectrum event	cnr trending	3
+standard programming	cnn	1
+statistically-descriptive parameter	cnidocyst size	1
+subtractive technology	cnc routing	1
+subtractive tool	cnc router	1
+tame new medium house	cnn	1
+TCI cablevision's network selection	cnn news	1
+television network's website	cnn.com	1
+television new outlet	cnn	1
+time inc. website	cnn money	1
+TNS service	cnam	1
+tool pouch suit tool	cn- ten  swaging tool 	1
+top new outlet	cnn	5
+top new TV channel	cnbc arabia	1
+top new web site	cnn	1
+top tenant	cn rail	1
+top-ranking technology	cnc lathe	1
+toronto's well-known attraction	cn tower	1
+transnational satellite broadcaster	cnbc	1
+trustworthy new corporation	cnbc world	2
+trustworthy new corporation	cnn	2
+trustworthy new institution	cnn	2
+trustworthy new institution	cnbc world	2
+trustworthy new organization	cnbc world	2
+trustworthy new organization	cnn	2
+twenty-four-hour new channel	cnn	1
+two-particle reaction	cno cycle reaction	1
+two-qubit gate	cnot gate	1
+typical new station	cnn nbc	1
+U.S. cable channel	cnn	1
+U.S. television network	cnn	4
+ultra-large enterprise	cnpc	1
+unbiased new agency	cnn	1
+web development new site	cnet.com	1
+web site horror story	cnn interactive election day site	1
+well-known new organization	cnn	1
+western new channel	cnn	1
+western new site	cnn	1
+wierd and wonderful website	cnet	1
+window-style help file	cnt file	1
+world channel	cnn	1
+world medium agency	cnn	1
+world new network	cnn	1
+world new network	cnn website	1
+world-famous medium group	cnn	1
+world-renowned canadian icon	cn tower	1
+world's major television new service	cnn	1
+world's most successful business	cnn	1
+world-wide channel	cnn	1
+worldwide new service	cnn	1
+XTP packet type	cntl	1
+zionist network	cnn	1
+24-hour cable-news network	cnn	1
+24-hour international television new service	cnn	1
+24-hour new programming	cnn	1
+24-hour new service	cnn	1
+african journalist	cnn correspondent jeff koinange	1
+all-news cable outlet	cnn	1
+American broadcaster's web site	cnn	1
+american medium source	cnn	1
+analog transmission characteristic	cnr degradation	1
+anchor channel	cnn	1
+android keyboard	cn thai	1
+anti-immigration medium	cnn	1
+assumed agency	cnib	1
+automated or power equipment	cnc machine	1
+option	cng	1
+balanced new commentator	cnn's donna brazille	1
+Basal metazoans	cnidarian	1
+basic HD outlet	cnn	1
+basic new site	cnn.com	1
+bi-fuel system	cng	1
+big branded new site	cnn	1
+big new channel	cnn	1
+big new medium	cnn	1
+biggest medium property	cnn	2
+big-ticket western medium network	cnn	1
+book entity	cnn	1
+broadcast business show	cnn's money line	2
+broadcast new channel	cnn	1
+broadcasting enterprise	cnn	1
+Broadcasting television programming	cnn	1
+business new cable TV channel	cnbc	1
+business show	cnbc	1
+business television network	cnbc	1
+cable medium company	cnn	2
+cable new operation	cnn	1
+cable new outfit	cnn	1
+cable news channel	cnn	1
+cable television new outlet	cnn	1
+cable TV outlet	cnn	1
+cable-only station	cnn	2
+campaign new outlet	cnn	1
+canadian and american network	cnn	1
+capital investment material	cnc machine	1
+carbon nanotube device	cnt field effect transistor	1
+caregiver training program	cna	2
+CBM operator	cnx	1
+C-donor ligands	cn-	1
+cell phone review website	cnet.com	1
+chiefly television broadcast station	cnn	1
+chinese energy company	cnpc	1
+citizen new site	cnn's i-report	1
+clean energy fueling product	cng product	1
+clearly corporate medium	cnn	1
+CNM network application	cnm voice assistant	1
+CNOT6L	cnot six 	1
+company capability	cnc machining	1
+complex educational environment	cnm	1
+complex linear system	cnc machine tool	1
+Computer controlled machinery	cnc routers	1
+computerized machine	cnc router	1
+computer-numerically-controlled system	cnc machining system	1
+condition higher order wave theory	cnoidal	1
+context carbon nanomaterials	cnt	1
+conventional mechanical moving arrangement	cnc table	1
+convincing mechanism	cno cycle unbalancing	1
+convincing theory	cno cycle unbalancing	1
+corporate new medium	cnn	1
+corporate owned medium	cnn	1
+corporate-skewed medium channel	cnn	1
+costly machine	cnc machine	1
+country wide report	cnbc	2
+country's top-level domain	cn	1
+countrywide report	cnbc	1
+currently synonymous American television	cnn greater quantities of the ex one  designed 	1
+deep-sea dwelling invertebrate	cnidarian	1
+democratic medium source	cnn	1
+DIPLOBLASTS A group ofancestral animal	cnidarian	1
+distinguished new source	cnn	1
+diversified machine component	cnc machine ring	1
+DNS database record	cname	1
+domes-tic consumer	cng bus fueling station at the path morley depot	1
+domineering and awkward structure	cn tower	1
+downloading site	cnet's download.com	1
+early-bird website	cnn	1
+group	cn	5
+group	cnidarian	2
+group	cnidaria	2
+electron-attractor substituents	cn	1
+engin eers association	cni	1
+engi-neers association	cni	1
+english new paper	cnn.bbc news	1
+environmentally-friendly bus	cng bus	1
+ephedra-drug interaction	cns stimulants	1
+established new site	cnn	1
+extensive genome search	cnidarian nematostella vectensis	2
+famous and expert company	cnet	1
+famous gay minority	cnn anchor don lemon	1
+feature aluminum extrusion processing	cnc europe machining	1
+federal railway company	cn	2
+finance channel	cnbc	1
+financial medium network	cnn moneyline	1
+financial reporting site	cnn	1
+financial television network	cnbc	1
+first class equipment	cnc equipment imported from japan	1
+flat international TV channel	cnn	1
+flexible discrete-choice model	cnl model	1
+foriegn power	cn	1
+free financial channel	cnbc	1
+free press western new network	cnn	1
+fuel bus	cng	1
+full-time new network	cnn	1
+gas driller	cnx	1
+gel-polish brand	cnd's shellac	1
+generally anion	cn	1
+generally only basic english channel	cnn	1
+Giant former SOEs	cnocc listed on the shanghai stock exchange	1
+giant international TV network	cnn	1
+global and regional channel	cnn	1
+global medium institution	cnn	1
+global medium leader	cnn	1
+global new network	cnn	2
+global or transnational medium	cnn	1
+global television giant	cnn	1
+global TV channel	cnn	1
+gp130-stimulating factor	cntf	1
+graphically intense page	cnn.com	1
+health care opportunity	cna training	2
+healthcare experience	cna experience	1
+health-care related job	cna	2
+heme-binding ligands	cn-	1
+hierarchical calculation processing	cnn calculation	1
+high level machining service	cnc milling	2
+high tech manufacturing equipment	cnc routers	1
+highest quality laser	cni	1
+high-level web site	cnn.com	1
+high-profile television venue	cnn	1
+high-quality Glass Machine	cnc glass cutting production line	2
+high-quality production machine	cnc-controlled metal cutting machine	1
+high-value publisher	cnet with a tech-focused ab audience	1
+houe cable new network	cnn	1
+hour cable network	cnn	1
+hour new broadcaster	cnn	1
+hour new station	cnn	1
+hybrid broadcast broadband TV model	cnbc realtime app	1
+image critique forum	cnpa message board	1
+impartial review site	cnet.com for detailed information on individual brand	1
+imperialist network	cnn	1
+Ina highly complex tissue	cns	1
+incompetent new organization	cnn	1
+increasingly high-tech production method	cnc machining	1
+group	cnd organise demonstration	1
+group	cnn	1
+influential new agency	cnn	1
+information there many channel	cnn	1
+inherently toxic asphyxiant gas	cn	1
+instantaneous civilian global information network	cnn	1
+insurance industry's largest carrier	cna	1
+international and national network	cnn	2
+international assistance program	cnfa	1
+international cable channel	cnn	2
+international current affair new network	cnn	1
+international main stream medium	cnn	1
+international new broadcaster	cnn	1
+joint protection supplement	cnp pro joint	1
+Kannadigas	cnn-ibn's assistant editor d p satish	1
+kind ingredient	cnidium monnier	1
+korean medicinal extract	cnidium officinale root extract	2
+korean stars style earring	cnblue	1
+large commercial new web site	cnn	1
+large corporate and network client	cnn	1
+large new broadcasting company	cnn	1
+large new outfit	cnn	1
+large public research organization	cnrs	1
+large scale students entertainment event	cny chinese whispers ii	1
+large, popular channel	cnn	1
+large-scale publisher	cnn	1
+large-size enterprise	cnsgc	1
+latest production facility	cnc turning center	1
+legitimate online site	cnn.com	4
+legitimate or authorized source	cnet networks	1
+less-biased new source	cnn	1
+liberal american new channel	cnn	1
+liberal chanels	cnn msnbc	1
+liberal medium site	cnn	1
+liberal station	cnn	1
+liberal-biased cable new organization	cnn	1
+libtard new	cnn	1
+life insurance entity	cna financial group	1
+local direct selling company	cni	1
+local U.S. network	cnn	1
+local US network	cnn	2
+long or complex page	cnet australia s	1
+low emission concerned, gaseous fuel	cng	1
+low-skilled production method	cnc equipment	1
+luck playing stream	cnn	1
+mainstream corporate medium	cnn	1
+mainstream new network	cnn	1
+mainstream new provider	cnn	1
+mainstream new website	cnn	2
+major download sites	cnet	1
+marxist new source	cnn	1
+mass medium new outlet	cnn	1
+mean time natural gas	cng	1
+mechanical fabrication method	cnc milling	1
+medium acronym	cnn	1
+medium corporate giant	cnn	1
+medium elite	cnn's dana bash	1
+mining op	cnrl	1
+mobile-optimized page	cnn	4
+mobilitynanomaterials	cnt andgraphene	1
+moderate medium	cnn	1
+modern shaping machine	cnc lathe	2
+Modern tooling	cnc machining center	1
+modularity-based clustering algorithm	cnm algorithm	2
+MRI application whichutilizedynamic first-pass technique	cns perfusion imaging	1
+MSCRAMMs	cnaa from s. aureus	1
+national and international outlet	cnbc	1
+national cable new medium outlet	cnn	1
+national medium network	cnn	1
+national MSM	cnn	2
+national new channel	cnn	1
+national new medium outlet	cnn	1
+national new operation	cnn	1
+national space agency	cnes	2
+national television cable network	cnn	1
+natural-gas-based fuel	cng	2
+near-complete loss ofpericytesin organ	cns intheabsence of pdgf-bor	1
+net offer many quality site	cnn	1
+network mapping utility	cna on cisco network	1
+news cable network	cnn	1
+news gathering organization	cnn	1
+news medium agency	cnn	1
+news medium network	cnn	1
+news related site	cnn.com	1
+news service site	cnn.com	1
+nitrogen-containing hydrocarbon molecule	cn	4
+nonappendiceal inflammatory condition	cnohndiseaseon torsion of the ovary	1
+non-bilaterian animal	cnidarian	1
+non-federal government	cnmi	1
+non-fossil based fuel	cng	1
+non-japanese medium	cnn	1
+non-polluted fuel	cng	1
+non-stop, all-news station	cnn	1
+non-traditional art-making tool	cnc device	1
+method	cnc machining process	4
+normal new website	cnn	1
+notable new agency	cnn	1
+notable security company	cnb technology	1
+nother country	cns-dcpscouldbeadministeredtocnssi nother country	1
+novell certification	cna	1
+objective site	cnet.com for review	1
+old-school medium company	cnn	1
+ongoing Web page	cnn page	1
+on-line collection	cn images of canada web gallery	1
+on-screen logo	cnn	1
+open source president	cnn contributor alex castellanos	3
+optimized mobile site	cnn	1
+othernanoscale component	cntsandquantumnanodots by simple chemical functionalization	1
+outside care provider	cna's	1
+path-based positioning application	cnc machining	1
+patriotic new agency	cnn	2
+pattern nanostructures	cntsor nanowires	1
+payment delivery	cns delivery	1
+physical modeling technique	cnc milling	1
+pioneering online-only site	cnet's news.com	1
+political source	cnn	1
+politically sensitive site	cnn.com	1
+popular electronics review site	cnet.com	1
+popular new network	cnn	1
+popular rule learner	cn two 	1
+popular toronto attraction	cn tower	1
+post workout shake	cnp pro recover	1
+precise processing facility	cnc processing center	1
+precision production facility	cnc lathe	1
+premium cable	cnn	1
+prime time TV special	cnn	1
+primitive animal phylum	cnidaria	1
+primitive, multicellular animal	cnidarian	1
+prominent new	cnn	1
+prominent new channel	cnn	2
+prominent new network	cnn	1
+prominent tech site	cnet news	1
+pseudo-populists	cnn's lou dobbs	2
+public laboratory	cnit	1
+pure domestic player	cntc	1
+Quinoxalinediones	cnqx	1
+rapid prototyping technique conventional manufacturing	cnc machining	2
+real new source	cnn money's column on blogging for dollars	1
+recognized national medium source	cnn	1
+recommended new channel	cnn	1
+reference center	cnrb in italy	1
+regular web video	cnn	1
+reliable new station	cnn	1
+renown new source	cnn	1
+renowned new network	cnbc	1
+renowned new station	cnn	1
+report channel	cnbc along with msnbc	1
+reputable and giant company	cnn	1
+reputable international new organization	cnn	1
+reputable medium name	cnn	1
+reputable medium website	cnn	1
+reputable review spot	cnet.com for information on security software	1
+respected business resource	cnn	1
+respected new station	cnn	1
+river corridor species	cnidium dubium	1
+robust datum type	cnv	2
+rollings new network	cnn	1
+RR type	cname rr	1
+RRtypes	cname rr	1
+RSS newsfeeds	cnn's technology newsfeed	1
+S. operation	cn	1
+SE asian currency	cny	1
+second, new service site	cnn.com	1
+seed-firming wheel	cnh's sdx flexible firming wheel	1
+selective retraction	cnn's tailwind fiasco	1
+method	cn	1
+method	cnc milling	1
+method	cnc machining	1
+serious organ involvement	cns involvement	1
+shill shrill main stream medium	cnn	1
+shop floor equipment	cnc machine	1
+short X509 attribute name	cn	1
+sibling device	cn fifty  series 	1
+simple invertebrate animal	cnidarian	1
+single new company	cnn	1
+skilled specific position	cnc machinist	1
+small firm association	cna	1
+small thin organism	cnidarian	1
+SNMP match criterion option	cnftopflowsmatchsrcaddress option	2
+so-called green fuel	cng	1
+so-called reputable new agency	cnn	1
+Solid unbleached board	cnk	1
+specialist business channel	cnbc	1
+specificwebsites	cnet for expert reviews on industry standard	1
+spectrum tool	cnr trending	3
+standard DNS service	cname	2
+state run medium	cnn	1
+state-owned large oil company	cnpc	1
+state's bigger oil dealer	cn brown	1
+Strong electron-withdrawing substituents	cn	1
+strong field ligands	cn	1
+sunday show	cnn's fareed zakaria gps	2
+supposedly hard new outlet	cnn	1
+Surpassing record-breakers	cn tower in canada	1
+T.V. special	cnn	1
+technological adavances	cnc milling	1
+television new station	cnn	1
+television new station ticker	cnbc stock market s ticker	1
+time warner company	cnn	1
+time warner's cable channel	cnn	1
+top broadcast network	cnn	1
+top b-to-b web site	cnbc	1
+top international broadcaster	cnn	1
+top international correspondent	cnn's amanpour	1
+top new medium site	cnn	1
+top new organization	cnn	1
+top new station	cnn	1
+Toronto's attraction	cn tower	1
+traditional new provider	cnn	1
+tradtional new service	cnn	1
+turkish medium channel	cnn turk	1
+turret lathe	cnc turret lathe	1
+TV new provider	cnn	1
+tv venue	cnn	1
+U.S global television	cnn	1
+ultramodern production facility	cnc water-jet cutting unit	1
+unencrypted program	cnn	2
+UPV instrument	cns farnell's punditplus	1
+vendor proprietary framework	cnac	1
+tool	cnc tool	5
+tool	cns personal assistant	1
+tool	cnc lathe	1
+tool	cnc technology	1
+tool	cnc sawing machine	1
+tool	cn-controlled heat treatment	1
+viking king	cnut	1
+web server ofpopular website	cnn.com	1
+well-established new organization	cnn	1
+well-established new site	cnn	1
+wellknown large business	cnn	1
+well-known large business	cnn	2
+well-known newscast	cnn	1
+woman television personality	cnbc reporter maria bartiromo	1
+world famous media	cnn	1
+world mass medium company	cnn	1
+world's major agriculture equipment producer	cnh	1
+world's major new organization	cnn	1
+world-wide new organization	cnn	1
+worthwhile checking website	cnet.com for review	2
+tool	cnc machinery	1
+tool	cnn's ireport	1
+tool	cnc machining	1
+tool	cnc equipment	1
+factor	cn factor	1
+product	cnc router	4
+product	cnc machining	3
+product	cnc wire cut edm	3
+product	cnc lathe	3
+project	cnpc's pipeline project	1
+project	cnn building in atlanta	1
+artist	cn blue	3
+material	cni	1
+place	cn tower	4
+place	cnet	2
+place	cnet.com	2
+place	cns	2
+technology	cnc machining	4
+technology	cnt	3
+technology	cnc machine	2
+technology	cng	2
+technology	cng technology	1
+product	cnc an milling	2
+product	cnc metal grinder	2
+product	cnc toolholding system	2
+product	cnc tube bender	2
+product	cnc milling components	2
+technology	cnt fabrication	1
+technology	cnc machine finishing	1
+technology	cnc bending	1
+technology	cnc manufacturing	1
+technology	cnt filter	1
+technology	cnc routing	1
+technology	cnc machine tool technique	1
+term	cnf	1
+term	cnv	1
+parameter	cnr	1
+parameter	cnt length	1
+parameter	cn two 	1
+parameter	cn	1
+parameter	cnt functionalisation	1
+system	cns	1
+system	cnc lathe	1
+system	cnr	1
+system	cnk	1
+system	cnc cutter	1
+system	cnc-processing center	1
+system	cnc milling machine	1
+system	cnas system	1
+system	cnc laser welding	1
+species	cn	1
+condition	cnvm associated with amd	4
+condition	cns kaposi's sarcoma	1
+variable	cns involvement at the time of diagnosis	1
+product	cnc machine components	1
+product	cnc machine related product	1
+product	cnc lapping machine related product	1
+product	cnc full servo robot arm	1
+product	cnc rotary table	1
+product	cnc lathe programming related product	1
+product	cnc machine punching	1
+product	cnc drilling machine related product	1
+product	cnc grinding machine related product	1
+product	cnc grinding related product	1
+product	cnc grinder related product	1
+product	cnc bender related product	1
+product	cnc bridgeport mill laser cutter	1
+product	cnap workflow pro for domino	1
+product	cn	1
+product	cnc toolings on exclusive basis	1
+product	cnc turning cell	1
+product	cnc router machine related product	1
+product	cnc precision cutting machine	1
+product	cnc wire cutter related product	1
+product	cnd foot heel cream	1
+product	cng cylinder related product	1
+product	cng related product	1
+variable	cn	1
+function	cnv	2
+function	cnsc lab kit distribution	1
+function	cnc function	1
+device	cnt quantum resistor	1
+device	cn three  mobile computer 	1
+device	cnc router	1
+device	cnc device	1
+brand	cnn	10
+brand	cnd shellac	3
+brand	cnp	2
+brand	cnet networks inc.	2
+brand	cnet networks	1
+brand	cnd	1
+brand	cnx	1
+brand	cnn's master	1
+brand	cnet uk	1
+brand	cnn-ibn	1
+concept	cns	1
+concept	cnc machine operation	1
+component	cnc controller	2
+component	cnc system	1
+component	cnc machine	1
+site	cnn	80
+site	cnet	22
+site	cnet.com	6
+site	cnn.com	6
+site	cnn interactive	5
+site	cnbc	2
+site	cnn money	2
+site	cnet's download.com for alternative	1
+site	cn et's download.com	1
+site	cns	1
+site	cnnmoney	1
+site	cnn mobile	1
+site	cnets download.com	1
+site	cnet's download.com	1
+site	cnet security center	1
+site	cnet shopper	1
+site	cnet news	1
+site	cnet last year	1
+site	cnet downloads	1
+related product	cnc grinder related product	1
+related product	cnc grinding machine related product	1
+related product	cnc grinding related product	1
+related product	cng related product	1
+related product	cnc wire cutter related product	1
+related product	cng cylinder related product	1
+related product	cnc lapping machine related product	1
+related product	cnc machine related product	1
+related product	cnc press brake related product	1
+related product	cnc machine tool related product	1
+related product	cnc machining service related product	1
+related product	cnc lathe machine related product	1
+related product	cng pressure gauge related product	1
+related product	cng motorcycle related product	1
+related product	cng conversion related product	1
+related product	cnc wire cut related product	1
+related product	cnc engraving related product	1

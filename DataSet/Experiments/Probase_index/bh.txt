@@ -1,0 +1,3164 @@
+factor	bhca	3
+product	bh  ten thousand and eleven  buckets coolers holders 	1
+product	bha	1
+initiative	bharat nirman	2
+initiative	bharti's other initiative	1
+initiative	bhutan	1
+initiative	bhf's hearty voices project	1
+initiative	bhoomi project	1
+resource	bhakti store	1
+resource	bhakti book	1
+facility	bhs acute care facility	1
+source	bh government registration of idps	1
+source	bhakti-rasamrta-sindhu by rupa gosvami	1
+source	bhagavad gita	1
+property	bh characteristic	3
+benefit	bhavishya kalyan yojana	1
+game	bhd wiii	1
+game	bheem ke laddu	1
+subject	bhakti poetry	2
+subject	bhakthi movement	1
+ophthalmologist	bhupendra patel	1
+ophthalmologist	bhupendra vora	1
+exception	bhishma	2
+exception	bharat bijlee	1
+exception	bhoomi in karnataka	1
+exception	bharati shipyard	1
+character	bheema	2
+character	bheem	1
+character	bhisma	1
+character	bhajji	1
+work	bhaktamala	2
+work	bhagavad gita	2
+work	bhaskar's earlier work	1
+work	bhattacharya	1
+model	bhw	2
+model	bhattacharya	2
+word	bhajan	3
+word	bharataya	1
+word	bhoi	1
+word	bhai	1
+attraction	bhasawang big splash	2
+attraction	bharat mata mandir	1
+category	bhagavata katha	1
+category	bhajans	1
+institution	bhabha atomic research centre	2
+institution	bharathiyar university	1
+institution	bharatiya agro industries foundation	1
+institution	bhaktivedanta college	1
+client	bhp billiton	13
+client	bhp	8
+client	bharti airtel	3
+client	bhs	2
+client	bhp billiton plc	1
+client	bhp aviation	1
+client	bhs in the private sector	1
+client	bharti axa	1
+client	bhagyanagar gas ltd	1
+client	bharat sanchar nigam	1
+client	bharat forge	1
+client	bharti mobile	1
+client	bharat handicrafts	1
+client	bharat heavy electricals ltd.	1
+author	bharati mukherjee	3
+author	bhanu	1
+author	bhattacharya	1
+author	bharti mukherjee	1
+form	bhatoora	2
+form	bharatanatyam	1
+form	bhandika	1
+form	bhut bhairon	1
+form	bhakti kal	1
+person	bhaskara rao	1
+person	bhavna	1
+person	bharata lakshman	1
+approach	bh procedure	2
+alternative	bharat tea plantations in between tanah rata	1
+agency	bharat vikas parishad	1
+agency	bhabha atomic research centre	1
+agency	bhesaj sangh	1
+agency	bhutan development finance corporation	1
+theme	bhagavan's love for animal	1
+theme	bhurka serial	1
+location	bhutan	2
+location	bharatpur	1
+location	bhiwadi	1
+location	bhatin	1
+location	bhayandar	1
+writer	bharati mukherjee	5
+writer	bhanu bhakta acharya	1
+writer	bhakta eric at the hing	1
+writer	bhabani bhattacharya	1
+writer	bharati mukerjee	1
+writer	bhai kahn singh of nabha	1
+solution	bhkw waste heat	1
+book	bhagavad gita	5
+book	bhagavad-gita	4
+book	bhagavatam	4
+book	bhavakupe jiver gati	2
+book	bhagavadgita	1
+book	bhagavata purana	1
+book	bhagavata	1
+book	bhagavad gitas	1
+star	bhagyashree	1
+star	bhavna pandey	1
+star	bharat jadhav	1
+star	bharani	1
+film	bhadra	4
+film	bhool bhulaiyaa	3
+film	bhumika	3
+film	bhale thammudu	2
+film	bhaji on the beach	2
+film	bhadrachalam	1
+film	bhavani bhavai	1
+film	bhagam bhag	1
+film	bharatham	1
+film	bharathi kannama	1
+film	bheja fry	1
+film	bhandarkar's jail	1
+business	bhp	2
+business	bhp billiton	1
+business	bhp reinforcing products	1
+business	bhphoto	1
+business	bhp billiton & xstrata	1
+band	bhayanak maut	2
+band	bhoomi	1
+part	bhavani road	1
+school	bhartiya public school	3
+school	bharatiya vidya bhavan	1
+practice	bhramari pranayama	2
+practice	bhastrika	2
+practice	bhavin	1
+practice	bhakti yoga	1
+title	bharata kala nipuna	2
+title	bhagavan	1
+title	bheeshmacharya	1
+title	bharatha kala acharya	1
+title	bharata nritya choodamani	1
+title	bhooloka nitya suri	1
+ingredient	bht	11
+ingredient	bha	11
+ingredient	bha's	1
+agent	bht	3
+agent	bha	1
+agent	bhc	1
+agent	bhtand oltipraz	1
+agent	bh  four 	1
+scholar	bhai sahib bhai randhir singh	2
+scholar	bhai vir singh	2
+scholar	bhai kahn singh nabha	2
+scholar	bhattacharya	1
+scholar	bhaskara	1
+development	bhutan joining international agency	1
+city	bhopal	17
+city	bhubaneswar	9
+city	bhubaneshwar	5
+city	bhatinda	4
+city	bhavnagar	3
+city	bhuj	2
+city	bhiwadi	2
+city	bhagalpur	2
+city	bhairawa	1
+city	bhairahawa	1
+city	bhm	1
+city	bhaktapur	1
+city	bharatpur	1
+celebrity	bhavna pandey	1
+celebrity	bhagyashree	1
+celebrity	bharathiraja	1
+celebrity	bhavana balsavar	1
+celebrity	bharat	1
+celebrity	bharatiya vidya bhavan's mathoor krishnamurthy	1
+celebrity	bharat sharman	1
+venue	bharatiya vidya bhavan	1
+town	bhachau	5
+town	bhilai	2
+town	bhuj	2
+town	bharwari	2
+town	bhagalpur	1
+town	bhubaneswar	1
+town	bhiwani	1
+town	bhiloda	1
+town	bharatpur	1
+firm	bhp billiton	6
+firm	bharat forge	5
+firm	bharti airtel	4
+firm	bharti walmart	3
+firm	bharti airtel ltd	2
+firm	bharti	2
+firm	bharti axa	2
+firm	bhel	2
+firm	bharti retail	2
+firm	bhat bio-tech india	1
+firm	bhati airtel	1
+firm	bhauma motors ltd.	1
+firm	bharat heavy electricals ltd	1
+firm	bhp billiton ltd	1
+firm	bharti tele-ventures ltd	1
+firm	bhp	1
+industry	bhp pipe line	1
+industry	bharath heavy electricals limited	1
+industry	bharat heavy electricals ltd ranipet	1
+industry	bharat electronics limited	1
+industry	bhp billiton's copper	1
+industry	bhel	1
+challenge	bhs trip along the inca trail in peru	1
+dish	bhuna	7
+dish	bhaji	1
+dish	bhagan bharta	1
+dish	bhindi	1
+dish	bhutte ki kheer	1
+drug	bhang	6
+drug	bh three  mimetics 	1
+drug	bhangi	1
+favorite	bharat dharshan	1
+manufacturer	bharat forge	2
+manufacturer	bhm	1
+instrument	bhangra-style percussion instrument	1
+man	bhim	1
+man	bhagat singh	1
+publication	bhutan reporter	1
+publication	bhutan jagaran	1
+publication	bhm annual calendar	1
+publication	bh life	1
+publication	bhutani deepak	1
+compound	bht	5
+compound	bha	3
+compound	bh  three 	1
+compound	bhi medium component	1
+study	bhardwaj	1
+study	bhansali	1
+study	bhat et al. for india	1
+study	bhattacharya	1
+position	bhaderwah	1
+individual	bhai dya singh dilbar	1
+individual	bhima	1
+individual	bhansali	1
+individual	bhagat singh	1
+website	bh photo	1
+website	bhl	1
+figure	bhai vir singh	2
+figure	bhagat singh	1
+equipment	bhs  one hundred and ten -in.-wide corrugator 	1
+unit	bharat synthetics	1
+leader	bhp billiton	1
+leader	bhim singh	1
+leader	bhutto	1
+leader	bharti airtel	1
+movie	bhaji on the beach	1
+movie	bhairavi	1
+movie	bheeshma	1
+movie	bhram	1
+movie	bharatam	1
+movie	bheja fry	1
+movie	bhramaram	1
+movie	bhram with dino morea	1
+instance	bhagavan's magical transformation of the hurricane	2
+instance	bhopal	1
+instance	bhutan	1
+song	bhaja hure mana	1
+substance	bht	2
+substance	bha	2
+entity	bhut	1
+entity	bhp	1
+entity	bho administration	1
+entity	bharatiya mazdoor sangh	1
+country	bhutan	184
+country	bharat	1
+building	bharath insurance	3
+style	bharata natyam	1
+style	bhangra	1
+feature	bhagwati charan	1
+researcher	bhagat	3
+researcher	bhatt	2
+researcher	bhattacharya et al.	1
+researcher	bhandarkar et al.	1
+researcher	bhargava	1
+researcher	bhattacharya	1
+region	bhutan	3
+region	bharuch	1
+region	bhiwadi fall in the area designated under the national capital region	1
+medication	bhs narcotic	1
+variety	bhindi achari	1
+Organisations	bharat sevashram sangha	1
+Organisations	bhageshwar gao shala	1
+Organisations	bharat swabhimaan overseas	1
+Organisations	bharata samvidhana ulisi horata vedike	1
+Organisations	bhadra wildlife conservation trust	1
+partner	bhp billiton	1
+big name	bhp billiton	4
+big name	bharti	3
+big name	bharat electronics ltd	1
+big name	bhundu boys	1
+big name	bheki sibiya	1
+standard	bhindi masala	1
+classic	bhaishajya ratnavali	1
+role	bheeshma	1
+club	bhs art club	1
+vendor	bharti	1
+store	bhs	11
+store	bhphoto	1
+store	bhogalli leather	1
+critic	bhushan tuladhar of enpho	1
+market	bhutan	1
+customer	bhp billiton	6
+customer	bhrs staff	1
+actor	bharat bhushan	1
+scheme	bharat nirman	2
+scheme	bharti axa tax advantage	2
+award	bharat nirman award	2
+award	bharat-bharati award	1
+award	bharat sanchar doot	1
+award	bharat bharti award	1
+award	bhagwat award	1
+award	bharat ke talent kii khoj	1
+additive	bha	8
+additive	bht	7
+chemical	bha	13
+chemical	bht	13
+chemical	bhf used for etching treatment of an oxide film	1
+chemical	bhc	1
+article	bhartiya pratham avam sadaive bharatiya	1
+article	bhargava rama	1
+student	bhairavi venkatesan	1
+module	bhangra new	2
+provider	bhn	1
+provider	bharti	1
+provider	bharti axa life insurance	1
+woman	bhutto	1
+woman	bhutto in pakistan	1
+exercise	bhujangasana	2
+retailer	bhs	9
+retailer	bharti retail	4
+retailer	bharti wal-mart	1
+retailer	bhg pte ltd	1
+destination	bharatpur	1
+destination	bhatye beach	1
+party	bharatiya janata party	5
+party	bhp billiton	2
+party	bharatiya gorkha parisang	1
+protein	bhlh protein	1
+competitor	bhp billiton ltd	3
+competitor	bharti airtel	2
+competitor	bhi	1
+competitor	bhp	1
+competitor	bharti tele-ventures	1
+district	bhojpur	3
+district	bhilwara	2
+district	bhopal	2
+district	bhiwani	2
+district	bhabhua	1
+issue	bhb project at deadman's flats	1
+brand name	bhimji zaveri	1
+legend	bhimsen joshi	1
+legend	bhim	1
+state	bhutan	2
+corporation	bhp	5
+corporation	bhp billiton	3
+corporation	bhp minerals	1
+variation	bhn	1
+variation	bhapa peethes	1
+festival	bhogali	1
+festival	bhumchu	1
+festival	bhimsen puja	1
+great	bheki mseleki	2
+language	bhojpuri	4
+language	bhili	1
+herb	bhringaraja	10
+herb	bhringraj	3
+herb	bhringaraj	2
+herb	bhring raj	1
+herb	bhringraja	1
+producer	bhp billiton	4
+producer	bhp billiton ltd	1
+hotel	bharawan da dhaba	1
+luminary	bharat chandra	1
+algorithm	bhm	1
+medicine	bhaspams	1
+incident	bhopal	12
+incident	bhopal catastrophe	1
+incident	bhopal disaster involving a chemical leak	1
+incident	bhmh epidemic in lancaster texas	1
+incident	bhopal disaster in india	1
+incident	bhopal tragedy	1
+series	bhanwar	1
+series	bharatiya vidya series	1
+recipe	bhutta	1
+recipe	bhakri	1
+text	bhagavad gita	10
+text	bhaja govindam	4
+text	bhagavad gitaand the upanishads	1
+text	bhrigu sutras	1
+text	bhattolpala vyakhya of mihiras work	1
+text	bhagavata	1
+text	bhagavat purana	1
+text	bhagavadgita	1
+text	bhagavad-gita	1
+text	bhattolpala vyakhya of brihat samhita	1
+tourist attraction	bharatpur bird sanctuary	1
+tourist attraction	bhagsu nag temple	1
+issue	bhopal gas disaster	1
+theory	bh s	1
+service provider	bharti airtel	5
+service provider	bharti infotel	1
+service provider	bharti	1
+employer	bhp temco	2
+committee	bhs ii committee	1
+molecule	bh  three 	2
+molecule	bh three -only proapoptotic molecule 	1
+molecule	bh three -only pro-apoptotic molecule 	1
+molecule	bha	1
+operator	bharti airtel	21
+operator	bharti	15
+operator	bhp billiton	3
+operator	bharti airtel ltd	2
+operator	bharti televentures	2
+operator	bharti telecom in india	2
+operator	bharti airtel ltd.	1
+chain	bhs	6
+chain	bhg	1
+network	bharti telecom	1
+network	bharti airtel	1
+station	bhubaneswar	3
+teacher	bhairavi brahmani	1
+teacher	bhooma chaitanya	1
+teacher	bhaktisiddhanta sarasvati	1
+teacher	bhaktivinode thakur	1
+shop	bhs	3
+personality	bhutto	1
+personality	bhaktivinode thakura	1
+theorist	bhabha	6
+theorist	bhikhu parekh	1
+theorist	bhekizizwe peterson	1
+stock	bhp billiton	7
+stock	bhp	6
+stock	bharti airtel	3
+stock	bhp billiton ltd	2
+stock	bharat forge	1
+stock	bharat earth movers ltd	1
+stock	bharti tele-ventures	1
+stock	bhel	1
+stock	bharat bijlee	1
+stock	bharat electronics	1
+stock	bharat heavy electricals	1
+stock	bharat heavy electricals ltd	1
+stock	bhagyashree leasing & finance	1
+support service	bh curve	1
+large company	bhp billiton	6
+large company	bhp	5
+large company	bharat forge	2
+transaction	bharti airtel purchase of zain's african asset	1
+park	bhugol park	1
+vegetable	bhindi	2
+vegetable	bhut jolokias	1
+vegetable	bhinda	1
+competition	bhangra showdown	1
+competition	bharatanatyam	1
+issue	bhopal gas tragedy	1
+issue	bhopal chemical disaster	1
+college	bharati viudhyapeeth	2
+museum	bharathidasan museum	1
+museum	bharathi memorial museum	1
+museum	bhagavan mahavir government museum	1
+director	bharathiraja	4
+director	bhansali	1
+director	bhanubharti	1
+director	bhalji pendharkar	1
+NGOs	bharatiya vidya bhawan	2
+NGOs	bharat swabhiman trust	1
+NGOs	bharatiya agro industries foundation	1
+NGOs	bharatiya agro industries foundation in india	1
+raw material	bhuilimb	1
+novel	bhisma sahney's tamas	2
+novel	bhowani junction	1
+politician	bhai thakur	1
+government agency	bhabha atomic research centre	2
+gene	bhlhb two 	2
+society	bhil of india	1
+society	bharatiya adimjati sevak sangh	1
+keyword	bhm	1
+carrier	bharti airtel ltd	1
+carrier	bharti tele-ventures ltd	1
+carrier	bharat sanchar nigam ltd.	1
+page	bhambore	1
+oil	bhringaraja	1
+rival	bharti	1
+rival	bhp billiton	1
+rival	bhp	1
+centre	bhuj	1
+industry leader	bhel	1
+road	bharathiar road	1
+county	bhutan	1
+outlet	bhs	1
+outlet	bhphotovideo.com for prices on cavision product	1
+tradition	bhakti	1
+enterprise	bharat heavy electrical ltd	2
+river	bhagirathi	10
+river	bhadra	7
+river	bharatapuzha	1
+river	bhote koshi	1
+river	bhima	1
+center	bhubaneshwar	1
+flower	bhutan's national flower	1
+nation	bhutan	11
+thinker	bhavaviveka	1
+investor	bhp billiton	3
+snack	bhel	1
+snack	bhel puri	1
+snack	bhujiya	1
+snack	bhuna paneer	1
+drink	bhang	1
+giant	bhp billiton	3
+giant	bhimsen joshi	1
+giant	bharti	1
+hit	bhangramuffin star's hit	1
+household name	bhp	2
+household name	bhs	1
+social event	bhn steering committee social event	1
+photographer	bharat in india	1
+response	bhutanese	1
+analyst	bharat verma	2
+international organization	bhp billiton	2
+code	bho	1
+fun activity	bhajan	1
+notable exception	bhutan	1
+developer	bhp copper master-plan	1
+developer	bhaktas of global development	1
+street	bhattiyani choraha	1
+expression	bhi	1
+expression	bhagavan baba created paramacharya	1
+staple	bhuna mutton	1
+tribe	bhils	11
+tribe	bhatti	6
+tribe	bhotias	1
+tribe	bhatra	1
+culture	bhutan	1
+disaster	bhopal	18
+disaster	bhopal incident	1
+disaster	bhopal toxic gas leak	1
+heroes	bhagat singh	1
+reference	bheeshma	1
+reference	bheem	1
+habit	bhang smoking	1
+inhibitor	bht	4
+production	bhairavi	1
+production	bharata kalanjali	1
+qualification	bhs assistant instructor	1
+lake	bhushi lake	1
+airline	bh air	1
+album	bhajan gems	1
+selection	bhai battoor	1
+item	bhangra	3
+port	bhatkal	1
+port	bhagatrav	1
+financial institution	bharti axa	1
+pathogen	bhv- one 	1
+Celebs	bhagyashree	2
+Celebs	bhushan kumar	1
+art	bharatanatyam	2
+art	bharathanatyam	1
+staff	bhrs staff	1
+route	bhavnagar	1
+route	bhanubhakta trail	1
+route	bhandarkar road	1
+meal	bhuna	1
+big company	bhp billiton	4
+big company	bhp	2
+meeting	bhakti yoga business meeting	1
+meeting	bhagavad gita business meeting	1
+airport	bhd	1
+software program	bharathi	1
+urban area	bhag	1
+urban area	bhuj township	1
+combination	bhd	1
+craft	bharatkari brassware	1
+painting	bhaktapur	1
+performance	bharatnatyam	1
+performance	bhangra dancing	1
+performance	bhangra show	1
+rural area	bhandara	1
+extreme case	bhopal	1
+delicacy	bhedao masu	1
+large organization	bhp billiton	1
+historical site	bhaja caves	2
+historical site	bhangarh	1
+large corporation	bhp billiton	5
+large corporation	bhp	2
+member	bh- three  only member 	1
+member	bh city council member	1
+guest speaker	bharati mukherjee	1
+international company	bhp billiton	5
+international company	bhp	1
+ethnic group	bhojpuri	2
+monument	bhadrabahu cave	2
+monument	bhadrabahu inscriptions	2
+constituent	bhushan steel	1
+item	bhajana	1
+item	bhang	1
+item	bhasma	1
+item	bhajji	1
+item	bhel	1
+item	bhelpuri	1
+survey	bhps	1
+variant	bhapa paneer	1
+variant	bhapa prawn	1
+renowned artist	bhagwant maan	1
+activist	bhagabati charan panigrahy	1
+natural feature	bhs woodland	1
+heavyweight	bhp	1
+non-governmental organization	bhoomi raksha gramin ekta manch	1
+artiste	bhanumati	1
+artiste	bharathi mani	1
+dance	bhangra	2
+dance	bharata - natyain	1
+dance	bharat natyam	1
+dance	bharatnatyam	1
+actress	bhanupriya	2
+educational institution	bharat education society	1
+key stakeholder	bhutan power corporation	1
+well-known artist	bharti kher	1
+cultural event	bhajan recital	1
+major	bhp	2
+major	bharti airtel	1
+major	bhp billiton	1
+major	bharat petroleum corporation limited	1
+major	bharti	1
+religion	bhuddism	7
+experiment	bhangra latina	1
+big player	bharti	5
+big player	bharti airtel	2
+big player	bhp billiton	2
+big player	bharat sanchar nigam limited	1
+cultural activity	bhangra	2
+cultural activity	bharata dances	1
+cultural activity	bharata natyam	1
+officer	bhandari	1
+well-known name	bhp billiton	1
+winner	bharti airtel	1
+winner	bhubaneshwar	1
+locality	bhuj	1
+crisis	bhopal	1
+ritual	bhusuktha homam	1
+economy	bhutan	2
+flaw	bhagavad gita character flaw	1
+contract	bhav-bhav	1
+international artist	bhajju shyam	2
+international artist	bheki khoza	1
+stalwart	bhalji pendharkar	1
+stalwart	bhatta lollata	1
+branch	bhakti yoga	2
+branch	bhandup	1
+charitable organization	bharatiya jain sanghatan	1
+date	bhs ride for road safety week	1
+starter	bhaji	1
+merchant	bhs	1
+degree	bhms	1
+antioxidant	bha	72
+antioxidant	bht	71
+antioxidant	bht monothioglycerol	2
+traditional dish	bhuna	1
+institute	bhandarkar institute at pune	1
+institute	bhabha atomic research centre	1
+popular destination	bhutan	1
+spice	bhutani	1
+locale	bhutan	1
+designation	bhakti yoga	1
+tourist destination	bharat mata temple	2
+tourist destination	bharatpur	1
+accident	bhopal	5
+accident	bhopal catastrophe	1
+accident	bhopal disaster	1
+new	bhopal explosion	1
+multinational company	bhp billiton	2
+multinational company	bhp steel	1
+government	bhutan	3
+government	bharatiya janata party-led ones in karnataka	1
+leading company	bhp billiton	1
+theater	bharath	1
+neighbor	bhutan	1
+peer	bharti airtel	2
+peer	bhp billiton	1
+peer	bhilwara spinners	1
+statute	bhca	1
+soil	bheel	1
+multinational	bhp billiton	4
+multinational	bhp	1
+mark	bhadant arya nagarjuna surai sasai	1
+mark	bhadant nagarjun surai sasai	1
+buyer	bhs	1
+industry giant	bhp billiton	2
+honor	bharatbharati award	7
+temple	bhawani amba temple	3
+temple	bharat mata mandir	2
+temple	bhubaneshwari temple	2
+temple	bhumika temple	2
+temple	bhavani mata	1
+temple	bharat mata temple	1
+temple	bhudha mahadev	1
+temple	bhimsen	1
+temple	bhagwati temple	1
+temple	bhoga nandeeshwara temple	1
+item	bhajans	1
+item	bholi	1
+assessment tool	bhips	1
+global company	bhp billiton	2
+remote area	bhutan	3
+department store	bhg	1
+department store	bhs	1
+chef	bhupender singh rawat of taj palace	1
+deal	bharti televentures acquisition of hexacom	2
+deal	bharti airtel's	1
+deal	bhp billiton ltd. s recent	1
+insurer	bharti axa general insurance	1
+tributary	bhima	2
+camp	bhav samadhi training	1
+surname	bhatt	4
+surname	bhatti	4
+surname	bhardwaj	1
+surname	bhoi	1
+tourist spot	bhimgoda tank	1
+writing	bhagvad gita	1
+entrant	bharti enterprises	4
+entrant	bharti axa life	1
+entrant	bhilai engineering corporation in madhya pradesh	1
+entrant	bhp of australia	1
+entrant	bharti airtel	1
+herbal remedy	bhringaraja	1
+market leader	bharti airtel ltd	1
+market leader	bhs tabletop	1
+market leader	bharat shell limited	1
+god	bhuvaneshwari	2
+musical instrument	bhuri	1
+partnership	bhphil inc.	1
+political party	bharatiya janata party	6
+political party	bhutto's peoples' party in pakistan	1
+peoples	bharathiraja	1
+area	bhutan	4
+area	bhatkal	3
+area	bhosale nagar	2
+novelist	bhaktiar ali	1
+heavy hitter	bhate engineering	1
+social group	bharatakula	1
+tragedy	bhopal	4
+pursuit	bharatanatyam	1
+large group	bhp billiton	2
+catastrophic event	bhopal	5
+catastrophic event	bhopal disaster	1
+pesticide	bhc	1
+large employer	bhp	1
+stabilizer	bht	2
+stabilizer	bha	1
+urban centre	bhachau	1
+urban centre	bhuj	1
+cereal	bhadli	1
+high profile client	bhp	1
+playwright	bhasa	2
+saint	bhakti period saint	1
+retail outlet	bhs	1
+government organization	bhel	1
+portal	bharat	1
+bread	bhatoora	2
+technology company	bharti	1
+acquisition	bhw	1
+industry expert	bhavdeep jaipurwale	1
+panel	bhps in britain concentrating on socio-economic condition	1
+script	bhop	1
+script	bhujimol	1
+indian company	bharti airtel	8
+indian company	bharat forge	6
+indian company	bharti	5
+indian company	bhel	3
+indian company	bharat biotech	2
+indian company	bharat forge in auto component	1
+indian company	bharat forge limited	1
+indian company	bharat forge ltd.	1
+indian company	bharti airtel ltd	1
+area	bhagwan mahaveer wildlife sanctuary	1
+area	bharatpur	1
+area	bhos	1
+area	bhendi bazaar	1
+area	bhuvaneswari nagar	1
+corporate sponsor	bharat petroleum corp.	1
+preservative	bht	65
+preservative	bha	58
+global player	bhp billiton	1
+toxic chemical	bht	2
+toxic chemical	bha	1
+fashion designer	bharat mehra	2
+prestigious award	bharat ratna	1
+prestigious award	bhatnagar award of csir	1
+prestigious award	bharat jyoti award	1
+exceptional case	bhumika	1
+workout	bhujangasana	1
+chain store	bharti wallmart	1
+classic dish	bhelpuri	1
+classic dish	bhuna	1
+system information	bhos	1
+travel spot	bhaktapur	1
+clinic	bhr	1
+exporter	bhp	1
+medicinal plant	bhera	1
+literature	bhagavat purana	1
+literature	bhagavad-gita	1
+scripture	bhagavad gita	20
+scripture	bhagavata purana	8
+scripture	bhagavat	3
+scripture	bhagavad-gita	2
+scripture	bhagvat purana	1
+scripture	bhagavat purana	1
+ruler	bhonsles of nagpur	1
+train	bhagalpur express	4
+train	bhopal - lucknow express	2
+train	bhopal express	2
+train	bhavnagar express	1
+deity	bhagavati	1
+deity	bhaal	1
+deity	bhavani	1
+corporate giant	bhp billiton	3
+multinational corporation	bhp billiton	1
+developed country	bhutan	2
+free agent	bhawoh jue	1
+insecticide	bhc	6
+retail chain	bhs	1
+residential area	bhauma nagar	1
+residential area	bhim tangi	1
+catastrophe	bhopal	3
+oil company	bharath petroleum	1
+oil company	bharath petroleum company ltd	1
+oil company	bharat petroleum corporation	1
+oil company	bhp	1
+township	bhubaneshwar	1
+area	bhagu road	1
+area	bhiwandi	1
+area	bhalubasa chowk	1
+area	bhadaur house	1
+area	bhubaneswar	1
+area	bhosari	1
+area	bhuleshwar	1
+non-government organization	bha	1
+small city	bhatinda	1
+source material	bhagwaad gita the appropriate sayings of lord krishna	1
+popular character	bheegi billi	1
+conglomerate	bhp billiton	1
+conglomerate	bharti	1
+food additive	bha	3
+path	bhakti	1
+renowned company	bhp billiton	4
+member state	bhutan	1
+popular place	bhalka tirth	1
+social organization	bharat ekal vidhyalaya	1
+social organization	bharat vikas parishad	1
+social organization	bharatiya yuva shakti trust	1
+social organization	bharat samaj seva	1
+social organization	bharat vikas parisad	1
+industry heavyweight	bhp billiton	1
+harmful chemical	bht	5
+harmful chemical	bha	4
+drill	bhp four hundred and fifty-four  hammer drill 	1
+global organization	bhp billiton	1
+literary figure	bhai vir singh	1
+small country	bhutan	3
+corporates	bharti airtel	2
+corporates	bhp	1
+industrial area	bhiwandi	2
+equipment manufacturer	bhel	1
+equipment manufacturer	bharat heavy electrical	1
+datasets	bhps	1
+blue chip company	bhp	3
+area	bhel mini layout	1
+area	bhogal	1
+area	bharani street	1
+king	bharata	1
+mine	bhp billiton's appin	1
+mine	bhp billiton's spence	1
+local leader	bhagirathi mahapatra	1
+democracy	bhutan	1
+dictionary	bhai sahib bhai kahan singh's gurshabad ratnakar	1
+high-profile client	bhushan power & steel limited	1
+mining company	bhp billiton	34
+mining company	bhp	10
+mining company	bhp billiton ltd	5
+mining company	bhp ekati	1
+mining company	bhpb	1
+mining company	bhp in the western australian pilbara region	1
+mining company	bhp ltd.	1
+policy document	bhopal agenda	1
+guru	bharati shivaji	1
+production company	bheki sibiya's sobabili productions	2
+ISPs	bharti bt	1
+prestigious client	bhel	1
+sculpture	bheem	1
+key account	bhel	1
+empirical study	bhagat	1
+cofactors	bh  four 	1
+global corporation	bhp billiton	3
+vegetarian option	bhindi masala	1
+colorful character	bhootnath nandy	1
+philosophy	bhuddism	2
+global giant	bhp billiton	2
+big boy	bhp	1
+tourist place	bhumipol dam	1
+tourist place	bheraghat	1
+grass species	bhothriochloa	2
+neighboring country	bhutan	3
+wonderful place	bhimsen temple	1
+youth organization	bharat scouts & guides	1
+prophet	bhudda	1
+addiction	bhangi	1
+chemical additive	bha	3
+chemical additive	bht	2
+big business	bhp	1
+homeopathic remedy	bhi heel prostate	1
+large town	bhairahawa	1
+great master	bhagavan	1
+great master	bhagavan sri ramana	1
+opposition party	bharatiya janata party	6
+opposition party	bharatiya gorkha janashakti	1
+commander	bho	1
+dance style	bharatanatyam	2
+dance style	bharat natyam	2
+dance style	bharata natyam	2
+dance style	bhangra	1
+percussion instrument	bhangra-style percussion instrument	1
+heavy industry	bharat electronics limited	1
+heavy industry	bharat earth movers limited	1
+heavy industry	bharat heavy electricals limited	1
+asian country	bhutan	7
+service	bharat darshan train	2
+service	bharat tirth train	2
+service	bhoomi	1
+service	bhutanese tourist visa processing	1
+service	bhutan hotel booking	1
+great thinker	bharathi	1
+share	bharti airtel	2
+share	bhel	2
+share	bhp	1
+share	bhp billiton	1
+governmental organization	bhel	1
+phenolic compound	bha	4
+phenolic compound	bht	3
+dynasty	bhuttos in pakistan	1
+adopter	bharat petroleum	2
+large player	bharti	1
+celebrity chef	bhatia	2
+descriptive name	bhesajdni	1
+delicious food	bhel puri	1
+blue chip client	bhp billiton	2
+political group	bharatiya janata party	1
+tragic event	bhopal	1
+cultural program	bharata natyam	1
+cultural program	bharatanatyam	1
+biggie	bharat heavy electricals limited	1
+biggie	bharti tele-ventures limited	1
+neighbouring country	bhutan	3
+complex concept	bhava	1
+population center	bhuj	1
+population center	bhachau	1
+light snack	bhel	2
+dance form	bharatnatyam	3
+dance form	bhangra	3
+dance form	bharathanatyam	2
+big name player	bhp among advanced braking's client	2
+dry ingredient	bht	2
+large customer	bhp billiton	1
+dam	bhumibol	3
+dam	bhakra	1
+popular song	bhegay hoot teri from murder	1
+sub-groups	bha sacre subcommittee for teacher	1
+traditional program	bhuta	1
+public sector organization	bhel	1
+ancient civilization	bharat	1
+posture	bhuja pidasana	1
+cultural organization	bharatiya vidya bhavan	1
+exotic destination	bhutan	2
+fast food	bhelpuri	1
+photograph	bharat sikka	1
+reputed company	bharat forge ltd.	1
+lewis acid	bh  two  cn 	1
+service	bharat van	1
+poor country	bhutan	2
+small state	bhutan	1
+local player	bharti	2
+domestic company	bharat petroleum	1
+anti-oxidants	bht	3
+anti-oxidants	bha	3
+epic	bhagavad-gita	5
+epic	bhagavad gita	2
+epic	bhagavatam	1
+epic	bhagavad-gita the mahabharata	1
+hit movie	bhumika	1
+hit movie	bhool bhulaiya	1
+hit movie	bhalobasbi kina bol by uttam akash	1
+advertising agency	bho focusing on tv advertising	1
+blue-chip company	bhel	2
+prestigious project	bhuj memorial	1
+ancient text	bhagavad gita	5
+ancient text	bhagavati sutra	2
+ancient text	bhrigu sutras	1
+disciple	bhai gurdas	1
+disciple	bhai piara	1
+successful film	bhadra	4
+big store	bhs	1
+sire	bhr three'sixes	1
+activator	bh three  only activator 	1
+ancient site	bhairabi temple	2
+summer festival	bhakti fest	1
+local site	bhimtal	1
+manuscript	bhagvad purana	1
+market player	bharti airtel	2
+warrior	bhishma	1
+fair	bhangrotu	1
+large store	bhs	1
+peak period	bhutan's spring	1
+third world country	bhutan	1
+well-known organization	bharatiya mazdoor sangh	1
+counterpart	bhps	1
+giant company	bhp	1
+miner	bhp billiton	23
+miner	bhp	3
+miner	bhp billiton making	1
+miner	bhp billiton ltd	1
+miner	bhp billiton limited	1
+regional player	bharat vijay mills	1
+top performer	bhangra bros	2
+palace	bhaktapur palace	2
+man-made disaster	bhopal	1
+service	bhubaneshwar	1
+local team	bharath sports union	1
+serial	bhaskar bharti	4
+environmental disaster	bhopal	5
+environmental disaster	bhopal gas tragedy	1
+environmental disaster	bhopal tragedy	1
+traditional dance	bharatanatyam	3
+traditional dance	bhangra	2
+elder	bhai gurcharan singh	1
+realist	bhaskar	2
+australian company	bhp billiton	5
+australian company	bhp	2
+australian company	bhp bhiliton	1
+state university	bhopal u.	1
+big-name company	bhp billiton	1
+regional logo design	bhutan logo design	1
+alcoholic drink	bhang	1
+fiction	bhagavad gita	1
+local eatery	bharat cafe	1
+competitive product	bht	1
+fort	bhongir	1
+international carrier	bharti airtel	1
+synthetic chemical	bht	2
+synthetic chemical	bha	2
+eminent personality	bharatnatyam dancer vandana srivathsan	1
+formal organization	bhcig	1
+incumbent	bharti airtel	3
+incumbent	bharti	2
+Indians	bhattacharya	1
+Indians	bhaskaracharya	1
+neighboring state	bhutan	1
+top firm	bharat petroleum	1
+revolutionary	bhagat singh	1
+common additive	bht	1
+common additive	bha	1
+regional airport	bhx	2
+development agency	bhubaneswar development authority	1
+illegal drug	bhang	1
+large department store	bhv	1
+mammalian cell	bhk cell	11
+renowned name	bhs	3
+national figure	bhagat singh	1
+private player	bharti	6
+private player	bharti airtel	2
+private player	bharati shipyard	1
+private player	bharti axa general insurance company	1
+ancient writer	bhasa	2
+topic	bhakti	2
+moniker	bhut jolokia	1
+state-owned company	bhel	1
+state-owned company	bharat sanchar nigam	1
+trade union	bharatiya mazdoor sangh	2
+bowler	bhagwat subramanya	1
+global major	bhp billiton	1
+leading figure	bhai vir singh	1
+asanas	bhujangasana	9
+asanas	bhujangasanas	2
+asanas	bhujanga asana	2
+asanas	bhadra vajrasana	1
+oil producer	bhp billiton	1
+slogan	bharat janani ki jai	1
+translator	bhikkhu bodhi	2
+operation parameter	bh operation parameter	1
+operational area	bhs control room	1
+synthetic compound	bha	1
+synthetic compound	bht	1
+cooking utensil	bhatti	1
+infrastructure investment	bhp billiton's	2
+popular figure	bhavdeep jaipurwale	1
+fund house	bharti axa	2
+fund house	bharti axa investment managers ltd	1
+heavy weight	bhp billiton	1
+musical form	bhajan	2
+reputed brand	bhs	1
+circle	bhandara	1
+art device	bhate device	1
+international giant	bhp billiton	1
+mobile operator	bharti airtel	11
+mobile operator	bharti	4
+caste	bhangi	1
+telecom company	bharti airtel	4
+high street store	bhs	4
+imaging tool	bhv	1
+Polyphenols	bht	3
+regional language	bhojpuri	1
+sage	bharata muni	1
+sage	bhargav	1
+sage	bharadvaja	1
+ayurvedic herb	bhringraj oil	2
+ayurvedic herb	bhrangraj	1
+ayurvedic herb	bhringraja	1
+folk dance	bhangra	4
+folk dance	bhanghra	2
+folk dance	bhangda	2
+high street name	bhs	1
+multi-nationals	bhp	1
+private sector	bhel	1
+sanctuary	bhimashankar	2
+theatre	bhoomika	2
+domestic player	bharat biotech	1
+domestic player	bharat heavy electricals ltd.	1
+domestic player	bharti	1
+domestic player	bharti enterprise	1
+guest performer	bham junior ballroom	1
+large corporates	bharat petroleum corporation ltd.	1
+recreational program	bhajans	2
+traditional weapon	bhala	1
+objective measurement	bhr test	1
+freedom fighter	bhagat singhji	1
+freedom fighter	bhagat singh	1
+freedom fighter	bhai parmanand	1
+top retailer	bhs	1
+corporate group	bharti	1
+illicit drug	bhang	1
+key customer	bhp billiton	2
+laboratory investigation	bhcg	1
+asian company	bharti in india	1
+famous temple	bhagwan shankar towards north-east side of the fort	1
+influential group	bhikkhus	1
+statue	bhagawan chandraprabha swami	1
+active	bha acid	1
+auxiliary datum	bhopal municipal corporation	1
+devotee	bhagavata acarya	1
+Film-makers	bharathan	1
+music director	bharani	1
+educational institute	bharathidasan university	1
+educational institute	bharathidasan institute of management	1
+host cell	bhk	9
+distance measure	bhattacharyya distance	4
+industrial town	bhilai	2
+key industry player	bhp	1
+sightseeing spot	bhaktapur durbar square	1
+thriller	bharat wakhlu's close call in kashmir	1
+raga	bhairavi	6
+raga	bhupali	1
+raga	bhupalam	1
+batsman	bharat chipli	1
+synthetic product	bht	1
+synthetic product	bha	1
+banking institution	bhutan development finance corporation	1
+exclusive product	bhangra bot	1
+leading global company	bhp billiton	1
+episodic event	bhopal chemical release	1
+maestro	bhimsen joshi	1
+maestro	bhaskarbuwa bakhale	1
+serious accident	bhopal	1
+big department store	bhs	1
+critically acclaimed film	bheja fry	1
+hindi film	bhairavi	5
+hindi film	bhagam bhag	1
+private operator	bharti	9
+private operator	bharti airtel	5
+engineering company	bharat mcnally	1
+largest company	bhp billiton	2
+medium partner	bhf magazine	1
+heavy traffic area	bhaktapur	1
+high street shop	bhs	2
+phenol	bht	10
+toxic ingredient	bht	1
+toxic ingredient	bha	1
+city park	bhel centenary park	1
+industry veteran	bhattacharya	1
+telecom operator	bharti airtel	13
+telecom operator	bharti	1
+telecom operator	bharti airtel ltd	1
+telecom operator	bharat sanchar nigam ltd	1
+topic	bhajans	1
+canned good	bhutanese baked bean	1
+research centre	bhp research	1
+small economy	bhutan	1
+breathing exercise	bhastrika pranayama	3
+community building	bhus	1
+epithet	bhoga	3
+lyricist	bhuvana chandra	1
+popular form	bharud	1
+hill station	bhimtal	2
+middle income country	bhutan	1
+asian language	bhojpuri	2
+global customer	bhpb	1
+helper	bho???s	1
+large operator	bharti airtel	2
+large operator	bharti	2
+telcos	bharti airtel	6
+telcos	bharti	2
+telcos	bharti airtel ltd	1
+broad concept	bhakthi	1
+chemical preservative	bha	25
+chemical preservative	bht	19
+visit	bharat mata temple	1
+indian player	bharat forge	1
+motherboard	bh- six  from abit 	1
+nymph	bh pheasant tails	1
+big name store	bhs	1
+hindu festival	bhaibeej	1
+hindu festival	bhaubeej bhai dooj	1
+hindu festival	bhaubeej	1
+teenager	bhanu soma	1
+animal cell	bhk cell	1
+artificial ingredient	bht	1
+artificial ingredient	bha	1
+eminent artist	bhajan sopori	1
+indian brand	bharti airtel	1
+indian brand	bharat electronics	1
+party member	bhavani bhattacharya	1
+religious text	bhagavad gita	2
+religious text	bhagwad gita	1
+religious text	bhagavad-gita	1
+religious book	bhagavad gita	2
+religious book	bhagwat gita	1
+religious book	bhagawath gita	1
+religious book	bhagavata	1
+religious book	bhagavad-gita	1
+religious book	bhagavataand mahabharata	1
+religious book	bhagavid gita	1
+company	bhp billiton	109
+company	bhp	42
+company	bharti airtel	37
+company	bharti	22
+company	bhel	14
+company	bharat forge	12
+company	bharat biotech	8
+company	bhp billiton ltd	7
+company	bharat petroleum	6
+company	bhushan steel	4
+company	bhs	4
+company	bharti airtel ltd	3
+company	bharti axa life insurance	3
+company	bhp petroleum inc.	3
+company	bharat petroleum corporation	3
+company	bharti walmart	2
+company	bharat heavy electricals	2
+company	bharti teletech	2
+company	bharti airtel ltd.	2
+company	bharat diamond house	2
+company	bharat earth movers	1
+company	bharat hotels	1
+company	bharat petroleum corp.	1
+household survey	bhps	1
+employer group	bhp	1
+steel company	bhushan steel	1
+mobile phone company	bharti airtel	2
+mobile phone company	bharat sanchar nigam ltd.	1
+mobile phone company	bharti airtel ltd.	1
+monarchy	bhutan	1
+scenic location	bhetya park in kadma	1
+unis	bham	1
+western suburb	bhayander	1
+flagship program	bharat nirman	6
+gymnast	bhardwaj	1
+historical work	bhuyanr puthi	1
+industrial unit	bharat aluminum company	2
+police station	bhasma	1
+respiratory virus	bhv- one 	1
+classic text	bhagavad gita	1
+oil giant	bhp billiton	1
+popular hit	bhramachari with shammi kapoor	1
+drum	bhoomi dundubhi	2
+holy book	bhagavad gita	2
+holy book	bhagvat-gita	1
+indian language	bhojpuri	1
+life insurer	bharti axa life	2
+powerful company	bhp	1
+market place	bhadaur house	1
+blue chip stock	bhp billiton	1
+boron compound	bh  three 	1
+distant place	bhadrachalam	1
+energy stock	bhp billiton	2
+great person	bhai ram singh	1
+home-grown company	bharat	1
+landlocked country	bhutan	3
+well-known chain	bhs	1
+certification exam	bh zero - one  exam 	1
+departmental store	bhs	1
+departmental store	bhg	1
+mobile company	bharti airtel	1
+popular festival	bharat milap	1
+company	bhusan steel	1
+company	bhushan steel ltd	1
+company	bhaskar solar	1
+company	bharath petroleum	1
+company	bharat electronics	1
+company	bharat bijlee	1
+company	bharat heavy electricals ltd	1
+company	bharat wagon	1
+company	bhagyanagar india	1
+company	bh enterprises	1
+company	bhc	1
+company	bharti tele-ventures	1
+company	bharti tele-ventures ltd. in india	1
+industrial group	bharti enterprises	1
+gene family	bhlh family of transcription factor	1
+gene family	bhlhfamilyof transcription factor	1
+hill tribe	bhils	1
+neighbouring area	bhiwandi	1
+potent antioxidant	bht	1
+potent antioxidant	bha	1
+toxic pesticide	bhc	1
+TV serial	bhaskar bharti	2
+workout routine	bhujangasana	1
+animal welfare organization	bharatiya prani mitra sangh	1
+exotic country	bhutan	1
+great sage	bharadvaja	1
+great sage	bhartrihari	1
+great sage	bhaktisiddhanta sarasvati	1
+petroleum company	bharath petroleum	1
+prosthesis	bhr	1
+residency	bhangra-espanol @ element lounge	1
+wireless service provider	bharti	1
+component manufacturer	bharat forge	1
+mythological figure	bharata	4
+mythological figure	bharat	1
+reputed client	bharat heavy electricals ltd.	1
+sacred text	bhagavad gita	5
+sacred text	bhagavata	1
+music form	bhangri music	1
+public sector company	bhel	1
+public sector company	bharat petroleum	1
+public sector company	bharat heavy electrical limited	1
+public sector company	bharat electronics limited	1
+public sector company	bharat sanchar nigam limited	1
+regional operator	bharat electronics ltd in india	1
+southeast asian country	bhutan	1
+synthetic antioxidant	bha	49
+synthetic antioxidant	bht	44
+telecom giant	bharti airtel	2
+telecom giant	bharti	1
+yoga exercise	bhujang asana	2
+classical instrument	bharathanatyam bell	1
+classical instrument	bharathanatyam wooden hitting stick used for making appropriate sounds for the lesson	1
+food preservative	bht	5
+food preservative	bha	4
+international oil company	bhp billiton ltd	1
+international oil company	bhp	1
+mountainous country	bhutan	1
+yoga posture	bhujangasana	1
+corporate house	bharti enterprises	2
+corporate house	bhushan steel	1
+dietary item	bhindi	1
+famous town	bhaktapur	1
+optical detector	bhangmeters	1
+sector leader	bhp billiton	3
+telecommunication provider	bharti	1
+powerful state	bhutan	1
+tribal language	bhili	1
+big operator	bharti airtel	1
+domestic firm	bharat heavy electricals limited	2
+company	bhat bio-tech	1
+company	bholu	1
+company	bharat biotech international	1
+company	bharati cements	1
+company	bharti airtel limited	1
+company	bharti axa	1
+company	bhagyanagar metals	1
+company	bhp santos	1
+indian name	bharti airtel	1
+inert ingredient	bht	1
+leading supplier	bhavani industries	1
+organochlorine pesticide	bhc	2
+bollywood movie	bhoot	1
+cooked vegetable	bhindi	1
+good name	bhagat singh	1
+indian food	bhel puri	1
+religious work	bhagavad gita	1
+yoga	bhakti yoga	4
+classical text	bhagavad gita	1
+commodity exporter	bhp billiton	1
+hindu scripture	bhagavad gita	7
+hindu scripture	bhagavata purana	4
+hindu scripture	bhagwad gita	1
+hindu scripture	bhagvad geeta  seven : nineteen  - twenty-three 	1
+hindu scripture	bhagvad gita	1
+hindu scripture	bhagavad-gita	1
+hindu scripture	bhagavadgita	1
+PSUs	bhel	2
+PSUs	bharat sanchar nigam ltd	1
+PSUs	bharat petroleum corporation	1
+railway station	bhopal junction	1
+resource company	bhp billiton	6
+resource company	bhp	2
+resource company	bhp billiton ltd	2
+telecom player	bharti	2
+telecom player	bharti airtel	2
+telecom player	bharti airtel ltd	1
+twist	bharadvaja's twist	1
+coal producer	bhp	1
+contact insecticide	bhc	1
+domestic destination	bhd	1
+famous book	bhartiya sanskriti	1
+industrial accident	bhopal disaster	4
+industrial accident	bhopal	2
+local builder	bharati shipyard ltd	3
+local builder	bharati	2
+local builder	bharati shipyard ltd.	1
+shipyard	bharati shipyard in ratnagiri	1
+congress leader	bhajan lal	1
+curry	bhuna	3
+esteemed organization	bhel	3
+esteemed organization	bhilwara group	1
+irrigation project	bhadra project	1
+top supplier	bharat forge	1
+archetypal figure	bhatkar	2
+commodity producer	bhp	1
+corporate heavyweight	bhp billiton	1
+mainstream retailer	bhs	1
+mobile service provider	bharti airtel	2
+technological disaster	bhopal methy iso cynide disaster	1
+antioxidant agent	bha	1
+business house	bharti	1
+commodity stock	bhp billiton	3
+commodity stock	bhp billiton ltd	2
+independent state	bhonsles of nagpur	1
+mining stock	bhp billiton	2
+mining stock	bhp billion	1
+mining stock	bhp	1
+phenolic antioxidant	bht	4
+phenolic antioxidant	bha	1
+right-wing party	bharatiya janata party	1
+strong company	bharti wal-mart	2
+wireless operator	bharti	1
+automotive supplier	bharat forge	1
+activity	bhajan	2
+activity	bhangra tot	1
+hindu text	bhagavad gita	7
+hindu text	bhagavad purana	5
+hindu text	bhagwat gita	1
+hindu text	bhavprakash	1
+hindu text	bhavishya purana	1
+hindu text	bhagavad-gita	1
+non-core asset	bh insurance	1
+tier II city	bhopal	1
+tiny country	bhutan	2
+unusual destination	bhutan	1
+coal company	bhp billiton	1
+established retailer	bhs	1
+famous lake	bhairav	14
+famous lake	bhairab kunda	2
+famous lake	bhairab	1
+gold producer	bhp billiton	1
+laggard	bhp billiton	1
+mind-altering drug	bhang	2
+powerful leader	bhagat	1
+small river	bhavani	1
+large mining company	bhp billiton	2
+large mining company	bhp	2
+large mining company	bhp minerals	1
+mining giant	bhp billiton	12
+mining giant	bhp	2
+nice hotel	bhagirathi inn	2
+remote country	bhutan	1
+south east asian country	bhutan	1
+yoga technique	bhujanga asana	1
+cement company	bhavya cements	1
+government company	bhel	6
+government company	bharat aluminium	1
+herpesviruses	bhv- one 	1
+minority party	bhum jai thai	1
+traditional dance form	bharatanatyam	2
+Yoga asanas	bhujangasana	5
+big disaster	bhopal chemical disaster	1
+exploration company	bhp billiton	1
+large dam	bhumibol	1
+large dam	bhakra	1
+large global company	bhp billiton	2
+mining firm	bhp billiton	1
+mining firm	bhp	1
+blue-chip stock	bhp billiton	1
+devotional practice	bhakti yoga	3
+end company	bharti communications	1
+global operator	bhp billiton	1
+large stock	bhp billiton	2
+medical course	bhms	1
+activity	bhagavada kainkaryams	1
+public sector undertaking	bharat electronics limited	1
+radical scavenger	bht	2
+artificial preservative	bha	20
+artificial preservative	bht	14
+bordering country	bhutan	1
+close associate	bharathi shetty	1
+dietary antioxidant	bha	1
+dietary antioxidant	bht	1
+indian organization	bharatiya samaj charitable trust	2
+largest group	bhils	1
+mobile carrier	bharti airtel	2
+Puranas	bhagavata	2
+Puranas	bhagavatam	1
+quality stock	bhp	1
+regional style	bharatanatyam	2
+state capital	bhubaneswar	1
+blue chip name	bhp	1
+chief minister	bhupinder singh hooda	1
+great general	bhishma	1
+large-cap company	bhel	1
+largest firm	bhp	2
+south asian country	bhutan	2
+synthetic preservative	bht	9
+synthetic preservative	bha	5
+tribal community	bhotias	1
+weak state	bhutan	1
+example company	bh global marine	1
+forefather	bhatia	1
+forefather	bhatti	1
+large exporter	bhp billiton	1
+mobile phone operator	bharti airtel	1
+PSU	bhel	1
+spiritual book	bhagavad gita	1
+spiritual book	bhagavad-gita	1
+telecom firm	bharti airtel ltd	2
+blue chip customer	bhp billiton plc	1
+character flaw	bhagavad gita character flaw	1
+complex medium	bhi	2
+dance performance	bharatanatya	1
+great devotee	bhagat prahlad	1
+great devotee	bhishma	1
+honorific title	bhetara gede	1
+indian herb	bhring raj	1
+large initiative	bhl	1
+lower-middle-income country	bhutan	2
+resource stock	bhp	8
+resource stock	bhp billiton	2
+spiritual path	bhakti yoga	1
+superhit movie	bhumika	1
+beauty company	bh cosmetics	1
+fashion giant	bhs	1
+indian conglomerate	bharti enterprises	2
+indian conglomerate	bharti	1
+telecom provider	bharti airtel	3
+world's biggest company	bhp billiton	1
+cellular company	bharti airtel	6
+countless brand	bharat petroleum	1
+cultural competition	bharatanatya	1
+digitization project	bhl	1
+great epic	bhagvata	1
+oil marketing company	bharat petroleum	6
+oil marketing company	bharat petroleum corp	1
+popular tourist place	bhadraj temple	1
+popular tourist place	bhatta falls	1
+private service provider	bharti	2
+public sector enterprise	bharat heavy electricals ltd	1
+statutory board	bhakra beas management board	2
+aboriginal tribe	bhumij	2
+endangered mammal	bhutan takin	1
+growth medium	bhi agar	1
+Organochlorines	bhc	2
+spiritual classic	bhagavad gita	1
+tier-ii city	bhubaneshwar	1
+tier-ii city	bhopal	1
+Upanishads	bhagawad gita	1
+well-known measure	bhattacharyya probabilistic distance	1
+well-known multinational	bhp	1
+worldly pleasure	bhukti	2
+Blue-chips	bharat heavy electricals	1
+city council member	bh city council member	1
+Intermediate phenotypes	bhr	1
+leading practitioner	bhasin	1
+telecom major	bharati airtel	2
+telecom major	bharti airtel	1
+telecom major	bharti	1
+chilli	bhut jolokia	2
+cultural show	bharatiyar festival	1
+GSM carrier	bharti	2
+high-street store	bhs	1
+hindu group	bharat swabhiman trust	1
+india tour package	bhutan tour package	1
+indian river	bhagirathi	1
+large-cap stock	bharti airtel	1
+mainstream party	bharatiya janata party	2
+movement technique	bhop	1
+organochlorine insecticide	bhc	1
+persistent pesticide	bhc	1
+proapoptotic protein	bh three -only protein bad 	1
+sacred book	bhagavad gita	1
+Yogasanas	bhujangasana	2
+archer	bheeshma	2
+archer	bhishma	1
+business source	bhl	2
+elite fighter	bhop	1
+ethnic feature	bharatanatyam & tamil architecture	1
+government survey	bhps	1
+great warrior	bharatawarsha drupada	1
+incumbent operator	bharti airtel	2
+minor port	bhatkal	2
+natural modalities	bhrt	1
+petroleum based product	bha	1
+petroleum based product	bht	1
+tourist attraction place	bhavani islans	1
+classical dance	bharatanatyam	5
+classical dance	bharatnatyam	3
+GSM operator	bharti	3
+GSM operator	bharti airtel	1
+indian service provider	bharti airtel	1
+mobile phone service provider	bharti airtel	4
+popular text	bhagavadgita	1
+Rakhis	bhaiya bhabhi rakhis	1
+Rakhis	bhaiya-bhabhi rakhi	1
+renowned poet	bhasa	1
+Sikhs	bhai gurdas	2
+Sikhs	bhai piara	2
+Sikhs	bhai gurdaas jee	1
+Sikhs	bhai piara jee	1
+Yogic asanas	bhujangasana	27
+attendant	bhangura	1
+bellwether stock	bhp billiton	1
+coal miner	bhp billiton	3
+coal miner	bhp	1
+energy fuel	bh four 	2
+great king	bharata	1
+high street giant	bhs	1
+indian carrier	bharti airtel	1
+indian carrier	bharti	1
+indian snack	bhel puri	1
+indian snack	bhajia	1
+lesser-known work	bhatti's the death of ravana	1
+reputed hospital	bhatia	1
+state firm	bharat petroleum corp ltd	9
+state firm	bharat petroleum	1
+yog & pranayam	bhastrika pranayam	1
+ancient hindu scripture	bhagavad gita	2
+asian american author	bharati mukherjee	1
+autonomous agency	bhutan electricity authority	1
+classical dance form	bharata natyam	1
+concentration method	bhrumadiya drishti	1
+deep fried item	bhajis	1
+ethnic accessory	bhagalpuri stole	1
+high-street brand	bhs	1
+large corporate firm	bharti	1
+LDCs	bhutan	3
+lively city	bhaktapur	1
+meditation method	bhakti	1
+medium expert	bharat koirala	1
+mid-sized firm	bhorukaaluminium	1
+read book	bhagavad gita	1
+ready-to-eat food product	bhujias	1
+religious program	bhajans	1
+religious writing	bhagavad-gita	1
+traditional curry	bhuna	2
+UK shop	bhs	1
+vedic literature	bhagavata purana	3
+vedic literature	bhagavad-gita	1
+asana	bhujangasana	2
+big indian company	bhel	1
+big stock	bhp billiton	1
+dalit caste	bhangi	1
+evil spirit	bhutas	1
+expensive shop	bhs	1
+holy scripture	bhagavad gita	1
+large deal	bhp billiton's	1
+low cost producer	bhp	1
+mental image	bhikkhu	3
+nun	bhikkhuni mahapajapati	1
+opposition political party	bharatiya janata party	1
+event	bhopal	9
+event	bhajans	2
+private vendor	bharti	1
+prominent international artist	bhagavan das	1
+realty major	bharat iconia	1
+renowned enterprise	bharti	1
+resource group	bhp	1
+resource group	bhp billiton	1
+software development center	bhubaneswar	1
+spiritual text	bhagavad gita	5
+storage reservoir	bhakra	1
+telecoms operator	bharti	1
+ancient indian scripture	bhavaprakash	1
+big business house	bharti	1
+big-time player	bhp billiton	1
+chain-breaking antioxidant	bha	1
+chain-breaking antioxidant	bht	1
+classic gun	bhp	1
+corporate bigwig	bharti	2
+geotechnical information	bh seven  borelog 	1
+high profile author	bharati mukherjee	1
+indo-european priesthood	bhlaghmens	1
+intoxicating substance	bhang	2
+mainstream advertiser	bhp steel	1
+market operator	bharti airtel group	1
+notorious incident	bhopal	1
+popular stock	bhp	1
+preservative chemical	bht	2
+preservative chemical	bha	1
+quirky movie	bheja fry	1
+range state	bhutan	1
+religious scripture	bhagavad gita	1
+royal title	bhattaraka	1
+senior devotee	bhavananda prabhu	1
+small municipality	bhaktapur	2
+spiritual writing	bhagavad gita	1
+state-owned firm	bharat heavy electricals limited	2
+state-owned oil company	bharat petroleum	1
+state-owned oil company	bharat petroleum corporation	1
+suktas	bhu suktam	1
+ancient and historic temple	bhagsu nag	1
+big multi-national company	bhp billiton	1
+chemical stabilizer	bht	1
+consumer-oriented company	bharti airtel	4
+contemporary form	bhavaim nautanki terukoothu	1
+country office	bhutan	1
+DTH player	bharti	1
+energy share	bhp billiton	1
+express train	bhopal express	4
+geographic neighbor	bhutan	1
+heritage hotel	bhanwar niwas palace	1
+holy river	bhadra	1
+indian operator	bharti airtel	2
+indian operator	bharti	2
+indian operator	bharat sanchar nigam ltd.	1
+large indian firm	bharti enterprises	1
+leading indian company	bharat petroleum	1
+metre	bhangapayar	1
+mining group	bhp billiton	1
+nation-state	bhutan	1
+event	bhopal gas tragedy	1
+event	bhogali bihu	1
+Persistent organochlorines	bhc	1
+poetic work	bhagavad gita	1
+refinery stock	bharat petroleum	1
+religous text	bhagavad gita	1
+software development hotspot	bhubaneswar	2
+spiritual program	bhajans	1
+steel major	bhushan steel & power	1
+transnational firm	bhp billiton	1
+wholesale store	bh cash	1
+acute care facility	bhs acute care facility	1
+antioxidant additive	bha	1
+antioxidant additive	bht	1
+auditorium	bharatiya vidya bhavan at gamdevi	1
+big miner	bhp billiton	4
+big miner	bhp	2
+case report	bhogaraju et al.	1
+conventional preservative	bha	2
+eminent client	bharat serums & vaccines ltd.	1
+evening snack	bhaji	1
+fascinating country	bhutan	1
+folk style	bhangra	2
+Gitas	bhikshu gita	1
+global miner	bhp billiton	12
+global miner	bhp	5
+global miner	bhp billiton ltd	1
+home-grown talent	bhelliom	1
+indian corporate giant	bharti airtel	3
+individuals	bhrgu	1
+instrument maker	bhava sindhu biswas	1
+international energy company	bhp billiton petroleum	1
+iron ore producer	bhp billiton	2
+iron ore producer	bhp bilton	1
+iron ore producer	bhp together with fmg	1
+large diversified company	bhp billiton ltd	1
+largest producer	bhp billington	1
+leading commodity stock	bhp billiton ltd	2
+lipophilic molecule	bha	1
+lipophilic molecule	bht	1
+local and foreign company	bhp billiton	1
+mobile phone firm	bharti airtel	1
+natural resource stock	bhp billiton	1
+off-campus college	bharti	1
+others store	bhs	1
+panel datum	bhps	2
+planetary system	bhur	1
+planetary system	bhuvar	1
+popular local brand	bharat	1
+pranayama	bhastrika	1
+prominent regional writer	bhisham sahni	1
+quasi-newton method	bhhh	1
+south asian nation	bhutan	1
+telecom stock	bharti airtel	7
+theme concert	bhairavi-darshan	1
+transcription factor family	bhlh protein	1
+alphaherpesviruses	bhv- one 	2
+american woman writer	bharati mukherjee	1
+basic cookbook	bhg	1
+big island	bhola	2
+big mining company	bhp billiton	2
+big mining company	bhp	2
+biggest retailer	bharti retail	1
+cancer-causing agent	bha	11
+cancer-causing agent	bht	10
+catastrophies	bhopal	1
+chlorinated hydrocarbon insecticide	bhc	1
+classic indian dish	bhuna	1
+desperado	bhola sunyara	1
+display counter	bhel puri counter	1
+event	bhopal tragedy	1
+event	bharats for wedding	1
+event	bhangra blowout	1
+event	bhangra fusion	1
+event	bhakthi gee	1
+event	bhc biggest loser competition	1
+event	bhp's ok tedi river destruction in png	1
+event	bhopal chemical plant accident in india	1
+program	bhajans	6
+global mining company	bhp billiton	2
+global mining company	bhp	1
+hindu goddess	bhavani	1
+hindu goddess	bhu devi	1
+hindu religious text	bhagwad gita	1
+ignition	bhr	1
+indian corporate bigwig	bharti	1
+indian folk dance	bhangra	14
+indian folk dance	bharata natyam	1
+indian mathematician	bhaskara	3
+indian oil company	bharat petroleum	1
+indian scripture	bhagavadgita	1
+Indian telcos	bharti airtel	3
+Indian telcos	bharti	1
+interesting performance	bhangra dance	1
+international mining giant	bhp billiton	1
+international mining giant	bhp	1
+kirtan	bhai jaspreet singh	1
+kirtan	bhai harjinder singh sri nagar wale	1
+kirtan	bhai chattar singh	1
+large telecom company	bharti airtel	1
+leading original equipment manufacturer	bharat heavy electricals	1
+mega disaster	bhopal	1
+minor deity	bhadrakali	2
+non metro city	bhiwadi	1
+OC pesticide	bhc	1
+private industry company	bhp ekati diamond mines	1
+public sector oil company	bharat petroleum corporation limited	1
+public sector oil company	bharat petroleum corporation	1
+public sector oil company	bharat petroleum	1
+raw material producer	bhp billiton	1
+regional language film	bharathi	1
+resource development	bhp billiton's ravensthorpe project	1
+sizeable investment	bharti in india	1
+south african corporation	bhp billiton	1
+top-notch company	bharat electronics limited	1
+vedic scripture	bhagavata purana	1
+well-known business house	bharti enterprises	1
+wide-ranging form	bhangra	1
+wide-ranging form	bhajans	1
+yogic text	bhagavat purana	2
+yogic text	bhagavad gita	1
+auspicious function	bhumsavanam	1
+australia company	bhp billiton	1
+chemical antioxidant	bha	3
+chemical antioxidant	bht	2
+chlorinated hydrocarbon chemical	bhc	1
+commodity firm	bhp billiton	1
+common inhibitor	bht	1
+common preservative	bht	2
+common preservative	bha	2
+CPSC member country	bhutan	1
+dance type	bhangra	1
+deluxe option	bhu nga thani resort	1
+desperately poor nation	bhutan	1
+effective antioxidant	bha	1
+eminent woman	bhikaji rustam cama	1
+famous drama	bhagna bhavanam	1
+graveyard	bhowanipore cemetery in kolkata	1
+gunas	bhakut guna	1
+heavy weight stock	bharti airtel	1
+high-street shop	bhs	1
+hindi dialect	bhojpuri	2
+indian dance form	bharata natyam	1
+indian dance form	bharatnatyam	1
+IPO stock	bhartiya global	2
+iron ore miner	bhp	2
+iron ore miner	bhp billiton	1
+khan	bhadri khand	1
+large miner	bhp billiton	2
+large miner	bhp	1
+local practitioner	bhakta	1
+mandals	bhajani mandals	1
+minimal pucca work	bhulbhulaiya	2
+minimal pucca work	bhul-bhulaiya	1
+mountain nation	bhutan	2
+neighbouring dahihandi group	bhairavnath	1
+program	bharat nirman rural infrastructure program	2
+popular fodder tree species	bhimal	1
+pranayama technique	bhastrika	1
+premier spiritual scripture	bhagavad gita	2
+private and public sector client	bhilai steel plant	1
+religious and philosophical book	bhagavad-gita	2
+religious and philosophical book	bhagavad - gita the upanishads	1
+scriptural text	bhagavad gita	1
+street business	bhandari homeopathic stores	1
+Swyamsewaks	bhaska nath ganjoo	1
+tiger range country	bhutan	1
+top miner	bhp billiton	1
+transcription factor gene	bhlh gene twist	1
+well-established player	bharat heavy electricals ltd	1
+world largest mining company	bhp billiton	1
+yoga text	bhagavad gita	1
+agri-chemicals	bhc	1
+art house film	bhavani bhavai	1
+australian mining company	bhp	3
+australian mining company	bhp billiton	1
+breath	bhastrika	1
+buddhist nation	bhutan	1
+case manager	bhanu patel	1
+casteor community-based dialect	bhathala	1
+city suburb	bhandup	1
+collective practice	bhakti yoga	1
+colliery	bhagatdih	1
+company's peer	bhati airtel	1
+dance drama	bhasmasura mohini	1
+diversified mining company	bhp billiton	3
+enriched medium	bhi	1
+famous hill station	bhimtal	2
+fantastic rakhis	bhaiya bhabhi rakhi	1
+free indian sex story	bhahi sex story	5
+free indian sex story	bhabhi sex story	1
+government development program	bharat nirman comprising water	1
+great text	bhagavad gita	1
+GSM player	bharti airtel	2
+GSM player	bharti	1
+hair growth oil	bhringraj	1
+Harikathas	bhakta siriyala	1
+Harikathas	bhakta tyagaraja	1
+Harikathas	bhakta kuchela	1
+Harikathas	bhakta ramadasu	1
+high-end supermarket	bhg	1
+historical writing	bhagavata-purana	2
+indian classical dance	bharatanatyam	2
+indian classical dance	bharatnatyam	2
+indian dance	bharatanatyam	1
+indian dance	bhangra	1
+industrial disaster	bhopal	2
+industrial disaster	bhopal gas tragedy	1
+international mining company	bhp billiton	3
+Khas	bhoori soup	1
+leftist intellectual	bharat patankar	1
+mallu star	bhavana	1
+material stock	bhp billiton	1
+mining share	bhp billiton	2
+north indian language	bhojpuri	1
+organochlorine contaminant	bhc	1
+pilgrimage tourist attraction	bharat mata mandir	1
+program	bholi ko nepal	1
+program	bhaktapur little lady	1
+program	bho cop	1
+program	bhs early college	1
+program	bhs tutorial	1
+program	bhava spandana	1
+program	bhajan recitation	1
+pro-apoptotic molecule	bh three -only pro-apoptotic molecule 	1
+rare manuscript	bhai bano bir	1
+reputable online dealer	bhphoto	2
+sarpents	bhadraka	2
+scriptural work	bhagavad gita	1
+shiva's form	bhairava	1
+sikh scholar	bhai kahn singh	1
+sikh scholar	bhai gian singh	1
+sikh scholar	bhai vir singh count tahikan among guru gobind singh's poet	1
+small rural school	bhs	1
+sponsor company	bhp billiton	1
+state-run oil marketing company	bharat petroleum corp	9
+jagdeep	bhola bhala	0
+beautiful pass	bhonte la.	2
+big corporate house	bharti	1
+big name brand company	bhp billiton	1
+big public company	bharat electronics	1
+big-named store	bhs	1
+bird sanctuary	bharatpur in rajasthan	1
+buddhist thinker	bhavaviveka in the sixth century	1
+classical and semi-classical form	bhajan	2
+classical indian dance	bharatnatyam	5
+classical indian dance	bharata natyam	1
+classical indian dance	bharatanatyam	1
+common food preservative	bht	1
+credit group	bhakari	1
+devtas	bhrama	1
+fabulous british company	bhp billington	1
+famous litterateur	bhola patel	1
+global telecom giant	bharati airtel	1
+grandmother-like name	bhagirati	1
+hard asset company	bhp billiton	6
+harmful preservative	bht	4
+harmful preservative	bha	3
+hill-stations	bhimtal	1
+hindu guru	bhagwan shree rajneesh	1
+incumbent player	bharti	1
+indian classical dance form	bharatnatyam	1
+indian classical dance form	bharatanatyam	1
+indian mobile operator	bharti airtel	5
+indian philosopher	bhavaviveka	1
+large glacier	bhagirath kharak	2
+large indian conglomerate	bharti	3
+large language group	bhojpuri	1
+lipophilic antioxidant	bht	1
+literature book	bharatayudha	1
+local international restaurant	bhan thai	1
+low caste	bhois	1
+community	bhils	6
+community	bhao	2
+community	bhutanese	2
+men's fashion store	bhs	1
+metal giant	bhp billiton	1
+monthly gathering	bhakti night	1
+mythological text	bhagwad gita	2
+national political party	bharatiya janata party	1
+postcolonial theorist	bhabha	1
+prestigious platform	bharatiya vidya bhavan	1
+proapoptotic molecule	bh three -only proapoptotic molecule 	1
+Profit-making PSUs	bhel for generating revenue	1
+prominent australian company	bhp	2
+rakshasas	bhima's wife hidimbi	1
+Religious NGOs	bharatiya vidya bhavan	1
+royal dish	bhindi jaipuri	1
+sikh organization	bhindranwale tiger force	2
+small dance festival	bhaunri utsav	1
+software corporation	bharti	1
+south asian economy	bhutan	1
+student various yogic posture	bhujangasana	1
+village leader	bhan singh barnala	1
+World music maestrons	bhaskar chandavarkar	1
+affordable bhutan tour package	bhutan cultural tours	1
+affordable bhutan tour package	bhutan trekking holidays	1
+affordable bhutan tour package	bhutan mountain bike tour	1
+affordable bhutan tour package	bhutan festival tours	1
+agri-retail chain	bharti's field fresh	1
+ancient hindu temple	bharat mata temple	1
+ancient hindu text	bhagavata purana	4
+ancient hindu text	bhagavata-purana	1
+australian household name	bhp	1
+australian producer	bhp billiton	1
+ayurvedic oil	bhringraj oil	1
+babas	bhaniarewala	1
+brahmin law giver	bhrigu	17
+british high street name	bhs	1
+captive producer	bharat aluminium co	1
+central government scheme	bharat nirman yojna	1
+character portrayal	bhima	2
+classical raags	bhoopali	1
+contrasting style	bharata nrityam	1
+contrasting style	bharatanatyam	1
+darsanas	bhedabheda	1
+deep-pocketed company	bharti airtel ltd	1
+diversified miner	bhp billiton	4
+energy substrate	bhb	1
+family tree sub-branches	bharatvansh	4
+famous indian scripture	bhagavata purana	1
+famous indian scripture	bhagavad gita	1
+famous king	bharata	1
+famous retail branded shop	bhs	1
+famous wildlife destination	bharatpur bird sanctuary	2
+flagship programs	bharat nirman	1
+good left arm spinner	bhatt	1
+great archer warrior	bhagwan krishna	1
+great archer warrior	bheeshma	1
+high street retail chain	bhs	4
+high-tech disaster	bhopal gas leak in india	1
+himalayan state	bhutan	2
+himalayan state	bhootan	1
+hindered phenol	bht	1
+hindered phenol	bha	1
+hindustani artiste	bhimsen joshi	1
+holy center	bhadrinath	1
+india body building title	bharath kumar	1
+india body building title	bharath shresta	1
+india body building title	bharath kesari	1
+india body building title	bharat kishore	1
+india body building title	bharath shree	1
+indian hotel company	bharat hotels	2
+indian insurance company	bharti axa	1
+indian major	bharti	1
+india's large domestic corporate house	bharti	1
+institutaions	bharat vikas parishad	1
+international engineering firm	bhp billition	1
+iron producer	bhp billiton	5
+large mining house	bhp billiton	1
+lawgiver	bhrigu	1
+leading industrial metal stock	bhp billiton ltd	2
+local shipbuilder	bharati shipyard ltd	2
+local shipbuilder	bharati	1
+london-listed miner	bhp billiton	1
+maharishi	bharadwaja	1
+matrimonial site	bharat matrimony	1
+mesmerizing beach	bhoput beach	2
+mining corporation	bhp	1
+multinational mining giant	bhp billiton	2
+non indian himalayan state	bhutan	1
+Non-Bengalis	bhupinder singh	1
+non-western tradition	bharatha natyam dance	1
+poorest district	bhakkar	1
+popular summer steelhead fly	bh lifter	1
+prominent stock	bharat heavy electricals ltd	1
+regular team member	bhavesh patel	1
+remarkable art film	bhavani bhavi	1
+reputed business school	bharathidasan institute of management	1
+reservoir engineering datum	bhp survey	1
+resource exporter	bhp	1
+RGV picture	bhoot	2
+SA company	bhp billiton	1
+savory indian dish	bhuna goat	1
+senior company	bhp	1
+senior RJD leader	bhim singh	1
+organization	bhp billiton	3
+organization	bhp	3
+organization	bharatiya janata party	2
+organization	bharath dynamics limited	2
+spiritual occasion	bhajan mandlis	1
+state-owned refiner	bharat petroleum corp ltd	1
+supreme archer	bheeshma	1
+terai town	bhairawa	1
+tiger commander	bhanu	1
+top conglomerate	bharti	2
+top telecom player	bharti	3
+top telecom player	bharti airtel	1
+typical antioxidant	bha	1
+uk-listed company	bhp billiton	1
+unaffected country	bhutan	1
+well-known publishing house	bharatiya gyan pith	1
+wild tribe	bhils	1
+world-famous business	bhp	1
+world's big player	bhp billiton	1
+Yuktis	bhaga-tyaga lakshana	1
+actreses	bhanu being considered	2
+admirable initiative	bhoys against bigotry	1
+ancient indian traditional text	bharat natya shastra	3
+australian exporter	bhp billiton	1
+australian miner	bhp billiton	1
+authorized vendor	bharat bijlee ltd.	1
+based dance style session	bhangra dance	1
+bengali album	bhorer alo	1
+bhai dooj gift	bhaidooj sweets hamper	1
+big mining house	bhp billiton	2
+biggest producer	bhp	1
+business bureau company	bhphoto	1
+chemical, man-made preservative	bht	1
+chemical, man-made preservative	bha	1
+chlorinated benzene	bhc	1
+chlorine-containing insecticide	bhc	1
+classical costume	bharathanatyam	1
+classical yoga scripture	bhagavad gita	2
+commercial miner	bhp billiton	1
+contrary, artificial preservative	bha	1
+contrary, artificial preservative	bht	1
+critical realist	bhaskar	1
+democratic and progressive intellectual	bhupendra kumar	1
+divine manifestation	bhagavan	1
+domestic household name	bharti airtel	1
+east, country	bhutan	2
+organization	bhi	1
+organization	bhat's international institute of holistic health	1
+organization	bharti foundation	1
+organization	bharti	1
+established miner	bhp	1
+europe brand name	bhs	1
+exotic chile	bhut jolokia	1
+exporter share	bhp billiton	1
+famous and nice lake	bhairav	1
+first time dance style	bharathanatyam	1
+folk dance form	bhangra of punjab	1
+folk dance s	bhangda	1
+ford india's significant dealer	bhagat ford in chandigarh	1
+front line company	bharti airtel	2
+garden city	bhopal	1
+giant global player	bhp billiton	1
+global mining major	bhp bilton	1
+global mining major	bhp billiton	1
+gujarati area	bhuleshwar	1
+Gursikhs	bhai mani singh	1
+Gursikhs	bhai taru singh	1
+Gursikhs	bhai rasal singh ji	1
+hatha yoga practice	bhuta shuddhi	1
+highstreet chain	bhs	1
+hindu epic	bhagavad gita	1
+household panel study	bhps in uk	1
+household panel study	bhps in the uk	1
+indian classical dance style	bharathanatyam	1
+indian client	bharat forge	2
+indian orissa dance form	bharatnatyam	1
+indian snack dish	bhature	1
+indian telecom player	bharti	1
+indian telecom service operator	bharti	1
+india's major carpet manufacturing location	bhadohi	1
+industry honcho	bharti enterprises cmd	1
+integrated player	bharti	1
+iron ore major	bhp billiton	1
+iron-ore producer	bhp billiton	1
+islamic trust fund	bhlb dana alihsan	1
+islamic trust fund s	bhlb dana alihsan	1
+kashmiri artist	bhat	1
+kaurava general	bhishma	1
+large mining group	bhp billiton	1
+large resource company	bhp billiton	2
+lot many scripture	bhagavad gita	1
+malayalam actress	bhavana	1
+mighty indian medium outlet	bharat's bollywood film	1
+multipurpose project	bhakra nangal	1
+newquay's award-winning restaurant	bhoj	1
+nice famous lake	bhairav	1
+oil refining company	bharat petroleum	1
+PC optimization feature	bho manager	1
+perennially flood-prone district	bhadrak	1
+phone firm	bharti airtel	1
+popular volume	bhakti schools of vedanta	1
+organization	bharat forge ltd.	1
+organization	bharti broadband networks	1
+organization	bharatvarsiya bijnan sabha	1
+organization	bharti airtel	1
+organization	bharti airtel services ltd.	1
+organization	bhel	1
+organization	bhoomi sena in thane district	1
+organization	bhubaneswar music circle	1
+organization	bhel in india	1
+organization	bhoch shalom	1
+organization	bharat gas	1
+organization	bha involved in a baby's naming day	1
+organization	bhp australia coal	1
+organization	bhp billiton australia	1
+organization	bhp coal	1
+organization	bharat forge	1
+organization	bharat heavy electricals limited	1
+organization	bharat sevashram	1
+prefinished product	bhk's moderna logo laminate plank	1
+prestigious sabhas	bharathiya vidya bhavan	1
+private telecom service provider	bharti airtel	1
+private-sector player	bharti airtel	1
+prolific filmmaker	bharathan	2
+public sector manufacturing company	bharat electronics ltd.	1
+real blessing	bhagavan nityananda	1
+reason disaster	bhopal	1
+recognised trade organization	bha	1
+recognised trade organization	bh&hpa	1
+reputed cliental	bhabha atomic research centre	1
+sacred hindu text	bhagavad gita	2
+sacred hindu text	bhagavad-gita	1
+schedule tribe	bhils	1
+semi-classical vocal form	bhajans	2
+servicing major player	bhp billiton	1
+single antioxidant	bha	1
+socio-cultural system	bhudvant	1
+state oil marketing company	bharat petroleum corp.	1
+state-owned oil firm	bharat petroleum corp	1
+street food delicacy	bhelpuri	1
+subsidiary form	bhajan	2
+successful multinational	bhp billiton	1
+suppliedto various reputed company	bharat forge ltd.	1
+supply constraint major mining company	bhp billiton	1
+synthetic chemical compound	bht	1
+Tamil celebs	bhavana	1
+telecoms stock	bharti airtel	2
+TEMA designation	bhu	1
+top research institute	bhabha atomic research centre	1
+traditional dhakaia delicacy	bhapa pitha	1
+traditional local festival	bhimsen puja	1
+transnational mining company	bhp billiton	1
+upstream dam	bhumibol in tak	1
+vedantic scripture	bhaja govindam	1
+vedantic scripture	bhagavad gita	1
+vedantic text	bhagavad gita	1
+well-kept graveyard	bhowanipore cemetery in kolkata	1
+well-known guru	bhavna kahduskar	1
+well-known indian dance form	bharatnatayam	1
+western mining company	bhp billiton	1
+wise head	bhp billiton chairman jac nasser	1
+wonderful dance performance	bharatnatyam	1
+world's giant mining stock	bhp billiton	1
+world's largest producer	bhp billiton	1
+yogic movement	bhakti	1
+absolute monarchy	bhutan	1
+access service provider	bharti	1
+ajilon client	bhp	1
+altogether new large global enterprise	bharti	1
+anchor hypermarket brand	bharti easyday	1
+ancient, almost-forgotten theatrical form	bharata natya	1
+auto component player	bharat forge	1
+Balavadis	bheeta	1
+technique	bhastrika	1
+bengali folk tradition	bhatiali	1
+big telecom operator	bharti airtel	2
+cannabinoid drug	bhang	1
+capital good stock	bhel	1
+celebrity ghazal singer	bhupinder singh	1
+central indian tribe	bhumij the ho	1
+chemical disaster	bhopal	1
+classical sikh scholar	bhai santokh singh	4
+classical sikh scholar	bhai mani singh	4
+classical yoga text	bhagavad gita	1
+commercially available preservative	bht	1
+commercially available preservative	bha	1
+commodities-related stock	bhp billiton	1
+common synthetic antioxidant	bha	1
+conversely stock	bhp	1
+copper company	bhp billiton	2
+corporate biggie	bharat heavy electricals ltd	2
+countless such dividend stock	bhp	1
+cultural posture	bhujangasana	1
+dangerous chemical compound	bht	1
+dangerous chemical compound	bha	1
+denim manufacturer	bhaskar industries	2
+development project office	bhotekosi hydropower	1
+Dhabas	bhrawan da dhaba	1
+diamond mining company	bhp billiton	1
+domestic equipment manufacturer	bhel	1
+domestic shipbuilder	bharati shipyard ltd	1
+dramatic tragedy	bhopal	1
+eminent wildlife tourist place	bharatpur bird sanctuary	1
+eminent wildlife tourists place	bharatpur bird sanctuary	1
+Erstwhile dacoits	bhanwar singh	1
+established major	bhp billiton	1
+ethnic and regional class	bhutanese of nepali origin	1
+famous Maharshis	bhrugu	1
+famous raagi jathas	bhai santa singh	1
+famous raagi jathas	bhai avtar singh	1
+famous raagi jathas	bhai sarab singh	1
+far-flung country	bhutan	1
+fast-growing telecom operator	bharti	2
+fixedline operator	bharti airtel	1
+fleckvieh great	bhr doorn	1
+folk theater form	bhavai from gujarat	1
+technique	bhf	1
+global diamond mining company	bhp billiton	1
+global mining firm	bhp billiton	2
+great pan-indian epic	bhagavadgita	1
+great ragi	bhai avtar singh	4
+great ragi	bhai avtar singh from india	2
+great spiritual text	bhagavad gita	1
+GSM telecom operator	bharti	1
+guru gobind singh s contemporary	bhai nand lal	1
+guru gobind singh s contemporary	bhai daya singh	1
+guru gobind singh s contemporary	bhai chaupa singh	1
+guru gobind singh's contemporary	bhai chaupa singh	2
+guru gobind singh's contemporary	bhai daya singh	2
+guru gobind singh's contemporary	bhai nand lal	2
+handled prestigious client	bhel	1
+harmful food preservative	bha	1
+harmful food preservative	bht	1
+Hazoori Sikhs	bhai madan singh	1
+Hazoori Sikhs	bhai bhupinder singh	1
+heavy engineering industry	bharat earth movers ltd	1
+helpful text	bhagavad-gita	1
+high-profile telecom operator	bharti airtel lmtd.	1
+hight street shop	bhs	1
+himalayan nation	bhutan	1
+himalayas nation	bhutan	1
+hindu stock	bharti airtel	1
+hinduism's revival movement	bhakti movement	3
+indian horoscope service	bhrigu sanhita	3
+indian public sector undertaking	bharat heavy electricals ltd.	1
+Indian religious literature	bhagavad gita	10
+indian shipbuilder	bharati shipyards	1
+indian spiritual text	bhagavad-gita	1
+indian sport star	bhupathi	1
+indian talent	bhaichung bhutia	1
+india's blue-chip company	bharti airtel	2
+india's ivy league educational institution	bhabha atomic research center	1
+Industrial accident s	bhopal disaster	1
+industry's biggest global player	bhp billiton	1
+influential yoga scripture	bhagavad-gita	1
+international diamond company	bhp billiton	1
+international long distance player	bharti	1
+jaina prakrit scripture	bhagavati sutra	1
+JMJ client	bhp billiton	1
+jse-listed company	bhp billiton	2
+key advaita philosophical term	bheda-traya-rahitam	1
+key domestic company	bharat heavy electricals limited	1
+key engineering company	bharat forge limited	1
+key private player	bharti	1
+kumaoni cuisine	bhat ki churkani	1
+kuru-vruddhas	bhishma	1
+large australian firm	bhp billiton	3
+large coal producer	bhp billiton	1
+large diversified miner	bhp billiton	1
+large new enterprise	bharti	1
+large storage work	bhakra	1
+large-scale industrial accident	bhopal	1
+light classical form	bhajan	1
+localized dance	bhangra	1
+long-term industry leader	bhp	2
+low land ethnic group	bhojpuri	1
+medieval indian mathematician	bhaskara	5
+micro datum set	bhps	1
+mining organization	bhp billiton mitsubishi alliance	1
+mobile telephony company	bharti airtel	1
+multi style	bharata natyam	1
+musical stalwart	bhimsen joshi	1
+name store	bhs	1
+nation's major industry	bhel	1
+natural and synthetic antioxidant	bht	1
+non-chinese mining company	bhp billiton	1
+non-rnam country	bhutan	1
+north american bhangra artist	bhinda jatt	1
+nrithyollasa's thematic production	bhakthi shakthi	1
+nrn-canada member	bhanu paudyal	1
+oily dish	bhaji	1
+OMCs	bharat petroleum corporation ltd	1
+oriental scripture	bhagavad gita	1
+outspoken green building proponent	bharat patel	1
+outstanding prize	bharat gayan samaj's master krishnarao phulambrikar gold medal	1
+pandawa legend's figure	bhima	1
+partial expansion	bhutesvara mahadeva	3
+pet food preservative	bht	1
+pet food preservative	bha	1
+polluted river	bhavani	2
+post vedic text	bhagavad-gita	1
+post-colonial theorist	bhabha	2
+powerful yoga	bhadra yoga	1
+Practise pranayamas	bhastrika	1
+preservati ves	bha	1
+preservati ves	bht	1
+principal worker	bhawani prasad	1
+Private telcos	bharti	1
+profit-making firm	bharat heavy electricals ltd	1
+profound esoteric tradition	bhagvad geeta	1
+profound philosophical epic	bhagavad-gita	1
+public vocational training provider	bhi	4
+pungent capsicum chinenses	bhut jolokia	1
+pure herbal ingredient	bhumibala	1
+pure herbal ingredient	bhringaraja	1
+purely classical style	bharat natyam	1
+pvp situation	bh	1
+radical inhibitor	bht	1
+rapist	bheri ramsarran	1
+rare raga	bhavapriya salaghabhairavi	1
+rare raga	bhavapriya	1
+recruitment government company	bharat oil company restricted	1
+regular vegetarian dish	bhindi masala	1
+resource giant	bhp	1
+retention facility	bhumibol dam in tak province	1
+river valley project	bhakra	1
+shastra	bhagavad gita	1
+shastra	bhagavata purana	1
+shouting slogan	bharat mata ki jai	1
+simple abbreviation	bh for backhand	1
+single offer	bhp billiton ltd. s	1
+social and educational activitites	bhojia dental college baddi	1
+social and educational activitites	bhartiya vidya bhawan school	1
+south asian dance form	bharatnatyam	1
+south asian neighbor	bhutan	1
+south indian dance	bharata natyam	2
+spiritual and religious book	bhagavad gita	1
+standard antioxidant	bha	1
+state refiner	bharat petroleum	1
+state-owned oil marketing company	bharat petroleum corporation	1
+state-run oil firm	bharat petroleum corp	1
+state-specific dance	bharatnatyam	1
+strongest company	bhp billiton	1
+synthetic primary antioxidant	bha	1
+synthetic primary antioxidant	bht	1
+application	bho	1
+tibet support group	bharat tibbat sahyog manch	1
+traditional ayurvedic text	bhav prakash	1
+tribal use pesticide	bhc	1
+united progressive alliance's flagship scheme	bharat nirman	1
+Upapuranas	bhargava	1
+value-added service provider	bharti telesoft	1
+vegetarian indian street food	bhel puri	1
+vocational training provider	bhi	2
+XCC project	bhayander	1
+yesterday great	bhavabhuti	1
+yogic path	bhakti yoga	1
+yogic spiritual text	bhagavad gita	1
+100-listed stock	bhp billiton	1
+20th century many new guru	bhagwan shree rajneesh	1
+aboriginal tribesman	bhutias	1
+Adivasis	bheels	1
+advaitist teacher	bhagavan nomi	1
+ancient tantric text	bhuta shuddhi tantra	2
+ancient vedic tribe	bharatas	2
+ancient vedic writing	bhagavad-gita	1
+ancient verdic text	bhagavad gita	1
+apoptosis-based anticancer agent	bh three 	1
+Asian LLDCs	bhutan	2
+Asthma-related intermediate phenotypes	bhr	1
+a-type star	bhb	1
+AUDIO elko type	bhc aerovox slit foil	1
+australian listed blue-chip company	bhp billiton	1
+australian multinational company	bhp billiton	1
+australian-linked mining company	bhp billiton	1
+B. Indian religious literature	bhagavad gita	4
+basic prediction	bhava predictions for specific house	2
+basic religious text	bhagavad gita	1
+bellwether miner	bhp billiton	1
+best -cyclical	bhp billiton	1
+BHA geometric configuration input	bha component position	1
+bhojpuri magazine	bhojpuri academy patrika	1
+bhojpuri magazine	bhojpuri sammelan patrika	1
+BHT scanner	bht- eight thousand   series 	1
+big established low-cost producer	bhp	1
+big foreign and private corporation	bhp billiton	1
+big river project	bhakra nangal in punjab	2
+biggest local company	bhp	1
+blue-blooded mining group	bhp billiton	1
+blue-chip corporate giant	bhp billiton	1
+building product manufacturer	bhp steel	1
+cancer-causing preservative	bht	3
+cancer-causing preservative	bha	3
+application	bhulekh	1
+name	bhavani	4
+name	bhagat singh	3
+name	bhubaliya lohar	2
+name	bharati	2
+name	bharti airtel	2
+name	bharat hockey	2
+name	bhs	2
+name	bhp	2
+name	bhp billiton	2
+name	bhuma devi	1
+name	bhutan	1
+name	bhutanese terrier	1
+cantonment	bhatinda	1
+cash-rich pocket	bharuch with foreign money	1
+catastrophic environmental incident	bhopal	2
+CFUGs	bhumesthan	1
+cheap preservative	bht	1
+cheap preservative	bha	1
+clan deity	bhagavathi	2
+classic industrial disaster	bhopal	1
+classic sanskrit text	bhagavad-gita	1
+classical indian form	bharata natyam	1
+coal conglomerate	bhp billiton	1
+conclusion severe environmental catastrophe	bhopal	1
+contemporary longitudinal survey	bhps	1
+corporate failure study	bhattacharjee et al.	1
+country's GSM telecom operator	bharti airtel	1
+country's top company	bhel	1
+CPSEs	bharat petroleum corporation limited	1
+crowded work place	bhikaji cama place in delhi	1
+dedicated soul	bhai kultar singh	1
+dedicated soul	bhai baldeep singh	1
+Defense PSUs	bharat earth movers	1
+degraded tiger habitat	bhainsrorgarh	2
+democratic political dynasty	bhutto's in pakistan	3
+diversified major	bhp	1
+domestic mobile operator	bharat sanchar nigam	1
+downeast boat	bhm	1
+dramatic catastrophe	bhopal	1
+effectively-recognized chain	bhs	1
+egovernment framework	bhatia framework	1
+e-government framework	bhatia framework	1
+eminent Sikhs	bhai bahilo	1
+eminent Sikhs	bhai bhagatu	1
+english high street shop	bhs	1
+episodic environmental disaster	bhopal accident	1
+established GSM operator	bharti airtel	2
+established GSM player	bharti	2
+evening raga	bhimpalasi	2
+excellent university-run MBA program	bharathidasan institute of management tiruchi	1
+expansion plan	bhp billiton's	1
+extremely rich person	bhutto family in pakistan	1
+fact big company	bhp	1
+name	bhasme	1
+name	bhadwai village mandali	1
+name	bhairava	1
+name	bhagavatabhusana	1
+name	bhargava	1
+name	bharrat jagdeo	1
+name	bhawani	1
+name	bhat	1
+name	bhupinder dutta	1
+name	bhre kertabhumi	1
+name	bhola	1
+name	bhairava vidya	1
+name	bhanuka rajapaksa	1
+name	bhakti yoga	1
+name	bhaktibhusana	1
+name	bharat heavy electricals	1
+name	bhudevi	1
+name	bhut jolokia	1
+name	bhuteer terrier	1
+name	bhava	1
+name	bharti kher	1
+name	bhopal	1
+name	bhre padan salas	1
+name	bhadhatri	1
+name	bhagats	1
+name	bhaisajyaguru tathagata	1
+name	bhairavi	1
+name	bhagavati	1
+name	bharti-del monte	1
+name	bharat shah	1
+FAO member country	bhutan	2
+fat stabilizer	bha	2
+fat stabilizer	bht	2
+fierce, home-grown competitor	bharti airtel	1
+film representation	bhaji on the beach	1
+fixed line operator	bharti	1
+Forceful pranayama	bhastrika	1
+full-length play	bhanumati ka pitara	1
+gentle twist	bharadvaja's twist	1
+giant manufacturing industry	bharat electronics limited	1
+giant multinational mining company	bhp billiton	1
+giant operator	bharti	1
+giant software corporation	bharti	1
+global mining house	bhp billiton	1
+global resource giant	bhp billiton	1
+globally worth organization	bhp billiton	1
+god brother	bhakti-tirtha maharaja for support	1
+good -cyclical	bhp billiton	1
+good famous mining company	bhp	1
+good north indian dish	bhindi masala curry	1
+Government-owned OMCs	bharat petroleum corp.	1
+government-run refiner	bharat petroleum corp ltd	2
+great Amritdhari Sikhs	bhai santokh singh	1
+great ragis	bhai avtar singh from india	1
+Great Sadhus	bhagatji maharaj	1
+Great sidhas	bhagawan gopi nathji	1
+great spiritual script	bhagavad gita	1
+great UK professional	bhupinder anand	1
+GSM incumbent	bharti	1
+gujarat's celebrated personality	bhailal barot	1
+Heart-openers	bhujangasana	1
+high-profile environmental case	bhopal disaster in india	1
+himalaya n region	bhutan	1
+hindu book	bhagwat puran	1
+hindu book	bhagvat gita	1
+hindu mythological text	bhagavath gita	1
+hollywood film script	bhowani junction	1
+hot chili variety	bhut jolokias	1
+illustrious nun	bhiksuni cheng yen	1
+illustrious nun	bhiksuni chao hwei	1
+inclusive scheme	bharat nirman	1
+incumbent mobile operator	bharti	1
+indian auto part maker	bharat forge ltd.	1
+indian auto part vendor	bharat forge ltd	1
+indian cellular player	bharti	1
+indian defense manufacturer	bharat electronics	1
+indian freedom fighter	bhagat singh	1
+indian photographer	bharat sikka	1
+indian scenario company	bhaskar solar	1
+indian sub-continental language	bhojpuri	1
+indian telecom service provider	bharti	1
+india's aerospace industry leader	bharat electronics ltd	1
+india's incumbent operator	bharti airtel	1
+india's major carrier	bharti	1
+india's state-owned oil company	bharat petroleum	1
+infamous major chemical incident	bhopal	1
+integrated operator	bharti	1
+integrated refiner	bharat petroleum	1
+international long distance operator	bharti airtel	2
+international mining house	bhp billiton	1
+kaurava elder	bhishma	1
+Kirtaniyas	bhai sahib avtar singh ji	1
+Kirtaniyas	bhai chattar singh ji	1
+Kutichakas	bharadvaja	1
+kutichakas hut-dwelling ascetic	bharadvaja	1
+landline phone carrier	bharti airtel	1
+land-locked and mountainous country	bhutan	1
+large and connected telecom operator	bharti	1
+large iron-ore miner	bhp billiton	1
+large mining operation	bhp billiton	1
+large mobile phone company	bharti airtel	1
+large telecom firm	bharti airtel ltd	1
+leading department store	bhatbhateni department store	1
+leading resource company	bhp billiton	1
+lifetime classic	bharathi	1
+case	bhagwan swarup	4
+case	bhagat singh	2
+case	bhopal disaster	2
+case	bhopal litigation	2
+case	bhopal	2
+case	bhutan	1
+local chieftain	bhabani pathak	1
+local power-gear manufacturer	bhel	1
+local power-gear manufacturer	bharat heavy electricals ltd.	1
+low basic education country	bhutan	1
+low cost scheme	bhsf	1
+lowland ethnic group	bhojpuri	2
+mahabharata character	bheeshma	1
+maratha chieftain	bhonsales of nagpur	1
+MARKET & opportunity 4indian major	bharti	1
+marketplace event	bhopal chemical disaster	1
+mass emission norm	bharat stage-iii	1
+mass emission norm	bharat stage-iv	1
+metallurgical coal producer	bhp billiton	5
+Microdatasets	bhps	1
+midsized bank	bhd	1
+mining company large multinational	bhp billiton	1
+monthly religious activity	bhavana	1
+mountain country	bhutan	2
+national for-profit mental health chain	bhc pinnacle pointe hospital	1
+nepal s mountain river	bhote koshi	1
+nepal's mountain river	bhote koshi	1
+newcastle coal exporter	bhp billiton	1
+noble king	bharata	1
+non-caste-based party	bharatiya janata party	1
+non-nutritive antioxidant	bht	1
+non-nutritive antioxidant	bha	1
+no-nonsense boss	bharat bhushan	1
+north karnataka patriotic drama	bhavani talwar	1
+noteworthy crisis	bhopal explosion	1
+noteworthy organization	bharatiya agro-industries foundation	1
+now-acknowledged toxic preservative	bht	1
+now-acknowledged toxic preservative	bha	1
+onsite accommodation option	bhubesi camp	1
+original sanskrit text	bhagavad gita	1
+OS registration metadata	bho	1
+parallel service provider	bharti in telecom	1
+Parayanas	bhagavat parayana	1
+patented chemical insecticide	bhc	1
+plant tswv resistant variety	bhn hybrid celebrity	1
+popular religious tradition	bhakti	1
+popular relig-ious tradition	bhakti	1
+popular street-stall snack	bhel puri	1
+popular wildlife sanctuary	bhagwan mahavir	1
+case	bhairabnath battalion disappearance	1
+case	bhopal gas leak disaster	1
+power equipment maker	bharat heavyelectricals	1
+practice twist	bharadvaja's twist	1
+pre-rangoon prison camp	bhamo	1
+preservative substance	bha	1
+private GSM operator	bharti	1
+profitable resource giant	bhp	1
+progressive new company	bharti	1
+prominent DTH firm	bharti airtel dth	1
+prominent indian operator	bharti	1
+Prominent multiculturalists	bhikhu parekh	2
+Prominent multi-culturalists	bhikhu parekh	1
+prominent telecom service provider	bharti	1
+pshycological factor	bhaya	1
+PSU oil company	bharat petroleum corporation limited	1
+PSU refiner	bharat petroleum corporation ltd	2
+PSU refiner	bharat petroleum corporation ltd.	1
+queensland coal producer	bhp billiton	1
+recalcitrant toxic pesticide	bhc	1
+regional dance form	bharata natyam	1
+rendition language	bhtml for digital television	1
+renowned spiritual text	bhagwat puran	1
+rotis	bhakri	1
+RSS affiliate	bharat vikas parishad	1
+sa's bigger mining company	bhp billiton	1
+second, large operator	bharti	1
+semi-classical and folk form	bhajans	2
+seminomadic indigenous tribe	bhils	1
+severalproapoptotic protein	bh three -only protein bad 	1
+sim-ilar nation	bhutan	1
+simple, coarse food	bhaji	1
+small mountain state	bhutan	1
+sometime later sacred text	bhagavad-gita	1
+sone case	bhadohi	1
+spiritual great	bhagvan mahavir	1
+splendid lake	bhushi lake	1
+Sraffians	bharadwaj	1
+stalwart devotee	bhaktivinode thakura	1
+stalwart devotee	bhaktisiddhanta saraswati	1
+statistical information criterion	bhansali-downham information criterion	1
+stimulative biological medicine	bhi diarrhea tablets	2
+stimulative biological medicine	bhi inflammation tablets	2
+striking film	bhumika	1
+Strong backward-bending asanas	bhujangasana	1
+strong breathing practice	bhastrika	1
+strong pranayama practice	bhastrika	1
+subsequently certain sebakas group	bhitarchha mahapatra	1
+superhots	bhut jolokia	1
+option	bhangra	1
+survivor organization	bhopal gas peedit mahila stationery karmachari sangh	1
+survivor organization	bhopal gas peedit mahila-purush sangharsh morcha	1
+synthetic food preservative	bht	1
+synthetic food preservative	bha	1
+talent search contest	bhugol mancha	1
+tasty indian snack	bhel puri	1
+tasty savoury snack	bhujia	1
+tat khalsa singh sabias scholar	bhai vir singh	1
+theological and spiritual topic	bhakti	1
+top industrial house	bharti enterprises	1
+topmodels	bhawna sharma	1
+traditional high street merchant	bhs	1
+traditional indian form	bhangra	1
+traditional vedic text	bhagavad gita	1
+traditionally artificial preservative	bha	1
+traditionally artificial preservative	bht	1
+transformer manufacturer	bharat bijlee	1
+trend synthetic antioxidant	bha	1
+trend synthetic antioxidant	bht	1
+true, movie	bhumika	2
+TURN-OUT dance style	bharatanatyam	1
+unnatural preservative	bha	1
+unprocessed herbal drug	bhang	1
+vaishnava text	bhagavad gita	4
+version psychological test	bhatia battery of performance tests of intelligence	1
+vodafone essar's rival	bharti airtel ltd.	1
+wonder comedian	bhagwan	1
+world's biggest allround mining company	bhp	1
+world's largest uranium mining firm	bhp billiton	1
+xhosa tribe	bhaca	1
+yoga scripture	bhagavad gita	1
+Yogic asana s	bhujangasana	1
+abbreviati	bhl	1
+age ceremony	bhimaratha ritual practiced by the newari	1
+aggressive polychemotherapy regimen	bhd	1
+Alberta Feedlot Management Guide 2F1:2	bhv- one 	1
+ambitious indian corporation	bharti airtel	3
+ancient yoga text	bhagavad-gita	1
+anti-oxidant additive	bhj	1
+artificial or chemical preservative	bha	1
+asian art form	bhutto from japan	1
+assisted international company	bhp billiton	1
+asthma related phenotypes	bhr	1
+australian iron ore miner	bhp billiton	2
+australian LNG investor	bhp billiton	1
+australian-based mining company	bhp billiton	1
+australia's major diversified mining company	bhp billiton	1
+australia's miner	bhp billiton ltd	1
+australia's mining giant	bhp billiton	1
+authentic South Indian snack-dishes	bhel puri	1
+autorickshaw driver	bhavani lawrence	1
+bangalore-based company	bharat fritz werner	1
+base metal company	bhp	2
+basic-resources producer	bhp billiton	1
+bhagats	bhagat kabir ji a muslim	1
+BHRR animal	bhrr's benjamin	1
+big diversified miner	bhp	1
+big diversified player	bhp	1
+big global miner	bhp billiton	1
+big icon	bhabha	1
+big iron ore company	bhp billiton	1
+big iron ore exporter	bhp billion	1
+big iron-ore company	bhp billiton	1
+big mining group	bhp billiton	1
+big reservoir	bhakra	2
+big-time mining company	bhp billiton	1
+Biopterins	bh four 	1
+blue chip leader	bhp	1
+BP stooge	bho	1
+brackishwater area	bheries of west bengal	1
+Brazilian cultivars	bh  one thousand one hundred and fourty-six 	1
+bulky store	bhoosa	1
+buyback	bhp billiton's	1
+case chemical anti-oxidants	bha	1
+case ofacashtender	bhp offer	1
+Chinese species	bhut jolokia	1
+citta	bhavanga cittas	1
+class separability criterion	bhattacharyya distance	2
+classic yoga text	bhagavad-gita	1
+client major australian company	bhp & comalco	1
+CMDTask filename	bhm	1
+coking coal company	bhp billiton	1
+common fat-soluble antioxidant	bha	1
+communally sensitive spot	bhagalpur	1
+consequently multi-national mining company	bhp billiton	1
+contemporary crisis	bhopal	1
+continuing client	bhp	1
+countless Shaheeds	bhai mani singh	1
+country operator	bharti airtel	1
+country's biggest corporation	bhp	1
+country's highest civilian award	bharat ratna	1
+CSR obligation business entity	bharti foundation	1
+cultured mammalian cell	bhk  five hundred and seventy 	2
+dance presentation	bharat natyam	1
+de beer's competitor	bhp	1
+deal activity	bharti airtel ~	2
+deep pore exfoliant	bha	1
+dependence-graph algorithm	bhm	1
+developed or enclosed communist area	bhutan	1
+development block	bhagwanpur	1
+diamond supplier	bhp	1
+disco bar	bhuba bar	1
+diversified mining giant	bhp billiton	1
+dividend signaling model	bhattacharya	1
+domestic BTG manufacturer	bhel	1
+domestic power equipment manufacturer	bharat heavy electricals	1
+dry curry	bhindi	1
+dryland district	bhiwani	1
+eastern thought	bhavad gita	1
+easy-to-transfect cell	bhk- twenty-one  cell 	1
+group	bhils	3
+group	bharatiya janata party	2
+group	bhrc	1
+group	bhat bhateni supermarket	1
+group	bhero band	1
+group	bhp	1
+group	bharti	1
+economic empowerment initiative	bhcrafts initiative described	1
+enjoy household name	bhs	1
+Entrepreneur-investors	bhatia	1
+established dancer	bharatanatyam legend mylapore gowriamma	1
+ethnic art group	bhaskar's art academy & sri warisan som said performing arts	1
+extreme restricted stock plan	bhagat	1
+fairly horrible jargon	bhams for best human asset managers	1
+fairly specific feeder	bhang aphid	2
+Famous Ustaads	bhai pritam singh ji	1
+female buddhist monastic	bhikkhuni	2
+femawe buddhist monastic	bhikkhuni	1
+ferrous player	bhushan steel	1
+first born approximation result	bhabha	1
+food addictives	bha	1
+free-radical polymerization inhibitor	bht	2
+fried finger food	bhaji	1
+generation tractor variant	bhumiputra	1
+giant mining conglomerate	bhp billiton	1
+global commodity producer	bhp	1
+great indian physicist	bhabha andchandrasekhar	1
+greatest sufi saint	bhitt shah	1
+growth agency	bhubaneswar development authority	1
+haplotype-based method	bhta	1
+hardscrabble rural district	bhakkar	1
+harmonious place	bhutan	1
+Heart Failure information	bhf plan	1
+heavyweight global company	bhp billiton	1
+high school early college	bhsec	1
+highest civilian award	bharat ratna	1
+high-growth position	bhi	1
+high-potential seed variety	bh- six hundred and sixty  for maize 	1
+high-profile hostile bid	bhp billiton for potash	1
+hindu holy book	bhagavad gita compatible with autocracy	1
+hindu merchant	bhatia	1
+hindu-nationalist party	bharatiya janata party	1
+hindustani music legend	bhimsen joshi	1
+historical and educational picture	bhangra	4
+historical cational picture	bhangra	1
+history agent	bhutto of pakistan	1
+host cell suspension stock	bhk suspension cell stock	1
+household panel	bhps	1
+hub service provider	bharti broadband	1
+incumbent GSM giant	bharti airtel	1
+incumbent telecom player	bharti	1
+incumbent telecom service provider	bharti airtel	1
+indian american sister	bharati mukherjee	1
+indian mobile service provider	bharti airtel	1
+indian outlet	bhangra burgers	1
+indian radical revolutionary	bhagat singh	3
+indian telecom group	bharti	1
+indian wireless operator	bharti airtel	1
+india's telecom service firm	bharti	1
+indo-aryan dialect	bhojpuri	1
+industrial crisis	bhopal gas leak disaster	1
+Inferior Devas	bhuma devas	2
+group	bhutanese refugees repatriation council	1
+group	bhopal gas peedit mahila purush sangharsh morcha	1
+group	bhp billiton before joining the company's exploration team	1
+group	bhasha research & publication center	1
+group	bhagwan	1
+group	bhumij	1
+group	bhopal ki aawaaz	1
+group	bh system	1
+initial player	bharti	1
+inner-tarai town	bharatpur	1
+Innovative Telcos	bharti	1
+international hazardous waste disaster	bhopal	1
+international music	bhangra	1
+intoxicating food	bhang afeem toddy	1
+IRON ore exporter	bhp billiton	1
+ISKCON higher education project	bhaktivedanta college of radhadesh	1
+key corporate sponsorship	bhp billiton iron ore	1
+key mining stock	bhp	1
+key uranium company	bhp billition	1
+khandakhadyaka deal mostly maticians	bhaskara ii	1
+large and small princely state	bhavnagar	1
+large coking coal producer	bhp	1
+large material manufacturing company	bhp	1
+large mobile phone firm	bharti airtel	1
+large resource group	bhp billiton	2
+large telecom operator	bharti airtel ltd	1
+large, diversified miner	bhp billiton	2
+large, stable client	bhp billiton	1
+large, transformational deal	bhp billiton's	1
+large-cap diversified resource company	bhp	1
+large-scale iconic work	bharti kher's bindi-covered elephant	1
+legitimate political party	bhutto's pakistan people's party	1
+liberation area	bhojpur	1
+local and foreign firm	bhp billiton	4
+local automotive textile manufacturer	bhilwara melba de witte pvt. ltd	1
+local saint	bhai kalachand	1
+local super-critical power equipment manufacturer	bhel	1
+low-castes	bheels	1
+Madhyamikas	bhavya	1
+male equivalent	bhm	1
+manganese ore miner	bhp billiton	3
+maratha clan	bhoite	2
+metal mining share	bhp	1
+midpipes	bhr	1
+mid-tier international group	bhp	3
+mild chemical exfoliant	bha	1
+mining heavyweight	bhp billiton	1
+mining peer	bhp billiton	1
+MN ore supplier	bhp	1
+modern Indian popular music	bhangra	1
+multi-disciplinary practice	bhp law	1
+Mystical mind-trippers	bhagwan sri rajneesh	1
+nice 9mm handgun	bhp	1
+nimble-footed private mobile phone firm	bharti airtel	2
+note raga	bhupali	1
+not-so-subtle, O-T-T thriller	bhool bhulaiyaa	1
+nsd's theater festival	bharat rang mahotsav	1
+old-world company	bharat forge	1
+online squad	bhd	1
+onwards person	bharatha	1
+open-systemists	bhaskar	1
+opinion extreme liberal	bho	1
+organo-chlorine insecticide	bhc	2
+oxidation stabilizer	bha	2
+pan india mobile operator	bharti airtel	1
+pancha mahaparusha yoga	bhadra yoga with mercury exalted	1
+passive infrastructure player	bharti airtel	1
+petroleum sector company	bharat petroleum	1
+pharmaceutical companionship	bharat biotech	1
+powerful breathing technique	bhastrika	1
+preseratives	bht	1
+prestigious medal	bharat ratna medal	1
+prime tribe	bhutias	1
+private mobile phone firm	bharti airtel	3
+promo voucher	bh cosmetics coupon code	1
+pther location	bharat mandir	1
+public sector steel plant	bhilai	1
+punjab's evergreen folk dance	bhangra	1
+radical notion	bhutan's gross national happiness index	1
+Ragis	bhai sahib samund singh ji	1
+red rice variety	bhama	1
+reg-ulatorsofapoptosis	bh three  interacting domain death agonist 	1
+reputed industry	bharat heavy electricals limited	1
+resource industry partner	bhp billiton	1
+resource sector giant	bhp billiton	1
+revisionist leader	bhattarai	1
+right-wing-political party	bhartiya janata party	1
+RSS constituent	bharatiya mazdoor sangh	1
+sacred hindu writing	bhagavad gita	1
+savage tribe	bheels	1
+school TF technique	bhop	1
+secondary steel maker	bhushan steel	1
+method	bhakti	1
+serene and beautiful spot	bhim tal	1
+severe tragedy	bhopal gas tragedy in the past	1
+Shlokas	bhojan mantra	1
+small rivulet	bhuki khadi in amod	2
+south asian american woman writer	bharati mukherjee	1
+South Indian danceform	bharathanatyam	1
+south-based jeweller	bhima	1
+specialist tower firm	bharti infratel ltd	1
+spicy recipe	bhel puri	1
+spinal twist	bharadvaja's twist	1
+spiritual yoga practice	bhakti yoga	1
+staff-heavy company	bharat coking	1
+stately Varnams	bhairavi	1
+state-run energy retailer	bharat petroleum corp ltd	3
+stellar rise	bhi	1
+stimulating pranayamas	bhastrika	1
+straight monopoly	bhp	1
+student traditional dance form	bhangra	1
+successful small film	bheja fry	1
+sunrise raga	bhupalam	1
+tamil literary genre	bhakti poetry	1
+telecoms share	bharti airtel	2
+TennCare information	bho	1
+tissue culture cell	bhk cell	1
+top mobile operator	bharti airtel	3
+top telecom firm	bharti airtel	1
+top world miner	bhp billiton plc	1
+totemic clan	bhakta	1
+traditional demand-based system	bhadra project	1
+traditional synthetic antioxidant	bht	1
+trans-saraswat surname	bhat	1
+true, australian miner	bhp billiton	2
+uk-wide study	bhps	1
+umteen ancient oriental culture	bharat	1
+university-affiliated school	bharathidasan institute of management	1
+uttarakhand himalaya certain tribal population	bhotias	1
+varios clan	bhatti	1
+Vedic evidence	bhagavadgita	1
+wacky number	bhag bhag dk bose	1
+well-established sectarian movement	bhakti	1
+well-known accident	bhopal	1
+wholesome bread	bhakris in indian cooking	1
+world mining giant	bhp billiton	1
+world-class monopoly	bhp	1
+world's largest miner	bhp billiton	1
+world's largest mining company	bhp	2
+yogic breathing program	bhramari pranayama	2
+yojnas	bharat nirman yojna	1
+project	bhp's uranium	2
+project	bhagidari program	2
+project	bharatiya vidya mandir school	1
+project	bhakra nangal	1
+project	bhuvan	1
+project	bhumi vardaan foundation in india	1
+project	bhainsepati apartments	1
+project	bharat forge's proposed sez near pune	1
+project	bhp billiton's olympic dam expansion	1
+project	bhoomi	1
+artist	bhob rainey	2
+artist	bhinda jatt	1
+artist	bhupen khakhar	1
+artist	bhushany kalyanaraman	1
+material	bhc	2
+place	bhopal	8
+place	bhutan	6
+place	bhagalpur	2
+place	bharat boarding house	2
+place	bhaktapur	2
+place	bhaja caves	2
+place	bhagirathi	2
+place	bhitarkanika	1
+place	bh photo	1
+place	bhubaneshwar	1
+place	bhutan on a map	1
+place	bhola	1
+place	bhojpur	1
+place	bher el ghazel	1
+place	bhiwani	1
+place	bham	1
+place	bhiwandi	1
+place	bhawanipatna	1
+place	bhuleshwar	1
+place	bhubaneswar	1
+player	bharti airtel	11
+player	bharti	9
+player	bhp billiton	9
+player	bharti walmart	3
+player	bharat forge	2
+player	bhavna de	2
+player	bharati shipyard	1
+player	bhaichung	1
+player	bhel	1
+player	bhushan steel	1
+player	bharati axa	1
+player	bharatstudent	1
+player	bharti axa life	1
+player	bharat forge-alstom	1
+player	bhanuka rajapakse	1
+player	bhp	1
+product	bhp zincalume	1
+product	bhuin limba	1
+term	bhang	2
+term	bharat	1
+term	bhakti-sakti	1
+term	bhagti-maarag	1
+term	bhindian	1
+parameter	bh operation parameter	1
+system	bhakti	2
+species	bhutan glory	1
+species	bhutan glory bhutanitis lidderalii	1
+species	bhutan laughingthrush	1
+measure	bhattacharyya distance	1
+measure	bharat iii norms for engines for automobile	1
+measure	bhattacharyya divergence	1
+product	bh circuit breaker related product	1
+product	bht	1
+product	bhc	1
+function	bhat	1
+device	bht placed on the cu- seven hundred and thirty-three 	1
+brand	bhs	2
+brand	bharat petroleum	2
+brand	bhl	2
+brand	bharati axa	1
+brand	bharti axa	1
+brand	bh road bike	1
+brand	bh fitness from spain	1
+concept	bhakti	2
+concept	bhumidevi	1
+component	bhumibol dam	1
+aspect	bhoomi pooja	1
+site	bhira dam	1
+site	bhiwandi	1
+site	bhimbetka	1
+related product	bh circuit breaker related product	1
+factor	bhca	3
+product	bh  ten thousand and eleven  buckets coolers holders 	1
+product	bha	1

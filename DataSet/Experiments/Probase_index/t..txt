@@ -1,0 +1,997 @@
+product	t. v. ant . socket	1
+resource	t.v. program	1
+facility	t.v.	1
+source	t.r sullivan	1
+game	t.i.e. game	1
+character	t. hawk	3
+work	t. sine s wild hope	1
+work	t. h. white	1
+work	t. c. banwell	1
+model	t.k. homogeniser	1
+attraction	t.d waterhouse	1
+institution	t. rowe price associates	1
+client	t. rowe price	1
+document	t.c. of the previous school	1
+author	t. s. eliot	7
+author	t. m. aluko	2
+author	t.s.eliot	2
+author	t.s eliot	2
+author	t. davis bunn	1
+author	t. austin sparks	1
+author	t. v. olson	1
+author	t.s. elliot	1
+feature	t. thirty-eight  fax relay 	5
+author	t. s. elliot	1
+author	t. schumacher	1
+author	t. jefferson parker	1
+author	t. s. rukmani	1
+author	t.l cooper	1
+form	t. magna	1
+person	t. boone pickens	2
+person	t. b. donaldson	1
+person	t.o	1
+person	t. wizard	1
+idea	t. cook's	1
+writer	t. s. eliot	15
+writer	t. h. white	2
+writer	t. e. d. klein	1
+writer	t. j. clark	1
+writer	t. jefferson parker	1
+writer	t. anderson	1
+writer	t.s.eliot	1
+writer	t.  two hundred and eighty-eight 	1
+writer	t. berry brazelton	1
+solution	t.home building management software	1
+feature	t.probe chip for stats monitoring	1
+feature	t.v. shows through amazon prime	1
+book	t. s. eliot's wasteland	1
+book	t. sine s wild hope	1
+book	t. s. eliot s the waste land	1
+book	t. h. white's sword	1
+star	t.i.	2
+star	t. graham brown	1
+film	t. b. testing program	1
+band	t.s.o.l.	3
+band	t.rex	1
+band	t.s.o.l	1
+band	t.v smith	1
+band	t.a.t.u.	1
+band	t. rex	1
+amenity	t.v.	1
+food	t.v. style dinner	1
+ingredient	t. alatus	1
+scholar	t. j. jackson lears	2
+scholar	t. harry williams	1
+scholar	t. s. ashton	1
+scholar	t. dothan	1
+scholar	t. a. smith	1
+scholar	t. c. skeat	1
+celebrity	t.i.	12
+celebrity	t.i	3
+disease	t.b.	3
+firm	t. rowe price	10
+firm	t.rowe price	1
+firm	t. m. brennan & company of nashville	1
+job	t.k maxx	1
+job	t.v salesman	1
+test	t.l.c study	1
+treatment	t.e.n.s device	1
+act	t.i.	3
+act	t.i	1
+act	t.rex	1
+man	t. e. cliffe leslie	1
+man	t. alonzo napier	1
+man	t. m. qeland in the united states	1
+man	t. t. shields	1
+man	t. d. alexander	1
+man	t. s. matthews	1
+man	t.o	1
+study	t. schreiner's the law	1
+individual	t. boone pickens	1
+individual	t.k. from milk magazine	1
+figure	t.i.	2
+figure	t. e. lawrence	1
+figure	t. s. eliot	1
+leader	t. l. osborn	1
+leader	t. harv eker	1
+leader	t. c. douglas	1
+musician	t. gosney thornton	1
+musician	t. brinda	1
+instance	t.e.l.o. s internal violence	2
+entity	t.v. station	1
+expert	t. boone pickens	5
+expert	t. colin campbell	2
+expert	t. edison	1
+researcher	t. colin campbell	1
+researcher	t. g. r. bower	1
+researcher	t. tsou	1
+researcher	t. h. chen	1
+variety	t. don quixote	1
+animal	t. diomedea	2
+big name	t.i.	2
+big name	t.v. video streaming-service hulu	1
+big name	t. j. miller	1
+big name	t. s. eliot	1
+big name	t. jefferson parker	1
+show	t.v. variety show	1
+show	t. o s week of style	1
+club	t.t. the bear's place	1
+influence	t.i.	7
+influence	t.rex	5
+influence	t. rex	2
+influence	t. rexand queen	1
+influence	t.i	1
+critic	t. s. eliot	5
+critic	t. k. abbott in sight	1
+critic	t. e. hulme	1
+vehicle	t.v. broadcasting	2
+vehicle	t.v. advertising	2
+opportunity	t.v. program	1
+restaurant	t.g.i fridays	1
+article	t. dozeman's exemplary article on numbers	1
+article	t. lynn smith's brazilian cowboys'',	1
+student	t. j. hancock	2
+student	t. rukmini	1
+provider	t. rowe price	1
+provider	t. rowe price group inc	1
+speaker	t. boone pickens	1
+speaker	t. george harris	1
+guest	t.i.	3
+gift	t. shirt	1
+performer	t. rajam	3
+performer	t. n. krishnan	2
+performer	t.i.	1
+performer	t. krishnan	1
+state	t.n.	1
+weapon	t.o.w. missile	1
+great	t.i.	1
+great	t. bonner	1
+image	t.v. show	1
+producer	t. blaze	1
+channel	t.v.	1
+luminary	t. colin campbell	1
+utility	t.v. cable	1
+friend	t. flowers	1
+friend	t. b. walker	1
+tree	t. arjuna	1
+platform	t.v. broadcasting	3
+platform	t.v. advertising	2
+local attraction	t. ed garrison arena	1
+scientist	t. dobzhansky	2
+scientist	t. h. huxley	1
+historian	t. zelensky	2
+historian	t. harry williams	1
+historian	t. j. jackson lears	1
+historian	t. r. dew	1
+organism	t.brucei	1
+upgrade	t. v. shelf	1
+upgrade	t.v. shelf	1
+teacher	t. d. mayo	2
+athlete	t.o	1
+shop	t. m. lewin	1
+personality	t.o	1
+fund	t. rowe price financial services	3
+fund	t. rowe price new era	3
+fund	t. rowe price tax-efficient balanced fund	2
+fund	t. rowe price's new asia fund	1
+fund	t. rowe price high yield bond fund	1
+fund	t. rowe price	1
+fund	t. rowe price mid-cap growth	1
+fund	t. rowe price emerging markets stock	1
+fund	t. rowe price equity-income	1
+paper	t. p. billings writings on the history of mining in utah	1
+small item	t.v.	1
+park	t. bayles minuse park	1
+museum	t.ivanauskas zoological museum	2
+director	t. v. raju	1
+illness	t.b.	1
+appliance	t.v.	2
+poet	t. s. eliot	7
+poet	t. s. elliot	1
+poet	t.s.eliot	1
+poet	t. s. elliot of the twelfth century	1
+poet	t.s elliot	1
+poet	t.s eliot	1
+industry leader	t. rowe price	1
+industry leader	t.o.b.a	1
+commentator	t. marshall	1
+cell	t. oceanica	1
+specialist	t. prendergast	1
+specialist	t. pendergast	1
+investor	t. boone pickens	3
+investor	t. rowe price group	1
+investor	t. rowe price	1
+mediums	t.v. show	1
+giant	t. rex	1
+contemporary	t. s. eliot	1
+hit	t.o.p	1
+rider	t.j ellis	3
+wine	t.finest ken forrester cheni n blanc	1
+wine	t.finest provence rose	1
+distraction	t.v.	5
+distraction	t.v. while eating	1
+distraction	t.v & phone	1
+family	t. rowe price	4
+analyst	t. schelling	1
+necessity	t.p. roll	1
+enzyme	t. cruzi cathepsin b	1
+stimulus	t.v.	2
+official	t. v. soong	1
+famous name	t. s. eliot	1
+ailment	t.b. gallstone	1
+superstar	t.i.	1
+superstar	t.i	1
+invention	t.v.	2
+selection	t.v. entertainment center	1
+item	t.v. remote	5
+publisher	t. fitzwilliam	1
+publisher	t.werner laurie	1
+financial institution	t.rowe price	1
+pathogen	t. pallidum	1
+opponent	t. a. smith	1
+luxury	t.v. for a long time	1
+basic service	t.v. set	1
+load	t.v.	1
+airport	t. f. green	1
+pest	t. absoluta	2
+food product	t. marzetti dips	1
+painting	t. b. harlem	1
+communication	t. thirty-eight 	1
+medium outlet	t.v. network	1
+medium outlet	t.v. show	1
+donor	t. w. garner	1
+contributor	t. h. huxley	1
+critical area	t.a. duct	1
+heavyweight	t.i.	1
+heavyweight	t.i	1
+artiste	t.i	1
+recreational facility	t.t. room	1
+modern amenity	t.v.	3
+connection	t.s elliot	1
+winner	t. truxtun hare at penn	1
+modern technology	t.v.	2
+republican	t. bone pickens	1
+modern convenience	t.v.	1
+stalwart	t.l.venkatarama aiyar	1
+stalwart	t. t. sankaradas swamigal	1
+stalwart	t.l.venkatarama iyer	1
+item	t.v. cart with the television	1
+item	t.v. s	1
+nickname	t.r.	1
+business service	t.v. writing board	1
+television program	t. j. hooker	1
+television program	t.j hooker	1
+colleague	t. h. huxley	1
+modern facility	t.v. with cable connection	1
+claim	t.a.	1
+fungus	t. virens	1
+patient	t. g.	1
+parasite	t. gondii	2
+parasite	t.brucei	1
+parasite	t. bruceior p. falciparum	1
+entrepreneur	t. boone pickens	4
+entrepreneur	t. boone pickens for making a profit by selling scarce water	2
+advocate	t. j. ferguson	1
+peer	t.n.krishnan	2
+peer	t. timmons	1
+headliner	t.i.	2
+public area	t.v. room	1
+statistical method	t. test	3
+light	t.v screen's off light	1
+item	t.v.	1
+item	t.v. receiver	1
+TV series	t.j hooker	2
+distributor	t.n.t	1
+intellectual	t. s. eliot	1
+professor	t. colin campbell	2
+rapper	t.i.	13
+rapper	t.i	8
+rapper	t.o.p	3
+rapper	t.i & kanye west	1
+rapper	t.i.p	1
+recording artist	t. graham brown	1
+popular artist	t.i.	1
+powder	t. le clerc	1
+liberal	t. h. green	2
+receiver	t.j lawrence	1
+market leader	t. rowe price use alexus hr	1
+reputable company	t. rowe price	1
+drama	t. s. eliot's murder in the cathedral	1
+area	t.nagar	2
+famous musician	t. m. stevens	1
+musical influence	t. nash	2
+musical influence	t.i.	1
+guest artist	t.i.	1
+electrical appliance	t.v. certain children toy	1
+guitarist	t. bone walker	1
+consumer electronics	t.v. s	1
+innovator	t. boone pickens	1
+institutional investor	t. rowe price	2
+institutional investor	t. rowe price group	2
+institutional investor	t. rowe price of baltimore	1
+institutional investor	t. rowe price group inc.	1
+local venue	t.t. the bear's place	1
+national program	t. b.	1
+industry expert	t. boone pickens	1
+established artist	t.i.	1
+vocalist	t.o.k	9
+teaching aid	t.v.	1
+high traffic area	t.v. room	1
+vice	t.v. mass cultures of corrupt private	1
+threatened species	t. wallichiana	1
+top artist	t.i.	1
+large institution	t. rowe price	1
+electronic item	t.v.	1
+electronic item	t.v. s	1
+musical artist	t.i.	1
+documentary	t.c mcluhan's about the non-violent activist badshah khan	1
+music artist	t.i	1
+top manufacturer	t.c.	1
+night	t.a.b euphonic	1
+household appliance	t.v.	1
+MPs	t. siva	1
+acronym	t.c.w.	2
+acronym	t.n.t.	1
+visionary	t. makiguchi	1
+communication service	t.v. station	1
+outdoors	t.v. game	1
+weed species	t. stans	1
+famous writer	t. coraghessan boyle	2
+preacher	t. dewitt talmage	1
+antihistamine	t. piriton	1
+communication protocol	t. thirty-eight 	1
+social scientist	t. h. kuhn	1
+Large species	t. ananas	1
+natural enemy	t. chilonis ishii	1
+advertisement	t.v commercial	1
+famous author	t. s. eliot	1
+nominee	t.i	1
+local industry	t. mcavity& sons	1
+household good	t.v.	1
+boxer	t. conway	1
+modern artist	t.s eliot	1
+news source	t.v. new	2
+permit	t.v.a. crossing	1
+shooter	t. j. solomon	1
+time period	t.sub. zero   one hundred and fifty-five 	1
+time period	t.sub. one   one hundred and fifty-seven 	1
+commercial company	t.fisher unwin	1
+mainstream artist	t.i.	1
+modern writer	t. s eliot	1
+modern device	t.v.	1
+blue artist	t. bone walker	2
+team sport	t. ball	1
+arm	t. armas	1
+recruit	t.m.'s late-sixty recruit	1
+fund manager	t. rowe price	1
+primate	t. b. brucei-resistant  primate	1
+dinosaur	t. rex	5
+hip-hop artist	t.i	1
+historic figure	t. e. lawrence	2
+mutual fund	t. rowe price international discovery	2
+mutual fund	t.rowe price	1
+historical character	t. e. lawrence	1
+public health measure	t.b. surgery	1
+service	t.v. repair	1
+classic author	t.s.eliot	1
+electronic appliance	t.v. s	2
+electronic appliance	t.v. s stereo	1
+brokerage	t. rowe price	1
+hip hop artist	t.i	1
+standard protocol	t. thirty-eight 	4
+rap artist	t.i.	2
+dissident	t. thomas fortune	1
+porn star	t. t. boy	1
+big act	t.i.	1
+music icon	t.i	1
+great author	t. s. eliot	1
+investment company	t. rowe price	2
+political philosopher	t. h. green	1
+brokerage firm	t. d. waterhouse	1
+traditional medium	t.v. radio	1
+value-added feature	t. thirty-eight  fax origination 	1
+human pathogen	t. gondii	1
+elective class	t.v. production	1
+viewer	t. s. eliot	1
+progressive	t. roosevelt	1
+black	t. willard fair	1
+statistical approach	t. test	2
+African Americans	t. thomas fortune	1
+financial service company	t. rowe price	1
+transistor	t.sub. one  shown at fig 	1
+modernist	t. s. eliot	4
+notable author	t. nicole	2
+notable author	t. styles	1
+high-profile figure	t. boone pickens	2
+investment firm	t. rowe price	5
+institutional client	t. rowe price group	1
+renowned name	t. colin campbell	1
+pornstars	t. t. boy	1
+thermal property	t.sub.g of  one 	1
+notable personality	t.i	1
+key leader	t. h. busby	1
+literary great	t.s eliot	1
+germ	t. pallidum	1
+country star	t. g. shepard	3
+young person	t. chepang	1
+popular celebrity	t.i.	1
+well-known poet	t.s eliot	1
+financial service firm	t. rowe price	1
+subspecies	t. p. nataliae of siberia	6
+asset manager	t. rowe price	1
+secondary infection	t.b.	1
+electronic medium	t.v. internet	1
+great athlete	t.o	1
+accomplished artist	t.i	1
+british band	t. rex	1
+big buyer	t. morgan & sons ltd.	1
+protozoon	t. gondii	1
+abolitionist	t. w. higginson	1
+forage species	t. repens	1
+top leader	t. harv eker	1
+intestinal parasite	t. trichura	1
+comrade	t. l. milligan	1
+contemporary philosopher	t. nagel	1
+opportunistic pathogen	t. gondii	1
+art historian	t. j. clark	1
+dangerous disease	t.b.	1
+topic	t. v	1
+topic	t. a history of greek mathematics	1
+high use area	t.v. room	1
+integrated function	t.  thirty-eight  fax demodulators 	1
+japanese firm	t.hasegawa co.	1
+millionaire	t. cullen davis	1
+christian author	t.d jakes	1
+contemporary poet	t. s. eliot	1
+hallucinogen	t.c.p.	3
+hallucinogen	t.h.c. peyote	1
+hallucinogen	t.h.c.	1
+secondary parameter	t.o.g.w.	1
+mutual fund company	t. rowe price	15
+mutual fund company	t.rowe price	2
+mutual fund company	t. rowe price associatesinc.	1
+incurable disease	t.b.	1
+american poet	t. s. eliot	1
+academic support service	t. a. s	1
+company	t. rowe price	12
+conservationist	t. w. needham	1
+country legend	t. g. sheppard	1
+well-known scholar	t. f. torrance	1
+domestic species	t. infestans in the southern cone country	1
+encodings	t. sixty-one - eight bit 	1
+adventurer	t. e. lawrence	1
+great entertainer	t.i.	1
+modern poet	t. s. eliot	3
+pen name	t. seuss	1
+modern addition	t. v. aerial	4
+modern addition	t.v. aerial	4
+modern addition	t.v aerial	1
+southerner	t. thomas fortune	1
+company	t.rowe price	1
+reputable firm	t. rowe price	2
+admirer	t.s eliot	1
+co-workers	t. f. w. barth	1
+Resistance training	t.o. s resistance band	1
+pathogenic species	t. brucii	1
+amphibian species	t. drawing on film theory	1
+prominent citizen	t. c. carroll	1
+commuter	t. ravikumar	1
+fund family	t. rowe price	10
+renowned figure	t. e. lawrence	1
+conservative critic	t. j. mathias	1
+initial	t. j.	1
+investment manager	t. rowe price	1
+unpublished material	t.v. ephemera	1
+company	t. rowe price associates inc.	1
+company	t. rowe price group inc.	1
+company	t. s. simms co.	1
+label artist	t.i.	1
+linkage	t.v. cable for proper movement during the entire range of usage	1
+common parasite	t. leonina	1
+musical geniuses	t.i.	1
+rap star	t.i	2
+powerful spell	t. bolt	1
+prominent business	t. p. white & sons funeral home	1
+activity	t.e.l.e.s.c.o.p.e. events for school	1
+senior artist	t. rukmini	1
+nutritionist	t. colin campbell	1
+well-known speaker	t. boone pickens	1
+modernist writer	t.s.eliot	1
+person name	t. rowe price	1
+mutual fund house	t. rowe price	1
+non-destructive method	t.d.r method	1
+network site	t.v. network site	1
+activity	t.v.	1
+activity	t.d.y.c. member pete atkins	1
+conservative democrat	t. coleman andrews	1
+republican president	t. roosevelt	1
+urban artist	t.i.	1
+world class client	t. rowe price	1
+aerobic organism	t. roseum	2
+big shop	t. rowe price	1
+bond fund	t. rowe price international bond fund	1
+bond fund	t. rowe price international bond	1
+southern artist	t.i.	2
+easy fix	t.v.s in the old part of the hotel	1
+Orientalists	t. carlyle	1
+prank	t.p. in room	2
+trend setter	t.i	1
+western influence	t.v.	1
+wonder company	t. marzetti	1
+deist	t. jefferson	1
+rap	t.i.	1
+secular artist	t.i.	1
+large outfit	t. eaton	3
+prestigious line	t.v. commercial	1
+runway show	t.v commercial	1
+transformational leader	t. harv eker	1
+balanced fund	t. rowe price spectrum income	1
+broker-dealers	t. rowe price	1
+international fund	t. rowe price international stock	2
+international fund	t. rowe price international	1
+pro player	t.j ward	1
+raider	t. boone pickens	1
+sociological theory	t. h. marshall's	2
+big institutional investor	t. rowe price	1
+parasitic protozoon	t.brucei	1
+progressive writer	t. davis	1
+quality artist	t.i.	1
+small number	t. rowe price	2
+twentieth-century poet	t. s. eliot	1
+corporate raider	t. boone pickens	2
+frozen food item	t.v. dinner	1
+Hydroperoxides	t.pentyl hydroperoxide	1
+Hydroperoxides	t.butyl hydroperoxide	1
+nitrogen-fixing plant	t. repens	1
+online brokerage	t. rowe price	1
+plan provider	t. rowe price	2
+plan provider	t. rowe price associates	1
+professional teacher	t. m. nicholas	1
+british philosopher	t. h. green	1
+discount brokerage	t. rowe price	1
+literary legend	t. s. eliot	1
+online calculator	t. rowe price's retirement income calculator	3
+Otheres	t. s. eliot	1
+traditional new outlet	t.v.	1
+apicomplexan parasite	t. gondii	1
+intermediate species	t. trogii berk	1
+mission activity	t.v. access	1
+pediatrician	t. berry brazelton	1
+poker superstar	t. j. cloutier	1
+terrace	t. eleven 	1
+large fund company	t. rowe price	1
+large fund company	t.rowe price	1
+male rapper	t.i.	1
+optical mean	t.v. camera	1
+top vocalist	t.bone walker	1
+gangsta rapper	t.i.	1
+high-profile firm	t. rowe price	1
+treponemal test	t. pallidum particle agglutination test	1
+american rapper	t. pain	1
+make-up line	t. le clerc cosmetics	1
+modernist poet	t. s. eliot	3
+modernist poet	t.s eliot	2
+event	t.v campaign	1
+event	t.b day	1
+british scholar	t. w. manson	1
+doyen	t.n.krishnan	1
+doyen	t.k.murthy	1
+micro alga	t. tetratheca	1
+neo-classical economist	t. w. schultz	1
+popular president	t.r.	1
+wheat	t. durum	1
+british contemporary	t. s. eliot	1
+gastrointestinal nematode	t. ovis	1
+high modernist	t. s. eliot	1
+high quality candle	t. light candle	1
+infection disease	t.b aids	1
+large screen	t.v screen	1
+military strategist	t. e. lawrence	1
+progressive liberal	t. h. green	1
+progressive liberal	t. h. marshall	1
+traditional fund	t. rowe price new era	1
+zoonotic parasite	t. canis	1
+beloved figure	t. berry brazelton	1
+capable individual	t. kumar	1
+colonial administrator	t. e. ravenshaw	1
+common household noise	t.v.	1
+contemporary teacher	t. harv eker	1
+large financial firm	t. rowe price	1
+literary celebrity	t. jefferson parker	1
+rap superstar	t.i	1
+traditional sponsor	t. s. mahalingam sons	1
+traditional sponsor	t. s. mahalingam & sons	1
+unelected institution	t.v	1
+anchor investor	t. rowe price	1
+clearly artist	t.i.	1
+event	t.v. program	1
+excellent student	t. lenz	1
+impressive speaker	t. berry brazelton	1
+modern liberal	t. h. green	1
+mutual-fund company	t. rowe price	2
+spirochete	t. pallidum	4
+world-class trainer	t. harv eker	1
+great modernist writer	t. s. eliot	1
+mutual fund firm	t. rowe price associates in baltimore	2
+program	t.v. production	1
+program	t.i.m.e. while valuable	1
+program	t.o.p	1
+no-load mutual fund company	t. rowe price	2
+smut star	t. t. boy	1
+television hit	t. j. hooker	1
+top-notch name	t. rowe price	2
+young rapper	t.i.	1
+american rap artist	t.i.	1
+bipedal dinosaur	t. rex	2
+canadian lending institution	t.d.canada trust	1
+catholic society	t.a.b.	1
+joining brand	t. marzetti	1
+modern audio-visual aid	t.v.	5
+movable control surface	t.rim tab	1
+peak performance expert	t. harv eker	2
+program	t. rowe price's automatic asset builder	1
+renowned entertainer	t.i.	1
+british idealist	t. h. green	1
+coaching institute	t.i.m.e.	1
+critically-acclaimed and bestselling author	t. jefferson parker	1
+dynamic and explosive international trainer	t. harv eker	1
+EC member	t. jones	1
+engineering consulting firm	t. baker smith & son inc.	1
+flashy player	t.o	1
+Foothill species	t. tricolor	1
+good lawyer	t. clay	1
+great stalwart	t.l.venkatrama iyer	1
+japanese electric appliance	t. v. stereo component	1
+large mutual fund company	t. rowe price	3
+large no-load mutual fund family	t. rowe price	1
+largest institutional investor	t. rowe price	1
+load mutual fund company	t. rowe price	1
+modern day marvel	t.i.	1
+normal in-house facility	t.v.	1
+police district	t. nagar	1
+popular minister	t. dewitt talmage	1
+southern based rapper	t.i.	1
+traditional mutual fund	t. rowe price international bond	2
+darwin's contemporary	t. h. huxley	1
+essentialists	t. h. huxley	1
+famous westerner	t. e. lawrence	1
+genius singer	t.n sheshagopalan	1
+genius teacher	t. harv eker	1
+investment organization	t. rowe cost group	1
+longtime writer	t. thorn coyle	1
+modern perversion	t.e.v.	2
+politically important visitor	t. e. lawrence	1
+organization	t. rowe price	3
+southern act	t.i.	7
+Tilapia species	t. aurea	1
+Tilapia species	t. mariae	1
+traditional money manager	t. rowe price	1
+unnecessary machine	t.v. s	1
+well-established family	t. rowe price	1
+big mutual-fund family	t. rowe price	1
+big name country artist	t. graham brown	1
+diazotrophs	t. erythraeum found regularly off west florida beach	1
+english-language poet	t. s. eliot	1
+organization	t. rowe price program for charitable giving	1
+exceptional figure	t. h. green	1
+expert chef	t. h. white	1
+famous dinosaur	t. rex	1
+fruitful event	t.e.e course	1
+good balanced fund	t. rowe price's capital appreciation	1
+high-yield fund	t. rowe price	1
+international stock fund	t. rowe price international	1
+literary modernist	t. s. eliot	1
+no-load fund company	t. rowe price	1
+no-load fund family	t. rowe price	1
+notable japan's musician	t.m revolution	1
+pioneer worker	t. m. steward	1
+PREFACE writer	t. collings	1
+soft-leaved mesic tillandsias	t. punctulata	1
+soft-leaved mesic tillandsias	t. deppeana	1
+soft-leaved mesic tillandsias	t. leiboldiana	1
+soft-leaved mesic tillandsias	t. imperialis	1
+south rapper	t.i.	1
+st. louis artist	t. gunn	1
+techno destroyer	t. raumschmiere tim wright	1
+U.S. fund company	t. rowe price group	1
+well-known financial service firm	t. rowe price group	1
+well-known peak performance expert	t. harv eker	3
+White-rot basidiomycetes	t. versicolor	1
+adventure dress brand	t.e. belstaff jackets womens [www.belstaffjacketsleather.com	1
+adventure dress brand	t.e. belstaff jackets womens lawrence	1
+aggressive fund	t. rowe price high yield in the moderate mix	1
+asset-management company	t. rowe price group inc.	1
+best fund firm	t. rowe price	1
+carnatic music luminary	t.n. sheshagopalan	1
+commission-free provider	t. rowe price	1
+conventional mutual finance company	t. rowe price	1
+cricket species	t. commodus	1
+D. special permit	t.v.a. crossing	1
+dinosaur model	t. rex	1
+efficient mutual fund company	t. rowe price	1
+enjoyable, immediate activity	t.v.	1
+erotica book	t. styles	1
+established, larger casual-dinnerhouse brand	t. g. i. friday's	1
+facsimile protocol	t. four 	1
+facsimile protocol	t. thirty 	1
+flute maestro	t. r. mahalingam	1
+formidable musician	t.i.	1
+HEALTH PROTECTION condition	t.b.	2
+hip-hop and artist	t.i	1
+juggernaut artist	t.i.	1
+key swimmer	t. maynard	1
+large no-load mutual fund company	t. rowe price	1
+large, reputable fund family	t. rowe price	1
+local czech writer	t. siefert	1
+mexican spot	t. puebla	1
+mutual fund site	t. rowe price	1
+Natal species	t. dubia	1
+no-load mutual fund	t. rowe price international	1
+application	t.v. guide	2
+nutritional researcher	t. colin campbell	1
+physical anthropologist	t. j. robinson	1
+polish act	t. love	1
+prestigious american writer	t. capote	1
+prestigious american writer	t. wolfe	1
+protozoal pathogen	t. gondii	1
+respected workshop instructor	t. m. nicholas	1
+solid level surface	t.v. tray	3
+street fighter character	t. hawk	1
+ther popular band	t.v. on the radio	1
+tillandsias	t. multiflora benth	1
+top indian contemporary artist	t.v santhosh	1
+top-notch rap artist	t.i.	1
+world top trainer	t. harv eker	1
+yesteryear stalwart	t. chowdiah	1
+advanced liberal	t. h. green	1
+Annual clover species	t. resupinatum l.	2
+atlanta-based rapper	t.i	2
+baltimore investment firm	t. rowe price	1
+big US mutual fund	t.rowe price	1
+bon scott era classic	t.n.t	1
+bowlby-influenced psychologist	t. berry brazelton	1
+name	t.i.	3
+name	t. s. eliot	2
+name	t. gainsborough	1
+name	t. row price	1
+child-advocate superstar	t. berry brazelton	1
+classic drag diva	t. c. jones	1
+CMS missionary	t. s. grace	1
+coccidia	t. gondii	1
+co-infection model	t. crassiceps with leishmania	1
+conspicuous recent colonizer	t. helena	1
+contemporary british glam band	t. rex	1
+contempories	t.s elliot	1
+critic-poets	t. s. eliot	1
+distinguished literary leader	t. w. rolleston	1
+employee relation's superintendent	t. e. ewing	1
+english observer	t. e. lawrence	2
+established powerhouse	t. rowe price	1
+established vet reciever	t.o.	1
+european pest	t.b.	1
+eventually physical illness	t.b.	1
+fancy chair factory	t. r. cooper's in schraalenburgh	1
+name	t. j. shelton	1
+name	t. l. osborn	1
+fund shop	t. rowe price	1
+geologic investigation	t.hose for hillside stability	1
+Goniopteris	t. blanda reed	1
+Goniopteris	t. hatchii a. r. smith	1
+good short-term bond fund	t. rowe price short term bond fund	1
+hemlock species	t. chinensis	1
+in-state service provider	t. rowe price in baltimore	1
+investment-advisory firm	t. rowe price	1
+journalistic great	t. thomas fortune	1
+key national restaurant partner	t.g.i friday's	1
+kinematic relationship	t.hose between amplitude	1
+KO move	t.link's smashes	1
+legati	t. carisius	1
+name	t. wydra	1
+name	t.fisher unwin	1
+name	t.j.	1
+name	t. r. glover	1
+name	t. hanna	1
+name	t. rowe price	1
+case	t. toli specimens bought from local fish market in kampung bako	1
+load fund company	t. rowe price	1
+load fund family	t. rowe price	1
+low-cost reputable brokerage	t. rowe price	1
+low-cost, no-load mutual fund company	t. rowe price	1
+machinery improvement	t. p.	1
+male modernist	t. s. eliot	1
+meat-eating giant	t. rex	1
+modem addition	t. r aerial	1
+modern british writer	t. s. eliot	1
+multisector bond fund	t. rowe price spectrum income	1
+music's top artist	t.i	1
+neo-gandhian cultural nationalist	t. n. madan	1
+newest entrant	t. rowe price's adjustable rate u. s. government fund	1
+non-hub airport	t. f. green	1
+Non-specific protein therapy	t.a.b. vaccine	1
+Northern, migratory species	t. iliacus	1
+oil pioneer	t. cullen davis	1
+osmilio	t. michelini	1
+osmilio	t. martini	1
+Others Giant Clam species	t. maximum	1
+Others Giant Clam species	t. squamosa	1
+oxford contemporary	t. h. green	1
+parasitic stimulus	t. cruzi glycosylphosphatidylinositol	1
+prominent chinese christian thinker	t. c. chao	1
+prominent raider	t. boone pickens	1
+rajya sabha member	t. subbarami reddy	1
+RJR principal	t. wayne robertson	1
+Small Tabanids	t. virgo	1
+so-called small-cap or midcap manager	t. rowe price new america growth	1
+stored-product insect	t.!castaneum	1
+superfluous name	t. fuana for t. contorta	1
+superfluous name	t. yunnanensis for t. wallichiana	1
+case	t. j. burris	1
+tactical asset allocation fund	t. rowe price balanced	1
+teak wood material	t.w. boxes	1
+Telugu MDs	t.v. raju	1
+top-notch fund family	t. rowe price	3
+Toxocara species	t. cati	1
+Toxocara species	t. canis	1
+typical RV appliance	t.v. s	1
+vidwans	t.k.murthy	1
+Well-known Assyriologists	t. jacobsen	1
+well-known modernist writer	t.s eliot	1
+well-known mutual fund	t. rowe price dividend growth	1
+19th and 20th century Gypsiologists	t. w. thompson	1
+additionally ata04-llsupports various voice enhancement	t. thirty-eight  fax over ip 	1
+allowing billionaire	t. boone pickens	1
+annoying air attack	t.hawk's annoying j. jab	1
+atlantic recording artist	t.i	1
+azooxanthellate cnidarian	t. coccinea lesson	1
+big name recievers	t.o.	1
+bleakest modernist	t. s. eliot	1
+bottom heavyweight	t.i.	1
+Child modeling	t.v. show toddlers & tiara's''	1
+classic scott album	t.n.t.	1
+colorful clam	t. maximum	1
+colorful smaller boring clam	t. maximum	2
+common contagion	t.b.	1
+compression-hose stocking	t.e.d. brand made by kendall	1
+corn shellers	t. e. donnellan	1
+critic's perspective	t.s eliot of freud	1
+darwin's successor	t. h. huxley	1
+demonstrative ts	t. blondi	1
+directly transmitted nematode parasite	t. tenuis	1
+distichous species	t. andicola	1
+diversified natural-resources stock fund	t. rowe price new era	1
+effective competitor	t. caninus for possum habitat in new zealand	1
+effective culturally inspired track	t. hawk's guitar-based wild west anthem	1
+energy advocate	t. boone pickens	1
+energy independence advocate	t. boone pickens	2
+english divine	t. r. malthus	1
+exit detector	t.rex	1
+fax protocol	t. thirty 	1
+Freeze-avoiding species	t. molitor	1
+fund marketer	t. rowe price associates	1
+fund of funds	t. rowe price spectrum growth	1
+G-bacteria	t. japonica	1
+generalist omnivore	t. scripta	1
+good Greek island guide book	t. cook's greek island hopping'' before deciding	1
+Great Sanskritists	t. r. v. murti	2
+guest appearences	t.v. guest appearences	1
+gut infestation	t. trichiura	1
+high-temperature bacterium	t. maritima	1
+independent investment counselor	t. leavell & associates	1
+Indian brethren	t. george fred	1
+inferior truffle	t. indicum	2
+group	t. rowe price investment services inc.	1
+group	t.?rowe price	1
+group	t.e.a party	1
+itu-t-recommended encoding scheme	t. eighty-one  for the encoding of multi-level image 	1
+left wing publication	t.o	1
+light-tolerant species	t. superba	1
+local detroit talent	t. bass green	1
+local natural gas distrubution company	t. w. phillips	1
+Long-lived clonal species	t. repens	1
+matsutake mushroom	t. anatolicum in turkey	1
+medicinal Tanacetum species	t. parthenium	1
+miniature tulip	t. tarda	1
+mitogenic molecule	t. cruzi tc twenty-four -released protein 	1
+Mysterianists	t. nagel	1
+Mysterians	t. nagel	1
+nadaswaram maestro	t. n. rajarathnam pillai	1
+network independent protocol	t. one hundred and twenty 	1
+no-load real estate limited partnership	t. rowe price realty income iv	1
+nominally sympathetic study	t. m. luhrmann's pers uasions of the witch's craft	1
+method	t.v. advertising	3
+method	t.v. broadcasting	1
+nutrition blocking disease	t.b.	1
+Oneness Pentacostals	t. d. jakes	1
+ongoing punishment	t.v restriction	1
+online mutliplayer squad update	t. henry on arsenal	1
+police historian	t. a. critchley	1
+popular videotape	t. d. jakes	1
+previously-announced speaker	t. bone burnett	2
+productivity upgrade	t. thirty-seven  fax-to-email 	1
+progressive decrease intemperate forest taxa	t. heterophyllaand sequoia	1
+prominent energy figure	t. boone pickens	1
+prominent hip hop figure	t.i.	1
+prominent military historian	t. harry williams	1
+Public health	t.b	1
+pulp adventure predecessor	t. t. flynn	1
+rapacious raider	t. boone pickens	1
+short-term bond fund	t. rowe price short-term bond prwbx	1
+so-called catholic author	t. s. eliot	1
+sophisticated digital delay unit	t.c electronic nova delay	1
+southern hip-hop musician	t.i.	1
+Southern literati	t. corraghessan boyle	1
+species giant clam	t. squamosa	1
+spirochete species	t. pallidum	1
+superior large-value option	t. rowe price equity income	1
+sympatric, sibling species	t. mitchelli	1
+Thalassiosira species	t. antiqua	1
+thanks goodness billionaire	t. boone pickens	1
+Tillandsia species	t. mima	1
+time lapse	t.sub. one  in the diagram of fig 	1
+top fund shop	t. rowe price	1
+top WR	t.o	1
+Toxocaraspecies	t. canisand t. cati	1
+Triconiaspecies	t. minuta	1
+Tridentaria species	t. implicans drechsler	1
+Turbonillas	t. fusca adams	1
+well-known pottery factory	t. forester & sons	1
+well-studiednoncomplexed system	t. reeseiandaerobic bacterium	1
+world T	t. blondi	1
+artist	t.i.	40
+artist	t.i	17
+artist	t. graham brown	3
+artist	t.o.k	2
+artist	t.n.t	2
+artist	t.o.k.	2
+artist	t. pain	2
+artist	t. tucker	1
+artist	t. raumschmiere	1
+artist	t. s. monk	1
+artist	t.h.c.	1
+artist	t. kelly mason	1
+artist	t.raumschmiere	1
+artist	t.s monk	1
+artist	t. touch d league	1
+artist	t. g. sheppard	1
+artist	t.a.t.u. s lena katina from russia	1
+place	t.nagar	1
+place	t. phillips	1
+player	t. rowe price	1
+player	t. holloway	1
+player	t.j helmerich	1
+player	t. henman	1
+player	t.j electronic	1
+system	t. one hundred and twenty 	1
+species	t. gigas	2
+species	t. maximum	2
+species	t. rubrovaria	1
+species	t. squamosa	1
+species	t. hermanni	1
+species	t. aestivumhost species	1
+species	t. armena	1
+species	t. ciliata	1
+species	t. digitalis	1
+species	t. tentaculata with similar oral tentacle	1
+species	t. indicum	1
+species	t. grandis	1
+species	t. coccinea	1
+species	t. creekensis thompson	1
+species	t. bergeri	1
+species	t. vesta	1
+species	t. ananas	1
+species	t. farallonensis blake	1
+species	t. forsythia	1
+species	t. brasiliensis in north-eastern brazil	1
+species	t. caput medusae	1
+species	t. ovis	1
+species	t. thalassina	1
+species	t. scripta	1
+species	t. ponderosa	1
+condition	t.m.j. problem	1
+variable	t.v. radio	1
+brand	t.m.lewin	2
+brand	t.g.i friday's	1
+brand	t.u.k.	1
+site	t. nimrin	2
+site	t. f. green airport in providence	2
+site	t.v. network site	1

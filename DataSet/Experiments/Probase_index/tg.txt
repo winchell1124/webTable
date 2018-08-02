@@ -1,0 +1,515 @@
+factor	tgfb	3
+factor	tgf-b	2
+product	tg-type single-acting telescopic cylinder	1
+initiative	tgte	1
+resource	tg four 	1
+process	tga	1
+source	tg m	1
+game	tgm series	1
+model	tghe definitives	1
+institution	tgen	1
+change	tgf-b	1
+client	tgif	1
+client	tgi friday's	1
+approach	tga	1
+star	tgirl mega star	1
+business	tgif	1
+business	tgifridays	1
+title	tgd	1
+agent	tgf-beta two 	1
+disease	tge	1
+entity	tgen	1
+feature	tgo tissue grayscale optimization	1
+format	tga	5
+partner	tgw	1
+classic	tg pool	2
+classic	tg solitaire	1
+vendor	tgx medical	1
+store	tg hughes	1
+store	tg&y	1
+restaurant	tgi fridays	38
+restaurant	tgi friday's	22
+restaurant	tgif fridays	8
+restaurant	tgif	5
+restaurant	tgi friday's nearby	1
+restaurant	tgifridays	1
+restaurant	tgi friday s	1
+restaurant	tgi friday?s	1
+magazine	tgo	4
+magazine	tgo there is mention of camping in the hill	1
+retailer	tgi friday's	2
+retailer	tgi fridays	1
+party	tgp	1
+variation	tgz	1
+line	tgv east	1
+line	tgv	1
+molecule	tgf-b	1
+molecule	tgf	1
+molecule	tgf-beta	1
+chain	tgi friday's	4
+chain	tgif	3
+chain	tgifridays	1
+network	tgn	1
+shop	tgwo in cologne	1
+account	tgi fridays	1
+small item	tghe fuel tank & transmission	1
+factor	tg species composition	2
+factor	tgf alpha	2
+target	tgfbr two 	1
+forum	tgb	2
+gene	tgfbr two 	2
+gene	tgfbi	1
+gene	tgf-beta super-family member involved in directing the fate of posterior development	1
+gene	tgm one 	1
+carrier	tg	2
+community event	tgif game	1
+maker	tg green	1
+substrate	tgf-beta	1
+marker	tgf-beta  one 	1
+establishment	tgi fridays	3
+key player	tgf-beta  one 	1
+datum source	tgb	1
+airline	tg	4
+tenant	tgen	1
+local event	tgif	2
+installation	tg ctss	1
+entry	tgc	1
+member	tgfb superfamily member	1
+member	tgf b superfamily member	1
+coating	tgf-beta	1
+update	tgif restaurant	1
+funding source	tgen	1
+private company	tgm	1
+international brand	tgi friday's	1
+big player	tgif	2
+convention	tgs	2
+specialty product	tgp firelite	1
+by-products	tgs	1
+institute	tgc	1
+franchise	tgi friday's	1
+outfit	tgv rockets	1
+analytical technique	tga	2
+collectible	tgi friday's dome	1
+union	tgwu	8
+biological factor	tgf	1
+growth factor	tgf-beta	11
+growth factor	tgf	10
+growth factor	tgf-b	3
+growth factor	tgf alpha	3
+growth factor	tgf-b & vegf	1
+growth factor	tgf-b one 	1
+growth factor	tgf beta- one 	1
+growth factor	tgf-ma y playa role in the control of liver fibrosis	1
+growth factor	tgf-band basic fibroblast growth factor	1
+growth factor	tgf-b  one 	1
+growth factor	tgf-beta  one 	1
+operating condition	tg	1
+file format	tga	4
+powder	tgic polyester	1
+cytokines	tgf-beta	13
+cytokines	tgf-b	3
+cytokines	tgf-and il- ten 	2
+cytokines	tgfbeta	1
+cytokines	tgfa il four 	1
+cytokines	tgfb	1
+analytical tool	tga	1
+guest star	tg sheppard	1
+national brand	tgi friday's	2
+legendary artist	tg sheppard	3
+wood product	tgi beam	1
+national chain	tgi friday's	3
+national chain	tgi fridays	1
+pathway	tgf-beta signaling	3
+continuous variable	tg	1
+blood test	tgt	1
+strain	tg one 	1
+eatery	tgif friday's	1
+mediator	tgf-beta	1
+hub	tgfbr one 	1
+high quality brand	tgb scooters	1
+train	tgv	5
+train	tgv in france	1
+confounders	tg	6
+small company	tgv rockets	1
+area	tg three 	1
+area	tgn for place	1
+great company	tgi friday's	1
+charity event	tgi fridays night	1
+successful company	tgi fridays	3
+biochemical parameter	tg	1
+iconic brand	tgv	1
+mixer	tgifridays non-alcoholic mixer	1
+characterization technique	tga	3
+characterization technique	tg-dsc	1
+great restaurant	tgi friday's	1
+great restaurant	tgi fridays located near the wingate hotel	1
+service	tgmc outreach opportunity club	1
+chain restaurant	tgi friday's	5
+chain restaurant	tgi fridays	3
+chain restaurant	tgif	3
+chain restaurant	tgifridays	2
+expensive brand	tgm	1
+restaurant chain	tgi fridays	5
+team name	tg tarts	1
+best product	tg	1
+service	tgv	1
+big chain	tgi friday's	1
+television network	tgs sicily	2
+national client	tgi fridays	1
+national client	tgifridays	1
+image format	tga	4
+popular format	tga	1
+external tool	tgiftoedit the style of the contour line	1
+automatic function	tgr metering	1
+member company	tga	1
+area restaurant	tgif restaurant	1
+fast food restaurant	tgi friday's	1
+standard format	tga	1
+technological breakthrough	tgv	2
+genetic marker	tgf-beta one -mrna 	1
+international chain	tgi fridays	1
+soluble factor	tgf-b	1
+soluble factor	tgf	1
+signaling molecule	tgf	1
+food chain	tgi friday's	2
+signaling pathway	tgfb	1
+signaling pathway	tgf-beta signaling pathway	1
+famous restaurant	tgi friday's	1
+rental property	tgateways at randolph	1
+characterization method	tga	1
+metabolic parameter	tg	1
+artificial sweetener	tgs	1
+laboratory method	tga	1
+Inflammatory cytokines	tgf-b	1
+cord	tg audio	1
+blood parameter	tg	1
+incidence	tgn one thousand four hundred and twelve  disaster 	1
+standard file format	tga	1
+characterization	tga	1
+U.S. brand	tgi friday's	1
+company	tgi friday's	5
+company	tgi fridays	3
+common file format	tga file	1
+physicochemical method	tga	1
+bacterial strain	tg one 	1
+ECM protein	tgfbi	1
+setup parameter	tgc	1
+cellular factor	tgf-beta	1
+graphic format	tga	1
+popular file format	tga	1
+commercial place	tgi friday's	1
+mitogens	tgf alpha	1
+scooter	tga breeze	3
+extracellular signal	tgf-beta	1
+company	tgif	1
+company	tgs	1
+thermal method	tga	1
+american chain	tgi friday's	2
+american chain	tgi fridays	1
+front organization	tgte	1
+characterisation technique	tga	1
+successful retailer	tgi friday's	1
+french brand	tgv	1
+promotional offer	tgi friday's bogo coupon	1
+well-known model	tg two thousand five hundred and seventy-six  mouse 	1
+asian carrier	tg	3
+paramagnetic material	tgg	2
+passenger train	tgv	1
+U.S. chain	tgi friday's	2
+U.S. chain	tgif	1
+american retailer	tgt	1
+surveyor	tgs	1
+thermal technique	tga	1
+Anti-inflammatory cytokines	tgf-thatareproduced by th two 	1
+blank	tgm	1
+popular image format	tga	2
+sit-down restaurant	tgi friday's	2
+factor	tgfbeta	1
+national chain restaurant	tgi friday's	2
+national chain restaurant	tgi fridays	1
+physico-chemical method	tga	1
+supergroups	tgt	1
+neutral lipid	tg	1
+descriptive label	tgirl	1
+investigational agent	tgc	1
+pro-angiogenic factor	tgf-alpha	1
+pro-angiogenic factor	tgf-beta	1
+restaurant favorite	tgi friday's chicken bruschetta pasta	1
+scheduled airline	tg	1
+modern analytical method	tga	1
+common image format	tga	2
+growth inhibitor	tgf-b	1
+serum parameter	tg	3
+consolidator	tg tours	1
+grand ole opry star	tg sheppard	1
+inflammatory gene	tgfb two 	1
+up-regulated gene	tgm one 	2
+high speed train	tgv in france	5
+high speed train	tgv	5
+high speed train	tgv operated by thalys	1
+high-speed train	tgv	4
+high-speed train	tgv in france	3
+thermal analysis technique	tga	3
+american food chain	tgi fridays	1
+information	tg curve	1
+information	tgid	1
+cooperative strategy	tgt	2
+famous chain	tgi fridays	1
+material characterization technique	tga	1
+national restaurant chain	tgi fridays	1
+casual dining chain	tgi friday's	1
+popular chain restaurant	tgif	1
+powerful union	tgwu	1
+western staple	tgi fridays	2
+Inhibitory cytokines	tgfb	1
+event	tgf-beta ri activation	2
+picture file format	tga	1
+restaraunts	tgi friday's	1
+burger joint	tgi fridays	1
+image file type	tga	3
+lossless file format	tga	1
+regular chain	tgi fridays	1
+cell signaling molecule	tgfbeta	1
+fast-food place	tgi fridays	1
+high-speed service	tgv in france	1
+high-speed system	tgv	1
+imaging control	tgc pot gain	1
+local bus	tgm x twenty-two 	1
+superfamily member	tgf b superfamily member	1
+superfamily member	tgfb superfamily member	1
+western franchise	tgi friday's	1
+western restaurant	tgi friday's	1
+biochemical indicator	tg level	2
+bitmap format	tga	1
+e-mail list	tgi mormons	1
+fast train	tgv	1
+fast train	tgv in france	1
+national restaurant	tgif	1
+seed source	tgs	1
+standard image extension	tga	1
+wound healing agent	tgf-beta	1
+analytical chemistry technique	tga	1
+cooperative learning technique	tgt	2
+event	tgfbr two  mutation 	1
+event	tg user group meeting	1
+innovative partner	tgt	2
+international theme restaurant	tgi friday's	1
+rasterized image	tga	1
+soluble growth factor	tgfbeta	1
+well-know name	tgi friday's	1
+american commercial industry	tgi fridays	1
+clinical and tumoral factor	tg at iat	1
+clinical and tumoral factor	tg after iat	1
+common image file	tga	1
+corepressors	tgif	3
+immunosuppressive cytokines	tgf-beta	2
+immunosuppressive cytokines	tgf-beta andil- ten 	1
+leading brand name product	tg bespoke	1
+popular restaurant chain	tgi friday's	2
+pyroelectric material	tgs	2
+second-generation AEDs	tgb	2
+successful technology	tgv	1
+western chain restaurant	tgi friday's	1
+archive file format	tgz	1
+high speed service	tgv in france	1
+international train	tgv	2
+international train	tgv from paris	1
+restaurant gift card	tgif	2
+western chain	tgi fridays	2
+cellular regulator	tgf alpha	1
+great dining	tgi fridays	1
+immunomodulatory factor	tgf-b	2
+orlando restaurant	tgi fridays	1
+regulatory audit	tga	1
+spectroscopic and microscopic technique	tga for materials characterization	1
+tumour-derived molecule	tgf-b	1
+U.S. food outlet	tgi friday's	2
+well-known U.S. franchise	tgi friday's	1
+best iphone application	tgi black friday	1
+factor	tg entry into the circulation	1
+factor	tgf beta	1
+disease situation	tge	1
+electric train	tgv	1
+european train	tgv	1
+large restaurant franchise	tgi	1
+mainstream restaurant	tgi friday's	1
+pre-war great	tg jones following lawton out of the goodison exit door	1
+spot event	tgif	2
+stellar source	tgdaily link	1
+stimulating factor	tgf-b	1
+top consumer	tgms	1
+transcriptional corepressors	tgif	1
+unavoidable high street mega-chains	tgi fridays	1
+whitbread brand	tgi fridays	1
+world-renowned chain	tgi friday's	1
+american franchise restaurant	tgi friday's	2
+egf-like growth factor	tgf alpha	1
+end scooter	tgb	1
+organization	tgif	1
+faced various international audit	tga	1
+full service chain	tgif	1
+high speed rail service	tgv in france	1
+large scooter	tga vita	1
+mineralogical datum	tg-dta curve	2
+popular coupon	tgi fridays printable coupon	1
+organization	tg	1
+organization	tgwu	1
+technique	tga	12
+private seed company	tga	1
+tumor-derived molecule	tgf-b	1
+well famous international theme restaurant	tgi friday's	1
+western franchise restaurant	tgi friday's	1
+young client	tgi friday's	1
+32-bit image format	tga	1
+arizona research entity	tgen	2
+Australia's biggest and best cliental	tgis	1
+cell-specific promoter	tg promoter	2
+chain family restaurant	tgi fridays	1
+corporate restaurant	tgi fridays	1
+custom-type powder coating system	tgic-based polyester	1
+detailed characterization	tga	1
+technique	tga-dta	1
+high quality image	tga	1
+high speed line	tgv in france	1
+high speed line	tgv	1
+high-speed rail system	tgv	1
+IAGC member	tgs nopec	1
+IL-1 inhibitor	tgf-beta	1
+infrastructural investment	tgv of the ota airport	1
+intercity train	tgv	1
+large scale railway project	tgv-east in france	1
+like-minded chain	tgi friday's	1
+novel g-protein coupled receptor	tgr five  for bile acid 	1
+outside, various restaurant	tgi friday's	2
+physio-chemical technique	tg-dtg-dsc	1
+powerful visualization tool	tgviztab	1
+precision-guided weapon	tgm- sixty-five  maverick air-to-ground missile 	1
+premier train	tgv	1
+small convention	tgs in toulouse	1
+SNA class	tg one 	1
+strong card	tg's invention poke turn	1
+table service restaurant	tgi friday's	1
+TG social group	tgsf	1
+transgender term	tg	1
+transgenic mouse assay	tg.ac skin paint assay	1
+transgenic mouse model	tg.ac transgenic mouse	1
+32-bit image	tga	1
+abstract growth factor	tgf-beta	1
+apoptosis pathway gene	tgm one 	1
+asymmetric volatility model	tgarch model	1
+business configuration request	tg's	1
+casual sit-down restaurant chain	tgif	2
+cineworld and eating place	tgi fridays	1
+circulating lipid	tg	1
+concept franchise restaurant	tgi fridays	1
+conventional powder coat	tgic-free polyester	1
+conventional powder coat	tgic polyester	1
+conversely viral infection	tge virus	1
+cost-conscious chain restaurant	tgi friday's	1
+differential thermal technique	tga	2
+DNA triplet subsites	tgg	1
+double deck train	tgv duplex	1
+excellent store operator	tgt	1
+extracellular ligand	tgfa	1
+family-style restaurant chain	tgi friday's	1
+name	tgi friday's	1
+name	tgi fridays	1
+name	tgif	1
+french analyst	tgv rollingsr~k division chief an& thinieres	1
+gliogenic factor	tgf	1
+global hemostasis test	tgt	1
+graph program	tge	2
+High speed rail	tgv with speeds of  two hundred and fifty mph 	1
+key corporate sponsor	tgs-nopec	1
+nspc-released pro-angiogenic factor	tgf-band tnf	1
+prc2-repressed target gene	tgfbi	1
+reliable breeder	tga subcool	1
+ride event	tgis	1
+rotation system	tgm rotation	1
+seismic vessel owner	tgs	1
+case	tga	1
+TGFB pathway-related gene	tgfbr two 	1
+tgfbeta superfamily member	tgfbeta	1
+therapeutic drug agency	tga in australia	1
+TINE command line tool	tget	1
+western style fast food restaurant	tgi fridays	1
+150cc model	tgb	3
+acknowledging currency	tgb	1
+area chain	tgi friday's	1
+attractive shop	tgv cinema	2
+option	tga	1
+brown adipose tissue marker	tgm two 	1
+cell transforming agent	tgf-and organophosphate pesticide	1
+combination suffix	tgz for tar.gz	1
+conventional-configuration train	tgv	1
+CPP head	tgmr head	1
+Dedicated landscaping apps	tg two 	1
+disastrous human drug trial	tgn one thousand four hundred and twelve 	2
+group	tgi frybread writing group sponsored by the loft	1
+group	tgif-exd group	1
+egf-related growth factor	tgf	1
+europe's true high-speed train	tgv	1
+eutelsat satellite	tgrt	1
+ferroelectric single crystal	tgs	1
+free-standing restaurant	tgi friday's	1
+GG product	tgb	1
+greenish oolong	tgy	1
+growth factor family	tgf-beta	2
+hgher order predator	tger shark	1
+high-speed passenger train	tgv train	1
+industrialized building effort	tgl project	1
+group	tgif	1
+international dining chain	tgifridays	1
+Low cost food-grade medium	tge	1
+mature chain	tgi friday's	1
+mid-range outlet	tgi friday's	1
+modern high speed train s	tgv	1
+multi-gene signature	tgf-beta	1
+Non-compliant technology	tgv	1
+non-magicable image format	tga	2
+phenomenon-centric validation activity	tga experiment	1
+premium asian carrier	tg	1
+receptor agonist	tgn one thousand four hundred and twelve 	1
+respectable online site	tgw	1
+restuarant	tgi friday's	1
+routine calibration	tga weight calibration	1
+method	tga	1
+shared report	tgf management status	1
+soluble immunomodulatory factor	tgf	1
+staple american restaurant	tgifridays	1
+state's private research institution	tgen	1
+structured delivery approach	tgs project delivery methodology	1
+Studying inhibitory cytokines	tgf-b	1
+superagonistic anti-cd28 antibody	tgn one thousand four hundred and twelve 	1
+tgf-beta family member	tgf-beta	1
+thrombocyte-derivated factor	tgf	1
+traditional online store	tgw	1
+transgenic mice assay	tg.ac skin paint assay	1
+truglo sight	tg one hundred and fourteen 	1
+TTT also effect growth factor	tgf-beta	1
+tumour-derived factor	tgf-b	1
+uncompressed RGB format	tga	1
+upmarket chain	tgi friday's	1
+vfthetrainsets	tgv	1
+tool	tgv	2
+tool	tgm	1
+tool	tgp galleries	1
+factor	tgf	1
+factor	tgf superfamily member	1
+factor	tgf-from theca cell	1
+project	tgwu migrant workers support unit engaged in international dissemination activity	1
+project	tgv	1
+project	tgv station in liege	1
+project	tgp	1
+artist	tg sheppard	1
+place	tgi friday's	3
+place	tgi fridays	3
+place	tgs	1
+parameter	tg	2
+parameter	tgase activity	1
+system	tgv	2
+element	tgf-p responsive element	1
+brand	tgi friday's	4
+brand	tgif	1
+brand	tgb	1
+brand	tghe definitives	1

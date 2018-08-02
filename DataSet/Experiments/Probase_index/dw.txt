@@ -1,0 +1,2285 @@
+factor	dwell time	7
+factor	dwelling size	5
+factor	dwindling natural resource	3
+initiative	dwp credit union modernisation fund	1
+initiative	dwd's skilled workforce initiatives	1
+accessory	dw throne	1
+datum	dwell time	2
+datum	dwelling unit	1
+facility	dwi correctional treatment facility in baltimore	1
+source	dwp	2
+game	dwarf fortress	6
+game	dw three 	1
+game	dw five 	1
+ophthalmologist	dwayne b baharozian	1
+ophthalmologist	dwayne k logan	1
+ophthalmologist	dwight wood	1
+ophthalmologist	dwight capps	1
+ophthalmologist	dwayne roberts	1
+ophthalmologist	dwayne baharozian	1
+ophthalmologist	dwain fuller	1
+ophthalmologist	dwight brown	1
+ophthalmologist	dwight kulwin	1
+ophthalmologist	dwight mumford	1
+ophthalmologist	dwight perry	1
+ophthalmologist	dwight cavanagh	1
+exception	dwight eisenhower	1
+exception	dwight howard	1
+exception	dwellers	1
+reason	dwindling prospect list	1
+character	dwarfness of stature	8
+character	dwarf	5
+character	dwayne	2
+character	dwight	1
+character	dwarf elwood	1
+character	dwight d. eisenhower	1
+work	dwyer et al.	1
+model	dwsm	1
+characteristic	dwelling tenure	1
+characteristic	dwelling type	1
+characteristic	dwell time	1
+word	dwell	1
+word	dweeb	1
+situation	dwi	1
+situation	dwi case	1
+skill	dwarves endurance of stone	1
+institution	dws	1
+change	dwarfing	1
+client	dwell magazine	3
+client	dwyane wade	1
+client	dwell media	1
+client	dwayne	1
+client	dwell	1
+author	dworkin	3
+author	dwight waldo	1
+author	dwight byers	1
+author	dwyer	1
+author	dwight pentecost	1
+form	dwelling	2
+person	dwight yoakam	1
+person	dwellers along the street	1
+person	dwight	1
+person	dwight kondo	1
+idea	dwelling	1
+matter	dwelling setback	1
+alternative	dwarf sorghum	2
+alternative	dwm	1
+effect	dwell time	2
+effect	dwarfing	1
+agency	dwr	2
+agency	dwss	1
+agency	dwd	1
+agency	dwp	1
+object	dwelling place	1
+theme	dwelling in the dust	1
+theme	dwelling	1
+symptom	dwarfism	2
+symptom	dwindling alertness	1
+symptom	dwarfing	1
+location	dwarven lower dorn's deep	1
+location	dwarf woodlands	1
+writer	dwight macdonald	2
+writer	dwight swain	1
+writer	dwayne mcduffie	1
+writer	dwight garner	1
+writer	dwayne mcduffie being told for a book like justice league of america	1
+action	dwelling unit cap controversy	1
+solution	dwelling appliance	13
+solution	dwelling home appliance	9
+solution	dwelling equipment	8
+solution	dwelling hardware	8
+solution	dwelling device	8
+solution	dwelling product	7
+book	dwindling party	3
+feature	dw heads by remo usa	2
+feature	dwell time	2
+feature	dwell	1
+feature	dwell switch	1
+feature	dwelling	1
+book	dwight carlson's	1
+book	dwight v. swain's techniques of the selling writer''	1
+book	dwelling-place of light	1
+star	dwyane wade	17
+star	dwayne wade	6
+star	dwight howard	6
+star	dwight yoakam	3
+star	dwight yorke	2
+star	dwayne johnson	1
+star	dwayne derosario	1
+star	dwayne bowe	1
+star	dwayne wade of the miami heat	1
+star	dwight howard surrounding vc	1
+star	dwayne the rock johnson	1
+structure	dwelling	11
+structure	dwelling structure	1
+school	dwarka	1
+amenity	dw drum	1
+title	dweller of the innermost conscience	1
+operation	dwt	1
+plant	dwarf date palm	6
+plant	dwarf fruit tree	3
+plant	dwarf conifer	3
+plant	dwarf mistletoe	2
+plant	dwarf bulb	2
+plant	dwarf hair grass	2
+plant	dwarf rush	2
+plant	dwarf sunflower	1
+plant	dwarf ylang-ylang shrub	1
+plant	dwarf spiraea	1
+plant	dwarf auriculs	1
+plant	dwarf eelgrass	1
+plant	dwarf evergreens shrub	1
+plant	dwarf cedar	1
+plant	dwarf cherry	1
+plant	dwarf iris	1
+plant	dwarf prostrate acacia	1
+plant	dwarf palm	1
+plant	dwarf magnolia	1
+plant	dwarf marigold	1
+plant	dwarf creeping raspberry	1
+plant	dwarf ericaceous plant	1
+plant	dwarf chinese trumpet creeper	1
+plant	dwarf bougainvillea	1
+plant	dwarf willow	1
+plant	dwarf bean	1
+plant	dwarf huckleberry	1
+plant	dwarf ilianus	1
+plant	dwarf hinoki cypress	1
+plant	dwarf mondo grass	1
+plant	dwarf nandina	1
+plant	dwarf flowering crabapple	1
+plant	dwarf evergreen	1
+plant	dwarf downingia	1
+plant	dwarf schefflera	1
+plant	dwarf pineapple	1
+plant	dwarf plumeria	1
+plant	dwarf woody plant	1
+plant	dwarf spruce	1
+plant	dwarf bilberry	1
+plant	dwarf black olive	1
+plant	dwarf juniper	1
+plant	dwarf citrus	1
+plant	dwarf citrus plant	1
+plant	dwarf anubias	1
+plant	dwarf oregon grape	1
+plant	dwarf wheat	1
+agent	dwarf mistletoe	3
+circumstance	dwelling	2
+circumstance	dwellings off the gas	1
+circumstance	dwi offense	1
+circumstance	dwi	1
+scholar	dwight billings	1
+scholar	dwight perkins	1
+scholar	dwayne winseck	1
+scholar	dwain deets	1
+scholar	dworkin	1
+feature	dw heads made by remo usa	1
+feature	dwell time on a target page	1
+development	dwellings in the porta meridiana sector	1
+type	dwarf	2
+type	dwarf bamboo	1
+type	dwarf fountain grass	1
+celebrity	dwight howard	7
+celebrity	dwyane wade	5
+celebrity	dwayne wade	4
+celebrity	dwight d. eisenhower	2
+celebrity	dwayne johnson	1
+celebrity	dwight ike eisenhower	1
+disease	dwarf mistletoe	4
+disease	dwarfism	1
+town	dwellingup	1
+town	dwaraka	1
+criterion	dwelling type	1
+firm	dwight anderson's ospraie management llc	2
+firm	dwight anderson s ospraie management llc	1
+challenge	dwindling funds for graduate medical education	1
+challenge	dwindling resource	1
+challenge	dwindling numbers of wealthy individuals across the world	1
+challenge	dwindled membership	1
+challenge	dwindling trust fund	1
+challenge	dwindling natural resource	1
+indicator	dwelling type	1
+favorite	dwarf crape myrtle	1
+favorite	dwarf american toad	1
+manufacturer	dw	1
+act	dwele	1
+man	dwight longenecker	1
+feature	dwarfism	1
+feature	dwell station	1
+man	dwight l moody	1
+man	dwight l. moody	1
+man	dwight eisenhower	1
+man	dwayne jenkins	1
+man	dwyane wade	1
+attribute	dwellings without motor vehicle	3
+publication	dwell	8
+publication	dwell.com	1
+setting	dwell	6
+setting	dwell time	2
+class	dwarfs	2
+class	dwi investigation	1
+study	dwyer	2
+study	dwyer et al.	1
+position	dwi council	1
+individual	dwight	1
+individual	dwight kroening	1
+individual	dwight mcgoon	1
+individual	dwane lay	1
+individual	dwight eisenhower	1
+website	dwnload.com	1
+figure	dwight macdonald	2
+figure	dwarven warrior	1
+figure	dwight eisenhower	1
+figure	dworkin	1
+unit	dwarven gryphon rider	2
+unit	dwarves anvil	1
+unit	dwarven infantry	1
+leader	dwight eisenhower	4
+leader	dwight d. eisenhower	1
+musician	dwight pickney	1
+musician	dwight yoakum	1
+musician	dwayne williams	1
+musician	dwight yoakam	1
+expense	dwindling list of new client	2
+movie	dwayne johnson's  recent movie	1
+movie	dwayne johnson's recent movie	1
+movie	dweepa	1
+innovation	dwdm	1
+instance	dwg file	1
+instance	dwelling in the township zone of tarnagulla	1
+policy	dwell ratio	1
+song	dwight's long	1
+entity	dwarf	4
+building	dwelling	5
+building	dwelling house	2
+building	dwelling addition	1
+building	dwellings in the north east of the hamlet	1
+building	dwellers house	1
+expert	dw winnicott	1
+phenomenon	dwarfism	1
+improvement	dwelling	2
+researcher	dweck	2
+researcher	dwight evans	1
+researcher	dwyer	1
+region	dwelling place	1
+concern	dwell time effect	2
+variety	dwarf fragrant lilac	2
+variety	dwarf variety	2
+variety	dwarf venous orange	1
+variety	dwarf orange	1
+variety	dwarf sansevieria	1
+variety	dwarf japanese maple tree	1
+variety	dwarf yellow milo	1
+variety	dwarf yew	1
+variety	dwarf sage	1
+variety	dwarf herb	1
+format	dwf	8
+format	dwg	8
+partner	dw	1
+partner	dwp	1
+partner	dwango	1
+animal	dwarf hamster	3
+animal	dwarf mongoose	1
+animal	dwarf anteater	1
+animal	dwarf crocodile	1
+animal	dwarf lizard	1
+big name	dwayne bravo	2
+big name	dwight howard	2
+big name	dwyane wade	1
+big name	dwight yoakam	1
+role	dwan configuration control officer	1
+design	dwlink	1
+sector	dwdd	1
+influence	dwight yokam	1
+critic	dwight duncan	3
+critic	dworkin	1
+environmental factor	dwindling water resource	1
+environmental factor	dwarf equids	1
+customer	dwayne lane's family of auto centers	1
+section	dwarf section	1
+actor	dwayne the rock johnson	1
+actor	dwayne johnson	1
+incentive	dwp vouchers for water conservation	1
+label	dw	1
+department	dwp	6
+issue	dwarf galaxy problem of cold dark matter	13
+issue	dwi	3
+issue	dwell time	2
+scheme	dwcra	1
+behavior	dwi	2
+environment	dwelling	2
+designer	dwd	1
+bird	dwarf cowbirds	2
+bird	dwarf olive ibis	1
+obstacle	dwarf star cluster	1
+obstacle	dwelling	1
+disorder	dwarfism	12
+capability	dwdm	2
+magazine	dwell	10
+magazine	dwell magazine	1
+asset	dwelling unit	4
+asset	dwelling units with sanitary latrine	1
+sign	dwv	1
+trait	dwarfism	3
+color	dwarf birch	1
+report	dwell time	1
+speaker	dwain jones	1
+speaker	dwight nelson	1
+speaker	dwight l. smith	1
+guest	dwight yoakam	2
+guest	dwayne wade	1
+district	dwight street historic district	1
+constraint	dwindling food resource	1
+performer	dwight yokum	1
+performer	dwight slade	1
+issue	dwindling white population	1
+good	dwelling equipment	15
+good	dwelling home appliance	9
+good	dwelling appliance	9
+good	dwelling hardware	8
+good	dwelling device	7
+good	dwelling product	6
+brand name	dwellstudio organic	1
+addition	dwayne roloson	1
+quality	dwell watch	1
+legend	dwight yoakam	4
+legend	dwight yorke	1
+state	dwarf republics of lucca	1
+possibility	dwyane wade with the miami heat	1
+weapon	dwight franklin	1
+weapon	dwyane bowe	1
+control	dwelling size limitation	1
+control	dwelling defi nitions	1
+control	dwelling definition	1
+great	dwight gooden	1
+great	dwayne d-train mcclain	1
+language	dwarvish	2
+line	dwell studio	1
+record	dwell time	1
+producer	dwele	1
+producer	dwayne omarr	1
+channel	dwaf	1
+luminary	dwight yoakum	1
+luminary	dwight d. eisenhower	1
+luminary	dwayne harris	1
+series	dwellings	1
+suggestion	dwight schrute	1
+driver	dwayne pond	2
+driver	dwight smith	1
+friend	dwight yoakam	2
+friend	dwayne baggett	1
+file	dwg	2
+tree	dwarf standard tree	1
+tree	dwarf birch	1
+tree	dwarf barbados cherry	1
+tree	dwarf ornamental tree	1
+tree	dwarf japanese juniper	1
+tree	dwarf korean lilac	1
+tree	dwarf nikko firs from japan	1
+tree	dwarf fruit tree	1
+tree	dwarf arctic tree	1
+tree	dwarf alberta spruce	1
+charge	dwi	8
+charge	dwi vehicular manslaughter	1
+charge	dwai drugs	1
+offering	dw office headset	3
+issue	dwelling structure	1
+issue	dwarfism	1
+issue	dwindling national resource	1
+track	dwellers of the jungle	1
+fish	dwarf gourami	5
+fish	dwarf angel	5
+fish	dwarf puffers	3
+fish	dwarf angelfish	1
+fish	dwarf galaxias	1
+fish	dwarf platy	1
+composer	dwayne rice	1
+bank	dwelling house savings	1
+key issue	dwarfism in contemporary tv comedy	1
+provision	dwelling unit area	1
+defect	dwarfism	2
+medical condition	dwarfism	1
+teacher	dwight emmert	1
+interest	dwelling	2
+space	dwelling living space	1
+athlete	dwight howard	5
+athlete	dwayne wade	2
+athlete	dwight gooden	1
+athlete	dwain chambers	1
+athlete	dwyane wade	1
+athlete	dwight freeney	1
+force	dwarven mortars	1
+toy	dwell studio soft toy	1
+shop	dwyer instrument	1
+ability	dwarf's racial weapon proficiency	1
+personality	dwight eisenhower	1
+personality	dwarkanath tagore	1
+personality	dwain chambers	1
+authority	dworkin	2
+guy	dwight howard	1
+theorist	dwight waldo	1
+stock	dwarikesh sugar	2
+large company	dw	1
+fund	dws europe convergence fund	1
+fund	dws global thematic offshore fund	1
+fund	dws investments	1
+basic information	dwelling type	1
+small item	dwarf tomato	1
+small item	dwarf citrus	1
+vegetable	dwarf tomato	8
+vegetable	dwarf varieties of french bean	2
+vegetable	dwarf white cabbage	1
+vegetable	dwarf pea	1
+vegetable	dwarf pepper	1
+vegetable	dwarf bean	1
+target	dwight eisenhower	1
+factor	dwelling unit size	2
+factor	dwelling	2
+factor	dwindling fossil fuel reserve	2
+issue	dwell	1
+issue	dwarg galaxy problem of cold dark matter	1
+issue	dwelling energy efficiency	1
+issue	dwindling space	1
+issue	dwindling shareholders fund	1
+issue	dwindling market share in the cash segment	1
+fact	dwelling model	1
+NGOs	dwa famn	1
+forum	dwf	1
+talent	dwayne lathan	1
+politician	dwight eisenhower	3
+veteran	dwight ransom	1
+veteran	dwaine archer	1
+veteran	dwan edwards	1
+signal	dwarf signal	1
+government agency	dwp	1
+breed	dwarf breed	1
+breed	dwarf rabbit	1
+dimension	dwelling density	1
+creature	dwarf	8
+collection	dwarf conifer collection	1
+poet	dwija ramtanu	1
+phrase	dwelling of god	1
+centre	dwellingup	1
+crime	dwi	7
+infection	dwarf tapeworm	1
+suspect	dwight howard	1
+suspect	dwayne wade	1
+maker	dwyer	1
+notable	dwyane wade	1
+notable	dwight sills	1
+flower	dwarf marigold	1
+profession	dwarf warrior	1
+nation	dwarven unions	1
+programme	dwcra	1
+issue	dwelling size	1
+item	dwelling home appliance	16
+thinker	dworkin	1
+drink	dwarven spirits from kingsdale	1
+household name	dwyane wade	1
+abnormality	dwarfism	1
+candidate	dwight eisenhower	1
+candidate	dwarf planet candidate	1
+employee	dwight	1
+shrub	dwarf birch	2
+shrub	dwarf maple	1
+shrub	dwarf nandina	1
+shrub	dwarf boxwood	1
+shrub	dwarf raspberry	1
+shrub	dwarf philadelphus	1
+shrub	dwarf ceanothus	1
+shrub	dwarf mountain pine	1
+shrub	dwarf willow	1
+shrub	dwarf pomengranate	1
+shrub	dwarf oleander	1
+shrub	dwarf arctic birch	1
+shrub	dwarf ericaceous shrub	1
+philosopher	dworkin	3
+key player	dwayne bravo	1
+face	dwyane wade	3
+advanced technique	dwdm	3
+assignment	dwi stop	1
+environmental issue	dwindling fresh water supply	1
+environmental issue	dwindling natural resource	1
+health issue	dwarfism	2
+economist	dwight perkins	2
+population	dwellingup	1
+mammal	dwarf mongoose	1
+heroes	dwarven sniper	1
+heroes	dwarf warlord	1
+race	dwarf	51
+race	dwars door vlaanderen	1
+race	dwarvish	1
+superstar	dwyane wade	8
+superstar	dwayne wade	5
+superstar	dwight howard	2
+tenant	dw bistro	1
+selection	dwenjang korean salmon	1
+item	dwelling product	12
+item	dwelling device	11
+item	dwelling appliance	8
+item	dwelling equipment	8
+item	dwelling hardware	4
+item	dwelling owner	2
+framework	dwr	3
+framework	dwr, fifteen 	1
+port	dwarka	1
+technological advance	dwdm	1
+grass	dwarf varieties of silver grass	1
+grass	dwarf selections of silver grass	1
+grass	dwarf fountain grass	1
+explanation	dwelling of god in conjugal union	1
+explanation	dwarfism	1
+exhibit	dwarf mongooses	1
+account factor	dwell time	1
+virus	dwv	1
+economic factor	dwindling catholic population	1
+plant species	dwarf lake iris	1
+plant species	dwarf birch	1
+plant species	dwarf sage	1
+library	dwr	2
+meeting	dwg meeting	1
+combination	dword one hundred and twenty-three 	1
+combination	dword eighty-one thousand and thirty-eight 	1
+volunteer	dwight lawton	1
+priority	dwarven weapon training	1
+process parameter	dwell time	1
+process parameter	dwelling time	1
+guest speaker	dwayne morgan	1
+guest speaker	dwain lewis	1
+native species	dwarf inanga	1
+imaging technique	dwi	1
+precaution	dwneededsize	1
+item	dwarven helm	1
+rare species	dwarf willow	1
+renowned artist	dwight champane	1
+display	dwarf montego series	1
+perennial	dwarf iris	2
+perennial	dwarf aster	1
+perennial	dwarf dahlia	1
+state agency	dwr	2
+state agency	dwlc	1
+choreographer	dwight rhoden	4
+choreographer	dwight rhoden along with performing in various student	1
+great player	dwayne wade	1
+set	dwell studio crib set	1
+key stakeholder	dwp	1
+trigger	dwarven berserker's	1
+national act	dwayne dopsie	1
+physical parameter	dwell time	2
+extension	dwg for autocad	1
+winner	dwight howard	1
+emerging technology	dw appliance	1
+crisis	dwindling economy	1
+crisis	dwi	1
+endangered species	dwarf wedgemussel	1
+endangered species	dwarf spikerush	1
+seed	dwarf bean	1
+republican	dwight eisenhower	4
+video	dwi video	3
+court	dwi court	2
+offense	dwi	13
+offense	dwls	1
+stalwart	dwaram venkataswamy naidu	1
+common name	dwarf royal palm	2
+common name	dwale	1
+item	dwarf conifer	1
+item	dwelling type	1
+item	dwelling size	1
+item	dwarf runabout exercise ball	1
+academic	dwight burlingame	1
+wrestler	dwayne the rock johnson	2
+wrestler	dwayne the rock johsnon	1
+creation	dwarves	1
+physical feature	dwelling	1
+fan	dweezil zappa	1
+system parameter	dwell time	1
+essential oil	dwarf pine	2
+physical barrier	dwarf wall	1
+syndrome	dwarfism	1
+leading company	dw sport fitness	1
+key parameter	dwell time	1
+peer	dwyane wade	1
+headliner	dwight yoakam	2
+stat	dwell time	1
+wild animal	dwarf buffalo	1
+prospect	dwayne harris	1
+prospect	dwayne jones	1
+union	dwu in the united states	1
+demographic information	dwelling type	1
+theologian	dwight moody	1
+top player	dwyane wade	1
+top player	dwayne polee	1
+top player	dwight howard	1
+temple	dwarka	1
+temple	dwarawati temple	1
+temple	dwarawati temple in the foot of prahu mountain	1
+information source	dww	1
+item	dwp	1
+item	dwight property tax	1
+item	dwelling	1
+item	dwell brand baby bedding in the back of the store	1
+social service	dwelling	1
+government department	dwp	7
+monster	dwarves	2
+basic need	dwelling house	1
+sequence	dwi	1
+intellectual	dwight macdonald	1
+professor	dwight lee	1
+professor	dwight dailey	1
+instructor	dwight woods	2
+tributary	dwing gad	1
+datum type	dword	1
+invertebrate	dwarf crayfish	1
+violation	dwi	40
+violation	dws	3
+surname	dwyer	1
+tourist spot	dwarka in gujarat	1
+operating parameter	dwell times in the tank	1
+file format	dwg	4
+file format	dwf	1
+pro	dwayne wade	1
+executive	dwight riskey	1
+annual	dwarf snapdragon	1
+annual	dwarf zinnia	1
+development project	dwelling unit	1
+star player	dwyane wade	2
+star player	dwight freeney	1
+disability	dwarfism syndrome	1
+liberal	dworkin	2
+receiver	dwayne bowe	1
+large object	dwarf planet	1
+spec	dw spec	1
+national park	dwgnra	1
+peoples	dwarf	3
+area	dwarka	3
+area	dwelling house	1
+area	dwight	1
+pet	dwarf rabbit	1
+small animal	dwarf rabbit	2
+imaging modalities	dwi	1
+lens	dw four  wide angle 	1
+wildflower	dwarf ginseng	1
+wildflower	dwarf azalea	1
+profile	dwrr	1
+heavy hitter	dwayne watkins	1
+minor character	dwayne hoover's wife	1
+family name	dwight	1
+outside source	dwellings	1
+legendary artist	dwight yoakam	1
+powerhouse	dwarf lords	1
+teammate	dwyane wade	2
+file type	dwg	2
+file type	dwf	1
+file type	dwt	1
+feminist	dworkin	1
+talented player	dwyane wade	1
+president	dwight d. eisenhower	9
+president	dwight eisenhower	5
+being	dwarf	3
+optical device	dwdm multiplexer	1
+world	dwarf woodlands from snow white	1
+area	dwarka underpass	1
+area	dwarf's desert	1
+bulb	dwarf daffodil	6
+bulb	dwarf narcissi	4
+bulb	dwarf iris	2
+bulb	dwarf narcissus	1
+bulb	dwarf tulips	1
+bulb	dwarf irises	1
+young star	dwyane wade	1
+Christians	dwight l. moody	1
+explanatory variable	dwelling type	1
+serious case	dwelling house burglary	1
+serious case	dwi case	1
+serious case	dwi	1
+exotic animal	dwarf	2
+home	dwain & laura's	1
+fruit tree	dwarf stone fruit	1
+fruit tree	dwarf apple	1
+fruit tree	dwarf citrus	1
+hybrid	dwarf bedding hybrid	1
+governmental agency	dwp on behalf of constituent	1
+aquatic plant	dwarf sagittaria	1
+merchandise	dwelling appliance	4
+merchandise	dwelling hardware	2
+merchandise	dwelling product	2
+merchandise	dwelling device	1
+merchandise	dwelling home appliance	1
+merchandise	dwelling equipment	1
+free agent	dwayne bowe	1
+free agent	dwayne wade	1
+free agent	dwight howard	1
+great leader	dwight eisenhower	1
+great leader	dwayne golden	1
+large mammal	dwarf elephas creticus	2
+external condition	dwelling place	1
+woody plant	dwarf woody plant	1
+woody plant	dwarf shrub calluna vulgaris	1
+woody plant	dwarf arctic birch	1
+famous personality	dwayne hickman	1
+famous personality	dwight eisenhower	1
+premise	dwelling	1
+boundary condition	dwell time	1
+critical parameter	dwell time	1
+optical component	dwdm filter	1
+criminal activity	dwi	1
+rare plant	dwarf downingia	1
+township	dwarka	1
+small fish	dwarf cichlid fish	2
+small fish	dwarf rasboras	1
+small fish	dwarf rainbow	1
+great man	dwight eisenhower	1
+industry professional	dwight klippel	1
+genetic disorder	dwarfism	1
+good player	dwayne jarrett	1
+good player	dwayne wade	1
+good player	dwayne wayde	1
+path	dwarven hammerhead	1
+renowned company	dwyer	1
+great writer	dwight macdonald	1
+paint	dwarf flesh	1
+process condition	dwell time before cure	1
+process condition	dwell time	1
+kid	dwayne	1
+notable name	dwayne the rock johnson	1
+infraction	dwi	1
+physical constraint	dwelling	1
+serious offense	dwi	6
+pianist	dwight brock	1
+sensitive species	dwarf wedgemussel	1
+exotic plant	dwarf bamboo	1
+preacher	dwight l. moody	1
+preacher	dwight moody	1
+bean	dwarf bush bean dwarf bean	1
+datasets	dwaf monitoring point	1
+sub-sectors	dwelling	2
+evergreen	dwarf conifer	1
+evergreen	dwarf conifers within arrangement	1
+evergreen	dwarf variety of chamaecyparis	1
+evergreen	dwarf arborvitae	1
+evergreen	dwarf conifers in the plant selection	1
+tropical plant	dwarf shefflera	1
+sport star	dwight howard	1
+classic character	dwarf	1
+general	dwight eisenhower	1
+area	dwi offense	1
+area	dwarf starting area	1
+notable figure	dwight eisenhower	1
+famous figure	dwight d. eisenhower	1
+biological agent	dwarf mistletoe	1
+genetic disease	dwarfism	3
+standard information	dwelling layout	1
+permanent structure	dwelling	2
+physical measure	dwelling rehabilitation	1
+pressing issue	dwindling research funding	1
+serious offence	dwi	1
+NFL player	dwight hollier	1
+psychiatric disorder	dwarfism	1
+shrub species	dwarf shrub species	1
+Shrub species	dwarf juniper	1
+amphibian	dwarf tree frog	1
+nominee	dwight morgan	1
+perennial plant	dwarf bulb	1
+woody species	dwarf hackberry	1
+woody species	dwarf willow	1
+cat	dwarf breed cat	1
+cat	dwarf cat	1
+cat	dwarf cory cat	1
+famous character	dwarves	1
+baby product	dwink box	1
+NBA player	dwight howard	2
+NBA player	dwayne wade	1
+NBA player	dwyane wade	1
+active device	dwzz x	1
+network element	dwdms between adms  eight hundred and fourteen 	1
+performance feature	dwr water-repellent coating	1
+market force	dwindling profit	1
+public work	dwellings for the king	1
+collaborator	dwight trible	1
+father	dwelt in tent	1
+legendary figure	dwight eisenhower	1
+popular author	dwight wilson	3
+international celebrity	dwyane wade	1
+niche area	dwh & independent validation service	1
+habitat type	dwarf shrub heath	1
+factor	dw penalty	1
+factor	dwindling fry stock	1
+factor	dwindling pastoral resource	1
+factor	dwelling mix	1
+factor	dwelling complexity	1
+service	dwl	1
+ignition source	dwelling	1
+legal scholar	dworkin	1
+mutation	dwarfing	1
+marine mammal	dwarf sperm whale	1
+wild flower	dwarf iris	1
+life form	dwarf tree	1
+recognizable name	dwyane wade	1
+datum format	dwf	1
+foe	dwarves	16
+foe	dwarves elves	1
+perennial grass	dwarf red fescue	1
+country artist	dwight yoakam	1
+quality player	dwayne wade	1
+fund manager	dws	1
+wonder	dwaraka	1
+primate	dwarf bushbabies	1
+primate	dwarf	1
+historic figure	dwight eisenhower	1
+morphological change	dwarfism	1
+survivor	dwight stephens	1
+measuring instrument	dwell meter	1
+campground	dworshak state park	1
+ground cover	dwarf mondo	1
+city department	dwp	1
+test condition	dwell time	1
+enclosed area	dwelling	3
+metabolic disease	dwarfism	1
+water plant	dwarf cattail	1
+service	dwi lawyer	1
+kingdom	dwarven kingdom	1
+inland area	dwellingup	2
+enclosed space	dwelling	1
+army	dwarfs	3
+army	dwarves	1
+marquee name	dwyane wade	2
+marquee name	dwayne wade	1
+huge name	dwayne wade	1
+aggravating factor	dwi	1
+visual tool	dwgstrip	1
+invasive weed	dwarf nettle	1
+small tree	dwarf peach	1
+small tree	dwarf fruit tree	1
+small tree	dwarf cherry	1
+notable musician	dweezil zappa	1
+tender plant	dwarf alberta spruce	1
+big gun	dwight nelson	1
+endocrine disorder	dwarfism	3
+high profile name	dwight howard	1
+local stakeholder	dwaf	1
+military leader	dwight eisenhower	1
+ornamental grass	dwarf forms of japanese silver grass	1
+flowering tree	dwarf southern magnolia	2
+root crop	dwarf carrot	2
+serious effect	dwindling asleep unwillingly	1
+small creature	dwarf	1
+global trend	dwindling resource	1
+surgeon	dwight harken	1
+deposition parameter	dwell time	1
+ruin	dwarka	1
+well-known organization	dws investment bank	1
+beneficiary	dwayne andreas	1
+mutant	dwarfing mutant	1
+mutant	dwarf	1
+annual plant	dwarf sunray	1
+ongoing issue	dwindling tax receipt	2
+Pioneer species	dwarf alkali grass	1
+NBA star	dwyane wade	9
+NBA star	dwayne wade	2
+NBA star	dwight howard	2
+evergreen shrub	dwarf boxwood	1
+biggest name	dwyane wade	1
+bush	dwarf birch	3
+small breed	dwarf hotot	1
+ornamental tree	dwarf dynamite crepe myrtle	1
+ornamental tree	dwarf ornamental tree	1
+great show	dwayne	1
+tropical fish	dwarf cichlids	1
+galaxy	dwarf spheroidal galaxy	1
+galaxy	dwarf -elliptical	1
+galaxy	dwarf galaxy	1
+galaxy	dwarf elliptical galaxy	1
+galaxy	dwarf irregular galaxy	1
+misdemeanor	dwi	7
+popular species	dwarf loach	1
+popular species	dwarf baby's tears java moss	1
+drop	dwarf weed seed	1
+small unit	dwarf	1
+well-known star	dwayne johnson	3
+dwelling	dwellings for the elderly	1
+famous individual	dwight eisenhower	1
+bottom feeder	dwarf cors	1
+bottom feeder	dwarf frog	1
+ticket	dwi	2
+groundcovers	dwarf ruellia	1
+occupancy	dwelling	1
+standard format	dwg	1
+global change	dwindling natural resource	1
+distinct feature	dwemer ruins	1
+topic	dwindling natural resource	2
+topic	dwelling policies	2
+topic	dwarfism diet	1
+topic	dwarfism genetics	1
+topic	dwarfism mental	1
+administrative process	dwg establishment	1
+serious violation	dwi	5
+criminal case	dwi	6
+rising star	dwyer standout nick o'leary	1
+country music star	dwight yoakam	2
+household brand	dwell	1
+criminal charge	dwi	1
+socioeconomic variable	dwelling structure	1
+rare plant species	dwarf misteltoe	1
+rare plant species	dwarf birch	1
+closed environment	dwelling	1
+marquee player	dwight howard	1
+marquee player	dwyane wade	1
+national firm	dwf	1
+socio-demographic variable	dwelling type	1
+criminal offense	dwi	3
+evangelist	dwight l. moody	2
+social variable	dwelling location	1
+vascular plant	dwarf raspberry	1
+guest performer	dwight naugle	1
+leftist	dwight macdonald	1
+All-Stars	dwyane wade	11
+asset manager	dws	2
+notable alumnus	dwight d. eisenhauer	1
+tall plant	dwarf cattail	1
+great athlete	dwain chambers	1
+technology firm	dwl inc.	1
+resistant variety	dwarf korean lilac	1
+serious infraction	dwi	1
+year player	dwight yorke	1
+best player	dwyane wade	1
+perennial flower	dwarf star lily	1
+prominent person	dwight eisenhower	1
+traffic violation	dwi	1
+big man	dwight howard	1
+R&B artist	dwele musiq	1
+marine fish	dwarf angel	1
+programming environment	dwh	1
+development standard	dwelling height	1
+hereditary condition	dwarfism	1
+developmental disorder	dwarfing syndrome	1
+industry-leading company	dw	1
+monopoly	dwp	1
+woody shrub	dwarf willow	1
+small pet	dwarf hamster	1
+maintenance procedure	dwdm nes	1
+Protestants	dwight moody	1
+rare breed	dwarf hotots	1
+specialty brand	dwell studio	1
+budget hotel	dwaper resorts	1
+transient event	dwarf novae	1
+low shrub	dwarf arctic birch	3
+low shrub	dwarf birch	1
+sprinter	dwain chambers	1
+spring bulb	dwarf narcissi	2
+spring bulb	dwarf narcissus	1
+contemporary philosopher	dworkin	1
+good actor	dwayne johnson	1
+modern philosopher	dworkin	1
+crab	dwarf crab rhithropanopeus harrisii	1
+endocrine disease	dwarfism	2
+wide receiver	dwayne bowe of lsu	1
+real estate developer	dw's subsidiary nakheel	1
+serious charge	dwi	2
+environmental pressure	dwindling food	1
+buff	dw & fom for the crystal runner	1
+macroeconomic issue	dwindling confidence in a stronger economy	1
+MRI technique	dwi	3
+unusual plant	dwarf form of bald cypress	1
+wooden structure	dwelling	1
+topic	dwi enforcement	1
+topic	dwi	1
+topic	dwelling	1
+dwarf variety	dwarf orinoco	3
+dwarf variety	dwarf gray sugar	1
+dwarf variety	dwarf meyer lemon tree	1
+dwarf variety	dwarf red	1
+dwarf variety	dwarf ori - noco	1
+dwarf variety	dwarf venous orange fruit tree	1
+dwarf variety	dwarf namwah	1
+basketball player	dwight howard	1
+basketball player	dwyane wade	1
+evangelical leader	dwight moody	3
+bog plant	dwarf papyrus	1
+bog plant	dwarf cattails	1
+spring wildflower	dwarf ginseng	1
+spring wildflower	dwarf iris	1
+team leader	dwayne roloson	1
+unusual variety	dwarf bean	1
+emergent plant	dwarf papyrus	1
+impact player	dwight smith	1
+others issue	dwarf galaxy problem of cold dark matter	3
+complex form	dwelling	1
+wetland area	dwayne melugin's	1
+personal insurance product	dwelling fire	2
+window manager	dwm	3
+mythological creature	dwarf	1
+submerged plant	dwarf bamboo	1
+treatment parameter	dwelling time	1
+acid-loving plant	dwarf fleeceflower	1
+diplomat	dwight morrow in mexico	1
+low-growing plant	dwarf purple ruellia	1
+low-growing plant	dwarf privet	1
+small shrub	dwarf azalea	1
+supernatural being	dwarf	1
+exotic grass	dwarf mondo grass	1
+linebacker	dwayne maddox	1
+news channel	dw-tv	1
+standard file format	dwg	25
+tale sign	dwindling order book	1
+tomato variety	dwarf	1
+company	dw	4
+company	dwell homes by empyrean	3
+world star	dwyane wade	1
+conservationist	dwst	1
+ground cover plant	dwarf varieties of phlox	1
+key company	dwelling website	1
+country great	dwight yoakum	1
+great school	dwyer junior high	1
+unnecessary file	dwi file	1
+application system	dwdm system rack	1
+criminal matter	dwi	1
+criminal matter	dwi defense	1
+dwarf shrub	dwarf raspberry	1
+dwarf shrub	dwarf yaupon holly	1
+optical technology	dwdm	2
+citrus	dwarf orange tree	1
+germany tv channel	dw tv europe	2
+germany tv channel	dw tv arabia	1
+living space	dwelling living space	1
+american scholar	dwight mcdonald	1
+ROMs	dwang	1
+outside company	dw tickets	1
+traditional format	dwg	1
+traffic offense	dwi	1
+rabbit	dwarf breed	1
+rabbit	dwarf breed rabbit	1
+rabbit	dwarf hotots	1
+signal processing application	dwt	1
+housing characteristic	dwelling type	2
+company	dwell houses by empyrean	1
+company	dwelling warehouse	1
+company	dwf	1
+company	dw drums	1
+company	dw foamies	1
+file extension	dwf	1
+public sector client	dwp	1
+salamander	dwarf siren	1
+vegetable plant	dwarf tomato	1
+notable choreographer	dwight rhoden	2
+human condition	dwarfism	2
+physical abnormality	dwarfism	1
+sport superstar	dwight howard	1
+web framework	dwr	1
+big name retailer	dwell	1
+Montane species	dwarf willow	1
+Montane species	dwarf chameleons	1
+residential use	dwelling unit above a commercial use	1
+beam parameter	dwell time	1
+design theme	dwelling	1
+young athlete	dwight howard	1
+processing factor	dwell time	1
+computer file	dwg file	2
+promising young player	dwight howard	1
+rootstocks	dwarfing apple rootstocks	1
+scanning parameter	dwell time of the source on a focal spot during a measurement	1
+defensive lineman	dwan edwards	1
+key measurement	dwell time	1
+specimen tree	dwarf crabapples	1
+fantasy element	dwarf	3
+company	dwelling website	1
+company	dwh	1
+company	dwyer group	1
+company	dwf solicitors	1
+prominent family	dwight sabin	1
+test variable	dwell time	1
+radical feminist	dworkin	2
+rookie card	dwayne bowe rookie	1
+small specimen	dwarf hamster	1
+committee meeting	dwc meeting	2
+poverty alleviation program	dwarca	1
+safety	dwight lowery	1
+spring flowering bulb	dwarf iris	1
+all-star player	dwyane wade	5
+all-star player	dwight howard	1
+common house plant	dwarf date palm	1
+central government agency	dwp under ian anderson	1
+dwelling unit	dwelling unit in a hotel	2
+hardy variety	dwarf lilac	1
+Intercrops	dwarf fruit crops like papaya	1
+supernatural creature	dwarf	2
+transport technology	dwdm	1
+ericaceous shrub	dwarf birch	1
+ericaceous shrub	dwarf ericaceous shrub	1
+fairy tale character	dwarf	1
+fantastical creature	dwarf	4
+international channel	dw-tv	2
+permanent facility	dwelling	1
+summer flowering bulb	dwarf dahlia	1
+alpine plant	dwarf phlox	1
+alpine plant	dwarf alpine columbine	1
+batter	dwight evans	1
+Brassicas	dwarf essex rape	1
+Rare and threatened species	dwarf lake iris	2
+sidekick	dwight schrute	1
+soft toy	dwell studio soft toy	1
+activity	dwelling	2
+change agent	dwarf mistletoe	1
+citrus tree	dwarf citrus	1
+design magazine	dwell	3
+hardy shrub	dwarf birch	1
+structural attribute	dwd volume	1
+market intermediary	dwb	1
+superstar name	dwayne wade	1
+generic character	dwarves	1
+mechanical unit	dwemer steam centurion	1
+mechanical unit	dwemer centurion sphere	1
+musical item	dw soundtrack	1
+outstanding athlete	dwight stones	1
+tiny creature	dwarf goby	1
+large dam	dwinnell dam	1
+talented star	dwayne de rosario	1
+gifted artist	dwight trible	1
+gifted artist	dwight trible of the pharoah sanders quartet	1
+military man	dwight d. eisenhower	1
+native herb	dwarf nettle	1
+factor	dwelling time	1
+factor	dwindling automobile financing	1
+factor	dwindling domestic gas reserve	1
+factor	dwindling space	1
+radar parameter	dwell time	2
+radar parameter	dwell period	1
+turfgrasses	dwarf bermuda	1
+vector file	dwg	1
+awesome brand	dw	1
+day job	dwight everett	1
+dispensationalists	dwight pentecost	1
+mixed use	dwellings with shop	1
+modern theologian	dwight l. moody	1
+phenotypic change	dwarfism	1
+republican president	dwight eisenhower	3
+republican president	dwight d. eisenhower	1
+serious traffic violation	dwi	3
+athletic player	dwayne wade	1
+athletic player	dwight howard	1
+dad	dwayne the rock johnson in the tooth fairy	3
+great country artist	dwight yoakam	1
+low light plant	dwarf fern	1
+NBA superstar	dwyane wade	5
+NBA superstar	dwayne wade	2
+NBA superstar	dwight howard	2
+receiver characteristic	dwell time	1
+serious traffic offense	dwi	2
+spatial element	dwelling	1
+unionist	dwight nelson	1
+ericaceous plant	dwarf ericaceous plant	1
+manufacturing variable	dwell time	1
+misdemeanor case	dwi	1
+misdemeanor case	dwls	1
+primitive datum type	dword	1
+undesirable trait	dwarfed plant habit	1
+amazing creature	dwarf	1
+engagement -metric	dwell time	1
+frog species	dwarf green tree frog	1
+senior actor	dwarkeesh	1
+supplementary method	dwelling based projection	1
+bone disorder	dwarfism involved	1
+cylinder head	dw ten  & bmw  five hundred and twenty-five i 	3
+great pitcher	dwight gooden	1
+legal theorist	dworkinand michelman	1
+U.S. president	dwight d. eisenhower	3
+accent plant	dwarf false cypress	2
+etching parameter	dwell time	1
+misdemeanor charge	dwi	1
+big name free agent	dwight howard	1
+compact variety	dwarf alberta spruce	1
+compact variety	dwarf	1
+difficult word	dweller	1
+international fund	dws global agribusiness fund	1
+nursery plant	dwarf coconut plant	1
+revivalist	dwight l. moody	1
+at-risk species	dwarf chinkapin oak	1
+common reef fish	dwarf angel	1
+criminal conviction	dwi	1
+famous general	dwight eisenhower	1
+great president	dwight eisenhower	1
+historical village	dwingeloo	1
+indie game	dwarf fortress	2
+peaceful species	dwarf corydoras	1
+professional baseball player	dwight gooden	1
+signature menu item	dw top sirloin	1
+big-time name	dwyane wade	1
+dainty flower	dwarf lemon drop marigolds in narrow rows for life	1
+Mets	dwight gooden	1
+pathological disorder	dwarfism	1
+personal line policy	dwelling fire	1
+stock fantasy race	dwarfs	16
+stock fantasy race	dwarves	2
+twentieth century writer	dwight pentecost	3
+vector format	dwg	1
+world class star	dwayne wade	1
+american jazz musician	dwayne pate	1
+citrus plant	dwarf citrus plant	1
+experimental animal	dwarf mice	1
+large private company	dwarikesh sugar industries ltd	1
+low-growing crop	dwarf bean	1
+par ameters	dwell time	1
+plant parasite	dwarf mistletoe	2
+war leader	dwight d. eisenhower	1
+furred animal	dwarf rabbit	1
+humanoid	dwarves	1
+motor vehicle offense	dwi	2
+permanent plant	dwarf conifer	1
+pesky issue	dwindling food supply	1
+pork	dwaeji bul gogi	1
+short coated breed	dwarf -lop	1
+sport athlete	dwight howard	1
+united state president	dwight david eisenhower	1
+universal format	dwg	1
+information	dwi campaign	1
+information	dwelling style	1
+ecological zone	dwarf forest	1
+famous racer	dwayne ketter	1
+great candidate	dwight howard	1
+holly	dwarf yaupon	1
+payment provider	dwolla corp. of des moines	1
+Planting species	dwarf arctic willow shrub	1
+sentencing alternative	dwi victims panel	1
+unusual aspect	dwarf	1
+web forum	dwf	1
+world renowned choreographer	dwight roden	1
+young superstar	dwight howard	1
+dwarf plant	dwarf holly	1
+dwarf plant	dwarf sasanqua	1
+dwarf plant	dwarf bamboo	1
+dwarf plant	dwarf juniper	1
+easy job	dwight macdonald	1
+interesting fish	dwarf puffer	1
+international recording artist	dwele	2
+key rookie	dwyane wade	1
+large asset manager	dws	1
+living plant	dwarf shrub	1
+mystical being	dwarf	1
+mythological element	dwarf	7
+pittsburgh musician	dwayne dolphin	1
+premier player	dwyane wade	1
+sport retailer	dw sports	1
+spring plant	dwarf iris	1
+warhammer model army	dwarfs	1
+classic race	dwarf	1
+hamster	dwarf hamster	2
+event	dwell time on landing pages after clicking on link	2
+event	dwarf car	1
+paper file	dwg	1
+rare type	dwarf shrub bog	1
+simple connection	dwyer model a- three hundred and seven 	1
+storage reservoir	dworshak reservoir on the north fork of the clearwater river	1
+storage reservoir	dworshak reservoir on the north fork of clearwater river	1
+talented teacher	dwight behr	1
+accomplished artiste	dwight richards	1
+acquisitive crime	dwelling burglary	1
+basket plant	dwarf fuchsia	1
+colt player	dwight freeney	2
+ground dweller	dwarf spider	1
+legacy format	dwg	2
+optical transmission system	dwdm ring	1
+personal line product	dwelling policy	1
+popular president	dwight eisenhower	1
+small peaceful fish	dwarf corydoras	2
+starring celebrity	dwight howard	1
+transform	dwt	1
+acting talent	dwayne palmer	1
+applied linguist	dwight atkinson	1
+bottom-feeders	dwarf corydoras catfish	1
+Doshas	dwesha	2
+dwarf fruit tree	dwarf apple tree	1
+dwarf species	dwarf cajun crayfish	2
+exclusive property	dwelling along with auto	1
+expected name	dwight howard	1
+great military leader	dwight d. eisenhower	1
+home improvement center	dwelling depot	1
+homeless person	dwight	1
+laurel	dwarf mountain laurel	1
+lifelong condition	dwarfism	1
+NBA All-Stars	dwight howard	2
+NBA All-Stars	dwyane wade	1
+NBA All-Stars	dwight howard of the orlando magic	1
+neo soul artist	dwele	2
+palm variety	dwarf palmetto	1
+PC file	dwg file	1
+event	dwarf tossing	1
+event	dwindling economy	1
+event	dweiqa landslide	1
+event	dwain lingenfelter	1
+personal insurance policy	dwelling fire	1
+rural building	dwelling	1
+successful coach	dwayne murphy	1
+wilt-resistant variety	dwarf alderman	1
+broad-leaf plant	dwarf-bush bean	1
+CAD file	dwg	1
+compact herb	dwarf basil	1
+container-grown plant	dwarf papyrus	1
+drafted player	dwight freeney	1
+executive perquisite	dwellings for personal use	1
+native file format	dwg	1
+perfectionist	dworkin	1
+planetary system	dwarf planet pluto	2
+regional river	dwars river	1
+rosette plant	dwarf lewisia	1
+space object	dwarf planet	2
+state lawmaker	dwight evans of philadelphia	1
+tankmates	dwarf frog	1
+traditional chinese herb	dwarf morning glory root	1
+U.S. star	dwyane wade in town for the nba all-star game	1
+country influence	dwight yokam	1
+deep-rooted, quickly-spreading plant	dwarf forsythia	1
+demographic selection	dwelling type	1
+dwarf conifer	dwarf atlantic white cedar	1
+fantasy race	dwarf	1
+gouramis	dwarf gourami	1
+hurdler	dwight porter	1
+hypotonic solution	dw five 	1
+magical race	dwarf	1
+marginal bog plant	dwarf cattail	1
+minor construction	dwarf wall	1
+nectar rich flower	dwarf alder	1
+small annual	dwarf marigold	1
+top quality player	dwight yorke	1
+tuberous plant	dwarf dahlia	1
+tuberous plant	dwarf cannas	1
+biotic agent	dwarf mistletoe	1
+CAD format	dwg for autocad	1
+character race	dwarf	1
+consumers good	dwelling	1
+criminal traffic violation	dwi	2
+crocodile	dwarf crocodile	1
+dutch label	dwarf records	2
+educational scholar	dwayne huebner	1
+extruded plastic	dwv plumbing pipe	1
+home magazine	dwell	1
+industry standard datum format	dwg	1
+initialization parameter	dwell time	1
+irregular galaxy	dwarf irregular galaxy	1
+key plant species	dwarf juniper from deliberate eradication	1
+Legendary Christians	dwight a. moody	1
+lizard species	dwarf chameleon	1
+loaches	dwarf loach	1
+mythical race	dwarf	1
+negative act	dwelling on evil	1
+program	dw training webinars	2
+program	dw university certification training	2
+program	dwi court	1
+program	dwsp	1
+noise sensitive location	dwelling	1
+occupied building	dwelling house	1
+overseas invitee	dwayne miller	1
+Oxygenators	dwarf sagittaria	1
+professional gamers	dwayne richard	1
+prominent legal scholar	dworkin	2
+shooting guard	dwayne wade	1
+small evergreen shrub	dwarf azalea	1
+small evergreen shrub	dwarf conifer	1
+small evergreen shrub	dwarf arborvitae	1
+Sub-shrubs	dwarf rabbitbrush	2
+suggested measure	dwaja puna pratishta	1
+advanced neuroimaging technique	dw imaging	1
+armor set	dwarven	1
+athlete celebrity	dwyane wade	1
+bleaching condition	dwell time	2
+century's great general	dwight d. eisenhower	1
+clonal plant	dwarf shrub	1
+contest flyer	dwight schilling	1
+disney world	dwarf woodlands	2
+flowering climber	dwarf bougainvillea	1
+forest disease	dwarf mistletoe	1
+ground-hugging plant	dwarf birch	1
+hardy palm	dwarf fan palm tree	1
+humanoid race	dwarf	1
+inland settlement	dwellingup	1
+instrumental setting	dwell time	1
+league's premier receiver	dwayne bowe	1
+NSUI member	dwijen trivedi	1
+operating-system	dwelling windows mobile	1
+outstanding character	dwarf	1
+property insurance	dwelling's fire	1
+rabbit breed	dwarf rabbit	1
+revivalist preacher	dwight l. moody	1
+rustic character	dwarf	1
+specialty tree	dwarf maple	1
+standard format file	dwg	1
+star free agent	dwight howard of the orlando magic	1
+star free agent	dwayne wade	1
+acclaimed celebrity	dwayne johnson	1
+Ajax toolkits	dwr	1
+alcohol-related crime	dwi	1
+arctic-alpine plant	dwarf birch tree	1
+bare root tree	dwarf fruit tree	1
+big center	dwight howard	1
+combo guard	dwyane wade	1
+demon-like character	dweller-in-darkness	1
+dollhouse plant	dwarf tree	1
+dwarf tree	dwarf apple	1
+fiber optic technology	dwdm	1
+guest actor	dwight shultz	1
+habitable structure	dwelling	1
+historic facility	dwelling site	1
+hwange many mammal	dwarf mongoose	1
+industry format	dwf	1
+industry format	dwg	1
+instance plant	dwarf chenille plant	1
+inter crop	dwarf fruit crops like papaya	1
+Lakers	dwyane mitchell	1
+light signal	dwdm signal	1
+light-weight minimalistic window manager	dwm	1
+lilac	dwarf korean lilac	1
+little people	dwarf	1
+live christmas tree	dwarf alberta	1
+local and community concert band	dwight shaw big band	2
+community	dwight township	3
+community	dwight city	2
+community	dwight village	2
+magic creature	dwarf	1
+metahumans	dwarfs	2
+municipal bond fund	dws managed municipal bonds	1
+notable american christian soldier	dwight d. eisenhower	1
+novel MR technique	dwi	1
+objectively measurable factor	dwelling's energy efficiency	1
+personal insurance solution	dwelling fire	1
+popular magic player	dwight howard	1
+printable window file	dwg	1
+revivalist speaker	dwight moody	1
+senior international	dwayne grant	1
+Small, non-aggressive fish	dwarf gouramis	3
+Small, non-aggressive fish	dwarf rasabora	3
+Small, non-aggressive fish	dwarf rasbora	2
+standard tree	dwarf standard tree	1
+suspension design	dw bike	1
+tall, upright plant	dwarf lilac	1
+top receiver	dwayne bowe	1
+top-end hotel	dwarika	1
+traffic charge	dwi	1
+uncommons	dwarf warsword	1
+university partner	dwight hall	1
+upscale locality	dwarka	1
+alcohol offense	dwi	1
+alpine plant species	dwarf shrub	1
+architectural publication	dwell	1
+Ascended Masters	dwhal khul	1
+big league star	dwight gooden	2
+big league star	dwight cooden	1
+bonafide superstar	dwight howard	1
+bonafide superstar	dwyane wade	1
+broad, mid-height plant	dwarf dahlia	3
+campus student group	dwight hall	1
+CEO's	dwight lee	1
+coach & G.M.	dwayne kirkup	1
+common spring wildflower	dwarf ginseng	1
+contemporary liberal	dworkin	2
+cool person	dwaine	1
+country recording artist	dwight yoakam	1
+factor	dwelling type	1
+factor	dwell in the fermentation tank	1
+factor	dwarfism	1
+factor	dwindling economy	1
+factor	dwindling forest habitat	1
+factor	dwindling of inflationary pressure	1
+community	dwarf shrub	1
+community	dwight mission cdp	1
+devotional magazine	dwelling faith	1
+dwelling type	dwelling house	3
+elliptical galaxy	dwarf elliptical galaxy	1
+expert christian coach	dwight bain	1
+fantasy base	dwarf mining settlement	1
+fast-growing annual flower	dwarf dahlia	2
+FIB milling parameter	dwell time	1
+foreground plant	dwarf chain sword	1
+forest pathogen	dwarf mistletoe	2
+functional MR imaging technique	dwi	2
+functional MR technique	dwi	1
+generic creature name	dwarf	1
+guitar icon	dweezil zappa	2
+high-stakes, difficult case	dwi	1
+holy center	dwaraka	1
+imported star	dwight yorke	1
+industry-standard CAD exchange format	dwg	1
+limited edition model	dwarf driller	1
+low maintenance species	dwarf bulbs	1
+low-growing evergreen shrub	dwarf boxwood	1
+medical and nutritional expert	dwight lundell	1
+medium size fish	dwarf cichlids	1
+nanny law	dwi	1
+nonhumans	dwarf	1
+notable heroes	dwight d. eisenhower from the american perspective	1
+outstanding talent	dwayne schnitzius of florida	1
+overly technical, factor	dwell time	2
+people-movers	dwight allen	1
+prominent historic figure	dwight eisenhower	1
+purple variety	dwarf royalty	1
+rebound effect	dwelling relocation	1
+regional celebrity	dwayne woodruff	1
+rich reward	dwellings of the conquistador	1
+semi-classics	dwars door vlaanderen	1
+sentient race	dwarf	1
+serveral project	dwdm transport project	1
+shade tolerant bulb	dwarf narcissus	1
+organization	dwp	5
+organization	dwell	3
+small and exotic pet	dwarf hamster	1
+small conifer	dwarf korean fir	1
+small-statured annual flower	dwarf marigold	1
+standard file format s	dwg	1
+stem disease	dwarf mistletoe	2
+Subdividers	dwight b. heard	1
+texas lawyer	dwi lawyers	5
+theater commander	dwight eisenhower in the invasion of europe	1
+tiling window manager	dwm	1
+traditional country artist	dwight yoakam	1
+trained fruit tree	dwarf pyramid	1
+unsung name	dwight jones	1
+woodland feature tree species	dwarf apple	1
+accessibility software	dwell click tool	1
+adaptable creature	dwarf	1
+allstars	dwyane wade	1
+amazing choreographer	dwight rhoden	1
+american evangelist	dwight l. moody	1
+american political figure	dwight d. eisenhower	1
+arctic shrub	dwarf birch	2
+basic race	dwarf	1
+big name voice actor	dwight schultz	1
+boisterous species	dwarf cichlids	1
+book fantasy book	dwarves	1
+broad habitat	dwarf shrub heath	1
+CAD file format	dwg	1
+canadian veteran	dwayne de rosario	2
+celebrated competitor	dwayne dains	1
+common fruit plant	dwarf apple	1
+consultative group	dwp disability forum	1
+core WPF developer	dwayne need	2
+criminal law matter	dwi	1
+driving infraction	dwi	2
+dwarf ericaceous plant	dwarf rhododendron	1
+dwarf ornamental grass	dwarf pennisetum	1
+dwarf ornamental grass	dwarf muhly	1
+dwarf rabbit	dwarf lop	1
+dwarf rabbit	dwarf hotot	1
+earth creature	dwarf	1
+egalitarian philosopher	dworkin	1
+organization	dws solutions	1
+organization	dwst	1
+esteemed choreographer	dwight rhoden	3
+excellent shoe	dwyane wade shoes	1
+fantastic modernist site	dwp building	2
+freeze vegetable	dwarf french bean	1
+frequency modulation scheme	dwell time	1
+fringe NBA player	dwayne mitchell	1
+Functional modalities	dwi	1
+fuzzy plant	dwarf conifer	1
+gradient-elution chromatograms additional parameter	dwell volume of the chromatographic equipment	1
+great guard	dwayne wade	1
+headline star	dwight gooden	1
+india only limited company	dwvidag	1
+ion beam parameter	dwell time	1
+jamaica's finest musical talent	dwight pinkney	1
+jordan brand athlete	dwyane wade	1
+kentucky-bred artist	dwight yoakum	1
+local development standard	dwelling unit density	1
+native freshwater species	dwarf clown loach	1
+negative stat	dwight howard's ft%	1
+nonhuman race	dwarf	1
+notable developer	dwo enterprises	3
+notable NBA star	dwayne wade	1
+policy president	dwight eisenhower	1
+polished star	dwayne wade	1
+political liberal theorist	dworkin	1
+organization	dwelling place	1
+organization	dw sports	1
+technique	dwi	5
+potential sleeper	dwayne jarrett	1
+presidential limousine	dwight d. eisenhower bubbletop	1
+pro star	dwayne carswell	1
+property policy	dwelling policy	1
+quasi-trotskyist new york intellectual	dwight mcdonald	1
+red rat featured song	dwayne	1
+religious personage	dwight moody	1
+sentient non-human race	dwarf	1
+server-integrated toolkits	dwr	3
+small scale development	dwelling	1
+standard evaluation criterion	dw statistic	1
+standard player character race	dwarf	1
+strict liability law	dwi	1
+successful entity	dwyer learning center	1
+thermal bonding parameter	dwell time	1
+thermal test key parameter	dwell time	1
+time offense	dwi	1
+TQM initiative	dwm	1
+traffic violation charge	dwi	1
+tree-like shrub	dwarf crape myrtle	1
+true parasitic plant	dwarf mistletoe	1
+vector-based file format	dwg format	1
+vine type	dwarf	2
+water utility owner	dwr cymru	1
+young center	dwight howard	2
+aboveground symptom	dwarfing	1
+accelink product	dwdm	2
+accomplished choreographer	dwight rhoden	1
+Adwelling unit	dwelling unit in a hotel	1
+air jordan player	dwyane wade	1
+annealing process parameter	dwell duration	1
+ative plant	dw arf redtw ig dogw ood	1
+atlanta's household name	dwight eubanks	1
+attractive vegetable	dwarf bean	1
+avowedly liberal political theorist	dworkin	1
+bag making condition	dwell time	1
+technique	dwyer	1
+basketball celebrity	dwyane go	1
+beautiful carving	dwarf screen the reredos	1
+big-name leader	dwight eisenhower	1
+bubblenest builder	dwarf gouramis	1
+CALFED agency	dwr	1
+carpet plant	dwarf hairgrass	1
+clean player	dwight	2
+commanding general	dwight d. eisenhower	1
+common CAD format	dwg	1
+corporate law firm	dwf	1
+cross-category athlete	dwight howard	2
+D&D type species	dwarf	1
+demographic requirement	dwelling type	1
+Detailed run time information	dwell time	1
+difference species	dwarf	1
+disease tree pathogen	dwarf mistletoe	1
+distinct settlement pattern	dwelling unit cluster	1
+duct construction standard	dw- one hundred and fourty-four 	1
+dwarf bean	dwarf bush bean dwarf bean	1
+dwarf pine	dwarf white pine	1
+Eastern plant species	dwarf palmetto	1
+emission-line object	dwarf nova	1
+enormously popular president	dwight eisenhower	1
+EP concept	dwell time	1
+fairy race	dwarf	1
+feature many standard fantasy race	dwarf	1
+free viewer	dwg trueview	1
+technique	dwarfing	1
+FW puffer	dwarf puffer	1
+ga-insensitive mutant	dwarf- eight  in maize 	1
+good summer bulb	dwarf dahlia	1
+GOP president	dwight d. eisenhower	1
+grain farmer	dwight winkleman of thompson	1
+greatest general	dwight eisenhower	1
+hardy evergreen shrub	dwarf conifer	1
+herbaceous or inconspicuous host	dwarf willow	1
+higher-end program	dw alliance	1
+hindu disciple	dwarka nath tagore	1
+human mobility state	dwelling	1
+human-like race	dwarf	1
+influential NHL goalie	dwayne roloson	1
+in-game computer	dwarven computer	2
+innate channel	dwtv	1
+INTRODUCTION human mobility state	dwelling	2
+invited adult	dwayne provo	1
+japanese site	dwango's popular nico nico douga	1
+japanese site	dwango s popular nico nico douga	1
+key forest health factor	dwarf mistletoe	1
+leadership training	dwom	2
+light tiling window manager	dwm	1
+lovely fragrant plant	dwarf lavender	1
+low-end unit building	dwarf hall	1
+mainstreamers	dwayne mondrey	1
+medium-sized character	dwarf	1
+members quest	dwarf cannon	1
+microfish	dwarf rasboras	1
+Middle Earth Americans	dwarf americans	1
+millian liberal	dworkin	1
+miniature tropical plant	dwarf anubias	1
+misdemeanor matter	dwi	1
+modern day legend	dwight freeny	1
+motor vehicle law	dwi	1
+native and ornamental palm	dwarf palmetto	1
+native CAD file format	dwf	1
+native guernsey speciality	dwarf pansy	1
+native pathogen	dwarf mistletoe	1
+NBA megastars	dwyane wade	1
+NBA super-stars	dwayne wade	1
+network's key academic helper	dwight lee	1
+NFL pick	dwayne bowe on the squad	1
+nokia siemens networks own product	dwdm based optical transport	1
+Non-native fruit	dwarf sour cherry	1
+application	dwt-based image compression	1
+norwegian and local speciality	dwarf salmon	1
+office plant	dwarf fruit tree	1
+optical transport technology	dwdm	2
+order tohandle complex physical characteristic	dwell inter-leaving	1
+ornamental cherry tree	dwarf weeping cherry	1
+popular miami heat player	dwayne wade	1
+post-processing issue	dwell time	1
+process-control parameter	dwell time	1
+prominent military man	dwight eisenhower	1
+prominent new artist	dwight yoakam	1
+race available race	dwarf	1
+Rare and endangered floral species	dwarf sundews	1
+red sock legend	dwight evans	1
+region support plant	dwarf shrub	1
+scarce plant species	dwarf milkwort	3
+seasonal crime	dwelling burglary	1
+serious legal consequence	dwi	2
+simply defect	dwarfism	1
+sneaker topic	dwyane wade's debut season in jordans	1
+sport bottle	dw- seven hundred and three  aluminum bottle 	1
+stand unit	dwarf gyro-bomblers	1
+standard race	dwarf	3
+standard RPG race	dwarf	1
+standard test condition	dwell time	1
+standard-size piece	dwarf fighter	1
+staple fantasy race	dwarf	1
+star character	dwayne johnson	1
+super player	dwight	1
+superior large heavily armored airship	dwarven overlord airship	1
+sustaining researcher	dwight boyd	1
+application	dwdm	1
+application	dw eight 	1
+top earning player	dwayne wade	1
+towering spiritual giant	dwight l. moody	1
+typical bush	dwarf rhododendron	1
+typical fantasy character	dwarf	1
+typically graphic format	dwg	1
+vaporization parameter	dwell time	1
+vectorial file format	dwg	1
+visible phenotypes	dwarfness	1
+well-known fact TV show	dwts	2
+wireless game	dwango racing	1
+WM	dwm	1
+wonderful leader	dwight pelz	1
+world war II great man	dwight einenhower	1
+year round plant	dwarf alberta spruce	1
+adjoining dependent building	dwellings of the clergy	1
+alison damast with expense	dwindling list of new client	1
+assembly constituency	dwarka	1
+authentic superstar	dwight yorke	1
+auto offense	dwi	1
+AutoCAD file	dwg	1
+background global challenge	dwindling natural material resource	1
+bar suspension design	dw link	1
+basic microsoft datum type	dword	1
+bath towel brand	dwell studio	1
+CAA client	dwyane wade	1
+name	dwyane wade	5
+name	dwight eisenhower	2
+name	dwight yorke	2
+name	dw	1
+name	dwain chambers	1
+name	dwarf neon rainbows	1
+name	dwayne bowe	1
+name	dwight schuh	1
+name	dwight d. eisenhower	1
+name	dwayne wade	1
+carpeting plant	dwarf hairgrass	1
+celebrity preacher	dwight l. moody	1
+centerpiece fish	dwarf gourami	2
+colorful Gouramis	dwarf gouramis	1
+columnar species	dwarf columnar species	1
+commercial feature athlete	dwyane wade	1
+common CAD datum exchange format	dwg	1
+common industry format	dwg	1
+compound user	dwellers in an apartment house	1
+computation factor	dwelling type	2
+cool window manager	dwm	1
+cornflower uncommon arable plant	dwarf spurge	1
+crib set	dwell studio crib set	1
+curriculum thinker	dwayne heubner	2
+demihuman race	dwarf	1
+dependable receiver	dwayne bowe	1
+difficult survival game	dwarf fortress	1
+diversified gold mutual fund	dws fund	2
+doper	dwight gooden	1
+drawing file	dwg file	1
+drawing format	dwg	1
+dwarf arctic tree	dwarf oak	1
+dwarf arctic tree	dwarf birch	1
+dwarf banana variety	dwarf cavendish	2
+dwarf palm	dwarf palmetto	1
+dwarf palm tree	dwarf palmetto	1
+easy offense	dwi	1
+easy-to-verify variable	dwelling characteristic	1
+elusive and little known species	dwarf sperm whale	1
+eminent interior decor magazine	dwell	1
+enlisting neighbor	dwight morrow	2
+example neglect contemporary liberal	dworkin	1
+extreme anti-party liberal	dwelled in a political netherworld	1
+fan organization	dwny in new york	1
+name	dwell home	1
+name	dwayne de rosario	1
+name	dwayne guenther from shaunavon	1
+name	dwarf bo'x	1
+name	dwayne mattis	1
+name	dwarf panaques	1
+fantastic race	dwarf	1
+far-left commie sympathizer	dwight d. eisenhower's son john	1
+fast spin-echo based acquisition technique	dw-propeller  seventeen 	1
+first time olympic gold medalist	dwight phillips	1
+first tree species	dwarf willow	1
+free agent superstar	dwight howard	1
+freshwater pufferfish	dwarf puffer	1
+gallent fighter	dwarf yimt	1
+Genuine all-rounders	dwayne bravo	1
+greatsword	dwarven greatsword	1
+hardy alpine species	dwarf lupine	1
+heritage snow pea	dwarf skinless	1
+home-design magazine	dwell	2
+human autosomal dominant bone disorder	dwarfism	1
+human or demihuman race	dwarf	1
+humorous aspect	dwight's anal rape line	1
+ingrown material	dwarf shrub	1
+intelligent and highly motivated gangster	dwayne	1
+interesting coastal plain species	dwarf chain fern	1
+international television	dw tv in germany	1
+kentucky native recording artist	dwight yoakam	1
+lasing condition	dwell time	1
+left celebrity	dwight macdonald	1
+legendary or retired player card	dwight clark	1
+lesser-name former coach	dwane casey	1
+liberal egalitarian	dworkin	1
+factor	dwindling fossil fuel	1
+factor	dwindling interest	1
+name	dwyane wade at the top of the list of big name available player	1
+name	dwayne casey	1
+name	dwayne jarrett	1
+name	dwayne mcclain	1
+name	dwell studio	1
+name	dwight howard	1
+name	dwezel zappa	1
+case	dwi	8
+local hot spring	dwo nah hot springs	1
+longer-lived race	dwarf	3
+long-segment anterior fusion system	dwyer instrumentation	1
+low groundcover	dwarf mondograss	1
+machine seal bar setting	dwell	1
+machine seal setting	dwell	1
+macho	dwarf star seen by the hubble telescope	1
+magically creative creature	dwarf	1
+messianic scholar	dwight pryer	1
+modern pet	dwarf rabbit	2
+mouse accessibility feature	dwell click	1
+MSD method	dwt	1
+municipal court matter	dwi	1
+muscular star	dwayne johnson	1
+mythical and unusual race	dwarf	2
+native CAD format	dwg for autocad	3
+NBA rookie	dwyane wade	1
+night player	dwight howard	1
+nineteenth-century revivalist	dwight moody	1
+non standard class	dwarven cleric	1
+non-academic building	dwinelle annex	1
+non-magical class	dwarfs	1
+normal race	dwarf	1
+notable NBA superstar	dwyane wade	1
+ole miss alumnus	dwight young	1
+ome lemur species	dwarf	1
+optical networking advance	dwdm	1
+ordinal or categorical variable	dwelling structure	1
+orlando magic superstar	dwight howard	1
+outdoor water plant	dwarf water bamboo	1
+case	dwelling with a large side garden	1
+case	dw laminate	1
+case	dwelling burglary	1
+case	dwarf elephants of the mediterranean island	1
+case	dworshak dam in idaho	1
+powerful wireless adapter	dwa- six hundred and fourty-two  rangebooster notebook cardbus adapter 	1
+prairie village violation	dws	1
+pressure induced change	dwcnt outer tube	5
+pretty good alternative	dwarf s search light helmet	1
+pro wrestling star	dwayne the rock johnson	1
+prosthetic racial feature	dwarves beard	1
+remoting framework	dwr	3
+right-of-centre Saskatchewan NDP high-profilers	dwain lingenfelter	1
+Rogue-likes	dwarf fortress	1
+school fantasy element	dwarf	1
+shrub also sport berry	dwarf holly	1
+similarly-sized, non-predatory species	dwarf corydoras	1
+skeletal growth abnormality	dwarfism	1
+slender, taller plant	dwarf ornamental grass	1
+slope northern species	dwarf cornel	1
+small galaxy	dwarf galaxy	1
+Small gentle fish	dwarf cichlids	1
+small range	dwarf ibis bostrychia bocagei on sao tome	1
+small-leafed green form	dwarf basil	1
+sorghum	dwarf milo	1
+split completion transaction	dword completion	2
+stand-out NBA player	dwyane wade	1
+stated parameter	dwell time	1
+statutorily-mandated program	dwi education	1
+stiff or prickly plant	dwarf barbarry	1
+subordinated side street	dwelling street	1
+Subtended equipment	dwdm	1
+suitable variety	dwarf greenstripe	1
+option	dwarfs	2
+option	dwarf hinoki cypress	2
+option	dwarf bird's nest spruce	2
+option	dwyer	1
+option	dwelling rental	1
+Technical staffs	dw designer	1
+temperate-climate vegetable	dwarf bean	1
+term contract	dwr contract	1
+time major government department	dwp	1
+tonalism painter	dwight tryon	1
+top center	dwight howard in a battle of push	1
+top soldier	dwight eisenhower	1
+top-notch precious metal fund	dws precious metals fund	1
+traditional and contemporary authority	dworkin	1
+traffic misdemeanor	dwi	1
+tulsa whellmen bike club member	dwayne brannon	1
+typical optical datum network	dwdm network	1
+typically Tanzanian savannah species	dwarf mongoose	1
+UK central government department	dwp	1
+UK department	dwp	1
+uncommon arable plant	dwarf spurge	1
+upland broad habitat	dwarf shrub heath	1
+variegate minor variety	dwarf variety of starry night	1
+variety sharon	dwarf variety perennis	1
+wavelength-division multiplexing technology	dwdm	2
+WDM technology	dwdm	1
+white and red card	dwarven vigilantes	1
+winter flowering bulb	dwarf irises	1
+yaskawa AC drive feature	dwell	1
+york school predecessor	dwight macdonald	1
+Accelinkproducts	dwdm	1
+actual drawing file	dwg	2
+advanced optical-networking equipment	dwdm	1
+advanced WDM network system	dwdm system	1
+alcohol related drunk driving violation	dwi	2
+alcohol-related criminal conviction	dwi	1
+alpine shrublets	dwarf daphnes	1
+Anabantids	dwarf gouramis	1
+asset superstar talent	dwayne wade	1
+option	dwayne jones	1
+option	dw- six  wide-angle lens 	1
+option	dwarf planet	1
+option	dwell timer	1
+base keyword	dwi lawyer	1
+best perfor-mancefordata-dominated application	dwt	1
+bike recipient	dwain sams	1
+blue or purple flowering perennial	dwarf plumbago	1
+blueberry shrub	dwarf tophat blueberry	1
+Brahmos	dwarkanath ganguly	1
+bus operation	dwell time	2
+bus-specific behavioral model	dwell time at a stop	1
+channel-monitoring product	dwdm channel monitor product line for original equipment manufacturers for embedded dwdm monitoring for roadm	1
+choice specimen	dwarf tree	1
+city bureaucrat	dwp's ezra scattergood	1
+class A & B misdemeanor	dwi	4
+colorful beautiful freshwater fish	dwarf gouramis	2
+comfortable building	dwelling house	1
+common window program name	dwm.exe	1
+company's strategic shareholder	dws investment	1
+conical plant	dwarf alberta spruce	1
+constitutional abnormality	dwarfism	1
+Contract ualists	dworkinand menzel	1
+conventional sintering machine	dwight lloyd type sintering machine	1
+custom water softening system	dws	1
+dedicated sequence	dwi	1
+design purpose CAD file	dwg	1
+Devoted Christians	dwayne tryumf	1
+digestible carbohydrate source	dwp	1
+Dissenters	dwight macdonald	1
+distinctive vegetation type	dwarf	1
+distinctly compact type	dwarf yellow milo	1
+D-Link	dwl- one hundred and twenty  usb wireless kit costs less than f three hundred 	1
+doggedly menacing pass rusher	dwight white	1
+Drier-site species	dwarf oregon grape	1
+driving-related crime	dwi	1
+Dropped loot	dwarven axe	1
+Dublin housebuilders	dwyer nolan	1
+DW game	dw five 	1
+dwarf evergreen	dwarf balsam fir	1
+dwarf lilac	dwarf korean lilac	1
+dwarf-only prestige class	dwarven defender	1
+echo planar MRI technique	dwi	1
+encapsulated glass unit	dw one thousand two hundred and seventeen 	1
+engineering file format	dwg	1
+environment -metric	dwelling density	1
+euonymus variety	dwarf burning bush	1
+expensive non-durable good	dwelling	1
+extra-hardy plant	dwarf yaupon holly	1
+extremely hateful feminist	dworkin	1
+fairly immobile unit	dwarf	1
+fairy technology	dwarf rock polish	1
+famous wrestling personality	dwayne the rock johnson	1
+featured amplifier	dwdm edfa	1
+gibberellin treatment dwarf plant	dwarf corn	2
+good hidden new country artist	dwight yoakam	1
+good new country artist	dwight yoakam	3
+gray market importer	dwi	1
+hardiest dwarf lilac cultivars	dwarf korean	1
+height abnormality	dwarfism	1
+hereditary birth defect	dwarfism	1
+Herpestidae species	dwarf mongoose	1
+High density technology	dwdm	1
+high-school player	dwight howard	2
+howard legend	dwayne saunders	1
+HUNTING spot	dwarf mine	1
+hybrid datum format	dwg	1
+image compression approach	dwt	1
+implicit theory researcher	dweck	1
+Imported content	dwg file	1
+improved -metric	dwelltime alongside better analytics tool	1
+incident multi-wavelength light signal	dwdm signal	1
+in-field activity	dwre salvage operation	1
+group	dwellers of southern louisiana	1
+inland mangrove	dwarf mangrove	1
+interstrata structure	dwelling burrow	1
+ips's partner	dwp	1
+large and ferocious mattock	dwarves of the iron hills used in battle	1
+large bandwidth network	dwdm network	1
+lawful race	dwarf	1
+leaf type shrub	dwarf lilac	1
+less-specialized facility	dwelling	1
+linics	dw ho	1
+long living race	dwarf	1
+long-range nuclear arm	dwight gooden for dave righetti	1
+luck egalitarian	dworkin	1
+maize mutant	dwarf mutant	1
+mediocre mind	dwight deacon's	1
+medium-sized reptile	dwarf bearded dragon	1
+miniature flower	dwarf daffodil	1
+moderately tough enemy	dwarfs warriors with hand weapon	1
+modern construction reality	dwindling budget	1
+motor vehicle charge	dwi	1
+mountain laurel	dwarf mountain laurel	1
+mutant character	dwarfness	1
+next-gen musou game	dw six 	1
+nokia siemens networks product	dwdm optical transport platforms besides the company's professional service	1
+non-agitated melters	dwpf melter	1
+Noncommercial real estate	dwellings found in a private	1
+group	dwellers in remote area	1
+north american wrestler	dwayne the rock johnson	2
+notable christian fiction author	dwan abrams	1
+notable hunter	dwight schuh	1
+n-to-1 wavelength combiner	dwdm combiner	1
+obligate social species	dwarf mongoose	1
+overseas gray importer	dwi	1
+partisan consideration	dwellings of current members of congress	1
+perennial foul line customer	dwayne wade	1
+phenotypic mutant	dwarf	1
+physical big man	dwight howard	1
+physical NBA star	dwight howard	1
+plant habit mutant	dwarf	1
+plastic core unit	dwarf ironclads	1
+player partnership	dwight york	1
+Popular evang elists	dwight l. moody	1
+posh school	dwight englewood	1
+practical race	dwarf	1
+preference board setting	dwell	1
+public-order crime	dwi	1
+pupil response measurement	dwell time	1
+pure mediator	dwight golann	1
+PYO orchard	dwight miller	1
+quality rabbit	dwarf hotot	1
+quiet South Americans	dwarf corydoras	1
+racial vampire	dwarven	1
+random tumblrs	dwellings	1
+rare vernal pool species	dwarf downingia	1
+red rice	dwarf red gunja	1
+retarded easy mode ability	dww	1
+rock dweller	dwarf julidochromis in the middle of the tank	1
+rockery perennial	dwarf viola	1
+sample dwarf flower	dwarf nasturtium	1
+savvy freelancer	dwight collins in new york city	1
+second, physical resource	dwelling	1
+self-inflicted case	dwight gooden	2
+method	dwt	1
+method	dwelled-time method	1
+senior bowler	dwight freeney of the colts	1
+server side java framework	dwr	1
+service-specific attribute	dwelling description	1
+shared physical characteristic	dwarfism no	1
+short evergreen	dwarf english laurel	1
+short type	dwarf cavendish banana	1
+short, bushy, prolific bloomer	dwarf marigold	1
+Shy, nocturnal fish	dwarf lionfish	1
+similar-sized territorial bottom dweller	dwarf cichlids	1
+simply open most file type	dwg	1
+simply-inherited trait	dwarfism in cattle	1
+skill check	dwarven search	1
+skill-enhancing spirit	dwarven stout	1
+slowish army	dwarves	1
+small eared rabbit	dwarf breed	1
+small stem willow	dwarf arctic blue willow	1
+small tree form	dwarf bush tree	1
+small, eye-catching patio plant	dwarf hinoki cypress	1
+small-foliaged broad-leaved evergreen	dwarf holly	1
+small-growing peat-garden plant	dwarf rhododendron	1
+small-leaved green form	dwarf basil	1
+species peak	dwil for catalytic activity gene	1
+spheroidal system	dwarf spheroidal system	1
+spontaneous chicken mutant	dwarf	3
+spring-blooming, native shrub	dwarf witch-alder	1
+SPS parameter	dwell temperature	1
+standard window defs	dword	1
+stunning routine	dwight roden	2
+sugar pea seed	dwarf gray sugar in water overnight	1
+tailored shrub	dwarf alberta spruce	1
+time operator	dwell time	1
+time-consuming mid-steps	dwell time calculation	1
+traditional alpines	dwarf conifers	1
+traditional -logistic service provider	dw morgan	1
+traffic defense case	dwi	3
+triggering option	dwell time triggering	1
+true freshwater puffer	dwarf puffer	1
+type feature	dwarf wall	1
+ultra-high resolution magneto-optical disk	dwdd type disk	1
+underground species	dwarf	1
+underrated pastime	dwarf tossing	2
+unknown datum type	dword	1
+unmovable structure	dwelling	1
+variable proxy forneighbourhood context	dwelling value	1
+vector container file format	dwg	1
+tool	dwell meter	3
+tool	dwelling well-preserved tool	1
+tool	dwg file	1
+tool	dwr	1
+tool	dw	1
+tool	dw seven hundred and sixteen  double bevel miter saw 	1
+videoclip known sportsman	dwyane wade	1
+water network	dwr cymru in wales	1
+wildly interesting, off-beat character	dwarf	1
+Winter rape	dwarf essex	1
+wrestlers-turned-actors	dwayne johnson	1
+tool	dw gliscor	1
+tool	dw nine hundred and sixty  right angle drill 	1
+tool	dwarf companion	1
+product	dwelling equipment	12
+product	dwelling device	9
+product	dwelling hardware	9
+product	dwelling product	8
+product	dwelling appliance	7
+product	dwelling home appliance	4
+project	dwr	1
+project	dwelling advancement project	1
+project	dwss using open-open channel	1
+project	dwc-al maktoum international airport	1
+project	dwarfing similar project	1
+project	dwesa e-commerce platform in the eastern cape province	1
+artist	dwele	14
+artist	dwight yoakam	12
+artist	dwight yoakum	5
+artist	dweezil zappa	3
+artist	dweezil	1
+artist	dwight mackintosh	1
+artist	dwight yokum	1
+artist	dwight w. tryon	1
+artist	dwight williams	1
+artist	dwight tryon	1
+artist	dwight trible	1
+artist	dwayne murphy	1
+artist	dwayne burnside	1
+artist	dwayne steele	1
+artist	dwayne woods	1
+material	dwarven	1
+place	dwarka in gujarat	1
+place	dwarf village	1
+place	dwemer ruin	1
+place	dwarka	1
+place	dwaraka	1
+player	dwyane wade	38
+player	dwight howard	19
+player	dwayne wade	12
+player	dwight freeney	9
+player	dwight yorke	8
+player	dwayne de rosario	4
+player	dwayne kerr	2
+player	dwight gooden	2
+player	dwayne bowe	2
+player	dwayne peel	2
+player	dwayne polk	1
+player	dwayne lalor	1
+player	dwayne smith	1
+player	dwayne white	1
+player	dwight peters	1
+player	dwight lowery	1
+player	dwayne boot griffith	1
+player	dwight hardy	1
+player	dwyer defensive line michael mims	1
+player	dwayne schintzius	1
+player	dwayne wade.	1
+player	dwayne harris	1
+player	dwayne soar	1
+player	dwayne newman	1
+player	dwight collins	1
+player	dwight king	1
+player	dwight evans	1
+player	dwight gooden baseball card	1
+player	dwight	1
+player	dwayne mcclean	1
+player	dwayne allen	1
+technology	dwdm	10
+product	dwdm	2
+product	dwv pipe	1
+technology	dwdm transport backbone	1
+technology	dwdm simmering	1
+term	dwelling	2
+term	dwelling unit	1
+term	dwell time	1
+term	dwi	1
+parameter	dwell time	19
+parameter	dwell	3
+parameter	dwell timer	1
+system	dwdm system	1
+system	dws	1
+system	dw link	1
+system	dwarf spheroidal system	1
+system	dwg line style	1
+system	dwl	1
+species	dwarf	4
+species	dwarf mistletoes of north america	3
+species	dwarf birch	2
+species	dwarf mongoose	2
+species	dwarf sperm whale	2
+species	dwarf hamster	2
+species	dwq pre-approved species	1
+species	dwarf fan palm	1
+species	dwarf elephant	1
+species	dwarf conifer	1
+species	dwarf brittle star	1
+species	dwarf chimpanzee	1
+species	dwarf spikerush	1
+species	dwarf raspberry	1
+species	dwarf sea horse	1
+species	dwarf scorpionfish	1
+species	dwarf bamboo	1
+species	dwarf wedgemussel	1
+species	dwarf palmetto	1
+species	dwarf crocodile	1
+species	dwarf caiman	1
+species	dwarf cinquefoil	1
+species	dwarf hamster s	1
+species	dwarf milkwort	1
+species	dwarf angelfish	1
+species	dwarf polyanthas	1
+species	dwarf puffer	1
+species	dwarf columnar species	1
+species	dwarf ginseng	1
+species	dwarf willow	1
+species	dwarf bittern	1
+species	dwarf brodiaea	1
+species	dwarf arrowhead	1
+species	dwarf morning glory	1
+species	dwarf g. dicarpa	1
+species	dwarf galagos	1
+species	dwarf hamster species	1
+species	dwarf shrub species	1
+measure	dwi leadership group	1
+condition	dwelling design peculiarity	2
+condition	dwarfism	2
+element	dwelling	2
+variable	dwell time	3
+variable	dwelling unit	1
+variable	dwc	1
+variable	dwelling condition	1
+function	dwf virtual printer	2
+function	dwell time	2
+function	dwell	1
+function	dwelling	1
+function	dwelling place for christian anachorets	1
+brand	dw	4
+brand	dwell	4
+brand	dwell studio	2
+brand	dw drum	1
+brand	dwt	1
+concept	dwarven short height	3
+concept	dwelling	1
+component	dwc	1
+component	dwf viewer	1
+aspect	dwdm	2
+aspect	dwell time	1

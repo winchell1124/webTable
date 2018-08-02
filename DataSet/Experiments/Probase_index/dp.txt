@@ -1,0 +1,698 @@
+facility	dpc	1
+process	dpl process for further defatting of whey	1
+process	dplorthedcp process	1
+process	dp movement	1
+source	dpreview	1
+source	dppc	1
+property	dpi	2
+benefit	dpb	1
+subject	dps  nine hundred and eleven 	1
+subject	dps  nine hundred and fourteen 	1
+subject	dps  nine hundred and nine 	1
+reason	dpd homicide section being decimated by budget cut	1
+word	dp camp	1
+category	dp	2
+feature	dpof print marking	3
+person	dpp's tsai ing-wen	1
+approach	dpoandspousea categorical representation of the operation	1
+effect	dpx formation	1
+agency	dpwh	5
+agency	dpb	2
+agency	dpr	2
+agency	dpp ato	1
+agency	dppc	1
+agency	dpw	1
+mechanism	dp thymocyte death caused by the direct action of nef in dp cell	1
+feature	dpm reader	1
+feature	dpof support	1
+feature	dpp site feature	1
+feature	dphs heatsink support	1
+feature	dpi setting	1
+business	dp world	1
+school	dps south	2
+school	dps rk puram	1
+school	dps	1
+school	dps high school	1
+school	dps ghaziabad vasundhra	1
+operation	dpf	1
+agent	dpp- four  class 	2
+agent	dpp-iv inhibitor	2
+agent	dpp-iv	1
+agent	dpp- four  inhibitor 	1
+agent	dpp- four  inhibitors with a low risk of hypoglycemia 	1
+type	dpdt momentary switch	1
+type	dpst momentary switch	1
+criterion	dpt three  coverage better delivery service 	1
+firm	dp world	2
+drug	dpp- four  inhibitor 	1
+drug	dpp-iv inhibitor	1
+manufacturer	dpms	3
+manufacturer	dpms panther arms	1
+feature	dps image processing for high contrast recording	1
+feature	dpnss callback	1
+attribute	dpc	1
+setting	dpi setting	3
+setting	dpi	1
+class	dps only class	1
+class	dps only class	1
+class	dps spec commando	1
+class	dps melee class	1
+position	dps spot	1
+expense	dp	2
+entity	dpw	1
+entity	dpko	1
+entity	dp world	1
+entity	dpi	1
+entity	dpa	1
+country	dprk	8
+country	dpr korea	4
+country	dprk from exporting missile	1
+phenomenon	dp	1
+improvement	dps meter	2
+medication	dpp- four  inhibitor 	3
+medication	dpis many medication	1
+variety	dp  six hundred and fifty-five br 	1
+variety	dpl  five thousand four hundred and fifteen r 	1
+format	dpx	1
+format	dpatch	1
+big name	dpms stag bushmaster rra colt	1
+big name	dpd	1
+standard	dpws	1
+standard	dpnss allowing for tight integration with non-mitel networks pbxs	1
+advanced feature	dpof support	1
+role	dps	1
+role	dpser	1
+effort	dpubs	1
+label	dp	3
+department	dpw	6
+department	dpa	1
+department	dpe	1
+department	dpko	1
+software	dpp	1
+module	dp	1
+party	dp	3
+party	dpr	1
+professional	dpt's	1
+machine	dpx two  polyester platesetter 	1
+brand name	dp	1
+record	dp record	1
+package	dpak	1
+landmark	dpac	1
+therapy	dpp-iv inhibitor	1
+algorithm	dp on a dag	1
+charge	dpw's staff time	1
+issue	dpaf process	1
+issue	dpf	1
+issue	dpf problems if used pottering about the town	1
+platform	dpe	1
+operator	dpwn	1
+operator	dpd uk	1
+network	dpa news agency	2
+medium	dpg video	1
+authority	dpa	2
+stock	dpl	1
+target	dp one 	2
+factor	dpi	2
+factor	dpd activity in peripheral blood mononuclear cell	1
+issue	dp transmitter drift	1
+modalities	dpp- four  inhibitor 	1
+director	dps like dan shulman	2
+forum	dp	3
+forum	dpreview	2
+forum	dp review	1
+government agency	dpwh	3
+government agency	dpr	1
+gene	dppa two 	3
+gene	dpep one 	2
+gene	dpp four 	2
+popular brand	dpms	1
+web site	dp review	1
+segment	dpi	1
+phrase	dp	2
+suspect	dpkg	1
+maker	dpms	2
+professional organization	dpma	1
+international organization	dpa	1
+code	dp one 	2
+support	dp health minister livia turco	1
+inhibitor	dpi	1
+inhibitor	dpp- four  dpp four  inhibitor 	1
+ministry	dppc	1
+analysis	dpd genotypingoreven dpdpbmc activity	1
+analysis	dpd genotyping	1
+big company	dp world	2
+attack	dpa	2
+local group	dpi	2
+mission	dpko-administered peacebuilding mission	1
+reagent	dppa	8
+software package	dpl	1
+basic feature	dpof print marking	11
+member	dpj party member	1
+basic function	dpof print marking	3
+adjustment	dpi	2
+adjustment	dps slacking	1
+treatment option	dpp- four  inhibitor 	1
+consumable	dp test kit	1
+well-known brand	dph germany	2
+well-known brand	dp jeans	1
+funding source	dpw	1
+free service	dpf-off	1
+private company	dpd	1
+expenditure	dpw	1
+item	dpi resolution	1
+item	dp universal detailing clay	1
+vital information	dpi resolution	1
+computer program	dpl	1
+indication	dpn	1
+host	dp five 	1
+system parameter	dp cost	1
+sensitive issue	dprk's uranium enrichment	1
+mitigation measure	dpwh	1
+key parameter	dp power consumption	1
+union	dpg	1
+item	dpv	1
+item	dpw capital	1
+item	dps ad item	1
+diagnostic tool	dps	1
+ligands	dppm	2
+ligands	dppe	2
+ligands	dppp	2
+experimental parameter	dpc concentration	1
+souvenir	dprk stamp	1
+file format	dpx	3
+receiver	dpsk signal receiver	1
+reputable company	dpr construction	2
+political party	dp	2
+subsidiary	dpj clothing ltd.	1
+datum element	dp	1
+assay	dpc's cardiac biomarkers	1
+assay	dpc's stat cardiac biomarkers	1
+professional group	dpr three  in central sulawesi 	1
+printer	dpi ink jet printer	1
+case study	dpv exercise	1
+vaccine	dpt	8
+maintenance activity	dpw fund ongoing maintenance activity	1
+information system	dps	1
+implementation issue	dpf regeneration	1
+site feature	dpp site feature	1
+high school	dps high school	1
+training material	dpko standardized generic training modules	1
+good brand	dpms	1
+chip	dp-tuner with tow tune	1
+state institution	dpr	1
+ratio	dps	1
+area	dp	1
+trial	dpp	1
+top team	dpr korea	1
+petroleum product	dpk	1
+principal	dpi sekur	1
+local official	dpw staff	1
+custom service	dpp server	1
+accelerator	dpg	1
+service	dpf-off	2
+blue chip	dp world	3
+lipid	dppc	2
+city department	dpw	3
+international school	dps international school	1
+service	dp	1
+service	dpw	1
+quality factor	dpmo	1
+modulation scheme	dpsk	1
+wheel	dpe	1
+modulation technique	dpsk	2
+server application	dp server application	1
+prominent leader	dp jabu	1
+review site	dpreview	1
+review site	dpreview for hard number	1
+review site	dpreview.com	1
+black	dpt commish barksdale	1
+dangerous chemical	dpb	1
+input signal	dpd te signal	1
+compression technique	dpcm coding	1
+vaccination	dpt	1
+common option	dpi resolution	2
+political institution	dpr	1
+topic	dp organization	1
+topic	dpi	1
+topic	dpmi	1
+digestive enzyme	dpp-iv	1
+ambassador	dpr korea	1
+free radical	dpph the total spin s two 	1
+display setting	dpi	1
+top leader	dpm najib	1
+large department	dpw	1
+policy variable	dp rate	1
+phospholipids	dppc	1
+exciting product	dpp- four  inhibitor 	1
+topic	dpi verses ppi	1
+topic	dp economy	1
+topic	dprk safety cooperation	1
+immunization	dpt	3
+well-known feature	dpc cone	2
+incubator	dpg	1
+company	dp world	6
+coder	dpcm	1
+international operator	dp world	1
+simple option	dpi slider	1
+company product	dpss laser	5
+API	dpvm	2
+company	dpwn	1
+company	dpl inc.	1
+company	dps penn	1
+company	dpi vendor	1
+component model	dp-qpsk receiver	2
+courier	dpd	2
+minor variation	dpf delete	1
+high end company	dpe	1
+premier company	dpd	1
+conceptual framework	dpsir	1
+pigmented lesion	dpn	1
+hormone treatment	dp anastrozole	1
+company	dp	1
+company	dpd	1
+higher-end brand	dp	1
+home system	dpl light	1
+key official	dpwh undersecretary for mindanao operations	1
+performance product	dpf deletes	1
+communication process	dpg intranet website	1
+key stock	dpm	1
+required accessory	dp cell	1
+short document	dp one  report 	1
+dynamic method	dpd	1
+activity	dpw fund ongoing maintenance activity	1
+academic degree	dpt	1
+client project	dpc client project	1
+long-lead item	dp system	2
+polar lipid	dpg	1
+town department	dpw	1
+implementing agency	dpwh	1
+physical channel	dpch	2
+departmental resource	dpls checklist for academic papers	1
+ammunition	dpicm	1
+activity	dpg marathon	1
+melee class	dps melee class	1
+printer option	dpi resolution	1
+solid-state laser	dpss	1
+complementary institution	dpp	1
+digital file format	dpx	1
+peptidases	dpp four 	1
+photo format	dpx	1
+package manager	dpkg	2
+information	dpc	1
+pharmacological inhibitor	dpi	1
+indeterminate variety	dp  thirty-three b 	1
+potential enemy	dprk	1
+Secondary equipment	dp transmitter	1
+calcium channel antagonist	dp b ninety-nine 	2
+online web site	dpreview.com	1
+port operator	dp world	3
+information	dpa requirement	1
+information	dpi no.	1
+combination vaccine	dpt with hepatitis b	1
+lossless compression technique	dpcm	1
+parcel service	dpd	4
+modulation type	dpsk	1
+big stock	dpm	1
+ancillary diagnostic test	dpl surg	1
+classical optimization method	dp	1
+conventional numerical method	dp	1
+oral diabetes medication	dpp- four  inhibitors 	1
+oscilloscope	dpos in the tektronix dpo seven thousand   series 	1
+oscilloscope	dpos in the tektronix tds five thousand  b series 	1
+phosphine ligands	dppp	1
+suspected allergen	dpg	1
+event	dp day	1
+pluripotency marker	dppa two 	1
+pluripotency marker	dppa three 	1
+rival technology	dpss	2
+webmaster forum	dp	1
+cycle characteristic	dps	1
+global optimization algorithm	dp	1
+hair disorder	dpwh	1
+ink jet printer	dpi ink jet printer	1
+machine-readable code	dpbc	1
+small cap	dp poland	1
+aftertreatment device	dpf	1
+after-treatment device	dpds	1
+doctorate degree	dphil	1
+global port operator	dpw	1
+house manufacturing facility	dpc	1
+LCD product	dpf	1
+matching technique	dp matching	1
+temperature controller	dpdt relay	1
+vertical tool	dp's	1
+american toy	dp clark	1
+christian rap artist	dpb	1
+common vaccination	dpt	1
+community-oriented program	dpp	1
+disability payment	dpma payment	1
+program	dpl	1
+novel gene	dpp ten 	1
+proven resource	dpr educational services	1
+resolution setting	dpi	1
+secondary target group	dpos	1
+UAE company	dp planet	1
+union worker	dpw	1
+advanced scheme	dpcm	1
+core promoter element	dpe	2
+core site	dp fanatics	1
+emission reduction technology	dpf	1
+example device	dpf	1
+international courier	dpd	1
+key technical information	dplc nutrition	1
+liquid-phase method	dp	1
+ministerial position	dpm-cum-minister of finance	1
+phase modulation	dpsk	1
+program	dpi's peer support program	1
+polythene product	dpc	1
+advanced experimental technique	dpiv measurements in the vicinity of the wall	1
+agent type	dp	1
+antioxidant assay	dpph	2
+antioxidant assay	dpph scavenging activity	1
+common fix	dpfe sensor	1
+composition type	dp	3
+conventional compression technique	dpcm	1
+land development program	dpap	1
+lossless technique	dpcm	1
+program	dpsu	1
+program	dpp	1
+mind case	dpp	1
+professional practice degree	dpt	1
+signal receiver	dpsk signal receiver	1
+simplification method	dp algorithm	1
+ubiquitous service	dpws service	1
+advanced high strength steel	dp	2
+AKAI service manual	dp- seven hundred and thirty  cd player 	1
+bidentate ligands	dppp	2
+bidentate ligands	dppe	1
+custom tune	dp	1
+dayton company	dp	1
+dynamic programming method	dp matching method	1
+formulation type	dp	3
+nanopatterning technique	dpn	1
+poverty elimination program	dpap	1
+practitioner doctoral degree	dpsych	1
+sector institution	dpp	1
+side-channel attack	dpa	2
+solubilising agent	dpg	1
+successful private corporation	dpt laboratories	4
+top aftermarket company	dp brakes	1
+abrasive polish	dp high performance glass restorer	1
+big liner	dp world	1
+borough department	dpw	1
+dpp4 inhibitor	dpp- four  dpp four  inhibitor 	1
+land holder	dp partners	1
+marine engineering service	dp fmea	1
+naturally certain work	dpc installation	1
+non-pbuse user	dpas	1
+parcel delivery service	dpd	1
+organization	dp world	1
+professional review site	dpreview	1
+service-centric standard	dpws	1
+standard immunization	dpt	1
+syntactic phrase	dp	1
+thankfully organization	dpni	1
+variuos NDT method	dpi by asnt	1
+wheel sealant	dp wheel glaze	1
+aftermarket chip	dp chip	1
+aged building	dpw headquarters	1
+bennies	dps used for dps-based skills attack	2
+common bidentate phosphine ligands	dppe	1
+common bidentate phosphine ligands	dppf	1
+common bidentate phosphine ligands	dppp	1
+conventional ligands	dppf	1
+corrupt-prone agency	dpwh	1
+coverage indicator	dpt three  coverage 	1
+DB2 efficiency	dpsis	1
+department's non-emergency office	dpw office	1
+diagnosis device	dpx-iq densitometer	1
+documented issue	dpf	1
+enthralling program	dpsg run	1
+exclusive EVGA feature	dphs	1
+eye-catching option	dp fifty-four  satin clutche 	1
+eye-catching option	dp fifty-three  luxe purse 	1
+technique	dp matching technique	1
+technique	dpcm	1
+grain management program	dpr	1
+high end desktop PC board	dp fourty-five sg 	1
+high fidelity image file format	dpx	1
+infrastructure agency	dpwh	1
+mature remote display technology	dps	1
+multi-pole switch	dpdt	1
+application	dp	2
+notable gun brand	dpms	1
+path-finding algorithm	dp	1
+PI device	dpaswitch	1
+product PVC film	dpc for rainwear	1
+prominent UAE company	dp world	3
+reputable and ethical company	dpi plastics	1
+set map image property	dpi	1
+application	dpa decoder	1
+application	dp operation	1
+application	dpi	1
+application	dp sensors used on vertical take-off jet fighter	1
+application	dp server application	1
+A2a receptor agonists	dpma	2
+advanced digital modulation format	dpsk	1
+advanced DPS product	dps- four hundred and seventy av component digital av synchronizer 	1
+advanced DPS product	dps foundation modular digital processing system	1
+advanced phase modulation format	dpsk	1
+aftermarket wheel maker	dpe	1
+alum-adsorbed vaccine	dpt	1
+application-aware system	dpi device	1
+atk buff	dp buff	1
+AUX CH service	dpcd	1
+basic file format information	dpi level	1
+best-known satisfiability algorithm	dpll	1
+bidentate phosphines	dppf	1
+name	dpms	2
+casual healing scenario	dp grade b	1
+city's non-emergency office	dpw office	1
+commodity purchasing transaction	dph transactions purchased through the group purchasing organization	1
+common oxygen free radical inhibitor	dpi	1
+common promoter element	dpe found in the human glial fibrillary acidic protein	1
+company's millwork program	dpr	1
+complicated imaging term	dpi	1
+computer module	dp	1
+Conclusion Chiral aminoalcohols	dpmpm  one 	1
+continuous-tone, dye-sublimation printer	dpi	1
+CPO	dp dhl's dr hugo eckseler	1
+CSS signaling	dpnss	1
+custom forged wheel	dpe	2
+custom tuner	dp tuner	1
+decided case	dpp	1
+dermal phase meter	dpm- nine thousand and three  dermal phase meter 	2
+dermal phase meter	dpm- nine thousand and twenty  dermal phase meter 	2
+device-specific setting	dpi	1
+dipeptidyl peptidases	dpp-iv	1
+dipeptidyl peptidases	dp i	1
+DN intall everything	dp thirty-four  switch 	1
+dynamically positioned vessel	dp vessel	1
+full or complete immunization	dpt	1
+high value-added preparation	dps preparation	1
+ii-negative cell	dp thymocytes	1
+integrated modulator	dpmzm	1
+legal software	dps online case tracking	1
+factor	dp rating	1
+case	dpp	3
+marxist nation	dprk the prc	1
+Membrane-associated proteases	dpp iv	1
+moneyed organization	dpa	1
+NADPH oxidase inhibitor	dpi	1
+non black ice specific setting	dpi	1
+non-humanitarian actor	dpko mission	1
+off-grid particle method	dpd	1
+optionally further application	dp system	3
+orthologous gene	dp	2
+passband modulation scheme	dpsk	1
+patterning molecule	dpp signaling molecule	1
+peptide therapy	dpp-iv inhibitor	1
+periolivary nucleus	dpo	1
+phase modulation scheme	dpsk	1
+photographic forum	dpreview	1
+plaque protein	dp	1
+Plasma etching equipment	dps ht centura	1
+polynomial algorithm	dp	1
+popular gateway	dps payment express	1
+case	dprk	1
+case	dpa	1
+case	dpd wine -logistic	1
+postal company	dpd ems	1
+powder ski	dps	1
+predictive coder	dpcm	1
+predictive coding	dpcm	1
+predictive coding method	dpcm	1
+predominately government agency	dpi	1
+red light therapy system	dpl light	1
+red light therapy system	dpl nuve	1
+remote component server	dps	1
+self-researched innovative and patented technology	dpfc method	1
+small addons	dpscheck	1
+social management account	dp world callao	1
+option	dpi	4
+Systemic biomarkers	dp two  expressed on th two  lymphocyte 	1
+thatdierent force field	dpd model	3
+theorthologous gene	dp	1
+traditional one-bit-per-symbol modulation scheme	dpsk	2
+UIV system	dpss leader system for the verification of dpss benefit	1
+unisa resource	dp thirteen  toolkit 	1
+volumetric flowmeters	dp-based flowmeters	1
+volumetric technology	dp	2
+waveform coder	dpcm along the temporal direction	1
+3-wire voltage transmitter	dpt- two thousand and fifteen  series 	1
+4-phase phase modulation	dpsk	1
+adjustable pan granulator	dp- fourteen  agglo-miser  fourteen  inch pan granulator 	1
+affordable camp option	dpr summer camp	1
+animal ethnic committee	dpi state committee	1
+antioxidant capacity assay	dpph	1
+AR manufacturer	dpms	1
+asthma susceptibility gene	dpp ten 	1
+option	dp seven hundred and thirty  ornamented satin handbag 	1
+option	dpf removal	1
+option	dpms	1
+booster immunization	dpt	1
+bootstrapping method	dp	1
+broadly similar resource	dpw t- nine 	1
+camera review website	dpreview.com	1
+canon's own free software	dpp	1
+center right political party	dp	1
+coarse graining method	dpd	1
+code conversion technique	dpcm	1
+commercial mountants	dpx	1
+commercial spec manufacturer	dpms	1
+common oxyr-regulated gene	dps	2
+consensus core promoter sequence	dpe	1
+conventional advanced high strength steel	dp	1
+Conventional liposomes	dppc	1
+custom chip tune	dp	1
+cytoplasmic plaque protein	dp	1
+datum file format	dpx	1
+debian package manager tool	dpkg	1
+DEN specific tool	dpi	1
+Deposition ofasmallamountofa saturated PL	dppc	1
+DGPS application	dp operation	1
+digital camera website	dpreview	1
+digital driving method	dps driving method	1
+diphosphines	dppe	1
+direct-writeproduc-tionapproaches	dpn	1
+doctrine-like guidance	dpko handbook on un multidimensional peace operations	1
+downstream core promoter sequence	dpe	2
+drug-reform organization	dpa	1
+dual phase steel sheet	dp steel	1
+dubai-born brand	dp world	1
+group	dpi	2
+group	dpma	2
+group	dpoc	1
+econometric software	dpd ninety-eight  for gauss 	1
+electronic journal system	dpubs	1
+essential digestive enzyme	dpp four 	1
+experiment adenosine receptor specific antagonist	dpcpx for a one 	1
+feature pattern matching determination method	dp matching	1
+Ferrocene ligands	dppf	1
+five-membered chelating ligands	dppe	1
+geocoded reference image	dppdb image provided by the national geospatial-intelligence agency	2
+good pad cleaning product	dp rejuvenator	1
+high speed DPLLs	dpll described in the referenced zurfluh patent	1
+high-profile, cross-border deal	dp world's	1
+HP photo printer	dpi	1
+hydrophobic acid dopant	dppa	1
+hypersensitive assay	dpc third generation immulite	1
+incretin enhancer agent	dpp-iv inhibitor	1
+independent and authoritative resource	dpl labs	1
+group	dp	1
+group	dp youth brigade	1
+installation level resource	dpw	1
+japanese party	dpj	1
+Key DPW staff	dpw director	2
+large-scale trial	dpp	1
+latest and safest safety solvent	dp contact cleaner	1
+legal malpract ice carrier	dpic	1
+light therapy system	dpl light	2
+low-level storage management tool	dpkg for debian-based system	1
+mini Omni	dpa above mouthpiece	1
+molecular-deposition based nanolithographies	dpn	1
+navel tree	dpi navel tree	1
+nitridation process	dpn	2
+non DPX system	dps  seven 	1
+NOX inhibitor	dpi	1
+optical communication modulation format	dpsk	1
+party executive	dpj secretary-general edano yukio	1
+Permanent mountants	dpx	1
+Phosphatidylcholines	dppc	4
+photo rejuvenation system	dpl therapy system	1
+PNG government agency	dpe	1
+pregnancy abbreviation	dpo	1
+private port operator	dp world	1
+professional search firm	dpi recruiting	1
+purely technical attack	dpa	1
+red light therapy device	dpl light	2
+red-colored mild therapy system	dpl light	1
+red-colored mild treatment system	dpl mild	1
+refuge system	dpl light	1
+reporter-detector linkage	dpsa-ca linkage	1
+risk-management service	dpc data's muniguard	1
+safe and natural alternative	dpl light	1
+saturated phosphatidylc holines	dppc	1
+saturated phosphatidylcholines	dppc	1
+Saturated symmetric phospholipids	dppc	1
+method	dpcm	1
+silicone transfer adhesive	dpi specialty tapes trans-sil	1
+single-event datum set	dpw result	1
+sponsorship partner	dp world southampton	1
+state table	dp- one  table 	1
+statistical attack	dpa attack	1
+supposed heavyweight	dpr speaker	1
+systematic, complete method	dpll	1
+tablet type	dpd for determining chlorine in water	2
+tonercare use reputable national courier	dpd	1
+top circus	dprk state circus in pyongyang	1
+tracking-servo method	dpd method	1
+traditional voice signalling protocol	dpnss	1
+triple live virus vaccine	dpt	1
+trust respectable photo review site	dpreview	1
+typical chlorine measurement device	dpd based instrument	1
+uniform search method	dpll procedure	1
+universe title	dp seven 	1
+tool	dpkg	3
+virus genome database	dpvweb	1
+WIPA partner	dpns from the one-stop career centers	1
+tool	dpi	1
+product	dpss laser	3
+project	dpc client project	1
+project	dpf	1
+artist	dpgc	1
+place	dperkins	1
+technology	dpf	2
+technology	dpt	2
+technology	dpss device	1
+product	dpf	2
+product	dps  two thousand two hundred 	2
+technology	dpp	1
+technology	dpt detection system	1
+term	dpi	4
+term	dpr	1
+term	dpm	1
+system	dpss	1
+system	dpd system	1
+system	dps  twenty-four  by akai 	1
+system	dp system	1
+system	dpa directory	1
+variable	dpayment	1
+variable	dpi setting	1
+function	dpof print marking	1
+function	dpof print set	1
+function	dp operation	1
+function	dpof setting	1
+device	dpl light	1
+device	dppc for reading	1
+device	dpl nuve	1
+brand	dpms	2
+brand	dp	1
+brand	dp world	1
+concept	dproductivity tand dusefulnesstin western culture	1
+component	dpcm used for speech	1
+site	dpreview	3
+site	dpreview.com	2
+site	dp fanatics	1
+site	dp for bit	1
+site	dp overload	1

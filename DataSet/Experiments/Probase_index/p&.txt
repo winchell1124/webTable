@@ -1,0 +1,196 @@
+product	p&g consumer product	1
+benefit	p&a transaction present benefit	1
+client	p&g salon professional	1
+client	p&g	1
+client	p&o ferries	1
+document	p&t committee evaluation	1
+document	p&id s equipment data sheet	1
+venue	p&c stadium	1
+venue	p&o cruise ship pacific sun , the queensland conservatorium of music	1
+criterion	p&g criteria of completeness	1
+manufacturer	p&f corbin company	3
+manufacturer	p&h mining equipment	1
+website	p&g for coupon	1
+big name	p&g	1
+big name	p&o cruises	1
+vendor	p&e commercial services	1
+vendor	p&l maintenance	1
+customer	p&g	1
+department	p&t audit	2
+asset	p&o ports	1
+report	p&l by class	5
+report	p&l	2
+report	p&l by job	2
+report	p&l report	1
+report	p&l ledgers	1
+line	p&o cruises	5
+line	p&g's brand-name line	1
+operator	p&o ferries	2
+operator	p&o	1
+operator	p& zero 	1
+operator	p&o dover	1
+shop	p&p mart	1
+stock	p&g	2
+account	p&g fem-pro for the entire la region	1
+account	p&l account	1
+sponsor	p&g with pampers	1
+keyword	p&l management	1
+carrier	p&o nedlloyd	1
+carrier	p&o containers	1
+great feature	p&p	1
+industry leader	p&h mining equipment	1
+dessert	p&j sandwich	1
+famous name	p&a campbell's white funnel fleet	1
+drawback	p&f	1
+tenant	p&t architects & engineers	1
+big company	p&g	1
+meeting	p&t committee	1
+large corporation	p&g	1
+vessel	p&o pride of bruges	1
+consumer product	p&g consumer product	1
+consumer product	p&g	1
+training	p&id reading	1
+legal document	p&s agreement	1
+private company	p&o nedlloyd	1
+ship	p&o arcadia	1
+view	p&i diagram	1
+multinational company	p&g coming into the korean market	1
+mod	p&p head	1
+mod	p&p intake manifold	1
+advertiser	p&o cruises	1
+merchant page	p&o ferries calais	1
+merchant page	p&o ferries.com pando ferry	1
+item	p&id representation	1
+item	p&l reserve	1
+success story	p&g s recent expansion of the mr. proper brand in germany from a floor-cleaning agent into a detergent	1
+global company	p&g	1
+technical datum	p&ids  one 	1
+branded product	p&g	2
+drawing	p&id	1
+global organization	p&g	1
+core concept	p&l balance sheet	1
+insert	p&g brandsaver	1
+prestigious client	p& zero  ferries 	1
+portfolio	p&rd in tarun gogoi cabinet	1
+big name company	p&o nedlloyd	1
+private business	p&g pet care	1
+service	p&i correspondent	1
+cruise line	p&o cruises	10
+cruise line	p&o princess	1
+cruise line	p& zero 	1
+traditional -metric	p&l performance	1
+written document	p&l claim	1
+financial report	p&l standard	1
+financial report	p&l statement	1
+key brand	p&g healthcare	1
+liner	p&o cruises	2
+occassions	p&w anniversary	1
+property information	p&l reports	1
+multi-nationals	p&g	1
+topic	p&l formatting	1
+topic	p&l report	1
+accounting task	p&l analysis	1
+consumer product company	p&g	2
+large carrier	p&o	1
+topic	p&id comparison with field equipment	1
+shipping line	p&o nedlloyd	1
+shipping line	p&o	1
+cruise company	p&o cruises	2
+cruise company	p&o	1
+company	p&g	8
+company	p&o cruises	5
+company	p&o ferries	4
+company	p&o ports	2
+company	p&o orient line	2
+advertising product	p&s of the  two thousand and ten  legend of world expo film advertisement by cctv- one 	2
+UK brand	p&o cruises	1
+company	p&o resorts	1
+transport company	p&o ferries	1
+paste	p&te de pistache	1
+company	p&g in consumer good	1
+company	p&m cedar products	1
+company	p&o nedlloyd	1
+engineering drawing	p&i diagram	4
+engineering drawing	p&id	1
+premier event	p&o trade fair	1
+large purchaser	p&g	1
+cruise operator	p&o cruises	2
+blood	p&g exec ace jan bennink	1
+activity	p&l management	1
+activity	p&t workshops	1
+national and local company	p&o ferries	2
+well-known line	p&o cruises	1
+information	p&id drawing number	2
+ferry operator	p&o ferries	2
+ferry operator	p&o	1
+port operator	p&o ports	1
+water supplier	p&n beverages	1
+mainstream cruise line	p&o	1
+common view	p&l	1
+cruise brand	p&o cruises	1
+change project	p&l analysis	1
+international cruise line	p&o cruises	1
+program	p&l bonus	1
+broad consultative area	p&l	1
+commercial campaign	p& g's turn to  thirty '' for ariel 	1
+insurance matter	p&i	1
+leading infrastructure company	p&o ports	1
+management competency	p&l management	1
+program	p&d wizard	1
+global large company	p&g from japan	1
+prayer service	p&w meeting	1
+typical process engineering deliverables	p&id's	1
+CAD datum	p&id drawings content	1
+international port operator	p&o ports	1
+job report	p&l by job	1
+leading cruise line	p&o cruises	1
+main competitor	p&g's main competitor	1
+reliable shipping company	p&o	1
+organization	p&g	2
+international cruise	p&o cruises	1
+irish sea operator	p&o irish sea	1
+leading shipping line	p&o nedlloyd	1
+middle office activity	p&l investigation	1
+month end report	p&l statements	1
+NYULMC committee	p&t	1
+role type	p&s dept	1
+run-of-the-mill feature	p&l	1
+tmp's client	p&g	1
+house hold brand	p&o cruises	1
+key design review	p&id review	2
+marine insurance related issue	p&i	1
+monthly, quarterly and year-end report	p&l statement	1
+regular financial accounting feature	p&l	1
+MPPT algorithm	p&o	1
+case	p&t lands	1
+case	p&o european ferries	1
+case	p&o gua	1
+case	p&a transaction	1
+sea kayak	p&h quest	1
+seller future procedure	p&s agreement	1
+short term financial measurement	p&l performance	1
+case	p&k's interview	1
+trophy recording origination	p&y club	1
+brand-name favorite	p&g tips	1
+british cruise line	p&o cruises	1
+celebrity eatery	p&o cruises gary rhodes restaurant	1
+class report	p&l by class	1
+cross channel ferry operator	p&o ferries	1
+experienced real estate law office	p&p law	1
+famous ferry company	p&o ferries	2
+identified capital item	p&d machine	1
+influential brand owner	p&g realizing the importance of pop	1
+lively, outspoken heroine	p&p's lizzy	1
+longtime supplier	p&j oyster company	1
+ordinary underwriting concern	p&i exposure	1
+out-of-town park & ride facility	p&r zeeburg	1
+reputable waste management company	p&c pallets	1
+robust daily control	p&l attribution reporting	1
+small, independent business	p&r drug	1
+tool	p&l calculator	1
+project	p&l district	1
+player	p&o ports	2
+condition	p&d in the context of bay	1
+brand	p&g hair care brand	1
+brand	p&l nordic ab	1
+brand	p&g	1

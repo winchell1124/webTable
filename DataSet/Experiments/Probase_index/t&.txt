@@ -1,0 +1,52 @@
+business	t&l hotdogs	1
+indicator	t&r program	1
+country	t&t import corn	1
+store	t&t supermarket	1
+duty	t&c scheme	1
+hotel	t&u leisure hotel	1
+top brand	t&g collection	1
+account	t&m	1
+local organization	t&t spca	1
+critical area	t&d loss	1
+release	t&e	1
+legal document	t&c approvals	1
+merchant	t&m	1
+cream	t&h  one thousand eight hundred and five 	1
+grocery store	t&t supermarket	1
+business model	t&m	1
+transaction datum	t&e claim	4
+company	t&r graphic imaging	1
+company	t&t clark	1
+top name manufacturer	t&s brass	1
+company	t&d sport	1
+company	t& m engineering	1
+company	t&t's own tsl	1
+documentation service	t&s booklet	1
+activity	t&k t activity	1
+identifiable cost	t&l	1
+senior post	t&d manager	1
+HR topic	t&d recruitment motivation	1
+HR topic	t&d	1
+event	t&t film festival's red carpet event	1
+user replaceable part	t&d disk	1
+user replaceable part	t&d lock center screw	1
+solid floor	t&g flooring	1
+program	t&d opportunity	1
+fun canvas game	t&c surf designs	1
+professional tool brand	t&e tools	1
+connector & terminating device manufacturer	t&b	1
+organization	t&d cats	1
+colorful freight car	t&p gp's	1
+name	t&p valve	5
+electric system component	t&d control facility	1
+name	t&c	1
+soild floor	t&g flooring	1
+top name food service manufacturer	t&s brass	1
+traditional aftershave	t&h	1
+option	t&g ipe	1
+DARO roll	t&t sr	1
+local limitation	t&e requirement	1
+xtratherm's application	t&g edges & corner panel	1
+project	t&d improvement	1
+product	t&g flooring	2
+parameter	t&d loss	1

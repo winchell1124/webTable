@@ -1,0 +1,571 @@
+initiative	fhwa's stop red light running program	3
+initiative	fha short refinance program	1
+initiative	fhpa system	1
+datum	fhwa number	1
+source	fhwa	1
+source	fhl catalog	1
+institution	fhi	2
+institution	fhwa	1
+client	fhm	2
+strategy	fhb control strategy	1
+alternative	fha refinance loans	1
+alternative	fha	1
+alternative	fha loan	1
+agency	fhwa	8
+agency	fha	6
+agency	fhlb	2
+agency	fhi	1
+school	fhs	1
+title	fhm	7
+operation	fha	3
+operation	fha operation	1
+celebrity	fhm model kim lee	1
+manufacturer	fh ayres	1
+publication	fhm	29
+publication	fhm singapore	1
+study	fhwa study	1
+study	fhp	1
+entity	fha	1
+entity	fhlmc	1
+entity	fhlb	1
+partner	fha	1
+role	fhls exhibit diverse biological role	1
+club	fha	1
+club	fha band	1
+vendor	fh  seventy-seven b's original equipment manufacturer 	1
+effort	fhwa's volpe center website	1
+label	fhd	1
+need	fha	1
+magazine	fhm	144
+magazine	fhm australia	1
+party	fhwa	4
+issue	fhr irregularity during fetal development	1
+stakeholder	fhi	1
+channel	fhm	1
+fee	fha	1
+bank	fhlb member bank	1
+domain	fha	2
+fund	fhlb advance	3
+competition	fha two thousand and eight  imperial challenge 	2
+competition	fha two thousand and eight  culinary challenge 	2
+NGOs	fhi	1
+government agency	fha	18
+government agency	fhlb	1
+gene	fhit	2
+charity	fha gift charity	1
+enterprise	fhcrc public health sciences division	1
+investor	fhlmc	3
+enzyme	fht	1
+developer	fhg	1
+datum source	fhwa	1
+item	fhc roof section	1
+configuration	fhs	1
+national organization	fhwa	1
+virus	fhv	1
+key feature	fhr variability	1
+lender	fha	10
+lender	fha-approved lender	1
+medium outlet	fhm	2
+funding source	fhlb	2
+funding source	fhlb advance	1
+funding source	fhlb borrowing	1
+visitor	fhwa	1
+software tool	fhwa's cande- eighty-nine  program 	1
+computer program	fhwa hy- eight  program 	1
+computer program	fhwa hy- eight 	1
+designation	fh for full head	1
+federal agency	fhwa	6
+federal agency	fha	5
+government program	fha	15
+government program	fha loans	2
+government program	fha program	1
+government program	fha mortgage	1
+loan	fha	18
+loan	fha loan	11
+loan	fha rehab loan	1
+loan	fha-insured mortgage loan	1
+loan	fha-insured loan	1
+loan	fha hecm	1
+loan	fha  two hundred and three k loan 	1
+item	fha mortgage insurance premium	1
+federal program	fha's  two hundred and three 	4
+federal program	fha	3
+critical factor	fha mortgage	1
+security	fhlb	1
+god	fharlanghn	1
+outside agency	fhwa	1
+area	fha	2
+area	fhm	1
+cover	fhm	1
+industry organization	fht	1
+liability	fhlb advance	1
+file type	fh eight 	1
+file type	fh five 	1
+file type	fh seven 	1
+file type	fh nine 	1
+file type	fh ten 	1
+file type	fh eleven 	1
+file type	fh three 	1
+complex structure	fhose with multiple concurrent construction operation	1
+motor	fhp motor	1
+viral infection	fhv	1
+government entity	fha	1
+acronym	fhss	1
+external stakeholder	fhwa	1
+help	fhas hope for homeowners program	1
+codecs	fhg	1
+niche product	fha  two hundred and three k 	1
+head	fh flyer	1
+International NGOs	fhi	1
+national magazine	fhm	1
+popular magazine	fhm	1
+high-risk group	fh patients in the present study	1
+specialty program	fha  two hundred and three k 	1
+public program	fha	1
+loan product	fha	6
+youth group	fha	1
+bright spot	fha loan making a resurgence in popularity for lower credit score	1
+practice area	fh out front	1
+practice area	fh hispania	1
+traditional option	fha financing	1
+virulence factor	fha	1
+service	fhwa inspection	1
+service	fha	1
+service	fha licensing	1
+loan program	fha	26
+loan program	fha & va loans	3
+loan program	fha mortgage	1
+loan program	fha renovation	1
+modulation scheme	fh ss	1
+control strategy	fhb control strategy	1
+financing option	fha	4
+financing option	fha loan	1
+financing option	fha financing	1
+development partner	fhi	1
+research group	fhs	1
+respected brand	fhm	1
+school club	fha	1
+complex service	fhcr module	1
+minimum requirement	fha down payments requirement	1
+side event	fhm msw headhunters event	1
+lending institution	fhlbi member bank	1
+mortgage lender	fha	1
+cellular component	fha	1
+international magazine	fhm	1
+mainstream product	fha	1
+technology partner	fhg	1
+popular publication	fhm	1
+regulatory protein	fh family protein	1
+mag	fhm	2
+electric motor	fhp motor	2
+mortgage	fha	8
+mortgage	fha loan	2
+mortgage	fha mortgage	1
+mortgage	fha  two hundred and three k 	1
+insurance program	fha	1
+men's magazine	fhm	43
+top magazine	fhm	4
+mortgage product	fha mortgage	4
+mortgage product	fha	3
+mortgage product	fha loan	1
+magazine cover	fhm	3
+federal policy	fha mortgage subsidy	1
+federal policy	fha's redlining	1
+tumor suppressor gene	fhit	2
+tumor suppressor gene	fhit p sixteen 	2
+famous title	fhm	1
+top publication	fhm	3
+loan type	fha	8
+top title	fhm	1
+large provider	fhp	1
+financial support	fhwa eco-logical grant	1
+legislative act	fhsa  two hundred and eighty-four 	1
+prestigious magazine	fhm	1
+company	fha pros	1
+company	fhc	1
+company	fhp manufacturing	1
+lifestyle magazine	fhm	1
+well-known magazine	fhm	1
+financing	fha	2
+loan option	fha	2
+government loan	fha	37
+government loan	fha loan	8
+government loan	fha federal housing administration	1
+governmental program	fha	1
+mortgage program	fha	8
+mortgage program	fha program	2
+mortgage program	fha guaranteed mortgage loan	1
+mortgage program	fha mortgage	1
+mortgage program	fha home loans	1
+activity	fha	4
+java application	fhm football	1
+federal funding source	fhwa flexible fund	1
+mortgage loan	fha mortgage	2
+mortgage loan	fha-insured mortgage loan	1
+mortgage loan	fha  two hundred and three k 	1
+factor	fhr	1
+transportation agency	fhwa	2
+hot tool	fhi heat	1
+bacterial virulence factor	fha	1
+international title	fhm	1
+market-leading brand	fhm	1
+mens magazine	fhm	2
+national datum	fhwa's highway statistics	2
+government plan	fha loan	1
+mortgage type	fha loan	2
+personal finance topic	fha mortgage loan	1
+clinical consideration	fhp	1
+mortgage option	fha	1
+successful magazine	fhm	1
+viral condition	fhv	1
+government-sponsored enterprise	fhlmc	6
+government-sponsored enterprise	fhlb	2
+government-sponsored enterprise	fha	2
+housing indicator	fhfa house price index	1
+mission agency	fhwa	1
+term loan	fha-issued mortgage	1
+government enterprise	fha	1
+user agency	fhwa	1
+agency report	fhlb securitization reports	1
+australian magazine	fhm	1
+corresponding datum	fhr	3
+health magazine	fhm	1
+money management service	fhb business online	1
+payment program	fha	1
+world famous magazine	fhm	1
+government-sponsored entity	fha	1
+lending	fha	1
+mortgage service	fha	1
+government-backed loan	fha	7
+government-backed loan	fha loan	4
+government-backed loan	fha mortgage	1
+letter acronym	fhss	1
+governing agency	fhwa	1
+government funded program	fha	1
+government loan program	fha	13
+government loan program	fha-insured mortgage	1
+spread spectrum technique	fhss anddsss	1
+male magazine	fhm	1
+man magazine	fhm	3
+mortgage calculator	fha mortgage loan limits calculator	1
+mortgage information	fha	1
+conventional loan	fha	1
+real heavyweight	fhm	2
+sexually explicit magazine	fhm	1
+traditional financing option	fha	1
+agency product	fha	1
+program	fha	32
+program	fha refinance program	3
+program	fhwa capacity-building courses for planning	2
+program	fha's title ii loan insurance program	2
+federal obligation	fha	1
+home financing solution	fha	3
+lad mag	fhm	7
+lad magazine	fhm	4
+quasi-governmental agency	fha	1
+government mortgage program	fha	4
+government-sponsored loan	fha	2
+program	fha mortgages	1
+program	fha's kiddie condo program	1
+noise model	fhwa's traffic noise model	1
+noise model	fhwa tnm	1
+dedicated channel	fh-ofdma channel	1
+government product	fha loan	1
+government product	fha	1
+GSEs	fhlbank system	2
+lads mag	fhm	1
+lad's mag	fhm	2
+mortgage loan type	fha loan	1
+mortgage loan type	fha	1
+program	fha down payment assistance	1
+beacon information element	fh parameter	1
+equity partner	fhlb edge program	1
+first time home buyer program	fha	1
+first-time homebuyer program	fha	1
+government foreclosure	fha foreclosure	1
+heparin derivative	fhl andglucosylated heparin	1
+human disease state	fhc	1
+International and national NGOs	fhi	1
+lads magazine	fhm	3
+program	fhwa	1
+program	fha nehemiah	1
+member bank	fhlb member bank	1
+men's publication	fhm	1
+mortgage investor	fha	1
+anti-interference technology	fhss	1
+best-selling magazine	fhm	1
+factor	fha concentration	1
+famous men's magazine	fhm	1
+federal group	fha	1
+good mod	fh	1
+government mortgage loan	fha	2
+government mortgage loan	fha loan	1
+government mortgage loan	fha & va mortgage loan	1
+government-backed program	fha	1
+home loan program	fha	1
+large national institution	fha	1
+mortgage loan option	fha	2
+popular men's magazine	fhm	1
+real estate inspection service	fha inspection	1
+regulatory domain	fh three  domain 	1
+secondary market participant	fha	1
+organization	fhwa	4
+organization	fha	3
+organization	fhi	2
+1st time buyer loan program	fha	1
+AC induction warm geared motor	fhp gear motor	1
+design reference	fhwa reference	1
+organization	fhwa national highway institute	1
+organization	fht	1
+federally-insured loan	fha	1
+FHA program	fha adjustable rate mortgage	1
+first time homebuyer program	fha	2
+full service financing option	fha	1
+gent magazine	fhm	1
+government agency security	fhlmc	1
+government loan product	fha	2
+government mortgage	fha	6
+government-assisted program	fha	2
+government-backed mortgage	fha	3
+government-insured loan	fha	5
+insertion point	fheading  one 	1
+loan rate program	fha	1
+market source	fha	1
+men's lifestyle magazine	fhm	1
+men's mag	fhm	1
+mny loan program	fha	1
+non-conventional loan	fha	1
+non-marketable security	fhlb stock	1
+organization	fhit	1
+specialty loan product	fha	1
+spread spectrum signal	fh signal	1
+stable loan product	fha	1
+traditional mortgage loan program	fha	1
+versatility with home financing solution	fha	1
+AAA brand	fhm	1
+affordable housing product	fha	7
+assumable mortgage	fha loan	2
+assumable mortgage	fha-secured mortgage	1
+australian men's magazine	fhm	1
+technique	fht	1
+buzz-worthy event	fhm's  one hundred  sexiest women in the world 	1
+candidate TSGs	fhit	1
+conclusion SPARRW component	fhs	1
+conventional and government loan	fha	1
+external reference point	fheq	2
+fair housing advocate	fhp in vermont	1
+federal agency lender	fha	1
+federal mortgage program	fha	2
+federal mortgage program	fha-insured loan	1
+federally backed loan	fha	1
+federally insured mortgage	fha	4
+fha government loan loan	fha	1
+first-time homebuyer loan	fha loan	1
+technique	fhss modulation	1
+goverment loan	fha	1
+government backed fixed rate loan	fha	1
+government backed loan	fha	2
+government insured loan	fha	5
+government insured loan	fha loan	1
+government insured loan program	fha	5
+government lending product	fha	1
+government mortgage option	fha	1
+governmental loan	fha	1
+government-guaranteed loan	fha	1
+great loan	fha	1
+guy magazine	fhm	1
+hall effect device	fh- three hundred  series 	1
+home mortgage loan	fha	1
+hud's various program	fha	2
+low down payment mortgage option	fha	1
+mortgage plan	fha loan	1
+neutral deity	fharlanghn	2
+non-conforming and government loan program	fha	2
+non-traditional financing option	fha	1
+permanent multifamily lender	fha	1
+pertussis component	fha	1
+popular home loan option	fha loan	1
+popular male magazine	fhm	3
+popular mens magazine	fhm	3
+protection task	fhp	1
+residential mortgage banking service	fha	1
+secondary market loan	fha	1
+series specific strike distinction	fh for standing liberty quarters	1
+spread-spectrum technique	fhss	1
+application	fhm	1
+traditional home loan	fha	1
+typical mortgage	fha	1
+bacterial hemoglobin protein	fhp	1
+battlefield mod	fh	1
+british men's mag	fhm	2
+conventional gas-based process	fhd	1
+DLR research aircraft	fhs	1
+DOT resource	fhwa	1
+federal government mortgage-related agency	fha	1
+federal instrument security	fhlb	1
+federal transportation agency	fhwa	1
+FHA refinancing option	fha-hamp program	1
+FHA refinancing option	fha short-refinancing option	1
+FHLBs	fhlb new york	1
+government guarantee program	fha	1
+government type loan	fha	1
+government-assisted mortgage interest rate	fha mortgage interest rate	1
+government-insured loan program	fha  two hundred and three k 	1
+government-insured mortgage loan	fha	1
+government-sponsored loan program	fha	1
+government-subsidized loan	fha loan	1
+great special program	fha	1
+guaranteed loan	fha	1
+high quality iron	fhi flat iron	1
+home loan option	fha	1
+hub protein	fhl two 	1
+jammingmitigation spread-spectrum technique	fhss	1
+lad publication	fhm	1
+laddish magazine	fhm	1
+leading japanese panel manufacturer	fhp	1
+less-explicit male-oriented magazine	fhm	1
+factor	fhbp protein variant	1
+case	fha loan	2
+local HMOs	fhp health care	1
+low-subsidy program	fha	1
+male interest magazine	fhm	1
+modeling magazine	fhm	1
+mortgage market change	fha moderization	1
+no-credit qualifying program	fha streamline refinance	1
+noncombat operation	fha	1
+nowadays network	fh ad hoc network	1
+off-balance sheet obligation	fha	1
+popular men's interest magazine	fhm	1
+case	fh model	1
+case	fha	1
+case	fh	1
+private health care organization	fhp	2
+private training program	fhit in mendota heights	1
+prominent men's magazine	fhm	1
+quality men's magazine	fhm	1
+reason magazine	fhm	1
+repeat-sale index	fhfa	1
+residential home loan	fha	1
+residential loan	fha & va loan	1
+respectable training institute	fht	1
+Secondary Market Investor An entity	fhlmc	1
+series PHYs	fhss	2
+specialty financing	fha	1
+specialty orthopedic procedure	fho	1
+specifi c loan program	fha	1
+option	fha	5
+option	fha loan	2
+option	fha remodeling loan	1
+top lad magazine	fhm	1
+acute marker	fhr	1
+alphanodaviruses	fhv	1
+option	fha streamline refinance	1
+british lad mag	fhm	7
+british lad mag s	fhm	1
+common spread-spectrum-based jamming mitigation technique	fhssordsssare beyond the capabilities of current sensor node	1
+communication system approach	fh approach	1
+confirming loan	fha	1
+covered transaction	fha loan refinances	1
+culvert design software package	fhwa hy- eight  program 	1
+datum collection method special survey	fhi bss data source bss of marps	1
+datum entry page	fha page	1
+deal housing finance institution	fha	1
+deal housing program	fha	1
+depression-era government program	fha	1
+dominant magazine	fhm	1
+eligible loan	fha	2
+eligible loan product	fha	1
+ERCIM member	fhg	1
+external government participant	fha	1
+federal finance policy	fha mortgage insurance requirement	1
+federal mortgage product	fha multifamily insurance program	1
+Federal program s	fha's  two hundred and three 	1
+federally-backed loan	fha loan	1
+friesian registry	fhana fps	1
+ftp-specific password-guessing tool	fhb	1
+full foreclosure service	fha repair & rehab	1
+government assisted loan	fha-insured mortgage	1
+government back loan	fha	1
+government home loan	fha	2
+government insured mortgage	fha	2
+government lending program	fha	1
+government service enterprise	fha	1
+government-backed mortgage government loan	fha	1
+government-insured home purchase loan	fha	1
+government-insured mortgage	fha	2
+government-secured loan	fha	1
+government-subsidized financing program	fha	1
+Govt lending	fha	1
+great loan product	fha	1
+heat protection serum	fhi hot sauce	1
+highway cost allocation study	fhwa's  one thousand nine hundred and ninety-seven  federal highway cost allocation study 	2
+home improvement loan	fha  two hundred and three k loan 	1
+household men's lifestyle brand	fhm	1
+iconic monthly title	fhm	1
+Improper posture	fhp	1
+group	fhwa	1
+Inspector training	fhwa's bridge reference manual	1
+international FHM site	fhmonline.com	1
+large GSEs	fhlmc	1
+lender's program	fha-insured mortgage	1
+long-term successful government loan program	fha	1
+low credit score loan	fha loan	4
+low down payment loan	fha loan	1
+low interest rate government loan	fha	1
+low-downpayment program	fha	1
+magazaines	fhm	1
+male-oriented magazine	fhm	1
+MBS issue	fhlmc	1
+mens mag	fhm	1
+men's magazine website	fhm	1
+microscopic simulation model	fhwa's corsim	1
+mispelled word	fhot dog	1
+mobile home service	fha loan upgrade	2
+mortgage insurance property requirement	fha minimum property standards	1
+mortgage insurance property standard	fha minimum property standards	1
+news varieties	fhia- one 	1
+out-of-industry publication	fhm	1
+paint government-insured loan	fha	1
+popular home-financing loan program	fha	1
+presumably reputable source	fha	1
+price measurement	fhfa	2
+professional orgaisations	fht	1
+refinances	fha refinances	1
+refinancing option	fha	1
+rehab loan	fha  two hundred and three k loan 	1
+renovation loan	fha's  two hundred and three k loan 	1
+RM initiative	fha program	1
+RTO	fhg	1
+sanyo camcorder	fh one 	1
+secondary mortgage market participant	fha	1
+method	fhwa's interchange safety analysis tool	1
+sex driven publication	fhm	1
+sexist lad mag	fhm	1
+sexy magazine	fhm	1
+simple RNA virus	fhv	1
+single activties	fhe	1
+single assessment questionnaire	fhs	1
+sketch planning tool	fhwa's hov demand estimation model	2
+slow mechanical laboratory drop hammer	fhwa hammer	1
+standard worldwide Plat benefit	fhr	1
+today's government loan program	fha	1
+TSGsactingoncell cycle andapoptosis	fhit	1
+type ofinteraction domain	fha domain	1
+typical government product	fha	1
+typical guy magazine	fhm	1
+uber-expensive model	fhi	2
+UK men's magazine	fhm	2
+unconventional loan	fha	1
+upper middle magazine	fhm	1
+upper-middle-class magazine	fhm	1
+usaid-funded agency	fhi	1
+USDOT modal agency	fhwa	2
+year loan program	fha	1
+tool	fhwa's safetyanalyst software tools for safety management of specific highway site	1
+product	fha	6
+project	fhwa's long-term pavement performance project	1
+product	fha  two hundred and three k 	1
+product	fha  two hundred and three k rehab loan 	1
+system	fha's general ledger	1
+brand	fhm	3
+component	fh	1

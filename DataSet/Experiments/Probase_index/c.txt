@@ -1,0 +1,10 @@
+subject	c	2
+model	c	1
+unit	c	1
+label	c	1
+icon	c	2
+letter	c	3
+high-level language	c	1
+computer programming language	c	1
+high-level structured language	c	1
+name	c	1

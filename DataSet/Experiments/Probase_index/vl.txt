@@ -1,0 +1,1172 @@
+product	vlasic	1
+product	vlc player	1
+initiative	vle	1
+resource	vlogs	1
+resource	vlas intake-and-advice hotline	1
+facility	vlt	2
+facility	vlti	1
+property	vlan id	1
+property	vlan name	1
+property	vlan tag	1
+property	vldb property	1
+game	vladimir's home feature game	1
+subject	vliw	1
+exception	vlad	1
+character	vlad the bird	1
+character	vlad dracula	1
+character	vladimir lem	1
+character	vladomir lem	1
+work	vladimir sorokin's the queue	1
+model	vlada roslyakova	1
+model	vlsi system	1
+attraction	vladin dom	1
+category	vlcc	1
+category	vlbw	1
+author	vladimir mayakovsky	10
+author	vladimir nabokov	5
+author	vlachos	1
+author	vladimir makanin	1
+author	vladimire nabokov	1
+author	vlad zubok	1
+feature	vlan stacking	7
+feature	vlan translation	6
+feature	vlan tagging	3
+form	vlogging	1
+person	vladislav the grammarian writing compendiums on latin	1
+person	vladimir cordier	1
+person	vladimir datskevich	1
+person	vladimir lisin	1
+approach	vlp	2
+alternative	vlc media player	1
+alternative	vlc player	1
+course	vlsi	3
+course	vlsi design	2
+course	vlsi designing	1
+writer	vladimir nabokov	8
+writer	vladmir mayakovsky	1
+writer	vladamir nabokov	1
+writer	vladomir nabokov	1
+writer	vladimir soloviev	1
+writer	vladimir soloukhin	1
+writer	vladimir dudintsev	1
+mechanism	vlan tagging	1
+solution	vlc	1
+feature	vli's proprietary online account management system	2
+feature	vlan over wlan	2
+star	vladimir guerrero	2
+star	vladislav tretiak	2
+star	vladimirov	1
+star	vlade divac	1
+structure	vl	3
+structure	vlbi antennas	1
+field	vlan bitmap	1
+field	vlan tag	1
+school	vlerick leuven gent management school	1
+school	vlerick management school	1
+school	vladimir tourism academy	1
+plant	vlei	1
+agent	vla- four  binding agent 	1
+scholar	vlastos	1
+scholar	vladislav zubok	1
+development	vliw computer	1
+city	vladimir	4
+city	vlissingen	3
+city	vlora	3
+city	vladivostok	3
+city	vladivostok in russia	1
+criterion	vlsi design other criterion	1
+firm	vlo	1
+dish	vlaamse reus	1
+test	vlse antibody test	2
+man	vladimir lenin	2
+man	vlad the impaler	2
+man	vladimir putin	1
+man	vladek filler	1
+attribute	vlan binding	2
+attribute	vlan id	1
+setting	vlan setting	1
+study	vlahos	1
+individual	vladislav surkov	1
+individual	vladimir lenin	1
+individual	vladimir radmanovic	1
+figure	vladimir lenin	3
+figure	vladimir nabokov	2
+figure	vladimir lossky	1
+figure	vlad the impaler	1
+unit	vlakplaas	1
+basic	vlc	1
+basic	vlookup	1
+leader	vladimir lenin	1
+leader	vladimir geshkenbein	1
+leader	vladimir putin	1
+leader	vladimir putin of russia	1
+musician	vladimir mendelssohn	3
+musician	vladimir fedosejew	1
+musician	vladimir ashkenazy	1
+musician	vladimir horowitz on the piano	1
+musician	vladimir mikulka	1
+entity	vlad the impaler	1
+entity	vlad dracula	1
+country	vlatava	1
+expert	vladimir zatsiorsky	1
+expert	vladimir issurin	1
+feature	vlan segmentation	1
+feature	vlan support	1
+feature	vlan capability	1
+feature	vlan trunking	1
+feature	vlsm	1
+feature	vlc medium player's enhanced feature	1
+feature	vli's proprie tary online account management system	1
+feature	vlan stacking. one qav ieee  eight hundred and two 	1
+feature	vlan see virtual lan	1
+feature	vlans	1
+researcher	vlad sobell	3
+researcher	vladmir janda	1
+region	vladimir	2
+region	vladivostok	1
+variety	vlamingh	1
+format	vlogging	1
+animal	vlei rat	1
+standard	vl bus	1
+classic	vladimir ussachevsky's sonic contours	1
+piece	vlaamse stemmen	1
+advanced feature	vlan trunking	9
+advanced feature	vlan support	3
+advanced feature	vlan discovery	2
+advanced feature	vlan translation	1
+advanced feature	vlan stacking	1
+advanced feature	vlan configuration	1
+advanced feature	vlan tagging	1
+advanced feature	vlan see virtual lan	1
+advanced feature	vlan support multilink trunking simple network management protocol	1
+role	vladimir dubrovsky	1
+influence	vladislav delay	1
+critic	vladimir lossky	1
+critic	vladimir nabokov	1
+critic	vladimir alexandrov	1
+market	vladivostock	1
+customer	vlsi technologies	1
+vehicle	vl commodore	1
+section	vlc media player	1
+step	vlsi fabrication step	1
+designer	vladimir kagan	1
+designer	vladimir sitta	1
+software	vlc	5
+software	vlc player	3
+software	vlc media player	1
+disorder	vlcad deficiency	1
+party	vlaams belang	2
+party	vlams belang	1
+party	vladimir zhirinovksy's ldpr	1
+party	vladimir zhirinovsky's liberal democrats	1
+party	vlaams blok in belgium	1
+professional	vladimir work	1
+protein	vlse protein	1
+district	vlore	1
+performer	vladimir horowitz	1
+stakeholder	vle vendor	1
+addition	vlc	1
+legend	vlasov	9
+possibility	vlad guerrero	1
+possibility	vlbi delay measurement	1
+package	vlc	1
+landmark	vlottenburg winery	3
+car	vl turbo	1
+friend	vladimir chernov	1
+file	vld	2
+issue	vlt use	1
+issue	vladimir spidla	1
+platform	vlogs	1
+composer	vlad, four  ronchetti, five  dashow, six  scogna 	1
+composer	vladimir ussachevsky	1
+composer	vladmir spivakov	1
+protocol	vlan trunking protocol	1
+protocol	vlan	1
+village	vlkolinec	1
+scientist	vladimir vize	2
+domain	vlsi design	3
+domain	vlsi circuit design	1
+domain	vlsi layout tool	1
+historian	vladimir danilov	1
+molecule	vla- four 	1
+chain	vlcc healthcare ltd	1
+medium	vlc	1
+athlete	vlassis maras	1
+apps	vlc	14
+apps	vlc media player	3
+apps	vlc player	1
+context	vliw integer processor	1
+guy	vladimir tarasenko	1
+guy	vlad	1
+sponsor	vladivar	1
+college	vladimir military college	1
+database	vlsi chip design database	1
+resort	vlas	1
+talent	vladimir tarasenko	1
+novel	vladimir nabokov's lolita	1
+novel	vladimir nabokov's pale fire	1
+politician	vladimir zhirinovskiy	1
+politician	vladimir putin	1
+veteran	vladimir guerrero	2
+veteran	vladimir barmash	1
+poet	vladimir mayakovsky	2
+content	vlaa's nationally acclaimed sample policy	1
+suspect	vlc	1
+substrate	vlb  three -n-methylcarboxamide 	1
+river	vlasina	1
+river	vltava	1
+layer	vlans	1
+island	vlieland	1
+newspaper	vlaanderen	1
+thinker	vladimir soloviev	1
+mediums	vlogs	1
+rider	vladimir karpets	3
+rider	vladimir gusev	1
+church	vladimirsky cathedral	1
+photographer	vladimir tatlin	1
+pioneer	vladimir ussachevsky	1
+stuff	vlc and divx player	1
+liqueur drink	vladimir recipe	1
+critical issue	vlc map algorithm in absence of channel output	1
+face	vladislav namestnikov	1
+participant	vladimir putin	1
+participant	vladimir konstantinov	1
+official	vladimir lukin	1
+official	vladimir capelik of russia	1
+race	vlachs	1
+airline	vlm	4
+airline	vlm airlines	2
+superstar	vladimir kozlov	1
+sound	vlc playing a music station	2
+configuration	vlan encapsulation on the link	1
+painter	vlaminck	2
+painter	vladimir tretchikoff	1
+port	vladivostok	1
+pathogen	vleeshouwers oomycete plant pathogen	1
+particle	vldl in the circulation	1
+conductor	vladimir spivakov	9
+conductor	vladimir jurowski	8
+conductor	vladimir ashkenazy	7
+conductor	vladimir fedoseyev	5
+conductor	vladimir jurovski	3
+conductor	vladimir jurovsky	2
+conductor	vladimir fedosejev	2
+conductor	vladimir ziva	1
+conductor	vladimir ponkin	1
+conductor	vladimir yurowsky	1
+conductor	vladislav czarnecki	1
+load	vlsi chip	1
+interface	vlan interface	1
+urban area	vlora	1
+circuit	vlsi circuit	1
+vessel	vlcc	1
+international company	vladivostok air	1
+famous artist	vladimir matorin	1
+version	vladislav	1
+supporter	vlaams belang supporter	1
+ethnic group	vlachs	1
+ethnic group	vlahs	1
+constituent	vldl	1
+young player	vladimir zharkov	1
+historical figure	vladimir ilych lenin	1
+DJs	vladimir fonarev	1
+large city	vlora	1
+great player	vladislav tretiak	1
+great player	vladimir petrov	1
+great player	vladan gruji	1
+observation	vla radio	2
+visitor	vlaminck	2
+video	vlogs	6
+video	vlogging	1
+item	vlogs	1
+item	vladimirs offering	1
+training program	vlb	1
+popular destination	vladivostok	1
+management tool	vlan management tool	1
+identifiers	vlan tag	1
+colleague	vladimir tatlin	1
+diet	vlcd	1
+table	vldb talk	2
+top player	vladimir samsonov from berarus	1
+key term	vlog	1
+advanced function	vlookup	1
+modern technique	vlbi	1
+semiconductor device	vlsi chip	1
+semiconductor device	vlsi	1
+semiconductor device	vlsi device	1
+architecture	vliw	8
+jazz great	vladimir ponarovsky	1
+processor	vliw processor	2
+executive	vlad voskresensky	1
+minority	vlachs	2
+prominent figure	vladimir lenin	1
+star player	vladimir guerrero	1
+area	vlsi technology	5
+area	vlsi design	2
+area	vlakfontein	2
+software product	vlc	1
+famous landmark	vlassof cay	2
+great musician	vladimir ashkenazy	1
+great musician	vladimir mendelssohn	1
+dancer	vladimir vasilyev	1
+muscle	vl	1
+communication technology	vlogs	1
+plugins	vlc	1
+routine activity	vlst measurement	1
+minority group	vlachs	1
+broker	vladi private islands	1
+indian company	vlcc	1
+world leader	vladimir putin	2
+innovative technique	vlsi frontend	1
+marketer	vladimir ribakov	1
+grade	vld	1
+therapeutic agent	vldl receptor vector	1
+free agent	vladimir guerrero	4
+free agent	vlade divac	1
+hardware device	vlsi hardware device	1
+rookie	vlade divac	1
+gang	vly boys	1
+well-known figure	vladislav delay	1
+computer application	vlc	1
+soloist	vladimir horowitz	1
+application domain	vlsi layout design	1
+advanced capability	vlan tagging	2
+advanced capability	vlan discovery	1
+great writer	vladimir nabokov	1
+contemporary writer	vladimir nabokov	2
+media	vlc media player	1
+user information	vlr address	1
+popular tourist destination	vladimir	1
+medium player	vlc	67
+medium player	vlc media player	14
+medium player	vlc player	9
+medium player	vlc program	1
+pianist	vladimir horowitz	4
+pianist	vladimir ashkenazy	3
+pianist	vladimir viardo	2
+pianist	vladamir feltsman	1
+killer	vlad the impaler	2
+famous writer	vladimir nabokov	4
+famous writer	vladimir dedijer	1
+enhanced feature	vlc medium player's enhanced feature	1
+hitter	vladimir guerrero	2
+optimization	vlsi architectural optimization	1
+ethnic minority	vlachs	1
+area	vladimir	1
+service	vles	4
+standard application	vlc	1
+notable figure	vladmir lenin	1
+third party application	vlc	1
+renowned musician	vladimir ashkenazi	1
+renowned musician	vladimir ashkenazy	1
+renowned musician	vladimir mendelssohn	1
+well-known author	vladimir nabokov	1
+sculptor	vladmir tatlin	1
+parish	vlodrop	2
+network element	vlr	2
+pilot	vlora	1
+cardiovascular risk factor	vldl	1
+opposition party	vladimir lysenko	1
+dictator	vladimir putin	1
+established star	vladimir smicer	1
+governmental organization	vlm	1
+modern writer	vladimir makanin	1
+national leader	vladimir putin of russia	1
+contemporary author	vladimir nabokov	1
+linguist	vlach	1
+chronic infection	vl	1
+social medium tool	vlogs	1
+historic figure	vladimir lenin in russia	1
+historical character	vlad tepes	1
+airline company	vlm	1
+renowned conductor	vladimir spivakov	4
+renowned conductor	vladimir jurowski	3
+renowned conductor	vladimir ashkenazy	1
+renowned conductor	vladimir fedoseyev	1
+smart feature	vlans	1
+status	vlan membership	1
+free software	vlc media player	1
+A-listers	vladimir talashko	1
+service	vlc media player	1
+service	vlan for law enforcement	1
+telescope	vlt	2
+army	vlasovs  twenty th 	1
+legendary musician	vladimir horowitz	1
+Ancillary information	vlbi image	1
+Ancillary information	vlm image	1
+adhesion molecule	vla- four 	4
+dissident	vladimir bukovsky	1
+fraction	vldl fraction	1
+enterprise feature	vlan support	1
+warrior	vlad the impaler	1
+basic application	vlc	1
+array	vlba	2
+young talent	vladan grujic	1
+third-party program	vlc media player	3
+MP3 player	vlc	2
+video application	vlc	2
+viewer	vlc	1
+external tool	vlc	1
+binding agent	vla- four  binding agent 	1
+configuration parameter	vlan configuration	1
+key city	vladimir	1
+revolutionary	vladimir lenin	1
+billionaire	vladimir potanin	1
+billionaire	vladimir gusinsky	1
+Marxists	vladimir lenin	2
+Marxists	vladimir tatlin	1
+common option	vlc	1
+famous man	vlad tepes	1
+great work	vladimir nabokov's lolita	1
+topic	vliw	2
+topic	vlsi technology	2
+sport figure	vlade divac	1
+medium application	vlc	1
+medium application	vlc media player	1
+titan	vladimir potanin	2
+large vessel	vlcc class oil tanker	1
+nationalist	vladimir zhirinovsky	2
+world-class player	vladimir bogicevic	1
+best-selling author	vladimir kaminer	1
+advanced subject	vlsi design	2
+distinguished conductor	vladimir ashkenazy	1
+marquee player	vladimir guerrero	1
+great personality	vladimir shamanov	1
+eminent scientist	vladimir f. minorsky	1
+outstanding artist	vladimir viardo	1
+popular player	vlc	1
+research firm	vlsi research	1
+collaborative technology	vlogs	1
+harbor	vlissingen	1
+music player	vlc	1
+video player	vlc	11
+video player	vlc player	6
+video player	vlc media player	5
+video player	vlc media library	1
+topic	vliw machine	1
+topic	vlsm	1
+topic	vlsi layout theory	1
+famous conductor	vladimir fedoseyev	2
+famous conductor	vladimir spivakov	2
+open source solution	vlc's integrated streaming server	1
+big man	vlade divac	1
+squad	vlakplaas	1
+header	vlan	1
+vet	vladimir matyushenko	1
+minority language	vlaxi romani	1
+plant pathogen	vleeshouwers oomycete plant pathogen	1
+observatory	vlt	1
+human right activist	vladimir bukovsky	1
+lineman	vlachos	1
+classification technique	vlan based	1
+communist	vladimir lenin	1
+educational technology	vle	1
+distinguished musician	vladimir jurowski	1
+great conductor	vladimir ashkenazy	2
+great conductor	vladimir fedoseijev	1
+collector street	vly road	1
+large ship	vlcc	2
+datum base	vlr	1
+common datum	vlan information	1
+contemporary theorist	vladimir propp	1
+cyclist	vladimir karpets	5
+solid player	vladimir korsunov	1
+3rd party software	vlc	1
+basketball player	vlade divac	2
+cell adhesion molecule	vla- four 	1
+underground artist	vladimir iankilevskii	1
+impact player	vladimir guerrero	1
+optional function	vlf	1
+DVD player	vlc	1
+DVD player	vlc player	1
+audio application	vlc	1
+Polyolefins	vldpe	1
+medium program	vlc	2
+company	vlsi technology	3
+company	vlcc	2
+eminent conductor	vladimir fodeseyev	2
+memoir	vladimirs nabokov's speak	1
+memoir	vladimir nabokov's speak, memory'', virginia woolf's unfinished a sketch of the past'',	1
+memoir	vladimir nabokov's speak	1
+champ	vladimir klitschko	1
+champ	vlad	1
+ideologue	vladimir ilyich lenin	1
+multimedia program	vlc	2
+elective subject	vlsi design	1
+defensemen	vladimir konstantinov	1
+classical risk factor	vldl	1
+powerful application	vlc	1
+great dancer	vladimir vassliev	1
+certification course	vlsi design	1
+social technology	vlogs	1
+strong leader	vlad dracula	1
+sport legend	vlade divac	1
+world-renowned musician	vladimir feltsman	1
+audio program	vlc	1
+beauty brand	vlcc	1
+notable case	vladimir lenin	1
+prince	vlad the impaler	1
+world-renowned conductor	vladimir ashkenazy	2
+biological component	vlps	1
+Constructivists	vladimir tatlin	1
+prominent composer	vladimir ussachevsky	1
+science fiction author	vladimir obruchev	5
+notable conductor	vladimir jurowski	1
+company	vlsi vision	1
+company	vlasic	1
+pre-installed apps	vlingo	1
+parliamentarian	vladimir lukin	1
+well-known conductor	vladimir ashkenazi	1
+multimedia player	vlc	2
+separate program	vlc media player	1
+software player	vlc	2
+software player	vlc player	1
+software player	vlc media player	1
+european group	vlaams belang	1
+prestigious conductor	vladimir ashkenazy	1
+search function	vlookup	1
+video program	vlc media player	1
+elitist	vladimir putin	1
+famous pianist	vladimir horowitz	1
+single parameter	vl	1
+grandmasters	vladimir kramnik	1
+host protein	vla- four 	1
+right-wing party	vlaams belang in belgium	1
+right-wing party	vladimir zhirinovski's liberal democratic party in russia	1
+small population	vlach	1
+flash	vladimir gomez	1
+mountain village	vlahi	1
+historical leader	vlad iii the impaler	1
+lipoproteins	vldl	1
+russian writer	vladimir mayakovsky	1
+russian writer	vladimir nabokov	1
+Structuralists	vladimir propp	1
+eastern region	vladivostok	3
+fabrication step	vlsi fabrication step	1
+fishing port	vlissingen	1
+market research firm	vlsi research	1
+oligarch	vladimir potanin	2
+oligarch	vladimir gusinsky	1
+oligarch	vladimir lisin	1
+free software program	vlc media play	1
+historic character	vlad the impaler	1
+police unit	vlakplaas	1
+socialist leader	vladimir lenin	1
+visual medium	vlog	1
+activity	vlogs	1
+computer code	vlw code	1
+legendary athlete	vladislav tretiak	4
+common apps	vlc	1
+diagnostic product	vlux  eight hundred and one 	1
+distinguished soloist	vladimir horowitz	1
+professional site	vladeo in france	5
+small ethnic group	vlachs	1
+installed program	vlc player	1
+online facility	vle	1
+baron	vladimir potanin of interros	1
+e-learning technology	vles	1
+external player	vlc	2
+external player	vlc media player	1
+large survey	vlbi imaging	1
+controlled area	vlf transmitting area at cutler	1
+configurable setting	vlan configuration	2
+historical village	vledder	1
+online player	vlc media player	1
+popular mediums	vlogs	1
+semiconductor product	vlsi	1
+information	vlan connectivity	2
+enterprise class feature	vlan support	1
+large complex system	vlsi circuit	1
+network object	vlans	1
+russian author	vladimir radyuhin	1
+twentieth century writer	vladimir nabokov	1
+cross-platform application	vlc media player	1
+great political leader	vladimir lenin	1
+modern architecture	vliw	1
+tanker	vlcc for importation of ago	1
+world famous conductor	vladimir spivakov	1
+world-famous star	vladimir vasilyev	1
+datum processing apparatus	vliw processor	1
+esteemed musician	vladimir mendelssohn	1
+far-right party	vlaams belang in belgium	1
+fascist	vladimir zhirinovsky	1
+local identity	vlad golar from kahunas	1
+russian expert	vladimir dvorkin	2
+russian player	vladimir makogonov	1
+top international player	vladimir maminov	1
+free player	vlc	1
+populist leader	vladimir zhirinovsky of leftist	1
+soviet leader	vladimir lenin	1
+splendid building	vladivostok post office	2
+thalamic nucleus	vl nucleus	1
+thalamic nucleus	vl	1
+great world leader	vladimir putin	1
+incredible anchorage musician	vlad morakhovsky	1
+logical interface	vlan interface	2
+logical interface	vlanif interface	1
+logical interface	vlan routing interface	1
+wetland animal	vlei rat	1
+bard	vladimir vysotsky	5
+bard	vladimir vysotskii	1
+best-known brand	vlasic in michigan	1
+cyclone	vladimir hernandez	1
+free medium player	vlc	2
+free medium player	vlc media player	1
+hybrid technique	vlap combined with turp	1
+non-slavic group	vlachs	1
+russian official	vladimir markin	1
+converter program	vlc	1
+creative personality	vladimir karkalpakov	1
+eminent pianist	vladimir viardo	1
+high-level speaker	vladimir yakunin	2
+independent refiner	vlo	1
+less-known name	vlado martek	1
+less-known name	vlasta delimar	1
+light emitter	vld	1
+movie player	vlc	1
+movie player	vlc media player	1
+real player	vlc player	1
+soviet composer	vladimir shainsky	2
+countless author	vladimir nabokov	1
+electronic composer	vladimir ussachevsky	1
+inspirational musician	vladimir ashkenazy	1
+medium software	vlc	1
+qos technique	vlan tagging	1
+random video	vlogs	1
+world famous writer	vladimir mayakovsky	2
+author's name	vladmir eldritch	1
+ballet star	vladimir vassiliev	1
+configuration function	vlan assignment	3
+distinguished contuctors	vladimir ashkenazy	1
+FLV player	vlc	1
+introduction many engineering application	vlsi design	1
+novel architecture	vliw	1
+third-party player	vlc	1
+bolshevik leader	vladimir lenin	1
+concert pianist	vladimir sofronitsky	2
+concert pianist	vladimir horowitz	1
+electromagnetic method	vlf	1
+program	vlc	17
+program	vlc media player	13
+program	vlc player	6
+famous russian composer	vladimir martinov	1
+game's biggest star	vladimir guerrero	1
+gorgeous site	vlierbeek abbey	1
+initial success well-known pianist	vladimir ashkenazy	1
+particulate antigen	vlps	1
+proper software	vlc	1
+remote centre	vladivostokor petropavlovsk-kamchatsky	1
+russian airline	vladivostok air	1
+russian intellectual	vladimir odoyevsky	1
+space geodetic technique	vlbi	1
+3rd party player	vlc	1
+administrative and network management function	vlan trunk protocol	2
+angel player	vlad guerrero	1
+angel player	vladimir guerrero	1
+APN photographer	vladimir vyatkin	1
+APN photographer	vladimir rodionov	1
+Atherogenic lipoproteins	vldl	2
+business magnate	vladimir potanin	1
+DARPA program	vlsi program in advanced microelectronics	1
+entertainment video	vlogs	1
+exceptional person	vladimir vasiliev	1
+girly drink	vladimir martini	1
+integrins	vla- four 	4
+load balancing technique	vlb	1
+long-term infection	vl	1
+other criterion	vlsi design other criterion	1
+russian oligarch	vladimir gusinsky	1
+star national level runner	vlad shaprov	1
+utilized system	vls	1
+young intellectual	vladimir lossky	1
+best dominican player	vladimir guerrero	1
+brilliant master	vladimir vassiliev	1
+classical guitarist	vladimir mikulka	1
+compatible player	vlc	1
+constructivist artist	vladimir tatlin	1
+device management function	vlan management	1
+famous and outstanding scientist	vladimir eliseev	1
+famous and outstanding scientist	vladimir pulkis	1
+hadron colliders	vlhc	1
+medium player application	vlc	2
+medium player program	vlc media player	1
+mythographers	vladimir propp	1
+remote city	vladivostok	2
+russian painter	vlad bulgakov	1
+siberian city	vladivostok	1
+standalone player	vlc	1
+STS	vlas sts	1
+weekly segment	vlad's music mondays	1
+famous american and serbian author	vladimir pistalo	1
+famous russian jazz musician	vladimir chekasin	1
+fishing harbor	vlissingen	2
+program	vln media player	1
+program	vlc player for easy viewing	1
+program	vlc recovery option	1
+optional operation	vlan tag imposition	1
+programmable processor	vliw processor	1
+real cn's component	vlr	1
+video viewer	vlc	1
+adaptive scheme	vlc table selection scheme	1
+application oriented area	vlsi design	1
+beria's henchman	vladimir dekanozov	2
+big EPL star	vladimir smicer in the masters football malaysia cup presented by standard chartered	1
+bonafide superstar	vladislav tretiak	1
+cisco IOS feature	vlan translation	1
+compatible medium player	vlc player	1
+core network node	vlr	2
+display program	vlc	1
+DVD playback software	vlc	1
+eastern serbia's area	vlasina	1
+embedded system project	vlsi based project	1
+famous russian writer	vladimir makanin	1
+famous russian writer	vladimir mayakovsky	1
+fictional country	vlatava	4
+industry research firm	vlsi research	1
+internationally acclaimed dancer	vladimir malakhov	1
+kinetic approach	vlasov simulation	1
+local and regional group	vlachs of the balkans	1
+magnetic and electric field meter	vlf field detector survey meter	1
+MP3-compliant player	vlc player	1
+networkcritical function	vlan segregation	1
+network-critical function	vlan segregation	2
+oomycete plant pathogen	vleeshouwers oomycete plant pathogen	1
+playing program	vlc	1
+popular open source apps	vlc media player	1
+populated major city	vladivostok	1
+power bat	vladimir guerrero	1
+russian politician	vladimir zhirinovskii	1
+community	vlachs	1
+third party player	vlc	1
+top conductor	vladimir ashkenazy	1
+Triglyceride-rich lipoproteins	vldl	1
+vector instruction	vld	1
+vlans	vlan  one hundred and fifteen 	1
+well-known datum structure	vl tree	1
+astronomical telescope	vlt	1
+Balkan peoples	vlachs	1
+ballet giant	vladimir shtefan	1
+ballet giant	vladimir denisenko	1
+cohen biographer	vlad arghir	1
+continent s populist party	vlaams belang in belgium	1
+coral atoll	vlingilli in the maldives	1
+cross-linking multiple adhesion molecule	vla- four 	1
+DVD player application	vlc media player	2
+DVD player application	vlc	1
+established favorite amon world-class Grandmasters	vladimir kramnik	1
+free DVD player	vlc	1
+high-profile opposition leader	vladimiro roca	1
+institutional tool	vle	1
+kholui painter	vladimir sedov	1
+large aperture telescope	vlt  eight m 	1
+latest technological subject	vlsi design	1
+mediaplayers	vlc	2
+medium converter program	vlc player	1
+meme	vlog talk	1
+modern exception	vladimir nabokov	1
+open source player	vlc player	1
+player software	vlc	1
+technique	vlbi	4
+redundant application	vlc	1
+regular superstar	vladimir kozlov	1
+russian fine artist	vladimir lebedev	1
+russian formalist	vladimir propp	1
+serious expert	vladimir dvorkin	1
+soviet dissident	vladimir bukovsky	5
+standard L2 feature	vlans	1
+standard player	vlc	1
+study writer	vladimir nabokov	1
+superstar champion	vladimir kozlov	1
+top-quality artist	vladislav isaev	1
+ukrainian sculptor	vladimir filatov	1
+ukrainian, russian and polish actor	vladimir vdovichenkov	1
+VLSI testing technique	vlsi fault modeling	1
+webm player	vlc	1
+wireless network element	vlr	1
+active board member	vlad rekhson	1
+aftermarket polymer plastic collapsible stock	vltor emod	1
+bulletin s regular writer	vladimir wertsman	1
+cheap router many enterprise feature	vlan support	1
+common trade item	vlad the impaler coins	1
+common video playback application	vlc	1
+comprehensive software feature	vlan capability	1
+cooperation not only russian star	vladimir malakhov	1
+datum block	vlan frame	1
+deep draught vessel	vlcc	1
+DHs	vlad guerrero	2
+excellent slovak jazz ensemble	vlado vizar jazz quartet	1
+external video player	vlc player	1
+external video player	vlc	1
+famous soviet weightlifter	vlasov	3
+famous ukrainian jazz musician	vladimir shabaltas	1
+feature-rich function	vlan separation	1
+featuring best seller	vlaskaas	1
+freeware video player	vlc	1
+generic medium player	vlc	1
+german and russian book designer	vladimir favorsky	1
+heroes mostly great revolutionary	vladimir lenin	1
+high quality polymer AR part	vltor	1
+high-precision, geodetic technique	vlbi	1
+history's greatest warrior	vlad the impaler	1
+illustrated different application	vll	1
+influential global leader	vladimir putin	1
+jessie linde convinced star	vladamir horowitz	1
+leading political opponent	vladimir ryzhkov	1
+legacy security solution	vlans	1
+Metaphysicists	vladimir jankilevskij	1
+milosevic's witness	vladislav jovanovic	1
+modern medium player	vlc player	1
+network enforcement attribute	vlan	1
+network-wide and device-independent configuration tool	vlan manager	1
+application	vlc	15
+application	vlc media player	4
+application	vlsi design	3
+NTRODUCTION modern spatial related application	vlsi design	2
+paris-based painter	vlaminck	1
+password-protected area	vle	1
+per-interface feature	vlan map	11
+Plasma lipoproteins	vldl	1
+powerhouse wrestler	vladimir matyushenko	1
+radical right wing political party	vlaams belang	1
+roster member	vladimir sobotka	1
+russian anarchist	vladimir shatov	1
+russian and foreign musician	vladimir shulyakovsky	1
+russian prince	vladimir of serpukhov	1
+sober pro-western figure	vladimir lukin	1
+soviet weightlifting legend	vlasov	1
+space-geodetic technique	vlbi	2
+strength training expert	vladimir zatsiorsky	1
+Supervirtuosos	vladimir horowitz	1
+application	vlogging	1
+application	vlsi circuit simulation	1
+application	vlsi asic application	1
+application	vlsi designing	1
+application	vlan pilot available from hewlett packard	1
+application	vlandirector available from cisco systems	1
+application	vlsi implementation of elliptic curve cryptographic protocol	1
+application	vlc remote without a problem	1
+tall Slovaks	vladislav balaz	1
+tall Slovaks	vladimir kutny	1
+TG-rich lipoproteins	vldl	1
+video class-of-service mechanism	vlan tag segregation	1
+VLBI array	vlb array	1
+world class product line	vlier products	2
+Abstract Modern performance-oriented ISAs	vliw	1
+advanced EE field	vlsi	1
+all-in-one medium player	vlc	1
+anti-immigration party	vlaams belang in belgium	1
+apob-containing particle	vldl	2
+backup medium player	vlc media player	1
+black dissident leader	vladimiro roca	1
+blunt ship	vlcc	1
+bustling tourist town	vlissingen	1
+name	vladimir	3
+name	vladimir lenin	3
+codelink user	vladimir benes	1
+collocated space geodetic system	vlbi	1
+competitive, uncompromising Russian	vladimir shamanov	1
+complex optimization task	vlsi logic synthesis	1
+CONCLUDING remark space geodetic technique	vlbi	1
+conventional video player	vlc	5
+correct software	vlc	1
+czech photographer	vladimir birgus	1
+damp part	vlei area	1
+Decoupling method ysis	vlsi circuit analysis	1
+deep-draughted vessel	vlcc	1
+disinformation officer	vladimir aleksandrovich chuchukin	1
+dissent	vladimir bukovsky	1
+distinguished maestro	vladimir jurowski	1
+Elevated plasma lipoproteins	vldl	1
+essential security control	vlan configuration	1
+ethnically jewish individual	vladimir lenin	1
+eurofascist party	vlaams belang	1
+extremely rare vehicle	vl walkinshaw	1
+extremely rare vehicle	vl brock	1
+famous table tennis player	vladimir samsonov	1
+name	vladimir horowitz	1
+name	vladimir samsonov	1
+name	vladimir ashkenazy	1
+name	vladimirovka	1
+name	vladimir tkachenko	1
+fidelity model	vlm	1
+Free Software DVD player	vlc	1
+free-software program	vlc media player	6
+geodetic observation technique	vlbi	1
+GPL licensed software	vlc	1
+hard rock track	vladimir kozlov	1
+high-risk infant	vlbw infant	1
+hiphop website	vladtv	1
+history & documentary	vlad the impaler	1
+HSV	vl group a walkinshaw	1
+IFL fighter	vladimir matyushenko	1
+Iiigh-claShoes	vlci kid	1
+impressionist and fauvist movement	vlaminck	1
+indian fitness company	vlcc	1
+integrin	vla- four 	1
+introduction many intelligent application	vlsi design	1
+ISC resource	vlan pool	2
+L2 VPN technology	vll	1
+large ground-based radar telescope	vla in socorro	1
+large optical telescope	vlt	1
+large scale project development	vle's	1
+largerapob-containing particle	vldl	1
+largest telescope	vlt	2
+factor	vl	1
+case	vladimir	2
+local business baron	vladimir gruzdev	1
+long run president	vladamir putin	1
+lot owner	vlb	1
+luckily man	vladimir zworykin	1
+Lymphocyte integrins	vla- four 	1
+market stalwart	vlo	1
+missile designer	vladimir chelomey	1
+Modern performance-oriented ISAs	vliw	1
+molecular aggregate	vlps	1
+multimedia player program	vlc	1
+native linux application	vlc	1
+non NHL player	vladislav tretiak	1
+open source medium player	vlc	1
+optical or electronic component	vlsi circuit	1
+original content series	vloggers	1
+others core network node	vlr	1
+popular bard	vladimir vysotsky	1
+case	vladimir tractor works	1
+case	vladivostok	1
+case	vlogs	1
+presumed kremlin heavyweight	vladislav surkov	1
+professional observatory	vlt	2
+pure GSM network element	vlr	1
+real-mode network client	vlm	2
+russian academician	vladimir vernadsky	1
+russian olympic weightlifter	vlasov	1
+self-defence missile	vl mica	1
+serb-held town	vlasenica	1
+skilled and respected musician	vladimir levtov	1
+smart analyst	vladimir goati	1
+socialist revolutionary	vladimir ulyanov	1
+source player	vlc media player	1
+Starboxer	vladimir klitschko	1
+static network configuration	vlan configuration	1
+storied character	vlad dracula	1
+sympathetic businessman	vladimir rabinovich in kiev	1
+traditional voice search application	vlingo for iphone	1
+vlan-aware device	vlan-enabled switch	1
+vocal activist	vladimir slepak	1
+wall interest	vlad dracula	1
+word & term	vlans	1
+world renowned tier	vladi trzebunia	1
+3rd party medium software	vlc	1
+3rd-part player	vlc player	1
+agitator loader	vl revolution	1
+alt-az array	vlba	1
+alternate DVD player	vlc	1
+alternate DVD playing software	vlc	1
+anotehr player	vlc	1
+Athird-party video tool	vlc	2
+authoritarian putsch	vladimir putin's	1
+baseline telescope	vlt	1
+basic configuration step	vlan creation	1
+basic management	vlan	1
+basic VLAN information	vlan version number	1
+beauty service brand	vlcc	1
+best pianist	vladimir ashkenazy	1
+big chiefs	vladimir sangi	1
+blue chip free agent	vladimir guerrero	1
+book detail vaccine development platform	vlps	1
+cell surface lipoprotein receptor	vldlr	1
+centralized control unit	vliw control word	1
+classical slavic name	vladimir	1
+clustering	vlan use	1
+Common video player software	vlc	1
+competent medium player	vlc	1
+completely different app	vlc	1
+crazed russian lunatic	vladimir zhirinovsky	1
+currency excellent program warning	vladimir rybakov & tom strignano forex signal service	1
+decent video player	vlc	1
+decoding function block	vld	1
+dedicated-purpose resource	vlan qos policy	1
+diferent medium software	vlc	1
+DMU rolling-stock	vlocity	1
+domestic private label packer	vlasic	1
+easy mode champ	vlad	1
+option	vlc media player	1
+option	vlan manager	1
+option	vlc	1
+group	vlachs	2
+electronics knowledge	vlsi programming	1
+Ethernet experience	vlan routing	1
+example jews	vladimir lenin	1
+external DVD playing application	vlc	1
+flemish information centre	vlaams informatiepunt jeugd	1
+FLV-capable video player	vlc	2
+free add-on program	vlc player	1
+free external player	vlc	1
+free mp3 music player	vlc	1
+free video player	vlc player	1
+funtional player	vlc	1
+good multi-codec player	vlc	1
+good non-infected medium player	vlc available on the internet	1
+good video player	vlc	1
+gray out	vlc media center	1
+great move guy	vlade divac	1
+great russian athlete	vladislav tretiak	1
+ground based telescope	vlt	1
+high-order AO system	vlt with dsm	1
+homogeneous array	vlba	1
+icon painting instructor	vladislav andrejev	1
+influential military writer	vladimir triandafillov	2
+inspecic application	vlsi layout design	1
+Integrin expression	vla- four  expressed on the hpc 	1
+Justice Minister Kravtsovore dynamic figure	vladimir kudryaviscv	1
+legitimate and highly successful fund	vlade divac foundation	1
+lighterweight player	vlc	1
+liverpool family	vlastos	1
+local bus standard	vl bus	1
+low footprint player	vlc media player	1
+low-cost, normalised technology	vle	1
+macro network location server	vlr	1
+modern radio telescope array	vla in new mexico	1
+moscow writer	vladimir sorokin	1
+multiple-issue architecture	vliw	1
+nice medium player	vlc	1
+non directshow-based standalone medium player	vlc player	2
+non-Apple DVD player	vlc	1
+nontangible feature	vlan configuration	4
+method	vls	2
+notable epilepsy sufferer	vladimir lenin of the soviet union	1
+notable scriabin master	vladimir horowitz	2
+odd non-Canadian star	vladislav tretiak	1
+ogg player	vlc media player	1
+paper architecture	vladimir tatlin's	1
+parallel programmable architecture	vliw	2
+partial jersey piece	vlad patch card	1
+pickle chip	vlasic	1
+picklemakers	vlasic foods international	2
+political operator	vladislav surkov	1
+popular current video player	vlc	1
+powerful medium tycoon	vladimir gusinsky	1
+professional hitter	vladimir guerrero	1
+Progenitor B cell surface integrins	vla- four 	1
+Progenitor Bcellsurfaceinteg-rins	vla- four 	1
+prominent constructivist artist	vladimir tatlin	1
+Protein macromolecules	vlps	2
+qt application	vlc	1
+radical political party	vladimir zhirinovsky's liberal democratic party	2
+region free medium player	vlc	1
+returning fringe fantasy player	vladimir radmanovic	1
+russian dissident	vladimir bukovsky	1
+Russian hard-liners	vladimir zhirinovsky	1
+russian political analyst	vladimir pribylovskii of the panorama think tank	1
+second processing resource	vliw media processor	1
+secondary immunodefficient individual	vlbw newborns	1
+method	vll	1
+method	vlf method	1
+method	vlan configuration switch	1
+serial server	vlinx device family by b&b electronics	1
+smallest ethnic group	vlach	1
+solid hitter	vladimir guerrero	1
+source DVD player	vlc media player	1
+soviet controller	vladimir shubin in the apparat in moscow	1
+soviet strategist	vladimir k. triandifilov	1
+soviet union leader	vladimir lenin	1
+SPD's	vlpc	1
+specialty CFI job	vlj mentor	1
+standard software medium player	vlc	1
+subrip-format-aware medium player	vlc media player	1
+superhackers	vlad guerrero	1
+superior player	vlc	1
+SWF-compatible video player	vlc	1
+system domain	vle	1
+TGRL particle	vldl	2
+Th1 cell ligands	vla- four 	1
+thermodynamics calculation	vle by applying statistical thermodynamics	1
+third-party QuickTime movie player	vlc	2
+transnational minority	vlachs	1
+TRUE player	vlc	2
+uniting figure	vladimir lenin	1
+universal video player	vlc	1
+unscripted video	vlogs	1
+upper end series	vlm	1
+up-to-date mp3 player	vlc	1
+tool	vlc player	2
+tool	vlogs	2
+video player apps	vlc	1
+VLA protein	vla- four 	2
+VLA-4 binding agent	vla- four  binding antibody 	3
+Westerners	vladimir lukin	1
+would-be revolutionary	vladimir lenin	1
+yeltsin associate	vladimir k. varov	1
+young, unfinished player	vladimir weiss	1
+tool	vlc	1
+tool	vlan management tool	1
+project	vlora-durres road project	1
+project	vlba	1
+project	vlu project	1
+artist	vladimir tatlin	4
+artist	vladimir mendelssohn	3
+artist	vladimir ashkenazy	2
+artist	vlaminck	2
+artist	vladimir chernov	2
+artist	vladimir krainev	2
+artist	vladimir horowitz	2
+artist	vladimir nemukhin	2
+artist	vladimir nazor	1
+artist	vlaho bukovac	1
+artist	vladamir ashkenazy	1
+artist	vladimir kandelaki	1
+artist	vladimir borovikovsky	1
+artist	vladimir cybil charlier	1
+artist	vlodko kaufman	1
+artist	vladimir liushin	1
+artist	vladimir bechtejeff	1
+artist	vladimir troshin	1
+artist	vladimir makovsky	1
+artist	vladimir nabokov	1
+place	vladivostok	3
+place	vladivostok region	1
+player	vlc	55
+player	vlc media player	11
+player	vlc player	9
+player	vladimir guerrero	6
+player	vladimir kramnik	5
+player	vladimir schemelev	2
+player	vladislav tretiak	2
+player	vlade divac	2
+player	vlad	2
+player	vlad an jose guillen frightening people from third	1
+player	vladimir konstantinov	1
+player	vladimir bobri	1
+player	vladimir nunez	1
+player	vladimir jugovic of serbia	1
+player	vladimer weiss	1
+player	vladimir zharkov	1
+player	vlado scepanovic	1
+player	vladimir orszagh	1
+player	vladimir tarasenko	1
+player	vladimir weiss	1
+player	vladimir konstatinov	1
+technology	vlogs	3
+technology	vlsi	1
+term	vl m vm l	1
+parameter	vlan assignment	2
+parameter	vlan ids	1
+parameter	vl	1
+parameter	vld	1
+parameter	vldl	1
+system	vle	3
+system	vlba	1
+system	vlbi	1
+system	vliw	1
+function	vlookup	15
+function	vlans	3
+function	vlc	1
+device	vlis visible light identification tag	2
+device	vlsi circuitry	2
+device	vlr device	1
+device	vlsi hardware device	1
+brand	vladivar vodka	1
+brand	vlasic	1
+component	vlr	1
+component	vlan tagging	1
+site	vlogs	1
+site	vlasoff cay	1

@@ -1,0 +1,3119 @@
+factor	hdd	2
+product	hd radio	1
+product	hd dvd double layer	1
+initiative	hdr ims	1
+accessory	hdmi cable	4
+accessory	hdtv tuner	2
+accessory	hd radio	1
+accessory	hd one hundred and fifty  handheld distance measuring device 	1
+accessory	hd multimedia dock	1
+accessory	hd radio adapter	1
+accessory	hd games console	1
+accessory	hdl resveracine	1
+datum	hd file	1
+datum	hd video	1
+resource	hd space	1
+resource	hds premier consulting	1
+resource	hd society	1
+facility	hdmi digital connectivity	1
+facility	hd tv studio	1
+process	hdd assembly process	1
+process	hdc	1
+process	hdr generation	1
+source	hd dvd	4
+source	hdtv	3
+source	hd-dvd players	2
+source	hdr brachytherapy source	1
+source	hd tv	1
+source	hdtv capable video game	1
+source	hdtv antennae	1
+source	hd audio source	1
+source	hd radio	1
+source	hddvd	1
+source	hdmi input source	1
+source	hdtv signals	1
+property	hdb flat	2
+property	hdiffusion coefficient	1
+property	hdc	1
+benefit	hdmi connectivity	1
+benefit	hdtv	1
+game	hd pinball	1
+subject	hdtv	1
+product	hdmi splitter related product	1
+product	hdmi switch	1
+product	hdmi input related product	1
+product	hdpe ldpe lldpe related product	1
+product	hdpe t-shirt bag related product	1
+product	hdr expose	1
+product	hdpe apron related product	1
+product	hdpe bottle	1
+product	hd powder &	1
+product	hdd case related product	1
+product	hdd cinema related product	1
+product	hdd external enclosure related product	1
+product	hdd multimedia player related product	1
+product	hdd trenchless product	1
+product	hdmi connector	1
+product	hdmi dvi adapter related product	1
+product	hdf moulded door related product	1
+exception	hds  two hundred and one 	1
+exception	hds discovery tweeter from scanspeak	1
+reason	hd audio	1
+work	hdpe pipe	1
+work	hdpe job fabrication work	1
+model	hdm iii	1
+model	hdm- four 	1
+model	hdm	1
+model	hdm four  rd model 	1
+model	hd boxes	1
+model	hd plus	1
+characteristic	hdtv display capability	1
+word	hdr darkroom keygen	1
+word	hd audio solo ultra v three . zero  keygen 	1
+word	hdd regenerator two thousand and eleven  keygen 	1
+attraction	hd voice for crystal clear call	1
+skill	hdr	1
+category	hdtv	2
+category	hd now	1
+category	hdd	1
+institution	hdfc	3
+institution	hdfc bank	2
+institution	hdfc standard life insurance company	2
+client	hd supply by providing market analysis	1
+client	hdfc	1
+client	hdnet	1
+client	hdfc bank jk cement	1
+client	hd supply	1
+feature	hdmi port	26
+feature	hdmi output	24
+feature	hdmi	19
+feature	hd video	17
+feature	hd movie capture	16
+feature	hd video recording	14
+feature	hdmi mirroring	13
+feature	hdcp	12
+feature	hd radio	10
+feature	hd capability	9
+feature	hdr	9
+feature	hd	9
+feature	hd camcorder	8
+feature	hd movie function	7
+feature	hdv capture	7
+feature	hdtv	6
+feature	hdmi switching	6
+feature	hd video playback	5
+feature	hd output resolution	4
+feature	hdr photo	4
+feature	hd movie recording	3
+feature	hdmi input	3
+form	hdl	4
+form	hdsl	1
+form	hd	1
+idea	hd radio	1
+alternative	hd-dvd	2
+alternative	hdmi cable	2
+effect	hdr	3
+effect	hdr filter	1
+effect	hdr lighting	1
+solution	hdhp	1
+solution	hd box pro	1
+solution	hdd backup	1
+feature	hd screen	3
+feature	hdmi  one . four 	3
+feature	hdd	3
+feature	hdd  three d impact sensor for data protection 	2
+feature	hd graphics card	2
+feature	hd picture capture	2
+feature	hd ready	2
+feature	hd sdi output from the camera head	2
+feature	hdr image	2
+feature	hdri lighting	2
+feature	hd up-conversion	2
+feature	hd radio technology with usb	2
+feature	hd touch screen	2
+feature	hd video upload	2
+feature	hd three d amd 	2
+star	hd ten thousand one hundred and eighty 	7
+film	hdp oxide film	2
+business	hdpe bottle	1
+business	hd movie business	1
+field	hdop	1
+field	hd-dvd	1
+part	hdd	6
+part	hd	4
+part	hdtv	1
+part	hd one - six thousand one hundred and twenty - nine  cpu chip 	1
+part	hd with value beyond a screen	1
+part	hdmi	1
+part	hdmi port	1
+part	hdmi cable	1
+part	hdd component	1
+amenity	hdmi port	1
+amenity	hdtv	1
+amenity	hd directv	1
+amenity	hd flat screen tv	1
+amenity	hd tv's in every bedroom	1
+amenity	hd radio	1
+amenity	hd television	1
+title	hd movie title	1
+agent	hdac inhibitor	2
+feature	hd video upload support	1
+feature	hd video-recording capability	1
+feature	hd video capture	1
+feature	hd video mode	1
+feature	hdc hill descent control	1
+feature	hddvd	1
+feature	hd television	1
+feature	hd output	1
+feature	hd picture catch	1
+feature	hd electric-hydraulic system	1
+feature	hd camera at the back	1
+feature	hd capable webcam	1
+feature	hd capacity	1
+feature	hd decoder	1
+feature	hd  seven hundred and twenty p movie recording 	1
+feature	hd audio	1
+feature	hdmi interface	1
+feature	hdmi output port	1
+feature	hdmi  one . four  for  three d 	1
+feature	hdmi video output	1
+feature	hdmi-out port	1
+feature	hdmi port on the neura  three g tablet 	1
+feature	hdmi simple connection	1
+feature	hdmi slot	1
+feature	hdmi capability	1
+feature	hdmi deep colour	1
+feature	hdmi device control	1
+feature	hdmi ouput port	1
+feature	hdmi auto	1
+feature	hdv format-specific feature	1
+feature	hdr stitching	1
+feature	hdpe frame sheet of the hsgi war belt ect	1
+feature	hdmi with cec	1
+feature	hdmi terminal	1
+feature	hdr ability	1
+feature	hdr lighting	1
+development	hd	3
+development	hdtv video calling	2
+development	hd tv	1
+type	hdpe	9
+type	hdmi wall plate	1
+disease	hd	3
+firm	hdfc ergo	2
+firm	hdfc	1
+firm	hdfc bank	1
+challenge	hdr	1
+challenge	hdx	1
+drug	hdac inhibitors	2
+test	hdl	1
+test	hdl cholesterol	1
+indicator	hdop	1
+advantage	hd radio	1
+treatment	hd brow	1
+treatment	hdl therapy	1
+treatment	hdac inhibitor	1
+manufacturer	hdd equipment manufacturer	1
+manufacturer	hdtv maker	1
+manufacturer	hds	1
+manufacturer	hdd part manufacturer	1
+feature	hdmi cec control feature	1
+feature	hdmi connection	1
+feature	hdmi hookup	1
+feature	hdmi ethernet channel	1
+feature	hdmi pc input	1
+feature	hdmi repeater for simplified video	1
+feature	hdmi v one . three  connectivity 	1
+feature	hdtv compatibility	1
+feature	hdtv & dvr	1
+feature	hdr pro	1
+feature	hdr rendering	1
+feature	hdtv tuner	1
+feature	hd video calling	1
+feature	hd tuner	1
+feature	hd tv tuner	1
+feature	hd video support	1
+feature	hd video support on ios apps	1
+feature	hd viewing capability	1
+feature	hd radio capability	1
+feature	hd sound with enhanced bass	1
+feature	hd telephony	1
+feature	hd audio decoding	1
+feature	hd quality support	1
+feature	hd movie capability	1
+feature	hd movie cpature	1
+feature	hd photo & video capture	1
+feature	hd picture quality	1
+attribute	hd filming	1
+setting	hdmi audio	1
+setting	hdd smart capability	1
+setting	hdtv	1
+setting	hd type-video output	1
+setting	hdr	1
+compound	hdl	1
+compound	hdac inhibitor	1
+class	hdr	1
+website	hd videos from the nasa website	1
+equipment	hdtv device	1
+equipment	hdtv-ready television	1
+equipment	hdd video camera	1
+equipment	hd digital video camcorder	1
+basic	hdl-based design methodology	2
+innovation	hd	7
+innovation	hdtv	7
+innovation	hd output	1
+innovation	hdr	1
+innovation	hdr texture compression	1
+innovation	hd traffic	1
+innovation	hd gallery	1
+innovation	hdmi connectivity	1
+cause	hdd corruption	1
+instance	hdf format file	1
+policy	hdb housing quota	1
+entity	hdfc bank	1
+country	hd utility plow	1
+style	hdr	1
+expert	hdfc securities institutional research	1
+feature	hdd dock	1
+feature	hd-dvd player	1
+feature	hdmi digital video for long term compatibility	1
+feature	hd-video recording	1
+feature	hdmi upconversion no gateway device	1
+feature	hdr photo capture	1
+feature	hdr bracketing	1
+feature	hdr button	1
+feature	hdtv decoding	1
+feature	hd video streaming	1
+feature	hd video uploading through wi-fi	1
+feature	hd voice	1
+feature	hd voice support	1
+feature	hd fifteen  pc input connection system 	1
+feature	hd support	1
+feature	hd trailering special equipment	1
+feature	hd trubrite widescreen display	1
+feature	hd quality image	1
+feature	hd quality preview	1
+feature	hd ready video recording	1
+feature	hd movie	1
+feature	hd  one thousand and eighty p video support 	1
+feature	hd broadcasting	1
+feature	hd film seize	1
+feature	hd frame capture	1
+feature	hd imaging	1
+feature	hd sound	1
+feature	hd source	1
+feature	hd video filming	1
+feature	hd web camera powered by exmor sensor	1
+feature	hd quality	1
+feature	hd package	1
+feature	hd playback support	1
+feature	hd input option	1
+feature	hd mode	1
+feature	hd audio for the clearest call experience	1
+feature	hd avc decode	1
+feature	hd dvd playback	1
+feature	hd dvd-rom drive	1
+feature	hdd navigation system	1
+feature	hdcd playback	1
+improvement	hd video output	1
+improvement	hdmi port	1
+researcher	hd moore	1
+format	hdv	13
+format	hd-dvd	10
+format	hdcam	6
+format	hd	5
+format	hd dvd	2
+format	hdtv mode	1
+format	hdr file format	1
+format	hdcam sr	1
+format	hd  one thousand and eighty   twenty-five p 	1
+format	hdlc	1
+format	hd sound format	1
+format	hdr	1
+format	hdmi	1
+format	hd video	1
+format	hdf	1
+format	hdtv video format	1
+Organisations	hdfc	1
+Organisations	hds	1
+Organisations	hdra in the uk	1
+partner	hdc housing department	1
+partner	hdc	1
+big name	hds	1
+big name	hdfc bank	1
+standard	hdmi	4
+standard	hdcp	1
+standard	hd video standard	1
+standard	hdtv television standard	1
+standard	hdmi port	1
+standard	hdtv	1
+standard	hd rec seven hundred and nine  for game 	1
+show	hdnet high definition show	1
+show	hd national show	1
+advanced feature	hdmi v one . three a 	2
+advanced feature	hd connectivity	2
+advanced feature	hdmi's	1
+advanced feature	hd camcorder	1
+advanced feature	hd video recording	1
+advanced feature	hdmi device control support	1
+advanced feature	hdmi ethernet channel	1
+advanced feature	hdmi input	1
+advanced feature	hd  eleven . six -inch led screen 	1
+advanced feature	hd quality for video	1
+advanced feature	hdd	1
+advanced feature	hd image capture	1
+advanced feature	hd video	1
+advanced feature	hdmi	1
+vendor	hds	6
+design	hdx lineup	1
+sector	hd	2
+market	hdtv	3
+customer	hdfc	5
+customer	hdfc bank	1
+incentive	hda loan	1
+incentive	hdb upgrading	1
+label	hd full	1
+label	hdad	1
+scheme	hdfc equity	2
+scheme	hdfc balanced	1
+scheme	hdfc core & satellite	1
+scheme	hdfc tax plan- two thousand  	1
+scheme	hdb concessionary loan	1
+scheme	hdfc mip	1
+scheme	hd radio	1
+scheme	hdfc cash management savings	1
+scheme	hdfc long term advantage	1
+supply	hdpe	1
+risk factor	hdl cholesterol	6
+risk factor	hdt strategy	3
+risk factor	hdl	1
+need	hd video	2
+need	hd video encoding	1
+additive	hdpe	1
+article	hd dvd player	1
+software	hd tune	1
+software	hdd regenerator	1
+disorder	hd	2
+capability	hd camcorder	3
+capability	hdx plug-n-play	2
+capability	hd display	2
+capability	hdx realtime	2
+capability	hd video recording	1
+module	hd radio	1
+magazine	hd living	1
+provider	hdtv satellite provider	1
+asset	hd content for broadcast company	1
+report	hdr	2
+party	hdz in croatia	1
+offer	hdmi cable related offer	1
+offer	hdf door skin related offer	1
+offer	hdmi related offer	1
+offer	hdmi splitter related offer	1
+offer	hdpe pipe related offer	1
+offer	hdd related offer	1
+offer	hdpe related offer	1
+protein	hdac	3
+trend	hdtv	2
+gift	hd news	1
+stakeholder	hdcs	1
+issue	hdb quota	1
+issue	hdb upgrading	1
+issue	hdtv	1
+issue	hdmi prob	1
+addition	hdtv set	1
+corporation	hdfc	1
+variation	hdri skydomes	1
+variation	hdr	1
+difference	hd speed	1
+language	hdml	1
+image	hdr	1
+package	hd extra pack	1
+package	hd packs	1
+channel	hdnet	8
+channel	hd	2
+channel	hd history	1
+channel	hd premium channels like hbo hd	1
+channel	hd cable channel	1
+channel	hdnet movies	1
+channel	hd theater	1
+channel	hdnet in hd	1
+channel	hd-only hdnet	1
+channel	hdmi	1
+channel	hd channel	1
+channel	hd ocur channel	1
+channel	hd versions of channel	1
+channel	hd only channel	1
+channel	hdtv	1
+functionality	hdr	1
+functionality	hd video recording	1
+series	hdx  eighteen t 	1
+series	hdx  sixteen t 	1
+utility	hd sentinel	2
+utility	hdd erase	1
+utility	hd tune	1
+utility	hddtemp	1
+driver	hd audio	1
+file	hdf	1
+file	hdtv video	1
+file	hdl file	1
+file	hd . ini	1
+measurement	hdl cholesterol	1
+measurement	hdl & ldl cholesterol	1
+issue	hdl suppression	1
+issue	hdmi handshake problem	1
+everything	hd picture	2
+everything	hdmi ports on tv	1
+everything	hdd	1
+service provider	hdb	1
+service provider	hdfc bank payment gateway	1
+essential	hdmi support	1
+protocol	hdlc	7
+protocol	hdml	2
+protocol	hdx	1
+error	hdlc frame fcs error	1
+error	hdop	1
+bank	hdfc bank	67
+bank	hdfc	49
+card	hd  five xxx series 	1
+card	hd three thousand four hundred and fifty 	1
+plan	hdfc progrowth ii	1
+sensor	hdl- sixty-four e on the roof of a dozer 	1
+network	hdnet	1
+station	hd net	2
+upgrade	hd webcam	4
+upgrade	hdd	3
+upgrade	hd upon the client's request	1
+upgrade	hd addon for anydvd	1
+medium	hdd card	1
+medium	hdm	1
+medium	hdtv	1
+mode	hdr	1
+mode	hd cine	1
+stock	hdfc	7
+stock	hdfc bank	5
+stock	hdil	2
+standard feature	hdmi output	1
+standard feature	hd radio	1
+fund	hdfc prudence	22
+fund	hdfc equity	12
+fund	hdfc balanced	8
+fund	hdfc tax saver	4
+fund	hdfc taxsaver	2
+fund	hdfc equity fund	1
+fund	hdfc tax plan two thousand  	1
+fund	hdfc multiple yield	1
+fund	hdfc mip	1
+fund	hdfc equity in the diversified category	1
+fund	hdfc index nifty	1
+fund	hdfc multiple yield fund	1
+fund	hdfc	1
+fund	hdfc core & satellite fund	1
+fund	hdfc mip-ltp	1
+fund	hdfc income fund	1
+fund	hdfc index sensex	1
+fund	hdfc capital builder	1
+fund	hdfc capital builder fund	1
+supplement	hdl booster	1
+transaction	hdic premium receipt	1
+input	hdmi	21
+input	hdmi for the best connectivity	3
+input	hdcp compliant digital input	1
+input	hdmi input	1
+input	hdmi for the best connectivity lcd tv	1
+input	hdmi  two 	1
+input	hdmi  one 	1
+prize	hd pvr decoders	1
+target	hd-dvd	1
+factor	hdl	2
+modalities	hdf	1
+raw material	hdpe	6
+raw material	hdpe & pp granule	1
+raw material	hd aluminum wire	1
+forum	hdn	1
+signal	hd tv	1
+signal	hd satellite	1
+gene	hdac four 	1
+gene	hdac two 	1
+gene	hdac one 	1
+great feature	hd video	2
+great feature	hd movie capture	1
+great feature	hd radio capability	1
+great feature	hdr	1
+great feature	hd video recording	1
+oil	hd diesel oil	1
+rival	hdfc standard life	1
+appliance	hd tv	1
+content	hd programming	1
+content	hdcp-protected video datum content	1
+index	hdi used by international organization	1
+specification	hdr mode	1
+specification	hdmi port	1
+specification	hdmi output port	1
+maker	hd camcorder maker	1
+attachment	hdmi cable	1
+outlet	hdnet	1
+substrate	hdf	1
+enterprise	hdfc bank	2
+electronic device	hdd	1
+commodity	hdpe	1
+marker	hdl	1
+issue	hdmi connecting to an external tv	1
+goodie	hdtv tuner	1
+household name	hdb	1
+developer	hdil	11
+advanced technique	hdr	3
+advanced technology	hdmi	1
+expression	hdl object	1
+technical issue	hdmi compatiblity	1
+health issue	hd	2
+gas	hd two us 	2
+inhibitor	hdac activity witha hdac inhibitor	1
+polymer	hdpe	8
+polymer	hdpe andisotacticpp	1
+production	hd net	1
+invention	hdtv	1
+invention	hd television	1
+security feature	hdd password	1
+advance	hd-dvd	1
+advance	hdtv	1
+advance	hd photo	1
+item	hdd	3
+item	hdtv	2
+port	hdmi	23
+port	hdmi port	2
+port	hdmi output port	1
+financial institution	hdfc	10
+link	hdlc	1
+technological advance	hdtv	2
+particle	hdl	1
+board	hdd board	1
+luxury	hdtv	1
+luxury	hd flatscreen tvs	1
+luxury	hd tvs	1
+house	hdfc	1
+nice feature	hd audio	1
+nice feature	hdr rendering	1
+nice feature	hdr imaging	1
+nice feature	hd webcam for video chatting	1
+nice feature	hdr support	1
+key feature	hd audio decoding	1
+key feature	hd picture capture	1
+organic material	hdpe	1
+interface	hdmi	9
+interface	hdml	1
+interface	hdmi port	1
+interface	hd connection interface	1
+intangible	hd	5
+fuel	hdo	1
+camera	hd web camera	1
+camera	hd digital camera	1
+basic feature	hdg	1
+basic feature	hdmi port	1
+basic feature	hdmi	1
+promotion	hdnet fights	1
+peripheral	hd dvd	3
+peripheral	hdd	1
+basic function	hdmi	1
+electronics	hd video camera	1
+electronics	hdtvs	1
+electronics	hdmi cable	1
+optional feature	hdcp encryption engine	2
+item	hdri probe	1
+item	hdpe	1
+item	hd clock	1
+item	hd display	1
+item	hd tv antennas	1
+item	hd speed	1
+item	hd radio	1
+item	hd main unit	1
+lender	hdfc	8
+lender	hdfc bank	7
+lender	hdfc ltd.	1
+phone	hd compatible phone	1
+heavyweight	hdfc bank	2
+heavyweight	hdfc	2
+update	hd  seven hundred and twenty p resolution 	1
+update	hdcp support	1
+display	hd monitor	1
+display	hd tv	1
+interesting feature	hdmi output for hd video	1
+security measure	hdd erase	1
+hardware	hdd	2
+hardware	hd dvd hardware	1
+output	hdmi	6
+output	hdmi connection	1
+output	hd- fifteen  connector 	1
+modern amenity	hdtv	2
+modern amenity	hd tv	1
+key stakeholder	hdc research committee	1
+community service	hdb tampines branch office	1
+free service	hd video hosting	1
+picture	hdmi  one thousand and eighty p picture 	1
+private company	hdnl	1
+quality brand	hdx	1
+connection	hdmi	24
+connection	hdmi socket	1
+connection	hdmi port	1
+connection	hdmi anynet	1
+complex system	hdtv	2
+quality product	hdtvs	1
+emerging technology	hdtv	5
+emerging technology	hd radio	1
+latest technology	hd	3
+latest technology	hd-ready display	2
+modern technology	hdtv	2
+modern technology	hd camera	1
+expensive item	hdtvs	1
+modern convenience	hd tv's with blu-ray	1
+modern convenience	hd wide screen tv	1
+modern convenience	hdtv with cable	1
+video	hdvob	1
+video	hd wmv	1
+video	hd video	1
+video	hd avi	1
+similarity	hdmi input	1
+toxin	hdac inhibitor	1
+item	hdmi passthrough	1
+item	hdmi cable	1
+item	hdpe agricultural pipe	1
+item	hdcp	1
+item	hd camcorder	1
+item	hd television	1
+software tool	hdparm	1
+specialty product	hdpe with bimodal	1
+insurance company	hdfc standard	1
+insurance company	hdfc	1
+designation	hd channel	1
+outfit	hdfc securities	1
+technological innovation	hd video	1
+external device	hdd	3
+external device	hdtv	1
+system parameter	hdd performance	1
+common feature	hdmi output jack	1
+common feature	hd display	1
+resin	hdpe	1
+mod	hd texture	1
+mod	hd water shader	1
+spare part	hdd	1
+solid	hdpe	2
+electronic component	hdc	1
+advertiser	hdfc standard life insurance co.	1
+leading company	hdfc	1
+practical application	hdtv	1
+innovative product	hdx family of optical adapter	1
+innovative product	hd recorder	1
+cool feature	hdr video	1
+cool feature	hd quality image	1
+cool feature	hd video	1
+plastic	hdpe	21
+private organization	hd centre	3
+minor issue	hd lip sync	1
+peer	hdfc bank	1
+comment	hdjjvj watch movies online jngdytt everyday	1
+interactive feature	hd video gallery	1
+biological factor	hdl	1
+top player	hdfc	1
+electronic product	hdd recorder	1
+subsystem	hdd	1
+diagnostic tool	hdd checking	1
+advanced function	hd video recording	1
+advanced function	hdmi control	1
+industry standard	hdmi	2
+regular	hdb	1
+government department	hdb	1
+clinical parameter	hdl-cholesterol	1
+clinical parameter	hdl	1
+technological development	hdtv	1
+insurer	hdfc life	4
+insurer	hdfc standard life insurance co.	1
+insurer	hdfc standard life	1
+nice touch	hdmi port	1
+construction material	hdpe	1
+file format	hdv	3
+file format	hdr file format	1
+marketing tool	hd video production	1
+popular product	hdtvs	2
+convenient feature	hdd image name editing	1
+consideration factor	hdl cholesterol	1
+rogue Anti-Spyware	hdd recovery	1
+rogue Anti-Spyware	hdrive sweeper	1
+rogue Anti-Spyware	hdd tools	1
+rogue Anti-Spyware	hdd repair	1
+rogue Anti-Spyware	hdd plus	1
+complex task	hd video playback	2
+bag	hdpe bag	1
+receiver	hdtv receiver	2
+receiver	hd ready receiver	1
+market leader	hds	1
+spec	hdmi output	1
+spec	hd space	1
+spec	hdmi port	1
+spec	hd size	1
+storage device	hdd	6
+bulky item	hdpe pipe	1
+suitable material	hdpe	1
+good feature	hd video recording	1
+good feature	hdmi support	1
+good feature	hdr	1
+TV program	hdb tai tai	1
+accomplishment	hdtv programming	1
+area	hd movie	3
+oxide	hdp oxide	1
+trouble	hdd main body breakage	1
+patient characteristic	hdl cholesterol	1
+network service	hd-sdi	1
+modern feature	hd webcam	1
+modern feature	hdmi	1
+functional group	hdyroxyalkyl group	2
+connector	hdmi	8
+gear	hdmi cable	1
+cable	hdmi	15
+cable	hdmi cable	2
+cable	hdmi cables for hd tvs	1
+attractive feature	hd video	1
+attractive feature	hdmi port	1
+family member	hdgf	1
+regular feature	hdtv	1
+chemical product	hdpe	1
+kit	hdp kit	1
+visual	hd how-to video	1
+clinical condition	hd	1
+packaging material	hdpe	1
+online retailer	hd	1
+plastic product	hd piping	2
+plastic product	hdp	1
+consumer electronics	hdmi media player	4
+consumer electronics	hdtv	2
+consumer electronics	hdmi	2
+advanced service	hd	1
+advanced service	hd programming	1
+advanced service	hd gaming	1
+specialty store	hd expo	1
+clinical datum	hdl cholesterol	1
+high profile client	hdfc bank	1
+formulation	hd primer	1
+abbreviation	hdb	1
+service company	hdfc bank	2
+premium feature	hd video streaming	1
+premium feature	hdmi port	1
+premium feature	hdr multi-shot blending	1
+premium feature	hdmi	1
+premium feature	hd fuel technology	1
+premium feature	hdmi interface	1
+plastic material	hdpe	4
+drive	hdds	2
+advanced option	hdmi	1
+system information	hdr system information	1
+big ticket item	hd camera	1
+display device	hdtv-compatible plasma screen	1
+outstanding feature	hd video	1
+outstanding feature	hdmi connectivity	1
+home appliance	hdtv-compatible tv	1
+Clinical information	hdl	2
+multimedia application	hdtv	3
+potential application	hdtv	1
+high-end feature	hd radio tuner	1
+high-end feature	hd-dvd drive	1
+high-end feature	hdmi output	1
+premium service	hd satellite	1
+premium service	hd channels	1
+premium service	hd	1
+hardware device	hd-dvd player	1
+handy feature	hdmi-in connector	1
+leisure facility	hd widescreen tv	1
+luxury feature	hd radio	1
+medium type	hd-dvd	1
+critical parameter	hdd temperature	7
+extras	hd capability	1
+exciting feature	hd gaming	1
+advancement	hd radio tm	2
+area	hdu	1
+area	hdtv accessory	1
+area	hdz-controlled areas in herzegovina	1
+processing technique	hdr	2
+USB device	hd- fourty-eight thousand two hundred and sixty-three  bar code reader 	2
+USB device	hdd	1
+computer application	hdm- four  information management system 	1
+policy instrument	hdr	1
+source material	hd film source material	1
+polymeric material	hdpe	2
+promotional gift	hd system	1
+conglomerate	hdfc	2
+amines	hda	1
+essential feature	hdmi port	1
+desirable feature	hdtv	1
+accesories	hd pack for xbox	1
+insurance	hdhp	1
+network device	hdlc controller	1
+bonus feature	hdmi support	2
+medium source	hdoh website	1
+standard amenity	hd television	1
+mechanical component	hdds cd-roms	1
+electronic equipment	hdd cabinet	1
+basic component	hdd	2
+real-time application	hdtv	1
+communication network	hdlc network	1
+codecs	hdv	4
+codecs	hd mpeg- two  ibp 	1
+codecs	hd mpeg- two  i-frmae 	1
+codecs	hd lossless codecs	1
+codecs	hd audio codecs	1
+benchmark	hd tune pro	1
+benchmark	hd tach	1
+buffer	hd cache	1
+machinery	hdpe pipe extruders	1
+recyclable material	hdpe	1
+biochemical parameter	hdl	3
+biochemical parameter	hdl-cholesterol	1
+corporates	hdfc	2
+video format	hd	3
+video format	hd video	2
+video format	hdv	2
+video format	hdmi on the same pins on the dock connector	1
+video format	hdtv video format	1
+equipment manufacturer	hdd equipment manufacturer	1
+life	hdro coral	1
+output device	hd television	1
+multimedia feature	hdcp support for watching protected blu-ray	2
+multimedia feature	hdtv	2
+multimedia feature	hd dvd content	1
+multimedia feature	hdd	1
+multimedia feature	hd support for windows movie maker	1
+multimedia feature	hdmi port	1
+steel product	hdg	1
+inert material	hdpe plastic	1
+niche product	hd radio	1
+area	hdr	1
+service	hdtv	23
+service	hd video production	4
+modern comfort	hd cable tv	1
+large file	hd movie	3
+large file	hd video	2
+large file	hd halo trailer	1
+deck	hdcam-sr	4
+latest feature	hd movie	1
+latest feature	hd	1
+latest feature	hdmi	1
+digital device	hdmi output	1
+digital device	hdtvs through dlna technology	1
+imaging technology	hdtv	1
+city service	hdc	1
+logo	hd full	1
+wire	hdmi cable	2
+medical information	hdl	5
+expensive option	hdmi over ip	1
+luxury amenity	hd entertainment	1
+cutting-edge technology	hd tv broadcast	2
+global corporation	hdfc bank at mid-level management position	1
+trade show	hd boutique	1
+active component	hdmi transmitter & receiver	1
+performance issue	hd space	1
+service sector	hdb	1
+file system	hdfs with cgl-mapreduce	2
+file system	hdfs	1
+common term	hd ready	1
+high end feature	hd-component video	1
+high end feature	hdmi port	1
+high end feature	hdmi input	1
+performance feature	hdmi digital video with hdcp for long-term compatibility	5
+performance feature	hdmi digital video for long term compatibility	5
+performance feature	hdtv-ready compatibility	1
+performance feature	hdmi digital video with hdcp for long term compatibility	1
+performance feature	hdcp inputs	1
+great prize	hd tv	2
+private firm	hdr engineering	1
+wonderful feature	hdmi	1
+medium format	hd video	12
+medium format	hd video s	2
+phenotypes	hdl level	3
+edge technology	hdmi connection	1
+edge technology	hd projection screen	1
+explosive	hdx	2
+traditional risk factor	hdl cholesterol	2
+traditional risk factor	hdl cholesterol level	2
+commercial bank	hdfc bank	2
+commercial bank	hdfc	1
+counter	hdfc bank	1
+factor	hdl-cholesterol	1
+factor	hdl cholesterol	1
+factor	hd dvd vs. blu-ray war	1
+factor	hdcp	1
+service	hdlc	2
+service	hd video	2
+service	hd	2
+service	hd streaming	1
+service	hd video streaming useless	1
+service	hdfc bank mortgage service	1
+service	hd pvr	1
+service	hd video creation	1
+service	hd video-on-demand	1
+service	hd tv	1
+commercial tool	hdd regenerator	1
+add-on service	hd programming	3
+modern device	hdtv	1
+storage system	hdfs	2
+nicety	hdmi port	2
+large player	hdfc	1
+multimedia	hdtv	1
+datum format	hdf	2
+datum format	hd two  triplex array 	1
+computer accessory	hdd enclosure	1
+thermoplastic resin	hdpe	1
+audio format	hd	2
+reviewer	hd guru	2
+connectivity option	hdmi	17
+connectivity option	hdmi port	6
+connectivity option	hdmi output	2
+connectivity option	hdmi for fast transfer of hd video	1
+recording device	hd pvr	1
+consumer device	hdtv receiver	3
+genetic condition	hd	1
+blue chip	hdfc bank	1
+professional feature	hd editing	1
+professional feature	hdd s.m.a.r.t.	1
+mutual fund	hdfc mutual fund	1
+mutual fund	hdfc growth fund	1
+large bank	hdfc bank	6
+lipid	hdl	2
+lipid	hdl-cholesterol	1
+resolution	hd	1
+computer peripheral	hdd	1
+plastic container	hdpe	5
+plastic container	hdpe bottle	1
+mathematical model	hdc	1
+reputed company	hdfc bank	1
+reputed company	hdfc	1
+storage medium	hdd	2
+classifier	hdgg-based classifier	1
+service	hdtv-quality video become	1
+service	hd broadcast	1
+technological improvement	hdtv	1
+electric device	hdd recorder	1
+local bank	hdfc bank	1
+big bank	hdfc	1
+digital tool	hd film & photography on land	1
+digital tool	hd- three d film 	1
+light material	hdpe	1
+multimedia service	hdtv	1
+neurodegenerative disease	hd	2
+recyclable	hdpe beverage container	1
+thermoplastic	hdpe	7
+video source	hdtv broadcast	1
+video source	hdtv	1
+medical test	hdl	1
+thermoplastic material	hdpe	6
+small feature	hdmi jack	1
+brokerage	hdfc securities	3
+multi-national company	hdfc bank	1
+private sector company	hdfc standard life	1
+medium service	hd	1
+output format	hd format	4
+output format	hd	1
+output format	hd mov	1
+output format	hdtv	1
+corporate partner	hdfc bank	1
+recording medium	hdds	2
+high-end product	hdtvs for wealthy chinese customer	1
+cable channel	hdnet	1
+cable channel	hd cable channel	1
+computer component	hdd	2
+digital camera	hd digital camera	1
+fancy feature	hd	1
+converter	hd fury	1
+cable network	hdnet	2
+consumer electronic product	hdd mp three 	1
+consumer electronic product	hdd external drive	1
+advance feature	hdmi	1
+design method	hdl synthesis	1
+medium device	hdmi switcher	1
+medium device	hdd	1
+storage technology	hd-dvd	1
+medium technology	hd	1
+quality raw material	hdpe	2
+audio source	hdmi for the receiver	1
+biochemical marker	hdl-cholesterol	2
+biochemical marker	hdl cholesterol	1
+digital service	hdsl	1
+digital service	hdtv	1
+key part	hdd	1
+liner	hdpe in the design	1
+technology product	hd ready plasma television	1
+graphical element	hdnews artist layer graphical element	1
+service	hd box	1
+service	hdb branch office	1
+built-in function	hd video recording	1
+digital system	hdmi	1
+system setting	hdd format	1
+year company	hdk	1
+commercial program	hd rider's edge program	1
+integrated feature	hdmi	1
+technical specification	hd ready tv	1
+phone feature	hdmi	1
+video file	hd video	1
+video application	hdtv	1
+private bank	hdfc bank	22
+private bank	hdfc	9
+private bank	hdfc bank with large deposit base	2
+private bank	hdfc bank ltd with large deposit base	1
+original accessory	hdmi cable	1
+video service	hdtv	1
+digital format	hdmi	1
+digital format	hdv	1
+input signal	hdmi	3
+clinical area	hdu	1
+disk	hd reference disk	1
+backer	hd-dvd's staunchest backer	1
+electronic apparatus	hdd recorder	1
+high quality raw material	hdpe	3
+generation	hdtvs sony bravia kdl- thirty-two v four thousand  	1
+security option	hdd data encryption	1
+hardware feature	hdmi productivity	1
+lending institution	hdfc	1
+private player	hdfc life	3
+private player	hdfc bank	2
+hot issue	hdb price	1
+topic	hdr	2
+topic	hdsl	1
+topic	hd download	1
+laboratory parameter	hdl	1
+complex subject	hdtv	1
+medium application	hd medium application	1
+connected device	hdtv	2
+electronics product	hddvd	1
+home builder	hd homes	1
+neurodegenerative disorder	hd	1
+consumer electronics product	hd tv	1
+external storage device	hd	1
+external storage device	hdd	1
+physiological measure	hdl	1
+fund house	hdfc mf	4
+fund house	hdfc	2
+fund house	hdfc mutual fund	2
+fund house	hdfc amc	1
+incredible feature	hd recording	1
+interior item	hd radio	1
+state-of-the-art feature	hdmi input	1
+state-of-the-art feature	hd natural motion	1
+popular channel	hdnet	1
+popular video format	hdmi	1
+popular video format	hd	1
+big box store	hd	3
+financier	hdfc bank	2
+markup language	hdml	1
+normal function	hd touch screen	1
+video site	hd video site	1
+commercial package	hdr shop	1
+computer part	hdd	2
+connectivity feature	hdmi	2
+connectivity feature	hdmi output	1
+connectivity feature	hdmi out with dolby plus sound	1
+financial service firm	hdfc bank	1
+scientific organization	hdra-the organic organisation	1
+automated process	hdr while editing	1
+digital file	hd video	1
+external input	hdmi	1
+shooting mode	hdr	2
+shooting mode	hd video	1
+presentation tool	hd videoconferencing system	1
+striking feature	hdmi output	1
+analog signal	hdtv signal	1
+newest technology	hdtv	1
+private lender	hdfc bank	4
+private lender	hdfc	1
+crucial topic	hd tv	1
+crucial topic	hdr	1
+latest tool	hd digital camera	1
+rogue application	hdd control	1
+rogue application	hdd low	1
+rogue application	hdd scan	1
+rogue application	hdd rescue	1
+rogue application	hdd diagnostic	1
+rogue application	hdd doctor	1
+rogue application	hdd defragmenter	1
+signal source	hdtv via cable	1
+productivity feature	hdl code analysis	1
+datum application	hdlc-based datum application	1
+topic	hdtv	1
+topic	hdr photography	1
+topic	hd technology	1
+topic	hd video	1
+open source solution	hdfs	1
+output option	hdmi	2
+output option	hdmi for down the road	1
+popular subject	hdmi	1
+timber product	hdf	1
+metabolic parameter	hdl	2
+metabolic parameter	hdl-cholesterol	2
+optional device	hd radio	1
+usage	hdvm	1
+multimedia content	hd movie	2
+yard	hdw in kiel	1
+expensive alternative	hd videoconferencing	1
+complex design	hdi design	1
+financial stock	hdfc	1
+premium channel	hdnet	1
+stunning feature	hd video recording	1
+clever feature	hd movie print	1
+devastating disease	hd	1
+high-speed application	hd video recording	1
+olefins	hdpe	1
+property developer	hdil	3
+real estate developer	hdil	1
+anticancer agent	hdac inhibitor	1
+HD channel	hdnet	4
+HD channel	hd five 	1
+HD channel	hdmovies	1
+HD channel	hdnet movie	1
+high-performance application	hdtv	1
+input source	hdmi input source	1
+proprietary technology	hdo optic	1
+camcorder	hdc-tm three hundred 	1
+camcorder	hd pocket camcorder	1
+camcorder	hdc-hs two hundred and fifty 	1
+technical standard	hd dvd	1
+plastic bottle	hdpe bottle	4
+3rd party tool	hd tune	1
+home electronics	hd led projector	2
+nice extra	hdmi port	1
+optical disc	hd dvd	1
+optical disc	hd-dvd	1
+external drive	hdds	1
+housing	hdb flat	1
+technology innovation	hd	1
+bandwidth-intensive application	hdtv	2
+digital communication system	hdr system	1
+digital communication system	hdtv system	1
+digital channel	hd	1
+non-volatile memory device	hdd	1
+standard program	hdra	1
+dynamic content	hd video	1
+graphic card	hd four thousand eight hundred and seventy  x two 	1
+HD source	hd settop box	18
+HD source	hd set up box	6
+HD source	hd dvd	2
+HD source	hd satellite receiver	2
+HD source	hd set-top box	1
+HD source	hd cable box	1
+HD source	hd cable	1
+HD source	hdtv receiver	1
+HD source	hdmi	1
+HD source	hd dvd player	1
+HD source	hd cable tv	1
+HD source	hd satellite	1
+HD source	hd receiver	1
+speciality service	hd	1
+financials	hdfc bank	1
+connection type	hdmi	1
+office system	hdt isconnectedto central office system	1
+DVD player	hd-dvd one	1
+government job	hdb	1
+headphone	hd six hundred and fifty 	1
+headphone	hd twenty-five - one  ii 	1
+industry major	hdfc bank & airtel	1
+industry major	hdfc bank	1
+Polyolefins	hdpe	5
+clinical indicator	hdl	1
+high bandwidth application	hdtv	3
+high-end item	hd tv's	3
+input format	hd flv	2
+input format	hd mts	1
+input format	hd m two ts 	1
+input format	hd ts	1
+company	hdfc	18
+company	hdfc bank	14
+company	hdfc standard life	4
+company	hdil	4
+company	hds	4
+company	hd supply	3
+company	hdfc mutual fund	2
+connection option	hdmi	5
+connection option	hdmi ports for video connectivity	1
+decoder	hd dvb-t	1
+easy-to-use feature	hd video capability	1
+real-time service	hd traffic	2
+datum system	hdr	3
+digital signal	hdmi	3
+petrochemical product	hdpe	1
+pipe material	hdpe	2
+graphical feature	hdr	1
+credit card company	hdfc	2
+expected feature	hdmi sound	1
+expected feature	hdmi connection	1
+image processing apparatus	hdd recorder	1
+optical disk	hd-dvd	2
+optical disk	hd dvd	1
+private insurer	hdfc standard life	2
+video signal	hdtv signal	1
+magnetic recording medium	hdds	1
+popular source	hd radio	1
+stock product	hdmi over cat five  matrix switch 	1
+classical risk factor	hdl	1
+digital source	hdtv programming	1
+digital source	hdmi	1
+life insurer	hdfc standard life insurance	1
+life insurer	hdfc standard life	1
+nozzle	hdp cvd nozzle	1
+premium quality raw material	hdpe	3
+premium quality raw material	hdpe fabric	1
+blue chip stock	hdfc	1
+compatible device	hdtv compatible device	1
+contemporary technology	hdmi connectivity supporting	1
+cool new feature	hdr photo	1
+cool new feature	hd	1
+storage vendor	hds	7
+top bank	hdfc	6
+traditional cardiovascular risk factor	hdl cholesterol	1
+company	hd logix	1
+company	hdnl	1
+banking stock	hdfc bank	4
+bank stock	hdfc bank	1
+installation accessory	hdmi	1
+courier	hdn	1
+chemical raw material	hdpe	1
+risk indicator	hdl	1
+community venue	hdi annual conference & expo	1
+hi-tech feature	hd lcd tv	1
+hydrocarbon gas	hd- five  propane 	2
+PE firm	hdfc	1
+complex solution	hdtv system	1
+high density material	hdpe	1
+private sector bank	hdfc bank	22
+private sector bank	hdfc	2
+sound card	hd audio rush	1
+advanced effect	hdr environment lighting	1
+private insurance company	hdfc ergo	1
+private insurance company	hdfc life insurance	1
+neurodegenerative condition	hd	1
+audio codecs	hd audio codecs	1
+dielectric film	hdp silicon dioxide film	1
+company	hdfc life	1
+company	hdfc standard	1
+company	hdg mansur	1
+company	hd the agency	1
+hdac inhibitor	hdac activity witha hdac inhibitor	1
+industry factor	hd distribution cost	1
+static image	hd dvd onscreen chapter menu	1
+test case	hdm test case	1
+third party utility	hd sentinel	1
+computer peripheral device	hdd	2
+effective feature	hdmi port	1
+memory type	hd dual port asap  five hundred and twelve k memory 	2
+stylish feature	hd exmor webcam	2
+TV service	hd around the home	1
+work place	hds studios at hayes	1
+datum collection device	hdr photography	1
+mobile datum service	hd video monitoring	1
+multimedia player	hd multimedia player	1
+music source	hd radio tuner	1
+original content	hd online video	1
+pharmacological therapy	hdl mimetics	1
+software player	hd software player	1
+sound format	hd sound format	1
+sport channel	hdnet channel	1
+stable material	hdf	1
+storage mediums	hdds	1
+edge device	hd camera	1
+high-volume application	hd audio	2
+linear polymer	hdpe	1
+master's degree	hd with focus on scm	1
+multimedia capability	hd video capture	1
+national show	hd national show	1
+photographic process	hdr	2
+plastic pipe	hdpe	1
+plastic pipe	hdpe plastic pipe	1
+satellite provider	hdtv satellite provider	1
+signaling protocol	hdmi	1
+disk drive	hdd	1
+enhancement feature	hd natural motion	1
+interface standard	hdmi	2
+secondary endpoint	hdl cholesterol	1
+datum communication system	hdr standard	1
+decision tool	hds decision tool	1
+encryption technology	hdcp	1
+end-user device	hdp-enabled end-user device	1
+Isocyanates	hdi	1
+movie title	hd movie title	1
+newest feature	hd-dvd drive	1
+newest feature	hdmi input	1
+classical parameter	hdl cholesterol	1
+private fund	hdfc mutual	1
+signal type	hdmi	1
+bandwidth-hungry application	hdtv	1
+activity	hd video streaming	1
+activity	hdb floor party	1
+CDMA system	hdr system	4
+connectivity port	hdmi	4
+connectivity port	hdmi output	1
+connectivity port	hdmi port	1
+interface technology	hdmi	1
+missing component	hd	1
+plastic sheet	hdpe sheets for thermoforming tray	1
+server vendor	hds	1
+video standard	hdtv	1
+free utility	hd cleaner	1
+higher-end feature	hd-accelerated video	1
+private sector player	hdfc life	1
+private sector player	hdfc bank	1
+small portable device	hd camcorder	5
+american retailer	hd	1
+eligible item	hdtv	1
+key stock	hdfc bank	1
+LEDs	hdd led	1
+lipoproteins	hdl	14
+lipoproteins	hdl subtypes	1
+piping material	hdpe	1
+technological gadget	hd digital video camera	1
+technological gadget	hd television	1
+HD format	hdcam	1
+HD format	hd-dvd	1
+HD video	hd mkv	3
+HD video	hd wmv	2
+HD video	hd avi	2
+HD video	hd ts	2
+HD video	hd asf	1
+HD video	hd mov	1
+HD video	hd dv	1
+HD video	hd m two ts 	1
+HD video	hd mpg	1
+HD video	hd mpeg- four 	1
+HD video	hd mts	1
+imaging program	hd imaging program	1
+large-scale process	hds	3
+loader	hdloader	1
+MIDI controller	hd two thousand five hundred  alongside timecode 	1
+classified	hdb houses for sale	1
+classified	hdb rooms for rent	1
+classified	hdb houses for rent	1
+gaming accessory	hdmi cable	1
+home store	hd	1
+mutual fund house	hdfc mutual fund	3
+mutual fund house	hdfc	1
+spectacular amenity	hdtv	1
+spinal disorder	hd	5
+standards-based technology	hdcp content protection	2
+visualization system	hd-eye system	1
+WAN technology	hdlc	2
+container material	hdpe	1
+digital video format	hdcam	2
+high-speed interface	hdmi	1
+digital input	hdmi	4
+digital input	hdcp compliant digital input	1
+digital input	hd dvd	1
+digital input	hd sky	1
+financial house	hdfc bank	1
+mortgage bank	hdfc	1
+presentation element	hdr lighting	1
+signature product	hd wax	2
+smart function	hdmi port	1
+system part	hdd	1
+alternate	hdp	1
+digital interface	hdmi	5
+digital interface	hd-sdi	1
+GUIs	hdconverttox	1
+pro feature	hd	1
+shopping bag	hdpe shopping bag	1
+technology supplier	hds	1
+assembly process	hdd assembly process	1
+generation device	hd camcorders	1
+indian institution	hdfc	4
+onboard device	hd audio	1
+regular video format	hd video	1
+topic model	hdp	3
+USB peripheral device	hdd enclosures with anti-virus ic chipset	1
+video editing feature	hd rgb capture	1
+3D product	hdmi cable	1
+catalytic reaction	hdc	1
+consumer feature	hdmi	1
+consumer feature	hdmi out port	1
+consumer feature	hdtv	1
+onshore activity	hdd equipment	2
+output type	hdmi	1
+sporting feature	hd display	1
+unexpected feature	hdmi output	1
+video display	hdtv	2
+genetic information	hd gene mutation identification	1
+home entertainment device	hdtv	1
+indian bank	hdfc bank	2
+lot more feature	hdmi switching	1
+memory medium	hdd	2
+pathophysiological factor	hdl-cholesterol	1
+popular protocol	hdlc	7
+standard input	hdmi	2
+state-of-the-art product	hd dvd	1
+convergence technology	hd camera	1
+large datum file	hd video	1
+large display	hdtv display	2
+lipid parameter	hdl cholesterol	1
+metabolic risk factor	hdl cholesterol	1
+ribozymes	hdv ribozyme	1
+sheathing material	hdpe	1
+tape format	hdcam	1
+tion	hdlc address	1
+wooden material	hdf	1
+balanced fund	hdfc prudence	11
+balanced fund	hdfc balanced	7
+calibration disc	hd dve disc	1
+consumer-friendly feature	hd webcam	1
+digital receiver	hd digital receiver	1
+HDMI device	hdmi splitters	1
+HDMI device	hdmi switch boxes	1
+HDMI device	hd camcorder	1
+HDMI device	hdmi entenders	1
+high-interest topic	hdtv	2
+home application	hd television	1
+input option	hdmi input	1
+input option	hdmi	1
+intervention study	hdl-atherosclerosis treatment study	1
+legacy protocol	hdmi	2
+live service	hd traffic	3
+lossless codecs	hd lossless codecs	1
+modern component	hd disc player	1
+prominent bank	hdfc	2
+broadcasting system	hdtv	1
+connection port	hdmi	2
+connection port	hdmi port	1
+connection port	hdmi connector	1
+digital technique	hdr	2
+HD video format	hd mts	2
+HD video format	hd wmv	1
+HD video format	hd mp four 	1
+HD video format	hd ts	1
+HD video format	hd m two ts 	1
+HD video format	hd mpeg	1
+industry standard format	hdv	1
+innovative new service	hd voice	1
+metabolic variable	hdl	2
+synthesis tool	hdl synthesis tool	1
+system product	hdd recorder	1
+wonderful tool	hd converter	2
+information	hdlc channel information	1
+information	hdd size	1
+information	hdr system information	1
+conversion tool	hd video converter	1
+established format	hdv	1
+flexible pipe	hdpe corrugated pipe	1
+flexible pipe	hdpe	1
+high bandwidth service	hdtv	1
+cable type	hdmi	1
+cardiovascular parameter	hdl	1
+component video device	hdtv set-top box	2
+digital standard	hdmi	2
+domestic financial institution	hdfc	1
+graphic interface	hdmi	1
+latest electronics	hd tvs alongside old favorites like record player	2
+non-banking finance company	hdfc	1
+package material	hdpe	1
+polygenic disease	hd	1
+rogue	hdd defragmenter	1
+touchscreen phone	hd two 	1
+up-to-date feature	hd audio	1
+aspect ratio	hdtv screen	2
+AV equipment	hdd player	1
+biochemical variable	hdl size	1
+high-grade raw material	hdpe	1
+industry standard product	hdmi	1
+market heavyweight	hdfc	1
+modern marvel	hdtv	1
+photographic accessory	hdslr support	1
+polyolefin resin	hdpe	1
+popular input video format	hd video	1
+semi-crystalline polymer	hdpe	1
+sister site	hd ebony	1
+video signal source	hdtv	1
+apple accessory	hdmi	1
+information	hdcp compliance	1
+information	hdl source code	1
+commercial version	hdclone basic edition	1
+HDMI source	hd games consoles	1
+HDMI source	hd satellite receivers	1
+hepatitis virus	hdv	1
+house facility	hd video editing suite	1
+immunotherapies	hd il- two 	1
+input connection	hd component video	1
+interesting part	hd radio tuner	1
+mid-cap fund	hdfc midcap	1
+nice extra touch	hd radio	1
+PC part	hdd enclosure	2
+PC part	hd	1
+photography style	hdr	1
+plastic scrap	hdpe bottle	3
+premium multimedia feature	hdmi support	1
+protection layer	hdpe sheet	1
+synthetic benchmark	hd tach	2
+synthetic benchmark	hdtach benchmark	1
+testing program	hd testing program	1
+video input	hdmi	2
+volatile item	hdtv	1
+window utility	hd sentinel	1
+advanced multimedia feature	hd video capability	1
+ASICs	hdmi chip	1
+diversified fund	hdfc equity	1
+equipment expense	hd camera	1
+exclusive channel	hdnet	2
+HD device	hd lcd panel	1
+HD device	hd-dvd player	1
+HD device	hd set-top boxes	1
+hierarchical model	hdp model	1
+high definition source	hd cable signal	1
+high definition source	hd over-the-air broadcast	1
+high definition source	hd dvd	1
+high definition source	hd satellite signal	1
+high definition source	hd satellite	1
+high tech amenity	hd plasma tvs	1
+huge file	hdr panoramas	1
+latest technology tool	hd video	1
+liner material	hdpe	1
+mortgage service	hdfc bank mortgage service	1
+planetary nebula	hd  fourty-four thousand one hundred and seventy-nine 	1
+top-selling model	hd mini	1
+traditional benchmark	hd tune	1
+audio video component	hd receiver	1
+enhanced technology	hd	1
+generation bank	hdfc bank	1
+LCD television	hd lcd tvs	1
+standard port	hdmi output	1
+strong brand name	hdfc	1
+USB mass storage class device	hdd	1
+voip solution	hd video conferencing	2
+advanced video feature	hdtv signal support	1
+audio output	hdmi	1
+currently available method	hdr	1
+DSL technology	hdsl	1
+easy repair	hdd replacement	1
+essential notebook feature	hdmi	3
+intermediate file	hd file	1
+mRNAs	hdac three 	1
+plastic raw material	hdpe	2
+prominent recruiter	hdfc	1
+recycled plastic	hdpe	1
+top fund house	hdfc	2
+top fund house	hdfc mf	2
+top fund house	hdfc mutual fund	1
+top fund house	hdfc mutual	1
+top notch firm	hdr	1
+tremendous feature	hdmi port	1
+video cable	hdmi cable	4
+video cable	hdmi	3
+video capability	hdmi	1
+connectivity standard	hdmi	6
+digital audio system	hd radio	1
+digital video system	hdtv system	1
+digital video system	hdtv compliant digital video system	1
+HDACs	hdac one 	2
+HDACs	hdac ten 	1
+HDACs	hdac two 	1
+HDACs	hdac four 	1
+HDACs	hdac six 	1
+HDACs	hdac three 	1
+HDTV source	hd cable box	2
+HDTV source	hd set-top box	1
+HDTV source	hd dvd player	1
+headlining venue	hdnet fights	1
+health marker	hdl	1
+HFCs	hdfc	2
+high definition video	hd mp four 	2
+high definition video	hd wmv	2
+high definition video	hd avi	2
+high definition video	hd ts	2
+high definition video	hd mov	1
+high definition video	hd mkv	1
+high definition video	hd mpg	1
+high definition video	hdtv	1
+high-tech function	hd video recording	1
+home theater device	hdtv	1
+low energy surface	hdpe	1
+modern effect	hdr	1
+packet technology	hdlc	1
+peripheral storage device	hd	2
+pipeline material	hdpe	1
+pocket camcorder	hd pocket camcorder	1
+private financial institution	hdfc	1
+private lending institution	hdfc	1
+realty company	hdil orbit corporation	1
+realty stock	hdil	3
+residential premise	hdb apartment	1
+standard inclusion	hdmi port	1
+storage apparatus	hdd	1
+TV technology	hdtv	3
+upmarket feature	hd-dvd drive	1
+video accessory	hdmi cable	1
+visco-elastic material	hdpe	1
+ancillary support service	hd & sd conversion	1
+autosomal dominant disease	hd	1
+complex therapy	hdc	1
+cross-disciplinary field	hdfs	1
+digital connection	hdmi	10
+electronic commodity	hdmi & dvi cable	1
+entertainment information	hd video	2
+high definition device	hd dvd	1
+high-end function	hd	1
+home center	hd	10
+interface connection	hdmi port	1
+internet-ready device	hdtv	2
+language model	hdp	1
+large-cap counter	hdfc	1
+leading storage vendor	hds	1
+magnetic recording mediums	hdd	1
+national HD channel	hdnet	1
+novel target	hdac	1
+on-demand application	hdtv	1
+portfolio manager	hdfc pms	1
+reputable bank	hdfc	1
+simple interface	hdlc	1
+television signal	hdtv	1
+white glue	hd bond ii	1
+advanced connectivity option	hdmi	2
+air channel	hd five 	1
+benchmark program	hd tune	1
+clean source	hd dvd	1
+commodity resin	hdpe	2
+date technique	hd	1
+digital video signal	hdmi	1
+DISH network benefit	hd channel	2
+DISH network benefit	hd programming	1
+great functionalities	hd uploading to facebook	1
+high quality channel	hd channel	1
+high-resolution source	hdtv camera	1
+high-resolution source	hdtv source	1
+high-resolution source	hdtv tuner	1
+Histone deacetylases	hda one 	2
+Histone deacetylases	hdac six 	1
+Histone deacetylases	hdac eleven 	1
+Histone deacetylases	hdac one 	1
+housing finance company	hdfc	9
+intense application	hd video editing	1
+polyethylene fitting	hdpe blind flange	1
+polymer application	hdpe	1
+private consultant	hdr engineering	1
+reputed bank	hdfc bank	3
+reputed bank	hdfc	3
+rewritable optical disk	hd-dvd	1
+standard cable	hdmi cable	1
+tomtom feature	hd traffic update	1
+us-listed indian company	hdfc bank	1
+video resolution	hd	1
+big fund house	hdfc	1
+blood lipid	hdl	1
+blood lipid	hdl cholesterol	1
+cable connection	hdmi interface	1
+commonly recycled material	hdpe	1
+connectivity function	hdmi	1
+conventional plastic product	hdpe t-shirt bag	1
+corepressors	hdac one 	1
+discounted electrical item	hdd pvr	1
+DSL service	hdsl	2
+easily replaceable part	hd	1
+external recording device	hdd	3
+HD content	hd-dvd	2
+HD content	hdtv	2
+HD player	hd dvd	1
+heavyweight stock	hdfc	2
+hfi's & bank	hdfc	1
+input interface	hdmi	2
+laptop electronic component	hdd	1
+link layer protocol	hdlc	4
+lymphoproliferative disease	hd	1
+mobile and handheld device	hd camcorders	1
+mobile broadband service	hd video surveillance	1
+mobile broadband service	hd video conferencing	1
+multimedia interface	hdmi	1
+multimedia interface	hdmi  one . three 	1
+program	hd tune	2
+program	hdd store thereon various program	1
+program	hd skype recorder	1
+program	hd publishing	1
+program	hds	1
+program	hdr shop	1
+popular multimedia format	hdtv	1
+resolution format	hd	1
+resolution format	hdtv	1
+satellite TV benefit	hd channel	1
+satellite TV benefit	hd programming	1
+scintillating feature	hd video recording & editing	1
+signal cable	hdmi	1
+source feature	hdr	1
+storage array vendor	hds	1
+successful technology	hdtv	2
+synchronous protocol	hdlc	1
+synthetic test	hd tach	1
+tough plastic	hdpe	1
+utilizing fabric	hdpe mesh	1
+vendor tool	hds ham	1
+video connection	hdmi	1
+aliant service	hdtv	1
+audio-video environment	hdmi	2
+audio-video environment	hd-sdi	1
+cable TV service	hdtv service	1
+classy equipment	hd satellite navigation	1
+diesel oil	hd diesel oil	1
+distribution format	hdtv	1
+end phone	hd two 	1
+essential laptop feature	hdmi	1
+exceptionally durable material	hdpe plastic lumber	1
+front-line stock	hdfc	2
+garment bag	hdpe bag	1
+grade type	hdpe	1
+great home product	hd tvs from samsung	1
+HDDs	hdds used in laptop	1
+HDMI series product	hdmi adapters	2
+HDMI series product	hdmi splitters	2
+HDMI series product	hdmi converters	2
+HDMI series product	hdmi switcher	2
+HDMI series product	hdmi extenders	2
+HDMI series product	hdmi cables	2
+HDMI series product	hdmi matrix	2
+HDPE bag	hdpe shopping bag	1
+home entertainment system	hd tv	1
+impermeable membrane	hdpe	1
+indispensable and useful tool	hdtv masks	1
+information recording device	hd drive	1
+lens feature	hd polariser	1
+low-bandwidth connection	hdlc serial link	1
+magnetic recording apparatus	hdd	1
+modern graphic technique	hdr	1
+program	hdc power launcher	1
+program	hdr darkroom	1
+program	hd imaging program	1
+program	hd advanced	1
+program	hd  two  tweaks 	1
+program	hd astronomy program	1
+program	hd partitioning program	1
+program	hd testing program	1
+plastic film product	hdpe	1
+plastic tarpaulin	hdpe tarpaulin	1
+polyglutamine disease	hd	1
+receiver system	hdtv receiver system	2
+reputed financial & banking firm	hdfc mutual fund	1
+research measure	hdr completion rate	1
+secondary waste material	hdpe	1
+series feature	hdcp	2
+service innovation	hd voice	1
+source component	hd dvd player	1
+standard network interface	hdlc	1
+storage array	hds tagma array	1
+wide-area service	hdlc encapsulation	1
+ATI card	hd three thousand eight hundred and seventy 	1
+audio algorithm	hdcd	4
+AV cable	hdmi	1
+banking counter	hdfc	1
+big banking company	hdfc	1
+biochemical estimation	hdl cholesterol	1
+built-in port	hdmi	1
+commodity polymer	hdpe	1
+datum link layer protocol	hdlc	2
+device form factor	hd tvs	1
+digital cable	hdmi	5
+digital cable	hdmi cable	2
+digital process	hdr	1
+digital video standard	hdtv	1
+disk drive device	hdd	4
+display protocol	hdx	2
+good fund	hdfc tax saver fund	1
+hardware design	hdl for asics	1
+hardware design language	hdl for vlsi hardware design	1
+HDMI feature	hd audio	1
+HDMI input source	hd-dvd	4
+high bandwidth signal	hdmi	1
+high definition format video	hd wmv	1
+high definition format video	hd mov	1
+high definition format video	hd mkv	1
+high grade component	hd polymer frame	1
+high quality format	hd dvd	2
+high quality format	hd video	2
+high quality format	hdtv	1
+home audio accessory	hdmi cable	2
+homogeneous property	hdb flat	2
+hybrid fund	hdfc prudence	3
+hybrid fund	hdfc balanced	3
+india's leading corporate house	hdfc	1
+innovative multimedia service	hd conference	1
+laminated fabric	hdpe laminated fabrics	1
+large private bank	hdfc bank	1
+latest advanced feature	hd movie	11
+latest installed feature	hd video recording	3
+leading-edge service	hd video streaming	1
+lightweight, high strength material	hdpe	1
+low voltage cable	hdmi	1
+network ethernet-interface device	hdtv's	1
+newest facility	hd digital visual studio	1
+output connector	hdmi	1
+picture effect option	hdr painting	2
+point-to-point protocol	hdlc	1
+private life insurer	hdfc life	4
+private life insurer	hdfc standard life	1
+removable medium type	hd-dvd	1
+rigid resin	hdpe	1
+semi-crystalline material	hdpe	1
+serial communication link	hdmi	2
+sony professional camcorder	hdv series	1
+sony professional camcorder	hdv tm series	1
+starcraft channel	hd	3
+suitable bank	hdfc	1
+tape device	hd v.	1
+tax-saving fund	hdfc taxsaver	1
+television standard	hdtv television standard	1
+type cable	hdmi cables	1
+video input source	hd-dvd	1
+video input source	hdtv	1
+well-known chromatin-modifying protein	hdac one 	1
+wood panel product	hdf	1
+advanced connection	hdmi instaports	1
+astronomy program	hd astronomy program	1
+bank & financial institution	hdfc	3
+civilian infrastructure	hd radiobroadcast tower	1
+cloud storage system	hdfs	1
+comprehensive connectivity option	hdmi	1
+connection interface	hd connection interface	1
+custom kit	hd motorcycle	1
+deacetylases	hdac four 	1
+digital cable TV service	hdtv	1
+digital connector	hdmi	1
+Digital interconnects	hdmi cable	1
+Digital interconnects	hdmi  one . four 	1
+digital output	hdmi	3
+digital port	hdmi	3
+directshow filter	hd wmv	1
+Discount Home Electronics	hdtv	1
+durable part	hd	1
+eminent bank	hdfc	1
+eminent bank	hdfc bank	1
+eminent indian financial institution	hdfc	1
+gopro HD hero series camera	hd hero naked	1
+gopro HD hero series camera	hd hero  nine hundred and sixty 	1
+groovy feature	hdmi output	1
+HD electronics	hdtv receiver	1
+HD electronics	hd camcorders	1
+HDMI display	hdtv	1
+HDMI product	hdtv mounting hardware	1
+high definition cable	hdmi	2
+high-density optical disc	hd dvd	1
+high-speed digital interface	hdmi	1
+HTC model	hd two 	1
+innumerous device	hdtv set-top boxes	1
+latest installed ipon feature	hd video recording	1
+latest interface	hdmi	1
+lipoprotein particle	hdl	4
+local home center	hd	1
+MFs	hdfc asset management co.	1
+MFs	hdfc	1
+mobile TV service	hdtv	1
+MPEG2 source	hdtv	2
+notable NZ band	hdu	1
+novel anticancer agent	hdac inhibitor	1
+optical format	hd dvd	1
+output source	hdmi	1
+outright lie	hd two  being about $ seven hundred  without a contract 	1
+plastic fabric	hdpe fabric	1
+polybag	hdpe bag	2
+polybag	hd pe bag	1
+polyq disorder	hd	1
+popular 3D feature	hdr	1
+popular ISDN protocol	hdlc	1
+prominent fund house	hdfc	2
+RCA device	hdtv	1
+self-describing format	hdf-eos	1
+self-describing format	hdf	1
+serum lipid	hdl	1
+organization	hd-plc alliance	2
+smart attribute	hdmi port	2
+stereo signal source	hd player	1
+stunning new feature	hd video	1
+top rankers	hdfc equity	1
+top-rated company	hdfc	1
+traditionally-used risk factor	hdl cholesterol	2
+transcriptional corepressors	hdac six 	1
+transcriptional corepressors	hdac four 	1
+transcriptional corepressors	hdac nine 	1
+TV output mode	hd progressive	1
+unplug external device	hdmi cable	1
+video communication application	hdtv	1
+video source device	hd-dvd	1
+video source device	hd satellite box	1
+video source device	hdtv video source device	1
+WAP technology	hdml	1
+wireless multimedia application	hd pay-iptv content streaming	1
+above-mentioned respective signal	hd signal	1
+adult-onset disease	hd	1
+android spec	hdmi	1
+bond mixed HD source	hd settop box	2
+bond mixed HD source	hd set up box	1
+broacast format	hdcam	1
+broacast format	hdv	1
+built-in interface	hdmi	1
+chromatin-modifying enzyme	hdac one 	1
+CNC routing sign	hdu acrylic	1
+common input	hdmi for the best connectivity	1
+common notebook feature	hdmi	1
+component video source	hd cable	1
+connected health issue	hd	1
+Convective treatment modalities	hdf	1
+cowon player	hdd containing cowon x seven 	1
+cytokine molecule	hdgf	1
+datum frame	hdlc frame	1
+digital cable assembly	hdmi	1
+digital display interface	hdmi	1
+digital signal display	hd television	2
+DOP indicator	hdop	5
+ductile polymer	hdpe	1
+equipped feature	hdmi port	1
+exciting 3G service	hd gaming	1
+external signal source	hdmi	1
+flyerswith outstanding artist	hd substance	1
+free stuff online	hd tvs	1
+good balanced fund	hdfc balanced fund	1
+handy built-in tool	hd video recording	1
+havendale feature	hdmi	1
+HD connection	hdmi	1
+HD input	hd cable	1
+HD input	hd satellite	1
+HD medium source device	hd disc player	2
+HD movie channel	hdnet movie	1
+HDR file format	hdr	1
+HDV function	hd auto-focusing	3
+high quality content	hdtv	1
+high-definition format	hdv	1
+high-definition video format	hdv	1
+high-definition video source	hd camcorder	1
+high-definition video source	hd endoscopy camera	1
+high-definition video source	hd surgical light camera	1
+host-based medium application	hd video transcoding & streaming	1
+human serum protein	hdl	1
+in-camera special effect	hdr	1
+latest high tech product	hdmi switch	1
+latest high tech product	hdmi splitters	1
+latest tech product	hd radio	1
+leukocyte activating gene	hdac nine 	1
+medium centric feature	hdmi	1
+modern day feature	hdmi output	1
+Modern HDDs	hdds implementing magnetic storage medium	2
+Modern instrumentation	hdr dcps	1
+modern vaccine	hdcv	1
+monitor cable	hdmi	1
+multichannel audio device	hd-dvd	4
+national and multinational bank	hdfc	1
+net banking bank	hdfc bank	1
+new-generation bank	hdfc bank	1
+non-forced aircooled component	hd	1
+notable insurance company	hdfc	2
+OPC technology	hda	1
+original, unused part	hd cover	1
+others insurer	hdfc life	1
+pH	hdrol	1
+plastic welding rod	hdpe welding rods	1
+pocket book issue	hdb price	1
+polyethylene plastic	hdpe	1
+popular connector	hdmi	2
+organization	hdi in the united states	1
+organization	hdfc asset management	1
+organization	hdc	1
+technique	hdr	7
+private sector insurer	hdfc standard life	1
+private sector lender	hdfc bank	1
+PVC ball valve	hdpe ball valve	1
+reliable insurance company	hdfc ergo	1
+reputed finance provider	hdfc bank	1
+reputed financial institution	hdfc bank	1
+scientific datum distribution format	hdf	1
+sensex stock	hdfc	1
+standard, cutting-edge feature	hdmi input	1
+support input	hdmi	1
+third party software tool	hd tune	1
+top private bank	hdfc bank	3
+truevisions own advertisement	hd	2
+TV input type	hdmi	1
+USB disk drive	hdd	1
+value-added attribute	hdmi output	1
+VAS service	hd	1
+verious computer part	hdd	1
+video competitor	hds	1
+video output port	hdmi	1
+well-recognized lipoproteins	hdl	1
+western financial market player	hdfc	1
+wireless software language	hdml	1
+wonderful new feature	hd weather background	1
+A8 feature	hdr shader	1
+active domestic player	hdfc	1
+add-on source	hd radio	1
+aggressive private bank	hdfc bank	2
+amazing image	hdr image	1
+amd's typical technology	hd three d for stereoscopic  three d 	1
+awesome and fantastic feature	hd quality image	2
+banking conglomerate	hdfc bank in the past	1
+basic computer product	hdmi cable	1
+best quality plastic pipe	hdpe	1
+Big-ticket electronics	hd tv's	1
+billable video service	hd video	2
+blue disk medium format	hd-dvd	4
+board display support	hdmi	1
+bolt multiple HD source	hd settop box	1
+brand new entertainment electronics item	hdtv	1
+campany manufacture elecreical cable s	hdmi	1
+chemcial raw material	hdpe	1
+civil-servants	hdb	1
+connection cable	hdmi	1
+contract deal free gift	hd tvs	1
+copy-protection method	hdcp	1
+daily property development accounting matter	hda claim	1
+delivery medium	hd disc	1
+Differing mediums	hdtv	2
+digital AV source device	hd dvd player	1
+digital DVI device	hdtv tuner	3
+digital transmission standard	hdmi	1
+digital TV receiver	hdtv receiver	1
+display output	hdmi	2
+distributedflle system	hdfs	1
+epigenetic therapy	hdac inhibitor	1
+equity brokerage	hdfc securities	1
+exclusive easyguard TM technology	hdd protection	1
+first time major competitor	hds	1
+food grade plastic	hdpe	1
+forever place	hd mountains in the san juan national forest	1
+technique	hdd	1
+technique	hdf based on the use of high fluxes attainable with high-flux dialysers	1
+technique	hdr blending	1
+technique	hdr hf	1
+technique	hdr imaging	1
+technique	hdr skybox	1
+application	hdtv	17
+GAS barrier artificial liner system	hdpe	1
+generic serial interface	hdlc	3
+glue multiple HD source	hd settop box	2
+good server specification	hd memory	1
+grade plastic	hdpe	2
+great kit	hd radio	1
+hard drive benchmark	hd speed	1
+hard drive benchmark	hd tach	1
+hard drive diagnostic utility	hdd health	1
+hardware dependant feature	hd video	1
+HD cable	hdmi cable	1
+HD cable	hdmi	1
+HD video-based application product	hd surveillance system	1
+HD video-based application product	hd video conferencing system	1
+HD video-based application product	hd broadcasting system	1
+HDMI equipped source device	hd set-top-box	1
+HDTV compatible device	hd camcorder using viera link	1
+high definition format	hdcam sr	1
+high definition format	hd dvd	1
+high density polyethylene conduit product	hdpe conduit	1
+highdefinition video format	hdv	1
+high-end DVD player	hd-dvd	1
+high-end improvement	hd support	1
+high-precision floating point format	hdr	1
+high-quality video device	hdtv receiver	1
+high-tech perk	hd video	1
+home finance institution	hdfc	1
+home loan company	hdfc	2
+Hot extruded plastic	hdpe	1
+hot mac HD solution product	hd video converter for mac	1
+human chronic neurodegenerative disease	hd	1
+IMS access method	hdam	1
+indian private bank	hdfc bank	2
+input cable	hdmi	2
+interesting catch	hd two ioa ecu ador 	1
+introduction commodity embedded system	hd tv system	1
+ipad-specific feature	hd graphic	1
+key format	hd	2
+large-capacity storage medium	hdd	1
+latency-critical and high-bandwidth datum stream	hd video	1
+latest hardware component	hdd	1
+latest visual effect	hdr lighting	1
+loaning institution	hdfc	1
+local real-estate fund company	hdfc	1
+Long GOP codecs	hdv	1
+long-gop format	hdv	2
+lot more HTC HD2 accessory	hd two  case 	1
+lot more HTC HD2 accessory	hd two  charger 	1
+lot more HTC HD2 accessory	hd two  battery 	1
+low softening binder material	hdpe	1
+low-level APIs	hdal sdk	1
+magnetic disk apparatus	hdd	1
+mainstay codecs	hdv	1
+MPEG file	hdv	1
+much-needed feature	hdtv support	1
+multi-cap fund	hdfc equity	2
+multi-cap fund	hdfc growth	1
+nessesary conection port	hdmi	1
+next-generation optical disk	hd dvd	2
+nifty extra	hdmi cec	2
+noisy hardware option	hdd	1
+application	hd ip camera	3
+application	hdd texturing	3
+application	hd video	2
+application	hd log	2
+application	hd-dvd	1
+application	hddvd	1
+application	hd video encoding	1
+application	hd video capture	1
+application	hdlc-based datum application	1
+application	hdtv streaming	1
+nonvolatile storage medium	hdd	2
+oldtimer bike	hd wla	1
+olefin material	hdpe	1
+optional input module	hd fifteen 	1
+optional input module	hd-sdi	1
+optional input module	hdcp-compliant on-board dvi interface	1
+output connection	hdmi	2
+PC spare part	hdd	1
+plastic and hygienic paper product	hdpe t-shirt bag	1
+point-in-time copy facility	hds shadowimage	1
+pointin-time copy facility	hds shadowimage	1
+practical connection	hdmi	1
+premium HD channel	hdnet	1
+private indian bank	hdfc	1
+private sector indian bank	hdfc bank	1
+private sector outfit	hdfc bank	1
+private-sector bank	hdfc bank	1
+professional video camera	hd camcorders	2
+quality video	hd video	1
+ratio datum	hdl cholesterol	1
+rear connection	hdmi	1
+regular HD channel	hd net	1
+resolution signal	hdtv	1
+scientific datum format	hdf	1
+selected biochemical variable	hdl	1
+sennheiser circumaural headphone	hd five hundred and ninety-five 	1
+sennheiser circumaural headphone	hd five hundred and eighty 	1
+sennheiser circumaural headphone	hd six hundred 	1
+Serum lipoproteins	hdl	1
+SIDBI venture company	hdfc	1
+simple failed component	hdd's	1
+SMART -diagnostic	hd sentinel	1
+SMART -diagnostic	hd tune	1
+SMART -diagnostic	hddscan	1
+software support different recording mode	hd recording	1
+standard and open format	hdf	1
+standard datum link control protocol	hdlc	1
+standard input material	hdpe	1
+standard scientific datum format	hdf	1
+standard video interface	hdmi	1
+standard X38 feature	hd audio	1
+standardized outcome measure	hd- sixteen  quality of life scale 	1
+still-shooting mode	hdr	1
+storage system vendor	hds	1
+stores	hdtracks ou itrax	1
+suitable translucent material	hdpe	1
+swedish school	hdk	1
+application	hd surveillance	1
+application	hd truck	1
+application	hd vedio sharing	1
+application	hdtv transmission	1
+application	hdtv decoding	1
+application	hdf-eos	1
+application	hd tune	1
+application	hd video recording & editing, five -megapixel with led flash 	1
+application	hd movie	1
+application	hd projector	1
+application	hd multimedia streaming	1
+application	hd movie streaming	1
+application	hd channel	1
+application	hd medium application	1
+application	hd-quality videoconferencing	1
+application	hdtv video editing	1
+application	hdtv system	1
+application	hdss	1
+technology driven bank	hdfc bank	1
+top company head	hdfc's deepak parekh	1
+traditional display interface	hdmi	1
+triple play application	hd video	2
+TV003 market need new technology	hdtv	1
+universally applicable video input	hdmi	1
+unusual and rare car	hdx two 	1
+video connector	hdmi	1
+visuallyintensive activity	hd video playback	1
+waterproof membrane surface	hdpe	1
+year many private bank	hdfc bank	1
+3D Vision-ready PC display	hdtv	1
+3G cellular system	hdr	1
+accessory port	hdmi port	1
+active fund	hdfc equity fund	1
+advanced array	hds lightning	1
+advanced digital technique	hdr	1
+advantageous port	hdmi	1
+AFAIK embedded sub	hdmv	1
+age-associated neurodegenerative disorder	hd	1
+all-ip multimedia service	hd voice	1
+already-sharp, high-resolution source	hdtv	1
+anti-chinese law	hd tax	1
+apoptogenic agent	hdac inhibitor	1
+apple M8403 battery upgrade	hd webcam	1
+ati's multimedia product	hdtv wonder	2
+audio upgrade	hd radio	2
+AV home appliance	hd camcorder	1
+backup game launcher	hdloader	1
+banking heavyweight	hdfc bank	1
+basic interface	hdmi	1
+BBC iplayer feature	hd program	1
+benchmark utility	hd tune	1
+best indian financial institution	hdfc	3
+Blue-ray player	hd tv built in player	1
+boot drive	hdd	1
+brand new hidef format	hd-dvd	1
+breathtaking technical effect	hd projector	1
+broad, general profile	hd video for web streaming	1
+cable connector type	hdmi	1
+name	hdd control	1
+name	hda one 	1
+capacity disc	hd dvd	1
+chemically resistant polymer	hdpe	1
+chicken cell line	hd eleven  macrophage-like cell 	1
+cloud file system	hdfs	1
+common rail engine	hdi	1
+competing HD format	hd-dvd	1
+component signal source	hd receiver	1
+connectivity input	hdmi	1
+content reproduction device	hdd recorder	1
+content-protection technology	hdcp	1
+conventional AV interface	hdmi	1
+correct cable	hdmi	1
+courier website	hdnl	1
+dedicated storage vendor	hds	1
+deserving bareback studio	hdk	1
+destination channel	hd radio importers	1
+digital display standard	hdmi	2
+digital medium system	hdtv lcd-panels	1
+Digital outports	hdmi	1
+digital switcher	hd sd sdi serial digital matrix switcher	1
+digital tape	hdcam-sr	1
+digital video connection	hdmi	1
+digital video encoding	hdtv compliant encoding	2
+digital video input source	hdtv set-top	1
+digital video output	hdmi	3
+digital video playback application	hdtv	1
+digression	hd version	1
+dimensionally sensitive material	hdpe	1
+directv receiver	hd receiver	1
+discounted consumer electronics	hd tv's	1
+disk enclosure related offer	hdd enclosure	1
+disk enclosure related offer	hdd media player	1
+divesified equity oriented fund	hdfc equity	1
+DMC-ZS3 feature	hd movie in avchd lite	1
+dominant lender	hdfc	3
+DV video format	hdv	1
+electronics gift	hd television	1
+embodiment index	hdvr index	1
+emerging DVD format	hd-dvd	1
+encapsulation format	hdlc	7
+end format	hdcam	1
+epigenetic modulator	hdac inhibitor	1
+error log	hdd error log	1
+everyone major bank	hdfc	1
+exclusive cash-back credit card	hdfc bank	1
+expensive, high-end equipment category	hd television	1
+explosive spec	hd video recording	1
+fancy new-fangled video input	hdmi	1
+name	hdfc	1
+name	hda three 	1
+name	hdd scan	1
+fast interface	hdmi	1
+fast uprising high-definition connection	hdmi	1
+feature vocalist	hd duo	2
+featuring HD connection	hdmi	1
+Fixed-price commodity-items	hdmi cable	1
+frame level protocol	hdlc	1
+frilly new feature	hdmi dvi hookup	1
+full duplex frame-level protocol	hdlc	1
+full hd support	hd cable	1
+fund PE firm	hdfc	1
+generation private sector bank	hdfc bank	2
+generation TV service	hd	2
+great operation	hdr processing	1
+hard drive related offer	hdd enclosure	1
+hardware adapter	hdmi	1
+HD application	hd truck	1
+HD connection interface	hdmi	1
+HD content delivery system	hdmi system	2
+HD DVD player	hd a two 	1
+HD output	hdmi for the tv two  output 	1
+HD source material	hdtv broadcast	1
+HD terminal	hd-enabled dect phone	1
+hd-compatible video output	hdmi	1
+hd-image-enabled product	hd display	1
+HDMI video device	hd-dvd	1
+HDMI video device	hd satellite box	1
+hd-only channel	hdnet	1
+hdpe bottle	hdpe bottles with pp cap	1
+HDPE related offer	hdpe pipe	1
+HDTV network	hdnet	1
+HDTV tuner	hdhomerun	1
+high bandwidth content	hd movie	1
+high definition capable input	hdmi	1
+high definition movie	hd dvd movie	1
+high definition video output port	hdmi	1
+high defintion format	hd-dvd	1
+high density network	hd wireless local area network	1
+high end bike model	hd choppers	3
+high end video device	hdtv	1
+high frequency datum cable	hdmi	1
+high quality polymer	hdpe	2
+high recording density optical disc	hd dvd	1
+High resolution DVD player	hd-dvd	1
+high resolution imaging system	hdtv projection system	1
+high resolution signal	hdmi	1
+high use MRI part	hd driver modules	1
+high-def format	hd dvd	1
+high-definition medium	hd video	1
+high-definition video output port	hdmi	1
+high-end requirement	hd two  digital signal processing 	1
+higher-bitrate material	hd documentary	1
+high-quality multimedia application	hdtv content distribution	1
+high-quality video source	hdtv	1
+high-resolution imaging system	hdtv	1
+high-speed HDMI specification	hd lossless audio format	2
+high-speed, uncompressed format	hdmi	1
+home entertainment feature	hd dvd player hd tv tuner	1
+home entertainment feature	hd screen	1
+home loan provider	hdfc	1
+home networking service	hdtv	1
+hook multiple HD source	hd settop box	2
+hot and popular product	hdmi  one . four  cable & connector 	1
+hot-rodded source component	hdmi dvd	1
+housing loan provider	hdfc	1
+human resource development project	hdp	2
+id feature	hdr	1
+impressive spec	hd video recording	1
+impressive spec	hdmi output	1
+improved DV format	hdv	1
+Indian bank ADRs	hdfc bank's hdb	2
+indian financial firm	hdfc	1
+indian private sector bank	hdfc	2
+initial roll mode	hdg sel	1
+INQUIP technique	hdpe curtain wall	1
+interframe-compressed mpeg-based file	hdv	1
+introduction broadband service	hdtv-quality video-on-demand	1
+jumbo bag	hdpe jumbo bag	1
+key next-gen visual effect	hdr lighting	1
+large housing finance company	hdfc	2
+large indian financial institution	hdfc	1
+large private domestic bank	hdfc bank	1
+large strategic buyer	hd supply	1
+latest additional feature	hd movie	2
+latest graphic interface	hdmi	1
+latest modern technique	hdr photography	1
+latest top gadget	hd video camera	1
+legacy networking interface	hdmi-cec	1
+less-certain source	hdnet via fios	1
+life bancassurance venture	hdfc standard life insurance co.	1
+factor	hdl level	1
+factor	hdmi  one . three  not being out 	1
+factor	hdpe temperature	1
+factor	hdac four 	1
+factor	hdd capacity	1
+factor	hdd fragmentation	1
+factor	hdl concentration	1
+factor	hdl particle size	1
+factor	hdac one 	1
+case	hdmi cable	1
+case	hdv capture	1
+lipoprotein	hdl	1
+local society magazine	hd living	1
+low flexural modulus polymer	hdpe	1
+magnetic disc drive	hdd	3
+marginally useful feature	hdmi output	1
+marginally utilitarian feature	hdmi outlay	1
+mass digital storage device	hdd	2
+megapixel camera offer feature	hdmi output	1
+mobile and PDA language	hdml	1
+modern display application	hdtv	1
+modern graphic effect	hdr	1
+modern lacquer system	hdpe	1
+modern, advanced digital interface	hdmi	1
+multi-array induction tool	hdil tool of baker hughes incorporated	1
+naim source	hdx	1
+next-generation digital consumer electronic product	hd dvd	1
+next-generation DVDs	hd dvds	1
+next-generation standard	hd-dvd in the above-mentioned one	1
+next-generation video content standard	hd-dvd standard	1
+nice output option	hdmi	1
+niche format	hdcd	1
+nifty camera feature	hd recording	1
+non essential component	hdd	1
+normal consumer store	hd	1
+now-common camera feature	hd video	1
+on-ear model	hd  two hundred and eighteen i 	1
+optional connection cable	hdmi	1
+optional video format	hd video	1
+organic phase change material	hdpe	1
+OSD capability	hdmi overlay	1
+PIP function	hdtv program at the same time	1
+PIP option	hdmi	1
+player output option	hdmi black level	1
+polyethylene type	hdpe	2
+popular binding	hdbc	1
+case	hdm test case	1
+portable external peripheral	hdd	1
+powerful basic function	hd movie recording	1
+pre and post consumer polymer	hdpe	2
+pre-defined favorite list	hd-nonmovie	1
+pre-defined favorite list	hd-nonsport	1
+premade cable	hdmi	1
+pre-os application	hdd backup	2
+private and foreign bank	hdfc	1
+privatesector bank	hdfc bank	1
+processor comprehensive operation	hd video recording	1
+progressive application	hdtv	1
+project launch	hdil in versova & kurla	1
+proper digital input	hdmi	1
+pure digital connection	hdmi	1
+pure-digital connection	hdmi	1
+rare mendelian disorder	hd	1
+reboot setting	hd spindown	1
+recyclable plastic container	hdpe	1
+reference numver	hdk	1
+re-sealable system	hdg zipper	1
+re-sealable system	hdg memorystrip	1
+resolution technology	hd	1
+rotomolded plastic	hdpe	1
+SATA storage device	hdd	2
+scrap plastic	hdpe	1
+secluded bank	hdfc bank	1
+shelfs component	hd cable box	1
+shooter's external port	hdmi	1
+simple single gene disease	hd	1
+singe HDMI source	hd satellite receiver	1
+single premium policy	hdfc sl progrowth maximizer	1
+skype's feature	hd call	1
+sliding-window protocol	hdlc	1
+SMART diagnostic software	hd sentinel	1
+SMART diagnostic software	hd tune	1
+SMART monitoring tool	hd tune pro	1
+snuff	hdt	1
+so-called digital household appliance	hdd video recorder	1
+soft and pliable plastic	hdpe	1
+sony compact camcorder	hdv series	2
+sophisticated medium facility	hd video production	1
+standard HD connection	hdmi	1
+standard output protection method	hdcp	1
+standard output protection method	hdmi	1
+standard physical connection option	hdmi	1
+storage medium drive	hdds	1
+support high-definition video format	hd dvd disc	1
+support high-definition video format	hd format	1
+case	hd streaming	1
+case	hdfc	1
+case	hd video streaming	1
+case	hdpe pipe	1
+option	hdmi	5
+option	hd	4
+option	hdtv	4
+option	hd webcam	3
+option	hd radio	3
+option	hd trailer equipment	2
+symmetric transmission technology	hdsl	1
+technical standard optical disc	hd dvd	1
+television screen	hd tv	1
+thick cable	hdmi cable	1
+thoughtful advantage	hdmi connectivity	2
+today's common video interface	hdmi along with the legacy dvi	1
+today's high-end graphic card	hd  four thousand eight hundred and seventy  x two 	1
+top private lender	hdfc	1
+Top-rung HFCs	hdfc	1
+tpical screw extraction product	hd	1
+traditional audio video connection	hdmi	1
+traditional hdd-based benchmark	hd tach	2
+traditional hdd-based benchmark	hd tune pro	2
+transiting planet	hd  two hundred and nine thousand four hundred and fifty-eight b 	2
+transiting planet	hd two hundred and nine thousand four hundred and fifty-eight b 	2
+transport stream format	hdv	1
+TV broadcasting system	hdtv	1
+TV deal	hd net	1
+typical diagnostic test	hd diags	1
+ultra-portable notebook spec	hdmi output	1
+user convenient feature	hdd image name editing	1
+utitlities	hddtemp	1
+valve's ten-new technology	hdr	1
+vendor-native storage query command	hds inqraid	1
+video component cable	hdmi	1
+video intensive task	hd video	1
+video output capability	hdmi	1
+wasteful expense	hd cable	1
+web camera	hd web camera	1
+website forum	hdtvoice.com on replacing	1
+well-known technical standard	hdmi	1
+whispbar multi-purpose base rack system	hd bar	1
+wireless markup language	hdml	1
+xdsl service	hdsl	2
+xdsl technology	hdsl	1
+XML variant	hdml	1
+2nd player	hd dune prime	1
+accommodating service	hd	2
+adduct	hd albumin adduct	1
+adequate VGA output port	hdmi	2
+advanced digital technique image	hdr	1
+advanced MKV feature	hd audio	1
+advanced person	hdma & asm programmer	1
+advanced photo technique	hdr photography	1
+advanced post production technique	hdr	2
+agency organisations	hdc	1
+artificial baseline tool	hd tach	2
+AVCHD video	hd mov	2
+awsome effect	hdr lighting	1
+option	hd video of the speech	1
+option	hd video in  seven hundred and twenty p 	1
+option	hdb three 	1
+option	hdtv ready	1
+option	hdfc equity	1
+option	hdmi port	1
+option	hd towing package	1
+option	hd flash video for online hosting	1
+option	hd programming	1
+option	hdfc mip	1
+option	hdd	1
+option	hdc	1
+bandwidth-intense transmission	hd video	1
+bank progeny	hdfc mutual fund	1
+bareback company	hdk	1
+bit oriented protocol	hdlc	1
+bit-oriented protocol	hdlc	2
+broadcasting application	hdtv	1
+broadcast-specific feature	hd	1
+bulk thermoplastic	hdpe	1
+cabling option	hdmi on top of usb	1
+capacity storage disc	hd-dvd	3
+CDMA wireless communication system	hdr system	2
+channel information	hdlc channel information	1
+chromatin remodeling agent	hdac inhibitor	1
+chromatin-modifying compound	hdac inhibitor	1
+Cla-1 ligands	hdl	2
+Class IIa deacetylases	hdac four 	1
+class IIa HDACs	hdac five 	2
+Class IIHDACs	hdac four 	1
+clear QAM channel	hd  four - one 	1
+clock-embedded interface	hdmi	1
+Cold impermeable membrane	hdpe	1
+commercial synthetic polymer	hdpe	1
+commercially useful, ethylene-based polymer	hdpe	1
+complete TV show season	hd versions of lost	1
+Complex TVs	hdmi lcd tvs	1
+compression lossy format	hdv	2
+compuer course	hdca	1
+conclusion various diphosphonates	hdp	1
+consumer electronic technology	hd dvd	1
+conventional digital video interface	hdmi	1
+copper-based system	hdsl	2
+crack-sensitive material	hdpe	1
+crosslinkable polymer	hdpe	1
+crystalline and semi-crystalline polymer	hdpe	1
+curbside-collection material	hdpe	1
+currently available TCVs	hdcv	1
+data-link-layer protocol	hdlc	1
+datum intensive peripheral	hd webcams	1
+decade local act	hdu	2
+desulfurization process	hds	1
+devastating genetic and health issue	hd	1
+digital broadcasting signal	hdtv	1
+digital HD format	hdcam	1
+digital input source	hdmi	1
+digital multimedia interface	hdmi	1
+digital picture grade	hd	1
+digital signal cable	hdmi	1
+digital television signal	hdtv	1
+digital topic	hdr photography	1
+DIRECTV product	hd system	1
+disk speed tool	hd tach	1
+disk storage drive	hdd	1
+distortion term	hd	1
+DIY fix	hdd replacmeent	1
+DLNA compatible digital device	hd tvs	1
+easily oxidizable composite	hdpe filled with sericite	1
+easy setup	hdv  one thousand and eighty i sixty  basic 	1
+option	hd free for life	1
+emerging advanced IPTV service	hdtv	1
+emerging digital video application	hdtv	1
+environ-mentsinclude young star	hd  one hundred thousand five hundred and fourty-six 	1
+epigenetic-based therapy	hdac inhibitor	1
+example torrent site	hdmi vga	1
+exemplary CDMA system	hdr system	1
+expensive remake	hd remake	1
+exponential smoothing method	hdt	2
+exported datum	hd psd	1
+extensive image processing	hdr imaging	1
+fake optimization program	hdd tools	1
+fancy lighting effect	hdr	1
+fixed drive	hdd	1
+format resolution	hd's  one thousand nine hundred and twenty x one thousand and eighty 	1
+frame-oriented protocol	hdlc	1
+fully digital interface	hdmi	1
+gate level schematic viewer	hdl analyst in synplify pro	1
+generation connection type	hdmi	1
+generation DVD format	hd-dvd	2
+genetically extreme condition	hd	1
+geometric rating	hdop	1
+gop-based format	hdv	1
+grip bag term	hd	1
+hard drive device	hd tv tuner	1
+hard drive health program	hdd life	1
+hard drive temperature monitoring program	hdd temp	1
+hardwareinterrupts external device	hd	1
+hardware-specific testing	hdd test	1
+HD acquisition format	hdcam	1
+HD android game	hd plants	1
+HD film source material	hdnet movies	1
+HD interface	hdmi	1
+HD medium device	hd media player	11
+HD ready receiver	hd freeview stb	1
+HDAC protein	hdac four 	1
+HDCP compliant digital input	hdmi input	1
+HDMI-enabled component	hdtv	1
+HDPE packaging product	hdpe square	1
+HDT model	hdt sports	1
+hdtv-related feature	hdmi connection	2
+head slider assembly	hdd-type assembly	1
+heavy bandwidth application	hd video	2
+heavy-duty, off-road vehicle	hd- one thousand two hundred m by komatsu 	1
+help-seeking model	hdm	1
+hi-def format	hd-dvd	1
+high capacity recording medium product	hdd	1
+high consumption device	hdds without external power	1
+High Definition digital device	hd satellite receiver	1
+high definition digital product	hdmi	1
+high definition ready product	hd-dvd player	1
+high definition system	hdtv	12
+high definition video application	hdtv	1
+high end headphone	hd eight hundred  from the dac one 's built in amp 	1
+high end radeon card	hd three thousand eight hundred and seventy 	1
+high quality design professional	hdr engineering	1
+high quality polyethene scrap	hdp	2
+high resolution video source	hdtv	1
+high tech development	hdtv	1
+high technological product	hdtv streaming	1
+high-bit rate video compression application	hd video	1
+High-Def content	hd-dvd	1
+high-definition audio device	hd speaker	1
+high-definition cable	hdmi	3
+high-definition disc format	hd-dvd	1
+high-definition DVD format	hd dvd	2
+high-end and costly system	hds lightning	1
+highend card	hd two thousand nine hundred xt 	1
+Higher-resolution video	hdtv	1
+high-quality datum	hd image datum	1
+high-speed digital system	hd video	1
+High-tech electronics	hd television	1
+high-vision-supporting circuit	hdmi interface	1
+Histonedeacetylases	hdac eleven 	1
+home medium player	hd media player	5
+home networking standard	hdbaset	1
+homogeneous rubbery polymer	hdpe	1
+HSBC credit rating card	hdfc credit card	1
+Hygienic technique	hdk	1
+hypermedia design model	hdm	1
+improved visual	hdr seen in the picture	1
+increasingly complex digital video technology	hdcp	1
+increasingly high bandwidth service	hd	1
+india's bank	hdfc	1
+industry standard signal	hdmi	1
+industry-leading correction tool	hdr toning	1
+group	hdt club	1
+inhaled allergen source	hdm	1
+input-output port	hdmi port	1
+instance corporate house	hdfc	1
+intensive second-line treatment	hdt	1
+intensive task processing	hd movie editing	1
+internet access capable DVD player	hd-dvd	2
+INTRODUCTION hypermedia design method	hdm	1
+ipad adventure game.specific feature	hd graphic	1
+iphone sport new capability	hd video	1
+jack option	hd pit jack	1
+large capacity auxiliary storage device	hdd	1
+large capacity optical disk	hd dvd	1
+large private indian bank	hdfc bank	1
+large private sector bank	hdfc bank	2
+large video application	hd video	1
+large-capacity magnetic disc drive	hdd	1
+lateral mode	hdg	1
+latest input	hdmi	1
+latest large diameter seal	hdsf two  seals from skf 	1
+latest TV technology	hd tv	1
+legacy DSL service	hdsl	1
+Lewis base compound	hda	1
+local video output port	hdmi	1
+long video card	hd  four thousand eight hundred and seventy  x two  from ati 	1
+lovely interface	hdmi port	1
+Low friction sheath material	hdpe	1
+lucrative movie-viewing feature	hd quality	1
+mac-based alternative	hd monitor pro	1
+Manufacturing hdpe bag	hdpe shopping bag	1
+mechanical trade fitter	hd fitter	1
+medium-access protocol	hdlc	1
+minor water isotopic species	hdo	1
+Modem HDDs	hdds implementing magnetic storage medium	1
+modern connection	hdmi	3
+modern interface connection	hdmi	1
+modern netbook upgrade	hd display	6
+modern net-book upgrade	hd display	1
+monogenic, highly penetrant neurodegenerative disease	hd	1
+multi cap fund	hdfc equity	1
+multi-exposure technique	hdr	1
+multimedia acquisition tool	hd camcorder	1
+multimedia-centric port	hdmi output	1
+multi-product conglomerate	hdfc	1
+mumbai realty developer	hdil	1
+must-have connection	hdmi	1
+neew digital video format	hdmi	1
+network tuner	hd homerun	1
+networked tuner	hdhomerun	1
+newest digital image refinement technology	hdr	1
+new-generation trick	hdr lighting	1
+new-tech primary output device	hd-dvd	1
+next-generation connector	hdmi	2
+next-generation medium content	hd dvd	1
+non-chip heat-generating device	hdd	1
+non-pet plastic	hdpe	1
+non-stick plastic	hdpe in contact with the painting's surface	1
+non-toxic, food-grade plastic	hdpe	1
+method	hdlc	1
+method	hdb three 	1
+nowadays multimedia service	hdtv	1
+NRZI bitstreams	hd-sdi	1
+numerious important innovation	hdtv	1
+oakley high tech feature	hd polarized lens	1
+occasional odd scheme	hdfc tax plan	1
+online motorcycle forum	hd forums	1
+opaque file	hdf	1
+Orlando major company	hd supply	1
+orphan condition	hd	1
+output HD video format	hd avi	1
+parallel bus signal	hdmi signal	1
+person's entertainment	hd video	1
+pioneering conceptual hypermedia modeling approach	hdm	1
+pirate housing reservation company	hdmc located in las vegas	1
+plastic shopping bag	hdpe	1
+platform-independent datum format	hdf	1
+polyglutamine repeat disease	hd	1
+polyolefin resin material	hdpe	1
+popular photo editing technique	hdr	1
+popular verification methodology	hdl software simulation	1
+powerful DVB solution	hdtv system	1
+power-user program	hdc power-launch	1
+private counterpart	hdfc bank with in-house trading platform	1
+private home loan provider	hdfc	1
+proactive private bank	hdfc	1
+Professional connectivity	hd-sdi	1
+progressive international company manufacturing device	hd machines	1
+prominent private equity name	hdfc	2
+prospective HDD equipment	hdd rig	1
+prosumer format	hdv	1
+quality fund	hdfc equity	1
+quality video connection	hdmi	1
+quick access area	hdd areas for easy swapping	1
+re format	hddvd	1
+recyleable material	hdpe	1
+reliable datum stream protocol	hdlc lapb	2
+remark high-definition display device	hdtv	1
+remark high-denition display device	hdtv	1
+required MFs	hdfc	1
+resolution video	hd trailers on apple's site	1
+revolutionary imaging technology	hdtv	1
+ridiculous review	hdmi cable review	1
+rigid plastic product	hdpe container	1
+rivate bank	hdfc bank	1
+salvage treatment	hdr brachy	1
+S-ATA device	hdd	1
+scene button	hd dvd	1
+screen output option	hdmi	1
+second all-channel antenna	hd seven thousand and fifteen  for the cn tower station 	1
+method	hdr	1
+method	hdr brachytherapy	1
+method	hdd	1
+method	hda	1
+semi crystalline polyolefins	hdpe	1
+Sign foam	hdu	1
+sig-nificantin application	hdtv	1
+SMART diagnotic tool	hd sentinel	1
+SMART software	hd sentinel	1
+some-more functionality	hdr	1
+somewhat advanced technique	hdr	1
+sony AVCHD camcorder	hdr-sr one 	1
+speed application protocol	hdlc	1
+spread spectrum scheme	hdt	1
+SR-BI ligands	hdl	1
+ss head	hd  one hundred and fourty-seven 	1
+standard lining product	hdpe	1
+standard medium enclosure	hd poly cd sleeves	1
+star motion	hde  two hundred and twenty-six thousand eight hundred and sixty-eight 	1
+straight low voltage item	hdmi	1
+straight-digital input	hdmi	1
+strong and durable polymer	hdpe	1
+style connector	hdmi	1
+sunlight-readable common anode display	hdsph one hundred and fifty-one  types from agilent technologies 	1
+superior image quality with feature	hd up-conversion	1
+superior source	hdtv	1
+super-long card	hd  four thousand eight hundred and seventy  x two 	1
+supermarket plastic bag	hdpe	2
+sustainable component	hdpe plastic	2
+synthetic benchmark tool	hd tach	2
+synthetic liner	hdpe	1
+system sounds	hd clicking	1
+techno speak	hdv dvcam mpeg  two  mpeg  four   three ccd 	1
+thermoplastic polymer liner	hdpe	1
+time-sensitive and computationally-intensive computation	hdtv-quality media streaming	1
+tomorrow's video processing system	hd endpoint	1
+top can	hd eight hundred 	1
+top end AV connection	hdmi cable	1
+traditional plastic bubble packaging material	hdpe	1
+t-rex clone	hdx	1
+t-shirts bag	hdpe t shirt bag	1
+underground boring machine	hdd machine	2
+untyped expression	hdl object	3
+usb drive function	hdd sharing via gui	1
+USB STORAGE product	hdd enclosure	1
+tool	hd tach	4
+tool	hdfaces gotomeeting	2
+tool	hd tune pro	2
+tool	hdparm	1
+tool	hdd format tool	1
+wattage card	hd  five thousand eight hundred and seventy 	1
+well-established large private bank	hdfc bank	1
+wide band width service	hdtv	1
+wide bandwidth analog signal	hdtv	1
+widescreen program	hd tv	1
+Widescreen TV's	hd lcds	1
+windows-based structure	hdc	1
+X10 specific addition	hd video-recording	1
+zune function	hd radio tuner	1
+tool	hdd health	1
+tool	hdtv postproduction tool	1
+tool	hds decision tool	1
+tool	hdd acoustic manager by abacus	1
+tool	hdd dock with cooling fan	1
+tool	hd clone	1
+tool	hd sentinel	1
+product	hdpe	5
+product	hdmi cable	5
+product	hdd	4
+product	hdd enclosure	3
+project	hdb hub	1
+project	hdpe piping	1
+project	hd education project	1
+project	hdmu development	1
+project	hdtv development test	1
+material	hdpe	25
+material	hdu	3
+material	hdpe plastics becoming the norm for packaging application	2
+material	hdp oxide	2
+material	hdpe coloured	1
+material	hd film source material	1
+material	hdf	1
+material	hdpe injection molding	1
+material	hdpe membrane	1
+material	hdpe clear	1
+player	hdfc	5
+player	hdfc standard life	3
+player	hdfc bank	2
+player	hdfc mutual fund	1
+player	hd dvd addon	1
+player	hd software player	1
+player	hd multimedia player	1
+player	hd ackerman	1
+player	hdfc life	1
+player	hdil	1
+player	hdfc securities	1
+technology	hdtv	20
+technology	hd	8
+technology	hdmi	6
+technology	hd radio	5
+technology	hdsl	3
+technology	hd video	3
+technology	hd tv	3
+technology	hdcp	2
+technology	hd-dvd	2
+technology	hdi in hd dvd	1
+technology	hdlc	1
+technology	hd digital video editing	1
+technology	hd audio	1
+technology	hdml	1
+technology	hdml notification	1
+technology	hdmi deep colour	1
+product	hd camcorder	2
+product	hdpe pipe	2
+product	hd	2
+product	hdd case	2
+product	hd one thousand and eighty p portable dvr 	2
+product	hd home run	1
+product	hd lcd tv related product	1
+product	hd apparel	1
+product	hdd enclosure related product	1
+product	hdd external case related product	1
+product	hdd media player	1
+product	hdd storage related product	1
+product	hdd-equipped car stereo	1
+product	hdf door skin related product	1
+product	hdh	1
+product	hdmi adaptor	1
+product	hdf	1
+product	hdd usb enclosure related product	1
+product	hdd video recorder related product	1
+product	hdd medium player related product	1
+product	hd video camera	1
+product	hd media player	1
+product	hdpe pipe fitting related product	1
+product	hdpe plastic bottle related product	1
+product	hdpe plastic milk case	1
+product	hdpe raschel bag related product	1
+product	hdpe related product	1
+product	hdtv antennas	1
+product	hdtv receiver	1
+product	hdd mp four  player related product 	1
+product	hdd player	1
+product	hdd related product	1
+product	hdd video player related product	1
+product	hdf molded door related product	1
+product	hdf skin doors	1
+product	hdd cooler related product	1
+product	hdpe film related product	1
+product	hdmi wall plate related product	1
+product	hdtv component cable	1
+product	hdtv plasma monitor related product	1
+product	hdtv vga related product	1
+product	hdmi device related product	1
+product	hdmi	1
+technology	hd capability for wireless	1
+technology	hdr lightning	1
+technology	hdmi projector	1
+technology	hdr	1
+technology	hdx	1
+technology	hdx plug-n-play	1
+technology	hdtv for surveillance	1
+technology	hd dvds	1
+technology	hd t.v.	1
+technology	hd camera	1
+technology	hd voice	1
+technology	hdcctv	1
+technology	hd-tv	1
+term	hdl	2
+term	hd-ready	1
+term	hd ready	1
+term	hd ready, hd, full hd, true full hd	1
+term	hdr	1
+term	hdim input	1
+parameter	hdl	4
+parameter	hdl cholesterol	1
+parameter	hdl-cholesterol	1
+parameter	hd lipoprotein	1
+parameter	hd spec	1
+parameter	hdd	1
+parameter	hdd temperature	1
+system	hd  ten thousand one hundred and eighty 	4
+system	hdmi system	3
+system	hdsl	3
+system	hdtv system	2
+system	hdmi	2
+system	hdtv	2
+system	hdr	2
+system	hdfs	2
+system	hdms synapt	1
+system	hd  one hundred and six thousand two hundred and fifty-two 	1
+system	hdcp	1
+system	hd- one  studio monitor 	1
+system	hd  fifty thousand five hundred and fifty-four 	1
+system	hdt isconnectedto central office system	1
+system	hd  one hundred and seventy-eight thousand one hundred and twenty-five 	1
+measure	hdl cholesterol	1
+measure	hdl	1
+condition	hd	2
+element	hds	2
+element	hd grooming	1
+element	hd  one hundred and sixty-eight thousand seven hundred and thirty-three exotic element 	1
+element	hdnews artist layer graphical element	1
+element	hd  seven hundred and twenty p video recording 	1
+element	hdslr familiarisation	1
+variable	hdl cholesterol	2
+product	hdpe for milk jug	1
+product	hdmi male cable related product	1
+product	hdmi related product	1
+product	hdmi switch related product	1
+product	hdpe bag	1
+product	hdpe bottle related product	1
+product	hdpe material related product	1
+product	hdtv cable related product	1
+product	hdmi adaptor related product	1
+product	hdf laminated floor related product	1
+variable	hdl cholesterol level	1
+variable	hdl	1
+variable	hdmi vga	1
+function	hdd cloning	2
+function	hd movie shooting	2
+function	hdd recovery multiple hdd image backup	2
+function	hdd erase	2
+function	hdd test & analysis	2
+function	hdd controller	1
+function	hd video playback	1
+function	hdmi output	1
+function	hdx media stream broadcast hdx	1
+function	hdx plug-n-play	1
+function	hdmi	1
+function	hdb for rent	1
+function	hdb three  encoding 	1
+function	hd recording	1
+function	hdb for sale	1
+function	hdmi-cec	1
+function	hdmi switching	1
+device	hdtv	13
+device	hd-dvd player	3
+device	hdd	3
+device	hd	3
+device	hd tvs	2
+device	hdd  eleven - one  through  eleven -m 	2
+device	hdp-enabled end-user device	1
+device	hdmi transceiver	1
+device	hdmi-connected device	1
+device	hdt tvs	1
+device	hd-dvd	1
+device	hd dvr	1
+device	hd television	1
+device	hd ready television	1
+device	hd recorder	1
+device	hd two 	1
+device	hdx	1
+device	hdtv video source device	1
+device	hd fury	1
+device	hd flash recorder	1
+device	hd cable boxes	1
+device	hd-dvd drive	1
+device	hd media player	1
+device	hdd  eleven  -  one  through  eleven  - m 	1
+device	hd two  without using the datum 	1
+device	hd televisions from samsung	1
+device	hd-sd downconvertors	1
+device	hdtv compatible device	1
+brand	hd	2
+brand	hd camcorder brand	1
+brand	hdfc bank	1
+component	hdd	11
+component	hdcp content	4
+component	hdd capacity	1
+component	hdcp-capable display	1
+component	hdmi	1
+component	hdmi wiring	1
+component	hdmi-equipped camcorder	1
+component	hdmi receiver	1
+aspect	hdd	1
+aspect	hd video	1
+site	hd video site	1
+site	hd teens video	1
+task	hd video	1
+task	hd video editing	1
+related product	hdpe material related product	1
+related product	hdmi switch related product	1
+related product	hdpe bottle related product	1
+related product	hdmi related product	1
+related product	hdmi male cable related product	1
+related product	hdtv cable related product	1
+related product	hdd related product	1
+related product	hdd mp four  player related product 	1
+related product	hdd video player related product	1
+related product	hdmi wall plate related product	1
+related product	hdd usb enclosure related product	1
+related product	hdd video recorder related product	1
+related product	hd lcd tv related product	1
+related product	hdd storage related product	1
+related product	hdpe pipe fitting related product	1
+related product	hdpe raschel bag related product	1
+related product	hdpe plastic bottle related product	1
+related product	hdf moulded door related product	1
+related product	hdd multimedia player related product	1
+related product	hdd external enclosure related product	1
+related product	hdd case related product	1
+related product	hdd cinema related product	1
+related product	hdpe ldpe lldpe related product	1
+related product	hdpe apron related product	1
+related product	hdmi input related product	1
+related product	hdmi splitter related product	1

@@ -1,0 +1,801 @@
+factor	ndvi	3
+product	nd five 	1
+product	ndb	1
+datum	ndvi	4
+datum	ndvi parameter	1
+datum	ndhep result	1
+datum	ndc number	1
+resource	ndia references for configuration management	1
+resource	ndep school guide	1
+process	ndt	1
+source	ndtv.com	1
+property	ndi s	1
+subject	nd applied science	1
+exception	ndes occurring in low stress situation	1
+product	ndfeb ferrite magnet magnets	1
+product	ndole	1
+work	ndebele gate	1
+model	ndp model	1
+attraction	ndunu battlefield	1
+institution	ndpc	1
+institution	ndma	1
+client	nd johnson&johnson	1
+client	nd reed elsevier	1
+document	nds	2
+document	ndas	1
+document	ndna bylaws	1
+document	ndt schedule	1
+form	nda	2
+matter	ndis	1
+alternative	ndrive	2
+effect	nd filter	1
+agency	nddb	2
+agency	ndtv	1
+agency	ndcc	1
+agency	ndot	1
+agency	nde	1
+object	nds user	1
+writer	ndumiso ngcobo	1
+star	ndrogynous rock star	1
+field	ndc	2
+field	ndt	1
+procedure	nds method	1
+school	ndow's comprehensive upper basic schools	2
+school	ndscs	2
+practice	ndc manipulation	1
+title	nd for natural doctor	1
+operation	ndt by supplier	1
+plant	ndia	1
+circumstance	nde	1
+type	ndk  five thousand and thirty-two sa 	1
+city	ndola	2
+town	ndola	1
+requirement	nde	1
+drug	nd hydralazine	1
+treatment	nd-yag laser	1
+treatment	ndt	1
+favorite	ndebele stitch	1
+manufacturer	nd industries	1
+manufacturer	nds	1
+instrument	ndt equipment	2
+instrument	nd-yag laser probe	1
+act	ndea	1
+feature	nd a high resolving power	1
+setting	nd filter	1
+compound	ndma	2
+compound	ndga	1
+study	ndhc article	1
+website	ndra	1
+leader	ndamba	1
+musician	ndioba gueye hans olding	2
+expense	nd advertising	1
+mean	nd filter	1
+building	ndmc building	1
+phenomenon	nde	1
+variety	nd steele	2
+vendor	nds	1
+critic	ndp leader andrea horwath	1
+critic	ndp mla john horgan	1
+environmental factor	nd sub culture	1
+environmental factor	nd soil moisture	1
+vehicle	ndss	1
+effort	nd modelling project at the university of salford	1
+actor	ndtv profit	1
+label	ndebele	1
+feature	ndmp three-way backup functionality	1
+feature	nda	1
+feature	ndtv active	1
+value	ndvi	1
+step	nding the lu decomposition	1
+software	ndoes certain software	1
+software	ndmp-capable backup software	1
+software	ndi first principles	1
+provider	ndoe's vocational centres	1
+report	ndt status	2
+party	ndp	11
+offer	ndfeb magnet related offer	1
+speaker	ndp mp from trinity-spadina	1
+protein	nd one 	1
+district	nd buffalo	1
+issue	ndi vs. gras	1
+experience	nde	2
+language	ndu languages of papua new guinea	2
+language	ndebele	2
+herb	nd khella	1
+channel	ndtv	6
+channel	ndtv lumiere	2
+channel	ndtv good times	1
+channel	ndtv profit	1
+channel	ndtv  twenty-four x seven 	1
+functionality	ndingandloading component	1
+surface	ndingavery repetitive surface	1
+car	nd corvette	1
+driver	ndis driver	2
+driver	ndis miniport driver	1
+sport	ndaa sponsor sport	1
+measurement	nding the average number density in a given region	1
+offering	nduja on toast	1
+platform	ndis local area network	1
+platform	nds	1
+bank	ndb	1
+bank	nd credit union	1
+village	ndau	1
+modification	nder head	1
+teacher	nd lisa melaragno	1
+personality	ndc councilor pak myong-chol	1
+guy	ndamukong suh	1
+theorist	ndl	1
+stock	ndtv	3
+support service	ndc	1
+prize	ndp bookmark	2
+prize	ndp stickers	1
+prize	ndp t-shirt	1
+small item	ndl model	1
+issue	ndvi saturation	1
+database	ndnad	1
+forum	ndtv.com	1
+politician	ndp's jack layton	1
+government agency	nddc	1
+government agency	ndcc	1
+gene	ndrg one 	1
+charity	ndcs	1
+content	nda	1
+index	ndvi	9
+index	ndx	2
+attachment	ndt certificate	1
+substrate	ndgao  three 	1
+professional organization	ndaa	1
+contaminant	ndma	2
+contaminant	nd industrial chemical	1
+filter	nd grad	2
+filter	nd filter	2
+filter	nd eight 	1
+filter	nd & circular polarize filter	1
+filter	nd ten thousand   at  thirteen  stop 	1
+filter	nd sixty-four  at  six  stop 	1
+filter	nd grad filter	1
+filter	nd & circular polorizing filter	1
+island	ndeni in the santa cruz group	1
+issue	nd legislative session	1
+hit	ndatenga mota	1
+simple task	ndingitsway around a room	1
+international organization	ndi	4
+international organization	ndtv	3
+international organization	nd tv	1
+code	ndc drug code	1
+enzyme	ndna repair enzyme	1
+notable exception	ndreams spirit of adventure app	1
+hobby	nd crossword puzzle	1
+tribe	ndebele	1
+engine	ndb	1
+ministry	ndrc	1
+production	ndrew lloyd webber stage production	1
+qualification	nd in countryside management	1
+division	ndaragwa	1
+item	nda reference material	3
+jurisdiction	nd of illinois	1
+exhibit	ndebele beadwork	1
+virus	ndm- one 	1
+virus	ndvand ibv	1
+professional service	ndss	1
+local company	ndrive	1
+airport	ndjili	1
+manager	ndx	1
+ethnic group	ndali	1
+item	nda	1
+survey	ndshs	1
+light source	nd laser	1
+orchestra	ndr-radio philharmonic orchestra of hanover	1
+large city	ndola	1
+commercial product	ndepend	1
+relationship	ndfd on adl concentration	1
+motif	ndd	1
+expenditure	nda application cost	1
+design parameter	nd concentration of the dcf	1
+organic compound	ndma	1
+item	nd property tax	1
+academic	ndebele historian dr sekibakiba peter lekhgoathi of the history department of the university of the witwatersrand	1
+degree	nd recognized in certain states in the usa	1
+bill	ndaa	2
+bill	ndaa passing	1
+local authority	ndmc	1
+hot topic	ndamukong suh's meeting with nfl official	4
+hot topic	ndamukong suh s meeting with nfl official	1
+government	ndp	1
+leading company	nds india	2
+structural element	nder major structural element	1
+venture	ndtv labs	1
+item	ndas	1
+item	nds	1
+government department	ndrc	1
+directory	nds	1
+intellectual	ndividual jewish intellectual	1
+technical skill	ndt	1
+architecture	ndn	1
+minister	nda chief minister	1
+popular product	ndvi time series processed in a pre-defined manner	1
+minority	ndebele	3
+political party	ndp in canada	1
+political party	ndp	1
+frame	ndp announcement frame	1
+examination	nde testing	1
+incidental	nde	1
+student group	nd fighting ntds	1
+grant	nds modernisation	1
+minority group	ndorobo	1
+model parameter	ndt process	1
+continuous variable	ndvi	1
+popular area	nda et al	1
+abbreviation	nd	1
+broadcaster	ndtv	4
+broadcaster	ndr	1
+exchange	ndaq	1
+product information	ndc	1
+street name	ndanda	1
+area	ndenderu	1
+outlying area	ndenderu	1
+young star	ndamukong suh	1
+business area	nd tourism & real estate	1
+opening	nd five 	1
+outreach program	nd vision	1
+herbal supplement	ndian mulberyy	1
+health care provider	nd hospital	1
+soil property	nd ph	1
+medium company	ndtv	1
+exam	nda	5
+small company	ndt germany	2
+national event	ndp	1
+physical method	ndir	1
+metal oxide	nd two o three 	1
+laser	nd yag for hair removal for dark skin	1
+laser	nd-yag	1
+crystal	nd-doped lasing crystal	1
+area	ndt's major project area	1
+acronym	ndea	1
+law enforcement agency	ndlea	2
+food additive	nd b ee swax	1
+food additive	nd beeswax	1
+business partner	nds	1
+dialect	ndonga	1
+environmental organization	ndp-friendly environmental organization	1
+pasta	nduja	1
+ancillary datum	ndvi	2
+area	ndola	1
+area	nd comp ara tiv	1
+TV channel	ndtv	3
+TV channel	ndtv profit	1
+management service	nds	1
+policy document	nds	1
+church leader	nd president jenkins	1
+japanese company	ndk	1
+key account	ndtv	1
+NFL player	ndamukong suh	2
+core function	ndis	1
+rating	nd for near daylight	1
+large town	ndelele	1
+opposition party	ndp	1
+optical technique	ndir	1
+optical technique	ndir ndir non dispersive infra red	1
+service	ndt	2
+Party Equipment Rental s	nd foam machine rental	1
+complex procedure	ndb intercept	3
+object type	nds organizational person	1
+youth activity	nd regional range judging contest	1
+youth activity	nd youth range camp	1
+good fat	nd omega- three  essential fatty acid 	1
+analog	ndp-alpha-msh	1
+commenters	ndic	1
+green leafy vegetable	nd bok choy	1
+treatment technique	ndt	1
+quality player	ndamukong suh	1
+magnetic material	ndfeb	1
+rock star	ndrogynous rock star	1
+small island	ndao island	2
+business school	nd duke university	1
+neighboring town	ndola	1
+service	ndustrial boilers repairing	1
+kingdom	ndongo	1
+visualization tool	ndp used in the eawg sensitivity analysis	1
+tracer	nd isotope	1
+disciple	ndaam abdurahman lo	1
+herbal treatment	nd black cohosh	1
+moral value	nderi	1
+development partner	nda	1
+submission	nda	1
+regulatory authority	ndic	1
+service	nds	1
+service	ndt service rt	1
+service	ndt inspection	1
+medium channel	ndtv	1
+local college	ndsu	1
+retail company	ndo online retail company	1
+insulating material	nd gao  three 	1
+volatile substance	nd gas	1
+top firm	ndtv	1
+citrus fruit	nd tangerine	1
+reputed organization	ndtv	1
+development agency	nddc	1
+high-profile figure	ndp leader tommy douglas	1
+database object	ndf file	1
+regional agency	nd school for the blind	1
+magnet	ndfeb magnet	1
+potential candidate	ndp's thomas mulcair	1
+chemical component	ndf	1
+football player	ndamukong suh	1
+training facility	nde	1
+nationalist	ndabaningi sithole	1
+parastatals	ndic	2
+parastatals	nddc	2
+brand name item	ndi florals	1
+standard parameter	ndim	1
+local language	ndau	1
+spatial information	ndvi distribution dem	1
+excellent brand	nd products	1
+technology partner	nds	1
+vital record	ndt technical report	1
+liberal group	ndn	1
+topic	ndb	1
+topic	nda filing	1
+optic	nd filter	1
+directory service	nds	2
+engineering measure	nd crash barrier	1
+legal topic	nd immigration law	1
+shared experience	ndp celebration	1
+topic	nd measurement	1
+topic	ndt instructor	1
+topic	nde	1
+india tv channel	ndtv	2
+india tv channel	ndtv goodtimes	2
+india tv channel	ndtv live bgindia	1
+stage production	ndrew lloyd webber stage production	1
+navigation aid	ndb	1
+impact player	ndamukong suh	1
+device driver	ndis protocol driver	1
+international non-governmental organization	ndi	1
+indian player	ndtv	1
+news channel	ndtv	4
+news channel	ndtv sabsey politically incorrect kaun	1
+news channel	ndtv  twenty-four x seven 	1
+social networking application	ndtv active	1
+news website	ndtv.com	5
+company	nds	6
+company	ndtv	4
+employment information	ndnh datum	1
+small party	ndp	1
+germany tv channel	ndr	2
+project area	ndt's major project area	1
+manual therapy technique	ndt	1
+backup software	ndmp-capable backup software	1
+certification course	ndt	1
+inspection method	ndt inspection method	1
+popular type	ndri	1
+company	nds india	1
+company	ndk	1
+biophysical parameter	ndvi	1
+business location	ndabeni industria	1
+national NGOs	ndo	1
+medium house	ndtv	1
+music form	ndh attention	1
+private equity fund	nd capital partners	1
+technological product	ndmo website template	1
+defense system	nda	1
+lowland area	ndop plain	2
+militant organization	ndfb	1
+company	nd satcom	1
+company	ndreams	1
+company	ndy	1
+company	nda	1
+company	nd tech	1
+company	ndo online retail company	1
+african tribe	ndebele of zimbabwe	2
+permanent magnet	ndfeb rare earth magnet	1
+permanent magnet	ndfeb	1
+stock index	ndx	1
+landscape product	nds drainage equipment	1
+national and international award	ndt man of the year	1
+traditional community	ndebele	1
+endoscopic technique	nd-yag laser resection	1
+regulatory document	nda document	1
+resistance mechanism	ndm- one 	1
+Non-employees	nd customer	1
+top supplier	ndna	1
+claim information	ndc code	1
+claim information	ndc	1
+paranormal phenomenon	ndes	1
+competitive exam	nda	1
+process requirement	nde requirement	1
+vegetation index	ndvi	23
+athletic competition	nd football punting	1
+progressive group	ndm	1
+african scholar	ndlovu	1
+thermal technique	nd-yag laser	1
+text book	ndt handbook	1
+flash card	ndsl flash card	1
+common design element	nd-series spring cage	1
+financial house	ndb	1
+news medium	ndtv	1
+news tv channel	ndtv profit	2
+news tv channel	ndtv news	1
+3rd party solution	ndoc	2
+ablative therapy	nd-yag laser	1
+chief minister	nda chief minister	1
+immune parameter	nd titer	1
+emerging contaminant	ndma	1
+private channel	ndtv	1
+activity	nditha campaign	1
+therapy approach	ndt sensory integration therapy	1
+jewish intellectual	ndividual jewish intellectual	1
+solid-state laser	nd-yag laser	1
+area institution	ndsu research park	1
+fringe party	ndp	1
+great literary figure	ndre mjeda	1
+mechanical control method	nd u si ng mulch	1
+african culture	ndebele	1
+audio video format	nd to wav	1
+creole	ndjuka in suriname	1
+partner organization	ndi partner organization	1
+rare earth magnet	ndfeb	4
+rare earth magnet	ndfeb magnet	1
+information	ndf	2
+information	ndc number	2
+population survey	nds household survey	1
+high power laser	nd-yag	2
+modern web technology	nd xml	1
+educational agency	nde	1
+member communication	nde program electronic newsletter	1
+server environment	nds for solaris	1
+server environment	nds for nt	1
+state-owned property	ndot	1
+temporal variable	ndvi	1
+business channel	ndtv profit	2
+information	ndc wide crime	1
+fiber component	ndf	2
+enhancement method	ndvi	1
+holistic practitioner	nds for nutritional counseling	1
+popular index	ndvi	2
+byword	ndn	1
+ceasefire group	nda in kachin state	1
+datum fusion technique	ndvi	1
+influential theorist	ndy hargreaves	1
+bantu group	ndebeles	1
+leanest cut	nd roast	1
+related program	ndtv's new related program	1
+security reason	ndr unmarshalling routines for handling msrpc requests in windows operating system	1
+traditional index	ndvi	1
+TV broadcasting company	ndtv	1
+well name	nderim	1
+datum representation	ndr	1
+extraordinary claim	nde	1
+pre-workout supplement	nds pump fuel	1
+SQL database object	ndf file	1
+civic agency	ndmc	1
+material characterization method	nde method	1
+prime spot	ndumo in kwazulu-natal	1
+sex worker	ndebele speaking zimbabwean woman	1
+storage engine	ndb	1
+event	nda's successful annual research conference	1
+event	ndp	1
+event	ndi defense procurement	1
+expected function	nda approval	1
+macro environmental factor	ndvi	1
+public station	ndr	1
+rare player	ndamukong suh	1
+energy agency	ndrc	1
+gallant freedom fighter	ndabaningi sithole	1
+lipoxygenase inhibitor	ndga	2
+MODIS product	ndvi	1
+program	ndis	1
+notable Canadians	ndp leader jack layton	1
+pre-installed social networking application	ndtv active	1
+repair enzyme	ndna repair enzyme	1
+shipping preference	nd mor	1
+spectral index	ndvi	4
+case only rare earth oxide	nd two o three 	1
+high school holiday	ndea teacher's conference	1
+homebrew	nds backup tool	1
+mitigation program	ndmp	1
+program	ndu distinguished lecture program	1
+prominent MPs	ndp's paul dewer	1
+rich medium capability	nd whiteboarding	1
+SQL database component	ndf file	2
+adjunct modalities	nd : yag	1
+advanced inspection technique	ndt	1
+allied technique	ndt tool	1
+basic guitar technique	nd chord playing	1
+chinese organization	ndrc	1
+conventional detection technique	ndir	1
+day group	ndwandwe	1
+desert environment	ndra	1
+english new channel	ndtv profit	1
+enterprise directory	nds	2
+forage fiber component	ndf	2
+job oriented course	ndt	1
+program	ndtv's new related program	1
+participating bank	ndb	1
+permanent magnet material	ndfeb	1
+rare earth chloride	ndcl three 	2
+rare-earth material	nd-fe-b based material for the magnets  two a 	1
+awareness ofwhatfactors	nd social capital in community	1
+bronchoscopic technique	nd-yag laser	1
+distinguished international ensemble	ndr orchestra	1
+drivers implementation	ndis	1
+electronic medium company	ndtv	1
+high performance network driver	ndis four 	3
+high performance network driver	ndis five 	3
+high performance network driver	ndis three 	2
+indigenous minority linguistic group	ndau	1
+nitrosamines	ndma	1
+pre-packed kit	nd obste tr i c surgical kit	1
+regional creole language	ndyuka	1
+regulatory submission	nda	1
+remote-sensing datum	ndvi	1
+organization	ndma	4
+organization	ndi	2
+standard PDF document	ndas	1
+tenants right group	ndg community council	1
+terror outfit	ndfb	1
+campus community	ndnu	1
+capstone document	nds	3
+conventional ultrasound supplier	ndt systems located in huntington beach	1
+critically review submission document	ndas	1
+organization	ndsu extension	1
+Interactors	nde one 	1
+Interactors	ndel one 	1
+K-12 program	nd principal licensure	1
+large-ish company	nd satcom	1
+legislatio n	ndaa	1
+long wavelength laser	ndyag	3
+multisource datum	ndvi	1
+nonengineered virus	ndv	1
+nonsampling measurement system	nda	3
+organization	ndi partner organization	1
+organization	ndcc	1
+organization	ndtv	1
+organization	ndp-friendly environmental organization	1
+prominent Namibians	ndali kamati	2
+rare earth cobalt alloy material	ndco  five 	1
+rna-containing virus	ndv	1
+spectral vegetation index	ndvi	2
+third-party command interpreter	ndos	1
+village center	ndwedwe in the west	1
+African music	ndombolo	1
+technique	ndvi	1
+technique	ndt	1
+company's subsidiary	ndr energy group	2
+complex index	ndvi	1
+cooperative financing organization	nddb	1
+de beer group company	ndtc	1
+differents directory	nds	1
+documentation work	nde dossier pack	1
+dsi accessory	nds lite case	1
+dsi accessory	nds lite pouch	1
+ent funding option	nd state prog rams offered	1
+FONKAR leader	ndc elders cecilia johnson	2
+technique	ndir	1
+Indipnous cattle	ndama	1
+long-standing party	ndp	1
+magnet related offer	ndfeb permanent magnet	1
+NDT product	ndt scanner	1
+nguni group	ndebele	1
+n-nitroso compound	ndma	1
+application	ndtv active	2
+NTIACservices	nde in spectionmethod evaluation	1
+online retail company	ndo online retail company	1
+opposition parliamentarian	ndp mp dawn black	1
+optical tracking system	ndi polaris	1
+potential young star	ndamukong suh	1
+problem signing player	ndamukong suh	1
+projection model	ndm	1
+protein-coding gene	nd four 	1
+rare-earth permanent magnet	nd-fe-b magnet	1
+regulatory and enforcement authority	ndlea	1
+returning team	ndnu argonauts	1
+RTI service	nd time management	1
+small, indebted party	ndp	1
+standard vegetation index	ndvi	1
+stes	nddb	1
+application	ndvc detection hasawiderangeof application	1
+application	ndrive	1
+traditional doctor	ndalo in ntulya village	1
+TV broadcast company	ndtv	1
+unrepresentative micro party	ndp	1
+aforementioned product	ndvi	1
+alternate laser type	nd-yag	1
+ancillary oil field related service	ndt test	1
+anything extreme	ndp in ontario	1
+boutique specialized firm	ndb	1
+catecholic butane	ndga	4
+catecholic butane	ndga compounds	2
+CDER document	nda guideline	1
+CJS program	ndis	1
+deemed university	ndri karnal	1
+draconian government measure	ndaa	1
+name	ndudi ebi	1
+name	ndamukong suh	1
+farmer-funded generic promotion group	ndb	1
+feature index	ndvi	1
+gas analysis device	ndir	1
+HMRC disclosure initiative	ndo	1
+horticultural scheme	ndemban vegetable gardens	1
+identifier field identifiers	ndc number	1
+improtant channel	ndtv good times	1
+interactive television application developer	nds group	1
+interactive television technology provider	nds group	1
+kinetochore component	ndc eighty  complex 	1
+laser gain medium	nd-doped laser crystal	1
+magnetic material product	ndfeb	1
+medical display vendor	nds surgical imaging	1
+molecular weight nitrosamines	ndma	1
+netware application	nds edirectory	1
+network directory	nds	1
+non precision approach	ndb	1
+onsite accommodation option	ndlovo camp	1
+ophthalmic laser	nd yag laser	1
+overlying driver	ndis protocol	1
+petty bourgeois party	ndp	1
+popular deaf website	ndcs	1
+position display unit	nd  two hundred and eighty 	1
+position display unit	nd  two hundred and eighty-seven 	1
+profound personal experience	nde	1
+public breeding program	ndsu oat program	2
+publically assigned names	nds three 	1
+publically assigned names	nds one 	1
+radio beacon	ndb	1
+reflectance index	ndvi	1
+regional medium lobby	ndima in kenya	1
+relevance -metric	ndcg	2
+retrieval -metric	ndcg	1
+solid-state laser material	nd : yag	1
+south african language	ndebele	1
+station identification	ndr	1
+steady state tracer	nd isotopes between lgm condition	1
+strong high-pull-force magnet	ndfeb	1
+superficial laser	ndyag	1
+surface biophysical variable	ndvi	1
+sweep stronghold	ndebele provinces of bulawayo	1
+sympathetic labourist party	ndp	1
+TMR variable	ndf	2
+top new TV channel	ndtv arabia	1
+traditional vegetation index	ndvi derived from the remote sensing imagery	1
+traditional vegetation index	ndvi	1
+treasonous law	ndaa	1
+usingcw source	nd-yag laser	1
+utilising application	ndoc	1
+volatile contract	ndx	1
+zoning protection	ndd	1
+accurate detector	ndir	2
+amageable surface	nd wood	1
+API mode	ndis	1
+application title	nderp web service	1
+broadband laser	nd glass laser	1
+broadband reflectance index	ndvi	1
+broad-brush policy	ndis	1
+broad-ranging arrangement	ndf procedure	1
+budget lodge	ndoto kidogo lodge	1
+carbohydrate characteristic	ndf digestibility	2
+classical vegetation index	ndvi	1
+coercivity mateials	ndfeb	1
+commercially available laser	nd-yag	1
+common vegetation index	ndvi	1
+conclusion simple ratio vegetation index	ndvi	1
+conditional access vendor	nds	1
+confidential NDIA financial information	ndia's future business performance	1
+consideration process	nds time synchronization	1
+conventional analysis system	ndir system	1
+conventional navigation aid	ndb	1
+conventional vegetation index	ndvi	1
+dielectrophoretic element	ndep wall	2
+group	ndfb	4
+ECCE development	nd yag laser for posterior capsule opacification	1
+energy-related official	ndrc vice minister zhang guobao	1
+established business channel	ndtv profit	2
+fee survey	ndas annual fee survey	1
+genetically-engineered oncolytic APMV	ndv	1
+incompetent new agency	nddc	1
+industrial imaging application	nde	1
+industry-standard datum management protocol	ndmp	1
+group	ndi igbo	1
+group	ndrangheta of siciliy	1
+in-season consideration in-season datum collection	ndvi aerial photography	1
+internet business channel	ndtv profit	1
+introduced new event	nde community shred	1
+IR metric	ndcg	1
+IR performance measure	ndcg	1
+joint probability	ndingthe probability of a white cube	1
+lake victoria site	ndere island	1
+laser-related property	ndion concentration	1
+latest magnetic material	nd-fe-b	1
+liberal indian medium	ndtv	1
+long-term ABI	ndc programme	1
+low molecular weight nitrosamines	ndma	1
+LX5 accessory	nd filter	1
+maintenance division	ndc operation	1
+mask type	ndele	1
+medical and health system	ndms	1
+ministry wit overlappin function	nddc	1
+modis-derived variable	ndvi	1
+multi-canonical transfer syntax	ndr	1
+multi-dimension interactive visualization tool	ndp used in the eawg sensitivity analysis	1
+NDS utility	nds rom trimmer	1
+nominal diameter	nd one 	1
+group	ndi	1
+method	nd dextran-coated charcoal adsorption of free steroid	1
+NPAs	ndb	1
+proprietary implementation	nds	1
+prosecutor agency	ndaa	1
+ratio-based method	ndvi	1
+recombinant oncolytic virus	ndv	1
+reflective index	ndvi	1
+reliable business channel	ndtv profit	2
+representative indicator	ndr in china	1
+RNA vimses	ndv	1
+satellite variable	ndvi	1
+secondary LHON mutation	nd one  t four thousand two hundred and sixteen c 	1
+method	ndt inspection method	1
+method	ndvi photography	1
+method	nd-y.a.g. laser angle surgery	1
+service provider implementation	nds	1
+simple vegetation index	ndvi	1
+small neighborhood level renewal agency	ndcs with limited resource	1
+software automation system	ndauto system based on gspec	1
+southland dance ensemble	ndm dance company	2
+spectrally-derived vegetation index	ndvi	1
+strong magnetic Jewelry	ndfeb jewelryand stainless steel jewelry	1
+structured product provider	ndfa	1
+subcounties	ndaija of mbarara	1
+suitable unique cloning site	ndei	1
+syndrome advocacy group	ndss	1
+terrifying antibiotic resistance gene	ndm- one 	1
+tori calexamples	nd carlisle	1
+traditional analyzer	ndir	1
+truck endgate sampler	ndsu sampler	1
+trustworthy business channel	ndtv profit	1
+unnecessary quangos	nddc	1
+vegetation spectral index	ndvi	1
+vegetative index	ndvi	1
+tool	ndoc	6
+tool	ndepend	1
+vital motorist service	ndot's  five hundred and eleven  nevada travel info 	1
+watery deal	nddc	1
+window driver interface	ndis	1
+tool	ndt	1
+tool	ndpmon	1
+factor	ndf	1
+project	ndsu virtual cell lab	2
+artist	ndugu chancellor	1
+artist	ndea davenport	1
+artist	ndedi eyango	1
+artist	ndidi dike	1
+material	nd  two  o  three 	2
+material	ndcoo  three  perovskite 	1
+material	ndcoo three  perovskite 	1
+material	nd-yag	1
+material	nd doped fiber	1
+material	nd-fe-b	1
+place	ndola	1
+player	ndamukong suh	5
+player	ndtv	1
+player	ndamukung suh	1
+player	ndtv profit	1
+technology	ndi material characterization technology	1
+technology	ndoc	1
+product	ndfeb magnet	3
+product	ndvi	3
+technology	ndvi imaging	1
+parameter	ndvi	1
+parameter	ndv	1
+parameter	ndcorrelationto other parameter	1
+system	ndvi analysis	1
+measure	ndf	1
+element	nder major structural element	1
+variable	ndvi	1
+variable	ndf	1
+device	nds	1
+device	ndt instrument	1
+device	ndiyo system	1
+concept	nds tree	1
+aspect	nda doing the practical arrangement	1
+aspect	ndc	1
+site	ndawara tea estate	1
+task	ndt inspection	1
+task	nding the right check-in desk	1

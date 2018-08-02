@@ -1,0 +1,80 @@
+benefit	f&r lunch	1
+client	f&n food	1
+client	f&w publications	1
+field	f&n metrology	1
+amenity	f&b outlet	3
+amenity	f&b establishment	1
+industry	f&b industry	1
+position	f&b manager	1
+customer	f&m bank	1
+department	f&b schedule meal time	1
+magazine	f&sf	1
+retailer	f&b outlet	1
+professional	f&b directors & manager	1
+fund	f&c lifestyle	1
+fund	f&c high income	1
+prize	f&b voucher	1
+financial institution	f&c asset management	1
+manager	f&c's successful, cross-border peer-group manager	1
+lender	f&m bank	1
+essential service	f&b outlet	1
+item	f&b credit	1
+dealer	f&s yamaha	1
+corporate sponsor	f&m bank	1
+deliverables	f&g vendor work scope	1
+social program	f&s night	1
+trust	f&c commercial property	1
+great facility	f&b outlet	2
+big firm	f&n beverages	1
+fund manager	f&c asset management	1
+service	f&a processing service	1
+shareholder	f&c investments	1
+recreational amenity	f&b outlet	1
+landlord	f&c reit	1
+institutional client	f&b outlet	1
+topic	f&b management	1
+asset manager	f&c investments	2
+asset manager	f&c investors	1
+traditional company	f&c asset management	1
+company	f&p healthcare	1
+company	f&c commercial property trust	1
+company	f&mscientificto the corporate family	1
+company	f&p america	1
+complementary facility	f&b outlet	1
+niche industry	f&b industry	1
+department program	f&b department program	1
+investor group	f&c asset management	1
+club facility	f&b outlet	1
+blue-chip brand	f&n coca cola	1
+operational responsibility	f&b outlets	1
+unrestricted fund	f&a cost fund	1
+event	f&w	1
+F&B project	f&b department newsletter	1
+program	f&b department program	1
+agency supervisor	f&b supervisor	1
+closed-ended vehicle	f&c commercial property trust	1
+F&B counter	f&n	1
+key service item	f&b cart	1
+organised various marketing event	f&b promotion	1
+column pair	f&g	1
+deep discount drug store	f&m distributors	1
+endless offer	f&b voucher	1
+income-oriented fund	f&c multi manager distribution	1
+in-house promotion material	f&b e-mailer	1
+option	f& value for the reserve	1
+big domestic property investor	f&c commercial property	1
+collagen supplement	f&n fruit tree fresh collagen	1
+Emo	f&w sdd	1
+global institutional investor	f&c reit	1
+great specimen	f&t	1
+initially customer company	f&m securities	1
+K&K blended golden virginia flake	f&t cut virginia plug	1
+key property-level executive committee member	f&b director	2
+multiple-line manufacturers representative organization	f&l technical sales	1
+pune office operation	f&a outsourcing	1
+refreshing F&N fun flavour	f&n outrageous orange	1
+rental comparison method lettable area	f&b outlet	1
+service-oriented outlet	f&b restaurant	2
+tool house	f&d tool of three rivers ma	1
+technology	f&t trap	1
+function	f&b control	1

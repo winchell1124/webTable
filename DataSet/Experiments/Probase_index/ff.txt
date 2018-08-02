@@ -1,0 +1,738 @@
+datum	fft window coefficient	1
+datum	fft	1
+resource	ffa student handbook	1
+resource	ffa advisor	1
+resource	ffa manual	1
+facility	fftf	1
+process	fft	1
+game	ffxi	13
+game	ff seven 	6
+game	ffx runner & car demolition	5
+game	ff  one 	4
+game	ffx runner & slot car grand prix	4
+game	ff thirteen 	4
+game	ffxiii	3
+game	ffix	2
+game	ffvii	2
+game	ff twelve 	2
+game	ff x- two 	1
+game	ff seven  spyro crash bandicoot ape escape 	1
+game	ffiv	1
+game	ffxiv gil	1
+game	ff drige of cerberus	1
+game	ff x	1
+game	ffvi	1
+game	ff four 	1
+game	ff  six 	1
+game	ffxiv	1
+game	ffx	1
+game	ffx port	1
+game	ff tactics	1
+game	ff xiii	1
+game	ffh	1
+exception	ff thirteen 	1
+exception	ffvii	1
+exception	ffxiii	1
+exception	fft application	1
+reason	ff seven  having a mention on a recent list 	1
+characteristic	ffl business characteristic	1
+attraction	ffestiniog steam railway	1
+feature	fft spectral analysis	5
+person	ffa ceo in ben buckley	1
+person	ffb	1
+approach	fft-based technique	1
+agency	ffd office	1
+course	ffos las	3
+course	ff ii	2
+solution	ffc jumper cable	1
+feature	fft spectrum analysis	2
+book	ff bruce's the heart	1
+film	ffcoppola's bram stoker sdracula	1
+field	fft or video processing	1
+band	ff five 	1
+part	ff x- two 	1
+title	ffvii	2
+title	ffxiii	1
+title	ff seven  track 	1
+operation	fft	4
+operation	fft butterfly	1
+scholar	ff bruce	1
+development	ffrith beach in prestatyn	1
+requirement	ffata online database	1
+test	ffn	1
+class	ffxiv conjurer	1
+study	ffs study	1
+unit	ffl group	1
+innovation	ffn's dependency court resource facilitation program	1
+instance	ffl	1
+feature	ffc	1
+feature	ffts	1
+classic	ff  seven !? 	1
+advanced feature	fft function	1
+club	ffa	12
+sector	ffn	1
+critic	ffii	1
+award	ffa's fifi awards	1
+magazine	ffh	1
+woman	ffion hague	2
+experience	ffa	4
+control	ffwd	1
+package	ff ent	1
+landmark	fff southern council club of the year award	1
+functionality	fft	1
+algorithm	fft	12
+algorithm	ffdiag	1
+friend	ffion the farmer	1
+tourist attraction	ffestiniog highland railway	1
+measurement	fft-based spectral measurement	1
+issue	ffs	1
+operator	ffestiniog travel	1
+teacher	ffa co-sponsors	1
+interest	ffxi	1
+stock	ffiv	1
+local organization	ffa	1
+modalities	ffw	1
+NGOs	ffth pillar	1
+NGOs	ffi	1
+resort	ff resorts at myrtle beach	1
+scenario	ffa	1
+government agency	fftp committee	1
+icon	ff seven  icon 	1
+content	ff seven  history 	1
+community organization	ffa	2
+index	ffi	1
+maker	ffamous swiss maker	1
+commodity	ffv	2
+marker	ffn	1
+methodology	ffda	1
+filter	ffdshow filter at sourceforge.net	1
+filter	ffdshow's implementation	1
+third party	ffl	1
+code	ffff	1
+face	ff din	1
+face	ff dax	1
+face	ff meta	1
+community group	ffa	1
+number	ffiffiffi  three  p 	1
+extracurricular activity	ffa	5
+fundamental	ffo	1
+surgical procedure	ffs	1
+item	ffp	2
+item	ff class marketing	1
+item	fft analyzer	1
+item	ff item	1
+interest group	ffa	1
+financial institution	ffpi	1
+library	fftw	2
+local group	ffa	1
+community activity	ffa alumnus	1
+physical characteristic	ffm	1
+sample	ffpe tissue	1
+electronics	ff seven  stuff 	1
+medium outlet	ffwd	1
+surgery	ffs	2
+school activity	ffa	2
+release	ff fourteen 	1
+release	ff thirteen 	1
+ship	ffg- seven  class ship 	1
+nonprofit organization	ffa chapters	1
+traditional technique	ffd	1
+community resource	ffa	1
+item	ff&e approval	1
+key component	ffs two 	1
+student organization	ffa	6
+extra-curricular activity	ffa	1
+industry group	ffva	1
+editor	ff bruce	1
+mod	ff two 	1
+mod	ffim	1
+federal agency	ffc	1
+calculation	fft s	1
+alteration	ffa-induced increase in glucose- six -phosphatase activity 	1
+browser	ff three 	1
+advanced function	fft	1
+curricular activity	ffa	1
+definition	fflags	1
+font	ff meta	1
+folder	ff power	1
+folder	ff rubber	1
+folder	ff glider	1
+corporate client	ffc	2
+software product	ffmpeg	1
+analysis technique	fft spectral analysis	2
+analysis technique	fff	1
+endeavor	ffa	2
+student group	ffa	2
+sanction	ffw	1
+analytical method	fft	1
+subcategory	ff milk	1
+analysis tool	fft	1
+minority group	ffhq the ctf	1
+free tool	ffmpeg	1
+standard technique	fft	1
+popular title	ffvii	1
+local activity	ffa week	1
+local activity	ffa	1
+powerful tool	fft analysers	1
+game mode	ffa	4
+interactive tool	fft analysis	2
+night	fffw dance parade	1
+night	ff dance parade	1
+area	ff chocolate-based flavored powder drink	1
+large scale project	ffi's land purchase program	1
+school program	ffa	3
+transformation	fft	2
+codecs	ffdshow	3
+codecs	ffdshow installed at the same time	1
+art organization	ffotogallery	1
+local partner	ffa group	1
+biochemical parameter	ffa	1
+complex operation	fft based convolves	1
+youth program	ffa	4
+area	ff bottled water	1
+automated system	ffs	1
+file system	ffs	3
+youth organization	ffa	3
+youth organization	ffa chapter	1
+complex function	fft	1
+minor component	ffa	1
+questionnaire	ffq	1
+youth group	ffa	6
+simulation	ffx	1
+youth activity	ffa programs	1
+mini game	fff	1
+directive	ffh	1
+jockey	ffrench	1
+quality component	ffu's	1
+equipment item	ff transmitter	1
+equipment item	ff indicator	1
+emulator	ffps from playstation  one 	1
+member country	ffa member country	1
+service	ffl transfer	1
+service	ff&e maintenance	1
+academic activity	ffa activity	1
+campaigner	ffii	1
+great title	ffviii	1
+RPGs	ffiv	1
+RPGs	ffvii	1
+cooperative	fforne hardwood co-operative in north east victoria	1
+reactor	fftf reactor	1
+bestseller	ff din	1
+big hitter	ffxiii	1
+pack	ffdshow	1
+competitive event	ff battle	1
+measurement system	fft	1
+uniform	ffa	1
+configuration parameter	fft length	1
+stud farm	ffynnon cadno stud located in carmarthenshire	1
+vocational program	ffa	1
+topic	ffa	2
+trade union	fftuz	1
+mathematical function	fft	1
+school organization	ffa	1
+real application	fft	1
+volatile component	ffa	1
+kernel	fft	1
+railway	ffestiniogorthe north yorkshire moors railway	1
+travel agent	ffestiniog travel	1
+equipment vendor	ffe	1
+computer tool	fft analysis	1
+financial -metric	ffo	1
+mathematical operation	fft	1
+blood component	ffp	2
+RPG game	ff thirteen 	1
+RPG game	ffvii	1
+codec	ffdshow	2
+design solution	fft based transmission	1
+MMOs	ffxi	3
+MMOs	ffxiv	2
+MMOs	ffix	1
+traditional organization	ffa	1
+school group	ffa &  four h 	1
+school group	ffa chapter	1
+employment program	ffw	1
+blood product	ffp	3
+interior design service	ff&e specification	1
+performance car	ffr cobra	1
+advertising option	ffa page	2
+window function	fft window function	1
+decoder	ffdshow	1
+emergency equipment	ffa equipment	1
+open-source project	ffmpeg	1
+processing function	fft	1
+sensor technology	ffr	1
+conductive element	ffp wire	1
+established favorite	ffobinson crusoe	1
+amazing game	ff seven 	1
+good character	ff	1
+household	ff seven 	1
+federal loan	ffelp	2
+federal loan	ffel loan	1
+targeted intervention	ffw	2
+company	ffc fencing co.	1
+weapon type	ffar rocket	1
+calculation method	fft method	1
+world-class attraction	ffestiniog railway	1
+farm organization	ffa	1
+filesystems	ffs	1
+lot more information	ff status	1
+AAA title	ffxiii	1
+youth event	ffa	1
+synthesis technique	fft	1
+company	ffiv	1
+company	ffva mutual insurance	1
+packaging machine	ffs machine	1
+processings	fft	2
+well-established technique	fft	1
+global method	fft	1
+medium project	ffmpeg	1
+government loan	ffelp	1
+issues	ff problem	1
+server function	fft	1
+business characteristic	ffl business characteristic	1
+national authority	ffv	1
+vehicle technology	ffvs for alcohol fuel	1
+activity	ffa	18
+activity	ffa week event	1
+activity	ffa hog roast	1
+career development event	ffa creed	1
+behavioural response	fff	1
+chemically inert material	ffkm	1
+functional block	fft	1
+professional conference	ffla conference	1
+activity	ffw	1
+activity	ffos meeting	1
+plasma component	ffp	1
+adaptive method	fft	1
+recovery activity	fft	2
+recovery activity	ffw	1
+DSP application	fft	2
+feature selection method	ffs	1
+memory element	ff three 	1
+memory element	ff two 	1
+memory element	ff one 	1
+DSP algorithm	fft	1
+DSP algorithm	fft for the next generation  four g wireless protocol 	1
+numerical scheme	fft	1
+correct tool	ffmpeg for video	1
+required activity	ffa meeting	1
+diagnostic option	fft frequency analysis available	1
+diagnostic option	fft frequency analysis of vibrations available	1
+lossless codecs	ffv one 	1
+3rd party app	ffmpegx for converting mpeg- two  file 	1
+digital technique	fft	1
+group organization	ffa	1
+3rd party library	fftw	1
+information	ffdshow version	1
+plasma product	ffp	1
+signal processing algorithm	fft	1
+signal processing algorithm	fft buterfly	1
+key building block	fft	1
+upcoming game	ffxiii	1
+codec pack	ffdshow	4
+codec pack	ffd show	1
+computationally intensive method	ffp method	2
+conservation partner	ffi	1
+IP core	fft	2
+local citizen	ffa student	1
+mathematical algorithm	fft with complex number	1
+receiver function	fft channel estimation	1
+information	ffi nmr	1
+frequency domain technique	fft peak picking for pitch detection	1
+legendary title	ffvi	1
+popular christian artist	ffh	1
+simple commodity	ff&e product	1
+youth club	ffa	1
+body composition parameter	ffm	1
+colloid solution	ffp	1
+informal provider	ffn care	1
+language extension	ffi	1
+event	fff	2
+event	ffa	2
+event	ffa banquet	1
+amazing filter	fft filter	1
+biopharma service	ffpe tool	1
+local youth organization	ffa	2
+lossless codec	ffv one 	1
+on-line activity	ffa award application	1
+conventional marketing technique	ffa site	1
+event	ffa public speaking contest	1
+PSX game	ff seven 	1
+PSX game	ff eight 	1
+school related function	ffa	1
+big blockbuster	ff thirteen 	1
+chemically resistant material	ffpm	1
+classic garment	ff stockings	1
+non-traditional export crop	ffv	2
+alteratives	ffl	1
+conventional file system	ffs	1
+event	ffth's inaugural joint flag day	1
+event	ffa tournament	1
+program	ffa	4
+free technique	ffa site	1
+gay club	ff @ turnmills	1
+high school organization	ffa	1
+ptcs	ffy	1
+spectral measurement	fft-based spectral measurement	1
+standard image processing function	fft's	1
+structured instrument	ffq	1
+christian music artist	ffh	1
+digital signal processing	fft	1
+flexible cable	ffc	1
+game mod	ff thirteen 	1
+program	ffe	1
+simple arithmetic operation	ffine transformation	1
+SRPGs	ff tactics	1
+casein application	fft	1
+community-based system	ffs	1
+constitutional structure	ffc	1
+diving organization	ffessm	1
+mitigation program	ffw	1
+motion picture company	ffe	2
+program	ffel stafford loan program	1
+standard asset pricing model	ff model	2
+strong artist	ffh dominating the album	1
+awesome-in-my-book game	ff five 	1
+heritage railway	ffestiniog railway company at portmadoc	1
+owners expense	ff&e cost	2
+processed datum	fft analysis	2
+simple modifier	ffd	1
+standard digital signal processing technique	fft convolution	1
+structured questionnaire	ffq	1
+student loan program	ffelp	1
+successful outreach program	ffp symposium	1
+trivial operation	fft	1
+type design	ff meta	1
+vocational student organization	ffa	1
+agricultural related activity	ffa	1
+blog entry	ffi	1
+controversial site	ffos-y-fran	1
+factor	fft parameter	1
+domestic model	ff model in equation	1
+economic stimulus measure	ff rate cut by frb in the united states	1
+family preservation service	ffm	1
+GBA game	ffta	1
+leading transportation company	ffe transportation services	1
+loving record label	ffrr	1
+organization	ffa	15
+simple potential predictive factor	ffm	1
+snes rpgs	ff four 	1
+snes rpgs	ff six 	1
+snes rpgs	ffvi	1
+starter company	ffe	1
+successful british film	ffolkes	1
+agricultural-related group	ffa chapter	1
+blood component product	ffp	1
+brazilian university	fffcmpa	1
+community project group	ffa	1
+completely new non-government organization	ffrdc	1
+digital processing technique	fft	1
+efficient computational technique	fft convolution	1
+organization	ffermwyr ifanc ceredigion	1
+food relief program	ffw	1
+frequency analysis	fft	2
+frequency analysis method	fft	1
+frequency analysis technique	fft	1
+game virtual currency	ffxii gil	1
+liquid crystal mode	ffs mode	1
+navy platform	ffg	1
+origin analysis tool	fft	2
+organization	ffva	1
+organization	fff	1
+organization	ffa staging demo's	1
+organization	ffrf	1
+organization	ffta	1
+technique	fft	3
+requisite function	fft	1
+state-of-the-art instrument	fft spectrum analyzer	1
+student leadership activity	ffa	4
+analysis routine	fft	1
+big atheist organization	ffrf	1
+cash-flow measure	ffo	2
+Civil society NGOs	fftf	1
+classical signal processing method	fft	1
+common memes	ffffuuuuuuu memes	1
+complementary imaging modalities	ffr	1
+conventional signal processing method	fft	1
+D. list youth organization	ffa	1
+diff erent biodegradable polymer	ff ff polylactic acid	1
+filtering algorithm	fft	1
+food assistance activity	ffw	1
+food assistance activity	ffa	1
+food assistance activity	fft	1
+free codec pack	ffdshow	1
+technique	fff	1
+technique	ffd	1
+technique	ffs	1
+good PSP game	ff crisis core	1
+historic and scenic attraction	ffestiniog railway	1
+international conservation agency	ffi	1
+introduction conventional file system	ffs	1
+M4S address regulation	ffiec	1
+modern day loudspeaker measurement tool	fft	1
+application	fft	6
+novel IP core	fft	2
+numerical calculation method	fft	1
+persevered line	ffestiniog	1
+popular heuristic	ffd	1
+power spectral density parameter	fft length	1
+real-time digital signal processing algorithm	ffts	1
+role organization	ffa	1
+rotation-based DSP application	fft	1
+satisfactory factor	ffordable airline	1
+symbolic state name	ff two x 	1
+application	ffdshow upscale	1
+application	ffmpg	1
+application	fft acquisition	1
+application	fft filter	1
+transactional report	ffs deduction report	1
+typical VCR function	ffw	1
+viable dps tree	ffb	1
+video conversion software	ffmpeg	2
+youth oriented program	ffa	1
+adult function	ffa alumni meeting	1
+ag youth organization	ffa	1
+agricultural educational service organization	ffa	1
+agriculture related program	ffa	1
+allogeneic blood product	ffp	1
+anti-abortion-biased source	ffl	1
+assurance certificate	ffc	1
+battlefield style game	ff tactics	1
+canned routine	fft	1
+co-curricular CTE student organization	ffa	1
+Common signal processing	fft	1
+communication-intensive application	fft	1
+comprehensive industry-standard IP block	fft	1
+data-based scheme	fft	1
+department's management initiative	ffrdc management plan	1
+divide-and-conquer algorithm	fft	1
+edition system	ffvii ps three 	1
+encoding software	ffmpeg	1
+english website	ffxiah	1
+name	ffh	1
+federal government undergraduate personal product	ffelp	1
+federal student financial aid	ffelp	1
+FFR activity	ffw	1
+FFR activity	fft	1
+FFT library	fftw	3
+final fantasy medium	ffvii movie	1
+first, modern supply chain	ffv export supply chain	1
+fixed field accelerator	ffag accelerator	1
+fixedfield machine	ffag	1
+food assistance project	ffw	1
+form factor connector	ffc	1
+formal school occasion	ffa chapter banquet of the prom	1
+free FFXIV bots hack	ff fourteen  pvp hack 	1
+free flow method	ffe	1
+free mobile wallpaper	ffinal fantasy	1
+frequencydomain information	fftin~ object	1
+frequency-domain information	fftin~ object	2
+gba remake	ffiv	1
+gba remake	ffvi	1
+greatest RPGs	ffvi	1
+institutional growth leader	ffiv	1
+introduction manyscientic kernel	fft	1
+factor	ffm	1
+name	ffrench	1
+case	fft	2
+macro name	fflags	2
+mm focused flow fan	ffb's in  one hundred and twenty  mm size 	1
+multi-carrier modulation method	fft	1
+multiply-and-accumulate operation	fft operation	1
+nonathletic group	ffa	1
+non-standard operation	fft's	1
+non-uil activity	ffa	1
+official uniform	ffa	3
+on-chip computation unit	fft block	1
+pco-based purifier	ffxiv gil exclusive	1
+PCP reimbursement method	ffs	1
+peace federation	ffwp yfwp	1
+Perfluoroelastomers	ffkm	1
+PHY parameter	fft size	2
+case	ffp prodem	1
+pretty MMOs	ffxiv	1
+public-safety statute	ffdca	1
+quality AVC decoder	ffdshow	1
+reason FOSS implementation	ffmpeg	6
+regional technical organization	ffa	1
+ripe algorithm	fft	1
+scientific foundation	ffrf	1
+second, traditional topic	ffa	1
+signal analysis method	fft	1
+simple electrical equalizer	ffe	1
+single duel	ff nine  bahamut 	1
+small deck platform	ffg	1
+standard numerical tool	fft	1
+structured laboratory exercise	fft with emphasis on system design	1
+student-career organization	ffa agriculture group	1
+support filter	ffdshow directshow	1
+option	ffmpeg	1
+traditional diagnosis method	fft spectrum	1
+traditional linear analysis technique	fft	1
+traditional online game mode	ffa	1
+traditional packet filter	ffpf isaframework for network monitoring.within the framework of ffpf	1
+transforming method	fft	2
+type phase	ff harlem	1
+type phase	ff gothic	1
+us-based regulation	ffiec in financial service	1
+vanilla multiplayer game mode	ffa team dm	1
+vocational student organization activity	ffa	1
+welsh speaking band	ffa coffi pawb	1
+youth livestock program	ffa	1
+64-bit operation	fft	1
+ag club	ffa	1
+agriculture related activity	ffa	1
+amazing special effect tool	ffd boxes	2
+animal related activity	ffa	1
+anti-povertyprograms	ffe	1
+anything game	ffxi	1
+Atheist activist orgs	ffrf	1
+autotuned library	fftw	1
+option	ffs	1
+calculation intensive program	fft	1
+chocobo version	ff-xii's chocobos	1
+classless game	ffxiv	1
+CMS variable	ffs physician datum	1
+COL applicant's operational program	ffd	1
+Combination testing	ffn	1
+command-line based tool	ffmpeg	1
+common and useful routine	fft	1
+communication intensive algorithm	fft	1
+commutable material	ffs pool used for specimen c- two 	1
+completely bogus information	ffix pioneering instancing	1
+condition monitoring functionality	fft calculation	1
+Conventional frequency analysis	fft	1
+conventional waveform analysis	fft	1
+CORDIC-based signal processing	fft	1
+costly new phenomenon	ff ferrari	1
+CPU FFT library	fftw	1
+crys-talloidswith colloid solution	ffp	1
+cyano-compounds	ffc	1
+discrete fourier transform algorithm	fft	1
+donor product	ffp	3
+dynamic pointer	fff in the final movement	1
+group	ffa	4
+group	ffrf	2
+group	ffii.org in europe	1
+group	ffh	1
+education loan application	ffelp application	1
+engaging club	ffa	1
+European rail-appointed travel agent	ffestiniog travel	1
+evaluation algorithm	fft algorithm	1
+federal monetary assistance	ffelp	1
+ffmpeg-based directshow decoder	ffdshow-tryouts	2
+FFVII spinoff	ffvii dirge of cerberus	1
+Fieldframes	ff matrix	1
+Firefly site	fff	1
+flexible wiring material	ffc	1
+food-aid program	ffw	1
+formal early learning model	ffn caregiver program	1
+formal escort	ffe	1
+FOSS implementation	ffmpeg	1
+Fourier analysis	fft	1
+fourier technique	fft	2
+FR material	fflame-retardant treated cotton	1
+free or open-source product	ffmpeg	1
+frozen blood product	ffp	1
+full tactic game	fft	1
+game new	ffxiv battle details update	1
+gef-funded regional project	ffa's pacific islands oceanic fisheries management project	1
+global communication operation dominant algorithm	fft	1
+gut content	ffa products of lipid digestion	1
+high-communication application	fft	1
+hour long movie	ff advent children	1
+IDL core routine	fft	1
+group	ffa club	1
+JK-FF	ff  two hundred and ninety-five 	1
+large-scale employment program	ffw	1
+Lens metrologies	ffl	1
+loan guaranty program	ffel program	1
+lossy transform-based compression technique	fft	1
+mathematical processing function	fft filter	1
+mathematical weapon	ffg	1
+mpeg-4 directshow decodecs	ffdshow	1
+mplesinclude signal processing operation	fft	1
+multi disk game	ff seven 	1
+multimedia transport model	ffc model	1
+method	fft	6
+order touse fast algorithm	fft	2
+original game mode	ffa	1
+parallel transformation kernel	fft	1
+pip's collaborative fund	fff	1
+plasma rich blood component	ffp	1
+populardsp application	fft	1
+precision guidance product	ffr	1
+pre-processing scheme	fft	1
+prima guide	ffvii	1
+problem codecs	ffdshow	1
+prostate cancer tissue sample	ffpe sample	2
+ready-built library	fftw	1
+regular file system	ffs	1
+roadless development scenario	ffd alternative d	1
+rural community program	ffa	1
+safe version	ff sis	1
+SE game	ffiv	1
+method	ffs with the least explicit bias	1
+method	fft technique	1
+method	ffr	1
+method	ffag	1
+method	ff three f method 	1
+signal transformation	fft	1
+spectral domain technique	fft	1
+spectral-estimation method	fft	1
+spectrum analysis algorithm	fft	1
+square enix project	ffxiii	1
+standard multi-console hit	ff thirteen 	1
+standard ora handbook	ffiecbcp handbook	1
+successful console MMOs	ffxi	1
+suitably licensed encoder	ff-aac encoder	1
+task directly meaningful name	ffd	1
+Temporal filter	fft denoted by fig	2
+toroidal routine	fft	1
+traditional fourier-based method	fft	1
+traditional spectral analysis method	fft-based welch's method	1
+transient poverty intervention	ffw program	1
+transverse electric field mode	ffs mode	1
+UNICEF project	ffpp	1
+united state loan	ffelp	1
+update-in-place file system	ffs	1
+tool	ffmpeg for the conversion	2
+tool	fft	2
+volatile break-down product	ffas	1
+well balanced soil	ff organic	1
+whetherrviiaor plasma product	ffp	1
+tool	fft diag plug-in , tool	1
+tool	fft diag plug-in, tool	1
+product	ffp	3
+project	ffa	1
+artist	ffiona lewis	1
+artist	ffh	1
+place	ffynnon in dolgellau	1
+place	ffestiniog	1
+product	ffp two  mask related product 	1
+product	ffg	1
+product	ffx forming unit	1
+technology	fft telescope	1
+term	ffa	2
+term	ff bus system	1
+term	ff segment	1
+parameter	ffasand tocopherols content on the crude oil	1
+parameter	ffa concentration	1
+parameter	fft length	1
+system	ffs with softupdates	3
+system	ffs with softupdatesand wafl	2
+system	ffs of the early  one thousand nine hundred and sixty s 	1
+system	fft	1
+system	ffm	1
+product	ffs film for packaging petrochemical product	1
+function	fft	4
+function	fft express vi	2
+function	fft window function	1
+brand	ffwd	1
+concept	ffh  two  armeggedon 	1
+component	ffa	1
+component	ffp	1
+component	fft based audio plug-in	1
+site	ffrith bryn helen in clwyd the remains of round stone hut	1
+task	fft calculation	1
+related product	ffp two  mask related product 	1

@@ -1,0 +1,1044 @@
+resource	b. natural resource	1
+facility	b. private recreational facility	1
+facility	b. flow attenuation facility	1
+source	b. various official source	1
+property	b.e.t. surface area	2
+benefit	b. evaluation of drug interactions on cellular level	1
+game	b.net game	1
+subject	b.com	1
+exception	b. bassiana strains from sitona weevil	1
+character	b.j.	1
+character	b.t.	1
+character	b.t	1
+word	b.s.	1
+skill	b. speech skill	1
+client	b.t.	1
+client	b. braun	1
+client	b.tech	1
+author	b. raman	1
+author	b. isaac	1
+author	b. h. roberts	1
+author	b. r. nagle	1
+author	b. roy	1
+form	b. today diverse form	1
+form	b. rhombus	1
+person	b. f. skinner	1
+idea	b.a.e.s.	1
+matter	b. organic matter	1
+agency	b. c. transmission corporation	1
+agency	b. c. hydro	1
+course	b.sc	15
+course	b.com	9
+course	b.c.a.	4
+course	b.tech	3
+course	b.arch	2
+course	b.a.	2
+course	b.m.s.	2
+course	b.e mca	2
+course	b.sc.computer science	1
+course	b.sc.	1
+course	b.ed	1
+course	b.com in computer	1
+course	b.a microbiology	1
+course	b. arch	1
+course	b.c.a	1
+course	b.com computer	1
+course	b.com.	1
+course	b.pharm	1
+course	b.sc information technology	1
+course	b.b.a.	1
+course	b.com with accounting	1
+course	b.e	1
+location	b.p.	1
+writer	b. a. santamaria	3
+writer	b. fundoianu	1
+book	b.k.s iyengar's light on life	1
+star	b.o.b	1
+business	b. miller recycling in franklin	1
+business	b. many american business	1
+field	b. c. canyon in howard county	1
+band	b.o.b	2
+band	b. british band	1
+band	b.o.b.	1
+part	b. place hot part	1
+practice	b. end abusive practice	1
+practice	b. innovative teaching practice	1
+title	b.a.	1
+plant	b. caapi	3
+agent	b. anthracis	2
+agent	b. wetting agent	1
+scholar	b. ruby rich	2
+scholar	b. rowland	1
+feature	b. relatively small feature	1
+feature	b. selected feature	1
+scholar	b. w. robinson	1
+scholar	b. davidson	1
+scholar	b. bhattacharya	1
+scholar	b. bhattacharyya	1
+scholar	b. b. warfield	1
+scholar	b. f. skinner	1
+city	b.c.	8
+city	b. c.	1
+celebrity	b. b. king	9
+celebrity	b.b king	2
+disease	b. a deadly infectious disease	1
+venue	b.b king's club in memphis	1
+venue	b.o.b.	1
+firm	b.c.-based imw industries ltd.	1
+industry	b.c. cattleman	1
+dish	b.b.q. duck breast	1
+test	b. indirect test	1
+favorite	b.b. king	1
+favorite	b. queens	1
+manufacturer	b. braun	1
+manufacturer	b.c.-based william switzer	1
+act	b.o.b	2
+act	b.o.b.	1
+act	b.t express	1
+man	b. h. liddell-hart	1
+study	b. wolfe with nicaraguan datum	1
+individual	b. obama	1
+individual	b. f. skinner	1
+figure	b. al figure	1
+figure	b. griffiths	1
+figure	b. akunin	1
+equipment	b. medical equipment	1
+leader	b. h. roberts	1
+leader	b. b. warfield	1
+musician	b. b. king	6
+musician	b.b king	1
+expense	b. ordinary living expense	1
+song	b. b. king's all over again''	1
+song	b.y.o.b	1
+expert	b. rudman	1
+feature	b.s. cop-only ``feature''	1
+researcher	b. f. skinner	1
+medication	b. controlled substance medication	1
+variety	b. australis	2
+Organisations	b.b.c. in the u.k	1
+club	b.a.s.i.c.	1
+influence	b. b. king	1
+store	b. dalton	1
+store	b. siegel company	1
+store	b. dalton bookseller	1
+critic	b. friedman	1
+market	b.c	1
+vehicle	b. compact sport utility vehicle	1
+vehicle	b. t. series	1
+effort	b. riordan	1
+label	b. blass neckwear	1
+behavior	b. display behavior	1
+award	b.f.i.a.	1
+restaurant	b. smith's	1
+restaurant	b. r. guest restaurant	1
+restaurant	b. b. kings's blues club	1
+student	b. senthilvelavan of the school	1
+student	b.s.n.	1
+student	b.p.	1
+provider	b.p.o service provider	1
+top quality inn	b. l. nutt inn	1
+performer	b. b. king	5
+issue	b. critical rural issue	1
+legend	b.b king	1
+legend	b.b.king	1
+legend	b. b. king	1
+corporation	b.p.	1
+control	b. special control	1
+great	b. b. king	1
+language	b. verb-framed language	1
+producer	b. hydroelectric power producer	1
+producer	b. darius	1
+luminary	b. h. roberts	1
+surface	b. solid surface	1
+issue	b.o.	1
+service provider	b.p.o service provider	1
+composer	b. great composer	1
+composer	b. smetana	1
+scientist	b. simon	1
+scientist	b. mckay	1
+card	b. skull dragin	1
+restriction	b. additional restriction	1
+organism	b. anthracis	3
+organism	b. abortus	1
+organism	b. bassiana	1
+organism	b.cereus	1
+organism	b. gladiolus	1
+organism	b. pestis	1
+organism	b.subtilis	1
+association	b.a.r	1
+problem	b. speech problem	1
+chain	b. dalton	2
+chain	b. dalton bookseller	1
+station	b.j. s wholesale club in hampton	1
+personality	b. labin	1
+authority	b. lightfoot	1
+authority	b. roman for west africa	1
+theorist	b. f. skinner	2
+theorist	b. h. liddell hart	1
+large company	b.p.	1
+target	b.c.e.	1
+college	b.ed	2
+college	b.r.b college	2
+college	b.e in the desired field	1
+talent	b. jennings	1
+illness	b. serious infectious illness	1
+politician	b.j lawson	1
+veteran	b. bonds	1
+gene	b. fragilis tn four thousand four hundred  tetx 	2
+popular brand	b.b simon	1
+rival	b. p. schulberg	1
+index	b. j. pinchbecks homework helper	1
+specialist	b. selene	1
+specialist	b.v.sc.	1
+professional organization	b.c.teachers federation	1
+fabric	b. fledouble thread	1
+profession	b.a	1
+profession	b.sc	1
+newspaper	b.c. s christian info news	1
+enzyme	b. asper metalloproteinase bap one 	1
+physical property	b.e.t. specific surface area	1
+physical property	b.d	1
+population	b. plicatilis in soda lake	1
+disaster	b. natural disaster	1
+extracurricular activity	b.a.s.i.c.	1
+qualification	b.sc	4
+qualification	b.ed	4
+qualification	b.sc.	2
+qualification	b. lib . science	1
+qualification	b.com	1
+qualification	b.ed.	1
+qualification	b. a professional security qualification	1
+lake	b.c. sockeye nursery lake	1
+documentation	b. full documentation	1
+airline	b.a	1
+entertainer	b. b. king	1
+item	b.c hydroponic nutrients	2
+kind	b.s.	1
+weed	b. invasive weed	1
+publisher	b. jain	1
+pathogen	b. anthracis	3
+pathogen	b. cinerea on tobacco	2
+pathogen	b. gladiolus	2
+pathogen	b. cereus	1
+pathogen	b. cinerea	1
+pathogen	b. pseudomallei	1
+pathogen	b. pertussis	1
+jurisdiction	b.c	4
+jurisdiction	b.c.	4
+plant species	b. lycium	1
+library	b. other special library	1
+meeting	b. parental meeting	1
+diagnosis	b. nonspecific diagnosis	1
+physical characteristic	b.d.	1
+famous artist	b.o.b	1
+famous brand	b.s.a.	2
+native species	b. maritimus	1
+item	b. cloth protective item	1
+item	b. reusable labware item	1
+item	b. specialized item	1
+item	b. sterile item	1
+province	b.c.	35
+province	b.c	29
+contributor	b. ruby rich	1
+instruction	b. no special instruction	1
+artiste	b.b.king	1
+natural resource	b.c. s wide scope of wood into engineered wood products used in large-scale development	1
+natural resource	b. natural resource	1
+natural disaster	b. natural disaster	1
+recreational facility	b. private recreational facility	1
+educational institution	b.ed	1
+educational institution	b. ed . colleges	1
+testing	b. hensellae antibody test	1
+major	b.p.	1
+national act	b. b. king	1
+religion	b. different religion	1
+traditional favorite	b.b.q shrimp	1
+convention	b. language convention	1
+microorganism	b. pumilus	2
+microorganism	b. tuberculosis	1
+ensemble	b.s.u. symphonic wind	1
+well-known company	b. braun melsungen ag	1
+Invasive species	b. globosa	1
+degree	b.a	4
+degree	b.com	2
+degree	b.a.	2
+degree	b.sc	2
+degree	b.s. in chemical engineering	1
+degree	b.sc.	1
+degree	b.a. in economics	1
+degree	b.tech	1
+degree	b.b.a.	1
+degree	b.a. in sociology	1
+infectious disease	b. a deadly infectious disease	1
+fungus	b. cinerea	3
+fungus	b. bassiana	1
+fungus	b.c. exotic fungus	1
+patient	b. n.	1
+water	b. uncontaminated ground water	1
+entrepreneur	b. rathina naicker	1
+bacterium	b. anthracis	2
+bacterium	b. suis	2
+bacterium	b. longum ferment sugars into lactic acid	1
+bacterium	b.thuringiensis	1
+advocate	b.c.-based shirley pratten	1
+private organization	b.k.birla group	1
+theologian	b. b. warfield	1
+browser	b. a web browser	1
+item	b.b.q. grill	1
+department store	b. altman	1
+rapper	b.i.g.	2
+rapper	b.o.b.	1
+optional extra	b. security grille	1
+environmental group	b.c.-based dogwood initiative	1
+recording artist	b.o.b.	1
+popular artist	b.o.b	1
+liberal	b. michael	1
+liberal	b. f. westcott	1
+sandwich	b.l.t.	1
+paper product	b. the paper product	1
+area	b.c	2
+notable artist	b.o.b.	1
+psychologist	b. s. skinner	2
+great musician	b.o.b.	1
+reference material	b. applicable medication-related reference material	1
+guitarist	b.b king	1
+guitarist	b. b. king	1
+legendary artist	b. b. king	1
+legendary artist	b.b king	1
+national chain	b. dalton	1
+credential	b.a in english literature	1
+abbreviation	b.a.	14
+abbreviation	b.s.	1
+vaccine	b. abortus s nineteen 	1
+industry player	b. spoke tailors	1
+local amenity	b.r.i hospital	1
+strain	b. longum	1
+strain	b. thuringiensis subsp	1
+strain	b.abortus strain  nineteen ba 	1
+popular name	b. b. king	1
+antibody	b. anti-egfr antibody	1
+investigator	b. o'malley	1
+peptides	b. many peptides	1
+fashion designer	b. michael	1
+literature	b. indian religious literature	1
+certificate	b. v.	1
+prominent artist	b. b. king in alice	1
+area	b. ensure low usage area	1
+academic program	b.com	1
+academic program	b.sc	1
+exposure	b. potential exposure	1
+infectious agent	b. anthracis	1
+enclosure	b. appropriate enclosure	1
+degree program	b.tech	1
+degree program	b.s. in management with a production	1
+degree program	b.sc	1
+degree program	b.sc.	1
+organic matter	b. organic matter	1
+attendee	b.  one thousand nine hundred and thirty-seven 	1
+notable name	b. b. king	1
+bone	b. sesamoid bone	1
+datasets	b. voucher study large-scale datasets	1
+tropical plant	b. caapi	1
+letter	b.s.	1
+raw food	b.a.r.f diet	1
+internet resource	b.b.c history	1
+local name	b.b.	1
+talented artist	b. clay moore	1
+antihistamine	b. the new antihistamine	1
+deck	b.o.t.a. tarot	1
+social scientist	b. f. skinner	1
+Large species	b. marmorata	1
+medical equipment	b. medical equipment	1
+web browser	b. a web browser	1
+advertisement	b. altman & co.	1
+Shrub species	b. salicifolia	1
+amphibian	b. boreas	2
+great actor	b. davis	1
+great actor	b. stanwyck	1
+tape	b. use sticky tape	1
+boy	b. shaw	1
+large venue	b.a.s.s elite series event	1
+blue artist	b. b. king	10
+blue artist	b.b king	2
+follower	b. nonnotte	1
+descriptive name	b.w. for a black	1
+Micro-organisms	b. anthracis	1
+young artist	b.o.b	1
+virulence factor	b. pertussis virulence factor	1
+retail giant	b. altman	1
+dry ingredient	b. soda	1
+young man	b.k.s iyengar	1
+professional qualification	b.tech	1
+professional qualification	b.sc	1
+notice	b. reviewed general notice	1
+musical legend	b. b. king	1
+canadian company	b.c.	1
+solid surface	b. solid surface	1
+huge name	b. b. king	1
+legendary musician	b. b. king	1
+bacterial pathogen	b. cereus	3
+bacterial pathogen	b. pertussis	1
+invasive weed	b. invasive weed	1
+reactant	b.sub. two  h.sub. six   fourty-six 	1
+small feature	b. relatively small feature	1
+local publication	b.c business	1
+big store	b. altman	1
+emollient	b. kamins revitalizing booster concentrate	1
+specialty pizza	b.l.t.	1
+modern scholar	b. alan wallace	2
+bookstore	b. dalton	1
+guitar player	b. b. king	1
+living expense	b. ordinary living expense	1
+professional course	b.c.a.	1
+professional course	b.b.a.	1
+professional course	b.arch.	1
+professional course	b.sc.-microbial & food technology	1
+professional course	b.tech.	1
+expensive product	b. kamins booster blue rosacea treatment	1
+mutant	b. twenty 	2
+mutant	b. eighteen 	2
+mutant	b. twenty-nine 	2
+cleaning tool	b. cleaning tool	1
+social networking tool	b. social networking tool	1
+licensee	b. smith	1
+Probiotics	b. longum	4
+hill	b.c. ski hill	1
+duck	b. clangula	1
+undergraduate course	b.a.	1
+undergraduate course	b.ed tesl	1
+undergraduate course	b.tech courses in aeronautical engineering	1
+feminist scholar	b. lang	1
+official source	b. various official source	1
+calendar	b. various calendar	1
+consumable material	b. consumable material	1
+biological control agent	b. cereus	2
+fund-raising activity	b. school fund-raising activity	1
+legal form	b.v	1
+humanitarian organization	b. humanitarian organization	1
+reputed organization	b.g.shirke ltd.	1
+vaccination	b.c.g. vaccine	1
+famous man	b. w. newton	1
+modulator	b. a spatial light modulator	1
+serial killer	b. long	1
+closely related species	b. decorum	1
+great composer	b. great composer	1
+fashion	b. sensible fashion	1
+fraternal organization	b.p.o.e.	1
+topic	b. cereus food poisoning	1
+light activity	b. sore throat handling errand	1
+blue legend	b. b. king	2
+pathogenic organism	b. anthracis	1
+civilian	b.ed	1
+nationalist	b. g. tilak	1
+Deciduous species	b. vulgaris	2
+local measure	b.c. local measure	1
+black artist	b. b. king	2
+authoring tool	b. multimedia authoring tool	1
+big artist	b.o.b.	1
+blue great	b.b.king	1
+level course	b.a	1
+level course	b.com	1
+utility vehicle	b. compact sport utility vehicle	1
+intracellular pathogen	b. abortus	1
+traditional course	b. sc.	1
+traditional course	b.a.	1
+british band	b. british band	1
+insect species	b. mori	1
+laboratory equipment	b.o.d incubator	2
+vertical element	b. cornice	1
+popular course	b.com	1
+feminist critic	b. ruby rich	1
+good song	b.y.o.b	1
+protective item	b. cloth protective item	1
+contemporary philosopher	b. williams	1
+founding member	b. sloan	1
+founding member	b. mcallister	1
+big department store	b. altman	1
+MNCs	b. braun	1
+wetting agent	b. wetting agent	1
+degree course	b.sc in radiography	3
+degree course	b.ed.	2
+degree course	b.sc	2
+degree course	b.a	1
+degree course	b.e.	1
+degree course	b.ed	1
+degree course	b.com	1
+degree course	b.a.	1
+topic	b.p. oil spill	1
+biblical scholar	b. b. warfield	1
+timber species	b.c. timber species	1
+science course	b.sc electronics	1
+guise	b. slate	1
+fabric company	b. berger	2
+fabric company	b. berger fabrics	1
+graduate course	b.sc.	2
+graduate course	b.com	2
+graduate course	b.a.	1
+big-name artist	b.o.b.	1
+reusable material	b. reusable material	1
+undergraduate program	b.sc	1
+biological contaminant	b. anthracis	1
+company	b. braun medical	3
+company	b. braun	2
+company	b.o.d.b ent	1
+company	b. f. goodrich	1
+chronicler	b. rusov in the  sixteen th century 	1
+crossing	b. migration barrier stream crossing	1
+species group	b. coccina species group	1
+sport utility vehicle	b. compact sport utility vehicle	1
+undergraduate degree	b.sc	2
+undergraduate degree	b.a	1
+black man	b.i.g.	1
+gram-positive bacterium	b. cereus	2
+creative artist	b. b. king	1
+international certificate	b.v.	1
+mangas	b.o.d.y.	1
+company	b. braun group	1
+company	b. altman	1
+grinder	b.l.t.	1
+municipal building	b.e.d offices	1
+nationalist leader	b. g. tilak	1
+specialised course	b.sc	1
+infectious illness	b. serious infectious illness	1
+anaerobe	b. fragilis	3
+anaerobic bacterium	b. fragilis	1
+common abbreviation	b. for born	1
+provincial government	b.c	1
+serotypes	b. thuringiensis subsp	1
+modern day artist	b. b. king	1
+promising young player	b. j. tyler from the philadelphia  seventy-six ers 	1
+american business	b. many american business	1
+gram-negative bacillus	b. pseudomallei	1
+company	b.b. from england	1
+company	b.a	1
+company	b.b.c.	1
+company	b.c rail	1
+company	b.p.	1
+bicycle part	b.b. axle & b.b. part	1
+biggest player	b.c.'s biggest player	1
+well-known conductor	b. haitink	1
+large utility	b. c. hydro	1
+tight end	b. pettigrew	1
+indian leader	b. g. tilak	2
+rural issue	b. critical rural issue	1
+blue singer	b. b. king	1
+Calvinists	b. b. warfield for quenching the spirit	1
+behaviorist	b. f. skinner	6
+behaviorist	b. e skinner	1
+Brassicas	b. nigra	1
+probiotic supplement	b. bifidus	1
+activity	b. school fund-raising activity	1
+gram-negative pathogen	b. pertussis	1
+psychotherapist	b. child psychotherapist	1
+psychotherapist	b. hannah	1
+abusive practice	b. end abusive practice	1
+bamboo	b. wamin	1
+Mormons	b. h. roberts	1
+neighboring business	b. rosen & sons	1
+legendary guitarist	b. b. king	1
+western province	b.c	1
+learning theorist	b. f. skinner	1
+organist	b. preston	1
+academic credential	b.s.	1
+academic credential	b.sc.	1
+academic credential	b.comm.	1
+equestrian artist	b.a. located in somerset	1
+indirect test	b. indirect test	1
+online degree program	b.s. in organizational science	1
+activity	b. drama competition	1
+academic degree	b.a	1
+bacterial organism	b. pertussis	1
+impressive name	b.o.b & wale	1
+spatial light modulator	b. a spatial light modulator	1
+seed variety	b.t. maize	1
+skin care line	b. kamin	1
+talented director	b. nord	1
+talented director	b. n. rao	1
+anies	b. f. goodrich	1
+bachelor degree	b.a.	2
+bachelor degree	b.com	1
+bachelor's degree program	b.s. in dietetics	1
+blue player	b. b. king	1
+designer purse	b. markowsky	1
+low-lying city	b.c.	1
+mustard	b. o. var capitata l.	1
+aerobic bacterium	b. cereus	1
+dermatologist	b. chrisman	1
+taco	b.l.t made with apple smoked bacon	1
+teaching practice	b. innovative teaching practice	1
+aerial device	b. aerial device	1
+regular course	b.a.	1
+regular course	b.sc	1
+Functionalists	b. malinowski	1
+light modulator	b. a spatial light modulator	1
+notable thinker	b.f skinner	1
+world-known brand	b. m. w.	2
+discovery method	b. traditional discovery method	1
+entomopathogenic fungus	b. bassiana	6
+booming city	b.c.	2
+blue performer	b.b.king	1
+ordinary living expense	b. ordinary living expense	1
+organic control	b.t	1
+organic control	b.t.	1
+adhesins	b. pertussis adhesins	1
+teaching qualification	b.ed	1
+west coast port	b.c.	1
+conventional course	b.a	1
+conventional course	b.com	1
+conventional course	b.sc in agriculture	1
+hybridizers	b. smith in washington state	1
+immunogens	b. anthracis protective antigen	2
+others writer	b. r. roberts	1
+renowned theorist	b. f. skinner	1
+behaviourists	b. f. skinner	2
+contactors	b. other contactors	1
+large province	b.c	1
+modern psychologist	b. f. skinner	2
+mucosal pathogen	b. pertussis	1
+selected feature	b. selected feature	1
+shade intolerant species	b. lenta	1
+bamboo species	b. chungii	1
+Brassica species	b. campestris	2
+Brassica species	b. nigra	2
+Brassica species	b. nigra koch	1
+divine	b. f. westcott	1
+hardware firm	b. kamak & co.	1
+language convention	b. language convention	1
+philosophical and systematic theologian	b. b. warfield	1
+Southern Baptists	b. h. carroll	1
+sticky tape	b. use sticky tape	1
+successful pathogen	b. anthracis	1
+Bacillus species	b. cereus	4
+Bacillus species	b. anthracis	1
+Bacillus species	b. larva	1
+Bacillus species	b. brevis	1
+deadly infectious disease	b. a deadly infectious disease	1
+faithful gospel preacher	b. j. clarke	1
+figurative language	b. personification	1
+music heavyweight	b.i.g.	1
+sterile item	b. sterile item	1
+usage area	b. ensure low usage area	1
+beneficial aspect	b.p control	1
+enterprise account	b.p.	1
+gifted graduate student	b. leo raktoe	1
+longtime supporter	b.c. s provincial health officer perry kendall	1
+private recreational facility	b. private recreational facility	1
+professional college	b.ed college	1
+biological insecticide	b.t.	1
+canadian jurisdiction	b.c.	3
+couses	b.com computer	1
+couses	b.sc computer science	1
+couses	b.sc nursing	1
+couses	b.sc genetics	1
+couses	b.sc microbiology	1
+couses	b.sc biotechnology	1
+good guys	b. o. plenty	1
+local rapper	b.i.g.	1
+multimedia authoring tool	b. multimedia authoring tool	1
+open-source alternative	b.a.t.m.a.n.	2
+open-source alternative	b.a.t.m.a.n	1
+parma director	b. bertolucci	1
+ski hill	b.c. ski hill	1
+academic degree program	b.s. in accounting	2
+academic degree program	b.s. in construction management	2
+academic degree program	b.s. in nursing	1
+academic degree program	b. s. in nursing	1
+baptist luminary	b. h. carroll	1
+ground water	b. uncontaminated ground water	1
+insect pathogen	b. bassiana	1
+laboratory strain	b. subtilis  one hundred and sixty-eight 	1
+opera director	b. de tomasi	1
+potential exposure	b. potential exposure	1
+self-financing course	b.sc	1
+verb-framed language	b. verb-framed language	1
+baccalaureate degree	b.s.n.	1
+chain bookstore	b. dalton	1
+program	b. tech	1
+non-photosynthetic tissue	b. napus embryo	1
+other event	b. other event	1
+sandwich variety	b.b.q pork	1
+ship reusable life saving appliance	b. a. sets	2
+abbreviated term	b.j.	1
+abbreviated term	b.s.	1
+dual degree program	b. tech in computer science	1
+high end car manufacturer	b.m.w.	1
+program	b.sc	1
+program	b.e.s.t.	1
+program	b.a.g.s. program	1
+program	b. a core program	1
+program	b. sc.	1
+religious literature	b. indian religious literature	1
+stream crossing	b. migration barrier stream crossing	1
+western academic	b. lewis	1
+active and former coach	b. j. o'hara of hobart	1
+appetizer salad	b.l.t. salad	1
+ascomycete fungus	b. cinerea	1
+assistant exercise	b. & f. squats	1
+bachelor program	b.a.	1
+behavioral theorist	b. f. skinner	1
+chicago blue artist	b. b. king	1
+EC member	b. mclaren	1
+holiness preacher	b. t. roberts	1
+impurity R	b. sub . two  o. sub . five 	1
+insect virus	b. morinuclear polyhedrosis virus	1
+community	b.c.	4
+pimp	b. poerty pimp	1
+raw food diet	b.a.r.f. diet	1
+sought-after course	b.com	2
+american theologian	b. b. warfield	2
+commercial oil	b.b.	1
+experienced director	b. n. rao	1
+historic philosopher	b. f. skinner	1
+mall chain	b. dalton	1
+Ministerial brethren	b. r. flynn	1
+nonspecific diagnosis	b. nonspecific diagnosis	1
+Occupational stressors	b.s.e	1
+Tertiary education	b. comm	1
+top class company	b.t.	1
+virulence marker	b. cepacia epidemic strain marker	2
+anti-egfr antibody	b. anti-egfr antibody	1
+bacterial antagonist	b. amyloliquefaciens bs six 	1
+banksias	b. grandis	1
+big-name global player	b. braun melsungen	1
+bitumen supplier	b.p.	1
+canadian airport	b.c.	2
+eastern trunk line	b. & o.	1
+english savant	b. bosanquet	1
+organization	b.r.m.s.a. the minor pee wee aa battalion hockey	1
+organization	b. contact add organization	1
+famous american blue artist	b.b king	1
+instrumental record	b.e.t.	1
+Naturalistic determinists	b. f. skinner	1
+non force chiropractic technique	b.e.s.t.	1
+Otherpathogens	b. gladiolus	1
+organization	b.p.o.e.	1
+organization	b. humanitarian organization	1
+organization	b.e.t.	1
+prominent Mormons	b. h. roberts	3
+renowned blue artist	b. b. king	1
+self funding professional course	b.c.a.	1
+self funding professional course	b.c.s.	1
+self funding professional course	b.b.a.	1
+serious anaerobic infection	b. fragilis caused by infection	1
+small-sized fish	b. dario	1
+strong creature	b. skull dragon	1
+UG program	b.sc electronics	1
+UG program	b.com	1
+well-known supplier	b.c. s outset media	1
+western critic	b. croce	1
+year's rookie	b. scott	1
+angler group	b.a.s.s.	1
+asylum record artist	b.g.	1
+Bacillus spp.	b. cereus	1
+Bacteroides species	b. fragilis	2
+big clumpers	b. lushuiensis	1
+big clumpers	b. albocerea	1
+Bordetella species	b. pertussis	2
+Bumblebee species	b. terrestris	1
+controlled substance medication	b. controlled substance medication	1
+different religion	b. different religion	1
+english gun maker	b.s.a.	2
+fixed-fluid applicator	b. maneuvering area for mobile telescopic boom	1
+technique	b.e.s.t.	1
+great sailing yacht	b. b. crowninshield	1
+high profile entrepreneur	b.a mensah	1
+hottest nightclub	b.b.king's blue's cafe	1
+hydrocarbon rich province	b.c.	1
+indian bachelor degree	b.sc	1
+indian bachelor degree	b.com.	1
+indian bachelor degree	b.a.	1
+indian religious literature	b. indian religious literature	1
+insect pathogenic fungus	b. bassiana	1
+integrated course	b.tech with mba	1
+modern science writer	b. greene	1
+mormon scholar	b. h. roberts	1
+moulded fibreglass trailer manufacturer	b.c.	3
+necrotrophic fungus	b. cinerea	2
+neo-Aristotelians	b. williams	1
+now-defunct chain	b. dalton bookseller	1
+organic insect control	b.t.	1
+personal employer	b. personal employer	1
+powerful impresario	b. f. keith	1
+power-hungry politician	b. hussein obama	1
+prominent psychoanalytical theorist	b. f. skinner	1
+pro-us source	b. goldenberg	1
+prudent premier	b.c. s gordon campbell	2
+quality refractory product	b.p. set	1
+radical behaviorist	b. f. skinner	3
+renown blue artist	b. b. king	1
+research mentor	b. k. cole	1
+Scandinavian architect-designers	b. mattson from sweden	1
+sesamoid bone	b. sesamoid bone	1
+speech skill	b. speech skill	1
+spore species	b. cereus	1
+spore species	b. anthracis	1
+SSE course	b.arch.	1
+SSE course	b.pharm	1
+SSE course	b.tech	1
+stay function	b.b.q.	1
+strict behaviorist	b. f. skinner	1
+teacher training qualification	b.ed.	1
+top notch professional	b.s.	1
+white offender	b. f. shaw	1
+xerophytic species	b. peltata in chiapas	1
+adults-only club	b. b. king's blues club	1
+american bookseller	b. dalton	1
+Babesia species	b. canis	1
+Bacillus species kinase	b. caldotenax bt one  kinase 	1
+bacillus subtilis strain	b. subtilis starter strains for the manufacture of natto	1
+basic bachelor's program	b.com	1
+basic bachelor's program	b.a	1
+basic infantry type weapons cost	b.a.r.	1
+beans past musical effort	b.coming	1
+bifidobacterial species	b. longum	1
+bifidobacterial species	b. animalis subsp	1
+big british manufacturer	b.s.a.	1
+Bio-pesticides	b. bassiana	1
+bracissca vegetable	b. oleracea capitata	3
+broad provincial policy initiative	b. c. energy plan	1
+broad-host-range pathogen	b. bassiana	2
+Brucella species	b. suis	1
+Burkholderia species	b. gladiolus	1
+Bursaphelenchus species	b. xylophilus	1
+Butia species	b. capitata	1
+name	b. b. king	2
+companies brand	b. f. goodrich	1
+critical rural issue	b. critical rural issue	1
+defunct bookseller	b. dalton	2
+department-store owner	b. altman	1
+educational community event	b.u.n.s. bunny festival	1
+emancipatory medium theorist	b. brecht	2
+erect bryozoan species	b. neritina	4
+exotic fungus	b.c. exotic fungus	1
+name	b. solus	1
+name	b.m.w.	1
+name	b.j.	1
+name	b. cleary	1
+name	b. j. habibie	1
+name	b. altman	1
+first-time nominee	b.o.b	1
+generalist plant	b. alba	1
+generalist plant	b. pilosa	1
+gentle adjustment	b.e.s.t.	2
+german factory	b. braun	1
+gram negative	b. fragilis	1
+high academic qualification	b.a	1
+hydroelectric power producer	b. hydroelectric power producer	1
+institute offer course	b. arch	1
+interesting science-fiction event	b.s.f.a. annual general meeting	1
+internationally famous man	b. c. forbes	1
+irish and american stage production	b.	1
+kirtland endowment church writer	b. h. roberts	1
+large-scale datasets	b. voucher study large-scale datasets	1
+lavish department store	b. altman	1
+factor	b. buckley	1
+factor	b. pertussis virulence factor	1
+factor	b. spears	1
+name	b.g.	1
+name	b.o.b	1
+name	b. team coaching	1
+name	b. f. skinner	1
+local and regional heavyweight	b. willz	1
+low usage area	b. ensure low usage area	1
+marine scorpion	b. anglicus captured	1
+marine scorpion	b. anglicus	1
+Microspeakers	b. p. electronics hf- nine 	1
+mining engineer	b. clark wheeler	1
+monomorphic species	b. anthracis	2
+morphologi-cally related microorganism	b. ovis	1
+multibit feedback modulator	b. h. leung a high resolution multibit sigma delta modulator with individual level averaging ieee jssc	1
+nationally-known performer	b. b. king	1
+normal graduation program	b.sc	1
+normal graduation program	b.a.	1
+original immigrant	b.  one thousand seven hundred and five  landenburg 	1
+parental meeting	b. parental meeting	1
+PGPB	b. pumilus	2
+powerful industrial giant	b. f. jones	1
+Resistant rootstocks	b. nine 	1
+restaurant industry official	b. hudson riehle	1
+retail magnate	b. altman	1
+rough brucellae	b. canis	1
+rough brucellae	b. ovis	1
+saprophytic or parasitic fungal species	b. cinerea	3
+school fund-raising activity	b. school fund-raising activity	1
+security qualification	b. a professional security qualification	1
+semi-hollow bodied guitar	b. b. king lucille	1
+serious infectious illness	b. serious infectious illness	1
+Single-instance, high-stakes testing	b.c. s own assessment travesty	1
+small and rare species	b. rajah	1
+speech problem	b. speech problem	1
+case	b.	1
+case	b. pertussis adenylyl cyclase	1
+case	b.c.a.	1
+talmudic text	b. sukkah  fifty-two a 	1
+talmudic text	b. sanhedrin  ninety-eight a 	1
+teaching degree	b.ed.	1
+today's hottest name	b.g.	1
+traditional discovery method	b. traditional discovery method	1
+tune book	b.f white sacred harp	1
+und-invadingnecrotrophic fungus	b. cinerea	1
+urbane blue singer	b. b. king	1
+waveland restaurant	b.b. s barbecue	1
+well control equipment	b.o.p. component	1
+wild-types	b. pugnax	1
+world renowned performer	b. b. king	1
+yoga organization	b.c. s yasodhara community	1
+active bifidobacteria culture	b. longum b. bifidum b. breve	1
+AD item	b. f. sword	1
+advanced technical degree	b. tech	1
+AP style guide use abbreviation	b.a.	1
+option	b. decision tree analysis	1
+B1 enzyme	b. cereus mbl	1
+Bacillus anthracis	b. anthracis antigens from a-components	8
+Bacil-lusspp.	b. cereus	1
+baptist titan	b. h. carroll	2
+behav-ioraltheories	b. f. skinner sand albert bandura's	1
+BGCT titan	b. h. carroll	1
+bifido-bacterial species	b. breve	1
+blue stalwart	b. b. king	1
+Botrytis	b. parasitica	1
+Brediaspecies	b. sinensis h.l.li	1
+casual and fine-dining restaurant	b. smith's for good southern food	1
+charter locale	b.v.i.	1
+choice hybrid	b. carolina moonlight with soft buttery yellow bloom	1
+closely related bambusa vulgaris variety	b. vulgaris schrad	1
+complex micro-organisms	b. abortus	1
+conclusion behavioral theorist	b. f. skinner	1
+cosmopolitan writer	b. barry	1
+courageous indian rationalist	b. premanand	1
+criminal hub	b.c. s lower mainland	1
+discussion entomopathogenic fungus	b. bassiana	1
+disease resistant species	b. robur	1
+group	b.a.s.i.c gospel choir	1
+First, large-fruited species	b. tawa	2
+forum long-lived species	b. insularis	1
+german exporter	b.&c. tonnies fleischwer gmbh & co.	1
+guitar stalwart	b. b. king	1
+hip-hop heroes	b.i g	1
+horizontally-transmitted pathogen	b.  one  burgdorferi 	1
+identical deck	b.o.t.a. tarot	1
+group	b. subtilis group	1
+group	b. c. multi hull society	1
+innovative teaching practice	b. innovative teaching practice	1
+interesting sciencefiction event	b.s.f.a. annual general meeting	1
+irreplaceable ocean feature	b.c. s ancient glass sponge reef	1
+job-oriented and vocational course	b.ed	1
+large orchid species	b. phalaenopsis	1
+linguistic relativist	b. l. whorf	3
+mass market bookstore	b. dalton	1
+materialist scholar	b. f. skinner	1
+mixed deciduous forest	b. villosa	1
+monogenetic trypanosomatid	b. triatoma	2
+montana author	b. m. bower	1
+mutualist-dependent species	b. tawa	1
+native birch es	b. pendula	1
+native self-governments	b.c.'s nisga'a	1
+necrotrophic fungal pathogen	b. cinerea	1
+non brood-caring paracoprids	b. bubalus	1
+non-flying, non-climbing roach	b. dubia	1
+non-model species	b. tabaci	1
+ordinary legislation	b.c. s fixed-date election legislation	1
+outstanding reactor theorist	b. spinrad of argonne	1
+partial self financing course	b. sc zoology	1
+pharmacologist	b. b. brodie	1
+pollen-storing species	b. terrestris	1
+regarded organization	b.a.b.e of croatia	1
+requisite chain establishment	b.j. s brewery	1
+reviewed general notice	b. reviewed general notice	1
+sarcophagid fly	b. peregrina	1
+secular degree	b.a.	1
+method	b. traditional discovery method	1
+senior IAS officer	b. s. patil	1
+Short-tongued species	b. terrestris	1
+Single discipline degree	b.tech in ece	1
+site attached triggerfish	b. undulatus	1
+Slightlylessopportunis-tic taxa	b. spathulata	1
+small, bushy type	b. pumila	2
+smooth brucellae	b. abortus	1
+special instruction	b. no special instruction	1
+sperm medium	b.w.w. medium	1
+study centre offer course	b. ed.	1
+subclass B1 enzyme	b. cereus enzyme bcli	1
+technical graduate	b.tech	1
+thick, hearty sandwich	b.b.l.t. on a b.	1
+threeg PG A2 strain	b. subtilis  one hundred and sixty-eight 	1
+top resort developer	b.c. s family-owned aviawest resort group	1
+undergraduate academic degree	b.tech.	1
+unforgettable music legend	b.b king	1
+tool	b. cleaning tool	1
+webbed species	b. meliana from guatemala	1
+wholesale peruvian ethnobotanicals	b. caapi	1
+women-centric program	b.c.-based women's enterprise centre	1
+year new course	b.com actuarial management	1
+yogacharya	b. k. s. iyengar	1
+tool	b. social networking tool	1
+tool	b. multimedia authoring tool	1
+artist	b. b. king	6
+artist	b.o.b.	4
+artist	b.i.g.	4
+artist	b.g.	4
+artist	b. constant	2
+artist	b.o.b	2
+artist	b.t.	1
+artist	b. godfather blackpower	1
+artist	b. j. o. nordfeldt	1
+artist	b. slade	1
+artist	b. roig	1
+artist	b.c binning	1
+artist	b.smith of  five - six  city records 	1
+material	b. reusable material	1
+material	b. sub . two  o. sub . five 	1
+material	b. consumable material	1
+material	b. applicable medication-related reference material	1
+place	b.c.	4
+place	b.c place	1
+place	b. dalton	1
+player	b.a.g films	1
+player	b. wallace	1
+player	b.c.'s biggest player	1
+product	b. the paper product	1
+term	b.a.	1
+parameter	b. ten 	1
+parameter	b. six 	1
+parameter	b. seven 	1
+species	b. anthracis	4
+species	b. longum	4
+species	b. cereus	3
+species	b.subtilis	3
+species	b. terrestris	2
+species	b. pertussis	2
+species	b. fragilis	2
+species	b. americanus	1
+species	b. bambos	1
+species	b. bicorniculata of the bambusa genus	1
+species	b. velutina	1
+species	b. thuringiensis subsp	1
+species	b. gibbum mett.	1
+species	b. laevigatus	1
+species	b. pendula	1
+species	b. gibbum mett	1
+species	b. asper	1
+species	b. variegata	1
+species	b.c. timber species	1
+species	b. parva	1
+species	b. mori	1
+species	b. pelecinus l	1
+species	b. pumilus	1
+species	b. pubescens	1
+species	b. lateralis	1
+species	b. lycium royle	1
+species	b. minor	1
+species	b. nigra	1
+species	b. gigantospora	1
+species	b. chitria lindl	1
+species	b. orientale l.	1
+species	b. mega- terium nr seventy-three 	1
+species	b. mormo	1
+species	b. australis	1
+measure	b.c. local measure	1
+function	b. use function	1
+device	b. aerial device	1
+brand	b.u.m equipment	2
+brand	b.u.m. equipment	1
+brand	b. street	1
+component	b. sub . two  o. sub . three 	2

@@ -1,0 +1,16 @@
+institution	v	4
+client	v	2
+building	v	1
+factor	v	2
+museum	v	7
+establishment	v	1
+letter	v	1
+national institution	v	1
+large enterprise	v	1
+big organization	v	1
+national museum	v	2
+big museum	v	1
+high profile architectural display project	v	2
+name	v	1
+sudden letter	v	1
+project	v	2

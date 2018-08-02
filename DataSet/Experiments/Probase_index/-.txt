@@ -1,0 +1,114 @@
+accessory	--neat ipod accessory	1
+source	-on datum source	1
+game	--neat math game	1
+game	--neat word game	1
+characteristic	-logistic' distinct characteristic	1
+attraction	--neat tourist attraction	1
+skill	-teach lifesaving skill	1
+product	-renewable waste product	1
+effect	--neat environmental effect	1
+effect	--neat graphical effect	1
+course	-teach applied physical education course	1
+procedure	-logistic management procedure	1
+amenity	-aesthetic-existing site amenity	1
+practice	-aesthetic silvicultural practice	1
+drug	-antimalarial antimalarial drug	1
+test	-diagnostic nucleic acid amplification test	1
+feature	--neat new feature	1
+feature	--neat selection feature	1
+feature	--neat side feature	1
+feature	--neat dhtml feature	1
+feature	--neat interactive gameplay feature	1
+feature	-acoustic' intelligent adaptive processing feature	1
+feature	--neat technological feature	1
+feature	--neat peripheral feature	1
+feature	--neat little feature	1
+label	--neat little label	1
+asset	-renewable generation asset	1
+trend	-logistic industry trend	1
+line	-rode' long-standing clothing line	1
+touch	--neat little discrete touch	1
+touch	--neat visual touch	1
+tourist attraction	--neat tourist attraction	1
+defect	-diagnostic result corrosion defect	1
+sight	--neat cultural sight	1
+carrier	-conjugate ofpmbwith carbohydrate carrier	1
+methodology	-metric-driven improvement methodology	1
+giant	-odd andtire industry giant	1
+stuff	--neat ``fun stuff''	1
+stuff	--neat little stuff	1
+developer	-logistic park developer	1
+datum source	-on datum source	1
+selection	--neat stylised selection	1
+weed	-on hallow-rooted weed	1
+room	--neat theme room	1
+pathogen	-antimicrobial target oral pathogen	1
+imaging technique	-diagnostic advanced imaging technique	1
+performance measure	-compute basic performance measure	1
+item	--neat vintage item	1
+scale	-geriatric rating scale	1
+industry giant	-odd andtire industry giant	1
+clothes	--neat sport clothes	1
+clothes	--neat dress clothes	1
+deal	--neat radio deal	1
+binder	--neat asphalt binder	1
+waste product	-renewable waste product	1
+environmental effect	--neat environmental effect	1
+presentation	--neat interior presentation	1
+vintage item	--neat vintage item	1
+software system	-logistic software system	1
+web tool	-logistic-type web tool	1
+service	-logistic service service	1
+site amenity	-aesthetic-existing site amenity	1
+clothing line	-rode' long-standing clothing line	1
+word game	--neat word game	1
+advanced imaging technique	-diagnostic advanced imaging technique	1
+industry trend	-logistic industry trend	1
+extra	--neat little extra	1
+extra	--neat unique extra	1
+rating scale	-geriatric rating scale	1
+gameplay feature	--neat interactive gameplay feature	1
+new feature	--neat new feature	1
+planned community	-think planned community	1
+company	-logistic property development company	1
+silvicultural practice	-aesthetic silvicultural practice	1
+technological feature	--neat technological feature	1
+distinct characteristic	-logistic' distinct characteristic	1
+evaluation measure	-metric common evaluation measure	1
+ipod accessory	--neat ipod accessory	1
+graphical effect	--neat graphical effect	1
+management procedure	-logistic management procedure	1
+antimalarial drug	-antimalarial antimalarial drug	1
+activity	-teach boating activity	1
+fun stuff	--neat ``fun stuff''	1
+theme room	--neat theme room	1
+nucleic acid amplification test	-diagnostic nucleic acid amplification test	1
+improvement methodology	-metric-driven improvement methodology	1
+cultural sight	--neat cultural sight	1
+boating activity	-teach boating activity	1
+dress clothes	--neat dress clothes	1
+sport clothes	--neat sport clothes	1
+craft project	--neat little craft project	1
+oral pathogen	-antimicrobial target oral pathogen	1
+side feature	--neat side feature	1
+program	--neat software application program	1
+community	-think planned community	1
+basic performance measure	-compute basic performance measure	1
+physical education course	-teach applied physical education course	1
+corrosion defect	-diagnostic result corrosion defect	1
+technique	-diagnostic advanced imaging technique	1
+selection feature	--neat selection feature	1
+software application program	--neat software application program	1
+carbohydrate carrier	-conjugate ofpmbwith carbohydrate carrier	1
+lifesaving skill	-teach lifesaving skill	1
+option	--neat tech option	1
+tool	-logistic-type web tool	1
+visual touch	--neat visual touch	1
+project	--neat little craft project	1
+system	-logistic software system	1
+species	-wide pread species	1
+measure	-metric common evaluation measure	1
+measure	-compute basic performance measure	1
+element	-logistic a -logistic element	1
+element	-phonetic-certain   phonetic element	1
+site	-odd comparison site	1

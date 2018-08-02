@@ -1,0 +1,281 @@
+source	jw	1
+character	jw pepper	1
+client	jwt london	2
+client	jwt paris	1
+client	jwt	1
+client	jwt dubai	1
+idea	jw marriott hotel buckhead atlanta	1
+agency	jwt	17
+agency	jwt india	2
+agency	jwt singapore	1
+agency	jwt delhi	1
+agency	jwt deltakos	1
+writer	jwcurry	1
+feature	jwt pop charger intake	2
+band	jwatp support band	1
+school	jwc	1
+practice	jw's use cult-like practice	1
+food	jwb	1
+development	jw marriott resort	1
+town	jwaneng	1
+manufacturer	jw spear & sohne	1
+compound	jwh- seventy-three 	4
+compound	jwh- eighteen 	1
+leader	jw stratton	1
+musician	jw orchestra	1
+team	jwa	3
+substance	jwh- eighteen 	1
+big name	jwt	1
+show	jw's watch tv show	1
+customer	jw froehlich uk	1
+label	jwh- eighteen 	1
+chemical	jwh- eighteen 	2
+chemical	jwh	1
+chemical	jwh- one hundred and twenty-two 	1
+chemical	jwh- seventy-three 	1
+chemical	jwh- two hundred 	1
+guest	jwoww	1
+competitor	jw marriott summerlin	1
+hotel	jw marriot mumbai	7
+hotel	jw marriott	4
+hotel	jw marriott desert ridge resort & spa	1
+hotel	jw marriott hong kong	1
+hotel	jw marriot	1
+hotel	jw marriott hotel hong kong	1
+hotel	jw marriott orlando	1
+utility	jwmd icon changer	1
+tourist attraction	jwalamukhi temple	1
+top brand	jw marriott	2
+sight	jwb	1
+upgrade	jwt pop charger	1
+theorist	jw harris	2
+input	jw four all's hdtv antenna 	1
+competition	jw mariott	1
+resort	jw marriott starr pass	2
+resort	jw marriott	1
+resort	jw marriot	1
+resort	jw marriot resort	1
+resort	jw marriott las vegas resort & spa	1
+forum	jwl advisory committee	1
+centre	jw jonker in the squad	1
+local business	jw marriott	1
+drink	jw gold label	1
+tv show	jw's watch tv show	1
+church	jws	1
+developer	jw construction	1
+play	jwalita ramanan	1
+mission	jwst	6
+famous brand	jw marriott	1
+derivative	jwh- fifteen 	1
+temple	jwalamukhi temple at nagarkot	1
+signature dish	jwok burger	1
+market leader	jwt	1
+area	jwaneng	2
+local	jwf defense systems	1
+powerhouse	jwt	1
+plugins	jw player plugins	1
+opening	jw marriott starr pass resort & spa	1
+sect	jws	1
+star hotel	jw mariott hotel	1
+business owner	jwh	1
+luxury hotel	jw marriott at lenox	3
+find	jwaneng in botswana	1
+popular band	jw pet	1
+cult	jws	3
+faith	jw	1
+pipe	jwaneng in botswana	1
+big chain	jw marriot	1
+advertising agency	jwt	4
+belief system	jw	1
+archetype	jweekend's legup archetype	1
+word processor	jwp	1
+mining town	jwaneng	1
+synthetic compound	jwh- eighteen 	2
+synthetic compound	jwh- seventy-three 	1
+synthetic compound	jwh- two hundred 	1
+shrine	jwalamukhi temple in village khrew	1
+statue	jwalamalini	1
+christian sect	jw's	1
+observatory	jwst	1
+space mission	jwst	1
+international hotel chain	jw marriott	1
+five-star hotel	jw marriott khao lak resort & spa	1
+window manager	jwm	1
+creative professional	jwt's thomas yang	1
+company	jwt	9
+company	jwc	2
+company	jw marriott hotel lima	1
+skilled player	jw phillips	1
+luxury resort	jw marriott at lenox	1
+ad agency	jwt	3
+java technology	jwsdp	1
+veteran organization	jwv	1
+minor upgrade	jwt ecu	1
+company	jwt france	1
+company	jw fiske	1
+company	jwf industries in downtown johnstown	1
+company	jwt argentina	1
+big agency	jwt	2
+Cannabinoids	jwh- one hundred and thirty-three 	1
+research chemical	jwh- twenty 	1
+research chemical	jwh	1
+light application	jwm	4
+well-known resort	jw marriott	1
+free clinic	jwch institute	1
+business hotel	jw marriott	1
+hotel property	jw marriott marquis	1
+flash player	jw mediaplayer	1
+upmarket hotel	jw marriott	1
+best place	jwm desert ridge	1
+distinguished name	jw marriott	1
+free player	jw player	1
+synthetic cannabinoids	jwh- eighteen 	5
+synthetic cannabinoids	jwh- seventy-three 	2
+long-time customer	jwm	1
+wholesale distributor	jw pepper	1
+ancient and historic temple	jwala mukhi	1
+pilgrimage centre	jwalamukhi	1
+star property	jw marriott	1
+aftermarket intake	jwt popcharger	1
+FLV player	jw flv player	1
+large telescope	jwst	1
+big time name	jwt	1
+event	jwid	1
+event	jwp tournanment	1
+luxury hotel brand	jw marriott	1
+web service tool	jwsdp	1
+3rd party player	jw flv media player	2
+commonly available product	jwp stride cleaner available from johnsondiversey	1
+multinational advertising agency	jw thompson	1
+multinational advertising agency	jwt	1
+pre-raphaelite painter	jw waterhouse	1
+prominent agency	jwt	1
+chain resort	jw marriott	1
+program	jwpce	1
+psychoactive chemical	jwh- seventy-three 	2
+psychoactive chemical	jwh- eighteen 	2
+secessionist group	jwala singh	1
+york agency	jwt	1
+false cult	jws	1
+turbo kit	jwt  five hundred and thirty bb 	1
+erotic sensual pioneer	jwala	1
+internationally acclaimed and reputed hotel	jw marriott	1
+large national or international project	jwst in space	1
+mandatory source	jwod organization	1
+premium brand liquor	jw black	2
+real client	jwchat	1
+reliable and reputable subcontractor	jw didado electric	1
+organization	jws	2
+third party player	jw	1
+australia's largest specialist commercial builder	jw constructions	1
+best advertising agency	jwt	1
+campaign partner	jw marriot brickell	2
+diamond mine	jwaneng	1
+organization	jwc	1
+lightweight desktop environment	jwm	1
+luxury inn	jw marriott at lenox	1
+mega-mines	jwaneng	2
+non-christian cult	jw s	1
+popular window manager	jwm	1
+quality puppy food	jwb	1
+scottsdale resort	jw marriott	1
+selim's work	jwandis o bibidho baloon	1
+thai property	jw marriott	1
+urban council	jwaneng	1
+year big name project	jw marriott	1
+authoritative material	jwing-ming at ymaa.com for info	1
+big international agency	jwt	1
+blended Scotch Whisky	jw blue with a cigar	1
+cult church	jws	1
+flash-based player	jw flv player	1
+illegal compound	jwh- two hundred 	1
+illegal compound	jwh- seventy-three 	1
+illegal compound	jwh- eighteen 	1
+indole-derived cannabimimetics	jwh- seventy-three 	2
+indole-derived cannabimimetics	jwh- eighteen 	2
+indole-derived cannabimimetics	jwh- two hundred and fifty 	2
+large advertising agency	jwt	1
+malevolent cult	jws	1
+news World faiths	jw	1
+pure research chemical	jwh- eighteen 	1
+pure research chemical	jwh- two hundred 	1
+pure research chemical	jwh- two hundred and fifty 	1
+regular bellydance event	jwaad summer school	1
+second, antioxidant compound	jwh- fifteen 	1
+space-based infrared telescope	jwst	1
+splendid first-rate hotel	jw marriott	1
+sunstone's hotel	jw marriott new orleans	1
+synthetic cannibinoids	jwh- eighteen 	1
+synthetic cannibinoids	jwh- seventy-three 	1
+tasty and engaging blend	jw green label	1
+WPP company	jwt london	1
+adverting agency	jwt	1
+brilliant poster	jwg	1
+chocolate spread	jw choco bread-spread	1
+classified network	jwics	3
+cult-specific version	jws new world translation	1
+dibenzopyran CB2 agonists	jwh- one hundred and thirty-three 	2
+electric keyboard	jw- fifty  roland 	1
+famous web video player	jw flv player	1
+name	jw anderson	1
+name	jwt	1
+fully-featured JavaScript embedder	jw embedder	1
+hereticical sect	jws	1
+high level hotel chain	jw marriott	1
+HLS-compatible client	jw player	1
+hong kong-based international advertising agency	jwt	1
+integrated wireless network	jwn	1
+international and professional standard	jwl	2
+luxurious hotel option	jw marriott	1
+NASA telescope	jwst	1
+outstanding CBR rider	jw harris	1
+case	jw	1
+profitable full-service brand	jw marriott	1
+prominent relative value hedge fund	jwm partners	1
+pseudo-christian group	jws	1
+resort family favorite	jw marriott ihilani	2
+scottsdale favorite	jw marriott desert ridge	1
+single WPP agency	jwt	1
+traditional ad agency	jwt	1
+upper-tier asset	jw marriott rio de janeiro	1
+application server infrastructure	jwsdp with sun java system application server	1
+attractive compound	jwh- one hundred and thirty-three 	1
+brand reputation management pro	jw maxx solutions	1
+group	jws	2
+flagship astronomical mission	jwst	1
+flash video player application	jw flv player	1
+funder system	jwb's data base system	2
+hypo-allergenic complete dog food	jwb	1
+Japanese text editor	jwpce	1
+large holding company	jwc	1
+mid-level 5-stars	jw marriott	1
+noteworthy trend watcher	jwt intelligence	1
+player solution	jw player	1
+popular JWH-xxx cannabinoids	jwh- eighteen 	1
+popular pilgrimage place	jwalamukhi	1
+prebuilt flash video player	jw flv player	1
+premium scotch option	jw blue	1
+price-range competitor	jw black out of the water	1
+segmented telescope	jwst	1
+shareware player	jw player	1
+sheet music merchant	jw pepper	1
+standalone editor	jwp	1
+Stand-alone word processor	jwp	1
+synthetic cannabinoid	jwh- eighteen 	1
+unitarian group	jws	1
+vaporizer vaporize synthetic crystalline substance	jwh research chems	1
+web video player application	jw player	1
+well-known retrovirologists	jw beard	3
+world's richest mine	jwaneng in botswana	1
+tool	jwj workers rights directory	1
+project	jw marriott	1
+place	jwaneng	1
+place	jw marriott resort & spa	1
+player	jw player	3
+player	jw	2
+player	jw's flash player	1
+player	jw flv media player	1
+player	jw flvplayer	1
+player	jwplayer in subsequent release	1
+brand	jw marriott	2
+brand	jwb	1

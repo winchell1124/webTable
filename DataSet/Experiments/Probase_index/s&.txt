@@ -1,0 +1,393 @@
+process	s&op process	1
+source	s&s activewear	1
+game	s&h green stamps	2
+product	s&b filter	1
+exception	s&p pure value	1
+exception	s&m practice	1
+exception	s&w . five hundred 	1
+model	s&w model  sixty 	1
+model	s&p credit model	1
+category	s&m situation	1
+client	s&d coffee	1
+strategy	s&t  two thousand and ten 	1
+person	s&m lover	1
+course	s&t policy	1
+book	s&m classic mr benson	1
+business	s&p indices	1
+business	s&s cycle inc.	1
+firm	s&r associates	2
+dish	s&p duck tongue	1
+indicator	s&p  five hundred 	4
+indicator	s&p bank index	1
+manufacturer	s&w	2
+manufacturer	s&b	1
+instrument	s&p  five hundred  mini future 	1
+song	s&m-inspired rock dirge curiosity	1
+entity	s&t fund other entity	1
+expert	s&t division	1
+piece	s&p	1
+vendor	s&s cycle shop	1
+vendor	s&b & uso	1
+vendor	s&s motorcycle shop	1
+design	s&w  three rd generation semi-autos 	1
+sector	s&p  five hundred  energy 	1
+market	s&p  five hundred 	9
+market	s&p future	1
+market	s&p	1
+issue	s&t specialisation	2
+behavior	s&m	1
+report	s&pcompanylevel corporate governance rating	1
+law	s&h	1
+incident	s&l debacle	1
+supplier	s&d coffee	1
+modification	s&s super b carb	1
+support service	s&t infrastructure	1
+fund	s&p  five hundred 	5
+fund	s&p  five hundred  equal weight health care etf 	1
+fund	s&p  five hundred  index fund 	1
+fund	s&p  five hundred  etf 	1
+fund	s&p fund	1
+fund	s&p  five hundred  fund 	1
+fund	s&p dividend aristocrats index fund sdy	1
+fund	s&p  five hundred  equal weight consumer staples etf 	1
+suspect	s&p  five hundred  index 	1
+index	s&p  five hundred 	83
+index	s&p  five hundred  index 	7
+index	s&p goldman sachs commodity index	5
+index	s&p gsci	3
+index	s&p  one hundred 	2
+index	s&p smallcap  six hundred 	2
+index	s&p midcap  four hundred 	2
+index	s&p midcap	1
+index	s&p goldman sachs commodity lndex tm	1
+index	s&p tsx composite	1
+index	s&p's global water index	1
+enterprise	s&k technologies	1
+disaster	s&l crisis	1
+big company	s&a foods	1
+international company	s&d aromas	1
+crisis	s&l debacle	1
+derivative	s&p contract	1
+council	s&hlga constituent council	1
+builder	s&a homes	1
+builder	s&ahomesandreist ville builders	1
+item	s&c current sensors	1
+item	s&c voltage sensor	1
+gun	s&w hand ejector	1
+gun	s&w m&p	1
+gun	s&w revolver	1
+best practice	s&op process	1
+market leader	s&s cycle	1
+financial instrument	s&p  five hundred  swap 	1
+partnership	s&h investments	1
+subgroup	s&e worker	1
+financial product	s&p  five hundred  futures contract 	1
+proof	s&p	1
+common factor	s&p  four hundred  index 	2
+reading	s&p datum	1
+area	s&op implementation	1
+benchmark	s&p  five hundred 	8
+benchmark	s&p  five hundred  index 	2
+benchmark	s&p  five hundred  for equity 	1
+benchmark	s&p  five hundred  index for a ballpark 	1
+benchmark	s&p financials	1
+aftermarket part	s&b cold air	1
+portfolio	s&p  five hundred 	4
+technical field	s&t	1
+supermarket chain	s&r stores	1
+ETFs	s&p  five hundred  spdr 	4
+ETFs	s&p  five hundred  spdr trust 	1
+ETFs	s&p  five hundred  spider 	1
+development issue	s&d treatment	1
+organic mulch	s&s seeds bed spread	1
+macroeconomic variable	s&p  five hundred  return 	1
+sundry item	s&t cable troughing	1
+technical indicator	s&p  five hundred  relative strength index 	1
+successful business	s&r sawmills	1
+market indicator	s&p  five hundred 	1
+market indicator	s&p  five hundred  index 	1
+advanced security feature	s&g spy-proof lock	1
+scope	s&b	1
+financial market	s&p  five hundred 	1
+topic	s&t policy process	1
+food manufacturer	s&a foods	1
+domestic product	s&p  five hundred  future 	1
+rating agency	s&p	1
+powerful weapon	s&w m twenty-nine 	1
+frozen item	s&s saimin	1
+handgun	s&w ps	1
+handgun	s&w . fourty-four  mag 	1
+handgun	s&w . five hundred 	1
+topic	s&m	1
+market index	s&p  five hundred 	25
+market index	s&p  five hundred  b 	1
+market index	s&p  five hundred  index 	1
+market index	s&p utility index	1
+market index	s&p  one hundred  index 	1
+market index	s&p  five hundred  composite index 	1
+company	s&k famous brands	1
+company	s&n genealogy supplies	1
+company	s&c electric	1
+exchange-traded fund	s&p retail spdr	1
+premier company	s&s seeds of carpinteria	1
+revolver	s&w  six hundred and fourty-two 	1
+revolver	s&w victory model	1
+future contract	s&p  five hundred 	1
+future contract	s&p  five hundred  index 	1
+company	s&w	1
+company	s&m bikes	1
+stock market index	s&p  five hundred 	19
+stock market index	s&p  five hundred  index 	2
+stock market index	s&p cnx nifty	1
+average	s&p  five hundred 	2
+stock index	s&p  five hundred 	10
+stock index	s&p  five hundred  index 	6
+advertising item	s&h green stamps	1
+aftermarket company	s&s	1
+hammer	s&w centennial	1
+medium agency	s&t news	1
+large cap	s&p  five hundred 	1
+immoral act	s&m	1
+proprietor	s&h health store in the cambridge centre mall	1
+trade mark	s&w monogram	1
+equity index	s&p  five hundred 	8
+volatile market	s&p  five hundred 	1
+future market	s&p  five hundred  future 	1
+gametypes	s&d	1
+large-cap company	s&p  five hundred 	1
+key index	s&p  five hundred 	1
+universe	s&p's dividend aristocrats	1
+bond characteristic	s&p rating	1
+future	s&p  five hundred 	1
+spyware remover	s&d	1
+composite index	s&p  five hundred 	2
+human capital factor	s&t human capital factor	1
+international rating agency	s&p rate pakistan	1
+standard benchmark	s&p  five hundred 	1
+macroeconomic event	s&p downgrade of u.s. debt	1
+firearm manufacturer	s&w	1
+reference value	s&p  five hundred 	1
+well-known index	s&p  five hundred  index 	2
+well-known index	s&p  five hundred 	1
+key economic datum	s&p  five hundred 	1
+other entity	s&t fund other entity	1
+popular index	s&p  five hundred 	3
+traditional benchmark	s&p  five hundred 	1
+stock fund	s&p  five hundred 	1
+commodity index	s&p gsci	4
+international shipping company	s&d cargo shipping	1
+international index	s&p  five hundred 	1
+national index	s&p  five hundred 	1
+popular ETFs	s&p  five hundred  spdr 	1
+world index	s&p  five hundred 	1
+benchmark index	s&p  five hundred 	3
+external benchmark	s&p  five hundred  index 	1
+best pet game	s&s bowling	1
+broad-based index	s&p  five hundred 	4
+broad-based index	s&p  one hundred 	1
+country index	s&pemergingstock markets index	1
+damage item	s&y	1
+huge metropolis	s&atildeo paulo	1
+bilateral dialogue	s&ed's anti-corruption working group	1
+pocket pistol	s&w airweight in . three hundred and fifty-seven  magnum 	1
+stock market indicator	s&p  five hundred  index 	2
+stock market indicator	s&p  five hundred 	1
+automatic pistol	s&w	1
+broad market index	s&p  five hundred 	11
+broad market index	s&p  five hundred  index 	1
+large frame pistol	s&w	1
+program	s&g power tools	1
+subguns	s&w m seventy-six 	1
+yielding asset	s&p  five hundred 	1
+big index	s&p  five hundred 	2
+branded clothing	s&b black rat	1
+broad index	s&p  five hundred 	8
+masonic website	s&c club	1
+popular index product	s&p  five hundred  index 	1
+popular index product	s&p  five hundred 	1
+broad equity index	s&p  five hundred 	1
+broadly-based index	s&p  five hundred 	1
+factor	s&p ranking	1
+financial market index	s&p  five hundred 	2
+game style	s&d	1
+load mutual fund	s&p  five hundred  index fund 	1
+minor performance mod	s&s super e	1
+snubnose revolver	s&w j-frame revolvers	3
+world renowned index	s&p  five hundred 	1
+broad market fund	s&p  five hundred  etf 	1
+conventional index	s&p  five hundred 	1
+exotic pistol	s&w  nine hundred and fifty-two 	1
+graph market indicator	s&p  five hundred 	2
+index-based investment	s&p depository receipts	2
+large matrix	s&p  five hundred 	1
+small revolver	s&w  three hundred and seventeen  in  twenty-two lr 	1
+U.S. equity index	s&p  five hundred  index 	1
+world-wide index	s&p  five hundred 	1
+american-produced item	s&w light teriyaki sauce	1
+bennies	s&h green stamps	1
+breadth measure	s&p  five hundred  index's own cumulative breadth index 	1
+breadth measure	s&p  five hundred  equal weight index 	1
+broad stock market index	s&p  five hundred 	3
+broad unbiased index	s&p  five hundred 	1
+broad-brush benchmark	s&p  five hundred 	1
+commercial index	s&p gsci	1
+common benchmark	s&p  five hundred 	1
+country-specific index	s&p  five hundred 	1
+massive financial scandal	s&l scandal	3
+old-line chicago manufacturer	s&c electric co. in rogers park	1
+popular gamemodes	s&d	1
+popular production brand	s&w	1
+setup DVD	s&v's home theater tune-up	1
+tracking fund	s&p futures etf	2
+traditional cap-weighted index	s&p  five hundred 	1
+true compact gun	s&w j frame	1
+U.S. stock market	s&p  five hundred 	1
+wild room	s&m hello kitty room	1
+absolutes	s&p  five hundred  operating earnings 	1
+American stock index	s&p  five hundred 	1
+authorized NRCS Conservation Partner	s&w conservation district	1
+big cap index	s&p  five hundred 	1
+blue-chip indicator	s&p  five hundred 	1
+broad commodity index	s&p gsci	1
+broad-based market index mutual fund	s&p  five hundred  fund 	1
+broad-market index	s&p  five hundred  index 	2
+chain store outlet	s&p bakery	1
+comparative benchmark	s&p  five hundred 	1
+discount dealer	s&w computers & electronics in new york	1
+diversified portfolio	s&p  five hundred 	1
+earliest commodity index	s&p goldman sachs commodity index	1
+equity index option	s&p european	1
+ex-gcc index	s&p  five hundred 	1
+fund usually short index	s&p  five hundred 	3
+global stock exchange indicator	s&p  five hundred  index 	1
+good setup disc	s&v home theater tune-up	1
+good, low-cost index fund	s&p  five hundred  index fund from a reputable fund company like vanguard 	1
+government-supported research institute	s&t policy institution	1
+headline benchmark	s&p  five hundred  index 	2
+high tech index	s&p tech sector	1
+highest rating	s&p's aaa	1
+impersonal market benchmark	s&p  five hundred 	1
+key equity index	s&p  five hundred 	1
+large stock fund	s&p  five hundred  index fund 	1
+large stock index	s&p  five hundred 	1
+leading stock market index	s&p  five hundred 	1
+long position	s&p index etf spy	1
+market capitalization index	s&p  five hundred 	2
+market-capitalization weighted index	s&p  five hundred  index 	2
+market-capitalization weighted index	s&p  five hundred 	1
+no-load, low fee mutual fund	s&p  five hundred  index fund 	1
+passive benchmark	s&p  five hundred  index 	1
+passive benchmark	s&p  five hundred 	1
+pocket gun	s&w j frame	1
+popular, broad-based index	s&p  five hundred 	1
+real CAI	s&b	1
+real-time financial datum	s&p  five hundred 	1
+run-of-the-mill index	s&p  five hundred 	1
+shotshell revolver	s&w governor	1
+sight DA wheelguns	s&w model  ten  s 	1
+snubby revolver option	s&w  six hundred and fourty-two 	1
+star analyst	s&p's leo o'neill	1
+stock index future	s&p  five hundred 	3
+stock index future	s&p  five hundred  future 	1
+synthetic credit rating tool	s&p credit model	1
+technology-related intermediary institution	s&t consulting service	1
+traditional benchmark index	s&p  five hundred 	1
+traditional equity index	s&p  five hundred 	3
+U.S. index	s&p  five hundred  index 	1
+U.S. index instrument	s&p  five hundred  based in canadian dollar 	1
+well-diversified index	s&p  five hundred 	1
+Wonder-nines	s&w  fifty-nine 	1
+1920X1080 source	s&m disc	1
+abroad-based stock market index	s&p  five hundred  market index 	1
+accurate 22lr revolver	s&w  six hundred and seventeen 	1
+all-weather mutual fund	s&p index fund	1
+option	s&p  one hundred 	1
+option	s&o	1
+option	s&w  twenty-nine 's 	1
+option	s&p  five hundred  index option 	1
+beatable slot game	s&h green stamps	1
+benchmark commodity index	s&p gsci	1
+broad based index fund	s&p  five hundred  etf 	1
+broad benchmark	s&p  five hundred 	1
+broad index fund	s&p  five hundred 	3
+broad market average	s&p  five hundred 	1
+broad market base	s&p  five hundred  composite 	1
+broad market ETFs	s&p  one thousand five hundred  index fund 	1
+broad-based equity index	s&p  five hundred  index 	1
+broad-based stock index	s&p  five hundred 	1
+capital weighted index	s&p  five hundred 	1
+combat style revolver	s&w  six hundred and eighty-six  in . three hundred and fifty-seven  magnum 	1
+comprehensive market index	s&p  five hundred  index 	1
+concentrated index	s&p  five hundred 	1
+con-trarytoother financial market	s&pindexoptions market	1
+deep and liquid option market	s&p  five hundred  options market 	1
+discretionary technique	s&p scalping	1
+dividend list	s&p dividend aristocrats	1
+domesatic utility option	s&p select utilities spdr	1
+emini future contract	s&p  five hundred 	1
+energy-sensitive asset	s&p gsci	1
+equity benchmark	s&p  five hundred 	1
+established stock market index	s&p  five hundred -tracking spdr trust 	1
+generic 9mm	s&b	1
+growth index fund	s&p  five hundred 	2
+high-margin market	s&p  five hundred  stock index future 	1
+independent international fund rating agency	s&p's micropal	1
+independent stock index	s&p  five hundred 	1
+index-based mutual fund	s&p  five hundred  index fund 	1
+indexed fund	s&p  five hundred  fund asap 	1
+index-related issue	s&p  five hundred  e-mini future 	1
+large cap weighted index	s&p  five hundred 	1
+large capitalization stock index fund	s&p  five hundred  index fund 	1
+large capitalization US index	s&p  five hundred 	1
+large grip	s&w target grip	1
+large, liquid market	s&p  five hundred 	1
+long-only passively weighted index	s&p goldman sachs commodities index	1
+long-term index	s&p  five hundred  index 	1
+mag gun	s&w mt. gun	1
+mainstream commodity index	s&p gsci	1
+market cap weighted index	s&p  five hundred  index 	1
+market-cap weighted index	s&p  five hundred 	1
+market-weighted index	s&p  five hundred 	1
+modern index	s&p  five hundred  index 	2
+money tracking index	s&p gsci	1
+morally questionable ending	s&m queen	1
+narrow benchmark index	s&p cnx nifty	1
+nice cruiser frameset	s&m gt	1
+original benchmark index	s&p  five hundred 	1
+popular index fund	s&p  five hundred  fund 	1
+powerful, lighter option	s&w m fourty-two 	1
+precise benchmark	s&p  five hundred 	1
+pure scientific research achievement	s&t papers than achievements for commercial application	1
+red chip stock index	s&p midcap  four hundred 	1
+sharemarket index	s&p  five hundred 	1
+single equity index	s&p  five hundred 	1
+spring assisted knife	s&w knife	1
+standard investment newsletter	s&p outlook	1
+standard market measure	s&p  five hundred  index 	1
+stochastic asset	s&p  five hundred 	1
+stock barometer	s&p  five hundred 	1
+stock investing index	s&p  five hundred 	1
+stock-derivative product	s&p  one hundred  stock-index option 	1
+taxable stock index mutual fund	s&p  five hundred  index fund 	1
+ther firm	s&p  five hundred 	1
+thin reticule	s&b p four  fine 	1
+traditional broad-based market index	s&p  five hundred  index 	1
+traditional market cap-weighted index	s&p  five hundred 	1
+ultralight .44	s&w mountain gun	1
+value-weighted index	s&p  five hundred 	1
+value-weighted portfolio	s&p  five hundred 	1
+tool	s&g tool aid  eighteen thousand nine hundred 	1
+VIX CALCULATION STEP-BY-STEP stock index	s&p  five hundred 	1
+volatility arbitrage index	s&p  five hundred  volatility arbitrage index 	1
+water index	s&p global water index	1
+weighted portfolio	s&p  five hundred 	1
+well-known market barometer	s&p  five hundred 	2
+well-known U.S. equity index	s&p  five hundred 	1
+wide index	s&p  five hundred 	2
+ymca-preferred vendor	s&s craft	1
+factor	s&t human capital factor	1
+project	s&p	1
+player	s&s advertising	1
+product	s&p  five hundred  future 	2
+variable	s&p  five hundred  return 	1
+site	s&t's sky at a glance	2

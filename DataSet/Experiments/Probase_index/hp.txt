@@ -1,0 +1,4297 @@
+factor	hp one 	3
+product	hp openview product	1
+product	hp color laserjet related product	1
+product	hp drives	1
+product	hp laser jet related product	1
+product	hp's p four thousand  	1
+product	hp's web jetadmin	1
+initiative	hpv vaccine	1
+initiative	hpcc in the u.s	1
+initiative	hpcc program	1
+initiative	hp's search for new market	1
+accessory	hp printer driver	1
+accessory	hp print head	1
+accessory	hp link	1
+accessory	hp jetdirect card	1
+datum	hpms	1
+resource	hpcx	1
+facility	hp sheterogeneous reliable transaction router	1
+process	hp	6
+process	hplc purification	1
+process	hpp	1
+process	hpm	1
+source	hplc	1
+game	hpf game chamber play game	1
+exception	hp	1
+product	hp paper-backed fabric viscose	1
+product	hp openview management product	1
+product	hp projectors	1
+product	hp service manager	1
+product	hp storage	1
+product	hp thin laptops	1
+product	hp toner cartridge related product	1
+product	hp jetdirect print server	1
+product	hp laptop battery	1
+product	hp laser cartridge related product	1
+product	hp touchsmart iq	1
+product	hpmc related product	1
+product	hp's dolphin	1
+product	hp's praesidium	1
+product	hp's procurve  two thousand six hundred and twenty-six -pwr 	1
+product	hpmc	1
+product	hp's utility data center	1
+product	hp's xb two thousand   notebook expansion base 	1
+product	hp pocket pc	1
+product	hp proliant dl three hundred and sixty  g seven 	1
+product	hp proliant server	1
+product	hp openview operations ad spi	1
+product	hp openview smart plug-ins	1
+product	hp slate	1
+product	hp switch	1
+product	hpc	1
+product	hpl board related product	1
+product	hpl wet area paneling	1
+product	hplc	1
+product	hp battery charge related product	1
+product	hp lightweight laptops	1
+product	hp laptop	1
+product	hp laptop related product	1
+product	hp laptop screen size	1
+product	hp laptops by processor	1
+product	hp laser toner related product	1
+product	hp fax machine related product	1
+product	hp ink cartridge related product	1
+product	hp insight manager	1
+product	hp mobile battery	1
+product	hp compaq	1
+product	hp compatible toner related product	1
+product	hp digital entertainment center	1
+product	hp color laserjet	1
+product	hp color laserjet enterprise cp five thousand five hundred and twenty-five 	1
+product	hp branded related product	1
+product	hp bladesystem matrix	1
+product	hp  three thousand  	1
+product	hpl plywood related product	1
+product	hpa product range	1
+product	hplc solvent related product	1
+product	hp part related product	1
+product	hp parts	1
+product	hp pc session allocation manager	1
+product	hp two thousand one hundred and thirty-three  support autodesk product 	1
+product	hp wireless tv connect	1
+product	hp zd seven thousand  	1
+product	hp zero -j fourty-three  from testking latest audio training 	1
+product	hp printer cartridge related product	1
+product	hp quality center	1
+product	hp modular cooling system	1
+product	hp open view	1
+product	hp printer part	1
+product	hp tablet pc's	1
+product	hp product related product	1
+product	hp remanufactured cartridge related product	1
+product	hp's officejet  eight thousand   enterprise 	1
+product	hpl door skin related product	1
+exception	hpmp for the former yugoslav republic of macedonia	1
+exception	hpc use	1
+exception	hp dc screen	1
+reason	hp muffing the order	1
+model	hpi sprint rtr	4
+model	hp	4
+model	hp laserjet series	2
+model	hp vp six thousand one hundred and ten 	2
+model	hp pavilion	2
+model	hp officejet  six thousand five hundred a plus e-all-in-one 	1
+model	hp laserjet pro p one thousand six hundred and six dn 	1
+model	hp mini note	1
+model	hp pavilion dv two thousand seven hundred t 	1
+model	hp  nine thousand eight hundred and sixteen 	1
+model	hp deskjet d four thousand one hundred and sixty 	1
+model	hp san	1
+model	hp tx two  use 	1
+model	hp two hundred and eleven  i-pac pda 	1
+model	hp probooks	1
+model	hp photosmart r seven hundred and seven 	1
+model	hp photosmart c four thousand four hundred and eighty 	1
+model	hp cheap printer ink	1
+model	hp  two thousand one hundred 	1
+model	hp mediasmart connect	1
+model	hp q six thousand four hundred and seventy-two a toner printer 	1
+model	hp probook  six thousand five hundred and fourty b 	1
+model	hp ink cartridge	1
+model	hp ipaq	1
+model	hp's butter-fly'' concept data center	1
+model	hp  nine thousand eight hundred and thirty-six 	1
+model	hp pavilion dv four z 	1
+model	hp pavilion tx two thousand five hundred z 	1
+characteristic	hplc column characteristic	1
+attraction	hp pavilion	2
+skill	hp boost	1
+skill	hp recovery	1
+institution	hpu	1
+institution	hpr	1
+change	hpv vaccine development	1
+change	hp buying sap	1
+client	hp	52
+client	hpcl	3
+document	hpi certificate	1
+author	hp lovecraft	2
+feature	hp durakeys	4
+feature	hp  three d driveguard 	3
+feature	hp durafinish	3
+approach	hplc	2
+approach	hpv vaccine	1
+alternative	hp arcsight	1
+alternative	hp dump	1
+alternative	hp slate	1
+alternative	hp bootcamps	1
+alternative	hp's media smart server	1
+agency	hpb	3
+object	hp orb	1
+writer	hp lovecraft	1
+solution	hp openview	2
+solution	hp mediasmart server	2
+solution	hp operations manager	1
+solution	hp eva	1
+solution	hp's web jet admin	1
+solution	hp's web jetadmin	1
+solution	hp trim software	1
+solution	hp virtual server environment	1
+solution	hp storageworks p four thousand   g two  sans 	1
+solution	hp-ux environment	1
+solution	hp's thin client	1
+solution	hp's secure path	1
+solution	hp's enterprise contact center solution	1
+solution	hp connect solution	1
+solution	hp opencall solution	1
+solution	hpl	1
+solution	hp cloud assure	1
+feature	hp's beats audio	2
+film	hp five 	1
+business	hp	11
+business	hp's personal systems group	3
+business	hpg	2
+business	hp in the stanford area	1
+field	hpht	1
+procedure	hplc separation with detection of derivatized compound	1
+part	hp webcam lens	2
+part	hp kit	1
+part	hp engine kits	1
+school	hps ramanthapur	1
+school	hpu	1
+ingredient	hpnotiq	1
+operation	hp global delivery center	1
+feature	hpf for the  twelve db filter 	1
+feature	hpf	1
+feature	hp disk sanitizer	1
+feature	hp unique feature	1
+feature	hp insight	1
+feature	hp instant share	1
+feature	hpg piggyback shock	1
+feature	hp notebook feature	1
+feature	hp quickplay direct	1
+feature	hp printer feature	1
+feature	hp print view	1
+feature	hp photo publisher	1
+feature	hp photo viewer	1
+feature	hp zoomsmart	1
+feature	hp support feature	1
+feature	hp  three d driveguard structure 	1
+feature	hps unique cooling system	1
+feature	hp's unique cooling system	1
+feature	hp toolboxfx	1
+type	hpv- one 	1
+type	hpv	1
+disease	hpv	20
+disease	hpv infection	3
+disease	hpai	2
+disease	hps	1
+venue	hp pavilion	1
+firm	hp	37
+industry	hpcl	1
+requirement	hp gse- eleven 	1
+test	hplc	3
+test	hpv testing	2
+test	hp compaq ``test''	1
+test	hpv-hr quad test	1
+test	hpv test	1
+treatment	hpht	2
+treatment	hpht treatment	1
+manufacturer	hp	236
+manufacturer	hp cartridge	3
+instrument	hplc	16
+instrument	hplc's	1
+instrument	hp laser calibration instrument	1
+instrument	hp's measurement instrument	1
+feature	hp icons present on the dekstop	1
+feature	hp design gallery	1
+setting	hp bar	1
+compound	hpmc	1
+figure	hp	1
+equipment	hplc	3
+equipment	hp's new  thirty  bit dreamcolor monitor 	1
+equipment	hp compaq	1
+equipment	hp  fifty-nine thousand five hundred and fifty-one agps measurements synchronization module 	1
+unit	hp's mini  three hundred and eleven 	1
+unit	hp pavilion ze four thousand two hundred 	1
+unit	hp indigo printing press	1
+leader	hp	3
+leader	hp mallory	1
+innovation	hp bladesystem infrastructure	2
+innovation	hpv vaccine	2
+innovation	hpvirtual server environment	1
+innovation	hpv dna testing	1
+innovation	hp touchsmart	1
+innovation	hpc deployment	1
+innovation	hp bladesystem	1
+innovation	hp oracle database machine	1
+innovation	hp professional innovation	1
+innovation	hp adaptive lighting	1
+innovation	hp virtual server environment	1
+innovation	hpdynamic smart cooling	1
+innovation	hp oracle exadata storage server	1
+innovation	hp energy	1
+entity	hpc of the nasal fossa	1
+expert	hp's services team	1
+feature	hp auto sense technology	1
+feature	hp dura keys	1
+feature	hp convenience feature	1
+improvement	hp heavy-duty driven post	1
+improvement	hp heavy-duty rear sheaves	1
+format	hpgl	1
+Organisations	hp	5
+Organisations	hpa	2
+partner	hp	35
+partner	hp's agility alliance partner	1
+big name	hp	14
+role	hpqtargets	1
+vendor	hp	269
+vendor	hp openview	2
+vendor	hp xerox	1
+vendor	hpi direct	1
+design	hpi sprint rtr	1
+store	hp computer many store	1
+market	hp printer market	1
+customer	hp	26
+customer	hp oem partner	1
+customer	hpq	1
+intervention	hpv vaccination	2
+label	hpd	1
+side effect	hpa axis suppression	1
+issue	hpd selection	2
+step	hplc	1
+environment	hp-ux	2
+environment	hp business availability center system	1
+environment	hpuniversal cmdb system	1
+risk factor	hpv infection	1
+additive	hpmc	3
+chemical	hplc reference chemical	1
+article	hpa axis	1
+software	hpc scheduling software	1
+software	hp's creative scrapbook assistant	1
+software	hp tuners	1
+software	hp's quick test pro	1
+software	hp image zone	1
+software	hp tunners	1
+capability	hpgl	2
+module	hp bpt	1
+magazine	hp world	1
+provider	hp	7
+woman	hpdf	1
+retailer	hp	4
+retailer	hp shopping	1
+report	hpms report	1
+offer	hpl panel related offer	1
+offer	hp laserjet p one thousand one hundred and two w wireless laser printer 	1
+protein	hp one 	3
+protein	hpv sixteen  e seven 	2
+protein	hpv early protein	1
+protein	hpv oncogenic protein	1
+protein	hpps	1
+protein	hpv-encoded oncogenic protein	1
+machine	hp machine	1
+machine	hp calculator	1
+machine	hp edgeline	1
+machine	hp- fourty-one 	1
+machine	hp- nine thousand one hundred 	1
+machine	hp three thousand  	1
+machine	hp touch-smart	1
+machine	hp lightsout type device	1
+competitor	hp	48
+competitor	hp five hundred  windows application server from hewlett-packard 	1
+competitor	hp's discontinued touchpad	1
+risk	hpv	1
+good	hpc's famous baked good	1
+brand name	hp	31
+discipline	hpt	1
+corporation	hp	24
+corporation	hp enterprise services	1
+difference	hp v. fmj	1
+flavor	hp	1
+language	hpf	4
+line	hp product line	1
+utility	hp netraid config	3
+utility	hp netraid assistant	3
+utility	hps	1
+utility	hp's typedirector program	1
+utility	hp toolbox	1
+utility	hp web jetadmin	1
+utility	hp system management homepage	1
+suggestion	hp grass on krow	1
+driver	hp pavilion media center tv m seven thousand six hundred and seventy .nl desktop pc 	1
+driver	hp pavilion a one thousand and twenty-two n desktop pc 	1
+driver	hp compaq presario cq five thousand three hundred de desktop pc 	1
+driver	hp laserjet  five mp printer 	1
+driver	hp laserjet iii printer	1
+driver	hp  three 	1
+driver	hp designjet  four hundred and eighty-eight ca printer 	1
+driver	hp laserjet ii	1
+driver	hp pavilion media center tv m eight thousand and ninety d desktop pc 	1
+driver	hp touchsmart iq five hundred and ten br desktop pc 	1
+driver	hplip	1
+driver	hp pavilion media center tv m seven thousand five hundred and twenty .uk desktop pc 	1
+driver	hp pavilion media center tv m seven thousand five hundred and fourty .es desktop pc 	1
+driver	hp photosmart a six hundred and twelve  compact photo printer 	1
+driver	hp laserjet  four  for laser printer 	1
+driver	hp laserjet  four si series printer 	1
+driver	hp video driver	1
+driver	hp series ii printer	1
+driver	hp pavilion media center tv m seven thousand seven hundred and sixty .it desktop pc 	1
+driver	hp deskjet  nine hundred and seventy cse printer 	1
+driver	hp compaq presario cq five thousand and fifteen fr desktop pc 	1
+driver	hp laserjet  two thousand two hundred dt printer 	1
+file	hp printer file	1
+sport	hp monitor various sport	1
+offering	hp's adaptive enterprise	1
+offering	hp m seven thousand one hundred and ninety-nine a 	1
+everything	hp ink for printer	1
+platform	hp-ux	13
+platform	hp	4
+platform	hp's nonstop series	2
+platform	hp ipaq pda	1
+platform	hp compaq t five thousand five hundred and thirty  thin client 	1
+platform	hpipaq pda	1
+platform	hp's ill-fated webos	1
+platform	hp's webos	1
+platform	hp webos	1
+service provider	hp	7
+supplier	hp	27
+supplier	hp on product specific training	1
+supplier	hp co.	1
+employer	hp	4
+top brand	hp	33
+top brand	hpi racing	3
+operator	hph	1
+sensor	hp  five hundred and fourty-seven a 	1
+station	hpgcl	1
+station	hpn	1
+medium	hp cover stock	3
+ability	hp boost	2
+request	hp digital entertainment portal request	1
+stock	hpcl	4
+account	hp	4
+large company	hp	30
+large company	hpp health group	2
+standard feature	hp fingerprint sensor	1
+paper	hp premium heavyweight inkjet paper	2
+paper	hp hahnemuhle smooth fine art paper	1
+paper	hp id satin	1
+prize	hp notebook	1
+sponsor	hpcl	2
+issue	hpc capacity requirement	1
+issue	hpv vaccine	1
+issue	hpv type	1
+issue	hp under the whole curve	1
+director	hp's vyomesh joshi	1
+database	hpertextlinksto external database	1
+database	hpms	1
+forum	hpg	1
+illness	hpv	2
+gene	hprt one 	3
+gene	hprt	2
+gene	hpv ``early'' gene	1
+enhancement	hp digital photography enhancement	1
+keyword	hp printer cart	1
+popular brand	hp	29
+popular brand	hpi	3
+popular brand	hp compaq	1
+rival	hp	22
+rival	hp pavilion dm one z 	1
+appliance	hp enterprise data warehouse solution for microsoft sql server	2
+industry leader	hp	46
+industry leader	hpcl	1
+traditional method	hplc	4
+infection	hpv	32
+cell	hpv-negative control cell	1
+suspect	hpi real estate services & investments	2
+suspect	hp	1
+maker	hp	4
+specialist	hpn	1
+enterprise	hp	6
+commodity	hps groundnut	1
+marker	hpv rna	1
+filter	hpestimator linear filter	1
+third party	hp's channel partner	1
+giant	hp	24
+name brand	hp	25
+name brand	hpi	1
+household name	hp	3
+solvent	hplc grade dichloromethane	1
+solvent	hplc grade n-heptane	1
+solvent	hplc grade n-pentane	1
+liqueur drink	hpnotiq	1
+liqueur drink	hpnotiq margarita recipe	1
+liqueur drink	hpnotiq tequila recipe	1
+liqueur drink	hpnotiq hulk recipe	1
+liqueur drink	hpnotiq bull recipe	1
+liqueur drink	hpnotiq champagne recipe	1
+liqueur drink	hpnotiq heaven recipe	1
+liqueur drink	hpnotiq martini recipe	1
+liqueur drink	hpnotiq vodka recipe	1
+liqueur drink	hpno chronic recipe	1
+liqueur drink	hpnotiq breeze recipe	1
+liqueur drink	hpnotiq red recipe	1
+liqueur drink	hpnotizer recipe	1
+key player	hp	3
+face	hp support assistant	1
+staple	hp sauce	1
+datum source	hpms datum	1
+polymer	hpmc	14
+polymer	hpmc k one hundred m 	6
+polymer	hpc	3
+polymer	hpmc k fifteen m 	1
+power	hp restoring power	1
+security feature	hp protectsmart hard drive protection	3
+security feature	hp simplepass with integrated fingerprint reader	2
+security feature	hp fingerprint sensor	1
+security feature	hp protecttools software	1
+security feature	hp protecttools security manager	1
+security feature	hp simplepass identity management software	1
+security feature	hp simplepass with integtated fingerprint reader	1
+security feature	hp face recognition	1
+advance	hp vivera ink	1
+advance	hp latex ink	1
+advance	hpv vaccine discovery in cervical cancer prevention	1
+item	hp adf cleaning cloth	3
+framework	hpsg	6
+framework	hp openview	2
+pathogen	hpv	2
+conventional method	hplc	3
+conventional method	hplc-mass spectrometry	2
+route	hpn to teb	1
+virus	hpv	27
+virus	hpai h five n one 	1
+online service	hp photo	1
+big company	hp	17
+interface	hp-ib	1
+interface	hp's touchsmart system	1
+entry	hp's laserjet m five thousand and thirty-five  mfp series 	1
+performance	hp two 	1
+software package	hp openview	1
+camera	hp with  three . one  mp 	1
+rural area	hpp	1
+large organization	hp	6
+large corporation	hp	8
+peripheral	hp laserjet iiisi printer	2
+peripheral	hp designjet plotter	2
+peripheral	hppocket media drive without adding clutter	1
+peripheral	hp pocket media drive without adding clutter	1
+peripheral	hp deskjet  nine hundred and seventy cxi 	1
+manager	hp's stephan	1
+international company	hp	4
+version	hp-ux	1
+version	hpi sprint rtr	1
+server	hp openmail	2
+server	hp alphaserver es fourty 	2
+server	hp	1
+server	hp proliant ml three hundred  servers 	1
+server	hp proliant	1
+famous brand	hp	12
+phone	hp ipaq glisten	1
+phone	hp veer	1
+variant	hp-ux	3
+variant	hp model used by smith	1
+info	hp	1
+heavyweight	hp	6
+display	hp zr thirty w 	1
+display	hp ld four thousand two hundred 	1
+display	hp dreamcolor	1
+well-known brand	hp	8
+well-known brand	hp designjet on the market	2
+hardware	hp raid device	1
+hardware	hp desktop	1
+hardware	hp's mediasmart home server	1
+output	hp soap	1
+innovative feature	hp power regulator	1
+innovative feature	hp power capping	1
+innovative feature	hp dynamic power capping	1
+set	hp lcds before deciding	1
+release	hp jornada	1
+commercial product	hp openview	1
+commercial product	hp openview network node manager	1
+commercial product	hp operations manager	1
+trigger	hpv	1
+international brand	hp	6
+major	hp	3
+product line	hp	3
+product line	hp product line	1
+quality brand	hp	3
+connection	hp monitor sport various connection	1
+quality product	hp app hp zero -s thirty  lab situations online 	1
+building material	hpl	3
+big player	hp	14
+extension	hpp	1
+well-known name	hp	1
+emerging technology	hpv dna testing	1
+traditional technique	hplc	1
+product category	hplc labeling reagents	1
+latest technology	hp superdomes	1
+contract	hphc's first seniority program for medicare	1
+tag	hpgl	1
+well-known company	hp	3
+item	hplc column	1
+item	hp ups	1
+safety device	hpi pump	1
+key component	hp one 	4
+side-effects	hppd	1
+vital information	hplc system identification	1
+pressure	hp	1
+embodiment	hpdlc device	2
+big brand	hp	9
+big brand	hp pavilion	1
+big brand	hp compaq	1
+management tool	hp systems insight manager	4
+management tool	hp openview	4
+management tool	hp ovo	1
+management tool	hp openview operations	1
+management tool	hpserviceguard manager	1
+management tool	hp management tool	1
+management tool	hp insight control	1
+management tool	hp operations manager	1
+editor	hp language-sensitive editor	1
+diet	hpw	4
+multinational company	hp	14
+spare part	hp laser printer spares	1
+conventional technique	hplc	2
+advertiser	hp	3
+water	hplc grade	1
+analytical technique	hplc	17
+analytical technique	hplc dissolution testing	1
+leading company	hp	5
+operating system	hp-ux	7
+operating system	hp ux	1
+operating system	hp open view	1
+plastic	hpde	2
+fault	hpd	3
+sauce	hp fruity	1
+sauce	hp bbq	1
+sauce	hp chilli	1
+peer	hp digital entertainment center z five hundred and sixty-five 	1
+innovative technology	hp innovative technology	1
+stat	hp percentage	1
+multinational	hp	24
+table	hp	1
+venture	hpschd	1
+industry giant	hp	12
+great brand	hp	3
+loan	hp	1
+safety measure	hpa suppression growth velocity	1
+light	hps	2
+item	hp laptop	1
+item	hp surestor dlt	1
+item	hp recovery herb	1
+item	hpadf cleaning cloth	1
+item	hp sauce	1
+item	hp regen item	1
+item	hp-recovery item	1
+item	hp eight thousand six hundred  marker generator 	1
+item	hp eight thousand six hundred and one a sweep generator 	1
+item	hp laserjets	1
+research area	hpc	1
+distributor	hp	1
+industry standard	hp design rule	1
+industry standard	hp open view	1
+skin condition	hpv	1
+computer	hp	46
+global company	hp	9
+exhibitor	hp	1
+remote area	hpgr building	1
+hormone	hpa axis hormone	1
+clinical parameter	hpvtypewith clinical parameter	1
+architecture	hp serviceguard	1
+negative effect	hp loss	1
+global brand	hp	4
+contact	hp	1
+entrant	hp	1
+file format	hpgl	1
+marketing tool	hpas	1
+convenient feature	hp linkup technology	2
+datum set	hpms	2
+research	hplc analysis	1
+influencing factor	hpam concentration	5
+replacement part	hp computer fan	1
+window	hp bar	1
+processor	hp pa	1
+powder	hp thirty-eight 	1
+basic datum	hp	1
+market leader	hp	9
+market leader	hpq	1
+large firm	hp	1
+premium brand	hp	1
+reputable company	hp	8
+leading brand	hp	4
+leading brand	hpc healthline	1
+suitable material	hpl solid core panels for the door leaf	1
+analytical tool	hplc	3
+area	hpc	2
+top company	hp	5
+top company	hp-compaq	5
+software product	hp-ux	1
+binder	hpc	1
+optional service	hp jetdirect ethernetorfast ethernet	1
+national brand	hp	1
+analysis technique	hplc-sara analysis	1
+frame	hp's wireless dreamscreen	2
+examination	hplc	1
+high quality material	hpc	1
+heavy hitter	hp	2
+battery	hp pavilion zt one thousand one hundred  battery 	1
+battery	hp ultra-capacity battery	1
+battery	hp hstnn-db two  battery 	1
+battery	hp long life battery	1
+battery	hp f two thousand two hundred and ninety-nine a battery 	1
+battery	hp hstnn-ub two  battery 	1
+battery	hp omnibook xt one thousand   battery 	1
+battery	hp pavilion zt one thousand   battery 	1
+battery	hp pavilion xz two hundred  battery 	1
+battery	hp f three thousand one hundred and seventy-two a battery 	1
+battery	hp extended life battery	1
+battery	hp f four thousand and ninety-eight a battery 	1
+mountain	hpone kan razi for trekking tour	1
+diagnostic procedure	hpv testing	1
+sophisticated technique	hplc	1
+management system	hp openview	2
+management system	hp's service manager	1
+assay	hplc	2
+assay	hplc analysis	1
+kit	hps light kit	1
+printer	hp	24
+printer	hp designjet z six thousand one hundred 	3
+printer	hp laserjet  four ml printer 	2
+printer	hp photosmart plus	2
+printer	hp deskjet  one thousand two hundred c 	1
+printer	hp deskwriters	1
+printer	hp jetdirect	1
+printer	hp laserjet  five si 	1
+printer	hp photosmart d seven thousand one hundred and sixty-three  printer 	1
+printer	hp's pcl printer	1
+printer	hp laserjet  four 	1
+printer	hp officejet  eight thousand six hundred a premium e-all-in-one 	1
+printer	hp inkjet printer	1
+printer	hp designjet b nine thousand one hundred and eighty 	1
+printer	hp deskjet  seven hundred and twenty c 	1
+printer	hp  nine thousand  	1
+printer	hp photosmart d seven thousand three hundred and sixty 	1
+printer	hpgl	1
+printer	hp laserjet  four thousand one hundred 	1
+printer	hp series iii	1
+printer	hp photosmart premium cn five hundred and three b all-in-one wireless printer 	1
+printer	hp photosmart d seven thousand one hundred and sixty  printer 	1
+printer	hp photosmart d seven thousand three hundred and sixty  printer 	1
+printer	hp photosmart d seven thousand three hundred and sixty-three  printer 	1
+printer	hp photosmart d seven thousand five hundred and sixty 	1
+printer	hp photosmart pro b nine thousand one hundred and eighty 	1
+printer	hp three 	1
+printer	hp officejet mobile	1
+printer	hp laserjet pro p one thousand one hundred and two w printer 	1
+printer	hp laserjet  four thousand  	1
+printer	hp laserjet m three thousand and twenty-seven  mfp 	1
+powerhouse	hp	1
+analytical method	hplc	13
+analytical method	hplc-ms	1
+analytical method	hptlc	1
+controller	hp smartarray	2
+online retailer	hp	2
+online retailer	hp direct	1
+american company	hp	4
+file type	hpgl	1
+consumer electronics	hp	3
+built-in feature	hp auto-off	1
+high profile client	hp	1
+free tool	hp's web jetadmin package	1
+case study	hp	1
+vaccine	hpv	6
+vaccine	hpv vaccine	3
+online store	hp	1
+online store	hp home & office	1
+standard technique	hplc	2
+screen	hp	1
+screen	hp lp two thousand and sixty-five 	1
+screen	hp's touchsmart desktop	1
+industry player	hp	1
+wireless device	hp ipaq rx three thousand  	1
+U.S. company	hp	6
+advanced tool	hp's enterprise mobility agent	1
+top name brand	hp	3
+technology company	hp	16
+technology company	hpq	1
+best brand	hp	6
+popular name	hp	3
+service company	hp	1
+service company	hpcl	1
+acquisition	hp acquiring palm	1
+industry expert	hp	1
+area	hp's cloud matrix management suite	1
+area	hpc environment	1
+area	hpi	1
+area	hpe	1
+area	hptc	1
+area	hpc areas helping companies looking for real-time decision making based on large amounts of datum	1
+corporate sponsor	hpnotiq	1
+specialization	hp service sales specialist	1
+global player	hp	4
+drive	hp travans	1
+world leader	hp	1
+user group	hp	1
+motor	hpi's modified	1
+trade association	hpga	1
+reputable brand	hp	4
+top brand name	hp	2
+top brand name	hpi	1
+viral infection	hpv	21
+computer system	hp	1
+computer system	hp  three thousand   work station 	1
+grade	hps  seventy w 	1
+software company	hp	1
+check	hpi	1
+mediator	hp-induced inflammatory mediator	1
+programming language	hpf	2
+literature	hp's book on turbocharging	1
+high quality brand	hp	1
+hybrid	hpnotiq	1
+screening test	hpv dna test	2
+screening test	hpv test	1
+corporate giant	hp	4
+popular model	hp laserjet series	4
+popular model	hpi savage	1
+student activity	hps dr. suess celebration	1
+top manufacturer	hp	7
+top manufacturer	hpl socomec	1
+international player	hp	1
+multinational corporation	hp	5
+tablet	hp's windows  seven -powered slate 	1
+tablet	hp touchpad running cyanogen mod	1
+tablet	hp palmpad	1
+tablet	hp's touch pad	1
+great leader	hp	1
+baked good	hpc's famous baked good	1
+hardware device	hp ilo	4
+hardware device	hp msa two thousand  i 	1
+hardware device	hp server	1
+handy feature	hp eprint mobile printing	1
+weight	hp brochure	1
+medium type	hp colorfast adhesive vinyl	1
+medium type	hp cover stock	1
+basic parameter	hpc	1
+laser	hp color laserjet  two thousand six hundred and five dtn 	1
+oil company	hpcl	1
+office supply	hp ink	1
+key partner	hp	9
+generator	hp  eight thousand six hundred and fourty b 	1
+generator	hp  eight thousand six hundred and fifty-six b 	1
+conglomerate	hp	1
+common tool	hp openview	1
+common tool	hp open-view	1
+brand name product	hp	3
+convenience feature	hp convenience feature	1
+established company	hp	3
+law enforcement agency	hpd	1
+detection method	hplc detection method	1
+quantitative method	hplc	2
+renowned company	hp	2
+steroid	hpg axisandgonadal steroid	1
+truck	hpi micro rs- four 	1
+exclusive feature	hp magic canvas	2
+exclusive feature	hp	2
+exclusive feature	hp linkup	1
+infectious agent	hpv	2
+external resource	hp service professional	1
+software vendor	hp	3
+excipients	hpmc	7
+branded product	hp	3
+branded product	hp compaq	2
+branded product	hp from common chinese company	1
+branded product	hp ink cartridge	1
+business partner	hp	4
+established brand	hp	1
+famous company	hp	3
+famous company	hp company	1
+seminar	hpc voltage regulator seminar	1
+industry heavyweight	hp	1
+big name brand	hp	5
+collaboration tool	hp quality center	1
+great company	hp	6
+ongoing project	hpss	1
+benchmark	hpl benchmark	1
+sphere	hp sphere	1
+cluster	hp serviceguard	1
+cluster	hp xc four thousand  	1
+successful company	hp	2
+global organization	hp	1
+lamp	hps	3
+professional society	hpna	1
+renowned brand	hp	2
+top quality brand	hp	1
+exclusion	hp ink	1
+hardware item	hp laser jet printer	2
+corporates	hp	3
+corporates	hpcl	1
+equipment manufacturer	hp	4
+state-of-the-art technology	hplc technologies for greater accuracy	1
+big brand name	hp	4
+leading manufacturer	hp	4
+high-profile case	hp	1
+basic term	hp	1
+comorbid condition	hpv	1
+industry partner	hp	1
+blue chip company	hp	3
+handset	hp	1
+service	hp support	3
+well-known manufacturer	hp	2
+scanner	hp deskjet f four thousand two hundred and fourty 	1
+scanner	hp single sheet scanner	1
+scanner	hp scanjet g four thousand and fifty  photo scanner 	1
+scanner	hp scanjet scanner	1
+standard information	hp rating	1
+skeptic	hp's mark hurd	1
+third party application	hp kintana	1
+categorical variable	hpv genotypes	1
+monitoring tool	hp openview	3
+monitoring tool	hp's insight manager	1
+monitoring tool	hp opsware	1
+monitoring tool	hp servicecentre	1
+strategic partner	hp	3
+viral disease	hpv	3
+viral disease	hps	1
+automated system	hplc	2
+key account	hp	2
+large manufacturer	hp	8
+large manufacturer	hp ibm dell cisco apc	1
+trial	hps	3
+prominent company	hp	21
+global corporation	hp	2
+international conference	hpm	1
+international conference	hpc-asia  two thousand and nine 	1
+manufacture	hp	4
+global giant	hp	1
+big boy	hp	1
+principal	hp	4
+importer	hpcl	1
+file system	hpfs	2
+file system	hpss	2
+water quality parameter	hpc	1
+top quality product	hp	2
+mixer	hp sixty-two 	1
+notable company	hp	1
+big business	hp	1
+characterization technique	hpsec	1
+digital technology	hp ink cartridge	1
+innovative company	hp	3
+international client	hp	2
+simple function	hp	1
+edge technology	hp bladesystem	1
+large enterprise	hp	1
+complementary product	hpmc	1
+large venue	hp pavilion at san jose	1
+monitor	hp lp two thousand four hundred and sixty-five 	1
+monitor	hp dream color	1
+monitor	hp lp two thousand four hundred and seventy-five w 	1
+laptop	hp	12
+laptop	hp laptop	6
+laptop	hp g sixty-two t 	2
+laptop	hp pavillion	1
+laptop	hp dv five 	1
+laptop	hp pavilion dv five t 	1
+laptop	hp pavilion dv six t 	1
+laptop	hp nw eight thousand four hundred and fourty 	1
+laptop	hp compaq cq sixty 	1
+laptop	hp&c ompaq	1
+large client	hp	2
+tire	hp street tire	1
+trademark	hp	1
+factor	hp pool	1
+international firm	hp	2
+complex procedure	hplc	2
+commercial tool	hp openview	1
+wireless network	hpwren in southern california	1
+simulator	hpr simulator	1
+big firm	hp	1
+huge company	hp	4
+big name company	hp	4
+core skill	hp	1
+storage system	hp fse	1
+adopter	hp	1
+global leader	hp	4
+third-party tool	hp quality center	3
+third-party tool	hp network node manager	1
+large player	hp	2
+analog	hprt canalsophosphoribosylate purine analog	1
+commercial	hpv awareness	1
+datum format	hpgl	1
+ink	hp special ink	1
+high-tech company	hp	3
+cartridge	hp nine thousand   printer 	2
+cartridge	hp laser cartridges	1
+inflammatory mediator	hp-induced inflammatory mediator	1
+expensive brand	hp	3
+biggie	hp	2
+decorative material	hpl	1
+innovative tool	hp performance tuning framework	2
+international corporation	hp	1
+synthetic polymer	hpmc	1
+virulence factor	hp virulence factor	1
+blue chip	hpg	1
+professional feature	hp's  three d driveguard 	1
+large customer	hp	1
+smart phone	hp ipaq glisten	2
+smart phone	hp palm os	1
+mobile technology	hp tablet pcs	1
+public sector organization	hpcl	2
+separation technique	hplc	5
+tech company	hp	5
+tech company	hp korea	1
+resellers	hp	2
+city department	hpd	1
+green technology	hp latex ink printer	1
+reputed company	hp	4
+collaboration	hpc university	1
+service	hp three thousand   consulting 	1
+service	hplc purified custom sirnas	1
+service	hplc analysis	1
+service	hp system healthcheck service	1
+laboratory technique	hplc	1
+third party tool	hp quality center	1
+third party tool	hp quicktest professional	1
+yearly event	hp-ux user group	1
+high-profile project	hp pavilion	1
+multimedia device	hp ipaq	3
+multimedia device	hp internet camera	1
+corporate entity	hp	1
+enabling technology	hp sonos digital network interface	1
+enabling technology	hp enconcert digital-image management system	1
+conventional approach	hplc analysis	1
+hardware product	hp oracle exadata storage server	1
+grocery	hp sauce	1
+marquee name	hp	2
+original equipment manufacturer	hp	12
+american brand	hp	2
+third-party product	hp openview	1
+OS	hp-ux	1
+big organization	hpcl	1
+popular brand name	hp	2
+entertainment feature	hp quickplay for playing movie	2
+multi-national company	hp	2
+corporate partner	hp	2
+global firm	hp	3
+infrastructure component	hp data protector cell manager server	1
+OEMs	hp-compaque	1
+physical datum	hplc retention time	2
+security solution	hp ipaq pocket pc unique biometric fingerprint reader	1
+wireless system	hp	1
+market player	hp	1
+modern equipment	hplc	1
+commercial system	hp business desktop pcs	1
+commercial system	hp openview	1
+multinational firm	hp	1
+project management tool	hp ppm	1
+screening method	hpv dna testing	1
+screening method	hpv dna-based screening	1
+contagious disease	hpv	1
+array	hp storageworks eva	1
+key brand	hp	1
+high-tech industry	hp	1
+giant company	hp	3
+reliable brand	hp	4
+standard procedure	hplc	3
+difficult case	hporot seven  error 	1
+technology product	hp	1
+service	hp upline	1
+service	hplc plc dcs-scada	1
+voluntary program	hpv challenge program	2
+free product	hp laptop	1
+systemic effect	hpa axis suppression	1
+research group	hp	1
+year company	hp	2
+experimental datum	hplc profile	1
+production system	hpss	1
+adapter	hp ws adapter	1
+integrated feature	hp secure web console	4
+keyboard	hp bluetooth foldable keyboard	4
+keyboard	hp workstation keyboard	1
+keyboard	hp ipaq bluetooth foldable	1
+sensitive application	hplc	2
+sensitive technique	hplc	1
+technology provider	hp	4
+big manufacturer	hp	2
+popular store	hp	4
+consumer brand	hp	2
+member company	hp	1
+reporting tool	hp service desk	1
+calculator	hp  ten bii 	6
+calculator	hp- seventeen b 	4
+calculator	hp  twelve c 	4
+calculator	hp- fourty-eight 	3
+calculator	hp fourty-eight  in the teaching of calculus 	1
+calculator	hp- fourty-one 	1
+calculator	hp- ten b 	1
+calculator	hp  nine thousand eight hundred and ten a by hewlett packard 	1
+calculator	hp fourty-eight g 	1
+calculator	hp- thirty s 	1
+calculator	hp- sixty-five 	1
+formalism	hpsg	1
+management program	hp openview	1
+physical force	hp	1
+popular name brand	hp	1
+laboratory procedure	hplc	1
+large vendor	hp	12
+regional airport	hpn	1
+single factor	hpv risk	1
+big client	hp	2
+big guy	hp	1
+vaccination	hpv	2
+western company	hpl technologies	1
+backer	hp	1
+data-intensive application	hpc	1
+large multinational	hp	2
+industry name	hp	2
+behemoth	hp	5
+sexually transmitted disease	hpv	13
+city agency	hpd	2
+technology leader	hp	2
+global client	hp	1
+armed group	hpg	1
+global major	hp	2
+reputable manufacturer	hp	2
+access device	hp wireless access device	1
+best quality product	hp two -z sixteen  from pass four sure test dump for hp hp certification hp two -z sixteen  test preparation 	1
+introduction	hp mini  one thousand and thirty-three cl netbook 	1
+repair service	hp pavilion laptop repair	1
+third party program	hp omniback	1
+organic polymer	hpc	1
+notebook	hp dv five thousand  z 	1
+notebook	hp compaq nc six thousand  	1
+notebook	hp compaq  two thousand five hundred and ten p business notebook pc 	1
+notebook	hp compaq  six thousand eight hundred and thirty s 	1
+notebook	hp pavilion	1
+notebook	hp nx six thousand one hundred and twenty-five 	1
+notebook	hp compaq nc four thousand two hundred 	1
+notebook	hp dv six thousand  t 	1
+notebook	hp	1
+reputed brand	hp	2
+specialty material	hp pfa	1
+cure	hpv vaccine	1
+sensitive method	hpev-directed rt-nested pcr	2
+automobile company	hp	1
+closed environment	hpc cluster	1
+corporate company	hp	1
+hardware vendor	hp	20
+test equipment	hp  thirty-three thousand one hundred and twenty a 	1
+biggest brand	hp	4
+proprietary system	hp	2
+water-soluble polymer	hpmc	1
+commercial package	hp openview	1
+legacy system	hp	1
+multi-nationals	hp	1
+state-of-the-art technique	hplc-ec	1
+analytical instrument	hplc	10
+analytical instrument	hptlc	1
+computer company	hp	27
+computer company	hp-compaq	1
+mainstream brand	hp	1
+premier brand	hp	3
+large corporates	hp	1
+giant corporation	hp	1
+technology firm	hp	6
+technology partner	hp	8
+technology vendor	hp	6
+industry stalwart	hpcl	1
+laboratory equipment	hplc	1
+system integrators	hp	3
+computer product	hp	1
+european manufacturer	hpvelotechnik	1
+industry-leading brand	hp	1
+leading corporation	hp	2
+mainstream company	hp	2
+medical advance	hpv vaccine	4
+traditional company	hp	2
+electronics company	hp	2
+hardware manufacturer	hp	12
+RPG element	hp	2
+waveforms	hpw	1
+equipment vendor	hp	1
+hydrophilic polymer	hpmc	2
+hydrophilic polymer	hpmc k fifteen m 	1
+industry-leading company	hp	4
+hardware platform	hp	3
+hardware platform	hp network equipment	1
+paper type	hp heavyweight coated paper	18
+paper type	hp super heavyweight coated paper	6
+paper type	hp super heavyweight plus matte paper	4
+paper type	hp productivity gloss	3
+paper type	hp superheavyweight coated paper	2
+paper type	hp productivity photo gloss	2
+sophisticated equipment	hplc	2
+sophisticated equipment	hp lc	1
+STDs	hpv	50
+STDs	hpv infection	1
+computer manufacturer	hp	54
+computer manufacturer	hp compaq	1
+device manufacturer	hp	9
+management application	hp sim	1
+management application	hp openview	1
+management application	hp onboard administrator	1
+multi-national corporation	hp	2
+instrumental technique	hplc	1
+analyzer	hp  three thousand five hundred and sixty-six a 	2
+enterprise solution	hp openview	1
+global name	hp	1
+large supplier	hp	3
+measurement instrument	hp's measurement instrument	1
+mineral acid	hpo	1
+prototype	hp toner cartridges	1
+renowned organization	hp	1
+renowned organization	hpseb	1
+third party vendor	hp	1
+common technology	hp sitescope	1
+energy saving feature	hp auto-off	1
+specialist topic	hp storage	1
+trusted brand	hp	3
+infrastructure provider	hp	1
+modern product	hp vee	1
+popular manufacturer	hp	1
+technology giant	hp	9
+art technique	hpv amplicor test	1
+basic system	hpci subsystem	1
+great deal	hp tablet slate	2
+consulting company	hp consulting	2
+automation tool	hps quick test pro	1
+automation tool	hp quick test pro	1
+DNA virus	hpv	3
+global industry leader	hp	1
+established firm	hp	1
+topic	hpv vaccine	1
+topic	hpv	1
+topic	hp software portfolio roadmap	1
+chromatographic method	hplc	10
+chromatographic method	hptlc	1
+chromatographic method	hplc using uv	1
+chromatographic technique	hplc	21
+chromatographic technique	hplc with electrochemical detection	1
+chromatographic technique	hptlc	1
+excellent company	hp	2
+leading vendor	hp	7
+PC maker	hp	43
+mobile computing device	hp ipaq windows mobile device	1
+viral illness	hpv	1
+3rd party software	hp	1
+biochemical technique	hplc	3
+blue-chip client	hp	1
+complementary method	hplc	1
+handhelds	hp jornada	1
+online vendor	hp	1
+sophisticated instrument	hplc	1
+electronics manufacturer	hp	1
+electronics manufacturer	hp jvc	1
+sophisticated product	hp openview	1
+system vendor	hp	12
+computer maker	hp	13
+external drive	hp	1
+biochemical method	hplc	3
+immunization	hpv	2
+rival company	hp	3
+successful organization	hp	1
+tech giant	hp	9
+techn iques	hplc	1
+clinical trial	hps	1
+device driver	hp drivers	2
+latest model	hp ipaq hw six thousand five hundred  mobile messenger 	1
+latest model	hp- fourty-one  handheld computer 	1
+global customer	hp	1
+latest product	hp designjet  three thousand five hundred cp 	1
+multimedia technology	hp sharedx	1
+reputable name	hp	2
+biggest company	hp	1
+charger	hp laptop charger	1
+pot	hp pot	1
+quality company	hp	1
+world famous company	hp	1
+best manufacturer	hp	1
+laboratory instrument	hplc	2
+world-class organization	hp	2
+global partner	hp	6
+headphone	hp	1
+headphone	hpx one 	1
+merger	hp-compaq merger	1
+traditional player	hp	1
+advanced instrument	hplc	2
+electronic company	hp	1
+equipment brand	hp	1
+high tech company	hp	1
+purification technique	hplc	3
+STIs	hpv	12
+brand owner	hp	1
+compan ies	hp	1
+efficient technology	hplc	1
+high risk factor	hpv infection	1
+medium program	hp media center	1
+OSs	hp ux	1
+OSs	hp-ux	1
+company	hp	839
+company	hpcl	6
+company	hp on the customer list	4
+company	hpi	4
+company	hpl inc	1
+company	hpa	1
+company	hp hotels	1
+company	hp india	1
+company	hp sweden	1
+easy-to-use feature	hp smart web printing	1
+instrumental method	hplc	3
+instrumental method	hplc for conducting the test	1
+software platform	hp's webos	4
+software platform	hp's web os	1
+big-name client	hp	1
+channel partner	hp	1
+industrial leader	hp	4
+multinational brand	hp	1
+netbooks	hp mini	12
+netbooks	hp mini  three hundred and eleven 	4
+netbooks	hp pavilion dv four t customizable notebook 	1
+netbooks	hp  two thousand one hundred and thirty-three  mini-note 	1
+third-party provider	hp	1
+good alternative	hp	1
+hardware option	hp	1
+management solution	hp openview select identity	1
+national campaign	hpv immunisation program	1
+screening procedure	hplc	1
+collaborative application	hp's new skyroom online video conferencing software	1
+commercial software package	hp sopenview transaction analyzer	1
+hardware company	hp	7
+infectious organism	hpv	1
+PC manufacturer	hp	20
+popular platform	hp palm's webos	1
+key competitor	hp	1
+professional service organization	hp	1
+respected company	hp	1
+well-known business	hp	2
+boasting client	hp	1
+grantee	hptc	1
+hardware requirement	hp	1
+industry application	hp openview	1
+management software	hp device manager	5
+management software	hp web jetadmin	2
+management software	hp toptools	1
+medium brand	hp	2
+reliability feature	hp durafinish	1
+toner	hp toner	1
+toner	hp laserjet cartridges	1
+toner	hp ce two hundred and twenty-eight a toner 	1
+transnational company	hp	1
+commercial database	hpi group ltd	4
+commercial database	hpi	1
+oil major	hpcl	1
+powerful company	hp	1
+sexually transmitted infection	hpv	1
+virtualization solution	hp virtual server environment	1
+world-famous brand	hp compaq computer corporation	1
+burner	hp dvd two hundred i 	1
+expensive solution	hp openview	2
+water soluble polymer	hpmc	1
+certification exam	hp two -e thirty-eight  exam 	1
+certification exam	hp zero -m twenty-four  exam 	1
+hardware maker	hp	2
+highest quality brand	hp	1
+online brand	hp	1
+storage vendor	hp	5
+brand leader	hp	2
+built-in security feature	hp protecttools	1
+device maker	hp	2
+established site	hp	1
+file extension	hpgl	1
+global business	hp	2
+great offer	hp tablet slate	1
+handheld computer	hp journada	1
+handheld computer	hp ipaq	1
+handmade accessory	hp straps	2
+OEM product	hp	1
+traditional competitor	hp	1
+workstation	hp  nine thousand  	1
+workstation	hp xw four thousand one hundred 	1
+backup device	hp storageworks d two d backup systems 	1
+brand name company	hp	1
+original product	hp	1
+partition	hpfs	1
+character information	hp	2
+expensive tool	hp quality center	1
+key manufacturer	hp	1
+large technology company	hp	1
+minor upgrade	hpi  two -speed transmission 	1
+minor upgrade	hpi super shocks	1
+pathogenic virus	hpai	1
+research initiative	hpcvl at queen's university	1
+u.s.-based company	hp	1
+image editing software	hp photosmart premier	1
+nameplate	hp	2
+small machine	hpc air tower	1
+tech firm	hp	1
+utilized tool	hp openview	1
+utilized tool	hp open view	1
+vender	hp	1
+PCs	hp slimline s three thousand and twenty n 	1
+PCs	hp kayaks	1
+public sector company	hpcl	1
+world's top brand	hp networking product	1
+common model	hp mini	1
+essential equipment	hplc	2
+flagship brand	hp	2
+locus	hprt	1
+mainstream manufacturer	hp	3
+STD	hpv	4
+top international brand	hp	3
+traditional manufacturer	hp in succession fall in apple foot	2
+well-known vendor	hp	4
+well-known vendor	hp tippingpoint	1
+corporate house	hp india	1
+external database	hpertextlinksto external database	1
+international customer	hp foods	1
+lab technique	hplc	1
+OSes	hp-ux	2
+OSes	hp's webos	1
+american business	hp	1
+backup solution	hp data protector	1
+high end application	hpc system	1
+hi-tech company	hp	2
+information technology company	hp	1
+large competitor	hp	2
+popular make	hp	1
+USB peripheral	hp photosmart s twenty  photo scanner 	1
+bigwig	hp	1
+health intervention	hpv vaccine	1
+host system	hp-ux	1
+live vaccine	hpv	1
+marquee client	hp	1
+multinational client	hp	2
+unix system	hp-ux	4
+unix system	hp alpha workstation	1
+unix system	hp	1
+high technology company	hp	1
+high-profile brand	hp	2
+standard system	hp open view	1
+best brand name	hp	1
+comapnies	hp	1
+cool prize	hp touch smart	1
+educational component	hps educational component	1
+housekeeping gene	hprt	2
+large tech company	hp	1
+large tech company	hpq	1
+top notch brand	hp	1
+vendor partner	hp	4
+established vendor	hp	1
+famous international brand	hp	1
+global supplier	hp	1
+grammar	hpsg	2
+large american company	hp	1
+portfolio company	hp	1
+printing application	hp mobile printing for pocketpc	1
+best company	hp	1
+big vendor	hp	5
+handful	hp's psc  two thousand two hundred and ten 	1
+reputable vendor	hp	1
+top supplier	hp	1
+traditional vendor	hp	2
+authentic product	hp zero -y thirty-three  from test king latest prep guide 	1
+basic stat	hp	1
+bellwether	hp	1
+chronic viral infection	hpv	3
+inkjet printer	hp	4
+inkjet printer	hp photosmart premium	1
+international vendor	hp	1
+key vendor	hp	2
+leading brand name	hp	2
+modern analytical technique	hplc	1
+network interface	hp jetdirect print server	1
+OEM manufacturer	hp	3
+top-selling brand	hp	1
+high quality brand name	hp	2
+high-tech equipment	hplc	1
+installation tool	hp sum	1
+laptop brand	hp	17
+laptop brand	hp compaq	7
+measurement technology	hplc	2
+tablet device	hp slate	1
+top-quality brand	hp	1
+big sponsor	hp	1
+laptop manufacturer	hp	12
+leading global brand	hp	3
+regular recruiter	hp	1
+renowned customer	hp	2
+server vendor	hp	7
+server vendor	hp and sun microsystems	1
+awesome prize	hp netbook computer	1
+conventional analytical technique	hplc	2
+desktop computer	hp  nine thousand eight hundred and thirty 	3
+electronics retailer	hp	1
+good model	hp nc six thousand  	1
+PC vendor	hp	14
+printer manufacturer	hp	18
+software giant	hp	1
+thin client	hp compaq t five thousand   series thin client 	1
+thin client	hp t five thousand one hundred and thirty-five 	1
+abundant protein	hpv one  l one 	1
+alliance partner	hp's agility alliance partner	1
+currently available technology	hp's halo virtual presence system	1
+global service provider	hp	1
+holiday company	hpb	1
+key stock	hpcl	1
+large US company	hp	2
+party product	hp openview	1
+reliable manufacturer	hp	1
+system provider	hp	3
+brad	hp	1
+cohort study	hpfs	1
+event sponsor	hp	1
+high-end system	hp superdome	1
+preparation material	hp zero - ninety-one  from test king online exam preparation material 	1
+preparation material	hp two -z fifteen  from test king online study material 	1
+preparation material	hp hp two -z eighteen  from test king's latest course 	1
+system company	hp	1
+electronics brand	hp	1
+gene mutation	hprt mutation	1
+laptop computer	hp pavilion ze four thousand nine hundred 	1
+laptop computer	hp pavilion hdx sixteen t 	1
+laptop computer	hp	1
+leading producer	hp	1
+performance enhancement	hp's exclusive power-on-from-the-keyboard design	1
+purification procedure	hplc	1
+school-based program	hpv vaccination program	1
+server platform	hp	1
+silicon valley company	hpq	1
+technology manufacturer	hp	1
+adaptive technique	hp finite-element method	1
+cellulose ether	hpmc	2
+comprehensive solution	hp data protector for pcs	1
+decent brand	hp	1
+high-end model	hp	2
+OEM customer	hp	2
+practical field	hpt	1
+factor	hpv status	1
+factor	hpv testing for serotypes	1
+factor	hpv type	1
+factor	hp virulence factor	1
+factor	hplc gradient	1
+factor	hpmc concentration in the tablet	1
+factor	hpiv type	1
+factor	hp buff	1
+tough competitor	hp	1
+world-class manufacturer	hp	2
+computer giant	hp	7
+computer vendor	hp	5
+electronic giant	hp	1
+hybrid method	hplc size exclusion chromatography	1
+independent brand	hp product	1
+industry bigwig	hp	2
+OEM partner	hp	3
+system supplier	hp	2
+workflow system	hp changeengine	1
+big-name manufacturer	hp	1
+corporate player	hp	1
+electronic manufacturer	hp	1
+large name	hp	2
+laser printer	hp two thousand three hundred  laser printer 	3
+laser printer	hp one thousand three hundred  laser printer 	2
+laser printer	hp laserjet series ii	2
+laser printer	hp	2
+laser printer	hp laserjet	2
+laser printer	hp lasejet series ii	1
+manufacturer brand	hp	1
+physico-chemical method	hplc	2
+powerful card	hp	1
+reliable name	hp	1
+Viral oncoproteins	hpv e seven 	2
+Viral oncoproteins	hpv e six 	1
+advanced analytical method	hplc with electrochemical detection	2
+advanced analytical method	hplc	1
+analytical information	hplc datum	2
+common store	hp	1
+measuring technique	hplc	1
+networking vendor	hp	1
+neurosis	hpd caused by lack of parental love	1
+PDA device	hp ipaq	1
+PDA device	hp ipaq pocketpc	1
+separation device	hplc	1
+signal generator	hp  eight thousand six hundred and fourty-two a  eight thousand six hundred and fourty-two a 	1
+signal generator	hp  eight thousand six hundred and fourty-two a 	1
+sophisticated solution	hp's new dynamic smart cooling	1
+specialist supplier	hpc laser	1
+system management tool	hp systems insight manager	1
+system management tool	hp openview	1
+big tech company	hp	2
+camera company	hp	1
+chassis	hpi prod	1
+commercial offering	hp webinspect	1
+gear pump	hpv one hundred and fourty-five 	2
+gear pump	hpv one hundred and sixteen 	2
+gear pump	hpv one hundred and two 	2
+gear pump	hpv ninety-one dw 	2
+gear pump	hpv ninety 	1
+gear pump	hpv thirty-five 	1
+global heavyweight	hp	1
+global producer	hp	1
+large initiative	hp's adaptive enterprise	1
+large OEMs	hp	6
+large-scale company	hp	1
+PC company	hp	7
+polymeric component	hpmc	1
+power brand	hp sauce	1
+programming skill	hpf	1
+system manufacturer	hp	1
+top technology company	hp	2
+chromatography method	hplc	1
+company site	hp	1
+innovation leader	hp	1
+probabilistic approach	hpc experimental probabilistic qpf	1
+reliable feature	hp durafinish	18
+reliable feature	hp durakeys	16
+reliable feature	hp  three d driveguard 	2
+reliable feature	hp durafinish andhp  three d driveguard 	1
+server operating system	hp-ux	1
+technology brand	hp	1
+technology-based company	hp	1
+top quality part	hp	1
+alliance member	hp	1
+compact model	hp- twenty-seven s 	1
+computer brand	hp	9
+good accessory	hp	1
+linear filter	hpestimator linear filter	1
+manufactuers	hp	1
+network analyzer	hp eight thousand seven hundred and fifty-three c with an ifft option 	1
+OEM company	hp	2
+oil marketing company	hpcl	9
+product vendor	hp	1
+public sector enterprise	hpcl	2
+server system	hp laptop server system	1
+sophisticated software	hp's systems insight manager	1
+technology industry leader	hp	1
+Big corporates	hp	1
+enterprise software vendor	hp	1
+enterprise vendor	hp	6
+famous computer company	hp	1
+financial calculator	hp- twelve c 	3
+financial calculator	hp  twelve c 	2
+financial calculator	hp  ten b 	1
+financial calculator	hp twelve c calculator 	1
+financial calculator	hp  twelve b 	1
+management platform	hp openview	2
+mature company	hp	1
+modern analytical method	hplc	2
+network supplier	hp	1
+oil stock	hpcl	1
+printer brand	hp	3
+quality paper	hp premium heavyweight inkjet paper	1
+Tablet PCs	hp	1
+top tier brand	hp	2
+vendor product	hp's virtual connect	1
+viral promoter	hpv promoter	4
+Viral STDs	hpv	19
+analytical equipment	hplc	1
+appliance vendor	hp	2
+best-of-breed vendor	hp	1
+Blue-chips	hpcl	2
+common operating system	hp-ux	1
+computing company	hp	1
+fierce competitor	hp	1
+global vendor	hp	2
+global vendor	hp enterprise services	1
+grammar formalism	hpsg	2
+hardware provider	hp	3
+hardware provider	hp insight manager	1
+high intensity discharge lamp	hps	1
+HP product	hp pavilion	1
+HP product	hp premium plus photo paper	1
+HP product	hp accessories	1
+HP product	hp laptop	1
+HP product	hp netbook	1
+HP product	hp photo scanner	1
+laptop battery	hp laptop battery	2
+laptop battery	hp	1
+laptop battery	hp compaq	1
+manufacturer's website	hp	1
+monitoring solution	hp openview	1
+OEM	hp	5
+printer consumable	hp	1
+Productivity software	hp document manager	1
+tech vendor	hp	1
+traditional analytical technique	hplc	1
+UNIX platform	hp-ux	3
+UNIX platform	hp	1
+UNIX platform	hp tru sixty-four 	1
+information	hpna position statement	1
+big computer company	hp	1
+big global company	hp	1
+commercial supplier	hp	1
+exclusive facility	hp magic canvas	1
+forward-looking company	hp	2
+high performance fiber	hppe	1
+large system integrators	hp	4
+monster truck	hpi savage	2
+screening strategy	hpv testing	1
+standard analytical technique	hplc	4
+store online	hp	1
+super preparation product	hp zero -s twenty-nine  from testkings latest course 	1
+superb product	hp hp expertone hp zero -j fifty-four  from test kings courses online 	2
+system maker	hp	1
+TLR ligands	hp lps	1
+top-rated brand	hp	1
+vendor relationship	hp	1
+analytical methodology	hplc	1
+best selling brand	hp	1
+big name manufacturer	hp	1
+captive	hp	3
+chromatography technique	hplc	3
+chromatography technique	hptlc	1
+color printer	hp	1
+hardware player	hp	1
+large computer company	hp	1
+large software vendor	hp	1
+local and international brand	hp	1
+purine analog	hprt canalsophosphoribosylate purine analog	1
+stock brand name	hp	1
+utilising technology	hp's virtual connect	1
+utilising technology	hp	1
+valuable and authentic product	hp certification hp two -z seven  hp from testking's updated course 	1
+best deal	hp touchsmart  three hundred - one thousand one hundred and twenty-five  all-in-one desktop 	1
+big IT company	hp	1
+computer firm	hp	1
+consumer model	hp tx two z 	1
+desktop product	hp desktop	1
+developmental anomaly	hpe	1
+global market leader	hp	1
+hardware partner	hp	4
+high-end smartphones	hp ipaq rw six thousand eight hundred and twenty-eight 	1
+higher-end model	hp- fourty-one 	1
+higher-end model	hp pavilion dv seven - three thousand one hundred and eighty us 	1
+huge player	hp	1
+independent laboratory	hp white laboratories	1
+international big name	hp	2
+laptop model	hp envy  seventeen - one thousand and ten nr 	1
+laptop model	hp g fourty-two - two hundred and fifty la 	1
+Leading OEMs	hp	1
+linguistic theory	hpsg	2
+medical development	hpv vaccine	1
+national datum set	hpms	1
+play game	hpf game chamber play game	1
+premiere brand	hp	1
+rapid technique	hplc	1
+recovery operation	hp ai	1
+reputed international brand	hp compaq	1
+rounded object	hp line	1
+traditional analytical method	hplc	1
+underground rapper	hp lyrikz	1
+virulent disease	hpai	1
+apple's competitor	hp	1
+assay method	hplc	1
+autodesk product	hp two thousand one hundred and thirty-three  support autodesk product 	1
+award-winning feature	hp vectra vl eight hundred  mt's tool-free chassis design 	1
+branded computer	hp	3
+information	hps standards	1
+information	hp veer  four g part overview 	1
+consumer electronics brand	hp	1
+conventional purification technique	hplc	2
+efficient light source	hps	3
+environmentally conscious company	hp	1
+global IT giant	hp	1
+hardware supplier	hp	1
+hyphenated technique	hplc combined with diode array	1
+laptop product	hp laptop	1
+laptop product	hp	1
+large factory	hp sauce factory	2
+management utility	hp web jetadmin	1
+multinational vendor	hp	1
+oncogenic virus	hpv	1
+original manufacturer	hp	2
+popular top brand	hp	1
+populars memory card	hp	1
+poultry disease	hpai	1
+screening study	hpv testing	1
+smart tool	hp smart web printing	1
+STI	hpv	1
+unix variant	hp-ux	2
+unix variant	hp's hp-ux	1
+Viral STIs	hpv	7
+virtualization	hpvm	2
+basic research technique	hplc	1
+bellwether company	hp	1
+big american company	hp	1
+brand machine	hp	1
+company online	hp	1
+foreign-based company	hp korea	1
+hardware giant	hp	2
+ICT company	hp vodafone	1
+ICT company	hp	1
+large clinical trial	hps	1
+large IT company	hp	2
+LCD TV brand	hp	2
+notebook vendor	hp	2
+page description language	hpgl in being a programming language	1
+page printer	hp laserjet	1
+page printer	hp	1
+photo software	hp photosmart essential	3
+power meter	hp  four hundred and thirty-six a 	1
+power meter	hp  four hundred and thirty-five a 	1
+printer driver	hp laserjet  four 	1
+renowned global brand	hp	1
+semiconductor detector	hpge	1
+sensitive technology	hpv dna testing	2
+server company	hp	1
+server company	hp nec	1
+server company	hp's converged infrastructure	1
+server manufacturer	hp	6
+shop top brand	hp	2
+sometimes company	hp	2
+stubborn program	hp usb tv tuner	2
+testing tool	hp testing tool	1
+traditional detection method	hplc	1
+traditional lighting	hps	1
+advanced testing instrument	hp frequency spectrograph	4
+advanced testing instrument	hp noise figure analyzer	4
+advanced testing instrument	hp scalar network analyzer	4
+big name vendor	hp	1
+brand computer	hp	2
+business notebook	hp probooks	1
+common STDs	hpv	4
+conventional assay	hplc	1
+electronic major	hp	1
+gear pump s	hpv one hundred and two 	1
+gear pump s	hpv one hundred and sixteen 	1
+gear pump s	hpv one hundred and fourty-five 	1
+gear pump s	hpv ninety-one dw 	1
+gear pump s	hpv thirty-five 	1
+gear pump s	hpv ninety 	1
+global blue-chip client	hp	1
+global technology leader	hp	1
+hardware brand	hp	1
+high profile manufacturer	hp	1
+high profile partner	hp	1
+high-end equipment	hplc	1
+HP printer	hp photosmart premium fax all-in-one	1
+HP printer	hp photosmart premium touchsmart web all-in-one	1
+HP printer	hp officejet  seven thousand five hundred a wide-format e-all-in-one 	1
+HP printer	hp photosmart estation e-all-in-one	1
+HP printer	hp photosmart plus e-all-in-one	1
+HP printer	hp photosmart premium all-in-one	1
+HP printer	hp photosmart premium e-all-in-one	1
+industry platform	hp openview	1
+international IT company	hp	1
+KVM product	hp & dell kvm switches	1
+KVM product	hp	1
+laptop company	hp	3
+large US corporation	hp	1
+management product	hp openview management product	1
+memory card brand	hp	1
+minicomputer	hp  nine thousand eight hundred and twenty-five b 	1
+multinational consumer ICT name	hp	1
+notebook maker	hp	2
+OEM supplier	hp	1
+information	hpv genotype	1
+event	hpair	1
+event	hp tech day	1
+popular laptop model	hp pavilion	1
+popular laptop model	hp mini	1
+popular laptop model	hp probook	1
+portable hard drive	hp pocket media drive	1
+software deployment tool	hp client automation standard edition	2
+software deployment tool	hp openview client configuration manager	1
+software deployment tool	hp openview configuration management solutions radia os manager	1
+software deployment tool	hp configuration management solution	1
+software deployment tool	hp client automation enterprise edition	1
+software deployment tool	hp client configuration manager	1
+steadfast customer	hp	1
+system controller	hp ilo	1
+tablet manufacturer	hp	2
+topmost brand	hp	1
+unique feature	hp unique feature	1
+vendor program	hp	2
+automated testing tool	hp quality center	2
+chemical analysis technique	hplc	2
+DHWG founding company	hp	1
+DNA tumor virus	hpv	2
+global IT company	hp	3
+HD camera	hpx	1
+high-intensity discharge lamp	hps lamp	1
+ICT supplier	hp	1
+includes leading brand	hp	4
+influential brand	hp	2
+large technology vendor	hp	2
+long-standing client	hp	1
+nonlinear filter	hp filter	1
+OS vendor	hp	1
+oscilloscope	hp one thousand seven hundred and fourty-one a richard use 	1
+PC brand	hp	5
+PC OEMs	hp	4
+photosensitizer	hpd	1
+printer company	hp	4
+processor family	hp pa-risc	1
+recognized brand	hp	1
+savvy company	hp	1
+server maker	hp	3
+small DNA tumor virus	hpv	1
+venerable brand	hp	1
+world class supplier	hp	3
+york city agency	hpd	1
+Attributes	hp	1
+B2B company	hp	2
+big IT firm	hp	1
+big OEMs	hp	1
+big technology firm	hp	1
+brand-named company	hp	3
+british staple	hp sauce	1
+common analytical technique	hplc	1
+desktop printer	hp	1
+digital medium company	hp	1
+global tech giant	hp	4
+hand-held computer	hp  two hundred lx 	1
+hard drive brand	hp	1
+HDTVs	hp lc three thousand seven hundred and sixty n 	2
+high-availability solution	hp integrity	1
+industry-leading technology provider	hp	16
+international IT player	hp	1
+laptop maker	hp	4
+large datum center	hp	1
+latest HP certification exam	hp two -z fourteen  exam 	3
+latest HP certification exam	hp two -z fifteen  exam 	3
+latest HP certification exam	hp two -z sixteen  exam 	2
+latest HP certification exam	hp two -z eighteen  exam 	1
+latest HP certification exam	hp two -z seven  exam 	1
+latest HP certification exam	hp zero -y fourty  exam 	1
+latest HP certification exam	hp zero -d nine  exam 	1
+latest HP certification exam	hp zero -m thirty-nine  exam 	1
+latest HP certification exam	hp two -k twenty  exam 	1
+latest HP certification exam	hp two -z nineteen  exam 	1
+leading printer company	hp	1
+modern testing device	hplc	1
+modular solution	hp flexdc	1
+notebook model	hp compaq nc six thousand  	1
+notebook model	hp	1
+OEM brand	hp	1
+personal computer manufacturer	hp	1
+popular brand computer	hp	1
+prestigious manufacturer	hp	1
+print server	hp jetdirect	2
+print server	hp jetdirect  three hundred and ten x 	1
+print server	hp jetdirect  three hundred and eighty x 	1
+realtime datum	hp	1
+refinery stock	hpcl	1
+remote management tool	hp toptools	1
+remote management tool	hp openview	1
+remote management tool	hp insight manager	1
+research equipment	hplc	1
+scheduling software	hpc scheduling software	1
+small supplier	hp	1
+SNMP manager	hp openview network node manager	4
+SNMP manager	hp systems insight manager	2
+SNMP manager	hp openview	1
+tech brand	hp	1
+technology powerhouse	hp	1
+telecommunication vendor	hp	1
+trustful preparation tool	hp two -z twenty-two  from testking study material 	1
+trustful preparation tool	hp hp two -z twenty  from test king study note 	1
+ubiquitous brand	hp	1
+utility service provider	hp	1
+vendor site	hp	1
+world-class name	hp	1
+avail brand	hp	1
+big beast	hp	1
+big dealer	hp	1
+brand name system	hp	2
+business laptop	hp probook	1
+business laptop	hp elitebooks	1
+combination device	hp pavilion tx two thousand  	1
+CPU manufacturer	hp	1
+ECUs	hp tuners vcm suite	1
+global CE giant	hp	1
+global ICT leader	hp	1
+global OEMs	hp	1
+HP laptop battery	hp f two thousand and nineteen  battery 	1
+HP laptop battery	hp f two thousand and nineteen a battery 	1
+HP laptop battery	hp f two thousand and twenty-four a battery 	1
+HP laptop battery	hp ex nine hundred and fourty-one aa battery 	1
+HP laptop battery	hp f two thousand and twenty-four  battery 	1
+HP laptop battery	hp ev eighty-eight aa battery 	1
+HP laptop battery	hp f one thousand seven hundred and thirty-nine a battery 	1
+HP laptop battery	hp f two thousand and nineteen b battery 	1
+HP laptop battery	hp f two thousand and twenty-four b battery 	1
+HP laptop battery	hp ex nine hundred and fourty-two aa battery 	1
+iconic british brand	hp sauce	1
+information technology vendor	hp	1
+large hardware vendor	hp	3
+large high-tech company	hp	2
+large IT vendor	hp	1
+latest technology machine	hp  five thousand five hundred 	1
+latest technology machine	hp one thousand and fifty 	1
+latest technology machine	hp one thousand one hundred and fifty  oce  three thousand one hundred and fifty-five 	1
+leading electronics company	hp	2
+leading storage vendor	hp	2
+local giant	hp	1
+low cost company	hp	2
+mainline manufacturer	hp	1
+management package	hp openview	1
+network management solution	hp openview	1
+notebook brand	hp	1
+offshore or global supplier	hp	1
+offshore or global supplier	hp cgi	1
+parallel language	hpf	4
+personal computer maker	hp	1
+plotter	hp  seven hundred and fifty c 	1
+popular PC brand	hp	1
+premium brand product	hp	1
+premium company	hp	1
+printer maker	hp	2
+product family	hp  nine thousand   servers shown in the next graphic 	1
+secure operating system	hp-unix secure os cmw	1
+separation procedure	hplc	1
+software enhancement	hp omniback	1
+standard disease	hpv	1
+STD's	hpv & herpes	1
+successful manufacturer	hp	2
+system monitoring tool	hp openview	2
+system monitoring tool	hp ovo	1
+tablet PC	hp compaq's tc one thousand  	1
+team color	hp plant honda	1
+tier-1 global service provider	hp	1
+toolsets	hp performance center	2
+traditional IT vendor	hp	2
+traditional storage vendor	hp	1
+unix-based operating system	hp-ux	1
+Xenoestrogens	hpte	1
+advanced laboratory technique	hplc	1
+all-in-one printer	hp compaq laserjet m two thousand seven hundred and twenty-seven nf 	1
+all-in-one printer	hp photosmart c five thousand one hundred and eighty 	1
+authoritative document	hp product support plans	1
+base stat	hp	1
+big industry brand	hp	1
+big successful traditional business	hp	1
+cdw's top channel partner	hp	1
+compliant product	hp	1
+estimation model	hp	1
+first-class brand	hp	1
+formal framework	hpsg	1
+giant international company	hp	1
+global ICT giant	hp	1
+HP device	hp laserjet	1
+HP device	hp deskjet	1
+ICT player	hp	1
+industry standard package	hp openview	1
+information-gathering tool	hping	1
+ink-jet printer	hp	1
+innovative partner	hp	1
+large and multinational company	hp	3
+large computer manufacturer	hp	1
+large enterprise company	hp	1
+large loan	hpp	1
+large system vendor	hp	4
+mainstream vendor	hp	1
+mucoadhesive polymer	hpmc	1
+multi national corporation	hp	1
+multibillion dollar company	hp	1
+nationally-recognized brand	hp	1
+netbook	hp mini	1
+normal site	hp	1
+notable brand name	hp	1
+notable branded computer accessory	hp	1
+OEM computer	hp	3
+orb	hp orb plus	1
+original brand	hp	1
+original equipment manufacturer product	hp ink cartridge	2
+PB technology supply internationally-renowned brand	hp	2
+photo printer	hp photosmart printer	1
+popular commercial name brand	hp	1
+powdery and granular material	hp foaming agent	2
+router brand	hp	4
+stationary crusher	hpc cone crusher	3
+supercomputer vendor	hp	1
+top technology vendor	hp	2
+top-tier manufacturer	hp	1
+trustworthy site	hp's official store	2
+trustworthy site	hp s official store	1
+unix vendor	hp	1
+viral marker	hpv l one  capsid protein 	1
+viral oncogene	hpv e six 	4
+viral oncogene	hpv- sixteen  e seven 	1
+well-known international firm	hp	1
+world IT giant	hp	1
+ball powder	hp thirty-eight 	1
+best-in-breed product	hp	1
+big IT player	hp	1
+big tech player	hp	1
+brand name computer	hp	8
+brand name laptop	hp	2
+breed partner	hp	2
+cardio-vascular condition	hpb	1
+class manufacturer	hp	2
+computer-makers	hp	1
+customer world-renowned electronics maker	hp	1
+electronic vendor	hp	1
+famous industry	hp	1
+flat screen	hp f two thousand one hundred and five   twenty-one -inch wide flat panel monitor 	1
+fluid flow	hp gas	2
+global PC maker	hp	2
+global system integrators	hp	3
+high profile corporation	hp	1
+high-tech player	hp	1
+imagination	hp photosmart printer	1
+international and homegrown brand	hp	1
+LAN standard	hpna	1
+large name brand	hp	1
+large PC manufacturer	hp	3
+large software project	hp-ux kernel	1
+leading computer manufacturer	hp	2
+leading switch maker	hp	1
+management vendor	hp	2
+manufacturer certification	hp	1
+mass spectrometric method	hplc-ms withelectrospray ionization	1
+multinational IT vendor	hp	1
+multinational technology firm	hp	1
+name brand product	hp	1
+network attached storage device	hp media vault mv two thousand and ten 	1
+network-monitoring tool	hp openview	2
+program	hp tour guide	2
+program	hp solution center	2
+program	hp- fourty-one  style program 	1
+OEM system	hp	1
+OEM vendor	hp	1
+PC heavyweight	hp	4
+planning software	hpm	1
+pocket pc	hp ipaq	1
+popular cartridge	hp	1
+portable printer	hp officejet h four hundred and seventy 	1
+postscript device	hp	2
+print company	hp	1
+prominent brand laptop	hp	1
+remarkable preparation product	hp zero -m eighteen  exam from test king's online interactive exam engine 	1
+replacement laptop battery	hp	1
+rival vendor	hp	2
+savvy marketer	hp	1
+served high level international client	hp	1
+small and large company	hp	1
+smartphone operating system	hp palm webos	1
+software offering	hp insight dynamics vse	1
+sourcing brand	hp	1
+storage manufacturer	hp	1
+syntactic theory	hpsg	1
+TCG member company	hp	1
+technology service provider	hp	1
+test equipment vendor	hp	1
+top industry brand	hp	1
+ultrabooks	hp folio	1
+window computer	hp	1
+window computer system brand	hp	1
+world's biggest corporation	hp	1
+worldwide known brand	hp	1
+advanced calculator	hp programmable calculator	1
+analytical facility	hplc	2
+array language	hpf	1
+automated test tool	hpqc suite	2
+big cloud player	hp	1
+blade server	hp proliant bl two hundred and eighty c g six 	1
+brand laptop	hp	1
+brand PCs	hp	2
+branded notebook laptop	hp laptop	1
+common analytical method	hplc	1
+competing device	hp	1
+complementary provider	hp	2
+computer OEM	hp	1
+computer OEMs	hp	3
+crystallization inhibitor	hpmc	5
+defensive stat	hp	1
+desktop model	hp- nine thousand one hundred 	1
+diagnostic adjunct	hpv test	1
+electronic maker	hp	1
+electronic multinational company	hp	1
+elusive item	hp sauce	1
+global computer brand manufacturer	hp	1
+global information technology firm	hp	1
+global IT service provider	hp	1
+global-leading brand	hp	1
+good laptop	hp gaming laptop	1
+good laptop	hp	1
+hard disk drive	hp  nine thousand one hundred and fifty-three a 	1
+heavyweight counter	hpcl	1
+HPV type	hpvs  sixteen 	3
+HPV type	hpv- one 	1
+HPV type	hpv- one  & hpv- two 	1
+key relationship	hp	1
+large format printer	hp tj eight thousand three hundred and fifty  turbojet 	1
+leading international ICT supplier	hp	1
+leading tech company	hp	2
+liquid chromatography	hplc	2
+manufacture rs	hp	1
+market-leading manufacturer	hp	1
+materia	hp absorb	1
+minicomputer company	hp	1
+motor datum	hp	2
+motor sport event	hpc driving course	1
+Namebrand	hp	1
+NAS fluid filtration product	hp test units	1
+network management tool	hp openview	1
+non-metallic pipe	hpde	1
+original equipment manufacturer vendor	hp	1
+program	hp toolbox	1
+program	hpai early detection system	1
+program	hping through various method	1
+program	hp basic	1
+program	hpde	1
+program	hp mediasmart multimedia software suite	1
+program	hp printer applications	1
+program	hp printscreen	1
+program	hp advisor	1
+program	hp smartsuit picture	1
+program	hp quality center	1
+program	hp quickplay	1
+program	hp- sixty-seven  pinball wizard 	1
+program	hp- fourty-one  othello 	1
+program	hpp	1
+program	hpw	1
+program	hpv challenge	1
+plotter manufacturer	hp	1
+premiere company	hp	1
+printer giant	hp	2
+printer language	hpgl	1
+printer vendor	hp	2
+remarkable study tool	hp two -e thirty-eight  hp hp certification from testking's lab simulation 	1
+san jose attraction	hp pavilion at san jose	1
+screen feature	hp bright view display	1
+separation mean	hplc with respective calibration curves for single component	1
+sexually transmitted virus	hpv virus	1
+small DNA virus	hpv	1
+standard paper	hp premium inkjet paper	1
+state-run oil marketing company	hpcl	5
+stunning venue	hp pavilion	1
+world class principal	hp	2
+world famous brand laptop battery	hp	1
+world known brand online	hp	1
+3-inch screen point-and-shoot camera	hp photosmart r nine hundred and twenty-seven 	1
+analytical test method	hplc	1
+ancillary diagnostic technique	hpv typing	1
+assay procedure	hplc	2
+basic RPG element	hp	1
+best-practice company	hp	2
+big make	hp	1
+big multinational firm	hp	1
+big PC maker	hp	1
+big PC maker	hp?compaq	1
+big storage vendor	hp	2
+big US player	hp	1
+big-name provider	hp	1
+bloatware	hp games	1
+blue chip vendor	hp	1
+brand parts&consumables	hp	1
+branded printer	hp	6
+breed technology company	hp	1
+chromatographic step	hplc	1
+comapanies	hp	1
+commercial relational database	hp allbase	1
+common model brand	hp	1
+computer hardware manufacturer	hp	1
+computer s	hp	3
+computing brand	hp	1
+computing component brand	hp	1
+currently hi-tech IT outsourcing firm	hp	1
+digital press	hp indigo digital press	1
+disc brand	hp	1
+domestic and international vendor	hp	2
+domestic and overseas company	hp	1
+downstream company	hpcl	1
+easy-to-use original HP supply	hp cb five hundred and fourty-two a for consistent 	1
+easy-to-use original HP supply	hp cb five hundred and fourty-three a for consistent 	1
+easy-to-use original HP supply	hp cb five hundred and fourty-one a for consistent 	1
+easy-to-use original HP supply	hp cb five hundred and fourty a for consistent 	1
+easy-to-use original HP supply	hp ce three hundred and two c for consistent 	1
+easy-to-use original HP supply	hp ce three hundred and four c for consistent 	1
+enterprise asset management solution	hp asset manager	1
+enterprise management tool	hp openview	1
+entry-level camera	hp photosmart r seven hundred and fourty-two 	1
+girl organization	hp stars	1
+HDD manufacturing brand	hp	1
+high resolution method	hplc	1
+hormonal system	hpa axis	1
+HP photosmart printer	hp photosmart premium e-all-in-one	2
+HP photosmart printer	hp photosmart premium all-in-one	1
+HP photosmart printer	hp photosmart premium fax all-in-one printer	1
+HP server	hp workstations	1
+HP server	hp integrity	1
+HP solution	hp access control	1
+intel customer	hp	1
+Intel's OEMs	hp	1
+-internal	hp datum protector -internal	1
+key global player	hp	1
+laptop brand replacement battery	hp	1
+large cloud service provider	hp	3
+large computer corporation	hp	1
+large laptop seller	hp	1
+leading consumer electronics company	hp	1
+linux kernel contributor	hp	1
+medium maker	hp	1
+messaging technology leader	hp	1
+modem method	hplc	1
+modern analytical instrument	hplc	2
+modern day unix variant	hp-ux	1
+monitor type	hp vs fifteen 	1
+MS program	hp advisor	1
+multinational IT company	hp	5
+non-thermal processing technology	hpp	1
+OEM brand name	hp	2
+oncogenic viral protein	hpv e six 	1
+original brand mobile phone	hp	1
+PC firm	hp	1
+PC hardware vendor	hp	1
+pc-making power	hp	1
+PDA phone	hp's ipaq h six thousand three hundred and sixty-five 	1
+performance spec	hp	1
+personal computer enterprise	hp	1
+popular and excellent brand	hp	1
+popular computer manufacturer	hp	2
+popular handheld device	hp ipaq	1
+POS vendor	hp	1
+positive displacement device	hpgr crusher	1
+powerful light	hps	1
+prebuilt system	hp	1
+print driver	hp  four 	1
+renowned laptop manufacturer	hp	1
+serious STDs	hpv	2
+server part	hp	4
+SNMP management application	hp openview	1
+sophisticated commercial product	hp openview	1
+standard chromatographic technique	hplc	1
+standard system management tool	hp openview	1
+stock symbol	hpq	1
+test file	hpgl two  file 	1
+third-party supplier	hp for noncore element	1
+top laptop manufacturer	hp	2
+TouchSmart apps	hp music store powered by rhapsody	1
+up-dated laptop	hp	1
+vendor-specific program	hp webjetadmin	1
+well-known chromatin-modifying protein	hp one 	1
+well-known recent theory	hpsg	1
+wireless access device	hp wireless access device	1
+world class name	hp	1
+worldwide technology giant	hp	1
+baghouse collector	hp high-body inlet design baghouse collector	1
+best brand deal	hp	1
+big computer firm	hp	2
+big hardware vendor	hp	2
+big name storage vendor	hp	1
+big technology provider	hp	1
+big U.S. computer manufacturer	hp	1
+box makers	hp	1
+brand hardware	hp	2
+brand name cartridge	hp	1
+brand name printer	hp	1
+brand vendor	hp	1
+brand-name corporation	hp	1
+campaign company	hp	1
+car dealer facility	hpi report	1
+chief brand	hp	1
+clientserver database engine	hp	1
+commercial unix system	hp-ux	1
+commercial unix system	hp-ux from hewlett packard	1
+commercial UNIXes	hp hp-ux	1
+commercial UNIXes	hp-ux	1
+common printer	hp deskjet	1
+common printer	hp laserjet	1
+common printer	hp	1
+competing manufacturer	hp	2
+computer system vendor	hp	1
+contemporary microbial challenge	hpv	1
+CSIRO pursued technology company	hp	1
+decent name brand	hp	1
+factor	hpv exposure	1
+discounted name brand	hp	1
+DNA tumor virus oncoproteins	hpv e seven 	1
+downloadable book	hp's ebook	3
+DVD writer product	hp dvd writers	1
+excellent employer	hp	1
+global tech company	hp	1
+good quality power supply	hp	1
+hardware security device	hp security platform	1
+hero statistic	hp	1
+high intensity light	hps	1
+high-end server	hp superdome	1
+high-quality office scanner brand	hp	1
+hottest HP exam	hp zero -y twenty-five  exam 	1
+hottest HP exam	hp zero -y thirty-five  exam 	1
+hottest HP exam	hp zero -y thirty-nine  exam 	1
+hottest HP exam	hp zero -y thirty-one  exam 	1
+hottest HP exam	hp zero -y thirty  exam 	1
+HP HP0-D14 exam training material	hp zero -d fourteen  training material 	1
+HP HP0-D14 exam training material	hp zero -d fourteen  study guide 	1
+HP HP0-D14 exam training material	hp hp zero -d fourteen  braindumps 	1
+HP HP0-D14 exam training material	hp zero -d fourteen  exam questions 	1
+HP HP0-D14 exam training material	hp zero -d fourteen  free demo 	1
+HP laptop	hp mini  three hundred and eleven  laptop 	1
+HP laptop	hp's ultra portable laptop	1
+HP laptop	hp pavilion laptop	1
+HP laptop	hp pro book	1
+HP laptop	hp envy laptop	1
+HP openview management tool	hp openview operations	5
+HP real life technology	hp image advice	4
+HP software capability	hp serviceguard extensions for sap application	2
+HP software capability	hp serviceguard extensions for sap for increased security	1
+HP software capability	hp serviceguard extensions for sap	1
+ICT multinational	hp	1
+industry framework	hp itsm	1
+industry standard solution	hp	1
+instance infocomm icon	hp	1
+large corporate brand	hp india	1
+large multinational information technology corporation	hp	2
+large PC maker	hp	2
+large portfolio company	hp	1
+largest global corporation	hp	1
+leading notebook manufacturer	hp	1
+management heavyweight	hp	2
+manufacturer program	hp splanet partners recycling service	1
+manufacturer program	hp planet partners recycling service	1
+manufacturer program	hp's planet partners recycling service	1
+manufacturer specific computer	hp	1
+manufacturing partner	hp	1
+marvelous product	hp two -z twenty-two  from test king's online computer based training 	1
+MFD brand	hp	1
+MNC vendor	hp	1
+model variant	hp compaq presario c seven hundred  cto 	1
+model variant	hp compaq presario c seven hundred  et 	1
+modern unit	hp model	1
+modular design	hp	1
+month later industry heavyweight	hp	1
+netbook manufacturer	hp	2
+networked storage vendor	hp	1
+networking accessory	hp	1
+networking hardware vendor	hp	1
+NMSs	hp openview	1
+non-polar resin	hp- twenty 	1
+non-polar resin	hp- fifty 	1
+notebook OEMs	hp	1
+occult writing	hp blavatsky's secret doctrine	1
+oil counter	hpcl	1
+oncogenic protein	hpv oncogenic protein	1
+oncogenic protein	hpv-encoded oncogenic protein	1
+original ink-manufacturing company	hp	1
+original laptop	hp laptop	1
+participating manufacturer	hp	1
+PC builder	hp	4
+PC giant	hp	2
+personal computer major company	hp	1
+pocketpc device	hp ipaq device	1
+popular laptop manufacture website	hp	1
+popular RAID manufacturer	hp	2
+prebuilt computer	hp	2
+pre-built computer	hp	4
+pre-built computer	hp dell	1
+premier business partner	hp	4
+prevalent STDs	hpv	2
+proprietary computer manufacturer	hp	1
+proprietary hardware	hp pcs	1
+QC methodology	hplc	1
+reinvigorated competitor	hp	1
+repair manual	hp repair manual	1
+repairing service	hp laptop repair service	1
+repairing service	hp laptop service	1
+repairing service	hp laptop maintainance service	1
+routine healthcare procedure	hpv vaccine	1
+selective conference	hpca	1
+sensitive and accurate method	hplc	1
+server-based tool	hp systems insight manager	2
+server-based tool	hp system management homepage	1
+shared software application	hp document viewer	1
+shared software application	hp director	1
+shared software application	hp image zone	1
+shared software application	hp laserjet toolbox	1
+shared software application	hp software updates	1
+organization	hp	41
+solid name	hp server	1
+spiceworks advertiser	hp	1
+storage industry leader	hp	1
+strategic company	hp	1
+stress system	hpa axis	1
+tape library vendor	hp	2
+technology behemoth	hp	1
+third-party driver	hpijs driver	3
+top information-technology company	hp	1
+top notebook computer brand	hp	2
+traditional PC vendor	hp	1
+trike	hpvelotecnik	1
+trusted site	hp	1
+U.S. computer maker	hp	1
+UNIX implementation	hp ux	1
+US-based multinational outsourcers	hp	1
+utility computing service	hputilitydata center	1
+veteran tablet maker	hp	1
+viral STD	hpv	1
+vital tool	hpi's free co two  certificate 	3
+water-soluble, film-forming polymer	hpc	1
+well-known-brand chipsets	hp	1
+working closelykey partner	hp	1
+world class technology provider	hp	1
+world-class enterprise	hp	1
+world-recognized computer brand	hp	1
+world's biggest cor porations	hp	1
+world's largest manufacturer	hp	1
+3rd party lighting system	hpm icontrol	1
+acclaimed printer manufacturer	hp	1
+advanced analysis facility	hplc	1
+affordable support plan	hp care pack services	1
+alternate detection method	hplc	1
+analytical assay	hplc	1
+analytical chemical method	hplc	1
+analytical detection method	hplc	2
+application management system	hp openview	1
+best laptop brand	hp	1
+best technology partner	hp	1
+big electronic company	hp	1
+big name tech company	hp	1
+big PC company	hp	4
+big-brand producer	hp	1
+brand name computer manufacturer	hp	3
+branded PC maker	hp	1
+brand-name computer	hp	2
+carbon-conscious customer	hp	1
+character status attribute	hp	1
+chromatin remodeling factor	hp one  protein 	2
+class-specific requirement	hp	2
+client's	hp	1
+cloud service company	hp	1
+collaborative learning environment	hp virtual classroom.tm	1
+column-store database	hp vertica	1
+commercial monitoring application suite	hp business service management	1
+common ink jet printer	hp	1
+Common site-specific methylases	hpaii	1
+competitive laptop manufacturer	hp	1
+complete turnkey solution	hp mediasmart server	1
+computing industry player	hp	1
+consumer line	hp dv series	1
+consumer system	hp pavilion desktop pcs	1
+contemporary grammar formalism	hpsg	1
+contrarily blameless aural name	hp	1
+conventional vaccine	hpv vaccine	1
+corporate notebook	hp compaq evo	1
+currently major industry player	hp	1
+dangerous viral STDs	hpv	1
+datum replication product	hp continuous access eva	1
+datum replication product	hp continuous access xp	1
+dell's competitor	hp	1
+dell's rival	hp	2
+desktop brand	hp	1
+dumb terminal	hp t one hundred 	1
+effective screening method	hpv testing	1
+end-customers	hp	1
+energy-efficient equipment	hp eco highlights products	2
+enterprise IT provider	hp	1
+enterprise management application	hp openview	1
+enterprise platform	hp openview tm	1
+enzyme defect	hprt deficiency	1
+organization	hpca	1
+organization	hpcl	1
+etailer	hp	1
+example bridgestone tire	hp- fifty 	1
+familar brand	hp	1
+famous laptop manufacturer	hp	1
+fault management system	hp temip	1
+fax machine	hp faxes	1
+First tier OEMs	hp	1
+full dealer service	hpi checks	1
+fundamental PAT tool	hplc	1
+genuine name brand	hp	4
+genuine name brand product	hp	2
+global HPC vendor	hp	1
+global IT brand	hp	1
+global outsourcing provider	hp	1
+global, full-service IT provider	hp services	5
+good detection tool	hpv dna detection	1
+good quality CD-R disc	hp	1
+good vendor	hp	1
+great notebook brand	hp	1
+HA solution	hp serviceguard	1
+hardcore technology company	hp	1
+hardware OEMs	hp	1
+hero item	hp potions	1
+high-performance model	hp's ipaq h six thousand three hundred and sixty-five 	1
+high-quality brand specific ink	hp ink	2
+high-quality brand-specific ink	hp ink	1
+high-technology weapon	hpm	1
+home medium server	hp mediasmart server	1
+home medium server	hp mediasmart	1
+hopefully company	hp	1
+housekeeping genes	hprt	3
+HP program	hp advisor	1
+HP XP model	hp xp twelve thousand  	1
+HP XP model	hp xp ten thousand  	1
+HP XP model	hp xp ten thousand   disk array 	1
+HP XP model	hp xp twelve thousand   disk array 	1
+hpv-related factor	hpv load	1
+hpv-related factor	hpv persistence	1
+IC customer	hp	1
+illustrious panelist	hp's kevin havre	1
+inch model	hp mini  one thousand  	1
+inch option	hp nw eight thousand four hundred and fourty 	1
+incurable viral infection	hpv	1
+indirect vendor	hp	1
+industry firm	hp	1
+industry's major vendor	hp	1
+infectious etiologic agent	hpv	1
+influential computer company	hp	1
+ink printer	hp	1
+inkjet manufacturer	hp	1
+innovative HP technology	hp insight control management	1
+innovative HP technology	hp thermal logic technology	1
+innovative HP technology	hp virtual connect	1
+interestingly enough, hitech company	hp	1
+it-services firm	hp	1
+job scheduling product	hp platform lsf	1
+laptop computer manufacturer	hp	2
+laptop manufacturing company	hp	1
+large and successful company	hp	1
+large computer maker	hp	2
+large international IT company	hp	1
+large IT manufacturer	hp	1
+large OEM external customer	hp	1
+large printer	hp nine thousand  	1
+large server vendor	hp	2
+large-scale trans-corporations	hp	1
+leading global IT company	hp	1
+leading software provider	hp	1
+legacy provider	hp	1
+linux supporter	hp	1
+lysine-containing protein	hpv- sixteen  e seven 	1
+mainstream commercial product	hp openview	1
+management client	hp systems insight manager	1
+MARKET OVERVIEW many major vendor	hp	1
+marque client	hp	1
+marvelous study tool	hp two -e twenty-two  from pass four sure latest video training 	1
+MFP device	hp	1
+microsoft's industry partner	hp	1
+modern cluster environment	hp serviceguard	1
+mu ltinational company	hp	1
+multidimensional measure	hpi	1
+name-brand system	hp	1
+NAS system	hp storageworks x nine thousand  	1
+native file system	hpfs	1
+negative impact STIs	hpv	1
+network management program	hp openview	1
+newest camera	hp photosmart r seven hundred and twenty-five 	1
+normal account	hp	1
+notebook computer company	hp	1
+notebook computer maker	hp	2
+notebook computer manufacturer	hp	1
+OEM PCs	hp	1
+office scanner	hp	1
+off-line monitoring technique	hplc	1
+openvms e-business infrastructure application	hp com for openvms	1
+openvms e-business infrastructure application	hp secure web server for openvms alpha	1
+oracle partner	hp	1
+originally netbook partner	hp	1
+orthogonal method	hplc	2
+parallel computing environment	hpc cluster	2
+photo paper	hp professional satin	1
+place available online	hp	1
+pocket PC vendor	hp	1
+popular printer	hp	1
+porphyrin derivative	hpd	1
+technique	hplc	43
+powerful calculator	hp- thirty-eight g 	1
+pre-built system	hp	1
+premier technology partner	hp	3
+printer technology	hp	1
+proprietary manufacturer	hp	1
+quality disc brand	hp	1
+recovery disc	hp	1
+reliable and high quality brand	hp	1
+reputable printer manufacturer	hp	1
+Reputed corporates	hp	1
+server market supplier	hp	1
+server OEM manufacturer	hp	1
+Server OEMs	hp	2
+service desk product	hp service desk	1
+service processor	hp ilo	2
+single server half-height device	hp proliant bl four hundred and sixty-five c server blades 	2
+single server half-height device	hp proliant bl four hundred and sixty c 	2
+single server half-height device	hp proliant bl four hundred and sixty c server blade 	1
+single server half-height device	hp proliant xw four hundred and sixty c blade workstation 	1
+SNMP client	hp openview	5
+SNMP management tool	hp openview	1
+speed film	hp five 	1
+standby management platform	hp openview	1
+state-owned oil firm	hpcl	1
+steel beam	hp shape	1
+stock name brand laptop	hp	1
+stream analytical procedure	hplc	1
+style program	hp- fourty-one  style program 	1
+systemic supersystems	hpa axis	1
+terminal emulator application	hp advancelink	1
+tier-1 brand	hp	1
+titleist golf ball	hp eclipse	1
+toner bottle	hpvivatn	1
+toner bottle	hp color toner	1
+toner bottle	hpeffecttn	1
+toner bottle	hpexcesstn	1
+top hardware vendor	hp	1
+traditional master brand	hp	1
+traditional PC giant	hp	2
+traditional PC maker	hp	1
+tuning software	hp tuners	2
+two-button and three-button HP-HIL mice	hp  fourty-six thousand and eighty-three a knob 	1
+two-button and three-button HP-HIL mice	hp  fourty-six thousand and eighty-five a control dial module 	1
+two-button and three-button HP-HIL mice	hp  fourty-six thousand and ninety-five a  three -button mouse 	1
+TYCO WIDEPAN chassis	hp two 	1
+TYCO WIDEPAN chassis	hp seven 	1
+u.s.-based and european-based service provider	hp	1
+unification grammar	hpsg	1
+vendor blog site	hp blogs	1
+virulence-associated protein	hp one hundred and ninety-seven 	1
+water-soluble cellulose ether	hpmc	1
+web automation tool	hp quick test pro	1
+well-known computer manufacturer	hp compaq	2
+well-known laptop brand	hp compaq	1
+Well-known multi-nationals	hp	1
+well-respected program	hp openview	2
+world renowned partner	hp	1
+world-class IT hardware manufacturer	hp	1
+worldwide leading ICT company	hp	1
+x-linked gene	hprt	1
+190mm touring car	hpi	1
+19-inch monitor	hp l one thousand nine hundred and fourty 	1
+200mm touring car	hpi	1
+abnormal cervical cell	hpv infected	1
+adult gang	hpl	1
+advanced analysis instrument	hplc	1
+advanced QC instrument	hplc	1
+aftermarket digital servo	hpi sfl- thirty mg 	1
+all-in-one computer	hp touchsmart	1
+allosteric system	hpa axis	2
+amd's main server partner	hp	1
+analysis equipment	hplc	1
+anchor multinational company	hp	1
+application monitoring tool	hp openview	1
+at-line analyzer	hplcs	1
+technique	hp npartitions	1
+technique	hplc analysis	1
+technique	hplc-chemiluminescence	1
+technique	hplc-electrospray mass spectrometry	1
+beautiful medieval cap	hps antiphonale	1
+beautiful medieval cap	hps vatikan-initialen	1
+best global brand	hp	1
+best pocket PC device	hp	1
+big bellwether	hp	1
+big infrastructure vendor	hp	1
+big multinational PC vendor	hp	1
+big PC manufacturer	hp	2
+big unix server	hp-ux server	1
+blade computer supplier	hp	1
+blade technology	hp virtual connect	2
+blade-server vendor	hp	1
+blue chip tech company	hp	1
+box vendor	hp	1
+brand ink manufacturer	hp	2
+brand name DVDs	hp	1
+brand name ink cartridge	hp	1
+brand name server	hp	1
+branded cartridge	hp	2
+branded desktop	hp desktops	1
+branded laptop	hp	1
+branded seller	hp	1
+brand-name printer	hp	1
+built-in photo technology	hp photo brightening	1
+built-in photo technology	hp smart focus	1
+built-in photo technology	hp auto red-eye removal	1
+business brand	hp	1
+business computer	hp's vectra	1
+cancer-linked disease	hpv	1
+case virus	hpai h five n one 	1
+character unique attribute	hp	1
+cheap blue-chips	hpq	1
+cheap desktop computer	hp p six thousand seven hundred and ten f 	1
+Chromatographictechnique	hplc	1
+class product	hp	1
+cloud computing technology solution provider	hp	2
+cluster server	hp serviceguard	1
+colored liqueur	hpnotiq	1
+comfortable invoicing powerhouse client	hp	1
+commercial MPI implementation	hp mpi	1
+commercial Unices	hp-ux	2
+common chemical analytical method	hplc	1
+common sexually transmitted infection	hpv infection	1
+compact photo printer	hp photosmart	1
+compact photo printer	hp photosmart a six hundred and thirty-six 	1
+composite device	hp pavilion keyboard	1
+computer architecture conference	hpca	1
+computer hardware big hitter	hp	1
+computer manufacturer company	hp	1
+computer manufacturer's website	hp	1
+computer megacorporations	hp	1
+computer seller	hp	2
+computer server company	hp	1
+confirmatory technique	hplc	1
+constraint-based approach	hpsg	1
+consumer inkjet printer	hp	6
+conventional light	hps	2
+conventionally chromatographic method	hplc	1
+courageous organization	hp	1
+credible supplier	hp	1
+crude oil importer	hpcl	1
+CSC competitor	hp	1
+custom enhancement	hp desktop assistant	1
+data-parallel language	hpf	1
+datum center player	hp	1
+datum parallel language	hpf	1
+desktop computer model	hp compaq	1
+differnt brand	hp	1
+differnt player	hpquick play	1
+document capture technology	hp multifunction device	1
+effi cient light source	hps	1
+electronic calculator	hp- twenty-five 	1
+enterprise computing industry leader	hp	1
+enterprise heavyweight	hp	1
+enterprise IT supplier	hp	1
+enterprise management vendor	hp	2
+enterprise-grade hardware vendor	hp	1
+entrenched IT behemoth	hp	1
+epa's voluntary program	hpv challenge	1
+established IT player	hp	2
+EV item	hp up	1
+Everyday laboratory equipment	hplc instrument	1
+exclusive software feature	hp zoomsmart	2
+experienced rival	hp	1
+external print server	hp jetdirect  three hundred x external print server 	3
+external print server	hp jetdirect	1
+framework product	hp openview nnm	1
+technique	hptlc	1
+global commercial organization	hp	1
+global heavyweight vendor	hp	1
+global infrastructure service vendor	hp	2
+global technology vendor	hp	1
+good PC	hp	1
+govconnection partner	hp	1
+GPCA manufacturer	hp	2
+great laptop company	hp	1
+great tech company	hp	1
+greatest online laptop seller	hp	1
+hardshell seat	hpvelotechnik	1
+hardware specific application	hp	1
+high end datum storage system	hp	1
+high profile transboundary disease event	hpai	1
+higher-level enterprise management platform	hp openview	1
+high-volume operation	hp internet services	2
+hispanic prison gang	hpl	2
+home technology brand	hp	1
+household printer	hp	2
+household-name technology company	hp	1
+HP eprint web-enabled printer	hp officejet pro  eight thousand five hundred a e-all-in-one printer 	3
+HP eprint web-enabled printer	hp laserjet pro cm one thousand four hundred and fifteen  color mfp 	2
+HP eprint web-enabled printer	hp laserjet pro cm one thousand four hundred and fifteen  fnw color mfp 	1
+HP laserjet model	hp laserjet p four thousand and fourteen 	1
+HP laserjet model	hp laserjet p two thousand and thirty-five 	1
+HP laserjet model	hp laserjet  one thousand and twenty  printers 	1
+HP machine	hp pavilion elites	1
+HP printer feature	hp print apps	1
+HP printer feature	hp eprint	1
+HP scanjet scanner	hp scanjet g four thousand and ten  photo scanner 	1
+HP scanjet scanner	hp scanjet g four thousand and fifty 	1
+HP scanjet scanner	hp scanjet g four thousand and fifty  photo scanner 	1
+HP software component	hp scan flow manager	1
+HPL panel related offer	hpl	1
+HW vendor	hp	1
+hybrid tablet	hp touchsmart tx two 	1
+i7 intel processor	hp dv eight  quad 	1
+iconic US company	hp	1
+ICT sector sustainability leader	hp	1
+image-management software	hp's image zone	1
+inch netbook	hp mini	2
+increasingly manufacturer	hp	1
+independent hardware vendor	hp	1
+indie veteran	hp mallory	2
+infocomm multi-national company	hp labs	2
+ink cartridge maker	hp	1
+inkjet system	hp	1
+intel's client	hp	1
+international IT vendor	hp	1
+intraprocess performance tool	hp samplety three thousand  	1
+ITSM software vendor	hp	1
+japanese and U.S. firm	hp	1
+key OEM vendor	hp	1
+key solution	hp connector solution	1
+kitamura-fanuc standard control feature	hpcc by risc control	1
+laptop pc manufacturer	hp	1
+laptop PC vendor	hp	2
+laptop provider	hp	1
+laptop rental brand	hp	3
+laptops manufacturer	hp	1
+large enterprise management vendor	hp	1
+large information technology organization	hp	1
+large MNC	hp	1
+large pc company	hp	1
+large printer manufacturer	hp	1
+Large retail OEMs	hp	1
+large scale enterprise manager	hp openview	1
+large service supplier	hp	1
+large software organization	hp	1
+large US manufacturer	hp	1
+large-format printer	hp designjet z six thousand one hundred 	1
+large-scale ATCA system vendor	hp	1
+leading infocomm product company	hp	1
+leading lab	hp's image permanence lab	2
+leading lab	hp's ipl	1
+leading PC manufacturer	hp	4
+leading printing company	hp	1
+local software industry leader	hp	1
+logic analyzer	hp sixteen thousand five hundred  at the output of the board 	1
+long-standing leader	hp	1
+low level file system	hpfs	1
+mainstream notebook	hp	1
+mainstream UNIX platform	hp-ux	1
+manager-of-manager vendor	hp openview	1
+manufactured PC	hp	1
+manufactured PC	hp compaq	1
+medium types paper	hp bright white paper	1
+medium types paper	hp premium inkjet printer	1
+mighty player	hp	1
+minor printer manufacturer	hp	2
+mistake company	hp	1
+MNC service provider	hp	1
+mobile online seller	hp	1
+modem equipment	hplc	1
+modern management software	hp openview	1
+modern quadrupole ICP-MS instrument	hp four thousand five hundred 	1
+monolithic kernel OS	hp-ux	1
+MPS vendor	hp	2
+multi national client	hp india	1
+multifunction network printer	hp	1
+multinational PC company	hp	1
+NA virus	hpv	1
+name provider	hp	1
+name-brand cartridge	hp	1
+national and multi-national vendor	hp	1
+native package manager	hp depot	1
+naturally company	hp	1
+netbook market computer maker	hp	1
+network hardware brand	hp	1
+network management software package	hp openview	2
+NMS package	hp openview	1
+non-postscript driver	hp-rtl driver	1
+application	hplc	4
+application	hpc	3
+application	hps simulations decisive action	1
+application	hp power assistant	1
+application	hp memories	1
+application	hpcc's energy efficient application	1
+application	hps	1
+application	hp cloud advisory tool	1
+application	hp web	1
+application	hp smailbus  four hundred  mta 	1
+application	hplc in analytical chemistry	1
+non-travel corporation	hp	1
+obsolete component	hp-il	1
+odd device	hp six thousand seven hundred  with a  two hundred and fourty x two hundred and fourty  screen 	1
+OEM genuine branded product	hp	1
+OEM inkjet cartridge	hp ink	3
+oil-marketing company	hpcl	1
+operated instrument	hplc	1
+orginal cartridge	hp	1
+original branded laptop	hp	1
+orthogonal technique	hplc	1
+palmtop	hp  ninety-five lx 	1
+PC connection partner	hp	1
+PC player	hp	1
+PC USB camera vendor	hp	1
+pc-based company	hp	1
+personal computer giant	hp	1
+photo scanner	hp scanjet g four thousand and fifty  photo scanner 	1
+phyochemical parameter	hptlc	1
+physical level	hp	1
+picture viewer	hp picture viewer	1
+pigment ink-jet printer	hp	3
+pioneer multinational	hp	1
+pocket computer	hp jornada	1
+popular IT company	hp	3
+popular monitoring solution	hp openview	1
+popular water based inkjet printer	hp	2
+PostScript printer driver	hp  four m postscript 	1
+pre-built machine	hp	1
+premium laptop computer	hp	1
+premium system manufacturer	hp	1
+pre-packaged computer	hp	1
+presently brand	hp	1
+printing firm	hp	1
+proactive vendor	hp	1
+provided tool	hp systems insight manager	1
+provided tool	hp-ux workload manager	1
+receiver name	hp digital tv tuner	1
+reliable and well-recognized brand	hp	1
+remote management program	hp openview	1
+repressive factor	hp one 	1
+reputable and reliable brand	hp	1
+reputable large manufacturer	hp	1
+reputable notebook computer	hp	1
+respected vendor	hp	1
+robust model	hp ipaq hx two thousand seven hundred and ninety 	1
+SAN	hp's storageworks p four thousand   g two  san solutions 	1
+secondary prevention method	hpv screening	1
+serious report	hp pavilion dv nine thousand   battery report 	1
+server hardware platform	hp	1
+server hardware vendor	hp	1
+server partner	hp	2
+shared software program	hp document viewer	2
+shared software program	hp photosmart premier	2
+shared software program	hp solution center	2
+slide scanner	hp photosmart s twenty 	1
+slim, lightweight device	hp slate	1
+smart IT vendor	hp	1
+stalwart U.S. provider	hp	1
+standard ASCII emulation	hp laserjet	1
+standard PC	hp	1
+standard performance monitoring tool	hp evaperf	2
+standard RPG feature	hp	1
+state-of-the-art management tool	hp openview	1
+state-run fuel retailer	hpcl	1
+storage system provider	hp	1
+stream computer company	hp	1
+strong FC storage player	hp	1
+strong marketer	hp	1
+Synthetic macro-fiber	hpp  one hundred and fifty-two 	1
+application	hp designjet l sixty-five thousand five hundred  with hp latex inks 	1
+application	hp director	1
+application	hp drivelock	1
+application	hp bearing	1
+application	hp insight management wbem providers	1
+application	hpv-quad screening assay	1
+application	hp hp digitalpass	1
+tape drive vendor	hp	1
+technology rental	hp servers	1
+technology solution provider	hp	1
+telepresence vendor	hp	1
+temporary health insurance plan	hpa secure stm temporary health insurance	1
+thermal head printer	hp	1
+thin & light	hp dv one thousand  	1
+thin client option	hp	1
+thin-and-light notebook	hp's voodoo envy	1
+third party instrument	hplc	1
+today most vendor	hp	1
+today's remote network monitoring application	hp openview	1
+top computer rental brand	hp	3
+top PC brand	hp	5
+top tier public company	hp	1
+top US corporation	hp	2
+top-selling notebook brand	hp	1
+top-tier PC maker	hp	2
+traditional APM tool	hp real user monitor	1
+traditional computer manufacturer	hp	1
+traditional computing player	hp	1
+traditional IT infrastructure vendor	hp	1
+traditional pigment-ink inkjet printer	hp	1
+traditional printer vendor	hp	1
+traditional printing vendor	hp	1
+traditional proprietary company	hp	2
+traditional SAN supplier	hp	1
+traditional system management vendor	hp	1
+traditional UNIX vendor	hp	1
+tradi-tionalITvendors	hp	1
+traditionally conventional method	hplc	1
+tremendous and incredible prep tool	hp hp two -e thirty-nine  from test king audio training 	1
+trouble-ticket system	hp's openview service desk	1
+tuner program	hptuners to custom program the computer	1
+unification grammar formalism	hpsg	1
+unix flavor	hp-ux	2
+utility computing vendor	hp	1
+vaginal or vulvar condition	hpv	1
+valued brand	hp	1
+vaporware device	hp slate	1
+various sport	hp monitor various sport	1
+vector network analyzer	hp  eight thousand five hundred and ten b sold by the hewlett packard company of palo alto 	1
+vector network analyzer	hp  eight thousand seven hundred and twenty d series 	1
+vendor-supplied clusterware	hp serviceguard	1
+virtualization management tool	hp sim vmm plugin	1
+virulent influenza virus	hpai h five n one  virus 	1
+warranty maintained computer manufacturer	hp	1
+web application assessment product	hp webinspect software	1
+well-entrenched competitor	hp	1
+western IT service company	hp	1
+western regional manager company	hpi	1
+Windows-based ultraportables	hp compaq nc four thousand  	2
+Workstation OEMs	hp	1
+world technology leader	hp	1
+world-class notebook PC manufacturer	hp compaq	1
+world-leading IT firm	hp	1
+world's largest system integrators	hp	1
+world's top printing company	hp	1
+worldwide technology company	hp	1
+15.6-inch system	hp g sixty-two - one hundred and fourty-three cl 	1
+60-watt, 3.16-amp adapter	hp f one thousand four hundred and fifty-four 	1
+60-watt, 3.16-amp adapter	hp f one thousand four hundred and fifty-four a 	1
+64-bit UNIX platform	hp	1
+active mixer	hp iam- eighty-two thousand and twenty-eight 	1
+additive method	hpm	1
+adequate analysis facility	hplc	2
+advanced analytical equipment	hplc	1
+agela's core chromatography consumable	hplc column	1
+american multinational provider	hp	1
+antennas design	hpstyle parabolic reflector	1
+antennas design	hp style parabolic reflector	1
+applicance	hp x five hundred and ten 	1
+array's point tool	hp storageworks command view eva	1
+automated direct detection method	hplc	1
+automated photo functionalities	hp photo print gadget	1
+automated photo functionalities	hp auto sense	1
+automated web application vulnerability scanner	hp webinspect	1
+bamboo board related offer	hpl	1
+band management device	hp ilo device	1
+BCS supply manufactured server	hp	1
+best mini laptop	hp	1
+best-in-class solution	hp	1
+big box system	hp	1
+big brand ink	hp	1
+big HLR player	hp	1
+big IT vendor	hp	1
+big laptop vendor	hp	1
+big licenced oem manufacturer	hp	1
+big name member	hp	1
+big new fansites	hpana	1
+big PC vendor name	hp launching consumer electronic devices like lcd tvs	1
+big player's website	hp.com	2
+big printer manufacturer	hp	2
+bigendian platform	hp	1
+big-name computer vendor	hp	1
+big-name product	hp	1
+brand name desktop pc computer	hp compaq	1
+brand name maker	hp	1
+brand name PC	hp	1
+brand name PCs	hp	1
+brand PC	hp	1
+brand PC manufacturer	hp	1
+branded PC	hp	2
+Branded PCs	hp	2
+breed server	hp proliant g five 	1
+business-class notebook computer	hp elitebooks	1
+business-oriented Ultrabooks	hp folio	1
+cancer-related virus	hpv produce oncoproteins	1
+name	hp	21
+capsule supplement	hp multi-vitamin complex	1
+channel radio system	hpi tf- three 	1
+channel radio system	hpi tf- four 	1
+character's general information	hp	2
+cheap USB drive	hp v one hundred and one w 	1
+chemistry technique	hplc with diode array detection	1
+chromatographic separation	hplc	1
+chromatographic test	hplc	1
+chromatography instrument	hplc	1
+chromatography-based method	hplc	1
+classic management platform product	hp openview	1
+clearly computer maker	hp	1
+commercial laptop	hp	1
+commercial network management package	hp openview	1
+commercial service level management tool	hp openview tm	1
+commercial unix offering	hp hp-ux	1
+commercial unix syst em	hp-ux	1
+common enterprise system management tool	hp openview	1
+Common viral STDs	hpv	1
+company's major competitor	hp	2
+comparing brand	hp	1
+compatible toner tube	hp q seven thousand five hundred and fifty-one a 	1
+comperable brand	hp	1
+competing server vendor	hp	1
+competing system vendor	hp	1
+competitor car	hpi	1
+complex drilling environment	hpht	1
+compressor package	hpc compressor	1
+computer builder giant	hp	1
+computer developer	hp	1
+computer industry company	hp	1
+computer-controlled instrument	hp digital multimeter	1
+concluding remark gloryfaith's major client	hp	1
+conditional models-the log-linear framework formalism	hpsg	1
+consistent tool	hp netserver navigator cd-rom	1
+constitutively active housekeeping gene locus	hprt locus	1
+contrast firm	hp	1
+conventional chemical purification procedure	hplc	2
+conventional low-cost encoder system	hp encoder sensor	1
+conventional palmtop computer	hp omnibook	1
+corporate range laptop	hp  four thousand three hundred and twenty s 	1
+cot server application	hp openview	2
+currently notebook maker	hp	1
+customizable laptop manufacturer	hp	1
+datacenter vendor	hp	1
+data-center vendor	hp	1
+datacentre equipment provider	hp	1
+datum center automation player	hp	1
+datum center vendor	hp	1
+decent brand name laser printer	hp	1
+decent scanner	hp's scanjet g four thousand and fifty 	1
+dedicated mobile device manufacturer	hp	1
+derivatized guars	hpg	1
+desktop inkjet printer	hp deskjet  nine hundred and fifty c 	1
+desktop PCs	hp	1
+desktop replacement laptop	hp pavilion zv six thousand three hundred 	1
+detailed social infrastructure plan	hpp sip	1
+device-oriented network management system	hp openview for fault management	1
+digital printing equipment	hp's indigo press	1
+DOCCM vendor	hp with hp output server	1
+doubt retailer	hp	1
+effective special move	hp grass	1
+e-IPS brethren	hp zr twenty-two w 	1
+EMC competitor	hp	1
+eminent industry leader	hp	1
+enhanced reliability feature	hp durakeys	13
+enhanced reliability feature	hp durafinish	8
+ensuring relevant medicare policy document	hpms memos	1
+enterprise IT vendor	hp	1
+enterprise manager	hp openview	1
+enterprise PC vendor	hp	1
+enterprise storage major	hp	1
+enterprise storage technology	hp san	1
+enterprise system management solution	hp openview operations	1
+enterprise-level security feature	hp's protecttools face recognition software	1
+Entitlement Certificate information	hp order number	1
+entry-level and midrange server cluster	hp openvms on integrity	1
+entry-level camera manufacturer	hp	1
+equivalent model	hp  seventeen bii 	1
+equivalent model	hp	1
+established global company	hp	1
+established PC manufacturer	hp	1
+excellent past company	hp	1
+external detection device	hplc	1
+filesystem format	hpfs	1
+final day major industry player	hp	1
+firm insert	hpi short course foam	1
+first, corporate brand	hp	1
+formica's established product	hpl	1
+front plate	hpm	1
+full size cabinet	hpw's premise networking	1
+functional testing tool	hp loadrunner	2
+functional testing tool	hp quicktest professional	1
+functionally important cis element	hpv e two  binding site 	1
+gas lamp	hps	1
+generic or remanufactured cartridge	hp	1
+global IT service player	hp cannibalising the home market by winning multi-million dollar deal	1
+glossy laser paper	hp's premium choice laserjet paper	1
+glossy laser paper	hp's soft gloss laser paper	1
+GM supplier	hp	2
+good brand-name car	hpi	1
+good computer company	hp compaq presario	1
+good established brand	hp	1
+good quality printing gadget	hp laser printer	1
+good, reputable scanner	hp	1
+grave report	hp pavilion ze four thousand four hundred  battery report 	1
+great and original trademark	hp	1
+guar gum	hpg sold under the designation of wg eleven  by halliburton 	1
+guaranteed program	hpme	1
+guars	hpg	1
+gum polymer	hpmc	1
+handheld PDA	hp ipaq	1
+handled various analytical instrument	hplc	1
+Hardware manufactureres	hp	1
+hardware OEM	hp	1
+HD-DVD laptop	hp pavilion dv nine thousand  t 	1
+health promot ion	hpv vacc ine for girl	1
+herakleian stamp	hpa	1
+Heteroatom species	hpo	1
+hewlett-packard vector network analyzer	hp  eight thousand seven hundred and fifty-three d 	1
+hewlett-packard vector network analyzer	hp  eight thousand seven hundred and twenty d 	1
+high end teleconferencing solution	hp's halo system	1
+high profile IT brand	hp	1
+high purity solvent	hplc grade solvent	1
+high resolution tool	hplc	1
+high technology international company	hp	1
+high-availability hardware system	hp non-stop	1
+high-end and high-cost tool	hp mercury's loadrunner	1
+high-end management platform	hp openview	1
+high-end silicon valley client	hp	1
+highest quality network equipment vendor	hp	1
+high-intensity-discharge lamp	hps	1
+high-power USB power adapter	hp touchpad power adapter	2
+HKGs	hprt one 	1
+HP application	hp storage systems scripting utility	1
+HP certification exam	hp zero -m fourty-four  exam 	2
+HP certification exam	hp zero -s thirty-one  exam 	2
+HP extra	hp truevision hd webcam	1
+HP imaging product	hp photo scanner	2
+HP pavilion dv6 series laptop	hp pavilion dv six i 	1
+HP pavilion dv6 series laptop	hp pavilion dv six t 	1
+HP Photosmart All-in-Ones	hp photosmart plus all-in-one	1
+HP Photosmart All-in-Ones	hp photosmart premium fax all-in-one	1
+HP printer driver	hp laserjet iii driver	1
+HP printer driver	hp laserjet  four  plus 	1
+HP printing material	hp bright white inkjet paper with colorpro technology	1
+HP printing material	hp universal bond paper	1
+HP software solution	hp data protector	2
+HP software solution	hp openview storage data protector	2
+HP storage-management tool	hp openview virtual replicator	1
+HP threat management product	hp network immunity manager	1
+HP threat management product	hp threat management services module	1
+HP touchsmart application	hp smartcalendar	1
+HP touchsmart application	hp photosmart touch	1
+HP-IL controller	hp- seventy-one b 	1
+HP-IL controller	hp- fourty-one c 	1
+HP's ProtectTools	hp drivelock	1
+HP's ProtectTools	hp digitalpass	1
+imaging cartridge	hp  nine thousand  	1
+in-band management tool	hp open view	1
+inch netbooks	hp mini	2
+Incurable viral STDs	hpv	1
+independent mobile maker	hp	1
+industry standard server	hp proliant server	1
+inexpensive scanner	hp	1
+ink jet manufacturer	hp	3
+inkjet photo printer	hp designjet	1
+inkjet printer company	hp	1
+in-line and on-line analytical instrument	hplc	1
+innovation brand	hp	1
+innovative processing technology	hpp	1
+insidious virus	hpv	1
+integrated network management system	hp openview	1
+intel based server operating system	hp proliant hardware	1
+interopnet sponsor	hp	1
+INTRODUCTION chromatographic technique	hplc	1
+introduction lexicalist linguistic theory	hpsg	2
+introduction major system vendor	hp	1
+IP management card	hp ilo	1
+iscsi platform	hp p four thousand  	1
+ISO B&W film	hp five  plus 	1
+ITvendors	hp	1
+jamaican dance crew	hp dancers	1
+key vmware's partner	hp	1
+kiosk installation	hp photo kiosks	1
+knowledgeable vendor	hp	1
+laboratory purification method	hplc	1
+laptop bag market brand	hp	1
+laptop vendor	hp	1
+large chip manufacturer	hp	1
+large consulting organization	hp's electronic data systems	2
+large datum tool provider	hp	1
+large disk storage array vendor	hp	1
+large incumbent provider	hp	1
+large IT provider	hp	2
+large manufactuers	hp	1
+large OEM manufacturer disc	hp	1
+large PC builder	hp	1
+large professional service company	hp	4
+Large scale system integrators	hp	2
+large space-based weapon system	hpm	1
+large tech player	hp	1
+large technology organization	hp	2
+largest system supplier	hp	1
+laser color printer brand	hp	1
+latest processor architecture	hp precision architecture	1
+leading BSM vendor	hp	1
+leading OS management tool	hp's client automation suite	1
+leading printer manufacturer	hp	2
+leading server maker	hp	1
+leading workstation manufacturer	hp	1
+legacy framework product	hp service desk	1
+legacy stack	hp-ux	1
+level-up bonus	hp bonus	1
+leverage big name	hp	1
+leveraged vendor	hp	1
+lifecycle management feature	hp client configuration manager	1
+lightweight rotor	hph rotor	1
+case	hp	3
+case	hp's nonstop enscribe database	2
+case	hp-ux	1
+case	hpv in cervical cancer	1
+liquid chromatography system	hplc system	1
+liquid-phase carbon sample	hplc eluents	1
+lower-carb formula	hplc protein	1
+mainstay company	hp	1
+mainstream PC firm	hp	1
+management infrastructure	hp's openview operations	1
+management tool vendor	hp	1
+manufactured computer	hp	1
+manufacturers computer	hp	1
+mature MNC unit	hp in tecnopuc in porto alegre	1
+meat-friendly sauce	hp	1
+megacorp company	hp	1
+methylcellulose polymer	hpmc	1
+misc nitro truck	hpi savage	1
+MMS client	hp	1
+mobile terminal equipment manufacturer	hp	1
+modern analytic equipment	hplc	1
+modern blade platform	hp virtual connect	1
+modern high-performance microprocessor	hp pa- eight thousand  	1
+modern identity management system	hp select access	1
+modern laptop	hp pavilion laptop	1
+modern laptop	hp pavilion dv six thousand  	1
+modular, component product	hp's neonatal monitor	1
+moral model	hp	1
+more-known brand	hp	1
+multitouch tablet	hp touchsmart tx two z 	1
+multivendor product	hp sun	1
+musical offer	hp truevision webcam with integrated digital microphone	1
+name-brand dvds	hp	1
+name-brand printer manufacturer	hp	1
+native client	hp ovpa	1
+netbook maker	hp	2
+network-management platform	hp openview	1
+newest choline chloride analytical technology	hplc	1
+newest printer	hp z two thousand one hundred 	1
+ngsubsystems	hp pump	1
+non thermal process	hpp	1
+non-dos character set	hp laserjet roman- eight 	1
+non-hiv recombinant protein-based vaccine	hpv vaccine	2
+non-japanese vendor	hp	1
+non-traditional cisco competitor	hp	1
+normal color printer	hp deskjet	1
+notebook product	hp	1
+NTRODUCTION major system vendor	hp	1
+OBSOLETE HP part	hp-il chip	1
+OEM disc	hp	1
+OEM manufactors	hp	1
+OEM PC	hp	1
+OEM printer company	hp	1
+OEM printer manufacturer	hp	2
+OEM producer	hp	1
+oft-touted medical benefit	hpv	1
+online laptop computer marketer	hp	4
+online laptop seller	hp	2
+optional QC method	hplc	3
+oracle print driver	hpp	1
+oracle print driver	hpw	1
+organic and analytical technique	hplc	1
+organizational sponsor	hp	1
+original equipment manufacturer computer	hp	1
+original HP inkjet printer cartridge	hp  seventy-five xl 	1
+original HP inkjet printer cartridge	hp  seventy-four xl 	1
+original HP supply	hp advanced photo paper	1
+overclock MOST OEM PC	hp	1
+page-group systems	hp-pa risc	1
+papillomaviruses	hpv- one 	1
+parallel cable	hp ieee  one thousand two hundred and eighty-four compliant parallel interface cable 	1
+parallel cable	hp ieee  one thousand two hundred and eighty-four -compliant parallel interface cable 	1
+parallel Centronics printer cable	hp c two thousand nine hundred and fifty-one a 	2
+parallel Centronics printer cable	hp c two thousand nine hundred and fifty a 	2
+pattern mining algorithm	hpg	1
+payment system platform provider	hp	1
+PC notebook	hp	1
+PC system brand	hp	1
+penile lesion	hpv wart	1
+performance tune	hp tune	1
+peripheral vendor	hp	1
+permanantly visible HUD element	hp	1
+personal medium drive	hp personal medium drive	1
+personal medium drive	hp  five hundred gb personal media drive 	1
+photographic ink cartridge	hp	1
+physical plotter	hp designjet model	1
+pink design	hp	1
+platform driver	hpi driver	1
+platform port	hp-ux	1
+pocket PC model	hp ipaq h one thousand nine hundred and ten 	1
+PocketPCs	hp ipaq	2
+polypeptide purification technique	hplc	2
+popular office scanner	hp	1
+popular photo scanner	hp	1
+popular third-party network management product	hp openview	2
+case	hpc workload with a huge test input dataset	1
+case	hpw diet plan	1
+case	hp esca system	1
+case	hp folio case	1
+case	hp laserjet	1
+portable manufacturer	hp	1
+powerful technology company	hp	1
+preferred standard chemical analytical technique	hplc analysis	1
+premade RF module	hp series-ii	1
+Print management software	hp web jetadmin	1
+printer ink cartridge	hp	1
+printer inkjet cartridge	hp	1
+printer manufacturer giant	hp	1
+printing equipment provider	hp	1
+printing major	hp	1
+process migration system	hpcm system	1
+product software feature	hp solution center	1
+productivity display	hp w two thousand and seven 	1
+proper server	hp	1
+proprietary computer	hp	1
+proprietary computer	hp pavilions	1
+PS real computer	hp	1
+PSU refining & oil counter	hpcl	1
+qos specification	hp's web services management language	1
+quality analysis equipment	hplc	1
+R&D powerhouse	hp	1
+real life technology	hp's adaptive lighting	1
+real world GPSDO	hp z three thousand eight hundred and one a 	1
+rebit's competitor	hp simplesave	1
+rejuvenated competitor	hp hpq	1
+remote monitoring tool	hp insight manager	1
+reputable employer	hp	1
+reputed producer	hp	1
+RFID chip maker	hp	1
+rival printer manufacturer	hp	1
+roll-to-roll system	hp t three hundred  color inkjet web press 	1
+roll-to-roll system	hpinkjet web press	1
+rotary code cutter	hpc blue shark	1
+safe sex spread disease	hpv	1
+SATH sponsor	hp	1
+saturn-based calculator	hp- seventeen b 	1
+saturn-based calculator	hp- twenty-seven s 	1
+scalar network analyzer	hp  eight thousand seven hundred and fifty-seven d 	1
+scalar network analyzer	hp  eight thousand seven hundred and eleven c 	1
+scale-up solution	hp superdome	1
+school technology company	hp	1
+scurrilous hardware vendor	hp	1
+serval IT company	hp	1
+server market leader	hp	1
+service industry player	hp	1
+sign-based approach	hpsg	1
+skin contact infection	hpv	1
+small netbook	hp mini	1
+SNMP management platform	hp openview	2
+SNMP network management software tool	hp openview	1
+snmp-based management system	hp openview nnm	1
+software management system	hp openview	1
+software vendor company	hp	1
+solution giant	hp	1
+sometimes builder	hp	1
+sophisticated analytical chemistry technique	hplc	1
+source branded ink	hp	1
+spare HP item	hp- fourty-one  complete with card reader 	2
+specialist management tool	hp openview	3
+species-specific protein-protein interaction database	hprd for human	1
+spectral study	hptlc	1
+spell turret's game statistic	hp	1
+standard desktop	hp dc seven thousand one hundred 	1
+standard network management platform	hp openview	1
+standard network management solution	hp openview	1
+standard page description language	hp pcl	1
+stat increase	hp	1
+state-of-the-art analytical instrument	hplc-ms	1
+state-owned oil marketing firm	hpcl	1
+state-run oil marketing firm	hpcl	1
+state-run oil retailer	hpcl	1
+storage system supplier	hp	1
+Streamlined digital workflows	hp smartstream	1
+strong commercial OEM maker	hp	1
+successful multi-market, multi-product enterprise	hp	1
+supply organization	hp	1
+option	hp	6
+option	hp mobile broadband	4
+option	hp fingerprint sensor	3
+option	hpp	1
+option	hpv vaccine	1
+option	hp mini	1
+option	hp mobile broadband six , four 	1
+option	hp rapiddrive	1
+option	hp slimline	1
+option	hpv dna testing	1
+surplus digital printing consumable	hp indigo press	1
+synthetic transaction monitoring product	hp bac	1
+system management framework	hp openview	1
+System V based OS	hp-ux	1
+talent andclient account	hp	1
+task repository	hp's quality center	1
+technology architecture	hp flexfabric	1
+ther brand	hp	1
+thin-and-light model	hp elitebooks	1
+third party hardware vendor	hp	1
+third party monitoring solution	hp	1
+third-party exchange replication solution	hp's san-based continuous access product	1
+tier1 brand	hp	1
+tier-1 IT service provider	hp	1
+time-tested best industry practice	hp way	1
+tiny model	hp mini  one thousand  	1
+top brand PC maker	hp	1
+top brand PC manufacturer	hp	4
+top calculator brand	hp	1
+top printer manufacturer	hp	1
+top-end workstation	hp z eight hundred 	1
+top-level IT accreditation	hp gold preferred partner	1
+top-tier system supplier	hp	1
+traditional chromatographic method	hplc	1
+traditional IT management tool	hp openview	1
+traditional IT service vendor	hp	1
+Traditional OEMs	hp	1
+traditional outsourcing supplier	hp	1
+translatable method	hpa-axis measure	1
+true dedicated hardware RAID controller	hp smartarray	1
+TWAIN-compliant scanning software	hp laserjet document desktop	1
+twin pack	hp  ninety-five  tri-color twin-pack 	2
+U.S. electronics company	hp	1
+underrated reason	hp regeneration	1
+unification-based formalism	hpsg	1
+unix	hp-ux	1
+unix host	hp	2
+unix host	hp-ux	1
+unix system vendor	hp	1
+unnecessary required vaccine	hpv	1
+unusually risk-averse hardware company	hp	1
+USB cable	hp usb-compliant interface cable	3
+USB medium	hp drivekey	1
+USB tablet	hp's slate tablet	1
+usinghardware controller	hp ilo	1
+utilized various software management product	hp openview	1
+utilizing high-end camera	hpx	1
+value-based print server	hp jetdirect ew two thousand four hundred  print server 	1
+vehicle funding method	hp	1
+viral based disease	hpv	1
+water soluble leachable additive	hpmc	1
+WBEM-based management application	hp sim	1
+WEBES client	hp systems insight manager	1
+WEBES client	hpopenview operations	1
+western multinational enterprise	hp	1
+western sauce	hp	1
+WHS device	hp x five hundred and ten  data vault 	1
+wider-format color inkjet press	hp inkjet web press	1
+window all-in-one manufacturer	hp	1
+window CE PDA	hp jordana	1
+window computer manufacturer	hp	1
+window home server machine	hp mediasmart server	1
+window PC	hp	1
+windows-based PC maker	hp	1
+windows-uno manufacturer	hp	1
+XP model	hp xp ten thousand  	1
+year major manufacturer	hp	1
+60-watt adapter	hp f one thousand four hundred and fifty-four a 	1
+6-Cell battery	hp pavilion dv six thousand   battery 	2
+70-year-old company	hp	1
+8P server	hp proliant dl seven hundred and sixty 	1
+abnormal hemoglobin band detection system	hplc	1
+Access Point device	hp netbeam	1
+admin utility	hp procurve monitor	1
+adolescent vaccine	hpv	1
+Advanced analyticalmethods	hplc	1
+advanced apparatus	hplcgcuv spectrophotometer	1
+advanced HP laserjet color technology	hp colorsmart ii color-management system	1
+agency's most talked-about campaign	hpb's national smoking control campaign	1
+alinguisticframework	hpsg	1
+all-in-one touch-screen desktop	hp touchsmart	1
+alternate print driver	hp deskjet  nine hundred and ninety c 	1
+amazing parallel computation facility	hpc cluster computer	1
+AMD opteron-based system	hp proliant dl five hundred and eighty-five  server 	3
+amd-based HP proliant server	hp proliant dl five hundred and eighty-five  g one 	1
+analytical and separation technique	hplc	1
+Analytical chemical metho	hplc	1
+AOS model	hp- twenty s 	2
+apple OS system	hp tablet	1
+asaturated noncyclic diluent	hpt	1
+asymmetrical parkinsonian syndrome	hpha	1
+audio extension module	hp  fourty-six thousand and eighty-two a 	1
+authorization host computer	hp nine thousand  	2
+option	hpd rear diff setup	1
+benchmark background company	hp	1
+best classical model	hp- fifteen c 	1
+best-of-breed troubleshooting tool	hp openview	2
+bi-directional parallel printer cable	hp part c two thousand nine hundred and fifty a 	2
+big business provider	hp	1
+big endian system	hp-ux	1
+big hardware player	hp	1
+big name server vendor	hp	1
+bigfoot's stat	hp	1
+Bioanalytical equipment	hplc	1
+biocompatible water-soluble polymer	hpma copolymer	1
+bi-tronics printer	hp five  laser jet 	1
+bluechip international client	hp	1
+blue-chip public enterprise	hpcl	1
+brand name flagship store	hp acer vaio	1
+brand supply	hp	1
+bricks-and-mortar event	hp discover event	1
+built-in voice commander feature	hp voice reply	4
+Candidate biomarkers	hpv l one 	1
+card-reader calculator	hp- sixty-five 	1
+cell-based itanium processor family system	hp integrity superdome	1
+cervical cancer screening strategy	hpv dna testing for women with cervical cytologic abnormality	1
+cervical cancer vaccination	hpv vaccination	1
+chance uninstalled software	hp advisor	1
+cheap finance package	hp	1
+cheap original toner cartridge	hp cb five hundred and fourty a black toner cartridge 	1
+cheap ultraportable	hp  two thousand one hundred and thirty-three  mini note 	1
+cheap-ish laser printer	hp p one thousand five hundred 	1
+chemical separation procedure	hplc	1
+Chromatographicmethods	hplc	1
+chromatography-based technique	hplc	2
+chromo-domain protein	hp one 	2
+chromodomain-containing factor	hp one 	1
+cisco switch	hp bladesystem cisco gigabit ethernet module	1
+cisco's traditional competitor	hp	1
+classic HP machine	hp- seventy-one b 	1
+clinical governance model	hpca act	1
+CMOS application	hp	1
+color designjet model	hp designjet  four hundred and fifty c 	1
+color laser	hp laserjet cp one thousand two hundred and fifteen 	2
+color laser printer	hp  two thousand five hundred and fifty l 	1
+column chromatography approach	hplc	1
+column type chromatography	hplc	1
+commercial SNMP monitoring tool	hp openview	1
+commercially availableproducts	hp openview service desk	1
+commer-cialsoftware package	hp sopenview transaction analyzer	1
+common AC adapter	hp deskjet printer ac adapte r	1
+common chromatographic method	hplc	1
+common HP architecture component	hp's pa-risc processor	1
+common measurement procedure	hplc	1
+company foundation	hp foundation	2
+compatible driver	hp laserjet  four p 	1
+compatible IR receiver	hp media center ir receiver	1
+competitive sauce	hp	1
+complex testing methodology	hplc	1
+compliant third party system	hp's production flow	1
+computer manufacture website	hp	1
+computer manufacturer website	hp lenovo	1
+computer printer manufacturer	hp	1
+computer-printer maker	hp	1
+CONCLUSION new construction material	hpc	1
+consumer OEM system supplier	hp	1
+context large company	hp	2
+contrary, american brand	hp	1
+contrast PC vendor	hp	1
+convenient e-mail-enabled device	hp ipaq handhelds	1
+conventional cable management system	hp cable management ann  one u for dl three hundred and sixty  g four  dil one hundred and fourty  g two 	1
+conventional network management facility	hp openview.rtm	2
+Conventional testing equipment	hp-logic analyzer	2
+county-wide specialist Trust	hpt	1
+crine parameter	hpa axis	1
+critical high sensitivity application	hplc	2
+cross-platform compatible accessory	hp docking solution	1
+cross-sector deal	hp	1
+cursing brand	hp	1
+custom test tool profile	hp mercury	1
+cutaneous HPV type	hpv one 	1
+datum center equipment manufacturer	hp	1
+datum replication software	hp storageworks storage mirroring	1
+decent computer	hp	1
+dedicated on-road wheel & tire	hpi phaltlines	1
+dedicated photo scanner	hp scanjet g four thousand and fifty 	1
+dell competitor	hp	1
+dereplication technology	hplc	1
+deskjet printer	hp photosmart	1
+de-trending filter	hp filter	1
+device software feature	hp toolbox	1
+digital output file	hp scp-ecg	1
+digital press manufacturer	hp	1
+digital sender	hp  nine thousand one hundred c digital sender 	1
+disk array	hp virtual array	1
+distributor brand	hpi	1
+driven soldier beam steel beam	hp shape	1
+editors choice-winning standout	hp pavilion dm one z 	1
+eight-way server	hp proliant dl seven hundred and sixty 	1
+element management system	hp openview	1
+emerging storage platform	hps memory spot	1
+empirically valuable adjunct test	hpv assay	2
+end game rune	hp per level	1
+end-to-end solution provider	hp	1
+enemy stat	hp	1
+energy efficient server	hp server	2
+enterprise architecture methodology	hpgm for itsa	1
+enterprise machine	hp elitebook	1
+enterprise management software solution	hp openview	1
+enterprise network management system	hp openview	1
+enterprise notebook maker	hp	1
+enterprise record management system	hp trim	1
+entertainment notebook	hp dv six thousand five hundred 	2
+entertainment PC	hp z five hundred and fifty-seven  digital entertainment center 	2
+entrprise management product	hp openview	1
+evem well-known business	hp	1
+example many large company	hp	1
+example name brand pcs	hp	1
+EX-II printer	hp laserjet  four  plus 	1
+expensive and time-consuming chemical procedure	hplc	1
+expensive and time-consuming chromatography technique	hplc	1
+external SNMP client	hp openview	3
+feature-based framework	hpsg	1
+fft-based spectrum analyzer	hp  thirty-five thousand six hundred and seventy a 	1
+first client	hp	1
+fix pioneer-series model	hp- thirty-two s 	1
+Focused board oversight	hp sboard-level public policy committee	1
+FTAM-1 model simple text file	hp-ux text file	1
+full-size, lightweight laptop	hp	1
+functional SNMP console	hp openview network node manager	1
+gadget innovation	hp home server	1
+generic enterprise management system	hp openview	1
+generic window printer driver	hp  four j 	1
+global IT organization	hp	1
+global IT service industry major	hp	1
+globally competitive technological company	hpk	1
+goal-based tool	hp-ux wlm	1
+golem parameter	hp	1
+good A3 inkjet	hp's photosmart pro b eight thousand five hundred and fifty 	1
+good bug tracking tool	hp quality center	1
+good flatbed scanner	hp scanjet  four c 	1
+handheld Pocket PC	hp ipaq	1
+heart parameter	hp	1
+heterochromatic protein	hp one 	2
+hewlett packard plotter	hp  seven thousand four hundred and seventy 	2
+hewlett packard printer	hp laserjet	1
+hewlett-packard's thin client	hp compaq t five thousand seven hundred and twenty-five 	1
+high end HP printer	hp color lasejet  four thousand seven hundred n 	1
+high end professional grade screen	hp lp two thousand four hundred and eighty zx 	1
+high performance computing facility	hpc cluster	2
+high precision printing machine	hp	1
+high quality HP printer	hp laserjet p one thousand five hundred and five n printer 	1
+high quality printing gadget	hp laser printer	1
+high resolution chromatography procedure	hplc	1
+high-bay industrial lighting	hps	1
+high-capacity inkjet printer	hp business inkjets	1
+high-end server model	hp superdome	1
+high-end unix server	hp's itanium-based systems running hp-ux	1
+higher-end commercial QA tool	hp qtp	1
+higher-performance blade	hp bladesystem p-class	1
+high-level requirement	hplc system for routine product testing	1
+highlylexicalised framework	hpsg	1
+high-performance liquid-phase separation method	hplc	1
+high-powered calculator	hp  nine thousand eight hundred and thirty  based on rom 	2
+high-profile PC maker	hp	4
+high-quality toner	hp q two thousand six hundred and seventy-two a toner 	1
+history check	hpi	2
+holistic performance improvement approach	hpt	1
+home entertainment PCs	hp's home media center	2
+home NAS product	hp media vault	1
+home server vendor	hp	1
+honorable USA company	hp	1
+HP All-in-Ones	hp photosmart c six thousand one hundred and eighty 	1
+HP business technology optimization tool	hp operations center	1
+HP color laserjet printer	hp color laserjet cp two thousand and twenty-five n 	1
+HP computer	hp mini notebook computer	1
+HP developed tool	hp cluster management utility	1
+HP dv-series laptop	hp dv four t- one thousand four hundred and thirty us 	1
+HP eco solution	hp laserjet p two thousand and fifty-five dn 	1
+HP enterprise customer	hp  three thousand   migrators 	1
+HP exclusive technology	hp vivera ink	3
+HP General office scanner	hp scanjet n six thousand three hundred and ten  document flatbed scanner with adf 	1
+HP instrument	hp  four thousand one hundred and fourty b 	1
+HP interface	hp-ib	1
+HP iscsi SAN environment	hp p four thousand three hundred 	1
+HP jetsend application	hp jetsend for windows ce	1
+HP laser printer	hp  six l 	1
+HP laserjet printer	hp laserjet ii	1
+HP paper	hp high gloss laser paper	1
+HP personal medium drive	hp  five hundred gb pocket media drive 	1
+HP printer series	hp laserjet p four thousand and fourteen n 	1
+HP professional innovation	hp device access manager	1
+Hp Quick-Ship Laptop PCs	hp pavilion dv six 	1
+HP race part	hp race calibration kit	1
+HP remote management tool	hp systems insight manager	1
+HP scanner	hp scanjet g four thousand and fifty  photo scanner 	1
+HP server technology	hp proliant servers & hp blade server	1
+HP software	hp standard port	1
+HPAA subscription	hp alumni news	1
+hpestimator linear filter	hp	1
+hp-gl-compatible plotter	hp  seven thousand four hundred and seventy-five a 	1
+HPI interface	hpi- sixteen  on tms three hundred and twenty c fifty-four x device 	1
+hppcl-supported printer	hp laserjet plus	1
+HPRs	hpr	1
+hp's all-in-one printer	hp officejet pro l seven thousand five hundred and ninety 	1
+hp's eprint-enabled printer	hp laserjet pro cp one thousand five hundred and twenty-five  color printer 	1
+hp's hands-on cloud service	hp cloud discovery workshop	1
+hp's identity management solution	hp openview select identity	1
+hp-supported uninterruptible power supply	hp powertrust	2
+HPV subtypes	hpv one 	1
+hpv-based technology	hpv test	2
+hybrid material system	hpdc mg alloy	1
+hybrid printer	hp officejet j six thousand four hundred and eighty 	1
+IA-64 system vendor	hp	1
+IBM-SP	hpcx	1
+IDC company	hp	1
+ilford film	hp five 	1
+ILM platform	hp integrated archive platform	1
+Image resolution software	hp's imageret  two thousand four hundred 	2
+impressive system	hp's halo  two 	1
+improved chromatographic technique	hplc	1
+Improved screening technology	hpv testing	1
+Ina representational framework	hpsg	1
+inasmuch chromatography technique	hplc column	1
+industrial implementation	hp e-speak	2
+industry IT leader	hp	1
+industry standard driver	hp laserjet series ii	1
+industry-leading management solution	hp integrated lights-out	1
+inexpensive FC SAN	hp msa two thousand  fc 	1
+infec-tionswithlow-risk type	hpv types  six and eleven 	1
+ink cartridge recycling program	hp planet partners	3
+ink giant	hp	1
+ink-based printer	hp inkjet.rtm	1
+intact OEM cartridge	hp	1
+integrated human patient simulator	hps	1
+inter-domain messaging service infrastructure	hp e-speak	1
+inventory discovery tool	hp ddmi	1
+itanium 2-based server	hp server rx two thousand six hundred 	1
+jetdirect print server	hp jetdirect  six hundred and ten n 	1
+lab counter	hp  five thousand three hundred and thirty-five a 	1
+Laptop-makers	hp	1
+Large all-in-one resellers	hp	1
+large brand name PC	hp	1
+large established software company	hp	1
+large international high-tech firm	hp	1
+large scale NMS system	hp openview	1
+large screen portable device	hp slate	1
+large tech-manufacturing company	hp	1
+large thin-client vendor	hp	1
+large-format printer manufacturer	hp hp	1
+large-scale software manufacturer	hp	1
+laser jet	hp p one thousand and five 	1
+laser toner cartridge	hp c seven thousand one hundred and fifteen a 	1
+latent sensitive application	hpc	1
+latest blade solution	hp's c-class solution	1
+latest multi-core server	hp's g seven  server 	1
+latest netbook model	hp mini  three hundred and eleven 	1
+leading people-factor company	hp	1
+leading workstation maker	hp	1
+lease-based MPS agreement	hp quickpage	1
+Leucogranites	hpg	1
+leveraging solution	hp asset manager	1
+linear RF simulator	hp ads	1
+Linux boot server	hp insight control environment for linux server	1
+Liquid phase chromatography	hplc	1
+liquid-phase chromatography	hplc	1
+live database	hpi	1
+local STDs	hpv infection	1
+LocalTalk printer	hp deskwriter	1
+logical network manager	hp openview	1
+long-entrenched business	hp	2
+low risk type	hpv types hpv- one 	2
+lower-end larger laptop	hp's pavilion g six t 	1
+low-risk virus	hpvs  one 	1
+low-temperature foamers	hpb	1
+lsx tuning software manufacturer	hp tuners	1
+ltoultrium-branded medium	hp	1
+lysogenic virus	hpv	1
+matte medium	hp semi-gloss photo paper	1
+mechanistic procedure	hp filter	1
+medium format photo printer	hp photosmart b eight thousand eight hundred and fifty 	1
+methylation-sensitive restriction enzyme	hpa ii	1
+microsft window home server	hp mediasmart server	1
+microsoft's indian partner	hp	1
+microwave range meter	hp  four hundred and thirty-two a 	1
+Middle brands	hp	1
+midrange consumer inkjets	hp's photosmart series	1
+mid-range consumer inkjets	hp's photosmart series	1
+model HP laptop battery	hp pavilion laptop battery	1
+modem storage system	hpss	7
+Modem storage system s	hpss	1
+modern automation tool	hpquickt est professional software support sap application	1
+modern chromatographic technique	hplc	1
+modern DSMs	hp gs one thousand two hundred and eighty 	1
+more-conventional tech advertiser	hp	1
+multi-core proliant server	hp dl nine hundred and eighty 	1
+multifunction all-in-one printer	hp m one thousand one hundred and thirty-two 	1
+multimedia PC	hp pavilion p six thousand one hundred and fourty f 	1
+multimedia-friendly model	hp pavilion dv four thousand  	2
+multi-user, multi-tasking environment	hp-ux	1
+Nano-porous photo paper	hp advanced photo paper	2
+net connected server	hp mediasmart	1
+network management subsystem	hp openview	1
+network printer name	hp seven hundred and fifty-five cm on printserver 	1
+network-attached printer	hp iii	1
+networking competitor	hp	1
+network-management program	hp openview	1
+nice multifunction	hp photosmart premium	1
+nitro cleaner	hpi nitro cleaner	1
+NMS platform	hp openview	2
+NMSplatforms	hp openview	1
+non-ms analytical assay	hplc	1
+non-size based separation method	hplc	1
+non-size separation method	hplc	1
+nonstop server platform	hp nonstop itanium	1
+method	hplc	46
+method	hptlc	5
+method	hp dv seven - four thousand one hundred and eighty-three cl 	2
+method	hplc analysis	2
+method	hpm	1
+no-slot PC	hp e-vectras	1
+notebook also sport ease-of-use feature	hp quicklook	1
+notebook company	hp	2
+nvidia ION model	hp mini  three hundred and eleven 	1
+NVIDIA tesla-based solution	hp proliant sl three hundred and ninety s 	2
+odd concoction	hpnotiq	1
+OEM cartridge supplier	hp	2
+OEM dvd software	hp s quickplay	1
+OEM machine	hp	1
+OEM PC brand	hp	4
+OEM retailer	hp	1
+OEM system management tool	hp updater	1
+ofamorphous material	hpmc e five 	1
+office opponent	hp's  six hundred and twenty-five  ws eight hundred and thirty-five ea 	1
+OfficeJets	hp k five hundred and fifty 	1
+off-the-shelf management software application	hp openview	1
+oil refining major	hpcl	1
+OLS absolute position reference system	hpr	1
+online viewing software	hp memory disk	1
+on-road tyre	hpi phaltlines	1
+opteron system	hp dl three hundred and eighty-five 	1
+optic setup	hpdfo on uls system	1
+optical multi-touch technology	hp touchsmart	1
+oracle's hardware partner	hp	1
+ordinary decent 400ASA film	hp five 	1
+ordinary server	hp	1
+OS article	hp-ux	1
+page group system	hp pa-risc	1
+paging service provider	hp starlink	1
+PAIs	hpi of yersinia species	1
+papilloma virus	hpv	1
+party board	hpa four hundred and fourty-nine  demonstration board from softbaugh 	1
+payer-hosted record	hphconnect from harvard pilgrim health care	2
+PC manufactur ers	hp	1
+pduforclusterplatf orm scalable computing system	hp cluster platform	1
+perception technique	hpp	1
+photo quality printer	hp deskjet  nine hundred and sixty cse color printer 	1
+physical chemistry analysis	hplc	1
+pigment-ink printer	hp's new photosmart pro b nine thousand one hundred and eighty 	1
+play info	hp	1
+pocket PC mobile	hp ipaq h six thousand three hundred and fifteen 	1
+popular british grocery	hp sauce	1
+popular commercial-quality tool	hp quicktest pro for system testing	1
+popular NMSs	hp openview	1
+popular power plant	hpd's  three . four -liter v eight 	1
+popular printer manufacturer	hp	2
+portable compact photo printer	hp photosmart a six hundred and thirty-six 	1
+portable general-purpose device	hp slate	1
+post rack	hp compaq cabinets	1
+power-efficient system	hp's  eleven -inch pavilion dm one z 	2
+powerful netbooks	hp mini  one thousand one hundred and fifty nr 	1
+Pre-built PCs	hp pavilions	1
+predictive market product	hp's brain platform	2
+premium server manufacturer	hp	1
+press supplier	hp	1
+pressure measurement unit	hpa	1
+pressure-driven flow system	hplc	1
+prestigious combined medical program	hpme at northwestern	2
+prestigious, world-wide technology leader	hp	2
+pretty sweet item weapon	hp sucker	1
+preventive and screening measure	hpv vaccine	1
+print management	hp web jet admin	1
+print management tool	hp web jet admin	1
+printer adaptor	hp bt one thousand three hundred  bluetooth printer adapter 	1
+printer series	hp laserjet  one thousand and twelve 	1
+printer toner brand name	hp toner	1
+printer-specific utility	hps printer utility	1
+priporitory system	hp & compaq	1
+pro photo printer	hp photosmart b nine thousand one hundred and eighty 	1
+proactive HP program	hp change control	2
+problem management system	hp servicedesk	1
+problematic well	hpht	1
+professional computer	hp workstation	1
+professional quality analysis platform	hp quality center	1
+profitable vaccine	hpv vaccine	1
+proprietary PC	hp	1
+proprietary unix variant	hp's hp-ux	1
+pro-teins	hpv-encoded oncogenic pro-teins	1
+proven performance improvement technique	hpt	1
+PSC-specific method	hplc hplc high-performance liquid chromatography	1
+PVC flooring related offer	hpl	1
+quality HP medium	hp proofing gloss	1
+quality toner	hp toner	1
+rare high pathogenic avian influenza	hpai h five n one  circulating in parts of asia 	1
+RC Truggies	hpi hellfire	1
+ready-to-record window medium center PC	hp's z five hundred and fifty-seven  digital entertainment center 	1
+real, true, RMS meter	hp  three thousand four hundred and three c 	1
+regular or Notebook	hp	1
+reliable and durable printer	hp	1
+reliable PC	hp	1
+remanufactured ink cartridge	hp	2
+remote tape system	hpss	1
+replication user interface	hp replication solutions manager	1
+research uncovered technique	hplc	1
+reselli ng tier-one brand	hp	1
+reselling tier-one brand	hp	1
+retail PC package	hp	1
+retroreflective screen	hp	1
+RF spectrum analyzer	hp  three thousand five hundred and eighty-five a spectrum analyzer 	1
+sale force	hp	1
+SAN hardware	hp's p three thousand four hundred  g two   sixteen tb sas starter san 	1
+season's hottest item	hp mini	1
+second, mechanical univariate approach	hp filter	1
+second, simulator	hps	1
+method	hplc-mass spectrometry	1
+method	hpv screening	1
+method	hpv educational intervention	1
+method	hplc detection method	1
+method	hp filter	1
+senior executive higher end system	hp envy line	1
+separation power oftechniques	hplc	1
+separation-based procedure	hplc	1
+server hardware offering	hp's virtual connect	1
+service desk management vendor	hp	1
+service management solution	hp openview	1
+sexy single	hp's personal systems group	2
+short trademark	hp	1
+silicon nitride	hpsn nc  one hundred and thirty-two 	1
+simple protein model	hp lattice bead model	2
+single server blade vendor	hp	1
+size-separating technique	hplc	1
+small business PC vendor	hp	1
+SNMP management system	hp openview nnm	1
+SNMP notification handling tool	hp openview	1
+SNMP-based NMS	hp openview	1
+software delivery product	hp ppm	1
+solid and durable business laptop	hp compaq  eight thousand five hundred and ten  and  eight thousand seven hundred and ten 	1
+solid phase separation	hplc	1
+solid state option	hp io accelerators	1
+sometimes large vendor	hp	1
+sophisticated and sensitive detection system	hplc-evaporative light scattering detection	1
+sophisticated video-conferencing tool	hp's halo	1
+sport built-in feature	hp auto-off	3
+SS STDs	hpv	1
+stable touch screen all-in-one pc	hp in multple room	1
+stand-alone equipment	hplcs	2
+Stand-alone PDAs	hp ipaq rx one thousand nine hundred and fifty 	1
+standard DAS	hp  thirty-four thousand nine hundred and seventy a 	1
+standard parallel language	hpf along with the adaptor tool	1
+standard SNMP platform	hp openview	1
+standard USB-compliant interface cable	hp part number c six thousand five hundred and nineteen a 	1
+standardized purpose	hpms	1
+state workforce planning agency	hpds in north carolina	1
+state-run retailer	hpcl	1
+station hub	hp multiseat t one hundred  thin client 	1
+st-based quantity	hp	1
+stiff tubing	hplc-peek tubing	1
+storage management software	hp	1
+Strong brown sauce	hp	1
+substitive guar gum	hpg sold under the designation of wg eleven  by halliburton 	1
+successful herbal product company	hpa industries sdn	1
+Suitable candidate novel biomarkers	hpv mrna	1
+supercalculators	hp- twenty-eight s 	1
+supplying high-profile brandsleading electronics company	hp	3
+swell able polymer	hpmc	1
+swellable medium	hp premium plus photo paper	1
+swellable paper	hp premium plus photo paper	5
+system-rpl-only calculator	hp- eighteen c 	1
+tablet operating system	hp webos	1
+Tape library technology	hp ultrium	2
+task-based management solution	hp openview client configuration manager	1
+tech supplier	hp	1
+technology conglomerate	hp	1
+text-based printer	hp laserjet	1
+TFT monitor	hp l one thousand seven hundred and two 	1
+thin client PC	hp t five thousand seven hundred 	1
+thin-walled or inelastic capsule	hpmc capsule	1
+third party network management application	hp openview	1
+third, local organization	hp	1
+third-party management agent server vendor	hp	2
+third-party network management application	hp openview network node manager	1
+third-party NMS	hp openview	1
+third-party snmp-based network management system	hp openview	1
+time hardware	hp z three thousand eight hundred and one a 	1
+time-consuming laboratory test	hplc	1
+time-type heals	hp pot	1
+today's best notebook	hp pavilion	1
+today's higher-end business-class inkjet printer	hp officejet pro	1
+today's storage array	hp storageworks p nine thousand  	1
+today's super computer	hpcx	1
+toner capsule	hp q seven thousand five hundred and fifty-one a 	1
+top computer manufacturer	hp	1
+top technology brand	hp	1
+top tier customer	hp	1
+top toner cartridge seller item	hp	1
+touch-enabled computer	hp touchsmart pc	1
+Traditional liquid chromatography	hplc	1
+traditional parsing approach	hpsg grammar	1
+traditional System V Unixes	hp-ux	1
+traditional test management tool	hp quality center	2
+true ENTERPRISE commerical cluster tool	hp serviceguard	1
+true tablet	hp's compaq tc one thousand one hundred 	1
+type OH2 horizontal model	hpx	1
+typical laptop	hp compaq n six hundred c 	1
+UDCFs	hp's matrix	1
+ufacturers	hp	1
+UHS benefit	hpv	1
+ultrium-branded medium	hp	1
+unix hardware platform	hp	1
+unix hardware vendor	hp	2
+UNIX server OS	hp-ux	1
+unrecognized device	hp switch	1
+upgradeability select HP notebook	hp compaq nc six thousand four hundred 	1
+us-based ICT company	hp	1
+USB-compliant interface cable	hp part number c six thousand five hundred and nineteen a 	1
+utilise network monitoring tool	hp openview network node manager	1
+VECTOR MODULATION instrument	hp  eight thousand seven hundred and eighty a vector signal generator 	1
+Vendor software	hp's service desk	1
+vendor tape drive	hp	1
+tool	hp openview	9
+tool	hp systems insight manager	3
+tool	hpv vaccination	2
+tool	hp load runner	2
+tool	hp integrated lights-out management	2
+tool	hp openview omniback ii	1
+tool	hp openview's service desk	1
+tool	hp webinspect	1
+tool	hp virus throttling	1
+tool	hp quicktest professional	1
+tool	hp exstream	1
+tool	hp insight manager	1
+tool	hp integrated lights-out	1
+tool	hp management tool	1
+tool	hp proliant essentials product	1
+tool	hp testing tool	1
+tool	hp test tool	1
+tool	hp vplusiwindows	1
+tool	hpv vaccine	1
+tool	hpi	1
+tool	hp indigo smart planner for labels	1
+tool	hp capacity advisor	1
+tool	hp bladesystem fdt	1
+tool	hp storageworks library	1
+tool	hp workload manager	1
+tool	hplc	1
+tool	hping	1
+tool	hpv test ing	1
+tool	hp's load runner	1
+tool	hp qtp	1
+tool	hp quicktest pro	1
+tool	hp product bulletin	1
+video game-related term	hp	1
+voluntary vaccination	hpv	1
+water-based pigment	hp uv	1
+well-known global make	hp	1
+WHS	hp mediasmart	1
+wide format printer manufacturer	hp scitex	1
+Wi-Fi Pocket PCs	hp's new ipaq pocket pc h four thousand one hundred and fifty 	1
+window 7-based tablet	hp slate	1
+window OS handhelds	hp jornada	1
+window SNMP software	hp openview	1
+wireless digital medium receiver	hp ew five thousand  	1
+word autonomic, computer firm	hp	1
+workhorse analytical tech niques	hplc	1
+workhorse analytical technique	hplc	1
+working partner	hph company	1
+workstation-class notebook	hp elitebook	1
+world-class international company	hp	1
+worst STDs	hpv	1
+Yellow-rich light	hps	2
+tool	hp newwave office	1
+tool	hp cloud maps	1
+tool	hp cmyk plus	1
+tool	hp insightmanager	1
+tool	hp insight control	1
+tool	hp insight control server deployment	1
+tool	hpv testing	1
+product	hp	7
+product	hp openview	7
+product	hp openview network node manager	4
+project	hp's computer program at daly river	2
+project	hp pavilion	1
+project	hp.stonji with hans platzgumer	1
+project	hp's dynamo	1
+material	hps	2
+material	hplc column	1
+material	hpde	1
+place	hp pavilion	1
+player	hp	34
+player	hp fujitsu	1
+technology	hpv vaccine	3
+technology	hp graphing calculator	3
+technology	hplc	3
+technology	hpv dna test	3
+technology	hpv typing	2
+technology	hpv testing	2
+technology	hpna home phoneline networking alliance	2
+technology	hp wireless tv connect	1
+technology	hp making	1
+technology	hpht wells being considered for use in the north sea	1
+technology	hp partner technology	1
+technology	hp storage solutions	1
+technology	hp's enterprise	1
+technology	hp's photoret color layering technology	1
+technology	hp's real life technology	1
+technology	hp innovative technology	1
+technology	hp designjet l twenty-five thousand five hundred  using latex inks advance 	1
+technology	hpv dna screening test	1
+technology	hp's real time financial services	1
+technology	hpna	1
+technology	hp's left hand service	1
+technology	hp's edgeline challenge existing hardware paradigm	1
+technology	hpv test	1
+product	hp ipaq	3
+product	hpl	2
+product	hp image manager	2
+product	hp dynamic smart cooling	1
+product	hp hp certification hp zero -y thirty-six  from testking latest audio study guide 	1
+technology	hpv vaccination	1
+technology	hpv test for screening	1
+technology	hp exclusive technology	1
+technology	hp insight control server deployment	1
+technology	hp insight rapid deployment	1
+technology	hp access control software	1
+parameter	hplc elution profile	1
+parameter	hpvtypewith clinical parameter	1
+parameter	hp calcs	1
+system	hp-ux	24
+system	hp	11
+system	hp-ux system	3
+system	hp viridia cms	1
+system	hp openview	1
+system	hp  three thousand  	1
+system	hp ds ten l 	1
+system	hp laptop server system	1
+system	hp quality centre	1
+system	hp's superdome	1
+system	hp's  nine thousand one hundred  extreme data storage system 	1
+system	hp unix	1
+system	hpf	1
+system	hpc	1
+system	hpd rms	1
+system	hp xw eight thousand two hundred  workstation 	1
+system	hp node partitions	1
+system	hp blade	1
+system	hp-ux version  eleven i 	1
+system	hpux	1
+system	hps high-performance screw	1
+system	hp- one hundred  palmtop 	1
+system	hp virtual partitions	1
+system	hp nonstop system	1
+system	hp data protecor supporting application server	1
+system	hp dc seven thousand two hundred  desktop 	1
+system	hp dc seven thousand six hundred  desktop 	1
+system	hp alpha tru sixty-four  unix 	1
+measure	hpi	2
+measure	hpv dna testing	1
+condition	hpv	5
+condition	hpv virus	1
+condition	hps	1
+condition	hppd	1
+variable	hpv sixteen  primer composition 	2
+variable	hpa stress response	1
+variable	hp level	1
+device	hp slate	4
+device	hp ipaq h three thousand nine hundred and fifty 	2
+device	hpgl plotter	1
+device	hp officejet	1
+device	hp zip drive	1
+device	hp raid	1
+device	hp expresscard tv tuner	1
+device	hp mini  three hundred and eleven 	1
+device	hp pocket pcs	1
+device	hp ipaq handhelds	1
+device	hp model  fourty-eight al autochanger 	1
+device	hp  two thousand one hundred and thirty-three  mini-note pc 	1
+device	hp procurve  four thousand and eighteen gl 	1
+device	hp's cp three thousand five hundred and five x color laserjet 	1
+device	hp webcam	1
+device	hp wireless access device	1
+device	hp jetdirect  six hundred and ten n card 	1
+device	hp elitebook  eight thousand four hundred and fourty p 	1
+device	hp digital sender	1
+brand	hp	348
+brand	hp compaq	5
+brand	hpi	4
+brand	hpi racing	3
+brand	hpcl	1
+brand	hpm	1
+concept	hpgl	1
+component	hpt blade	1
+component	hp superheater coil	1
+component	hpt protein	1
+component	hps educational component	1
+site	hp's website	2
+site	hp electronics	1
+site	hp site	1
+site	hpo win daung caves	1
+site	hp.com amazon.com	1
+task	hp proliant integrated management log export	2
+task	hptouchsmart program	1
+task	hp-ib data preparation	1
+task	hp touchsmart program	1
+related product	hp color laserjet related product	1
+related product	hpl door skin related product	1
+related product	hp product related product	1
+related product	hp laser toner related product	1
+related product	hp ink cartridge related product	1
+related product	hpmc related product	1
+related product	hp toner cartridge related product	1
+related product	hp printer cartridge related product	1
+related product	hp part related product	1

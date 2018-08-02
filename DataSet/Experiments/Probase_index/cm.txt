@@ -1,0 +1,1989 @@
+initiative	cme program	1
+initiative	cma global artist party	1
+initiative	cmmi	1
+initiative	cmdb project	1
+datum	cmdb store statistical datum	1
+datum	cm server name	1
+datum	cms feedback	1
+datum	cm critical datum	1
+resource	cme program	1
+facility	cmrr	1
+facility	cmu library	1
+process	cmp process	13
+process	cmos	3
+process	cmm inspection	2
+process	cmd	2
+process	cmr reconciliation	1
+process	cmd.exe	1
+process	cmos process	1
+process	cmp with pressure force detection	1
+source	cmes	1
+source	cmhc	1
+source	cmms	1
+source	cms web site	1
+source	cmos camera	1
+property	cmc of amphiphiles	1
+benefit	cme ? s	1
+benefit	cme	1
+benefit	cmpf	1
+game	cmr three 	1
+exception	cm punk	2
+exception	cmu	1
+product	cmos sensor	1
+product	cmu block	1
+product	cmos camera module related product	1
+product	cmos lens related product	1
+product	cmos network camera related product	1
+product	cms automatic backup system	1
+reason	cms spn field	1
+model	cmm	6
+model	cmmi	5
+model	cmc	3
+model	cmm for software	1
+model	cmmi for services	1
+model	cmaq code	1
+model	cmy	1
+model	cmsv datum model	1
+word	cmd	1
+institution	cmc	4
+institution	cmu	2
+institution	cmhc	1
+institution	cmacs arequipa	1
+institution	cme	1
+institution	cmsa	1
+change	cme requirement	1
+client	cmt	1
+client	cmn	1
+client	cme group	1
+client	cmgrp limited in hong kong	1
+client	cmisspaces breaking the content into chunks before base sixty-four  encoding 	1
+client	cmo	1
+document	cme's	3
+document	cms ruling	1
+document	cm	1
+document	cme certificate	1
+document	cmtrs	1
+document	cmtr's	1
+document	cmes	1
+document	cmc regulatory filing	1
+feature	cmyk color space conversion	18
+person	cma	1
+approach	cmm	2
+approach	cmdb	1
+approach	cmas's use of a separate delivery channel	1
+alternative	cms system	1
+agency	cmac	2
+agency	cmas	2
+agency	cmhc	2
+agency	cmh	1
+agency	cmri	1
+agency	cms for payment	1
+object	cmr unsafe object	1
+theme	cms-centric wordpress theme	1
+course	cmast training	2
+course	cmpt  one hundred and eleven 	1
+solution	cms's ivr program	2
+solution	cmdb	2
+solution	cms system	1
+solution	cmms connectivity solution	1
+solution	cms made simple	1
+feature	cmyk color	2
+feature	cms	2
+star	cm punk	9
+structure	cmoc	1
+structure	cm at risk	1
+business	cmc markets	1
+part	cmos battery	1
+school	cmu	7
+school	cmtc	1
+school	cma seminary	1
+title	cmo	1
+operation	cmyk conversion	1
+agent	cmc	4
+agent	cmv hyperimmune globulin	1
+circumstance	cmc	2
+feature	cmos-shift image stabilization	1
+feature	cmss  three d 	1
+feature	cme opportunity	1
+feature	cmpr two  compiler option 	1
+feature	cmrr	1
+feature	cmz the championship manager fanzine	1
+development	cmos microchip	1
+type	cma- two thousand one hundred and two lw from cmc electronics 	1
+city	cmh	1
+disease	cml	2
+disease	cmv	2
+disease	cmt two a caused by perturbation of mitochondrial fusion 	1
+disease	cml in chronic phase	1
+consideration	cmv infectious risk	1
+consideration	cmos setting	1
+firm	cmc markets	11
+firm	cms cameron mckenna	3
+firm	cmgi	1
+firm	cml technologies	1
+firm	cmm ai	1
+requirement	cmv negative blood	1
+drug	cmx	1
+test	cmv antigen detection	1
+indicator	cmie's capex	1
+manufacturer	cmc steel	7
+manufacturer	cmc	5
+manufacturer	cmedia	1
+manufacturer	cmp equipment manufacturer	1
+manufacturer	cmbc	1
+instrument	cmm maturity questionnaire	1
+instrument	cmbs	1
+man	cm punk	5
+feature	cme	1
+feature	cms system	1
+feature	cmos clear	1
+feature	cmyk color space	1
+attribute	cme mass	1
+publication	cmo magazine	5
+setting	cmos store variable setting	1
+setting	cmhi ft.	1
+compound	cmmd analog	1
+class	cmapstringtoptr	1
+class	cmns	1
+study	cmr survey	1
+study	cmh	1
+position	cmo of health	1
+individual	cm punk	1
+website	cm frenzy	1
+website	cmc market	1
+equipment	cmm	2
+equipment	cmi plating thickness machine	1
+equipment	cmos imager	1
+unit	cm	3
+basic	cmis computerised management information system	1
+expense	cme	1
+innovation	cmms with scanner	2
+innovation	cma	2
+cause	cmw	1
+cause	cmv	1
+entity	cmts	1
+entity	cms web site	1
+country	cmea's member country	1
+style	cmos logic style	1
+expert	cm capital markets	1
+feature	cme exam	1
+feature	cmc alert	1
+feature	cme bus	1
+feature	cmmd transducer	1
+feature	cmos clear button at the back	1
+researcher	cmw	1
+purpose	cm- five  implementation 	1
+Organisations	cmas	1
+Organisations	cmca	1
+standard	cmmi	7
+standard	cmis	4
+standard	cmm	4
+standard	cml	2
+standard	cmis for content integration	1
+standard	cmip	1
+show	cmt fox  fifty 	1
+show	cmj music festival collaborating onstage with alejandro marcovich	1
+advanced feature	cms integration	1
+role	cmio	1
+vendor	cme software	1
+sector	cmbs	1
+store	cmc plaza in hcmc	1
+store	cmc plaza in hcm city	1
+market	cme	1
+market	cmrs market	1
+customer	cma	2
+customer	cmp media	1
+opportunity	cme courses in personalized medicine	1
+opportunity	cmu's summer program	1
+opportunity	cme	1
+section	cms for professional website	1
+section	cme	1
+effort	cme	2
+effort	cmo conferences cosponsored by mckinsey	1
+effort	cmdb federation for configuration management	1
+effort	cms's approach for measuring payment errors under the improper payments information act	1
+effort	cmu's auditing system	1
+label	cmc international	1
+department	cmas	1
+scheme	cmk carshare	1
+risk factor	cmr-derived infarct size	1
+risk factor	cmv serostatus	1
+award	cma award	1
+award	cmb	1
+software	cms management software	1
+software	cmss  three d 	1
+module	cmap viewer module	1
+retailer	cmt america	1
+color	cmy	1
+report	cm report	1
+offer	cmos camera related offer	1
+protein	cmah homologs	1
+machine	cmc processing center	1
+machine	cm- two 	1
+machine	cmi roto mill	1
+machine	cmc process center	1
+stakeholder	cmo	1
+issue	cms content	1
+addition	cms habitat addition	1
+corporation	cmc rescue	1
+corporation	cms energy	1
+journal	cmaj	2
+law	cmk	1
+difference	cmds within high acpla	1
+festival	cmj	6
+festival	cmj in new york city	2
+festival	cmj music marathon	1
+line	cma cgm	4
+channel	cmt hd	2
+functionality	cms-driven slideshows	1
+utility	cmd	1
+limitation	cms in-the-home restriction	1
+university	cmu	5
+friend	cms news	2
+file	cmd.exe	2
+file	cmscp directory	1
+file	cmc user database	1
+offering	cms quick start	1
+everything	cm	1
+platform	cmip	1
+platform	cms publishing platform	1
+supplier	cmo	1
+protocol	cmip	1
+error	cmos checksum error	1
+error	cm timeout	1
+key issue	cms content management system	1
+employer	cmc	1
+arrangement	cmos array	1
+operator	cmac	2
+sensor	cmos sensor	5
+sensor	cmu camera	1
+sensor	cm four 	1
+sensor	cm six  fig 	1
+sensor	cmos image sensor	1
+sensor	cmos imagers	1
+sensor	cmg- five t with an acceleration response 	1
+sensor	cmis on board the npoess satellite	1
+station	cmu public tv	1
+station	cmbb	1
+authority	cmc	2
+context	cm method	1
+guy	cm punk	4
+stock	cmgi	1
+stock	cmo	1
+account	cmg asia	1
+support service	cms & office software training	1
+large company	cmo	1
+factor	cmv infection	2
+factor	cmp slurry temperature	1
+factor	cmos compatibility	1
+factor	cmv antigenemia	1
+modalities	cmr	2
+NGOs	cmes	3
+forum	cmac	1
+talent	cm punk	1
+government agency	cmhc	1
+notion	cm-finite algebra	1
+carrier	cma-cgm	2
+carrier	cma cgn	1
+carrier	cma cgm	1
+carrier	cma cgm sa	1
+charity	cmn	1
+popular brand	cm trailers	1
+popular brand	cm truck beds	1
+rival	cme	1
+rival	cmr fuel cells	1
+threat	cm jirachi	1
+infection	cmv	18
+infection	cmv viremia	1
+infection	cmv infection	1
+cell	cmv infection inflammatory cell	1
+professional organization	cmsa	1
+local business	cmi toys	1
+methodology	cml classification system	1
+methodology	cmm	1
+methodology	cmmi	1
+programme	cmas offered by dolphin diver	1
+third party	cmpa	1
+insect	cmr beetle	1
+issue	cmyk printing	1
+issue	cmos technology issue	1
+issue	cm	1
+investor	cmea's maurice gunderson	1
+TV show	cmt	2
+TV show	cmt's country fried home videos	1
+quantity	cmrr	1
+international organization	cmpi	1
+critical issue	cms inpatient only list	1
+face	cm punk	1
+advanced technology	cmos  eight sf 	1
+reward	cme points for attendance	1
+datum source	cmt growth point	1
+datum source	cms tool usage data an d course evaluation datum	1
+datum source	cmc member	1
+polymer	cmc	2
+polymer	cm guar	1
+polymer	cmc suspended in a fatty acid	1
+qualification	cma	1
+superstar	cm punk	10
+invention	cmos sensor	1
+framework	cmmi	3
+framework	cmm	1
+publisher	cmp publications	1
+pathogen	cmv	4
+technological advance	cmms	1
+message	cm notification	2
+virus	cmv	47
+interface	cm eleven a with a dangling serial cable 	1
+combination	cmf	2
+installation	cms script installation	1
+key factor	cms integration	1
+online resource	cmr	1
+enemy	cmv	1
+camera	cmos camera	1
+camera	cmos hdv camera	1
+circuit	cmos logic circuit	3
+circuit	cmosnand gate	1
+circuit	cmos inverter circuit	1
+circuit	cmos electronic circuit	1
+vessel	cma cgm figaro	2
+certification	cma	6
+certification	cmmi	2
+certification	cmm	1
+imaging technique	cmr	1
+order	cmri	1
+instruction	cmdcas guidance	1
+tumor	cml	1
+professional association	cmea	2
+experiment	cmb polarization experiment	1
+complex system	cms fsm system	1
+microorganism	cmv	1
+stage	cmt pickin porch	1
+contractor	cmec	1
+common name	cmap	1
+item	cm record	1
+item	cmb	1
+item	cmt studio lot	1
+embodiment	cmyklclm color	1
+specialty product	cmc	2
+training program	cmp training	1
+extra-curricular activity	cmsm talent-time	1
+wrestler	cm punk	11
+wrestler	cm punk of roh	1
+infectious disease	cmv	2
+management tool	cmake	2
+construction	cmc	1
+designation	cma	2
+outfit	cmk	1
+industry group	cme	1
+electronic component	cmos transistor	3
+electronic component	cmos logic ics	1
+innovative product	cma global	1
+pathology	cml	1
+minor issue	cmyk matching in v seven 	1
+peer	cms energy	2
+headliner	cma festival headliner	1
+cancer	cml	2
+industry standard	cmmi	4
+industry standard	cmaa spec	1
+fundamental concept	cmdlets	1
+assessment tool	cmm assessment	2
+laboratory test	cmv serology	1
+traditional material	cmu	1
+semiconductor device	cmos transistor	2
+semiconductor device	cmos ic's	1
+semiconductor device	cmos circuit	1
+semiconductor device	cmos-type static random access memory device	1
+semiconductor device	cmos device	1
+semiconductor device	cmos sensor	1
+semiconductor device	cmos imagers	1
+semiconductor device	cmos	1
+web service	cms	1
+marketing tool	cme material	3
+hard surface	cmu	1
+block	cmc development block	1
+block	cmos digital building block	1
+dye	cmfda celltracker green	1
+outcome measure	cms- one thousand three hundred and fourty-five -p  two hundred and ten  hospital-acquired infection 	1
+font	cmc- seven  used for magnetic ink character identification 	1
+security	cmo	2
+receiver	cmc superstar	1
+financial instrument	cmo tranches	1
+reputable company	cme offshore	1
+web application	cms open source web application	1
+web application	cmc	1
+web application	cms	1
+critical component	cmos imager	1
+traditional service	cmm	1
+area	cmm	2
+top company	cmc	1
+Pokemon	cm jirachi	1
+cover	cma baseball cap	1
+binder	cmc	2
+music festival	cmj	3
+music festival	cmj music marathon in new york	1
+music festival	cmj music marathon	1
+promoter	cmv	8
+promoter	cmv promoter	3
+audience	cmv driver	1
+stabilizer	cmc	2
+analysis tool	cmms-based analysis tool	1
+non-profits	cmc for use of open space	1
+american company	cms energy	1
+credential	cma	2
+abbreviation	cm	2
+abbreviation	cmco	1
+U.S. company	cms energy	1
+exchange	cme	15
+exchange	cme group	4
+exchange	cme group ltd.	2
+exchange	cme group inc.	1
+international standard	cmm	1
+broker	cmc markets	1
+industry expert	cm gulati	1
+industry expert	cmai	1
+script	cms script	1
+area	cms tool	1
+area	cms engine	1
+area	cmh road	1
+implementation	cmucl	1
+outreach program	cmc's longstanding outreach program	1
+presentation	cmv-including unusual presentation	1
+switch	cmos transmission gate	1
+prestigious award	cma awards	1
+viral infection	cmv	16
+federal law	cms regulations for long-term care facility	1
+academic institution	cmu	2
+programming language	cmsi  five hundred and eighty-five 	1
+online source	cmc magazine	1
+exam	cmrs exam	1
+exam	cmrs	1
+diagnostic technique	cmr	1
+hard material	cmented tile	1
+fan favorite	cm punk	1
+technology tool	cmms	1
+statistical datum	cmdb store statistical datum	1
+crystal	cmtc	1
+experienced player	cm on the owner's side	1
+area	cm activities throughout the intelligence community	1
+area	cm clinical service	1
+area	cm schedule	1
+area	cmbs	1
+top star	cm punk	1
+incentive program	cms physician quality reporting initiative	1
+law firm	cms cameron mckenna	1
+hazardous substance	cmr	2
+infectious agent	cmv	3
+disease process	cmv gastritis	1
+open standard	cml	1
+open standard	cmis	1
+business organization	cme	1
+outside resource	cmms vendor personnel	1
+critical datum	cm critical datum	1
+business unit	cmc	2
+imaging device	cmos	7
+imaging device	cmos sensor	2
+imaging device	cmos image sensor	1
+imaging device	cmos p hot osensor	1
+imaging device	cmos photosensor	1
+buffer	cmos buffer in the circuit	1
+equipment manufacturer	cmp equipment manufacturer	1
+malignancy	cml	2
+state-of-the-art technology	cmos	1
+rifle	cmp surplus rifle	1
+chinese company	cmec	2
+probe	cmm probe	1
+service	cms development	5
+service	cms applicaton development	3
+independent organization	cmo council	1
+building block	cmos digital building block	1
+imaging technology	cmos	1
+imaging technology	cmos aps	1
+door prize	cmu t-shirts	1
+viral disease	cmv	1
+prestigious institution	cmu	1
+trade organization	cmsa	1
+active device	cmos	1
+active device	cmos device	1
+active device	cmos chip on the back pcb	1
+portfolio	cmt-based financing	1
+loan product	cmbs	1
+service	cmmi	2
+service	cml model fragment editor	2
+service	cma's	2
+service	cme	2
+service	cmm measuring	1
+service	cms management	1
+blade	cmt carbon fiber blade	1
+phenolic compound	cmcp	1
+public company	cmgi	1
+baseline characteristic	cmv serology status	1
+strategic initiative	cms system	1
+leading player	cme group	1
+descriptive name	cmrmulticastsocketserver eight thousand five hundred  for the corrections generator 	1
+ink	cmykog	1
+office service	cmms data entry	1
+world champion	cm punk	1
+amp	cmos op amp	1
+industrial material	cmu	1
+chronic infection	cmv	1
+intermediate	cmp-sialic acid	1
+mulch	cm deep loose mulch	1
+opportunistic infection	cmv	11
+opportunistic infection	cmv retinitis	3
+opportunistic infection	cmv infection	1
+web-based application	cms	1
+professional feature	cmyk color	5
+professional feature	cmyk color control	1
+Polysaccharides	cmc	1
+base material	cmu	1
+public sector organization	cmhc	1
+professional qualification	cma	2
+quality measure	cms quality measure	1
+macromolecules	cmc	1
+professional certification	cma	8
+color option	cmyk simulation	1
+member country	cmea's member country	1
+repository	cmdb	1
+common illness	cmv	2
+dangerous substance	cmr	1
+surgical complication	cme	1
+system service	cms file system	2
+end point	cmv recurrence	1
+video source	cms dailymotion.com	1
+OS	cms drupal	1
+OS	cmsdrupalorthedms alfresco	1
+common device	cmos	1
+fitness class	cmc's fitness challenge	1
+corporate partner	cmp media	1
+private college	cmh	1
+automated tool	cms control list	1
+membership organization	cme	1
+television network	cmt	1
+large molecule	cmc	1
+membrane protein	cmr one 	1
+local university	cmu	1
+technology issue	cmos technology issue	1
+modern equipment	cmopound bow	1
+circuit component	cmos component	1
+functional feature	cmos setup	1
+pad	cm storm fps tactics dc	1
+pad	cm storm weapon of choice	1
+television channel	cmt	1
+motivator	cme credit	1
+professional designation	cma	2
+professional designation	cmca	1
+shipping company	cma cgm	1
+shipping company	cma-cgm	1
+shell	cmd.exe	1
+indigenous group	cma reference group	1
+statistical procedure	cmh test	1
+service	cmak	1
+service	cms extraction	1
+service	cms solutions	1
+service	cms skin	1
+service	cms deployment	1
+service	cms modification	1
+good practice	cmmi	1
+quality indicator	cms core measures of performance	1
+complex disease	cme in the setting of choroidal neovascularization	1
+federal initiative	cms ehr medicare	1
+critical task	cm work	1
+thickening agent	cmc	1
+thickening agent	cmc gum	1
+formalism	cml two 	1
+gum	cmc	5
+gum	cmc gum	1
+insurance provider	cmhc	1
+serological test	cmv igg eia test	1
+content management system	cms made simple	1
+medal	cmoh	1
+computer technology	cmc	1
+age	cml	9
+business system	cmr	1
+topic	cmm	2
+topic	cmmi	1
+topic	cmpa issue	1
+topic	cmp memory hierarchy	1
+quality standard	cmm	3
+target gene	cmyc	1
+national project	cmc national project	1
+potential partner	cmhc	1
+simple instrument	cms spread bonds	2
+administrative agency	cmrs board	1
+pharmacokinetic parameter	cmax	15
+pharmacokinetic parameter	cmin	1
+small school	cmc	1
+industry certification	cmm	1
+internet source	cmc company	1
+advanced machine	cmc process center	2
+music event	cmj music marathon	1
+internet provider	cmc telecom	2
+markup language	cml	1
+financial market	cme	1
+medicament	cmcp	1
+venture capital firm	cmdf	1
+venture capital firm	cmea capital	1
+electronic circuit	cmos electronic circuit	1
+large financial institution	cmhc	1
+life-threatening disease	cml	1
+medical journal	cmaj	4
+latest tool	cma	1
+training provider	cme in klang	1
+topic	cmaq program	1
+topic	cmc regulation	1
+standard document	cmr form	1
+stock exchange	cme	1
+travel agent	cmabuslang	1
+inflammatory cell	cmv infection inflammatory cell	1
+equipment vendor	cmg telecommunications	1
+hydrophilic polymer	cmc	2
+information material	cmo guide on pandemic flu	1
+interior surface	cmu	1
+standard technology	cmos	1
+usage	cme processing	1
+color space	cmy	1
+datum model	cmsv datum model	1
+school resource	cmputer lab	1
+federal department	cmhc	1
+championship	cmll arena coliseo tag team championship	1
+image sensor	cmos	16
+image sensor	cmos sensor	10
+image sensor	cmos image sensor	7
+image sensor	cmos has been used for various products including a digital camera	1
+image sensor	cmos imagers	1
+image sensor	cmos active pixel sensors	1
+fluorescent dye	cm-h  two  dcfda 	1
+good cause	cmn	1
+encryption algorithm	cmea	1
+others	cm tall, others	1
+simple parameter	cmax	1
+opportunistic pathogen	cmv	3
+semiconductor element	cmos	1
+DNA virus	cmv	1
+federal organization	cmhc	1
+topic	cms	1
+topic	cmp simulation	1
+topic	cms changes for esa's	1
+circuitry	cmos device	1
+quality initiative	cmmi	1
+uncertain factor	cmmb terrestrial transmitter immaturity	1
+viral illness	cmv	1
+camera function	cmos sensor interface	1
+shipping line	cma-cgm	2
+shipping line	cma cgm	2
+complex form	cma request	1
+essential parameter	cmrr	2
+public system	cmr	1
+wall material	cmu	1
+cellulose derivative	cmc	2
+chemical material	cmc	1
+incubator	cmgi	1
+open source application	cms system	1
+healthcare worker	cm practitioner	1
+company	cmc	7
+company	cmt	4
+company	cmc markets	3
+company	cmh	2
+company	cmgi	2
+art method	cmspv method	1
+key policy	cmhs clostridium difficile policy	1
+sensor technology	cmos	2
+standard process	cmos	1
+online technology	cmaptools	1
+onsite amenity	cmc patient laboratory service center	1
+paper record	cmht	1
+process model	cmmi	3
+process model	cmm	1
+solid state device	cmos component	1
+test score	cmt score	1
+web design service	cms	1
+infectious organism	cmv	1
+protective agent	cmc	1
+sensitive device	cmos circuit	1
+trading platform	cme group	1
+datum standard	cml	1
+investment instrument	cmo's	1
+management software	cms management software	1
+ROMs	cm seven 	4
+process technology	cmos	1
+Senior staff	cmht manager	1
+technical project	cmsd's school facility master plan	1
+etching process	cmp process	1
+infectious process	cmv retinitis	1
+long lead item	cmos vlsi chip	1
+control circuit	cmos control circuit	1
+IP service	cmip	2
+technical school	cmu	1
+viral pathogen	cmv	1
+award show	cmt music awards	1
+company	cmt creative marketing	1
+company	cms communications	1
+company	cmr	1
+company	cmpdi r& d division of sail	1
+company	cmgi's online advertising network adsmart	1
+company	cm studios	1
+company	cms consulting inc.	1
+company	cmp asia	1
+company	cmp technology	1
+company	cmo management	1
+company	cmob major company	1
+chemotherapy	cmf	1
+tech	cmrc	1
+viral agent	cmv	1
+WWE superstar	cm punk	3
+big carrier	cma	1
+semiconductor process	cmos	1
+fluid system	cmhpg gel	1
+software option	cms software option	1
+application component	cmp enterprise bean	1
+common abbreviation	cm for centimeter	1
+measurement datum	cms vs. diaphragm position	1
+microfinance institution	cmec	1
+case law	cmc group plc	1
+common supply	cms  one thousand five hundred  form 	1
+well-known vendor	cmo	1
+corpora	cmu arctic	1
+logic device	cmos device	1
+parallel activity	cmap's freight study	1
+precision measuring instrument	cmm	1
+premier institution	cmc hospital	1
+native application	cms	1
+company	cmyk print solutions	1
+company	cms energy	1
+company	cmc ltd	1
+company	cmac microtechnology	1
+company	cmd group	1
+company	cme group	1
+company	cmk	1
+company	cmll	1
+company	cm constructions	1
+company	cms mechanical	1
+company	cms corporation	1
+company	cmc systems	1
+company	cmc limited	1
+company	cmc recycling liberty	1
+company	cm labs.	1
+company	cmit solutions	1
+pre-installed apps	cmcc music	1
+drug combination	cmf	1
+italian company	cmc	1
+life-threatening infection	cmv	2
+military product	cmping bed	1
+change initiative	cmmi	1
+common virus	cmv	1
+leading university	cmu	1
+executable file	cmd.exe	1
+global carrier	cma	1
+global carrier	cma cgm	1
+hematologic disorder	cml	1
+imaging sensor	cmos device	1
+imaging sensor	cmos imaging sensor	1
+imaging sensor	cmos	1
+anionic polymer	cmc	1
+scanning technique	cmm scanning	1
+standard unit	cm	2
+chronic viral infection	cmv	3
+management protocol	cmip	1
+music channel	cmm music	1
+connectivity solution	cmms connectivity solution	1
+open source system	cmake	2
+outdoor festival	cmj music marathon	1
+outreach	cmx	1
+global model	cmc	1
+mapping software	cmap	1
+preferred embodiment	cmos imager embodiment	1
+web project	cms software implementation	1
+window tool	cmd.exe	1
+advanced certification	cma	1
+advanced element	cmos	1
+analog sensor	cmos imagers	1
+chemotherapy regimen	cmf	1
+diagnostic assay	cmv pp sixty-five  ag 	1
+image pickup device	cmos sensor	4
+image pickup device	cmos image sensor	1
+image pickup device	cmos	1
+quality model	cmmi	1
+solar event	cme	1
+federal funding source	cmaq program	1
+local small business	cmit of central orlando	1
+semiconductor technology	cmos	5
+supercomputer	cm- two 	1
+great spot	cm punk getting an enzuigiri on the top rope	1
+herpesviruses	cmv	3
+leather garment	cm men box jacket	1
+basic standard	cmmi	1
+color system	cmyk printer	1
+common measurement	cm	1
+hematological malignancy	cml	1
+infective agent	cmv	1
+semiconductor integrated circuit	cmos static ram	1
+accounting method	cmr curve	1
+co-infections	cmv	1
+color model	cmyk model	2
+color model	cmy	2
+command-line tool	cmp	1
+maternal infection	cmv	1
+semiconductor structure	cmos structure	2
+semiconductor structure	cmos semiconductor structure	1
+stand-alone system	cma device	1
+built-in utility	cmd	1
+clearinghouse	cme group inc. s	2
+electronic sensor	cmos sensor	1
+image capture device	cmos imager	1
+quality process	cmmi	1
+design condition	cm bare noise	1
+design condition	cm noise source impedance	1
+education option	cmrp training	1
+indian institution	cmfri cochin	1
+infectious etiology	cmv	1
+popular script	cms script	1
+public relation event	cma music fest	1
+solid-state imaging device	cmos image sensor	8
+solid-state imaging device	cmos	4
+solid-state imaging device	cmos type image sensor	2
+solid-state imaging device	cmos used for a camera	1
+solid-state imaging device	cmos sensor	1
+solid-state imaging device	cmos solid-state imaging device	1
+state-of-the-art machine	cmc milling machine	1
+advanced testing equipment	cmm	1
+clinical assessment	cmas	1
+color information	cmyk simulation	1
+industry designation	cmms	2
+industry designation	cmrs	1
+industry designation	cmms cmrs cmis cmas	1
+industry designation	cmas	1
+interoperability standard	cmis rest	1
+physician organization	cma	1
+quality certification	cmmi	2
+wrestling star	cm punk	1
+activity	cmso's christmas drive	1
+activity	cme program	1
+activity	cmj s book collection	1
+information	cm of external software	4
+global shipping company	cma cgm	1
+global shipping company	cma	1
+herpes virus	cmv	4
+improvement strategy	cmmi	2
+low cost technology	cmos	1
+major company	cmob major company	1
+management framework	cmmi	1
+unusual presentation	cmv-including unusual presentation	1
+finance product	cmbs	1
+industry-leading organization	cmo council	1
+operational model	cmod series	1
+planarization process	cmp process	8
+professional expense	cme	1
+chinese herbal formula	cms formula strengthen heart	1
+digital imaging system	cmos image sensor	1
+image device	cmos	1
+leukemia	cml	2
+logic family	cmos	6
+membership club	cmo club	1
+mortgage-backed security	cmbs	1
+real time system	cms online condition database	1
+reference model	cmmi	2
+reference model	cmm	1
+transmissible disease	cmv	3
+viral promoter	cmv	8
+acquirers	cme group	1
+external publication	cmsd connect	2
+inspection equipment	cmm	1
+large datasets	cmhs	1
+loose mulch	cm deep loose mulch	1
+panel maker	cmo	1
+process standard	cmmi	1
+serious application	cmses	1
+standardized protocol	cmip	2
+acute viral infection	cmv	1
+information	cmos	2
+information	cmt performance by grade level	1
+information	cmy	1
+information	cmr	1
+atypical organism	cmv	1
+Brandnames	cmex	1
+capital source	cmbs constrained by market condition	1
+congenital factor	cmv	1
+imagers	cmos aps	1
+improvement initiative	cmmi	1
+linkedin group	cmaa	1
+management standard	cmip	1
+multiprocessor system	cmp system	2
+system configuration information	cmos	1
+transparent film	cmp oxide	1
+web design tool	cms tool	1
+digital sensor	cmos imagers	2
+imaging element	cmos	3
+imaging element	cmos image sensor	3
+imaging element	cmos imager	1
+performance enhancing feature	cmr prefetching	1
+population datum	cme activity for certain non-commercial research interests by faculty member	1
+qualitative test	cmc test	2
+remote access technology	cmak	1
+talent contest	cmt's karaoke star	1
+circuit technology	cmos	2
+for-profits	cmgi inc. turning inculator into a four-letter word	1
+industry standard product	cm nine thousand seven hundred and sixty  matrix controller 	1
+malignant cell	cml blast	2
+opportunistic disease	cmv retinitis	1
+pickup device	cmos	1
+ROM	cm seven 	3
+solid state imaging device	cmos sensor	3
+solid state imaging device	cmos image sensor	2
+surfactant property	cmc	1
+time-dependent factor	cmv infection	2
+weekly show	cmt's top  twenty  countdown 	1
+business database	cmie	1
+information	cmp	1
+client relationship	cmig bristol	1
+commodity exchange	cme	1
+custom ROM	cm seven 	4
+custom ROM	cm seven  on the tbolt smooth out the browsing experience 	1
+field effect transistor	cmos transistor	1
+inflammatory complication	cme	1
+maturity model	cmmi	2
+maturity model	cmm for software	1
+maturity model	cmm	1
+maturity model	cmmi from sei	1
+MFC class	cmenu	2
+sector player	cm equity	1
+variable setting	cmos store variable setting	1
+viral gene product	cmv us twenty-eight 	1
+X-ray detector	cmos detector	1
+derivative exchange	cme group	2
+derivative exchange	cme group inc.	1
+film former	cmc	1
+ionic polymer	cmc	1
+off-the-shelf part	cmos sensor	1
+procurement	cm at risk	1
+top notch school	cmu	1
+top private school	cmu	1
+urban school system	cmsd	1
+us-based organization	cmo council	1
+Compliance information	cms marketing guideline	1
+conventional chemotherapy	cmf	2
+conventional semiconductor device	cmos	1
+future exchange	cme	3
+future exchange	cme group	1
+mortgage insurer	cmhc	3
+music fest	cmj fest	1
+event	cma music festival	2
+event	cmw	2
+event	cme program	2
+event	cmea	2
+process improvement initiative	cmmi	1
+process improvement methodology	cmmi	1
+publishing platform	cms publishing platform	1
+software process model	cmm	3
+solid state image sensor	cmos image sensor	5
+structured security	cmbs	2
+vendor program	cmas in california	1
+vendor program	cmas	1
+american event	cmj	1
+datum logger	cma ulab	1
+high-tech heavyweight	cmgi	1
+LNG project	cms energy	1
+open source content management system	cms made simple	1
+phenolic derivative	cmcp	1
+robust system	cmic project management	1
+strong promoter	cmv	1
+synthetic gum	cmc	1
+best practice model	cmmi	1
+cellulosic derivative	cmc	1
+CMs	cm one 	1
+custom roms	cm seven 	2
+DM tool	cmart	1
+FIIs	cmp asia	2
+image acquisition device	cmos camera	1
+infective condition	cmv infection	1
+mammalian virus	cmv	1
+michigan school	cmu	1
+open source	cmap	1
+event	cmp rifle match	1
+event	cmv pneumonia	1
+event	cmo series	1
+event	cmj music marathon in new york	1
+event	cmab district meeting	1
+precision equipment	cmm	2
+professional publishing feature	cmyk color	7
+professional publishing feature	cmyk color separation	1
+ship owner	cma-cgm for container vessel	1
+structured finance product	cmbs	1
+wrestling promotion	cmll	1
+accessible space	cmwl space	1
+anti-redeposition agent	cmc	1
+CMOS circuit	cmos inverter	1
+command-line interface	cmd.exe	1
+conventional imaging device	cmos imager	1
+educational incentive	cme credit	1
+entertainment network	cmt	1
+established framework	cmm for software	1
+hematopoietic disorder	cml	1
+memory machine	cm- five 	1
+mid-sized bank	cmb	1
+myeloproliferative disease	cml	1
+neurotropic virus	cmv	1
+optical modulator	cmos p hotonics.tm	2
+optical modulator	cmos photonics.tm	1
+standard sensor	cmos	1
+strong stock	cmg	1
+basic block	cml d-latch	1
+CMOS device	cmos field effect transistor device	2
+credit derivative product	cmcds	1
+e-commerce firm	cmgi inc. of andover	2
+end-stage illness	cmv endorgan disease	1
+end-stage illness	cmv end-organ disease	1
+event	cmj music marathon	1
+event	cmj	1
+event	cmt celebrity golf classic	1
+program	cmaptools	3
+entertainment organization	cmt	1
+heterologous promoter	cmv immediate early promoterenhancer	1
+heterologous promoter	cmv immediate early promoter-enhancer	1
+heterologous promoter	cmv	1
+image pickup element	cmos	4
+image pickup element	cmos transistor	1
+image-capturing device	cmos	1
+imager	cmos	1
+industry code	cma code	1
+maintenance system	cmms	1
+multi-agent system	cmu's radar project	1
+open-source software package	cms package	1
+optical scanner	cmos scanner	2
+organic thickener	cmc	1
+prenatal infection	cmv	1
+proper setting	cm type	1
+remittance	cms lockbox payment	1
+solid-state image pickup device	cmos image sensor	3
+solid-state image sensor	cmos image sensor	3
+solid-state image sensor	cmos sensor	2
+solid-state image sensor	cmos device	1
+symmetric key algorithm	cmac	1
+area detector	cmos sensor	1
+big music festival	cmj	1
+BMMG benefit	cmes	2
+BMMG benefit	cme's	1
+BMMG benefit	cme ? s	1
+deicing chemical	cma	1
+exchange operator	cme group	1
+hardware implementation	cmos asic	1
+latent virus	cmv	2
+light receiving element	cmos	3
+mortgage insurance company	cmhc	1
+program	cmaq	2
+program	cmhc's residential rehabilitation assistance program	2
+program	cmd.exe	2
+program	cmhc's home adaptation for seniors independence	1
+program	cma's continuing education workshop	1
+program	cms project	1
+program	cms script program	1
+open source web application	cms open source web application	1
+persistent virus	cmv	1
+pharmacokinetic profile	cmax	2
+pharmacokinetic variable	cmax	1
+postscript device	cmyk postscript device	1
+simple block	cmos inverter	1
+staffing agency	cma	1
+subscriber feature	cme exam	1
+wearable computer	cmu vuman system	2
+ad site	cmf	1
+charged polysaccharides	cmc	4
+colorspaces	cmyk colorspace	1
+congenital viral infection	cmv infection	1
+congenital viral infection	cmv	1
+cubic unit	cm  three 	1
+ECW superstar	cm punk	1
+explosive event	cmesareclearly outside the scope of the quasi-steady model	1
+healthcare event	cme	1
+international scuba diving training agency	cmas	1
+mono-like illness	cmv	1
+non-hepatotropic virus	cmv	1
+op amp	cmos op amp	1
+persistent information	cmos ram setup	1
+photoelectric conversion device	cmos	1
+program	cmd institute	1
+program	cmip infrastructure	1
+program	cmip program	1
+program	cm program	1
+program	cmp online study guide	1
+program	cmc's longstanding outreach program	1
+program	cme	1
+program	cmcf cosmetology program	1
+program	cmd	1
+program	cmog	1
+program	cms promas landmaster	1
+PR company	cmc	1
+prevalent SPI strategy	cmm	1
+public class	cmm training	1
+quality management process	cmmi	1
+relativistic particle	cmb photon	1
+SPI strategy	cmm	1
+accounting designation	cma	1
+advanced photoshop feature	cmyk coloring	2
+assigned responsibility	cmc-tv support	1
+beta sector	cmbs	1
+big owner	cma cgm	1
+blood virus	cmv	2
+business management strategy	cmmi	1
+central controller	cmts	1
+chronic hematologic malignancy	cml	3
+chronic leukemia	cml	1
+coat vertical surface	cmu	1
+commercial retarder	cmhec	1
+concomitant viral infection	cmv	1
+cost technology	cmos	1
+electronic image sensor	cmos pixel sensor	1
+electronics technology	cmos	1
+exhibition project	cmu's mobot museum robots	1
+final result	cmb power spectrum	1
+graduate medical education function	cms reimbursement	1
+hydrocolloid s	cmc	1
+IC product	cmos image sensor	1
+industry standard framework	cmmi	1
+intrauterine infection	cmv infection	1
+lisp implementation	cmu cl	1
+module table	cm three r 	1
+module table	cm three t 	1
+moisture meter	cmt- nine hundred and eight 	1
+non-genetic cause	cmv	1
+party network	cmt	1
+personalized benefit	cme	1
+process methodology	cmmi	1
+procurement vehicle	cmas contracts	1
+regular shipping line	cma cgm	1
+solid-state image pickup element	cmos sensor	2
+solid-state image pickup element	cmos	1
+standard measuring instrument	cmm by gauges	1
+supplemental record	cm als record	1
+typical construction material	cmu wall	1
+xml-derived markup language	cml	2
+advanced formula	cmc	1
+australian financial institution	cmg asia	1
+CAUTION device	cmos	1
+chronic viral disease	cmv	1
+church-related agency	cmai	1
+CMSes	cms made simple	1
+color format	cmyk color format	1
+commercial dairy market	cme cash butter	1
+common infectious agent	cmv	1
+common lisp implementation	cmucl	2
+common thickener	cmc	1
+conventional planarization process	cmp process	1
+converter device	cmos	1
+coordinate measuring device	cmm machine	2
+copybook datum type	cmp two 	3
+copybook datum type	cmp three 	2
+copybook datum type	cmp three  redefine 	1
+factor	cmv pneumonia	1
+disease-specific group	cmta	1
+diver training agency	cmas	1
+dormant infection	cmv	1
+font product	cmc seven 	1
+font product	cmc- seven 	1
+high impedance load	cmos comparators	1
+high impedance load	cmos data converter	1
+high precision measuring instrument	cmm	1
+industry quality standard	cmm	1
+input characteristic	cm range	1
+library in-house database	cmu e-research	1
+library in-house database	cmu e-theses	1
+local indigenous organization	cma	2
+low power component	cmos device	1
+message passing system	cm- five 	1
+model brand	cmc	1
+music television channel	cmt	1
+national-level association	cmaa	1
+NCOs	cmsgt	1
+NCRA certification	cmrs	1
+ncra-sponsored certification	cmrs	1
+on-campus support program	cme society	1
+open technological platform	cmc	1
+params	cmid	1
+publicati -on	cmo magazine	1
+regional measure	cmaq project	1
+reliable shipping company	cma	1
+reviewed reputable market report	cmai	1
+organization	cma	4
+organization	cmj	2
+organization	cmc	2
+organization	cmmb	2
+organization	cmac	2
+organization	cms jcaho	1
+organization	cms africa	1
+organization	cmri	1
+statistical publication	cmie year book	1
+transistor related technology	cmos	1
+typical sensor	cmos	2
+wonderful talent	cm punk	1
+wordpress theme	cms-centric wordpress theme	1
+3dimaging technique	cmr	1
+avaya resource	cms reporting	1
+batch fabrication technology	cmos	1
+channel event	cmp event	1
+china bank	cmb	1
+classic rivalry	cm punk vs. jeff hardy	2
+Common testing	cmp	1
+container shipping line	cma-cgm	1
+digital cellular network	cma	1
+double-stranded DNA virus	cmv	1
+electronic color imaging device	cmos sensor	2
+emerging role	cmio	1
+organization	cmla	1
+organization	cmps institute	1
+organization	cmt	1
+organization	cmaa	1
+organization	cme	1
+festival headliner	cma festival headliner	1
+financial designation	cma	1
+generic modeling language	cml	1
+high-performance electronic device	cmos image sensor	1
+high-quality web-software product	cms templates for amazing price	1
+independents	cmri	1
+infectious etiologic agent	cmv	1
+injured superstar	cm punk	1
+joint-stock commercial bank	cmb	1
+junk company	cmgi	1
+key leadership position	cmo	1
+latest programming tool	cms	1
+microbiologic agent	cmv	1
+Modern day cruiserweights	cm punk	1
+myeloid malignancy	cml	1
+On-chip module s	cmos sensor interface	1
+organization	cmh	1
+organization	cmlr	1
+organization	cmhc	1
+organization	cmhc retirees association	1
+precision measurement instrument	cmm	1
+process improvement model	cmm	3
+process improvement model	cmmi	1
+professional desktop publishing feature	cmyk color	1
+professional page layout publishing feature	cmyk color	1
+profile event	cma awards	1
+prominent internet stock	cmgi	1
+public & private sector company	cmc	1
+public sector manufacturing company	cmc computers ltd.	1
+recurrent viral infection	cmv	1
+scary moment	cm punk taking over the nexus	1
+SEI methodology	cmm	1
+ship carrier	cma cgm	1
+SLP option	cme exhaust	1
+small and mid-size company	cmp media inc.	1
+small diode	cmdsh two - three  from central semiconductor 	4
+SOI device	cmos fet device	1
+solid imaging device	cmos image sensor	2
+spread sector	cmbs	1
+standardized measurement	cm	1
+suitable promoter	cmv pol-ii promoter	2
+suitable promoter	cmv promoter	1
+technology rival	cmgi	1
+traditional business group	cms energy	1
+transfusion transmissible infection	cmv	1
+wall style	cmu wall	1
+web design part	cms design service	1
+advantage inspection equipment	cmm	3
+aggressive regimen	cmf	1
+aids-defining illness	cmv	1
+allowed wrestler	cm punk	1
+bar code reading technology	cmos	2
+baseline lab	cmp	1
+technique	cmos inverter technique	1
+basic tutorial	cmos rf inverter	1
+basic tutorial	cmos rf dff layout tutorial	1
+blogging community	cmf ads	1
+camera interface	cmos sensor	2
+canadian aerospace company	cmc electronics	1
+cell-associated virus	cmv	3
+chemo regimen	cmf	1
+CMHA event	cmha tournament	1
+CMMI related service	cmmi training	1
+CMMI related service	cmmi appraisal	1
+CMMI related service	cmmi consulting	1
+color separation value	cmyk value	1
+color separation value	cmy value	1
+commercial real estate product	cmbs	1
+companion mod	cm partners	1
+congential viral infection	cmv	1
+covalently-modified long chain polysaccharides	cmc	1
+creationist group	cmi for critiquing darwin	1
+datum management skill	cmdb rule	1
+differant web design	cms web design	1
+differential diagnosis viral infection	cmv	1
+driver type	cml	1
+ecologically friendly reagent	cmc	1
+electronics book	cmos cookbook	1
+ER target gene	cmyc	1
+exclusive two-packs	cm punk & r-truth	1
+executive summary global exchange	cme group	1
+face database	cmu pie	1
+forward-thinking exchange	cme datacloud	1
+free common lisp implementation	cmu cl	1
+technique	cm technique	1
+technique	cmrt	1
+technique	cmm	1
+technique	cmmi	1
+gel-forming material	cmc	1
+greywater system	cme sanitary's ecoplay	1
+ground-breaking power management technique	cmos mode	1
+haplotypes	cmh	2
+high temperature device	cmx- sixteen aon high temperature device 	1
+Hydrating hydrocolloids	cmc	2
+illicit and illegal independent group	cmri	1
+interesting new standard	cmis	1
+internet incubator	cmgi	1
+jumper setting	cmos clear	1
+key CM function	cm identification	1
+key CM function	cm planning	1
+lateral component	cmos component	1
+legacy technique	cmdb	1
+list panel	cmp	1
+measurement machine	cmm	2
+Medical Leadership position	cmo	1
+mexican promotion	cmll	2
+military information system	cmw	1
+mind subunits	cm	1
+myspace page	cmt fans	1
+national level management entrance exam	cmat	2
+neurologic opportunistic infection	cmv	1
+application	cmut with a high operation frequency	4
+application	cms	2
+application	cmp slurry	1
+application	cmv resistant cassava	1
+application	cmos device	1
+application	cmos image sensor	1
+OEM function	cmos tachometer input	1
+ordinary area sensor	cmd sensor	1
+organization process improvement initiative	cmmi	1
+organization process improvement initiative	cmmi certification	1
+outaouais company	cml emergency services	1
+outsourced consulting firm	cmc	1
+per-computer setting	cmd prompt size	1
+popular current star	cm punk	1
+prevalent human infection	cmv	1
+process maturity model	cmmi	1
+process maturity model	cmm	1
+process-based simulation model	cmls	1
+product support industry standard	cmis	1
+professional society certification	cmfge	1
+rifle companys	cmmg	1
+road addition	cmc near nelson road	1
+sei's current intervention approach	cmm assessment	1
+software engineering standard	cmmi	1
+Solid state imagers	cmos	5
+spread-betting company	cmc markets	1
+standard PK parameter	cmax	1
+strong viral promoter	cmv	2
+synthetic thickener	cmc	1
+application	cml for molecular information	1
+application	cms open source web application	1
+application	cmos based gsm transceiver	1
+application	cmd	1
+application	cms design	1
+application	cms experiment beam pipe	1
+application	cmhc	1
+application	cml	1
+taiwan's company	cmo	1
+tech medium company	cmp technology	1
+top face	cm punk	2
+traditional shell	cmd.exe	1
+ubiquitous promoter	cmv	1
+useof viral promoter	cmv	1
+venture capital stock	cmgi	1
+visual structure	cmyk screens in printed image	1
+VLSI technology	cmos	1
+water soluble co-binders	cmc	1
+water soluble organic binder	cmc	1
+well-know top position	cms administrator	1
+world-leading partner	cmc electronics	1
+11agencies	cmw	2
+accumulation type sensor	cmos sensor	1
+accute viral infection	cmv	1
+actual organization	cmp	1
+administrative or statistical frame	cmi list of manufacturing establishment	1
+advanced switching arrangement	cmos transmission gate	1
+AOSP roms	cm seven 	1
+area array sensor	cmos	1
+audio interchange format	cmx	1
+auditory area	cmm	2
+balanced circuit design issue	cmrr	1
+bi-directional antenna	cm four thousand two hundred and twenty-eight  with the reflector removed 	1
+BOXI application server	cms server	1
+breath testing machine	cmi intoxilyzer  eight thousand  	4
+brew-specific sound format	cmx	1
+name	cm punk	5
+name	cmc	2
+name	cmsms widgenator tool	1
+Carboxyalkylated polysaccharides	cmc	1
+cellulose type polymer	cmc	1
+cellulosic ether derivative	cmc	2
+cellulosic film-former	cmc	1
+chemical industry association	cma	1
+chemical transport model	cmaq model	1
+china's automotive product	cmec city smart	1
+clearing house operator	cme group	1
+clonal proliferative disorder	cml	1
+closed camping event	cma in the spring	1
+CM mod	cm four 	1
+CM mod	cm five  with no success 	1
+CM server information	cm tool version	1
+CMS document	cms's medicare program integrity manual	1
+combat award	cmb	1
+command line shell	cmd.exe	1
+command-line environment	cmd.exe	1
+common x-ray sensor	cmos	1
+concept map software	cmap tools	1
+constitutively active promoter	cmv	1
+contemporary imaging device	cmos image sensor	1
+content management organization	cm professionals	1
+conventional image sensor	cmos image sensor	1
+conventional network management tool	cmip standard	1
+conventional solid-state image sensor	cmos image sensor	1
+cosmological result	cmb acoustic spectrum	1
+creationist geologist	cmi's dr tas walker	1
+curatorship new facility	cmrr at los alamos lab	1
+Cyclic hydroxylamines	cmh	1
+default mortgage insurance provider	cmhc	1
+dense circuit	cmos logic circuit	1
+derivatized guars	cmg	1
+devantech device	cmps three  compass 	1
+developmental methodology	cmm	1
+device-dependent-color value	cmyk value	1
+digital camera sensor	cmos	2
+Digital electronic circuitry	cmos circuitry used in radio system	1
+discrete logic element	cmos integrated circuit	1
+Dispersive hydrocolloids	cmc	2
+durable and easily site-assembled material	cmu block	1
+dynamic-type circuit	cmos domino logic	1
+EDL format	cmx	2
+energetic population	cmes associated with magnetic cloud	4
+european convention	cmr	1
+exotic interest rate product	cms floor	1
+expensive binder	cmc	1
+expensive bit	cmt	1
+famous bookshop	cms bookshop in lagos	1
+name	cmms	1
+name	cmsms widgenator	1
+fan-driven award	cmt music awards	1
+federal guidance	cms state medicaid manual	1
+first software process model	cmm	1
+first-tier CD-R maker	cmc magnetics	1
+forward-facing video camera	cmos	3
+gene amplification	cmet amplification	1
+gingerbread Roms	cm seven 	1
+global commodity exchange	cme	1
+global derivative exchange	cme group inc.	1
+great new talent	cm punk	1
+grip safety	cmc xtreme	1
+group committee	cme committee consisting of key doctors within the group	1
+guars	cmg	1
+gum polymer	cmc	1
+heliski operator	cmh	1
+heterologous promotor	cmv early promotor	1
+high profile incubator	cmgi	2
+high yield sector	cmbs	1
+homogeneous cancer	cml	1
+idealab's rival	cmgi	1
+independent distribution partner	cms tech	1
+industry testing facility	cmtl	1
+insured product	cmhc insured financing	1
+international container line	cma cgm	1
+inverting element	cmos inverters	1
+labor intensive provider training method	cme course	1
+language modeling kit	cmu-cambridge statistical language modeling toolkit	1
+legacy file	cmyk separation	2
+leverage quality standard	cmmi	4
+case	cmv	2
+case	cmos logic	1
+case	cmp entity bean container-managed collection	1
+likewise herpes virus	cmv	1
+low speed logic family	cmos	2
+low-current Schottky diode	cmdsh- three  from central semiconductor 	2
+low-power technology	cmos	1
+MAC-specific algorithm	cmac	1
+management accounting organization	cma canada	1
+mandatory maintenance instruction	cmrs	1
+manufacturing tool	cmp found in semiconductor clean room	1
+matrix-addressed solid-state sensor matrix-addressed device	cmos	1
+microsoft shell	cmd.com from nt	1
+multicomputers	cm- five 	1
+myelogenous type cancer	cml	1
+NAND gate	cmos quad nand circuit  four thousand and eleven b 	1
+narrow porn niche site	cmnf	1
+national level entrance exam	cmat	1
+Non-intensive chemotherapy	cmf	1
+Noninvasive small animal imaging modalities	cmr	1
+non-saturating, high-speed logic family	cml	1
+organizational maturity indicator	cmmi level	1
+parastatal cotton company	cmdt in mali	2
+passive optical sensor	cmos imaging sensor	1
+photo detector array	cmos array	1
+physiologic value	cmro  two 	2
+case	cmn	1
+case	cm firm	1
+case	cmf random	1
+pre-amp	cm seven thousand seven hundred and seventy-seven  after the output of the first cm seven thousand seven hundred and seventy-seven 	1
+precision measuring machine	cmm	1
+prescriptive framework	cmmi	1
+presently available logic family	cmos	2
+process initiative	cmmi see cmm	1
+professional financial designation	cma	3
+provincial university	cmu	1
+push-pull output driver	cmos driver	1
+quality bit	cmt	1
+real physical sensor	cmos	1
+real ROM	cm seven 	1
+recruitment agent	cml offshore recruitment	1
+retail financial service business	cmc markets	1
+ruler unit	cm	1
+semiconductor color image sensor	cmos image sensor	1
+semiconductor device structure	cmos transistor	2
+semiconductor family	cmos	1
+semiconductor image pickup device	cmos sensor	1
+semiconductor-related material	cmp slurry	1
+senior marketing executive	cmo s	1
+short term interest rate future	cme eurodollar future	3
+single MIDI Controller unit	cm automation motor mix	1
+small 9mm	cm nine 	1
+small MFIs	cmacs chincha	1
+small solar-panel installer	cma solar llc in middletown	3
+software product engineering quality standard	cmm	1
+solid image pickup element	cmos	2
+solid image sensor	cmos image sensor	1
+solid state imager	cmos imager	1
+solid state imaging detector	cmos imaging detector	1
+solid-state image pick-up device	cmos image sensor	2
+specialised markup language	cml	1
+SPIN event	cmj spin party with clipse	1
+standard semiconductor device	cmos circuit	1
+state aid program	cmptra	2
+static-sensitive semiconductor technology	cmos	1
+strong voltage driver	cmos driver	1
+student-initiated course	cmo insights series	1
+substrate wafer	cmos wafer	2
+successful school initiative	cms aep	1
+suggested infectious agent	cmv	1
+suitable referrer	cmhcs	1
+case	cm six hundred and ninety  ii 	1
+case	cmc	1
+case	cmhc	1
+system-specific table	cmap	1
+taiwan panel maker	cmo	1
+three-dimensional color space	cmy	1
+top indian university	cmc vellore	1
+traditional image sensor	cmos image sensor	1
+two-dimensional, planar, solid-state sensor	cmos sensor	1
+typical process-related initiative	cmmi	1
+universally applicable model	cmmi	1
+upcomingevents	cme program	1
+upstream manager	cmu- two thousand  - fourteen c from hybrid networks 	2
+virologic marker	cmv viremia	1
+visible light sensitive image camera	cmos sensor camera	2
+weakly binding poly mer	cmc	1
+weighted high end control keyboard	cme uf	1
+well-known industrial validation model	cmmi	1
+2D receiver	cmos camera	1
+active pixel type sensor	cmos sensor	1
+additionally hi-fi configuration	cmykog	1
+adjuvant combination	cmf	1
+advanced quality-inspecting instrument	cmm	1
+advanced semiconductor product	cmos sensor	1
+advanced web design service	cms based website	1
+affordable gun	cm nine 	1
+Alkylating agent prodrugs	cmda	1
+amplification-type solid-state imaging device	cmos image sensor	1
+area image sensor	cmos image sensor	2
+article issue	cmr's scope of application	1
+ASOP ROMs	cm seven 	1
+automated measurement instrument	cmm	1
+automatic powder dispenser	cm one thousand five hundred  combo 	1
+option	cms software option	1
+option	cmm quality assurance	1
+option	cmos clear	1
+big detector	cms at cern's lhc	1
+big western exchange group	cme	1
+biggest country music event	cma music festival	1
+bower supporter	cme church bishop edward brown	1
+building block incompatibility previous work	cmac	1
+business object application	cmc	1
+businessobjects service	cms	1
+CALL program	cmc	1
+canadian mortgage insurer	cmhc	1
+cardiotropic viral agent	cmv	1
+case management funding model	cmh system	1
+catchy little animation	cmyk color space of a particular printer	1
+catholic medical organization	cma	1
+Cayman IT recruiter	cml offshore recruitment	1
+chat manager	cm stars	1
+chile's major retailer	cmr falabella	1
+chip imagers	cmos imagers	1
+chord voicings grip	cmaj seven  grip 	1
+chronic latent infection	cmv	1
+circuit application area	cmos image sensor	1
+circuit logic family	cml	1
+circuit technology type	cml	1
+circuit-level design feature	cmfbfora differential charge pump anda pseudo differentialota with lineartransconductance control	1
+cisco's network-based enhancement	cmts	2
+class certification	cmm	1
+CMACs	cmac arequipa	1
+CME provider	cme institute	1
+CMI free standing safe	cmi commercial safe	1
+CMIS client	cmis spaces	2
+CML circuit	cml d-latch	1
+CMR	cmr  sixteen e 	1
+CMV infection	cmv retinitis	1
+coles myer loyalty program	cml source tm master card	1
+college-oriented publication	cmj	1
+color printing system	cmyk system	1
+colorant set	cmy	1
+colour-difference formula	cmc	1
+commercial real estate-related debt security	cmbs	1
+common benchmarking model	cmmi	1
+common promoter	cmv	1
+common protein epitope tag	cmyc	1
+compact lamp	cmh	1
+competing exchange	cme	1
+complementary circuit structure	cmos	1
+Complementary field-effect transistor technology	cmos	1
+complementary semiconductor structure	cmos	1
+complete custom ROMS	cm seven  on the atrix 	1
+complex multidrug regimen	cmv	1
+computer conference	cmg	1
+conclusion state-of-the-art technology	cmm	1
+constitutive viral promoter	cmv immediate-early promoter	1
+contrary, conventional electrical active device	cmos	1
+conventional cisplatin-based regimen	cmv	1
+conventional MP system	cmp system	2
+conventional single board computer	cmd one hundred and eighteen a eight  board produced by axiom manufacturing 	1
+counting successful imprint	cmyk musik	1
+coupled model intercomparison project	cmip	1
+coveted mortgage industry designation	cmps	1
+crystalline silicon transistor	cmos	1
+CT regimen	cmf	1
+current-mode amplifier	cmcd topology presented in the previous chapter	1
+decade cisplatin-based combination chemotherapy regimen	cmv	3
+dedicated concept mapping software	cmap	1
+developemt work	cms solutions	1
+digital electrical signal	cmos level signal	1
+digital image-sensor device	cmos sensor	1
+discussion non-persistent virus	cmv	1
+disruptive solar event	cmes from the sun through the heliosphere	1
+drug-induced case	cme associated with latanoprost	1
+group	cml america	2
+economically important plant virus	cmv	1
+EDA product	cmp prediction tool	2
+electronic exchange order handling system	cme group's globex platform	1
+electronic inspection equipment	cmm	1
+electro-static sensitive component	cmos in lcd module	2
+environmentally damaging product	cma	1
+ESD sensitive component	cmos device	1
+ESD sensitive device	cmos	1
+expensive semiconductor technology	cmos technology	1
+extensive SPI framework	cmmi	2
+external clinical study	cms quality assessment performance improvement project	1
+fault tolerant radiation imager	cmos imager	1
+federal and provincial agency	cmhc	1
+file-handling capability	cmd i id hard drive	1
+first control circuit	cmos integrated circuit	1
+first planarization process	cmp process	1
+formal change process	cmii configuration management process	2
+formany device	cmos device	1
+framework-oriented approach	cmm	1
+FroYo ROMs	cm six 	1
+full beam source	cmb orthecalibrators used in ground testing	1
+full swing technology	cmos	1
+good cast iron onm	cmtaur vulcan	1
+good game design school	cmu	1
+heavy-duty, american-made hoist	cm lodestar electric chain hoist	1
+hemostatic, gel-forming material	cmc	1
+high ratio insurer	cmhc	1
+high-ratio mortgage insurance company	cmhc	1
+high-speed digital camera	cmos	1
+HIV-1 associated neuromuscular complication	cmv polyradiculopathy	1
+hiv-related eye infection	cmv retinitis	1
+hot oarray imaging sensor	cmos	1
+IC fabrication technology	cmos	1
+image input sensor	cmos	1
+image pickup sensor	cmos	2
+image sensor element	cmos	1
+imensional deterministic air quality model	cmaq model	1
+immunomodulating virus	cmv	1
+immunomodulatory virus	cmv	1
+Incomparisonwiththetraditionalreceptormodels	cmb	1
+independently-defined configuration management process	cmii of the institute for configuration management	1
+industry credit group	cma business credit services	1
+industry renowned equipment leasing company	cmi corporation	2
+industry standard best practice framework	cmmi	1
+industry standard process framework	cmmi	1
+inexpensive IC process	cmos	3
+infinite group smctures	cm-col for second cousin	1
+group	cmsf loran award	1
+group	cmu faculty	1
+group	cmm	1
+group	cma	1
+infrastructure driven program	cmip	1
+innovative, high-performance feature	cmos image sensor	1
+intermittent motion machine	cmd icon	1
+international famous shipping company	cma cgm	1
+international quality framework	cmmi	1
+internationally conventional abbreviation	cm	2
+internet share	cmgi inc.	1
+INTRODUCTION advanced composite material	cmc	1
+Ionic hydrocolloids	cmc	2
+kalmanap-proachwithstate space abstraction technique	cmac	1
+large corporate strategy	cmmi	1
+large process reference model	cmmi	1
+large-scale-size measuring technology	cmm	1
+lead superstar	cm punk	1
+leading high-tech incubator	cmgi	1
+legacy master file	cmyk separation	1
+leveraged procurement acquisitions	cmas	2
+low current drain chip technology	cmos	1
+low power logic family	cmos	2
+low voltage FET input circuit	cmos operational amplifier	1
+low-re sistivity substrate	cmos-grade si	1
+low-resistivity substrate	cmos-grade si	1
+magnetic character	cmc seven  character 	1
+market maker broker	cmc markets	1
+marrow-suppressive infection	cmv	1
+master offering	cmstorm sniper	1
+metric unit symbol	cm	1
+mission medical service	cmm	1
+missonary college	cmc vellore	1
+mnaufacturers	cmw	1
+modern planarization method	cmp method	1
+MOS type image sensor	cmos	1
+mos-type circuit	cmos circuit	2
+MTD-based ROMs	cm seven 	1
+MTS device	cmts	1
+multicomputer	cm five 	1
+multi-disciplinary initiative	cmb discovery corridor	1
+nashville event	cma music festival	1
+non-agile process	cmmi	1
+non-cutaneous virus infection	cmv	1
+noninvasive measurement method	cmr tissue tagging	1
+non-orthogonal protocol	cma-naf protocol	1
+nonspecific prokaryotic promoter	cmv promoter delivered by cationic liposomes	1
+method	cmmi	2
+method	cmlp	2
+method	cmos battery	1
+method	cmac	1
+method	cmv-dna amplification	1
+off-the-shelf best practice	cmmi	1
+online car dealership	cmh carshop	1
+open source mind-mapping tool	cmap	1
+optional educational opportunity	cme	1
+optoelectronic imaging device	cmos	3
+organized future exchange	cme	1
+pass-through security	cmo	1
+persistent herpes virus	cmv	1
+pharmacokinetics parameter	cmax	1
+photo detection device	cmos image sensor	2
+photoarray imaging sensor	cmos	1
+pixel sensor cell	cmos pixel sensor cell in accordance with the schematic circuit layout diagram of fig	2
+plain low carbon steel	cmq blackplate	1
+plan-based approach	cmm	1
+polycom management tool	cma	1
+polylysine slide	cmt-gap slide	1
+postoperative 5-fu-based chemotherapy	cmf therapy	1
+posttrans-plant exposure	cm v infection	1
+pre-1996 case	cm holdings	1
+precision inspection equipment	cmm	1
+prefixed unit	cm	2
+private licensing agent	cmg in indianapolis	2
+private windstorm future market	cme hurricane index	1
+process assessment model	cmmi	1
+process maturity framework	cmmi	1
+processor upgrade cartridge	cmd supercpu	2
+process-oriented and maturity-oriented approach	cmm	1
+professional accounting association	cma	1
+promoter system	cmv promoter	1
+proper manual	cmm for correct instruction	1
+pseudoplastic liquid	cmc solution	1
+quality measure initiative	cms premier hospital quality incentive demonstration	1
+quality measurement program	cms physician quality reporting initiative reward measurement	1
+reactivating virus	cmv	1
+reason individual	cma program managers	1
+region's standout performer	cmg mortgage services	1
+reliable and trustworthy dealership	cmh boatshop	1
+remote CAN unit	cmux adjunct housing	1
+reputable and mature process	cmmi	1
+rescue robot	cmu's snake robot	2
+research ship travel website	cma gcm tourism	1
+sample worksheet	cms request for proposals	1
+score minimization framework	cmm	1
+script installation	cms script installation	1
+second year CMPT course	cmpt  two hundred and twelve 	1
+second, two-dimensional type position sensor	cmos image sensor	2
+sede group	cmri	1
+method	cmc method	1
+semiconductor imaging element	cmos imaging element	1
+semiconductor integration technology	cmos technology	1
+semi-synthetic material	cmc	1
+senior government agency	cmhc	1
+signal-gating device	cmos bilateral switch	1
+silicon-based solid state imaging device	cmos device	1
+simple adjustable set-back bracket	cmc  four -inch adjustable 	1
+Simple Network Management Protocol	cmip	1
+society communication program	cma management magazine	1
+software improvement technique	cmm	1
+software process assessment model	cmmi	2
+software process improvement framework	cmm	1
+solar storm	cmes	1
+solid amplifier-type image sensor	cmos	2
+specialty auto ERP vendor	cmi competitive solutions	1
+speech synthesis library	cmu flite	1
+sport business expert	cmbc's dorian rawell	1
+stable age	cml	1
+standard CSS length measurement	cm	1
+standard evaluation program	cmp	1
+standard semiconductor process	cmos	1
+standard serologic test	cmv igg	1
+start menu search application	cmd	1
+state-of-the-art manufacturing capability	cmm precision verification	1
+static culture additive	cmc	1
+static memory device	cmos static ram	1
+structured process improvement methodology	cmmi	1
+subtractive color model	cmy subtractive model	1
+suitable planarizing process	cmp process	1
+superb segment	cm punk dominating	1
+suspender	cmc gum	1
+taiwanese competitor	cmc magnetics	1
+terminal command line application	cmd.exe in windows	1
+THEMATIC module net-based technology	cmc	1
+top quality bit	cmt	1
+tow-dimensional detector	cmos	1
+traditional harmony symbol	cm	1
+traditional quality model	cmmi	1
+traditional seismic processing method	cmp stacking	1
+traditional style hall	cmw	1
+transcription promoter	cmv promoter	1
+transistor layer	cmos transistor	1
+transplant related characteristic	cmv status	1
+troy ounce size	cme group's gc	1
+true custom roms	cm seven 	1
+typical AGE	cml	2
+ubiquitous viral promoter	cmv	1
+unimodal convention	cmr	1
+unneeded executables	cmd.exe	1
+upcoming superstar	cm punk	1
+vellore housing institution	cmc hospital	1
+veteran superstar	cm punk	1
+tool	cmake	3
+tool	cmms	3
+tool	cmp	2
+tool	cmc	2
+tool	cmaptools software	1
+tool	cm synergy	1
+tool	cmms-based analysis tool	1
+tool	cms crime reporter	1
+tool	cms	1
+tool	cms tool	1
+tool	cms installing agent	1
+visualization sensor	cmos sensor	1
+voice recorder chip	cmos ids one thousand one hundred  produced by information storage devices 	1
+weak cation exchange resin	cm cellulose	1
+well-known maturity model	cmmi	1
+well-known software process improvement model	cmmi	1
+white channel	cmt network	1
+widespread use light sensor	cmos light sensor	2
+window shell	cmd.exe	1
+wireless network emulation tool	cmu emulator	1
+worthy children's charity's	cmn & jfmf	1
+writer module	cm one 	1
+XP store addition information	cmos datum	1
+XY address type imaging device	cmos imaging device	1
+xy-address scanning-type imaging element	cmos imaging element	1
+XY-address-scanning imaging apparatuses	cmos imaging apparatuses	1
+tool	cms blogs template	1
+tool	cmhc's mortgage payment calculator	1
+tool	cmap  one 	1
+factor	cmbs market	1
+product	cmc	6
+project	cmp at hnwr	1
+project	cmr golf club	1
+project	cme program	1
+project	cmac	1
+project	cmc national project	1
+project	cms	1
+project	cms project	1
+project	cmu sphinx speech recognition system	1
+project	cmmi	1
+project	cms dsw demonstration	1
+project	cmpc	1
+project	cms web site development	1
+material	cmu on wall	3
+material	cmu	2
+material	cmara glass	1
+player	cmc	2
+player	cmc markets	1
+player	cmr	1
+technology	cmos	14
+technology	cmc turbine blade	2
+technology	cmos technology	2
+technology	cmos  three -d chip architecture 	1
+technology	cmos sensor	1
+technology	cmyk color printing	1
+technology	cmos  nine sf 	1
+technology	cms joomla	1
+technology	cmms	1
+technology	cmos transistor	1
+technology	cmos process	1
+technology	cmip	1
+technology	cmts bypass	1
+parameter	cmro  two 	1
+parameter	cmr	1
+parameter	cmrr	1
+parameter	cmd	1
+system	cmake	7
+system	cmms	5
+system	cms open	1
+system	cm- five 	1
+system	cmed's timaeus	1
+system	cmu's processor capacity reserves	1
+system	cmbhs system	1
+system	cmc system	1
+system	cmax cm two  system 	1
+system	cme sanitary systems ecoplay greywater management system	1
+measure	cmsa population	1
+measure	cms quality measure	1
+condition	cmv	3
+condition	cmv mononucleosis syndrome	1
+element	cmos element	1
+element	cmos switch	1
+element	cmos transistor	1
+element	cms	1
+variable	cmp slurry stability	2
+product	cmh lamp	1
+product	cmm fixture	1
+product	cmos module related product	1
+product	cmp slurries used in the semiconductor industry	1
+product	cmu's	1
+product	cmr software	1
+product	cmm software	1
+product	cmmi	1
+product	cmbs	1
+product	cme e-mini stock index contract	1
+product	cme fx product	1
+variable	cm	1
+variable	cmv infection	1
+variable	cmv mismatch	1
+variable	cmv serology	1
+variable	cml	1
+function	cmonth	1
+device	cmos	4
+device	cmos device	3
+device	cmos component	2
+device	cmos chopper amplifier	2
+device	cmx- sixteen aon high temperature device 	1
+device	cmyk postscript device	1
+device	cmos sensor	1
+device	cmos type device	1
+device	cmc mpd	1
+device	cmos buffer	1
+brand	cma	1
+brand	cmi safes	1
+brand	cmoy	1
+brand	cmt & freud	1
+component	cmbs issue	1
+component	cmos transceiver	1
+site	cml earth created by novartis	1
+related product	cmos network camera related product	1
+related product	cmos lens related product	1
