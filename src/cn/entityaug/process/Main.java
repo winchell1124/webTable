@@ -24,22 +24,22 @@ public class Main {
 	static int count;
 	public static void main(String[] args)throws IOException
 	{
-		queryTable=ReadQueryTable.readQT("QueryData/query-book.xls", "sheet1");
-		datasource="WebTables_books";//网络表格存放地址
+		queryTable=ReadQueryTable.readQT("QueryData/query-book2.xls", "sheet1");
+		datasource="F:/project/Entity Augmentation data/WebTables_books";//网络表格存放地址
 		double thCov=0.7;
 //		String targetFolder="DataSet/Experiments/WebTables_books";
         String targetFolder="DataSet/Experiments/test";
 		//创建数据源，存储于targetFolder中
 
-//        long startTime=System.nanoTime();   //获取开始时间
+        long startTime=System.nanoTime();   //获取开始时间
 //        //与查询表对比，选取有相同实体的网络表写入targetFolder路径下,数据的预处理,很耗时
-//		CreateDataSource.getWebTables(queryTable, datasource, targetFolder);
-//        long endTime=System.nanoTime(); //获取结束时间
-//        System.out.println("程序运行时间： "+(endTime-startTime)+"ns");
+		CreateDataSource.getWebTables(queryTable, datasource, targetFolder);
+        long endTime=System.nanoTime(); //获取结束时间
+        System.out.println("程序运行时间： "+(endTime-startTime)+"ns");
 
 		//得到网络表与查询表的概念集及实体匹配度（各个表的概念集存于Books_Concept，匹配度存于query-table_Con.txt）
 		String topic="book";//查询表主题，便于查看，不用到计算中
-        //找出每个网络表实体的概念集
+        //找出每个网络表实体的概念集,与查询表匹配，匹配分数写入文件
 		GetTableCon.getTablesConcept(queryTable,targetFolder,topic);
 		//预处理
 		String excel="DataSet/Experiments/excel";//Excel数据写入的地址
@@ -112,6 +112,7 @@ public class Main {
     		return null;
     	else
     	{
+    		//
     		List<SeedTableSet> list=GetSeedTableSets.getCandidateTable(queryTable, sts, count,topic);
     		if(list.size()==0)
     			return null;

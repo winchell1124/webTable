@@ -132,7 +132,8 @@ public class TableToTableSim {
 //			}
 //			br.close();
 //			bw.close();
-			copyExcel(candidateTable.getAbpath(),end+"\\"+candidateTable.getId());
+			String path[] = candidateTable.getId().split("/");
+			copyExcel(candidateTable.getAbpath(),end+"/"+path[path.length-1]);
 			return 0.0;
 		}	
 //		System.out.println(seedAttributes);
@@ -289,7 +290,8 @@ public class TableToTableSim {
 		}
 		else
 		{
-			copyExcel(candidateTable.getAbpath(),end+"\\"+candidateTable.getId());
+			String path[] = candidateTable.getId().split("/");
+			copyExcel(candidateTable.getAbpath(),end+"/"+path[path.length-1]);
 		}
 		//System.out.println(score+" "+mapAttributes.size());
 		return score/mapAttributes.size();
@@ -542,7 +544,7 @@ public class TableToTableSim {
 		//System.out.println(candidateTable.getId()+"\r\n"+d+" "+d1);
 		return d1;
 	}
-	public static CandidateTable getPotential(BufferedWriter bw,double temp1, QueryTable qt,List<Cell> seedFillCell,TableBean candidateTable,String end,TableBean seedTable,FillCell seedFillCell1)throws IOException
+	public static CandidateTable  getPotential(BufferedWriter bw,double temp1, QueryTable qt,List<Cell> seedFillCell,TableBean candidateTable,String end,TableBean seedTable,FillCell seedFillCell1)throws IOException
 	{
 		CandidateTable ct=new CandidateTable();
 		double node=getNodePotential(qt,seedFillCell,candidateTable);

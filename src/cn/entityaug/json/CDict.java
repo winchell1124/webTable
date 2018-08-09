@@ -119,7 +119,7 @@ public class CDict {
 	 */
 	public String removeStopWord(String context){
 		
-		loadDict("stopword.txt", DICT_STOP_WORD);
+		loadDict("F:\\project\\Entity Augmentation\\DataSet\\stopwords.txt", DICT_STOP_WORD);
 		
 		String str=context.replaceAll("[\\pP\\p{Punct}]", ""); //去除标点符号
 		//str=str.toLowerCase(); //大写转为小写

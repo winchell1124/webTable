@@ -63,8 +63,9 @@ public class GetSeedTableSets {
         LinkedList<String> l1=new LinkedList<String>();
         List<Cell> setFillCells = seedSet.getSetFillCells();
         FillCell seedFillCells=seedTables.get(seedTables.size()-1).getFillcell();
-		for(int i=0;i<arrs.length;i++)
+ 		for(int i=0;i<arrs.length;i++)
 		{
+			//判断是否已经在种子集中
 			boolean flag=true;
 			for(int j=0;j<seedTables.size();j++)
 			{
@@ -80,11 +81,11 @@ public class GetSeedTableSets {
 			}
 			ExcelManage em=new ExcelManage();
 			TableBean table=em.readFromExcel(path+arrs[i],"sheet1");
-			File file2=new File(path+"TableToTableSim.txt");
+			File file2=new File(path1+"TableToTableSim.txt");
 			double temp=0.0;
 			if(file2.exists())
 			{
-				BufferedReader br=new BufferedReader(new FileReader(path+"TableToTableSim.txt"));
+				BufferedReader br=new BufferedReader(new FileReader(path1+"TableToTableSim.txt"));
 				String str=null;
 				while((str=br.readLine())!=null)
 				{

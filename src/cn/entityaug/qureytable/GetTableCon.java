@@ -50,10 +50,10 @@ public class GetTableCon {
 		if(!f.exists())
 		{
 			//运行很慢
-			//TODO
+			//获取概念集，存储到文件中
 			List<List<String>> seedCons=getTableCon(seedEntitys);
 			
-			BufferedWriter bw=new BufferedWriter(new FileWriter("DataSet/Experiments/"+topic+"_Concept/"+temp+".txt"));
+			BufferedWriter bw=new BufferedWriter(new FileWriter("DataSet\\Experiments\\"+topic+"_Concept\\"+temp+".txt"));
 			for(int i=0;i<seedCons.size();i++)
 			{
 				for(int j=0;j<seedCons.get(i).size();j++)
@@ -65,7 +65,7 @@ public class GetTableCon {
 			}
 			bw.close();
 		}
-		
+		//读文件中语义，存入list
 		List<List<String>> seedCons=new ArrayList<List<String>>();
 		BufferedReader br=new BufferedReader(new FileReader("DataSet/Experiments/"+topic+"_Concept/"+temp+".txt"));
 		String s=null;
@@ -80,6 +80,8 @@ public class GetTableCon {
 			seedCons.add(l);
 		}
 		br.close();
+		System.out.println("query table calculate complete");
+
 		double d=0.0;
 		String str1=candidate.getId();
 		if(str1.contains(".xls"))
@@ -87,6 +89,7 @@ public class GetTableCon {
 			str1=str1.replaceAll(".xls", "");
 		}
 		File file=new File("DataSet/Experiments/"+topic+"_Concept/"+str1+".txt");
+
 		if(!file.exists())
 		{
 			List<String> candidateEntitys=candidate.getEntity();
@@ -114,6 +117,7 @@ public class GetTableCon {
 					}
 				}
 			}
+            System.out.println("write the file : "+"DataSet/Experiments/"+topic+"_Concept/"+str1+".txt");
 			BufferedWriter bw=new BufferedWriter(new FileWriter("DataSet/Experiments/"+topic+"_Concept/"+str1+".txt"));
 			List<List<String>> temp_candCons=getTableCon(candidateEntitys);
 			for(int i=0;i<temp_candCons.size();i++)
@@ -174,7 +178,7 @@ public class GetTableCon {
 			try
 			{
 				TableBean candidate=ReadJson.ReadJsonFile(source+"/"+path[i]);
-			    //TODO 查询实体集概念，需调用probase
+			    //获得查询表和网络表实体语义，计算相似度
 				double d=getSim(qt,candidate,topic);
 			    map.put(path[i], d);
 			}
