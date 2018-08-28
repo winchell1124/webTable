@@ -26,16 +26,14 @@ public class Main {
 	{
 		queryTable=ReadQueryTable.readQT("QueryData/query-book2.xls", "sheet1");
 		datasource="F:/project/Entity Augmentation data/WebTables_books";//网络表格存放地址
-		double thCov=0.7;
+		double thCov=0.8;
 //		String targetFolder="DataSet/Experiments/WebTables_books";
         String targetFolder="DataSet/Experiments/test";
 		//创建数据源，存储于targetFolder中
 
         long startTime=System.nanoTime();   //获取开始时间
-//        //与查询表对比，选取有相同实体的网络表写入targetFolder路径下,数据的预处理,很耗时
+//        //与查询表对比，选取有相同实体的网络表写入targetFolder路径下,数据的预处理
 		CreateDataSource.getWebTables(queryTable, datasource, targetFolder);
-        long endTime=System.nanoTime(); //获取结束时间
-        System.out.println("程序运行时间： "+(endTime-startTime)+"ns");
 
 		//得到网络表与查询表的概念集及实体匹配度（各个表的概念集存于Books_Concept，匹配度存于query-table_Con.txt）
 		String topic="book";//查询表主题，便于查看，不用到计算中
@@ -79,7 +77,7 @@ public class Main {
 		List<SeedTableSet> result=getResultTables(topic,seedSet,thCov,number);
 		for(int i=0;i<result.size();i++)
 		{
-			
+
 			File file=new File("DataSet/Experiments/"+topic+"/results/"+i);
 			if(!file.exists())
 			{
@@ -98,10 +96,12 @@ public class Main {
 			bw.write("score: "+result.get(i).getScore());
 			bw.close();
 		}
+		long endTime=System.nanoTime(); //获取结束时间
+		System.out.println("程序运行时间： "+(endTime-startTime)/1000+"ms");
 	}
     public static List<SeedTableSet> getResultTables(String topic,SeedTableSet sts,double thCov,int number)throws IOException 
 	{
-    	System.out.println(sts.getCoverage());
+    	System.out.println("run getResultTables, cover rate is : "+sts.getCoverage());
     	if(sts.getCoverage()>=thCov)
     	{
     		List<SeedTableSet> result=new ArrayList<SeedTableSet>();

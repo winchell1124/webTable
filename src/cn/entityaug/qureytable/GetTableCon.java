@@ -26,6 +26,37 @@ import cn.entityaug.table.TableBean;
  * 对于实体entity,找到其概念
  */
 public class GetTableCon {
+
+	public static double getMatchSim(QueryTable queryTable, TableBean tableBean) {
+		double SIMITHRED = 0.8;
+		int entityCount = 0;
+		int attriCount = 0;
+		//计算实体匹配个数
+		for (String queryEntity : queryTable.getEntity()) {
+			String queryEntity2 = StringTransform.stringTransform(queryEntity);
+			for (String webEntity : tableBean.getEntity()) {
+				String webEntity2 = StringTransform.stringTransform(webEntity);
+				double sim = EditDistance.similarity(queryEntity2, webEntity2);
+				if (sim >= SIMITHRED) {
+					entityCount++;
+				}
+			}
+		}
+		//计算属性名匹配个数
+		for (String queryEntity : queryTable.getAttributes()) {
+			String queryEntity2 = StringTransform.stringTransform(queryEntity);
+			for (String webEntity : tableBean.getAttrubutes()) {
+				String webEntity2 = StringTransform.stringTransform(webEntity);
+				double sim = EditDistance.similarity(queryEntity2, webEntity2);
+				if (sim >= SIMITHRED) {
+					attriCount++;
+				}
+			}
+		}
+//		System.out.println("entityCount is: "+entityCount+"   attriCount is: "+attriCount);
+		return entityCount * attriCount;
+	}
+
 	public static double getSim(Object o,TableBean candidate,String topic)throws FileNotFoundException, IOException
 	{
 		String temp=null;
@@ -52,7 +83,7 @@ public class GetTableCon {
 			//运行很慢
 			//获取概念集，存储到文件中
 			List<List<String>> seedCons=getTableCon(seedEntitys);
-			
+
 			BufferedWriter bw=new BufferedWriter(new FileWriter("DataSet\\Experiments\\"+topic+"_Concept\\"+temp+".txt"));
 			for(int i=0;i<seedCons.size();i++)
 			{
@@ -179,7 +210,8 @@ public class GetTableCon {
 			{
 				TableBean candidate=ReadJson.ReadJsonFile(source+"/"+path[i]);
 			    //获得查询表和网络表实体语义，计算相似度
-				double d=getSim(qt,candidate,topic);
+//				double d=getSim(qt,candidate,topic);
+				double d = getMatchSim(qt,candidate);
 			    map.put(path[i], d);
 			}
 			catch(StringIndexOutOfBoundsException sbe)

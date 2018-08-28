@@ -77,8 +77,8 @@ public class TableToTableSim {
 		Map<Integer,Integer> mapEntitys=new HashMap<Integer,Integer>();
 		List<Integer> seedFoundSim=new ArrayList<Integer>();
 		List<Integer> candFoundSim=new ArrayList<Integer>();
-//		System.out.println(seedSchema);
-//		System.out.println(seedAttributes);
+
+		//format实体名的内容
 		for(int l=0;l<seedEntity.size();l++)
 		{
 			String string1=seedSchema.get(seedkeyColumn);
@@ -95,6 +95,7 @@ public class TableToTableSim {
 				candidateEntity.set(l, candidateEntity.get(l).replace(string1, "").replaceAll("\\(.*?\\)", ""));
 			}
 		}
+
 		double SIMITHRED=0.8;
 		for (int i = 0; i < seedEntity.size(); i++) {
 			double max = 0.0;
@@ -165,24 +166,25 @@ public class TableToTableSim {
 		Set<String> seedKeySet=mapAttributes.keySet();
 		Iterator<String> seedIt=seedKeySet.iterator();
 		double score=0.0;
-		while(seedIt.hasNext())
+		while(seedIt.hasNext())//找到两个属性名相同的列
 		{
-			String string=(String)seedIt.next();
-			String string1=mapAttributes.get(string);
+			String string=(String)seedIt.next();  //seed表属性名
+			String string1=mapAttributes.get(string);  //cand表相匹配的属性名
 			int temp=-1,temp1=-1;
 			for(int i=0;i<seedSchema.size();i++)
 			{
-				if(seedSchema.get(i).equals(string))
+				if(seedSchema.get(i).equals(string))  //seed表中找到该属性id
 				{
 					temp=i;
 					seedFoundSim.add(temp);
 					break;
 				}
 			}
+			//从种子表中取一列，再从要查询的表中取相同列名的列
 			List<String> seedColumn=seedColumnContent.get(temp);
 			for(int i=0;i<candidateSchema.size();i++)
 			{
-				if(candidateSchema.get(i).equals(string1))
+				if(candidateSchema.get(i).equals(string1))  //cand表中取出匹配列的值
 				{
 					temp1=i;
 					candFoundSim.add(temp1);
@@ -197,8 +199,8 @@ public class TableToTableSim {
 					candidateColumn.set(l, string1.replace(string1, ""));
 				}
 			}
-			if(getScore(string1,seedColumn,candidateColumn,mapEntitys)>0.6)
-				{score++;}
+			if(getScore(string1,seedColumn,candidateColumn,mapEntitys)>0.6)  //相同实体时属性值匹配度
+				{score++;}   //两列为映射列
 		}
 		//System.out.println(score);
 		/*
@@ -210,7 +212,7 @@ public class TableToTableSim {
 		List<String> seedAttri=seedFillCell.getAttributes();
 		List<List<String>> seedAttriList=new ArrayList<List<String>>();
 		List<List<String>> candAttriList=new ArrayList<List<String>>();
-		for(int i=0;i<seedAttri.size();i++)
+		for(int i=0;i<seedAttri.size();i++)  //已填充的空格
 		{
 			String attri=seedAttri.get(i);
 			int address=getAttriData(seedTable,attri);
@@ -509,6 +511,7 @@ public class TableToTableSim {
 				}
 			}
 		}
+		//TODO 计算两次count?
 		for(int i=0;i<queryCells.size();i++)
 		{
 			for(int j=0;j<candCells.size();j++)

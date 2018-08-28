@@ -146,7 +146,7 @@ public class ExcelManage {
 	 *            文件路径
 	 * @param sheetName
 	 *            表格索引
-	 * @param object
+	 * @param
 	 */
 	public void writeToExcel(String fileDir, String sheetName, List<String> rowContent,int keyColumn) {
 		// 创建workbook
@@ -241,7 +241,7 @@ public class ExcelManage {
 		}
 		keyColumnIndex=0;
 		abpath=fileDir;
-		String[] arrs=fileDir.split("\\\\");
+		String[] arrs=fileDir.split("/");
 		id=arrs[arrs.length-1];
 		// 获取表头的列数
 		int columnCount = sheet.getRow(0).getLastCellNum();

@@ -142,6 +142,8 @@ public class GetFirstCandidateTable {
             sum2 += attributeSimScore.get(i);
         }
         double similarity = sum1 * sum2;
+
+        //语义相似度
         double score0 = 0.0;
         Map<String, Double> con = new HashMap<String, Double>();
         BufferedReader br1 = new BufferedReader(new FileReader("DataSet/Experiments/query-table_Con.txt"));

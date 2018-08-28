@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/cn/entityaug/data/ColumnType.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/data/StringTransform.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/entityaug/data/StringTypeValidation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/entityaug/data/TableToTableSim.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/excel/CreateAugTable.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/excel/ExcelManage.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/json/CDict.java" charset="GBK" />
@@ -9,6 +12,7 @@
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/json/ReadJson.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/process/Main.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/qureytable/GetTableCon.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/entityaug/qureytable/Probase.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/sort/HashMapSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/sort/ListSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/entityaug/table/TableBean.java" charset="GBK" />
